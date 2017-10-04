@@ -1,6 +1,6 @@
 #rm out.txt
 wget http://localhost/out.txt
-mv out.txt ../index.html
+mv out.txt index.html
 
 wget -O feed.xml "http://localhost/tt-rss/public.php?op=rss&id=-1&key=vyn7su59c7b50850ac3"
 
@@ -25,6 +25,8 @@ sed -i 's/<\/table>/<\/tbody><\/table>/g' index.html
 sed -i 's/td align/td nowrap align/g' index.html
 
 sed -i 's_^\([^>]\+right">\)\([[:digit:]]\+\)_\1<a href="archive/\2-l.svgz">svgz</a>_' index.html
+
+mv index.html ../index.html
 
 exit
 
