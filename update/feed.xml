@@ -1,0 +1,1404 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="atom-to-html.xsl"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Starred articles</title>
+<generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
+<updated>2017-05-03T17:57:00+00:00</updated>
+<id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
+<link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
+
+<link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-09-29:/433965</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-09/c-gwf092917.php" rel="alternate" type="text/html"/>
+	<title type="html">Gravitational waves: First joint LIGO-Virgo detection</title>
+	<summary type="html"><![CDATA[<p>(CNRS) Scientists in the LIGO and Virgo collaborations, including teams from the CNRS, have achieved...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>CNRS</i>) Scientists in the LIGO and Virgo collaborations, including teams from the CNRS, have achieved the first ever three-detector observation of the gravitational waves emitted by the merger of two black holes. This is the first signal detected by the Advanced Virgo instrument and confirms that it is fully operational. It opens the way to considerably more accurate localization of the sources of gravitational waves.</p>]]></content>
+	<updated>2017-09-29T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-09-29T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/434727</id>
+	<link href="http://www.skyandtelescope.com/astronomy-news/2017-nobel-goes-gravitational-waves/" rel="alternate" type="text/html"/>
+	<title type="html">2017 Nobel Goes to Gravitational Waves</title>
+	<summary type="html"><![CDATA[<p>Three American physicists have received the Nobel Prize in physics for their contributions to the di...</p>]]></summary>
+	<content type="html"><![CDATA[<p><em><strong><span>Three American physicists have received the Nobel Prize in physics for their contributions to the discovery of gravitational waves.</span></strong></em></p>
+<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Nobel-barish-thorne-weiss_LIGO-300x143.jpg" alt="Nobel 2017 to Gravitational Waves" width="350" height="167" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Nobel-barish-thorne-weiss_LIGO-300x143.jpg 300w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/Nobel-barish-thorne-weiss_LIGO-768x367.jpg 768w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/Nobel-barish-thorne-weiss_LIGO-630x301.jpg 630w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/Nobel-barish-thorne-weiss_LIGO.jpg 780w" sizes="(max-width: 350px) 100vw, 350px"><p>Ranier Weiss (MIT), Kip S. Thorne (Caltech), and Barry C. Barish (Caltech) have been chosen by the Royal Swedish Academy of Sciences for the award thanks to their decisive contributions in the development of the Laser Interferometer Gravitational-Wave Observatory (LIGO) and their observations of gravitational waves.<br> <em>LIGO</em></p></div>
+<p>This could have been an exciting day for Albert Einstein &mdash; were he alive, of course. The Nobel Prize in physics for 2017 has been awarded to three researchers for their work helping to prove a prediction he made more than 100 years ago, based on his general theory of relativity: the existence of gravitational waves.</p>
+<p>Ranier Weiss (MIT), Kip S. Thorne (Caltech), and Barry C. Barish (Caltech) have been chosen by the Royal Swedish Academy of Sciences for the award thanks to their decisive contributions in the development of the Laser Interferometer Gravitational-Wave Observatory (LIGO) and their observations of gravitational waves.</p>
+<p>LIGO consists of two L-shaped laser interferometers, each four kilometers in length, located on opposite sides of the United States. When a gravitational wave &mdash; a ripple in spacetime produced by an accelerating mass &mdash; reaches the instrument, the wobble it creates in the dimensions of spacetime itself produces minuscule variations (on the order of 10<sup>-18</sup> meter, or a million trillionth of a meter) in the length of the interferometer. LIGO measures these tiny stretches and squeezes with its extremely sensitive instruments.</p>
+<p>The prize has been awarded to Weiss, Thorne, and Barish, but it&rsquo;s an acknowledgement of the efforts of roughly 1,000 participants of a project that has been almost 50 years in the works, since Weiss first came up with the idea of an interferometer for detecting gravitational waves. After developing a prototype at MIT in the early 1970s, Weiss teamed up in 1976 with Caltech physicist Kip Thorne, who was instrumental in developing physicists&rsquo; understanding of gravitational waves.</p>
+<p>In 1979 they started working with Scottish experimentalist Ronald Drever (1931&ndash;2017) and together founded the LIGO project. Drever, who added key improvements to Weiss&rsquo;s detector design, might have been the third recipient of this Nobel, if not for his death this year. Barish came onboard as principal investigator after the project started, becoming science director in 1997. He oversaw critical stages of LIGO&rsquo;s construction and contributed to securing funding for the project.</p>
+<p><strong>The Revolution of Gravitational Waves</strong></p>
+<p>LIGO&rsquo;s first detection of gravitational waves happened in <a href="http://www.skyandtelescope.com/astronomy-news/gravitational-wave-detection-heralds-new-era-of-science-0211201644/http:/www.skyandtelescope.com/astronomy-news/gravitational-wave-detection-heralds-new-era-of-science-0211201644/" rel="noopener noreferrer" target="_blank">September&nbsp;2015</a>, after years of tuning and refining the instrument. Three more detections came afterwards, the last one announced just a few days ago <a href="http://www.skyandtelescope.com/astronomy-news/fourth-gravitational-wave-event-detected/" rel="noopener noreferrer" target="_blank">on September 27</a>th. The latest discovery included observations from the Advanced Virgo detector of the European Gravitational Observatory near Pisa, Italy, which enabled researchers to pinpoint the location of the waves&rsquo; source in the sky with much better precision than previously possible.</p>
+<p>All four detections so far appear to come from the merger of stellar-mass black holes, objects with the mass of dozens of Suns contained within a couple hundred kilometers, which is less than the distance between Boston and New York. These objects do not emit any kind of electromagnetic radiation. Before LIGO, astrophysicists didn&rsquo;t know that black holes existed at these masses, or even that they could come in pairs, Weiss said in a press conference a few hours after the award announcement. Weiss also said that many (including him) thought that LIGO would detect neutron stars first, mostly because astronomers already knew they existed in binaries&mdash;which made them a better justification to get funding, he joked.</p>
+<p>Although LIGO has not yet announced any detection of neutron star mergers, Weiss hinted an announcement may be coming on October 16th (so brace yourselves for more gravitational wave hubbub very soon).</p>
+<p>Gravitational waves open an entirely unexplored route for scientists, like developing an entirely new sense to feel their way around. &ldquo;With these instruments we have opened a new field of astronomy and astrophysics, so the real payoff will be in the future,&rdquo; Weiss said. &ldquo;This [gravitational-wave] radiation is caused by accelerating mases and is so penetrating that nothing perturbs its travel to Earth at all, so it will allow us to see new things and look to what we already know in a new way.&rdquo;</p>
+<p>Scientists hope that gravitational waves will bring new insights to many longstanding questions in astrophysics and cosmology. Questions such as how stiff matter is at its most extreme pressures to how heavy elements are made, how black holes and pulsars rotate over long periods of time &mdash; and not only when they smash &mdash;and even studying the imprint of the <a href="http://www.skyandtelescope.com/astronomy-news/cosmic-inflation-b-modes-signal-just-dust-0203201523/" rel="noopener noreferrer" target="_blank">inflationary epoch of the universe</a></p>
+<p>The field of gravitational astronomy is just starting, and we are posed to see very exciting developments in the near future. New ground and space-based instruments are already planned and under construction. The <a href="http://www.skyandtelescope.com/astronomy-blogs/kagra-japans-underground-einstein-wave-detector/" target="_blank" rel="noopener noreferrer">Kamioka Gravitational-Wave Detector</a> is being built in Japan, and it will use extremely cold temperatures to reach high levels of sensitivity. In India, <a href="http://www.gw-indigo.org/tiki-index.php" target="_blank" rel="noopener noreferrer">another interferometer</a> will join the LIGO and Virgo collaboration, implementing a spare instrument built by the LIGO team. Finally, the first space-based gravitational wave detector, <a href="https://lisa.nasa.gov/" target="_blank" rel="noopener noreferrer">LISA</a>, is scheduled to launch in 2030 by the European Space Agency and NASA.</p>
+<p>The future looks bright for gravitational astronomy.</p>
+<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-news/2017-nobel-goes-gravitational-waves/" target="_blank">2017 Nobel Goes to Gravitational Waves</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
+	<updated>2017-10-03T22:05:45+00:00</updated>
+	<author><name>Javier Barbuzano</name></author>
+	<source>
+		<id>http://www.skyandtelescope.com</id>
+		<link rel="self" href="http://www.skyandtelescope.com"/>
+		<updated>2017-10-03T22:05:45+00:00</updated>
+		<title>Sky &amp; Telescope</title></source>
+
+	<category term="astronomy news"/>
+
+	<category term="black holes"/>
+
+	<category term="cosmology"/>
+
+	<category term="people places and events"/>
+
+	<category term="black hole"/>
+
+	<category term="gravitational waves"/>
+
+	<category term="ligo"/>
+
+	<category term="people"/>
+
+	<category term="places"/>
+
+	<category term="and events"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/434884</id>
+	<link href="http://www.skyandtelescope.com/astronomy-news/sputnik-1-60-years-of-spaceflight/" rel="alternate" type="text/html"/>
+	<title type="html">Sputnik 1: Celebrating 60 Years of Spaceflight</title>
+	<summary type="html"><![CDATA[<p>The launch of Sputnik 1, Earth's first artificial satellite, paved the way for Moonwalking astronaut...</p>]]></summary>
+	<content type="html"><![CDATA[<p><span><b><i>The launch of Sputnik 1, Earth's first artificial satellite, paved the way for Moonwalking astronauts, robotic exploration of the planets, and space tourism.</i></b></span></p>
+<div>
+	<img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Sputnik1_f.jpg" alt="Sputnik 1">
+	<div>Soviet technician working on Sputnik 1 prior to its launch on October 4, 1957.</div>
+	<div><i>&copy; Sovfoto</i></div>
+</div>
+<p>Sixty years after it officially began on October 4, 1957, we still often refer to the era we live in as the Space Age. Our extraterrestrial explorations have planted a set of mileposts in our memories &mdash; from those first brief forays into weightlessness to permanently occupied space stations, from spindly probes snapping a few pictures while whizzing past a distant planet to rovers probing every nook and cranny and telescopes peering into the deepest vastness. It&rsquo;s no surprise that venturing beyond our home planet is considered by many to be the defining achievement of our era, a symbolic pinnacle of human civilization.</p>
+<p>But for the United States, at least, the Space Age began not with glory but with worldwide humiliation.</p>
+<p>In mid-1955 President Dwight Eisenhower declared that the nation would place a scientific satellite into orbit during the upcoming International Geophysical Year, a worldwide 18-month stretch of cooperative research. The IGY kicked off with much fanfare on July 1, 1957, with the U.S. envisioning a satellite launch later that year. But before the planned Vanguard satellite ever met its rocket, on October 4th a persistent beeping from orbit revealed that the Soviet Union had orbited the world&rsquo;s first satellite, Sputnik 1, and in doing so had won the first leg of what would become a race to space.</p>
+<p>Sputnik wasn&rsquo;t much of a satellite, but it was a beefy 184-pound beach ball compared to Vanguard&rsquo;s 3-pound grapefruit. Amateur skygazers, <a href="http://www.skyandtelescope.com/skytel/beyondthepage/9313906.html" target="_blank" rel="noopener noreferrer">mobilized worldwide</a> to track the first satellites, watched it pass overhead through their telescopes. And its simple beeping signal, powerful enough to be picked up by amateur radio operators around the world, left no doubt that the achievement was real.</p>
+<p>Just a month later, on November 3rd, the USSR awed the world again by launching the first space traveler, a small mongrel dog named Laika, aboard Sputnik 2.</p>
+<div>
+	<img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Explorer1_and_3guys_m.jpg" alt="Explorer 1 celebration">
+	<div>Holding aloft a model of Explorer 1 at a post-launch press conference in 1958 are (from left): William H. Pickering of the Jet Propulsion Laboratory; James A. Van Allen, whose instrument discovered radiation belts encircling Earth; and Wernher von Braun, leader of the US Army team that built the Juno launch rocket.</div>
+	<div><i>NASA</i></div>
+</div>
+<p>The US effort swung into overdrive. After a spectacular Vanguard launch failure, televised live that December, Washington officials gave the nod to a parallel satellite program headed by Wernher von Braun, and Explorer 1 rocketed into orbit successfully on January 31, 1958. It was followed on March 17th by Vanguard 1 &mdash; which, as just the fourth satellite ever launched from Earth, remains in orbit today. Later that year, Congress created a new agency, the National Aeronautics and Space Administration (NASA), to lead the fledgling U.S. space effort.</p>
+<p>Today we take so much of what followed Sputnik 1 into space for granted. We think little of the fact that a phone call from here to the next town might bounce off a satellite 22,400 miles overhead, that a few keystrokes can instantly summon an online satellite view of anywhere on Earth, that space has become the ultimate platform for observing our universe, or that we can send little remote-controlled vehicles to probe odd-looking rocks on a planet 100 million miles away.</p>
+<p>And nowadays even the promise of inexpensive, routine flights into space is back again, but in a new guise: an armada of entrepreneurs who think that the open market can deliver what decades of government bureaucracy could not. Eager customers have already snapped up $200,000 tickets for half-hour flights to the fringes of space, while space hotels and even privately-funded Moon bases are taking shape on computerized drawing boards.</p>
+<div>
+	<img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Apollo-footprint_m.jpg" alt="Apollo 11 footprint">
+	<div>The touchdown of Apollo 11 on the Moon on July 20, 1969, is still considered by many to have been the pinnacle of human achievement in space to date.</div>
+	<div><i>NASA</i></div>
+</div>
+<p>The first 60 years of space exploration was just the bumpy beginning of what might be an endless, gradual expansion &mdash; just our first walks around the block after leaving the cradle of Earth. The decades ahead will no doubt bring us face to face with marvels we can&rsquo;t yet imagine, as we explore our near and distant environs more deeply.</p>
+<p>But there will always remain something special in our collective human memory about the first halting steps made into the cosmos that surrounds us. Even the language we use, in dozens of words and phrases, now draw from the A-OK&rsquo;s, the nominals, and the major malfunctions of the space program.</p>
+<p>As we strive to understand the universe we live in, all systems are go, and the countdown has just begun.</p>
+
+<p><i>This essay is adapted from the introduction to </i>Space: 50 Years and Counting,<i> published in 2007 by the editors of </i>Sky &amp; Telescope.</p>
+<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-news/sputnik-1-60-years-of-spaceflight/" target="_blank">Sputnik 1: Celebrating 60 Years of Spaceflight</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
+	<updated>2017-10-04T06:10:00+00:00</updated>
+	<author><name>David L. Chandler</name></author>
+	<source>
+		<id>http://www.skyandtelescope.com</id>
+		<link rel="self" href="http://www.skyandtelescope.com"/>
+		<updated>2017-10-04T06:10:00+00:00</updated>
+		<title>Sky &amp; Telescope</title></source>
+
+	<category term="astronomy news"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/435115</id>
+	<link href="https://phys.org/news/2017-10-alphabet-deepmind-ethics-artificial-intelligence.html" rel="alternate" type="text/html"/>
+	<title type="html">Alphabet's DeepMind forms ethics unit for artificial intelligence</title>
+	<summary type="html"><![CDATA[<p>DeepMind, the Google sibling focusing on artificial intelligence, has announced the launch of an "et...</p>]]></summary>
+	<content type="html"><![CDATA[<p>DeepMind, the Google sibling focusing on artificial intelligence, has announced the launch of an "ethics and society" unit to study the impact of new technologies on society.</p>]]></content>
+	<updated>2017-10-04T15:05:20+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-04T15:05:20+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="computer sciences"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/deepmindisse.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-29:/433850</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-09/caos-cbw092717.php" rel="alternate" type="text/html"/>
+	<title type="html">China builds world's first space-ground integrated quantum communication network</title>
+	<summary type="html"><![CDATA[<p>(Chinese Academy of Sciences Headquarters) The first unbreakable intercontinental message was sent t...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Chinese Academy of Sciences Headquarters</i>) The first unbreakable intercontinental message was sent through a space-based quantum communication network to President BAI Chunli of the Chinese Academy of Sciences (CAS) in Beijing from President Anton Zeilinger of the Austrian Academy of Sciences in Vienna on Sept. 29, enabling Chinese scientists the first to realize space-ground quantum key distribution (QKD).</p>]]></content>
+	<updated>2017-09-29T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-09-29T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-30:/434088</id>
+	<link href="https://phys.org/news/2017-09-open-access-large-collider-subatomic-particle.html" rel="alternate" type="text/html"/>
+	<title type="html">First open-access data from large collider confirm subatomic particle patterns</title>
+	<summary type="html"><![CDATA[<p>In November of 2014, in a first, unexpected move for the field of particle physics, the Compact Muon...</p>]]></summary>
+	<content type="html"><![CDATA[<p>In November of 2014, in a first, unexpected move for the field of particle physics, the Compact Muon Solenoid (CMS) experiment&mdash;one of the main detectors in the world's largest particle accelerator, the Large Hadron Collider&mdash;released to the public an immense amount of data, through a website called the CERN Open Data Portal.</p>]]></content>
+	<updated>2017-09-30T10:16:04+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-09-30T10:16:04+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="general physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/firstopenacc.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-29:/433734</id>
+	<link href="https://www.newscientist.com/article/2149003-elon-musks-new-plans-for-a-moon-base-and-a-mars-mission-by-2022/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=space&amp;campaign_id=RSS%7CNSNS-space" rel="alternate" type="text/html"/>
+	<title type="html">Elon Musk’s new plans for a moon base and a Mars mission by 2022</title>
+	<summary type="html"><![CDATA[<p>SpaceX aims to launch spaceships to Mars within five years with a new rocket design that could also ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>SpaceX aims to launch spaceships to Mars within five years with a new rocket design that could also be used on Earth to make rapid around-the-globe trips</p>]]></content>
+	<updated>2017-09-29T07:15:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.newscientist.com</id>
+		<link rel="self" href="https://www.newscientist.com"/>
+		<updated>2017-09-29T07:15:00+00:00</updated>
+		<title>New Scientist - Space</title></source>
+
+	<category term="elon musk"/>
+
+	<category term="mars"/>
+
+	<category term="moon"/>
+
+	<category term="space flight"/>
+
+	<category term="spacex"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-26:/432817</id>
+	<link href="https://www.sciencedaily.com/releases/2017/09/170926112012.htm" rel="alternate" type="text/html"/>
+	<title type="html">Biochemists discover mechanism that helps flu viruses evolve</title>
+	<summary type="html"><![CDATA[<p>Flu viruses' rapid evolution relies in part on hijacking some of the cellular machinery of the infec...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Flu viruses' rapid evolution relies in part on hijacking some of the cellular machinery of the infected host cell -- a group of proteins called chaperones, which help other proteins fold into the correct shape. When viruses are unable to get help from these proteins, they do not evolve as rapidly, research shows.</p>]]></content>
+	<updated>2017-09-26T15:20:12+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-09-26T15:20:12+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/435030</id>
+	<link href="https://phys.org/news/2017-10-okinawan-pit-viper-genome-reveals.html" rel="alternate" type="text/html"/>
+	<title type="html">Okinawan pit viper genome reveals evolution of snake venom</title>
+	<summary type="html"><![CDATA[<p>A bite from a pit viper, locally known as habu, can cause permanent disability and even death. Yet, ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A bite from a pit viper, locally known as habu, can cause permanent disability and even death. Yet, much about its venom remains an enigma. Highly variable in composition, even between littermates, this toxic cocktail keeps changing over generations.</p>]]></content>
+	<updated>2017-10-04T12:30:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-04T12:30:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="evolution"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/okinawanpitv.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-27:/433262</id>
+	<link href="https://www.sciencedaily.com/releases/2017/09/170926162303.htm" rel="alternate" type="text/html"/>
+	<title type="html">Gene circuit design strategy to advance synthetic biology</title>
+	<summary type="html"><![CDATA[<p>Scientists and engineers have developed synthetic gene circuits that program the functionality, perf...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Scientists and engineers have developed synthetic gene circuits that program the functionality, performance, and behavior of living cells. These gene circuits hold great promise in medical and biotechnological applications, but to date, most circuits are constructed through a manner, which relies on a designer's intuition and is often inefficient.</p>]]></content>
+	<updated>2017-09-26T20:23:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-09-26T20:23:03+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-04-06:/381088</id>
+	<link href="https://opensource.com/article/17/4/introduction-domain-name-system-dns" rel="alternate" type="text/html"/>
+	<title type="html">Introduction to the Domain Name System (DNS)</title>
+	<summary type="html"><![CDATA[<p>Surfing the web is fun and easy, but think what it would be like if you had to type in the IP addres...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/cloud-globe.png" width="520" height="292" alt="Introduction to the Domain Name System (DNS)" title="Introduction to the Domain Name System (DNS)"><p>Surfing the web is fun and easy, but think what it would be like if you had to type in the IP address of every website you wanted to view. For example, locating a website would look like this when you type it in: https://54.204.39.132, which would be nearly impossible for most of us to remember. Of course, using bookmarks would help, but suppose your friend tells you about a cool new website and tells you to go to 54.204.39.132. How would you remember that? Telling someone to go to "Opensource.com" is far easier to remember. And, yes, that is our IP address.</p>
+<br>
+<a href="https://opensource.com/article/17/4/introduction-domain-name-system-dns" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-04-06T07:02:00+00:00</updated>
+	<author><name>dboth</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-04-06T07:02:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-26:/432538</id>
+	<link href="http://physicsworld.com/cws/article/news/2017/sep/25/physicists-create-and-measure-quantized-mechanical-oscillations" rel="alternate" type="text/html"/>
+	<title type="html">Physicists create and measure quantized mechanical oscillations</title>
+	<summary type="html"><![CDATA[<p>Techniques could lead to better quantum-information networks</p>]]></summary>
+	<content type="html"><![CDATA[<p>Techniques could lead to better quantum-information networks<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/z1p1Z583CiU" height="1" width="1" alt=""></p>]]></content>
+	<updated>2017-09-25T15:07:16+00:00</updated>
+	<author><name>Tim Wogan</name></author>
+	<source>
+		<id>http://physicsworld.com/</id>
+		<link rel="self" href="http://physicsworld.com/"/>
+		<updated>2017-09-25T15:07:16+00:00</updated>
+		<title>physicsworld.com: all content</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-28:/336487</id>
+	<link href="http://phys.org/news/2016-10-eyes-limbs-transition.html" rel="alternate" type="text/html"/>
+	<title type="html">Eyes came before limbs in the transition to land</title>
+	<summary type="html"><![CDATA[<p>The transition to land from our fishy ancestors is one of the most iconic, and best documented, tran...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The transition to land from our fishy ancestors is one of the most iconic, and best documented, transitions in the fossil record. We know that fleshy-limbed fish living in shallows used their limbs to move in the shallows and then up onto land, and became tetrapods (4-legged vertebrates) along the way. What has been less well-studied is the transition to vision in air that also occurred during that evolutionary event. Vision in air is different, and in some ways easier, than seeing in water. According to a new study by Malcolm MacIver of Northwestern University and Lars Schmitz of the Claremont Colleges, early tetrapod ancestors may have been seeing like land-based animals before they were moving like them.</p>]]></content>
+	<updated>2016-10-28T22:16:26+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-10-28T22:16:26+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="archaeology &amp; fossils"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-27:/335950</id>
+	<link href="http://phys.org/news/2016-10-fossilized-dinosaur-brain-tissue.html" rel="alternate" type="text/html"/>
+	<title type="html">Fossilized dinosaur brain tissue identified for the first time</title>
+	<summary type="html"><![CDATA[<p>An unassuming brown pebble, found more than a decade ago by a fossil hunter in Sussex, has been conf...</p>]]></summary>
+	<content type="html"><![CDATA[<p>An unassuming brown pebble, found more than a decade ago by a fossil hunter in Sussex, has been confirmed as the first example of fossilised brain tissue from a dinosaur.</p>]]></content>
+	<updated>2016-10-27T17:00:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-10-27T17:00:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="archaeology &amp; fossils"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/fossilizeddi.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-12:/331634</id>
+	<link href="https://www.eurekalert.org/pub_releases/2016-10/agi-ehm101216.php" rel="alternate" type="text/html"/>
+	<title type="html">EARTH: Humans, megafauna coexisted in Patagonia before extinction</title>
+	<summary type="html"><![CDATA[<p>(American Geosciences Institute) As we celebrate National Fossil Day, EARTH Magazine brings you a st...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>American Geosciences Institute</i>) As we celebrate National Fossil Day, EARTH Magazine brings you a story set in Pleistocene South America, and was home to large megafauna species like giant sloths and saber-toothed cats. At some point as the climate warmed and human settlers began hunting, the megafauna living in Patagonia and Tierra del Fuego went extinct.</p>]]></content>
+	<updated>2016-10-12T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2016-10-12T04:00:00+00:00</updated>
+		<title>EurekAlert! - Archaeology</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-07:/330365</id>
+	<link href="https://www.eurekalert.org/pub_releases/2016-10/acs-ti100716.php" rel="alternate" type="text/html"/>
+	<title type="html">Toward 'greener,' inexpensive solar cells</title>
+	<summary type="html"><![CDATA[<p>(American Chemical Society) Solar panels are proliferating across the globe to help reduce the world...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>American Chemical Society</i>) Solar panels are proliferating across the globe to help reduce the world's dependency on fossil fuels. But conventional panels are not without environmental costs, too. Now scientists are reporting in the Journal of the American Chemical Society a new advance toward more practical, 'greener' solar cells made with inexpensive halide perovskite materials. They have developed low-bandgap perovskite solar cells with a reduced lead content and a power conversion efficiency of 15 percent.</p>]]></content>
+	<updated>2016-10-07T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2016-10-07T04:00:00+00:00</updated>
+		<title>EurekAlert! - Earth Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-05:/329508</id>
+	<link href="http://phys.org/news/2016-10-advances-solar-cell-technology.html" rel="alternate" type="text/html"/>
+	<title type="html">New advances in solar cell technology</title>
+	<summary type="html"><![CDATA[<p>With the high environmental cost of conventional energy sources and the finite supply of fossil fuel...</p>]]></summary>
+	<content type="html"><![CDATA[<p>With the high environmental cost of conventional energy sources and the finite supply of fossil fuels, the importance of renewable energy sources has become much more apparent in recent years. However, efficiently harnessing solar energy for human use has been a difficult task. While silicon-based solar cells can be used to capture sunlight energy, they are costly to produce on an industrial scale. Research from the Energy Materials and Surface Sciences Unit at the Okinawa Institute of Science and Technology Graduate University (OIST), led by Prof. Yabing Qi, has focused on using organo-metal halide perovskite films in solar cells. These perovskite films are highly crystalline materials that can be formed by a large number of different chemical combinations and can be deposited at low cost. Recent publications from Prof. Qi's lab cover three different areas of innovation in perovskite film research: a novel post annealing treatment to increase perovskite efficiency and stability, a discovery of the decomposition products of a specific perovskite, and a new means of producing perovskites that maintains solar efficiency when scaled up.</p>]]></content>
+	<updated>2016-10-05T15:42:05+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-10-05T15:42:05+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="energy &amp; green tech"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/newadvancesi.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-05:/329451</id>
+	<link href="http://www.renewableenergyworld.com/articles/2016/10/examining-the-technological-overlap-between-oil-gas-and-geothermal.html" rel="alternate" type="text/html"/>
+	<title type="html">Examining the Technological Overlap Between Oil, Gas and Geothermal</title>
+	<summary type="html"><![CDATA[<p>The intersection of the oil and gas and geothermal industries is one that is rich in unexpected ways...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The intersection of the oil and gas and geothermal industries is one that is rich in unexpected ways, be it in drilling technologies or the new frontier of co-production of both fossil fuels and geothermal power from the same well.</p><img src="http://feeds.feedburner.com/~r/RenewableEnergyNewsRssFeed/~4/JHncMuITdDM" height="1" width="1" alt="">]]></content>
+	<updated>2016-10-05T13:01:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.renewableenergyworld.com</id>
+		<link rel="self" href="http://www.renewableenergyworld.com"/>
+		<updated>2016-10-05T13:01:00+00:00</updated>
+		<title>Renewable Energy News RSS Feed</title></source>
+
+	<category term="geothermal"/>
+
+	<category term="opinion &amp; commentary"/>
+
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="http://www.renewableenergyworld.com/content/rew/en/articles/2016/10/examining-the-technological-overlap-between-oil-gas-and-geothermal/_jcr_content/leftcolumn/article/headerimage.img.jpg"/>
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="http://www.renewableenergyworld.com/content/rew/en/articles/2016/10/examining-the-technological-overlap-between-oil-gas-and-geothermal/_jcr_content/leftcolumn/article/thumbnailimage.img.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-03:/328612</id>
+	<link href="http://cleantechnica.com/2016/10/03/cape-verde-leads-100-renewable-electricity-2020-target/" rel="alternate" type="text/html"/>
+	<title type="html">Cape Verde Leads With 100% Renewable Electricity By 2020 Target</title>
+	<summary type="html"><![CDATA[<p>Originally published on Solar Love. The island nation of Cape Verde is located 250 miles west of Sen...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://cleantechnica.com/files/2016/10/Cape-Verde-solar-270x180.jpg" alt="cape-verde-solar" srcset="http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/10/Cape-Verde-solar-270x180.jpg 270w, http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/10/Cape-Verde-solar-768x513.jpg 768w, http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/10/Cape-Verde-solar-570x380.jpg 570w, http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/10/Cape-Verde-solar.jpg 800w" sizes="(max-width: 270px) 100vw, 270px"><p>Originally published on Solar Love. The island nation of Cape Verde is located 250 miles west of Senegal in the southern Atlantic ocean. It has few natural resources &mdash; except wind and sunshine. Virtually everything the nation&rsquo;s 550,000 people consume has to be imported at great expense by air or sea. That includes the fossil [&amp;hellip</p>
+<p><a rel="noopener noreferrer" href="http://cleantechnica.com/2016/10/03/cape-verde-leads-100-renewable-electricity-2020-target/" target="_blank">Cape Verde Leads With 100% Renewable Electricity By 2020 Target</a> was originally published on <a href="http://cleantechnica.com" rel="noopener noreferrer" target="_blank">CleanTechnica</a>. </p>
+<p>To read more from CleanTechnica, join over 50,000 other subscribers: <a href="https://plus.google.com/+Cleantechnica?prsrc=5" rel="noopener noreferrer" target="_blank">Google+</a> | <a href="http://eepurl.com/csSt9" rel="noopener noreferrer" target="_blank">Email</a> | <a href="https://www.facebook.com/CleanTechnica" rel="noopener noreferrer" target="_blank">Facebook</a> | <a href="http://feeds.feedburner.com/IM-cleantechnica" rel="noopener noreferrer" target="_blank">RSS</a> | <a href="https://twitter.com/cleantechnica" rel="noopener noreferrer" target="_blank">Twitter</a>.</p>]]></content>
+	<updated>2016-10-03T13:45:13+00:00</updated>
+	<author><name>Steve Hanley</name></author>
+	<source>
+		<id>http://cleantechnica.com</id>
+		<link rel="self" href="http://cleantechnica.com"/>
+		<updated>2016-10-03T13:45:13+00:00</updated>
+		<title>CleanTechnica » Clean Power</title></source>
+
+	<category term="clean power"/>
+
+	<category term="consumer technology"/>
+
+	<category term="green economy"/>
+
+	<category term="green jobs"/>
+
+	<category term="policy &amp; politics"/>
+
+	<category term="renewable energy standards"/>
+
+	<category term="solar energy"/>
+
+	<category term="wind energy"/>
+
+	<category term="100% renewable energy"/>
+
+	<category term="africa"/>
+
+	<category term="africa solar energy"/>
+
+	<category term="cape verde"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-14:/323680</id>
+	<link href="http://phys.org/news/2016-09-fossil-evidence-reveals-cancer-humans.html" rel="alternate" type="text/html"/>
+	<title type="html">Fossil evidence reveals that cancer in humans goes back 1.7 million years</title>
+	<summary type="html"><![CDATA[<p>Cancer is often viewed as a fundamentally modern and monolithic disease. Many people think its rise ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Cancer is often viewed as a fundamentally modern and monolithic disease. Many people think its rise and spread has been driven almost exclusively by the developed world's toxins and poisons; by our bad eating habits, lifestyles, and the very air we breathe.</p>]]></content>
+	<updated>2016-09-14T12:20:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-09-14T12:20:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="archaeology &amp; fossils"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/fossileviden.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-08:/321973</id>
+	<link href="http://www.renewableenergyworld.com/articles/pt/2016/09/costa-rica-has-been-running-on-100-percent-renewables-for-two-months.html" rel="alternate" type="text/html"/>
+	<title type="html">Costa Rica Has Been Running on 100 Percent Renewables for Two Months</title>
+	<summary type="html"><![CDATA[<p>Costa Rica ran on 100 percent renewable energy for 76 straight days between June and August this yea...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Costa Rica ran on 100 percent renewable energy for 76 straight days between June and August this year, according to a new report, demonstrating that life without fossil fuels is possible - for small countries, at least.</p><img src="http://feeds.feedburner.com/~r/RenewableEnergyNewsRssFeed/~4/g-fBmF57Jnw" height="1" width="1" alt="">]]></content>
+	<updated>2016-09-08T16:54:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.renewableenergyworld.com</id>
+		<link rel="self" href="http://www.renewableenergyworld.com"/>
+		<updated>2016-09-08T16:54:00+00:00</updated>
+		<title>Renewable Energy News RSS Feed</title></source>
+
+	<category term="solar"/>
+
+	<category term="hydropower"/>
+
+	<category term="imported"/>
+
+	<category term="wind power"/>
+
+	<category term="geothermal"/>
+
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="http://www.renewableenergyworld.com/content/rew/en/articles/pt/2016/09/costa-rica-has-been-running-on-100-percent-renewables-for-two-months/_jcr_content/leftcolumn/article/headerimage.img.jpg"/>
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="http://www.renewableenergyworld.com/content/rew/en/articles/pt/2016/09/costa-rica-has-been-running-on-100-percent-renewables-for-two-months/_jcr_content/leftcolumn/article/thumbnailimage.img.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-07:/321620</id>
+	<link href="https://www.sciencedaily.com/releases/2016/09/160907082052.htm" rel="alternate" type="text/html"/>
+	<title type="html">Snake eats lizard eats beetle: Fossil food chain from the Messel Pit examined</title>
+	<summary type="html"><![CDATA[<p>Scientists have examined a spectacular discovery from the UNESCO World Heritage site Messel Pit: A f...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Scientists have examined a spectacular discovery from the UNESCO World Heritage site Messel Pit: A fossil snake in whose stomach a lizard can be seen, which in turn had consumed a beetle. The discovery of the approximately 48-million-year-old tripartite fossil food chain is unique for Messel; worldwide, only one single comparable piece exists.</p>]]></content>
+	<updated>2016-09-07T12:20:52+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2016-09-07T12:20:52+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://images.sciencedaily.com/2016/09/160907082052.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-25:/317769</id>
+	<link href="http://www.renewableenergyworld.com/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016.html" rel="alternate" type="text/html"/>
+	<title type="html">Renewable Energy Was 16.9 Percent of US Electric Generation in the First Half of 2016</title>
+	<summary type="html"><![CDATA[<p>It&rsquo;s finally happening. After years of research and development, of policy debates over subsidies an...</p>]]></summary>
+	<content type="html"><![CDATA[<p>It&rsquo;s finally happening. After years of research and development, of policy debates over subsidies and climate change and energy independence; renewable energy is finally starting to replace fossil fuel sources of electric generation across the nation.</p><img src="http://feeds.feedburner.com/~r/RenewableEnergyNewsRssFeed/~4/xCQfcYaW8yQ" height="1" width="1" alt="">]]></content>
+	<updated>2016-08-25T12:24:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.renewableenergyworld.com</id>
+		<link rel="self" href="http://www.renewableenergyworld.com"/>
+		<updated>2016-08-25T12:24:00+00:00</updated>
+		<title>Renewable Energy News RSS Feed</title></source>
+
+	<category term="bioenergy"/>
+
+	<category term="solar"/>
+
+	<category term="hydropower"/>
+
+	<category term="geothermal"/>
+
+	<category term="wind power"/>
+
+	<category term="featured blog"/>
+
+
+	<link rel="enclosure" 
+		type="" 
+		length="1"
+		href="http://www.renewableenergyworld.com/content/rew/en/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016/_jcr_content/leftcolumn/article/headerimage.img.jpg"/>
+
+	<link rel="enclosure" 
+		type="" 
+		length="1"
+		href="http://www.renewableenergyworld.com/content/rew/en/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016/_jcr_content/leftcolumn/article/thumbnailimage.img.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-25:/317752</id>
+	<link href="http://cleantechnica.com/2016/08/25/anu-team-achieves-record-solar-thermal-efficiency-97/" rel="alternate" type="text/html"/>
+	<title type="html">ANU Team Achieves Record Solar Thermal Efficiency Of 97%</title>
+	<summary type="html"><![CDATA[<p>Originally published on RenewEconomy. By Sophie Vorrath A team of Australian National University sci...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://cleantechnica.com/files/2016/08/AH1P9192-e1471836830440-270x152.jpg" alt="AH1P9192-e1471836830440" srcset="http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/08/AH1P9192-e1471836830440-270x152.jpg 270w, http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/08/AH1P9192-e1471836830440-570x321.jpg 570w, http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/08/AH1P9192-e1471836830440.jpg 590w" sizes="(max-width: 270px) 100vw, 270px"><p>Originally published on RenewEconomy. By Sophie Vorrath A team of Australian National University scientists has brought economically competitive, grid-scale solar thermal energy generation closer to reality, after achieving a new record in efficiency for the technology that could compete with the cost of electricity from fossil fuels. The ANU team, whose CST technology harnesses the [&amp;hellip</p>
+<p><a rel="noopener noreferrer" href="http://cleantechnica.com/2016/08/25/anu-team-achieves-record-solar-thermal-efficiency-97/" target="_blank">ANU Team Achieves Record Solar Thermal Efficiency Of 97%</a> was originally published on <a href="http://cleantechnica.com" rel="noopener noreferrer" target="_blank">CleanTechnica</a>. </p>
+<p>To read more from CleanTechnica, join over 50,000 other subscribers: <a href="https://plus.google.com/+Cleantechnica?prsrc=5" rel="noopener noreferrer" target="_blank">Google+</a> | <a href="http://eepurl.com/csSt9" rel="noopener noreferrer" target="_blank">Email</a> | <a href="https://www.facebook.com/CleanTechnica" rel="noopener noreferrer" target="_blank">Facebook</a> | <a href="http://feeds.feedburner.com/IM-cleantechnica" rel="noopener noreferrer" target="_blank">RSS</a> | <a href="https://twitter.com/cleantechnica" rel="noopener noreferrer" target="_blank">Twitter</a>.</p>]]></content>
+	<updated>2016-08-25T15:25:12+00:00</updated>
+	<author><name>Guest Contributor</name></author>
+	<source>
+		<id>http://cleantechnica.com</id>
+		<link rel="self" href="http://cleantechnica.com"/>
+		<updated>2016-08-25T15:25:12+00:00</updated>
+		<title>CleanTechnica » Clean Power</title></source>
+
+	<category term="clean power"/>
+
+	<category term="concentrating solar power"/>
+
+	<category term="solar energy"/>
+
+	<category term="solar records"/>
+
+	<category term="solar thermal"/>
+
+	<category term="australia"/>
+
+	<category term="australia solar"/>
+
+	<category term="australian national university"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-14:/314148</id>
+	<link href="http://www.thehindu.com/sci-tech/science/the-earliest-plants-that-colonised-land/article8986009.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication" rel="alternate" type="text/html"/>
+	<title type="html">The earliest plants that colonised land</title>
+	<summary type="html"><![CDATA[<p>A study of rooted fossil soils in China&rsquo;s Yunnan region, published in Proceedings of National Acade...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A study of rooted fossil soils in China&rsquo;s Yunnan region, published in Proceedings of National Academy of Sciences on August 8, has established the time of colonisation of land regions by the earliest ...</p>]]></content>
+	<updated>2016-08-13T12:18:28+00:00</updated>
+	<author><name>Shubashree Desikan</name></author>
+	<source>
+		<id>http://www.thehindu.com/</id>
+		<link rel="self" href="http://www.thehindu.com/"/>
+		<updated>2016-08-13T12:18:28+00:00</updated>
+		<title>The Hindu - Sci-Tech</title></source>
+
+	<category term="science"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-03:/310799</id>
+	<link href="http://www.eurekalert.org/pub_releases/2016-08/uosf-spa080216.php" rel="alternate" type="text/html"/>
+	<title type="html">Study provides a new method to measure the energy of a lightning strike</title>
+	<summary type="html"><![CDATA[<p>(University of South Florida (USF Innovation)) By investigating 'fossilized' sand cylinders made by ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of South Florida (USF Innovation)</i>) By investigating 'fossilized' sand cylinders made by lightning strikes, sometimes thousands of years old, a University of South Florida geology professor's study provides a unique history of lightning and a new method to measure the energy contained in a single strike.</p>]]></content>
+	<updated>2016-08-03T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2016-08-03T04:00:00+00:00</updated>
+		<title>EurekAlert! - Atmospheric Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-02:/310445</id>
+	<link href="http://phys.org/news/2016-08-crocodile-ancestors.html" rel="alternate" type="text/html"/>
+	<title type="html">The first crocodile ancestors</title>
+	<summary type="html"><![CDATA[<p>Did you know that birds and crocodiles are practically cousins? Around 230 million years ago, you wo...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Did you know that birds and crocodiles are practically cousins? Around 230 million years ago, you wouldn't have been able to tell the difference between the two different lineages. This is because birds and crocodilians (which includes alligators, caiman, and gharials) are part of a much larger group called Archosauria, or ruling lizards, which means they share a common ancestor far back in time. When they split from each other, they formed two major evolutionary pathways: the bird-line archosaurs, which also includes all dinosaurs, and the crocodile-line archosaurs, which includes crocodilians and their ancestors, the crocodylomorphs.</p>]]></content>
+	<updated>2016-08-02T12:50:02+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-08-02T12:50:02+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="archaeology &amp; fossils"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/thefirstcroc.png"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-30:/378993</id>
+	<link href="https://opensource.com/article/17/3/tomviz-large-3D-datasets" rel="alternate" type="text/html"/>
+	<title type="html">Peering into complex, tiny structures with 3D analysis tool tomviz</title>
+	<summary type="html"><![CDATA[<p>New open source software tomviz&mdash;short for tomographic visualization&mdash;enables researchers to interacti...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/science_root_plant.jpg" width="520" height="292" alt="Peering into complex, tiny structures with 3D analysis tool tomviz" title="Peering into complex, tiny structures with 3D analysis tool tomviz"><p>New open source software <a href="http://www.tomviz.com" target="_blank" rel="noopener noreferrer">tomviz</a>&mdash;short for tomographic visualization&mdash;enables researchers to interactively understand large 3D datasets. More specifically, the software analyzes&nbsp;3D tomographic data similar to a medical CT-scan but at the nanoscale.</p>
+<p>"When you can take a nanoparticle or biomolecule and spin it around, slice it, look inside it, and quantitatively analyze it, you get a complete picture from all angles," says Yi Jiang, a physics Ph.D. candidate at Cornell University.</p>
+<br>
+<a href="https://opensource.com/article/17/3/tomviz-large-3D-datasets" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-03-30T07:01:00+00:00</updated>
+	<author><name>hovden</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-03-30T07:01:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-14:/373918</id>
+	<link href="https://opensource.com/article/17/3/physical-computing-raspberry-pi" rel="alternate" type="text/html"/>
+	<title type="html">The physical computing capabilities of the Raspberry Pi</title>
+	<summary type="html"><![CDATA[<p>While the Raspberry Pi is an excellent and affordable mini Linux computer with a stylish and functio...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/raspberry_pi_board_hardware_computing.jpg" width="520" height="292" alt="The physical computing capabilities of the Raspberry Pi" title="The physical computing capabilities of the Raspberry Pi"><p>While the Raspberry Pi is an excellent and affordable mini Linux computer with a stylish and functional desktop user interface, it has plenty of scope beyond that of a regular PC. Here's an overview of the physical computing capabilities of the Pi.</p>
+<h2>GPIO pins</h2>
+<p>Since 2014, with the release of the Model B+, the Raspberry Pi's form factor has stayed the same, including the uniform 40-pin GPIO (General Purpose Input/Output) pin header.</p>
+<br>
+<a href="https://opensource.com/article/17/3/physical-computing-raspberry-pi" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-03-14T07:03:00+00:00</updated>
+	<author><name>ben_nuttall</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-03-14T07:03:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-01:/370230</id>
+	<link href="https://opensource.com/article/17/3/embedded-linux-iot-ecosystem" rel="alternate" type="text/html"/>
+	<title type="html">How embedded Linux accelerates IoT development</title>
+	<summary type="html"><![CDATA[<p>You'll find that the quickest way to build components of an IoT ecosystem is to use embedded Linux, ...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/car-penguin-drive-linux-yellow.png" width="520" height="292" alt="How embedded Linux accelerates IoT development" title="How embedded Linux accelerates IoT development"><p>You'll find that the quickest way to build components of an IoT ecosystem is to use embedded Linux, whether you're augmenting existing devices or designing a new device or system from the beginning. Embedded Linux shares the same source code base as desktop Linux, but it is coupled with different user interface tools and other high-level components. The base of the system is essentially the same.</p>
+<p></p>
+<p>Let's look at a few common cases.</p>
+<br>
+<a href="https://opensource.com/article/17/3/embedded-linux-iot-ecosystem" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-03-01T08:02:00+00:00</updated>
+	<author><name>hyau</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-03-01T08:02:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-02-28:/369735</id>
+	<link href="https://opensource.com/article/17/2/pi-zero-wireless" rel="alternate" type="text/html"/>
+	<title type="html">Pi Zero Wireless out now for $10</title>
+	<summary type="html"><![CDATA[<p>Today, on the fifth anniversary of the release of the original Raspberry Pi, the Foundation has rele...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life-uploads/raspbery_pi_zero_wireless_hardware.jpg" width="520" height="292" alt="Pi Zero Wireless out now for $10" title="Pi Zero Wireless out now for $10"><p>Today, on the fifth anniversary of the release of the original Raspberry Pi, the Foundation has released Pi Zero W, a Pi Zero with built-in WiFi and Bluetooth, for $10.</p>
+<p>The original Pi Zero was great (and still is!)&mdash;but many people found its lack of wireless connectivity an inconvenience. Now with Zero W, you can connect to the Internet without using any adapters, and you can even use a Bluetooth mouse and keyboard rather than wired USB, or use a Bluetooth speaker for audio.</p>
+<p>The latest addition to the Raspberry Pi family has the same specifications as the original Pi Zero:</p>
+<br>
+<a href="https://opensource.com/article/17/2/pi-zero-wireless" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-02-28T09:00:00+00:00</updated>
+	<author><name>ben_nuttall</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-02-28T09:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-02-28:/369675</id>
+	<link href="https://opensource.com/open-organization/17/2/4-stages-open-leadership-development" rel="alternate" type="text/html"/>
+	<title type="html">4 stages of open leadership development</title>
+	<summary type="html"><![CDATA[<p>As I shared in the first part of my "Open Leadership Development" series, we started building our le...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/BIZ_steelworker.png" width="520" height="292" alt="4 stages of open leadership development" title="4 stages of open leadership development"><p>As I shared in the <a href="https://opensource.com/open-organization/17/1/developing-open-leaders" rel="noopener noreferrer" target="_blank">first part</a> of my "Open Leadership Development" series, we started building our leadership development system at Red Hat many years ago, by finding great leadership training designed for conventional organizations, and adapting it to fit our open organization.</p>
+<br>
+<a href="https://opensource.com/open-organization/17/2/4-stages-open-leadership-development" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-02-28T08:00:00+00:00</updated>
+	<author><name>DeLisa</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-02-28T08:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-02-20:/367204</id>
+	<link href="https://opensource.com/article/17/2/linux-boot-and-startup" rel="alternate" type="text/html"/>
+	<title type="html">An introduction to the Linux boot and startup processes</title>
+	<summary type="html"><![CDATA[<p>Understanding the Linux boot and startup processes is important to being able to both configure Linu...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/linux_boot.png" width="520" height="292" alt="The boot process" title="The boot process"><p>Understanding the Linux boot and startup processes is important to being able to both configure Linux and to resolving startup issues. This article presents an overview of the bootup sequence using the <a href="https://en.wikipedia.org/wiki/GNU_GRUB" target="_blank" rel="noopener noreferrer">GRUB2 bootloader</a> and the startup sequence as performed by the <a href="https://en.wikipedia.org/wiki/Systemd" target="_blank" rel="noopener noreferrer">systemd initialization system</a>.</p>
+<br>
+<a href="https://opensource.com/article/17/2/linux-boot-and-startup" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-02-20T08:02:00+00:00</updated>
+	<author><name>dboth</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-02-20T08:02:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-27:/360546</id>
+	<link href="https://opensource.com/article/17/1/cultivating-business-foss-market" rel="alternate" type="text/html"/>
+	<title type="html">How to successfully enter the FOSS emerging market</title>
+	<summary type="html"><![CDATA[<p>In business speak, an "emerging market" is a market that is not yet well developed&nbsp;but on the rise a...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/BIZ_ManagementModel3.png" width="520" height="292" alt="How to successfully enter the FOSS emerging market" title="How to successfully enter the FOSS emerging market"><p>In business speak, an "emerging market" is a market that is not yet well developed&nbsp;but on the rise and shows strong potential to be as robust as other developed markets. The <a href="https://en.wikipedia.org/wiki/Emerging_markets" target="_blank" rel="noopener noreferrer">Wikipedia definition</a>&nbsp;focuses purely on countries, but this is a limited view of the meaning of "market."</p>
+<br>
+<a href="https://opensource.com/article/17/1/cultivating-business-foss-market" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-01-27T08:01:00+00:00</updated>
+	<author><name>vmbrasseur</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-01-27T08:01:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-11:/355785</id>
+	<link href="https://opensource.com/article/17/1/apache-open-climate-workbench" rel="alternate" type="text/html"/>
+	<title type="html">Explore climate data with open source tools</title>
+	<summary type="html"><![CDATA[<p>You can't look anywhere these days without seeing evidence of the changing weather patterns on the e...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/bus-cloud.png" width="520" height="292" alt="Explore climate data with open source tools" title="Explore climate data with open source tools"><p>You can't look anywhere these days without seeing evidence of the changing weather patterns on the earth. Monthly, we are confronted with facts and figures that point to a warming planet.</p>
+<br>
+<a href="https://opensource.com/article/17/1/apache-open-climate-workbench" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-01-11T08:01:00+00:00</updated>
+	<author><name>Don Watkins</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-01-11T08:01:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-05:/354295</id>
+	<link href="https://opensource.com/article/17/1/task-management-time-tracking-android" rel="alternate" type="text/html"/>
+	<title type="html">10 open source task management and time tracking applications for Android</title>
+	<summary type="html"><![CDATA[<p>The demands of modern life can, at times, be overwhelming. Even a super organized person probably ne...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/clocks_time.png" width="520" height="292" alt="10 open source task management and time tracking applications for Android" title="10 open source task management and time tracking applications for Android"><p>The demands of modern life can, at times, be overwhelming. Even a super organized person probably needs digital tools to keep track of personal and professional meetings and deadlines. If you were at <a href="http://allthingsopen.org/" target="_blank" rel="noopener noreferrer">All Things Open</a> this year, you might have seen Opensource.com's own Jason Baker and Jen Wike Huger talk about <a href="http://productive.win/" target="_blank" rel="noopener noreferrer">open source productivity hacks</a>, which was an excellent primer on open source tools and tips for optimizing your productivity.</p>
+<br>
+<a href="https://opensource.com/article/17/1/task-management-time-tracking-android" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-01-05T08:03:00+00:00</updated>
+	<author><name>holmja</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-01-05T08:03:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-29:/344610</id>
+	<link href="https://opensource.com/article/16/11/what-raspberry-pi-foundation-10-million-computers-sold" rel="alternate" type="text/html"/>
+	<title type="html">What is the Raspberry Pi Foundation? 10 million computers sold</title>
+	<summary type="html"><![CDATA[<p>With more than 10 million units sold, the Raspberry Pi is a massive success. At this year's All T...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/10millionpi_bear.jpg" width="520" height="292" alt="What is the Raspberry Pi Foundation? 10 million computers sold" title="What is the Raspberry Pi Foundation? 10 million computers sold"><p>
+  With more than 10 million units sold, the <a href="http://localhost/resources/what-raspberry-pi" rel="noopener noreferrer" target="_blank">Raspberry Pi</a> is a massive success. At this year's <a href="http://allthingsopen.org/" target="_blank" rel="noopener noreferrer">All Things Open</a>, community manager <a href="http://twitter.com/ben_nuttall" target="_blank" rel="noopener noreferrer">Ben Nuttall</a> gave a five-minute lightning talk introducing the educational charity behind the popular mini computer.
+</p>
+<br>
+<a href="https://opensource.com/article/16/11/what-raspberry-pi-foundation-10-million-computers-sold" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2016-11-29T08:02:00+00:00</updated>
+	<author><name>admin</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2016-11-29T08:02:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-22:/343011</id>
+	<link href="https://opensource.com/article/16/11/25-years-linux-5-minutes" rel="alternate" type="text/html"/>
+	<title type="html">25 years of Linux in 5 minutes</title>
+	<summary type="html"><![CDATA[<p>Jeremy Garcia of LinuxQuestions.org and Bad Voltage (a podcast) delivers 25 years of Linux in five&nbsp;m...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/OSDC_Penguin_Image_520x292_12324207_0714_mm_v1a.png" width="520" height="292" alt="25 years of Linux in 5 minutes" title="25 years of Linux in 5 minutes"><p>Jeremy Garcia of <a href="http://www.linuxquestions.org/" target="_blank" rel="noopener noreferrer">LinuxQuestions.org</a> and <a href="http://www.badvoltage.org/" target="_blank" rel="noopener noreferrer">Bad Voltage</a> (a podcast) delivers 25 years of Linux in five&nbsp;minutes:&nbsp;starting with&nbsp;Linux's first steps as "just a hobby" for creator Linus Torvalds,&nbsp;to its staggering popularity today with&nbsp;135,000&nbsp;developers from more than 1,300 companies&nbsp;and&nbsp;22 million lines of code .</p>
+<p>It's a lot to cover.</p>
+<p></p>
+<br>
+<a href="https://opensource.com/article/16/11/25-years-linux-5-minutes" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2016-11-22T08:03:00+00:00</updated>
+	<author><name>admin</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2016-11-22T08:03:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-16:/341509</id>
+	<link href="https://opensource.com/16/11/all-things-open-keynotes-day-1-summary" rel="alternate" type="text/html"/>
+	<title type="html">What&amp;#039;s important in open source today</title>
+	<summary type="html"><![CDATA[<p>Opensource.com community moderator Jono Bacon&nbsp;kicked off keynotes at All Things Open this year to ta...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/OPENHERE_blue.png" width="520" height="292" alt="A recap of keynotes from day 1 of All Things Open 2016" title="A recap of keynotes from day 1 of All Things Open 2016"><p>Opensource.com community moderator <a href="https://twitter.com/jonobacon" target="_blank" rel="noopener noreferrer">Jono Bacon</a>&nbsp;kicked off keynotes at <a href="http://localhost/series/ato-2016" rel="noopener noreferrer" target="_blank">All Things Open</a> this year to talk about open source communities</p>
+<br>
+<a href="https://opensource.com/16/11/all-things-open-keynotes-day-1-summary" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2016-11-16T08:00:00+00:00</updated>
+	<author><name>nengard</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2016-11-16T08:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-04:/338296</id>
+	<link href="https://opensource.com/life/16/11/happy-birthday-vim-25" rel="alternate" type="text/html"/>
+	<title type="html">The iconic text editor Vim celebrates 25 years</title>
+	<summary type="html"><![CDATA[<p>Turn back the dial of time a bit. No, keep turning... a little more... there! Over 25 years ago, whe...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/osdc-lead-happybirthday.png" width="520" height="292" alt="The iconic text editor Vim celebrates 25 years" title="The iconic text editor Vim celebrates 25 years"><p>Turn back the dial of time a bit. No, keep turning... a little more... there! Over 25 years ago, when some of your professional colleagues were still toddlers, Bram Moolenaar started working on a text editor for his Amiga. He was a user of vi on Unix, but the Amiga didn't have anything quite like it. On November 2, 1991, after three years in development, he released the first version of the "Vi IMitation" editor, or <a href="http://www.vim.org" target="_blank" rel="noopener noreferrer">Vim</a>.</p>
+<br>
+<a href="https://opensource.com/life/16/11/happy-birthday-vim-25" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2016-11-04T16:00:00+00:00</updated>
+	<author><name>druthb</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2016-11-04T16:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-03:/337777</id>
+	<link href="https://opensource.com/life/16/11/internet-archive-turns-20" rel="alternate" type="text/html"/>
+	<title type="html">Internet Archive turns 20, gives birthday gifts to the world</title>
+	<summary type="html"><![CDATA[<p>On May 12, 1996, like a benevolent mad scientist,&nbsp;Brewster Kahle&nbsp;brought the&nbsp;Internet Archive&nbsp;to lif...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/internet_archive_building_sanfran.jpg" width="520" height="292" alt="Internet Archive turns 20, gives birthday gifts to the world" title="Internet Archive turns 20, gives birthday gifts to the world"><p>On May 12, 1996, like a benevolent mad scientist,&nbsp;<a href="https://en.wikipedia.org/wiki/Brewster_Kahle" target="_blank" rel="noopener noreferrer">Brewster Kahle</a>&nbsp;brought the&nbsp;<a href="https://archive.org/" target="_blank" rel="noopener noreferrer">Internet Archive</a>&nbsp;to life. The World Wide Web was in its infancy and the Archive was there to capture its growing pains. Inspired by and emulating the&nbsp;<a href="https://en.wikipedia.org/wiki/Library_of_Alexandria" target="_blank" rel="noopener noreferrer">Library at Alexandria</a>, the Internet Archive began its mission to preserve and provide universal access to all knowledge.</p>
+<br>
+<a href="https://opensource.com/life/16/11/internet-archive-turns-20" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2016-11-03T07:03:00+00:00</updated>
+	<author><name>vmbrasseur</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2016-11-03T07:03:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-07:/330138</id>
+	<link href="https://opensource.com/life/16/9/public-library-open-source" rel="alternate" type="text/html"/>
+	<title type="html">Why public libraries need to support open source</title>
+	<summary type="html"><![CDATA[<p>People turn to public libraries for answers, and a lot of times&nbsp;libraries are superb at providing th...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/education/EDUCATION_colorbooks.png" width="520" height="292" alt="Why public libraries need to support open source" title="Why public libraries need to support open source"><p>People turn to public libraries for answers, and a lot of times&nbsp;libraries are superb at providing them. But when it comes to providing answers about open source,&nbsp;libraries have an uneven track record.</p>
+<p>What can we do to make this better so that more people can turn to their public library to learn about open source software, hardware, and&nbsp;principles?</p>
+<br>
+<a href="https://opensource.com/life/16/9/public-library-open-source" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2016-10-07T07:00:00+00:00</updated>
+	<author><name>pshapiro</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2016-10-07T07:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-04:/329156</id>
+	<link href="http://www.networkworld.com/article/3127133/open-source-tools/what-cios-need-to-know-about-open-source-forking.html#tk.rss_opensourcesubnet" rel="alternate" type="text/html"/>
+	<title type="html">What you need to know about open source forking</title>
+	<summary type="html"><![CDATA[<p>Picture this: Your company is ticking along nicely, making use of a reliable and well-engineered ...</p>]]></summary>
+	<content type="html"><![CDATA[<article>
+	<section>
+<p>Picture this: Your company is ticking along nicely, making use of a reliable and well-engineered piece of software to support some important business process, when suddenly it becomes apparent that all is not well in the project's developer community. A fork is in the cards, and the very future of the project hangs in the balance.</p><p>Before we get to the crucial questions of whether a fork is really such a bad thing and what a CIO should do when faced with one, let's first be clear about what we're talking about.</p><p>In their <a href="http://flosshub.org/sites/flosshub.org/files/paper_0.pdf" rel="noopener noreferrer" target="_blank">study of software forks</a>, researchers Gregorio Robles and Jesus M. Gonzalez-Barahona of the Universidad Rey Juan Carlos in Spain define a fork like this:</p><p><a href="http://localhost/article/3127133/open-source-tools/what-cios-need-to-know-about-open-source-forking.html#jump" rel="noopener noreferrer" target="_blank">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></content>
+	<updated>2016-10-04T17:07:00+00:00</updated>
+	<author><name>Paul Rubens</name></author>
+	<source>
+		<id>https://www.networkworld.com</id>
+		<link rel="self" href="https://www.networkworld.com"/>
+		<updated>2016-10-04T17:07:00+00:00</updated>
+		<title>Network World Open Source Subnet</title></source>
+
+	<category term="open source"/>
+
+	<category term="applications"/>
+
+	<category term="application development"/>
+
+	<category term="open source subnet"/>
+
+
+	<link rel="enclosure" 
+		type="" 
+		length="1"
+		href="http://zapt0.staticworld.net/images/article/2016/10/fork-100685805-primary.idge.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-16:/324335</id>
+	<link href="https://opensource.com/life/16/9/what-free-software" rel="alternate" type="text/html"/>
+	<title type="html">What is free software?</title>
+	<summary type="html"><![CDATA[<p>The&nbsp;Digital Freedom Foundation&nbsp;defines free software&nbsp;as&nbsp;the freedom to use, study, distribute, modif...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/law/LAW_foss_folks.png" width="520" height="292" alt="What is free software?" title="What is free software?"><p>The&nbsp;<a href="http://www.digitalfreedomfoundation.org/" target="_blank" rel="noopener noreferrer">Digital Freedom Foundation</a>&nbsp;defines <em>free software</em>&nbsp;as&nbsp;the freedom to use, study, distribute, modify, and access software. You can't go wrong with this poll!</p>
+<p>In honor of Software Freedom Day,&nbsp;tomorrow on September 17, we wonder how you plan to contribute to the global event tomorrow? Leave us your message in the comments.</p>
+<br>
+<a href="https://opensource.com/life/16/9/what-free-software" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2016-09-16T06:00:00+00:00</updated>
+	<author><name>admin</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2016-09-16T06:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-13:/323156</id>
+	<link href="https://opensource.com/life/16/8/open-source-helps-define-chiles-future-energy-policies" rel="alternate" type="text/html"/>
+	<title type="html">Chile&amp;#039;s green energy future is powered by open data analysis</title>
+	<summary type="html"><![CDATA[<p>Open source software and open data play key roles in implementing Chile's long-term energy planning,...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/osdc_520x292_opendata_0613mm.png" width="520" height="292" alt="Chile's green energy future is powered by open data analysis" title="Chile's green energy future is powered by open data analysis"><p>Open source software and open data play key roles in implementing Chile's long-term energy planning, identifying ways to get the maximum value from development, minimizing its impact, and requiring less development overall.</p>
+<br>
+<a href="https://opensource.com/life/16/8/open-source-helps-define-chiles-future-energy-policies" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2016-09-13T07:02:00+00:00</updated>
+	<author><name>clhermansen</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2016-09-13T07:02:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-23:/316694</id>
+	<link href="https://opensource.com/education/16/8/7-resources-open-education-materials" rel="alternate" type="text/html"/>
+	<title type="html">7 resources for open education materials</title>
+	<summary type="html"><![CDATA[<p>Shrinking school budgets and growing interest in open content has created an increased demand for op...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/education/osdc_OER_520x292_FINAL.png" width="520" height="292" alt="7 resources for open education materials" title="7 resources for open education materials"><p>Shrinking school budgets and growing interest in open content has created an increased demand for open educational resources. According to the <a href="https://www.fcc.gov/blog/fcc-chairman-digital-textbooks-all-students-five-years" rel="noopener noreferrer" target="_blank">FCC</a>, "The U.S. spends more than $7 billion per year on K-12 textbooks, but too many students are still using books that are 7-10 years old, with outdated material." There is an alternative: openly licensed courseware. But&nbsp;where do you find this content and how can you share your own teaching and learning materials?</p>
+<br>
+<a href="https://opensource.com/education/16/8/7-resources-open-education-materials" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2016-08-23T07:03:00+00:00</updated>
+	<author><name>Don Watkins</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2016-08-23T07:03:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-09:/312567</id>
+	<link href="https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6" rel="alternate" type="text/html"/>
+	<title type="html">How to build your own Git server</title>
+	<summary type="html"><![CDATA[<p>Read:
+
+read more</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/bus-big-data.png" width="520" height="292" alt="How to build your own Git server" title="How to build your own Git server"><p><em>Read:</em></p>
+<br>
+<a href="https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2016-08-09T07:02:00+00:00</updated>
+	<author><name>sethkenlon</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2016-08-09T07:02:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-13:/428595</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-09/bu-rcf091317.php" rel="alternate" type="text/html"/>
+	<title type="html">Researchers create first global map of water in moon's soil</title>
+	<summary type="html"><![CDATA[<p>(Brown University) A new study maps the trace concentrations of water implanted in the lunar soil by...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Brown University</i>) A new study maps the trace concentrations of water implanted in the lunar soil by the solar wind, a water source that could be used as resource in future lunar exploration.</p>]]></content>
+	<updated>2017-09-13T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-09-13T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-12:/427998</id>
+	<link href="https://www.newscientist.com/article/2147019-cassinis-10-best-pictures-from-its-13-year-voyage-around-saturn/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=space&amp;campaign_id=RSS%7CNSNS-space" rel="alternate" type="text/html"/>
+	<title type="html">Cassini’s 10 best pictures from its 13-year voyage around Saturn</title>
+	<summary type="html"><![CDATA[<p>On 15 September, NASA&rsquo;s Cassini spacecraft will crash into Saturn, ending its mission with a bang. N...</p>]]></summary>
+	<content type="html"><![CDATA[<p>On 15 September, NASA&rsquo;s Cassini spacecraft will crash into Saturn, ending its mission with a bang. New Scientist looks back at 10 of its best images</p>]]></content>
+	<updated>2017-09-14T16:20:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.newscientist.com</id>
+		<link rel="self" href="https://www.newscientist.com"/>
+		<updated>2017-09-14T16:20:00+00:00</updated>
+		<title>New Scientist - Space</title></source>
+
+	<category term="solar system"/>
+
+	<category term="space"/>
+
+	<category term="space flight"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-11:/427698</id>
+	<link href="http://www.skyandtelescope.com/astronomy-news/first-pluto-features-officially-named/" rel="alternate" type="text/html"/>
+	<title type="html">First Pluto Features Officially Named</title>
+	<summary type="html"><![CDATA[<p>It&rsquo;s been two years since New Horizons captured the first high-resolution image of Pluto. Now the IA...</p>]]></summary>
+	<content type="html"><![CDATA[<p><strong><em><span>It&rsquo;s been two years since New Horizons captured the first high-resolution image of Pluto. Now the IAU has released official names for some of its surface features.</span></em></strong></p>
+<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/iau1704a_plutonames_600x385.jpg" alt="Pluto map" width="600" height="385" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/iau1704a_plutonames_600x385.jpg 600w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/iau1704a_plutonames_600x385-296x190.jpg 296w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/iau1704a_plutonames_600x385-561x360.jpg 561w" sizes="(max-width: 600px) 100vw, 600px"><p>First official names of surface features on Pluto on a map compiled from images and data obtained by the New Horizons spacecraft during its flyby in 2015. <br><em>NASA&nbsp; / JHU-APL / SwRI / Ross Beyer</em></p></div>
+<p>The International Astronomical Union (IAU) has <a href="https://www.iau.org/news/pressreleases/detail/iau1704/" rel="noopener noreferrer" target="_blank">officially approved</a> the names of 14 geological features on the surface of Pluto. All of these remained devoid of officially-sanctioned monikers two years after the flyby of NASA&rsquo;s New Horizons spacecraft that obtained high-resolution images of the dwarf planet&rsquo;s surface for the first time. (The IAU is empowered by the world's astronomers as the <a href="https://www.iau.org/public/themes/buying_star_names/" rel="noopener noreferrer" target="_blank">the sole naming authority</a> for astronomical objects and its features.)</p>
+<p>Pluto's just-approved names belong to four broad themes previously accepted by IAU. The themes are pioneering space missions, historic explorers who crossed new frontiers, scientists and engineers who contributed to our knowledge of Pluto and the Kuiper Belt, and underworld mythology &mdash; since the names of Pluto and its five moons already fell in that category.</p>
+<p>NASA&rsquo;s New Horizons team made the naming proposal to the IAU after collecting suggestions from the public during an on-line campaign called <a href="http://www.ourpluto.org/" target="_blank" rel="noopener noreferrer">Our Pluto</a>. The team also added to the list some of the names they had been used informally during science operations.</p>
+<p>Although the IAU has insisted in keeping the naming scheme limited to the approved list of themes, some controversy arose in 2015 when researchers began to <a href="http://www.skyandtelescope.com/astronomy-news/unofficially-naming-pluto-0723201566/" rel="noopener noreferrer" target="_blank">use informal names for Pluto&rsquo;s features</a> in different communications, <a href="http://www.skyandtelescope.com/astronomy-news/pluto-results-in-science-101520155/" rel="noopener noreferrer" target="_blank">including research papers</a>. Some of these names, such as Cthulhu Regio, Balrog Macula, or Spock crater, were related to science-fiction and fantasy literature and clearly out of the boundaries of IAU&rsquo;s traditional themes.</p>
+<p>It didn't help that that the New Horizons team, understandably preoccupied with analyzing the results of 2015's historic flyby, took its time before submitting a list of feature names for formal approval &mdash; yet freely used informal names in publications and presentations. <a href="http://www.skyandtelescope.com/astronomy-news/iau-names-stars-and-planets-121820155/#plutonames" target="_blank" rel="noopener noreferrer"> The situation got a little testy</a> at the IAU's 2015 General Assembly between Alan Stern, principal investigator for New Horizons, and the IAU's <a href="https://www.iau.org/science/scientific_bodies/working_groups/98/" target="_blank" rel="noopener noreferrer">Working Group for Planetary System Nomenclature.</a> But the relationship improved after the two groups finally began to meet in August 2016.</p>
+<p>The first 14 approved feature names are:</p>
+<p><strong>Tombaugh Regio</strong>&nbsp;honors Clyde Tombaugh (1906&ndash;97), the U.S. astronomer who discovered Pluto in 1930 from Lowell Observatory in Arizona.</p>
+<p><strong>Burney crater</strong>&nbsp;honors Venetia Burney (1918&ndash;2009), who as an 11-year-old schoolgirl suggested the name &ldquo;Pluto&rdquo; for Clyde Tombaugh&rsquo;s newly discovered world. Later in life she taught mathematics and economics.</p>
+<p><strong>Sputnik Planitia</strong>&nbsp;is a broad, low-lying plain named after Sputnik 1, the first space satellite, launched by the Soviet Union in 1957.</p>
+<p><strong>Tenzing Montes</strong>&nbsp;and&nbsp;<strong>Hillary Montes</strong>&nbsp;are mountain ranges honoring Tenzing Norgay (1914&ndash;86) and Sir Edmund Hillary (1919&ndash;2008), the Indian/Nepali Sherpa and New Zealand mountaineer who were the first to reach the summit of Mount Everest and return safely. (Tenzing Montes, initially called Norgay Montes, was switched because Tenzing is the family surname.)</p>
+<p><strong>Al-Idrisi Montes</strong>&nbsp;honors Ash-Sharif al-Idrisi (1100&ndash;65/66), a noted Arab mapmaker and geographer whose landmark work of medieval geography is sometimes translated as &ldquo;The Pleasure of Him Who Longs to Cross the Horizons.&rdquo;</p>
+<p><strong>Djanggawul Fossae</strong>&nbsp;defines a network of long, narrow depressions named for the Djanggawuls, three ancestral beings in indigenous Australian mythology who traveled between the island of the dead and Australia, creating the landscape and filling it with vegetation.</p>
+<p><strong>Sleipnir Fossa</strong>&nbsp;is named for the powerful, eight-legged horse of Norse mythology that carried the god Odin into the underworld.</p>
+<p><strong>Virgil Fossae</strong>&nbsp;honors Virgil, one of the greatest Roman poets and Dante&rsquo;s fictional guide through hell and purgatory in the&nbsp;<em>Divine Comedy</em>.</p>
+<p><strong>Adlivun Cavus</strong>&nbsp;is a deep depression named for Adlivun, the underworld in Inuit mythology.</p>
+<p><strong>Hayabusa Terra</strong>&nbsp;is a large land mass saluting the Japanese spacecraft and mission (2003&ndash;10) that returned the first asteroid sample.</p>
+<p><strong>Voyager Terra</strong>&nbsp;honors the <a href="http://www.skyandtelescope.com/astronomy-news/cheers-to-40-years-voyager-1-and-2-going-strong/" target="_blank" rel="noopener noreferrer">twin NASA spacecraft, launched in 1977</a>, that performed the first &ldquo;grand tour&rdquo; of all four giant planets. Voyagers 1 and 2 are now probing the boundary between the Sun and interstellar space.</p>
+<p><strong>Tartarus Dorsa</strong>&nbsp;is a ridge named for Tartarus, the deepest, darkest pit of the underworld in Greek mythology.</p>
+<p><strong>Elliot crater&nbsp;</strong>recognizes James Elliot (1943&ndash;2011), an MIT researcher who pioneered the use of stellar occultations to study the Solar System &mdash; leading to discoveries such as the rings of Uranus and the first detection of Pluto's thin atmosphere.</p>
+<p>There is no word regarding when more features will receive official recognition, but space aficionados are closely watching for approval of informal names for features on Charon. Those themes, <a href="https://www.nasa.gov/feature/nasa-s-new-horizons-iau-set-pluto-naming-themes" target="_blank" rel="noopener noreferrer">approved by the IAU's Working Group earlier this year</a>, include fictional characters, destinations, and vessels associated with space exploration. So get ready for craters named Sulu, Vader, and Skywalker.</p>
+<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-news/first-pluto-features-officially-named/" target="_blank">First Pluto Features Officially Named</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
+	<updated>2017-09-11T19:10:42+00:00</updated>
+	<author><name>Javier Barbuzano</name></author>
+	<source>
+		<id>http://www.skyandtelescope.com</id>
+		<link rel="self" href="http://www.skyandtelescope.com"/>
+		<updated>2017-09-11T19:10:42+00:00</updated>
+		<title>Sky &amp; Telescope</title></source>
+
+	<category term="astronomy news"/>
+
+	<category term="solar system"/>
+
+	<category term="iau"/>
+
+	<category term="pluto"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-29:/423982</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-08/nsfc-nlm082917.php" rel="alternate" type="text/html"/>
+	<title type="html">NASA's Lunar mission captures solar eclipse as seen from the moon</title>
+	<summary type="html"><![CDATA[<p>(NASA/Goddard Space Flight Center) LRO captured an image of the Moon's shadow over a large region of...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>NASA/Goddard Space Flight Center</i>) LRO captured an image of the Moon's shadow over a large region of the United States, centered just north of Nashville, Tennessee.</p>]]></content>
+	<updated>2017-08-29T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-08-29T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-21:/421177</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-08/hd-ini082117.php" rel="alternate" type="text/html"/>
+	<title type="html">In Neptune, it's raining diamonds</title>
+	<summary type="html"><![CDATA[<p>(Helmholtz-Zentrum Dresden-Rossendorf) Researchers at HZDR have managed to demonstrate 'diamond show...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Helmholtz-Zentrum Dresden-Rossendorf</i>) Researchers at HZDR have managed to demonstrate 'diamond showers' forming in the ice giants of our solar system. Using the ultra-strong X-ray laser and other facilities at the Stanford Linear Accelerator Center, they simulated the conditions inside the cosmic giants. For the first time ever, they were able to observe the fission of hydrocarbon and the conversion of carbon into diamonds in real time. They published their results in the journal Nature Astronomy.</p>]]></content>
+	<updated>2017-08-21T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-08-21T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-16:/419968</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-08/nsfc-nlt081617.php" rel="alternate" type="text/html"/>
+	<title type="html">NASA's LRO team wants you to wave at the moon</title>
+	<summary type="html"><![CDATA[<p>(NASA/Goddard Space Flight Center) NASA's Lunar Reconnaissance Orbiter (LRO) team invites the public...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>NASA/Goddard Space Flight Center</i>) NASA's Lunar Reconnaissance Orbiter (LRO) team invites the public to wave at the Moon on Aug. 21 as LRO turns its camera toward Earth.</p>]]></content>
+	<updated>2017-08-16T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-08-16T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-15:/419580</id>
+	<link href="http://www.skyandtelescope.com/astronomy-news/curiosity-rover-watches-clouds-mars/" rel="alternate" type="text/html"/>
+	<title type="html">Curiosity Rover Watches Clouds on Mars</title>
+	<summary type="html"><![CDATA[<p>Barely visible water-ice clouds coast across Mars&rsquo;s skies in new videos from the Curiosity rover.
+Th...</p>]]></summary>
+	<content type="html"><![CDATA[<p><strong><span><em>Barely visible water-ice clouds coast across Mars&rsquo;s skies in new videos from the Curiosity rover.</em></span></strong></p>
+<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/PIA21841_NRB_Sol01758_553537959_Zenith.gif" alt="Thin clouds float above NASA&rsquo;s Curiosity Mars Rover last July." width="600" height="600"><p>Thin clouds float above NASA&rsquo;s Curiosity Mars Rover last July. This videos is made from eight still images each taken over a period of four minutes by Curiosity&rsquo;s Navcam camera.&nbsp;<br><em>NASA / JPL-Caltech / York University</em></p></div>
+<p>Every now and then, the operators of NASA&rsquo;s Mars Science Laboratory mission Curiosity take a break from avoiding sand traps and analyzing rocks for <a href="http://www.skyandtelescope.com/uncategorized/curiosity-discoveries-mars/" rel="noopener noreferrer" target="_blank">signs of ancient, habitable environments</a> and instead point the rover&rsquo;s robotic eyes to the sky to look at the clouds.</p>
+<p>That&rsquo;s what they did last month on July 17th, when early in the Martian morning they pointed Curiosity&rsquo;s Navigation Camera (Navcam) up to capture two image sequences of feathery clouds as they drifted overhead.</p>
+<p>The <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA21841" target="_blank" rel="noopener noreferrer">first clip</a> shows smoky thin clouds moving from left to right as they pass right above the rover. <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA21840" target="_blank" rel="noopener noreferrer">In the second</a>, the camera is aimed to the southern horizon line, revealing how a thin layer of similarly wispy clouds floats above two rounded hills. The Martian clouds shown in the videos look strikingly familiar and Earth-like. According to NASA, these cloud images are the &ldquo;most clearly visible so far from Curiosity.&rdquo;</p>
+<p>Each sequence is made of eight images taken over a 4-minute time span. They have been processed to adjust for sensitivity differences among pixels in the camera&rsquo;s sensor and to remove lens artifacts and then creating an &ldquo;average&rdquo; of all the frames and subtracting it from each individual frame. These corrections enhance the changes caused by movement and lightning &ndash; at the cost of adding some extra grain &ndash; making the clouds easier to see. NASA also published a <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA21842" target="_blank" rel="noopener noreferrer">version of the first video without enhancements</a> where the clouds are much less noticeable.</p>
+<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/PIA21840_NRB_Sol01758_553538275_SHM.gif" alt="Wispy clouds above the horizon on Mars" width="600" height="600"><p>Wispy clouds above the horizon on Mars recorded by Curiosity&rsquo;s Navcam camera.&nbsp; <br><em>NASA / JPL-Caltech / York University</em></p></div>
+<p>Although the rover&rsquo;s operators most likely appreciate the change of subject, this is not a leisure activity. Researchers have been observing the Martian sky from the planet&rsquo;s surface from years, using Curiosity and other previous missions such as the Phoenix Mars Lander, in order to study its climate.</p>
+<p>Thanks to these observations as well as others by orbiting spacecraft and the Hubble Space Telescope, scientists have learned much about Mars&rsquo;s cloud regime, which is driven by the planet&rsquo;s elliptical orbit. When Mars is closer to the Sun, the extra sunlight it receives heats things up and can create global dust storms that may prevent cloud formation. As it moves away from our star and cools down, clouds begin to form in two major systems: made of frozen carbon dioxide on top of the colder poles and made of water-ice along a wide band following the equator.</p>
+<p>These videos show examples of the second type &ndash; water-ice cirrus clouds similar to the ones found on Earth.</p>
+<p>You can read more about the videos in <a href="https://www.jpl.nasa.gov/news/news.php?feature=6917" target="_blank" rel="noopener noreferrer">NASA&rsquo;s Jet Propulsion Laboratory&rsquo;s</a> press release.</p>
+<p>&nbsp;</p>
+
+<p>Explore Mars for yourself with <a href="http://www.shopatsky.com/mars-globe-combo-1?utm_source=skyandtelescope.com&amp;utm_medium=referral&amp;utm_campaign=sky-JBA-at-170815" rel="noopener noreferrer" target="_blank">our Mars globes</a>.</p>
+<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-news/curiosity-rover-watches-clouds-mars/" target="_blank">Curiosity Rover Watches Clouds on Mars</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
+	<updated>2017-08-15T20:03:40+00:00</updated>
+	<author><name>Javier Barbuzano</name></author>
+	<source>
+		<id>http://www.skyandtelescope.com</id>
+		<link rel="self" href="http://www.skyandtelescope.com"/>
+		<updated>2017-08-15T20:03:40+00:00</updated>
+		<title>Sky &amp; Telescope</title></source>
+
+	<category term="astronomy news"/>
+
+	<category term="solar system"/>
+
+	<category term="curiosity"/>
+
+	<category term="mars"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-07-25:/413143</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-07/uoc-vta072517.php" rel="alternate" type="text/html"/>
+	<title type="html">Venus's turbulent atmosphere</title>
+	<summary type="html"><![CDATA[<p>(University of Cologne) A research paper published today by Nature Astronomy sheds light on the so f...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Cologne</i>) A research paper published today by Nature Astronomy sheds light on the so far un-explored nightside circulation at the upper cloud level of Venus. Researchers from the Rhenish Institute for Environmental Research at the University of Cologne are part of an international research project which has now presented these first comprehensive findings. They discovered unexpected patterns of slow motion and abundant station-ary waves in Venus's nighttime sky.</p>]]></content>
+	<updated>2017-07-25T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-07-25T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-07-20:/411830</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-07/nsfc-nhs072017.php" rel="alternate" type="text/html"/>
+	<title type="html">NASA's Hubble sees martian moon orbiting the Red Planet</title>
+	<summary type="html"><![CDATA[<p>(NASA/Goddard Space Flight Center) Hubble captured the tiny moon Phobos during its orbital trek arou...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>NASA/Goddard Space Flight Center</i>) Hubble captured the tiny moon Phobos during its orbital trek around Mars: so small, it appears star-like in the Hubble pictures.</p>]]></content>
+	<updated>2017-07-20T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-07-20T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-24:/432018</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-09/dc-hat092117.php" rel="alternate" type="text/html"/>
+	<title type="html">How aerial thermal imagery is revolutionizing archaeology</title>
+	<summary type="html"><![CDATA[<p>(Dartmouth College) A Dartmouth-led study has demonstrated how the latest aerial thermal imagery is ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Dartmouth College</i>) A Dartmouth-led study has demonstrated how the latest aerial thermal imagery is transforming archaeology due to advancements in technology. Today's thermal cameras, commercial drones and photogrammetric software has introduced a new realm of possibilities for collecting site data--  field survey data across a much larger area can now be obtained  in much less time. The findings in Advances in Archaeological Practice serve as a manual on how to use aerial thermography.</p>]]></content>
+	<updated>2017-09-24T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-09-24T04:00:00+00:00</updated>
+		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-06-16:/401809</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-06/nsfc-mt1061617.php" rel="alternate" type="text/html"/>
+	<title type="html">MAVEN's top 10 discoveries at Mars</title>
+	<summary type="html"><![CDATA[<p>(NASA/Goddard Space Flight Center) Since its launch in November 2013 and its orbit insertion in Sept...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>NASA/Goddard Space Flight Center</i>) Since its launch in November 2013 and its orbit insertion in September 2014, MAVEN has been exploring the upper atmosphere of Mars. MAVEN is bringing insight to how the sun stripped Mars of most of its atmosphere, turning a planet once possibly habitable to microbial life into a barren desert world.</p>]]></content>
+	<updated>2017-06-16T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-06-16T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-05-05:/390078</id>
+	<link href="https://www.newscientist.com/article/2129902-watch-cassinis-first-two-dives-between-saturn-and-its-rings/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=space&amp;campaign_id=RSS%7CNSNS-space" rel="alternate" type="text/html"/>
+	<title type="html">Watch Cassini’s first two dives between Saturn and its rings</title>
+	<summary type="html"><![CDATA[<p>New video puts those stunning first images from the Cassini spacecraft's Grand Finale into context i...</p>]]></summary>
+	<content type="html"><![CDATA[<p>New video puts those stunning first images from the Cassini spacecraft's Grand Finale into context in Saturn's cloud tops</p>]]></content>
+	<updated>2017-05-04T20:42:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.newscientist.com</id>
+		<link rel="self" href="https://www.newscientist.com"/>
+		<updated>2017-05-04T20:42:00+00:00</updated>
+		<title>New Scientist - Space</title></source>
+
+	<category term="solar system"/>
+
+	<category term="space"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-05-04:/389686</id>
+	<link href="https://www.newscientist.com/article/2129805-first-results-from-jupiter-probe-show-huge-magnetism-and-storms/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=space&amp;campaign_id=RSS%7CNSNS-space" rel="alternate" type="text/html"/>
+	<title type="html">First results from Jupiter probe show huge magnetism and storms</title>
+	<summary type="html"><![CDATA[<p>Observations from the Juno spacecraft are confounding astronomers with revelations about the weather...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Observations from the Juno spacecraft are confounding astronomers with revelations about the weather and magnetism of our solar system's biggest planet</p>]]></content>
+	<updated>2017-05-03T17:57:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.newscientist.com</id>
+		<link rel="self" href="https://www.newscientist.com"/>
+		<updated>2017-05-03T17:57:00+00:00</updated>
+		<title>New Scientist - Space</title></source>
+
+
+</entry>
+
+
+</feed>
+<!-- vim:ft=xml
+	  -->
