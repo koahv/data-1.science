@@ -5,11 +5,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-05-03T17:57:00+00:00</updated>
+<updated>2017-07-20T04:00:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2016-08-12:/313831</id>
+	<link href="https://www.linux.com/learn/how-send-and-receive-encrypted-data-gnupg" rel="alternate" type="text/html"/>
+	<title type="html">How to Send and Receive Encrypted Data with GnuPG</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;How to Send and Receive Encrypted Data with GnuPG12 AugLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">How to Send and Receive Encrypted Data with GnuPG</div></div></div><div><div><div>12 Aug</div></div></div><div><div><div><div><a href="http://localhost/learn/how-send-and-receive-encrypted-data-gnupg%20" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2016-08-12T13:00:48+00:00</updated>
+	<author><name>jlwallen</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-08-12T13:00:48+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-09:/312832</id>
+	<link href="https://linux-audit.com/difference-between-centos-fedora-rhel/" rel="alternate" type="text/html"/>
+	<title type="html">Difference between CentOS, Fedora, and RHEL</title>
+	<summary type="html"><![CDATA[<p>Difference between CentOS, Fedora, and RHEL The biggest open source company is nowadays Red Hat. It ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Difference between CentOS, Fedora, and RHEL The biggest open source company is nowadays Red Hat. It is known for its contributions to many open source projects, including the Linux kernel itself. Less known is that Red Hat is involved in different Linux distributions, directly or indirectly. Fedora Fedora has received many updates and individual releases over the years. It is a playground for new functionality. Often new technology is found here. It can be compared with other distributions like Arch [...]</p><p>The post <a rel="noopener noreferrer" href="https://linux-audit.com/difference-between-centos-fedora-rhel/" target="_blank">Difference between CentOS, Fedora, and RHEL</a> appeared first on <a rel="noopener noreferrer" href="https://linux-audit.com" target="_blank">Linux Audit</a>.</p>]]></content>
+	<updated>2016-08-09T15:44:05+00:00</updated>
+	<author><name>Michael Boelen</name></author>
+	<source>
+		<id>https://linux-audit.com</id>
+		<link rel="self" href="https://linux-audit.com"/>
+		<updated>2016-08-09T15:44:05+00:00</updated>
+		<title>Linux Audit</title></source>
+
+	<category term="linux"/>
+
+	<category term="centos"/>
+
+	<category term="comparison"/>
+
+	<category term="fedora"/>
+
+	<category term="rhel"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-08:/312183</id>
+	<link href="https://www.linux.com/learn/how-encrypt-and-decrypt-files-and-directories-using-tar-and-openssl" rel="alternate" type="text/html"/>
+	<title type="html">How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL6 AugLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL</div></div></div><div><div><div>6 Aug</div></div></div><div><div><div><div><a href="http://localhost/learn/how-encrypt-and-decrypt-files-and-directories-using-tar-and-openssl" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2016-08-06T06:58:26+00:00</updated>
+	<author><name>Tecmint</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-08-06T06:58:26+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-01:/434203</id>
+	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=NASA-Eyes-Still-Linux-Port" rel="alternate" type="text/html"/>
+	<title type="html">NASA's Eyes Is Still Being Ported To Linux</title>
+	<summary type="html"><![CDATA[<p>NASA is still said to be porting their "Eyes" visualization software to Linux...</p>]]></summary>
+	<content type="html"><![CDATA[<p>NASA is still said to be porting their "Eyes" visualization software to Linux...</p>]]></content>
+	<updated>2017-10-01T11:26:37+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2017-10-01T11:26:37+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-09-29:/433965</id>
@@ -1322,78 +1400,6 @@ Th...</p>]]></summary>
 		<link rel="self" href="http://www.eurekalert.org"/>
 		<updated>2017-07-20T04:00:00+00:00</updated>
 		<title>EurekAlert! - Space and Planetary Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-24:/432018</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-09/dc-hat092117.php" rel="alternate" type="text/html"/>
-	<title type="html">How aerial thermal imagery is revolutionizing archaeology</title>
-	<summary type="html"><![CDATA[<p>(Dartmouth College) A Dartmouth-led study has demonstrated how the latest aerial thermal imagery is ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Dartmouth College</i>) A Dartmouth-led study has demonstrated how the latest aerial thermal imagery is transforming archaeology due to advancements in technology. Today's thermal cameras, commercial drones and photogrammetric software has introduced a new realm of possibilities for collecting site data--  field survey data across a much larger area can now be obtained  in much less time. The findings in Advances in Archaeological Practice serve as a manual on how to use aerial thermography.</p>]]></content>
-	<updated>2017-09-24T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-09-24T04:00:00+00:00</updated>
-		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-16:/401809</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-06/nsfc-mt1061617.php" rel="alternate" type="text/html"/>
-	<title type="html">MAVEN's top 10 discoveries at Mars</title>
-	<summary type="html"><![CDATA[<p>(NASA/Goddard Space Flight Center) Since its launch in November 2013 and its orbit insertion in Sept...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>NASA/Goddard Space Flight Center</i>) Since its launch in November 2013 and its orbit insertion in September 2014, MAVEN has been exploring the upper atmosphere of Mars. MAVEN is bringing insight to how the sun stripped Mars of most of its atmosphere, turning a planet once possibly habitable to microbial life into a barren desert world.</p>]]></content>
-	<updated>2017-06-16T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-06-16T04:00:00+00:00</updated>
-		<title>EurekAlert! - Space and Planetary Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-05:/390078</id>
-	<link href="https://www.newscientist.com/article/2129902-watch-cassinis-first-two-dives-between-saturn-and-its-rings/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=space&amp;campaign_id=RSS%7CNSNS-space" rel="alternate" type="text/html"/>
-	<title type="html">Watch Cassini’s first two dives between Saturn and its rings</title>
-	<summary type="html"><![CDATA[<p>New video puts those stunning first images from the Cassini spacecraft's Grand Finale into context i...</p>]]></summary>
-	<content type="html"><![CDATA[<p>New video puts those stunning first images from the Cassini spacecraft's Grand Finale into context in Saturn's cloud tops</p>]]></content>
-	<updated>2017-05-04T20:42:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.newscientist.com</id>
-		<link rel="self" href="https://www.newscientist.com"/>
-		<updated>2017-05-04T20:42:00+00:00</updated>
-		<title>New Scientist - Space</title></source>
-
-	<category term="solar system"/>
-
-	<category term="space"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-04:/389686</id>
-	<link href="https://www.newscientist.com/article/2129805-first-results-from-jupiter-probe-show-huge-magnetism-and-storms/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=space&amp;campaign_id=RSS%7CNSNS-space" rel="alternate" type="text/html"/>
-	<title type="html">First results from Jupiter probe show huge magnetism and storms</title>
-	<summary type="html"><![CDATA[<p>Observations from the Juno spacecraft are confounding astronomers with revelations about the weather...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Observations from the Juno spacecraft are confounding astronomers with revelations about the weather and magnetism of our solar system's biggest planet</p>]]></content>
-	<updated>2017-05-03T17:57:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.newscientist.com</id>
-		<link rel="self" href="https://www.newscientist.com"/>
-		<updated>2017-05-03T17:57:00+00:00</updated>
-		<title>New Scientist - Space</title></source>
 
 
 </entry>
