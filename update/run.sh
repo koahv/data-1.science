@@ -4,6 +4,7 @@ time sh locate.sh
 echo shell:index.sh
 time sh index.sh
 cd ..
+git pull
 git add .
 git commit -m "update"
 git push
