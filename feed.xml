@@ -4,11 +4,291 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-07-20T04:00:00+00:00</updated>
+<updated>2016-11-03T07:03:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2016-08-29:/318656</id>
+	<link href="http://www.linuxsecurity.com/content/view/168450?rdf" rel="alternate" type="text/html"/>
+	<title type="html">Mozilla launches free website security scanning service</title>
+	<summary type="html"><![CDATA[<p>LinuxSecurity.com:  In order to help webmasters better protect their websites and users, Mozilla has...</p>]]></summary>
+	<content type="html"><![CDATA[<b>LinuxSecurity.com</b>:  In order to help webmasters better protect their websites and users, Mozilla has built an online scanner that can check if web servers have the best security settings in place.]]></content>
+	<updated>2016-08-29T09:16:36+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.linuxsecurity.com/</id>
+		<link rel="self" href="http://www.linuxsecurity.com/"/>
+		<updated>2016-08-29T09:16:36+00:00</updated>
+		<title>LinuxSecurity.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-05:/435494</id>
+	<link href="http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Colourful_dunes_on_wind-swept_Mars" rel="alternate" type="text/html"/>
+	<title type="html">Colourful dunes on wind-swept Mars</title>
+	<summary type="html"><![CDATA[<p>Dunes are prominent indicators of prevailing winds, as can be seen on this crater floor...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/10/dune_field_in_a_crater_perspective_view/17176667-1-eng-GB/Dune_field_in_a_crater_perspective_view_small.jpg" width="170" height="96" align="left" hspace="8"><br>
+		<p>
+Dunes are prominent indicators of prevailing winds, as can be seen on this crater floor on Mars, imaged by ESA&rsquo;s Mars Express on 16 May.
+</p>]]></content>
+	<updated>2017-10-05T09:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.esa.int/</id>
+		<link rel="self" href="http://www.esa.int/"/>
+		<updated>2017-10-05T09:00:00+00:00</updated>
+		<title>ESA Top News</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-18:/315574</id>
+	<link href="https://www.linux.com/news/top-10-iot-application-areas-based-real-iot-projects" rel="alternate" type="text/html"/>
+	<title type="html">The Top 10 IoT Application Areas – Based on Real IoT Projects</title>
+	<summary type="html"><![CDATA[<p>As part of a larger effort to track the IoT ecosystem, we set out, mining hundreds of homepages, and...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>As part of a larger effort to track the IoT ecosystem, we set out, mining hundreds of homepages, and managed to assemble and verify&nbsp;<strong>640 actual enterprise&nbsp;<a href="https://iot-analytics.com/product/list-of-640-iot-projects/" target="_blank" rel="noopener noreferrer">IoT projects&nbsp;</a></strong><em>(Note: We did not include any consumer IoT projects such as wearable devices or hobby projects).</em>&nbsp;In a second step we took the time to collect all published information about these IoT projects and put them into a structured&nbsp;<a href="https://iot-analytics.com/product/list-of-640-iot-projects/" target="_blank" rel="noopener noreferrer">list</a></p></div></div></div>]]></content>
+	<updated>2016-08-18T07:00:00+00:00</updated>
+	<author><name>IoT Analytics</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-08-18T07:00:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-16:/314721</id>
+	<link href="https://www.linux.com/news/lets-encrypt-why-create-free-automated-and-open-ca" rel="alternate" type="text/html"/>
+	<title type="html">Let's Encrypt: Why Create a Free, Automated, and Open CA?</title>
+	<summary type="html"><![CDATA[<p>During the summer of 2012,&nbsp;Eric Rescorla&nbsp;and I decided to start a&nbsp;Certificate Authority (CA). A CA a...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>During the summer of 2012,&nbsp;<a href="https://blog.mozilla.org/press/bios/eric-rescorla/" target="_blank" rel="noopener noreferrer">Eric Rescorla</a>&nbsp;and I decided to start a&nbsp;<a href="https://opensource.com/business/16/8/%E2%80%9Dhttps://en.wikipedia.org/wiki/Certificate_authority%E2%80%9D" rel="noopener noreferrer" target="_blank">Certificate Authority (CA)</a>. A CA acts as a third-party to issue digital certificates, which certify public keys for certificate holders.</p></div></div></div>]]></content>
+	<updated>2016-08-16T14:33:00+00:00</updated>
+	<author><name>OpenSource.com</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-08-16T14:33:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-05:/311835</id>
+	<link href="https://www.linux.com/news/graph-databases-beginners-graph-search-algorithm-basics" rel="alternate" type="text/html"/>
+	<title type="html">Graph Databases for Beginners: Graph Search Algorithm Basics</title>
+	<summary type="html"><![CDATA[<p>While&nbsp;graph databases&nbsp;are certainly a rising tide in the world of technology, graph theory and graph...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>While&nbsp;<a href="http://neo4j.com/blog/why-graph-databases-are-the-future/#definition" target="_blank" rel="noopener noreferrer">graph databases</a>&nbsp;are certainly a rising tide in the world of technology, graph theory and graph algorithms are mature and well-understood fields of computer science.</p>
+<div>
+<p>In particular, graph search algorithms can be used to mine useful patterns and results from persisted graph data. As this is a practical introduction to graph databases, this blog post will discuss the basics of graph theory without diving too deeply into mathematics.</p></div></div></div></div>]]></content>
+	<updated>2016-08-05T13:30:00+00:00</updated>
+	<author><name>DZone</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-08-05T13:30:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-05:/311836</id>
+	<link href="https://www.linux.com/learn/nvidia-jetson-tx1-developer-kit-tiny-low-power-ultra-fast-computer" rel="alternate" type="text/html"/>
+	<title type="html">The NVIDIA Jetson TX1 Developer Kit: A Tiny, Low Power, Ultra Fast Computer</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;The NVIDIA Jetson TX1 Developer Kit: A Tiny, Low Power, Ultra Fast Computer5 AugLearn mo...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">The NVIDIA Jetson TX1 Developer Kit: A Tiny, Low Power, Ultra Fast Computer</div></div></div><div><div><div>5 Aug</div></div></div><div><div><div><div><a href="http://localhost/learn/nvidia-jetson-tx1-developer-kit-tiny-low-power-ultra-fast-computer%20" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2016-08-05T13:00:24+00:00</updated>
+	<author><name>monkeyiq</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-08-05T13:00:24+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-25:/432152</id>
+	<link href="https://opensource.com/article/17/9/color-naming-word-embeddings" rel="alternate" type="text/html"/>
+	<title type="html">Using machine learning to name colors</title>
+	<summary type="html"><![CDATA[<p>On a recent trip to Michigan, my friend Tim Sosa&nbsp;mentioned a blog post he read in which the author, ...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/lead-images/colors-colorful-box-rectangle.png" width="520" height="292" alt="Using machine learning to name colors" title="Using machine learning to name colors"><p>On a recent trip to Michigan, my friend <a href="https://twitter.com/TimDrawsFish" target="_blank" rel="noopener noreferrer">Tim Sosa</a>&nbsp;mentioned a <a href="http://lewisandquark.tumblr.com/post/160776374467/new-paint-colors-invented-by-neural-network" target="_blank" rel="noopener noreferrer">blog post he read</a> in which the author, Janelle Shane, describes how she built a neural network that <a href="https://www.theatlantic.com/technology/archive/2017/05/when-a-robot-names-a-new-color-of-paint/527421/" target="_blank" rel="noopener noreferrer">generates color names from RGB values</a>. I thought the idea was really neat, but I found the results underwhelming.</p>
+<br>
+<a href="https://opensource.com/article/17/9/color-naming-word-embeddings" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-09-25T07:02:00+00:00</updated>
+	<author><name>malcorn</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-09-25T07:02:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-26:/432731</id>
+	<link href="https://www.linux.com/news/mastering-file-searches-linux" rel="alternate" type="text/html"/>
+	<title type="html">Mastering File Searches on Linux</title>
+	<summary type="html"><![CDATA[<p>There are many ways to search for files on Linux systems and the commands can be very easy or very s...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>There are many ways to search for files on Linux systems and the commands can be very easy or very specific &mdash;&nbsp;narrowing down your search criteria to find what just you're looking for and nothing else. In today's post, we're going to examine some of the most useful commands and options for your file searches. We're going to look into:</p></div></div></div>]]></content>
+	<updated>2017-09-26T09:07:40+00:00</updated>
+	<author><name>Network World</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-09-26T09:07:40+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-27:/432986</id>
+	<link href="https://opensource.com/article/17/9/7-best-practices-giving-conference-talk" rel="alternate" type="text/html"/>
+	<title type="html">7 best practices for giving a conference talk</title>
+	<summary type="html"><![CDATA[<p>You want your first speaking experience to be a happy one, so I've prepared tips that may help you w...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/lead-images/osdc_share_pixels.png" width="520" height="292" alt="7 best practices for giving a conference talk" title="7 best practices for giving a conference talk"><p>You want your first speaking experience to be a happy one, so I've prepared tips that may help you when writing and presenting your talk.</p>
+<h2>1. Know your audience</h2>
+<p>The <a href="http://seagl.org/" target="_blank" rel="noopener noreferrer">SeaGL</a> audience, for example, is an interesting mix of those new to tech and folks who have been around technology for a long time. Because the conference is held at a community college, you can expect the Friday audience in particular to have a large number of students.</p>
+<br>
+<a href="https://opensource.com/article/17/9/7-best-practices-giving-conference-talk" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-09-27T07:00:00+00:00</updated>
+	<author><name>vmbrasseur</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-09-27T07:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/435024</id>
+	<link href="https://phys.org/news/2017-10-brain-computer-interface-music-composition.html" rel="alternate" type="text/html"/>
+	<title type="html">A new brain-computer interface for music composition</title>
+	<summary type="html"><![CDATA[<p>If that melody has just come to you, and if you know your way around a score, you might be able to t...</p>]]></summary>
+	<content type="html"><![CDATA[<p>If that melody has just come to you, and if you know your way around a score, you might be able to think it into being now a group of researchers have developed a new brain-computer interface (BCI) application.</p>]]></content>
+	<updated>2017-10-04T12:50:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-04T12:50:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="engineering"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/anewbraincom.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/435029</id>
+	<link href="https://phys.org/news/2017-10-bumblebees-human-intelligence-memory.html" rel="alternate" type="text/html"/>
+	<title type="html">Studying bumblebees to learn more about human intelligence and memory</title>
+	<summary type="html"><![CDATA[<p>(Phys.org)&mdash;A team of researchers at Queen Mary University in the U.K. has found that bumblebees with...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(Phys.org)&mdash;A team of researchers at Queen Mary University in the U.K. has found that bumblebees with more "synaptic complexes" in their brains are able to learn new things more quickly and also have better memories than those with fewer of them. In their paper published in Proceedings of the Royal Society B the group describes studying neural connections in individual bee brains and comparing what they found with cognitive abilities.</p>]]></content>
+	<updated>2017-10-04T12:30:02+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-04T12:30:02+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="plants &amp; animals"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/bumblebee.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/434987</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/fos--aar100417.php" rel="alternate" type="text/html"/>
+	<title type="html">ALMA and Rosetta detect freon-40 in space</title>
+	<summary type="html"><![CDATA[<p>(Faculty of Science - University of Copenhagen) Observations made with the Atacama Large Millimeter/...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Faculty of Science - University of Copenhagen</i>) Observations made with the Atacama Large Millimeter/submillimeter Array (ALMA) and ESA's Rosetta mission by an international team, including researchers from the Niels Bohr Institute, have revealed the presence of the organohalogen Freon-40 in gas around both an infant star and a comet. This discovery suggests that organohalogens may not be as good markers of life as had been hoped, but that they may be significant components of the material from which planets form.</p>]]></content>
+	<updated>2017-10-04T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-04T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/434984</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/foas-sia100417.php" rel="alternate" type="text/html"/>
+	<title type="html">Scientists identify a possible therapeutic target for regulating body weight</title>
+	<summary type="html"><![CDATA[<p>(Federation of American Societies for Experimental Biology) A new study published online in The FASE...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Federation of American Societies for Experimental Biology</i>) A new study published online in The FASEB Journal (http://www.fasebj.org) reveals a novel gene involved in maintaining body weight.</p>]]></content>
+	<updated>2017-10-04T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-04T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/434981</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/nsfc-nwt100417.php" rel="alternate" type="text/html"/>
+	<title type="html">NASA's Webb Telescope to witness galactic infancy</title>
+	<summary type="html"><![CDATA[<p>(NASA/Goddard Space Flight Center) Scientists will use NASA's James Webb Space Telescope to study se...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>NASA/Goddard Space Flight Center</i>) Scientists will use NASA's James Webb Space Telescope to study sections of the sky previously observed by NASA's Great Observatories, including the Hubble Space Telescope and the Spitzer Space Telescope, to understand the creation of the universe's first galaxies and stars.</p>]]></content>
+	<updated>2017-10-04T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-04T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/434990</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/ou-anw100317.php" rel="alternate" type="text/html"/>
+	<title type="html">A new way to produce clean hydrogen fuel from water using sunlight</title>
+	<summary type="html"><![CDATA[<p>(Osaka University) Osaka University-centered researchers combined graphitic carbon nitride and black...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Osaka University</i>) Osaka University-centered researchers combined graphitic carbon nitride and black phosphorous to make a new metal-free composite photocatalyst capable of producing hydrogen from water. The photocatalyst featured good photocatalytic production of hydrogen, even when powered by low-energy near infrared light.</p>]]></content>
+	<updated>2017-10-03T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-03T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2016-08-12:/313831</id>
@@ -1056,349 +1336,6 @@
 		<link rel="self" href="https://opensource.com/frontpage"/>
 		<updated>2016-11-03T07:03:00+00:00</updated>
 		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-07:/330138</id>
-	<link href="https://opensource.com/life/16/9/public-library-open-source" rel="alternate" type="text/html"/>
-	<title type="html">Why public libraries need to support open source</title>
-	<summary type="html"><![CDATA[<p>People turn to public libraries for answers, and a lot of times&nbsp;libraries are superb at providing th...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/education/EDUCATION_colorbooks.png" width="520" height="292" alt="Why public libraries need to support open source" title="Why public libraries need to support open source"><p>People turn to public libraries for answers, and a lot of times&nbsp;libraries are superb at providing them. But when it comes to providing answers about open source,&nbsp;libraries have an uneven track record.</p>
-<p>What can we do to make this better so that more people can turn to their public library to learn about open source software, hardware, and&nbsp;principles?</p>
-<br>
-<a href="https://opensource.com/life/16/9/public-library-open-source" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2016-10-07T07:00:00+00:00</updated>
-	<author><name>pshapiro</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2016-10-07T07:00:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-04:/329156</id>
-	<link href="http://www.networkworld.com/article/3127133/open-source-tools/what-cios-need-to-know-about-open-source-forking.html#tk.rss_opensourcesubnet" rel="alternate" type="text/html"/>
-	<title type="html">What you need to know about open source forking</title>
-	<summary type="html"><![CDATA[<p>Picture this: Your company is ticking along nicely, making use of a reliable and well-engineered ...</p>]]></summary>
-	<content type="html"><![CDATA[<article>
-	<section>
-<p>Picture this: Your company is ticking along nicely, making use of a reliable and well-engineered piece of software to support some important business process, when suddenly it becomes apparent that all is not well in the project's developer community. A fork is in the cards, and the very future of the project hangs in the balance.</p><p>Before we get to the crucial questions of whether a fork is really such a bad thing and what a CIO should do when faced with one, let's first be clear about what we're talking about.</p><p>In their <a href="http://flosshub.org/sites/flosshub.org/files/paper_0.pdf" rel="noopener noreferrer" target="_blank">study of software forks</a>, researchers Gregorio Robles and Jesus M. Gonzalez-Barahona of the Universidad Rey Juan Carlos in Spain define a fork like this:</p><p><a href="http://localhost/article/3127133/open-source-tools/what-cios-need-to-know-about-open-source-forking.html#jump" rel="noopener noreferrer" target="_blank">To read this article in full or to leave a comment, please click here</a></p></section></article>]]></content>
-	<updated>2016-10-04T17:07:00+00:00</updated>
-	<author><name>Paul Rubens</name></author>
-	<source>
-		<id>https://www.networkworld.com</id>
-		<link rel="self" href="https://www.networkworld.com"/>
-		<updated>2016-10-04T17:07:00+00:00</updated>
-		<title>Network World Open Source Subnet</title></source>
-
-	<category term="open source"/>
-
-	<category term="applications"/>
-
-	<category term="application development"/>
-
-	<category term="open source subnet"/>
-
-
-	<link rel="enclosure" 
-		type="" 
-		length="1"
-		href="http://zapt0.staticworld.net/images/article/2016/10/fork-100685805-primary.idge.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-16:/324335</id>
-	<link href="https://opensource.com/life/16/9/what-free-software" rel="alternate" type="text/html"/>
-	<title type="html">What is free software?</title>
-	<summary type="html"><![CDATA[<p>The&nbsp;Digital Freedom Foundation&nbsp;defines free software&nbsp;as&nbsp;the freedom to use, study, distribute, modif...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/law/LAW_foss_folks.png" width="520" height="292" alt="What is free software?" title="What is free software?"><p>The&nbsp;<a href="http://www.digitalfreedomfoundation.org/" target="_blank" rel="noopener noreferrer">Digital Freedom Foundation</a>&nbsp;defines <em>free software</em>&nbsp;as&nbsp;the freedom to use, study, distribute, modify, and access software. You can't go wrong with this poll!</p>
-<p>In honor of Software Freedom Day,&nbsp;tomorrow on September 17, we wonder how you plan to contribute to the global event tomorrow? Leave us your message in the comments.</p>
-<br>
-<a href="https://opensource.com/life/16/9/what-free-software" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2016-09-16T06:00:00+00:00</updated>
-	<author><name>admin</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2016-09-16T06:00:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-13:/323156</id>
-	<link href="https://opensource.com/life/16/8/open-source-helps-define-chiles-future-energy-policies" rel="alternate" type="text/html"/>
-	<title type="html">Chile&amp;#039;s green energy future is powered by open data analysis</title>
-	<summary type="html"><![CDATA[<p>Open source software and open data play key roles in implementing Chile's long-term energy planning,...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/osdc_520x292_opendata_0613mm.png" width="520" height="292" alt="Chile's green energy future is powered by open data analysis" title="Chile's green energy future is powered by open data analysis"><p>Open source software and open data play key roles in implementing Chile's long-term energy planning, identifying ways to get the maximum value from development, minimizing its impact, and requiring less development overall.</p>
-<br>
-<a href="https://opensource.com/life/16/8/open-source-helps-define-chiles-future-energy-policies" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2016-09-13T07:02:00+00:00</updated>
-	<author><name>clhermansen</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2016-09-13T07:02:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-08-23:/316694</id>
-	<link href="https://opensource.com/education/16/8/7-resources-open-education-materials" rel="alternate" type="text/html"/>
-	<title type="html">7 resources for open education materials</title>
-	<summary type="html"><![CDATA[<p>Shrinking school budgets and growing interest in open content has created an increased demand for op...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/education/osdc_OER_520x292_FINAL.png" width="520" height="292" alt="7 resources for open education materials" title="7 resources for open education materials"><p>Shrinking school budgets and growing interest in open content has created an increased demand for open educational resources. According to the <a href="https://www.fcc.gov/blog/fcc-chairman-digital-textbooks-all-students-five-years" rel="noopener noreferrer" target="_blank">FCC</a>, "The U.S. spends more than $7 billion per year on K-12 textbooks, but too many students are still using books that are 7-10 years old, with outdated material." There is an alternative: openly licensed courseware. But&nbsp;where do you find this content and how can you share your own teaching and learning materials?</p>
-<br>
-<a href="https://opensource.com/education/16/8/7-resources-open-education-materials" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2016-08-23T07:03:00+00:00</updated>
-	<author><name>Don Watkins</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2016-08-23T07:03:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-08-09:/312567</id>
-	<link href="https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6" rel="alternate" type="text/html"/>
-	<title type="html">How to build your own Git server</title>
-	<summary type="html"><![CDATA[<p>Read:
-
-read more</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/bus-big-data.png" width="520" height="292" alt="How to build your own Git server" title="How to build your own Git server"><p><em>Read:</em></p>
-<br>
-<a href="https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2016-08-09T07:02:00+00:00</updated>
-	<author><name>sethkenlon</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2016-08-09T07:02:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-13:/428595</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-09/bu-rcf091317.php" rel="alternate" type="text/html"/>
-	<title type="html">Researchers create first global map of water in moon's soil</title>
-	<summary type="html"><![CDATA[<p>(Brown University) A new study maps the trace concentrations of water implanted in the lunar soil by...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Brown University</i>) A new study maps the trace concentrations of water implanted in the lunar soil by the solar wind, a water source that could be used as resource in future lunar exploration.</p>]]></content>
-	<updated>2017-09-13T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-09-13T04:00:00+00:00</updated>
-		<title>EurekAlert! - Space and Planetary Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-12:/427998</id>
-	<link href="https://www.newscientist.com/article/2147019-cassinis-10-best-pictures-from-its-13-year-voyage-around-saturn/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=space&amp;campaign_id=RSS%7CNSNS-space" rel="alternate" type="text/html"/>
-	<title type="html">Cassini’s 10 best pictures from its 13-year voyage around Saturn</title>
-	<summary type="html"><![CDATA[<p>On 15 September, NASA&rsquo;s Cassini spacecraft will crash into Saturn, ending its mission with a bang. N...</p>]]></summary>
-	<content type="html"><![CDATA[<p>On 15 September, NASA&rsquo;s Cassini spacecraft will crash into Saturn, ending its mission with a bang. New Scientist looks back at 10 of its best images</p>]]></content>
-	<updated>2017-09-14T16:20:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.newscientist.com</id>
-		<link rel="self" href="https://www.newscientist.com"/>
-		<updated>2017-09-14T16:20:00+00:00</updated>
-		<title>New Scientist - Space</title></source>
-
-	<category term="solar system"/>
-
-	<category term="space"/>
-
-	<category term="space flight"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-11:/427698</id>
-	<link href="http://www.skyandtelescope.com/astronomy-news/first-pluto-features-officially-named/" rel="alternate" type="text/html"/>
-	<title type="html">First Pluto Features Officially Named</title>
-	<summary type="html"><![CDATA[<p>It&rsquo;s been two years since New Horizons captured the first high-resolution image of Pluto. Now the IA...</p>]]></summary>
-	<content type="html"><![CDATA[<p><strong><em><span>It&rsquo;s been two years since New Horizons captured the first high-resolution image of Pluto. Now the IAU has released official names for some of its surface features.</span></em></strong></p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/iau1704a_plutonames_600x385.jpg" alt="Pluto map" width="600" height="385" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/iau1704a_plutonames_600x385.jpg 600w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/iau1704a_plutonames_600x385-296x190.jpg 296w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/iau1704a_plutonames_600x385-561x360.jpg 561w" sizes="(max-width: 600px) 100vw, 600px"><p>First official names of surface features on Pluto on a map compiled from images and data obtained by the New Horizons spacecraft during its flyby in 2015. <br><em>NASA&nbsp; / JHU-APL / SwRI / Ross Beyer</em></p></div>
-<p>The International Astronomical Union (IAU) has <a href="https://www.iau.org/news/pressreleases/detail/iau1704/" rel="noopener noreferrer" target="_blank">officially approved</a> the names of 14 geological features on the surface of Pluto. All of these remained devoid of officially-sanctioned monikers two years after the flyby of NASA&rsquo;s New Horizons spacecraft that obtained high-resolution images of the dwarf planet&rsquo;s surface for the first time. (The IAU is empowered by the world's astronomers as the <a href="https://www.iau.org/public/themes/buying_star_names/" rel="noopener noreferrer" target="_blank">the sole naming authority</a> for astronomical objects and its features.)</p>
-<p>Pluto's just-approved names belong to four broad themes previously accepted by IAU. The themes are pioneering space missions, historic explorers who crossed new frontiers, scientists and engineers who contributed to our knowledge of Pluto and the Kuiper Belt, and underworld mythology &mdash; since the names of Pluto and its five moons already fell in that category.</p>
-<p>NASA&rsquo;s New Horizons team made the naming proposal to the IAU after collecting suggestions from the public during an on-line campaign called <a href="http://www.ourpluto.org/" target="_blank" rel="noopener noreferrer">Our Pluto</a>. The team also added to the list some of the names they had been used informally during science operations.</p>
-<p>Although the IAU has insisted in keeping the naming scheme limited to the approved list of themes, some controversy arose in 2015 when researchers began to <a href="http://www.skyandtelescope.com/astronomy-news/unofficially-naming-pluto-0723201566/" rel="noopener noreferrer" target="_blank">use informal names for Pluto&rsquo;s features</a> in different communications, <a href="http://www.skyandtelescope.com/astronomy-news/pluto-results-in-science-101520155/" rel="noopener noreferrer" target="_blank">including research papers</a>. Some of these names, such as Cthulhu Regio, Balrog Macula, or Spock crater, were related to science-fiction and fantasy literature and clearly out of the boundaries of IAU&rsquo;s traditional themes.</p>
-<p>It didn't help that that the New Horizons team, understandably preoccupied with analyzing the results of 2015's historic flyby, took its time before submitting a list of feature names for formal approval &mdash; yet freely used informal names in publications and presentations. <a href="http://www.skyandtelescope.com/astronomy-news/iau-names-stars-and-planets-121820155/#plutonames" target="_blank" rel="noopener noreferrer"> The situation got a little testy</a> at the IAU's 2015 General Assembly between Alan Stern, principal investigator for New Horizons, and the IAU's <a href="https://www.iau.org/science/scientific_bodies/working_groups/98/" target="_blank" rel="noopener noreferrer">Working Group for Planetary System Nomenclature.</a> But the relationship improved after the two groups finally began to meet in August 2016.</p>
-<p>The first 14 approved feature names are:</p>
-<p><strong>Tombaugh Regio</strong>&nbsp;honors Clyde Tombaugh (1906&ndash;97), the U.S. astronomer who discovered Pluto in 1930 from Lowell Observatory in Arizona.</p>
-<p><strong>Burney crater</strong>&nbsp;honors Venetia Burney (1918&ndash;2009), who as an 11-year-old schoolgirl suggested the name &ldquo;Pluto&rdquo; for Clyde Tombaugh&rsquo;s newly discovered world. Later in life she taught mathematics and economics.</p>
-<p><strong>Sputnik Planitia</strong>&nbsp;is a broad, low-lying plain named after Sputnik 1, the first space satellite, launched by the Soviet Union in 1957.</p>
-<p><strong>Tenzing Montes</strong>&nbsp;and&nbsp;<strong>Hillary Montes</strong>&nbsp;are mountain ranges honoring Tenzing Norgay (1914&ndash;86) and Sir Edmund Hillary (1919&ndash;2008), the Indian/Nepali Sherpa and New Zealand mountaineer who were the first to reach the summit of Mount Everest and return safely. (Tenzing Montes, initially called Norgay Montes, was switched because Tenzing is the family surname.)</p>
-<p><strong>Al-Idrisi Montes</strong>&nbsp;honors Ash-Sharif al-Idrisi (1100&ndash;65/66), a noted Arab mapmaker and geographer whose landmark work of medieval geography is sometimes translated as &ldquo;The Pleasure of Him Who Longs to Cross the Horizons.&rdquo;</p>
-<p><strong>Djanggawul Fossae</strong>&nbsp;defines a network of long, narrow depressions named for the Djanggawuls, three ancestral beings in indigenous Australian mythology who traveled between the island of the dead and Australia, creating the landscape and filling it with vegetation.</p>
-<p><strong>Sleipnir Fossa</strong>&nbsp;is named for the powerful, eight-legged horse of Norse mythology that carried the god Odin into the underworld.</p>
-<p><strong>Virgil Fossae</strong>&nbsp;honors Virgil, one of the greatest Roman poets and Dante&rsquo;s fictional guide through hell and purgatory in the&nbsp;<em>Divine Comedy</em>.</p>
-<p><strong>Adlivun Cavus</strong>&nbsp;is a deep depression named for Adlivun, the underworld in Inuit mythology.</p>
-<p><strong>Hayabusa Terra</strong>&nbsp;is a large land mass saluting the Japanese spacecraft and mission (2003&ndash;10) that returned the first asteroid sample.</p>
-<p><strong>Voyager Terra</strong>&nbsp;honors the <a href="http://www.skyandtelescope.com/astronomy-news/cheers-to-40-years-voyager-1-and-2-going-strong/" target="_blank" rel="noopener noreferrer">twin NASA spacecraft, launched in 1977</a>, that performed the first &ldquo;grand tour&rdquo; of all four giant planets. Voyagers 1 and 2 are now probing the boundary between the Sun and interstellar space.</p>
-<p><strong>Tartarus Dorsa</strong>&nbsp;is a ridge named for Tartarus, the deepest, darkest pit of the underworld in Greek mythology.</p>
-<p><strong>Elliot crater&nbsp;</strong>recognizes James Elliot (1943&ndash;2011), an MIT researcher who pioneered the use of stellar occultations to study the Solar System &mdash; leading to discoveries such as the rings of Uranus and the first detection of Pluto's thin atmosphere.</p>
-<p>There is no word regarding when more features will receive official recognition, but space aficionados are closely watching for approval of informal names for features on Charon. Those themes, <a href="https://www.nasa.gov/feature/nasa-s-new-horizons-iau-set-pluto-naming-themes" target="_blank" rel="noopener noreferrer">approved by the IAU's Working Group earlier this year</a>, include fictional characters, destinations, and vessels associated with space exploration. So get ready for craters named Sulu, Vader, and Skywalker.</p>
-<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-news/first-pluto-features-officially-named/" target="_blank">First Pluto Features Officially Named</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
-	<updated>2017-09-11T19:10:42+00:00</updated>
-	<author><name>Javier Barbuzano</name></author>
-	<source>
-		<id>http://www.skyandtelescope.com</id>
-		<link rel="self" href="http://www.skyandtelescope.com"/>
-		<updated>2017-09-11T19:10:42+00:00</updated>
-		<title>Sky &amp; Telescope</title></source>
-
-	<category term="astronomy news"/>
-
-	<category term="solar system"/>
-
-	<category term="iau"/>
-
-	<category term="pluto"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-29:/423982</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-08/nsfc-nlm082917.php" rel="alternate" type="text/html"/>
-	<title type="html">NASA's Lunar mission captures solar eclipse as seen from the moon</title>
-	<summary type="html"><![CDATA[<p>(NASA/Goddard Space Flight Center) LRO captured an image of the Moon's shadow over a large region of...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>NASA/Goddard Space Flight Center</i>) LRO captured an image of the Moon's shadow over a large region of the United States, centered just north of Nashville, Tennessee.</p>]]></content>
-	<updated>2017-08-29T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-08-29T04:00:00+00:00</updated>
-		<title>EurekAlert! - Space and Planetary Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-21:/421177</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-08/hd-ini082117.php" rel="alternate" type="text/html"/>
-	<title type="html">In Neptune, it's raining diamonds</title>
-	<summary type="html"><![CDATA[<p>(Helmholtz-Zentrum Dresden-Rossendorf) Researchers at HZDR have managed to demonstrate 'diamond show...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Helmholtz-Zentrum Dresden-Rossendorf</i>) Researchers at HZDR have managed to demonstrate 'diamond showers' forming in the ice giants of our solar system. Using the ultra-strong X-ray laser and other facilities at the Stanford Linear Accelerator Center, they simulated the conditions inside the cosmic giants. For the first time ever, they were able to observe the fission of hydrocarbon and the conversion of carbon into diamonds in real time. They published their results in the journal Nature Astronomy.</p>]]></content>
-	<updated>2017-08-21T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-08-21T04:00:00+00:00</updated>
-		<title>EurekAlert! - Space and Planetary Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-16:/419968</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-08/nsfc-nlt081617.php" rel="alternate" type="text/html"/>
-	<title type="html">NASA's LRO team wants you to wave at the moon</title>
-	<summary type="html"><![CDATA[<p>(NASA/Goddard Space Flight Center) NASA's Lunar Reconnaissance Orbiter (LRO) team invites the public...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>NASA/Goddard Space Flight Center</i>) NASA's Lunar Reconnaissance Orbiter (LRO) team invites the public to wave at the Moon on Aug. 21 as LRO turns its camera toward Earth.</p>]]></content>
-	<updated>2017-08-16T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-08-16T04:00:00+00:00</updated>
-		<title>EurekAlert! - Space and Planetary Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-15:/419580</id>
-	<link href="http://www.skyandtelescope.com/astronomy-news/curiosity-rover-watches-clouds-mars/" rel="alternate" type="text/html"/>
-	<title type="html">Curiosity Rover Watches Clouds on Mars</title>
-	<summary type="html"><![CDATA[<p>Barely visible water-ice clouds coast across Mars&rsquo;s skies in new videos from the Curiosity rover.
-Th...</p>]]></summary>
-	<content type="html"><![CDATA[<p><strong><span><em>Barely visible water-ice clouds coast across Mars&rsquo;s skies in new videos from the Curiosity rover.</em></span></strong></p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/PIA21841_NRB_Sol01758_553537959_Zenith.gif" alt="Thin clouds float above NASA&rsquo;s Curiosity Mars Rover last July." width="600" height="600"><p>Thin clouds float above NASA&rsquo;s Curiosity Mars Rover last July. This videos is made from eight still images each taken over a period of four minutes by Curiosity&rsquo;s Navcam camera.&nbsp;<br><em>NASA / JPL-Caltech / York University</em></p></div>
-<p>Every now and then, the operators of NASA&rsquo;s Mars Science Laboratory mission Curiosity take a break from avoiding sand traps and analyzing rocks for <a href="http://www.skyandtelescope.com/uncategorized/curiosity-discoveries-mars/" rel="noopener noreferrer" target="_blank">signs of ancient, habitable environments</a> and instead point the rover&rsquo;s robotic eyes to the sky to look at the clouds.</p>
-<p>That&rsquo;s what they did last month on July 17th, when early in the Martian morning they pointed Curiosity&rsquo;s Navigation Camera (Navcam) up to capture two image sequences of feathery clouds as they drifted overhead.</p>
-<p>The <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA21841" target="_blank" rel="noopener noreferrer">first clip</a> shows smoky thin clouds moving from left to right as they pass right above the rover. <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA21840" target="_blank" rel="noopener noreferrer">In the second</a>, the camera is aimed to the southern horizon line, revealing how a thin layer of similarly wispy clouds floats above two rounded hills. The Martian clouds shown in the videos look strikingly familiar and Earth-like. According to NASA, these cloud images are the &ldquo;most clearly visible so far from Curiosity.&rdquo;</p>
-<p>Each sequence is made of eight images taken over a 4-minute time span. They have been processed to adjust for sensitivity differences among pixels in the camera&rsquo;s sensor and to remove lens artifacts and then creating an &ldquo;average&rdquo; of all the frames and subtracting it from each individual frame. These corrections enhance the changes caused by movement and lightning &ndash; at the cost of adding some extra grain &ndash; making the clouds easier to see. NASA also published a <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA21842" target="_blank" rel="noopener noreferrer">version of the first video without enhancements</a> where the clouds are much less noticeable.</p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/PIA21840_NRB_Sol01758_553538275_SHM.gif" alt="Wispy clouds above the horizon on Mars" width="600" height="600"><p>Wispy clouds above the horizon on Mars recorded by Curiosity&rsquo;s Navcam camera.&nbsp; <br><em>NASA / JPL-Caltech / York University</em></p></div>
-<p>Although the rover&rsquo;s operators most likely appreciate the change of subject, this is not a leisure activity. Researchers have been observing the Martian sky from the planet&rsquo;s surface from years, using Curiosity and other previous missions such as the Phoenix Mars Lander, in order to study its climate.</p>
-<p>Thanks to these observations as well as others by orbiting spacecraft and the Hubble Space Telescope, scientists have learned much about Mars&rsquo;s cloud regime, which is driven by the planet&rsquo;s elliptical orbit. When Mars is closer to the Sun, the extra sunlight it receives heats things up and can create global dust storms that may prevent cloud formation. As it moves away from our star and cools down, clouds begin to form in two major systems: made of frozen carbon dioxide on top of the colder poles and made of water-ice along a wide band following the equator.</p>
-<p>These videos show examples of the second type &ndash; water-ice cirrus clouds similar to the ones found on Earth.</p>
-<p>You can read more about the videos in <a href="https://www.jpl.nasa.gov/news/news.php?feature=6917" target="_blank" rel="noopener noreferrer">NASA&rsquo;s Jet Propulsion Laboratory&rsquo;s</a> press release.</p>
-<p>&nbsp;</p>
-
-<p>Explore Mars for yourself with <a href="http://www.shopatsky.com/mars-globe-combo-1?utm_source=skyandtelescope.com&amp;utm_medium=referral&amp;utm_campaign=sky-JBA-at-170815" rel="noopener noreferrer" target="_blank">our Mars globes</a>.</p>
-<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-news/curiosity-rover-watches-clouds-mars/" target="_blank">Curiosity Rover Watches Clouds on Mars</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
-	<updated>2017-08-15T20:03:40+00:00</updated>
-	<author><name>Javier Barbuzano</name></author>
-	<source>
-		<id>http://www.skyandtelescope.com</id>
-		<link rel="self" href="http://www.skyandtelescope.com"/>
-		<updated>2017-08-15T20:03:40+00:00</updated>
-		<title>Sky &amp; Telescope</title></source>
-
-	<category term="astronomy news"/>
-
-	<category term="solar system"/>
-
-	<category term="curiosity"/>
-
-	<category term="mars"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-25:/413143</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-07/uoc-vta072517.php" rel="alternate" type="text/html"/>
-	<title type="html">Venus's turbulent atmosphere</title>
-	<summary type="html"><![CDATA[<p>(University of Cologne) A research paper published today by Nature Astronomy sheds light on the so f...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of Cologne</i>) A research paper published today by Nature Astronomy sheds light on the so far un-explored nightside circulation at the upper cloud level of Venus. Researchers from the Rhenish Institute for Environmental Research at the University of Cologne are part of an international research project which has now presented these first comprehensive findings. They discovered unexpected patterns of slow motion and abundant station-ary waves in Venus's nighttime sky.</p>]]></content>
-	<updated>2017-07-25T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-07-25T04:00:00+00:00</updated>
-		<title>EurekAlert! - Space and Planetary Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-20:/411830</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-07/nsfc-nhs072017.php" rel="alternate" type="text/html"/>
-	<title type="html">NASA's Hubble sees martian moon orbiting the Red Planet</title>
-	<summary type="html"><![CDATA[<p>(NASA/Goddard Space Flight Center) Hubble captured the tiny moon Phobos during its orbital trek arou...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>NASA/Goddard Space Flight Center</i>) Hubble captured the tiny moon Phobos during its orbital trek around Mars: so small, it appears star-like in the Hubble pictures.</p>]]></content>
-	<updated>2017-07-20T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-07-20T04:00:00+00:00</updated>
-		<title>EurekAlert! - Space and Planetary Science</title></source>
 
 
 </entry>
