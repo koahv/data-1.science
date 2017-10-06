@@ -4,11 +4,351 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2016-08-25T12:24:00+00:00</updated>
+<updated>2017-09-26T15:20:12+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2016-08-16:/314641</id>
+	<link href="http://phys.org/news/2016-08-pulsar-based-spacecraft-closer-reality.html" rel="alternate" type="text/html"/>
+	<title type="html">Pulsar-based spacecraft navigation system one step closer to reality</title>
+	<summary type="html"><![CDATA[<p>Pulsars are highly magnetized, rotating neutron stars that emit electromagnetic radiation at regular...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Pulsars are highly magnetized, rotating neutron stars that emit electromagnetic radiation at regular intervals. They are often dubbed "lighthouses" of the universe as their emission is beamed; thus, the pulse of radiation is seen only each time the beam sweeps across the line of sight. A spacecraft navigation method known as XNAV, based on X-ray signals emitted from pulsars, has recently taken a leap forward, thanks to a study conducted by U.K. scientists from the National Physical Laboratory (NPL) and the University of Leicester.</p>]]></content>
+	<updated>2016-08-16T11:09:37+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-08-16T11:09:37+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="astronomy"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/pulsarbaseds.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-08:/312235</id>
+	<link href="http://phys.org/news/2016-08-mini-nasa-satellite-environmental.html" rel="alternate" type="text/html"/>
+	<title type="html">Mini NASA satellite begins environmental testing</title>
+	<summary type="html"><![CDATA[<p>Construction of NASA's Dellingr CubeSat - a miniature satellite that provides a low-cost platform fo...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Construction of NASA's Dellingr CubeSat - a miniature satellite that provides a low-cost platform for missions - is complete, and the satellite has just left the lab for environmental testing. This is a key step after any satellite has been built to make sure it can withstand intense vibrations, the extremes of hot and cold, and even the magnetic fields of space - all the rigorous conditions the CubeSat will encounter during launch and spaceflight.</p>]]></content>
+	<updated>2016-08-08T15:53:13+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-08-08T15:53:13+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="space exploration"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/mininasasate.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-03:/310896</id>
+	<link href="http://phys.org/news/2016-08-physicists-enable-one-dimensional-atom-chains.html" rel="alternate" type="text/html"/>
+	<title type="html">Physicists enable one-dimensional atom chains to grow</title>
+	<summary type="html"><![CDATA[<p>Physicists at Friedrich-Alexander Universit&auml;t Erlangen-N&uuml;rnberg and the Vienna University of Technol...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Physicists at Friedrich-Alexander Universit&auml;t Erlangen-N&uuml;rnberg and the Vienna University of Technology have successfully created one-dimensional magnetic atom chains for the first time. Their break-through provides a model system for basic research in areas such as magnetic data storage, as well as in chemistry. Their results were recently published in the renowned journal Physical Review Letters.</p>]]></content>
+	<updated>2016-08-03T13:52:59+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-08-03T13:52:59+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="condensed matter"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/physicistsen.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-04:/311284</id>
+	<link href="http://phys.org/news/2016-08-ceres-gravity.html" rel="alternate" type="text/html"/>
+	<title type="html">What's inside Ceres? New findings from gravity data</title>
+	<summary type="html"><![CDATA[<p>In the tens of thousands of photos returned by NASA's Dawn spacecraft, the interior of Ceres isn't v...</p>]]></summary>
+	<content type="html"><![CDATA[<p>In the tens of thousands of photos returned by NASA's Dawn spacecraft, the interior of Ceres isn't visible. But scientists have powerful data to study Ceres' inner structure: Dawn's own motion.</p>]]></content>
+	<updated>2016-08-04T09:39:18+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-08-04T09:39:18+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="space exploration"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/whatsinsidec.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-02:/310450</id>
+	<link href="http://phys.org/news/2016-08-physicists-gravitational-neutron-star-collisions.html" rel="alternate" type="text/html"/>
+	<title type="html">Physicists prepare to detect gravitational waves from neutron star collisions</title>
+	<summary type="html"><![CDATA[<p>(Phys.org)&mdash;Last February, scientists made the groundbreaking discovery of gravitational waves produc...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(Phys.org)&mdash;Last February, scientists made the groundbreaking discovery of gravitational waves produced by two colliding black holes. Now researchers are expecting to detect similar gravitational wave signals in the near future from collisions involving neutron stars&mdash;for example, the merging of two neutron stars to form a black hole, or the merging of a neutron star and a black hole.</p>]]></content>
+	<updated>2016-08-02T12:30:02+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-08-02T12:30:02+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="general physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/neutronstarm.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-08-01:/310100</id>
+	<link href="http://phys.org/news/2016-08-image-majestic-solar-eruption-larger.html" rel="alternate" type="text/html"/>
+	<title type="html">Image: Majestic solar eruption larger than Earth</title>
+	<summary type="html"><![CDATA[<p>A gigantic ribbon of hot gas bursts upwards from the Sun, guided by a giant loop of invisible magnet...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A gigantic ribbon of hot gas bursts upwards from the Sun, guided by a giant loop of invisible magnetism. This remarkable image was captured on 27 July 1999 by SOHO, the Solar and Heliospheric Observatory. Earth is superimposed for comparison and shows that from top to bottom the loop of gas, or prominence, extends about 35 times the diameter of our planet into space.</p>]]></content>
+	<updated>2016-08-01T12:50:09+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-08-01T12:50:09+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="space exploration"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/imagemajesti.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-05-11:/391800</id>
+	<link href="https://www.sciencedaily.com/releases/2017/05/170511142012.htm" rel="alternate" type="text/html"/>
+	<title type="html">Antibiotic-resistant microbes date back to 450 million years ago, well before the age of dinosaurs</title>
+	<summary type="html"><![CDATA[<p>Leading hospital 'superbugs,' known as the enterococci, arose from an ancestor that dates back 450 m...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Leading hospital 'superbugs,' known as the enterococci, arose from an ancestor that dates back 450 million years -- about the time when animals were first crawling onto land (and well before the age of dinosaurs), according to a new study.</p>]]></content>
+	<updated>2017-05-11T18:20:12+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-05-11T18:20:12+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://images.sciencedaily.com/2017/05/170511142012.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-05-17:/393216</id>
+	<link href="https://phys.org/news/2017-05-flies-insect-fossils-amber-india.html" rel="alternate" type="text/html"/>
+	<title type="html">Time flies: Insect fossils in amber shed light on India's geological history</title>
+	<summary type="html"><![CDATA[<p>A new species of fungus gnat in Indian amber closely resembles its fossil relatives from Europe, dis...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A new species of fungus gnat in Indian amber closely resembles its fossil relatives from Europe, disproving the concept of a strongly isolated Indian subcontinent.</p>]]></content>
+	<updated>2017-05-17T11:00:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-05-17T11:00:03+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="archaeology &amp; fossils"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/timefliesins.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-05-22:/394664</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-05/uocm-3mf051717.php" rel="alternate" type="text/html"/>
+	<title type="html">3.3-million-year-old fossil reveals origins of the human spine</title>
+	<summary type="html"><![CDATA[<p>(University of Chicago Medical Center) Analysis of a 3.3 million-year-old fossil skeleton reveals th...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Chicago Medical Center</i>) Analysis of a 3.3 million-year-old fossil skeleton reveals the most complete spinal column of any early human relative, including vertebrae, neck and rib cage. The findings, published this week in the Proceedings of the National Academy of Sciences, indicate that portions of the human spinal structure that enable efficient walking motions were established millions of years earlier than previously thought.</p>]]></content>
+	<updated>2017-05-22T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-05-22T04:00:00+00:00</updated>
+		<title>EurekAlert! - Earth Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-06-29:/405668</id>
+	<link href="https://www.sciencedaily.com/releases/2017/06/170629143004.htm" rel="alternate" type="text/html"/>
+	<title type="html">Genetic 'fossils' reveal long-term viral partnerships in grass</title>
+	<summary type="html"><![CDATA[<p>Defective viruses incorporated into grass genomes may adapt to form partnerships with other genome-i...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Defective viruses incorporated into grass genomes may adapt to form partnerships with other genome-incorporated viruses in order to complete their life cycle, according to a new study. The findings suggest that partner viruses evolve in concert, enabling them to maintain their relationship over time.</p>]]></content>
+	<updated>2017-06-29T18:30:04+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-06-29T18:30:04+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/06/170629143004-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-07-07:/407585</id>
+	<link href="https://phys.org/news/2017-07-co2-neutral-hydrogen-biomass.html" rel="alternate" type="text/html"/>
+	<title type="html">CO2-neutral hydrogen from biomass</title>
+	<summary type="html"><![CDATA[<p>Without fossil fuels, there can be no blast furnace process &ndash; but hydrogen could play a more importa...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Without fossil fuels, there can be no blast furnace process &ndash; but hydrogen could play a more important role in the future. An environmentally friendly process is being developed at TU Wien by which biomass can be used to produce a hydrogen-rich gas that can then be employed in various ways in the iron and steel industry. TU Wien and voestalpine now aim to conduct further joint research on the subject. The long-term vision is a renewable energy source, firmly anchored in the design of an integrated iron and steel works.</p>]]></content>
+	<updated>2017-07-07T11:52:52+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-07-07T11:52:52+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="materials science"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/co2neutralhy.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-16:/419708</id>
+	<link href="https://phys.org/news/2017-08-million-year-old-fish-fossil-reveals-jaw.html" rel="alternate" type="text/html"/>
+	<title type="html">400-million-year-old fish fossil reveals jaw structure linked to humans</title>
+	<summary type="html"><![CDATA[<p>A new study from ANU on a 400 million year old fish fossil has found a jaw structure that is part of...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A new study from ANU on a 400 million year old fish fossil has found a jaw structure that is part of the evolutionary lineage linked to humans.</p>]]></content>
+	<updated>2017-08-16T11:36:21+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-08-16T11:36:21+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="archaeology &amp; fossils"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/6-400millionye.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-11:/427655</id>
+	<link href="https://www.sciencedaily.com/releases/2017/09/170911122701.htm" rel="alternate" type="text/html"/>
+	<title type="html">Scientists track the brain-skull transition from dinosaurs to birds</title>
+	<summary type="html"><![CDATA[<p>The dramatic, dinosaur-to-bird transition that occurred in reptiles millions of years ago was accomp...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The dramatic, dinosaur-to-bird transition that occurred in reptiles millions of years ago was accompanied by profound changes in the skull roof of those animals -- and holds important clues about the way the skull forms in response to changes in the brain -- according to a new study. It is the first time scientists have tracked the link between the brain's development and the roofing bones of the skull.</p>]]></content>
+	<updated>2017-09-11T16:27:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-09-11T16:27:01+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/09/170911122701-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-29:/433961</id>
+	<link href="https://phys.org/news/2017-09-bioreactors-chip-renew-algal-biofuels.html" rel="alternate" type="text/html"/>
+	<title type="html">Bioreactors on a chip renew promises for algal biofuels</title>
+	<summary type="html"><![CDATA[<p>For over a decade, companies have promised a future of renewable fuel from algae. Investors interest...</p>]]></summary>
+	<content type="html"><![CDATA[<p>For over a decade, companies have promised a future of renewable fuel from algae. Investors interested in moving the world away from fossil fuel have contributed hundreds of millions of dollars to the effort, and with good reason. Algae replicate quickly, requiring little more than water and sunlight to accumulate to massive amounts, which then convert atmospheric CO2 into lipids (oils) that can be harvested and readily processed into biodiesel.</p>]]></content>
+	<updated>2017-09-29T15:02:42+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-09-29T15:02:42+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/bioreactorso.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/435299</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uocf-nnc100417.php" rel="alternate" type="text/html"/>
+	<title type="html">New nanomaterial can extract hydrogen fuel from seawater</title>
+	<summary type="html"><![CDATA[<p>(University of Central Florida) A new hybrid nanomaterial harvests solar energy and uses it to extra...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Central Florida</i>) A new hybrid nanomaterial harvests solar energy and uses it to extract hydrogen from seawater, cheaply and efficiently. Future commercialization could mean a new source of environmentally friendly fuel and less dependence on fossil fuels.</p>]]></content>
+	<updated>2017-10-04T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-04T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-03-01:/370349</id>
@@ -173,8 +513,8 @@
 	<id>tag:localhost,2017-10-05:/435669</id>
 	<link href="https://www.eurekalert.org/pub_releases/2017-10/uota-ses100517.php" rel="alternate" type="text/html"/>
 	<title type="html">Scientists enlist supercomputers, machine learning to automatically identify brain tumors</title>
-	<summary type="html"><![CDATA[<p>(University of Texas at Austin, Texas Advanced Computing Center) Researchers from The University of ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of Texas at Austin, Texas Advanced Computing Center</i>) Researchers from The University of Texas at Austin developed a brain tumor identification method that combines biophysical models of tumor growth with machine learning algorithms. The researchers scored in the top 25% of participants in the Multimodal Brain Tumor Segmentation Challenge 2017 (BRaTS'17) and used supercomputers at the Texas Advanced Computing Center to accelerate the training and analysis process.</p>]]></content>
+	<summary type="html"><![CDATA[<p>(University of Texas at Austin, Texas Advanced Computing Center) Researchers from the University of ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Texas at Austin, Texas Advanced Computing Center</i>) Researchers from the University of Texas at Austin developed a brain tumor identification method that combines biophysical models of tumor growth with machine learning algorithms. The researchers scored in the top 25 percent of participants in the Multimodal Brain Tumor Segmentation Challenge 2017 (BRaTS'17) and used supercomputers at the Texas Advanced Computing Center to accelerate the training and analysis process.</p>]]></content>
 	<updated>2017-10-05T04:00:00+00:00</updated>
 	<author><name></name></author>
 	<source>
@@ -968,380 +1308,6 @@ Dunes are prominent indicators of prevailing winds, as can be seen on this crate
 		<updated>2017-09-26T15:20:12+00:00</updated>
 		<title>Latest Science News -- ScienceDaily</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-04:/435030</id>
-	<link href="https://phys.org/news/2017-10-okinawan-pit-viper-genome-reveals.html" rel="alternate" type="text/html"/>
-	<title type="html">Okinawan pit viper genome reveals evolution of snake venom</title>
-	<summary type="html"><![CDATA[<p>A bite from a pit viper, locally known as habu, can cause permanent disability and even death. Yet, ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A bite from a pit viper, locally known as habu, can cause permanent disability and even death. Yet, much about its venom remains an enigma. Highly variable in composition, even between littermates, this toxic cocktail keeps changing over generations.</p>]]></content>
-	<updated>2017-10-04T12:30:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-04T12:30:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="evolution"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/okinawanpitv.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-27:/433262</id>
-	<link href="https://www.sciencedaily.com/releases/2017/09/170926162303.htm" rel="alternate" type="text/html"/>
-	<title type="html">Gene circuit design strategy to advance synthetic biology</title>
-	<summary type="html"><![CDATA[<p>Scientists and engineers have developed synthetic gene circuits that program the functionality, perf...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Scientists and engineers have developed synthetic gene circuits that program the functionality, performance, and behavior of living cells. These gene circuits hold great promise in medical and biotechnological applications, but to date, most circuits are constructed through a manner, which relies on a designer's intuition and is often inefficient.</p>]]></content>
-	<updated>2017-09-26T20:23:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-09-26T20:23:03+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-06:/381088</id>
-	<link href="https://opensource.com/article/17/4/introduction-domain-name-system-dns" rel="alternate" type="text/html"/>
-	<title type="html">Introduction to the Domain Name System (DNS)</title>
-	<summary type="html"><![CDATA[<p>Surfing the web is fun and easy, but think what it would be like if you had to type in the IP addres...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/cloud-globe.png" width="520" height="292" alt="Introduction to the Domain Name System (DNS)" title="Introduction to the Domain Name System (DNS)"><p>Surfing the web is fun and easy, but think what it would be like if you had to type in the IP address of every website you wanted to view. For example, locating a website would look like this when you type it in: https://54.204.39.132, which would be nearly impossible for most of us to remember. Of course, using bookmarks would help, but suppose your friend tells you about a cool new website and tells you to go to 54.204.39.132. How would you remember that? Telling someone to go to "Opensource.com" is far easier to remember. And, yes, that is our IP address.</p>
-<br>
-<a href="https://opensource.com/article/17/4/introduction-domain-name-system-dns" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-04-06T07:02:00+00:00</updated>
-	<author><name>dboth</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-04-06T07:02:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-26:/432538</id>
-	<link href="http://physicsworld.com/cws/article/news/2017/sep/25/physicists-create-and-measure-quantized-mechanical-oscillations" rel="alternate" type="text/html"/>
-	<title type="html">Physicists create and measure quantized mechanical oscillations</title>
-	<summary type="html"><![CDATA[<p>Techniques could lead to better quantum-information networks</p>]]></summary>
-	<content type="html"><![CDATA[<p>Techniques could lead to better quantum-information networks<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/z1p1Z583CiU" height="1" width="1" alt=""></p>]]></content>
-	<updated>2017-09-25T15:07:16+00:00</updated>
-	<author><name>Tim Wogan</name></author>
-	<source>
-		<id>http://physicsworld.com/</id>
-		<link rel="self" href="http://physicsworld.com/"/>
-		<updated>2017-09-25T15:07:16+00:00</updated>
-		<title>physicsworld.com: all content</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-28:/336487</id>
-	<link href="http://phys.org/news/2016-10-eyes-limbs-transition.html" rel="alternate" type="text/html"/>
-	<title type="html">Eyes came before limbs in the transition to land</title>
-	<summary type="html"><![CDATA[<p>The transition to land from our fishy ancestors is one of the most iconic, and best documented, tran...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The transition to land from our fishy ancestors is one of the most iconic, and best documented, transitions in the fossil record. We know that fleshy-limbed fish living in shallows used their limbs to move in the shallows and then up onto land, and became tetrapods (4-legged vertebrates) along the way. What has been less well-studied is the transition to vision in air that also occurred during that evolutionary event. Vision in air is different, and in some ways easier, than seeing in water. According to a new study by Malcolm MacIver of Northwestern University and Lars Schmitz of the Claremont Colleges, early tetrapod ancestors may have been seeing like land-based animals before they were moving like them.</p>]]></content>
-	<updated>2016-10-28T22:16:26+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-10-28T22:16:26+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="archaeology &amp; fossils"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-27:/335950</id>
-	<link href="http://phys.org/news/2016-10-fossilized-dinosaur-brain-tissue.html" rel="alternate" type="text/html"/>
-	<title type="html">Fossilized dinosaur brain tissue identified for the first time</title>
-	<summary type="html"><![CDATA[<p>An unassuming brown pebble, found more than a decade ago by a fossil hunter in Sussex, has been conf...</p>]]></summary>
-	<content type="html"><![CDATA[<p>An unassuming brown pebble, found more than a decade ago by a fossil hunter in Sussex, has been confirmed as the first example of fossilised brain tissue from a dinosaur.</p>]]></content>
-	<updated>2016-10-27T17:00:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-10-27T17:00:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="archaeology &amp; fossils"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/fossilizeddi.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-12:/331634</id>
-	<link href="https://www.eurekalert.org/pub_releases/2016-10/agi-ehm101216.php" rel="alternate" type="text/html"/>
-	<title type="html">EARTH: Humans, megafauna coexisted in Patagonia before extinction</title>
-	<summary type="html"><![CDATA[<p>(American Geosciences Institute) As we celebrate National Fossil Day, EARTH Magazine brings you a st...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>American Geosciences Institute</i>) As we celebrate National Fossil Day, EARTH Magazine brings you a story set in Pleistocene South America, and was home to large megafauna species like giant sloths and saber-toothed cats. At some point as the climate warmed and human settlers began hunting, the megafauna living in Patagonia and Tierra del Fuego went extinct.</p>]]></content>
-	<updated>2016-10-12T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2016-10-12T04:00:00+00:00</updated>
-		<title>EurekAlert! - Archaeology</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-07:/330365</id>
-	<link href="https://www.eurekalert.org/pub_releases/2016-10/acs-ti100716.php" rel="alternate" type="text/html"/>
-	<title type="html">Toward 'greener,' inexpensive solar cells</title>
-	<summary type="html"><![CDATA[<p>(American Chemical Society) Solar panels are proliferating across the globe to help reduce the world...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>American Chemical Society</i>) Solar panels are proliferating across the globe to help reduce the world's dependency on fossil fuels. But conventional panels are not without environmental costs, too. Now scientists are reporting in the Journal of the American Chemical Society a new advance toward more practical, 'greener' solar cells made with inexpensive halide perovskite materials. They have developed low-bandgap perovskite solar cells with a reduced lead content and a power conversion efficiency of 15 percent.</p>]]></content>
-	<updated>2016-10-07T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2016-10-07T04:00:00+00:00</updated>
-		<title>EurekAlert! - Earth Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-05:/329508</id>
-	<link href="http://phys.org/news/2016-10-advances-solar-cell-technology.html" rel="alternate" type="text/html"/>
-	<title type="html">New advances in solar cell technology</title>
-	<summary type="html"><![CDATA[<p>With the high environmental cost of conventional energy sources and the finite supply of fossil fuel...</p>]]></summary>
-	<content type="html"><![CDATA[<p>With the high environmental cost of conventional energy sources and the finite supply of fossil fuels, the importance of renewable energy sources has become much more apparent in recent years. However, efficiently harnessing solar energy for human use has been a difficult task. While silicon-based solar cells can be used to capture sunlight energy, they are costly to produce on an industrial scale. Research from the Energy Materials and Surface Sciences Unit at the Okinawa Institute of Science and Technology Graduate University (OIST), led by Prof. Yabing Qi, has focused on using organo-metal halide perovskite films in solar cells. These perovskite films are highly crystalline materials that can be formed by a large number of different chemical combinations and can be deposited at low cost. Recent publications from Prof. Qi's lab cover three different areas of innovation in perovskite film research: a novel post annealing treatment to increase perovskite efficiency and stability, a discovery of the decomposition products of a specific perovskite, and a new means of producing perovskites that maintains solar efficiency when scaled up.</p>]]></content>
-	<updated>2016-10-05T15:42:05+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-10-05T15:42:05+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="energy &amp; green tech"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/newadvancesi.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-05:/329451</id>
-	<link href="http://www.renewableenergyworld.com/articles/2016/10/examining-the-technological-overlap-between-oil-gas-and-geothermal.html" rel="alternate" type="text/html"/>
-	<title type="html">Examining the Technological Overlap Between Oil, Gas and Geothermal</title>
-	<summary type="html"><![CDATA[<p>The intersection of the oil and gas and geothermal industries is one that is rich in unexpected ways...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The intersection of the oil and gas and geothermal industries is one that is rich in unexpected ways, be it in drilling technologies or the new frontier of co-production of both fossil fuels and geothermal power from the same well.</p><img src="http://feeds.feedburner.com/~r/RenewableEnergyNewsRssFeed/~4/JHncMuITdDM" height="1" width="1" alt="">]]></content>
-	<updated>2016-10-05T13:01:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.renewableenergyworld.com</id>
-		<link rel="self" href="http://www.renewableenergyworld.com"/>
-		<updated>2016-10-05T13:01:00+00:00</updated>
-		<title>Renewable Energy News RSS Feed</title></source>
-
-	<category term="geothermal"/>
-
-	<category term="opinion &amp; commentary"/>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://www.renewableenergyworld.com/content/rew/en/articles/2016/10/examining-the-technological-overlap-between-oil-gas-and-geothermal/_jcr_content/leftcolumn/article/headerimage.img.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://www.renewableenergyworld.com/content/rew/en/articles/2016/10/examining-the-technological-overlap-between-oil-gas-and-geothermal/_jcr_content/leftcolumn/article/thumbnailimage.img.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-03:/328612</id>
-	<link href="http://cleantechnica.com/2016/10/03/cape-verde-leads-100-renewable-electricity-2020-target/" rel="alternate" type="text/html"/>
-	<title type="html">Cape Verde Leads With 100% Renewable Electricity By 2020 Target</title>
-	<summary type="html"><![CDATA[<p>Originally published on Solar Love. The island nation of Cape Verde is located 250 miles west of Sen...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://cleantechnica.com/files/2016/10/Cape-Verde-solar-270x180.jpg" alt="cape-verde-solar" srcset="http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/10/Cape-Verde-solar-270x180.jpg 270w, http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/10/Cape-Verde-solar-768x513.jpg 768w, http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/10/Cape-Verde-solar-570x380.jpg 570w, http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/10/Cape-Verde-solar.jpg 800w" sizes="(max-width: 270px) 100vw, 270px"><p>Originally published on Solar Love. The island nation of Cape Verde is located 250 miles west of Senegal in the southern Atlantic ocean. It has few natural resources &mdash; except wind and sunshine. Virtually everything the nation&rsquo;s 550,000 people consume has to be imported at great expense by air or sea. That includes the fossil [&amp;hellip</p>
-<p><a rel="noopener noreferrer" href="http://cleantechnica.com/2016/10/03/cape-verde-leads-100-renewable-electricity-2020-target/" target="_blank">Cape Verde Leads With 100% Renewable Electricity By 2020 Target</a> was originally published on <a href="http://cleantechnica.com" rel="noopener noreferrer" target="_blank">CleanTechnica</a>. </p>
-<p>To read more from CleanTechnica, join over 50,000 other subscribers: <a href="https://plus.google.com/+Cleantechnica?prsrc=5" rel="noopener noreferrer" target="_blank">Google+</a> | <a href="http://eepurl.com/csSt9" rel="noopener noreferrer" target="_blank">Email</a> | <a href="https://www.facebook.com/CleanTechnica" rel="noopener noreferrer" target="_blank">Facebook</a> | <a href="http://feeds.feedburner.com/IM-cleantechnica" rel="noopener noreferrer" target="_blank">RSS</a> | <a href="https://twitter.com/cleantechnica" rel="noopener noreferrer" target="_blank">Twitter</a>.</p>]]></content>
-	<updated>2016-10-03T13:45:13+00:00</updated>
-	<author><name>Steve Hanley</name></author>
-	<source>
-		<id>http://cleantechnica.com</id>
-		<link rel="self" href="http://cleantechnica.com"/>
-		<updated>2016-10-03T13:45:13+00:00</updated>
-		<title>CleanTechnica » Clean Power</title></source>
-
-	<category term="clean power"/>
-
-	<category term="consumer technology"/>
-
-	<category term="green economy"/>
-
-	<category term="green jobs"/>
-
-	<category term="policy &amp; politics"/>
-
-	<category term="renewable energy standards"/>
-
-	<category term="solar energy"/>
-
-	<category term="wind energy"/>
-
-	<category term="100% renewable energy"/>
-
-	<category term="africa"/>
-
-	<category term="africa solar energy"/>
-
-	<category term="cape verde"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-14:/323680</id>
-	<link href="http://phys.org/news/2016-09-fossil-evidence-reveals-cancer-humans.html" rel="alternate" type="text/html"/>
-	<title type="html">Fossil evidence reveals that cancer in humans goes back 1.7 million years</title>
-	<summary type="html"><![CDATA[<p>Cancer is often viewed as a fundamentally modern and monolithic disease. Many people think its rise ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Cancer is often viewed as a fundamentally modern and monolithic disease. Many people think its rise and spread has been driven almost exclusively by the developed world's toxins and poisons; by our bad eating habits, lifestyles, and the very air we breathe.</p>]]></content>
-	<updated>2016-09-14T12:20:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-09-14T12:20:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="archaeology &amp; fossils"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/fossileviden.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-08:/321973</id>
-	<link href="http://www.renewableenergyworld.com/articles/pt/2016/09/costa-rica-has-been-running-on-100-percent-renewables-for-two-months.html" rel="alternate" type="text/html"/>
-	<title type="html">Costa Rica Has Been Running on 100 Percent Renewables for Two Months</title>
-	<summary type="html"><![CDATA[<p>Costa Rica ran on 100 percent renewable energy for 76 straight days between June and August this yea...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Costa Rica ran on 100 percent renewable energy for 76 straight days between June and August this year, according to a new report, demonstrating that life without fossil fuels is possible - for small countries, at least.</p><img src="http://feeds.feedburner.com/~r/RenewableEnergyNewsRssFeed/~4/g-fBmF57Jnw" height="1" width="1" alt="">]]></content>
-	<updated>2016-09-08T16:54:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.renewableenergyworld.com</id>
-		<link rel="self" href="http://www.renewableenergyworld.com"/>
-		<updated>2016-09-08T16:54:00+00:00</updated>
-		<title>Renewable Energy News RSS Feed</title></source>
-
-	<category term="solar"/>
-
-	<category term="hydropower"/>
-
-	<category term="imported"/>
-
-	<category term="wind power"/>
-
-	<category term="geothermal"/>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://www.renewableenergyworld.com/content/rew/en/articles/pt/2016/09/costa-rica-has-been-running-on-100-percent-renewables-for-two-months/_jcr_content/leftcolumn/article/headerimage.img.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="http://www.renewableenergyworld.com/content/rew/en/articles/pt/2016/09/costa-rica-has-been-running-on-100-percent-renewables-for-two-months/_jcr_content/leftcolumn/article/thumbnailimage.img.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-07:/321620</id>
-	<link href="https://www.sciencedaily.com/releases/2016/09/160907082052.htm" rel="alternate" type="text/html"/>
-	<title type="html">Snake eats lizard eats beetle: Fossil food chain from the Messel Pit examined</title>
-	<summary type="html"><![CDATA[<p>Scientists have examined a spectacular discovery from the UNESCO World Heritage site Messel Pit: A f...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Scientists have examined a spectacular discovery from the UNESCO World Heritage site Messel Pit: A fossil snake in whose stomach a lizard can be seen, which in turn had consumed a beetle. The discovery of the approximately 48-million-year-old tripartite fossil food chain is unique for Messel; worldwide, only one single comparable piece exists.</p>]]></content>
-	<updated>2016-09-07T12:20:52+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2016-09-07T12:20:52+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://images.sciencedaily.com/2016/09/160907082052.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-08-25:/317769</id>
-	<link href="http://www.renewableenergyworld.com/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016.html" rel="alternate" type="text/html"/>
-	<title type="html">Renewable Energy Was 16.9 Percent of US Electric Generation in the First Half of 2016</title>
-	<summary type="html"><![CDATA[<p>It&rsquo;s finally happening. After years of research and development, of policy debates over subsidies an...</p>]]></summary>
-	<content type="html"><![CDATA[<p>It&rsquo;s finally happening. After years of research and development, of policy debates over subsidies and climate change and energy independence; renewable energy is finally starting to replace fossil fuel sources of electric generation across the nation.</p><img src="http://feeds.feedburner.com/~r/RenewableEnergyNewsRssFeed/~4/xCQfcYaW8yQ" height="1" width="1" alt="">]]></content>
-	<updated>2016-08-25T12:24:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.renewableenergyworld.com</id>
-		<link rel="self" href="http://www.renewableenergyworld.com"/>
-		<updated>2016-08-25T12:24:00+00:00</updated>
-		<title>Renewable Energy News RSS Feed</title></source>
-
-	<category term="bioenergy"/>
-
-	<category term="solar"/>
-
-	<category term="hydropower"/>
-
-	<category term="geothermal"/>
-
-	<category term="wind power"/>
-
-	<category term="featured blog"/>
-
-
-	<link rel="enclosure" 
-		type="" 
-		length="1"
-		href="http://www.renewableenergyworld.com/content/rew/en/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016/_jcr_content/leftcolumn/article/headerimage.img.jpg"/>
-
-	<link rel="enclosure" 
-		type="" 
-		length="1"
-		href="http://www.renewableenergyworld.com/content/rew/en/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016/_jcr_content/leftcolumn/article/thumbnailimage.img.jpg"/>
 
 </entry>
 
