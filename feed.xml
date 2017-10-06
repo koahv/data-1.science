@@ -4,11 +4,388 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2016-11-03T07:03:00+00:00</updated>
+<updated>2016-08-25T12:24:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-03-01:/370349</id>
+	<link href="https://phys.org/news/2017-03-world-oldest-fossils-unearthed.html" rel="alternate" type="text/html"/>
+	<title type="html">4 billion years: World's oldest fossils unearthed</title>
+	<summary type="html"><![CDATA[<p>Remains of microorganisms at least 3,770 million years old have been discovered by an international ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Remains of microorganisms at least 3,770 million years old have been discovered by an international team led by UCL scientists, providing direct evidence of one of the oldest life forms on Earth.</p>]]></content>
+	<updated>2017-03-01T18:00:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-03-01T18:00:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="archaeology &amp; fossils"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/58b6f477969ff.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-02-28:/369772</id>
+	<link href="https://phys.org/news/2017-02-scientists-electric-circuits.html" rel="alternate" type="text/html"/>
+	<title type="html">Scientists create electric circuits inside plants</title>
+	<summary type="html"><![CDATA[<p>Plants power life on Earth. They are the original food source supplying energy to almost all living ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Plants power life on Earth. They are the original food source supplying energy to almost all living organisms and the basis of the fossil fuels that feed the power demands of the modern world. But burning the remnants of long-dead forests is changing the world in dangerous ways. Can we better harness the power of living plants today?</p>]]></content>
+	<updated>2017-02-28T13:00:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-02-28T13:00:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/scientistscr.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-04-24:/386565</id>
+	<link href="http://www.livescience.com/58808-earliest-fungus-like-fossils-found.html" rel="alternate" type="text/html"/>
+	<title type="html">Earliest Fungus-Like Fossils Date Back 2.4 Billion Years</title>
+	<summary type="html"><![CDATA[<p>The fossils are 2 billion years older than previous finds and could dramatically alter the timeline ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The fossils are 2 billion years older than previous finds and could dramatically alter the timeline of the emergence of life on Earth.</p>]]></content>
+	<updated>2017-04-24T08:02:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.livescience.com</id>
+		<link rel="self" href="https://www.livescience.com"/>
+		<updated>2017-04-24T08:02:00+00:00</updated>
+		<title>LiveScience.com</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="https://img.purch.com/rc/160x100/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5MS81NDIvb3JpZ2luYWwvZnVuZ3VzLWZvc3NpbHMtc291dGgtYWZyaWNhLmpwZw=="/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-04-20:/385491</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-04/su-gep042017.php" rel="alternate" type="text/html"/>
+	<title type="html">Genetic evidence points to nocturnal early mammals</title>
+	<summary type="html"><![CDATA[<p>(Stanford University) New genetic evidence suggesting that early mammals had good night-time vision ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Stanford University</i>) New genetic evidence suggesting that early mammals had good night-time vision adds to fossil and behavioral studies indicating that early mammals were nocturnal.</p>]]></content>
+	<updated>2017-04-20T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-04-20T04:00:00+00:00</updated>
+		<title>EurekAlert! - Earth Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-13:/373501</id>
+	<link href="https://phys.org/news/2017-03-science-carbon-dioxide-climate.html" rel="alternate" type="text/html"/>
+	<title type="html">The science of carbon dioxide and climate</title>
+	<summary type="html"><![CDATA[<p>The vast majority of scientists around the world agree that our climate is changing at a faster rate...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The vast majority of scientists around the world agree that our climate is changing at a faster rate than ever recorded in human history because of our use of fuels such as coal and oil, so-called fossil fuels.</p>]]></content>
+	<updated>2017-03-13T13:21:58+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-03-13T13:21:58+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="environment"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/3-thescienceof.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-07:/371758</id>
+	<link href="https://phys.org/news/2017-03-prehistoric-ancestor-leukaemia-virus.html" rel="alternate" type="text/html"/>
+	<title type="html">Prehistoric ancestor of leukaemia virus found in bats</title>
+	<summary type="html"><![CDATA[<p>Ancient DNA traces from the family of viruses that cause a rare type of leukaemia have been found in...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Ancient DNA traces from the family of viruses that cause a rare type of leukaemia have been found in the genomes of bats, filling the "last major gap" in retrovirus fossil record.</p>]]></content>
+	<updated>2017-03-07T09:02:51+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-03-07T09:02:51+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="cell &amp; microbiology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/prehistorica.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-23:/359061</id>
+	<link href="https://phys.org/news/2017-01-electrocatalysis-advance-green-transition.html" rel="alternate" type="text/html"/>
+	<title type="html">Electrocatalysis can advance green transition</title>
+	<summary type="html"><![CDATA[<p>The world population is growing, as is energy demand, and we have long been able to see the conseque...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The world population is growing, as is energy demand, and we have long been able to see the consequences of climate change caused by the world's consumption of fossil resources. The IEA reports that global demand for energy was around 18 terawatts (TW) in 2013. This corresponds to 18,000,000 megawatts. Demand is expected to rise to around 25 TW in 2040. This means that our carbon emissions will be approximately 40 gigatonnes (GT) a year&mdash;compared to 32 GT in 2013.</p>]]></content>
+	<updated>2017-01-23T14:07:49+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-01-23T14:07:49+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="materials science"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/electrocatal.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-05:/435669</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uota-ses100517.php" rel="alternate" type="text/html"/>
+	<title type="html">Scientists enlist supercomputers, machine learning to automatically identify brain tumors</title>
+	<summary type="html"><![CDATA[<p>(University of Texas at Austin, Texas Advanced Computing Center) Researchers from The University of ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Texas at Austin, Texas Advanced Computing Center</i>) Researchers from The University of Texas at Austin developed a brain tumor identification method that combines biophysical models of tumor growth with machine learning algorithms. The researchers scored in the top 25% of participants in the Multimodal Brain Tumor Segmentation Challenge 2017 (BRaTS'17) and used supercomputers at the Texas Advanced Computing Center to accelerate the training and analysis process.</p>]]></content>
+	<updated>2017-10-05T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-05T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-05:/435683</id>
+	<link href="https://phys.org/news/2017-10-d-quantum-gas-atomic-clock.html" rel="alternate" type="text/html"/>
+	<title type="html">3-D quantum gas atomic clock offers new dimensions in measurement</title>
+	<summary type="html"><![CDATA[<p>JILA physicists have created an entirely new design for an atomic clock, in which strontium atoms ar...</p>]]></summary>
+	<content type="html"><![CDATA[<p>JILA physicists have created an entirely new design for an atomic clock, in which strontium atoms are packed into a tiny three-dimensional (3-D) cube at 1,000 times the density of previous one-dimensional (1-D) clocks. In doing so, they are the first to harness the ultra-controlled behavior of a so-called "quantum gas" to make a practical measurement device.</p>]]></content>
+	<updated>2017-10-05T18:00:05+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-05T18:00:05+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="quantum physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/jilas3dquant.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-05:/435769</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/aaft-nna100217.php" rel="alternate" type="text/html"/>
+	<title type="html">New Neandertal and archaic human genomes advance our understanding of human evolution</title>
+	<summary type="html"><![CDATA[<p>(American Association for the Advancement of Science) Two new studies on ancient genomes provide val...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>American Association for the Advancement of Science</i>) Two new studies on ancient genomes provide valuable insights into the lives of our ancestors and their cousins, the Neandertals. First, scientists have sequenced a new genome of a female Neandertal, which is only the second genome of the species to be fully sequenced with such a high level of quality.</p>]]></content>
+	<updated>2017-10-05T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-05T04:00:00+00:00</updated>
+		<title>EurekAlert! - Earth Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-09:/355305</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-01/osu-wtr010917.php" rel="alternate" type="text/html"/>
+	<title type="html">What teeth reveal about the lives of modern humans</title>
+	<summary type="html"><![CDATA[<p>(Ohio State University) When anthropologists of the future find our fossilized teeth, what will they...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Ohio State University</i>) When anthropologists of the future find our fossilized teeth, what will they be able to conclude about our lives? Debbie Guatelli-Steinberg has an idea.</p>]]></content>
+	<updated>2017-01-09T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-01-09T05:00:00+00:00</updated>
+		<title>EurekAlert! - Earth Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-12-31:/353263</id>
+	<link href="https://www.sciencedaily.com/releases/2016/12/161230185406.htm" rel="alternate" type="text/html"/>
+	<title type="html">Fossil fuel formation: Key to atmosphere’s oxygen?</title>
+	<summary type="html"><![CDATA[<p>For the development of animals, nothing -- with the exception of DNA -- may be more important than o...</p>]]></summary>
+	<content type="html"><![CDATA[<p>For the development of animals, nothing -- with the exception of DNA -- may be more important than oxygen in the atmosphere. A study now links the rise in oxygen to a rapid increase in the burial of sediment containing large amounts of carbon-rich organic matter.</p>]]></content>
+	<updated>2016-12-30T23:54:06+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2016-12-30T23:54:06+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://images.sciencedaily.com/2016/12/161230185406.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-12-20:/351071</id>
+	<link href="http://phys.org/news/2016-12-sauropods-gobbled-gigantism.html" rel="alternate" type="text/html"/>
+	<title type="html">How sauropods gobbled their way to gigantism</title>
+	<summary type="html"><![CDATA[<p>Sauropod dinosaurs are the biggest of all the wonderful behemoths to have ever roamed the Earth. Sta...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Sauropod dinosaurs are the biggest of all the wonderful behemoths to have ever roamed the Earth. Standing on four solid tree trunk legs, these giants are emblazoned in our hearts, minds and history books as towering Mesozoic monoliths, with long swooping necks, whiplash tails, fermentation-factory torsos, and weirdly tiny heads totally at odds with their immense bulk.</p>]]></content>
+	<updated>2016-12-20T14:10:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-12-20T14:10:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="archaeology &amp; fossils"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/howsauropods.png"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-12-08:/347796</id>
+	<link href="https://www.sciencedaily.com/releases/2016/12/161208141637.htm" rel="alternate" type="text/html"/>
+	<title type="html">Amber specimen offers rare glimpse of feathered dinosaur tail</title>
+	<summary type="html"><![CDATA[<p>Researchers have discovered a dinosaur tail complete with its feathers trapped in a piece of amber. ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Researchers have discovered a dinosaur tail complete with its feathers trapped in a piece of amber. The finding helps fill in details of the dinosaurs' feather structure and evolution.</p>]]></content>
+	<updated>2016-12-08T19:16:37+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2016-12-08T19:16:37+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://images.sciencedaily.com/2016/12/161208141637.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-29:/344855</id>
+	<link href="http://phys.org/news/2016-11-geologist-uncovers-billion-year-old-fossils-bacteria.html" rel="alternate" type="text/html"/>
+	<title type="html">Geologist uncovers 2.5 billion-year-old fossils of bacteria that predate the formation of oxygen</title>
+	<summary type="html"><![CDATA[<p>Somewhere between Earth's creation and where we are today, scientists have demonstrated that some ea...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Somewhere between Earth's creation and where we are today, scientists have demonstrated that some early life forms existed just fine without any oxygen.</p>]]></content>
+	<updated>2016-11-29T17:48:33+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-11-29T17:48:33+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="earth sciences"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/1-lifebeforeox.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-21:/342680</id>
+	<link href="https://www.eurekalert.org/pub_releases/2016-11/g-lfg111716.php" rel="alternate" type="text/html"/>
+	<title type="html">Living fossil genome unveiled</title>
+	<summary type="html"><![CDATA[<p>(GigaScience) Published today in GigaScience, is the genome sequence of Ginkgo biloba, the oldest ex...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>GigaScience</i>) Published today in GigaScience, is the genome sequence of Ginkgo biloba, the oldest extant tree species. Researchers at BGI, Zheijiang University and Chinese Academy of Sciences carried out the work. Ginkgo is considered a 'living fossil,' as it evolved 270 million years ago and has changed little since. Given its unique position in the evolutionary tree of life and longevity as a species, the ginkgo genome will provide a resource investigating evolution and plant defenses.</p>]]></content>
+	<updated>2016-11-21T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2016-11-21T05:00:00+00:00</updated>
+		<title>EurekAlert! - Agriculture</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-08:/339076</id>
+	<link href="https://www.eurekalert.org/pub_releases/2016-11/idad-soo110816.php" rel="alternate" type="text/html"/>
+	<title type="html">Solved: One of the mysteries of globular clusters</title>
+	<summary type="html"><![CDATA[<p>(Instituto de Astrof&iacute;sica de Canarias (IAC)) A study shows that the most massive stars in the last s...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Instituto de Astrof&iacute;sica de Canarias (IAC)</i>) A study shows that the most massive stars in the last stages of their lives are those which contaminate the interstellar medium with new chemical elements, giving rise to successive generations of stars in these 'astronomical fossils'.</p>]]></content>
+	<updated>2016-11-08T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2016-11-08T05:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-02:/337671</id>
+	<link href="http://www.nature.com/ncomms/2016/161102/ncomms13364/full/ncomms13364.html?WT.feed_name=subjects_evolution" rel="alternate" type="text/html"/>
+	<title type="html">Tetrapod limb and sarcopterygian fin regeneration share a core genetic programme</title>
+	<summary type="html"><![CDATA[]]></summary>
+	<content type="html"><![CDATA[]]></content>
+	<updated>2016-11-02T00:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.nature.com/subjects/evolution</id>
+		<link rel="self" href="http://www.nature.com/subjects/evolution"/>
+		<updated>2016-11-02T00:00:00+00:00</updated>
+		<title>Evolution : nature.com subject feeds</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2016-08-29:/318656</id>
@@ -450,7 +827,7 @@ Dunes are prominent indicators of prevailing winds, as can be seen on this crate
 </div>
 <p>Sixty years after it officially began on October 4, 1957, we still often refer to the era we live in as the Space Age. Our extraterrestrial explorations have planted a set of mileposts in our memories &mdash; from those first brief forays into weightlessness to permanently occupied space stations, from spindly probes snapping a few pictures while whizzing past a distant planet to rovers probing every nook and cranny and telescopes peering into the deepest vastness. It&rsquo;s no surprise that venturing beyond our home planet is considered by many to be the defining achievement of our era, a symbolic pinnacle of human civilization.</p>
 <p>But for the United States, at least, the Space Age began not with glory but with worldwide humiliation.</p>
-<p>In mid-1955 President Dwight Eisenhower declared that the nation would place a scientific satellite into orbit during the upcoming International Geophysical Year, a worldwide 18-month stretch of cooperative research. The IGY kicked off with much fanfare on July 1, 1957, with the U.S. envisioning a satellite launch later that year. But before the planned Vanguard satellite ever met its rocket, on October 4th a persistent beeping from orbit revealed that the Soviet Union had orbited the world&rsquo;s first satellite, Sputnik 1, and in doing so had won the first leg of what would become a race to space.</p>
+<p>In mid-1955 President Dwight Eisenhower declared that the nation would place a scientific satellite into orbit during the upcoming International Geophysical Year, a worldwide 18-month stretch of cooperative research. The IGY kicked off with much fanfare on July 1, 1957, with the U.S. envisioning a satellite launch later that year. But before the planned Vanguard satellite ever met its rocket, on October 4th a persistent beeping from orbit revealed that the <a href="http://www.printmag.com/design-culture-2/history-2/sputnik-collection-vintage-soviet-designs/" rel="noopener noreferrer" target="_blank">Soviet Union</a> had orbited the world&rsquo;s first satellite, Sputnik 1, and in doing so had won the first leg of what would become a race to space.</p>
 <p>Sputnik wasn&rsquo;t much of a satellite, but it was a beefy 184-pound beach ball compared to Vanguard&rsquo;s 3-pound grapefruit. Amateur skygazers, <a href="http://www.skyandtelescope.com/skytel/beyondthepage/9313906.html" target="_blank" rel="noopener noreferrer">mobilized worldwide</a> to track the first satellites, watched it pass overhead through their telescopes. And its simple beeping signal, powerful enough to be picked up by amateur radio operators around the world, left no doubt that the achievement was real.</p>
 <p>Just a month later, on November 3rd, the USSR awed the world again by launching the first space traveler, a small mongrel dog named Laika, aboard Sputnik 2.</p>
 <div>
@@ -965,378 +1342,6 @@ Dunes are prominent indicators of prevailing winds, as can be seen on this crate
 		type="" 
 		length="1"
 		href="http://www.renewableenergyworld.com/content/rew/en/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016/_jcr_content/leftcolumn/article/thumbnailimage.img.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-08-25:/317752</id>
-	<link href="http://cleantechnica.com/2016/08/25/anu-team-achieves-record-solar-thermal-efficiency-97/" rel="alternate" type="text/html"/>
-	<title type="html">ANU Team Achieves Record Solar Thermal Efficiency Of 97%</title>
-	<summary type="html"><![CDATA[<p>Originally published on RenewEconomy. By Sophie Vorrath A team of Australian National University sci...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://cleantechnica.com/files/2016/08/AH1P9192-e1471836830440-270x152.jpg" alt="AH1P9192-e1471836830440" srcset="http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/08/AH1P9192-e1471836830440-270x152.jpg 270w, http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/08/AH1P9192-e1471836830440-570x321.jpg 570w, http://c1cleantechnicacom.wpengine.netdna-cdn.com/files/2016/08/AH1P9192-e1471836830440.jpg 590w" sizes="(max-width: 270px) 100vw, 270px"><p>Originally published on RenewEconomy. By Sophie Vorrath A team of Australian National University scientists has brought economically competitive, grid-scale solar thermal energy generation closer to reality, after achieving a new record in efficiency for the technology that could compete with the cost of electricity from fossil fuels. The ANU team, whose CST technology harnesses the [&amp;hellip</p>
-<p><a rel="noopener noreferrer" href="http://cleantechnica.com/2016/08/25/anu-team-achieves-record-solar-thermal-efficiency-97/" target="_blank">ANU Team Achieves Record Solar Thermal Efficiency Of 97%</a> was originally published on <a href="http://cleantechnica.com" rel="noopener noreferrer" target="_blank">CleanTechnica</a>. </p>
-<p>To read more from CleanTechnica, join over 50,000 other subscribers: <a href="https://plus.google.com/+Cleantechnica?prsrc=5" rel="noopener noreferrer" target="_blank">Google+</a> | <a href="http://eepurl.com/csSt9" rel="noopener noreferrer" target="_blank">Email</a> | <a href="https://www.facebook.com/CleanTechnica" rel="noopener noreferrer" target="_blank">Facebook</a> | <a href="http://feeds.feedburner.com/IM-cleantechnica" rel="noopener noreferrer" target="_blank">RSS</a> | <a href="https://twitter.com/cleantechnica" rel="noopener noreferrer" target="_blank">Twitter</a>.</p>]]></content>
-	<updated>2016-08-25T15:25:12+00:00</updated>
-	<author><name>Guest Contributor</name></author>
-	<source>
-		<id>http://cleantechnica.com</id>
-		<link rel="self" href="http://cleantechnica.com"/>
-		<updated>2016-08-25T15:25:12+00:00</updated>
-		<title>CleanTechnica » Clean Power</title></source>
-
-	<category term="clean power"/>
-
-	<category term="concentrating solar power"/>
-
-	<category term="solar energy"/>
-
-	<category term="solar records"/>
-
-	<category term="solar thermal"/>
-
-	<category term="australia"/>
-
-	<category term="australia solar"/>
-
-	<category term="australian national university"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-08-14:/314148</id>
-	<link href="http://www.thehindu.com/sci-tech/science/the-earliest-plants-that-colonised-land/article8986009.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication" rel="alternate" type="text/html"/>
-	<title type="html">The earliest plants that colonised land</title>
-	<summary type="html"><![CDATA[<p>A study of rooted fossil soils in China&rsquo;s Yunnan region, published in Proceedings of National Acade...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A study of rooted fossil soils in China&rsquo;s Yunnan region, published in Proceedings of National Academy of Sciences on August 8, has established the time of colonisation of land regions by the earliest ...</p>]]></content>
-	<updated>2016-08-13T12:18:28+00:00</updated>
-	<author><name>Shubashree Desikan</name></author>
-	<source>
-		<id>http://www.thehindu.com/</id>
-		<link rel="self" href="http://www.thehindu.com/"/>
-		<updated>2016-08-13T12:18:28+00:00</updated>
-		<title>The Hindu - Sci-Tech</title></source>
-
-	<category term="science"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-08-03:/310799</id>
-	<link href="http://www.eurekalert.org/pub_releases/2016-08/uosf-spa080216.php" rel="alternate" type="text/html"/>
-	<title type="html">Study provides a new method to measure the energy of a lightning strike</title>
-	<summary type="html"><![CDATA[<p>(University of South Florida (USF Innovation)) By investigating 'fossilized' sand cylinders made by ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of South Florida (USF Innovation)</i>) By investigating 'fossilized' sand cylinders made by lightning strikes, sometimes thousands of years old, a University of South Florida geology professor's study provides a unique history of lightning and a new method to measure the energy contained in a single strike.</p>]]></content>
-	<updated>2016-08-03T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2016-08-03T04:00:00+00:00</updated>
-		<title>EurekAlert! - Atmospheric Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-08-02:/310445</id>
-	<link href="http://phys.org/news/2016-08-crocodile-ancestors.html" rel="alternate" type="text/html"/>
-	<title type="html">The first crocodile ancestors</title>
-	<summary type="html"><![CDATA[<p>Did you know that birds and crocodiles are practically cousins? Around 230 million years ago, you wo...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Did you know that birds and crocodiles are practically cousins? Around 230 million years ago, you wouldn't have been able to tell the difference between the two different lineages. This is because birds and crocodilians (which includes alligators, caiman, and gharials) are part of a much larger group called Archosauria, or ruling lizards, which means they share a common ancestor far back in time. When they split from each other, they formed two major evolutionary pathways: the bird-line archosaurs, which also includes all dinosaurs, and the crocodile-line archosaurs, which includes crocodilians and their ancestors, the crocodylomorphs.</p>]]></content>
-	<updated>2016-08-02T12:50:02+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-08-02T12:50:02+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="archaeology &amp; fossils"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/thefirstcroc.png"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-30:/378993</id>
-	<link href="https://opensource.com/article/17/3/tomviz-large-3D-datasets" rel="alternate" type="text/html"/>
-	<title type="html">Peering into complex, tiny structures with 3D analysis tool tomviz</title>
-	<summary type="html"><![CDATA[<p>New open source software tomviz&mdash;short for tomographic visualization&mdash;enables researchers to interacti...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/science_root_plant.jpg" width="520" height="292" alt="Peering into complex, tiny structures with 3D analysis tool tomviz" title="Peering into complex, tiny structures with 3D analysis tool tomviz"><p>New open source software <a href="http://www.tomviz.com" target="_blank" rel="noopener noreferrer">tomviz</a>&mdash;short for tomographic visualization&mdash;enables researchers to interactively understand large 3D datasets. More specifically, the software analyzes&nbsp;3D tomographic data similar to a medical CT-scan but at the nanoscale.</p>
-<p>"When you can take a nanoparticle or biomolecule and spin it around, slice it, look inside it, and quantitatively analyze it, you get a complete picture from all angles," says Yi Jiang, a physics Ph.D. candidate at Cornell University.</p>
-<br>
-<a href="https://opensource.com/article/17/3/tomviz-large-3D-datasets" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-03-30T07:01:00+00:00</updated>
-	<author><name>hovden</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-03-30T07:01:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-14:/373918</id>
-	<link href="https://opensource.com/article/17/3/physical-computing-raspberry-pi" rel="alternate" type="text/html"/>
-	<title type="html">The physical computing capabilities of the Raspberry Pi</title>
-	<summary type="html"><![CDATA[<p>While the Raspberry Pi is an excellent and affordable mini Linux computer with a stylish and functio...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/raspberry_pi_board_hardware_computing.jpg" width="520" height="292" alt="The physical computing capabilities of the Raspberry Pi" title="The physical computing capabilities of the Raspberry Pi"><p>While the Raspberry Pi is an excellent and affordable mini Linux computer with a stylish and functional desktop user interface, it has plenty of scope beyond that of a regular PC. Here's an overview of the physical computing capabilities of the Pi.</p>
-<h2>GPIO pins</h2>
-<p>Since 2014, with the release of the Model B+, the Raspberry Pi's form factor has stayed the same, including the uniform 40-pin GPIO (General Purpose Input/Output) pin header.</p>
-<br>
-<a href="https://opensource.com/article/17/3/physical-computing-raspberry-pi" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-03-14T07:03:00+00:00</updated>
-	<author><name>ben_nuttall</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-03-14T07:03:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-01:/370230</id>
-	<link href="https://opensource.com/article/17/3/embedded-linux-iot-ecosystem" rel="alternate" type="text/html"/>
-	<title type="html">How embedded Linux accelerates IoT development</title>
-	<summary type="html"><![CDATA[<p>You'll find that the quickest way to build components of an IoT ecosystem is to use embedded Linux, ...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/car-penguin-drive-linux-yellow.png" width="520" height="292" alt="How embedded Linux accelerates IoT development" title="How embedded Linux accelerates IoT development"><p>You'll find that the quickest way to build components of an IoT ecosystem is to use embedded Linux, whether you're augmenting existing devices or designing a new device or system from the beginning. Embedded Linux shares the same source code base as desktop Linux, but it is coupled with different user interface tools and other high-level components. The base of the system is essentially the same.</p>
-<p></p>
-<p>Let's look at a few common cases.</p>
-<br>
-<a href="https://opensource.com/article/17/3/embedded-linux-iot-ecosystem" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-03-01T08:02:00+00:00</updated>
-	<author><name>hyau</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-03-01T08:02:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-28:/369735</id>
-	<link href="https://opensource.com/article/17/2/pi-zero-wireless" rel="alternate" type="text/html"/>
-	<title type="html">Pi Zero Wireless out now for $10</title>
-	<summary type="html"><![CDATA[<p>Today, on the fifth anniversary of the release of the original Raspberry Pi, the Foundation has rele...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life-uploads/raspbery_pi_zero_wireless_hardware.jpg" width="520" height="292" alt="Pi Zero Wireless out now for $10" title="Pi Zero Wireless out now for $10"><p>Today, on the fifth anniversary of the release of the original Raspberry Pi, the Foundation has released Pi Zero W, a Pi Zero with built-in WiFi and Bluetooth, for $10.</p>
-<p>The original Pi Zero was great (and still is!)&mdash;but many people found its lack of wireless connectivity an inconvenience. Now with Zero W, you can connect to the Internet without using any adapters, and you can even use a Bluetooth mouse and keyboard rather than wired USB, or use a Bluetooth speaker for audio.</p>
-<p>The latest addition to the Raspberry Pi family has the same specifications as the original Pi Zero:</p>
-<br>
-<a href="https://opensource.com/article/17/2/pi-zero-wireless" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-02-28T09:00:00+00:00</updated>
-	<author><name>ben_nuttall</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-02-28T09:00:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-28:/369675</id>
-	<link href="https://opensource.com/open-organization/17/2/4-stages-open-leadership-development" rel="alternate" type="text/html"/>
-	<title type="html">4 stages of open leadership development</title>
-	<summary type="html"><![CDATA[<p>As I shared in the first part of my "Open Leadership Development" series, we started building our le...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/BIZ_steelworker.png" width="520" height="292" alt="4 stages of open leadership development" title="4 stages of open leadership development"><p>As I shared in the <a href="https://opensource.com/open-organization/17/1/developing-open-leaders" rel="noopener noreferrer" target="_blank">first part</a> of my "Open Leadership Development" series, we started building our leadership development system at Red Hat many years ago, by finding great leadership training designed for conventional organizations, and adapting it to fit our open organization.</p>
-<br>
-<a href="https://opensource.com/open-organization/17/2/4-stages-open-leadership-development" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-02-28T08:00:00+00:00</updated>
-	<author><name>DeLisa</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-02-28T08:00:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-20:/367204</id>
-	<link href="https://opensource.com/article/17/2/linux-boot-and-startup" rel="alternate" type="text/html"/>
-	<title type="html">An introduction to the Linux boot and startup processes</title>
-	<summary type="html"><![CDATA[<p>Understanding the Linux boot and startup processes is important to being able to both configure Linu...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/linux_boot.png" width="520" height="292" alt="The boot process" title="The boot process"><p>Understanding the Linux boot and startup processes is important to being able to both configure Linux and to resolving startup issues. This article presents an overview of the bootup sequence using the <a href="https://en.wikipedia.org/wiki/GNU_GRUB" target="_blank" rel="noopener noreferrer">GRUB2 bootloader</a> and the startup sequence as performed by the <a href="https://en.wikipedia.org/wiki/Systemd" target="_blank" rel="noopener noreferrer">systemd initialization system</a>.</p>
-<br>
-<a href="https://opensource.com/article/17/2/linux-boot-and-startup" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-02-20T08:02:00+00:00</updated>
-	<author><name>dboth</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-02-20T08:02:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-27:/360546</id>
-	<link href="https://opensource.com/article/17/1/cultivating-business-foss-market" rel="alternate" type="text/html"/>
-	<title type="html">How to successfully enter the FOSS emerging market</title>
-	<summary type="html"><![CDATA[<p>In business speak, an "emerging market" is a market that is not yet well developed&nbsp;but on the rise a...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/BIZ_ManagementModel3.png" width="520" height="292" alt="How to successfully enter the FOSS emerging market" title="How to successfully enter the FOSS emerging market"><p>In business speak, an "emerging market" is a market that is not yet well developed&nbsp;but on the rise and shows strong potential to be as robust as other developed markets. The <a href="https://en.wikipedia.org/wiki/Emerging_markets" target="_blank" rel="noopener noreferrer">Wikipedia definition</a>&nbsp;focuses purely on countries, but this is a limited view of the meaning of "market."</p>
-<br>
-<a href="https://opensource.com/article/17/1/cultivating-business-foss-market" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-01-27T08:01:00+00:00</updated>
-	<author><name>vmbrasseur</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-01-27T08:01:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-11:/355785</id>
-	<link href="https://opensource.com/article/17/1/apache-open-climate-workbench" rel="alternate" type="text/html"/>
-	<title type="html">Explore climate data with open source tools</title>
-	<summary type="html"><![CDATA[<p>You can't look anywhere these days without seeing evidence of the changing weather patterns on the e...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/bus-cloud.png" width="520" height="292" alt="Explore climate data with open source tools" title="Explore climate data with open source tools"><p>You can't look anywhere these days without seeing evidence of the changing weather patterns on the earth. Monthly, we are confronted with facts and figures that point to a warming planet.</p>
-<br>
-<a href="https://opensource.com/article/17/1/apache-open-climate-workbench" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-01-11T08:01:00+00:00</updated>
-	<author><name>Don Watkins</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-01-11T08:01:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-05:/354295</id>
-	<link href="https://opensource.com/article/17/1/task-management-time-tracking-android" rel="alternate" type="text/html"/>
-	<title type="html">10 open source task management and time tracking applications for Android</title>
-	<summary type="html"><![CDATA[<p>The demands of modern life can, at times, be overwhelming. Even a super organized person probably ne...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/clocks_time.png" width="520" height="292" alt="10 open source task management and time tracking applications for Android" title="10 open source task management and time tracking applications for Android"><p>The demands of modern life can, at times, be overwhelming. Even a super organized person probably needs digital tools to keep track of personal and professional meetings and deadlines. If you were at <a href="http://allthingsopen.org/" target="_blank" rel="noopener noreferrer">All Things Open</a> this year, you might have seen Opensource.com's own Jason Baker and Jen Wike Huger talk about <a href="http://productive.win/" target="_blank" rel="noopener noreferrer">open source productivity hacks</a>, which was an excellent primer on open source tools and tips for optimizing your productivity.</p>
-<br>
-<a href="https://opensource.com/article/17/1/task-management-time-tracking-android" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-01-05T08:03:00+00:00</updated>
-	<author><name>holmja</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-01-05T08:03:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-29:/344610</id>
-	<link href="https://opensource.com/article/16/11/what-raspberry-pi-foundation-10-million-computers-sold" rel="alternate" type="text/html"/>
-	<title type="html">What is the Raspberry Pi Foundation? 10 million computers sold</title>
-	<summary type="html"><![CDATA[<p>With more than 10 million units sold, the Raspberry Pi is a massive success. At this year's All T...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/10millionpi_bear.jpg" width="520" height="292" alt="What is the Raspberry Pi Foundation? 10 million computers sold" title="What is the Raspberry Pi Foundation? 10 million computers sold"><p>
-  With more than 10 million units sold, the <a href="http://localhost/resources/what-raspberry-pi" rel="noopener noreferrer" target="_blank">Raspberry Pi</a> is a massive success. At this year's <a href="http://allthingsopen.org/" target="_blank" rel="noopener noreferrer">All Things Open</a>, community manager <a href="http://twitter.com/ben_nuttall" target="_blank" rel="noopener noreferrer">Ben Nuttall</a> gave a five-minute lightning talk introducing the educational charity behind the popular mini computer.
-</p>
-<br>
-<a href="https://opensource.com/article/16/11/what-raspberry-pi-foundation-10-million-computers-sold" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2016-11-29T08:02:00+00:00</updated>
-	<author><name>admin</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2016-11-29T08:02:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-22:/343011</id>
-	<link href="https://opensource.com/article/16/11/25-years-linux-5-minutes" rel="alternate" type="text/html"/>
-	<title type="html">25 years of Linux in 5 minutes</title>
-	<summary type="html"><![CDATA[<p>Jeremy Garcia of LinuxQuestions.org and Bad Voltage (a podcast) delivers 25 years of Linux in five&nbsp;m...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/OSDC_Penguin_Image_520x292_12324207_0714_mm_v1a.png" width="520" height="292" alt="25 years of Linux in 5 minutes" title="25 years of Linux in 5 minutes"><p>Jeremy Garcia of <a href="http://www.linuxquestions.org/" target="_blank" rel="noopener noreferrer">LinuxQuestions.org</a> and <a href="http://www.badvoltage.org/" target="_blank" rel="noopener noreferrer">Bad Voltage</a> (a podcast) delivers 25 years of Linux in five&nbsp;minutes:&nbsp;starting with&nbsp;Linux's first steps as "just a hobby" for creator Linus Torvalds,&nbsp;to its staggering popularity today with&nbsp;135,000&nbsp;developers from more than 1,300 companies&nbsp;and&nbsp;22 million lines of code .</p>
-<p>It's a lot to cover.</p>
-<p></p>
-<br>
-<a href="https://opensource.com/article/16/11/25-years-linux-5-minutes" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2016-11-22T08:03:00+00:00</updated>
-	<author><name>admin</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2016-11-22T08:03:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-16:/341509</id>
-	<link href="https://opensource.com/16/11/all-things-open-keynotes-day-1-summary" rel="alternate" type="text/html"/>
-	<title type="html">What&amp;#039;s important in open source today</title>
-	<summary type="html"><![CDATA[<p>Opensource.com community moderator Jono Bacon&nbsp;kicked off keynotes at All Things Open this year to ta...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/OPENHERE_blue.png" width="520" height="292" alt="A recap of keynotes from day 1 of All Things Open 2016" title="A recap of keynotes from day 1 of All Things Open 2016"><p>Opensource.com community moderator <a href="https://twitter.com/jonobacon" target="_blank" rel="noopener noreferrer">Jono Bacon</a>&nbsp;kicked off keynotes at <a href="http://localhost/series/ato-2016" rel="noopener noreferrer" target="_blank">All Things Open</a> this year to talk about open source communities</p>
-<br>
-<a href="https://opensource.com/16/11/all-things-open-keynotes-day-1-summary" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2016-11-16T08:00:00+00:00</updated>
-	<author><name>nengard</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2016-11-16T08:00:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-04:/338296</id>
-	<link href="https://opensource.com/life/16/11/happy-birthday-vim-25" rel="alternate" type="text/html"/>
-	<title type="html">The iconic text editor Vim celebrates 25 years</title>
-	<summary type="html"><![CDATA[<p>Turn back the dial of time a bit. No, keep turning... a little more... there! Over 25 years ago, whe...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/osdc-lead-happybirthday.png" width="520" height="292" alt="The iconic text editor Vim celebrates 25 years" title="The iconic text editor Vim celebrates 25 years"><p>Turn back the dial of time a bit. No, keep turning... a little more... there! Over 25 years ago, when some of your professional colleagues were still toddlers, Bram Moolenaar started working on a text editor for his Amiga. He was a user of vi on Unix, but the Amiga didn't have anything quite like it. On November 2, 1991, after three years in development, he released the first version of the "Vi IMitation" editor, or <a href="http://www.vim.org" target="_blank" rel="noopener noreferrer">Vim</a>.</p>
-<br>
-<a href="https://opensource.com/life/16/11/happy-birthday-vim-25" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2016-11-04T16:00:00+00:00</updated>
-	<author><name>druthb</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2016-11-04T16:00:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-03:/337777</id>
-	<link href="https://opensource.com/life/16/11/internet-archive-turns-20" rel="alternate" type="text/html"/>
-	<title type="html">Internet Archive turns 20, gives birthday gifts to the world</title>
-	<summary type="html"><![CDATA[<p>On May 12, 1996, like a benevolent mad scientist,&nbsp;Brewster Kahle&nbsp;brought the&nbsp;Internet Archive&nbsp;to lif...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/internet_archive_building_sanfran.jpg" width="520" height="292" alt="Internet Archive turns 20, gives birthday gifts to the world" title="Internet Archive turns 20, gives birthday gifts to the world"><p>On May 12, 1996, like a benevolent mad scientist,&nbsp;<a href="https://en.wikipedia.org/wiki/Brewster_Kahle" target="_blank" rel="noopener noreferrer">Brewster Kahle</a>&nbsp;brought the&nbsp;<a href="https://archive.org/" target="_blank" rel="noopener noreferrer">Internet Archive</a>&nbsp;to life. The World Wide Web was in its infancy and the Archive was there to capture its growing pains. Inspired by and emulating the&nbsp;<a href="https://en.wikipedia.org/wiki/Library_of_Alexandria" target="_blank" rel="noopener noreferrer">Library at Alexandria</a>, the Internet Archive began its mission to preserve and provide universal access to all knowledge.</p>
-<br>
-<a href="https://opensource.com/life/16/11/internet-archive-turns-20" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2016-11-03T07:03:00+00:00</updated>
-	<author><name>vmbrasseur</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2016-11-03T07:03:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
 
 </entry>
 
