@@ -6,7 +6,7 @@ wget -O feed.xml "http://localhost/tt-rss/public.php?op=rss&id=-1&key=vyn7su59c7
 sed -i '1d' feed.xml
 
 
-sed -i '1s/^/<HTML>\n<HEAD>\n<TITLE>data-1.science<\/TITLE>\n<meta charset="UTF-8">\n<meta name="google-site-verification" content="cjBnLqqABjC1aHNwKlgEq_tqFvgpE__jxiJaU_aHTS4" \/>\n<meta name="description" content="Top Science Breakthrough News" \/>\n<link rel="stylesheet" type="text\/css" href="jquery.dataTables.0.css">\n<script src="jquery-1.10.2.min.js"><\/script>\n<script src="jquery.dataTables.min.js"><\/script>\n<script src="initialise.js"><\/script>\n<\/HEAD>\n<BODY>/' index.html
+sed -i '1s/^/<HTML>\n<HEAD>\n<TITLE>data-1.science<\/TITLE>\n<meta charset="UTF-8"><meta name="google-site-verification" content="cjBnLqqABjC1aHNwKlgEq_tqFvgpE__jxiJaU_aHTS4" \/><meta name="description" content="Top Science Breakthrough News" \/><link rel="stylesheet" type="text\/css" href="jquery.dataTables.0.css"><script src="jquery-1.10.2.min.js"><\/script><script src="jquery.dataTables.min.js"><\/script><script src="initialise.js"><\/script>\n<\/HEAD>\n<BODY>/' index.html
 
 #\n<script async src="\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js"><\/script>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({\n  google_ad_client: "ca-pub-1180084567973917",\n  enable_page_level_ads: true\n  });\n<\/script>\n
 
@@ -31,4 +31,3 @@ sed -i 's_^\([^>]\+right">\)\([[:digit:]]\+\)_\1<a href="archive/\2-l.svgz">svgz
 mv index.html ../index.html
 mv feed.xml ../feed.xml
 exit
-
