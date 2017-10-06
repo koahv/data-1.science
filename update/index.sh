@@ -6,17 +6,7 @@ wget -O feed.xml "http://localhost/tt-rss/public.php?op=rss&id=-1&key=vyn7su59c7
 sed -i '1d' feed.xml
 
 
-sed -i '1s/^/<HTML>\n<HEAD>\n<TITLE>data-1.science<\/TITLE>\n<meta charset="UTF-8">\n<meta name="google-site-verification" content="cjBnLqqABjC1aHNwKlgEq_tqFvgpE__jxiJaU_aHTS4" \/>\n<meta name="description" content="Top Science Breakthrough News" \/>\n<link rel="stylesheet" type="text\/css" href="jquery.dataTables.0.css">\n<script src="jquery-1.10.2.min.js"><\/script>\n<script src="jquery.dataTables.min.js"><\/script>\n<script src="initialise.js"><\/script>\n \
-
-#<script async src="\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js"><\/script> \
-#<script> \
-#  (adsbygoogle = window.adsbygoogle || []).push({ \
-#    google_ad_client: "ca-pub-1180084567973917", \
-#    enable_page_level_ads: true \
-#  }); \
-#<\/script>
-
-\n<\/HEAD>\n<BODY>/' index.html
+sed -i '1s/^/<HTML>\n<HEAD>\n<TITLE>data-1.science<\/TITLE>\n<meta charset="UTF-8">\n<meta name="google-site-verification" content="cjBnLqqABjC1aHNwKlgEq_tqFvgpE__jxiJaU_aHTS4" \/>\n<meta name="description" content="Top Science Breakthrough News" \/>\n<link rel="stylesheet" type="text\/css" href="jquery.dataTables.0.css">\n<script src="jquery-1.10.2.min.js"><\/script>\n<script src="jquery.dataTables.min.js"><\/script>\n<script src="initialise.js"><\/script>\n<\/HEAD>\n<BODY>/' index.html
 
 #\n<script async src="\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js"><\/script>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({\n  google_ad_client: "ca-pub-1180084567973917",\n  enable_page_level_ads: true\n  });\n<\/script>\n
 
