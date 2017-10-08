@@ -4,11 +4,545 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2016-08-16T11:09:37+00:00</updated>
+<updated>2017-02-10T05:00:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-07-12:/409115</id>
+	<link href="https://phys.org/news/2017-07-nasa-sdo-sunspot-earth.html" rel="alternate" type="text/html"/>
+	<title type="html">NASA's SDO watches a sunspot turn toward Earth</title>
+	<summary type="html"><![CDATA[<p>An active region on the sun&mdash;an area of intense and complex magnetic fields&mdash;has rotated into view on ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>An active region on the sun&mdash;an area of intense and complex magnetic fields&mdash;has rotated into view on the sun and seems to be growing rather quickly in this video captured by NASA's Solar Dynamics Observatory between July 5-11, 2017.</p>]]></content>
+	<updated>2017-07-12T15:26:33+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-07-12T15:26:33+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="space exploration"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/nasassdowatc.gif"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-07-09:/408029</id>
+	<link href="https://www.sciencedaily.com/releases/2017/07/170707211134.htm" rel="alternate" type="text/html"/>
+	<title type="html">Zero gravity: Graphene for space applications</title>
+	<summary type="html"><![CDATA[<p>Researchers are preparing for two exciting experiments in collaboration with the European Space Agen...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Researchers are preparing for two exciting experiments in collaboration with the European Space Agency (ESA) to test the viability of graphene for space applications. The microgravity parabolic flight drop tower experiments will launch between November 6-17, 2017, testing graphene in zero-gravity conditions to determine its potential in space applications including light propulsion and thermal management.</p>]]></content>
+	<updated>2017-07-08T01:11:34+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-07-08T01:11:34+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-07-04:/406706</id>
+	<link href="https://phys.org/news/2017-07-telescope-optical-gravitational.html" rel="alternate" type="text/html"/>
+	<title type="html">Telescope for detecting optical signals from gravitational waves launched</title>
+	<summary type="html"><![CDATA[<p>A state-of-the-art telescope for detecting optical signatures of gravitational waves - built and ope...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A state-of-the-art telescope for detecting optical signatures of gravitational waves - built and operated by an international research collaboration, led by the University of Warwick - has been officially launched.</p>]]></content>
+	<updated>2017-07-04T12:30:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-07-04T12:30:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="astronomy"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/telescopefor.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-20:/375887</id>
+	<link href="https://phys.org/news/2017-03-orbital-atk-cygnus-space-station.html" rel="alternate" type="text/html"/>
+	<title type="html">Orbital ATK Cygnus set to deliver research to space station</title>
+	<summary type="html"><![CDATA[<p>Orbital ATK is targeted to launch its Cygnus spacecraft into orbit for a resupply mission to the Int...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Orbital ATK is targeted to launch its Cygnus spacecraft into orbit for a resupply mission to the International Space Station March 24, 2017 from Cape Canaveral Air Force Station in Florida. Cygnus will launch atop a United Launch Alliance Atlas V rocket carrying crew supplies, equipment and scientific research to crew members aboard the station. The flight will deliver investigations that study magnetic cell culturing, crystal growth and atmospheric reentry.</p>]]></content>
+	<updated>2017-03-20T19:27:13+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-03-20T19:27:13+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="space exploration"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/orbitalatkcy.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-17:/375065</id>
+	<link href="https://phys.org/news/2017-03-esa-jupiter-mission-board.html" rel="alternate" type="text/html"/>
+	<title type="html">ESA's Jupiter mission moves off the drawing board</title>
+	<summary type="html"><![CDATA[<p>Demanding electric, magnetic and power requirements, harsh radiation, and strict planetary protectio...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Demanding electric, magnetic and power requirements, harsh radiation, and strict planetary protection rules are some of the critical issues that had to be tackled in order to move ESA's Jupiter Icy Moons Explorer &ndash; Juice &ndash; from the drawing board and into construction.</p>]]></content>
+	<updated>2017-03-17T10:10:35+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-03-17T10:10:35+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="space exploration"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/esasjupiterm.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-10:/373026</id>
+	<link href="https://phys.org/news/2017-03-life-earth-gravity-cells-tissues.html" rel="alternate" type="text/html"/>
+	<title type="html">Life on Earth is used to gravity – so what happens to our cells and tissues in space?</title>
+	<summary type="html"><![CDATA[<p>There's one force whose effects are so deeply entrenched in our everyday lives that we probably don'...</p>]]></summary>
+	<content type="html"><![CDATA[<p>There's one force whose effects are so deeply entrenched in our everyday lives that we probably don't think much about it at all: gravity. Gravity is the force that causes attraction between masses. It's why when you drop a pen, it falls to the ground. But because gravitational force is proportional to the mass of the object, only large objects like planets create tangible attractions. This is why the study of gravity traditionally focused on massive objects like planets.</p>]]></content>
+	<updated>2017-03-10T13:50:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-03-10T13:50:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="space exploration"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/lifeonearthi.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-07-14:/410062</id>
+	<link href="https://www.sciencedaily.com/releases/2017/07/170714140243.htm" rel="alternate" type="text/html"/>
+	<title type="html">First laboratory generation of astrophysical shock waves created</title>
+	<summary type="html"><![CDATA[<p>The first laboratory generation of an astrophysical shock wave has been reported by scientists. To p...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The first laboratory generation of an astrophysical shock wave has been reported by scientists. To produce the wave, scientists used a laser to create a high-energy plasma -- a form of matter composed of atoms and charged atomic particles -- that expanded into a pre-existing magnetized plasma. The interaction created, within a few billionths of a second, a magnetized shock wave that expanded at a rate of more than 1 million miles per hour, congruent with shocks beyond the solar system.</p>]]></content>
+	<updated>2017-07-14T18:02:43+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-07-14T18:02:43+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/07/170714140243-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-07-20:/411486</id>
+	<link href="https://www.sciencedaily.com/releases/2017/07/170719173710.htm" rel="alternate" type="text/html"/>
+	<title type="html">Imaging of scar tissue formation</title>
+	<summary type="html"><![CDATA[<p>Organs respond to injuries with the formation of new fibrous tissue, which can result in scarring. T...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Organs respond to injuries with the formation of new fibrous tissue, which can result in scarring. This process called fibrogenesis can now be monitored noninvasively on a molecular level, as scientists report. They have created a new gadolinium-based probe for magnetic resonance imaging that specifically reports the proteins involved in fibrogenesis. The imaging method may provide a quantitative assessment of the formation of the potentially harmful scar tissue.</p>]]></content>
+	<updated>2017-07-19T21:37:10+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-07-19T21:37:10+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-07-26:/413335</id>
+	<link href="https://phys.org/news/2017-07-protein-crystals-grown-microgravity-yield.html" rel="alternate" type="text/html"/>
+	<title type="html">Protein crystals grown in microgravity could yield antidotes for nerve agents</title>
+	<summary type="html"><![CDATA[<p>On a balmy evening in early June, Space X launched the Falcon 9 rocket, which ferried the Dragon spa...</p>]]></summary>
+	<content type="html"><![CDATA[<p>On a balmy evening in early June, Space X launched the Falcon 9 rocket, which ferried the Dragon spacecraft toward the International Space Station (ISS). As the Dragon broke the tethers of Earth's gravity three small, black boxes were safely nestled in its cargo hold. These innocuous boxes house an experiment that may help researchers develop new antidotes for nerve agents used in conflict zones.</p>]]></content>
+	<updated>2017-07-26T11:33:33+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-07-26T11:33:33+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="condensed matter"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/proteincryst.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-03:/415763</id>
+	<link href="http://physicsworld.com/cws/article/news/2017/aug/02/virgo-joins-gravitational-wave-hunt" rel="alternate" type="text/html"/>
+	<title type="html">VIRGO joins gravitational-wave hunt</title>
+	<summary type="html"><![CDATA[<p>Detector could help locate sources of gravitational waves</p>]]></summary>
+	<content type="html"><![CDATA[<p>Detector could help locate sources of gravitational waves<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/8RluRXAB9ZQ" height="1" width="1" alt=""></p>]]></content>
+	<updated>2017-08-02T14:04:04+00:00</updated>
+	<author><name>Michael Banks</name></author>
+	<source>
+		<id>http://physicsworld.com/</id>
+		<link rel="self" href="http://physicsworld.com/"/>
+		<updated>2017-08-02T14:04:04+00:00</updated>
+		<title>physicsworld.com: all content</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-04:/416213</id>
+	<link href="http://physicsworld.com/cws/article/news/2017/aug/03/nanoscale-imaging-looks-deep-into-magnetic-materials" rel="alternate" type="text/html"/>
+	<title type="html">Nanoscale imaging looks deep into magnetic materials</title>
+	<summary type="html"><![CDATA[<p>New technique bags Bloch points</p>]]></summary>
+	<content type="html"><![CDATA[<p>New technique bags Bloch points<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/pE31HwkPXu8" height="1" width="1" alt=""></p>]]></content>
+	<updated>2017-08-03T14:16:58+00:00</updated>
+	<author><name>Tim Wogan</name></author>
+	<source>
+		<id>http://physicsworld.com/</id>
+		<link rel="self" href="http://physicsworld.com/"/>
+		<updated>2017-08-03T14:16:58+00:00</updated>
+		<title>physicsworld.com: all content</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-16:/419916</id>
+	<link href="https://www.sciencedaily.com/releases/2017/08/170816134658.htm" rel="alternate" type="text/html"/>
+	<title type="html">Scientists use magnetic fields to remotely stimulate brain -- and control body movements</title>
+	<summary type="html"><![CDATA[<p>Scientists have used magnetism to activate tiny groups of cells in the brain, inducing bodily moveme...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Scientists have used magnetism to activate tiny groups of cells in the brain, inducing bodily movements that include running, rotating and losing control of the extremities -- an achievement that could lead to advances in studying and treating neurological disease.</p>]]></content>
+	<updated>2017-08-16T17:46:58+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-08-16T17:46:58+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/08/170816134658-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-16:/419878</id>
+	<link href="https://phys.org/news/2017-08-harnessing-rich-satellite-crop-yield.html" rel="alternate" type="text/html"/>
+	<title type="html">Harnessing rich satellite data to estimate crop yield</title>
+	<summary type="html"><![CDATA[<p>Without advanced sensing technology, humans see only a small portion of the entire electromagnetic s...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Without advanced sensing technology, humans see only a small portion of the entire electromagnetic spectrum. Satellites see the full range&mdash;from high-energy gamma rays, to visible, infrared, and low-energy microwaves. The images and data they collect can be used to solve complex problems. For example, satellite data is being harnessed by researchers at the University of Illinois for a more complete picture of cropland and to estimate crop yield in the U.S. Corn Belt.</p>]]></content>
+	<updated>2017-08-16T17:20:06+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-08-16T17:20:06+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="environment"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/59947b2d69e15.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-18:/420602</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-08/uota-sac081817.php" rel="alternate" type="text/html"/>
+	<title type="html">Spoiler alert: Computer simulations provide preview of next week's eclipse</title>
+	<summary type="html"><![CDATA[<p>(University of Texas at Austin, Texas Advanced Computing Center) Researchers from Predictive Science...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Texas at Austin, Texas Advanced Computing Center</i>) Researchers from Predictive Science Inc. used NASA and National Science Foundation-supported supercomputers to run highly-detailed forecasts of the Sun's corona -- the aura of plasma that surrounds the sun -- at the moment of the eclipse. The team combined data from NASA's&nbsp;Solar Dynamics Observatory, magnetic field maps, solar rotation rates and cutting-edge mathematical models to predict the state of the Sun's surface. The simulations are the largest produced by the group and include new physics.</p>]]></content>
+	<updated>2017-08-18T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-08-18T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-18:/420536</id>
+	<link href="https://phys.org/news/2017-08-migrating-birds-magnetic-distances.html" rel="alternate" type="text/html"/>
+	<title type="html">Migrating birds use a magnetic map to travel long distances</title>
+	<summary type="html"><![CDATA[<p>Birds have an impressive ability to navigate. They can fly long distances, to places that they may n...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Birds have an impressive ability to navigate. They can fly long distances, to places that they may never have visited before, sometimes returning home after months away.</p>]]></content>
+	<updated>2017-08-18T12:20:02+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-08-18T12:20:02+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="plants &amp; animals"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/migratingbir.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-30:/424286</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-08/dnal-aia082917.php" rel="alternate" type="text/html"/>
+	<title type="html">Artificial intelligence analyzes gravitational lenses 10 million times faster</title>
+	<summary type="html"><![CDATA[<p>(DOE/SLAC National Accelerator Laboratory) Researchers from the Department of Energy's SLAC National...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>DOE/SLAC National Accelerator Laboratory</i>) Researchers from the Department of Energy's SLAC National Accelerator Laboratory and Stanford University have for the first time shown that neural networks -- a form of artificial intelligence -- can accurately analyze the complex distortions in spacetime known as gravitational lenses 10 million times faster than traditional methods.</p>]]></content>
+	<updated>2017-08-30T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-08-30T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-05:/435759</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171005141754.htm" rel="alternate" type="text/html"/>
+	<title type="html">Better genetic decoding of neurodevelopmental disorders</title>
+	<summary type="html"><![CDATA[<p>New research into improving the genetic decoding of neurodevelopmental disorders promises to help fu...</p>]]></summary>
+	<content type="html"><![CDATA[<p>New research into improving the genetic decoding of neurodevelopmental disorders promises to help future diagnosis of children with such conditions, including intellectual disability, autism or schizophrenia.</p>]]></content>
+	<updated>2017-10-05T18:17:54+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-05T18:17:54+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-05:/425578</id>
+	<link href="https://www.sciencedaily.com/releases/2017/09/170904181720.htm" rel="alternate" type="text/html"/>
+	<title type="html">Scientists discover brain area which can be targeted for treatment in patients with schizophrenia who 'hear voices'</title>
+	<summary type="html"><![CDATA[<p>For the first time, scientists have precisely identified and targeted an area of the brain which is ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>For the first time, scientists have precisely identified and targeted an area of the brain which is involved in 'hearing voices,' experienced by many patients with schizophrenia. They have been able to show in a controlled trial that targeting this area with magnetic pulses can improve the condition in some patients.</p>]]></content>
+	<updated>2017-09-04T22:17:20+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-09-04T22:17:20+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-14:/428641</id>
+	<link href="https://www.sciencedaily.com/releases/2017/09/170913193005.htm" rel="alternate" type="text/html"/>
+	<title type="html">New gravity map suggests Mars has a porous crust</title>
+	<summary type="html"><![CDATA[<p>Scientists have found evidence that Mars' crust is not as dense as previously thought, a clue that c...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Scientists have found evidence that Mars' crust is not as dense as previously thought, a clue that could help researchers better understand the Red Planet's interior structure and evolution.</p>]]></content>
+	<updated>2017-09-13T23:30:05+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-09-13T23:30:05+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/09/170913193005-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-16:/429334</id>
+	<link href="https://www.livescience.com/50326-what-is-ultraviolet-light.html" rel="alternate" type="text/html"/>
+	<title type="html">What Is Ultraviolet Light?</title>
+	<summary type="html"><![CDATA[<p>Ultraviolet light is a type of electromagnetic radiation. These high-frequency waves can damage livi...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Ultraviolet light is a type of electromagnetic radiation. These high-frequency waves can damage living tissue.</p>]]></content>
+	<updated>2017-09-15T09:27:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.livescience.com</id>
+		<link rel="self" href="https://www.livescience.com"/>
+		<updated>2017-09-15T09:27:00+00:00</updated>
+		<title>LiveScience.com</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="https://img.purch.com/rc/160x100/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA1MC81NzUvb3JpZ2luYWwvMDcwODA2X3Rhbm5pbmdfMDIuanBn"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-21:/431284</id>
+	<link href="https://phys.org/news/2017-09-gravitational-oscillate-neutrinos.html" rel="alternate" type="text/html"/>
+	<title type="html">Gravitational waves may oscillate, just like neutrinos</title>
+	<summary type="html"><![CDATA[<p>(Phys.org)&mdash;Using data from the first-ever gravitational waves detected last year, along with a theor...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(Phys.org)&mdash;Using data from the first-ever gravitational waves detected last year, along with a theoretical analysis, physicists have shown that gravitational waves may oscillate between two different forms called "g" and "f"-type gravitational waves. The physicists explain that this phenomenon is analogous to the way that neutrinos oscillate between three distinct flavors&mdash;electron, muon, and tau. The oscillating gravitational waves arise in a modified theory of gravity called bimetric gravity, or "bigravity," and the physicists show that the oscillations may be detectable in future experiments.</p>]]></content>
+	<updated>2017-09-21T13:30:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-09-21T13:30:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="general physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/oscillations.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-27:/433106</id>
+	<link href="https://phys.org/news/2017-09-ligo-virgo-observatories-black-hole.html" rel="alternate" type="text/html"/>
+	<title type="html">LIGO and Virgo observatories detect gravitational wave signals from black hole collision</title>
+	<summary type="html"><![CDATA[<p>In August, detectors on two continents recorded gravitational wave signals from a pair of black hole...</p>]]></summary>
+	<content type="html"><![CDATA[<p>In August, detectors on two continents recorded gravitational wave signals from a pair of black holes colliding. This discovery, announced today, is the first observation of gravitational waves by three different detectors, marking a new era of greater insights and improved localization of cosmic events now available through globally networked gravitational-wave observatories.</p>]]></content>
+	<updated>2017-09-27T16:30:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-09-27T16:30:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="astronomy"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/ligoandvirgo.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-04:/434781</id>
+	<link href="https://phys.org/news/2017-10-gravitational-won-nobel.html" rel="alternate" type="text/html"/>
+	<title type="html">Explainer: Why gravitational wave researchers won a Nobel</title>
+	<summary type="html"><![CDATA[<p>Three U.S.-based astrophysicists won the Nobel prize in physics Tuesday for their discovery of gravi...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Three U.S.-based astrophysicists won the Nobel prize in physics Tuesday for their discovery of gravitational waves, a phenomenon Albert Einstein predicted a century ago in his theory of general relativity. Here's what their discovery means and why they won the prize worth $1.1 million (9 million kronor).</p>]]></content>
+	<updated>2017-10-03T19:40:02+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-03T19:40:02+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="general physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-apexplainswh.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-06:/436076</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171006085919.htm" rel="alternate" type="text/html"/>
+	<title type="html">Engineers invent breakthrough millimeter-wave circulator IC</title>
+	<summary type="html"><![CDATA[<p>Researchers continue to break new ground in developing magnet-free non-reciprocal components in mode...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Researchers continue to break new ground in developing magnet-free non-reciprocal components in modern semiconductor processes. They have built the first magnet-free non-reciprocal circulator on a silicon chip that operates at millimeter-wave frequencies, enabling circulators to be built in conventional semiconductor chips and operate at millimeter-wave frequencies, enabling full-duplex or two-way wireless.</p>]]></content>
+	<updated>2017-10-06T12:59:19+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-06T12:59:19+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171006085919-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-06:/436217</id>
+	<link href="https://phys.org/news/2017-10-physicists-next-generation-mri-brain-scanner.html" rel="alternate" type="text/html"/>
+	<title type="html">Physicists, engineers to build next-generation MRI brain scanner</title>
+	<summary type="html"><![CDATA[<p>Functional magnetic resonance imaging, or fMRI, has transformed our view of the brain, allowing rese...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Functional magnetic resonance imaging, or fMRI, has transformed our view of the brain, allowing researchers to pinpoint areas associated with everything from depression and dementia to playing chess and engaging in sex.</p>]]></content>
+	<updated>2017-10-06T20:00:55+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-06T20:00:55+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="general physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/ucberkeleyph.jpg"/>
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-07-03:/406460</id>
@@ -905,588 +1439,6 @@ An artist's ...</p>]]></summary>
 		<updated>2017-02-10T05:00:00+00:00</updated>
 		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-31:/361664</id>
-	<link href="http://physicsworld.com/cws/article/news/2017/jan/31/magnetic-skyrmions-could-help-make-low-energy-artificial-brains" rel="alternate" type="text/html"/>
-	<title type="html">Magnetic skyrmions could help make low-energy artificial 'brains'</title>
-	<summary type="html"><![CDATA[<p>Calculations suggest memory and learning could be mimicked by quasiparticles</p>]]></summary>
-	<content type="html"><![CDATA[<p>Calculations suggest memory and learning could be mimicked by quasiparticles<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/VfBm8n_isIk" height="1" width="1" alt=""></p>]]></content>
-	<updated>2017-01-31T16:18:53+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://physicsworld.com/</id>
-		<link rel="self" href="http://physicsworld.com/"/>
-		<updated>2017-01-31T16:18:53+00:00</updated>
-		<title>physicsworld.com: all content</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-26:/360234</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-01/kfu-rrh012617.php" rel="alternate" type="text/html"/>
-	<title type="html">Russian-Japanese research helps understand the effects of microgravity on bone tissue</title>
-	<summary type="html"><![CDATA[<p>(Kazan Federal University) As is well-known, space flights bring with them a unique set of health ha...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Kazan Federal University</i>) As is well-known, space flights bring with them a unique set of health hazards. That includes bone and muscle deterioration. Loss of bone density is currently one of the most serious problems for astronauts. It is similar in nature to osteoporosis, an ailment common for senior people. Understanding microgravity and its effects on living organisms can help find new clinical methods of coping with this issue.</p>]]></content>
-	<updated>2017-01-26T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-01-26T05:00:00+00:00</updated>
-		<title>EurekAlert! - Earth Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-10:/355625</id>
-	<link href="https://www.sciencedaily.com/releases/2017/01/170110101631.htm" rel="alternate" type="text/html"/>
-	<title type="html">Gravitational biology: Real time imaging and transcriptome analysis of fish aboard space station</title>
-	<summary type="html"><![CDATA[<p>Scientists report that live-imaging and transcriptome analysis of medaka fish transgenic lines lead ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Scientists report that live-imaging and transcriptome analysis of medaka fish transgenic lines lead to immediate alteration of cells responsible for bone structure formation. These findings are important for assessing the effects microgravity on long term human space missions.</p>]]></content>
-	<updated>2017-01-10T15:16:31+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-01-10T15:16:31+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://images.sciencedaily.com/2017/01/170110101631.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-28:/352728</id>
-	<link href="https://www.eurekalert.org/pub_releases/2016-12/tpu-msc122816.php" rel="alternate" type="text/html"/>
-	<title type="html">Magnetic stem cells for gene engineering</title>
-	<summary type="html"><![CDATA[<p>(Tomsk Polytechnic University) Russian and British scientists develop a technology to targeted deliv...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Tomsk Polytechnic University</i>) Russian and British scientists develop a technology to targeted deliver drugs to inflammation spot by magnet controlled stem cells. Native body cells joined magnetic microcapsules are very promising for cell therapy and gene engineering applications.</p>]]></content>
-	<updated>2016-12-28T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2016-12-28T05:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-23:/351999</id>
-	<link href="https://www.eurekalert.org/pub_releases/2016-12/ciot-vge122216.php" rel="alternate" type="text/html"/>
-	<title type="html">Visualizing gene expression with MRI</title>
-	<summary type="html"><![CDATA[<p>(California Institute of Technology) A cellular gatekeeper for water molecules finds new use in magn...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>California Institute of Technology</i>) A cellular gatekeeper for water molecules finds new use in magnetic resonance imaging.</p>]]></content>
-	<updated>2016-12-23T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2016-12-23T05:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-19:/350582</id>
-	<link href="http://phys.org/news/2016-12-strong-gravity-mars.html" rel="alternate" type="text/html"/>
-	<title type="html">How strong is the gravity on Mars?</title>
-	<summary type="html"><![CDATA[<p>The planet Mars has  few things in common. Both planets have roughly the same amount of land surface...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The planet Mars has  few things in common. Both planets have roughly the same amount of land surface area, sustained polar caps, and both have a similar tilt in their rotational axes, affording each of them strong seasonal variability. Additionally, both planets present strong evidence of having undergone climate change in the past. In Mars' case, this evidence points towards it once having a viable atmosphere and liquid water on its surface.</p>]]></content>
-	<updated>2016-12-19T13:00:02+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-12-19T13:00:02+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/3-howstrongist.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-16:/350140</id>
-	<link href="http://phys.org/news/2016-12-verlinde-theory-gravity.html" rel="alternate" type="text/html"/>
-	<title type="html">Verlinde's new theory of gravity passes first test</title>
-	<summary type="html"><![CDATA[<p>A team led by astronomer Margot Brouwer (Leiden Observatory, The Netherlands) has tested the new the...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A team led by astronomer Margot Brouwer (Leiden Observatory, The Netherlands) has tested the new theory of theoretical physicist Erik Verlinde (University of Amsterdam) for the first time through the lensing effect of gravity. Brouwer and her team measured the distribution of gravity around more than 33,000 galaxies to put Verlinde's prediction to the test. She concludes that Verlinde's theory agrees well with the measured gravity distribution. The results have been accepted for publication in the British journal Monthly Notices of the Royal Astronomical Society.</p>]]></content>
-	<updated>2016-12-16T11:46:47+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-12-16T11:46:47+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="astronomy"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/verlindesnew.png"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-12:/348558</id>
-	<link href="http://physicsworld.com/cws/article/news/2016/dec/12/ligo-gravitational-wave-discovery-is-physics-world-2016-breakthrough-of-the-year" rel="alternate" type="text/html"/>
-	<title type="html">LIGO's gravitational-wave discovery is Physics World 2016 Breakthrough of the Year</title>
-	<summary type="html"><![CDATA[<p>Long-awaited direct detection of Einstein's gravitational waves tops our list of the 10 key breakthr...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Long-awaited direct detection of Einstein's gravitational waves tops our list of the 10 key breakthroughs in physics this year<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/_qOisdOeJVY" height="1" width="1" alt=""></p>]]></content>
-	<updated>2016-12-12T11:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://physicsworld.com/</id>
-		<link rel="self" href="http://physicsworld.com/"/>
-		<updated>2016-12-12T11:00:00+00:00</updated>
-		<title>physicsworld.com: all content</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-08:/347881</id>
-	<link href="http://phys.org/news/2016-12-magnetic-reconnection-explosive-phenomena-astrophysics.html" rel="alternate" type="text/html"/>
-	<title type="html">Magnetic reconnection research sheds light on explosive phenomena in astrophysics and fusion experiments</title>
-	<summary type="html"><![CDATA[<p>Scientists are closer than ever to unraveling a process called magnetic reconnection that triggers e...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Scientists are closer than ever to unraveling a process called magnetic reconnection that triggers explosive phenomena throughout the universe. Solar flares, northern lights and geomagnetic storms that can disrupt cell phone service and black out power grids are all set off by magnetic field lines that converge, break apart and violently reconnect in ways that are not fully understood.</p>]]></content>
-	<updated>2016-12-08T22:12:04+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-12-08T22:12:04+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="plasma physics"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-07:/347261</id>
-	<link href="http://phys.org/news/2016-12-strong-gravity-earth.html" rel="alternate" type="text/html"/>
-	<title type="html">How strong is the force of gravity on Earth?</title>
-	<summary type="html"><![CDATA[<p>Gravity is a pretty awesome fundamental force. If it wasn't for the Earth's comfortable 1 g, which c...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Gravity is a pretty awesome fundamental force. If it wasn't for the Earth's comfortable 1 g, which causes objects to fall towards the Earth at a speed of 9.8 m/s&sup2;, we'd all float off into space. And without it, all us terrestrial species would slowly wither and die as our muscles degenerated, our bones became brittle and weak, and our organs ceased to function properly.</p>]]></content>
-	<updated>2016-12-07T14:20:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-12-07T14:20:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/howstrongist.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-02:/345982</id>
-	<link href="http://www.skyandtelescope.com/astronomy-news/nasa-cassini-ring-grazing-orbits/" rel="alternate" type="text/html"/>
-	<title type="html">The Beginning of the End for Cassini</title>
-	<summary type="html"><![CDATA[<p>Cassini's final main engine burn this weekend sets the stage for a stunning grand finale.
-An artist'...</p>]]></summary>
-	<content type="html"><![CDATA[<p><span><strong><em>Cassini's final main engine burn this weekend sets the stage for a stunning grand finale.</em></strong></span></p>
-<div><img src="http://www.skyandtelescope.com/wp-content/uploads/2861_cassini_proximal_768.jpg" alt="Cassini at Saturn" width="480" height="274" srcset="http://www.skyandtelescope.com/wp-content/uploads/2861_cassini_proximal_768.jpg 480w, http://www.skyandtelescope.com/wp-content/uploads/2861_cassini_proximal_768-300x171.jpg 300w" sizes="(max-width: 480px) 100vw, 480px"><p>An artist's conception of NASA's Cassini spacecraft on its final ring-grazing orbits.<br><em>NASA / JPL / Cassini</em></p></div>
-<p>After more than a decade exploring the ringed planet and its moons, NASA's Cassini spacecraft is preparing for a <a href="https://www.nasa.gov/feature/jpl/nasa-saturn-mission-prepares-for-ring-grazing-orbits" rel="noopener noreferrer" target="_blank">daring set of orbits</a> which will set it up for mission's end later next year.</p>
-<p>The recent 125th&nbsp;flyby of Saturn's giant moon Titan (T-125) was the prelude to Cassini's final acts, which will play out over the next year. That pass placed Cassini in a high-inclination orbit tilted 60&deg; relative to the ring plane. Cassini will perform 20 passes just 620 miles (1000 kilometers) outside the F ring of Saturn in a phase known as the <a href="https://saturn.jpl.nasa.gov/news/2966/ring-grazing-orbits/" rel="noopener noreferrer" target="_blank">Ring-Grazing Orbits</a>, which runs from <a href="https://saturn.jpl.nasa.gov/news/2861/2016-saturn-tour-highlights/" rel="noopener noreferrer" target="_blank">late November 2016</a> through April 2017.</p>
-<div><img src="http://www.skyandtelescope.com/wp-content/uploads/Cassini_finalorbits_trajectory.gif" alt="Cassini's final orbits" width="600" height="311"><p>Extended mission solstice orbits (blue) versus the upcoming ring grazing orbits (tan). <br><em>NASA / JPL / Cassini</em></p></div>
-<p>Cassini already reached <em>apoapse</em>, or its farthest point from Saturn, on Wednesday, November 30th. The first ring crossing is coming right up this weekend on Sunday, December 4th, at 7:09 a.m. EST / 13:09 UT. During the first periapse pass on Sunday, Cassini will also burn its main engine for the 183rd&nbsp;and final time for the mission. All later fine course corrections will be made using thrusters only.</p>
-<p>Things get even more interesting after April, when the series of Grand Finale Orbits will begin, taking the spacecraft through the 1240-mile-wide (2000-kilometer-wide) gap between the planet's cloud tops and rings for 22 final orbits. The Grand Finale Orbits start with the spacecraft's 126th&nbsp;and final pass near Titan, which will set the spacecraft up for much tighter final orbits.</p>
-<p></p>
-<p>After a mission spanning two full decades, Cassini is scheduled to burn up in Saturn's atmosphere on September 15th, 2017.</p>
-<h3>Saturn's Science Closeup</h3>
-<p>The interesting science returns will come from observations of the F&nbsp; and outer A rings. "The F-ring is amazing," says Cassini project scientist Linda Spilker (Jet Propulsion Laboratory). "500 kilometers wide, this ring is ever-changing with bright streamers and tenuous filaments sometimes flowing out from it. At other times, the moon Prometheus dips in and out of the F ring, creating channels in the ring material."</p>
-<p>Three new science campaigns will get underway this weekend:</p>
-<ul>
-<li>Measurement of Saturn's magnetic and gravitational fields to probe the planet's internal structure and rotation rate;</li>
-<li>An evaluation on the total mass of the planet's ring system in an effort to determine its age;</li>
-<li>And finally, an analysis on the innermost radiation belts and possible direct sampling of the ring particles and Saturn's upper atmosphere.</li>
-</ul>
-<div><img src="http://www.skyandtelescope.com/wp-content/uploads/7562_PIA20509.jpg" alt="Saturn plus rings" width="600" height="600" srcset="http://www.skyandtelescope.com/wp-content/uploads/7562_PIA20509.jpg 600w, http://www.skyandtelescope.com/wp-content/uploads/7562_PIA20509-113x113.jpg 113w, http://www.skyandtelescope.com/wp-content/uploads/7562_PIA20509-190x190.jpg 190w, http://www.skyandtelescope.com/wp-content/uploads/7562_PIA20509-360x360.jpg 360w" sizes="(max-width: 600px) 100vw, 600px"><p>A looming Saturn and its extensive ring system. The moon Mimas is visible to the lower left.<br><em>NASA / JPL-Caltech / Space Science Institute</em></p></div>
-<p>Cassini's Radio Science package will transmit towards Earth during each plane crossing, providing a long sweeping profile on each occultation pass. The spacecraft will also get great views of Saturn's poles, including the strange hexagon feature that graces the planet's north pole. Cassini's Visual and Infrared Mapping Spectrometer is set to chronicle its nine-hour passage over the north pole, giving us unparalleled views. Cassini will also measure the upper boundaries of Saturn's atmosphere in preparation for direct sampling on final passes late next year.</p>
-<p>Cassini will target Saturn's moons as well. Expect to see closeups of the active ice geysers dotting the south pole of <a href="https://saturn.jpl.nasa.gov/science/enceladus/" rel="noopener noreferrer" target="_blank">Enceladus</a> one more time. Cassini will also image red-striped Tethys and the tiny shepherd moons Pan, Pandora, Atlas, and Daphnis, giving us the best views of these worldlets yet. Flybys of Pan and Daphnis occur in January and March respectively, from about 22,000 kilometers away.</p>
-<div><img src="http://www.skyandtelescope.com/wp-content/uploads/7554_PIA20508_full.jpg" alt="Prometheus and F ring" width="600" height="600" srcset="http://www.skyandtelescope.com/wp-content/uploads/7554_PIA20508_full.jpg 600w, http://www.skyandtelescope.com/wp-content/uploads/7554_PIA20508_full-113x113.jpg 113w, http://www.skyandtelescope.com/wp-content/uploads/7554_PIA20508_full-190x190.jpg 190w, http://www.skyandtelescope.com/wp-content/uploads/7554_PIA20508_full-360x360.jpg 360w" sizes="(max-width: 600px) 100vw, 600px"><p>Saturn's moon Prometheus and the outer F ring. <br><em>NASA / JPL-Caltech / Space Science Institute</em></p></div>
-<p>And speaking of moons, Cassini will be on the lookout for structures in the rings known as <em>propellers</em>, which betray the presence on tiny moons braiding and disrupting the rings. Scientists have named some of the propellers discovered so far after famous aviators, such as Amelia Earhart.</p>
-<h3>Cassini: Decades of Exploration</h3>
-<p>Launched atop a Titan IV rocket on October 15, 1997, Cassini arrived at Saturn on July 1, 2004 after a slingshot maneuver past Venus, Earth and Jupiter. The mission also delivered the <a href="http://sci.esa.int/cassini-huygens/" rel="noopener noreferrer" target="_blank">European Space Agency's Huygens lander</a> to Titan, which performed the most distant landing ever on January 14, 2005.</p>
-<p>Powered by a plutonium-238 fueled Radioisotope Thermoelectric Generator (RTG), Cassini has delivered some amazing science.</p>
-<p>&ldquo;Two of Cassini's most astonishing discoveries are the global liquid water ocean on Enceladus, with possible hydrothermal vents on its seafloor which point to an ocean that may be habitable,&rdquo; says Spilker. &ldquo;The second is the lakes and seas of liquid methane at Titan's north pole and the incredibly Earth-like surface that we see on Titan.&rdquo;</p>
-<p>So enjoy this final year at Saturn: there isn't another mission to the ringed planet in the planetary exploration pipeline. The concept of a floating <a href="https://en.wikipedia.org/wiki/Titan_Mare_Explorer" rel="noopener noreferrer" target="_blank">Titan Mare Explorer</a> (TiME) was in the running during the last 2011&nbsp;<a href="http://astroguyz.com/2011/03/10/10-03-11-a-planetary-exploration-wish-list/" rel="noopener noreferrer" target="_blank">Planetary Decadal Survey</a>, but never made it past the proposal stage.</p>
-<p>It'll be a long time before we visit Saturn again.</p>
-<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-news/nasa-cassini-ring-grazing-orbits/" target="_blank">The Beginning of the End for Cassini</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
-	<updated>2016-12-02T16:01:25+00:00</updated>
-	<author><name>David Dickinson</name></author>
-	<source>
-		<id>http://www.skyandtelescope.com</id>
-		<link rel="self" href="http://www.skyandtelescope.com"/>
-		<updated>2016-12-02T16:01:25+00:00</updated>
-		<title>Sky &amp; Telescope</title></source>
-
-	<category term="astronomy blogs"/>
-
-	<category term="astronomy in space with david dickinson"/>
-
-	<category term="news"/>
-
-	<category term="solar system"/>
-
-	<category term="spacecraft and space missions"/>
-
-	<category term="cassini"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-01:/345577</id>
-	<link href="http://phys.org/news/2016-12-nasa-sun-observing-iris-mission.html" rel="alternate" type="text/html"/>
-	<title type="html">NASA's Sun-observing IRIS mission</title>
-	<summary type="html"><![CDATA[<p>While it seems static from our vantage point on Earth 93 million miles away, the sun is constantly c...</p>]]></summary>
-	<content type="html"><![CDATA[<p>While it seems static from our vantage point on Earth 93 million miles away, the sun is constantly changing. Under the influence of complex magnetic forces, material moves throughout the solar atmosphere and can burst forth in massive eruptions.</p>]]></content>
-	<updated>2016-12-01T18:47:30+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-12-01T18:47:30+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-23:/343354</id>
-	<link href="http://physicsworld.com/cws/article/news/2016/nov/22/gravity-measured-using-a-bose-einstein-condensate-on-a-chip" rel="alternate" type="text/html"/>
-	<title type="html">Gravity measured using a Bose–Einstein condensate on a chip</title>
-	<summary type="html"><![CDATA[<p>New high-precision gravimeter could be deployed in a backpack</p>]]></summary>
-	<content type="html"><![CDATA[<p>New high-precision gravimeter could be deployed in a backpack<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/DJrB_iB1HdU" height="1" width="1" alt=""></p>]]></content>
-	<updated>2016-11-22T16:23:27+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://physicsworld.com/</id>
-		<link rel="self" href="http://physicsworld.com/"/>
-		<updated>2016-11-22T16:23:27+00:00</updated>
-		<title>physicsworld.com: all content</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-14:/340660</id>
-	<link href="https://www.eurekalert.org/pub_releases/2016-11/e-tsm111416.php" rel="alternate" type="text/html"/>
-	<title type="html">Tiny super magnets could be the future of drug delivery</title>
-	<summary type="html"><![CDATA[<p>(Elsevier) Microscopic crystals could soon be zipping drugs around your body, taking them to disease...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Elsevier</i>) Microscopic crystals could soon be zipping drugs around your body, taking them to diseased organs. In the past, this was thought to be impossible -- the crystals, which have special magnetic properties, were so small that scientists could not control their movement. But now a team of Chinese researchers has found the solution, and their discovery has opened new applications that could use these crystals to improve -- and perhaps even save -- many lives.</p>]]></content>
-	<updated>2016-11-14T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2016-11-14T05:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-03:/337759</id>
-	<link href="https://www.eurekalert.org/pub_releases/2016-11/tiof-gia110216.php" rel="alternate" type="text/html"/>
-	<title type="html">GRAPES-3 indicates a crack in Earth's magnetic shield</title>
-	<summary type="html"><![CDATA[<p>(Tata Institute of Fundamental Research) The GRAPES-3 muon telescope, the largest and most sensitive...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Tata Institute of Fundamental Research</i>) The GRAPES-3 muon telescope, the largest and most sensitive cosmic ray monitor recorded a burst of galactic cosmic rays that indicated a crack in the Earth's magnetic shield. The burst occurred when a giant cloud of plasma ejected from the solar corona struck Earth at a very high speed causing massive compression of the Earth's magnetosphere and triggering a severe geomagnetic storm.</p>]]></content>
-	<updated>2016-11-03T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2016-11-03T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-02:/337500</id>
-	<link href="http://phys.org/news/2016-11-magndata-database-magnetic.html" rel="alternate" type="text/html"/>
-	<title type="html">MAGNDATA: Towards a database of magnetic structures</title>
-	<summary type="html"><![CDATA[<p>The quantitative characterisation of the magnetic ordering realised in magnetic phases is an essenti...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The quantitative characterisation of the magnetic ordering realised in magnetic phases is an essential part of research into the magnetic properties of solids.</p>]]></content>
-	<updated>2016-11-02T13:45:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-11-02T13:45:00+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="condensed matter"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/magndatatowa.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-26:/335417</id>
-	<link href="https://www.sciencedaily.com/releases/2016/10/161025115757.htm" rel="alternate" type="text/html"/>
-	<title type="html">3-D-printed magnets: How can you produce a magnet with exactly the right magnetic field?</title>
-	<summary type="html"><![CDATA[<p>How can you produce a magnet with exactly the right magnetic field? A research team now has a soluti...</p>]]></summary>
-	<content type="html"><![CDATA[<p>How can you produce a magnet with exactly the right magnetic field? A research team now has a solution: for the first time, they have created magnets with a 3D printer.</p>]]></content>
-	<updated>2016-10-25T15:57:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2016-10-25T15:57:57+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://images.sciencedaily.com/2016/10/161025115757.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-26:/335381</id>
-	<link href="http://phys.org/news/2016-10-gravitational-wave-observatory-space.html" rel="alternate" type="text/html"/>
-	<title type="html">Next step towards a gravitational-wave observatory in space</title>
-	<summary type="html"><![CDATA[<p>Today, ESA has invited European scientists to propose concepts for the third large mission in its sc...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Today, ESA has invited European scientists to propose concepts for the third large mission in its science programme, to study the gravitational Universe.</p>]]></content>
-	<updated>2016-10-26T10:18:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-10-26T10:18:57+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="astronomy"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/nextsteptowa.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-19:/333534</id>
-	<link href="http://www.skyandtelescope.com/astronomy-news/nasa-juno-jupiter-engine-anomaly/" rel="alternate" type="text/html"/>
-	<title type="html">NASA’s Juno Suffers Engine Anomaly, Briefly Enters Safe Mode</title>
-	<summary type="html"><![CDATA[<p>Engineers have decided to keep the Jupiter probe, Juno, in its current orbit until an issue with its...</p>]]></summary>
-	<content type="html"><![CDATA[<p><span><strong><em>Engineers have decided to keep the Jupiter probe, Juno, in its current orbit until an issue with its engine can be addressed.</em></strong></span></p>
-<table border="1" width="100%" cellspacing="3" cellpadding="3" align="center" bgcolor="#E6E6E6">
-<tbody>
-<tr>
-<td><i><b>Update (October 19): </b></i>Juno sure likes to keep us hopping! An anomaly caused the spacecraft to enter electronic hibernation at 1:47 a.m. EDT. The spacecraft acted as expected during the transition into this "safe mode," restarted successfully, and is healthy. High-rate data has been restored, and the spacecraft is conducting flight software diagnostics. All instruments are off, and the planned science data collection for today's close flyby of Jupiter did not occur. Scott Bolton (NASA) explained at the ongoing meeting of the Division of Planetary Sciences that the problem was with valves in propulsion system. Find more information from <a href="http://www.jpl.nasa.gov/news/news.php?feature=6653" rel="noopener noreferrer" target="_blank">NASA's recent press release</a>. Meanwhile, data from the first perijove flyby are still revealing intriguing results, showing that Jupiter's belt-zone structure extends at least <a href="http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA21107" rel="noopener noreferrer" target="_blank">400 km deep</a>!</td>
-</tr>
-</tbody>
-</table>
-<div><img src="http://www.skyandtelescope.com/wp-content/uploads/PIA19639-16.jpg" alt="Juno" width="400" height="228" srcset="http://www.skyandtelescope.com/wp-content/uploads/PIA19639-16.jpg 480w, http://www.skyandtelescope.com/wp-content/uploads/PIA19639-16-300x171.jpg 300w" sizes="(max-width: 400px) 100vw, 400px"><p>An artist's concept of Juno at Jupiter. <br> <em>NASA / JPL-Caltech</em></p></div>
-<p>NASA has announced that its Juno mission will stay in its current, wide-ranging orbit for at least one more pass.</p>
-<p>The announcement came prior to a so-called period reduction maneuver (PRM) which was set to occur today. This would bring Juno closer to Jupiter, shortening its orbit from the current 53.4 days to just two weeks. An anomaly experienced by a set of valves controlling the spacecraft's fuel pressurization system triggered the decision. This PRM burn will be the last time Juno is scheduled to fire its main engines.</p>
-<p>&ldquo;Telemetry indicates that two main helium check valves that play an important role in the firing of the spacecraft's main engine did not operate as expected during a command sequence that was initiated yesterday,&rdquo; says Juno project manager Rick Nybakken (Jet Propulsion Laboratory) in a <a href="http://www.jpl.nasa.gov/news/news.php?feature=6648" rel="noopener noreferrer" target="_blank">recent press release</a>. &ldquo;The valves should have opened in a few seconds, but it took several minutes. We need to better understand this issue before moving forward with a burn of the main engine.&rdquo;</p>
-<p>The burn was one of the first major events for the mission after Jupiter emerged from behind the Sun and its glare on September 26th. The decision to postpone the burn came after NASA consulted with the Lockheed Martin Space Systems engineers who designed the spacecraft. The next opportunity for Juno to carry out this firing is during its next pass near Jupiter on December 11th.</p>
-<div><img src="http://www.skyandtelescope.com/wp-content/uploads/Science-orbits-1.jpg" alt="orbits" width="600" height="399" srcset="http://www.skyandtelescope.com/wp-content/uploads/Science-orbits-1.jpg 600w, http://www.skyandtelescope.com/wp-content/uploads/Science-orbits-1-286x190.jpg 286w, http://www.skyandtelescope.com/wp-content/uploads/Science-orbits-1-541x360.jpg 541w" sizes="(max-width: 600px) 100vw, 600px"><p>The original plan: two wide "capture" orbits, when Juno gravitationally latches on to Jupiter, then 35 closer-in science orbits. <br> <em>NASA / JPL-Caltech</em></p></div>
-<p>&nbsp;</p>
-<p>In its <a href="http://www.jpl.nasa.gov/news/news.php?feature=6581" rel="noopener noreferrer" target="_blank">present orbit</a>, Juno ranges from an altitude above Jupiter of 4,300 km (perijove) out to 8.1 million km (apojove), more than 20 times the Earth-Moon distance and far beyond the orbit of Callisto. Following Kepler's Laws, Juno spends most of its time along this elongated orbit at its most distant point, briefly sweeping in toward the planet &mdash; and through its most intense exposure to high-energy charged particles trapped in Jupiter's magnetosphere &mdash; on each pass.</p>
-<h3>What's Next for Juno</h3>
-<p>This turn of events also means that the spacecraft's cameras and science instruments will stay on for this week's close pass of Jupiter &mdash; they were due to be shut off during the engine burn. NASA is now scrambling to make the most of this week's pass. We should see science returns similar to the<a href="http://www.skyandtelescope.com/astronomy-blogs/astronomy-space-david-dickinson/juno-makes-its-first-jupiter-pass/" rel="noopener noreferrer" target="_blank"> first perijove pass</a> this past August.</p>
-<p>&ldquo;It is important to note that the orbital period does not affect the quality of the science that takes place during one of Juno's close flybys of Jupiter,&rdquo; said principal investigator Scott Bolton (Southwest Research Institute) in the October 14th <a href="http://www.jpl.nasa.gov/news/news.php?feature=6648" rel="noopener noreferrer" target="_blank">press release</a>. &ldquo;The mission is very flexible that way. The data we collected during our first flyby on August 27th was a revelation, and I fully anticipate a similar result from Juno's October 19th flyby.&rdquo;</p>
-<p>Launched from Cape Canaveral Air Force Station on August 5, 2011, Juno <a href="http://www.skyandtelescope.com/astronomy-news/juno-reaches-jupiter/" rel="noopener noreferrer" target="_blank">entered orbit around Jupiter</a> on July 4th this year. Designed to probe Jupiter's interior as well as its gravity field and magnetosphere, the probe's first pass has already returned some amazing science. The most tantalizing part of keeping the spacecraft in such a wide-ranging pass is the long wait between science collection phases. Also, Juno sustains cumulative radiation exposure and subsequent damage on each pass, another reason that researchers are eager to get down to business.</p>
-<p>This change in plans will force the <a href="http://www.skyandtelescope.com/astronomy-news/observing-news/juno-pro-am-workshop-05252016/" rel="noopener noreferrer" target="_blank">amateur astronomer campaign</a>&nbsp;observing Jupiter to reschedule their observations as well. A <a href="http://www.planetary.org/blogs/guest-blogs/2016/0830-will-junos-instruments-observe-jupiters-moons.html" rel="noopener noreferrer" target="_blank">plan outlined by Candice Hansen on the Planetary Society blog</a> to capture some far images of selected moons (an extra project, as the mission wasn't designed for satellite science) has also been put on hold for the time being.</p>
-<p>Juno is set to end its mission in February 2018 after 37 orbits, burning up in the atmosphere of Jupiter. It's unclear at this point just how firm this end of mission date is, and if the health of the spacecraft could force the date to move up or move back.</p>
-<p>At this point, it's also unclear just what caused the engine anomaly. NASA plans to hold a press conference today (October 19th) at 4:00 p.m. EDT / 20:00 GMT to address Juno's current status.</p>
-<p></p>
-<p>We'll have updates then. Remember: space is hard, and life as a solar-powered spacecraft in the outer solar system is even harder.</p>
-<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-news/nasa-juno-jupiter-engine-anomaly/" target="_blank">NASA&rsquo;s Juno Suffers Engine Anomaly, Briefly Enters Safe Mode</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
-	<updated>2016-10-19T17:38:27+00:00</updated>
-	<author><name>David Dickinson</name></author>
-	<source>
-		<id>http://www.skyandtelescope.com</id>
-		<link rel="self" href="http://www.skyandtelescope.com"/>
-		<updated>2016-10-19T17:38:27+00:00</updated>
-		<title>Sky &amp; Telescope</title></source>
-
-	<category term="astronomy blogs"/>
-
-	<category term="astronomy in space with david dickinson"/>
-
-	<category term="news"/>
-
-	<category term="solar system"/>
-
-	<category term="spacecraft and space missions"/>
-
-	<category term="juno"/>
-
-	<category term="jupiter"/>
-
-	<category term="jupiter exploration"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-18:/333231</id>
-	<link href="https://www.eurekalert.org/pub_releases/2016-10/s-ptb101816.php" rel="alternate" type="text/html"/>
-	<title type="html">Pushing the boundaries of magnet design</title>
-	<summary type="html"><![CDATA[<p>(Springer) A Russian team has been pushing the boundaries of magnet design, as published in a recent...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Springer</i>) A Russian team has been pushing the boundaries of magnet design, as published in a recent study in EPJ Plus. They have developed methods to counter the spontaneous loss of magnetization, based on their understanding of the underlying physical phenomenon. Roman Morgunov from the Russian Academy of Sciences and colleagues have now developed a simple additive-based method for ensuring the stability of permanent magnets over time, with no loss to their main magnetic characteristics.</p>]]></content>
-	<updated>2016-10-18T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2016-10-18T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-03:/328578</id>
-	<link href="http://phys.org/news/2016-10-millisecond-pulsars.html" rel="alternate" type="text/html"/>
-	<title type="html">Millisecond pulsars</title>
-	<summary type="html"><![CDATA[<p>When a star with a mass of roughly ten solar masses finishes its life, it explodes as a supernova, l...</p>]]></summary>
-	<content type="html"><![CDATA[<p>When a star with a mass of roughly ten solar masses finishes its life, it explodes as a supernova, leaving behind a neutron star as remnant "ash." Neutron stars have masses of one-to-several suns but they are tiny in diameter, only tens of kilometers. They spin rapidly, and when they have associated magnetic fields, charged particles caught in them emit electromagnetic radiation in a lighthouse-like beam that can sweep past the Earth with great regularity every few seconds or less. These kinds of neutron stars are called pulsars, and they are dramatic, powerful probes of supernovae, their progenitor stars, and the properties of nuclear matter under the extreme conditions that exist in these stars.</p>]]></content>
-	<updated>2016-10-03T12:00:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-10-03T12:00:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="astronomy"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/millisecondp.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-21:/325525</id>
-	<link href="http://phys.org/news/2016-09-multi-stimuli-responsive-nanocapsules-drugs.html" rel="alternate" type="text/html"/>
-	<title type="html">Multi stimuli-responsive nanocapsules selectively deliver drugs to exactly where they are needed</title>
-	<summary type="html"><![CDATA[<p>A nanoparticle-based drug delivery system that can sense and respond to different conditions in the ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A nanoparticle-based drug delivery system that can sense and respond to different conditions in the body, as well as to an externally applied magnetic field, could enhance doctors' ability to target drugs to specific sites of disease.</p>]]></content>
-	<updated>2016-09-21T11:30:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-09-21T11:30:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="bio &amp; medicine"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/multistimuli.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-13:/323254</id>
-	<link href="https://www.sciencedaily.com/releases/2016/09/160912141948.htm" rel="alternate" type="text/html"/>
-	<title type="html">NASA's THEMIS sees Auroras move to the rhythm of Earth's magnetic field</title>
-	<summary type="html"><![CDATA[<p>For the first time, scientists have directly mapped Earth's fluctuating magnetic field and resulting...</p>]]></summary>
-	<content type="html"><![CDATA[<p>For the first time, scientists have directly mapped Earth's fluctuating magnetic field and resulting electrical currents to aurora, thanks to northern lights observations from NASA's THEMIS mission.</p>]]></content>
-	<updated>2016-09-12T18:19:48+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2016-09-12T18:19:48+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://images.sciencedaily.com/2016/09/160912141948.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-08-23:/316890</id>
-	<link href="http://physicsworld.com/cws/article/news/2016/aug/23/magnetic-bacteria-target-hard-to-treat-tumours" rel="alternate" type="text/html"/>
-	<title type="html">Magnetic bacteria target hard-to-treat tumours</title>
-	<summary type="html"><![CDATA[<p>New technique transports drugs into solid cancers</p>]]></summary>
-	<content type="html"><![CDATA[<p>New technique transports drugs into solid cancers<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/iPGPVvWiJWE" height="1" width="1" alt=""></p>]]></content>
-	<updated>2016-08-23T14:07:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://physicsworld.com/</id>
-		<link rel="self" href="http://physicsworld.com/"/>
-		<updated>2016-08-23T14:07:36+00:00</updated>
-		<title>physicsworld.com: all content</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-08-16:/314641</id>
-	<link href="http://phys.org/news/2016-08-pulsar-based-spacecraft-closer-reality.html" rel="alternate" type="text/html"/>
-	<title type="html">Pulsar-based spacecraft navigation system one step closer to reality</title>
-	<summary type="html"><![CDATA[<p>Pulsars are highly magnetized, rotating neutron stars that emit electromagnetic radiation at regular...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Pulsars are highly magnetized, rotating neutron stars that emit electromagnetic radiation at regular intervals. They are often dubbed "lighthouses" of the universe as their emission is beamed; thus, the pulse of radiation is seen only each time the beam sweeps across the line of sight. A spacecraft navigation method known as XNAV, based on X-ray signals emitted from pulsars, has recently taken a leap forward, thanks to a study conducted by U.K. scientists from the National Physical Laboratory (NPL) and the University of Leicester.</p>]]></content>
-	<updated>2016-08-16T11:09:37+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2016-08-16T11:09:37+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="astronomy"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="http://cdn.phys.org/newman/csz/news/tmb/2016/pulsarbaseds.jpg"/>
 
 </entry>
 
