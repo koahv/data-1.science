@@ -4,11 +4,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-02-10T05:00:00+00:00</updated>
+<updated>2017-03-03T13:10:03+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-10-07:/436417</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171006101817.htm" rel="alternate" type="text/html"/>
+	<title type="html">Plant cells survive but stop dividing upon DNA damage</title>
+	<summary type="html"><![CDATA[<p>The cell cycle is how a cell passes its DNA but ceases if the DNA is damaged, as otherwise it risks ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The cell cycle is how a cell passes its DNA but ceases if the DNA is damaged, as otherwise it risks passing this damage to daughter cells. Scientists report a new molecular mechanism that explains how this cessation occurs. The study shows that the transcription factor family MYB3R is normally degraded, but accumulates upon DNA damage to prevent cell cycle progression.</p>]]></content>
+	<updated>2017-10-06T14:18:17+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-06T14:18:17+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171006101817-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-08:/321963</id>
+	<link href="https://www.linux.com/news/how-google-uses-and-contributes-open-source" rel="alternate" type="text/html"/>
+	<title type="html">How Google Uses and Contributes to Open Source</title>
+	<summary type="html"><![CDATA[<p>Engineer Marc Merlin has been working at Google since 2001 but has been involved with Linux since 19...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Engineer Marc Merlin has been working at Google since 2001 but has been involved with Linux since 1993, in its very early days. Since then, open source adoption has dramatically increased, but a new challenge is emerging: Not many companies care about the license side of open source, Merlin stated in his talk &ldquo;How Google Uses and Contributes to Open Source&rdquo; at <a href="http://events.linuxfoundation.org/events/linuxcon-north-america" rel="noopener noreferrer" target="_blank">LinuxCon and ContainerCon North America</a>. </p></div></div></div>]]></content>
+	<updated>2016-09-08T16:32:07+00:00</updated>
+	<author><name>arnieswap</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-08T16:32:07+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-08:/321894</id>
+	<link href="https://www.linux.com/news/ibm-launches-new-linux-power8-openpower-systems-0" rel="alternate" type="text/html"/>
+	<title type="html">IBM Launches New Linux, Power8, OpenPower Systems</title>
+	<summary type="html"><![CDATA[<p>IBM on Thursday rolled out its latest Power8 processor, which is designed to move data faster, and n...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>IBM on Thursday rolled out its latest Power8 processor, which is designed to move data faster, and new servers with OpenPower features.&nbsp;For IBM, the OpenPower Foundation community is critical for its Power8 processor. A bevy of companies are in OpenPower, a group that aims to be a counterweight to x86-based servers.&nbsp;</p>
+<p>With the new systems, IBM is hoping to target more artificial intelligence, analytics, and deep learning workloads.&nbsp;</p>
+<p>Read more at <a href="http://www.zdnet.com/article/ibm-launches-new-linux-power8-openpower-systems/" rel="noopener noreferrer" target="_blank">ZDNet</a></p></div></div></div>]]></content>
+	<updated>2016-09-08T14:18:18+00:00</updated>
+	<author><name>ZDNet</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-08T14:18:18+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-08:/321897</id>
+	<link href="https://www.linux.com/news/machine-learning-bigger-picture-part-i" rel="alternate" type="text/html"/>
+	<title type="html">Machine Learning: The Bigger Picture, Part I</title>
+	<summary type="html"><![CDATA[<p>In the past few decades, computer systems have achieved a whole lot. They have managed to organize a...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>In the past few decades, computer systems have achieved a whole lot. They have managed to organize and catalog the information produced by our civilization as a whole. They have relieved us from stringent cognitive tasks and increased our productivity significantly. One could say that where the industrial revolution automated labor, the digital revolution has automated cognitive labor. This statement isn&rsquo;t entirely correct however, if it was we would all be without a job. So what can humans do that machines can&rsquo;t?</p></div></div></div>]]></content>
+	<updated>2016-09-08T11:40:00+00:00</updated>
+	<author><name>DZone</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-08T11:40:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-07:/321472</id>
+	<link href="https://www.linux.com/learn/dig-dns-part-1" rel="alternate" type="text/html"/>
+	<title type="html">Dig Into DNS: Part 1</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;Dig Into DNS: Part 17 SepLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Dig Into DNS: Part 1</div></div></div><div><div><div>7 Sep</div></div></div><div><div><div><div><a href="http://localhost/learn/dig-dns-part-1" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2016-09-07T13:00:16+00:00</updated>
+	<author><name>chrisbinnie</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-07T13:00:16+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-07-12:/409115</id>
@@ -1340,105 +1432,6 @@ An artist's ...</p>]]></summary>
 		type="image/generic" 
 		length="1"
 		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/nasaproposes.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-02:/370673</id>
-	<link href="https://phys.org/news/2017-03-short-movie-dna.html" rel="alternate" type="text/html"/>
-	<title type="html">Researchers store computer operating system and short movie on DNA</title>
-	<summary type="html"><![CDATA[<p>Humanity may soon generate more data than hard drives or magnetic tape can handle, a problem that ha...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Humanity may soon generate more data than hard drives or magnetic tape can handle, a problem that has scientists turning to nature's age-old solution for information-storage&mdash;DNA.</p>]]></content>
-	<updated>2017-03-02T19:00:05+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-03-02T19:00:05+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="biotechnology"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/9-researcherss.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-28:/369922</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-02/indl-nsp022817.php" rel="alternate" type="text/html"/>
-	<title type="html">NMR spectroscopy platform to target the development of new therapeutic agents</title>
-	<summary type="html"><![CDATA[<p>(Institut national de la recherche scientifique - INRS) Implementation of a new nuclear magnetic res...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Institut national de la recherche scientifique - INRS</i>) Implementation of a new nuclear magnetic resonance (NMR) spectroscopy platform will provide professors Nicolas Doucet and Steven LaPlante of Centre INRS-Institut Armand-Frappier with a powerful new tool for conducting an ambitious research program aimed at identifying new therapeutic molecules.</p>]]></content>
-	<updated>2017-02-28T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-02-28T05:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-28:/369713</id>
-	<link href="https://phys.org/news/2017-02-cells-ultra-rapidly-gravity.html" rel="alternate" type="text/html"/>
-	<title type="html">Cells adapt ultra-rapidly to zero gravity</title>
-	<summary type="html"><![CDATA[<p>Mammalian cells are optimally adapted to gravity. But what happens in the microgravity environment o...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Mammalian cells are optimally adapted to gravity. But what happens in the microgravity environment of space if the earth's pull disappears? Previously, many experiments exhibited cell changes &ndash; after hours or even days in zero gravity. Astronauts, however, returned to Earth without any severe health problems after long missions in space, which begs the question as to how capable cells are of adapting to changes in gravity. Based on real-time readings on the ISS, UZH scientists can now reveal that cells are able to respond to changes in gravitational conditions extremely quickly and keep on functioning. Therefore, the study also provides direct evidence that certain cell functions are linked to gravity.&nbsp;</p>]]></content>
-	<updated>2017-02-28T11:56:29+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-02-28T11:56:29+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/cellsadaptul.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-22:/368155</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-02/tiot-ca022017.php" rel="alternate" type="text/html"/>
-	<title type="html">'Quartz' crystals at the Earth's core power its magnetic field</title>
-	<summary type="html"><![CDATA[<p>(Tokyo Institute of Technology) Scientists at the Earth-Life Science Institute at the Tokyo Institut...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Tokyo Institute of Technology</i>) Scientists at the Earth-Life Science Institute at the Tokyo Institute of Technology report in Nature (Fen. 22, 2017) unexpected discoveries about the Earth's core. The findings include insights into the source of energy driving the Earth's magnetic field, factors governing the cooling of the core and its chemical composition, and conditions that existed during the formation of the Earth.</p>]]></content>
-	<updated>2017-02-22T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-02-22T05:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-10:/364672</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-02/tos-its020917.php" rel="alternate" type="text/html"/>
-	<title type="html">Increasing the sensitivity of next-generation gravitational wave detectors</title>
-	<summary type="html"><![CDATA[<p>(The Optical Society) Nearly one year ago today, the LIGO Collaboration announced the detection of g...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>The Optical Society</i>) Nearly one year ago today, the LIGO Collaboration announced the detection of gravitational waves, once again confirming Einstein's theory of General Relativity. This important discovery by the Advanced Laser Interferometer Gravitational-Wave Observatory (aLIGO) has spurred great interest in improving these advanced optical detectors. The mission of gravitational wave scientists worldwide is to make gravitational wave detection a routine occurrence. Scientists from the institute that developed the lasers used in Advanced LIGO have made significant progress to support that goal.</p>]]></content>
-	<updated>2017-02-10T05:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-02-10T05:00:00+00:00</updated>
-		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
-
 
 </entry>
 
