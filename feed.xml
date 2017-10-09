@@ -4,11 +4,308 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-03-03T13:10:03+00:00</updated>
+<updated>2017-05-18T01:00:01+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2016-10-20:/334083</id>
+	<link href="https://www.linux.com/learn/iotop-monitor-linux-disk-io-activity-and-usage-process-basis" rel="alternate" type="text/html"/>
+	<title type="html">Iotop – Monitor Linux Disk I/O Activity and Usage Per-Process Basis</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;Iotop &ndash; Monitor Linux Disk I/O Activity and Usage Per-Process Basis20 OctLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Iotop &ndash; Monitor Linux Disk I/O Activity and Usage Per-Process Basis</div></div></div><div><div><div>20 Oct</div></div></div><div><div><div><div><a href="http://localhost/learn/iotop-monitor-linux-disk-io-activity-and-usage-process-basis" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2016-10-20T06:00:32+00:00</updated>
+	<author><name>Tecmint</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-10-20T06:00:32+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-20:/334015</id>
+	<link href="https://www.linux.com/news/googles-open-source-report-card-highlights-game-changing-contributions" rel="alternate" type="text/html"/>
+	<title type="html">Google’s Open Source Report Card Highlights Game-Changing Contributions</title>
+	<summary type="html"><![CDATA[<p>Ask people about Google&rsquo;s relationship to open source, and many of them will point to Android and Ch...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Ask people about Google&rsquo;s relationship to open source, and many of them will point to Android and Chrome OS &mdash; both very successful operating systems and both based on Linux. Android, in particular, remains one of the biggest home runs in open source history. But, as Josh Simmons from Google&rsquo;s Open Source Programs Office will tell you, Google also contributes a slew of useful open source tools and programs to the community each year.</p></div></div></div>]]></content>
+	<updated>2016-10-20T17:25:17+00:00</updated>
+	<author><name>Sam Dean</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-10-20T17:25:17+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-17:/332856</id>
+	<link href="https://linux-audit.com/using-encrypted-documents-with-vim/" rel="alternate" type="text/html"/>
+	<title type="html">Using encrypted documents with vim</title>
+	<summary type="html"><![CDATA[<p>Encrypting files with vim Everyone has secrets. Or at least some data you don&rsquo;t want to show o...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Encrypting files with vim Everyone has secrets. Or at least some data you don&rsquo;t want to show others, right? Vim is a common editor to be found on Linux systems. It has an option to create and use encrypted files. We will look at how to configure it and use this encryption capability. Encryption is the process of fiddling with data so that others no longer can&rsquo;t read it. The idea is that you still can, so when we speak [...]</p>
+<p>The post <a rel="noopener noreferrer" href="https://linux-audit.com/using-encrypted-documents-with-vim/" target="_blank">Using encrypted documents with vim</a> appeared first on <a rel="noopener noreferrer" href="https://linux-audit.com" target="_blank">Linux Audit</a>.</p>]]></content>
+	<updated>2016-10-17T14:07:43+00:00</updated>
+	<author><name>Michael Boelen</name></author>
+	<source>
+		<id>https://linux-audit.com</id>
+		<link rel="self" href="https://linux-audit.com"/>
+		<updated>2016-10-17T14:07:43+00:00</updated>
+		<title>Linux Audit</title></source>
+
+	<category term="crypto"/>
+
+	<category term="cryptography"/>
+
+	<category term="encryption"/>
+
+	<category term="vi"/>
+
+	<category term="vim"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-06:/330028</id>
+	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Power-Management-2016" rel="alternate" type="text/html"/>
+	<title type="html">The State &amp; Future Of Linux Power Management (2016)</title>
+	<summary type="html"><![CDATA[<p>Linux's power management and ACPI subsystems maintainer Rafael Wysocki presented at this week's Linu...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Linux's power management and ACPI subsystems maintainer Rafael Wysocki presented at this week's LinuxCon Europe event in Berlin about the state and future of power management in the Linux kernel...</p>]]></content>
+	<updated>2016-10-06T17:27:14+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2016-10-06T17:27:14+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-29:/327673</id>
+	<link href="https://www.linux.com/news/googles-open-source-fuchsia-os-mystery-linux-distro" rel="alternate" type="text/html"/>
+	<title type="html">Google’s Open Source Fuchsia OS: The Mystery Linux Distro</title>
+	<summary type="html"><![CDATA[<p>Few things are more tantalizing than a good mystery, and Google is making waves for an open source-c...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Few things are more tantalizing than a good mystery, and Google is making waves for an open source-centric mystery that may end up having profound implications. It all started in August when an extensive and unusual<a href="https://fuchsia.googlesource.com/" rel="noopener noreferrer" target="_blank"> code repository</a> for a new operating system called Fuchsia was discovered online, and now the growing source code set<a href="https://github.com/fuchsia-mirror?utf8=%E2%9C%93&amp;query=Escher" rel="noopener noreferrer" target="_blank"> is on GitHub</a>.</p></div></div></div>]]></content>
+	<updated>2016-09-29T13:40:05+00:00</updated>
+	<author><name>Sam Dean</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-29T13:40:05+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-29:/327674</id>
+	<link href="https://www.linux.com/learn/dig-dns-part-4" rel="alternate" type="text/html"/>
+	<title type="html">Dig into DNS: Part 4</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;Dig into DNS: Part 429 SepLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Dig into DNS: Part 4</div></div></div><div><div><div>29 Sep</div></div></div><div><div><div><div><a href="http://localhost/learn/dig-dns-part-4" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2016-09-29T13:00:37+00:00</updated>
+	<author><name>chrisbinnie</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-29T13:00:37+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-28:/327372</id>
+	<link href="https://www.linux.com/news/whats-difference-between-consumer-and-industrial-iot" rel="alternate" type="text/html"/>
+	<title type="html">What’s the Difference Between Consumer and Industrial IoT?</title>
+	<summary type="html"><![CDATA[<p>The Internet of Things is invading everything from consumer to industrial products, but all platform...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>The Internet of Things is invading everything from consumer to industrial products, but all platforms are not created equal.</p></div></div></div>]]></content>
+	<updated>2016-09-28T08:00:00+00:00</updated>
+	<author><name>Electronic Design</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-28T08:00:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-26:/326782</id>
+	<link href="https://www.linux.com/news/exactly-what-openstack-red-hats-rich-bowen-explains" rel="alternate" type="text/html"/>
+	<title type="html">Exactly What Is OpenStack? Red Hat's Rich Bowen Explains</title>
+	<summary type="html"><![CDATA[<p>You've probably heard of OpenStack. It's in the tech news a lot, and it's an important open source p...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>You've probably heard of OpenStack. It's in the tech news a lot, and it's an important open source project. But what exactly is it, and what is it for? Rich Bowen of Red Hat provided a high-level view of OpenStack as a software project, an open source foundation, and a community of organizations in his talk at <a href="http://events.linuxfoundation.org/events/linuxcon-north-america" rel="noopener noreferrer" target="_blank">LinuxCon North America</a>.</p></div></div></div>]]></content>
+	<updated>2016-09-26T15:07:55+00:00</updated>
+	<author><name>cschroder</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-26T15:07:55+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-22:/325966</id>
+	<link href="https://www.linux.com/news/industrial-iot-group-releases-security-framework" rel="alternate" type="text/html"/>
+	<title type="html">Industrial IoT Group Releases Security Framework</title>
+	<summary type="html"><![CDATA[<p>The&nbsp;Industrial Internet Consortium (IIC)&nbsp;, which was founded by&nbsp;AT&amp;T,&nbsp;Cisco,&nbsp;GE,&nbsp;IBM, and&nbsp;Intel,...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>The&nbsp;<a href="http://www.iiconsortium.org/" rel="noopener noreferrer" target="_blank">Industrial Internet Consortium (IIC)</a>&nbsp;, which was founded by&nbsp;<a href="https://www.sdxcentral.com/listings/att/" title="AT&amp;T" rel="noopener noreferrer" target="_blank">AT&amp;T</a>,&nbsp;<a href="https://www.sdxcentral.com/cisco/datacenter/" title="Cisco Data Center Resources" rel="noopener noreferrer" target="_blank">Cisco</a>,&nbsp;<a href="http://www.ge.com/" rel="noopener noreferrer" target="_blank">GE</a>,&nbsp;<a href="https://www.sdxcentral.com/listings/ibm/" title="IBM" rel="noopener noreferrer" target="_blank">IBM</a>, and&nbsp;<a href="https://www.sdxcentral.com/listings/intel/" title="Intel" rel="noopener noreferrer" target="_blank">Intel</a>, released a common framework for&nbsp;<a href="https://www.sdxcentral.com/security/" title="Security Resources" rel="noopener noreferrer" target="_blank">security</a></p></div></div></div>]]></content>
+	<updated>2016-09-22T07:55:38+00:00</updated>
+	<author><name>SDx Central</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-22T07:55:38+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-21:/325595</id>
+	<link href="https://www.linux.com/learn/beginning-grep-linux-sysadmins" rel="alternate" type="text/html"/>
+	<title type="html">Beginning Grep for Linux SysAdmins</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;Beginning Grep for Linux SysAdmins21 SepLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Beginning Grep for Linux SysAdmins</div></div></div><div><div><div>21 Sep</div></div></div><div><div><div><div><a href="http://localhost/learn/beginning-grep-linux-sysadmins" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2016-09-21T13:00:00+00:00</updated>
+	<author><name>cschroder</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-21T13:00:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-20:/325329</id>
+	<link href="https://www.linux.com/news/21-open-source-projects-iot" rel="alternate" type="text/html"/>
+	<title type="html">21 Open Source Projects for IoT</title>
+	<summary type="html"><![CDATA[<p>The Internet of Things market is fragmented, amorphous, and continually changing, and its very natur...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>The Internet of Things market is fragmented, amorphous, and continually changing, and its very nature requires more than the usual attention to interoperability. It&rsquo;s not surprising then, that open source has done quite well here -- customers are hesitant to bet their IoT future on a proprietary platform that may fade or become difficult to customize and interconnect. </p></div></div></div>]]></content>
+	<updated>2016-09-20T16:57:36+00:00</updated>
+	<author><name>ericstephenbrown</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-20T16:57:36+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-20:/325167</id>
+	<link href="https://www.linux.com/news/dig-dns-part-3" rel="alternate" type="text/html"/>
+	<title type="html">Dig into DNS: Part 3</title>
+	<summary type="html"><![CDATA[<p>In the first and second articles in this series, I introduced the powerful dig utility and its uses ...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>In the<a href="https://www.linux.com/learn/dig-dns-part-1" rel="noopener noreferrer" target="_blank"> first </a>and<a href="https://www.linux.com/learn/dig-dns-part-2" rel="noopener noreferrer" target="_blank"> second </a>articles in this series, I introduced the powerful dig utility and its uses in performing DNS lookups along with a few time-saving examples of to put it into practice. In this part, I&rsquo;ll look at my favorite dig utility feature -- which is definitely the &ldquo;trace&rdquo; option. For those unfamiliar with this process, let&rsquo;s slowly run through it.</p></div></div></div>]]></content>
+	<updated>2016-09-20T13:02:08+00:00</updated>
+	<author><name>chrisbinnie</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-20T13:02:08+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-13:/323290</id>
+	<link href="https://www.linux.com/news/who-needs-internet-things" rel="alternate" type="text/html"/>
+	<title type="html">Who Needs the Internet of Things?</title>
+	<summary type="html"><![CDATA[<p>This week, the Raspberry Pi Foundation announced it has sold more than 10 million Raspberry Pi board...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>This week, the Raspberry Pi Foundation <a href="https://www.raspberrypi.org/blog/ten-millionth-raspberry-pi-new-kit/" rel="noopener noreferrer" target="_blank">announced</a> it has sold more than 10 million Raspberry Pi boards and celebrated the milestone by releasing a new Raspberry Pi Starter Kit. While many of these Linux-driven hacker boards were used for the foundation&rsquo;s original purpose -- creating a low-cost computer for computer education -- a large percentage have been sold to hobbyists and commercial developers working on Internet of Things (IoT) projects ranging from home automation to industrial sensor networks.</p></div></div></div>]]></content>
+	<updated>2016-09-13T15:01:14+00:00</updated>
+	<author><name>ericstephenbrown</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-13T15:01:14+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-13:/323293</id>
+	<link href="https://www.linux.com/learn/dig-dns-part-2" rel="alternate" type="text/html"/>
+	<title type="html">Dig Into DNS: Part 2</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;Dig Into DNS: Part 213 SepLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Dig Into DNS: Part 2</div></div></div><div><div><div>13 Sep</div></div></div><div><div><div><div><a href="http://localhost/learn/dig-dns-part-2" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2016-09-13T14:00:31+00:00</updated>
+	<author><name>chrisbinnie</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-09-13T14:00:31+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436646</id>
+	<link href="https://phys.org/news/2017-10-atlas-fragments-quark.html" rel="alternate" type="text/html"/>
+	<title type="html">ATLAS experiment studies fragments of the top quark</title>
+	<summary type="html"><![CDATA[<p>Top quarks in the Large Hadron Collider (LHC) proton-proton collisions are predominantly produced in...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Top quarks in the Large Hadron Collider (LHC) proton-proton collisions are predominantly produced in pairs, with one top quark and one top antiquark. In order to measure the production rates of top quark pairs, the ATLAS Experiment examined events with an electron, muon, and one or two jets that were likely to have originated from bottom quarks. By comparing the number of events with one bottom-quark jet to those with two bottom-quark jets, ATLAS was able to determine both the total production rate, as well as the efficiency of identifying bottom-flavoured jets.</p>]]></content>
+	<updated>2017-10-09T10:39:42+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-09T10:39:42+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="general physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/3-atlasexperim.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436589</id>
+	<link href="https://phys.org/news/2017-10-japan-scientists-drugs-chicken-eggs.html" rel="alternate" type="text/html"/>
+	<title type="html">Japan scientists grow drugs in chicken eggs</title>
+	<summary type="html"><![CDATA[<p>Japanese researchers have genetically engineered hens whose eggs contain drugs that can fight seriou...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Japanese researchers have genetically engineered hens whose eggs contain drugs that can fight serious diseases including cancer, in a bid to dramatically reduce the cost of treatment, a report said Monday.</p>]]></content>
+	<updated>2017-10-09T07:02:46+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-09T07:02:46+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-thescientist.jpg"/>
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-10-07:/436417</id>
@@ -1059,379 +1356,6 @@ An artist's ...</p>]]></summary>
 		type="image/generic" 
 		length="1"
 		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/firstdirecte.png"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-18:/393738</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-05/nsfc-nmu051817.php" rel="alternate" type="text/html"/>
-	<title type="html">NASA mission uncovers a dance of electrons in space</title>
-	<summary type="html"><![CDATA[<p>(NASA/Goddard Space Flight Center) NASA's MMS mission studies how electrons spiral and dive around t...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>NASA/Goddard Space Flight Center</i>) NASA's MMS mission studies how electrons spiral and dive around the planet in a complex dance dictated by the magnetic and electric fields, and a new study revealed a bizarre new type of motion exhibited by these electrons.</p>]]></content>
-	<updated>2017-05-18T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-05-18T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-03:/389232</id>
-	<link href="https://www.sciencedaily.com/releases/2017/05/170502112531.htm" rel="alternate" type="text/html"/>
-	<title type="html">New nuclear magnetic resonance technique offers 'molecular window' into living organisms</title>
-	<summary type="html"><![CDATA[<p>A new nuclear magnetic resonance (NMR) technique has potential for noninvasive disease diagnosis usi...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A new nuclear magnetic resonance (NMR) technique has potential for noninvasive disease diagnosis using current MRI technology, researchers outline in a new report.</p>]]></content>
-	<updated>2017-05-02T15:25:31+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-05-02T15:25:31+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://images.sciencedaily.com/2017/05/170502112531.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-02:/389042</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-05/aiop-wsd042717.php" rel="alternate" type="text/html"/>
-	<title type="html">Why space dust emits radio waves upon crashing into a spacecraft</title>
-	<summary type="html"><![CDATA[<p>(American Institute of Physics) When spacecraft and satellites travel through space they encounter t...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>American Institute of Physics</i>) When spacecraft and satellites travel through space they encounter tiny, fast moving particles of space dust and debris. If the particle travels fast enough, its impact appears to create electromagnetic radiation that can damage or even disable the craft's electronic systems. A new study published this week in Physics of Plasmas uses computer simulations to show that the cloud of plasma generated from the particle's impact is responsible for creating the damaging electromagnetic pulse.</p>]]></content>
-	<updated>2017-05-02T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-05-02T04:00:00+00:00</updated>
-		<title>EurekAlert! - Space and Planetary Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-27:/387470</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-04/du-rig042617.php" rel="alternate" type="text/html"/>
-	<title type="html">Researchers identify genes that help trout find their way home</title>
-	<summary type="html"><![CDATA[<p>(Duke University) In the spring when water temperatures start to rise, rainbow trout that have spent...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Duke University</i>) In the spring when water temperatures start to rise, rainbow trout that have spent several years at sea traveling hundreds of miles from home manage, without maps or GPS, to find their way back to the rivers and streams where they were born for spawning. Researchers have identified genes that enable the fish to perform this extraordinary homing feat with help from Earth's magnetic field.</p>]]></content>
-	<updated>2017-04-26T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-04-26T04:00:00+00:00</updated>
-		<title>EurekAlert! - Agriculture</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-25:/386630</id>
-	<link href="http://www.livescience.com/58816-photoelectric-effect.html" rel="alternate" type="text/html"/>
-	<title type="html">Photoelectric Effect: Explanation &amp; Applications</title>
-	<summary type="html"><![CDATA[<p>The photoelectric effect refers to what happens when electrons are emitted from a material that has ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The photoelectric effect refers to what happens when electrons are emitted from a material that has absorbed electromagnetic radiation.</p>]]></content>
-	<updated>2017-04-24T14:17:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.livescience.com</id>
-		<link rel="self" href="https://www.livescience.com"/>
-		<updated>2017-04-24T14:17:00+00:00</updated>
-		<title>LiveScience.com</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="https://img.purch.com/rc/160x100/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5MS81NTcvb3JpZ2luYWwvcGhvdG9lbGVjdHJpYy1lZmZlY3QuanBn"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-21:/385795</id>
-	<link href="https://www.sciencedaily.com/releases/2017/04/170421090840.htm" rel="alternate" type="text/html"/>
-	<title type="html">Faster biosensor for healthcare now developed</title>
-	<summary type="html"><![CDATA[<p>A new technology has been designed that is 20 times faster than the existing biosensors using microm...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A new technology has been designed that is 20 times faster than the existing biosensors using micromagnetic pattern of spider web. The technology can be used for early diagnosis and recurrence diagnosis of diseases such as cancer.</p>]]></content>
-	<updated>2017-04-21T13:08:40+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-04-21T13:08:40+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://images.sciencedaily.com/2017/04/170421090840.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-14:/383673</id>
-	<link href="https://phys.org/news/2017-04-geophysicists-high-res-earth-magnetic-field.html" rel="alternate" type="text/html"/>
-	<title type="html">Geophysicists develop high-res map of Earth's magnetic field</title>
-	<summary type="html"><![CDATA[<p>A University of Kentucky geophysicist is helping an international team of scientists reveal dramatic...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A University of Kentucky geophysicist is helping an international team of scientists reveal dramatic new information about the Earth's magnetic field.</p>]]></content>
-	<updated>2017-04-14T12:30:02+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-04-14T12:30:02+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="earth sciences"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/geophysicist.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-11:/382385</id>
-	<link href="https://phys.org/news/2017-04-atlas-symmetries-nature.html" rel="alternate" type="text/html"/>
-	<title type="html">ATLAS Experiment searches for new symmetries of nature</title>
-	<summary type="html"><![CDATA[<p>The fundamental forces of nature are intimately related to corresponding symmetries. For example, th...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The fundamental forces of nature are intimately related to corresponding symmetries. For example, the properties of electromagnetic interactions (or force) can be derived by requiring the theory that describes it to remain unchanged (or invariant) under a certain localised transformation. Such an invariance is referred to as a symmetry, just as one would refer to an object as being symmetric if it looks the same after being rotated or reflected. The particular symmetry related to the forces acting among particles is called gauge symmetry.</p>]]></content>
-	<updated>2017-04-11T09:25:07+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-04-11T09:25:07+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="general physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/atlasexperim.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-10:/381918</id>
-	<link href="http://www.thehindu.com/children/what-are-saturns-rings-made-of/article17905055.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication" rel="alternate" type="text/html"/>
-	<title type="html">What are Saturn’s rings made of?</title>
-	<summary type="html"><![CDATA[<p>While James Clerk Maxwell is best known for the equations that bear his name and his contributions ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>While James Clerk Maxwell is best known for the equations that bear his name and his contributions towards electromagnetism, he also made a significant contribution in another field &mdash; astronomy. That contribution was first confirmed by James Keeler on April 9, 1895. A.S.Ganesh takes you through Maxwell&rsquo;s theory and Keeler&rsquo;s confirmation.</p>]]></content>
-	<updated>2017-04-10T08:43:04+00:00</updated>
-	<author><name>A.S.Ganesh</name></author>
-	<source>
-		<id>http://www.thehindu.com/</id>
-		<link rel="self" href="http://www.thehindu.com/"/>
-		<updated>2017-04-10T08:43:04+00:00</updated>
-		<title>The Hindu - Sci-Tech</title></source>
-
-	<category term="children"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-05:/380789</id>
-	<link href="http://www.skyandtelescope.com/astronomy-news/cassinis-final-orbits/" rel="alternate" type="text/html"/>
-	<title type="html">Cassini’s Grand Finale Orbits Set to Begin</title>
-	<summary type="html"><![CDATA[<p>NASA's Cassini mission nears its final act &mdash; the spacecraft will enter the first of its Grand Finale...</p>]]></summary>
-	<content type="html"><![CDATA[<p><span><strong><em>NASA's Cassini mission nears its final act &mdash; the spacecraft will enter the first of its Grand Finale Orbits later this month.&nbsp;</em></strong></span></p>
-<div><img src="http://www.skyandtelescope.com/wp-content/uploads/PIA21438.jpg" alt="Cassini at Saturn" width="480" height="274" srcset="http://www.skyandtelescope.com/wp-content/uploads/PIA21438.jpg 480w, http://www.skyandtelescope.com/wp-content/uploads/PIA21438-300x171.jpg 300w" sizes="(max-width: 480px) 100vw, 480px"><p>An artist's conception of Cassini during its Grand Finale Orbits. <br><em>NASA / JPL-Caltech</em></p></div>
-<p>Get set for a wild ride.</p>
-<p>After almost 20 years in space, Cassini will enter the &ldquo;beginning of the end.&rdquo; It starts in late April with the first of a series of <a href="https://saturn.jpl.nasa.gov/mission/grand-finale/overview/" rel="noopener noreferrer" target="_blank">Grand Finale Orbits</a>. Cassini promises to deliver amazing science as well as never-before-seen views of the ringed planet right up until the very end.</p>
-<p>"I feel a little sad that Cassini will end," said Jim Green (NASA) during a press conference, "but I'm also quite optimistic that we're going to discover some new and really exciting science as we enter a region that we've never probed before."</p>
-<p>The action starts on April 22nd with a final Titan flyby, which sets up Cassini for its 22 final orbits around Saturn. This flyby is also the closest for Cassini since 2010, as the spacecraft will skim just 615 miles (990 km) above the shrouded moon. Then, on April 26, Cassini will take the plunge, diving through the 1,500-mile-wide gap between the innermost D-ring and Saturn's cloudtops at <a href="https://saturn.jpl.nasa.gov/news/2990/cassinis-two-speeds/" rel="noopener noreferrer" target="_blank">70,000 mph</a>. The spacecraft will continue to make similar passes once a week for the mission's final duration. These <a href="https://www.jpl.nasa.gov/news/news.php?feature=6803" rel="noopener noreferrer" target="_blank">Grand Finale orbits</a> will take Cassini from a periapsis (closest approach) of 39,000 miles from Saturn's center out to an apoapsis of 87,000 miles, past the outermost edge of the F-ring.</p>
-<p>Even if Cassini gets pummeled with ring debris during these daring final passes, the ballistic trajectory assures its final disposal. Engineers will use Cassini's large main High Gain Antenna as a shield on each pass through the ring plane.</p>
-<p>"The planned conclusion for Cassini's journey was far and away the preferred choice for the mission's scientists," says Linda Spilker (NASA-JPL) in a recent <a href="https://www.jpl.nasa.gov/news/news.php?feature=6803" rel="noopener noreferrer" target="_blank">press release</a>. "Cassini will make some of its most extraordinary observations at the end of its long life."</p>
-<p>Scientists at NASA's Jet Propulsion Laboratory previewed <a href="https://www.jpl.nasa.gov/news/news.php?feature=6799" rel="noopener noreferrer" target="_blank">Cassini's Grand Finale</a> series of orbits on Tuesday, showcasing just what to expect from the beginning of Cassini's end.</p>
-<div></div>
-<p>In some ways, the final orbits mark a whole new mission, taking Cassini to new territory. Scientists aim to get a lot of data out of these final orbits:</p>
-<ul>
-<li>Cassini will map Saturn's magnetic and gravitational fields in order to probe the planet's internal structure and refine our understanding of its internal rotation</li>
-<li>Scientists will analyze the mass and structure of Saturn's rings using a series of radio occultations on each successive pass</li>
-<li>The spacecraft will sample the charged particles funneled by Saturn's magnetic field from the rings into the planet's atmosphere</li>
-</ul>
-<p>Expect some dazzling images of Saturnian cloudtops as well, as the spacecraft gets up close and personal to the planet like never before.</p>
-<div><img src="http://www.skyandtelescope.com/wp-content/uploads/7580_FRPO_Details_Black_Rev0-587x360.png" alt="Grand Finale Orbits" width="587" height="360" srcset="http://www.skyandtelescope.com/wp-content/uploads/7580_FRPO_Details_Black_Rev0-587x360.png 587w, http://www.skyandtelescope.com/wp-content/uploads/7580_FRPO_Details_Black_Rev0-300x184.png 300w, http://www.skyandtelescope.com/wp-content/uploads/7580_FRPO_Details_Black_Rev0.png 600w" sizes="(max-width: 587px) 100vw, 587px"><p>Grand Finale Orbits (blue) versus Ring Grazing Orbits (gray) and the orbit of Saturn's large moon, Titan. <br><em>NASA / JPL-Caltech</em></p></div>
-<p>Over the past few months, the <a href="http://www.skyandtelescope.com/astronomy-news/nasa-cassini-ring-grazing-orbits/" rel="noopener noreferrer" target="_blank">Ring Grazing Orbits</a> have given us an amazing set of views. We've also had some great recent views of the enigmatic &ldquo;<a href="http://www.skyandtelescope.com/astronomy-news/cassini-amazing-views-saturn-hexagon/" rel="noopener noreferrer" target="_blank">polar hexagon</a>,&rdquo; as well as moon close-ups of <a href="http://www.skyandtelescope.com/astronomy-news/welcome-pan-saturns-ravioli-shaped-moon/" rel="noopener noreferrer" target="_blank">ravioli-shaped Pan</a> and <a href="http://www.skyandtelescope.com/astronomy-news/cassini-spies-daphnis-making-waves/" rel="noopener noreferrer" target="_blank">Daphnis</a> as it braids the Keeler Gap.</p>
-<p>Expect close flybys of the tiny moonlets Epimetheus, Pandora, and Atlas on April 5th, with more to come.</p>
-<h3>Space Science Workhorse</h3>
-<p>Launched on October 15, 1997, atop a Titan IVB rocket from Cape Canaveral Air Force Station, Cassini made a gravity-assist flyby past Venus (1998 and 1999), Earth (1999), and Jupiter (2000) before arriving in orbit around Saturn on July 1, 2004. Cassini is the fourth mission to visit Saturn, a legacy that started with the Pioneer 11 flyby in 1979 and continued with Voyager 1 (1980) and Voyager 2 (1981).</p>
-<p>Unlike its predecessors, though, Cassini entered orbit around Saturn, enabling scientists to study longterm changes on the planet. <a href="http://www.skyandtelescope.com/astronomy-news/hooray-for-huygens/" rel="noopener noreferrer" target="_blank">Cassini also delivered the European Space Agency's Huygens lander to Titan</a>, which made the most distant landing on another world on January 14, 2005. Cassini gave us close-up views of worlds only glimpsed during previous flybys, revealed seven new moons orbiting Saturn, ice geyser plumes on Enceladus, methane lakes on Titan, spokes in the rings of Saturn, and much more.</p>
-<p>But Cassini and the team of scientists behind it have a poetic side, as well, revealing a glorious back-lit Saturn as the spacecraft passed through the planet's shadow. Then, on July 19, 2013, researchers turned Cassini's cameras back on its world of origin: It imaged Earth just beyond Saturn's limb during <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=pia17172" rel="noopener noreferrer" target="_blank">The Day the Earth Smiled campaign</a>.</p>
-<div><img src="http://www.skyandtelescope.com/wp-content/uploads/pia20530-360x360.jpg" alt="Silver of Saturn" width="360" height="360" srcset="http://www.skyandtelescope.com/wp-content/uploads/pia20530-360x360.jpg 360w, http://www.skyandtelescope.com/wp-content/uploads/pia20530-113x113.jpg 113w, http://www.skyandtelescope.com/wp-content/uploads/pia20530-190x190.jpg 190w, http://www.skyandtelescope.com/wp-content/uploads/pia20530.jpg 450w" sizes="(max-width: 360px) 100vw, 360px"><p>Cassini spied a "Sliver of Saturn" and its rings on January 18, 2017. <br><em>NASA / JPL / Caltech / Space Science Institute</em></p></div>
-<p>Now, the end is near: September 15, 2017, at 10:44 UT is&nbsp; when Cassini will plunge into Saturn's dense atmosphere.</p>
-<p>It'll be sad to see Cassini go, but the maneuver is a necessary precaution to avoid any future contamination of Enceladus or Titan, worlds which could harbor life. Cassini will beam back its final images just a few hours prior to destruction, and its mass spectrometer will take data during its fiery atmospheric plunge. Signal travel time at the end will be 83 minutes.</p>
-<p>"It's going to be hard to say goodbye to this plucky spacecraft that delivered some amazing science," says Spilker. Researchers (and science writers, too!) have grown up with the Cassini mission.</p>
-<p>When will we return? Well, while there's been talk of dedicated missions to Titan or Enceladus, these are at best a decade or more away. Solar power is too feeble to power a spacecraft in the outer solar system, and the U.S. Department of Energy only recently announced a <a href="https://www.universetoday.com/100875/u-s-to-restart-plutonium-production-for-deep-space-exploration/" rel="noopener noreferrer" target="_blank">restart of plutonium production</a> for NASA in 2013.</p>
-<p>Enjoy these final few months, as Cassini gives us some unparalleled views of the original Ringed Planet.</p>
-<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-news/cassinis-final-orbits/" target="_blank">Cassini&rsquo;s Grand Finale Orbits Set to Begin</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
-	<updated>2017-04-02T13:22:42+00:00</updated>
-	<author><name>David Dickinson</name></author>
-	<source>
-		<id>http://www.skyandtelescope.com</id>
-		<link rel="self" href="http://www.skyandtelescope.com"/>
-		<updated>2017-04-02T13:22:42+00:00</updated>
-		<title>Sky &amp; Telescope</title></source>
-
-	<category term="astronomy blogs"/>
-
-	<category term="astronomy in space with david dickinson"/>
-
-	<category term="news"/>
-
-	<category term="solar system"/>
-
-	<category term="cassini grand finale orbits"/>
-
-	<category term="cassini ring grazing orbits"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-31:/379328</id>
-	<link href="https://phys.org/news/2017-03-sun-nasa-insight-space-weather.html" rel="alternate" type="text/html"/>
-	<title type="html">Waves on Sun give NASA new insight into space weather forecasting</title>
-	<summary type="html"><![CDATA[<p>Our sun is a chaotic place, simmering with magnetic energy and constantly spewing out particles. Som...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Our sun is a chaotic place, simmering with magnetic energy and constantly spewing out particles. Sometimes the sun releases solar flares and coronal mass ejections&mdash;huge eruptions of charged particles&mdash;which contribute to space weather and can interfere with satellites and telecommunications on Earth. While it has long been hard to predict such events, new research has uncovered a mechanism that may help forecasting these explosions.</p>]]></content>
-	<updated>2017-03-30T18:11:40+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-03-30T18:11:40+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/wavesonsungi.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-27:/378013</id>
-	<link href="http://physicsworld.com/cws/article/news/2017/mar/27/honey-bees-navigate-using-magnetic-abdomens" rel="alternate" type="text/html"/>
-	<title type="html">Honey bees navigate using magnetic abdomens</title>
-	<summary type="html"><![CDATA[<p>Bees can be blown off course by applying a magnetic field</p>]]></summary>
-	<content type="html"><![CDATA[<p>Bees can be blown off course by applying a magnetic field<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/SXpyuYJHhG0" height="1" width="1" alt=""></p>]]></content>
-	<updated>2017-03-27T15:47:08+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://physicsworld.com/</id>
-		<link rel="self" href="http://physicsworld.com/"/>
-		<updated>2017-03-27T15:47:08+00:00</updated>
-		<title>physicsworld.com: all content</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-24:/377294</id>
-	<link href="https://phys.org/news/2017-03-curiosity-captures-gravity-clouds-mars.html" rel="alternate" type="text/html"/>
-	<title type="html">Curiosity captures gravity wave shaped clouds on Mars</title>
-	<summary type="html"><![CDATA[<p>This week, from March 20th to 24th, the 48th Lunar and Planetary Science Conference will be taking p...</p>]]></summary>
-	<content type="html"><![CDATA[<p>This week, from March 20th to 24th, the 48th Lunar and Planetary Science Conference will be taking place in The Woodlands, Texas. Every year, this conference brings together international specialists in the fields of geology, geochemistry, geophysics, and astronomy to present the latest findings in planetary science. One of the highlights of the conference so far has been a presentation about Mars' weather patterns.</p>]]></content>
-	<updated>2017-03-24T13:00:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-03-24T13:00:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/curiositycap.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-22:/376654</id>
-	<link href="http://physicsworld.com/cws/article/news/2017/mar/22/spin-glass-provides-insight-into-brain-activity" rel="alternate" type="text/html"/>
-	<title type="html">Spin glass provides insight into brain activity</title>
-	<summary type="html"><![CDATA[<p>Model reveals functional role of spin-glass-like states in neurological networks</p>]]></summary>
-	<content type="html"><![CDATA[<p>Model reveals functional role of spin-glass-like states in neurological networks<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/IUMtbExxmYA" height="1" width="1" alt=""></p>]]></content>
-	<updated>2017-03-22T16:45:41+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://physicsworld.com/</id>
-		<link rel="self" href="http://physicsworld.com/"/>
-		<updated>2017-03-22T16:45:41+00:00</updated>
-		<title>physicsworld.com: all content</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-07:/371804</id>
-	<link href="https://phys.org/news/2017-03-microscope-technique-magnetic-field-individual.html" rel="alternate" type="text/html"/>
-	<title type="html">New microscope technique offers a better way to measure magnetic field of individual atoms</title>
-	<summary type="html"><![CDATA[<p>A team of researchers at IBM has developed a new way to measure the magnetic field of individual ato...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A team of researchers at IBM has developed a new way to measure the magnetic field of individual atoms that offers 1000 times the energy resolution of conventional techniques. In their paper published in the journal Nature Nanotechnology, the team describes their approach, how well it works and their hope that they will be able to modify it in such a way as to allow others with less specialized hardware to use it.</p>]]></content>
-	<updated>2017-03-07T14:00:02+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-03-07T14:00:02+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="general physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2016/5763a9466fe23.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-03:/370981</id>
-	<link href="https://phys.org/news/2017-03-nasa-magnetic-shield-mars-atmosphere.html" rel="alternate" type="text/html"/>
-	<title type="html">NASA proposes a magnetic shield to protect Mars' atmosphere</title>
-	<summary type="html"><![CDATA[<p>NASA proposes a magnetic shield to protect Mars' atmosphere</p>]]></summary>
-	<content type="html"><![CDATA[<p>NASA proposes a magnetic shield to protect Mars' atmosphere</p>]]></content>
-	<updated>2017-03-03T13:10:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-03-03T13:10:03+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/nasaproposes.jpg"/>
 
 </entry>
 
