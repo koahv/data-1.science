@@ -4,11 +4,177 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-10-03T19:40:02+00:00</updated>
+<updated>2017-08-18T12:20:02+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437052</id>
+	<link href="https://phys.org/news/2017-10-fossil-date-earliest-fused-bones.html" rel="alternate" type="text/html"/>
+	<title type="html">Fossil find pushes back date of earliest fused bones in birds by 40 million years</title>
+	<summary type="html"><![CDATA[<p>(Phys.org)&mdash;A trio of researchers with the Key Laboratory of Vertebrate Evolution and Human Origins o...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(Phys.org)&mdash;A trio of researchers with the Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of Sciences has found evidence that pushes back the earliest example of fused bones in birds by approximately 40 million years. In their paper published in Proceedings of the National Academy of Sciences, Min Wang, Zhiheng Li and Zhonghe Zhou describe their study of the fossilized remains of a bird dated to approximately 120 million years ago.</p>]]></content>
+	<updated>2017-10-10T12:45:55+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-10T12:45:55+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="archaeology &amp; fossils"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/59dcc0e7671c8.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-15:/341020</id>
+	<link href="http://www.linuxinsider.com/story/84076.html?rss=1" rel="alternate" type="text/html"/>
+	<title type="html">wattOS Energizes Aging Hardware</title>
+	<summary type="html"><![CDATA[<p>wattOS is a stunning example of really great things coming in small packages. wattOS is a li...</p>]]></summary>
+	<content type="html"><![CDATA[<a href="http://www.linuxinsider.com/story/84076.html?rss=1" rel="noopener noreferrer" target="_blank"><img src="http://www.linuxinsider.com/images/rw27225/lxde" align="left" alt="" hspace="7" border="0"></a>
+			wattOS is a stunning example of really great things coming in small packages. wattOS is a lightweight and fast desktop Linux distribution based on Ubuntu 16.04.1 LTS built around the LXDE. It uses the lightweight Openbox window manager as its default user interface. To credit this 8-year-young community of developers with birthing an energy-efficient Linux distribution is an understatement. It has phenomenal performance on older hardware that lacks resources. It installs on computers with as little as 192 MB to 256 MB of RAM.]]></content>
+	<updated>2016-11-15T15:00:00+00:00</updated>
+	<author><name>Jack M. Germain</name></author>
+	<source>
+		<id>http://www.linuxinsider.com</id>
+		<link rel="self" href="http://www.linuxinsider.com"/>
+		<updated>2016-11-15T15:00:00+00:00</updated>
+		<title>LinuxInsider</title></source>
+
+	<category term="reviews"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-11:/340172</id>
+	<link href="https://www.linux.com/news/us-government-opens-access-federal-source-code-codegov" rel="alternate" type="text/html"/>
+	<title type="html">US Government Opens Access to Federal Source Code with Code.gov</title>
+	<summary type="html"><![CDATA[<p>In March of this year, the Obama administration created a draft for Federal Source Code policy to su...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>In March of this year, the Obama administration <a href="http://www.cio.com/article/3043544/open-source-tools/the-white-house-opens-its-doors-to-open-source.html" rel="noopener noreferrer" target="_blank">created a draft for Federal Source Code policy</a> to support improved access to custom software code. After soliciting comments from public, &nbsp;the administration announced the Federal Source Code policy in August. </p>
+<p>One of the core features of the policy was the adoption of an open source development model:</p></div></div></div>]]></content>
+	<updated>2016-11-11T15:00:43+00:00</updated>
+	<author><name>arnieswap</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-11-11T15:00:43+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-10:/339798</id>
+	<link href="https://www.linux.com/news/new-ibm-platform-brings-watson-iot-0" rel="alternate" type="text/html"/>
+	<title type="html">New IBM Platform Brings Watson to IoT</title>
+	<summary type="html"><![CDATA[<p>IBM&nbsp;unveiled today an experimental platform that allows developers to embed Watson functions and cog...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><a href="https://www.sdxcentral.com/listings/ibm/" title="IBM" rel="noopener noreferrer" target="_blank">IBM</a>&nbsp;unveiled today an experimental platform that allows developers to embed Watson functions and cognitive technology into various devices. The platform, dubbed Project Intu, can be accessed through the Watson Developer Cloud,&nbsp;<a href="https://rg-gateway.mybluemix.net/" rel="noopener noreferrer" target="_blank">Intu Gateway</a>, and GitHub.</p></div></div></div>]]></content>
+	<updated>2016-11-10T09:00:00+00:00</updated>
+	<author><name>SDx Central</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-11-10T09:00:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-09:/339292</id>
+	<link href="http://www.tecmint.com/recover-deleted-file-in-linux/" rel="alternate" type="text/html"/>
+	<title type="html">How to Recover a Deleted File in Linux</title>
+	<summary type="html"><![CDATA[<p>Did this ever happen to you? You realized that you had mistakenly deleted a file &ndash; either thro...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Did this ever happen to you? You realized that you had mistakenly deleted a file &ndash; either through the Del key, or using rm in the command line. In the first case, you can...</p>]]></content>
+	<updated>2016-11-09T06:00:14+00:00</updated>
+	<author><name>Gabriel Cánepa</name></author>
+	<source>
+		<id>https://www.tecmint.com</id>
+		<link rel="self" href="https://www.tecmint.com"/>
+		<updated>2016-11-09T06:00:14+00:00</updated>
+		<title>Tecmint: Linux Howtos, Tutorials &amp; Guides » Linux Commands</title></source>
+
+	<category term="linux commands"/>
+
+	<category term="linux tricks"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-04:/338098</id>
+	<link href="http://www.tecmint.com/find-open-ports-in-linux/" rel="alternate" type="text/html"/>
+	<title type="html">How to Find Out List of All Open Ports in Linux</title>
+	<summary type="html"><![CDATA[<p>In this article, we will briefly talk about ports in computer networking and move to how you can lis...</p>]]></summary>
+	<content type="html"><![CDATA[<p>In this article, we will briefly talk about ports in computer networking and move to how you can list all open ports in Linux. In computer networking, and more definitely in software terms, a...</p>]]></content>
+	<updated>2016-11-04T04:56:13+00:00</updated>
+	<author><name>Aaron Kili</name></author>
+	<source>
+		<id>https://www.tecmint.com</id>
+		<link rel="self" href="https://www.tecmint.com"/>
+		<updated>2016-11-04T04:56:13+00:00</updated>
+		<title>Tecmint: Linux Howtos, Tutorials &amp; Guides » Linux Commands</title></source>
+
+	<category term="linux commands"/>
+
+	<category term="linux tricks"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-03:/338043</id>
+	<link href="https://www.linux.com/news/aws-launches-linux-container-image-premise" rel="alternate" type="text/html"/>
+	<title type="html">AWS Launches Linux Container Image for On-Premise</title>
+	<summary type="html"><![CDATA[<p>AWS has launched a new Linux Container Image in response to customer demand, designed for use with c...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>AWS has launched a new Linux Container Image in response to customer demand, designed for use with cloud and on-premise workloads.</p>
+<p>Linux AMI is a secure environment for firing up applications running on EC2, but due to customer demand, AWS has now made the image available for on-premise as well as cloud infrastructures, addressing more businesses' needs.</p>
+<p>"Many of our customers have asked us to make this Linux image available for use on-premises, often as part of their development and testing workloads," Jeff Barr, chief evangelist for AWS, said.</p></div></div></div>]]></content>
+	<updated>2016-11-03T08:00:00+00:00</updated>
+	<author><name>Cloud Pro</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-11-03T08:00:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-11-01:/337021</id>
+	<link href="https://linux-audit.com/understanding-memory-information-on-linux-systems/" rel="alternate" type="text/html"/>
+	<title type="html">Understanding memory information on Linux systems</title>
+	<summary type="html"><![CDATA[<p>Understanding Linux memory information Every operating system needs memory to store program code seg...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Understanding Linux memory information Every operating system needs memory to store program code segments and data. This is also true for Linux systems. The problem:&nbsp;there is a lot of information available regarding memory usage and its behavior. Let&rsquo;s discover how Linux manages its memory and how we can gather memory information. Great for troubleshooting, but also to learn more about the inner workings of our system. Random access memory When we talk about memory in this article, we usually mean [...]</p>
+<p>The post <a rel="noopener noreferrer" href="https://linux-audit.com/understanding-memory-information-on-linux-systems/" target="_blank">Understanding memory information on Linux systems</a> appeared first on <a rel="noopener noreferrer" href="https://linux-audit.com" target="_blank">Linux Audit</a>.</p>]]></content>
+	<updated>2016-10-31T16:54:32+00:00</updated>
+	<author><name>Michael Boelen</name></author>
+	<source>
+		<id>https://linux-audit.com</id>
+		<link rel="self" href="https://linux-audit.com"/>
+		<updated>2016-10-31T16:54:32+00:00</updated>
+		<title>Linux Audit</title></source>
+
+	<category term="linux"/>
+
+	<category term="guide"/>
+
+	<category term="memory"/>
+
+	<category term="ram"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2016-10-31:/336843</id>
@@ -1017,173 +1183,6 @@ World Standards Day</a> on October 14.  "<span>Whether in the world of software,
 		type="image/generic" 
 		length="1"
 		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/migratingbir.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-30:/424286</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-08/dnal-aia082917.php" rel="alternate" type="text/html"/>
-	<title type="html">Artificial intelligence analyzes gravitational lenses 10 million times faster</title>
-	<summary type="html"><![CDATA[<p>(DOE/SLAC National Accelerator Laboratory) Researchers from the Department of Energy's SLAC National...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>DOE/SLAC National Accelerator Laboratory</i>) Researchers from the Department of Energy's SLAC National Accelerator Laboratory and Stanford University have for the first time shown that neural networks -- a form of artificial intelligence -- can accurately analyze the complex distortions in spacetime known as gravitational lenses 10 million times faster than traditional methods.</p>]]></content>
-	<updated>2017-08-30T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-08-30T04:00:00+00:00</updated>
-		<title>EurekAlert! - Space and Planetary Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-05:/435759</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171005141754.htm" rel="alternate" type="text/html"/>
-	<title type="html">Better genetic decoding of neurodevelopmental disorders</title>
-	<summary type="html"><![CDATA[<p>New research into improving the genetic decoding of neurodevelopmental disorders promises to help fu...</p>]]></summary>
-	<content type="html"><![CDATA[<p>New research into improving the genetic decoding of neurodevelopmental disorders promises to help future diagnosis of children with such conditions, including intellectual disability, autism or schizophrenia.</p>]]></content>
-	<updated>2017-10-05T18:17:54+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-05T18:17:54+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-05:/425578</id>
-	<link href="https://www.sciencedaily.com/releases/2017/09/170904181720.htm" rel="alternate" type="text/html"/>
-	<title type="html">Scientists discover brain area which can be targeted for treatment in patients with schizophrenia who 'hear voices'</title>
-	<summary type="html"><![CDATA[<p>For the first time, scientists have precisely identified and targeted an area of the brain which is ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>For the first time, scientists have precisely identified and targeted an area of the brain which is involved in 'hearing voices,' experienced by many patients with schizophrenia. They have been able to show in a controlled trial that targeting this area with magnetic pulses can improve the condition in some patients.</p>]]></content>
-	<updated>2017-09-04T22:17:20+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-09-04T22:17:20+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-14:/428641</id>
-	<link href="https://www.sciencedaily.com/releases/2017/09/170913193005.htm" rel="alternate" type="text/html"/>
-	<title type="html">New gravity map suggests Mars has a porous crust</title>
-	<summary type="html"><![CDATA[<p>Scientists have found evidence that Mars' crust is not as dense as previously thought, a clue that c...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Scientists have found evidence that Mars' crust is not as dense as previously thought, a clue that could help researchers better understand the Red Planet's interior structure and evolution.</p>]]></content>
-	<updated>2017-09-13T23:30:05+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-09-13T23:30:05+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/09/170913193005-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-16:/429334</id>
-	<link href="https://www.livescience.com/50326-what-is-ultraviolet-light.html" rel="alternate" type="text/html"/>
-	<title type="html">What Is Ultraviolet Light?</title>
-	<summary type="html"><![CDATA[<p>Ultraviolet light is a type of electromagnetic radiation. These high-frequency waves can damage livi...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Ultraviolet light is a type of electromagnetic radiation. These high-frequency waves can damage living tissue.</p>]]></content>
-	<updated>2017-09-15T09:27:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.livescience.com</id>
-		<link rel="self" href="https://www.livescience.com"/>
-		<updated>2017-09-15T09:27:00+00:00</updated>
-		<title>LiveScience.com</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="https://img.purch.com/rc/160x100/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA1MC81NzUvb3JpZ2luYWwvMDcwODA2X3Rhbm5pbmdfMDIuanBn"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-21:/431284</id>
-	<link href="https://phys.org/news/2017-09-gravitational-oscillate-neutrinos.html" rel="alternate" type="text/html"/>
-	<title type="html">Gravitational waves may oscillate, just like neutrinos</title>
-	<summary type="html"><![CDATA[<p>(Phys.org)&mdash;Using data from the first-ever gravitational waves detected last year, along with a theor...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(Phys.org)&mdash;Using data from the first-ever gravitational waves detected last year, along with a theoretical analysis, physicists have shown that gravitational waves may oscillate between two different forms called "g" and "f"-type gravitational waves. The physicists explain that this phenomenon is analogous to the way that neutrinos oscillate between three distinct flavors&mdash;electron, muon, and tau. The oscillating gravitational waves arise in a modified theory of gravity called bimetric gravity, or "bigravity," and the physicists show that the oscillations may be detectable in future experiments.</p>]]></content>
-	<updated>2017-09-21T13:30:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-09-21T13:30:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="general physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/oscillations.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-27:/433106</id>
-	<link href="https://phys.org/news/2017-09-ligo-virgo-observatories-black-hole.html" rel="alternate" type="text/html"/>
-	<title type="html">LIGO and Virgo observatories detect gravitational wave signals from black hole collision</title>
-	<summary type="html"><![CDATA[<p>In August, detectors on two continents recorded gravitational wave signals from a pair of black hole...</p>]]></summary>
-	<content type="html"><![CDATA[<p>In August, detectors on two continents recorded gravitational wave signals from a pair of black holes colliding. This discovery, announced today, is the first observation of gravitational waves by three different detectors, marking a new era of greater insights and improved localization of cosmic events now available through globally networked gravitational-wave observatories.</p>]]></content>
-	<updated>2017-09-27T16:30:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-09-27T16:30:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="astronomy"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/ligoandvirgo.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-04:/434781</id>
-	<link href="https://phys.org/news/2017-10-gravitational-won-nobel.html" rel="alternate" type="text/html"/>
-	<title type="html">Explainer: Why gravitational wave researchers won a Nobel</title>
-	<summary type="html"><![CDATA[<p>Three U.S.-based astrophysicists won the Nobel prize in physics Tuesday for their discovery of gravi...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Three U.S.-based astrophysicists won the Nobel prize in physics Tuesday for their discovery of gravitational waves, a phenomenon Albert Einstein predicted a century ago in his theory of general relativity. Here's what their discovery means and why they won the prize worth $1.1 million (9 million kronor).</p>]]></content>
-	<updated>2017-10-03T19:40:02+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-03T19:40:02+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="general physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-apexplainswh.jpg"/>
 
 </entry>
 
