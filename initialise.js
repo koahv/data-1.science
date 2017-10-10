@@ -3,6 +3,10 @@ $(document).ready( function () {
 	"dom": 'C<"clear">lfrtip',
         "order": [[ 0, "desc" ]],
         "pageLength": 100,
+	ajax:           '/api/data',
+	scrollY:        200,
+	deferRender:    true,
+	scroller:       true
     } );
 } );
 
