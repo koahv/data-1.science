@@ -4,11 +4,311 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-05-18T01:00:01+00:00</updated>
+<updated>2017-10-03T19:40:02+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2016-10-31:/336843</id>
+	<link href="https://www.linux.com/news/introduction-linux-filesystems-0" rel="alternate" type="text/html"/>
+	<title type="html">An Introduction to Linux Filesystems</title>
+	<summary type="html"><![CDATA[<p>This article is intended to be a very high-level discussion of Linux filesystem concepts. It is not ...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>This article is intended to be a very high-level discussion of Linux filesystem concepts. It is not intended to be a low-level description of how a particular filesystem type, such as EXT4, works, nor is it intended to be a tutorial of filesystem commands.</p></div></div></div>]]></content>
+	<updated>2016-10-31T08:00:00+00:00</updated>
+	<author><name>OpenSource.com</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-10-31T08:00:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-27:/335917</id>
+	<link href="http://www.phoronix.com/vr.php?view=23675" rel="alternate" type="text/html"/>
+	<title type="html">Power Consumption &amp; Efficiency Of The Linux Kernel For The Last Three Years</title>
+	<summary type="html"><![CDATA[<p>Earlier this week I published Linux 3.9 through Linux 4.9 kernel benchmarks looking at the raw perfo...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Earlier this week I published Linux 3.9 through Linux 4.9 kernel benchmarks looking at the raw performance of various subsystems when testing each of the major kernel releases as far back as this Core i7 Haswell system was supported. From that same system, today is a look at testing the kernels going back to Linux 3.11 when Haswell graphics support was first in good shape for this Core i7 4790K box while looking at the raw power consumption and performance-per-Watt for these 19 major kernel releases.</p>]]></content>
+	<updated>2016-10-27T13:43:55+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2016-10-27T13:43:55+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-26:/335504</id>
+	<link href="https://www.linux.com/news/open-source-operating-systems-iot" rel="alternate" type="text/html"/>
+	<title type="html">Open Source Operating Systems for IoT</title>
+	<summary type="html"><![CDATA[<p>Over the past decade, the majority of new open source OS projects have shifted from the mobile marke...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><span><span>Over the past decade, the majority of new open source OS projects have shifted from the mobile market to the Internet of Things. In this fifth article in our IoT series, we look at the many new open source operating systems that target IoT.</span></span></p></div></div></div>]]></content>
+	<updated>2016-10-26T15:00:24+00:00</updated>
+	<author><name>ericstephenbrown</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-10-26T15:00:24+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-26:/335480</id>
+	<link href="https://www.redhat.com/en/about/press-releases/red-hat-achieves-common-criteria-security-certification-red-hat-enterprise-linux-7" rel="alternate" type="text/html"/>
+	<title type="html">Red Hat Achieves Common Criteria Security Certification for Red Hat Enterprise Linux 7</title>
+	<summary type="html"><![CDATA[<p>Red Hat Enterprise Linux 7.1 has received Red Hat&rsquo;s 16th Common Criteria certification and becomes t...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Red Hat Enterprise Linux 7.1 has received Red Hat&rsquo;s 16th Common Criteria certification and becomes the first operating system to be certified with support for Linux container technology.</p>]]></content>
+	<updated>2016-10-26T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.redhat.com/en/rss/press-releases</id>
+		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
+		<updated>2016-10-26T04:00:00+00:00</updated>
+		<title>Red Hat Press Releases</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-26:/335372</id>
+	<link href="http://www.tecmint.com/check-linux-hard-disk-bad-sectors-bad-blocks/" rel="alternate" type="text/html"/>
+	<title type="html">How to Check Bad Sectors or Bad Blocks on Hard Disk in Linux</title>
+	<summary type="html"><![CDATA[<p>Let us start by defining a bad sector/block, it&rsquo;s a section on a disk drive or flash memory th...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Let us start by defining a bad sector/block, it&rsquo;s a section on a disk drive or flash memory that can not be read from or written to anymore, as a result of a fixed...</p>]]></content>
+	<updated>2016-10-26T06:53:13+00:00</updated>
+	<author><name>Aaron Kili</name></author>
+	<source>
+		<id>https://www.tecmint.com</id>
+		<link rel="self" href="https://www.tecmint.com"/>
+		<updated>2016-10-26T06:53:13+00:00</updated>
+		<title>Tecmint: Linux Howtos, Tutorials &amp; Guides » Linux Commands</title></source>
+
+	<category term="linux commands"/>
+
+	<category term="linux tricks"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-25:/335108</id>
+	<link href="http://www.phoronix.com/vr.php?view=23672" rel="alternate" type="text/html"/>
+	<title type="html">Linux 3.9 To Linux 4.9 Kernel Benchmarks: Testing The 21 Last Kernels</title>
+	<summary type="html"><![CDATA[<p>With the in-development Linux 4.9 kernel showing signs of some performance improvements, I've gone a...</p>]]></summary>
+	<content type="html"><![CDATA[<p>With the in-development Linux 4.9 kernel showing signs of some performance improvements, I've gone ahead and tested the last 21 major kernel releases on the same system. From Linux 3.9 to Linux 4.9, each of the major kernel releases was tested from the same Intel Core i7 desktop with a variety of benchmarks.</p>]]></content>
+	<updated>2016-10-25T13:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2016-10-25T13:00:00+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-24:/334883</id>
+	<link href="https://www.linux.com/news/where-find-worlds-best-programmers" rel="alternate" type="text/html"/>
+	<title type="html">Where to Find the World's Best Programmers</title>
+	<summary type="html"><![CDATA[<p>So which countries produce the best coders is an interesting question to ask. Perhaps more important...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>So which countries produce the best coders is an interesting question to ask. Perhaps more importantly why do some countries lead the way?</p></div></div></div>]]></content>
+	<updated>2016-10-24T09:20:00+00:00</updated>
+	<author><name>Network World</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-10-24T09:20:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-14:/332422</id>
+	<link href="http://lwn.net/Articles/703630/rss" rel="alternate" type="text/html"/>
+	<title type="html">Celebrating open standards around the world</title>
+	<summary type="html"><![CDATA[<p>Opensource.com celebrates
+World Standards Day on October 14.  "Whether in the world of softwa...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Opensource.com <a href="https://opensource.com/life/16/10/celebrating-open-standards-around-world" rel="noopener noreferrer" target="_blank">celebrates
+World Standards Day</a> on October 14.  "<span>Whether in the world of software, where without standards we would have been unable to connect the world through the Internet and the World Wide Web, or the physical world, where standards make nearly everything you buy easier, more useful, and safer, the world would be a difficult place to navigate without standards. And critical to the useful of standards is making them available to all in an accessible, free format, unencumbered by legal or other hurdles.</span>"</p>]]></content>
+	<updated>2016-10-14T19:04:13+00:00</updated>
+	<author><name>ris</name></author>
+	<source>
+		<id>https://lwn.net</id>
+		<link rel="self" href="https://lwn.net"/>
+		<updated>2016-10-14T19:04:13+00:00</updated>
+		<title>LWN.net</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436880</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171009154946.htm" rel="alternate" type="text/html"/>
+	<title type="html">Human brain recalls visual features in reverse order than it detects them</title>
+	<summary type="html"><![CDATA[<p>New research has contributed to solving a paradox of perception, literally upending models of how th...</p>]]></summary>
+	<content type="html"><![CDATA[<p>New research has contributed to solving a paradox of perception, literally upending models of how the brain constructs interpretations of the outside world. When observing a scene, the brain first processes details -- spots, lines and simple shapes -- and uses that information to build internal representations of more complex objects, like cars and people. But during recall, the brain remembers those larger concepts first. This could shed light on concepts such as eyewitness testimony to autism.</p>]]></content>
+	<updated>2017-10-09T19:49:46+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-09T19:49:46+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171009154946-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436883</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171009123906.htm" rel="alternate" type="text/html"/>
+	<title type="html">Novel treatment causes cancer to self-destruct without affecting healthy cells</title>
+	<summary type="html"><![CDATA[<p>Scientists have discovered the first compound that directly makes cancer cells commit suicide while ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Scientists have discovered the first compound that directly makes cancer cells commit suicide while sparing healthy cells. The new treatment approach, described in today&rsquo;s issue of Cancer Cell, was directed against acute myeloid leukemia (AML) cells but may also have potential for attacking other types of cancers.</p>]]></content>
+	<updated>2017-10-09T16:39:06+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-09T16:39:06+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171009123906-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436813</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171009093207.htm" rel="alternate" type="text/html"/>
+	<title type="html">Molecular basis for memory and learning: Brain development and plasticity share similar signalling pathways</title>
+	<summary type="html"><![CDATA[<p>Learning and memory are two important functions of the brain that are based on the brain&rsquo;s plasticit...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Learning and memory are two important functions of the brain that are based on the brain&rsquo;s plasticity. Scientists now report on how a trio of key molecules directs these processes. Their findings provide new leads for the therapy of Alzheimer&rsquo;s disease.</p>]]></content>
+	<updated>2017-10-09T13:32:07+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-09T13:32:07+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436820</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/sfn-wob100517.php" rel="alternate" type="text/html"/>
+	<title type="html">Watch out! Brain network calculates impact of approaching object</title>
+	<summary type="html"><![CDATA[<p>(Society for Neuroscience) A neuroimaging study of two monkeys published in JNeurosci identifies a b...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Society for Neuroscience</i>) A neuroimaging study of two monkeys published in JNeurosci identifies a brain network that tracks the location of an object approaching the face and anticipates its potential consequences upon making contact with the body.</p>]]></content>
+	<updated>2017-10-09T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-09T04:00:00+00:00</updated>
+		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436694</id>
+	<link href="https://phys.org/news/2017-10-nanoparticles-wounds.html" rel="alternate" type="text/html"/>
+	<title type="html">Nanoparticles that stick wounds together</title>
+	<summary type="html"><![CDATA[<p>In spite of medical advances, wound-related complications arising after operations can still be life...</p>]]></summary>
+	<content type="html"><![CDATA[<p>In spite of medical advances, wound-related complications arising after operations can still be life-threatening. In order to avoid these complications in the future, a new nanoparticle-based tissue glue has been developed by researchers at Empa.</p>]]></content>
+	<updated>2017-10-09T12:40:06+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-09T12:40:06+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="bio &amp; medicine"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-2-nanoparticle.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436723</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171009084357.htm" rel="alternate" type="text/html"/>
+	<title type="html">How brain cells die in Alzheimer's and FTD</title>
+	<summary type="html"><![CDATA[<p>Removal of a regulatory gene called LSD1 in adult mice induces changes in gene activity that that lo...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Removal of a regulatory gene called LSD1 in adult mice induces changes in gene activity that that look unexpectedly like Alzheimer's. Another surprise: LSD1 is tangled up in brain samples from humans with Alzheimer's and frontotemporal dementia (FTD), suggesting LSD1 as a central downstream player in these diseases and a drug target.</p>]]></content>
+	<updated>2017-10-09T12:43:57+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-09T12:43:57+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171009084357-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436709</id>
+	<link href="https://www.pddnet.com/news/2017/10/osha-others-create-new-industrial-robotics-standards-body" rel="alternate" type="text/html"/>
+	<title type="html">OSHA, Others Create New Industrial Robotics Standards Body</title>
+	<summary type="html"><![CDATA[<p>NewsOSHA and the National Institute for Occupational Safety and Health (NIOSH) have partnered with t...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div>News</div></div></div><div><div><div>OSHA and the National Institute for Occupational Safety and Health (NIOSH) have partnered with the Robotic Industries Association (RIA) to set standards for industrial robotics. Called the OSHA/NIOSH/RIA Alliance and announced on Oct. 6...</div></div></div><div><div><div><a href="http://localhost/news/2017/10/osha-others-create-new-industrial-robotics-standards-body" rel="noopener noreferrer" target="_blank"><img typeof="foaf:Image" src="https://abm-website-assets.s3.amazonaws.com/pddnet.com/s3fs-public/styles/wide_thumb/public/featured_image/2017/10/Industrial%20Robot.jpg?itok=CIkCunO5"></a></div></div></div><div><div>Staff Author:&nbsp;</div><div><div><a href="http://localhost/staff-author/megan-crouse-0" rel="noopener noreferrer" target="_blank">Megan Crouse</a></div></div></div><div><div>Topics:&nbsp;</div><div><div><a href="http://localhost/topics/robotics" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" rel="noopener noreferrer" target="_blank">Robotics</a></div></div></div>]]></content>
+	<updated>2017-10-06T14:05:34+00:00</updated>
+	<author><name>mcrouse</name></author>
+	<source>
+		<id>https://www.pddnet.com/rss-feeds/all/rss.xml/all</id>
+		<link rel="self" href="https://www.pddnet.com/rss-feeds/all/rss.xml/all"/>
+		<updated>2017-10-06T14:05:34+00:00</updated>
+		<title>Product Design &amp; Development All</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436747</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/du-bst100517.php" rel="alternate" type="text/html"/>
+	<title type="html">Bacteria self-organize to build working sensors</title>
+	<summary type="html"><![CDATA[<p>(Duke University) By programming bacteria with a synthetic gene circuit that can recruit gold nanopa...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Duke University</i>) By programming bacteria with a synthetic gene circuit that can recruit gold nanoparticles to the surface of their colony, Duke researchers can build functional devices. A proof-of-concept study appearing in Nature Biotechnology uses this technique to build dome-shaped pressure sensors with the help of living bacteria.</p>]]></content>
+	<updated>2017-10-09T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-09T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2016-10-20:/334083</id>
@@ -884,478 +1184,6 @@
 		type="image/generic" 
 		length="1"
 		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-apexplainswh.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-06:/436076</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171006085919.htm" rel="alternate" type="text/html"/>
-	<title type="html">Engineers invent breakthrough millimeter-wave circulator IC</title>
-	<summary type="html"><![CDATA[<p>Researchers continue to break new ground in developing magnet-free non-reciprocal components in mode...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Researchers continue to break new ground in developing magnet-free non-reciprocal components in modern semiconductor processes. They have built the first magnet-free non-reciprocal circulator on a silicon chip that operates at millimeter-wave frequencies, enabling circulators to be built in conventional semiconductor chips and operate at millimeter-wave frequencies, enabling full-duplex or two-way wireless.</p>]]></content>
-	<updated>2017-10-06T12:59:19+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-06T12:59:19+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171006085919-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-06:/436217</id>
-	<link href="https://phys.org/news/2017-10-physicists-next-generation-mri-brain-scanner.html" rel="alternate" type="text/html"/>
-	<title type="html">Physicists, engineers to build next-generation MRI brain scanner</title>
-	<summary type="html"><![CDATA[<p>Functional magnetic resonance imaging, or fMRI, has transformed our view of the brain, allowing rese...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Functional magnetic resonance imaging, or fMRI, has transformed our view of the brain, allowing researchers to pinpoint areas associated with everything from depression and dementia to playing chess and engaging in sex.</p>]]></content>
-	<updated>2017-10-06T20:00:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-06T20:00:55+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="general physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/ucberkeleyph.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-03:/406460</id>
-	<link href="https://www.sciencedaily.com/releases/2017/07/170703083231.htm" rel="alternate" type="text/html"/>
-	<title type="html">Jupiter: Atmosphere and aurora in unprecedented detail</title>
-	<summary type="html"><![CDATA[<p>Subaru Telescope images reveal weather in Jupiter's atmosphere in the mid-infrared. High-resolution ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Subaru Telescope images reveal weather in Jupiter's atmosphere in the mid-infrared. High-resolution thermal imaging of Jupiter is providing information that extends and enhances the information that the Juno mission is gathering in its unprecedented mission to probe that planet's interior and deep atmospheric structure together with details of the magnetosphere and its auroral interactions with the planet.</p>]]></content>
-	<updated>2017-07-03T12:32:31+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-07-03T12:32:31+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/07/170703083231-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-29:/405696</id>
-	<link href="http://www.skyandtelescope.com/astronomy-blogs/astronomy-space-david-dickinson/nasa-eyes-ice-giant-missions-in-2030s/" rel="alternate" type="text/html"/>
-	<title type="html">NASA Eyes “Ice Giant” Missions in the 2030s</title>
-	<summary type="html"><![CDATA[<p>A recent NASA study outlines possible dedicated missions to the "ice giant' planets Uranus and Neptu...</p>]]></summary>
-	<content type="html"><![CDATA[<p><span><strong><em>A recent NASA study outlines possible dedicated missions to the "ice giant' planets Uranus and Neptune.</em></strong></span></p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Uranus_Neptune_Voyager2.jpg" alt="Uranus and Neptune as seen by Voyager 2" width="341" height="192" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Uranus_Neptune_Voyager2.jpg 341w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/Uranus_Neptune_Voyager2-300x168.jpg 300w" sizes="(max-width: 341px) 100vw, 341px"><p>The outer solar system's "twin" planets looked very different when visited by Voyager 2 during the 1980s. Uranus, spinning on its side, had a nearly featureless disk. But Neptune displayed numerous bright and dark cloud patterns, including a hurricane-like featured dubbed the Great Dark Spot.</p></div>
-<p>In 2003, NASA's Galileo mission came to an end by plunging into the atmosphere of Jupiter. Later this year, Cassini will follow suit, ending a decade and a half exploring Saturn and its moons. What's next for planetary exploration? Some researchers are pushing the next logical step:<a href="https://www.jpl.nasa.gov/news/news.php?feature=6877" rel="noopener noreferrer" target="_blank"> dedicated orbiters</a> for either or both of the "ice giant" outer planets, Uranus and Neptune.</p>
-<p>NASA recently <a href="http://www.lpi.usra.edu/icegiants/mission_study/Exec-Summary.pdf" rel="noopener noreferrer" target="_blank">released a study</a> outlining just how such a mission (or missions) might unfold. The study is part of a lead up to the next Decadal Survey for 2022&ndash;32, a time when planetary scientists prioritize their wish list of future missions. The <a href="http://www.skyandtelescope.com/astronomy-news/game-plan-for-nasas-planetary-missions" rel="noopener noreferrer" target="_blank">last Decadal Survey,</a> published by the National Research Council's Space Studies Board, covered opportunities from 2013 through 2022 and offered detailed development studies for the <a href="http://www.skyandtelescope.com/astronomy-news/nasa-narrows-down-mars-2020-rover-landing-sites/" rel="noopener noreferrer" target="_blank">Mars 2020 rover</a> and Europa Clipper missions, though a dedicated Uranus orbiter was in the running as a distant third possibility.</p>
-<p>"This study was one of many that will be performed to support the upcoming Decadal Survey deliberations," says Curt Niebur (NASA-HQ). "Once [the next Decadal Survey] is received by NASA, which should occur in 2022, NASA will begin considering which priorities it will pursue and how it will go about implementing them."</p>
-<p>To date, only one spacecraft has visited the two outermost planets during its "grand tour" of the outer solar system: <a href="https://en.wikipedia.org/wiki/Voyager_2" rel="noopener noreferrer" target="_blank">Voyager 2</a>, which flew past Uranus in 1986 and Neptune in 1989. But those visits were fleeting, giving planetary scientists brief glimpses of these distant worlds and moons as Voyager 2 headed out of the solar system. An Ice Giant Orbiter would, like Cassini, hang out and explore Uranus or Neptune long term.</p>
-<h3>Road Trip to the Outer Solar System</h3>
-<p>But it'll be a long haul, for sure. The problem with outer solar system exploration is, you want a spacecraft moving fast enough to reach its intended destination in a decade or so &mdash; but too much speed makes slowing down to enter orbit out of the question. New Horizons was a good case in point, as it took over 9 years to reach Pluto and Charon, whizzing by at 13.8 km per second, with only a hectic flyby period of exploration possible.</p>
-<p>Instead, the mission to either Neptune or Uranus would launch in the 2030&mdash;31 time frame, taking 12 to 13 years to reach its target. The study calls for a 50-kg kilogram payload with three main instruments and an atmospheric probe similar to the one Galileo delivered to Jupiter. An "Ice Giant Orbiter" would utilize either traditional chemical propulsion on a slingshot trajectory, or perhaps a new solar-electric propulsion (SEP) system currently in development. Similar to the thrusters aboard NASA's Dawn mission, SEP propulsion offers the ability to maintain low thrust over long periods to build up speed.</p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Untitled-2.jpg" alt="uranus orbiter" width="1236" height="1272" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Untitled-2.jpg 1236w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/Untitled-2-185x190.jpg 185w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/Untitled-2-768x790.jpg 768w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/Untitled-2-350x360.jpg 350w" sizes="(max-width: 1236px) 100vw, 1236px"><p>A possible configuration for a Uranus orbiter and a ride-along atmospheric probe. The ASRG generators on the orbiter's fuselage are no longer being considered. <br><em>NASA / JHU-APL</em></p></div>
-<p>The study notes that an optimal window for a Uranus mission using a gravitational flyby assist of Jupiter exists in 2030 to 2034, while the same window for a Neptune mission runs from 2029 to 2030. Getting an orbiter to Uranus via an assist from Saturn could be carried out prior to 2028.</p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Uranus-mission-600-px.jpg" alt="Uranus Pathfinder" width="600" height="320" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Uranus-mission-600-px.jpg 600w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/Uranus-mission-600-px-300x160.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"><p>An early possible trajectory study for a Uranus Pathfinder mission, utilizing a Saturn flyby.<br><em>NASA/ CSA</em></p></div>
-<p>An Ice Giant Orbiter would be a $2 billion "Flagship mission, the top end of what NASA flies for planetary exploration. Other Flagship alumni included <a href="http://www.skyandtelescope.com/astronomy-blogs/cassini-survives-first-grand-finale-dive/" rel="noopener noreferrer" target="_blank">Cassini</a> and the Mars rover Curiosity. Other classes of NASA missions include mid-range ($500 million to $1 billion) New Frontiers missions such as Juno and OSIRIS-Rex and less-than-$500-million Discovery missions such as Lunar Prospector or Mercury's Messenger.</p>
-<p>Scientists proposed a dedicated return to Uranus and Neptune early in the development of New Horizons. Such a &ldquo;New Horizons 2&rdquo; mission would've been a clone of the original, but it was later dropped from the program due to cost constraints.</p>
-<p>Prime objectives for either mission would include a study of the planet's atmosphere, interior, and ring system as well as a survey of major moons and a hunt for more. Neptune's large, strange retrograde moon Triton is of particular interest, as researchers believe it's a captured Kuiper Belt object (KBO). At a minimum, an Ice Giant Orbiter mission would carry a mass spectrometer, wide and narrow angle cameras, a magnetometer and dust sensors.</p>
-<div><a href="http://wwwcdn.skyandtelescope.com/wp-content/uploads/uranus_2_0.jpg" rel="noopener noreferrer" target="_blank"><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/uranus_2_0-426x360.jpg" alt="Hubble aurora" width="426" height="360" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/uranus_2_0-426x360.jpg 426w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/uranus_2_0-225x190.jpg 225w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/uranus_2_0.jpg 740w" sizes="(max-width: 426px) 100vw, 426px"></a><p>The Hubble Space Telescope spied aurora (white patches) on Uranus in November 2011. The thin rings are a composite of Voyager 2 images.<br> <em>NASA / Hubble / ESA</em></p></div>
-<p>Uranus in particular would offer a challenging target, as the planet rotates tipped on one side. When Voyager 2 flew past Uranus in 1986, its southern hemisphere was in the middle of a 21-year-long summer and its northern latitudes lay hidden in shadow. A future spacecraft would arrive with the seasons reversed.</p>
-<p>"The quick look we got from the Voyager 2 flybys of Uranus and Neptune taught us many things, but critical mysteries remain," says Mark Hofstadter (NASA/JPL). Compared to rocky terrestrial worlds or gas giants, ice-laden planets seem to be in a class by themselves. "Another important thing about Uranus and Neptune is that they seem similar to most of the exoplanets we are discovering around other stars," Hofstadter says. "To understand those distant planetary systems, we need to understand two examples that we can actually visit."</p>
-<p>Planetary missions can provide a wealth of science discoveries for decades to come. For example, Georgia Institute of Technology researchers recently announced the magnetosphere of Uranus&nbsp;<a href="http://www.news.gatech.edu/2017/06/26/topsy-turvy-motion-creates-light-switch-effect-uranus" rel="noopener noreferrer" target="_blank">behaves like a light switch</a> &mdash; a discovery that utilized Voyager 2 data gathered more than three decades ago.</p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/download-9.jpg" alt="NASA New Horizons" width="3008" height="2000" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/download-9.jpg 3008w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/download-9-286x190.jpg 286w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/download-9-768x511.jpg 768w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/download-9-541x360.jpg 541w" sizes="(max-width: 3008px) 100vw, 3008px"><p>New Horizons in the lab. Its plutonium-powered RTG (Radioisotope Thermoelectric Generator) is the black finned object protruding from the spacecraft to the left. <br><em>NASA/KSC</em></p></div>
-<p>As with every outer solar system mission to Saturn and beyond, an Ice Giant Orbiter would be equipped with a plutonium-fueled Multi-Mission Radioisotope Thermoelectric Generator (<a href="https://www.nasa.gov/sites/default/files/files/4_Mars_2020_MMRTG.pdf" target="_blank" rel="noopener noreferrer">MMRTG</a>) for power far from the Sun. NASA and the U.S. Department of Energy announced in 2016 that the latter would <a href="https://www.universetoday.com/100875/u-s-to-restart-plutonium-production-for-deep-space-exploration/" rel="noopener noreferrer" target="_blank">restart the production of Pu-238</a> (a different isotope than the fissile Pu-239 used in nuclear weapons) for space exploration, and this exotic cache should be available in the 2020s for space exploration. NASA also <a href="https://www.universetoday.com/106604/nasa-halts-work-on-its-new-nuclear-generator-for-deep-space-exploration/" rel="noopener noreferrer" target="_blank">elected to halt development</a> of an Advanced Stirling Radioisotope Generator (ASRG) engine in 2013, which would've been four times as efficient as traditional RTGs. That tough decision was due to budget cuts, though the study anticipates enhanced eMMRTGs and a Heatshield for Extreme Entry and Environment Technology (HEEET) to be available for an ice-giant mission in the late 2020s.</p>
-<p>This idea comes at an exciting time of crisis and opportunity for NASA and solar system exploration. On one hand, our eyes in the outer solar system are going dark, as Juno, Cassini, and Dawn all finish up their respective missions. NASA also seems to currently favor selecting smaller, low-cost missions such as Mars InSight, Lucy, and Psyche &mdash; perhaps in an effort to assure all of its &ldquo;eggs aren't in one basket,&rdquo; as opposed large expensive missions that might look attractive to the financial axe.</p>
-<p>And perhaps, long mission timelines extending out to the 2040s are a bit depressing to children of the Apollo era... weren't we supposed to be vacationing on Mars by 2017?</p>
-<p>Remarkably, interplanetary missions that could run through the midway point for this century are now under serious consideration.</p>
-<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-blogs/astronomy-space-david-dickinson/nasa-eyes-ice-giant-missions-in-2030s/" target="_blank">NASA Eyes &ldquo;Ice Giant&rdquo; Missions in the 2030s</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
-	<updated>2017-06-29T21:09:44+00:00</updated>
-	<author><name>David Dickinson</name></author>
-	<source>
-		<id>http://www.skyandtelescope.com</id>
-		<link rel="self" href="http://www.skyandtelescope.com"/>
-		<updated>2017-06-29T21:09:44+00:00</updated>
-		<title>Sky &amp; Telescope</title></source>
-
-	<category term="astronomy in space with david dickinson"/>
-
-	<category term="astronomy news"/>
-
-	<category term="solar system"/>
-
-	<category term="spacecraft and space missions"/>
-
-	<category term="ice giant mission"/>
-
-	<category term="nasa flagship mission"/>
-
-	<category term="nasa future"/>
-
-	<category term="neptune orbiter"/>
-
-	<category term="spc"/>
-
-	<category term="uranus exploration"/>
-
-	<category term="uranus orbiter"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-28:/405015</id>
-	<link href="http://www.skyandtelescope.com/2017-total-solar-eclipse/hows-whys-of-eclipses/" rel="alternate" type="text/html"/>
-	<title type="html">Hows &amp; Whys of Eclipses</title>
-	<summary type="html"><![CDATA[<p>Take 10 minutes with this article and become an eclipse expert for family and friends.
-Sure, you kno...</p>]]></summary>
-	<content type="html"><![CDATA[<p><span><em><strong>Take 10 minutes with this article and become an eclipse expert for family and friends.</strong></em></span></p>
-<p><span>Sure, you know the basic idea: A solar eclipse happens when the Moon passes between you and the Sun, hiding part or all of the Sun from view. It</span>&rsquo;<span>s weird, it</span>&rsquo;<span>s unearthly, and it scared the bejeezus out of our ancestors who didn</span>&rsquo;<span>t know what was going on. The stories they made up to explain eclipses were hair-raising. The drive to actually <i>understand</i> eclipses </span>&mdash; well enough to predict them! &mdash; <span>was one of the drivers of ancient astronomy, and thus one of the drivers for the whole idea of science itself.</span></p>
-<div><a href="http://wwwcdn.skyandtelescope.com/wp-content/uploads/eclipsediagram.jpg" rel="noopener noreferrer" target="_blank"><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/eclipsediagram.jpg" alt="" width="600" height="249" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/eclipsediagram.jpg 600w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/eclipsediagram-300x125.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"></a><p>When the Moon casts its shadow onto Earth, people on the ground see the Moon eclipsing the Sun. The shadow's umbra is the dark central part where the eclipse is total. In the penumbra the Moon covers only some of the Sun, for a partial eclipse. (Not to scale!) <br><em>Earth: Shutterstock / Fluidworkshop; </em>S&amp;T<em> Illustration: Patricia Gillis-Coppola</em></p></div>
-<p><span>One breakthrough was grasping the scene from another viewpoint: The Moon is a sunlit ball and casts a shadow, and we see an eclipse of the Sun when the Moon</span>&rsquo;<span>s shadow sweeps over us, like in the diagram above.</span></p>
-<p>But there&rsquo;s more to it than that &mdash; and if you want a fuller picture of what&rsquo;s going to occur on August 21st, read on.</p>
-<h3>Celestial Geometry</h3>
-<p>First off: The Moon orbits around Earth about once a month. This repeating journey brings the Moon close to our line of sight to the Sun at the time of<span>&nbsp; </span>&ldquo;new Moon.&rdquo; At that time the sunlit side of the Moon faces directly away from us; the Moon shows us only its darkened night side. And we can&rsquo;t <i>see</i> even that &mdash; because when the Moon is near our line of sight to the Sun, it&rsquo;s hidden in the Sun&rsquo;s dazzling glare in the bright blue daytime sky.</p>
-<p>Usually the Moon misses the Sun in these monthly near-lineups (for reasons I&rsquo;ll get to later). But about every six months on average, at least part of the new Moon crosses at least part of the Sun&rsquo;s face as seen from somewhere on Earth. Hence a solar eclipse.</p>
-<p>If the Moon crosses the Sun off center as seen from your location, you get only a <i>partial </i>solar eclipse, with the Moon&rsquo;s silhouette making what looks like a dent in the Sun&rsquo;s brilliant face. A deep partial eclipse, where the dent is big, turns the Sun into a dazzling crescent.</p>
-<p>But the really good stuff happens if the Moon crosses the Sun nearly dead center as seen from your location. Then you may get a <i>total </i>solar eclipse, blacking out the Sun completely for anything from a few seconds up to 7&frac12; minutes.</p>
-<p>A total eclipse also has partial-eclipse phases before and afterward. The partial phases take their time; the whole event usually runs about 3 hours from beginning to end.</p>
-<div><a href="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Stages-of-an-eclipse.jpg" rel="noopener noreferrer" target="_blank"><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Stages-of-an-eclipse.jpg" alt="" width="600" height="263" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Stages-of-an-eclipse.jpg 600w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/Stages-of-an-eclipse-300x132.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"></a><p>The stages of a solar eclipse, from partial to total to partial, begin and end when the edges of the Moon and Sun make contact with each other. This happens four times from start to finish. <br>S&amp;T <em>illustration: Leah Tiscione/Gregg Dinderman</em></p></div>
-<h3>What To Expect</h3>
-<p>A total eclipse is much more spectacular than a partial &mdash; not only because the sky and land get much darker, but especially because during totality we get a rare look at the Sun&rsquo;s intricate, feathery <i>corona:</i> its outermost atmosphere, made mostly of free electrons and protons that are trapped in the Sun&rsquo;s loopy, streaky magnetic field.</p>
-<p>The partial phase of a solar eclipse can be seen from a large swath of the world. On August 21st that includes all of North America, Central America, and the northern part of South America.</p>
-<div><a href="http://wwwcdn.skyandtelescope.com/wp-content/uploads/how-why-eclipse-earth-image.jpg" rel="noopener noreferrer" target="_blank"><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/how-why-eclipse-earth-image.jpg" alt="" width="600" height="373" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/how-why-eclipse-earth-image.jpg 600w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/how-why-eclipse-earth-image-300x187.jpg 300w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/how-why-eclipse-earth-image-579x360.jpg 579w" sizes="(max-width: 600px) 100vw, 600px"></a><p>Here's how the Moon's shadow looked as it crossed Earth during the total solar eclipse on March 9, 2016. The islands of Indonesia are at lower left.<br><em>JMA/SSEC/University of Wisconsin at Madison</em></p></div>
-<p>But totality is reserved for a much smaller area. The dark center of the Moon&rsquo;s shadow, the part where the Sun is completely blocked (the shadow&rsquo;s <i>umbra</i>) is never more than about 160 miles wide by the time it reaches Earth, usually less. On August 21st, the narrow shadow-patch of totality will sweep across the United States from the Pacific to the Atlantic. That&rsquo;s the part for which so many people are preparing to travel.</p>
-<h3>Your Eyes Are Worth Keeping</h3>
-<p><span>As you&rsquo;ve probably heard many times, staring at the Sun&rsquo;s dazzling surface, </span>even when only part of it is in view, can damage your eyes and leave a permanent blind spot in your vision. Never stare at the bright Sun, whether a partial eclipse is in progress or not.</p>
-<p>Instead, during the partial phases you need to look through a safe solar filter. One example is the kind that<span>&rsquo;</span>s made to go over the front of a telescope. For viewing just by eye, all of the inexpensive little &ldquo;eclipse glasses&rdquo; that we have tested do just fine.</p>
-<p>Or you can watch an image of the Sun as projected onto a piece of paper &mdash; using either a pinhole, which gives a very small, dim, crude image, or a pair of binoculars or a telescope, which project a much bigger, brighter, and sharper image onto paper.</p>
-<p>While the Sun is hidden during totality, no filter is needed!<span>&nbsp; &nbsp;</span></p>
-<h3>The Workings in 3D</h3>
-<p>So why don&rsquo;t we get a solar eclipse at <i>every</i> new Moon, you might ask? How does the Moon usually sneak by unseen?</p>
-<p>The answer is that the solar system is not perfectly flat. In particular, the orbits of the Moon and Earth do not lie in quite the same plane. If you drew Earth&rsquo;s orbit around the Sun on a flat sheet of paper, the Moon&rsquo;s orbit around Earth would be tilted 5&deg; out of the paper, floating a little above and below it except where the planes intersect. Eclipses happen only when both the Sun and Moon are close to this intersection, along what&rsquo;s called the <i>line of nodes</i>.</p>
-<p>A 5&deg; tilt might not seem like much. But it&rsquo;s 10 times the &frac12;&deg; width of the Sun as we see it in the sky. So, when new Moon happens somewhere other than at the line of nodes, the Moon has plenty of room to pass north or south of the Sun without crossing it. That&rsquo;s why solar eclipses are uncommon.</p>
-<h3>Eclipses of the Moon</h3>
-<div><a href="http://wwwcdn.skyandtelescope.com/wp-content/uploads/sunmoon.jpg" rel="noopener noreferrer" target="_blank"><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/sunmoon.jpg" alt="" width="300" height="353" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/sunmoon.jpg 600w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/sunmoon-161x190.jpg 161w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/sunmoon-306x360.jpg 306w" sizes="(max-width: 300px) 100vw, 300px"></a><p><em>Sky &amp; Telescope</em></p></div>
-<p>What about <i>lunar</i> eclipses? I haven&rsquo;t mentioned them yet. These happen whenever the Earth-Moon geometry is reversed: when the <i>Moon</i> passes through <i>Earth&rsquo;s</i> shadow. This is such a different kind of event that solar and lunar eclipses hardly both deserve to have the same name &ldquo;eclipse&rdquo;!</p>
-<p><span>Why not? With a lunar eclipse, </span>instead of something hiding something else as seen by you, you&rsquo;re just seeing the Moon get shaded. And, the Moon never goes completely dark. Think of covering the Sun in the sky with your hand, versus looking at your hand&rsquo;s shadow on the ground. Two different things.</p>
-<p>During a lunar eclipse, people on the entire side of the world facing the Moon all see the same thing happening to the Moon at once, just like friends around you can all see the shadow of your hand on the ground. But when you cover the Sun with your hand, the Sun disappears only for you, not for the people off to the side. That&rsquo;s part of what makes a total solar eclipse rare and special.</p>
-
-<p><em>This article originally appeared in&nbsp;</em>Sky &amp; Telescope<em>'s special <a href="http://www.shopatsky.com/sky-telescope-eclipse-2017-sip-dpskyecl17" rel="noopener noreferrer" target="_blank">America's 2017 Eclipse</a> issue.</em></p>
-<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/2017-total-solar-eclipse/hows-whys-of-eclipses/" target="_blank">Hows &amp; Whys of Eclipses</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
-	<updated>2017-06-28T14:36:36+00:00</updated>
-	<author><name>Alan MacRobert</name></author>
-	<source>
-		<id>http://www.skyandtelescope.com</id>
-		<link rel="self" href="http://www.skyandtelescope.com"/>
-		<updated>2017-06-28T14:36:36+00:00</updated>
-		<title>Sky &amp; Telescope</title></source>
-
-	<category term="sky &amp; telescope magazine"/>
-
-	<category term="the 2017 total solar eclipse"/>
-
-	<category term="solar eclipse 2017"/>
-
-	<category term="spc"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-28:/405018</id>
-	<link href="http://physicsworld.com/cws/article/news/2017/jun/28/nightmare-geometry-of-uranus-creates-tumbling-magnetosphere" rel="alternate" type="text/html"/>
-	<title type="html">'Nightmare' geometry of Uranus creates tumbling magnetosphere</title>
-	<summary type="html"><![CDATA[<p>The ice-giant's magnetosphere opens and closes on a daily basis</p>]]></summary>
-	<content type="html"><![CDATA[<p>The ice-giant's magnetosphere opens and closes on a daily basis<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/lwDiWQ8pwGU" height="1" width="1" alt=""></p>]]></content>
-	<updated>2017-06-28T13:10:49+00:00</updated>
-	<author><name>Sarah Tesh</name></author>
-	<source>
-		<id>http://physicsworld.com/</id>
-		<link rel="self" href="http://physicsworld.com/"/>
-		<updated>2017-06-28T13:10:49+00:00</updated>
-		<title>physicsworld.com: all content</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-27:/404612</id>
-	<link href="http://www.nature.com/news/success-of-gravity-wave-satellite-paves-way-for-three-craft-mission-1.22205" rel="alternate" type="text/html"/>
-	<title type="html">Success of gravity-wave satellite paves way for three-craft mission</title>
-	<summary type="html"><![CDATA[]]></summary>
-	<content type="html"><![CDATA[]]></content>
-	<updated>2017-06-27T00:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.nature.com/subjects/earth-and-environmental-sciences</id>
-		<link rel="self" href="https://www.nature.com/subjects/earth-and-environmental-sciences"/>
-		<updated>2017-06-27T00:00:00+00:00</updated>
-		<title>Earth and environmental sciences : News : nature.com subject feeds</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-26:/404159</id>
-	<link href="https://phys.org/news/2017-06-crown-jewel-hl-lhc-magnets.html" rel="alternate" type="text/html"/>
-	<title type="html">The crown jewel of the HL-LHC magnets</title>
-	<summary type="html"><![CDATA[<p>While the LHC is at the start of a new season of data taking, scientists and engineers around the wo...</p>]]></summary>
-	<content type="html"><![CDATA[<p>While the LHC is at the start of a new season of data taking, scientists and engineers around the world are working hard to develop brand new magnets for the LHC upgrade, the High-Luminosity LHC (HL-LHC).</p>]]></content>
-	<updated>2017-06-26T11:38:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-06-26T11:38:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="general physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/thecrownjewe.png"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-13:/400530</id>
-	<link href="https://phys.org/news/2017-06-road-electrodeless-spacecraft-propulsion.html" rel="alternate" type="text/html"/>
-	<title type="html">On the road to creating an electrodeless spacecraft propulsion engine</title>
-	<summary type="html"><![CDATA[<p>The universe is made up of plasma, which is easily influenced by magnetic fields and forces, leading...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The universe is made up of plasma, which is easily influenced by magnetic fields and forces, leading to complex behavior. Plasmas are found throughout the solar system in places such as the planetary magnetosphere, solar wind and in the tails of comets.</p>]]></content>
-	<updated>2017-06-13T09:44:27+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-06-13T09:44:27+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="plasma physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/ontheroadtoc.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-07:/399002</id>
-	<link href="https://phys.org/news/2017-06-scientists-d-magnet.html" rel="alternate" type="text/html"/>
-	<title type="html">Scientists discover a 2-D magnet</title>
-	<summary type="html"><![CDATA[<p>Magnetic materials form the basis of technologies that play increasingly pivotal roles in our lives ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Magnetic materials form the basis of technologies that play increasingly pivotal roles in our lives today, including sensing and hard-disk data storage. But as our innovative dreams conjure wishes for ever-smaller and faster devices, researchers are seeking new magnetic materials that are more compact, more efficient and can be controlled using precise, reliable methods.</p>]]></content>
-	<updated>2017-06-07T17:00:04+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-06-07T17:00:04+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="general physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/2-scientistsdi.png"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-31:/397123</id>
-	<link href="https://www.sciencedaily.com/releases/2017/05/170531133323.htm" rel="alternate" type="text/html"/>
-	<title type="html">X-ray pulses create 'molecular black hole'</title>
-	<summary type="html"><![CDATA[<p>Scientists have used an ultra-bright pulse of X-ray light to turn an atom in a molecule briefly into...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Scientists have used an ultra-bright pulse of X-ray light to turn an atom in a molecule briefly into a sort of electromagnetic black hole. Unlike a black hole in space, the X-rayed atom does not draw in matter from its surroundings through the force of gravity, but electrons with its electrical charge -- causing the molecule to explode within the tiniest fraction of a second. The study provides important information for analyzing biomolecules using X-ray lasers.</p>]]></content>
-	<updated>2017-05-31T17:33:23+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-05-31T17:33:23+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/05/170531133323-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-26:/396096</id>
-	<link href="https://www.sciencedaily.com/releases/2017/05/170525195536.htm" rel="alternate" type="text/html"/>
-	<title type="html">Fruit flies journey to International Space Station to study effects of zero gravity on the heart</title>
-	<summary type="html"><![CDATA[<p>Researchers have announced that six boxes of fruit flies (Drosophila melanogaster) will travel to th...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Researchers have announced that six boxes of fruit flies (Drosophila melanogaster) will travel to the International Space Station (ISS) to study the impact of weightlessness on the heart. The fruit flies are scheduled to launch on June 1, 2017, from NASA&rsquo;s Kennedy Space Center and will travel to the ISS via a SpaceX Dragon spacecraft.</p>]]></content>
-	<updated>2017-05-25T23:55:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-05-25T23:55:36+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-25:/395810</id>
-	<link href="http://www.skyandtelescope.com/astronomy-blogs/astronomy-space-david-dickinson/juno-first-science-results/" rel="alternate" type="text/html"/>
-	<title type="html">Juno: Surprises in First Science Results</title>
-	<summary type="html"><![CDATA[<p>From its dynamic atmosphere to its hidden depths, Juno reveals Jupiter as never before.
-An artist's ...</p>]]></summary>
-	<content type="html"><![CDATA[<p><span><strong><em>From its dynamic atmosphere to its hidden depths, Juno reveals Jupiter as never before.</em></strong></span></p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/m17-059.jpg" alt="Juno at Jupiter" width="350" height="200" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/m17-059.jpg 480w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/m17-059-300x171.jpg 300w" sizes="(max-width: 350px) 100vw, 350px"><p>An artist's conception of Juno in orbit around Jupiter. <br> <em>NASA</em></p></div>
-<p>Forget what you thought you knew about Jupiter. The first science results are in from NASA's Juno spacecraft, currently in orbit around Jove. The findings were <a href="http://www.sciencemag.org/news/2017/05/jupiter-s-skies-are-peppered-electron-streams-ammonia-plumes-and-massive-storms" rel="noopener noreferrer" target="_blank">published in this week's<i> Science</i></a> and <i>Geophysical Research Letters</i> today, along with a salvo of press releases.</p>
-<p>For starters, there was this eye-popping, never-before-seen sequence of Jupiter's aurorae, captured by Juno's Ultraviolet Spectrograph. The long-tailed "comet" on the left is the footprint of an electromagnetic connection to the moon Io:</p>
-<div></div>
-<p>&nbsp;</p>
-<p>Juno's orbit takes it around Jupiter once every 53 days, from a <em>perijove</em> 2,500 miles (4,000 km) above the Jovian cloud tops, to a five million mile (8 million km) <em>apojove</em> out past the orbit of Callisto. Original plans called for Juno to enter a tighter, 14-day-long orbit around Jupiter, but NASA decided to <a href="http://www.skyandtelescope.com/astronomy-news/juno-stay-current-orbit-jupiter/" rel="noopener noreferrer" target="_blank">keep Juno in its present initial capture orbit</a> after a helium valve engine anomaly turned up during a course correction burn last October. Juno will complete eight more planned orbits and was granted a brief reprieve as its final disposal via atmospheric entry won't occur now until July 2018.</p>
-<h3>Comparing Gas Giants</h3>
-<p>It has been a thrilling ride, as <a href="http://www.skyandtelescope.com/astronomy-news/juno-swoops-past-jupiters-south-pole/" rel="noopener noreferrer" target="_blank">Juno scans Jupiter</a> in detail from pole-to-pole once every pass in a whirlwind six hour science phase. Juno completed its sixth perijove pass earlier this week. Unlike what <a href="http://www.skyandtelescope.com/astronomy-blogs/cassini-survives-first-grand-finale-dive/" rel="noopener noreferrer" target="_blank">Cassini is seeing on its Grand Finale orbits</a> around Saturn, however, the poles of Jupiter are chaotic and complex.</p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/13-candy-1-new-fix-630x116.jpg" alt="Juno's view" width="625" height="115" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/13-candy-1-new-fix-630x116.jpg 630w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/13-candy-1-new-fix-300x55.jpg 300w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/13-candy-1-new-fix-768x141.jpg 768w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/13-candy-1-new-fix.jpg 985w" sizes="(max-width: 625px) 100vw, 625px"><p>Juno's swift and changing view as it passed from one pole of Jupiter to another through perijove on May 19th. <br><em>NASA / MSSS / SwRI / Gerald Eichst&auml;dt / Se&aacute;n Doran</em></p></div>
-<p>"We knew, going in, that Jupiter that Jupiter would throw us some curves," says Scott Bolton (Southwest Research Institute) in a NASA <a href="https://www.nasa.gov/press-release/a-whole-new-jupiter-first-science-results-from-nasa-s-juno-mission" rel="noopener noreferrer" target="_blank">press release</a>. "But now that we are here we are finding that Jupiter can throw the heat, as well as knuckleballs and sliders. There is so much going on here that we didn't expect, that we have to take a step back and begin to rethink of this as a whole new Jupiter."</p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/pia21391.png" alt="Jupiter white spot" width="600" height="444" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/pia21391.png 600w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/pia21391-257x190.png 257w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/pia21391-486x360.png 486w" sizes="(max-width: 600px) 100vw, 600px"><p>A swirling white spot captured by Juno on February 2nd. <br><em>NASA / MSSS / JPL / SwRI / Bjorn Jonsson</em></p></div>
-<p>Thus far, Juno has delivered unparalleled views of Jupiter's poles, revealing complex cloud festoons and enigmatic white ovals and cyclones the size of the Earth. Pioneer 11 in 1974 and the Ulysses flyby of Jupiter in 1992 provided the only other polar views of Jupiter, and these were from much greater distances.</p>
-<p>Here's a highlight rundown of the first science findings of Juno at Jupiter:</p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/ezgif.com-resize-4.gif" alt="Infrared Jupiter" width="400" height="400"><p>A full disk rotation video of Jupiter in the infrared captured by Juno's JIRAM instrument. <br><em>NASA/J.E.P. Connerney et al/Science</em></p></div>
-<p><strong>Atmosphere:</strong> Sounding by Juno's Microwave Radiometer instrument points towards a robust cycling of the ammonia clouds shrouding the planet and an ammonia-based weather cycle extending deep below the cloud tops. This ammonia stream is evident racing around Jupiter's equatorial belt &mdash; Jupiter rotates once every 10 hours, the fastest spin of any planet in the solar system &mdash; but Juno sees this ammonia belt extending deeper than expected, to a depth of at least 300 km. In fact, the main ammonia-rich plume near the Northern Equatorial Belt resembles a larger version of the <a href="https://www.seas.harvard.edu/climate/eli/research/equable/hadley.html" target="_blank" rel="noopener noreferrer">Hadley Cell circulation</a> seen in the equatorial regions of the Earth.</p>
-<p>Just what powers the swirling storms near Jupiter's poles, and why does the northern pole of the planet differ dramatically from the south? "We're questioning whether this is a dynamic system," Says Bolton in a <a href="https://www.nasa.gov/press-release/a-whole-new-jupiter-first-science-results-from-nasa-s-juno-mission" rel="noopener noreferrer" target="_blank">recent press release</a>. "Are we seeing just one stage, and over the next year, we're going to watch it disappear, or is this a stable configuration and these storms are circulating around one another?"</p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/03_scott_3.jpg" alt="Jupiter core" width="600" height="337" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/03_scott_3.jpg 600w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/03_scott_3-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"><p>A possible textbook "slice of Jupiter" due for revision? The upper meteorological layer, versus a possible deep rocky core. <br><em>NASA / JPL / SwRI</em></p></div>
-<p><strong>Gravitational field:</strong> The orbit of Juno makes it an ideal platform to plumb the extent of Jupiter's gravitational field, giving scientists a chance to understand the interior structure of the planet. By carefully tracking Juno's motion, engineers back on Earth can detect minute changes in the planet's attractive force on the spacecraft.</p>
-<p>Previous models featured sharp demarcations between transition layers, with perhaps a metallic liquid hydrogen core enveloping a bizarre high pressure zone of helium precipitation. Juno's preliminary findings, however, challenge this assertion and suggest instead a large but indistinct &ldquo;fuzzy&rdquo; core diluted with layers that are intermixing. Understanding whether or not Jupiter has a solid core is a key mystery in planetary formation.</p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/07_jack_1.jpg" alt="Jupiter magnetic field" width="600" height="456" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/07_jack_1.jpg 600w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/07_jack_1-250x190.jpg 250w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/07_jack_1-474x360.jpg 474w" sizes="(max-width: 600px) 100vw, 600px"><p>Jupiter's lumpy magnetic field from north to south. The black line represents the track on Jupiter directly below the spacecraft during one of its perijove passes.<br><em>NASA / MSSS / SwRI / Caltech</em></p></div>
-<p>Finally, Juno delivered another surprise. Jupiter's magnetic field is not only almost twice as strong as expected in spots, but it's not uniform. These results come from Juno's magnetometer and microwave radiometer. Specifically, the field strength peaks near 8 to 9 gauss, nearly twice the expected 5 gauss. Earth's magnetic field is a paltry 0.3 to 0.7 gauss: for comparison, a typical refrigerator magnet has a field of about 50 gauss, powerful over short distances. Juno also recorded variances in the magnetic field map surrounding Jupiter up to 2 gauss. This strongly suggests that the dynamo generating the field is relatively shallow, rather than the deep-seated engine driving the magnetic field emanating from Earth's core.</p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/pia21338.jpg" alt="Jupiter" width="600" height="484" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/pia21338.jpg 600w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/pia21338-236x190.jpg 236w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/pia21338-446x360.jpg 446w" sizes="(max-width: 600px) 100vw, 600px"><p>A close up along Jupiter's terminator from March 27th, showing the "STB Spectre" feature (the blue streak, right half of the image). <br><em>NASA / MSSS / Caltech / SwRI / Roman Tkachenko</em></p></div>
-<p><strong>Radiation:</strong> The mission has provided another unique plus, with spectacular closeups of aurora over both poles of Jupiter. Jovian aurora have been seen by the Hubble Space Telescope orbiting the Earth, and Juno has now chronicled these up close, along with the footprint of the powerful Io flux tube extending from the innermost Galilean moon. JunoCam and Jovian Infrared Auroral Mapper (JIRAM) are the prime instruments monitoring Jovian aurora.</p>
-<p>Thus far, Juno has navigated through the intense radiation field surrounding Jupiter relatively unscathed. The main spacecraft bus is shielded within a sturdy titanium housing.</p>
-<p>Juno is the first outer solar system mission powered by three solar panels instead on a plutonium-fueled generator. And those panels are huge, each 29&frac12; feet (9 meters) long. Engineers noticed "flecks of light" traveling across Juno's navigational star camera field of view, which were traced back to micrometeoroid impacts along its three huge solar panels. Like with&nbsp;<a href="http://www.skyandtelescope.com/astronomy-news/lisa-pathfinder-gravitational-waves-space-dust/" rel="noopener noreferrer" target="_blank">LISA Pathfinder</a>, researchers soon realized that Juno can also serve as a micrometeoroid detector, the largest ever flown.</p>
-<p>But that's not all that the star trackers saw. Gaze upon the Jovian ring system seen, for the first time, from the planet's perspective:</p>
-<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/14_heidi_3.jpg" alt="rings of Jupiter" width="512" height="512" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/14_heidi_3.jpg 512w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/14_heidi_3-113x113.jpg 113w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/14_heidi_3-190x190.jpg 190w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/14_heidi_3-360x360.jpg 360w" sizes="(max-width: 512px) 100vw, 512px"><p>The first ever view of Jupiter's tenuous rings, looking from the inside out. Captured by Juno's Stellar Reference Unit SRU-1, watchers will note the Belt of Orion asterism (lower right) and the bright star Betelgeuse (just above the ring). <br><em>NASA / MSSS / Caltech / SwRI</em></p></div>
-<p>More science is sure to come, as researchers analyze Juno data. We've got just over a year remaining to this exciting mission to unravel the secrets of the largest planet in the solar system.</p>
-<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-news/juno-first-science-results/" target="_blank">Juno: Surprises in First Science Results</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
-	<updated>2017-05-25T20:09:26+00:00</updated>
-	<author><name>David Dickinson</name></author>
-	<source>
-		<id>http://www.skyandtelescope.com</id>
-		<link rel="self" href="http://www.skyandtelescope.com"/>
-		<updated>2017-05-25T20:09:26+00:00</updated>
-		<title>Sky &amp; Telescope</title></source>
-
-	<category term="astronomy in space with david dickinson"/>
-
-	<category term="astronomy news"/>
-
-	<category term="solar system"/>
-
-	<category term="spacecraft and space missions"/>
-
-	<category term="juno"/>
-
-	<category term="juno mission"/>
-
-	<category term="juno science"/>
-
-	<category term="jupiter aurora"/>
-
-	<category term="jupiter interior"/>
-
-	<category term="jupiter magnetosphere"/>
-
-	<category term="jupiter rings"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-25:/395805</id>
-	<link href="https://www.sciencedaily.com/releases/2017/05/170525145844.htm" rel="alternate" type="text/html"/>
-	<title type="html">Extreme Jupiter weather and magnetic fields</title>
-	<summary type="html"><![CDATA[<p>New observations about the extreme conditions of Jupiter's weather and magnetic fields by astronomer...</p>]]></summary>
-	<content type="html"><![CDATA[<p>New observations about the extreme conditions of Jupiter's weather and magnetic fields by astronomers have contributed to the revelations and insights coming from the first close passes of Jupiter by NASA's Juno mission.</p>]]></content>
-	<updated>2017-05-25T18:58:44+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-05-25T18:58:44+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/05/170525145844-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-19:/393975</id>
-	<link href="https://www.sciencedaily.com/releases/2017/05/170518104124.htm" rel="alternate" type="text/html"/>
-	<title type="html">Even non-migratory birds use a magnetic compass</title>
-	<summary type="html"><![CDATA[<p>Not only migratory birds use a built-in magnetic compass to navigate correctly. A new study shows th...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Not only migratory birds use a built-in magnetic compass to navigate correctly. A new study shows that non-migratory birds also are able to use a built-in compass to orient themselves using the Earth's magnetic field.</p>]]></content>
-	<updated>2017-05-18T14:41:24+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-05-18T14:41:24+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://images.sciencedaily.com/2017/05/170518104124.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-18:/393544</id>
-	<link href="https://phys.org/news/2017-05-exploration-magnetic-fields-upper-solar.html" rel="alternate" type="text/html"/>
-	<title type="html">First direct exploration of magnetic fields in the upper solar atmosphere</title>
-	<summary type="html"><![CDATA[<p>For the first time in the world, scientists have explored the magnetic field in the upper solar atmo...</p>]]></summary>
-	<content type="html"><![CDATA[<p>For the first time in the world, scientists have explored the magnetic field in the upper solar atmosphere by observing the polarization of ultraviolet light from the Sun. They accomplished this by analyzing data taken by the CLASP sounding rocket experiment during its 5-minute flight in space on September 3, 2015. The data show that the structures of the solar chromosphere and transition region are more complicated than expected. Now that ultraviolet spectropolarimetry, the method used in the CLASP project, has been proven to work, it can be used in future investigations of the magnetic fields in the upper chromosphere and the transition region to better understand activity in the solar atmosphere.</p>]]></content>
-	<updated>2017-05-18T01:00:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-05-18T01:00:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/firstdirecte.png"/>
 
 </entry>
 
