@@ -4,11 +4,290 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-08-18T12:20:02+00:00</updated>
+<updated>2016-09-07T13:00:16+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2016-12-15:/349769</id>
+	<link href="https://www.linux.com/news/9-lessons-25-years-linux-kernel-development" rel="alternate" type="text/html"/>
+	<title type="html">9 Lessons From 25 Years of Linux Kernel Development</title>
+	<summary type="html"><![CDATA[<p>Because the Linux kernel community celebrated a quarter-century of development in 2016, many people ...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Because the Linux kernel community celebrated a quarter-century of development in 2016, many people have asked us the secret to the project's longevity and success. I usually laugh and joke that we really have no idea how we got here. The project has faced many disagreements and challenges along the way. But seriously, the reason we've made it this far has a lot to do with the community's capacity for introspection and change.</p></div></div></div>]]></content>
+	<updated>2016-12-15T10:02:00+00:00</updated>
+	<author><name>OpenSource.com</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-12-15T10:02:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-12-14:/349388</id>
+	<link href="http://www.phoronix.com/vr.php?view=23861" rel="alternate" type="text/html"/>
+	<title type="html">Looking At GNU/Linux's Performance Over 2016 With Intel's Clear Linux</title>
+	<summary type="html"><![CDATA[<p>If you have been curious how the performance of the GNU/Linux stack has evolved over 2016, I ran som...</p>]]></summary>
+	<content type="html"><![CDATA[<p>If you have been curious how the performance of the GNU/Linux stack has evolved over 2016, I ran some benchmarks of the rolling-release Clear Linux from the start of 2016 compared to this week to see how gains in the upstream software have evolved as well as their aggressive out-of-the-box optimizations for this operating system out of Intel's Open-Source Technology Center.</p>]]></content>
+	<updated>2016-12-14T14:42:39+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2016-12-14T14:42:39+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-12-12:/348414</id>
+	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-4.9-Git-Stats" rel="alternate" type="text/html"/>
+	<title type="html">The Linux 4.9 Kernel Is Around 22.3 Million Lines</title>
+	<summary type="html"><![CDATA[<p>Earlier today while waiting for the Linux 4.9 release, I ran some fresh gitstats on the latest Linux...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Earlier today while waiting for the Linux 4.9 release, I ran some fresh gitstats on the latest Linux kernel Git tree to see the latest numbers on the kernel for those interested in some analytics...</p>]]></content>
+	<updated>2016-12-12T02:35:23+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2016-12-12T02:35:23+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-12-06:/346780</id>
+	<link href="https://www.linux.com/news/google-deepmind-makes-ai-training-platform-publicly-available" rel="alternate" type="text/html"/>
+	<title type="html">Google DeepMind Makes AI Training Platform Publicly Available</title>
+	<summary type="html"><![CDATA[<p>Alphabet Inc.&rsquo;s artificial intelligence division Google DeepMind is making the maze-like game platfo...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Alphabet Inc.&rsquo;s artificial intelligence division Google DeepMind is making the maze-like game platform it uses for many of its experiments available to other researchers and the general public.</p></div></div></div>]]></content>
+	<updated>2016-12-06T10:00:41+00:00</updated>
+	<author><name>Bloomberg</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-12-06T10:00:41+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437137</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/riot-rtd100917.php" rel="alternate" type="text/html"/>
+	<title type="html">RIT to develop hybrid biological cell separations technology for lab-on-chip devices</title>
+	<summary type="html"><![CDATA[<p>(Rochester Institute of Technology) Research being done at Rochester Institute of Technology to refi...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Rochester Institute of Technology</i>) Research being done at Rochester Institute of Technology to refine lab-on-chip devices -- highly sophisticated laboratories on microchips -- will provide more detailed and timely information to detect diseases such as cancer.</p>]]></content>
+	<updated>2017-10-09T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-09T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-11:/437516</id>
+	<link href="https://phys.org/news/2017-10-artificial-intelligence-autonomous-cars.html" rel="alternate" type="text/html"/>
+	<title type="html">Artificial intelligence computer designed to drive autonomous cars</title>
+	<summary type="html"><![CDATA[<p>NVIDIA today unveiled the world's first artificial intelligence computer designed to drive fully aut...</p>]]></summary>
+	<content type="html"><![CDATA[<p>NVIDIA today unveiled the world's first artificial intelligence computer designed to drive fully autonomous robotaxis.</p>]]></content>
+	<updated>2017-10-11T10:49:44+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-11T10:49:44+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="hardware"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/59ddf00aeaa4b.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-11:/437517</id>
+	<link href="https://phys.org/news/2017-10-intel-qubit-superconducting-chip-advanced.html" rel="alternate" type="text/html"/>
+	<title type="html">Intel presents 17-qubit superconducting chip with advanced packaging</title>
+	<summary type="html"><![CDATA[<p>Today, Intel announced the delivery of a 17-qubit superconducting test chip for quantum computing to...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Today, Intel announced the delivery of a 17-qubit superconducting test chip for quantum computing to QuTech, Intel's quantum research partner in the Netherlands. The new chip was fabricated by Intel and features a unique design to achieve improved yield and performance.</p>]]></content>
+	<updated>2017-10-11T10:48:31+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-11T10:48:31+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="semiconductors"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/17qubitsuper.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437341</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/nios-htc101017.php" rel="alternate" type="text/html"/>
+	<title type="html">How the cone snail's deadly venom can help us build better medicines</title>
+	<summary type="html"><![CDATA[<p>(National Institute of Standards and Technology (NIST)) By researching deadly cone snail venom, NIST...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>National Institute of Standards and Technology (NIST)</i>) By researching deadly cone snail venom, NIST researchers hope to find solutions to tough medical problems and diseases.</p>]]></content>
+	<updated>2017-10-10T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-10T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437333</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171010133912.htm" rel="alternate" type="text/html"/>
+	<title type="html">Growing human brain cells in the lab</title>
+	<summary type="html"><![CDATA[<p>A cost-effective technology has been developed to produce large quantities of human brain cells in t...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A cost-effective technology has been developed to produce large quantities of human brain cells in two simple steps. By surmounting major challenges in human neuron-based drug discovery, researchers believe this technique will be adopted widely in both basic science and industry.</p>]]></content>
+	<updated>2017-10-10T17:39:12+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-10T17:39:12+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437328</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171010133927.htm" rel="alternate" type="text/html"/>
+	<title type="html">Sequencing test enables precise identification of drug-resistant TB</title>
+	<summary type="html"><![CDATA[<p>Two studies document how a new advanced genetic sequencing approach can help thwart the growing worl...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Two studies document how a new advanced genetic sequencing approach can help thwart the growing worldwide threat posed by drug-resistant mutations of tuberculosis (TB). The threat of TB is increasing in some places as mutant versions of the disease become more and more resistant to current drug treatments.</p>]]></content>
+	<updated>2017-10-10T17:39:27+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-10T17:39:27+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437271</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171010114611.htm" rel="alternate" type="text/html"/>
+	<title type="html">Oxytocin and breastfeeding: Elucidation of a molecular mechanism</title>
+	<summary type="html"><![CDATA[<p>Oxytocin is indispensable for developing the social brain. Suckling babies absorb oxytocin from moth...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Oxytocin is indispensable for developing the social brain. Suckling babies absorb oxytocin from mother's milk, but gut closure occurs soon after birth to prevent uptake of undesired and desired macromolecules. Researchers have found that the molecule RAGE, on the intestinal epithelium, transports oxytocin into the blood even after gut closure. This finding suggests the advantage of breastfeeding and oral oxytocin administration to increase its concentration in blood and mother-child bond.</p>]]></content>
+	<updated>2017-10-10T15:46:11+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-10T15:46:11+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171010114611-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437283</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171010105629.htm" rel="alternate" type="text/html"/>
+	<title type="html">Major breakthrough identifies new mechanism for the development of schizophrenia</title>
+	<summary type="html"><![CDATA[<p>The new research shows that dysfunctional brain blood vessels may be associated with the development...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The new research shows that dysfunctional brain blood vessels may be associated with the development of schizophrenia. There is potential for new treatments of schizophrenia by developing new drugs to target these abnormal blood vessels.</p>]]></content>
+	<updated>2017-10-10T14:56:29+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-10T14:56:29+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171010105629-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437139</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uota-ubt100917.php" rel="alternate" type="text/html"/>
+	<title type="html">UTA bioengineer to collaborate with UTSW to improve neonatal brain monitoring</title>
+	<summary type="html"><![CDATA[<p>(University of Texas at Arlington) A University of Texas at Arlington bioengineering professor and h...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Texas at Arlington</i>) A University of Texas at Arlington bioengineering professor and her team will integrate a portable brain imaging system with an advanced signal-processing technique for newborns that will better measure the babies' neurophysiology in real time, providing physicians the analysis needed to treat encephalopathy or brain swelling more quickly.</p>]]></content>
+	<updated>2017-10-09T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-09T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437070</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uoa-prt100517.php" rel="alternate" type="text/html"/>
+	<title type="html">Pest resistance to biotech crops surging</title>
+	<summary type="html"><![CDATA[<p>(University of Arizona) Pest resistance to genetically engineered crops Bt crops is evolving faster ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Arizona</i>) Pest resistance to genetically engineered crops Bt crops is evolving faster now than before, UA researchers show in the most comprehensive study to date. But as expected from evolutionary theory, resistance can be delayed if farmers comply with recommendations to make use of abundant refuges.</p>]]></content>
+	<updated>2017-10-10T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-10T04:00:00+00:00</updated>
+		<title>EurekAlert! - Agriculture</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437157</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uob-etb100917.php" rel="alternate" type="text/html"/>
+	<title type="html">Evolution: The beneficiaries of mass extinction</title>
+	<summary type="html"><![CDATA[<p>(University of Birmingham) Mass extinctions were followed by periods of low diversity in which certa...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Birmingham</i>) Mass extinctions were followed by periods of low diversity in which certain new species dominated wide regions of the supercontinent Pangaea, reports a new study.</p>]]></content>
+	<updated>2017-10-10T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-10T04:00:00+00:00</updated>
+		<title>EurekAlert! - Earth Science</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-10-10:/437052</id>
@@ -862,327 +1141,6 @@ World Standards Day</a> on October 14.  "<span>Whether in the world of software,
 		<updated>2016-09-07T13:00:16+00:00</updated>
 		<title>Linux.com</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-12:/409115</id>
-	<link href="https://phys.org/news/2017-07-nasa-sdo-sunspot-earth.html" rel="alternate" type="text/html"/>
-	<title type="html">NASA's SDO watches a sunspot turn toward Earth</title>
-	<summary type="html"><![CDATA[<p>An active region on the sun&mdash;an area of intense and complex magnetic fields&mdash;has rotated into view on ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>An active region on the sun&mdash;an area of intense and complex magnetic fields&mdash;has rotated into view on the sun and seems to be growing rather quickly in this video captured by NASA's Solar Dynamics Observatory between July 5-11, 2017.</p>]]></content>
-	<updated>2017-07-12T15:26:33+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-07-12T15:26:33+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/nasassdowatc.gif"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-09:/408029</id>
-	<link href="https://www.sciencedaily.com/releases/2017/07/170707211134.htm" rel="alternate" type="text/html"/>
-	<title type="html">Zero gravity: Graphene for space applications</title>
-	<summary type="html"><![CDATA[<p>Researchers are preparing for two exciting experiments in collaboration with the European Space Agen...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Researchers are preparing for two exciting experiments in collaboration with the European Space Agency (ESA) to test the viability of graphene for space applications. The microgravity parabolic flight drop tower experiments will launch between November 6-17, 2017, testing graphene in zero-gravity conditions to determine its potential in space applications including light propulsion and thermal management.</p>]]></content>
-	<updated>2017-07-08T01:11:34+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-07-08T01:11:34+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-04:/406706</id>
-	<link href="https://phys.org/news/2017-07-telescope-optical-gravitational.html" rel="alternate" type="text/html"/>
-	<title type="html">Telescope for detecting optical signals from gravitational waves launched</title>
-	<summary type="html"><![CDATA[<p>A state-of-the-art telescope for detecting optical signatures of gravitational waves - built and ope...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A state-of-the-art telescope for detecting optical signatures of gravitational waves - built and operated by an international research collaboration, led by the University of Warwick - has been officially launched.</p>]]></content>
-	<updated>2017-07-04T12:30:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-07-04T12:30:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="astronomy"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/telescopefor.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-20:/375887</id>
-	<link href="https://phys.org/news/2017-03-orbital-atk-cygnus-space-station.html" rel="alternate" type="text/html"/>
-	<title type="html">Orbital ATK Cygnus set to deliver research to space station</title>
-	<summary type="html"><![CDATA[<p>Orbital ATK is targeted to launch its Cygnus spacecraft into orbit for a resupply mission to the Int...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Orbital ATK is targeted to launch its Cygnus spacecraft into orbit for a resupply mission to the International Space Station March 24, 2017 from Cape Canaveral Air Force Station in Florida. Cygnus will launch atop a United Launch Alliance Atlas V rocket carrying crew supplies, equipment and scientific research to crew members aboard the station. The flight will deliver investigations that study magnetic cell culturing, crystal growth and atmospheric reentry.</p>]]></content>
-	<updated>2017-03-20T19:27:13+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-03-20T19:27:13+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/orbitalatkcy.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-17:/375065</id>
-	<link href="https://phys.org/news/2017-03-esa-jupiter-mission-board.html" rel="alternate" type="text/html"/>
-	<title type="html">ESA's Jupiter mission moves off the drawing board</title>
-	<summary type="html"><![CDATA[<p>Demanding electric, magnetic and power requirements, harsh radiation, and strict planetary protectio...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Demanding electric, magnetic and power requirements, harsh radiation, and strict planetary protection rules are some of the critical issues that had to be tackled in order to move ESA's Jupiter Icy Moons Explorer &ndash; Juice &ndash; from the drawing board and into construction.</p>]]></content>
-	<updated>2017-03-17T10:10:35+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-03-17T10:10:35+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/esasjupiterm.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-10:/373026</id>
-	<link href="https://phys.org/news/2017-03-life-earth-gravity-cells-tissues.html" rel="alternate" type="text/html"/>
-	<title type="html">Life on Earth is used to gravity – so what happens to our cells and tissues in space?</title>
-	<summary type="html"><![CDATA[<p>There's one force whose effects are so deeply entrenched in our everyday lives that we probably don'...</p>]]></summary>
-	<content type="html"><![CDATA[<p>There's one force whose effects are so deeply entrenched in our everyday lives that we probably don't think much about it at all: gravity. Gravity is the force that causes attraction between masses. It's why when you drop a pen, it falls to the ground. But because gravitational force is proportional to the mass of the object, only large objects like planets create tangible attractions. This is why the study of gravity traditionally focused on massive objects like planets.</p>]]></content>
-	<updated>2017-03-10T13:50:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-03-10T13:50:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="space exploration"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/lifeonearthi.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-14:/410062</id>
-	<link href="https://www.sciencedaily.com/releases/2017/07/170714140243.htm" rel="alternate" type="text/html"/>
-	<title type="html">First laboratory generation of astrophysical shock waves created</title>
-	<summary type="html"><![CDATA[<p>The first laboratory generation of an astrophysical shock wave has been reported by scientists. To p...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The first laboratory generation of an astrophysical shock wave has been reported by scientists. To produce the wave, scientists used a laser to create a high-energy plasma -- a form of matter composed of atoms and charged atomic particles -- that expanded into a pre-existing magnetized plasma. The interaction created, within a few billionths of a second, a magnetized shock wave that expanded at a rate of more than 1 million miles per hour, congruent with shocks beyond the solar system.</p>]]></content>
-	<updated>2017-07-14T18:02:43+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-07-14T18:02:43+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/07/170714140243-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-20:/411486</id>
-	<link href="https://www.sciencedaily.com/releases/2017/07/170719173710.htm" rel="alternate" type="text/html"/>
-	<title type="html">Imaging of scar tissue formation</title>
-	<summary type="html"><![CDATA[<p>Organs respond to injuries with the formation of new fibrous tissue, which can result in scarring. T...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Organs respond to injuries with the formation of new fibrous tissue, which can result in scarring. This process called fibrogenesis can now be monitored noninvasively on a molecular level, as scientists report. They have created a new gadolinium-based probe for magnetic resonance imaging that specifically reports the proteins involved in fibrogenesis. The imaging method may provide a quantitative assessment of the formation of the potentially harmful scar tissue.</p>]]></content>
-	<updated>2017-07-19T21:37:10+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-07-19T21:37:10+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-26:/413335</id>
-	<link href="https://phys.org/news/2017-07-protein-crystals-grown-microgravity-yield.html" rel="alternate" type="text/html"/>
-	<title type="html">Protein crystals grown in microgravity could yield antidotes for nerve agents</title>
-	<summary type="html"><![CDATA[<p>On a balmy evening in early June, Space X launched the Falcon 9 rocket, which ferried the Dragon spa...</p>]]></summary>
-	<content type="html"><![CDATA[<p>On a balmy evening in early June, Space X launched the Falcon 9 rocket, which ferried the Dragon spacecraft toward the International Space Station (ISS). As the Dragon broke the tethers of Earth's gravity three small, black boxes were safely nestled in its cargo hold. These innocuous boxes house an experiment that may help researchers develop new antidotes for nerve agents used in conflict zones.</p>]]></content>
-	<updated>2017-07-26T11:33:33+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-07-26T11:33:33+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="condensed matter"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/proteincryst.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-03:/415763</id>
-	<link href="http://physicsworld.com/cws/article/news/2017/aug/02/virgo-joins-gravitational-wave-hunt" rel="alternate" type="text/html"/>
-	<title type="html">VIRGO joins gravitational-wave hunt</title>
-	<summary type="html"><![CDATA[<p>Detector could help locate sources of gravitational waves</p>]]></summary>
-	<content type="html"><![CDATA[<p>Detector could help locate sources of gravitational waves<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/8RluRXAB9ZQ" height="1" width="1" alt=""></p>]]></content>
-	<updated>2017-08-02T14:04:04+00:00</updated>
-	<author><name>Michael Banks</name></author>
-	<source>
-		<id>http://physicsworld.com/</id>
-		<link rel="self" href="http://physicsworld.com/"/>
-		<updated>2017-08-02T14:04:04+00:00</updated>
-		<title>physicsworld.com: all content</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-04:/416213</id>
-	<link href="http://physicsworld.com/cws/article/news/2017/aug/03/nanoscale-imaging-looks-deep-into-magnetic-materials" rel="alternate" type="text/html"/>
-	<title type="html">Nanoscale imaging looks deep into magnetic materials</title>
-	<summary type="html"><![CDATA[<p>New technique bags Bloch points</p>]]></summary>
-	<content type="html"><![CDATA[<p>New technique bags Bloch points<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/pE31HwkPXu8" height="1" width="1" alt=""></p>]]></content>
-	<updated>2017-08-03T14:16:58+00:00</updated>
-	<author><name>Tim Wogan</name></author>
-	<source>
-		<id>http://physicsworld.com/</id>
-		<link rel="self" href="http://physicsworld.com/"/>
-		<updated>2017-08-03T14:16:58+00:00</updated>
-		<title>physicsworld.com: all content</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-16:/419916</id>
-	<link href="https://www.sciencedaily.com/releases/2017/08/170816134658.htm" rel="alternate" type="text/html"/>
-	<title type="html">Scientists use magnetic fields to remotely stimulate brain -- and control body movements</title>
-	<summary type="html"><![CDATA[<p>Scientists have used magnetism to activate tiny groups of cells in the brain, inducing bodily moveme...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Scientists have used magnetism to activate tiny groups of cells in the brain, inducing bodily movements that include running, rotating and losing control of the extremities -- an achievement that could lead to advances in studying and treating neurological disease.</p>]]></content>
-	<updated>2017-08-16T17:46:58+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-08-16T17:46:58+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/08/170816134658-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-16:/419878</id>
-	<link href="https://phys.org/news/2017-08-harnessing-rich-satellite-crop-yield.html" rel="alternate" type="text/html"/>
-	<title type="html">Harnessing rich satellite data to estimate crop yield</title>
-	<summary type="html"><![CDATA[<p>Without advanced sensing technology, humans see only a small portion of the entire electromagnetic s...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Without advanced sensing technology, humans see only a small portion of the entire electromagnetic spectrum. Satellites see the full range&mdash;from high-energy gamma rays, to visible, infrared, and low-energy microwaves. The images and data they collect can be used to solve complex problems. For example, satellite data is being harnessed by researchers at the University of Illinois for a more complete picture of cropland and to estimate crop yield in the U.S. Corn Belt.</p>]]></content>
-	<updated>2017-08-16T17:20:06+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-08-16T17:20:06+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="environment"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/59947b2d69e15.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-18:/420602</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-08/uota-sac081817.php" rel="alternate" type="text/html"/>
-	<title type="html">Spoiler alert: Computer simulations provide preview of next week's eclipse</title>
-	<summary type="html"><![CDATA[<p>(University of Texas at Austin, Texas Advanced Computing Center) Researchers from Predictive Science...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of Texas at Austin, Texas Advanced Computing Center</i>) Researchers from Predictive Science Inc. used NASA and National Science Foundation-supported supercomputers to run highly-detailed forecasts of the Sun's corona -- the aura of plasma that surrounds the sun -- at the moment of the eclipse. The team combined data from NASA's&nbsp;Solar Dynamics Observatory, magnetic field maps, solar rotation rates and cutting-edge mathematical models to predict the state of the Sun's surface. The simulations are the largest produced by the group and include new physics.</p>]]></content>
-	<updated>2017-08-18T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-08-18T04:00:00+00:00</updated>
-		<title>EurekAlert! - Space and Planetary Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-18:/420536</id>
-	<link href="https://phys.org/news/2017-08-migrating-birds-magnetic-distances.html" rel="alternate" type="text/html"/>
-	<title type="html">Migrating birds use a magnetic map to travel long distances</title>
-	<summary type="html"><![CDATA[<p>Birds have an impressive ability to navigate. They can fly long distances, to places that they may n...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Birds have an impressive ability to navigate. They can fly long distances, to places that they may never have visited before, sometimes returning home after months away.</p>]]></content>
-	<updated>2017-08-18T12:20:02+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-08-18T12:20:02+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="plants &amp; animals"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/migratingbir.jpg"/>
 
 </entry>
 
