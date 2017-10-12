@@ -4,11 +4,387 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2016-09-07T13:00:16+00:00</updated>
+<updated>2016-10-17T14:07:43+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-01-09:/355200</id>
+	<link href="http://www.phoronix.com/vr.php?view=23995" rel="alternate" type="text/html"/>
+	<title type="html">AMD &amp; NVIDIA: Open vs. Closed-Source Driver Performance</title>
+	<summary type="html"><![CDATA[<p>Continuing on from this weekend's open-source Nouveau vs. closed-source NVIDIA Linux driver performa...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Continuing on from this weekend's open-source Nouveau vs. closed-source NVIDIA Linux driver performance are results now added in with showing AMD's open-source vs. closed-source driver performance with the same tests.</p>]]></content>
+	<updated>2017-01-09T13:05:45+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2017-01-09T13:05:45+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-12-27:/352523</id>
+	<link href="https://www.linux.com/news/top-10-open-source-projects-2016" rel="alternate" type="text/html"/>
+	<title type="html">Top 10 Open Source Projects of 2016</title>
+	<summary type="html"><![CDATA[<p>In our annual list of the year's top open source projects, we look back at popular projects our writ...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>In our annual list of the year's top open source projects, we look back at popular projects our writers covered in 2016, plus favorites our Community Moderators picked. We continue to be impressed with the wonderful open source projects that emerge, grow, change, and evolve every year. Picking 10 to include in our annual list of top projects is no small feat, and certainly no list this short can include every deserving project.</p></div></div></div>]]></content>
+	<updated>2016-12-27T09:00:00+00:00</updated>
+	<author><name>OpenSource.com</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-12-27T09:00:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-09:/355125</id>
+	<link href="https://www.linux.com/news/current-state-machine-intelligence-30" rel="alternate" type="text/html"/>
+	<title type="html">The Current State of Machine Intelligence 3.0</title>
+	<summary type="html"><![CDATA[<p>Almost a year ago, we published our now-annual&nbsp;landscape&nbsp;of machine intelligence companies, and good...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Almost a year ago, we published our now-annual&nbsp;<a href="https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-2-0" rel="noopener noreferrer" target="_blank">landscape</a>&nbsp;of machine intelligence companies, and goodness have we seen a lot of activity since then. This year&rsquo;s landscape has&nbsp;<em>a third more companies</em>than our first one did two years ago, and it feels even more futile to try to be comprehensive, since this just scratches the surface of all of the activity out there.</p></div></div></div>]]></content>
+	<updated>2017-01-09T09:00:00+00:00</updated>
+	<author><name>O''Reilly</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-01-09T09:00:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-06:/354685</id>
+	<link href="https://www.linux.com/news/whats-future-data-storage" rel="alternate" type="text/html"/>
+	<title type="html">What's the Future of Data Storage?</title>
+	<summary type="html"><![CDATA[<p>Storage planning today means investing in an ecosystem that supports multiple technologies. The winn...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Storage planning today means investing in an ecosystem that supports multiple technologies. The winning vendors will create integrated delivery models that obviate the differences between particular technologies.</p>
+<p>&nbsp;What&rsquo;s the future of storage?&nbsp;Is it internal server-based/software-defined? Hyperconverged? All-flash arrays? Cloud? Hybrid cloud?</p>
+<p>Over the next few weeks we&rsquo;re going to spend some time going over all of these different technologies and examining why each is viable (or not). But for now, I&rsquo;m going to go ahead and give you the short answer:&nbsp;All of the above.&nbsp;</p></div></div></div>]]></content>
+	<updated>2017-01-06T08:00:00+00:00</updated>
+	<author><name>HPE</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-01-06T08:00:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-03:/353569</id>
+	<link href="https://www.cyberciti.biz/open-source/7-awesome-open-source-analytics-weblog-analysis-softwares/" rel="alternate" type="text/html"/>
+	<title type="html">7 Awesome Open Source Analytics Software For Linux and Unix-like Systems</title>
+	<summary type="html"><![CDATA[<p>Web analytics is nothing but the measuring web traffic. It is not limited to measuring web traffic. ...</p>]]></summary>
+	<content type="html"><![CDATA[<span>W</span>eb analytics is nothing but the measuring web traffic. It is not limited to measuring web traffic. It includes: 
+<ol>
+ <li>Analysis</li>
+ <li>Data collection</li>
+ <li>Reporting of web data for purposes of understanding and optimizing web pages</li>
+</ol>
+Google Analytics is the most widely used cloud-based web analytics service. However, your data is locked into Google Eco-system. If you want 100% data ownership, try the following open source web analytics software to get information about the number of visitors to your website and the number of page views. The information is useful for market research and understanding popularity trends on your website.]]></content>
+	<updated>2017-01-03T12:07:19+00:00</updated>
+	<author><name>Vivek Gite</name></author>
+	<source>
+		<id>http://feeds.cyberciti.biz/</id>
+		<link rel="self" href="http://feeds.cyberciti.biz/"/>
+		<updated>2017-01-03T12:07:19+00:00</updated>
+		<title>nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format</title></source>
+
+	<category term="open source"/>
+
+	<category term="devops"/>
+
+	<category term="downloads"/>
+
+	<category term="freebsd"/>
+
+	<category term="linux"/>
+
+	<category term="sysadmin"/>
+
+	<category term="unix"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-12-30:/353242</id>
+	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Kernel-Popular-News-2016" rel="alternate" type="text/html"/>
+	<title type="html">The Most Viewed Linux Kernel News Stories Of 2016</title>
+	<summary type="html"><![CDATA[<p>There are just a few more interesting recaps to share before 2016 draws to an end. I figured some of...</p>]]></summary>
+	<content type="html"><![CDATA[<p>There are just a few more interesting recaps to share before 2016 draws to an end. I figured some of you may be curious about the most-viewed kernel news stories on Phoronix this calendar year...</p>]]></content>
+	<updated>2016-12-30T15:27:56+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2016-12-30T15:27:56+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-12-26:/352365</id>
+	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-4.10-EOY2016-Stats" rel="alternate" type="text/html"/>
+	<title type="html">Linux 4.10-rc1 Gained 488k Lines, Kernel Up 1.9+ Million Lines For 2016</title>
+	<summary type="html"><![CDATA[<p>Hitting the end of the year as well as yesterday's Linux 4.10-rc1 kernel marking the end of the merg...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Hitting the end of the year as well as yesterday's Linux 4.10-rc1 kernel marking the end of the merge window, here is a look at some kernel development statistics...</p>]]></content>
+	<updated>2016-12-26T14:01:30+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2016-12-26T14:01:30+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-12-20:/351018</id>
+	<link href="https://www.linux.com/news/11-benefits-running-your-containers-openstack" rel="alternate" type="text/html"/>
+	<title type="html">11 Benefits to Running Your Containers on OpenStack</title>
+	<summary type="html"><![CDATA[<p>Enterprises today must keep up with increasing internal and external customer demand, or die trying....</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Enterprises today must keep up with increasing internal and external customer demand, or die trying.</p>
+<p>For IT, this means&nbsp;<a href="http://techbeacon.com/essential-guide-software-containers-application-development" rel="noopener noreferrer" target="_blank">deploying and updating applications</a>&nbsp;faster, and more often than ever before to meet and ideally exceed this demand. At the same time, IT must focus its&nbsp;people power on strategic endeavors, rather than rote tasks.</p></div></div></div>]]></content>
+	<updated>2016-12-20T11:00:00+00:00</updated>
+	<author><name>OpenStack</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-12-20T11:00:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-12-19:/350650</id>
+	<link href="https://www.linux.com/news/open-source-diversity-efforts-gain-momentum-2016" rel="alternate" type="text/html"/>
+	<title type="html">Open Source Diversity Efforts Gain Momentum in 2016</title>
+	<summary type="html"><![CDATA[<p>If software is pervasive, shouldn't the people building it be from everywhere and represent differen...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>If software is pervasive, shouldn't the people building it be from everywhere and represent different voices? The broadly accepted answer is yes, that we need a diverse set of developers and technologists to build the new digital world. Further, when you look at communities that thrive, they are those that evolve and grow and bring in new voices and perspectives. Because much of the software innovation happening today involves open source software, the open source community can be an entry point for new people in technology roles.</p></div></div></div>]]></content>
+	<updated>2016-12-19T12:38:00+00:00</updated>
+	<author><name>OpenSource.com</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2016-12-19T12:38:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438105</id>
+	<link href="https://phys.org/news/2017-10-pursue-low-cost-efficient-technologies-hydrogen.html" rel="alternate" type="text/html"/>
+	<title type="html">Researchers pursue low-cost, efficient technologies for hydrogen generation</title>
+	<summary type="html"><![CDATA[<p>While hydrogen is often talked about as a pollution-free fuel of the future, especially for use in f...</p>]]></summary>
+	<content type="html"><![CDATA[<p>While hydrogen is often talked about as a pollution-free fuel of the future, especially for use in fuel cell electric vehicles, hydrogen can be used for much more than zero-emission cars. In fact, from enhancing the flexibility of the grid to greening agriculture, hydrogen could play a major role in a clean and resilient energy system.</p>]]></content>
+	<updated>2017-10-12T13:03:02+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-12T13:03:02+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="materials science"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/reimaginingh.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438067</id>
+	<link href="https://phys.org/news/2017-10-technique-scours-genome-genes-combat.html" rel="alternate" type="text/html"/>
+	<title type="html">New technique scours the genome for genes that combat disease</title>
+	<summary type="html"><![CDATA[<p>Using a modified version of the CRISPR genome-editing system, MIT researchers have developed a new w...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Using a modified version of the CRISPR genome-editing system, MIT researchers have developed a new way to screen for genes that protect against specific diseases.</p>]]></content>
+	<updated>2017-10-12T10:22:48+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-12T10:22:48+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/33-newtechnique.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-11:/437613</id>
+	<link href="https://phys.org/news/2017-10-discuss-future-impact-today-nanotech.html" rel="alternate" type="text/html"/>
+	<title type="html">Researchers discuss the future impact of today's nanotech research</title>
+	<summary type="html"><![CDATA[<p>World-renowned nanoscientists and chemists Chad Mirkin, the Director of the International Institute ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>World-renowned nanoscientists and chemists Chad Mirkin, the Director of the International Institute for Nanotechnology (IIN) at Northwestern University, and Teri Odom, the IIN's Associate Director, sit down to discuss the golden age of miniaturization and how the "science of small things" is fostering major advances.</p>]]></content>
+	<updated>2017-10-11T13:03:44+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-11T13:03:44+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="nanophysics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/161-researchersd.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-11:/437557</id>
+	<link href="https://phys.org/news/2017-10-machine-disruptions-reactors.html" rel="alternate" type="text/html"/>
+	<title type="html">How machine learning can predict and prevent disruptions in reactors</title>
+	<summary type="html"><![CDATA[<p>Robert Granetz has been a research scientist in MIT's Plasma Science and Fusion Center for more than...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Robert Granetz has been a research scientist in MIT's Plasma Science and Fusion Center for more than 40 years. He recently gave a talk hosted by the MIT Energy Initiative (MITEI) on using machine learning to develop a real-time warning system for impending disruptions in fusion reactors. A specialist in magnetohydrodynamic instabilities and disruptions, Granetz discussed how research in this area is bringing us one step closer to creating a stable, net-energy-producing fusion device.</p>]]></content>
+	<updated>2017-10-11T11:11:32+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-11T11:11:32+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="plasma physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/howmachinele.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-11:/437846</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171011120339.htm" rel="alternate" type="text/html"/>
+	<title type="html">Brain chemical abnormalities in earliest stage of psychosis identified</title>
+	<summary type="html"><![CDATA[<p>A new study of young people experiencing a first episode of psychosis reports elevations in the brai...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A new study of young people experiencing a first episode of psychosis reports elevations in the brain chemicals glutamate and glycine.</p>]]></content>
+	<updated>2017-10-11T16:03:39+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-11T16:03:39+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-11:/437626</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171010152857.htm" rel="alternate" type="text/html"/>
+	<title type="html">New breast cancer drug defeats the Ras genes notorious for causing many types of cancer</title>
+	<summary type="html"><![CDATA[<p>A new study has shown the recently approved breast cancer drug neratinib can block the function of R...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A new study has shown the recently approved breast cancer drug neratinib can block the function of Ras as well as several other oncogenes through an unexpected process.</p>]]></content>
+	<updated>2017-10-10T19:28:57+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-10T19:28:57+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171010152857-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-11:/437579</id>
+	<link href="https://phys.org/news/2017-10-drugs-aimed-life-code.html" rel="alternate" type="text/html"/>
+	<title type="html">Designing drugs aimed at a different part of life's code</title>
+	<summary type="html"><![CDATA[<p>Most drugs work by tinkering with the behavior of proteins. Like meddlesome coworkers, these molecul...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Most drugs work by tinkering with the behavior of proteins. Like meddlesome coworkers, these molecules are designed to latch onto their target proteins and keep them from doing what they need to do.</p>]]></content>
+	<updated>2017-10-11T12:12:35+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-11T12:12:35+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biochemistry"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/designingdru.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438028</id>
+	<link href="https://phys.org/news/2017-10-genetically-unaltered-offspring.html" rel="alternate" type="text/html"/>
+	<title type="html">New way to prevent genetically engineered and unaltered organisms from producing offspring</title>
+	<summary type="html"><![CDATA[<p>A major obstacle to applying genetic engineering to benefit humans and the environment is the risk t...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A major obstacle to applying genetic engineering to benefit humans and the environment is the risk that organisms whose genes have been altered might produce offspring with their natural counterparts, releasing the novel genes into the wild. Now, researchers from the University of Minnesota's BioTechnology Institute have developed a promising way to prevent such interbreeding. The approach, called "synthetic incompatibility," effectively makes engineered organisms a separate species unable to produce viable offspring with their wild or domesticated relatives.</p>]]></content>
+	<updated>2017-10-12T09:00:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-12T09:00:03+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/59df1817b7a0d.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-11:/437869</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uop-aeg101117.php" rel="alternate" type="text/html"/>
+	<title type="html">An engineer's guide to the embryo</title>
+	<summary type="html"><![CDATA[<p>(University of Pittsburgh) The NIH Department of Health and Human Services awarded Lance Davidson, p...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Pittsburgh</i>) The NIH Department of Health and Human Services awarded Lance Davidson, professor of bioengineering at Pitt's Swanson School of Engineering, $1,327,207 for his study 'Biomechanics of Morphogenesis.' Dr. Davidson, who directs the MechMorpho Lab at the University of Pittsburgh, aims to take a structural engineer's approach to the biomechanics of developing embryos.</p>]]></content>
+	<updated>2017-10-11T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-11T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2016-12-15:/349769</id>
@@ -813,333 +1189,6 @@ World Standards Day</a> on October 14.  "<span>Whether in the world of software,
 	<category term="vi"/>
 
 	<category term="vim"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-06:/330028</id>
-	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Power-Management-2016" rel="alternate" type="text/html"/>
-	<title type="html">The State &amp; Future Of Linux Power Management (2016)</title>
-	<summary type="html"><![CDATA[<p>Linux's power management and ACPI subsystems maintainer Rafael Wysocki presented at this week's Linu...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Linux's power management and ACPI subsystems maintainer Rafael Wysocki presented at this week's LinuxCon Europe event in Berlin about the state and future of power management in the Linux kernel...</p>]]></content>
-	<updated>2016-10-06T17:27:14+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.phoronix.com/</id>
-		<link rel="self" href="https://www.phoronix.com/"/>
-		<updated>2016-10-06T17:27:14+00:00</updated>
-		<title>Phoronix</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-29:/327673</id>
-	<link href="https://www.linux.com/news/googles-open-source-fuchsia-os-mystery-linux-distro" rel="alternate" type="text/html"/>
-	<title type="html">Google’s Open Source Fuchsia OS: The Mystery Linux Distro</title>
-	<summary type="html"><![CDATA[<p>Few things are more tantalizing than a good mystery, and Google is making waves for an open source-c...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Few things are more tantalizing than a good mystery, and Google is making waves for an open source-centric mystery that may end up having profound implications. It all started in August when an extensive and unusual<a href="https://fuchsia.googlesource.com/" rel="noopener noreferrer" target="_blank"> code repository</a> for a new operating system called Fuchsia was discovered online, and now the growing source code set<a href="https://github.com/fuchsia-mirror?utf8=%E2%9C%93&amp;query=Escher" rel="noopener noreferrer" target="_blank"> is on GitHub</a>.</p></div></div></div>]]></content>
-	<updated>2016-09-29T13:40:05+00:00</updated>
-	<author><name>Sam Dean</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-29T13:40:05+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-29:/327674</id>
-	<link href="https://www.linux.com/learn/dig-dns-part-4" rel="alternate" type="text/html"/>
-	<title type="html">Dig into DNS: Part 4</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;Dig into DNS: Part 429 SepLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Dig into DNS: Part 4</div></div></div><div><div><div>29 Sep</div></div></div><div><div><div><div><a href="http://localhost/learn/dig-dns-part-4" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2016-09-29T13:00:37+00:00</updated>
-	<author><name>chrisbinnie</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-29T13:00:37+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-28:/327372</id>
-	<link href="https://www.linux.com/news/whats-difference-between-consumer-and-industrial-iot" rel="alternate" type="text/html"/>
-	<title type="html">What’s the Difference Between Consumer and Industrial IoT?</title>
-	<summary type="html"><![CDATA[<p>The Internet of Things is invading everything from consumer to industrial products, but all platform...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>The Internet of Things is invading everything from consumer to industrial products, but all platforms are not created equal.</p></div></div></div>]]></content>
-	<updated>2016-09-28T08:00:00+00:00</updated>
-	<author><name>Electronic Design</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-28T08:00:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-26:/326782</id>
-	<link href="https://www.linux.com/news/exactly-what-openstack-red-hats-rich-bowen-explains" rel="alternate" type="text/html"/>
-	<title type="html">Exactly What Is OpenStack? Red Hat's Rich Bowen Explains</title>
-	<summary type="html"><![CDATA[<p>You've probably heard of OpenStack. It's in the tech news a lot, and it's an important open source p...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>You've probably heard of OpenStack. It's in the tech news a lot, and it's an important open source project. But what exactly is it, and what is it for? Rich Bowen of Red Hat provided a high-level view of OpenStack as a software project, an open source foundation, and a community of organizations in his talk at <a href="http://events.linuxfoundation.org/events/linuxcon-north-america" rel="noopener noreferrer" target="_blank">LinuxCon North America</a>.</p></div></div></div>]]></content>
-	<updated>2016-09-26T15:07:55+00:00</updated>
-	<author><name>cschroder</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-26T15:07:55+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-22:/325966</id>
-	<link href="https://www.linux.com/news/industrial-iot-group-releases-security-framework" rel="alternate" type="text/html"/>
-	<title type="html">Industrial IoT Group Releases Security Framework</title>
-	<summary type="html"><![CDATA[<p>The&nbsp;Industrial Internet Consortium (IIC)&nbsp;, which was founded by&nbsp;AT&amp;T,&nbsp;Cisco,&nbsp;GE,&nbsp;IBM, and&nbsp;Intel,...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>The&nbsp;<a href="http://www.iiconsortium.org/" rel="noopener noreferrer" target="_blank">Industrial Internet Consortium (IIC)</a>&nbsp;, which was founded by&nbsp;<a href="https://www.sdxcentral.com/listings/att/" title="AT&amp;T" rel="noopener noreferrer" target="_blank">AT&amp;T</a>,&nbsp;<a href="https://www.sdxcentral.com/cisco/datacenter/" title="Cisco Data Center Resources" rel="noopener noreferrer" target="_blank">Cisco</a>,&nbsp;<a href="http://www.ge.com/" rel="noopener noreferrer" target="_blank">GE</a>,&nbsp;<a href="https://www.sdxcentral.com/listings/ibm/" title="IBM" rel="noopener noreferrer" target="_blank">IBM</a>, and&nbsp;<a href="https://www.sdxcentral.com/listings/intel/" title="Intel" rel="noopener noreferrer" target="_blank">Intel</a>, released a common framework for&nbsp;<a href="https://www.sdxcentral.com/security/" title="Security Resources" rel="noopener noreferrer" target="_blank">security</a></p></div></div></div>]]></content>
-	<updated>2016-09-22T07:55:38+00:00</updated>
-	<author><name>SDx Central</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-22T07:55:38+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-21:/325595</id>
-	<link href="https://www.linux.com/learn/beginning-grep-linux-sysadmins" rel="alternate" type="text/html"/>
-	<title type="html">Beginning Grep for Linux SysAdmins</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;Beginning Grep for Linux SysAdmins21 SepLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Beginning Grep for Linux SysAdmins</div></div></div><div><div><div>21 Sep</div></div></div><div><div><div><div><a href="http://localhost/learn/beginning-grep-linux-sysadmins" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2016-09-21T13:00:00+00:00</updated>
-	<author><name>cschroder</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-21T13:00:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-20:/325329</id>
-	<link href="https://www.linux.com/news/21-open-source-projects-iot" rel="alternate" type="text/html"/>
-	<title type="html">21 Open Source Projects for IoT</title>
-	<summary type="html"><![CDATA[<p>The Internet of Things market is fragmented, amorphous, and continually changing, and its very natur...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>The Internet of Things market is fragmented, amorphous, and continually changing, and its very nature requires more than the usual attention to interoperability. It&rsquo;s not surprising then, that open source has done quite well here -- customers are hesitant to bet their IoT future on a proprietary platform that may fade or become difficult to customize and interconnect. </p></div></div></div>]]></content>
-	<updated>2016-09-20T16:57:36+00:00</updated>
-	<author><name>ericstephenbrown</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-20T16:57:36+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-20:/325167</id>
-	<link href="https://www.linux.com/news/dig-dns-part-3" rel="alternate" type="text/html"/>
-	<title type="html">Dig into DNS: Part 3</title>
-	<summary type="html"><![CDATA[<p>In the first and second articles in this series, I introduced the powerful dig utility and its uses ...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>In the<a href="https://www.linux.com/learn/dig-dns-part-1" rel="noopener noreferrer" target="_blank"> first </a>and<a href="https://www.linux.com/learn/dig-dns-part-2" rel="noopener noreferrer" target="_blank"> second </a>articles in this series, I introduced the powerful dig utility and its uses in performing DNS lookups along with a few time-saving examples of to put it into practice. In this part, I&rsquo;ll look at my favorite dig utility feature -- which is definitely the &ldquo;trace&rdquo; option. For those unfamiliar with this process, let&rsquo;s slowly run through it.</p></div></div></div>]]></content>
-	<updated>2016-09-20T13:02:08+00:00</updated>
-	<author><name>chrisbinnie</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-20T13:02:08+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-13:/323290</id>
-	<link href="https://www.linux.com/news/who-needs-internet-things" rel="alternate" type="text/html"/>
-	<title type="html">Who Needs the Internet of Things?</title>
-	<summary type="html"><![CDATA[<p>This week, the Raspberry Pi Foundation announced it has sold more than 10 million Raspberry Pi board...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>This week, the Raspberry Pi Foundation <a href="https://www.raspberrypi.org/blog/ten-millionth-raspberry-pi-new-kit/" rel="noopener noreferrer" target="_blank">announced</a> it has sold more than 10 million Raspberry Pi boards and celebrated the milestone by releasing a new Raspberry Pi Starter Kit. While many of these Linux-driven hacker boards were used for the foundation&rsquo;s original purpose -- creating a low-cost computer for computer education -- a large percentage have been sold to hobbyists and commercial developers working on Internet of Things (IoT) projects ranging from home automation to industrial sensor networks.</p></div></div></div>]]></content>
-	<updated>2016-09-13T15:01:14+00:00</updated>
-	<author><name>ericstephenbrown</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-13T15:01:14+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-13:/323293</id>
-	<link href="https://www.linux.com/learn/dig-dns-part-2" rel="alternate" type="text/html"/>
-	<title type="html">Dig Into DNS: Part 2</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;Dig Into DNS: Part 213 SepLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Dig Into DNS: Part 2</div></div></div><div><div><div>13 Sep</div></div></div><div><div><div><div><a href="http://localhost/learn/dig-dns-part-2" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2016-09-13T14:00:31+00:00</updated>
-	<author><name>chrisbinnie</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-13T14:00:31+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436646</id>
-	<link href="https://phys.org/news/2017-10-atlas-fragments-quark.html" rel="alternate" type="text/html"/>
-	<title type="html">ATLAS experiment studies fragments of the top quark</title>
-	<summary type="html"><![CDATA[<p>Top quarks in the Large Hadron Collider (LHC) proton-proton collisions are predominantly produced in...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Top quarks in the Large Hadron Collider (LHC) proton-proton collisions are predominantly produced in pairs, with one top quark and one top antiquark. In order to measure the production rates of top quark pairs, the ATLAS Experiment examined events with an electron, muon, and one or two jets that were likely to have originated from bottom quarks. By comparing the number of events with one bottom-quark jet to those with two bottom-quark jets, ATLAS was able to determine both the total production rate, as well as the efficiency of identifying bottom-flavoured jets.</p>]]></content>
-	<updated>2017-10-09T10:39:42+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-09T10:39:42+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="general physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/3-atlasexperim.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436589</id>
-	<link href="https://phys.org/news/2017-10-japan-scientists-drugs-chicken-eggs.html" rel="alternate" type="text/html"/>
-	<title type="html">Japan scientists grow drugs in chicken eggs</title>
-	<summary type="html"><![CDATA[<p>Japanese researchers have genetically engineered hens whose eggs contain drugs that can fight seriou...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Japanese researchers have genetically engineered hens whose eggs contain drugs that can fight serious diseases including cancer, in a bid to dramatically reduce the cost of treatment, a report said Monday.</p>]]></content>
-	<updated>2017-10-09T07:02:46+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-09T07:02:46+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="biotechnology"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-thescientist.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-07:/436417</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171006101817.htm" rel="alternate" type="text/html"/>
-	<title type="html">Plant cells survive but stop dividing upon DNA damage</title>
-	<summary type="html"><![CDATA[<p>The cell cycle is how a cell passes its DNA but ceases if the DNA is damaged, as otherwise it risks ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The cell cycle is how a cell passes its DNA but ceases if the DNA is damaged, as otherwise it risks passing this damage to daughter cells. Scientists report a new molecular mechanism that explains how this cessation occurs. The study shows that the transcription factor family MYB3R is normally degraded, but accumulates upon DNA damage to prevent cell cycle progression.</p>]]></content>
-	<updated>2017-10-06T14:18:17+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-06T14:18:17+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171006101817-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-08:/321963</id>
-	<link href="https://www.linux.com/news/how-google-uses-and-contributes-open-source" rel="alternate" type="text/html"/>
-	<title type="html">How Google Uses and Contributes to Open Source</title>
-	<summary type="html"><![CDATA[<p>Engineer Marc Merlin has been working at Google since 2001 but has been involved with Linux since 19...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Engineer Marc Merlin has been working at Google since 2001 but has been involved with Linux since 1993, in its very early days. Since then, open source adoption has dramatically increased, but a new challenge is emerging: Not many companies care about the license side of open source, Merlin stated in his talk &ldquo;How Google Uses and Contributes to Open Source&rdquo; at <a href="http://events.linuxfoundation.org/events/linuxcon-north-america" rel="noopener noreferrer" target="_blank">LinuxCon and ContainerCon North America</a>. </p></div></div></div>]]></content>
-	<updated>2016-09-08T16:32:07+00:00</updated>
-	<author><name>arnieswap</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-08T16:32:07+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-08:/321894</id>
-	<link href="https://www.linux.com/news/ibm-launches-new-linux-power8-openpower-systems-0" rel="alternate" type="text/html"/>
-	<title type="html">IBM Launches New Linux, Power8, OpenPower Systems</title>
-	<summary type="html"><![CDATA[<p>IBM on Thursday rolled out its latest Power8 processor, which is designed to move data faster, and n...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>IBM on Thursday rolled out its latest Power8 processor, which is designed to move data faster, and new servers with OpenPower features.&nbsp;For IBM, the OpenPower Foundation community is critical for its Power8 processor. A bevy of companies are in OpenPower, a group that aims to be a counterweight to x86-based servers.&nbsp;</p>
-<p>With the new systems, IBM is hoping to target more artificial intelligence, analytics, and deep learning workloads.&nbsp;</p>
-<p>Read more at <a href="http://www.zdnet.com/article/ibm-launches-new-linux-power8-openpower-systems/" rel="noopener noreferrer" target="_blank">ZDNet</a></p></div></div></div>]]></content>
-	<updated>2016-09-08T14:18:18+00:00</updated>
-	<author><name>ZDNet</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-08T14:18:18+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-08:/321897</id>
-	<link href="https://www.linux.com/news/machine-learning-bigger-picture-part-i" rel="alternate" type="text/html"/>
-	<title type="html">Machine Learning: The Bigger Picture, Part I</title>
-	<summary type="html"><![CDATA[<p>In the past few decades, computer systems have achieved a whole lot. They have managed to organize a...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>In the past few decades, computer systems have achieved a whole lot. They have managed to organize and catalog the information produced by our civilization as a whole. They have relieved us from stringent cognitive tasks and increased our productivity significantly. One could say that where the industrial revolution automated labor, the digital revolution has automated cognitive labor. This statement isn&rsquo;t entirely correct however, if it was we would all be without a job. So what can humans do that machines can&rsquo;t?</p></div></div></div>]]></content>
-	<updated>2016-09-08T11:40:00+00:00</updated>
-	<author><name>DZone</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-08T11:40:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-09-07:/321472</id>
-	<link href="https://www.linux.com/learn/dig-dns-part-1" rel="alternate" type="text/html"/>
-	<title type="html">Dig Into DNS: Part 1</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;Dig Into DNS: Part 17 SepLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Dig Into DNS: Part 1</div></div></div><div><div><div>7 Sep</div></div></div><div><div><div><div><a href="http://localhost/learn/dig-dns-part-1" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2016-09-07T13:00:16+00:00</updated>
-	<author><name>chrisbinnie</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-09-07T13:00:16+00:00</updated>
-		<title>Linux.com</title></source>
 
 
 </entry>
