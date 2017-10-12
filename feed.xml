@@ -4,11 +4,307 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2016-10-17T14:07:43+00:00</updated>
+<updated>2017-10-09T04:00:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-09-26:/432622</id>
+	<link href="http://www.esa.int/Our_Activities/Operations/Preparing_to_fly_Sentinel-5P" rel="alternate" type="text/html"/>
+	<title type="html">Preparing to fly Sentinel-5P</title>
+	<summary type="html"><![CDATA[<p>The teams that will fly Sentinel-5P are training intensively for launch, ensuring that ...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/09/team_training/17172771-1-eng-GB/Team_training_small.jpg" width="170" height="96" align="left" hspace="8"><br>
+		<p>
+The teams that will fly Sentinel-5P are training intensively for launch, ensuring that everyone knows their job and can react to any emergency.
+</p>]]></content>
+	<updated>2017-09-26T11:15:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.esa.int/</id>
+		<link rel="self" href="http://www.esa.int/"/>
+		<updated>2017-09-26T11:15:00+00:00</updated>
+		<title>ESA Top News</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-25:/432135</id>
+	<link href="http://www.esa.int/ESA_Multimedia/Images/2017/09/Rosetta_s_ever-changing_view_of_a_comet" rel="alternate" type="text/html"/>
+	<title type="html">Ever-changing view</title>
+	<summary type="html"><![CDATA[<p>Highlighting Rosetta&rsquo;s ever-changing view of the comet, a year since the mission ...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/09/rosetta_s_ever-changing_view_of_a_comet/17148253-1-eng-GB/Rosetta_s_ever-changing_view_of_a_comet_large.jpg" width="600"><br>
+		Highlighting Rosetta&rsquo;s ever-changing view of the comet, a year since the mission concluded]]></content>
+	<updated>2017-09-25T07:30:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.esa.int/</id>
+		<link rel="self" href="http://www.esa.int/"/>
+		<updated>2017-09-25T07:30:00+00:00</updated>
+		<title>ESA Top News</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438272</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171012091020.htm" rel="alternate" type="text/html"/>
+	<title type="html">Virtual humans work better than current ways to identify post-traumatic stress in soldiers</title>
+	<summary type="html"><![CDATA[<p>Researchers find that soldiers are more likely to open up about post-traumatic stress when interview...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Researchers find that soldiers are more likely to open up about post-traumatic stress when interviewed by a virtual interviewer, reports a new study. Virtual interviewers can combine the rapport-building skills of human interviewers with feelings safety provided by anonymous surveys to help soldiers to reveal more about their mental health symptoms.</p>]]></content>
+	<updated>2017-10-12T13:10:20+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-12T13:10:20+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171012091020-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438212</id>
+	<link href="https://phys.org/news/2017-10-discovery-odor-detecting-receptor.html" rel="alternate" type="text/html"/>
+	<title type="html">Pioneering discovery of an odor-detecting receptor enhancer</title>
+	<summary type="html"><![CDATA[<p>Each odor-detecting neuron (referred to as olfactory sensory neuron from here on), chooses a single ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Each odor-detecting neuron (referred to as olfactory sensory neuron from here on), chooses a single odorant receptor gene from a fairly large number of options that are split into class I (fish-like) and class II (terrestrial-specific) odorant receptors. This strict selectiveness of sensory neurons is in part due to enhancers (DNA sequences that enhance transcription of a gene when bound by specific protein), which remain poorly understood. Understanding enhancer functions is of great interest due to their importance in gene expression as well as evolution and disease. However, they have not been sufficiently studied because they cannot be easily predicted from DNA sequences or chromosome modifications nor can they be easily identified.</p>]]></content>
+	<updated>2017-10-12T13:40:57+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-12T13:40:57+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/pioneeringdi.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438291</id>
+	<link href="https://inhabitat.com/oxford-uk-to-create-first-zero-emissions-zone-in-the-world" rel="alternate" type="text/html"/>
+	<title type="html">Oxford, UK to create first zero-emissions zone in the world</title>
+	<summary type="html"><![CDATA[<p>Oxford, England, with its history of learning dating back to the 11th century, is now shifting into...</p>]]></summary>
+	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Nuffield-College-889x420.jpg" alt="Oxford, United Kingdom, England"></p>
+<p><a href="https://inhabitat.com/tag/oxford/" rel="noopener noreferrer" target="_blank">Oxford</a>, England, with its history of learning dating back to the 11th century, is now shifting into the future with an <a href="https://inhabitat.com/tag/electric-vehicle" rel="noopener noreferrer" target="_blank">electric-vehicle</a> only zone in the city center. By banning all internal combustion engine vehicles, the city is establishing what it says is the first zero-emissions zone in the world. Starting in 2020, six streets in Oxford&rsquo;s city center will be free of smaller gas-guzzling vehicles, including buses and taxis. By 2035, the ban will have expanded to all fossil-fuel powered vehicles and will encompass the entire city center.</p>
+<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Bridge-of-Sighs-889x500.jpg" alt="Oxford, United Kingdom, England"></p>
+<p>While such a dramatic change in the city center&rsquo;s urban design may encourage less driving, thus less <a href="https://inhabitat.com/tag/greenhouse-gases" rel="noopener noreferrer" target="_blank">greenhouse gas</a> emissions, the zone was inspired by a need to reduce levels of nitrogen dioxide, most of which comes from car exhaust, by three-fourths. Chronic exposure to nitrogen dioxide can cause respiratory problems and eye irritation.&nbsp;Data from the World Health Organization also indicates that Oxford is one of eleven British cities to exceed the safe limits of toxic particles known as PM10s and PM2.5s. A &ldquo;step change&rdquo; is urgently needed to prevent air <a href="https://inhabitat.com/tag/pollution" rel="noopener noreferrer" target="_blank">pollution</a> from &ldquo;damaging the health&rdquo; of Oxford residents, said city councilor John Tanner.</p>
+<p><a href="https://inhabitat.com/gms-plans-for-all-electric-future-spell-doom-for-fossil-fuel-industry/" rel="noopener noreferrer" target="_blank">Related:&nbsp;GM&rsquo;s plans for &ldquo;all-electric-future&rdquo; spell doom for fossil fuel industry</a></p>
+<p>The switch-over plan is expected to cost Oxford city government, bus companies, and local businesses approximately&nbsp;&pound;7 million to replace the <a href="https://inhabitat.com/tag/fossil-fuels" rel="noopener noreferrer" target="_blank">fossil-fuel</a> consuming vehicles, including all municipal vehicles, with electric vehicles. An additional&nbsp;&pound;7 million will be spent to build compliance <a href="https://inhabitat.com/tag/infrastructure" rel="noopener noreferrer" target="_blank">infrastructure</a>, such as CCTV cameras with plate number recognition technology. Those who still choose to bring their old fashioned vehicles into the city center after the ban will face a significant fine. To sustain such a project, Oxford would require sustained commitment from local, regional, and perhaps federal government.</p>
+<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Radcliffe-Camera-889x592.jpg" alt="Oxford, United Kingdom, England"></p>
+<p>Via <a href="https://www.theguardian.com/uk-news/2017/oct/11/oxford-aims-to-cut-air-pollution-car-ban-zero-emissions-zone" rel="noopener noreferrer" target="_blank">The Guardian</a></p>
+<p><em>Images via&nbsp;<a href="https://www.flickr.com/photos/125993862@N06/16705276121/in/photolist-nqbvE5-rsbUA6-zgJVSc-zaSrir-zfTTbc-zd8ovm-zhaGps-zj1LGe-ebYYY-ziaAA4-yA3upW-zd9QBA-zaLhzY-z1DPhg-yBJwmL-yBSVwM-zdeF8r-zftE5d-zxFkRC-ziaAdv-6Nvitj-8TCsjM-zrjd1W-zhfwyg-yosofe-z3PMMR-yYo33a-zbg8ay-dkhjMm-HLLYk-xvzneb-VvDaFV-ajP6Ya-HGXUXR-8MiMCG-TNQ3jk-KcwFM8-8HUqMw-8TFyyS-Dk9v3d-aYLJST-V4iYUC-9oB6s8-xnNVCo-4adoJP-9oE9dS-6ZnNoJ-U63Jyv-6Nrco6-8eV284" rel="noopener noreferrer" target="_blank">Martijn van Sabben</a>,&nbsp;<a href="https://www.flickr.com/photos/giuseppemilo/28353809653/in/photolist-KcwFM8-8HUqMw-8TFyyS-Dk9v3d-aYLJST-V4iYUC-9oB6s8-xnNVCo-4adoJP-9oE9dS-6ZnNoJ-U63Jyv-6Nrco6-8eV284-p1Bk6E-rfX2Xw-ryjqGj-6qQzF8-9oEa55-8RvtKa-rwDSDx-raKJ1c-bpauKV-envsCx-afBNUx-rJYaui-Mcy7oT-inwu5k-nvSF5U-r1S4BZ-xbvMDY-rbHg2G-Jb23wL-6rCfHR-6NraJP-6Nr9De-omDDZW-p3Lxp-8TKS9W-4qfBXZ-8BYEVX-92CPRe-i6Kby-379DqS-JrHgY7-8eBf3X-dKyVoy-aYkUwP-922SbX-8SbdPy" rel="noopener noreferrer" target="_blank">Giuseppe Milo</a></em></p><div>
+<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=hWSsMImnUWQ:gnBwCvlIMog:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=hWSsMImnUWQ:gnBwCvlIMog:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
+</div>]]></content>
+	<updated>2017-10-12T13:15:38+00:00</updated>
+	<author><name>Greg Beach</name></author>
+	<source>
+		<id>https://inhabitat.com</id>
+		<link rel="self" href="https://inhabitat.com"/>
+		<updated>2017-10-12T13:15:38+00:00</updated>
+		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
+
+	<category term="urban design"/>
+
+	<category term="automotive"/>
+
+	<category term="air quality"/>
+
+	<category term="clean energy"/>
+
+	<category term="conservation"/>
+
+	<category term="climate change"/>
+
+	<category term="green energy"/>
+
+	<category term="air pollution"/>
+
+	<category term="united kingdom"/>
+
+	<category term="electric vehicles"/>
+
+	<category term="electric cars"/>
+
+	<category term="greenhouse gases"/>
+
+	<category term="england"/>
+
+	<category term="fossil fuels"/>
+
+	<category term="news"/>
+
+	<category term="london"/>
+
+	<category term="oxford"/>
+
+	<category term="environment"/>
+
+	<category term="sustainable design"/>
+
+	<category term="resilient design"/>
+
+	<category term="renewable energy"/>
+
+	<category term="green policies"/>
+
+	<category term="zero emissions zone"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438357</id>
+	<link href="https://inhabitat.com/report-solar-power-is-the-fastest-growing-source-of-new-energy" rel="alternate" type="text/html"/>
+	<title type="html">Report:solar power is the fastest growing source of new energy</title>
+	<summary type="html"><![CDATA[<p>The world is going green at an unprecedented rate. In 2016, renewable energy accounted for two-thir...</p>]]></summary>
+	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/report-solar-fastest-growing-renewable-energy-technology-worldwide-1-889x592.jpg" alt="International Energy Agency, solar power, wind power, renewable energy, clean energy, fossil fuels, environment, sustainability, environment, "></p>
+<p>The world is going green at an unprecedented rate. In 2016, <a href="https://inhabitat.com/tag/renewable-energy" rel="noopener noreferrer" target="_blank">renewable energy</a> accounted for two-thirds of all new power added to the world&rsquo;s grid, according to a report by the International Energy Agency (IEA) &mdash; with more <a href="https://inhabitat.com/tag/solar" rel="noopener noreferrer" target="_blank">solar</a> brought on board than any other technology. Overall, the growth in renewable power is estimated to be twice as large as gas and coal combined over the next five years.</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/report-solar-fastest-growing-renewable-energy-technology-worldwide-1-889x592.jpg" alt="International Energy Agency, solar power, wind power, renewable energy, clean energy, fossil fuels, environment, sustainability, environment, "></p>
+<p>According to the report, new solar growth even overtook the net growth in <a href="https://inhabitat.com/tag/coal" rel="noopener noreferrer" target="_blank">coal,&nbsp;</a>which was previously the largest source of power generation. In many countries, the switch toward solar was propelled by falling prices and more favorable government policies. Now, the agency &mdash; which was funded by 28 member governments &mdash; predicts that in five years, the global capacity for <a href="https://inhabitat.com/tag/solar" rel="noopener noreferrer" target="_blank">solar</a> will be greater &ldquo;than the current combined total power of capacity of India and Japan.&rdquo;</p>
+<p>Dr. Fatih Birol, the executive director of the IEA, said, &ldquo;What we are witnessing is the birth of a new era in solar photovoltaics [PV]. We expect that solar PV capacity growth will be higher than any other <a href="https://inhabitat.com/tag/renewable-energy" rel="noopener noreferrer" target="_blank">renewable technology</a> up to 2022.&rdquo;</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/report-solar-fastest-growing-renewable-energy-technology-worldwide-2-889x592.jpg" alt="International Energy Agency, solar power, wind power, renewable energy, clean energy, fossil fuels, environment, sustainability, environment, "></p>
+<p>The agency said it has &ldquo;underestimated&rdquo; the speed solar is growing. Based on figures from 2016, the IEA now expects one-third more solar in China and <a href="https://inhabitat.com/tag/India" rel="noopener noreferrer" target="_blank">India</a> by 2022. China, which is notorious for being the most polluted country in the world, is leading the expansion of renewable energy. The <a href="https://inhabitat.com/tag/United-States" rel="noopener noreferrer" target="_blank">United States</a> is the second-fasting growing market, despite President Trump&rsquo;s adamant anti-climate change stance.</p>
+<p>India is set for a &ldquo;solar boom&rdquo; over the next five years. Already, solar farms integrated with the grid are common, and innovation in the country is ensuring<a href="https://inhabitat.com/brilliant-zero-energy-air-conditioner-in-india-is-beautiful-and-functional/" rel="noopener noreferrer" target="_blank"> even the poorest residents have access to eco-friendly inventions</a>. Because India&rsquo;s renewable energy capacity will double by 2022, it will likely overtake the EU on growth. In terms of solar, the <a href="https://inhabitat.com/tag/UK" rel="noopener noreferrer" target="_blank">UK</a> is expected to lag behind. The amount of solar forecast to be installed by 2022 is one-fifth the amount installed over the past five years. Offshore <a href="https://inhabitat.com/tag/wind-farm" rel="noopener noreferrer" target="_blank">wind farms</a> are expected to account for most of the UK&rsquo;s renewable energy growth.</p>
+<p><a href="https://inhabitat.com/the-puerto-rico-nursery-still-up-and-running-thanks-to-solar-power/" rel="noopener noreferrer" target="_blank">Related:&nbsp;The Puerto Rico nursery still up and running thanks to solar power</a></p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/report-solar-fastest-growing-renewable-energy-technology-worldwide-3-889x667.jpg" alt="International Energy Agency, solar power, wind power, renewable energy, clean energy, fossil fuels, environment, sustainability, environment, "></p>
+<p>The world&rsquo;s acceptance of <a href="https://inhabitat.com/tag/clean-energy" rel="noopener noreferrer" target="_blank">clean energy</a> means technologies &mdash; including wind, solar, and <a href="https://inhabitat.com/tag/geothermal" rel="noopener noreferrer" target="_blank">geothermal</a> &mdash; are becoming comparable in price to fossil fuels. Paolo Frankl, head of the renewable energy division at the IEA, said, &ldquo;Renewables may well become even cheaper than fossil fuel alternatives [over the next five years].&rdquo;&nbsp;Within five years, coal may still be the biggest source of power. But renewables&rsquo; share of electricity will increase from 24 percent in 2016 to 30 percent by 2022.</p>
+<p>Via <a href="https://www.theguardian.com/environment/2017/oct/04/solar-power-renewables-international-energy-agency" rel="noopener noreferrer" target="_blank">The Guardian&nbsp;</a></p>
+<p><em>Images via <a href="http://www.pixabay.com" rel="noopener noreferrer" target="_blank">Pixabay</a></em></p><div>
+<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=ejWXTdiC0wk:0_HI5vrRNUs:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=ejWXTdiC0wk:0_HI5vrRNUs:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
+</div>]]></content>
+	<updated>2017-10-05T11:53:12+00:00</updated>
+	<author><name>Amanda Froelich</name></author>
+	<source>
+		<id>https://inhabitat.com</id>
+		<link rel="self" href="https://inhabitat.com"/>
+		<updated>2017-10-05T11:53:12+00:00</updated>
+		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
+
+	<category term="energy"/>
+
+	<category term="solar power"/>
+
+	<category term="wind power"/>
+
+	<category term="air quality"/>
+
+	<category term="clean energy"/>
+
+	<category term="energy efficiency"/>
+
+	<category term="uk"/>
+
+	<category term="environment"/>
+
+	<category term="alternative energy"/>
+
+	<category term="solar"/>
+
+	<category term="india"/>
+
+	<category term="renewable energy"/>
+
+	<category term="climate change"/>
+
+	<category term="geothermal"/>
+
+	<category term="wind farm"/>
+
+	<category term="coal"/>
+
+	<category term="united states"/>
+
+	<category term="news"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-06-29:/405350</id>
+	<link href="https://letsencrypt.org//2017/06/28/hundred-million-certs.html" rel="alternate" type="text/html"/>
+	<title type="html">Milestone: 100 Million Certificates Issued</title>
+	<summary type="html"><![CDATA[<p>Let&rsquo;s Encrypt has reached a milestone: we&rsquo;ve now issued more than 100,000,000 certificates. This num...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Let&rsquo;s Encrypt has reached a milestone: we&rsquo;ve now issued more than 100,000,000 certificates. This number reflects at least a few things:</p>
+
+<p>First, it illustrates the strong demand for our services. We&rsquo;d like to thank all of the sysadmins, web developers, and everyone else managing servers for prioritizing protecting your visitors with HTTPS.</p>
+
+<p>Second, it illustrates our ability to scale. I&rsquo;m incredibly proud of the work our engineering teams have done to make this volume of issuance possible. I&rsquo;m also very grateful to our operational partners, including <a href="https://www.identrust.com/" rel="noopener noreferrer" target="_blank">IdenTrust</a>, <a href="https://www.akamai.com/" rel="noopener noreferrer" target="_blank">Akamai</a>, and <a href="https://www.sumologic.com/" rel="noopener noreferrer" target="_blank">Sumo Logic</a>.</p>
+
+<p>Third, it illustrates the power of automated certificate management. If getting and managing certificates from Let&rsquo;s Encrypt always required manual steps there is simply no way we&rsquo;d be able to serve as many sites as we do. We&rsquo;d like to thank our community for creating a <a href="https://letsencrypt.org/docs/client-options/" rel="noopener noreferrer" target="_blank">wide range of clients</a> for automating certificate issuance and management.</p>
+
+<p>The total number of certificates we&rsquo;ve issued is an interesting number, but it doesn&rsquo;t reflect much about tangible progress towards our primary goal: a 100% HTTPS Web. To understand that progress we need to look at this graph:</p>
+
+<center><p><img src="http://localhost/images/2017.06.28-https-percentage.png" alt="Percentage of HTTPS Page Loads in Firefox."></p></center>
+
+<p>When Let&rsquo;s Encrypt&rsquo;s service first became available, less than 40% of page loads on the Web used HTTPS. It took the Web 20 years to get to that point. In the 19 months since we launched, encrypted page loads have gone up by 18%, to nearly 58%. That&rsquo;s an incredible rate of change for the Web. Contributing to this trend is what we&rsquo;re most proud of.</p>
+
+<p>If you&rsquo;re as excited about the potential for a 100% HTTPS Web as we are, please consider <a href="https://letsencrypt.org/getinvolved/" rel="noopener noreferrer" target="_blank">getting involved</a>, <a href="https://letsencrypt.org/donate/" rel="noopener noreferrer" target="_blank">making a donation</a>, or <a href="https://letsencrypt.org/become-a-sponsor/" rel="noopener noreferrer" target="_blank">sponsoring</a> Let&rsquo;s Encrypt.</p>
+
+<p>Here&rsquo;s to the next 100,000,000 certificates, and a more secure and privacy-respecting Web for everyone!</p>]]></content>
+	<updated>2017-06-28T07:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://letsencrypt.org//</id>
+		<link rel="self" href="https://letsencrypt.org//"/>
+		<updated>2017-06-28T07:00:00+00:00</updated>
+		<title>Let's Encrypt</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-07:/354831</id>
+	<link href="https://letsencrypt.org//2017/01/06/le-2016-in-review.html" rel="alternate" type="text/html"/>
+	<title type="html">Let’s Encrypt 2016 In Review</title>
+	<summary type="html"><![CDATA[<p>Our first full year as a live CA was an exciting one. I&rsquo;m incredibly proud of what our team and comm...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Our first full year as a live CA was an exciting one. I&rsquo;m incredibly proud of what our team and community accomplished during 2016. I&rsquo;d like to share some thoughts about how we&rsquo;ve changed, what we&rsquo;ve accomplished, and what we&rsquo;ve learned.</p>
+
+<p>At the start of 2016, Let&rsquo;s Encrypt certificates had been available to the public for less than a month and we were supporting approximately 240,000 active (unexpired) certificates. That seemed like a lot at the time! Now we&rsquo;re frequently issuing that many new certificates in a single day while supporting more than 20,000,000 active certificates in total. We&rsquo;ve issued more than a million certificates in a single day a few times recently. We&rsquo;re currently serving an average of 6,700 OCSP responses per second. We&rsquo;ve done a lot of optimization work, we&rsquo;ve had to add some hardware, and there have been some long nights for our staff, but we&rsquo;ve been able to keep up and we&rsquo;re ready for another year of <a href="https://letsencrypt.org/stats/" rel="noopener noreferrer" target="_blank">strong growth</a>.</p>
+
+<center><p><img src="http://localhost/images/Jan-6-2017-Cert-Stats.png" alt="Let's Encrypt certificate issuance statistics."></p></center>
+
+<p>We added a number of <a href="https://letsencrypt.org/upcoming-features/" rel="noopener noreferrer" target="_blank">new features</a> during the past year, including support for the ACME DNS challenge, ECDSA signing, IPv6, and Internationalized Domain Names.</p>
+
+<p>When 2016 started, our root certificate had not been accepted into any major root programs. Today we&rsquo;ve been accepted into the Mozilla, Apple, and Google root programs. We&rsquo;re close to announcing acceptance into another major root program. These are major steps towards being able to operate as an independent CA. You can read more about why <a href="https://letsencrypt.org/2016/08/05/le-root-to-be-trusted-by-mozilla.html" rel="noopener noreferrer" target="_blank">here</a>.</p>
+
+<p>The ACME protocol for issuing and managing certificates is at the heart of how Let&rsquo;s Encrypt works. Having a well-defined and heavily audited specification developed in public on a standards track has been a major contributor to our growth and the growth of our client ecosystem. Great progress was made in 2016 towards standardizing ACME in the <a href="https://datatracker.ietf.org/wg/acme/charter/" rel="noopener noreferrer" target="_blank">IETF ACME working group</a>. We&rsquo;re hoping for a final document around the end of Q2 2017, and we&rsquo;ll announce plans for implementation of the updated protocol around that time as well.</p>
+
+<p>Supporting the kind of growth we saw in 2016 meant adding staff, and during the past year Internet Security Research Group (ISRG), the non-profit entity behind Let&rsquo;s Encrypt, went from four full-time employees to nine. We&rsquo;re still a pretty small crew given that we&rsquo;re now one of the largest CAs in the world (if not the largest), but it works because of our intense focus on automation, the fact that we&rsquo;ve been able to hire great people, and because of the incredible support we receive from the Let&rsquo;s Encrypt community.</p>
+
+<p>Let&rsquo;s Encrypt exists in order to help create a 100% encrypted Web. Our own metrics can be interesting, but they&rsquo;re only really meaningful in terms of the impact they have on progress towards a more secure and privacy-respecting Web. The metric we use to track progress towards that goal is the percentage of page loads using HTTPS, as seen by browsers. According to Firefox Telemetry, the Web has gone from approximately 39% of page loads using HTTPS each day to just about 49% during the past year. We&rsquo;re incredibly close to a Web that is more encrypted than not. We&rsquo;re proud to have been a big part of that, but we can&rsquo;t take credit for all of it. Many people and organizations around the globe have come to realize that we need to invest in a more secure and privacy-respecting Web, and have taken steps to secure their own sites as well as their customers&rsquo;. Thank you to everyone that has advocated for HTTPS this year, or helped to make it easier for people to make the switch.</p>
+
+<p>We learned some lessons this year. When we had service interruptions they were usually related to managing the rapidly growing database backing our CA. Also, while most of our code had proper tests, some small pieces didn&rsquo;t and that led to <a href="https://community.letsencrypt.org/c/incidents" rel="noopener noreferrer" target="_blank">incidents</a> that shouldn&rsquo;t have happened. That said, I&rsquo;m proud of the way we handle incidents promptly, including quick and transparent public disclosure.</p>
+
+<p>We also learned a lot about our client ecosystem. At the beginning of 2016, ISRG / Let&rsquo;s Encrypt provided client software called letsencrypt. We&rsquo;ve always known that we would never be able produce software that would work for every Web server/stack, but we felt that we needed to offer a client that would work well for a large number of people and that could act as a reference client. By March of 2016, earlier than we had foreseen, it had become clear that our community was up to the task of creating a wide range of quality clients, and that our energy would be better spent fostering that community than producing our own client. That&rsquo;s when we made the decision to <a href="https://letsencrypt.org/2016/03/09/le-client-new-home.html" rel="noopener noreferrer" target="_blank">hand off development of our client</a> to the Electronic Frontier Foundation (EFF). EFF renamed the client to <a href="https://certbot.eff.org/" rel="noopener noreferrer" target="_blank">Certbot</a> and has been doing an excellent job maintaining and improving it as one of <a href="https://letsencrypt.org/docs/client-options/" rel="noopener noreferrer" target="_blank">many client options</a>.</p>
+
+<p>As exciting as 2016 was for Let&rsquo;s Encrypt and encryption on the Web, 2017 seems set to be an even more incredible year. Much of the infrastructure and many of the plans necessary for a 100% encrypted Web came into being or solidified in 2016. More and more hosting providers and CDNs are supporting HTTPS with one click or by default, often without additional fees. It has never been easier for people and organizations running their own sites to find the tools, services, and information they need to move to HTTPS. Browsers are planning to update their user interfaces to better reflect the risks associated with non-secure connections.</p>
+
+<p>We&rsquo;d like to thank our community, including our <a href="https://letsencrypt.org/sponsors/" rel="noopener noreferrer" target="_blank">sponsors</a>, for making everything we did this past year possible. Please consider <a href="https://letsencrypt.org/getinvolved/" rel="noopener noreferrer" target="_blank">getting involved</a> or making a <a href="https://letsencrypt.org/donate/" rel="noopener noreferrer" target="_blank">donation</a>, and if your company or organization would like to sponsor Let&rsquo;s Encrypt please email us at <a href="mailto:sponsor@letsencrypt.org" rel="noopener noreferrer" target="_blank">sponsor@letsencrypt.org</a>.</p>]]></content>
+	<updated>2017-01-06T08:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://letsencrypt.org//</id>
+		<link rel="self" href="https://letsencrypt.org//"/>
+		<updated>2017-01-06T08:00:00+00:00</updated>
+		<title>Let's Encrypt</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-01-09:/355200</id>
@@ -366,23 +662,6 @@ Google Analytics is the most widely used cloud-based web analytics service. Howe
 		type="image/generic" 
 		length="1"
 		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/59df1817b7a0d.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-11:/437869</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/uop-aeg101117.php" rel="alternate" type="text/html"/>
-	<title type="html">An engineer's guide to the embryo</title>
-	<summary type="html"><![CDATA[<p>(University of Pittsburgh) The NIH Department of Health and Human Services awarded Lance Davidson, p...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of Pittsburgh</i>) The NIH Department of Health and Human Services awarded Lance Davidson, professor of bioengineering at Pitt's Swanson School of Engineering, $1,327,207 for his study 'Biomechanics of Morphogenesis.' Dr. Davidson, who directs the MechMorpho Lab at the University of Pittsburgh, aims to take a structural engineer's approach to the biomechanics of developing embryos.</p>]]></content>
-	<updated>2017-10-11T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-11T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
 
 </entry>
 
@@ -1047,148 +1326,6 @@ World Standards Day</a> on October 14.  "<span>Whether in the world of software,
 		<link rel="self" href="http://www.eurekalert.org"/>
 		<updated>2017-10-09T04:00:00+00:00</updated>
 		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436694</id>
-	<link href="https://phys.org/news/2017-10-nanoparticles-wounds.html" rel="alternate" type="text/html"/>
-	<title type="html">Nanoparticles that stick wounds together</title>
-	<summary type="html"><![CDATA[<p>In spite of medical advances, wound-related complications arising after operations can still be life...</p>]]></summary>
-	<content type="html"><![CDATA[<p>In spite of medical advances, wound-related complications arising after operations can still be life-threatening. In order to avoid these complications in the future, a new nanoparticle-based tissue glue has been developed by researchers at Empa.</p>]]></content>
-	<updated>2017-10-09T12:40:06+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-09T12:40:06+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="bio &amp; medicine"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-2-nanoparticle.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436723</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171009084357.htm" rel="alternate" type="text/html"/>
-	<title type="html">How brain cells die in Alzheimer's and FTD</title>
-	<summary type="html"><![CDATA[<p>Removal of a regulatory gene called LSD1 in adult mice induces changes in gene activity that that lo...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Removal of a regulatory gene called LSD1 in adult mice induces changes in gene activity that that look unexpectedly like Alzheimer's. Another surprise: LSD1 is tangled up in brain samples from humans with Alzheimer's and frontotemporal dementia (FTD), suggesting LSD1 as a central downstream player in these diseases and a drug target.</p>]]></content>
-	<updated>2017-10-09T12:43:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-09T12:43:57+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171009084357-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436709</id>
-	<link href="https://www.pddnet.com/news/2017/10/osha-others-create-new-industrial-robotics-standards-body" rel="alternate" type="text/html"/>
-	<title type="html">OSHA, Others Create New Industrial Robotics Standards Body</title>
-	<summary type="html"><![CDATA[<p>NewsOSHA and the National Institute for Occupational Safety and Health (NIOSH) have partnered with t...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div>News</div></div></div><div><div><div>OSHA and the National Institute for Occupational Safety and Health (NIOSH) have partnered with the Robotic Industries Association (RIA) to set standards for industrial robotics. Called the OSHA/NIOSH/RIA Alliance and announced on Oct. 6...</div></div></div><div><div><div><a href="http://localhost/news/2017/10/osha-others-create-new-industrial-robotics-standards-body" rel="noopener noreferrer" target="_blank"><img typeof="foaf:Image" src="https://abm-website-assets.s3.amazonaws.com/pddnet.com/s3fs-public/styles/wide_thumb/public/featured_image/2017/10/Industrial%20Robot.jpg?itok=CIkCunO5"></a></div></div></div><div><div>Staff Author:&nbsp;</div><div><div><a href="http://localhost/staff-author/megan-crouse-0" rel="noopener noreferrer" target="_blank">Megan Crouse</a></div></div></div><div><div>Topics:&nbsp;</div><div><div><a href="http://localhost/topics/robotics" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" rel="noopener noreferrer" target="_blank">Robotics</a></div></div></div>]]></content>
-	<updated>2017-10-06T14:05:34+00:00</updated>
-	<author><name>mcrouse</name></author>
-	<source>
-		<id>https://www.pddnet.com/rss-feeds/all/rss.xml/all</id>
-		<link rel="self" href="https://www.pddnet.com/rss-feeds/all/rss.xml/all"/>
-		<updated>2017-10-06T14:05:34+00:00</updated>
-		<title>Product Design &amp; Development All</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436747</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/du-bst100517.php" rel="alternate" type="text/html"/>
-	<title type="html">Bacteria self-organize to build working sensors</title>
-	<summary type="html"><![CDATA[<p>(Duke University) By programming bacteria with a synthetic gene circuit that can recruit gold nanopa...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Duke University</i>) By programming bacteria with a synthetic gene circuit that can recruit gold nanoparticles to the surface of their colony, Duke researchers can build functional devices. A proof-of-concept study appearing in Nature Biotechnology uses this technique to build dome-shaped pressure sensors with the help of living bacteria.</p>]]></content>
-	<updated>2017-10-09T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-09T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-20:/334083</id>
-	<link href="https://www.linux.com/learn/iotop-monitor-linux-disk-io-activity-and-usage-process-basis" rel="alternate" type="text/html"/>
-	<title type="html">Iotop – Monitor Linux Disk I/O Activity and Usage Per-Process Basis</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;Iotop &ndash; Monitor Linux Disk I/O Activity and Usage Per-Process Basis20 OctLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Iotop &ndash; Monitor Linux Disk I/O Activity and Usage Per-Process Basis</div></div></div><div><div><div>20 Oct</div></div></div><div><div><div><div><a href="http://localhost/learn/iotop-monitor-linux-disk-io-activity-and-usage-process-basis" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2016-10-20T06:00:32+00:00</updated>
-	<author><name>Tecmint</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-10-20T06:00:32+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-20:/334015</id>
-	<link href="https://www.linux.com/news/googles-open-source-report-card-highlights-game-changing-contributions" rel="alternate" type="text/html"/>
-	<title type="html">Google’s Open Source Report Card Highlights Game-Changing Contributions</title>
-	<summary type="html"><![CDATA[<p>Ask people about Google&rsquo;s relationship to open source, and many of them will point to Android and Ch...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Ask people about Google&rsquo;s relationship to open source, and many of them will point to Android and Chrome OS &mdash; both very successful operating systems and both based on Linux. Android, in particular, remains one of the biggest home runs in open source history. But, as Josh Simmons from Google&rsquo;s Open Source Programs Office will tell you, Google also contributes a slew of useful open source tools and programs to the community each year.</p></div></div></div>]]></content>
-	<updated>2016-10-20T17:25:17+00:00</updated>
-	<author><name>Sam Dean</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-10-20T17:25:17+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-17:/332856</id>
-	<link href="https://linux-audit.com/using-encrypted-documents-with-vim/" rel="alternate" type="text/html"/>
-	<title type="html">Using encrypted documents with vim</title>
-	<summary type="html"><![CDATA[<p>Encrypting files with vim Everyone has secrets. Or at least some data you don&rsquo;t want to show o...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Encrypting files with vim Everyone has secrets. Or at least some data you don&rsquo;t want to show others, right? Vim is a common editor to be found on Linux systems. It has an option to create and use encrypted files. We will look at how to configure it and use this encryption capability. Encryption is the process of fiddling with data so that others no longer can&rsquo;t read it. The idea is that you still can, so when we speak [...]</p>
-<p>The post <a rel="noopener noreferrer" href="https://linux-audit.com/using-encrypted-documents-with-vim/" target="_blank">Using encrypted documents with vim</a> appeared first on <a rel="noopener noreferrer" href="https://linux-audit.com" target="_blank">Linux Audit</a>.</p>]]></content>
-	<updated>2016-10-17T14:07:43+00:00</updated>
-	<author><name>Michael Boelen</name></author>
-	<source>
-		<id>https://linux-audit.com</id>
-		<link rel="self" href="https://linux-audit.com"/>
-		<updated>2016-10-17T14:07:43+00:00</updated>
-		<title>Linux Audit</title></source>
-
-	<category term="crypto"/>
-
-	<category term="cryptography"/>
-
-	<category term="encryption"/>
-
-	<category term="vi"/>
-
-	<category term="vim"/>
 
 
 </entry>
