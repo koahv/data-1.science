@@ -4,11 +4,331 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-10-09T04:00:00+00:00</updated>
+<updated>2016-11-10T09:00:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437121</id>
+	<link href="https://www.linux.com/news/building-open-standard-distributed-messaging-introducing-openmessaging" rel="alternate" type="text/html"/>
+	<title type="html">Building an Open Standard for Distributed Messaging: Introducing OpenMessaging</title>
+	<summary type="html"><![CDATA[<p>Through a collaborative effort from enterprises and communities invested in cloud, big data, and sta...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Through a collaborative effort from enterprises and communities invested in cloud, big data, and standard APIs, I&rsquo;m excited to welcome the OpenMessaging project to The Linux Foundation. The OpenMessaging community&rsquo;s goal is to create a globally adopted, vendor-neutral, and open standard for distributed messaging that can be deployed in cloud, on-premise, and hybrid use cases.</p></div></div></div>]]></content>
+	<updated>2017-10-10T10:20:36+00:00</updated>
+	<author><name>lfadmin</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-10-10T10:20:36+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438830</id>
+	<link href="https://www.linux.com/blog/2017/10/top-10-open-source-linux-robots" rel="alternate" type="text/html"/>
+	<title type="html">Top 10 Open Source Linux Robots</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;Top 10 Open Source Linux Robots13 OctLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Top 10 Open Source Linux Robots</div></div></div><div><div><div>13 Oct</div></div></div><div><div><div><div><a href="http://localhost/blog/2017/10/top-10-open-source-linux-robots" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2017-10-13T13:45:09+00:00</updated>
+	<author><name>ericstephenbrown</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-10-13T13:45:09+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-11:/437393</id>
+	<link href="http://www.zdnet.com/article/what-is-devops-an-executive-guide-to-agile-development-and-it-operations/#ftag=RSSbaffb68" rel="alternate" type="text/html"/>
+	<title type="html">What is DevOps? An executive guide to agile development and IT operations</title>
+	<summary type="html"><![CDATA[<p>To make the most of today's containers, servers, virtual machines, and clouds, you need to deploy De...</p>]]></summary>
+	<content type="html"><![CDATA[<p>To make the most of today's containers, servers, virtual machines, and clouds, you need to deploy DevOps in your enterprise. Or, you can let your rivals put you out of business. It's your choice.</p>]]></content>
+	<updated>2017-10-10T23:41:54+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.zdnet.com/</id>
+		<link rel="self" href="http://www.zdnet.com/"/>
+		<updated>2017-10-10T23:41:54+00:00</updated>
+		<title>ZDNet | Linux And Open Source Blog RSS</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-11:/437948</id>
+	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Linux-Debugger-2.2" rel="alternate" type="text/html"/>
+	<title type="html">NVIDIA Releases Linux Graphics Debugger 2.2</title>
+	<summary type="html"><![CDATA[<p>NVIDIA has today released an updated version of their Linux Graphics Debugger to help game/applicati...</p>]]></summary>
+	<content type="html"><![CDATA[<p>NVIDIA has today released an updated version of their Linux Graphics Debugger to help game/application developers in analyzing issues and performance problems around OpenGL 4.x on GeForce/Quadro GPUs...</p>]]></content>
+	<updated>2017-10-11T21:56:36+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2017-10-11T21:56:36+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/437997</id>
+	<link href="https://opensource.com/article/17/10/openstack-project-contribution-benefits" rel="alternate" type="text/html"/>
+	<title type="html">5 benefits of contributing to open source projects</title>
+	<summary type="html"><![CDATA[<p>Open source was once seen as a risky bet for the enterprise. If open source software was used at all...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/lead-images/welcome-open-sign-door-osdc-lead.png" width="520" height="292" alt="5 benefits of contributing to open source projects" title="5 benefits of contributing to open source projects"><p>Open source was once seen as a risky bet for the enterprise. If open source software was used at all it was by small companies, or by larger firms in stealthy pockets by IT and development professionals who saw the value of the model but couldn't "sell" it upstream.</p>
+<br>
+<a href="https://opensource.com/article/17/10/openstack-project-contribution-benefits" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-10-12T07:00:00+00:00</updated>
+	<author><name>Edgar Magana</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-10-12T07:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438785</id>
+	<link href="http://www.linuxinsider.com/story/84881.html?rss=1" rel="alternate" type="text/html"/>
+	<title type="html">AWS, Microsoft Offer New Open Source AI Framework</title>
+	<summary type="html"><![CDATA[<p>AWS and Microsoft have announced the availability of Gluon, an open source deep learning lib...</p>]]></summary>
+	<content type="html"><![CDATA[<a href="http://www.linuxinsider.com/story/84881.html?rss=1" rel="noopener noreferrer" target="_blank"><img src="http://www.linuxinsider.com/images/rw442503/open-source-machine-learning" align="left" alt="" hspace="7" border="0"></a>
+			AWS and Microsoft have announced the availability of Gluon, an open source deep learning library for building AI neural networks. Gluon will make it easier for researchers to define machine learning models using a collection of prebuilt, optimized neural network components. The interface will enable software developers and enterprise users to manipulate machine learning models like any other data structures. Gluon also will enable data scientists and researchers to build prototypes quickly.]]></content>
+	<updated>2017-10-13T12:00:00+00:00</updated>
+	<author><name>Jack M. Germain</name></author>
+	<source>
+		<id>http://www.linuxinsider.com</id>
+		<link rel="self" href="http://www.linuxinsider.com"/>
+		<updated>2017-10-13T12:00:00+00:00</updated>
+		<title>LinuxInsider</title></source>
+
+	<category term="software"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438798</id>
+	<link href="http://www.linuxsecurity.com/content/view/194538?rdf" rel="alternate" type="text/html"/>
+	<title type="html">What is a firewall?</title>
+	<summary type="html"><![CDATA[<p>LinuxSecurity.com: Network-based firewalls have become almost ubiquitous across US enterprises for t...</p>]]></summary>
+	<content type="html"><![CDATA[<b>LinuxSecurity.com</b>: Network-based firewalls have become almost ubiquitous across US enterprises for their proven defense against an ever-increasing array of threats.]]></content>
+	<updated>2017-10-13T09:53:31+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.linuxsecurity.com/</id>
+		<link rel="self" href="http://www.linuxsecurity.com/"/>
+		<updated>2017-10-13T09:53:31+00:00</updated>
+		<title>LinuxSecurity.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438731</id>
+	<link href="http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-5P/Air_quality-monitoring_satellite_in_orbit" rel="alternate" type="text/html"/>
+	<title type="html">Air quality-monitoring satellite in orbit</title>
+	<summary type="html"><![CDATA[<p>The first Copernicus mission dedicated to monitoring our atmosphere, Sentinel&#8209;5P, has b...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2017/10/sentinel-5p_liftoff/17196083-4-eng-GB/Sentinel-5P_liftoff_small.png" width="170" height="96" align="left" hspace="8"><br>
+		<p>
+The first Copernicus mission dedicated to monitoring our atmosphere, Sentinel&#8209;5P, has been launched from the Plesetsk Cosmodrome in northern Russia.
+</p>]]></content>
+	<updated>2017-10-13T11:05:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.esa.int/</id>
+		<link rel="self" href="http://www.esa.int/"/>
+		<updated>2017-10-13T11:05:00+00:00</updated>
+		<title>ESA Top News</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438714</id>
+	<link href="http://www.esa.int/ESA_Multimedia/Videos/2017/10/Sentinel-5P_liftoff" rel="alternate" type="text/html"/>
+	<title type="html">Liftoff replay</title>
+	<summary type="html"><![CDATA[<p>Watch the replay of the Sentinel-5P launch from the Plesetsk Cosmodrome in northe...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/10/sentinel-5p_liftoff/17200213-4-eng-GB/Sentinel-5P_liftoff_large.jpg" width="600"><br>
+		Watch the replay of the Sentinel-5P launch from the Plesetsk Cosmodrome in northern Russia]]></content>
+	<updated>2017-10-13T09:30:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.esa.int/</id>
+		<link rel="self" href="http://www.esa.int/"/>
+		<updated>2017-10-13T09:30:00+00:00</updated>
+		<title>ESA Top News</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438515</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171012143334.htm" rel="alternate" type="text/html"/>
+	<title type="html">Spotting the spin of the Majorana fermion under the microscope</title>
+	<summary type="html"><![CDATA[<p>Using a new twist on a technique for imaging atomic structures, researchers have detected a unique q...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Using a new twist on a technique for imaging atomic structures, researchers have detected a unique quantum property of the Majorana fermion, an elusive particle with the potential for use in quantum information systems.</p>]]></content>
+	<updated>2017-10-12T18:33:34+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-12T18:33:34+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171012143334-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438777</id>
+	<link href="https://phys.org/news/2017-10-day-lhc-collides-xenon.html" rel="alternate" type="text/html"/>
+	<title type="html">For one day only, LHC collides xenon beams</title>
+	<summary type="html"><![CDATA[<p>Today, the LHC is getting a taste of something unusual. For eight hours, the Large Hadron Collider i...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Today, the LHC is getting a taste of something unusual. For eight hours, the Large Hadron Collider is accelerating and colliding xenon nuclei, allowing the large LHC experiments, ATLAS, ALICE, CMS and LHCb, to record xenon collisions for the first time.</p>]]></content>
+	<updated>2017-10-13T12:30:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-13T12:30:03+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="general physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/foronedayonl.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438807</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171013091023.htm" rel="alternate" type="text/html"/>
+	<title type="html">Single photon reveals quantum entanglement of 16 million atoms</title>
+	<summary type="html"><![CDATA[<p>Quantum theory predicts that a vast number of atoms can be entangled and intertwined by a very stron...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Quantum theory predicts that a vast number of atoms can be entangled and intertwined by a very strong quantum relationship even in a macroscopic structure. Until now, experimental evidence has been mostly lacking, despite recent advances have shown the entanglement of 2,900 atoms. Scientists recently reengineered their data processing, demonstrating that 16 million atoms were entangled in a one-centimeter crystal.</p>]]></content>
+	<updated>2017-10-13T13:10:23+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-13T13:10:23+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171013091023-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438513</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171012143407.htm" rel="alternate" type="text/html"/>
+	<title type="html">Satellites map photosynthesis at high resolution</title>
+	<summary type="html"><![CDATA[<p>Life on Earth is impossible without photosynthesis. It provides food and oxygen to all higher life f...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Life on Earth is impossible without photosynthesis. It provides food and oxygen to all higher life forms and plays an important role in the climate system, since this process regulates the uptake of carbon dioxide from the Earth's atmosphere and its fixation in biomass. However, quantification of photosynthesis at the ecosystem-to-global scale remains uncertain. Now an international team of scientists have made a major step forward.</p>]]></content>
+	<updated>2017-10-12T18:34:07+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-12T18:34:07+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171012143407-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438510</id>
+	<link href="https://phys.org/news/2017-10-d-packaging-dna-cell-identity.html" rel="alternate" type="text/html"/>
+	<title type="html">3-D packaging of DNA regulates cell identity</title>
+	<summary type="html"><![CDATA[<p>The fundamental mechanisms governing how cells form an identity such as becoming a muscle cell or a ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The fundamental mechanisms governing how cells form an identity such as becoming a muscle cell or a nerve cell are not fully understood. Multiple diseases, including cancer, have been linked to cells going down the wrong developmental path during maturation. A new study from the Perelman School of Medicine at the University of Pennsylvania suggests that the ability of a stem cell to differentiate into cardiac muscle (and by extension other cell types) depends on what portions of the genome are available for activation, which is controlled by the location of DNA in a cell's nucleus.</p>]]></content>
+	<updated>2017-10-12T19:01:53+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-12T19:01:53+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="cell &amp; microbiology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/3dpackagingo.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438561</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171012122820.htm" rel="alternate" type="text/html"/>
+	<title type="html">Brain waves reflect different types of learning</title>
+	<summary type="html"><![CDATA[<p>Researchers have, for the first time, identified neural signatures of explicit and implicit learning...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Researchers have, for the first time, identified neural signatures of explicit and implicit learning.</p>]]></content>
+	<updated>2017-10-12T16:28:20+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-12T16:28:20+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171012122820-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-12:/438560</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171012125241.htm" rel="alternate" type="text/html"/>
+	<title type="html">Biology study suggests father's nutrition before sex could contribute to health of baby</title>
+	<summary type="html"><![CDATA[<p>Doctors long have stressed the importance of good nutrition for expectant mothers. Now biologists sa...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Doctors long have stressed the importance of good nutrition for expectant mothers. Now biologists say the father's diet, too, could play a similar role in the health of a baby.</p>]]></content>
+	<updated>2017-10-12T16:52:41+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-12T16:52:41+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171012125241-large.jpg"/>
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-09-26:/432622</id>
@@ -1019,313 +1339,6 @@ Google Analytics is the most widely used cloud-based web analytics service. Howe
 		<link rel="self" href="https://www.linux.com/feeds/rss"/>
 		<updated>2016-11-10T09:00:00+00:00</updated>
 		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-09:/339292</id>
-	<link href="http://www.tecmint.com/recover-deleted-file-in-linux/" rel="alternate" type="text/html"/>
-	<title type="html">How to Recover a Deleted File in Linux</title>
-	<summary type="html"><![CDATA[<p>Did this ever happen to you? You realized that you had mistakenly deleted a file &ndash; either thro...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Did this ever happen to you? You realized that you had mistakenly deleted a file &ndash; either through the Del key, or using rm in the command line. In the first case, you can...</p>]]></content>
-	<updated>2016-11-09T06:00:14+00:00</updated>
-	<author><name>Gabriel Cánepa</name></author>
-	<source>
-		<id>https://www.tecmint.com</id>
-		<link rel="self" href="https://www.tecmint.com"/>
-		<updated>2016-11-09T06:00:14+00:00</updated>
-		<title>Tecmint: Linux Howtos, Tutorials &amp; Guides » Linux Commands</title></source>
-
-	<category term="linux commands"/>
-
-	<category term="linux tricks"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-04:/338098</id>
-	<link href="http://www.tecmint.com/find-open-ports-in-linux/" rel="alternate" type="text/html"/>
-	<title type="html">How to Find Out List of All Open Ports in Linux</title>
-	<summary type="html"><![CDATA[<p>In this article, we will briefly talk about ports in computer networking and move to how you can lis...</p>]]></summary>
-	<content type="html"><![CDATA[<p>In this article, we will briefly talk about ports in computer networking and move to how you can list all open ports in Linux. In computer networking, and more definitely in software terms, a...</p>]]></content>
-	<updated>2016-11-04T04:56:13+00:00</updated>
-	<author><name>Aaron Kili</name></author>
-	<source>
-		<id>https://www.tecmint.com</id>
-		<link rel="self" href="https://www.tecmint.com"/>
-		<updated>2016-11-04T04:56:13+00:00</updated>
-		<title>Tecmint: Linux Howtos, Tutorials &amp; Guides » Linux Commands</title></source>
-
-	<category term="linux commands"/>
-
-	<category term="linux tricks"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-03:/338043</id>
-	<link href="https://www.linux.com/news/aws-launches-linux-container-image-premise" rel="alternate" type="text/html"/>
-	<title type="html">AWS Launches Linux Container Image for On-Premise</title>
-	<summary type="html"><![CDATA[<p>AWS has launched a new Linux Container Image in response to customer demand, designed for use with c...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>AWS has launched a new Linux Container Image in response to customer demand, designed for use with cloud and on-premise workloads.</p>
-<p>Linux AMI is a secure environment for firing up applications running on EC2, but due to customer demand, AWS has now made the image available for on-premise as well as cloud infrastructures, addressing more businesses' needs.</p>
-<p>"Many of our customers have asked us to make this Linux image available for use on-premises, often as part of their development and testing workloads," Jeff Barr, chief evangelist for AWS, said.</p></div></div></div>]]></content>
-	<updated>2016-11-03T08:00:00+00:00</updated>
-	<author><name>Cloud Pro</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-11-03T08:00:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-01:/337021</id>
-	<link href="https://linux-audit.com/understanding-memory-information-on-linux-systems/" rel="alternate" type="text/html"/>
-	<title type="html">Understanding memory information on Linux systems</title>
-	<summary type="html"><![CDATA[<p>Understanding Linux memory information Every operating system needs memory to store program code seg...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Understanding Linux memory information Every operating system needs memory to store program code segments and data. This is also true for Linux systems. The problem:&nbsp;there is a lot of information available regarding memory usage and its behavior. Let&rsquo;s discover how Linux manages its memory and how we can gather memory information. Great for troubleshooting, but also to learn more about the inner workings of our system. Random access memory When we talk about memory in this article, we usually mean [...]</p>
-<p>The post <a rel="noopener noreferrer" href="https://linux-audit.com/understanding-memory-information-on-linux-systems/" target="_blank">Understanding memory information on Linux systems</a> appeared first on <a rel="noopener noreferrer" href="https://linux-audit.com" target="_blank">Linux Audit</a>.</p>]]></content>
-	<updated>2016-10-31T16:54:32+00:00</updated>
-	<author><name>Michael Boelen</name></author>
-	<source>
-		<id>https://linux-audit.com</id>
-		<link rel="self" href="https://linux-audit.com"/>
-		<updated>2016-10-31T16:54:32+00:00</updated>
-		<title>Linux Audit</title></source>
-
-	<category term="linux"/>
-
-	<category term="guide"/>
-
-	<category term="memory"/>
-
-	<category term="ram"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-31:/336843</id>
-	<link href="https://www.linux.com/news/introduction-linux-filesystems-0" rel="alternate" type="text/html"/>
-	<title type="html">An Introduction to Linux Filesystems</title>
-	<summary type="html"><![CDATA[<p>This article is intended to be a very high-level discussion of Linux filesystem concepts. It is not ...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>This article is intended to be a very high-level discussion of Linux filesystem concepts. It is not intended to be a low-level description of how a particular filesystem type, such as EXT4, works, nor is it intended to be a tutorial of filesystem commands.</p></div></div></div>]]></content>
-	<updated>2016-10-31T08:00:00+00:00</updated>
-	<author><name>OpenSource.com</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-10-31T08:00:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-27:/335917</id>
-	<link href="http://www.phoronix.com/vr.php?view=23675" rel="alternate" type="text/html"/>
-	<title type="html">Power Consumption &amp; Efficiency Of The Linux Kernel For The Last Three Years</title>
-	<summary type="html"><![CDATA[<p>Earlier this week I published Linux 3.9 through Linux 4.9 kernel benchmarks looking at the raw perfo...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Earlier this week I published Linux 3.9 through Linux 4.9 kernel benchmarks looking at the raw performance of various subsystems when testing each of the major kernel releases as far back as this Core i7 Haswell system was supported. From that same system, today is a look at testing the kernels going back to Linux 3.11 when Haswell graphics support was first in good shape for this Core i7 4790K box while looking at the raw power consumption and performance-per-Watt for these 19 major kernel releases.</p>]]></content>
-	<updated>2016-10-27T13:43:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.phoronix.com/</id>
-		<link rel="self" href="https://www.phoronix.com/"/>
-		<updated>2016-10-27T13:43:55+00:00</updated>
-		<title>Phoronix</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-26:/335504</id>
-	<link href="https://www.linux.com/news/open-source-operating-systems-iot" rel="alternate" type="text/html"/>
-	<title type="html">Open Source Operating Systems for IoT</title>
-	<summary type="html"><![CDATA[<p>Over the past decade, the majority of new open source OS projects have shifted from the mobile marke...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><span><span>Over the past decade, the majority of new open source OS projects have shifted from the mobile market to the Internet of Things. In this fifth article in our IoT series, we look at the many new open source operating systems that target IoT.</span></span></p></div></div></div>]]></content>
-	<updated>2016-10-26T15:00:24+00:00</updated>
-	<author><name>ericstephenbrown</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-10-26T15:00:24+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-26:/335480</id>
-	<link href="https://www.redhat.com/en/about/press-releases/red-hat-achieves-common-criteria-security-certification-red-hat-enterprise-linux-7" rel="alternate" type="text/html"/>
-	<title type="html">Red Hat Achieves Common Criteria Security Certification for Red Hat Enterprise Linux 7</title>
-	<summary type="html"><![CDATA[<p>Red Hat Enterprise Linux 7.1 has received Red Hat&rsquo;s 16th Common Criteria certification and becomes t...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Red Hat Enterprise Linux 7.1 has received Red Hat&rsquo;s 16th Common Criteria certification and becomes the first operating system to be certified with support for Linux container technology.</p>]]></content>
-	<updated>2016-10-26T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.redhat.com/en/rss/press-releases</id>
-		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
-		<updated>2016-10-26T04:00:00+00:00</updated>
-		<title>Red Hat Press Releases</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-26:/335372</id>
-	<link href="http://www.tecmint.com/check-linux-hard-disk-bad-sectors-bad-blocks/" rel="alternate" type="text/html"/>
-	<title type="html">How to Check Bad Sectors or Bad Blocks on Hard Disk in Linux</title>
-	<summary type="html"><![CDATA[<p>Let us start by defining a bad sector/block, it&rsquo;s a section on a disk drive or flash memory th...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Let us start by defining a bad sector/block, it&rsquo;s a section on a disk drive or flash memory that can not be read from or written to anymore, as a result of a fixed...</p>]]></content>
-	<updated>2016-10-26T06:53:13+00:00</updated>
-	<author><name>Aaron Kili</name></author>
-	<source>
-		<id>https://www.tecmint.com</id>
-		<link rel="self" href="https://www.tecmint.com"/>
-		<updated>2016-10-26T06:53:13+00:00</updated>
-		<title>Tecmint: Linux Howtos, Tutorials &amp; Guides » Linux Commands</title></source>
-
-	<category term="linux commands"/>
-
-	<category term="linux tricks"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-25:/335108</id>
-	<link href="http://www.phoronix.com/vr.php?view=23672" rel="alternate" type="text/html"/>
-	<title type="html">Linux 3.9 To Linux 4.9 Kernel Benchmarks: Testing The 21 Last Kernels</title>
-	<summary type="html"><![CDATA[<p>With the in-development Linux 4.9 kernel showing signs of some performance improvements, I've gone a...</p>]]></summary>
-	<content type="html"><![CDATA[<p>With the in-development Linux 4.9 kernel showing signs of some performance improvements, I've gone ahead and tested the last 21 major kernel releases on the same system. From Linux 3.9 to Linux 4.9, each of the major kernel releases was tested from the same Intel Core i7 desktop with a variety of benchmarks.</p>]]></content>
-	<updated>2016-10-25T13:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.phoronix.com/</id>
-		<link rel="self" href="https://www.phoronix.com/"/>
-		<updated>2016-10-25T13:00:00+00:00</updated>
-		<title>Phoronix</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-24:/334883</id>
-	<link href="https://www.linux.com/news/where-find-worlds-best-programmers" rel="alternate" type="text/html"/>
-	<title type="html">Where to Find the World's Best Programmers</title>
-	<summary type="html"><![CDATA[<p>So which countries produce the best coders is an interesting question to ask. Perhaps more important...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>So which countries produce the best coders is an interesting question to ask. Perhaps more importantly why do some countries lead the way?</p></div></div></div>]]></content>
-	<updated>2016-10-24T09:20:00+00:00</updated>
-	<author><name>Network World</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-10-24T09:20:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-10-14:/332422</id>
-	<link href="http://lwn.net/Articles/703630/rss" rel="alternate" type="text/html"/>
-	<title type="html">Celebrating open standards around the world</title>
-	<summary type="html"><![CDATA[<p>Opensource.com celebrates
-World Standards Day on October 14.  "Whether in the world of softwa...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Opensource.com <a href="https://opensource.com/life/16/10/celebrating-open-standards-around-world" rel="noopener noreferrer" target="_blank">celebrates
-World Standards Day</a> on October 14.  "<span>Whether in the world of software, where without standards we would have been unable to connect the world through the Internet and the World Wide Web, or the physical world, where standards make nearly everything you buy easier, more useful, and safer, the world would be a difficult place to navigate without standards. And critical to the useful of standards is making them available to all in an accessible, free format, unencumbered by legal or other hurdles.</span>"</p>]]></content>
-	<updated>2016-10-14T19:04:13+00:00</updated>
-	<author><name>ris</name></author>
-	<source>
-		<id>https://lwn.net</id>
-		<link rel="self" href="https://lwn.net"/>
-		<updated>2016-10-14T19:04:13+00:00</updated>
-		<title>LWN.net</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436880</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171009154946.htm" rel="alternate" type="text/html"/>
-	<title type="html">Human brain recalls visual features in reverse order than it detects them</title>
-	<summary type="html"><![CDATA[<p>New research has contributed to solving a paradox of perception, literally upending models of how th...</p>]]></summary>
-	<content type="html"><![CDATA[<p>New research has contributed to solving a paradox of perception, literally upending models of how the brain constructs interpretations of the outside world. When observing a scene, the brain first processes details -- spots, lines and simple shapes -- and uses that information to build internal representations of more complex objects, like cars and people. But during recall, the brain remembers those larger concepts first. This could shed light on concepts such as eyewitness testimony to autism.</p>]]></content>
-	<updated>2017-10-09T19:49:46+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-09T19:49:46+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171009154946-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436883</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171009123906.htm" rel="alternate" type="text/html"/>
-	<title type="html">Novel treatment causes cancer to self-destruct without affecting healthy cells</title>
-	<summary type="html"><![CDATA[<p>Scientists have discovered the first compound that directly makes cancer cells commit suicide while ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Scientists have discovered the first compound that directly makes cancer cells commit suicide while sparing healthy cells. The new treatment approach, described in today&rsquo;s issue of Cancer Cell, was directed against acute myeloid leukemia (AML) cells but may also have potential for attacking other types of cancers.</p>]]></content>
-	<updated>2017-10-09T16:39:06+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-09T16:39:06+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171009123906-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436813</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171009093207.htm" rel="alternate" type="text/html"/>
-	<title type="html">Molecular basis for memory and learning: Brain development and plasticity share similar signalling pathways</title>
-	<summary type="html"><![CDATA[<p>Learning and memory are two important functions of the brain that are based on the brain&rsquo;s plasticit...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Learning and memory are two important functions of the brain that are based on the brain&rsquo;s plasticity. Scientists now report on how a trio of key molecules directs these processes. Their findings provide new leads for the therapy of Alzheimer&rsquo;s disease.</p>]]></content>
-	<updated>2017-10-09T13:32:07+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-09T13:32:07+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436820</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/sfn-wob100517.php" rel="alternate" type="text/html"/>
-	<title type="html">Watch out! Brain network calculates impact of approaching object</title>
-	<summary type="html"><![CDATA[<p>(Society for Neuroscience) A neuroimaging study of two monkeys published in JNeurosci identifies a b...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Society for Neuroscience</i>) A neuroimaging study of two monkeys published in JNeurosci identifies a brain network that tracks the location of an object approaching the face and anticipates its potential consequences upon making contact with the body.</p>]]></content>
-	<updated>2017-10-09T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-09T04:00:00+00:00</updated>
-		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
 
 
 </entry>
