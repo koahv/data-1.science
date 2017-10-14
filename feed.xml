@@ -4,11 +4,267 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2016-11-10T09:00:00+00:00</updated>
+<updated>2017-10-10T04:00:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-09-21:/431349</id>
+	<link href="https://www.linux.com/learn/intro-to-linux/2017/9/advanced-lm-sensors-tips-and-tricks-linux-0" rel="alternate" type="text/html"/>
+	<title type="html">Advanced lm-sensors Tips and Tricks on Linux</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;Advanced lm-sensors Tips and Tricks on Linux21 SepLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Advanced lm-sensors Tips and Tricks on Linux</div></div></div><div><div><div>21 Sep</div></div></div><div><div><div><div><a href="http://localhost/learn/intro-to-linux/2017/9/advanced-lm-sensors-tips-and-tricks-linux-0" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2017-09-21T12:50:45+00:00</updated>
+	<author><name>cschroder</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-09-21T12:50:45+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-25:/432242</id>
+	<link href="http://www.linuxsecurity.com/content/view/175948?rdf" rel="alternate" type="text/html"/>
+	<title type="html">1.4 Million New Phishing Sites Launched Each Month</title>
+	<summary type="html"><![CDATA[<p>LinuxSecurity.com: The number of phishing attacks reach a record rate in 2017, but the majority of t...</p>]]></summary>
+	<content type="html"><![CDATA[<b>LinuxSecurity.com</b>: The number of phishing attacks reach a record rate in 2017, but the majority of the phishing sites remain active for just four- to eight hours.]]></content>
+	<updated>2017-09-25T10:17:54+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.linuxsecurity.com/</id>
+		<link rel="self" href="http://www.linuxsecurity.com/"/>
+		<updated>2017-09-25T10:17:54+00:00</updated>
+		<title>LinuxSecurity.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436677</id>
+	<link href="https://www.linux.com/news/10-layers-linux-container-security" rel="alternate" type="text/html"/>
+	<title type="html">10 Layers of Linux Container Security</title>
+	<summary type="html"><![CDATA[<p>Containers provide an easy way to package applications and deliver them seamlessly from development ...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><span>Containers provide an easy way to package applications and deliver them seamlessly from development to test to production. This helps ensure consistency across a variety of environments, including physical servers, virtual machines (VMs), or private or public clouds. These benefits are leading organizations to rapidly adopt containers in order to easily develop and manage the applications that add business value.</span></p></div></div></div>]]></content>
+	<updated>2017-10-09T11:30:36+00:00</updated>
+	<author><name>OpenSource.com</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-10-09T11:30:36+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-09:/436676</id>
+	<link href="https://www.linux.com/news/what-data-says-about-how-linux-kernel-developers-collaborate" rel="alternate" type="text/html"/>
+	<title type="html">What the Data Says About How Linux Kernel Developers Collaborate</title>
+	<summary type="html"><![CDATA[<p>Many people consider themselves a Linux kernel developer first, an employee second. Even when they e...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Many people consider themselves a Linux kernel developer first, an employee second. Even when they enjoy their current job and like their employer, most of them tend to look at the employment relationship as something temporary, whereas their identity as a kernel developer is viewed as more permanent and more important. Although companies do sometimes influence the areas where their employees contribute, individuals have quite a bit of freedom in how they do the work.</p></div></div></div>]]></content>
+	<updated>2017-10-09T12:59:40+00:00</updated>
+	<author><name>OpenSource.com</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-10-09T12:59:40+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-10:/437015</id>
+	<link href="https://www.redhat.com/en/about/press-releases/2017-red-hat-government-symposium-highlight-role-open-source-meeting-challenges-government-it" rel="alternate" type="text/html"/>
+	<title type="html">2017 Red Hat Government Symposium to Highlight the Role of Open Source in Meeting the Challenges of Government IT</title>
+	<summary type="html"><![CDATA[<p>Red Hat Government Symposium leads the discussion on how open source can help government agencies. E...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Red Hat Government Symposium leads the discussion on how open source can help government agencies. Event offers a forum for agency and industry leaders to come together to discuss innovation and how to create more secure, efficient solutions to the government's biggest challenges.</p>]]></content>
+	<updated>2017-10-10T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.redhat.com/en/rss/press-releases</id>
+		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
+		<updated>2017-10-10T04:00:00+00:00</updated>
+		<title>Red Hat Press Releases</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438867</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171013091955.htm" rel="alternate" type="text/html"/>
+	<title type="html">Purple power: Synthetic 'purple membranes' transform sunlight to hydrogen fuel</title>
+	<summary type="html"><![CDATA[<p>A new way has been found to produce solar fuels by developing &ldquo;synthetic purple membranes.&rdquo; These me...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A new way has been found to produce solar fuels by developing &ldquo;synthetic purple membranes.&rdquo; These membranes involve an assembly of lipid nanodiscs, man-made proteins, and semiconducting nanoparticles that, when taken together, can transform sunlight into hydrogen fuel.</p>]]></content>
+	<updated>2017-10-13T13:19:55+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-13T13:19:55+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171013091955-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438931</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171013123126.htm" rel="alternate" type="text/html"/>
+	<title type="html">Solar research: On the generation of solar spicules and Alfvenic waves</title>
+	<summary type="html"><![CDATA[<p>Combining computer observations and simulations, a new model shows that the presence of neutrals in ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Combining computer observations and simulations, a new model shows that the presence of neutrals in the gas facilitates the magnetic fields to penetrate through the surface of the Sun producing the spicules.</p>]]></content>
+	<updated>2017-10-13T16:31:26+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-13T16:31:26+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171013123126-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438834</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/imi-ahc101217.php" rel="alternate" type="text/html"/>
+	<title type="html">Achieving high-value chemical diversity for the pharmaceutical artificial intelligence</title>
+	<summary type="html"><![CDATA[<p>(InSilico Medicine, Inc.) Insilico Medicine is adapting best neural network architectures. These adv...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>InSilico Medicine, Inc.</i>) Insilico Medicine is adapting best neural network architectures. These advances are usually integrated into a comprehensive drug discovery pipeline with the goal to enable the deep neural networks to produce perfect molecules for the specific set of diseases. DruGAN allows the generation of new formulations for a wide range of diseases: different cancers, neurodegenerative diseases such as Alzheimer's disease, virus infections, and more.</p>]]></content>
+	<updated>2017-10-13T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-13T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438845</id>
+	<link href="https://phys.org/news/2017-10-d-atomic-trpml1-ion-channel.html" rel="alternate" type="text/html"/>
+	<title type="html">3-D atomic structure of TRPML1 ion channel published</title>
+	<summary type="html"><![CDATA[<p>UT&nbsp;Southwestern Medical Center researchers today published a 3-D atomic structure of the ion channel...</p>]]></summary>
+	<content type="html"><![CDATA[<p>UT&nbsp;Southwestern Medical Center researchers today published a 3-D atomic structure of the ion channel found in mammals that is implicated in a rare, inherited neurodegenerative disease in humans. The work marks the first such structure determined using the university's $17 million cryo-electron microscopy (cryo-EM) facility that opened last year.</p>]]></content>
+	<updated>2017-10-13T15:02:52+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-13T15:02:52+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biochemistry"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-firstatomics.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438854</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/usmc-fas101217.php" rel="alternate" type="text/html"/>
+	<title type="html">First atomic structure from UTSW's cryo-EM facility</title>
+	<summary type="html"><![CDATA[<p>(UT Southwestern Medical Center) UT Southwestern Medical Center researchers today published a 3-D at...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>UT Southwestern Medical Center</i>) UT Southwestern Medical Center researchers today published a 3-D atomic structure of the ion channel found in mammals that is implicated in a rare, inherited neurodegenerative disease in humans.</p>]]></content>
+	<updated>2017-10-13T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-13T04:00:00+00:00</updated>
+		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-13:/438825</id>
+	<link href="https://inhabitat.com/google-will-be-powered-by-100-renewable-energy-by-2018" rel="alternate" type="text/html"/>
+	<title type="html">Google will be powered by 100% renewable energy by 2018</title>
+	<summary type="html"><![CDATA[<p>After 10 years as a carbon-neutral company, Google has announced that all of its data centers and o...</p>]]></summary>
+	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Google-Front-889x591.jpg" alt="Google, Googleplex, Google building"></p>
+<p>After 10 years as a carbon-neutral company, <a href="https://inhabitat.com/tag/google" rel="noopener noreferrer" target="_blank">Google</a> has announced that all of its data centers and offices will be powered by 100 percent <a href="https://inhabitat.com/tag/renewable-energy/" rel="noopener noreferrer" target="_blank">renewable energy</a> by next year. The corporate giant made quick progress towards meeting its goal, which was set in 2016 and will be fulfilled by 2018. In its 2017 Environmental Report, Google declared that it had pioneered &ldquo;new energy purchasing models that others can follow&rdquo; and &ldquo;helped drive wide-scale global adoption of clean energy.&rdquo; &ldquo;We believe Google can build tools to improve people&rsquo;s lives while reducing our dependence on natural resources and fossil fuels,&rdquo; said Google executive Urs H&ouml;lzle.</p>
+<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Android-garden-889x210.jpg" alt="Google, Googleplex, Google building, Android garden"></p>
+<p>Google&rsquo;s rapid shift to clean energy is welcome not only for the influence it may have on other companies but also for its impact on Google&rsquo;s energy consumption, which was estimated in 2015 to be as large as the city of <a href="https://inhabitat.com/tag/san-francisco" rel="noopener noreferrer" target="_blank">San Francisco</a>. In line with its sustainability focus, Google has also launched an initiative to add <a href="https://inhabitat.com/tag/air-pollution/" rel="noopener noreferrer" target="_blank">air quality</a> sensors to Google Street View vehicles and plans to change its waste disposal systems to ensure that the company adds nothing to landfills. Half of Google&rsquo;s 14 data centers have already reached that particular milestone.</p>
+<p><a href="https://inhabitat.com/alphabet-x-to-beam-wireless-service-to-puerto-rico-with-a-fleet-of-balloons/" rel="noopener noreferrer" target="_blank">Related: Alphabet X to beam wireless service to Puerto Rico with a fleet of balloons</a></p>
+<p>Most of Google&rsquo;s renewable energy is purchased from an outside provider. However, they are making important moves to provide some of their own in-house energy, including the company&rsquo;s recent acquisition of the Tellenes <a href="https://inhabitat.com/tag/wind-energy/" rel="noopener noreferrer" target="_blank">wind farm</a> in Norway. The 12-year deal to provide 100 percent of the energy produced will power Google&rsquo;s data centers in Finland, Belgium, the Netherlands and <a href="https://inhabitat.com/tag/ireland/" rel="noopener noreferrer" target="_blank">Ireland</a>. Google expects to purchase power as soon as it is available, which is expected in fall 2017.</p>
+<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Google-Plex-889x667.jpg" alt="Google, Googleplex, Google building"></p>
+<p>Via <a href="https://www.inverse.com/article/37308-google-renewable-energy-goal" rel="noopener noreferrer" target="_blank">Inverse</a></p>
+<p><em>Images via <a href="https://commons.wikimedia.org/wiki/File:Android_garden.jpg" rel="noopener noreferrer" target="_blank">Wikimedia Commons</a> <a href="https://commons.wikimedia.org/wiki/File:The_Google-Plex_(3652338016).jpg" rel="noopener noreferrer" target="_blank">(1)</a> and <a href="https://www.flickr.com/photos/rjshade/9620364726" rel="noopener noreferrer" target="_blank">Robbie Shade/Flickr</a></em></p><div>
+<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=DxXUtus54hg:koGjQs34Q9U:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=DxXUtus54hg:koGjQs34Q9U:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
+</div>]]></content>
+	<updated>2017-10-13T14:23:35+00:00</updated>
+	<author><name>Greg Beach</name></author>
+	<source>
+		<id>https://inhabitat.com</id>
+		<link rel="self" href="https://inhabitat.com"/>
+		<updated>2017-10-13T14:23:35+00:00</updated>
+		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
+
+	<category term="energy"/>
+
+	<category term="wind power"/>
+
+	<category term="sustainable design"/>
+
+	<category term="clean energy"/>
+
+	<category term="solar energy"/>
+
+	<category term="wind energy"/>
+
+	<category term="zero-emissions"/>
+
+	<category term="renewable energy"/>
+
+	<category term="green design"/>
+
+	<category term="innovation"/>
+
+	<category term="san jose"/>
+
+	<category term="google"/>
+
+	<category term="googleplex"/>
+
+	<category term="corporate responsibility"/>
+
+	<category term="green technology"/>
+
+	<category term="news"/>
+
+	<category term="clean tech"/>
+
+	<category term="100% renewable energy"/>
+
+	<category term="alternative energy"/>
+
+	<category term="google san jose"/>
+
+	<category term="architecture"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-10-10:/437121</id>
@@ -1131,214 +1387,6 @@ Google Analytics is the most widely used cloud-based web analytics service. Howe
 		<link rel="self" href="http://www.eurekalert.org"/>
 		<updated>2017-10-10T04:00:00+00:00</updated>
 		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437333</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171010133912.htm" rel="alternate" type="text/html"/>
-	<title type="html">Growing human brain cells in the lab</title>
-	<summary type="html"><![CDATA[<p>A cost-effective technology has been developed to produce large quantities of human brain cells in t...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A cost-effective technology has been developed to produce large quantities of human brain cells in two simple steps. By surmounting major challenges in human neuron-based drug discovery, researchers believe this technique will be adopted widely in both basic science and industry.</p>]]></content>
-	<updated>2017-10-10T17:39:12+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-10T17:39:12+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437328</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171010133927.htm" rel="alternate" type="text/html"/>
-	<title type="html">Sequencing test enables precise identification of drug-resistant TB</title>
-	<summary type="html"><![CDATA[<p>Two studies document how a new advanced genetic sequencing approach can help thwart the growing worl...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Two studies document how a new advanced genetic sequencing approach can help thwart the growing worldwide threat posed by drug-resistant mutations of tuberculosis (TB). The threat of TB is increasing in some places as mutant versions of the disease become more and more resistant to current drug treatments.</p>]]></content>
-	<updated>2017-10-10T17:39:27+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-10T17:39:27+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437271</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171010114611.htm" rel="alternate" type="text/html"/>
-	<title type="html">Oxytocin and breastfeeding: Elucidation of a molecular mechanism</title>
-	<summary type="html"><![CDATA[<p>Oxytocin is indispensable for developing the social brain. Suckling babies absorb oxytocin from moth...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Oxytocin is indispensable for developing the social brain. Suckling babies absorb oxytocin from mother's milk, but gut closure occurs soon after birth to prevent uptake of undesired and desired macromolecules. Researchers have found that the molecule RAGE, on the intestinal epithelium, transports oxytocin into the blood even after gut closure. This finding suggests the advantage of breastfeeding and oral oxytocin administration to increase its concentration in blood and mother-child bond.</p>]]></content>
-	<updated>2017-10-10T15:46:11+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-10T15:46:11+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171010114611-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437283</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171010105629.htm" rel="alternate" type="text/html"/>
-	<title type="html">Major breakthrough identifies new mechanism for the development of schizophrenia</title>
-	<summary type="html"><![CDATA[<p>The new research shows that dysfunctional brain blood vessels may be associated with the development...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The new research shows that dysfunctional brain blood vessels may be associated with the development of schizophrenia. There is potential for new treatments of schizophrenia by developing new drugs to target these abnormal blood vessels.</p>]]></content>
-	<updated>2017-10-10T14:56:29+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-10T14:56:29+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171010105629-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437139</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/uota-ubt100917.php" rel="alternate" type="text/html"/>
-	<title type="html">UTA bioengineer to collaborate with UTSW to improve neonatal brain monitoring</title>
-	<summary type="html"><![CDATA[<p>(University of Texas at Arlington) A University of Texas at Arlington bioengineering professor and h...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of Texas at Arlington</i>) A University of Texas at Arlington bioengineering professor and her team will integrate a portable brain imaging system with an advanced signal-processing technique for newborns that will better measure the babies' neurophysiology in real time, providing physicians the analysis needed to treat encephalopathy or brain swelling more quickly.</p>]]></content>
-	<updated>2017-10-09T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-09T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437070</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/uoa-prt100517.php" rel="alternate" type="text/html"/>
-	<title type="html">Pest resistance to biotech crops surging</title>
-	<summary type="html"><![CDATA[<p>(University of Arizona) Pest resistance to genetically engineered crops Bt crops is evolving faster ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of Arizona</i>) Pest resistance to genetically engineered crops Bt crops is evolving faster now than before, UA researchers show in the most comprehensive study to date. But as expected from evolutionary theory, resistance can be delayed if farmers comply with recommendations to make use of abundant refuges.</p>]]></content>
-	<updated>2017-10-10T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-10T04:00:00+00:00</updated>
-		<title>EurekAlert! - Agriculture</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437157</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/uob-etb100917.php" rel="alternate" type="text/html"/>
-	<title type="html">Evolution: The beneficiaries of mass extinction</title>
-	<summary type="html"><![CDATA[<p>(University of Birmingham) Mass extinctions were followed by periods of low diversity in which certa...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of Birmingham</i>) Mass extinctions were followed by periods of low diversity in which certain new species dominated wide regions of the supercontinent Pangaea, reports a new study.</p>]]></content>
-	<updated>2017-10-10T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-10T04:00:00+00:00</updated>
-		<title>EurekAlert! - Earth Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437052</id>
-	<link href="https://phys.org/news/2017-10-fossil-date-earliest-fused-bones.html" rel="alternate" type="text/html"/>
-	<title type="html">Fossil find pushes back date of earliest fused bones in birds by 40 million years</title>
-	<summary type="html"><![CDATA[<p>(Phys.org)&mdash;A trio of researchers with the Key Laboratory of Vertebrate Evolution and Human Origins o...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(Phys.org)&mdash;A trio of researchers with the Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of Sciences has found evidence that pushes back the earliest example of fused bones in birds by approximately 40 million years. In their paper published in Proceedings of the National Academy of Sciences, Min Wang, Zhiheng Li and Zhonghe Zhou describe their study of the fossilized remains of a bird dated to approximately 120 million years ago.</p>]]></content>
-	<updated>2017-10-10T12:45:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-10T12:45:55+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="archaeology &amp; fossils"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/59dcc0e7671c8.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-15:/341020</id>
-	<link href="http://www.linuxinsider.com/story/84076.html?rss=1" rel="alternate" type="text/html"/>
-	<title type="html">wattOS Energizes Aging Hardware</title>
-	<summary type="html"><![CDATA[<p>wattOS is a stunning example of really great things coming in small packages. wattOS is a li...</p>]]></summary>
-	<content type="html"><![CDATA[<a href="http://www.linuxinsider.com/story/84076.html?rss=1" rel="noopener noreferrer" target="_blank"><img src="http://www.linuxinsider.com/images/rw27225/lxde" align="left" alt="" hspace="7" border="0"></a>
-			wattOS is a stunning example of really great things coming in small packages. wattOS is a lightweight and fast desktop Linux distribution based on Ubuntu 16.04.1 LTS built around the LXDE. It uses the lightweight Openbox window manager as its default user interface. To credit this 8-year-young community of developers with birthing an energy-efficient Linux distribution is an understatement. It has phenomenal performance on older hardware that lacks resources. It installs on computers with as little as 192 MB to 256 MB of RAM.]]></content>
-	<updated>2016-11-15T15:00:00+00:00</updated>
-	<author><name>Jack M. Germain</name></author>
-	<source>
-		<id>http://www.linuxinsider.com</id>
-		<link rel="self" href="http://www.linuxinsider.com"/>
-		<updated>2016-11-15T15:00:00+00:00</updated>
-		<title>LinuxInsider</title></source>
-
-	<category term="reviews"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-11:/340172</id>
-	<link href="https://www.linux.com/news/us-government-opens-access-federal-source-code-codegov" rel="alternate" type="text/html"/>
-	<title type="html">US Government Opens Access to Federal Source Code with Code.gov</title>
-	<summary type="html"><![CDATA[<p>In March of this year, the Obama administration created a draft for Federal Source Code policy to su...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>In March of this year, the Obama administration <a href="http://www.cio.com/article/3043544/open-source-tools/the-white-house-opens-its-doors-to-open-source.html" rel="noopener noreferrer" target="_blank">created a draft for Federal Source Code policy</a> to support improved access to custom software code. After soliciting comments from public, &nbsp;the administration announced the Federal Source Code policy in August. </p>
-<p>One of the core features of the policy was the adoption of an open source development model:</p></div></div></div>]]></content>
-	<updated>2016-11-11T15:00:43+00:00</updated>
-	<author><name>arnieswap</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-11-11T15:00:43+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-11-10:/339798</id>
-	<link href="https://www.linux.com/news/new-ibm-platform-brings-watson-iot-0" rel="alternate" type="text/html"/>
-	<title type="html">New IBM Platform Brings Watson to IoT</title>
-	<summary type="html"><![CDATA[<p>IBM&nbsp;unveiled today an experimental platform that allows developers to embed Watson functions and cog...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><a href="https://www.sdxcentral.com/listings/ibm/" title="IBM" rel="noopener noreferrer" target="_blank">IBM</a>&nbsp;unveiled today an experimental platform that allows developers to embed Watson functions and cognitive technology into various devices. The platform, dubbed Project Intu, can be accessed through the Watson Developer Cloud,&nbsp;<a href="https://rg-gateway.mybluemix.net/" rel="noopener noreferrer" target="_blank">Intu Gateway</a>, and GitHub.</p></div></div></div>]]></content>
-	<updated>2016-11-10T09:00:00+00:00</updated>
-	<author><name>SDx Central</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-11-10T09:00:00+00:00</updated>
-		<title>Linux.com</title></source>
 
 
 </entry>
