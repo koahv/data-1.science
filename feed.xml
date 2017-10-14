@@ -4,11 +4,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-10-10T04:00:00+00:00</updated>
+<updated>2016-12-06T10:00:41+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-01-10:/355582</id>
+	<link href="https://www.linux.com/blog/event/LinuxCon-Europe/2016/10-lessons-10-years-amazon" rel="alternate" type="text/html"/>
+	<title type="html">10 Lessons from 10 Years of Amazon</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;10 Lessons from 10 Years of Amazon10 JanLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">10 Lessons from 10 Years of Amazon</div></div></div><div><div><div>10 Jan</div></div></div><div><div><div><div><a href="http://localhost/blog/event/LinuxCon-Europe/2016/10-lessons-10-years-amazon" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2017-01-10T15:00:37+00:00</updated>
+	<author><name>geekygirldawn</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-01-10T15:00:37+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-18:/429892</id>
+	<link href="https://www.linux.com/blog/os-jobs-report/2017/9/demand-open-source-skills-rise" rel="alternate" type="text/html"/>
+	<title type="html">Demand for Open Source Skills on the Rise</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;Demand for Open Source Skills on the Rise18 SepLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Demand for Open Source Skills on the Rise</div></div></div><div><div><div>18 Sep</div></div></div><div><div><div><div><a href="http://localhost/blog/os-jobs-report/2017/9/demand-open-source-skills-rise" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2017-09-18T12:30:32+00:00</updated>
+	<author><name>eshein</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-09-18T12:30:32+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-20:/430724</id>
+	<link href="https://opensource.com/article/17/9/introduction-machine-learning" rel="alternate" type="text/html"/>
+	<title type="html">An introduction to machine learning today</title>
+	<summary type="html"><![CDATA[<p>Machine learning and artificial intelligence (ML/AI) mean different things to different people, but ...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/lead-images/code_computer_development_programming.png" width="520" height="292" alt="An introduction to machine learning today" title="An introduction to machine learning today"><p>Machine learning and artificial intelligence (ML/AI) mean different things to different people, but the newest approaches have one thing in common: They are based on the idea that a program's output should be created mostly automatically from a high-dimensional and possibly huge dataset, with minimal or no intervention or guidance from a human. Open source tools are used in a variety of machine learning and artificial intelligence projects. In this article, I'll provide an overview of the state of machine learning today.</p>
+<br>
+<a href="https://opensource.com/article/17/9/introduction-machine-learning" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-09-20T07:02:00+00:00</updated>
+	<author><name>Ulrich Drepper</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-09-20T07:02:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-20:/430786</id>
+	<link href="https://www.linux.com/news/ten-essentials-good-api-documentation" rel="alternate" type="text/html"/>
+	<title type="html">The Ten Essentials for Good API Documentation</title>
+	<summary type="html"><![CDATA[<p>API documentation is the number one reference for anyone implementing your API, and it can profoundl...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><span>API documentation is the number one reference for anyone implementing your API, and it can profoundly influence the developer experience. Because it describes what services an application programming interface offers and how to use those services, your documentation will inevitably create an impression about your product&mdash;for better or for worse.</span></p></div></div></div>]]></content>
+	<updated>2017-09-20T10:07:40+00:00</updated>
+	<author><name>A List Apart</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-09-20T10:07:40+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-09-21:/431349</id>
@@ -1305,88 +1375,6 @@ Google Analytics is the most widely used cloud-based web analytics service. Howe
 		<link rel="self" href="https://www.linux.com/feeds/rss"/>
 		<updated>2016-12-06T10:00:41+00:00</updated>
 		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437137</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/riot-rtd100917.php" rel="alternate" type="text/html"/>
-	<title type="html">RIT to develop hybrid biological cell separations technology for lab-on-chip devices</title>
-	<summary type="html"><![CDATA[<p>(Rochester Institute of Technology) Research being done at Rochester Institute of Technology to refi...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Rochester Institute of Technology</i>) Research being done at Rochester Institute of Technology to refine lab-on-chip devices -- highly sophisticated laboratories on microchips -- will provide more detailed and timely information to detect diseases such as cancer.</p>]]></content>
-	<updated>2017-10-09T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-09T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-11:/437516</id>
-	<link href="https://phys.org/news/2017-10-artificial-intelligence-autonomous-cars.html" rel="alternate" type="text/html"/>
-	<title type="html">Artificial intelligence computer designed to drive autonomous cars</title>
-	<summary type="html"><![CDATA[<p>NVIDIA today unveiled the world's first artificial intelligence computer designed to drive fully aut...</p>]]></summary>
-	<content type="html"><![CDATA[<p>NVIDIA today unveiled the world's first artificial intelligence computer designed to drive fully autonomous robotaxis.</p>]]></content>
-	<updated>2017-10-11T10:49:44+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-11T10:49:44+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="hardware"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/59ddf00aeaa4b.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-11:/437517</id>
-	<link href="https://phys.org/news/2017-10-intel-qubit-superconducting-chip-advanced.html" rel="alternate" type="text/html"/>
-	<title type="html">Intel presents 17-qubit superconducting chip with advanced packaging</title>
-	<summary type="html"><![CDATA[<p>Today, Intel announced the delivery of a 17-qubit superconducting test chip for quantum computing to...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Today, Intel announced the delivery of a 17-qubit superconducting test chip for quantum computing to QuTech, Intel's quantum research partner in the Netherlands. The new chip was fabricated by Intel and features a unique design to achieve improved yield and performance.</p>]]></content>
-	<updated>2017-10-11T10:48:31+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-11T10:48:31+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="semiconductors"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/17qubitsuper.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437341</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/nios-htc101017.php" rel="alternate" type="text/html"/>
-	<title type="html">How the cone snail's deadly venom can help us build better medicines</title>
-	<summary type="html"><![CDATA[<p>(National Institute of Standards and Technology (NIST)) By researching deadly cone snail venom, NIST...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>National Institute of Standards and Technology (NIST)</i>) By researching deadly cone snail venom, NIST researchers hope to find solutions to tough medical problems and diseases.</p>]]></content>
-	<updated>2017-10-10T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-10T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
 
 
 </entry>
