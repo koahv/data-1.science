@@ -4,11 +4,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2016-12-26T14:01:30+00:00</updated>
+<updated>2017-01-09T09:00:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-03-15:/374436</id>
+	<link href="https://www.linux.com/blog/learn/chapter/open-source-management/2017/3/6-operational-challenges-using-open-source-software" rel="alternate" type="text/html"/>
+	<title type="html">6 Operational Challenges to Using Open Source Software</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;6 Operational Challenges to Using Open Source Software15 MarLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">6 Operational Challenges to Using Open Source Software</div></div></div><div><div><div>15 Mar</div></div></div><div><div><div><div><a href="http://localhost/blog/learn/chapter/open-source-management/2017/3/6-operational-challenges-using-open-source-software" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2017-03-15T14:30:13+00:00</updated>
+	<author><name>bweinberg</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-03-15T14:30:13+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-14:/374005</id>
+	<link href="https://www.linux.com/news/three-challenges-web-according-its-inventor-0" rel="alternate" type="text/html"/>
+	<title type="html">Three Challenges for the Web, According to its Inventor</title>
+	<summary type="html"><![CDATA[<p>Today marks 28 years since I&nbsp;submitted my original proposal&nbsp;for the world wide web. I imagined the w...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Today marks 28 years since I&nbsp;<a href="http://time.com/21039/tim-berners-lee-web-proposal-at-25/" rel="noopener noreferrer" target="_blank">submitted my original proposal</a>&nbsp;for the world wide web. I imagined the web as an open platform that would allow everyone, everywhere to share information, access opportunities and collaborate across geographic and cultural boundaries. In many ways, the web has lived up to this vision, though it has been a recurring battle to keep it open.</p></div></div></div>]]></content>
+	<updated>2017-03-14T10:30:56+00:00</updated>
+	<author><name>WWW Foundation</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-03-14T10:30:56+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-08:/372328</id>
+	<link href="https://www.linux.com/blog/learn/chapter/open-source-management/2017/3/why-using-open-source-software-helps-companies-stay-flexible" rel="alternate" type="text/html"/>
+	<title type="html">Why Using Open Source Software Helps Companies Stay Flexible and Innovate</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;Why Using Open Source Software Helps Companies Stay Flexible and Innovate8 MarLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Why Using Open Source Software Helps Companies Stay Flexible and Innovate</div></div></div><div><div><div>8 Mar</div></div></div><div><div><div><div><a href="http://localhost/blog/learn/chapter/open-source-management/2017/3/why-using-open-source-software-helps-companies-stay-flexible" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2017-03-08T15:30:17+00:00</updated>
+	<author><name>golson</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-03-08T15:30:17+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-07:/372087</id>
+	<link href="https://www.linux.com/blog/stageless-deployment-pipelines-how-containers-change-way-we-build-and-test-software" rel="alternate" type="text/html"/>
+	<title type="html">Stageless Deployment Pipelines: How Containers Change the Way We Build and Test Software</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;Stageless Deployment Pipelines: How Containers Change the Way We Build and Test Software...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Stageless Deployment Pipelines: How Containers Change the Way We Build and Test Software</div></div></div><div><div><div>7 Mar</div></div></div><div><div><div><div><a href="http://localhost/blog/stageless-deployment-pipelines-how-containers-change-way-we-build-and-test-software" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2017-03-07T04:13:01+00:00</updated>
+	<author><name>DanGarfield</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-03-07T04:13:01+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-02-23:/368454</id>
@@ -1241,96 +1309,6 @@ The teams that will fly Sentinel-5P are training intensively for launch, ensurin
 		<link rel="self" href="https://www.linux.com/feeds/rss"/>
 		<updated>2017-01-09T09:00:00+00:00</updated>
 		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-06:/354685</id>
-	<link href="https://www.linux.com/news/whats-future-data-storage" rel="alternate" type="text/html"/>
-	<title type="html">What's the Future of Data Storage?</title>
-	<summary type="html"><![CDATA[<p>Storage planning today means investing in an ecosystem that supports multiple technologies. The winn...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Storage planning today means investing in an ecosystem that supports multiple technologies. The winning vendors will create integrated delivery models that obviate the differences between particular technologies.</p>
-<p>&nbsp;What&rsquo;s the future of storage?&nbsp;Is it internal server-based/software-defined? Hyperconverged? All-flash arrays? Cloud? Hybrid cloud?</p>
-<p>Over the next few weeks we&rsquo;re going to spend some time going over all of these different technologies and examining why each is viable (or not). But for now, I&rsquo;m going to go ahead and give you the short answer:&nbsp;All of the above.&nbsp;</p></div></div></div>]]></content>
-	<updated>2017-01-06T08:00:00+00:00</updated>
-	<author><name>HPE</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-01-06T08:00:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-03:/353569</id>
-	<link href="https://www.cyberciti.biz/open-source/7-awesome-open-source-analytics-weblog-analysis-softwares/" rel="alternate" type="text/html"/>
-	<title type="html">7 Awesome Open Source Analytics Software For Linux and Unix-like Systems</title>
-	<summary type="html"><![CDATA[<p>Web analytics is nothing but the measuring web traffic. It is not limited to measuring web traffic. ...</p>]]></summary>
-	<content type="html"><![CDATA[<span>W</span>eb analytics is nothing but the measuring web traffic. It is not limited to measuring web traffic. It includes: 
-<ol>
- <li>Analysis</li>
- <li>Data collection</li>
- <li>Reporting of web data for purposes of understanding and optimizing web pages</li>
-</ol>
-Google Analytics is the most widely used cloud-based web analytics service. However, your data is locked into Google Eco-system. If you want 100% data ownership, try the following open source web analytics software to get information about the number of visitors to your website and the number of page views. The information is useful for market research and understanding popularity trends on your website.]]></content>
-	<updated>2017-01-03T12:07:19+00:00</updated>
-	<author><name>Vivek Gite</name></author>
-	<source>
-		<id>http://feeds.cyberciti.biz/</id>
-		<link rel="self" href="http://feeds.cyberciti.biz/"/>
-		<updated>2017-01-03T12:07:19+00:00</updated>
-		<title>nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format</title></source>
-
-	<category term="open source"/>
-
-	<category term="devops"/>
-
-	<category term="downloads"/>
-
-	<category term="freebsd"/>
-
-	<category term="linux"/>
-
-	<category term="sysadmin"/>
-
-	<category term="unix"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-30:/353242</id>
-	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Kernel-Popular-News-2016" rel="alternate" type="text/html"/>
-	<title type="html">The Most Viewed Linux Kernel News Stories Of 2016</title>
-	<summary type="html"><![CDATA[<p>There are just a few more interesting recaps to share before 2016 draws to an end. I figured some of...</p>]]></summary>
-	<content type="html"><![CDATA[<p>There are just a few more interesting recaps to share before 2016 draws to an end. I figured some of you may be curious about the most-viewed kernel news stories on Phoronix this calendar year...</p>]]></content>
-	<updated>2016-12-30T15:27:56+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.phoronix.com/</id>
-		<link rel="self" href="https://www.phoronix.com/"/>
-		<updated>2016-12-30T15:27:56+00:00</updated>
-		<title>Phoronix</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-26:/352365</id>
-	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-4.10-EOY2016-Stats" rel="alternate" type="text/html"/>
-	<title type="html">Linux 4.10-rc1 Gained 488k Lines, Kernel Up 1.9+ Million Lines For 2016</title>
-	<summary type="html"><![CDATA[<p>Hitting the end of the year as well as yesterday's Linux 4.10-rc1 kernel marking the end of the merg...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Hitting the end of the year as well as yesterday's Linux 4.10-rc1 kernel marking the end of the merge window, here is a look at some kernel development statistics...</p>]]></content>
-	<updated>2016-12-26T14:01:30+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.phoronix.com/</id>
-		<link rel="self" href="https://www.phoronix.com/"/>
-		<updated>2016-12-26T14:01:30+00:00</updated>
-		<title>Phoronix</title></source>
 
 
 </entry>
