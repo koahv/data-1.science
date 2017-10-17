@@ -4,11 +4,488 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-01-09T09:00:00+00:00</updated>
+<updated>2017-10-10T23:41:54+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-03-31:/379497</id>
+	<link href="https://www.linux.com/learn/intro-to-linux/2017/3/how-install-packages-source-linux" rel="alternate" type="text/html"/>
+	<title type="html">How to Install Packages from Source on Linux</title>
+	<summary type="html"><![CDATA[<p>Most modern Linux distributions enjoy standard repositories that include most of the software you&rsquo;ll...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Most modern Linux distributions enjoy standard repositories that include most of the software you&rsquo;ll need to successfully run your Linux server or desktop. Should a package come up missing, more than likely you&rsquo;ll find a repository you can add, so that the installation can be managed with the built-in package manager. This should be considered a best practice. Why? Because it&rsquo;s important for the integrity of the platform to ensure the package manager is aware of installed software. When that is the case, packages can easily be updated (to fix vulnerabilities and the like).</p></div></div></div>]]></content>
+	<updated>2017-03-31T14:00:10+00:00</updated>
+	<author><name>jlwallen</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-03-31T14:00:10+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-31:/379500</id>
+	<link href="https://www.linux.com/news/brief-history-random-numbers" rel="alternate" type="text/html"/>
+	<title type="html">A Brief History of Random Numbers</title>
+	<summary type="html"><![CDATA[<p>&ldquo;As an instrument for selecting at random, I have found nothing superior to dice,&rdquo; wrote statisticia...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>&ldquo;As an instrument for selecting at random, I have found nothing superior to dice,&rdquo; wrote statistician Francis Galton&nbsp;<a href="http://galton.org/essays/1890-1899/galton-1890-dice.pdf" target="_blank" rel="noopener noreferrer">in an 1890 issue of&nbsp;<em>Nature</em></a>.</p></div></div></div>]]></content>
+	<updated>2017-03-31T11:00:56+00:00</updated>
+	<author><name>freeCodeCamp</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-03-31T11:00:56+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-29:/378743</id>
+	<link href="https://www.linux.com/news/new-home-google-open-source" rel="alternate" type="text/html"/>
+	<title type="html">A New Home for Google Open Source</title>
+	<summary type="html"><![CDATA[<p>Free and open source software has been part of our technical and organizational foundation since Goo...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Free and open source software has been part of our technical and organizational foundation since Google&rsquo;s early beginnings. From servers running the Linux kernel to an internal culture of being able to patch any other team's code, open source is part of everything we do.</p></div></div></div>]]></content>
+	<updated>2017-03-29T11:04:51+00:00</updated>
+	<author><name>Google Open Source</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-03-29T11:04:51+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-29:/378586</id>
+	<link href="https://www.linux.com/blog/linux-block-io-tracing" rel="alternate" type="text/html"/>
+	<title type="html">Linux Block I/O Tracing</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp;Linux Block I/O Tracing28 MarLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Linux Block I/O Tracing</div></div></div><div><div><div>28 Mar</div></div></div><div><div><div><div><a href="http://localhost/blog/linux-block-io-tracing" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2017-03-28T15:06:26+00:00</updated>
+	<author><name>mfilion</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-03-28T15:06:26+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-24:/377204</id>
+	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Kernel-ELKDAT" rel="alternate" type="text/html"/>
+	<title type="html">ELKDAT Tool Released To Ease Linux Kernel Development &amp; Testing</title>
+	<summary type="html"><![CDATA[<p>ELKDAT is a new Linux kernel project to provide an easy kernel development and testing tool...</p>]]></summary>
+	<content type="html"><![CDATA[<p>ELKDAT is a new Linux kernel project to provide an easy kernel development and testing tool...</p>]]></content>
+	<updated>2017-03-24T10:16:24+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2017-03-24T10:16:24+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-17:/375175</id>
+	<link href="https://www.linux.com/news/monitoring-google-compute-engine-metrics" rel="alternate" type="text/html"/>
+	<title type="html">Monitoring Google Compute Engine Metrics</title>
+	<summary type="html"><![CDATA[<p>This post is part 1 in a 3-part series about monitoring Google Compute Engine (GCE).&nbsp;Part 2&nbsp;covers t...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><em>This post is part 1 in a 3-part series about monitoring Google Compute Engine (GCE).&nbsp;<a href="https://www.datadoghq.com/blog/how-to-collect-gce-metrics" rel="noopener noreferrer" target="_blank">Part 2</a>&nbsp;covers the nuts and bolts of collecting GCE metrics, and&nbsp;<a href="https://www.datadoghq.com/blog/monitor-google-compute-engine-with-datadog" rel="noopener noreferrer" target="_blank">part 3</a>describes how you can get started collecting metrics from GCE with Datadog. This article describes in detail the resource and performance metrics that can be obtained from GCE.</em></p>
+<p><strong>What is Google Compute Engine?</strong></p></div></div></div>]]></content>
+	<updated>2017-03-17T11:30:00+00:00</updated>
+	<author><name>Datadog</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-03-17T11:30:00+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-17:/375018</id>
+	<link href="https://www.linux.com/news/top-10-challenges-devops-implementation" rel="alternate" type="text/html"/>
+	<title type="html">Top 10 Challenges to DevOps Implementation</title>
+	<summary type="html"><![CDATA[<p>As more companies adopt DevOps to improve their workflow and productivity, a number of challenges re...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>As more companies adopt DevOps to improve their workflow and productivity, a number of challenges related to infrastructure and legacy systems have arisen, according to a new survey from cloud sandbox software provider Quali.</p></div></div></div>]]></content>
+	<updated>2017-03-16T10:30:56+00:00</updated>
+	<author><name>TechCrunch</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-03-16T10:30:56+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-17:/375020</id>
+	<link href="https://www.linux.com/news/introduction-grub2-configuration-your-linux-machine-0" rel="alternate" type="text/html"/>
+	<title type="html">An Introduction to GRUB2 Configuration for your Linux Machine</title>
+	<summary type="html"><![CDATA[<p>When researching my article from last month,&nbsp;An introduction to the Linux&nbsp;boot and startup process, ...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>When researching my article from last month,&nbsp;<em><a href="https://opensource.com/article/17/2/linux-boot-and-startup" target="_blank" rel="noopener noreferrer">An introduction to the Linux</a><a href="https://opensource.com/article/17/2/linux-boot-and-startup" target="_blank" rel="noopener noreferrer">&nbsp;boot and startup process</a></em>, I became interested in learning more about GRUB2. This article provides a quick introduction to configuring GRUB2, which I will mostly refer to as GRUB for simplicity.</p>
+<p><strong>GRUB</strong></p></div></div></div>]]></content>
+	<updated>2017-03-16T08:30:56+00:00</updated>
+	<author><name>OpenSource.com</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-03-16T08:30:56+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-03-16:/374908</id>
+	<link href="http://thevarguy.com/ubuntu/open-source-software-and-security-what-you-need-know" rel="alternate" type="text/html"/>
+	<title type="html">Open Source Software and Security: What You Need to Know</title>
+	<summary type="html"><![CDATA[<p>Is open source software inherently less secure than closed-source code? Which special security preca...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Is open source software inherently less secure than closed-source code? Which special security precautions should you take with open source? Keep reading for a primer on open source software security...</p>]]></content>
+	<updated>2017-03-16T21:01:20+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://thevarguy.com</id>
+		<link rel="self" href="http://thevarguy.com"/>
+		<updated>2017-03-16T21:01:20+00:00</updated>
+		<title>The VAR Guy -- Linux</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/440112</id>
+	<link href="https://phys.org/news/2017-10-cell-technology.html" rel="alternate" type="text/html"/>
+	<title type="html">Researchers developed single cell level sorting technology using sound waves</title>
+	<summary type="html"><![CDATA[<p>Sound wave enables the sensation of hearing, and is an important way of communicating in the animal ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Sound wave enables the sensation of hearing, and is an important way of communicating in the animal world. In physics, sound is considered as a mechanical vibration that can propagate in gases, liquids and solids. A research team from the Singapore University of Technology and Design (SUTD), led by Assistant Professor Dr Ye Ai, is studying the interactions between ultrasound (beyond the audible limit of human hearing) and micron-sized objects (e.g. biological cells) suspended in aqueous solutions. Dr Ai's research team recently developed a highly accurate single cell level sorting technology using a highly focused sound wave beam (50 &mu;m wide roughly &frac14; of a single human hair's diameter). This new cell manipulation technology enables highly accurate isolation of rare cell populations in complex biological samples. More concisely, it provides the potential of finding a single cell in a million.</p>]]></content>
+	<updated>2017-10-17T13:43:56+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-17T13:43:56+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="analytical chemistry"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-sutdresearch.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/440130</id>
+	<link href="https://phys.org/news/2017-10-revealing-quantum-statistics-pair-distant.html" rel="alternate" type="text/html"/>
+	<title type="html">Revealing quantum statistics with a pair of distant atoms</title>
+	<summary type="html"><![CDATA[<p>An international team of researchers has proposed a new way to make atoms or ions indistinguishable ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>An international team of researchers has proposed a new way to make atoms or ions indistinguishable by swapping their positions. These particles are then expected to exhibit exotic properties. The study involved physicists from the University of Bonn, the Austrian Academy of Sciences, and the University of California. The work has now been published in Physical Review Letters.</p>]]></content>
+	<updated>2017-10-17T12:59:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-17T12:59:03+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="quantum physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/revealingqua.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/440082</id>
+	<link href="https://phys.org/news/2017-10-quantum-physics-paves-chemical-products.html" rel="alternate" type="text/html"/>
+	<title type="html">Quantum physics paves the way for new chemical products</title>
+	<summary type="html"><![CDATA[<p>Research by an OU molecular physicist has discovered that electrons can control chemical reactions i...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Research by an OU molecular physicist has discovered that electrons can control chemical reactions in experiments leading to purer, cheaper chemical products.</p>]]></content>
+	<updated>2017-10-17T12:37:44+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-17T12:37:44+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="condensed matter"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-quantumphysi.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-16:/439678</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/eic-hos101617.php" rel="alternate" type="text/html"/>
+	<title type="html">Hubble observes source of gravitational waves for the first time</title>
+	<summary type="html"><![CDATA[<p>(ESA/Hubble Information Centre) The NASA/ESA Hubble Space Telescope has observed for the first time ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>ESA/Hubble Information Centre</i>) The NASA/ESA Hubble Space Telescope has observed for the first time the source of a gravitational wave, created by the merger of two neutron stars. This merger created a kilonova -- an object predicted by theory decades ago -- that ejects heavy elements such as gold and platinum into space. This event also provides the strongest evidence yet that short duration gamma-ray bursts are caused by mergers of neutron stars.</p>]]></content>
+	<updated>2017-10-16T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-16T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-16:/439671</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/nrl-ito101617.php" rel="alternate" type="text/html"/>
+	<title type="html">International team observes first radio counterpart to gravitational waves</title>
+	<summary type="html"><![CDATA[<p>(Naval Research Laboratory) NRL Radio Astrophysics and Sensing Section astronomers join an internati...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Naval Research Laboratory</i>) NRL Radio Astrophysics and Sensing Section astronomers join an international collaboration of researchers with the Caltech-led GROWTH project, resulting in the first ever observation of the radio counterpart to a gravitational wave event.</p>]]></content>
+	<updated>2017-10-16T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-16T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-16:/439677</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/e-eto101617.php" rel="alternate" type="text/html"/>
+	<title type="html">ESO telescopes observe first light from gravitational wave source</title>
+	<summary type="html"><![CDATA[<p>(ESO) ESO's fleet of telescopes have detected the first visible counterpart to a gravitational wave ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>ESO</i>) ESO's fleet of telescopes have detected the first visible counterpart to a gravitational wave source. These historic observations suggest that this unique object is the result of the merger of two neutron stars. The cataclysmic aftermaths of this kind of merger -- long-predicted events called kilonovae -- disperse heavy elements such as gold and platinum throughout the Universe. This discovery also provides the strongest evidence yet that short-duration gamma-ray bursts are caused by mergers of neutron stars.</p>]]></content>
+	<updated>2017-10-16T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-16T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-16:/439676</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uoc-lad101617.php" rel="alternate" type="text/html"/>
+	<title type="html">LIGO announces detection of gravitational waves from colliding neutron stars</title>
+	<summary type="html"><![CDATA[<p>(University of Chicago) The US-based Laser Interferometer Gravitational-Wave Observatory and the Vir...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Chicago</i>) The US-based Laser Interferometer Gravitational-Wave Observatory and the Virgo detector in Italy announced on Oct. 16 that all three of their detectors had picked up the ripples, or gravitational waves, from two neutron stars that collided 130 million years ago. Among other discoveries, the detection allowed scientists to use gravitational waves to directly calculate the rate at which the universe is expanding.</p>]]></content>
+	<updated>2017-10-16T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-16T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/440111</id>
+	<link href="https://phys.org/news/2017-10-icarus.html" rel="alternate" type="text/html"/>
+	<title type="html">Icarus lifts off</title>
+	<summary type="html"><![CDATA[<p>After the launch of a Soyuz 2 rocket scheduled for October 12 was postponed by two days, the carrier...</p>]]></summary>
+	<content type="html"><![CDATA[<p>After the launch of a Soyuz 2 rocket scheduled for October 12 was postponed by two days, the carrier rocket yesterday docked with the ISS. On board: the Icarus board computer, the future brain of the German-Russian animal observation system.</p>]]></content>
+	<updated>2017-10-17T13:50:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-17T13:50:03+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="space exploration"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/icarusliftso.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/440083</id>
+	<link href="https://phys.org/news/2017-10-bees-home.html" rel="alternate" type="text/html"/>
+	<title type="html">How bees find their way home</title>
+	<summary type="html"><![CDATA[<p>How can a bee fly straight home in the middle of the night after a complicated route through thick v...</p>]]></summary>
+	<content type="html"><![CDATA[<p>How can a bee fly straight home in the middle of the night after a complicated route through thick vegetation in search of food? For the first time, researchers have been able to show what happens in the brain of the bee.</p>]]></content>
+	<updated>2017-10-17T12:37:09+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-17T12:37:09+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="plants &amp; animals"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2014/bee.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/440079</id>
+	<link href="https://phys.org/news/2017-10-habitat-loss-threat-australia-species.html" rel="alternate" type="text/html"/>
+	<title type="html">Habitat loss is the top threat to Australia's species</title>
+	<summary type="html"><![CDATA[<p>Earlier this month, Australia's outgoing Threatened Species Commissioner Gregory Andrews told ABC ra...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Earlier this month, Australia's outgoing Threatened Species Commissioner Gregory Andrews told ABC radio that land clearing is not the biggest threat to Australia's wildlife. His claim caused a stir among Australia's biodiversity scientists and conservation professionals, who have plenty of evidence to the contrary.</p>]]></content>
+	<updated>2017-10-17T12:40:04+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-17T12:40:04+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="ecology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/habitatlossi.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/439995</id>
+	<link href="http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Webcam_on_Mars_Express_surveys_high-altitude_clouds" rel="alternate" type="text/html"/>
+	<title type="html">Webcam on Mars Express surveys high-altitude clouds</title>
+	<summary type="html"><![CDATA[<p>An unprecedented catalogue of more than 21 000 images taken by a webcam on ESA&rsquo;s Mars E...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/10/cloud_over_mars/17192645-1-eng-GB/Cloud_over_Mars_small.jpg" width="170" height="96" align="left" hspace="8"><br>
+		<p>
+An unprecedented catalogue of more than 21 000 images taken by a webcam on ESA&rsquo;s Mars Express is proving its worth as a science instrument, providing a global survey of unusual high-altitude cloud features on the Red Planet.
+</p>]]></content>
+	<updated>2017-10-17T09:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.esa.int/</id>
+		<link rel="self" href="http://www.esa.int/"/>
+		<updated>2017-10-17T09:00:00+00:00</updated>
+		<title>ESA Top News</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/440024</id>
+	<link href="https://phys.org/news/2017-10-quantum-mechanical-analysis-metabolism.html" rel="alternate" type="text/html"/>
+	<title type="html">Researchers take a step toward quantum mechanical analysis of plant metabolism</title>
+	<summary type="html"><![CDATA[<p>Hurricanes, traffic jams, demographic development &ndash; to predict the effect of such events, computer s...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Hurricanes, traffic jams, demographic development &ndash; to predict the effect of such events, computer simulations are required. Many processes in nature, however, are so complicated that conventional computers fail. Quantum simulators may solve this problem. One of the basic phenomena in nature is the interaction between light and matter in photosynthesis. Physicists of Karlsruhe Institute of Technology (KIT) have now made a big step towards quantum mechanics understanding of plant metabolism. This is reported in the Nature Communications journal.</p>]]></content>
+	<updated>2017-10-17T10:22:19+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-17T10:22:19+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="quantum physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/48-researcherst.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-16:/439625</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uom-wad101217.php" rel="alternate" type="text/html"/>
+	<title type="html">Whales and dolphins have rich 'human-like' cultures and societies</title>
+	<summary type="html"><![CDATA[<p>(University of Manchester) Whales and dolphins (cetaceans) live in tightly-knit social groups, have ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Manchester</i>) Whales and dolphins (cetaceans) live in tightly-knit social groups, have complex relationships, talk to each other and even have regional dialects -- much like human societies.  A major new study, published today in Nature Ecology &amp; Evolution, has linked the complexity of Cetacean culture and behavior to the size of their brains.</p>]]></content>
+	<updated>2017-10-16T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-16T04:00:00+00:00</updated>
+		<title>EurekAlert! - Agriculture</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-16:/439833</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/drnl-sln101617.php" rel="alternate" type="text/html"/>
+	<title type="html">SimPath licenses novel ORNL system for enhanced synthetic biology</title>
+	<summary type="html"><![CDATA[<p>(DOE/Oak Ridge National Laboratory) SimPath has licensed a novel cloning system developed by the Dep...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>DOE/Oak Ridge National Laboratory</i>) SimPath has licensed a novel cloning system developed by the Department of Energy's Oak Ridge National Laboratory that generates and assembles the biological building blocks necessary to synthetically bioengineer new medicines and fuels.</p>]]></content>
+	<updated>2017-10-16T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-16T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-15:/439260</id>
+	<link href="https://dzone.com/guides/artificial-intelligence-machine-learning-and-predi?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone" rel="alternate" type="text/html"/>
+	<title type="html">Artificial Intelligence: Machine Learning and Predictive Analytics</title>
+	<summary type="html"><![CDATA[<p>The age of Artificial Intelligence and Machine Learning technologies seems to be right around the co...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The age of Artificial Intelligence and Machine Learning technologies seems to be right around the corner. Companies like Facebook &amp; Google are breaking ground on astounding innovations in AI while others, like Tesla, warn of the possibility for harm. The purpose of this Guide is to steer you and your team through endless possibility, and to help build ethically responsible technologies that improve and enhance our lives.</p>]]></content>
+	<updated>2017-10-13T21:01:09+00:00</updated>
+	<author><name>Julian Morris</name></author>
+	<source>
+		<id>https://dzone.com</id>
+		<link rel="self" href="https://dzone.com"/>
+		<updated>2017-10-13T21:01:09+00:00</updated>
+		<title>DZone.com Feed</title></source>
+
+	<category term="machine learning"/>
+
+	<category term="artificial intelligence"/>
+
+	<category term="nlp"/>
+
+	<category term="tensorflow"/>
+
+	<category term="neural network"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://dzone.com/thumbnail?fid=6907135&amp;w=600"/>
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-03-15:/374436</id>
@@ -693,622 +1170,6 @@
 		<link rel="self" href="http://www.zdnet.com/"/>
 		<updated>2017-10-10T23:41:54+00:00</updated>
 		<title>ZDNet | Linux And Open Source Blog RSS</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-11:/437948</id>
-	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Linux-Debugger-2.2" rel="alternate" type="text/html"/>
-	<title type="html">NVIDIA Releases Linux Graphics Debugger 2.2</title>
-	<summary type="html"><![CDATA[<p>NVIDIA has today released an updated version of their Linux Graphics Debugger to help game/applicati...</p>]]></summary>
-	<content type="html"><![CDATA[<p>NVIDIA has today released an updated version of their Linux Graphics Debugger to help game/application developers in analyzing issues and performance problems around OpenGL 4.x on GeForce/Quadro GPUs...</p>]]></content>
-	<updated>2017-10-11T21:56:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.phoronix.com/</id>
-		<link rel="self" href="https://www.phoronix.com/"/>
-		<updated>2017-10-11T21:56:36+00:00</updated>
-		<title>Phoronix</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-12:/437997</id>
-	<link href="https://opensource.com/article/17/10/openstack-project-contribution-benefits" rel="alternate" type="text/html"/>
-	<title type="html">5 benefits of contributing to open source projects</title>
-	<summary type="html"><![CDATA[<p>Open source was once seen as a risky bet for the enterprise. If open source software was used at all...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/lead-images/welcome-open-sign-door-osdc-lead.png" width="520" height="292" alt="5 benefits of contributing to open source projects" title="5 benefits of contributing to open source projects"><p>Open source was once seen as a risky bet for the enterprise. If open source software was used at all it was by small companies, or by larger firms in stealthy pockets by IT and development professionals who saw the value of the model but couldn't "sell" it upstream.</p>
-<br>
-<a href="https://opensource.com/article/17/10/openstack-project-contribution-benefits" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-10-12T07:00:00+00:00</updated>
-	<author><name>Edgar Magana</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-10-12T07:00:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438785</id>
-	<link href="http://www.linuxinsider.com/story/84881.html?rss=1" rel="alternate" type="text/html"/>
-	<title type="html">AWS, Microsoft Offer New Open Source AI Framework</title>
-	<summary type="html"><![CDATA[<p>AWS and Microsoft have announced the availability of Gluon, an open source deep learning lib...</p>]]></summary>
-	<content type="html"><![CDATA[<a href="http://www.linuxinsider.com/story/84881.html?rss=1" rel="noopener noreferrer" target="_blank"><img src="http://www.linuxinsider.com/images/rw442503/open-source-machine-learning" align="left" alt="" hspace="7" border="0"></a>
-			AWS and Microsoft have announced the availability of Gluon, an open source deep learning library for building AI neural networks. Gluon will make it easier for researchers to define machine learning models using a collection of prebuilt, optimized neural network components. The interface will enable software developers and enterprise users to manipulate machine learning models like any other data structures. Gluon also will enable data scientists and researchers to build prototypes quickly.]]></content>
-	<updated>2017-10-13T12:00:00+00:00</updated>
-	<author><name>Jack M. Germain</name></author>
-	<source>
-		<id>http://www.linuxinsider.com</id>
-		<link rel="self" href="http://www.linuxinsider.com"/>
-		<updated>2017-10-13T12:00:00+00:00</updated>
-		<title>LinuxInsider</title></source>
-
-	<category term="software"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438798</id>
-	<link href="http://www.linuxsecurity.com/content/view/194538?rdf" rel="alternate" type="text/html"/>
-	<title type="html">What is a firewall?</title>
-	<summary type="html"><![CDATA[<p>LinuxSecurity.com: Network-based firewalls have become almost ubiquitous across US enterprises for t...</p>]]></summary>
-	<content type="html"><![CDATA[<b>LinuxSecurity.com</b>: Network-based firewalls have become almost ubiquitous across US enterprises for their proven defense against an ever-increasing array of threats.]]></content>
-	<updated>2017-10-13T09:53:31+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.linuxsecurity.com/</id>
-		<link rel="self" href="http://www.linuxsecurity.com/"/>
-		<updated>2017-10-13T09:53:31+00:00</updated>
-		<title>LinuxSecurity.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438731</id>
-	<link href="http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-5P/Air_quality-monitoring_satellite_in_orbit" rel="alternate" type="text/html"/>
-	<title type="html">Air quality-monitoring satellite in orbit</title>
-	<summary type="html"><![CDATA[<p>The first Copernicus mission dedicated to monitoring our atmosphere, Sentinel&#8209;5P, has b...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2017/10/sentinel-5p_liftoff/17196083-4-eng-GB/Sentinel-5P_liftoff_small.png" width="170" height="96" align="left" hspace="8"><br>
-		<p>
-The first Copernicus mission dedicated to monitoring our atmosphere, Sentinel&#8209;5P, has been launched from the Plesetsk Cosmodrome in northern Russia.
-</p>]]></content>
-	<updated>2017-10-13T11:05:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.esa.int/</id>
-		<link rel="self" href="http://www.esa.int/"/>
-		<updated>2017-10-13T11:05:00+00:00</updated>
-		<title>ESA Top News</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438714</id>
-	<link href="http://www.esa.int/ESA_Multimedia/Videos/2017/10/Sentinel-5P_liftoff" rel="alternate" type="text/html"/>
-	<title type="html">Liftoff replay</title>
-	<summary type="html"><![CDATA[<p>Watch the replay of the Sentinel-5P launch from the Plesetsk Cosmodrome in northe...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/10/sentinel-5p_liftoff/17200213-4-eng-GB/Sentinel-5P_liftoff_large.jpg" width="600"><br>
-		Watch the replay of the Sentinel-5P launch from the Plesetsk Cosmodrome in northern Russia]]></content>
-	<updated>2017-10-13T09:30:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.esa.int/</id>
-		<link rel="self" href="http://www.esa.int/"/>
-		<updated>2017-10-13T09:30:00+00:00</updated>
-		<title>ESA Top News</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-12:/438515</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171012143334.htm" rel="alternate" type="text/html"/>
-	<title type="html">Spotting the spin of the Majorana fermion under the microscope</title>
-	<summary type="html"><![CDATA[<p>Using a new twist on a technique for imaging atomic structures, researchers have detected a unique q...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Using a new twist on a technique for imaging atomic structures, researchers have detected a unique quantum property of the Majorana fermion, an elusive particle with the potential for use in quantum information systems.</p>]]></content>
-	<updated>2017-10-12T18:33:34+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-12T18:33:34+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171012143334-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438777</id>
-	<link href="https://phys.org/news/2017-10-day-lhc-collides-xenon.html" rel="alternate" type="text/html"/>
-	<title type="html">For one day only, LHC collides xenon beams</title>
-	<summary type="html"><![CDATA[<p>Today, the LHC is getting a taste of something unusual. For eight hours, the Large Hadron Collider i...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Today, the LHC is getting a taste of something unusual. For eight hours, the Large Hadron Collider is accelerating and colliding xenon nuclei, allowing the large LHC experiments, ATLAS, ALICE, CMS and LHCb, to record xenon collisions for the first time.</p>]]></content>
-	<updated>2017-10-13T12:30:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-13T12:30:03+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="general physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/foronedayonl.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438807</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171013091023.htm" rel="alternate" type="text/html"/>
-	<title type="html">Single photon reveals quantum entanglement of 16 million atoms</title>
-	<summary type="html"><![CDATA[<p>Quantum theory predicts that a vast number of atoms can be entangled and intertwined by a very stron...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Quantum theory predicts that a vast number of atoms can be entangled and intertwined by a very strong quantum relationship even in a macroscopic structure. Until now, experimental evidence has been mostly lacking, despite recent advances have shown the entanglement of 2,900 atoms. Scientists recently reengineered their data processing, demonstrating that 16 million atoms were entangled in a one-centimeter crystal.</p>]]></content>
-	<updated>2017-10-13T13:10:23+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-13T13:10:23+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171013091023-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-12:/438513</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171012143407.htm" rel="alternate" type="text/html"/>
-	<title type="html">Satellites map photosynthesis at high resolution</title>
-	<summary type="html"><![CDATA[<p>Life on Earth is impossible without photosynthesis. It provides food and oxygen to all higher life f...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Life on Earth is impossible without photosynthesis. It provides food and oxygen to all higher life forms and plays an important role in the climate system, since this process regulates the uptake of carbon dioxide from the Earth's atmosphere and its fixation in biomass. However, quantification of photosynthesis at the ecosystem-to-global scale remains uncertain. Now an international team of scientists have made a major step forward.</p>]]></content>
-	<updated>2017-10-12T18:34:07+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-12T18:34:07+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171012143407-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-12:/438510</id>
-	<link href="https://phys.org/news/2017-10-d-packaging-dna-cell-identity.html" rel="alternate" type="text/html"/>
-	<title type="html">3-D packaging of DNA regulates cell identity</title>
-	<summary type="html"><![CDATA[<p>The fundamental mechanisms governing how cells form an identity such as becoming a muscle cell or a ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The fundamental mechanisms governing how cells form an identity such as becoming a muscle cell or a nerve cell are not fully understood. Multiple diseases, including cancer, have been linked to cells going down the wrong developmental path during maturation. A new study from the Perelman School of Medicine at the University of Pennsylvania suggests that the ability of a stem cell to differentiate into cardiac muscle (and by extension other cell types) depends on what portions of the genome are available for activation, which is controlled by the location of DNA in a cell's nucleus.</p>]]></content>
-	<updated>2017-10-12T19:01:53+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-12T19:01:53+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="cell &amp; microbiology"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/3dpackagingo.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-12:/438561</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171012122820.htm" rel="alternate" type="text/html"/>
-	<title type="html">Brain waves reflect different types of learning</title>
-	<summary type="html"><![CDATA[<p>Researchers have, for the first time, identified neural signatures of explicit and implicit learning...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Researchers have, for the first time, identified neural signatures of explicit and implicit learning.</p>]]></content>
-	<updated>2017-10-12T16:28:20+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-12T16:28:20+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171012122820-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-12:/438560</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171012125241.htm" rel="alternate" type="text/html"/>
-	<title type="html">Biology study suggests father's nutrition before sex could contribute to health of baby</title>
-	<summary type="html"><![CDATA[<p>Doctors long have stressed the importance of good nutrition for expectant mothers. Now biologists sa...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Doctors long have stressed the importance of good nutrition for expectant mothers. Now biologists say the father's diet, too, could play a similar role in the health of a baby.</p>]]></content>
-	<updated>2017-10-12T16:52:41+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-12T16:52:41+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171012125241-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-26:/432622</id>
-	<link href="http://www.esa.int/Our_Activities/Operations/Preparing_to_fly_Sentinel-5P" rel="alternate" type="text/html"/>
-	<title type="html">Preparing to fly Sentinel-5P</title>
-	<summary type="html"><![CDATA[<p>The teams that will fly Sentinel-5P are training intensively for launch, ensuring that ...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/09/team_training/17172771-1-eng-GB/Team_training_small.jpg" width="170" height="96" align="left" hspace="8"><br>
-		<p>
-The teams that will fly Sentinel-5P are training intensively for launch, ensuring that everyone knows their job and can react to any emergency.
-</p>]]></content>
-	<updated>2017-09-26T11:15:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.esa.int/</id>
-		<link rel="self" href="http://www.esa.int/"/>
-		<updated>2017-09-26T11:15:00+00:00</updated>
-		<title>ESA Top News</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-25:/432135</id>
-	<link href="http://www.esa.int/ESA_Multimedia/Images/2017/09/Rosetta_s_ever-changing_view_of_a_comet" rel="alternate" type="text/html"/>
-	<title type="html">Ever-changing view</title>
-	<summary type="html"><![CDATA[<p>Highlighting Rosetta&rsquo;s ever-changing view of the comet, a year since the mission ...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/09/rosetta_s_ever-changing_view_of_a_comet/17148253-1-eng-GB/Rosetta_s_ever-changing_view_of_a_comet_large.jpg" width="600"><br>
-		Highlighting Rosetta&rsquo;s ever-changing view of the comet, a year since the mission concluded]]></content>
-	<updated>2017-09-25T07:30:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.esa.int/</id>
-		<link rel="self" href="http://www.esa.int/"/>
-		<updated>2017-09-25T07:30:00+00:00</updated>
-		<title>ESA Top News</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-12:/438272</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171012091020.htm" rel="alternate" type="text/html"/>
-	<title type="html">Virtual humans work better than current ways to identify post-traumatic stress in soldiers</title>
-	<summary type="html"><![CDATA[<p>Researchers find that soldiers are more likely to open up about post-traumatic stress when interview...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Researchers find that soldiers are more likely to open up about post-traumatic stress when interviewed by a virtual interviewer, reports a new study. Virtual interviewers can combine the rapport-building skills of human interviewers with feelings safety provided by anonymous surveys to help soldiers to reveal more about their mental health symptoms.</p>]]></content>
-	<updated>2017-10-12T13:10:20+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-12T13:10:20+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171012091020-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-12:/438212</id>
-	<link href="https://phys.org/news/2017-10-discovery-odor-detecting-receptor.html" rel="alternate" type="text/html"/>
-	<title type="html">Pioneering discovery of an odor-detecting receptor enhancer</title>
-	<summary type="html"><![CDATA[<p>Each odor-detecting neuron (referred to as olfactory sensory neuron from here on), chooses a single ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Each odor-detecting neuron (referred to as olfactory sensory neuron from here on), chooses a single odorant receptor gene from a fairly large number of options that are split into class I (fish-like) and class II (terrestrial-specific) odorant receptors. This strict selectiveness of sensory neurons is in part due to enhancers (DNA sequences that enhance transcription of a gene when bound by specific protein), which remain poorly understood. Understanding enhancer functions is of great interest due to their importance in gene expression as well as evolution and disease. However, they have not been sufficiently studied because they cannot be easily predicted from DNA sequences or chromosome modifications nor can they be easily identified.</p>]]></content>
-	<updated>2017-10-12T13:40:57+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-12T13:40:57+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="biotechnology"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/pioneeringdi.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-12:/438291</id>
-	<link href="https://inhabitat.com/oxford-uk-to-create-first-zero-emissions-zone-in-the-world" rel="alternate" type="text/html"/>
-	<title type="html">Oxford, UK to create first zero-emissions zone in the world</title>
-	<summary type="html"><![CDATA[<p>Oxford, England, with its history of learning dating back to the 11th century, is now shifting into...</p>]]></summary>
-	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Nuffield-College-889x420.jpg" alt="Oxford, United Kingdom, England"></p>
-<p><a href="https://inhabitat.com/tag/oxford/" rel="noopener noreferrer" target="_blank">Oxford</a>, England, with its history of learning dating back to the 11th century, is now shifting into the future with an <a href="https://inhabitat.com/tag/electric-vehicle" rel="noopener noreferrer" target="_blank">electric-vehicle</a> only zone in the city center. By banning all internal combustion engine vehicles, the city is establishing what it says is the first zero-emissions zone in the world. Starting in 2020, six streets in Oxford&rsquo;s city center will be free of smaller gas-guzzling vehicles, including buses and taxis. By 2035, the ban will have expanded to all fossil-fuel powered vehicles and will encompass the entire city center.</p>
-<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Bridge-of-Sighs-889x500.jpg" alt="Oxford, United Kingdom, England"></p>
-<p>While such a dramatic change in the city center&rsquo;s urban design may encourage less driving, thus less <a href="https://inhabitat.com/tag/greenhouse-gases" rel="noopener noreferrer" target="_blank">greenhouse gas</a> emissions, the zone was inspired by a need to reduce levels of nitrogen dioxide, most of which comes from car exhaust, by three-fourths. Chronic exposure to nitrogen dioxide can cause respiratory problems and eye irritation.&nbsp;Data from the World Health Organization also indicates that Oxford is one of eleven British cities to exceed the safe limits of toxic particles known as PM10s and PM2.5s. A &ldquo;step change&rdquo; is urgently needed to prevent air <a href="https://inhabitat.com/tag/pollution" rel="noopener noreferrer" target="_blank">pollution</a> from &ldquo;damaging the health&rdquo; of Oxford residents, said city councilor John Tanner.</p>
-<p><a href="https://inhabitat.com/gms-plans-for-all-electric-future-spell-doom-for-fossil-fuel-industry/" rel="noopener noreferrer" target="_blank">Related:&nbsp;GM&rsquo;s plans for &ldquo;all-electric-future&rdquo; spell doom for fossil fuel industry</a></p>
-<p>The switch-over plan is expected to cost Oxford city government, bus companies, and local businesses approximately&nbsp;&pound;7 million to replace the <a href="https://inhabitat.com/tag/fossil-fuels" rel="noopener noreferrer" target="_blank">fossil-fuel</a> consuming vehicles, including all municipal vehicles, with electric vehicles. An additional&nbsp;&pound;7 million will be spent to build compliance <a href="https://inhabitat.com/tag/infrastructure" rel="noopener noreferrer" target="_blank">infrastructure</a>, such as CCTV cameras with plate number recognition technology. Those who still choose to bring their old fashioned vehicles into the city center after the ban will face a significant fine. To sustain such a project, Oxford would require sustained commitment from local, regional, and perhaps federal government.</p>
-<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Radcliffe-Camera-889x592.jpg" alt="Oxford, United Kingdom, England"></p>
-<p>Via <a href="https://www.theguardian.com/uk-news/2017/oct/11/oxford-aims-to-cut-air-pollution-car-ban-zero-emissions-zone" rel="noopener noreferrer" target="_blank">The Guardian</a></p>
-<p><em>Images via&nbsp;<a href="https://www.flickr.com/photos/125993862@N06/16705276121/in/photolist-nqbvE5-rsbUA6-zgJVSc-zaSrir-zfTTbc-zd8ovm-zhaGps-zj1LGe-ebYYY-ziaAA4-yA3upW-zd9QBA-zaLhzY-z1DPhg-yBJwmL-yBSVwM-zdeF8r-zftE5d-zxFkRC-ziaAdv-6Nvitj-8TCsjM-zrjd1W-zhfwyg-yosofe-z3PMMR-yYo33a-zbg8ay-dkhjMm-HLLYk-xvzneb-VvDaFV-ajP6Ya-HGXUXR-8MiMCG-TNQ3jk-KcwFM8-8HUqMw-8TFyyS-Dk9v3d-aYLJST-V4iYUC-9oB6s8-xnNVCo-4adoJP-9oE9dS-6ZnNoJ-U63Jyv-6Nrco6-8eV284" rel="noopener noreferrer" target="_blank">Martijn van Sabben</a>,&nbsp;<a href="https://www.flickr.com/photos/giuseppemilo/28353809653/in/photolist-KcwFM8-8HUqMw-8TFyyS-Dk9v3d-aYLJST-V4iYUC-9oB6s8-xnNVCo-4adoJP-9oE9dS-6ZnNoJ-U63Jyv-6Nrco6-8eV284-p1Bk6E-rfX2Xw-ryjqGj-6qQzF8-9oEa55-8RvtKa-rwDSDx-raKJ1c-bpauKV-envsCx-afBNUx-rJYaui-Mcy7oT-inwu5k-nvSF5U-r1S4BZ-xbvMDY-rbHg2G-Jb23wL-6rCfHR-6NraJP-6Nr9De-omDDZW-p3Lxp-8TKS9W-4qfBXZ-8BYEVX-92CPRe-i6Kby-379DqS-JrHgY7-8eBf3X-dKyVoy-aYkUwP-922SbX-8SbdPy" rel="noopener noreferrer" target="_blank">Giuseppe Milo</a></em></p><div>
-<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=hWSsMImnUWQ:gnBwCvlIMog:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=hWSsMImnUWQ:gnBwCvlIMog:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
-</div>]]></content>
-	<updated>2017-10-12T13:15:38+00:00</updated>
-	<author><name>Greg Beach</name></author>
-	<source>
-		<id>https://inhabitat.com</id>
-		<link rel="self" href="https://inhabitat.com"/>
-		<updated>2017-10-12T13:15:38+00:00</updated>
-		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
-
-	<category term="urban design"/>
-
-	<category term="automotive"/>
-
-	<category term="air quality"/>
-
-	<category term="clean energy"/>
-
-	<category term="conservation"/>
-
-	<category term="climate change"/>
-
-	<category term="green energy"/>
-
-	<category term="air pollution"/>
-
-	<category term="united kingdom"/>
-
-	<category term="electric vehicles"/>
-
-	<category term="electric cars"/>
-
-	<category term="greenhouse gases"/>
-
-	<category term="england"/>
-
-	<category term="fossil fuels"/>
-
-	<category term="news"/>
-
-	<category term="london"/>
-
-	<category term="oxford"/>
-
-	<category term="environment"/>
-
-	<category term="sustainable design"/>
-
-	<category term="resilient design"/>
-
-	<category term="renewable energy"/>
-
-	<category term="green policies"/>
-
-	<category term="zero emissions zone"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-12:/438357</id>
-	<link href="https://inhabitat.com/report-solar-power-is-the-fastest-growing-source-of-new-energy" rel="alternate" type="text/html"/>
-	<title type="html">Report:solar power is the fastest growing source of new energy</title>
-	<summary type="html"><![CDATA[<p>The world is going green at an unprecedented rate. In 2016, renewable energy accounted for two-thir...</p>]]></summary>
-	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/report-solar-fastest-growing-renewable-energy-technology-worldwide-1-889x592.jpg" alt="International Energy Agency, solar power, wind power, renewable energy, clean energy, fossil fuels, environment, sustainability, environment, "></p>
-<p>The world is going green at an unprecedented rate. In 2016, <a href="https://inhabitat.com/tag/renewable-energy" rel="noopener noreferrer" target="_blank">renewable energy</a> accounted for two-thirds of all new power added to the world&rsquo;s grid, according to a report by the International Energy Agency (IEA) &mdash; with more <a href="https://inhabitat.com/tag/solar" rel="noopener noreferrer" target="_blank">solar</a> brought on board than any other technology. Overall, the growth in renewable power is estimated to be twice as large as gas and coal combined over the next five years.</p>
-<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/report-solar-fastest-growing-renewable-energy-technology-worldwide-1-889x592.jpg" alt="International Energy Agency, solar power, wind power, renewable energy, clean energy, fossil fuels, environment, sustainability, environment, "></p>
-<p>According to the report, new solar growth even overtook the net growth in <a href="https://inhabitat.com/tag/coal" rel="noopener noreferrer" target="_blank">coal,&nbsp;</a>which was previously the largest source of power generation. In many countries, the switch toward solar was propelled by falling prices and more favorable government policies. Now, the agency &mdash; which was funded by 28 member governments &mdash; predicts that in five years, the global capacity for <a href="https://inhabitat.com/tag/solar" rel="noopener noreferrer" target="_blank">solar</a> will be greater &ldquo;than the current combined total power of capacity of India and Japan.&rdquo;</p>
-<p>Dr. Fatih Birol, the executive director of the IEA, said, &ldquo;What we are witnessing is the birth of a new era in solar photovoltaics [PV]. We expect that solar PV capacity growth will be higher than any other <a href="https://inhabitat.com/tag/renewable-energy" rel="noopener noreferrer" target="_blank">renewable technology</a> up to 2022.&rdquo;</p>
-<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/report-solar-fastest-growing-renewable-energy-technology-worldwide-2-889x592.jpg" alt="International Energy Agency, solar power, wind power, renewable energy, clean energy, fossil fuels, environment, sustainability, environment, "></p>
-<p>The agency said it has &ldquo;underestimated&rdquo; the speed solar is growing. Based on figures from 2016, the IEA now expects one-third more solar in China and <a href="https://inhabitat.com/tag/India" rel="noopener noreferrer" target="_blank">India</a> by 2022. China, which is notorious for being the most polluted country in the world, is leading the expansion of renewable energy. The <a href="https://inhabitat.com/tag/United-States" rel="noopener noreferrer" target="_blank">United States</a> is the second-fasting growing market, despite President Trump&rsquo;s adamant anti-climate change stance.</p>
-<p>India is set for a &ldquo;solar boom&rdquo; over the next five years. Already, solar farms integrated with the grid are common, and innovation in the country is ensuring<a href="https://inhabitat.com/brilliant-zero-energy-air-conditioner-in-india-is-beautiful-and-functional/" rel="noopener noreferrer" target="_blank"> even the poorest residents have access to eco-friendly inventions</a>. Because India&rsquo;s renewable energy capacity will double by 2022, it will likely overtake the EU on growth. In terms of solar, the <a href="https://inhabitat.com/tag/UK" rel="noopener noreferrer" target="_blank">UK</a> is expected to lag behind. The amount of solar forecast to be installed by 2022 is one-fifth the amount installed over the past five years. Offshore <a href="https://inhabitat.com/tag/wind-farm" rel="noopener noreferrer" target="_blank">wind farms</a> are expected to account for most of the UK&rsquo;s renewable energy growth.</p>
-<p><a href="https://inhabitat.com/the-puerto-rico-nursery-still-up-and-running-thanks-to-solar-power/" rel="noopener noreferrer" target="_blank">Related:&nbsp;The Puerto Rico nursery still up and running thanks to solar power</a></p>
-<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/report-solar-fastest-growing-renewable-energy-technology-worldwide-3-889x667.jpg" alt="International Energy Agency, solar power, wind power, renewable energy, clean energy, fossil fuels, environment, sustainability, environment, "></p>
-<p>The world&rsquo;s acceptance of <a href="https://inhabitat.com/tag/clean-energy" rel="noopener noreferrer" target="_blank">clean energy</a> means technologies &mdash; including wind, solar, and <a href="https://inhabitat.com/tag/geothermal" rel="noopener noreferrer" target="_blank">geothermal</a> &mdash; are becoming comparable in price to fossil fuels. Paolo Frankl, head of the renewable energy division at the IEA, said, &ldquo;Renewables may well become even cheaper than fossil fuel alternatives [over the next five years].&rdquo;&nbsp;Within five years, coal may still be the biggest source of power. But renewables&rsquo; share of electricity will increase from 24 percent in 2016 to 30 percent by 2022.</p>
-<p>Via <a href="https://www.theguardian.com/environment/2017/oct/04/solar-power-renewables-international-energy-agency" rel="noopener noreferrer" target="_blank">The Guardian&nbsp;</a></p>
-<p><em>Images via <a href="http://www.pixabay.com" rel="noopener noreferrer" target="_blank">Pixabay</a></em></p><div>
-<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=ejWXTdiC0wk:0_HI5vrRNUs:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=ejWXTdiC0wk:0_HI5vrRNUs:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
-</div>]]></content>
-	<updated>2017-10-05T11:53:12+00:00</updated>
-	<author><name>Amanda Froelich</name></author>
-	<source>
-		<id>https://inhabitat.com</id>
-		<link rel="self" href="https://inhabitat.com"/>
-		<updated>2017-10-05T11:53:12+00:00</updated>
-		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
-
-	<category term="energy"/>
-
-	<category term="solar power"/>
-
-	<category term="wind power"/>
-
-	<category term="air quality"/>
-
-	<category term="clean energy"/>
-
-	<category term="energy efficiency"/>
-
-	<category term="uk"/>
-
-	<category term="environment"/>
-
-	<category term="alternative energy"/>
-
-	<category term="solar"/>
-
-	<category term="india"/>
-
-	<category term="renewable energy"/>
-
-	<category term="climate change"/>
-
-	<category term="geothermal"/>
-
-	<category term="wind farm"/>
-
-	<category term="coal"/>
-
-	<category term="united states"/>
-
-	<category term="news"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-29:/405350</id>
-	<link href="https://letsencrypt.org//2017/06/28/hundred-million-certs.html" rel="alternate" type="text/html"/>
-	<title type="html">Milestone: 100 Million Certificates Issued</title>
-	<summary type="html"><![CDATA[<p>Let&rsquo;s Encrypt has reached a milestone: we&rsquo;ve now issued more than 100,000,000 certificates. This num...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Let&rsquo;s Encrypt has reached a milestone: we&rsquo;ve now issued more than 100,000,000 certificates. This number reflects at least a few things:</p>
-
-<p>First, it illustrates the strong demand for our services. We&rsquo;d like to thank all of the sysadmins, web developers, and everyone else managing servers for prioritizing protecting your visitors with HTTPS.</p>
-
-<p>Second, it illustrates our ability to scale. I&rsquo;m incredibly proud of the work our engineering teams have done to make this volume of issuance possible. I&rsquo;m also very grateful to our operational partners, including <a href="https://www.identrust.com/" rel="noopener noreferrer" target="_blank">IdenTrust</a>, <a href="https://www.akamai.com/" rel="noopener noreferrer" target="_blank">Akamai</a>, and <a href="https://www.sumologic.com/" rel="noopener noreferrer" target="_blank">Sumo Logic</a>.</p>
-
-<p>Third, it illustrates the power of automated certificate management. If getting and managing certificates from Let&rsquo;s Encrypt always required manual steps there is simply no way we&rsquo;d be able to serve as many sites as we do. We&rsquo;d like to thank our community for creating a <a href="https://letsencrypt.org/docs/client-options/" rel="noopener noreferrer" target="_blank">wide range of clients</a> for automating certificate issuance and management.</p>
-
-<p>The total number of certificates we&rsquo;ve issued is an interesting number, but it doesn&rsquo;t reflect much about tangible progress towards our primary goal: a 100% HTTPS Web. To understand that progress we need to look at this graph:</p>
-
-<center><p><img src="http://localhost/images/2017.06.28-https-percentage.png" alt="Percentage of HTTPS Page Loads in Firefox."></p></center>
-
-<p>When Let&rsquo;s Encrypt&rsquo;s service first became available, less than 40% of page loads on the Web used HTTPS. It took the Web 20 years to get to that point. In the 19 months since we launched, encrypted page loads have gone up by 18%, to nearly 58%. That&rsquo;s an incredible rate of change for the Web. Contributing to this trend is what we&rsquo;re most proud of.</p>
-
-<p>If you&rsquo;re as excited about the potential for a 100% HTTPS Web as we are, please consider <a href="https://letsencrypt.org/getinvolved/" rel="noopener noreferrer" target="_blank">getting involved</a>, <a href="https://letsencrypt.org/donate/" rel="noopener noreferrer" target="_blank">making a donation</a>, or <a href="https://letsencrypt.org/become-a-sponsor/" rel="noopener noreferrer" target="_blank">sponsoring</a> Let&rsquo;s Encrypt.</p>
-
-<p>Here&rsquo;s to the next 100,000,000 certificates, and a more secure and privacy-respecting Web for everyone!</p>]]></content>
-	<updated>2017-06-28T07:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://letsencrypt.org//</id>
-		<link rel="self" href="https://letsencrypt.org//"/>
-		<updated>2017-06-28T07:00:00+00:00</updated>
-		<title>Let's Encrypt</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-07:/354831</id>
-	<link href="https://letsencrypt.org//2017/01/06/le-2016-in-review.html" rel="alternate" type="text/html"/>
-	<title type="html">Let’s Encrypt 2016 In Review</title>
-	<summary type="html"><![CDATA[<p>Our first full year as a live CA was an exciting one. I&rsquo;m incredibly proud of what our team and comm...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Our first full year as a live CA was an exciting one. I&rsquo;m incredibly proud of what our team and community accomplished during 2016. I&rsquo;d like to share some thoughts about how we&rsquo;ve changed, what we&rsquo;ve accomplished, and what we&rsquo;ve learned.</p>
-
-<p>At the start of 2016, Let&rsquo;s Encrypt certificates had been available to the public for less than a month and we were supporting approximately 240,000 active (unexpired) certificates. That seemed like a lot at the time! Now we&rsquo;re frequently issuing that many new certificates in a single day while supporting more than 20,000,000 active certificates in total. We&rsquo;ve issued more than a million certificates in a single day a few times recently. We&rsquo;re currently serving an average of 6,700 OCSP responses per second. We&rsquo;ve done a lot of optimization work, we&rsquo;ve had to add some hardware, and there have been some long nights for our staff, but we&rsquo;ve been able to keep up and we&rsquo;re ready for another year of <a href="https://letsencrypt.org/stats/" rel="noopener noreferrer" target="_blank">strong growth</a>.</p>
-
-<center><p><img src="http://localhost/images/Jan-6-2017-Cert-Stats.png" alt="Let's Encrypt certificate issuance statistics."></p></center>
-
-<p>We added a number of <a href="https://letsencrypt.org/upcoming-features/" rel="noopener noreferrer" target="_blank">new features</a> during the past year, including support for the ACME DNS challenge, ECDSA signing, IPv6, and Internationalized Domain Names.</p>
-
-<p>When 2016 started, our root certificate had not been accepted into any major root programs. Today we&rsquo;ve been accepted into the Mozilla, Apple, and Google root programs. We&rsquo;re close to announcing acceptance into another major root program. These are major steps towards being able to operate as an independent CA. You can read more about why <a href="https://letsencrypt.org/2016/08/05/le-root-to-be-trusted-by-mozilla.html" rel="noopener noreferrer" target="_blank">here</a>.</p>
-
-<p>The ACME protocol for issuing and managing certificates is at the heart of how Let&rsquo;s Encrypt works. Having a well-defined and heavily audited specification developed in public on a standards track has been a major contributor to our growth and the growth of our client ecosystem. Great progress was made in 2016 towards standardizing ACME in the <a href="https://datatracker.ietf.org/wg/acme/charter/" rel="noopener noreferrer" target="_blank">IETF ACME working group</a>. We&rsquo;re hoping for a final document around the end of Q2 2017, and we&rsquo;ll announce plans for implementation of the updated protocol around that time as well.</p>
-
-<p>Supporting the kind of growth we saw in 2016 meant adding staff, and during the past year Internet Security Research Group (ISRG), the non-profit entity behind Let&rsquo;s Encrypt, went from four full-time employees to nine. We&rsquo;re still a pretty small crew given that we&rsquo;re now one of the largest CAs in the world (if not the largest), but it works because of our intense focus on automation, the fact that we&rsquo;ve been able to hire great people, and because of the incredible support we receive from the Let&rsquo;s Encrypt community.</p>
-
-<p>Let&rsquo;s Encrypt exists in order to help create a 100% encrypted Web. Our own metrics can be interesting, but they&rsquo;re only really meaningful in terms of the impact they have on progress towards a more secure and privacy-respecting Web. The metric we use to track progress towards that goal is the percentage of page loads using HTTPS, as seen by browsers. According to Firefox Telemetry, the Web has gone from approximately 39% of page loads using HTTPS each day to just about 49% during the past year. We&rsquo;re incredibly close to a Web that is more encrypted than not. We&rsquo;re proud to have been a big part of that, but we can&rsquo;t take credit for all of it. Many people and organizations around the globe have come to realize that we need to invest in a more secure and privacy-respecting Web, and have taken steps to secure their own sites as well as their customers&rsquo;. Thank you to everyone that has advocated for HTTPS this year, or helped to make it easier for people to make the switch.</p>
-
-<p>We learned some lessons this year. When we had service interruptions they were usually related to managing the rapidly growing database backing our CA. Also, while most of our code had proper tests, some small pieces didn&rsquo;t and that led to <a href="https://community.letsencrypt.org/c/incidents" rel="noopener noreferrer" target="_blank">incidents</a> that shouldn&rsquo;t have happened. That said, I&rsquo;m proud of the way we handle incidents promptly, including quick and transparent public disclosure.</p>
-
-<p>We also learned a lot about our client ecosystem. At the beginning of 2016, ISRG / Let&rsquo;s Encrypt provided client software called letsencrypt. We&rsquo;ve always known that we would never be able produce software that would work for every Web server/stack, but we felt that we needed to offer a client that would work well for a large number of people and that could act as a reference client. By March of 2016, earlier than we had foreseen, it had become clear that our community was up to the task of creating a wide range of quality clients, and that our energy would be better spent fostering that community than producing our own client. That&rsquo;s when we made the decision to <a href="https://letsencrypt.org/2016/03/09/le-client-new-home.html" rel="noopener noreferrer" target="_blank">hand off development of our client</a> to the Electronic Frontier Foundation (EFF). EFF renamed the client to <a href="https://certbot.eff.org/" rel="noopener noreferrer" target="_blank">Certbot</a> and has been doing an excellent job maintaining and improving it as one of <a href="https://letsencrypt.org/docs/client-options/" rel="noopener noreferrer" target="_blank">many client options</a>.</p>
-
-<p>As exciting as 2016 was for Let&rsquo;s Encrypt and encryption on the Web, 2017 seems set to be an even more incredible year. Much of the infrastructure and many of the plans necessary for a 100% encrypted Web came into being or solidified in 2016. More and more hosting providers and CDNs are supporting HTTPS with one click or by default, often without additional fees. It has never been easier for people and organizations running their own sites to find the tools, services, and information they need to move to HTTPS. Browsers are planning to update their user interfaces to better reflect the risks associated with non-secure connections.</p>
-
-<p>We&rsquo;d like to thank our community, including our <a href="https://letsencrypt.org/sponsors/" rel="noopener noreferrer" target="_blank">sponsors</a>, for making everything we did this past year possible. Please consider <a href="https://letsencrypt.org/getinvolved/" rel="noopener noreferrer" target="_blank">getting involved</a> or making a <a href="https://letsencrypt.org/donate/" rel="noopener noreferrer" target="_blank">donation</a>, and if your company or organization would like to sponsor Let&rsquo;s Encrypt please email us at <a href="mailto:sponsor@letsencrypt.org" rel="noopener noreferrer" target="_blank">sponsor@letsencrypt.org</a>.</p>]]></content>
-	<updated>2017-01-06T08:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://letsencrypt.org//</id>
-		<link rel="self" href="https://letsencrypt.org//"/>
-		<updated>2017-01-06T08:00:00+00:00</updated>
-		<title>Let's Encrypt</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-09:/355200</id>
-	<link href="http://www.phoronix.com/vr.php?view=23995" rel="alternate" type="text/html"/>
-	<title type="html">AMD &amp; NVIDIA: Open vs. Closed-Source Driver Performance</title>
-	<summary type="html"><![CDATA[<p>Continuing on from this weekend's open-source Nouveau vs. closed-source NVIDIA Linux driver performa...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Continuing on from this weekend's open-source Nouveau vs. closed-source NVIDIA Linux driver performance are results now added in with showing AMD's open-source vs. closed-source driver performance with the same tests.</p>]]></content>
-	<updated>2017-01-09T13:05:45+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.phoronix.com/</id>
-		<link rel="self" href="https://www.phoronix.com/"/>
-		<updated>2017-01-09T13:05:45+00:00</updated>
-		<title>Phoronix</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2016-12-27:/352523</id>
-	<link href="https://www.linux.com/news/top-10-open-source-projects-2016" rel="alternate" type="text/html"/>
-	<title type="html">Top 10 Open Source Projects of 2016</title>
-	<summary type="html"><![CDATA[<p>In our annual list of the year's top open source projects, we look back at popular projects our writ...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>In our annual list of the year's top open source projects, we look back at popular projects our writers covered in 2016, plus favorites our Community Moderators picked. We continue to be impressed with the wonderful open source projects that emerge, grow, change, and evolve every year. Picking 10 to include in our annual list of top projects is no small feat, and certainly no list this short can include every deserving project.</p></div></div></div>]]></content>
-	<updated>2016-12-27T09:00:00+00:00</updated>
-	<author><name>OpenSource.com</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2016-12-27T09:00:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-09:/355125</id>
-	<link href="https://www.linux.com/news/current-state-machine-intelligence-30" rel="alternate" type="text/html"/>
-	<title type="html">The Current State of Machine Intelligence 3.0</title>
-	<summary type="html"><![CDATA[<p>Almost a year ago, we published our now-annual&nbsp;landscape&nbsp;of machine intelligence companies, and good...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Almost a year ago, we published our now-annual&nbsp;<a href="https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-2-0" rel="noopener noreferrer" target="_blank">landscape</a>&nbsp;of machine intelligence companies, and goodness have we seen a lot of activity since then. This year&rsquo;s landscape has&nbsp;<em>a third more companies</em>than our first one did two years ago, and it feels even more futile to try to be comprehensive, since this just scratches the surface of all of the activity out there.</p></div></div></div>]]></content>
-	<updated>2017-01-09T09:00:00+00:00</updated>
-	<author><name>O''Reilly</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-01-09T09:00:00+00:00</updated>
-		<title>Linux.com</title></source>
 
 
 </entry>
