@@ -4,11 +4,280 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-10-10T23:41:54+00:00</updated>
+<updated>2017-10-10T04:00:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-10-18:/440630</id>
+	<link href="https://phys.org/news/2017-10-mission-mars-oxygen-plasma-technology.html" rel="alternate" type="text/html"/>
+	<title type="html">A mission to Mars could make its own oxygen via plasma technology</title>
+	<summary type="html"><![CDATA[<p>Plasma technology could hold the key to creating a sustainable oxygen supply on Mars, a new study ha...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Plasma technology could hold the key to creating a sustainable oxygen supply on Mars, a new study has found.</p>]]></content>
+	<updated>2017-10-18T11:34:42+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-18T11:34:42+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="plasma physics"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-18:/440673</id>
+	<link href="https://phys.org/news/2017-10-quantum-computingbreaking-qubit-simulation-barrier.html" rel="alternate" type="text/html"/>
+	<title type="html">Quantum computing—breaking through the 49 qubit simulation barrier</title>
+	<summary type="html"><![CDATA[<p>Quantum computing is at the threshold of tackling important problems that cannot be efficiently or p...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Quantum computing is at the threshold of tackling important problems that cannot be efficiently or practically computed by other, more classical means. Getting past this threshold will require us to build, test and operate reliable quantum computers with 50 or more qubits.</p>]]></content>
+	<updated>2017-10-18T12:10:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-18T12:10:03+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="quantum physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/3-quantumcompu.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-18:/440609</id>
+	<link href="https://phys.org/news/2017-10-chemists-drug-synthesis-method.html" rel="alternate" type="text/html"/>
+	<title type="html">Chemists develop a promising drug synthesis method</title>
+	<summary type="html"><![CDATA[<p>Scientists from RUDN University with their colleagues from Yaroslavl have developed a new way to syn...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Scientists from RUDN University with their colleagues from Yaroslavl have developed a new way to synthesize 1,2,4-oxadiazole derivatives used in many drugs. 1,2,4-oxadiazoles include ataluren, the active ingredient of a drug used in a treatment for genetic disorders. The results of the work are published in Tetrahedron Letters.</p>]]></content>
+	<updated>2017-10-18T09:57:36+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-18T09:57:36+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="materials science"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/59e632c5e9f72.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-18:/440488</id>
+	<link href="https://www.livescience.com/60707-what-is-synesthesia.html" rel="alternate" type="text/html"/>
+	<title type="html">What Is Synesthesia?</title>
+	<summary type="html"><![CDATA[<p>Synesthesia is a neurological condition that causes the brain to process data in the form of several...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Synesthesia is a neurological condition that causes the brain to process data in the form of several senses at once; for example, hearing sounds while also seeing them as colorful swirls.</p>]]></content>
+	<updated>2017-10-18T05:24:31+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.livescience.com</id>
+		<link rel="self" href="https://www.livescience.com"/>
+		<updated>2017-10-18T05:24:31+00:00</updated>
+		<title>LiveScience.com</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="https://img.purch.com/rc/160x100/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5Ni8xNjMvb3JpZ2luYWwvc3luZXN0aGVzaWEuanBn"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-18:/440459</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171017091913.htm" rel="alternate" type="text/html"/>
+	<title type="html">Schizophrenia disrupts the brain's entire communication system, researchers say</title>
+	<summary type="html"><![CDATA[<p>Some 40 years since CT scans first revealed abnormalities in the brains of schizophrenia patients, i...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Some 40 years since CT scans first revealed abnormalities in the brains of schizophrenia patients, international scientists say the disorder is a systemic disruption to the brain's entire communication system. The study sets the stage for future research on the debilitating mental illness that affects more than 21 million people worldwide. It is the largest analysis of 'white matter' differences in a psychiatric disorder to date.</p>]]></content>
+	<updated>2017-10-17T13:19:13+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-17T13:19:13+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171017091913-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/440362</id>
+	<link href="https://www.ted.com/talks/elizabeth_wayne_we_can_hack_our_immune_cells_to_fight_cancer?rss=" rel="alternate" type="text/html"/>
+	<title type="html">We can hack our immune cells to fight cancer | Elizabeth Wayne</title>
+	<summary type="html"><![CDATA[<p>After decades of research and billions spent in clinical trials, we still have a problem with cancer...</p>]]></summary>
+	<content type="html"><![CDATA[<p>After decades of research and billions spent in clinical trials, we still have a problem with cancer drug delivery, says biomedical engineer Elizabeth Wayne. Chemotherapy kills cancer -- but it kills the rest of your body, too. Instead of using human design to fight cancer, why not use nature's? In this quick talk, Wayne explains how her lab is creating nanoparticle treatments that bind to immune cells, your body's first responders, to precisely target cancer cells without damaging healthy ones.<img src="http://feeds.feedburner.com/~r/TEDTalks_video/~4/GNpUOtjnbqQ" height="1" width="1" alt=""></p>]]></content>
+	<updated>2017-10-17T14:00:55+00:00</updated>
+	<author><name>Elizabeth Wayne</name></author>
+	<source>
+		<id>https://www.ted.com/talks</id>
+		<link rel="self" href="https://www.ted.com/talks"/>
+		<updated>2017-10-17T14:00:55+00:00</updated>
+		<title>TEDTalks (video)</title></source>
+
+	<category term="higher education"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/87473a5991f9829bb77f36984771788260a6e306_2880x1620.jpg?h=360&amp;origin=rss&amp;w=480"/>
+
+	<link rel="enclosure" 
+		type="video/mp4" 
+		length="19266381"
+		href="http://feedproxy.google.com/~r/TEDTalks_video/~5/OiOUMC7U0q8/ElizabethWayne_2017U.mp4"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/440266</id>
+	<link href="https://www.brainpickings.org/2017/10/17/richard-feynman-arline-letter/" rel="alternate" type="text/html"/>
+	<title type="html">Love After Life: Nobel-Winning Physicist Richard Feynman’s Extraordinary Letter to His Departed Wife</title>
+	<summary type="html"><![CDATA[<p>Where the hard edge of physics meets the vulnerable metaphysics of the human heart. 
+
+Few people hav...</p>]]></summary>
+	<content type="html"><![CDATA[<h3>Where the hard edge of physics meets the vulnerable metaphysics of the human heart. </h3>
+
+<p><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img width="320" height="498" src="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2016/05/richardfeynman_gleick.jpg?fit=320%2C498&amp;ssl=1" alt="Love After Life: Nobel-Winning Physicist Richard Feynman&rsquo;s Extraordinary Letter to His Departed Wife" srcset="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2016/05/richardfeynman_gleick.jpg?w=321&amp;ssl=1 321w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2016/05/richardfeynman_gleick.jpg?resize=240%2C374&amp;ssl=1 240w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2016/05/richardfeynman_gleick.jpg?resize=320%2C498&amp;ssl=1 320w" sizes="(max-width: 320px) 100vw, 320px"></a></p><p>Few people have enchanted the popular imagination with science more powerfully and lastingly than physicist <strong>Richard Feynman</strong> (May 11, 1918&ndash;February 15, 1988) &mdash; the &ldquo;Great Explainer&rdquo; with the uncommon gift for bridging the essence of science with the most human and humane dimensions of life.</p>
+<p>Several months after Feynman&rsquo;s death, while working on what would become <a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><strong><em>Genius: The Life and Science of Richard Feynman</em></strong></a> (<a href="http://www.worldcat.org/title/genius-the-life-and-science-of-richard-feynman/oclc/25316182&amp;referer=brief_results" target="_blank" rel="noopener noreferrer"><em>public library</em></a>) &mdash; the masterly biography plumbing <a href="https://www.brainpickings.org/2016/05/11/richard-feynman-genius-james-gleick/" rel="noopener noreferrer" target="_blank">the wellspring of Feynman&rsquo;s genius</a> &mdash; James Gleick discovered something of arresting strangeness and splendor. </p>
+<p>&ldquo;My heart stopped,&rdquo; Gleick tells me. &ldquo;I have never had an experience like that as a biographer, before or since.&rdquo;</p>
+<p>In a mass of unread papers sent to him by Feynman&rsquo;s widow, Gweneth, Gleick found a letter that discomposed his most central understanding of Feynman&rsquo;s character. A generation after computing pioneer Alan Turing <a href="https://www.brainpickings.org/2017/02/17/alan-turing-morcom-letters/" rel="noopener noreferrer" target="_blank">tussled with the binary code of body and spirit in the wake of loss</a>, Feynman &mdash; a scientist perhaps <a href="https://www.brainpickings.org/2013/01/01/ode-to-a-flower-richard-feynman/" rel="noopener noreferrer" target="_blank">uncommonly romantic</a> yet resolutely rational and unsentimental in his reverence for the indomitable laws of physics that tend toward decay &mdash; penned a remarkable letter to a physical nonentity that was, for the future Nobel-winning physicist, the locus of an irrepressible metaphysical reality. </p>
+<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_young.jpg?resize=355%2C630&amp;ssl=1" alt="" srcset="https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_young.jpg?w=355&amp;ssl=1 355w, https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_young.jpg?resize=240%2C426&amp;ssl=1 240w, https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_young.jpg?resize=320%2C568&amp;ssl=1 320w" sizes="(max-width: 355px) 100vw, 355px" data-recalc-dims="1"></a><figcaption>Richard Feynman as a youth</figcaption></figure>
+<p>In high school, the teenage Richard spent summers at the beach in his native Far Rockaway. There, he grew besotted with a striking girl named Arline &mdash; a girl he knew he would marry. Both complement and counterpoint to his own nature, Arline met Richard&rsquo;s inclination for science with ardor for philosophy and art. (The art class he took just to be near her would lay the foundation for his <a href="https://www.brainpickings.org/2013/01/17/richard-feynman-ofey-sketches-drawings/" rel="noopener noreferrer" target="_blank">little-known, lifelong passion for drawing</a>.) By his junior year, Richard proposed. Arline accepted. With the eyes of young love, they peered into a shared future of infinite possibility for bliss. </p>
+<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline2.jpg?resize=419%2C689&amp;ssl=1" alt="" srcset="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline2.jpg?w=419&amp;ssl=1 419w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline2.jpg?resize=240%2C395&amp;ssl=1 240w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline2.jpg?resize=320%2C526&amp;ssl=1 320w" sizes="(max-width: 419px) 100vw, 419px" data-recalc-dims="1"></a><figcaption>Richard and Arline, 1940s</figcaption></figure>
+<p>But they were abruptly grounded when a mysterious malady began afflicting Arline with inexplicable symptoms &mdash; a lump would appear and disappear on her neck, fevers would roil over her with no apparent cause. Eventually, she was hospitalized for what was believed to be typhoid. </p>
+<p>Gleick writes:</p>
+<blockquote><p>Feynman began to glimpse the special powerlessness that medical uncertainty can inflict on a scientific person. He had come to believe that the scientific way of thinking brought a measure of calmness and control in difficult situations &mdash; but not now.</p></blockquote>
+<p>Just as Feynman began bombarding the doctors with questions that steered them toward a closer approximation of the scientific method, Arline began to recover just as mysteriously and unpredictably as she had fallen ill. But the respite was only temporary. The symptoms returned, still shorn of a concrete explanation but now unambiguously pointing toward the terminal &mdash; a prognosis Arline&rsquo;s doctors kept from her. Richard refused to go along with the deception &mdash; he and Arline had promised each other to face life with unremitting truthfulness &mdash; but he was forced to calibrate his commitment to circumstance. </p>
+<p>Gleick writes:</p>
+<blockquote><p>His parents, Arline&rsquo;s parents, and the doctors all urged him not to be so cruel as to tell a young woman she was dying. His sister, Joan, sobbing, told him he was stubborn and heartless. He broke down and bowed to tradition. In her room at Farmingdale Hospital, with her parents at her side, he confirmed that she had glandular fever. Meanwhile, he started carrying around a letter &mdash; a &ldquo;goodbye love letter,&rdquo; as he called it&mdash;that he planned to give her when she discovered the truth. He was sure she would never forgive the unforgivable lie. </p>
+<p>He did not have long to wait. Soon after Arline returned home from the hospital she crept to the top of the stairs and overheard her mother weeping with a neighbor down in the kitchen. When she confronted Richard &mdash; his letter snug in his pocket &mdash; he told her the truth, handed her the letter, and asked her to marry him.</p></blockquote>
+<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?resize=680%2C454&amp;ssl=1" alt="" srcset="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?w=961&amp;ssl=1 961w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?resize=240%2C160&amp;ssl=1 240w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?resize=320%2C213&amp;ssl=1 320w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?resize=600%2C400&amp;ssl=1 600w" sizes="(max-width: 680px) 100vw, 680px" data-recalc-dims="1"></a><figcaption>Arline and Richard, 1940s</figcaption></figure>
+<p>Marriage, however, proved to be a towering practical problem &mdash; Princeton, where Feynman was now pursuing a Ph.D., threatened to withdraw the fellowships funding his graduate studies if he were to wed, for the university considered the emotional and pragmatic responsibilities of marriage a grave threat to academic discipline. </p>
+<p>Just as Feynman began considering leaving Princeton, a diagnosis detonated the situation &mdash; Arline had contracted a rare form of tuberculosis, most likely from unpasteurized milk. </p>
+<p>At first, Feynman was relieved that the grim alternative options of Hodgkin&rsquo;s disease and incurable cancers like lymphoma had been ruled out. But he was underestimating, or perhaps misunderstanding, the gravity of tuberculosis &mdash; the very disease which had <a href="https://www.brainpickings.org/2017/02/17/alan-turing-morcom-letters/" rel="noopener noreferrer" target="_blank">taken the love of Alan Turing&rsquo;s life</a> and which, during its two-century heyday, had claimed more lives around the globe than any other malady and all wars combined. At the time of Arline&rsquo;s diagnosis in 1941, immunology was in its infancy, the antibiotic treatment of bacterial infections practically nonexistent, and the first successful medical application of penicillin a year away. Tuberculosis was a death sentence, even if it was a slow death with intervals of remission &mdash; a fact Richard and Arline faced with an ambivalent mix of brave lucidity and hope against hope. </p>
+<p>Meanwhile, Richard&rsquo;s parents met the prospect of his marriage with bristling dread. His mother, who believed he was marrying Arline out of pity rather than love, admonished him that he would be putting his health and his very life in danger, and coldly worried about how the stigma attached to tuberculosis would impact her brilliant young son&rsquo;s reputation. &ldquo;I was surprised to learn such a marriage is not unlawful,&rdquo; she scoffed unfeelingly. &ldquo;It ought to be.&rdquo;</p>
+<p>But Richard was buoyed by love &mdash; a love so large and luminous that he found himself singing aloud one day as he was arranging Arline&rsquo;s transfer to a sanatorium. Determined to go through with the wedding, he wrote to his beloved:</p>
+<blockquote><p>I guess maybe it is like rolling off of a log &mdash; my heart is filled again &amp; I&rsquo;m choked with emotions &mdash; and love is so good &amp; powerful &mdash; it&rsquo;s worth preserving &mdash; I know nothing can separate us &mdash; we&rsquo;ve stood the tests of time and our love is as glorious now as the day it was born &mdash; dearest riches have never made people great but love does it every day &mdash; we&rsquo;re not little people &mdash; we&rsquo;re giants &hellip; I know we both have a future ahead of us &mdash; with a world of happiness &mdash; now &amp; forever.</p></blockquote>
+<p>On June 29, 1942, they promised each other eternity. </p>
+<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/richard_arline4.jpg?resize=535%2C883&amp;ssl=1" alt="" srcset="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/richard_arline4.jpg?w=535&amp;ssl=1 535w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/richard_arline4.jpg?resize=240%2C396&amp;ssl=1 240w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/richard_arline4.jpg?resize=320%2C528&amp;ssl=1 320w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><figcaption>Richard and Arline on their wedding day</figcaption></figure>
+<p>Gleick writes:</p>
+<blockquote><p>He borrowed a station wagon from a Princeton friend, outfitted it with mattresses for the journey, and picked up Arline in Cedarhurst. She walked down her father&rsquo;s hand-poured concrete driveway wearing a white dress. They crossed New York Harbor on the Staten Island ferry &mdash; their honeymoon ship. They married in a city office on Staten Island, in the presence of neither family nor friends, their only witnesses two strangers called in from the next room. Fearful of contagion, Richard did not kiss her on the lips. After the ceremony he helped her slowly down the stairs, and onward they drove to Arline&rsquo;s new home, a charity hospital in Browns Mills, New Jersey.</p></blockquote>
+<p>Meanwhile, WWII was reaching its crescendo of destruction, dragging America into the belly of death with the attack on Pearl Harbor. Now one of the nation&rsquo;s most promising physicists, Feynman was recruited to work on what would become <a href="https://www.brainpickings.org/2011/10/14/richard-feynman-graphic-novel-biography-ottoviani/" rel="noopener noreferrer" target="_blank">the Manhattan Project</a> and soon joined the secret laboratory in Los Alamos. </p>
+<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_losalamos.jpg?resize=680%2C787&amp;ssl=1" alt="" srcset="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_losalamos.jpg?w=700&amp;ssl=1 700w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_losalamos.jpg?resize=240%2C278&amp;ssl=1 240w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_losalamos.jpg?resize=320%2C370&amp;ssl=1 320w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_losalamos.jpg?resize=600%2C694&amp;ssl=1 600w" sizes="(max-width: 680px) 100vw, 680px" data-recalc-dims="1"></a><figcaption>Feynman&rsquo;s Los Alamos badge</figcaption></figure>
+<p>Arline entered the nearby Albuquerque sanatorium, from where she wrote him letters in code &mdash; for the sheer fun of it, because she knew how he cherished puzzles, but the correspondence alarmed the military censors at the laboratory&rsquo;s Intelligence Office. Tasked with abating any breaches to the secrecy of the operation, they cautioned Feynman that coded messages were against the rules and demanded that his wife include a key in each letter to help them decipher it. This only amplified Arline&rsquo;s sense of fun &mdash; she began cutting holes into her letters, covering passages with ink, and even mail-ordered a jigsaw puzzle kit with which to cut up the pages and completely confound the agents. </p>
+<p>But the levity masked the underlying darkness which Richard and Arline tried so desperately to evade &mdash; Arline was dying. As her body failed, he steadied himself to her spirit:</p>
+<blockquote><p>You are a strong and beautiful woman. You are not always as strong as other times but it rises &amp; falls like the flow of a mountain stream. I feel I am a reservoir for your strength &mdash; without you I would be empty and weak&hellip; I find it much harder these days to write these things to you.</p></blockquote>
+<p>In every single letter, he told her that he loved her. <em>&ldquo;I have a serious affliction: loving you forever,&rdquo;</em> he wrote. </p>
+<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline3.jpg?resize=600%2C526&amp;ssl=1" alt="" srcset="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline3.jpg?w=600&amp;ssl=1 600w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline3.jpg?resize=240%2C210&amp;ssl=1 240w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline3.jpg?resize=320%2C281&amp;ssl=1 320w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></a><figcaption>Richard and Arline at the Albuquerque sanatorium</figcaption></figure>
+<p>In early 1945, two and a half years into their marriage, Richard and Arline made love for the first time. He had been too afraid of harming her frail health somehow, she too afraid of infecting him with the deadly bacterium consuming her. But Arline insisted that this pent up desire could no longer be contained and assured Richard that this would only bring them closer &mdash; to each other, and to the life they had so lovingly dreamt up for themselves:</p>
+<blockquote><p>I&rsquo;ll always be your sweetheart &amp; first love &mdash; besides a devoted wife &mdash; we&rsquo;ll be proud parents too&hellip; I am proud of you always Richard &ndash;[you are] a good husband, and lover, &amp; well, coach, I&rsquo;ll show you what I mean Sunday.</p></blockquote>
+<p>But heightened as their hopes were by this new dimension of shared experience, Arline&rsquo;s health continued to plummet. Her weight dropped to eighty-four pounds. Exasperated by the helplessness of medicine, which Feynman had come to see not as a manifestation but as a mutilation of the scientific method, he invested all hope in an experimental drug made of mold growths. &ldquo;Keep hanging on,&rdquo; he exhorted Arline. &ldquo;Nothing is certain. We lead a charmed life.&rdquo; She began spitting blood. </p>
+<p>At twenty-seven, on the precipice of a brilliant scientific career, he was terminally in love. </p>
+<p>On June 16, 1945, while working at the computing room at Los Alamos, Feynman received a call from the sanatorium that Arline was dying. He borrowed a colleague&rsquo;s car and sped to the hospital, where he found her immobile, her eyes barely tracing his movement. Early in his scientific career, he had been animated by the nature of time. Now, hours stretched and contracted as he sat at her deathbed, until one last small breath tolled the end at 9:21PM.</p>
+<p>The wake of loss has a way of tranquilizing grief with the pressing demands of practical arrangements &mdash; a tranquilizer we take willingly, almost gratefully. The following morning, Feynman arranged for his beloved&rsquo;s cremation, methodically collected her personal belongings, and on the final page of the small spiral notebook in which she recorded her symptoms he wrote with scientific remove: &ldquo;June 16 &mdash; Death.&rdquo;</p>
+<p>And so we arrive at Gleick&rsquo;s improbable discovery in that box of letters &mdash; improbable because of the extreme rationality with which Feynman hedged against even the slightest intimation of metaphysical conjectures untestable by science and unprovable by reason. During his courtship of Arline, he had been vexed by her enthusiasm for Descartes, whose &ldquo;proof&rdquo; of God&rsquo;s perfection he found intellectually lazy and unbefitting of Descartes&rsquo;s reputation as <a href="https://www.brainpickings.org/2016/03/31/descartes-rules-for-the-direction-of-the-mind/" rel="noopener noreferrer" target="_blank">a champion of reason</a>. He had impishly countered Arline&rsquo;s insistence that there are two sides to everything by cutting a piece of paper and half-twisting it into a M&ouml;bius strip, the ends pasted together to render a surface with just one side. </p>
+<p>Everything that appeared mystical, Feynman believed, was simply an insufficiently explained mystery with a physical answer not yet found. Even Arline&rsquo;s dying hour had offered testing ground for conviction. Puzzlingly, the clock in the room had stopped at exactly 9:21PM &mdash; the time of death. Aware of how this bizarre occurrence could foment the mystical imagination in unscientific minds, Feynman reasoned for an explanation. Remembering that he had repaired the clock multiple times over the course of Arline&rsquo;s stay at the sanatorium, he realized that the instrument&rsquo;s unwieldy mechanism must have choked when the nurse picked it up in the low evening light to see and record the time. </p>
+<p>How astonishing and how touchingly human, then, that Feynman penned the letter Gleick found in the box forty-two years later &mdash; a letter he wrote to Arline in October of 1946, 488 days after her death:</p>
+<blockquote><p>D&rsquo;Arline,</p>
+<p>I adore you, sweetheart.</p>
+<p>I know how much you like to hear that &mdash; but I don&rsquo;t only write it because you like it &mdash; I write it because it makes me warm all over inside to write it to you.</p>
+<p>It is such a terribly long time since I last wrote to you &mdash; almost two years but I know you&rsquo;ll excuse me because you understand how I am, stubborn and realistic; and I thought there was no sense to writing.</p>
+<p>But now I know my darling wife that it is right to do what I have delayed in doing, and that I have done so much in the past. I want to tell you I love you. I want to love you. I always will love you.</p>
+<p>I find it hard to understand in my mind what it means to love you after you are dead &mdash; but I still want to comfort and take care of you &mdash; and I want you to love me and care for me. I want to have problems to discuss with you &mdash; I want to do little projects with you. I never thought until just now that we can do that. What should we do. We started to learn to make clothes together &mdash; or learn Chinese &mdash; or getting a movie projector. Can&rsquo;t I do something now? No. I am alone without you and you were the &ldquo;idea-woman&rdquo; and general instigator of all our wild adventures.</p>
+<p>When you were sick you worried because you could not give me something that you wanted to and thought I needed. You needn&rsquo;t have worried. Just as I told you then there was no real need because I loved you in so many ways so much. And now it is clearly even more true &mdash; you can give me nothing now yet I love you so that you stand in my way of loving anyone else &mdash; but I want you to stand there. You, dead, are so much better than anyone else alive.</p>
+<p>I know you will assure me that I am foolish and that you want me to have full happiness and don&rsquo;t want to be in my way. I&rsquo;ll bet you are surprised that I don&rsquo;t even have a girlfriend (except you, sweetheart) after two years. But you can&rsquo;t help it, darling, nor can I &mdash; I don&rsquo;t understand it, for I have met many girls and very nice ones and I don&rsquo;t want to remain alone &mdash; but in two or three meetings they all seem ashes. You only are left to me. You are real.</p>
+<p>My darling wife, I do adore you.</p>
+<p>I love my wife. My wife is dead.</p>
+<p>Rich.</p></blockquote>
+<p>And then, with the sole defibrillator for heartache we have &mdash; humor &mdash; Feynman adds:</p>
+<blockquote><p>PS Please excuse my not mailing this &mdash; but I don&rsquo;t know your new address.</p></blockquote>
+<p>Complement this particular portion of the altogether magnificent <a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><strong><em>Genius: The Life and Science of Richard Feynman</em></strong></a> with Rachel Carson&rsquo;s <a href="http://localhost/" rel="noopener noreferrer" target="_blank">stunning deathbed farewell to her beloved</a> and Seneca on <a href="https://www.brainpickings.org/2017/05/02/seneca-consolation-to-helvia/" rel="noopener noreferrer" target="_blank">resilience in the face of loss</a>, then revisit Feynman on <a href="https://www.brainpickings.org/2015/05/11/richard-feynman-science-religion/" rel="noopener noreferrer" target="_blank">science and religion</a> and <a href="https://www.brainpickings.org/2013/08/08/richard-feynman-on-the-meaning-of-life/" rel="noopener noreferrer" target="_blank">the meaning of life</a>.</p>
+<h3>donating = loving</h3><p>Bringing you (ad-free) Brain Pickings takes me hundreds of hours each month. If you find any joy and stimulation here, please consider becoming a Supporting Member with a recurring monthly <a href="https://www.brainpickings.org/donate/" rel="noopener noreferrer" target="_blank">donation</a> of your choosing, between a cup of tea and a good dinner.</p>
+
+
+
+<h3>newsletter</h3>
+<p>Brain Pickings has a free weekly newsletter. It comes out on Sundays and offers the week&rsquo;s most unmissable reads. Here&rsquo;s <a href="http://us2.campaign-archive1.com/?u=13eb080d8a315477042e0d5b1&amp;id=de29ba37e7&amp;e=b2dbad0745" rel="noopener noreferrer" target="_blank">what to expect</a>. Like? <a href="https://www.brainpickings.org/newsletter/" rel="noopener noreferrer" target="_blank">Sign up.</a></p><img src="http://feeds.feedburner.com/~r/brainpickings/rss/~4/m_1lCjisI2g" height="1" width="1" alt="">]]></content>
+	<updated>2017-10-17T16:36:53+00:00</updated>
+	<author><name>Maria Popova</name></author>
+	<source>
+		<id>https://www.brainpickings.org</id>
+		<link rel="self" href="https://www.brainpickings.org"/>
+		<updated>2017-10-17T16:36:53+00:00</updated>
+		<title>Brain Pickings</title></source>
+
+	<category term="culture"/>
+
+	<category term="science"/>
+
+	<category term="james gleick"/>
+
+	<category term="letters"/>
+
+	<category term="love"/>
+
+	<category term="richard feynman"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/440271</id>
+	<link href="http://www.thehindu.com/sci-tech/science/whale-behaviour-linked-to-brain-size/article19877612.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication" rel="alternate" type="text/html"/>
+	<title type="html">Whale behaviour linked to brain size</title>
+	<summary type="html"><![CDATA[<p>Sperm whale has the largest brain on Earth</p>]]></summary>
+	<content type="html"><![CDATA[<p>Sperm whale has the largest brain on Earth</p>]]></content>
+	<updated>2017-10-17T16:35:38+00:00</updated>
+	<author><name>Reuters</name></author>
+	<source>
+		<id>http://www.thehindu.com/</id>
+		<link rel="self" href="http://www.thehindu.com/"/>
+		<updated>2017-10-17T16:35:38+00:00</updated>
+		<title>The Hindu - Sci-Tech</title></source>
+
+	<category term="science"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-17:/440245</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171016122153.htm" rel="alternate" type="text/html"/>
+	<title type="html">Learning during development is regulated by an unexpected brain region</title>
+	<summary type="html"><![CDATA[<p>Half a century of research on how the brain learns to integrate visual inputs from the two eyes has ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Half a century of research on how the brain learns to integrate visual inputs from the two eyes has provided important insights in critical period regulation, leading to the conclusion that it occurs within the cortex. Scientists have now made the surprising discovery that a brain region that passes on input from the eyes to the cortex also plays a crucial role in opening the critical period of binocular vision.</p>]]></content>
+	<updated>2017-10-16T16:21:53+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-16T16:21:53+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-03-31:/379497</id>
@@ -948,228 +1217,6 @@ An unprecedented catalogue of more than 21 000 images taken by a webcam on ESA&r
 		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
 		<updated>2017-10-10T04:00:00+00:00</updated>
 		<title>Red Hat Press Releases</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438867</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171013091955.htm" rel="alternate" type="text/html"/>
-	<title type="html">Purple power: Synthetic 'purple membranes' transform sunlight to hydrogen fuel</title>
-	<summary type="html"><![CDATA[<p>A new way has been found to produce solar fuels by developing &ldquo;synthetic purple membranes.&rdquo; These me...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A new way has been found to produce solar fuels by developing &ldquo;synthetic purple membranes.&rdquo; These membranes involve an assembly of lipid nanodiscs, man-made proteins, and semiconducting nanoparticles that, when taken together, can transform sunlight into hydrogen fuel.</p>]]></content>
-	<updated>2017-10-13T13:19:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-13T13:19:55+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171013091955-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438931</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171013123126.htm" rel="alternate" type="text/html"/>
-	<title type="html">Solar research: On the generation of solar spicules and Alfvenic waves</title>
-	<summary type="html"><![CDATA[<p>Combining computer observations and simulations, a new model shows that the presence of neutrals in ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Combining computer observations and simulations, a new model shows that the presence of neutrals in the gas facilitates the magnetic fields to penetrate through the surface of the Sun producing the spicules.</p>]]></content>
-	<updated>2017-10-13T16:31:26+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-13T16:31:26+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171013123126-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438834</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/imi-ahc101217.php" rel="alternate" type="text/html"/>
-	<title type="html">Achieving high-value chemical diversity for the pharmaceutical artificial intelligence</title>
-	<summary type="html"><![CDATA[<p>(InSilico Medicine, Inc.) Insilico Medicine is adapting best neural network architectures. These adv...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>InSilico Medicine, Inc.</i>) Insilico Medicine is adapting best neural network architectures. These advances are usually integrated into a comprehensive drug discovery pipeline with the goal to enable the deep neural networks to produce perfect molecules for the specific set of diseases. DruGAN allows the generation of new formulations for a wide range of diseases: different cancers, neurodegenerative diseases such as Alzheimer's disease, virus infections, and more.</p>]]></content>
-	<updated>2017-10-13T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-13T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438845</id>
-	<link href="https://phys.org/news/2017-10-d-atomic-trpml1-ion-channel.html" rel="alternate" type="text/html"/>
-	<title type="html">3-D atomic structure of TRPML1 ion channel published</title>
-	<summary type="html"><![CDATA[<p>UT&nbsp;Southwestern Medical Center researchers today published a 3-D atomic structure of the ion channel...</p>]]></summary>
-	<content type="html"><![CDATA[<p>UT&nbsp;Southwestern Medical Center researchers today published a 3-D atomic structure of the ion channel found in mammals that is implicated in a rare, inherited neurodegenerative disease in humans. The work marks the first such structure determined using the university's $17 million cryo-electron microscopy (cryo-EM) facility that opened last year.</p>]]></content>
-	<updated>2017-10-13T15:02:52+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-13T15:02:52+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="biochemistry"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-firstatomics.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438854</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/usmc-fas101217.php" rel="alternate" type="text/html"/>
-	<title type="html">First atomic structure from UTSW's cryo-EM facility</title>
-	<summary type="html"><![CDATA[<p>(UT Southwestern Medical Center) UT Southwestern Medical Center researchers today published a 3-D at...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>UT Southwestern Medical Center</i>) UT Southwestern Medical Center researchers today published a 3-D atomic structure of the ion channel found in mammals that is implicated in a rare, inherited neurodegenerative disease in humans.</p>]]></content>
-	<updated>2017-10-13T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-13T04:00:00+00:00</updated>
-		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438825</id>
-	<link href="https://inhabitat.com/google-will-be-powered-by-100-renewable-energy-by-2018" rel="alternate" type="text/html"/>
-	<title type="html">Google will be powered by 100% renewable energy by 2018</title>
-	<summary type="html"><![CDATA[<p>After 10 years as a carbon-neutral company, Google has announced that all of its data centers and o...</p>]]></summary>
-	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Google-Front-889x591.jpg" alt="Google, Googleplex, Google building"></p>
-<p>After 10 years as a carbon-neutral company, <a href="https://inhabitat.com/tag/google" rel="noopener noreferrer" target="_blank">Google</a> has announced that all of its data centers and offices will be powered by 100 percent <a href="https://inhabitat.com/tag/renewable-energy/" rel="noopener noreferrer" target="_blank">renewable energy</a> by next year. The corporate giant made quick progress towards meeting its goal, which was set in 2016 and will be fulfilled by 2018. In its 2017 Environmental Report, Google declared that it had pioneered &ldquo;new energy purchasing models that others can follow&rdquo; and &ldquo;helped drive wide-scale global adoption of clean energy.&rdquo; &ldquo;We believe Google can build tools to improve people&rsquo;s lives while reducing our dependence on natural resources and fossil fuels,&rdquo; said Google executive Urs H&ouml;lzle.</p>
-<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Android-garden-889x210.jpg" alt="Google, Googleplex, Google building, Android garden"></p>
-<p>Google&rsquo;s rapid shift to clean energy is welcome not only for the influence it may have on other companies but also for its impact on Google&rsquo;s energy consumption, which was estimated in 2015 to be as large as the city of <a href="https://inhabitat.com/tag/san-francisco" rel="noopener noreferrer" target="_blank">San Francisco</a>. In line with its sustainability focus, Google has also launched an initiative to add <a href="https://inhabitat.com/tag/air-pollution/" rel="noopener noreferrer" target="_blank">air quality</a> sensors to Google Street View vehicles and plans to change its waste disposal systems to ensure that the company adds nothing to landfills. Half of Google&rsquo;s 14 data centers have already reached that particular milestone.</p>
-<p><a href="https://inhabitat.com/alphabet-x-to-beam-wireless-service-to-puerto-rico-with-a-fleet-of-balloons/" rel="noopener noreferrer" target="_blank">Related: Alphabet X to beam wireless service to Puerto Rico with a fleet of balloons</a></p>
-<p>Most of Google&rsquo;s renewable energy is purchased from an outside provider. However, they are making important moves to provide some of their own in-house energy, including the company&rsquo;s recent acquisition of the Tellenes <a href="https://inhabitat.com/tag/wind-energy/" rel="noopener noreferrer" target="_blank">wind farm</a> in Norway. The 12-year deal to provide 100 percent of the energy produced will power Google&rsquo;s data centers in Finland, Belgium, the Netherlands and <a href="https://inhabitat.com/tag/ireland/" rel="noopener noreferrer" target="_blank">Ireland</a>. Google expects to purchase power as soon as it is available, which is expected in fall 2017.</p>
-<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Google-Plex-889x667.jpg" alt="Google, Googleplex, Google building"></p>
-<p>Via <a href="https://www.inverse.com/article/37308-google-renewable-energy-goal" rel="noopener noreferrer" target="_blank">Inverse</a></p>
-<p><em>Images via <a href="https://commons.wikimedia.org/wiki/File:Android_garden.jpg" rel="noopener noreferrer" target="_blank">Wikimedia Commons</a> <a href="https://commons.wikimedia.org/wiki/File:The_Google-Plex_(3652338016).jpg" rel="noopener noreferrer" target="_blank">(1)</a> and <a href="https://www.flickr.com/photos/rjshade/9620364726" rel="noopener noreferrer" target="_blank">Robbie Shade/Flickr</a></em></p><div>
-<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=DxXUtus54hg:koGjQs34Q9U:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=DxXUtus54hg:koGjQs34Q9U:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
-</div>]]></content>
-	<updated>2017-10-13T14:23:35+00:00</updated>
-	<author><name>Greg Beach</name></author>
-	<source>
-		<id>https://inhabitat.com</id>
-		<link rel="self" href="https://inhabitat.com"/>
-		<updated>2017-10-13T14:23:35+00:00</updated>
-		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
-
-	<category term="energy"/>
-
-	<category term="wind power"/>
-
-	<category term="sustainable design"/>
-
-	<category term="clean energy"/>
-
-	<category term="solar energy"/>
-
-	<category term="wind energy"/>
-
-	<category term="zero-emissions"/>
-
-	<category term="renewable energy"/>
-
-	<category term="green design"/>
-
-	<category term="innovation"/>
-
-	<category term="san jose"/>
-
-	<category term="google"/>
-
-	<category term="googleplex"/>
-
-	<category term="corporate responsibility"/>
-
-	<category term="green technology"/>
-
-	<category term="news"/>
-
-	<category term="clean tech"/>
-
-	<category term="100% renewable energy"/>
-
-	<category term="alternative energy"/>
-
-	<category term="google san jose"/>
-
-	<category term="architecture"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437121</id>
-	<link href="https://www.linux.com/news/building-open-standard-distributed-messaging-introducing-openmessaging" rel="alternate" type="text/html"/>
-	<title type="html">Building an Open Standard for Distributed Messaging: Introducing OpenMessaging</title>
-	<summary type="html"><![CDATA[<p>Through a collaborative effort from enterprises and communities invested in cloud, big data, and sta...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Through a collaborative effort from enterprises and communities invested in cloud, big data, and standard APIs, I&rsquo;m excited to welcome the OpenMessaging project to The Linux Foundation. The OpenMessaging community&rsquo;s goal is to create a globally adopted, vendor-neutral, and open standard for distributed messaging that can be deployed in cloud, on-premise, and hybrid use cases.</p></div></div></div>]]></content>
-	<updated>2017-10-10T10:20:36+00:00</updated>
-	<author><name>lfadmin</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-10-10T10:20:36+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-13:/438830</id>
-	<link href="https://www.linux.com/blog/2017/10/top-10-open-source-linux-robots" rel="alternate" type="text/html"/>
-	<title type="html">Top 10 Open Source Linux Robots</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;Top 10 Open Source Linux Robots13 OctLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Top 10 Open Source Linux Robots</div></div></div><div><div><div>13 Oct</div></div></div><div><div><div><div><a href="http://localhost/blog/2017/10/top-10-open-source-linux-robots" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2017-10-13T13:45:09+00:00</updated>
-	<author><name>ericstephenbrown</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-10-13T13:45:09+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-11:/437393</id>
-	<link href="http://www.zdnet.com/article/what-is-devops-an-executive-guide-to-agile-development-and-it-operations/#ftag=RSSbaffb68" rel="alternate" type="text/html"/>
-	<title type="html">What is DevOps? An executive guide to agile development and IT operations</title>
-	<summary type="html"><![CDATA[<p>To make the most of today's containers, servers, virtual machines, and clouds, you need to deploy De...</p>]]></summary>
-	<content type="html"><![CDATA[<p>To make the most of today's containers, servers, virtual machines, and clouds, you need to deploy DevOps in your enterprise. Or, you can let your rivals put you out of business. It's your choice.</p>]]></content>
-	<updated>2017-10-10T23:41:54+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.zdnet.com/</id>
-		<link rel="self" href="http://www.zdnet.com/"/>
-		<updated>2017-10-10T23:41:54+00:00</updated>
-		<title>ZDNet | Linux And Open Source Blog RSS</title></source>
 
 
 </entry>
