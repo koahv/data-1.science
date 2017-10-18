@@ -20,7 +20,7 @@ echo \<a href=\/word\/cloud.xhtml\>\<font size=\"2\"\>Word Cloud\<\/font\>\<\/a\
 
 #echo \<?php include_once\(\"analyticstracking.php\"\) ?\> \<\/BODY\>\<\/HTML\> >> index.html
 
-sed -i '16s/^/<\/tr><\/thead><tbody> /' index.html
+sed -i '17s/^/<\/tr><\/thead><tbody> /' index.html
 
 sed -i 's/<\/table>/<\/tbody><\/table>/g' index.html 
 
