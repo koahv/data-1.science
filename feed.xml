@@ -4,11 +4,446 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-10-10T04:00:00+00:00</updated>
+<updated>2017-02-17T15:00:51+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-02-27:/369417</id>
+	<link href="http://www.gereports.com/light-bright-san-diego-leads-way-future-smart-cities/" rel="alternate" type="text/html"/>
+	<title type="html">From Light To Bright: San Diego Is Building The World’s Largest Municipal Internet Of Things</title>
+	<summary type="html"><![CDATA[<p>San Diego&rsquo;s newest streetlights might not look all that special &mdash; and that&rsquo;s exactly the point. Desi...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/02/22164454/city-scape.jpg" alt=""><p>San Diego&rsquo;s newest streetlights might not look all that special &mdash; and that&rsquo;s exactly the point. Designed to blend in with the rest of the city&rsquo;s outdoor lighting, they&rsquo;re easy to overlook. Under the surface, though, the LED fixtures are actually data-gathering machines.&nbsp;They will allow San Diego to build the largest municipal internet-of-things network in the world.</p>
+<p>San Diego&rsquo;s digital lighting revolution started as a modest solution to a common problem. &ldquo;We were broke,&rdquo; says David Graham, San Diego&rsquo;s deputy chief operating officer. &ldquo;In the early 2000s, we went through about a decade of fiscal crisis, and we were trying to find ways to be more efficient, save money and reduce energy usage.&rdquo;</p>
+<p>One idea to save money was to replace the yellow glow of the city&rsquo;s old sodium vapor streetlamps with efficient new LED lights. In addition to providing cleaner, broader-spectrum light, the new fixtures used 60 percent less energy and slashed maintenance needs because of their longer life spans. The city <a href="http://www.sandiegouniontribune.com/news/environment/sdut-san-diego-swtiches-green-street-lights-2011sep19-htmlstory.html" rel="noopener noreferrer" target="_blank">replaced more than 35,000 lights</a>, yielding an estimated $2.2 million in savings per year.</p>
+<p>But the new fixtures also brought to light new problems. &ldquo;We know when a traditional light bulb isn&rsquo;t working, because it burns out,&rdquo; says Austin Ashe, general manager of Current, powered by GE&rsquo;s Intelligent Cities program. &ldquo;But an LED doesn&rsquo;t burn out. It just degrades over time.&rdquo;</p>
+<p>As GE replaced the lights, San Diego asked for a better way to monitor the LEDs. The answer, and the first step toward connecting the city&rsquo;s lighting infrastructure, was LightGrid. This adaptive control program connected streetlights through a wireless network, enabling the city to monitor and manage lights remotely. &ldquo;Now we know exactly how much energy a streetlight is using,&rdquo; Graham says. &ldquo;We know if it&rsquo;s out. We can brighten or dim it, depending on environmental factors.&rdquo;</p>
+<p>But LightGrid was just the first step. San Diego soon discovered it could reap additional benefits through expanded connectivity. San Diego agreed to be the first city to <a href="http://www.gereports.com/smart-streets-are-made-of-these-san-diego-deploys-americas-first-intelligent-lighting-system/" rel="noopener noreferrer" target="_blank">pilot GE&rsquo;s intelligent cities platform</a> &mdash; enabled by adding nodes holding multiple sensors to streetlights. The nodes connected to Predix, GE&rsquo;s operating system for the Industrial Internet, to process the metadata collected by the sensors.</p>
+<div><a href="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/02/22164746/City-IQ-multi-fixture-node.jpg" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/02/22164746/City-IQ-multi-fixture-node-1024x576.jpg" alt="Over the next year, San Diego plans to replace 14,000 lights with LED fixtures, and 3,600 of those will be equipped with new intelligent nodes. " width="1024" height="576"></a><p><em>Smart lights, big city. Over the next year, San Diego plans to replace 14,000 lights with LED fixtures, and 3,600 will be equipped with new intelligent nodes. Image credit: GE Lighting</em></p></div>
+<p>The intelligent lighting platform, which can sense sound, light and environmental conditions, offers a host of potential applications. But in the beginning, San Diego started with something really simple: parking. &ldquo;With sensored street lights, you can have more efficient use of your on-street parking,&rdquo; Graham says. &ldquo;You can better sense where cars are, and you can better understand parking and traffic.&rdquo;</p>
+<p>In 2014, the city ran a pilot test of just over 40 intelligent sensor nodes, which it installed downtown and used to monitor traffic. The goal, Graham says, was to enable people to find parking spaces with a minimum of effort. &ldquo;In a city like San Diego, there are real climate impacts to helping people get to parking quickly and efficiently, without idling or driving around,&rdquo; he says.</p>
+<p>But parking is only the beginning. For instance, one application called <a href="http://www.gereports.com/12529-2/" rel="noopener noreferrer" target="_blank">ShotSpotter</a> uses the sensors&rsquo; sound and light detection capabilities to help law enforcement. &ldquo;Before they even arrive, first responders know immediately where shots were fired and triangulate where the shooter is, how many shooters there are, which direction they&rsquo;re shooting in,&rdquo; Ashe says. &ldquo;This is highly valuable information to help cities manage and mitigate crime.&rdquo;</p>
+<p>Over the next year, the city will replace <a href="http://www.sandiegouniontribune.com/news/politics/sd-me-government-0104-story.html" rel="noopener noreferrer" target="_blank">14,000 lights</a>&nbsp;with LED fixtures, and 3,600 will be equipped with the new intelligent nodes. &ldquo;The intelligent platform will cover 160 square miles, or half our city,&rdquo; Graham says. &ldquo;We&rsquo;re doing 100 percent deployment in our underserved neighborhoods using community development block grants.&rdquo;</p>
+<p>The LED upgrade and intelligent platform deployment is expected to cost $30 million, and Graham estimates that it will save about $2.5 million worth of electricity per year. It will also further reduce maintenance costs, and the parking and shot spotting applications are likely to translate into cost savings and improved safety. But the major benefits of the new lights, Graham admits, are still unknown. &ldquo;We&rsquo;ve created a platform to do things we can&rsquo;t even imagine today.&rdquo;</p>
+<p>He expects that the most significant new ideas will come from San Diegans. The city plans to make much of the information from the nodes openly available to app developers. &ldquo;We actually held a block party for streetlights,&rdquo; Graham says. &ldquo;We asked the public to tell us what they thought an intelligent city could be and how they thought their streetlights could improve their lives.&rdquo; It also held a hackathon to teach interested community members how to make their own apps that use the new information.</p>
+<p>Ultimately, Graham hopes, the streetlights will become the key to San Diego&rsquo;s future. &ldquo;I see streetlights as the platform to transform our communities,&rdquo; he says. &ldquo;They can help us connect us to our citizens, to provide a future where we&rsquo;re able to better understand our neighborhoods and give them the services that they want.&rdquo;</p>]]></content>
+	<updated>2017-02-22T22:37:18+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.ge.com/reports</id>
+		<link rel="self" href="https://www.ge.com/reports"/>
+		<updated>2017-02-22T22:37:18+00:00</updated>
+		<title>GE Reports</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-21:/358784</id>
+	<link href="http://www.gereports.com/amazon-turns-ge-wind-turbines-power-business/" rel="alternate" type="text/html"/>
+	<title type="html">Amazon Turns To Wind To Power Its Business</title>
+	<summary type="html"><![CDATA[<p>Amazon may be the largest online retailer in the world, but the company is focused on having a posit...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/18161656/PSP31505-09.jpg" alt="24 Internet-connected 2.85-103 wind turbines at the McLean's Mountain Wind Farm, Northland Power Project, Manitoulin Island, Lake Huron, Ontario, Canada. It is using data generated from Internet-connected sensors on the turbines. GE Renewable Energy and Northland work together: Data insights lead to proactive maintenance, less down time, and a more efficient wind farm."><p>Amazon may be the largest online retailer in the world, but the company is focused on having a positive impact on the ground as well. With an ever-expanding global network of fulfillment and data centers, Amazon has a growing demand for energy. Amazon also has an equal appetite for and commitment to renewable energy. In fact, Amazon Web Services (AWS), the company&rsquo;s cloud computing business, has a long-term commitment to achieve 100 percent renewable energy usage for its global infrastructure footprint.</p>
+<p>The company has become a big player in the renewable energy industry, recently announcing plans for its largest wind farm yet in a blustery corner of west Texas. When completed in late 2017, Amazon Wind Farm Texas will have the capacity to generate approximately 1 million megawatt-hours of electricity annually &mdash; enough to power almost 90,000 U.S. homes.</p>
+<p>The wind farm, built by Lincoln Clean Energy, includes a fleet of GE wind turbines, and of the energy generated, 90 percent of the output will be sold to Amazon&rsquo;s fulfillment arm.</p>
+<p>Scott Stalica, <a href="https://www.linkedin.com/title/manager-commercial-operations-americas?trk=mprofile_title" rel="noopener noreferrer" target="_blank">manager for commercial operations in the Americas</a> at GE Renewable Energy points out that wind is not only good for the climate but also for the wallet. The cost of wind power is about one-third of what it was six years ago. &ldquo;Wind is very competitive versus alternative forms of generation,&rdquo; Stalica says.</p>
+<div><a href="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/18161642/PSP31507-5832.jpg" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/18161642/PSP31507-5832-1024x683.jpg" alt="2.0-116 wind turbine installation in Shallowater, Texas, USA." width="1024" height="683"></a><p><em>&ldquo;Wind is very competitive versus alternative forms of generation,&rdquo; says GE&rsquo;s Stalica. Images credit: GE Renewable Energy</em></p></div>
+<p>Data published by the&nbsp;Energy Information Administration shows that the cost of onshore wind energy &mdash; without federal tax and other financial incentives &mdash; is projected to reach $73.60 per megawatt-hour by 2020 and dropping as turbine technologies improve. That&rsquo;s slightly cheaper than conventional coal, which costs about <a href="http://www.eia.gov/forecasts/aeo/electricity_generation.cfm" rel="noopener noreferrer" target="_blank">$75.20</a> per megawatt-hour.</p>
+<p>The opportunity for corporations to leverage the cost-competitive nature of renewable energy is growing. In 2015, AWS announced the construction of Amazon Solar Farm US East, Amazon Wind Farm Fowler Ridge, Amazon Wind Farm US Central and Amazon Wind Farm US East. In 2016, it announced five additional solar farms and one more wind farm, bringing the total number of such AWS projects to 10. With the addition of Amazon Wind Farm Texas, Amazon is poised to generate almost 3.6 million megawatt-hours of renewable energy by year-end 2017.</p>
+<p>Scurry County, Texas, was selected as the site for the Amazon Wind Farm Texas because of its plentiful wind and affordable production and transmission costs. &ldquo;It makes good sense to build these large wind farms where the wind resource is strong and the local residents welcome the economic boost from such projects,&rdquo; says Paul Parkes, senior account manager in Wind Energy at GE, &ldquo;you need a really good wind resource, and it&rsquo;s got to be close to transmission lines to integrate and connect to the grid.&nbsp; This project is a model for connecting those dots and deriving the optimum energy solution for Amazon.&rdquo;</p>
+<p>&nbsp;</p>]]></content>
+	<updated>2017-01-20T23:14:17+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.ge.com/reports</id>
+		<link rel="self" href="https://www.ge.com/reports"/>
+		<updated>2017-01-20T23:14:17+00:00</updated>
+		<title>GE Reports</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-04:/353867</id>
+	<link href="http://www.gereports.com/soon-tech-jobs-will-design-data/" rel="alternate" type="text/html"/>
+	<title type="html">Soon, The Only Tech Jobs Will Be Design Or Data</title>
+	<summary type="html"><![CDATA[<p>The robots are coming for web programming. And coding schools will soon be obsolete. Even an enginee...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/04100008/GettyImages-681903741-e1483467224373.jpg" alt="Roboter sitzt auf einer Stuhlreihe mit Karton, k&uuml;nstliche Intelligenz, Roboter, Technologie, Ersatz f&uuml;r Menschen, Maschine, modern, futuristisch, 3D Rendering, digital generiert, humanoid, menschlich, Business, Konzept,  Palme, Auszeit, K&uuml;ndigung, alles hinter sich lassen, erleichtert, traurig, Sorgen, fotorealistisch, Umzug, Ver&auml;nderung"><h4>The robots are coming for web programming. And coding schools will soon be obsolete. Even an engineer&nbsp;admits: with increasing automation, technology will soon replace the majority of tech jobs themselves.</h4>
+<p>&nbsp;</p>
+<p><span>I have a friend who can see the future. We were talking a few years ago about how far tooling and automation had come along in software engineering. He suggested that, in the very near future, there would be only two jobs in application development: user experience design (UX) and data science. Everything between would be automated. I was a bit skeptical at the time, but I have since come around to his point of view.</span></p>
+<p><span>Since the first dot-com boom, there have been three specialized roles in web development: engineering, product management and UX. Engineers tended to be responsible for the data and functional layers while UX roles built the user interface. Coordination between them, and responsibility for the business overall, was managed by product managers. Students graduating from coding schools have been taught to think in these terms, and build apps that reflect this architecture.</span></p>
+<p><span>Today, we see a different picture. We&rsquo;ve reached the point at which most web application programming is configuration. You configure tools, infrastructure and, frameworks, all mostly through the browser or in source control. What we used to build by hand is all available in package form now. Essentially, the job of today&rsquo;s developer is simply tying everything together. But how did we get here?</span></p>
+<p><span>Sometime in the last five years, web architecture began to change. APIs, which even non-techies are coming to appreciate as the glue that binds the Internet, have enabled data sharing and application ecosystems on an unprecedented scale. Modern applications are now designed explicitly to share data with other systems, or to be extended in ways the API authors never intended. This is really &ldquo;Open Source,&rdquo; evolved to its next logical and glorious level.</span></p>
+<p><span>JavaScript, the clunky browser-bound language we all hated 15 years ago, experienced something of a renaissance around 2010. Now, it&rsquo;s causing a revolution in the way apps are composed. Frameworks like Google&rsquo;s AngularJS or Facebook&rsquo;s ReactJS enable developers to build apps using flexible components, moving pieces of UX functionality around with ease. This results in apps that are both modular and extensible.</span></p>
+<p><span>Cloud services like Amazon Web Services (AWS) make it possible for any development team to build and customize their own IT infrastructure. DevOps (a mash-up of Development and Operations that is basically shorthand for &ldquo;We do our own Ops now&rdquo;) is quickly erasing the need for a dedicated IT Operations department. The bearded wizards, who in the past spent their days crawling under desks, playing with network cabling or racking servers, are rapidly disappearing. They were gatekeepers to the application developers, controlling when and how our code would be deployed to production. Now, we can control everything through the AWS console.</span></p>
+<p><span>As an engineer, it&rsquo;s not difficult to envision a future in which I can build an application in minutes, essentially with drag and drop, plugging components together in a browser-based configuration system. (Think IFTTT or Zapier, but for application development.) In such a world, there isn&rsquo;t a market for the old custom web application developer anymore.</span></p>
+<p><span>Since the beginning of modern computing, each wave of engineering innovation has automated low-level tasks. Over time, high level and manual intensive tasks eventually become low-level tasks and modules. We moved from programming in assembly to the general programming language, from procedural programming to object-oriented programming, from hand-built servers to virtualization and cloud computing. </span></p>
+<p><span>Now, we&rsquo;re moving a level up again. The only jobs in application development soon will be data science and customer experience design. Everything between them will be commodified.</span></p>
+<p>&nbsp;</p>
+<p>(Top photo: Courtesy Getty Images.)</p>
+<p>&nbsp;</p>
+<p><em><span><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/04100008/SamMcAfeeMD-150x150.jpg" alt="SamMcAfeeMD" width="150" height="150">Sam McAfee is a cofounder of <a href="http://blackwillowstudios.com/" target="_blank" rel="noopener noreferrer">Blackwillow Studios</a>, which builds popup incubators for enterprises undergoing digital transformation.</span></em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>All views expressed are those of the author.</p>]]></content>
+	<updated>2017-01-04T10:00:08+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.ge.com/reports</id>
+		<link rel="self" href="https://www.ge.com/reports"/>
+		<updated>2017-01-04T10:00:08+00:00</updated>
+		<title>GE Reports</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-01-03:/353547</id>
+	<link href="http://www.gereports.com/automation-isnt-end-world-heres/" rel="alternate" type="text/html"/>
+	<title type="html">Automation Isn’t The End Of The World — Here’s Why</title>
+	<summary type="html"><![CDATA[<p>Robots probably will take our jobs. That doesn&rsquo;t have to be bad news, writes Leonardo Quattrucci, po...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/03100000/GettyImages-596063202-e1483383179401.jpg" alt="Businessmans walk straight into the abyss. Vector Illustration"><h4>Robots probably will take our jobs. That doesn&rsquo;t have to be bad news, writes Leonardo Quattrucci, policy assistant to the Head of the European Commission&rsquo;s&nbsp;European Political Strategy Centre. The future of work is about more than just automation. Machines push us to specialize in our competitive advantages, which would ideally&nbsp;push us toward a more connected and equitable economy.</h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div>
+<p>What keeps you up at night?</p>
+</div>
+<div>
+<p>For many people worldwide, the answer is unemployment. Work is not just what allows us to sustain ourselves and our families: it expands our possibilities to be and do what we aspire to; it gives meaning and rhythm to our endeavors as part of a broader social contract. This is why in times of &ldquo;polycrisis&rdquo; and broader economic transformations, we dread losing what we hold so dear to a presumed automation apocalypse.</p>
+<div><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/03100000/v0p5ie0mRwtc3uv5gxjV8AtCcGFMBDbBj1934S4pyIQ-1024x428.png" alt="What are people most worried about? Note: Representative sample of adults aged 16-64. September 2016: 18,014; August 2016: 18,042." width="1024" height="428"><p>What are people most worried about? Note: Representative sample of adults aged 16-64. September 2016: 18,014; August 2016: 18,042.</p></div>
+<div>
+<p>It is true: <a href="http://www.oecd-ilibrary.org/social-issues-migration-health/the-risk-of-automation-for-jobs-in-oecd-countries_5jlz9h56dvq7-en?crawler=true" rel="noopener noreferrer" target="_blank">if a routine task can be performed cheaper, faster and better by a robot, there is a chance it will be</a>. What is also true &ndash; and even more certain &ndash; is that machines push us to specialize in our competitive advantages: more &ldquo;human&rdquo; work, creative and social intelligence, interpersonal and non-routine tasks are what makes us resilient and adaptive to change.</p>
+</div>
+<div>
+<p>The future of work is about much more than automation. It is about equitable access to opportunities and accessibility. It is as much about finding employment as being entrepreneurial.</p>
+</div>
+<div>
+<p>The future of work is about new ways to better preserve, share, spread and generate economic and social value. Advances in knowledge and technology have already empowered us with novel skills and solutions. They come down to three &ldquo;Cs&rdquo;: circular, collaborative and connective.</p>
+</div>
+<p><b>A Look into the Future of Work</b></p>
+<div>
+<p>In the 21st century, progress is about circling the economic and social square. As we reach planetary boundaries and unemployment tops our hierarchy of concerns, we can no longer afford to waste our capital &ndash; whether natural or human. A circular economy can help put an end to that.</p>
+</div>
+<div>
+<p>Investing to make buildings more sustainable, for example, means more energy-efficient houses that curb pollution and help families save more on their energy bill. At the same time, making apartments smarter brings construction workers &ndash; who were hard hit by the 2008 financial crisis &ndash; back into the labor market, and equips them with new technical skills.</p>
+</div>
+<div>
+<p>In the same way, projects like <a href="https://thelastmile.org/" target="_blank" rel="noopener noreferrer">Last Mile Works</a> turn inmates &ndash; who are generally considered economically passive members of society &ndash; into digital entrepreneurs, making them economically active while they are incarcerated and preparing them for reintegration when they are out.</p>
+<div><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/03100000/NyJuOdSSPjhxBraTkwJU7GWAntFrNKB3w3ll-Wz-HZA.png" alt="Trends in Routine and Non-Routine Tasks in Occupations, United States Image: OECD Skills Outlook 2013, OECD." width="617" height="485"><p>Trends in Routine and Non-Routine Tasks in Occupations, United States. Image: OECD Skills Outlook 2013, OECD.</p></div>
+<div>
+<p>Preserving and uncovering value is not enough. It must be shared and accessible. This is ever more possible in an increasingly collaborative economy. Communities in Brooklyn, New York are creating a <a href="http://www.npr.org/sections/alltechconsidered/2016/07/04/482958497/how-blockchain-helps-brooklyn-dwellers-use-neighbors-solar-energy" target="_blank" rel="noopener noreferrer">shared economy for peer-to-peer energy exchange</a> to be more resilient and take neighbors out of energy poverty. So if a house&rsquo;s solar panels produce excess electricity that would generally go to waste, that surplus can be transferred to another, immediately and at a locally determined price. Similarly, as <a href="https://ec.europa.eu/epsc/publications/strategic-notes/towards-low-emission-mobility_en#footnote6" target="_blank" rel="noopener noreferrer">cars are on average parked 92 percent of the time</a>, why not share them with those who face obstacles to mobility and maximize everyone&rsquo;s benefits?</p>
+</div>
+<div>
+<p>Finally, circular and collaborative innovations would not run as efficiently &ndash; if at all &ndash; had we not entered the connective economy. Thanks to connectivity, drones can be activated with one click to deliver medicines to rural areas, saving lives that an ambulance would have never reached. The most expensive part of that drone &ndash; which can be built <a href="http://m.crn.com/news/mobility/video/300082469/watch-a-drone-expert-and-hps-cto-build-a-drone-in-under-15-minutes.htm" target="_blank" rel="noopener noreferrer">in 15 minutes</a> &ndash; was probably the result of a worldwide hackathon that made it openly accessible and brought its cost down to $8. Connectivity has extended our imagination, allowing us to engineer solutions to seemingly unsolvable problems, and invent new professions that not long ago only belonged to science fiction.</p>
+</div>
+<div>
+<p>Connectivity also means that we can invite more talent &ndash; all talent &ndash; into the future workplace. Initiatives like <a href="http://stevensinitiative.org/" target="_blank" rel="noopener noreferrer">Stevens</a> use virtual exchanges to build cross-cultural skills and facilitate the integration of today&rsquo;s immigrant children into tomorrow&rsquo;s ever more diverse workforce. The elderly and people with disabilities can overcome physical limits and enter digital workplaces. Women can tear down the last barriers of gender discrimination.</p>
+<div><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/03100000/oDl8KTWIY7TV9mrwOqQsxzNX6YAkZtVtGFH-unhOMCU-1024x566.png" alt="Image: European Commission. " width="1024" height="566"><p>Image: European Commission.</p></div>
+<p>When we look at the future of work with circular, collaborative and connective lenses, it stops looking like the automation apocalypse. These &ldquo;three Cs&rdquo; are not just attributes of an economy that may well yield minimum waste and maximum benefits for a larger number of people. They are qualities of a networked society in which we become individually stronger when we act collectively. They are critical skills that allow us to turn specific problems into systemic possibilities, and shape the future of work we want. They are the demonstration that, in the 21st century, solidarity is not just an ethical quality, but it makes social and economic sense. A robot cannot see and seize that.</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<p>(Top photo: Courtesy Getty Images.)</p>
+<p>&nbsp;</p>
+<p>This piece first appeared in the World Economic Forum&rsquo;s <a href="https://www.weforum.org/agenda/2016/11/automation-is-not-the-end-of-the-world-here-s-why" target="_blank" rel="noopener noreferrer">Agenda blog</a>.</p>
+<p>&nbsp;</p>
+<p><em><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/03100000/small_2mFLBzsEQrKBsg1TeKNlJ0tlJmzordS4c9gVlRFl3pg-150x150.jpg" alt="small_2mFLBzsEQrKBsg1TeKNlJ0tlJmzordS4c9gVlRFl3pg" width="150" height="150">Leonardo Quattrucci is the Policy Assistant to the Head of the European Commission&rsquo;s European Strategy Centre.&nbsp;</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>All views expressed are those of the author.</p>]]></content>
+	<updated>2017-01-03T10:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.ge.com/reports</id>
+		<link rel="self" href="https://www.ge.com/reports"/>
+		<updated>2017-01-03T10:00:00+00:00</updated>
+		<title>GE Reports</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-19:/441370</id>
+	<link href="https://phys.org/news/2017-10-involved-geoengineering-debate.html" rel="alternate" type="text/html"/>
+	<title type="html">Why you need to get involved in the geoengineering debate – now</title>
+	<summary type="html"><![CDATA[<p>The prospect of engineering the world's climate system to tackle global warming is becoming more and...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The prospect of engineering the world's climate system to tackle global warming is becoming more and more likely. This may seem like a crazy idea but I, and over 250 other scientists, policy makers and stakeholders from around the globe recently descended on Berlin to debate the promises and perils of geoengineering.</p>]]></content>
+	<updated>2017-10-19T14:10:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-19T14:10:03+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="environment"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/whyyouneedto.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-19:/441283</id>
+	<link href="https://phys.org/news/2017-10-secret-bees-amazing-nanotechnologies-hidden.html" rel="alternate" type="text/html"/>
+	<title type="html">Flowers' secret signal to bees and other amazing nanotechnologies hidden in plants</title>
+	<summary type="html"><![CDATA[<p>Flowers have a secret signal that's specially tailored for bees so they know where to collect nectar...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Flowers have a secret signal that's specially tailored for bees so they know where to collect nectar. And new research has just given us a greater insight into how this signal works. Nanoscale patterns on the petals reflect light in a way that effectively creates a "blue halo" around the flower that helps attract the bees and encourages pollination.</p>]]></content>
+	<updated>2017-10-19T12:10:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-19T12:10:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="plants &amp; animals"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/flowerssecre.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-19:/441373</id>
+	<link href="https://phys.org/news/2017-10-mathematically-hiv-drug-pharmacodynamics.html" rel="alternate" type="text/html"/>
+	<title type="html">Mathematically modeling HIV drug pharmacodynamics</title>
+	<summary type="html"><![CDATA[<p>37 million people around the world today live with Human Immunodeficiency Virus (HIV), which is resp...</p>]]></summary>
+	<content type="html"><![CDATA[<p>37 million people around the world today live with Human Immunodeficiency Virus (HIV), which is responsible for roughly 1.1 million deaths caused by AIDS-related conditions.</p>]]></content>
+	<updated>2017-10-19T14:00:05+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-19T14:00:05+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="mathematics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/9-mathematical.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-19:/441312</id>
+	<link href="https://phys.org/news/2017-10-stem-cell-platform-human.html" rel="alternate" type="text/html"/>
+	<title type="html">Stem cell platform sheds new light on beginnings of human development</title>
+	<summary type="html"><![CDATA[<p>Researchers at University of Toronto's Medicine By Design have engineered a new platform to study th...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Researchers at University of Toronto's Medicine By Design have engineered a new platform to study the earliest stages of human development in the lab, pulling back the curtain on key biological processes that until now have taken place inside the uterus, beyond the gaze of scientists.</p>]]></content>
+	<updated>2017-10-19T13:20:41+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-19T13:20:41+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-19:/441313</id>
+	<link href="https://phys.org/news/2017-10-international-human-cell-atlas-publishes.html" rel="alternate" type="text/html"/>
+	<title type="html">The international Human Cell Atlas publishes strategic blueprint, announces data from first one million cells</title>
+	<summary type="html"><![CDATA[<p>The Human Cell Atlas (HCA) Consortium has released a blueprint for the international initiative's ef...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The Human Cell Atlas (HCA) Consortium has released a blueprint for the international initiative's efforts to create a comprehensive reference map of all human cells, a project that will form the basis for a deeper understanding of human health and for diagnosing, monitoring, and treating disease.</p>]]></content>
+	<updated>2017-10-19T13:19:55+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-19T13:19:55+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="cell &amp; microbiology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/2-theinternati.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-19:/441290</id>
+	<link href="https://phys.org/news/2017-10-scientists-reveal-superbug-artillery.html" rel="alternate" type="text/html"/>
+	<title type="html">Scientists reveal 'superbug's' artillery</title>
+	<summary type="html"><![CDATA[<p>Monash University's Biomedicine Discovery Institute (BDI) researchers have created the first high-re...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Monash University's Biomedicine Discovery Institute (BDI) researchers have created the first high-resolution structure depicting a crucial part of the 'superbug' Pseudomonas aeruginosa, classified by the WHO as having the highest level threat to human health. The image identifies the 'nanomachine' used by the highly virulent bacteria to secrete toxins, pointing the way for drug design targeting this.</p>]]></content>
+	<updated>2017-10-19T11:37:07+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-19T11:37:07+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="cell &amp; microbiology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/42-scientistsre.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-19:/441397</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/hfsp-spt101917.php" rel="alternate" type="text/html"/>
+	<title type="html">Svante Pääbo to receive the 2018 HFSP Nakasone Award</title>
+	<summary type="html"><![CDATA[<p>(Human Frontier Science Program) Svante P&auml;&auml;bo of the Max Planck Institute for Evolutionary Anthropol...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Human Frontier Science Program</i>) Svante P&auml;&auml;bo of the Max Planck Institute for Evolutionary Anthropology in Leipzig (Germany) was the 2018 HFSP Nakasone Award awarded for his discovery of the extent to which hybridization with Neanderthals and Denisovans has shaped the evolution of modern humans, and his development of techniques for sequencing DNA from fossils.</p>]]></content>
+	<updated>2017-10-19T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-19T04:00:00+00:00</updated>
+		<title>EurekAlert! - Earth Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-04-18:/384549</id>
+	<link href="https://www.linux.com/news/explained-neural-networks" rel="alternate" type="text/html"/>
+	<title type="html">Explained: Neural Networks</title>
+	<summary type="html"><![CDATA[<p>In the past 10 years, the best-performing artificial-intelligence systems &mdash; such as the speech recog...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>In the past 10 years, the best-performing artificial-intelligence systems &mdash; such as the speech recognizers on smartphones or Google&rsquo;s latest automatic translator &mdash; have resulted from a technique called &ldquo;deep learning.&rdquo;</p></div></div></div>]]></content>
+	<updated>2017-04-18T11:30:56+00:00</updated>
+	<author><name>MIT News</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-04-18T11:30:56+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-18:/441054</id>
+	<link href="https://www.gamingonlinux.com/articles/openage-the-open-source-game-engine-for-age-of-empires-ii-and-more-games-is-advancing.10568" rel="alternate" type="text/html"/>
+	<title type="html">openage, the open source game engine for Age of Empires II and more games is advancing</title>
+	<summary type="html"><![CDATA[<p>Tags: Open Source, Game EngineAnother open source game engine has been advancing recently, this time...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Tags: Open Source, Game Engine</p><p></p><p>Another open source game engine has been advancing recently, this time it's openage [<a href="http://openage.sft.mx/" target="_blank" rel="noopener noreferrer">Official Site</a>, <a href="https://github.com/SFTtech/openage" target="_blank" rel="noopener noreferrer">GitHub</a>], the game engine for playing games like Age of Empires, Age of Empires II (HD) and Star Wars: Galactic Battlegrounds.</p>
+
+<p>Shared on <a href="https://www.reddit.com/r/linux_gaming/comments/776vxq/status_of_openage_open_source_engine_clone_of/" target="_blank" rel="noopener noreferrer">reddit</a> was this video showing off some of the progress:</p>
+
+<div></div>
+
+<p>Looks like it's really starting to come together, which is awesome. As someone who spent hours playing AoE, this project is really exciting to me. Who knows, in another year perhaps this might be quite playable? Looks a bit rough right now of course, but very interesting to see the state of it right now.</p>
+
+<p>Much like OpenMW (Morrowind), OpenRA (Red Alert, Command &amp; Conquer, Dune 2000) and others, it aims to be an engine reimplementation that requires the original game assets. According to a comment from a developer, they're targetting Age of Empires II first, with Age of Empires and Star Wars: Galactic Battlegrounds to follow.</p>]]></content>
+	<updated>2017-10-18T22:10:18+00:00</updated>
+	<author><name>contact@gamingonlinux.com (liamdawe)</name></author>
+	<source>
+		<id>https://www.gamingonlinux.com/</id>
+		<link rel="self" href="https://www.gamingonlinux.com/"/>
+		<updated>2017-10-18T22:10:18+00:00</updated>
+		<title>GamingOnLinux.com Latest Articles</title></source>
+
+	<category term="open source"/>
+
+	<category term="game engine"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-19:/441230</id>
+	<link href="https://phys.org/news/2017-10-individual-cellular-receptors.html" rel="alternate" type="text/html"/>
+	<title type="html">Researchers observe individual cellular receptors at work</title>
+	<summary type="html"><![CDATA[<p>Using a revolutionary live-cell microscopy technique, an international team of scientist has for the...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Using a revolutionary live-cell microscopy technique, an international team of scientist has for the first time observed individual receptors for hormones and drugs working in intact cells.</p>]]></content>
+	<updated>2017-10-19T09:29:53+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-19T09:29:53+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biochemistry"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/individualre.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-04-04:/380445</id>
+	<link href="https://www.linux.com/news/sir-tim-berners-lee-receives-2016-acm-am-turing-award" rel="alternate" type="text/html"/>
+	<title type="html">Sir Tim Berners-Lee Receives 2016 ACM A.M. Turing Award</title>
+	<summary type="html"><![CDATA[<p>ACM named&nbsp;Sir Tim Berners-Lee, a Professor at Massachusetts Institute of Technology and the Universi...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>ACM named&nbsp;<a href="http://awards.acm.org/award_winners/berners-lee_8087960" target="_blank" rel="noopener noreferrer">Sir Tim Berners-Lee</a>, a Professor at Massachusetts Institute of Technology and the University of Oxford, the recipient of the 2016 ACM A.M. Turing Award. Berners-Lee was cited for inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale.</p></div></div></div>]]></content>
+	<updated>2017-04-04T13:30:56+00:00</updated>
+	<author><name>Communications of the ACM</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-04-04T13:30:56+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-18:/440981</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/ciot-pba101817.php" rel="alternate" type="text/html"/>
+	<title type="html">Physics boosts artificial intelligence methods</title>
+	<summary type="html"><![CDATA[<p>(California Institute of Technology) Researchers from Caltech and the University of Southern Califor...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>California Institute of Technology</i>) Researchers from Caltech and the University of Southern California (USC) report the first application of quantum computing to a physics problem.</p>]]></content>
+	<updated>2017-10-18T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-18T04:00:00+00:00</updated>
+		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-18:/441011</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171018133230.htm" rel="alternate" type="text/html"/>
+	<title type="html">Duplications of noncoding DNA may have affected evolution of human-specific traits</title>
+	<summary type="html"><![CDATA[<p>Duplications of large segments of noncoding DNA in the human genome may have contributed to the emer...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Duplications of large segments of noncoding DNA in the human genome may have contributed to the emergence of differences between humans and nonhuman primates, according to new results. Identifying these duplications, which include regulatory sequences, and their effect on traits and behavior may help scientists explain genetic contributions to human disease.</p>]]></content>
+	<updated>2017-10-18T17:32:30+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-18T17:32:30+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-10-18:/440630</id>
@@ -922,301 +1357,6 @@ An unprecedented catalogue of more than 21 000 images taken by a webcam on ESA&r
 		<link rel="self" href="https://www.linux.com/feeds/rss"/>
 		<updated>2017-02-17T15:00:51+00:00</updated>
 		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-14:/365626</id>
-	<link href="https://www.linux.com/blog/learn/chapter/open-source-management/2017/2/what-open-source-software" rel="alternate" type="text/html"/>
-	<title type="html">What Is Open Source Software?</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;What Is Open Source Software? 14 FebLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">What Is Open Source Software? </div></div></div><div><div><div>14 Feb</div></div></div><div><div><div><div><a href="http://localhost/blog/learn/chapter/open-source-management/2017/2/what-open-source-software" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2017-02-14T17:30:42+00:00</updated>
-	<author><name>bweinberg</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-02-14T17:30:42+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-08:/364073</id>
-	<link href="https://www.linux.com/blog/compliance-ebook/2017/2/7-elements-open-source-management-program-teams-and-tools" rel="alternate" type="text/html"/>
-	<title type="html">The 7 Elements of an Open Source Management Program: Teams and Tools</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;The 7 Elements of an Open Source Management Program: Teams and Tools8 FebLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">The 7 Elements of an Open Source Management Program: Teams and Tools</div></div></div><div><div><div>8 Feb</div></div></div><div><div><div><div><a href="http://localhost/blog/compliance-ebook/2017/2/7-elements-open-source-management-program-teams-and-tools" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2017-02-08T15:44:39+00:00</updated>
-	<author><name>ibrahim</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-02-08T15:44:39+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-07:/363633</id>
-	<link href="https://www.linux.com/news/internet-things-10-types-enterprise-deployments" rel="alternate" type="text/html"/>
-	<title type="html">The Internet of Things: 10 Types of Enterprise Deployments</title>
-	<summary type="html"><![CDATA[<p>As the Internet of Things (IoT) market continues its explosive growth and development, more and more...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>As the Internet of Things (IoT) market continues its explosive growth and development, more and more businesses are looking at the ways they can generate business value from connected devices and the data they generate. By 2020, research firm Gartner&nbsp;<a href="http://www.gartner.com/newsroom/id/3185623" rel="noopener noreferrer" target="_blank">predicts</a>&nbsp;that more than half of major new business processes and systems will incorporate IoT elements.</p></div></div></div>]]></content>
-	<updated>2017-02-07T09:00:00+00:00</updated>
-	<author><name>ZDNet</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-02-07T09:00:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-01:/361908</id>
-	<link href="https://www.linux.com/news/amazons-deep-learning-engine-now-apache-project" rel="alternate" type="text/html"/>
-	<title type="html">Amazon’s Deep Learning Engine Is Now an Apache Project</title>
-	<summary type="html"><![CDATA[<p>Amazon Web Services has seemingly found open source religion over the past several months, including...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Amazon Web Services has seemingly found open source religion over the past several months, including in the field of artificial intelligence.</p></div></div></div>]]></content>
-	<updated>2017-02-01T10:00:00+00:00</updated>
-	<author><name>Architecht</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-02-01T10:00:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-27:/360686</id>
-	<link href="https://www.linux.com/news/ibm-adds-tensorflow-support-powerai-deep-learning-0" rel="alternate" type="text/html"/>
-	<title type="html">IBM Adds TensorFlow Support for PowerAI Deep Learning</title>
-	<summary type="html"><![CDATA[<p>Today IBM announced that its&nbsp;PowerAI&nbsp;distribution for popular open source Machine Learning and Deep ...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Today IBM announced that its&nbsp;<a href="https://www.ibm.com/us-en/marketplace/deep-learning-platform" target="_blank" rel="noopener noreferrer">PowerAI</a>&nbsp;distribution for popular open source Machine Learning and Deep Learning frameworks on the POWER8 architecture now supports the&nbsp;<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">TensorFlow</a>&nbsp;0.12 framework that was originally created by Google. TensorFlow support through IBM PowerAI provides enterprises with another option for fast, flexible, and production-ready tools and support for developing advanced machine learning products and systems.</p></div></div></div>]]></content>
-	<updated>2017-01-27T09:30:00+00:00</updated>
-	<author><name>insideHPC</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-01-27T09:30:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-23:/359210</id>
-	<link href="https://www.linux.com/news/ipv6-transition-quick-guide" rel="alternate" type="text/html"/>
-	<title type="html">IPv6 Transition: A Quick Guide</title>
-	<summary type="html"><![CDATA[<p>Despite the much-anticipated depletion of public IPv4 addresses, adoption of&nbsp;network address transla...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Despite the much-anticipated depletion of public IPv4 addresses, adoption of&nbsp;<a href="http://www.networkcomputing.com/networking/nat-configuration-primer/546082124" rel="noopener noreferrer" target="_blank">network address translation (NAT)</a>&nbsp;has led most enterprises to continue using IPv4 both internally and at the internet edge.</p></div></div></div>]]></content>
-	<updated>2017-01-23T10:00:00+00:00</updated>
-	<author><name>Network Computing</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-01-23T10:00:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-17:/357577</id>
-	<link href="https://www.linux.com/news/google-infrastructure-security-design-overview" rel="alternate" type="text/html"/>
-	<title type="html">Google Infrastructure Security Design Overview</title>
-	<summary type="html"><![CDATA[<p>This document gives an overview of how security is designed into Google&rsquo;s technical infrastructure. ...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>This document gives an overview of how security is designed into Google&rsquo;s technical infrastructure. This global scale infrastructure is designed to provide security through the entire information processing lifecycle at Google. This infrastructure provides secure deployment of services, secure storage of data with end user privacy safeguards, secure communications between services, secure and private communication with customers over the internet, and safe operation by administrators.</p></div></div></div>]]></content>
-	<updated>2017-01-17T09:00:00+00:00</updated>
-	<author><name>Google Cloud Platform</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-01-17T09:00:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-13:/356595</id>
-	<link href="http://www.tecmint.com/linux-io-input-output-redirection-operators/" rel="alternate" type="text/html"/>
-	<title type="html">Learn The Basics of How Linux I/O (Input/Output) Redirection Works</title>
-	<summary type="html"><![CDATA[<p>One of the most important and interesting topics under Linux administration is I/O redirection. This...</p>]]></summary>
-	<content type="html"><![CDATA[<p>One of the most important and interesting topics under Linux administration is I/O redirection. This feature of the command line enables you to redirect the input and/or output of commands from and/or to files,...</p>]]></content>
-	<updated>2017-01-13T07:01:33+00:00</updated>
-	<author><name>Aaron Kili</name></author>
-	<source>
-		<id>https://www.tecmint.com</id>
-		<link rel="self" href="https://www.tecmint.com"/>
-		<updated>2017-01-13T07:01:33+00:00</updated>
-		<title>Tecmint: Linux Howtos, Tutorials &amp; Guides » Linux Commands</title></source>
-
-	<category term="linux commands"/>
-
-	<category term="linux tricks"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-10:/355582</id>
-	<link href="https://www.linux.com/blog/event/LinuxCon-Europe/2016/10-lessons-10-years-amazon" rel="alternate" type="text/html"/>
-	<title type="html">10 Lessons from 10 Years of Amazon</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;10 Lessons from 10 Years of Amazon10 JanLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">10 Lessons from 10 Years of Amazon</div></div></div><div><div><div>10 Jan</div></div></div><div><div><div><div><a href="http://localhost/blog/event/LinuxCon-Europe/2016/10-lessons-10-years-amazon" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2017-01-10T15:00:37+00:00</updated>
-	<author><name>geekygirldawn</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-01-10T15:00:37+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-18:/429892</id>
-	<link href="https://www.linux.com/blog/os-jobs-report/2017/9/demand-open-source-skills-rise" rel="alternate" type="text/html"/>
-	<title type="html">Demand for Open Source Skills on the Rise</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;Demand for Open Source Skills on the Rise18 SepLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Demand for Open Source Skills on the Rise</div></div></div><div><div><div>18 Sep</div></div></div><div><div><div><div><a href="http://localhost/blog/os-jobs-report/2017/9/demand-open-source-skills-rise" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2017-09-18T12:30:32+00:00</updated>
-	<author><name>eshein</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-09-18T12:30:32+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-20:/430724</id>
-	<link href="https://opensource.com/article/17/9/introduction-machine-learning" rel="alternate" type="text/html"/>
-	<title type="html">An introduction to machine learning today</title>
-	<summary type="html"><![CDATA[<p>Machine learning and artificial intelligence (ML/AI) mean different things to different people, but ...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/lead-images/code_computer_development_programming.png" width="520" height="292" alt="An introduction to machine learning today" title="An introduction to machine learning today"><p>Machine learning and artificial intelligence (ML/AI) mean different things to different people, but the newest approaches have one thing in common: They are based on the idea that a program's output should be created mostly automatically from a high-dimensional and possibly huge dataset, with minimal or no intervention or guidance from a human. Open source tools are used in a variety of machine learning and artificial intelligence projects. In this article, I'll provide an overview of the state of machine learning today.</p>
-<br>
-<a href="https://opensource.com/article/17/9/introduction-machine-learning" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-09-20T07:02:00+00:00</updated>
-	<author><name>Ulrich Drepper</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-09-20T07:02:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-20:/430786</id>
-	<link href="https://www.linux.com/news/ten-essentials-good-api-documentation" rel="alternate" type="text/html"/>
-	<title type="html">The Ten Essentials for Good API Documentation</title>
-	<summary type="html"><![CDATA[<p>API documentation is the number one reference for anyone implementing your API, and it can profoundl...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><span>API documentation is the number one reference for anyone implementing your API, and it can profoundly influence the developer experience. Because it describes what services an application programming interface offers and how to use those services, your documentation will inevitably create an impression about your product&mdash;for better or for worse.</span></p></div></div></div>]]></content>
-	<updated>2017-09-20T10:07:40+00:00</updated>
-	<author><name>A List Apart</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-09-20T10:07:40+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-21:/431349</id>
-	<link href="https://www.linux.com/learn/intro-to-linux/2017/9/advanced-lm-sensors-tips-and-tricks-linux-0" rel="alternate" type="text/html"/>
-	<title type="html">Advanced lm-sensors Tips and Tricks on Linux</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;Advanced lm-sensors Tips and Tricks on Linux21 SepLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Advanced lm-sensors Tips and Tricks on Linux</div></div></div><div><div><div>21 Sep</div></div></div><div><div><div><div><a href="http://localhost/learn/intro-to-linux/2017/9/advanced-lm-sensors-tips-and-tricks-linux-0" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2017-09-21T12:50:45+00:00</updated>
-	<author><name>cschroder</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-09-21T12:50:45+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-25:/432242</id>
-	<link href="http://www.linuxsecurity.com/content/view/175948?rdf" rel="alternate" type="text/html"/>
-	<title type="html">1.4 Million New Phishing Sites Launched Each Month</title>
-	<summary type="html"><![CDATA[<p>LinuxSecurity.com: The number of phishing attacks reach a record rate in 2017, but the majority of t...</p>]]></summary>
-	<content type="html"><![CDATA[<b>LinuxSecurity.com</b>: The number of phishing attacks reach a record rate in 2017, but the majority of the phishing sites remain active for just four- to eight hours.]]></content>
-	<updated>2017-09-25T10:17:54+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.linuxsecurity.com/</id>
-		<link rel="self" href="http://www.linuxsecurity.com/"/>
-		<updated>2017-09-25T10:17:54+00:00</updated>
-		<title>LinuxSecurity.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436677</id>
-	<link href="https://www.linux.com/news/10-layers-linux-container-security" rel="alternate" type="text/html"/>
-	<title type="html">10 Layers of Linux Container Security</title>
-	<summary type="html"><![CDATA[<p>Containers provide an easy way to package applications and deliver them seamlessly from development ...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><span>Containers provide an easy way to package applications and deliver them seamlessly from development to test to production. This helps ensure consistency across a variety of environments, including physical servers, virtual machines (VMs), or private or public clouds. These benefits are leading organizations to rapidly adopt containers in order to easily develop and manage the applications that add business value.</span></p></div></div></div>]]></content>
-	<updated>2017-10-09T11:30:36+00:00</updated>
-	<author><name>OpenSource.com</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-10-09T11:30:36+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-09:/436676</id>
-	<link href="https://www.linux.com/news/what-data-says-about-how-linux-kernel-developers-collaborate" rel="alternate" type="text/html"/>
-	<title type="html">What the Data Says About How Linux Kernel Developers Collaborate</title>
-	<summary type="html"><![CDATA[<p>Many people consider themselves a Linux kernel developer first, an employee second. Even when they e...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Many people consider themselves a Linux kernel developer first, an employee second. Even when they enjoy their current job and like their employer, most of them tend to look at the employment relationship as something temporary, whereas their identity as a kernel developer is viewed as more permanent and more important. Although companies do sometimes influence the areas where their employees contribute, individuals have quite a bit of freedom in how they do the work.</p></div></div></div>]]></content>
-	<updated>2017-10-09T12:59:40+00:00</updated>
-	<author><name>OpenSource.com</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-10-09T12:59:40+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-10:/437015</id>
-	<link href="https://www.redhat.com/en/about/press-releases/2017-red-hat-government-symposium-highlight-role-open-source-meeting-challenges-government-it" rel="alternate" type="text/html"/>
-	<title type="html">2017 Red Hat Government Symposium to Highlight the Role of Open Source in Meeting the Challenges of Government IT</title>
-	<summary type="html"><![CDATA[<p>Red Hat Government Symposium leads the discussion on how open source can help government agencies. E...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Red Hat Government Symposium leads the discussion on how open source can help government agencies. Event offers a forum for agency and industry leaders to come together to discuss innovation and how to create more secure, efficient solutions to the government's biggest challenges.</p>]]></content>
-	<updated>2017-10-10T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.redhat.com/en/rss/press-releases</id>
-		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
-		<updated>2017-10-10T04:00:00+00:00</updated>
-		<title>Red Hat Press Releases</title></source>
 
 
 </entry>
