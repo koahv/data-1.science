@@ -4,11 +4,357 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-10-16T04:00:00+00:00</updated>
+<updated>2017-10-16T16:21:53+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-05-05:/390122</id>
+	<link href="https://opensource.com/article/17/5/open-data-trends" rel="alternate" type="text/html"/>
+	<title type="html">3 big open data trends in the United States</title>
+	<summary type="html"><![CDATA[<p>The open data community got a surprising piece of news&nbsp;when the Trump Administration recently announ...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/government/GOV_opendata.png" width="520" height="292" alt="3 big open data trends in the United States" title="3 big open data trends in the United States"><p dir="ltr">The open data community got <a href="https://www.nytimes.com/2017/04/14/us/politics/visitor-log-white-house-trump.html?_r=1" target="_blank" rel="noopener noreferrer">a surprising piece of news</a>&nbsp;when the Trump Administration recently announced that it would no longer be supporting the Open.whitehouse.gov's Open Data portal.</p>
+<br>
+<a href="https://opensource.com/article/17/5/open-data-trends" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-05-05T07:00:00+00:00</updated>
+	<author><name>sam.mcclenney</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-05-05T07:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443053</id>
+	<link href="https://opensource.com/article/17/10/open-government-hurricane-relief" rel="alternate" type="text/html"/>
+	<title type="html">How open government is helping with hurricane relief</title>
+	<summary type="html"><![CDATA[<p>Just weeks after Hurricane Harvey hit Texas, two more "unprecedented" hurricanes made their way to t...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/lead-images/BUSINESS_lightning.png" width="520" height="292" alt="How open government is helping with hurricane relief" title="How open government is helping with hurricane relief"><p>Just weeks after Hurricane Harvey hit Texas, two more "unprecedented" hurricanes made their way to the southeastern United States. Although changes in Hurricane Irma's path spared Florida from the bulk of the damage, both Irma and Maria directly hit Puerto Rico and the U.S. Virgin Islands. Hurricane Maria was particularly devastating for the more than 3.5 million American citizens living in these U.S. Caribbean territories.</p>
+<br>
+<a href="https://opensource.com/article/17/10/open-government-hurricane-relief" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-10-23T07:01:00+00:00</updated>
+	<author><name>drubinstein</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-10-23T07:01:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-04:/425502</id>
+	<link href="https://opensource.com/article/17/9/linux-kids" rel="alternate" type="text/html"/>
+	<title type="html">What&amp;#039;s the current state of Linux distros for kids?</title>
+	<summary type="html"><![CDATA[<p>When she was only two years old, my daughter was fascinated by the old Eee PC running Ubuntu Studio ...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/lead-images/idea_innovation_kid_education.png" width="520" height="292" alt="6 Linux distributions for kids" title="6 Linux distributions for kids"><p>When she was only two years old, my daughter was fascinated by the old Eee PC running Ubuntu Studio I was&nbsp;using&nbsp;as one of my main computers. She would climb on my lap to hammer away at the keyboard, so&mdash;even though she was a bit young&mdash;I decided to search for Linux distributions made for children. To my surprise, I found a few distros made for kids as young as two.&nbsp;</p>
+<br>
+<a href="https://opensource.com/article/17/9/linux-kids" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-09-04T07:01:00+00:00</updated>
+	<author><name>jimmysjolund</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-09-04T07:01:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-07-18:/410688</id>
+	<link href="https://opensource.com/article/17/7/top-4-reasons-i-use-dwm-linux-window-manager" rel="alternate" type="text/html"/>
+	<title type="html">Top 4 reasons I use dwm for my Linux window manager</title>
+	<summary type="html"><![CDATA[<p>I like minimalistic views. If I could run everything in a terminal I would. It's free from shiny stu...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/car-penguin-drive-linux-yellow.png" width="520" height="292" alt="Top 4 reasons I use dwm for my Linux window manager" title="Top 4 reasons I use dwm for my Linux window manager"><p>I like minimalistic views. If I could run everything in a terminal I would. It's free from shiny stuff that hogs my resources and distracts my feeble mind. I also grow tired of resizing and moving windows, never getting them to align perfectly.</p>
+<br>
+<a href="https://opensource.com/article/17/7/top-4-reasons-i-use-dwm-linux-window-manager" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-07-18T07:01:00+00:00</updated>
+	<author><name>jimmysjolund</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-07-18T07:01:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-06-26:/404138</id>
+	<link href="https://opensource.com/article/17/6/open-source-localization-tools" rel="alternate" type="text/html"/>
+	<title type="html">18 open source translation tools to localize your project</title>
+	<summary type="html"><![CDATA[<p>Localization plays a central role in the ability to customize an open source project to suit the nee...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/people_remote_teams_world.png" width="520" height="292" alt="18 open source translation tools to localize your project" title="18 open source translation tools to localize your project"><p>Localization plays a central role in the ability to customize an open source project to suit the needs of users around the world. Besides coding, language translation is one of the main ways people around the world contribute to and engage with open source projects.</p>
+<p>There are tools specific to the language services industry (surprised to hear that's a thing?) that enable a smooth localization process with a high level of quality. Categories that localization tools fall into include:</p>
+<br>
+<a href="https://opensource.com/article/17/6/open-source-localization-tools" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-06-26T07:00:00+00:00</updated>
+	<author><name>gueroJeff</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-06-26T07:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-05-24:/395163</id>
+	<link href="https://opensource.com/article/17/5/30-best-practices-software-development-and-testing" rel="alternate" type="text/html"/>
+	<title type="html">30 best practices for software development and testing</title>
+	<summary type="html"><![CDATA[<p>Joining any new company&mdash;with an established culture and programming practices&mdash;can be a daunting expe...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/lightning-test.png" width="520" height="292" alt="30 best practices for software development and testing" title="30 best practices for software development and testing"><p>Joining any new company&mdash;with an established culture and programming practices&mdash;can be a daunting experience. When I joined the <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer">Ansible</a> team, I decided to write up the software engineering practices and principles I&rsquo;ve learned over the years and to which I strive to work. This is a non-definitive, non-exhaustive list of principles that should be applied with wisdom and flexibility.</p>
+<br>
+<a href="https://opensource.com/article/17/5/30-best-practices-software-development-and-testing" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-05-24T07:02:00+00:00</updated>
+	<author><name>mfoord</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-05-24T07:02:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-05-24:/395165</id>
+	<link href="https://opensource.com/article/17/5/what-technologies-are-poised-take-over" rel="alternate" type="text/html"/>
+	<title type="html">Which technologies are poised to take over in open source?</title>
+	<summary type="html"><![CDATA[<p>When you think of open source technologies, you probably think of the stalwarts, the technologies th...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/arrows_translation_lead.jpg" width="521" height="292" alt="Which technologies are poised to take over in open source?" title="Which technologies are poised to take over in open source?"><p>When you think of open source technologies, you probably think of the stalwarts, the technologies that have been around for years and years. It makes sense: According to a survey conducted in Q4 of 2016 by my company, <a href="https://twitter.com/GreythornNA" target="_blank" rel="noopener noreferrer">Greythorn</a>, 30%+ of participants said established technologies are among the top ten they primarily use.</p>
+<br>
+<a href="https://opensource.com/article/17/5/what-technologies-are-poised-take-over" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-05-24T07:00:00+00:00</updated>
+	<author><name>Scott Hirleman</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-05-24T07:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-04-29:/388331</id>
+	<link href="https://opensource.com/article/17/4/news-april-29" rel="alternate" type="text/html"/>
+	<title type="html">A fully open source satellite, new resources from the Linux Foundation, and more news</title>
+	<summary type="html"><![CDATA[<p>In this edition of our open source news roundup, we take a look at the first open source satellite, ...</p>]]></summary>
+	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/weekly_news_roundup_tv.png" width="538" height="310" alt="Open source news roundup for April 15-28, 2017" title="Open source news roundup for April 15-28, 2017"><p>In this edition of our open source news roundup, we take a look at the first open source satellite, The Linux Foundation's new IoT-focused group, and more.</p>
+<p></p><center><strong>Open source news roundup for April 15-28, 2017</strong></center>
+<h2>Launching the first open source satellite</h2>
+<p>Last week, <a href="http://hackaday.com/2017/04/19/flying-the-first-open-source-satellite/" target="_blank" rel="noopener noreferrer">the first open source satellite</a> made its way into space. The Libre Space Foundation, the organization behind the satellite, is dedicated to developing libre space hardware.</p>
+<br>
+<a href="https://opensource.com/article/17/4/news-april-29" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
+	<updated>2017-04-29T07:00:00+00:00</updated>
+	<author><name>robinmuilwijk</name></author>
+	<source>
+		<id>https://opensource.com/frontpage</id>
+		<link rel="self" href="https://opensource.com/frontpage"/>
+		<updated>2017-04-29T07:00:00+00:00</updated>
+		<title>Opensource.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-22:/442838</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171020160018.htm" rel="alternate" type="text/html"/>
+	<title type="html">Health: New protein aggregation measurement tool</title>
+	<summary type="html"><![CDATA[<p>A team of scientists have described the synthetic genetic tool they built to quantitatively sense, m...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A team of scientists have described the synthetic genetic tool they built to quantitatively sense, measure and manipulate protein aggregation in live cells. This may open the door to greater understanding and treatment of a range of maladies from Alzheimer's to type II diabetes.</p>]]></content>
+	<updated>2017-10-20T20:00:18+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-20T20:00:18+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171020160018-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-21:/442381</id>
+	<link href="https://dzone.com/articles/ai-and-iot-taking-data-insight-to-action?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone" rel="alternate" type="text/html"/>
+	<title type="html">AI and IoT: Taking Data Insight to Action</title>
+	<summary type="html"><![CDATA[<p>Recent Gartner estimations lead us to believe that up to 20 billion connected things will be in use ...</p>]]></summary>
+	<content type="html"><![CDATA[<p pid="2">Recent Gartner estimations lead us to believe that up to 20 billion connected things will be in use by 2020. Data is the oil of our century &mdash; but should we be concerned with an "oil spill hazard?" Will artificial intelligence curb this threatening phenomenon, or rather, will it reveal the full potential of IoT data value?</p>
+<p pid="5"><em>If my calculations are correct, when artificial intelligence hits the Internet of Things... you're gonna see some serious sh*t.&rdquo; &mdash; Doc E. Brown (or something like that)</em></p>]]></content>
+	<updated>2017-10-21T05:01:41+00:00</updated>
+	<author><name>Fred Jacquet</name></author>
+	<source>
+		<id>https://dzone.com</id>
+		<link rel="self" href="https://dzone.com"/>
+		<updated>2017-10-21T05:01:41+00:00</updated>
+		<title>DZone.com Feed</title></source>
+
+	<category term="iot"/>
+
+	<category term="big data analytics"/>
+
+	<category term="artificial intelligence"/>
+
+	<category term="iiot"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://dzone.com/thumbnail?fid=6963633&amp;w=600"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-20:/442225</id>
+	<link href="https://phys.org/news/2017-10-ocean-critical-climate-lacks-long-term.html" rel="alternate" type="text/html"/>
+	<title type="html">U.S. ocean observation critical to understanding climate change, but lacks long-term national planning</title>
+	<summary type="html"><![CDATA[<p>The ocean plays a critical role in climate and weather, serving as a massive reservoir of heat and w...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The ocean plays a critical role in climate and weather, serving as a massive reservoir of heat and water that influences tropical storms, El Nin?o, and climate change. In addition, the ocean has absorbed 30 percent of the carbon dioxide associated with human activities, lessening the climate effects of fossil fuel combustion.</p>]]></content>
+	<updated>2017-10-20T18:07:21+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-20T18:07:21+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="earth sciences"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-20:/442008</id>
+	<link href="https://phys.org/news/2017-10-breakthrough-ultra-fast-nanoscale.html" rel="alternate" type="text/html"/>
+	<title type="html">Breakthrough in ultra-fast data processing at nanoscale</title>
+	<summary type="html"><![CDATA[<p>A research team from the National University of Singapore has recently invented a novel "converter" ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A research team from the National University of Singapore has recently invented a novel "converter" that can harness the speed and small size of plasmons for high frequency data processing and transmission in nanoelectronics.</p>]]></content>
+	<updated>2017-10-20T12:23:48+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-20T12:23:48+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="nanophysics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/22-breakthrough.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-20:/442092</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171019115747.htm" rel="alternate" type="text/html"/>
+	<title type="html">Nanomedicine researchers target disease at the molecular level</title>
+	<summary type="html"><![CDATA[<p>It&rsquo;s truly small-scale work. But researchers in nanomedicine &ndash; the study, development and applicatio...</p>]]></summary>
+	<content type="html"><![CDATA[<p>It&rsquo;s truly small-scale work. But researchers in nanomedicine &ndash; the study, development and application of materials under 100 nanometers in size to diagnose and treat disease &ndash; are making some big-time advances.</p>]]></content>
+	<updated>2017-10-19T15:57:47+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-19T15:57:47+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171019115747-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-20:/441992</id>
+	<link href="https://phys.org/news/2017-10-chemical.html" rel="alternate" type="text/html"/>
+	<title type="html">The chemical that tells plants when it's time to sleep</title>
+	<summary type="html"><![CDATA[<p>Each of us goes through a daily cycle. We wake up, spend the day eating, working and playing, and th...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Each of us goes through a daily cycle. We wake up, spend the day eating, working and playing, and then we sleep. Messing with this cycle by not sleeping, doing shift work, travelling to a different time zone or living where there is 24 hours of light or dark can really interfere with our wellbeing and our long-term health.</p>]]></content>
+	<updated>2017-10-20T13:00:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-20T13:00:01+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/thechemicalt.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-20:/442009</id>
+	<link href="https://phys.org/news/2017-10-function-gene-regulatory-protein.html" rel="alternate" type="text/html"/>
+	<title type="html">New function in gene-regulatory protein discovered</title>
+	<summary type="html"><![CDATA[<p>Researchers at Ume&aring; and Stockholm universities in Sweden and Johns Hopkins University School of Medi...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Researchers at Ume&aring; and Stockholm universities in Sweden and Johns Hopkins University School of Medicine in the U.S. have published a new study in the journal Molecular Cell. They show how the protein CBP affects the expression of genes through its interaction with the basal machinery that reads the instructions in our DNA.</p>]]></content>
+	<updated>2017-10-20T12:20:30+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-20T12:20:30+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/newfunctioni.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-20:/442007</id>
+	<link href="https://phys.org/news/2017-10-shallow-soils-savannas-south-america.html" rel="alternate" type="text/html"/>
+	<title type="html">Shallow soils promote savannas in South America</title>
+	<summary type="html"><![CDATA[<p>New research suggests that the boundary between South American tropical rainforests and savannas is ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>New research suggests that the boundary between South American tropical rainforests and savannas is influenced by the depth to which plants can root. Shallow rooting depth promotes the establishment of savannas. Previous research has shown that precipitation and fire mediate tropical forest and savanna distributions. The study shows that below ground conditions need to be considered to understand the distribution of terrestrial vegetation both historically and in the face of future climate change. The study by researchers of the Senckenberg Biodiversity and Climate Research Centre and Goethe University is based on computer vegetation models and was published in Journal of Biogeography.</p>]]></content>
+	<updated>2017-10-20T12:24:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-20T12:24:03+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="environment"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/shallowsoils.jpg"/>
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-08-06:/416702</id>
@@ -1278,301 +1624,6 @@ Few people hav...</p>]]></summary>
 		<link rel="self" href="https://www.sciencedaily.com/news/"/>
 		<updated>2017-10-16T16:21:53+00:00</updated>
 		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-31:/379497</id>
-	<link href="https://www.linux.com/learn/intro-to-linux/2017/3/how-install-packages-source-linux" rel="alternate" type="text/html"/>
-	<title type="html">How to Install Packages from Source on Linux</title>
-	<summary type="html"><![CDATA[<p>Most modern Linux distributions enjoy standard repositories that include most of the software you&rsquo;ll...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Most modern Linux distributions enjoy standard repositories that include most of the software you&rsquo;ll need to successfully run your Linux server or desktop. Should a package come up missing, more than likely you&rsquo;ll find a repository you can add, so that the installation can be managed with the built-in package manager. This should be considered a best practice. Why? Because it&rsquo;s important for the integrity of the platform to ensure the package manager is aware of installed software. When that is the case, packages can easily be updated (to fix vulnerabilities and the like).</p></div></div></div>]]></content>
-	<updated>2017-03-31T14:00:10+00:00</updated>
-	<author><name>jlwallen</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-03-31T14:00:10+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-31:/379500</id>
-	<link href="https://www.linux.com/news/brief-history-random-numbers" rel="alternate" type="text/html"/>
-	<title type="html">A Brief History of Random Numbers</title>
-	<summary type="html"><![CDATA[<p>&ldquo;As an instrument for selecting at random, I have found nothing superior to dice,&rdquo; wrote statisticia...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>&ldquo;As an instrument for selecting at random, I have found nothing superior to dice,&rdquo; wrote statistician Francis Galton&nbsp;<a href="http://galton.org/essays/1890-1899/galton-1890-dice.pdf" target="_blank" rel="noopener noreferrer">in an 1890 issue of&nbsp;<em>Nature</em></a>.</p></div></div></div>]]></content>
-	<updated>2017-03-31T11:00:56+00:00</updated>
-	<author><name>freeCodeCamp</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-03-31T11:00:56+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-29:/378743</id>
-	<link href="https://www.linux.com/news/new-home-google-open-source" rel="alternate" type="text/html"/>
-	<title type="html">A New Home for Google Open Source</title>
-	<summary type="html"><![CDATA[<p>Free and open source software has been part of our technical and organizational foundation since Goo...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Free and open source software has been part of our technical and organizational foundation since Google&rsquo;s early beginnings. From servers running the Linux kernel to an internal culture of being able to patch any other team's code, open source is part of everything we do.</p></div></div></div>]]></content>
-	<updated>2017-03-29T11:04:51+00:00</updated>
-	<author><name>Google Open Source</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-03-29T11:04:51+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-29:/378586</id>
-	<link href="https://www.linux.com/blog/linux-block-io-tracing" rel="alternate" type="text/html"/>
-	<title type="html">Linux Block I/O Tracing</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp;Linux Block I/O Tracing28 MarLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title">Linux Block I/O Tracing</div></div></div><div><div><div>28 Mar</div></div></div><div><div><div><div><a href="http://localhost/blog/linux-block-io-tracing" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2017-03-28T15:06:26+00:00</updated>
-	<author><name>mfilion</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-03-28T15:06:26+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-24:/377204</id>
-	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Kernel-ELKDAT" rel="alternate" type="text/html"/>
-	<title type="html">ELKDAT Tool Released To Ease Linux Kernel Development &amp; Testing</title>
-	<summary type="html"><![CDATA[<p>ELKDAT is a new Linux kernel project to provide an easy kernel development and testing tool...</p>]]></summary>
-	<content type="html"><![CDATA[<p>ELKDAT is a new Linux kernel project to provide an easy kernel development and testing tool...</p>]]></content>
-	<updated>2017-03-24T10:16:24+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.phoronix.com/</id>
-		<link rel="self" href="https://www.phoronix.com/"/>
-		<updated>2017-03-24T10:16:24+00:00</updated>
-		<title>Phoronix</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-17:/375175</id>
-	<link href="https://www.linux.com/news/monitoring-google-compute-engine-metrics" rel="alternate" type="text/html"/>
-	<title type="html">Monitoring Google Compute Engine Metrics</title>
-	<summary type="html"><![CDATA[<p>This post is part 1 in a 3-part series about monitoring Google Compute Engine (GCE).&nbsp;Part 2&nbsp;covers t...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><em>This post is part 1 in a 3-part series about monitoring Google Compute Engine (GCE).&nbsp;<a href="https://www.datadoghq.com/blog/how-to-collect-gce-metrics" rel="noopener noreferrer" target="_blank">Part 2</a>&nbsp;covers the nuts and bolts of collecting GCE metrics, and&nbsp;<a href="https://www.datadoghq.com/blog/monitor-google-compute-engine-with-datadog" rel="noopener noreferrer" target="_blank">part 3</a>describes how you can get started collecting metrics from GCE with Datadog. This article describes in detail the resource and performance metrics that can be obtained from GCE.</em></p>
-<p><strong>What is Google Compute Engine?</strong></p></div></div></div>]]></content>
-	<updated>2017-03-17T11:30:00+00:00</updated>
-	<author><name>Datadog</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-03-17T11:30:00+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-17:/375018</id>
-	<link href="https://www.linux.com/news/top-10-challenges-devops-implementation" rel="alternate" type="text/html"/>
-	<title type="html">Top 10 Challenges to DevOps Implementation</title>
-	<summary type="html"><![CDATA[<p>As more companies adopt DevOps to improve their workflow and productivity, a number of challenges re...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>As more companies adopt DevOps to improve their workflow and productivity, a number of challenges related to infrastructure and legacy systems have arisen, according to a new survey from cloud sandbox software provider Quali.</p></div></div></div>]]></content>
-	<updated>2017-03-16T10:30:56+00:00</updated>
-	<author><name>TechCrunch</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-03-16T10:30:56+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-17:/375020</id>
-	<link href="https://www.linux.com/news/introduction-grub2-configuration-your-linux-machine-0" rel="alternate" type="text/html"/>
-	<title type="html">An Introduction to GRUB2 Configuration for your Linux Machine</title>
-	<summary type="html"><![CDATA[<p>When researching my article from last month,&nbsp;An introduction to the Linux&nbsp;boot and startup process, ...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>When researching my article from last month,&nbsp;<em><a href="https://opensource.com/article/17/2/linux-boot-and-startup" target="_blank" rel="noopener noreferrer">An introduction to the Linux</a><a href="https://opensource.com/article/17/2/linux-boot-and-startup" target="_blank" rel="noopener noreferrer">&nbsp;boot and startup process</a></em>, I became interested in learning more about GRUB2. This article provides a quick introduction to configuring GRUB2, which I will mostly refer to as GRUB for simplicity.</p>
-<p><strong>GRUB</strong></p></div></div></div>]]></content>
-	<updated>2017-03-16T08:30:56+00:00</updated>
-	<author><name>OpenSource.com</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-03-16T08:30:56+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-03-16:/374908</id>
-	<link href="http://thevarguy.com/ubuntu/open-source-software-and-security-what-you-need-know" rel="alternate" type="text/html"/>
-	<title type="html">Open Source Software and Security: What You Need to Know</title>
-	<summary type="html"><![CDATA[<p>Is open source software inherently less secure than closed-source code? Which special security preca...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Is open source software inherently less secure than closed-source code? Which special security precautions should you take with open source? Keep reading for a primer on open source software security...</p>]]></content>
-	<updated>2017-03-16T21:01:20+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://thevarguy.com</id>
-		<link rel="self" href="http://thevarguy.com"/>
-		<updated>2017-03-16T21:01:20+00:00</updated>
-		<title>The VAR Guy -- Linux</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-17:/440112</id>
-	<link href="https://phys.org/news/2017-10-cell-technology.html" rel="alternate" type="text/html"/>
-	<title type="html">Researchers developed single cell level sorting technology using sound waves</title>
-	<summary type="html"><![CDATA[<p>Sound wave enables the sensation of hearing, and is an important way of communicating in the animal ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Sound wave enables the sensation of hearing, and is an important way of communicating in the animal world. In physics, sound is considered as a mechanical vibration that can propagate in gases, liquids and solids. A research team from the Singapore University of Technology and Design (SUTD), led by Assistant Professor Dr Ye Ai, is studying the interactions between ultrasound (beyond the audible limit of human hearing) and micron-sized objects (e.g. biological cells) suspended in aqueous solutions. Dr Ai's research team recently developed a highly accurate single cell level sorting technology using a highly focused sound wave beam (50 &mu;m wide roughly &frac14; of a single human hair's diameter). This new cell manipulation technology enables highly accurate isolation of rare cell populations in complex biological samples. More concisely, it provides the potential of finding a single cell in a million.</p>]]></content>
-	<updated>2017-10-17T13:43:56+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-17T13:43:56+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="analytical chemistry"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-sutdresearch.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-17:/440130</id>
-	<link href="https://phys.org/news/2017-10-revealing-quantum-statistics-pair-distant.html" rel="alternate" type="text/html"/>
-	<title type="html">Revealing quantum statistics with a pair of distant atoms</title>
-	<summary type="html"><![CDATA[<p>An international team of researchers has proposed a new way to make atoms or ions indistinguishable ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>An international team of researchers has proposed a new way to make atoms or ions indistinguishable by swapping their positions. These particles are then expected to exhibit exotic properties. The study involved physicists from the University of Bonn, the Austrian Academy of Sciences, and the University of California. The work has now been published in Physical Review Letters.</p>]]></content>
-	<updated>2017-10-17T12:59:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-17T12:59:03+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="quantum physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/revealingqua.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-17:/440082</id>
-	<link href="https://phys.org/news/2017-10-quantum-physics-paves-chemical-products.html" rel="alternate" type="text/html"/>
-	<title type="html">Quantum physics paves the way for new chemical products</title>
-	<summary type="html"><![CDATA[<p>Research by an OU molecular physicist has discovered that electrons can control chemical reactions i...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Research by an OU molecular physicist has discovered that electrons can control chemical reactions in experiments leading to purer, cheaper chemical products.</p>]]></content>
-	<updated>2017-10-17T12:37:44+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-17T12:37:44+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="condensed matter"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-quantumphysi.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-16:/439678</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/eic-hos101617.php" rel="alternate" type="text/html"/>
-	<title type="html">Hubble observes source of gravitational waves for the first time</title>
-	<summary type="html"><![CDATA[<p>(ESA/Hubble Information Centre) The NASA/ESA Hubble Space Telescope has observed for the first time ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>ESA/Hubble Information Centre</i>) The NASA/ESA Hubble Space Telescope has observed for the first time the source of a gravitational wave, created by the merger of two neutron stars. This merger created a kilonova -- an object predicted by theory decades ago -- that ejects heavy elements such as gold and platinum into space. This event also provides the strongest evidence yet that short duration gamma-ray bursts are caused by mergers of neutron stars.</p>]]></content>
-	<updated>2017-10-16T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-16T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-16:/439671</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/nrl-ito101617.php" rel="alternate" type="text/html"/>
-	<title type="html">International team observes first radio counterpart to gravitational waves</title>
-	<summary type="html"><![CDATA[<p>(Naval Research Laboratory) NRL Radio Astrophysics and Sensing Section astronomers join an internati...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Naval Research Laboratory</i>) NRL Radio Astrophysics and Sensing Section astronomers join an international collaboration of researchers with the Caltech-led GROWTH project, resulting in the first ever observation of the radio counterpart to a gravitational wave event.</p>]]></content>
-	<updated>2017-10-16T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-16T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-16:/439677</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/e-eto101617.php" rel="alternate" type="text/html"/>
-	<title type="html">ESO telescopes observe first light from gravitational wave source</title>
-	<summary type="html"><![CDATA[<p>(ESO) ESO's fleet of telescopes have detected the first visible counterpart to a gravitational wave ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>ESO</i>) ESO's fleet of telescopes have detected the first visible counterpart to a gravitational wave source. These historic observations suggest that this unique object is the result of the merger of two neutron stars. The cataclysmic aftermaths of this kind of merger -- long-predicted events called kilonovae -- disperse heavy elements such as gold and platinum throughout the Universe. This discovery also provides the strongest evidence yet that short-duration gamma-ray bursts are caused by mergers of neutron stars.</p>]]></content>
-	<updated>2017-10-16T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-16T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-16:/439676</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/uoc-lad101617.php" rel="alternate" type="text/html"/>
-	<title type="html">LIGO announces detection of gravitational waves from colliding neutron stars</title>
-	<summary type="html"><![CDATA[<p>(University of Chicago) The US-based Laser Interferometer Gravitational-Wave Observatory and the Vir...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of Chicago</i>) The US-based Laser Interferometer Gravitational-Wave Observatory and the Virgo detector in Italy announced on Oct. 16 that all three of their detectors had picked up the ripples, or gravitational waves, from two neutron stars that collided 130 million years ago. Among other discoveries, the detection allowed scientists to use gravitational waves to directly calculate the rate at which the universe is expanding.</p>]]></content>
-	<updated>2017-10-16T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-16T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
 
 
 </entry>
