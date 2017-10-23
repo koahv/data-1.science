@@ -4,11 +4,275 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-10-16T16:21:53+00:00</updated>
+<updated>2017-04-04T13:30:56+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-05-02:/389097</id>
+	<link href="https://www.redhat.com/en/about/press-releases/red-hat-unveils-end-end-cloud-native-development-environment-red-hat-openshiftio" rel="alternate" type="text/html"/>
+	<title type="html">Red Hat Unveils End-to-End Cloud-Native Development Environment with Red Hat OpenShift.io</title>
+	<summary type="html"><![CDATA[<p>Red Hat OpenShift.io enables digital transformation with a powerful application environment to addre...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Red Hat OpenShift.io enables digital transformation with a powerful application environment to address all development phases without requiring local resources.</p>]]></content>
+	<updated>2017-05-02T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.redhat.com/en/rss/press-releases</id>
+		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
+		<updated>2017-05-02T04:00:00+00:00</updated>
+		<title>Red Hat Press Releases</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-05-02:/389100</id>
+	<link href="https://www.redhat.com/en/about/press-releases/red-hat-sets-new-standard-trusted-enterprise-grade-containers-industry%E2%80%99s-first-container-health-index" rel="alternate" type="text/html"/>
+	<title type="html">Red Hat Sets New Standard for Trusted, Enterprise-Grade Containers with Industry’s First Container Health Index</title>
+	<summary type="html"><![CDATA[<p>Red Hat launches Container Health Index, an easy-to-understand security grade applied to Linux conta...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Red Hat launches Container Health Index, an easy-to-understand security grade applied to Linux containers as part of the Red Hat Container Catalog.</p>]]></content>
+	<updated>2017-05-02T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.redhat.com/en/rss/press-releases</id>
+		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
+		<updated>2017-05-02T04:00:00+00:00</updated>
+		<title>Red Hat Press Releases</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-05-02:/389102</id>
+	<link href="https://www.redhat.com/en/about/press-releases/red-hat-and-aws-extend-strategic-alliance-package-access-aws-services-within-red-hat-openshift" rel="alternate" type="text/html"/>
+	<title type="html">Red Hat and AWS Extend Strategic Alliance to Package Access to AWS Services Within Red Hat OpenShift</title>
+	<summary type="html"><![CDATA[<p>Through this unique offering, Red Hat will make AWS services accessible directly within Red Hat Open...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Through this unique offering, Red Hat will make AWS services accessible directly within Red Hat OpenShift Container Platform, allowing customers to take advantage of the world&rsquo;s most comprehensive and broadly adopted cloud whether they&rsquo;re using Red Hat OpenShift Container Platform on AWS or in an on-premises environment.</p>]]></content>
+	<updated>2017-05-02T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.redhat.com/en/rss/press-releases</id>
+		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
+		<updated>2017-05-02T04:00:00+00:00</updated>
+		<title>Red Hat Press Releases</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-05-02:/388998</id>
+	<link href="https://www.linux.com/news/red-hat-launches-openshiftio-online-ide-building-container-based-applications" rel="alternate" type="text/html"/>
+	<title type="html">Red Hat Launches OpenShift.io, an Online IDE for Building Container-Based Applications</title>
+	<summary type="html"><![CDATA[<p>Red Hat&nbsp;is launching&nbsp;OpenShift.io&nbsp;today, its first major foray into offering cloud-based developer t...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><a href="https://www.redhat.com/en" target="_blank" rel="noopener noreferrer">Red Hat</a>&nbsp;is launching&nbsp;<a href="https://www.openshift.io/" target="_blank" rel="noopener noreferrer">OpenShift.io</a>&nbsp;today, its first major foray into offering cloud-based developer tools.&nbsp;As the name implies, OpenShift.io sits on top of the company&rsquo;s Kubernetes-based OpenShift container management platform and provides developers with the tools they need to build cloud-native, container-based apps.</p></div></div></div>]]></content>
+	<updated>2017-05-02T12:00:56+00:00</updated>
+	<author><name>TechCrunch</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-05-02T12:00:56+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-05-01:/388717</id>
+	<link href="https://www.linux.com/news/closer-look-learning-aspect-machine-learning" rel="alternate" type="text/html"/>
+	<title type="html">A Closer Look at the ‘Learning’ Aspect of Machine Learning</title>
+	<summary type="html"><![CDATA[<p>This piece is the latest in a series, called &ldquo;Machine Learning Is Not Magic,&rdquo; covering how to get st...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><em>This piece is the latest in a series, called &ldquo;<a href="https://www.thenewstack.io/tag/Machine-Learning-Is-Not-Magic" rel="noopener noreferrer" target="_blank">Machine Learning Is Not Magic</a>,&rdquo; covering how to get started in machine learning, using familiar&nbsp;tools such as Excel, Python, Jupyter Notebooks and cloud services from Azure and Amazon Web Services.&nbsp;<a href="https://www.thenewstack.io/tag/Machine-Learning-is-Not-Magic" rel="noopener noreferrer" target="_blank">Check back here</a>&nbsp;each Friday for future installments.&nbsp;</em></p></div></div></div>]]></content>
+	<updated>2017-05-01T08:37:56+00:00</updated>
+	<author><name>The New Stack</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-05-01T08:37:56+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-04-26:/387459</id>
+	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=GrSecurity-No-Longer-Free" rel="alternate" type="text/html"/>
+	<title type="html">GrSecurity Kernel Patches Will No Longer Be Free To The Public</title>
+	<summary type="html"><![CDATA[<p>The GrSecurity initiative that hosts various out-of-tree patches to the mainline Linux kernel in ord...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The GrSecurity initiative that hosts various out-of-tree patches to the mainline Linux kernel in order to enhance the security will no longer be available to non-paying users...</p>]]></content>
+	<updated>2017-04-26T18:55:08+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.phoronix.com/</id>
+		<link rel="self" href="https://www.phoronix.com/"/>
+		<updated>2017-04-26T18:55:08+00:00</updated>
+		<title>Phoronix</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-04-26:/387224</id>
+	<link href="https://www.linux.com/news/how-get-started-learning-program-0" rel="alternate" type="text/html"/>
+	<title type="html">How to Get Started Learning to Program</title>
+	<summary type="html"><![CDATA[<p>There's a lot of buzz lately about learning to program.</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>There's a lot of buzz lately about learning to program.</p></div></div></div>]]></content>
+	<updated>2017-04-26T08:30:56+00:00</updated>
+	<author><name>OpenSource.com</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-04-26T08:30:56+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443306</id>
+	<link href="https://futurism.com/pollution-deaths-worldwide/" rel="alternate" type="text/html"/>
+	<title type="html">Study: 1 in 6 Deaths Worldwide Caused by Pollution in 2015</title>
+	<summary type="html"><![CDATA[<p>Deadly Pollution
+We all know that pollution, in general, is harmful to human health. But a study pub...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Deadly Pollution</h2>
+<p>We all know that pollution, in general, is harmful to human health. But a study <a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32345-0/fulltext" target="_blank" rel="noopener noreferrer">published in <em>T</em></a><i><a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32345-0/fulltext" target="_blank" rel="noopener noreferrer">he Lancet&nbsp;</a></i>has shown the true magnitude of the threat. According to the study, in 2015, <a href="https://www.technologyreview.com/the-download/609182/pollution-causes-9-million-premature-deaths-a-year/?utm_campaign=Owned+Social&amp;utm_source=Facebook&amp;utm_medium=Owned+Social" target="_blank" rel="noopener noreferrer">1 in every 6 deaths around the world</a> were caused by toxic air, water, soil, or workplace environment. That&rsquo;s roughly 9 million people. To drive home the true weight of these figures, this means that pollution kills three times more people annually than tuberculosis, AIDS, or malaria.</p>
+<p>Of these<a href="https://www.reuters.com/article/us-health-pollution/study-links-pollution-to-millions-of-deaths-worldwide-idUSKBN1CO39B" target="_blank" rel="noopener noreferrer"> 9 million annual deaths</a>, 92% occur in less wealthy nations, signaling an obvious socioeconomic divide. Developing economies have the financial burden of fighting the causes of pollution (the welfare-linked costs of which are estimated to be roughly $4.6 trillion a year) while at the same time handling its repercussions. This problem will only continue to grow unless broader interventions are put in place &mdash; as the countries most greatly affected cannot afford to take major action on their own.</p>
+<p>&ldquo;Pollution is much more than an environmental challenge &ndash; it is a profound and pervasive threat that affects many aspects of human health and wellbeing,&rdquo; said Philip Landrigan, a&nbsp;professor at the Icahn School of Medicine at Mount Sinai who co-led the study.</p>
+<p></p>
+<h2>Drastic Consequences</h2>
+<p>The study,&nbsp;published this past Friday, was conducted by about 40 international scientists. They used data from the Global Burden of Disease study and the Institute for Health Metrics and Evaluation at the University of Washington. It is clear from the study that not only is pollution a deadly, global issue, but there is clear division between wealthier and poorer countries. According to the study, pollution causes approximately 16% of all deaths worldwide&nbsp;&mdash; a figure that is 15 times larger than deaths caused by war and violence. And, while this figure is staggering worldwide, when you take a closer look at more-affected countries, that figure could jump to 25%.</p>
+<p>Besides&nbsp;causing the deaths of millions, pollution has also been affecting our planet in other ways: <a href="https://futurism.com/pollution-from-ships-is-causing-lightning-storms-over-ocean-shipping-lanes/" target="_blank" rel="noopener noreferrer">it has even sparked lightning storms.&nbsp;</a>There are a number of ways that people are looking to combat this serious issue. An obvious way in which pollution can be battled is through legislation. China is taking this effort seriously,<a href="https://futurism.com/its-official-china-is-launching-a-war-on-pollution/" target="_blank" rel="noopener noreferrer"> as&nbsp; 1.1 million people die in the country annually </a>as a result of pollution. China is also investing 3 trillion yuan ($440 billion) in incentive programs and credit mechanisms for businesses that will shift priorities toward producing less emissions.</p>
+<p>In addition to government-backed programs, there are some who are using technological innovation to fight the battle:<a href="https://futurism.com/a-tiny-device-can-transform-air-pollution-into-usable-fuel/" target="_blank" rel="noopener noreferrer"> One group of scientists has even developed a device </a>that turns air pollution into usable fuel. If we&rsquo;re going to get serious about fighting pollution on a global scale, we&rsquo;ll need more intensive methods. It is not a slow-moving issue that can be thought of occasionally and worked at on a small scale. It is a problem that&rsquo;s already proven deadly, requiring direct and immediate action.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/pollution-deaths-worldwide/" target="_blank">Study: 1 in 6 Deaths Worldwide Caused by Pollution in 2015</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-21T21:54:08+00:00</updated>
+	<author><name>Chelsea Gohd</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-21T21:54:08+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="earth &amp; energy"/>
+
+	<category term="air pollution"/>
+
+	<category term="mortality"/>
+
+	<category term="pollution"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443216</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uom-efs102017.php" rel="alternate" type="text/html"/>
+	<title type="html">Electricity from shale gas vs. coal: Lifetime toxic releases from coal much higher</title>
+	<summary type="html"><![CDATA[<p>(University of Michigan) Despite widespread concern about potential human health impacts from hydrau...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Michigan</i>) Despite widespread concern about potential human health impacts from hydraulic fracturing, the lifetime toxic chemical releases associated with coal-generated electricity are 10 to 100 times greater than those from electricity generated with natural gas obtained via fracking, according to a new University of Michigan study.</p>]]></content>
+	<updated>2017-10-23T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-23T04:00:00+00:00</updated>
+		<title>EurekAlert! - Atmospheric Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443137</id>
+	<link href="https://inhabitat.com/study-finds-pollution-is-more-deadly-than-war-natural-disasters-and-disease" rel="alternate" type="text/html"/>
+	<title type="html">Study finds pollution is more deadly than war, natural disasters, and disease</title>
+	<summary type="html"><![CDATA[<p>Environmental pollution isn&rsquo;t just inconvenient, it&rsquo;s also deadly. Every year, more people are kill...</p>]]></summary>
+	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/study-finds-pollution-more-deadly-than-all-war-and-violence-1-889x592.jpg" alt="AIDS, malaria, tuberculosis, environment, pollution, Lancet medical journal, science, News, environmental destruction, air pollution, war, violence, poverty,"></p>
+<p>Environmental <a href="https://inhabitat.com/tag/pollution" rel="noopener noreferrer" target="_blank">pollution</a> isn&rsquo;t just inconvenient, it&rsquo;s also deadly. Every year, more people are killed by pollutants &mdash; from toxic air to contaminated water &mdash; than by all <a href="https://inhabitat.com/tag/war" rel="noopener noreferrer" target="_blank">war</a> and violence. Pollution is also responsible for more deaths than AIDS, tuberculosis, and malaria combined. This disturbing revelation was revealed in a new study published in the <a href="https://phys.org/journals/lancet/" rel="noopener noreferrer" target="_blank">Lancet </a>medical journal. Scientists determined that one out of every six premature deaths (about 9 million in 2015) results from pollution; and while life is more important than money, these deaths cause $4.6 trillion in annual losses or about 6.2 percent of the world&rsquo;s economy.</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/study-finds-pollution-more-deadly-than-all-war-and-violence-1-889x592.jpg" alt="AIDS, malaria, tuberculosis, environment, pollution, Lancet medical journal, science, News, environmental destruction, air pollution, war, violence, poverty,"></p>
+<p>Epidemiologist Philip Landrigan, lead author and Dean of global health at the Icahn School of Medicine in New York, said, &ldquo;There&rsquo;s been a lot of study of pollution, but it&rsquo;s never received the resources or level of attention as, say, AIDS or <a href="https://inhabitat.com/tag/climate-change" rel="noopener noreferrer" target="_blank">climate change.</a>&rdquo; Landrigan added that pollution is a &ldquo;massive problem&rdquo; few truly comprehend, as what they&rsquo;re witnessing are &ldquo;scattered bits of it.&rdquo; This is the first study of its kind to take into account data on all <a href="https://inhabitat.com/tag/disease" rel="noopener noreferrer" target="_blank">diseases</a> and death caused by pollution combined.</p>
+<p>According to the <a href="https://phys.org/journals/lancet/" rel="noopener noreferrer" target="_blank">study</a>, developing countries &mdash; primarily in Asia and <a href="https://inhabitat.com/tag/Africa" rel="noopener noreferrer" target="_blank">Africa</a> &mdash; are putting the most people at risk due to a lack of air and soil pollution monitoring systems. In 2015, one out of four (2.5 million) premature deaths in <a href="https://inhabitat.com/tag/India" rel="noopener noreferrer" target="_blank">India</a> and one out of five (1.8 million) premature deaths in China were caused by pollution-related illness. &ldquo;In the West, we got the lead out of the gasoline, so we thought lead was handled. We got rid of the burning rivers, cleaned up the worst of the toxic sites. And then all of those discussions went into the background,&rdquo; said Richard Fuller, head of the Pure Earth and one of the 47 scientists who contributed to the report. In <a href="https://inhabitat.com/tag/Bangladesh" rel="noopener noreferrer" target="_blank">Bangladesh</a>, Pakistan, North Korea, South Sudan and Haiti, nearly one-fifth of premature deaths are pollution-related.</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/study-finds-pollution-more-deadly-than-all-war-and-violence-3-889x582.jpg" alt="AIDS, malaria, tuberculosis, environment, pollution, Lancet medical journal, science, News, environmental destruction, air pollution, war, violence, poverty,"></p>
+<p>Based on this information, it should not come as a surprise that the poorest suffer most from pollution-related illness. 92 percent of sickness related to <a href="https://inhabitat.com/tag/environment" rel="noopener noreferrer" target="_blank">environmental</a> toxicity occurs in low- or middle-income countries. <a href="https://phys.org/news/2017-10-world-pollution-deadlier-wars-disasters.html" rel="noopener noreferrer" target="_blank">Phys</a> reports, &ldquo;Environmental regulations in those countries tend to be weaker, and industries lean on outdated technologies and dirtier fuels.&rdquo; Fuller noted that this safety of the public is being compromised for industrial growth, which has negative repercussions. He said, &ldquo;What people don&rsquo;t realize is that pollution does damage to <a href="https://inhabitat.com/tag/economy" rel="noopener noreferrer" target="_blank">economies</a>. People who are sick or dead cannot contribute to the economy. They need to be looked after.&rdquo;</p>
+<p>To determine the global impact of <a href="https://inhabitat.com/tag/air-pollution" rel="noopener noreferrer" target="_blank">pollution</a>, the study&rsquo;s authors used methods outlined by the U.S. Environmental Protection Agency for assessing field data from soil tests, in addition to air and water pollution data from the Global Burden of Disease. Though 9 million pollution-related deaths is a &ldquo;conservative&rdquo; estimate, it is still 15 times the number of people killed in war or other forms of violence, and six times the number killed in <a href="https://inhabitat.com/tag/green-transportation" rel="noopener noreferrer" target="_blank">road accidents</a>.</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/study-finds-pollution-more-deadly-than-all-war-and-violence-2-889x591.jpg" alt="AIDS, malaria, tuberculosis, environment, pollution, Lancet medical journal, science, News, environmental destruction, air pollution, war, violence, poverty,"></p>
+<p>Ernesto Sanchez-Triana, the&nbsp;lead environmental specialist at the World Bank, said, &ldquo;The relationship between pollution and <a href="https://inhabitat.com/tag/poverty" rel="noopener noreferrer" target="_blank">poverty</a> is very clear. And controlling pollution would help us address many other problems, from climate change to <a href="https://inhabitat.com/tag/malnutrition" rel="noopener noreferrer" target="_blank">malnutrition</a>. The linkages can&rsquo;t be ignored.&rdquo;</p>
+<p><big><a href="https://phys.org/journals/lancet/" rel="noopener noreferrer" target="_blank">+ Lancet</a><big></big></big></p>
+<p>Via <a href="https://phys.org/news/2017-10-world-pollution-deadlier-wars-disasters.html" rel="noopener noreferrer" target="_blank">Phys</a></p>
+<p><em>Images via <a href="http://www.pixabay.com" rel="noopener noreferrer" target="_blank">Pixabay</a></em></p><div>
+<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=6nLhAXInjQU:On6AMVaTYQg:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=6nLhAXInjQU:On6AMVaTYQg:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
+</div>]]></content>
+	<updated>2017-10-23T10:38:13+00:00</updated>
+	<author><name>Amanda Froelich</name></author>
+	<source>
+		<id>https://inhabitat.com</id>
+		<link rel="self" href="https://inhabitat.com"/>
+		<updated>2017-10-23T10:38:13+00:00</updated>
+		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
+
+	<category term="africa"/>
+
+	<category term="poverty"/>
+
+	<category term="environment"/>
+
+	<category term="air quality"/>
+
+	<category term="india"/>
+
+	<category term="climate change"/>
+
+	<category term="global warming"/>
+
+	<category term="pollution"/>
+
+	<category term="green transportation"/>
+
+	<category term="air pollution"/>
+
+	<category term="bangladesh"/>
+
+	<category term="water issues"/>
+
+	<category term="economy"/>
+
+	<category term="war"/>
+
+	<category term="science"/>
+
+	<category term="news"/>
+
+	<category term="environmental destruction"/>
+
+	<category term="disease"/>
+
+	<category term="malnutrition"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443238</id>
+	<link href="https://phys.org/news/2017-10-crops-evolved-millennia-earlier-thought.html" rel="alternate" type="text/html"/>
+	<title type="html">Crops evolved 10 millennia earlier than thought</title>
+	<summary type="html"><![CDATA[<p>Ancient hunter-gatherers began to systemically affect the evolution of crops up to thirty thousand y...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Ancient hunter-gatherers began to systemically affect the evolution of crops up to thirty thousand years ago &ndash; around ten millennia before experts previously thought &ndash; according to new research by the University of Warwick.</p>]]></content>
+	<updated>2017-10-23T12:53:58+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-23T12:53:58+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/cropsevolved.jpg"/>
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-05-05:/390122</id>
@@ -1321,309 +1585,6 @@ NASA scientists have found more evidence that Saturn...</p>]]></summary>
 		<link rel="self" href="https://www.linux.com/feeds/rss"/>
 		<updated>2017-04-04T13:30:56+00:00</updated>
 		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-18:/440981</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/ciot-pba101817.php" rel="alternate" type="text/html"/>
-	<title type="html">Physics boosts artificial intelligence methods</title>
-	<summary type="html"><![CDATA[<p>(California Institute of Technology) Researchers from Caltech and the University of Southern Califor...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>California Institute of Technology</i>) Researchers from Caltech and the University of Southern California (USC) report the first application of quantum computing to a physics problem.</p>]]></content>
-	<updated>2017-10-18T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-18T04:00:00+00:00</updated>
-		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-18:/441011</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171018133230.htm" rel="alternate" type="text/html"/>
-	<title type="html">Duplications of noncoding DNA may have affected evolution of human-specific traits</title>
-	<summary type="html"><![CDATA[<p>Duplications of large segments of noncoding DNA in the human genome may have contributed to the emer...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Duplications of large segments of noncoding DNA in the human genome may have contributed to the emergence of differences between humans and nonhuman primates, according to new results. Identifying these duplications, which include regulatory sequences, and their effect on traits and behavior may help scientists explain genetic contributions to human disease.</p>]]></content>
-	<updated>2017-10-18T17:32:30+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-18T17:32:30+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-18:/440630</id>
-	<link href="https://phys.org/news/2017-10-mission-mars-oxygen-plasma-technology.html" rel="alternate" type="text/html"/>
-	<title type="html">A mission to Mars could make its own oxygen via plasma technology</title>
-	<summary type="html"><![CDATA[<p>Plasma technology could hold the key to creating a sustainable oxygen supply on Mars, a new study ha...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Plasma technology could hold the key to creating a sustainable oxygen supply on Mars, a new study has found.</p>]]></content>
-	<updated>2017-10-18T11:34:42+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-18T11:34:42+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="plasma physics"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-18:/440673</id>
-	<link href="https://phys.org/news/2017-10-quantum-computingbreaking-qubit-simulation-barrier.html" rel="alternate" type="text/html"/>
-	<title type="html">Quantum computing—breaking through the 49 qubit simulation barrier</title>
-	<summary type="html"><![CDATA[<p>Quantum computing is at the threshold of tackling important problems that cannot be efficiently or p...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Quantum computing is at the threshold of tackling important problems that cannot be efficiently or practically computed by other, more classical means. Getting past this threshold will require us to build, test and operate reliable quantum computers with 50 or more qubits.</p>]]></content>
-	<updated>2017-10-18T12:10:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-18T12:10:03+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="quantum physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/3-quantumcompu.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-18:/440609</id>
-	<link href="https://phys.org/news/2017-10-chemists-drug-synthesis-method.html" rel="alternate" type="text/html"/>
-	<title type="html">Chemists develop a promising drug synthesis method</title>
-	<summary type="html"><![CDATA[<p>Scientists from RUDN University with their colleagues from Yaroslavl have developed a new way to syn...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Scientists from RUDN University with their colleagues from Yaroslavl have developed a new way to synthesize 1,2,4-oxadiazole derivatives used in many drugs. 1,2,4-oxadiazoles include ataluren, the active ingredient of a drug used in a treatment for genetic disorders. The results of the work are published in Tetrahedron Letters.</p>]]></content>
-	<updated>2017-10-18T09:57:36+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-18T09:57:36+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="materials science"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/59e632c5e9f72.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-18:/440488</id>
-	<link href="https://www.livescience.com/60707-what-is-synesthesia.html" rel="alternate" type="text/html"/>
-	<title type="html">What Is Synesthesia?</title>
-	<summary type="html"><![CDATA[<p>Synesthesia is a neurological condition that causes the brain to process data in the form of several...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Synesthesia is a neurological condition that causes the brain to process data in the form of several senses at once; for example, hearing sounds while also seeing them as colorful swirls.</p>]]></content>
-	<updated>2017-10-18T05:24:31+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.livescience.com</id>
-		<link rel="self" href="https://www.livescience.com"/>
-		<updated>2017-10-18T05:24:31+00:00</updated>
-		<title>LiveScience.com</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="https://img.purch.com/rc/160x100/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5Ni8xNjMvb3JpZ2luYWwvc3luZXN0aGVzaWEuanBn"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-18:/440459</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171017091913.htm" rel="alternate" type="text/html"/>
-	<title type="html">Schizophrenia disrupts the brain's entire communication system, researchers say</title>
-	<summary type="html"><![CDATA[<p>Some 40 years since CT scans first revealed abnormalities in the brains of schizophrenia patients, i...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Some 40 years since CT scans first revealed abnormalities in the brains of schizophrenia patients, international scientists say the disorder is a systemic disruption to the brain's entire communication system. The study sets the stage for future research on the debilitating mental illness that affects more than 21 million people worldwide. It is the largest analysis of 'white matter' differences in a psychiatric disorder to date.</p>]]></content>
-	<updated>2017-10-17T13:19:13+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-17T13:19:13+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171017091913-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-17:/440362</id>
-	<link href="https://www.ted.com/talks/elizabeth_wayne_we_can_hack_our_immune_cells_to_fight_cancer?rss=" rel="alternate" type="text/html"/>
-	<title type="html">We can hack our immune cells to fight cancer | Elizabeth Wayne</title>
-	<summary type="html"><![CDATA[<p>After decades of research and billions spent in clinical trials, we still have a problem with cancer...</p>]]></summary>
-	<content type="html"><![CDATA[<p>After decades of research and billions spent in clinical trials, we still have a problem with cancer drug delivery, says biomedical engineer Elizabeth Wayne. Chemotherapy kills cancer -- but it kills the rest of your body, too. Instead of using human design to fight cancer, why not use nature's? In this quick talk, Wayne explains how her lab is creating nanoparticle treatments that bind to immune cells, your body's first responders, to precisely target cancer cells without damaging healthy ones.<img src="http://feeds.feedburner.com/~r/TEDTalks_video/~4/GNpUOtjnbqQ" height="1" width="1" alt=""></p>]]></content>
-	<updated>2017-10-17T14:00:55+00:00</updated>
-	<author><name>Elizabeth Wayne</name></author>
-	<source>
-		<id>https://www.ted.com/talks</id>
-		<link rel="self" href="https://www.ted.com/talks"/>
-		<updated>2017-10-17T14:00:55+00:00</updated>
-		<title>TEDTalks (video)</title></source>
-
-	<category term="higher education"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/87473a5991f9829bb77f36984771788260a6e306_2880x1620.jpg?h=360&amp;origin=rss&amp;w=480"/>
-
-	<link rel="enclosure" 
-		type="video/mp4" 
-		length="19266381"
-		href="http://feedproxy.google.com/~r/TEDTalks_video/~5/OiOUMC7U0q8/ElizabethWayne_2017U.mp4"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-17:/440266</id>
-	<link href="https://www.brainpickings.org/2017/10/17/richard-feynman-arline-letter/" rel="alternate" type="text/html"/>
-	<title type="html">Love After Life: Nobel-Winning Physicist Richard Feynman’s Extraordinary Letter to His Departed Wife</title>
-	<summary type="html"><![CDATA[<p>Where the hard edge of physics meets the vulnerable metaphysics of the human heart. 
-
-Few people hav...</p>]]></summary>
-	<content type="html"><![CDATA[<h3>Where the hard edge of physics meets the vulnerable metaphysics of the human heart. </h3>
-
-<p><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img width="320" height="498" src="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2016/05/richardfeynman_gleick.jpg?fit=320%2C498&amp;ssl=1" alt="Love After Life: Nobel-Winning Physicist Richard Feynman&rsquo;s Extraordinary Letter to His Departed Wife" srcset="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2016/05/richardfeynman_gleick.jpg?w=321&amp;ssl=1 321w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2016/05/richardfeynman_gleick.jpg?resize=240%2C374&amp;ssl=1 240w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2016/05/richardfeynman_gleick.jpg?resize=320%2C498&amp;ssl=1 320w" sizes="(max-width: 320px) 100vw, 320px"></a></p><p>Few people have enchanted the popular imagination with science more powerfully and lastingly than physicist <strong>Richard Feynman</strong> (May 11, 1918&ndash;February 15, 1988) &mdash; the &ldquo;Great Explainer&rdquo; with the uncommon gift for bridging the essence of science with the most human and humane dimensions of life.</p>
-<p>Several months after Feynman&rsquo;s death, while working on what would become <a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><strong><em>Genius: The Life and Science of Richard Feynman</em></strong></a> (<a href="http://www.worldcat.org/title/genius-the-life-and-science-of-richard-feynman/oclc/25316182&amp;referer=brief_results" target="_blank" rel="noopener noreferrer"><em>public library</em></a>) &mdash; the masterly biography plumbing <a href="https://www.brainpickings.org/2016/05/11/richard-feynman-genius-james-gleick/" rel="noopener noreferrer" target="_blank">the wellspring of Feynman&rsquo;s genius</a> &mdash; James Gleick discovered something of arresting strangeness and splendor. </p>
-<p>&ldquo;My heart stopped,&rdquo; Gleick tells me. &ldquo;I have never had an experience like that as a biographer, before or since.&rdquo;</p>
-<p>In a mass of unread papers sent to him by Feynman&rsquo;s widow, Gweneth, Gleick found a letter that discomposed his most central understanding of Feynman&rsquo;s character. A generation after computing pioneer Alan Turing <a href="https://www.brainpickings.org/2017/02/17/alan-turing-morcom-letters/" rel="noopener noreferrer" target="_blank">tussled with the binary code of body and spirit in the wake of loss</a>, Feynman &mdash; a scientist perhaps <a href="https://www.brainpickings.org/2013/01/01/ode-to-a-flower-richard-feynman/" rel="noopener noreferrer" target="_blank">uncommonly romantic</a> yet resolutely rational and unsentimental in his reverence for the indomitable laws of physics that tend toward decay &mdash; penned a remarkable letter to a physical nonentity that was, for the future Nobel-winning physicist, the locus of an irrepressible metaphysical reality. </p>
-<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_young.jpg?resize=355%2C630&amp;ssl=1" alt="" srcset="https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_young.jpg?w=355&amp;ssl=1 355w, https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_young.jpg?resize=240%2C426&amp;ssl=1 240w, https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_young.jpg?resize=320%2C568&amp;ssl=1 320w" sizes="(max-width: 355px) 100vw, 355px" data-recalc-dims="1"></a><figcaption>Richard Feynman as a youth</figcaption></figure>
-<p>In high school, the teenage Richard spent summers at the beach in his native Far Rockaway. There, he grew besotted with a striking girl named Arline &mdash; a girl he knew he would marry. Both complement and counterpoint to his own nature, Arline met Richard&rsquo;s inclination for science with ardor for philosophy and art. (The art class he took just to be near her would lay the foundation for his <a href="https://www.brainpickings.org/2013/01/17/richard-feynman-ofey-sketches-drawings/" rel="noopener noreferrer" target="_blank">little-known, lifelong passion for drawing</a>.) By his junior year, Richard proposed. Arline accepted. With the eyes of young love, they peered into a shared future of infinite possibility for bliss. </p>
-<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline2.jpg?resize=419%2C689&amp;ssl=1" alt="" srcset="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline2.jpg?w=419&amp;ssl=1 419w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline2.jpg?resize=240%2C395&amp;ssl=1 240w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline2.jpg?resize=320%2C526&amp;ssl=1 320w" sizes="(max-width: 419px) 100vw, 419px" data-recalc-dims="1"></a><figcaption>Richard and Arline, 1940s</figcaption></figure>
-<p>But they were abruptly grounded when a mysterious malady began afflicting Arline with inexplicable symptoms &mdash; a lump would appear and disappear on her neck, fevers would roil over her with no apparent cause. Eventually, she was hospitalized for what was believed to be typhoid. </p>
-<p>Gleick writes:</p>
-<blockquote><p>Feynman began to glimpse the special powerlessness that medical uncertainty can inflict on a scientific person. He had come to believe that the scientific way of thinking brought a measure of calmness and control in difficult situations &mdash; but not now.</p></blockquote>
-<p>Just as Feynman began bombarding the doctors with questions that steered them toward a closer approximation of the scientific method, Arline began to recover just as mysteriously and unpredictably as she had fallen ill. But the respite was only temporary. The symptoms returned, still shorn of a concrete explanation but now unambiguously pointing toward the terminal &mdash; a prognosis Arline&rsquo;s doctors kept from her. Richard refused to go along with the deception &mdash; he and Arline had promised each other to face life with unremitting truthfulness &mdash; but he was forced to calibrate his commitment to circumstance. </p>
-<p>Gleick writes:</p>
-<blockquote><p>His parents, Arline&rsquo;s parents, and the doctors all urged him not to be so cruel as to tell a young woman she was dying. His sister, Joan, sobbing, told him he was stubborn and heartless. He broke down and bowed to tradition. In her room at Farmingdale Hospital, with her parents at her side, he confirmed that she had glandular fever. Meanwhile, he started carrying around a letter &mdash; a &ldquo;goodbye love letter,&rdquo; as he called it&mdash;that he planned to give her when she discovered the truth. He was sure she would never forgive the unforgivable lie. </p>
-<p>He did not have long to wait. Soon after Arline returned home from the hospital she crept to the top of the stairs and overheard her mother weeping with a neighbor down in the kitchen. When she confronted Richard &mdash; his letter snug in his pocket &mdash; he told her the truth, handed her the letter, and asked her to marry him.</p></blockquote>
-<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?resize=680%2C454&amp;ssl=1" alt="" srcset="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?w=961&amp;ssl=1 961w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?resize=240%2C160&amp;ssl=1 240w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?resize=320%2C213&amp;ssl=1 320w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline1.jpg?resize=600%2C400&amp;ssl=1 600w" sizes="(max-width: 680px) 100vw, 680px" data-recalc-dims="1"></a><figcaption>Arline and Richard, 1940s</figcaption></figure>
-<p>Marriage, however, proved to be a towering practical problem &mdash; Princeton, where Feynman was now pursuing a Ph.D., threatened to withdraw the fellowships funding his graduate studies if he were to wed, for the university considered the emotional and pragmatic responsibilities of marriage a grave threat to academic discipline. </p>
-<p>Just as Feynman began considering leaving Princeton, a diagnosis detonated the situation &mdash; Arline had contracted a rare form of tuberculosis, most likely from unpasteurized milk. </p>
-<p>At first, Feynman was relieved that the grim alternative options of Hodgkin&rsquo;s disease and incurable cancers like lymphoma had been ruled out. But he was underestimating, or perhaps misunderstanding, the gravity of tuberculosis &mdash; the very disease which had <a href="https://www.brainpickings.org/2017/02/17/alan-turing-morcom-letters/" rel="noopener noreferrer" target="_blank">taken the love of Alan Turing&rsquo;s life</a> and which, during its two-century heyday, had claimed more lives around the globe than any other malady and all wars combined. At the time of Arline&rsquo;s diagnosis in 1941, immunology was in its infancy, the antibiotic treatment of bacterial infections practically nonexistent, and the first successful medical application of penicillin a year away. Tuberculosis was a death sentence, even if it was a slow death with intervals of remission &mdash; a fact Richard and Arline faced with an ambivalent mix of brave lucidity and hope against hope. </p>
-<p>Meanwhile, Richard&rsquo;s parents met the prospect of his marriage with bristling dread. His mother, who believed he was marrying Arline out of pity rather than love, admonished him that he would be putting his health and his very life in danger, and coldly worried about how the stigma attached to tuberculosis would impact her brilliant young son&rsquo;s reputation. &ldquo;I was surprised to learn such a marriage is not unlawful,&rdquo; she scoffed unfeelingly. &ldquo;It ought to be.&rdquo;</p>
-<p>But Richard was buoyed by love &mdash; a love so large and luminous that he found himself singing aloud one day as he was arranging Arline&rsquo;s transfer to a sanatorium. Determined to go through with the wedding, he wrote to his beloved:</p>
-<blockquote><p>I guess maybe it is like rolling off of a log &mdash; my heart is filled again &amp; I&rsquo;m choked with emotions &mdash; and love is so good &amp; powerful &mdash; it&rsquo;s worth preserving &mdash; I know nothing can separate us &mdash; we&rsquo;ve stood the tests of time and our love is as glorious now as the day it was born &mdash; dearest riches have never made people great but love does it every day &mdash; we&rsquo;re not little people &mdash; we&rsquo;re giants &hellip; I know we both have a future ahead of us &mdash; with a world of happiness &mdash; now &amp; forever.</p></blockquote>
-<p>On June 29, 1942, they promised each other eternity. </p>
-<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/richard_arline4.jpg?resize=535%2C883&amp;ssl=1" alt="" srcset="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/richard_arline4.jpg?w=535&amp;ssl=1 535w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/richard_arline4.jpg?resize=240%2C396&amp;ssl=1 240w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/richard_arline4.jpg?resize=320%2C528&amp;ssl=1 320w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><figcaption>Richard and Arline on their wedding day</figcaption></figure>
-<p>Gleick writes:</p>
-<blockquote><p>He borrowed a station wagon from a Princeton friend, outfitted it with mattresses for the journey, and picked up Arline in Cedarhurst. She walked down her father&rsquo;s hand-poured concrete driveway wearing a white dress. They crossed New York Harbor on the Staten Island ferry &mdash; their honeymoon ship. They married in a city office on Staten Island, in the presence of neither family nor friends, their only witnesses two strangers called in from the next room. Fearful of contagion, Richard did not kiss her on the lips. After the ceremony he helped her slowly down the stairs, and onward they drove to Arline&rsquo;s new home, a charity hospital in Browns Mills, New Jersey.</p></blockquote>
-<p>Meanwhile, WWII was reaching its crescendo of destruction, dragging America into the belly of death with the attack on Pearl Harbor. Now one of the nation&rsquo;s most promising physicists, Feynman was recruited to work on what would become <a href="https://www.brainpickings.org/2011/10/14/richard-feynman-graphic-novel-biography-ottoviani/" rel="noopener noreferrer" target="_blank">the Manhattan Project</a> and soon joined the secret laboratory in Los Alamos. </p>
-<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_losalamos.jpg?resize=680%2C787&amp;ssl=1" alt="" srcset="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_losalamos.jpg?w=700&amp;ssl=1 700w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_losalamos.jpg?resize=240%2C278&amp;ssl=1 240w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_losalamos.jpg?resize=320%2C370&amp;ssl=1 320w, https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_losalamos.jpg?resize=600%2C694&amp;ssl=1 600w" sizes="(max-width: 680px) 100vw, 680px" data-recalc-dims="1"></a><figcaption>Feynman&rsquo;s Los Alamos badge</figcaption></figure>
-<p>Arline entered the nearby Albuquerque sanatorium, from where she wrote him letters in code &mdash; for the sheer fun of it, because she knew how he cherished puzzles, but the correspondence alarmed the military censors at the laboratory&rsquo;s Intelligence Office. Tasked with abating any breaches to the secrecy of the operation, they cautioned Feynman that coded messages were against the rules and demanded that his wife include a key in each letter to help them decipher it. This only amplified Arline&rsquo;s sense of fun &mdash; she began cutting holes into her letters, covering passages with ink, and even mail-ordered a jigsaw puzzle kit with which to cut up the pages and completely confound the agents. </p>
-<p>But the levity masked the underlying darkness which Richard and Arline tried so desperately to evade &mdash; Arline was dying. As her body failed, he steadied himself to her spirit:</p>
-<blockquote><p>You are a strong and beautiful woman. You are not always as strong as other times but it rises &amp; falls like the flow of a mountain stream. I feel I am a reservoir for your strength &mdash; without you I would be empty and weak&hellip; I find it much harder these days to write these things to you.</p></blockquote>
-<p>In every single letter, he told her that he loved her. <em>&ldquo;I have a serious affliction: loving you forever,&rdquo;</em> he wrote. </p>
-<figure><a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><img src="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline3.jpg?resize=600%2C526&amp;ssl=1" alt="" srcset="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline3.jpg?w=600&amp;ssl=1 600w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline3.jpg?resize=240%2C210&amp;ssl=1 240w, https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2017/10/feynman_arline3.jpg?resize=320%2C281&amp;ssl=1 320w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></a><figcaption>Richard and Arline at the Albuquerque sanatorium</figcaption></figure>
-<p>In early 1945, two and a half years into their marriage, Richard and Arline made love for the first time. He had been too afraid of harming her frail health somehow, she too afraid of infecting him with the deadly bacterium consuming her. But Arline insisted that this pent up desire could no longer be contained and assured Richard that this would only bring them closer &mdash; to each other, and to the life they had so lovingly dreamt up for themselves:</p>
-<blockquote><p>I&rsquo;ll always be your sweetheart &amp; first love &mdash; besides a devoted wife &mdash; we&rsquo;ll be proud parents too&hellip; I am proud of you always Richard &ndash;[you are] a good husband, and lover, &amp; well, coach, I&rsquo;ll show you what I mean Sunday.</p></blockquote>
-<p>But heightened as their hopes were by this new dimension of shared experience, Arline&rsquo;s health continued to plummet. Her weight dropped to eighty-four pounds. Exasperated by the helplessness of medicine, which Feynman had come to see not as a manifestation but as a mutilation of the scientific method, he invested all hope in an experimental drug made of mold growths. &ldquo;Keep hanging on,&rdquo; he exhorted Arline. &ldquo;Nothing is certain. We lead a charmed life.&rdquo; She began spitting blood. </p>
-<p>At twenty-seven, on the precipice of a brilliant scientific career, he was terminally in love. </p>
-<p>On June 16, 1945, while working at the computing room at Los Alamos, Feynman received a call from the sanatorium that Arline was dying. He borrowed a colleague&rsquo;s car and sped to the hospital, where he found her immobile, her eyes barely tracing his movement. Early in his scientific career, he had been animated by the nature of time. Now, hours stretched and contracted as he sat at her deathbed, until one last small breath tolled the end at 9:21PM.</p>
-<p>The wake of loss has a way of tranquilizing grief with the pressing demands of practical arrangements &mdash; a tranquilizer we take willingly, almost gratefully. The following morning, Feynman arranged for his beloved&rsquo;s cremation, methodically collected her personal belongings, and on the final page of the small spiral notebook in which she recorded her symptoms he wrote with scientific remove: &ldquo;June 16 &mdash; Death.&rdquo;</p>
-<p>And so we arrive at Gleick&rsquo;s improbable discovery in that box of letters &mdash; improbable because of the extreme rationality with which Feynman hedged against even the slightest intimation of metaphysical conjectures untestable by science and unprovable by reason. During his courtship of Arline, he had been vexed by her enthusiasm for Descartes, whose &ldquo;proof&rdquo; of God&rsquo;s perfection he found intellectually lazy and unbefitting of Descartes&rsquo;s reputation as <a href="https://www.brainpickings.org/2016/03/31/descartes-rules-for-the-direction-of-the-mind/" rel="noopener noreferrer" target="_blank">a champion of reason</a>. He had impishly countered Arline&rsquo;s insistence that there are two sides to everything by cutting a piece of paper and half-twisting it into a M&ouml;bius strip, the ends pasted together to render a surface with just one side. </p>
-<p>Everything that appeared mystical, Feynman believed, was simply an insufficiently explained mystery with a physical answer not yet found. Even Arline&rsquo;s dying hour had offered testing ground for conviction. Puzzlingly, the clock in the room had stopped at exactly 9:21PM &mdash; the time of death. Aware of how this bizarre occurrence could foment the mystical imagination in unscientific minds, Feynman reasoned for an explanation. Remembering that he had repaired the clock multiple times over the course of Arline&rsquo;s stay at the sanatorium, he realized that the instrument&rsquo;s unwieldy mechanism must have choked when the nurse picked it up in the low evening light to see and record the time. </p>
-<p>How astonishing and how touchingly human, then, that Feynman penned the letter Gleick found in the box forty-two years later &mdash; a letter he wrote to Arline in October of 1946, 488 days after her death:</p>
-<blockquote><p>D&rsquo;Arline,</p>
-<p>I adore you, sweetheart.</p>
-<p>I know how much you like to hear that &mdash; but I don&rsquo;t only write it because you like it &mdash; I write it because it makes me warm all over inside to write it to you.</p>
-<p>It is such a terribly long time since I last wrote to you &mdash; almost two years but I know you&rsquo;ll excuse me because you understand how I am, stubborn and realistic; and I thought there was no sense to writing.</p>
-<p>But now I know my darling wife that it is right to do what I have delayed in doing, and that I have done so much in the past. I want to tell you I love you. I want to love you. I always will love you.</p>
-<p>I find it hard to understand in my mind what it means to love you after you are dead &mdash; but I still want to comfort and take care of you &mdash; and I want you to love me and care for me. I want to have problems to discuss with you &mdash; I want to do little projects with you. I never thought until just now that we can do that. What should we do. We started to learn to make clothes together &mdash; or learn Chinese &mdash; or getting a movie projector. Can&rsquo;t I do something now? No. I am alone without you and you were the &ldquo;idea-woman&rdquo; and general instigator of all our wild adventures.</p>
-<p>When you were sick you worried because you could not give me something that you wanted to and thought I needed. You needn&rsquo;t have worried. Just as I told you then there was no real need because I loved you in so many ways so much. And now it is clearly even more true &mdash; you can give me nothing now yet I love you so that you stand in my way of loving anyone else &mdash; but I want you to stand there. You, dead, are so much better than anyone else alive.</p>
-<p>I know you will assure me that I am foolish and that you want me to have full happiness and don&rsquo;t want to be in my way. I&rsquo;ll bet you are surprised that I don&rsquo;t even have a girlfriend (except you, sweetheart) after two years. But you can&rsquo;t help it, darling, nor can I &mdash; I don&rsquo;t understand it, for I have met many girls and very nice ones and I don&rsquo;t want to remain alone &mdash; but in two or three meetings they all seem ashes. You only are left to me. You are real.</p>
-<p>My darling wife, I do adore you.</p>
-<p>I love my wife. My wife is dead.</p>
-<p>Rich.</p></blockquote>
-<p>And then, with the sole defibrillator for heartache we have &mdash; humor &mdash; Feynman adds:</p>
-<blockquote><p>PS Please excuse my not mailing this &mdash; but I don&rsquo;t know your new address.</p></blockquote>
-<p>Complement this particular portion of the altogether magnificent <a href="http://www.amazon.com/Genius-Life-Science-Richard-Feynman/dp/0679747044/?tag=braipick-20" target="_blank" rel="noopener noreferrer"><strong><em>Genius: The Life and Science of Richard Feynman</em></strong></a> with Rachel Carson&rsquo;s <a href="http://localhost/" rel="noopener noreferrer" target="_blank">stunning deathbed farewell to her beloved</a> and Seneca on <a href="https://www.brainpickings.org/2017/05/02/seneca-consolation-to-helvia/" rel="noopener noreferrer" target="_blank">resilience in the face of loss</a>, then revisit Feynman on <a href="https://www.brainpickings.org/2015/05/11/richard-feynman-science-religion/" rel="noopener noreferrer" target="_blank">science and religion</a> and <a href="https://www.brainpickings.org/2013/08/08/richard-feynman-on-the-meaning-of-life/" rel="noopener noreferrer" target="_blank">the meaning of life</a>.</p>
-<h3>donating = loving</h3><p>Bringing you (ad-free) Brain Pickings takes me hundreds of hours each month. If you find any joy and stimulation here, please consider becoming a Supporting Member with a recurring monthly <a href="https://www.brainpickings.org/donate/" rel="noopener noreferrer" target="_blank">donation</a> of your choosing, between a cup of tea and a good dinner.</p>
-
-
-
-<h3>newsletter</h3>
-<p>Brain Pickings has a free weekly newsletter. It comes out on Sundays and offers the week&rsquo;s most unmissable reads. Here&rsquo;s <a href="http://us2.campaign-archive1.com/?u=13eb080d8a315477042e0d5b1&amp;id=de29ba37e7&amp;e=b2dbad0745" rel="noopener noreferrer" target="_blank">what to expect</a>. Like? <a href="https://www.brainpickings.org/newsletter/" rel="noopener noreferrer" target="_blank">Sign up.</a></p><img src="http://feeds.feedburner.com/~r/brainpickings/rss/~4/m_1lCjisI2g" height="1" width="1" alt="">]]></content>
-	<updated>2017-10-17T16:36:53+00:00</updated>
-	<author><name>Maria Popova</name></author>
-	<source>
-		<id>https://www.brainpickings.org</id>
-		<link rel="self" href="https://www.brainpickings.org"/>
-		<updated>2017-10-17T16:36:53+00:00</updated>
-		<title>Brain Pickings</title></source>
-
-	<category term="culture"/>
-
-	<category term="science"/>
-
-	<category term="james gleick"/>
-
-	<category term="letters"/>
-
-	<category term="love"/>
-
-	<category term="richard feynman"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-17:/440271</id>
-	<link href="http://www.thehindu.com/sci-tech/science/whale-behaviour-linked-to-brain-size/article19877612.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication" rel="alternate" type="text/html"/>
-	<title type="html">Whale behaviour linked to brain size</title>
-	<summary type="html"><![CDATA[<p>Sperm whale has the largest brain on Earth</p>]]></summary>
-	<content type="html"><![CDATA[<p>Sperm whale has the largest brain on Earth</p>]]></content>
-	<updated>2017-10-17T16:35:38+00:00</updated>
-	<author><name>Reuters</name></author>
-	<source>
-		<id>http://www.thehindu.com/</id>
-		<link rel="self" href="http://www.thehindu.com/"/>
-		<updated>2017-10-17T16:35:38+00:00</updated>
-		<title>The Hindu - Sci-Tech</title></source>
-
-	<category term="science"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-17:/440245</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171016122153.htm" rel="alternate" type="text/html"/>
-	<title type="html">Learning during development is regulated by an unexpected brain region</title>
-	<summary type="html"><![CDATA[<p>Half a century of research on how the brain learns to integrate visual inputs from the two eyes has ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Half a century of research on how the brain learns to integrate visual inputs from the two eyes has provided important insights in critical period regulation, leading to the conclusion that it occurs within the cortex. Scientists have now made the surprising discovery that a brain region that passes on input from the eyes to the cortex also plays a crucial role in opening the critical period of binocular vision.</p>]]></content>
-	<updated>2017-10-16T16:21:53+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-16T16:21:53+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
 
 
 </entry>
