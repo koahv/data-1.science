@@ -4,11 +4,508 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-04-04T13:30:56+00:00</updated>
+<updated>2017-10-19T16:00:06+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443026</id>
+	<link href="https://www.linuxfoundation.org/press-release/linux-foundation-debuts-community-data-license-agreement/" rel="alternate" type="text/html"/>
+	<title type="html">Linux Foundation Debuts Community Data License Agreement </title>
+	<summary type="html"><![CDATA[<p>New open data licenses make it easier for individuals and organizations of all types to share, analy...</p>]]></summary>
+	<content type="html"><![CDATA[<p><em>New open data licenses make it easier for individuals and organizations of all types to share, analyze and use data collaboratively </em></p>
+<p><strong>PRAGUE (OPEN SOURCE SUMMIT EUROPE 2017), October 23, 2017 &ndash; </strong>The Linux Foundation, the nonprofit advancing <a href="https://www.linuxfoundation.org" rel="noopener noreferrer" target="_blank">professional open source</a> management for mass collaboration, today announced the <a href="https://www.cdla.io/" rel="noopener noreferrer" target="_blank">Community Data License Agreement</a> (CDLA) family of open data agreements. In an era of expansive and often underused data, the CDLA licenses are an effort to define a licensing framework to support collaborative communities built around curating and sharing &ldquo;open&rdquo; data.</p>
+<p>Inspired by the collaborative software development models of open source software, the CDLA licenses are designed to enable individuals and organizations of all types to share data as easily as they currently share open source software code. Soundly drafted licensing models can help people form communities to assemble, curate and maintain vast amounts of data, measured in petabytes and exabytes, to bring new value to communities of all types, to build new business opportunities and to power new applications that promise to enhance safety and services.</p>
+<p>The growth of big data analytics, machine learning and artificial intelligence (AI) technologies has allowed people to extract unprecedented levels of insight from data. Now the challenge is to assemble the critical mass of data for those tools to analyze. The CDLA licenses are designed to help governments, academic institutions, businesses and other organizations open up and share data, with the goal of creating communities that curate and share data openly.</p>
+<p>For instance, if automakers, suppliers and civil infrastructure services can share data, they may be able to improve safety, decrease energy consumption and improve predictive maintenance. Self-driving cars are heavily dependent on AI systems for navigation, and need massive volumes of data to function properly. Once on the road, they can generate nearly a gigabyte of data every second. For the average car, that means two petabytes of sensor, audio, video and other data each year.</p>
+<p>Similarly, climate modeling can integrate measurements captured by government agencies with simulation data from other organizations and then use machine learning systems to look for patterns in the information. <a href="https://www.nature.com/news/how-machine-learning-could-help-to-improve-climate-forecasts-1.22503" rel="noopener noreferrer" target="_blank">It&rsquo;s estimated that</a> a single model can yield a petabyte of data, a volume that challenges standard computer algorithms, but is useful for machine learning systems. This knowledge may help improve agriculture or aid in studying extreme weather patterns.</p>
+<p>And if government agencies share aggregated data on building permits, school enrollment figures, sewer and water usage, their citizens benefit from the ability of commercial entities to anticipate their future needs and respond with infrastructure and facilities that arrive in anticipation of citizens&rsquo; demands.</p>
+<p>&ldquo;An open data license is essential for the frictionless sharing of the data that powers both critical technologies and societal benefits,&rdquo; said Jim Zemlin, Executive Director of The Linux Foundation. &ldquo;The success of open source software provides a powerful example of what can be accomplished when people come together around a resource and advance it for the common good. The CDLA licenses are a key step in that direction and will encourage the continued growth of applications and infrastructure.&rdquo;</p>
+<p><strong>CDLA Licenses Promote Sharing While Reducing Risk</strong></p>
+<p>The Linux Foundation, in collaboration with a broad set of participating organizations, drafted the CDLA licenses with the needs of companies, organizations and communities that have valuable data assets such as these to share. The intention of the licenses is for contributors and consumers of open datasets to actively use and support the contribution of data in a uniform fashion, while clarifying the terms of that sharing and reducing risk.</p>
+<p>There are two CDLA licenses: a Sharing license that encourages contributions of data back to the data community and a Permissive license that puts no additional sharing requirements on recipients or contributors of open data. Both encourage and facilitate the productive use of data. A few commercial and community implications of the licenses include:</p>
+<ul>
+<li>Data producers can share with greater clarity about what recipients may do with it. Data producers can also choose between Sharing and Permissive licenses and select the model that best aligns with their interests. In either case, data producers should enjoy the clarity of recognized terms and disclaimers of liabilities and warranties.</li>
+<li>Data communities can standardize on a license or set of licenses that provide the ability to share data on known, equal terms that balance the needs of data producers and data users. Data communities have a high degree of flexibility to add their own governance and requirements for curating data as a community, particularly around areas such as personally identifiable information.</li>
+<li>Data users who are looking for datasets to help kick off training an AI system or for any other use will have the ability to find data shared under a known license model with terms that clearly state their rights and responsibilities.</li>
+</ul>
+<p>The CDLA is data privacy agnostic and relies on the publisher and curators of the data to create their own governance structure around what data they curate and how. Each producer or curator of data will have to work through various jurisdictional requirements and legal issues.</p>
+<p><strong>Broad Support for the CDLA</strong></p>
+<p>&ldquo;Data is the oil of the 21st century,&rdquo; said Mark Radcliffe, Partner and Global Chair of the FOSS Practice Group at DLA Piper. &ldquo;Yet, the legal protection for and licensing of data is in its infancy. Many current licenses take a variety of inconsistent (and frequently incomplete) approaches to the use and licensing of data.&nbsp;The CDLA provides a valuable tool for companies and lawyers in managing the use and licensing of data.&nbsp;In the best tradition of the open source community, The Linux Foundation used a collaborative process to get the best possible agreement.&nbsp;I will be using the CDLA for many of my clients.&rdquo;</p>
+<p>&ldquo;We see the CDLA as being in the forefront of encouraging a shift in how people view data,&rdquo; said Todd Moore, Vice President, Open Technology at IBM. &ldquo;Given the growing volume of available datasets, data by itself is no longer the primary source of value. Instead, the ecosystem around the development and mining of trends and insights derived from data holds far more value for society. The CDLA provides the right platform to enable this shift in view and we are excited to be an early adopter.&rdquo;</p>
+<p>&ldquo;Data is replacing concrete as the foundation of 21<sup>st</sup> century transportation, and knitting this increasingly complex array of public and private data sources together requires new approaches to data licensing and data governance,&rdquo; said Kevin Webb, Executive Director, Open Transport Partnership. &ldquo;The CDLA provides a critical new tool to facilitate collaboration and data sharing between government and private sector innovators.&rdquo;</p>
+<p>&ldquo;Shared data licensing will do for machine learning and the next phase of information technology evolution what the GNU General Public License and the free software ethos it embodied did for primary software production over the last generation,&rdquo; said Eben Moglen, Professor of Law at Columbia Law School and founding director of the Software Freedom Law Center.&nbsp;&ldquo;Clearly expressed, well-designed rules for &lsquo;share alike&rsquo; treatment of collaboratively-produced data will enable massive cooperation and help us resist over-concentrated ownership of the resource most crucial to 21st century social and economic development.&rdquo;</p>
+<p>To learn more, go to https://www.cdla.io/.</p>
+<p><strong>About The Linux Foundation</strong></p>
+<p>The Linux Foundation is the organization of choice for the world&rsquo;s top developers and companies to build ecosystems that accelerate open technology development and commercial adoption. Together with the worldwide open source community, it is solving the hardest technology problems by creating the largest shared technology investment in history. Founded in 2000, The Linux Foundation today provides tools, training and events to scale any open source project, which together deliver an economic impact not achievable by any one company. More information can be found at <a href="http://www.linuxfoundation.org" rel="noopener noreferrer" target="_blank">www.linuxfoundation.org</a>.</p>
+<p># # #</p>
+<p><em>The Linux Foundation has registered trademarks and uses trademarks, including The Linux Foundation. For a full list of trademarks of The Linux Foundation, please see our trademark usage page: </em><a href="https://www.linuxfoundation.org/trademark-usage" rel="noopener noreferrer" target="_blank"><em>https://www.linuxfoundation.org/trademark-usage</em></a><em>. Linux is a registered trademark of Linus Torvalds.</em></p>
+<p>The post <a rel="noopener noreferrer" href="https://www.linuxfoundation.org/press-release/linux-foundation-debuts-community-data-license-agreement/" target="_blank">Linux Foundation Debuts Community Data License Agreement&nbsp;</a> appeared first on <a rel="noopener noreferrer" href="https://www.linuxfoundation.org" target="_blank">The Linux Foundation</a>.</p>]]></content>
+	<updated>2017-10-23T06:00:09+00:00</updated>
+	<author><name>Linux Foundation</name></author>
+	<source>
+		<id>https://www.linuxfoundation.org</id>
+		<link rel="self" href="https://www.linuxfoundation.org"/>
+		<updated>2017-10-23T06:00:09+00:00</updated>
+		<title>The Linux Foundation</title></source>
+
+	<category term="press release"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-09-12:/427907</id>
+	<link href="https://www.linux.com/blog/event/os-summit-la/2017/7/linus-torvalds-fun-linux-kernel-and-future" rel="alternate" type="text/html"/>
+	<title type="html">Video: Linus Torvalds On Fun, the Linux Kernel, and the Future</title>
+	<summary type="html"><![CDATA[<p>Title:&nbsp; Video: Linus Torvalds On Fun, the Linux Kernel, and the Future15 SepLearn more</p>]]></summary>
+	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title"> Video: Linus Torvalds On Fun, the Linux Kernel, and the Future</div></div></div><div><div><div>15 Sep</div></div></div><div><div><div><div><a href="http://localhost/blog/event/os-summit-la/2017/7/linus-torvalds-fun-linux-kernel-and-future" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
+	<updated>2017-09-15T09:40:13+00:00</updated>
+	<author><name>aankerholz</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-09-15T09:40:13+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-28:/423551</id>
+	<link href="https://www.linux.com/news/what-do-most-successful-open-source-projects-have-common" rel="alternate" type="text/html"/>
+	<title type="html">What Do the Most Successful Open Source Projects Have In Common?</title>
+	<summary type="html"><![CDATA[<p>Thriving open source projects have many users, and the most active have thousands of authors contrib...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><span>Thriving open source projects have many users, and the most active have thousands of authors contributing. There are now more than 60 million open source repositories, but the vast majority are just a public workspace for a single individual. What differentiates the most successful open source projects? One commonality is that most of them are backed by either one company or a group of companies collaborating together.</span></p></div></div></div>]]></content>
+	<updated>2017-08-28T20:38:28+00:00</updated>
+	<author><name>lfadmin</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-08-28T20:38:28+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-18:/420729</id>
+	<link href="https://www.linux.com/news/software-defined-networking-sdn-explained-beginners" rel="alternate" type="text/html"/>
+	<title type="html">Software Defined Networking (SDN) Explained for Beginners</title>
+	<summary type="html"><![CDATA[<p>Over the past few years, &nbsp;Software Defined Networking (SDN) has been a &nbsp;key buzz in the computer net...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Over the past few years, &nbsp;Software Defined Networking (SDN) has been a &nbsp;key buzz in the computer networking/IT industry. Today, more and more companies are discussing SDN to leverage it for their business and future growth plans.</p></div></div></div>]]></content>
+	<updated>2017-08-18T07:00:06+00:00</updated>
+	<author><name>HowToForge Tutorials</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-08-18T07:00:06+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-08-15:/419376</id>
+	<link href="https://www.linux.com/news/history-microprocessor-debug-1980-2016" rel="alternate" type="text/html"/>
+	<title type="html">A History of Microprocessor Debug, 1980–2016</title>
+	<summary type="html"><![CDATA[<p>Since the dawn of electronics design, where there have been designs, there have been bugs. But where...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Since the dawn of electronics design, where there have been designs, there have been bugs. But where they have been bugs, there inevitably was debug, engaged in an epic wrestling match with faults, bugs, and errors to determine which would prevail -- and how thoroughly.</p></div></div></div>]]></content>
+	<updated>2017-08-15T08:30:56+00:00</updated>
+	<author><name>Embedded.com</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-08-15T08:30:56+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-06-22:/403520</id>
+	<link href="https://www.linux.com/news/viewing-linux-output-columns" rel="alternate" type="text/html"/>
+	<title type="html">Viewing Linux Output in Columns</title>
+	<summary type="html"><![CDATA[<p>The Linux column command makes it easy to display data in a columnar format -- often making it easie...</p>]]></summary>
+	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>The Linux column command makes it easy to display data in a columnar format -- often making it easier to view, digest, or incorporate into a report. While column is a command that's simple to use, it has some very useful options that are worth considering. In the examples in this post, you will get a feel for how the command works and how you can get it to format data in the most useful ways.</p></div></div></div>]]></content>
+	<updated>2017-06-22T08:30:29+00:00</updated>
+	<author><name>Network World</name></author>
+	<source>
+		<id>https://www.linux.com/feeds/rss</id>
+		<link rel="self" href="https://www.linux.com/feeds/rss"/>
+		<updated>2017-06-22T08:30:29+00:00</updated>
+		<title>Linux.com</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-07-11:/408672</id>
+	<link href="https://www.redhat.com/en/about/press-releases/red-hat-introduces-next-generation-openshift-online-public-cloud-offering" rel="alternate" type="text/html"/>
+	<title type="html">Red Hat Introduces Next Generation of OpenShift Online Public Cloud Offering</title>
+	<summary type="html"><![CDATA[<p>Red Hat brings its public cloud offering, OpenShift Online, to the same Linux containers- and Kubern...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Red Hat brings its public cloud offering, OpenShift Online, to the same Linux containers- and Kubernetes-based foundation as OpenShift Container Platform.</p>]]></content>
+	<updated>2017-07-11T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.redhat.com/en/rss/press-releases</id>
+		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
+		<updated>2017-07-11T04:00:00+00:00</updated>
+		<title>Red Hat Press Releases</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-06-22:/403511</id>
+	<link href="https://www.redhat.com/en/about/press-releases/british-army-migrates-cloud-infrastructure-red-hat-solutions" rel="alternate" type="text/html"/>
+	<title type="html">British Army Migrates Cloud Infrastructure to Red Hat Solutions</title>
+	<summary type="html"><![CDATA[<p>&nbsp;With the new Ansible automation-based system, the Army has accelerated its pace of change by 75 per...</p>]]></summary>
+	<content type="html"><![CDATA[<p>&nbsp;With the new Ansible automation-based system, the Army has accelerated its pace of change by 75 percent. Upgrades that used to take a day can now be achieved with high availability in less than two hours, and can be scheduled after hours. Emergency patches that used to take approximately three days can be implemented in a matter of hours. Overall, delivering changes is now four times faster, on average, based on the British Army&rsquo;s internal calculations.</p>]]></content>
+	<updated>2017-06-22T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.redhat.com/en/rss/press-releases</id>
+		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
+		<updated>2017-06-22T04:00:00+00:00</updated>
+		<title>Red Hat Press Releases</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443314</id>
+	<link href="https://dzone.com/articles/whats-the-future-of-web-dev?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone" rel="alternate" type="text/html"/>
+	<title type="html">What's the Future of Web Dev?</title>
+	<summary type="html"><![CDATA[<p>To gather insights on the state of web application development today, we spoke with 12 executives wh...</p>]]></summary>
+	<content type="html"><![CDATA[<p pid="6">To gather insights on the state of web application development today, we spoke with 12 executives who are familiar with the current state of the industry and asked them, "What&rsquo;s the future of web applications from your point of view - where do the greatest opportunities lie?" Here's what they told us:</p> 
+<h2 pid="12">Collaboration</h2> 
+<ul> 
+ <li><strong>Collaborative development tools.</strong> Currently, web-based collaboration ends at the mockup phase. We see room for technologies that allow a team to collaboratively develop an application up to the point of implementing multiple screens and transitions, data entry and validation rules, conditionally shown components, simple workflows, and other standard interactions, *before* developers go into an IDE and start writing code.</li> 
+ <li>Capabilities with APIs, <strong>smooth UX, web platforms consistent across devices with the realization that there will be more devices.</strong>&nbsp;UI/UX testing with Selenium. Make it as simple as possible. Despite the complexity, at the end of the day, it&rsquo;s still an HTTP request and response in a simple Perl application.&nbsp;</li> 
+ <li><strong>We&rsquo;ll get better at&nbsp;cross-platform.</strong>&nbsp;Ultimately, we&rsquo;ll have frameworks that enable us to build once and run everywhere but we&rsquo;ll start with the lowest common denominator which won&rsquo;t make anyone happy. Web applications will not go away though they may become industry specific.&nbsp;</li> 
+ <li>The ability to coordinate all of the different variables that can affect web applications to&nbsp;<strong>ensure they are synchronized before they are presented to the end user</strong>.&nbsp;Automated deployment and visual testing and monitoring&nbsp;supports&nbsp;the entire digital transformation.&nbsp;</li> 
+ <li><strong>Building apps to serve end users.</strong>&nbsp;Provide a great UX wherever and whenever the user wants to interact. Banks have realized the need to do this. New interfaces with phones, Alexa, and Siri. 67% of apps are gone after one use. Make sure the engagement is simple and the performance is good. Recognize the business goals before developing a new app versus tuning an existing app. Analyze where the app is failing and how much it is hurting your business. Know how the app is performing for each user.</li> 
+</ul> 
+<h2 pid="13">Other</h2> 
+<ul> 
+ <li><strong>API first.</strong> Everything is backed by a public facing API. No breaking changes as we move forward. Smoother accomplishment of the goal of plugging email into the enterprise system easily.</li> 
+ <li>There are opportunities in certain sectors, like retail, to <strong>leverage AR and VR</strong>. Experiences will be more immersive. This will increase the motivation and attack vectors for hackers. The only way to catch up is with automation, orchestration, and AI.</li> 
+ <li><strong>Progressive web application technology.</strong> The web app experience is the same as the native app experience without the negative drawbacks. The barrier to entry is development and installation. Emerging technologies are being adopted by the browsers. This will free developers from platforms and app stores.</li> 
+ <li>Orchestration with IDE more and more as add-on functions to third-party applications like Salesforce. <strong>Incrementally adding things to what customers are already using.</strong></li> 
+ <li>Web applications are becoming common as the internet matures. To stay relevant as technology evolves it becomes imperative to increase intelligence. <strong>Applications that implement machine learning to understand the patterns of their users</strong> hold significant potential for maintaining usefulness, enhancing the user experience, and providing growth potential.</li> 
+ <li><strong>Making microservices&nbsp;with better integration</strong> with other systems moving beyond self-hosted to cloud-hosted so they can scale. Stronger standards for REST.</li> 
+ <li>Nobody knows for sure where the future of web applications lies -- whether it&rsquo;s voice controls, chatbots, artificial intelligence, AngularJS, ReactJS, or augmented reality. <strong>By choosing a model-driven platform, you can future-proof your web application development effort</strong>, adopt new technologies easily, and own the future &ndash; whatever it brings.</li> 
+</ul> 
+<p pid="2">What do you see as the future of web application development?</p>]]></content>
+	<updated>2017-10-23T15:01:01+00:00</updated>
+	<author><name>Tom Smith</name></author>
+	<source>
+		<id>https://dzone.com</id>
+		<link rel="self" href="https://dzone.com"/>
+		<updated>2017-10-23T15:01:01+00:00</updated>
+		<title>DZone.com Feed</title></source>
+
+	<category term="api"/>
+
+	<category term="web dev"/>
+
+	<category term="ide"/>
+
+	<category term="cross-platform development"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://dzone.com/thumbnail?fid=6575176&amp;w=600"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443615</id>
+	<link href="https://phys.org/news/2017-10-artificial-intelligence-gravitational-lens-candidates.html" rel="alternate" type="text/html"/>
+	<title type="html">Artificial intelligence finds 56 new gravitational lens candidates</title>
+	<summary type="html"><![CDATA[<p>A group of astronomers from the universities of Groningen, Naples and Bonn has developed a method th...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A group of astronomers from the universities of Groningen, Naples and Bonn has developed a method that finds gravitational lenses in enormous piles of observations. The method is based on the same artificial intelligence algorithm that Google, Facebook and Tesla have been using in the last years. The researchers published their method and 56 new gravitational lens candidates in the November issue of Monthly Notices of the Royal Astronomical Society.</p>]]></content>
+	<updated>2017-10-23T20:08:58+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-23T20:08:58+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="astronomy"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-2-artificialin.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/443712</id>
+	<link href="https://www.livescience.com/45838-potato-nutrition.html" rel="alternate" type="text/html"/>
+	<title type="html">Potatoes: Health Benefits, Risks &amp; Nutrition Facts</title>
+	<summary type="html"><![CDATA[<p>Potatoes are often thought of as a comfort food &mdash; richly mashed or crisply fried &mdash; but when prepared...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Potatoes are often thought of as a comfort food &mdash; richly mashed or crisply fried &mdash; but when prepared the right ways, these vegetables are actually quite nutritious.</p>]]></content>
+	<updated>2017-10-23T13:49:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.livescience.com</id>
+		<link rel="self" href="https://www.livescience.com"/>
+		<updated>2017-10-23T13:49:00+00:00</updated>
+		<title>LiveScience.com</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="https://img.purch.com/rc/160x100/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2Ni80MzEvb3JpZ2luYWwvcG90YXRvZXMuanBn"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/443693</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171023182701.htm" rel="alternate" type="text/html"/>
+	<title type="html">Brain patterns underlying mothers' responses to infant cries</title>
+	<summary type="html"><![CDATA[<p>Infant cries activate specific brain regions related to movement and speech, according to a study of...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Infant cries activate specific brain regions related to movement and speech, according to a study of mothers in 11 countries. The findings identify behaviors and underlying brain activities that are consistent among mothers from different cultures.</p>]]></content>
+	<updated>2017-10-23T22:27:01+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-23T22:27:01+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443554</id>
+	<link href="http://news.mit.edu/2017/neuroscientists-build-case-new-theory-memory-formation-1023" rel="alternate" type="text/html"/>
+	<title type="html">MIT neuroscientists build case for new theory of memory formation</title>
+	<summary type="html"><![CDATA[<p>Learning and memory are generally thought to be composed of three major steps: encoding events into ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Learning and memory are generally thought to be composed of three major steps: encoding events into the brain network, storing the encoded information, and later retrieving it for recall.</p>
+
+
+
+<p>Two years ago, MIT neuroscientists discovered that under certain types of retrograde amnesia, memories of a particular event could be stored in the brain even though they could not be retrieved through natural recall cues. This phenomenon suggests that existing models of memory formation need to be revised, as the researchers propose in a new paper in which they further detail how these &ldquo;silent engrams&rdquo; are formed and re-activated.</p>
+
+
+
+<p>The researchers believe their findings offer evidence that memory storage does not rely on the strengthening of connections, or &ldquo;synapses,&rdquo; between memory cells, as has long been thought. Instead, a pattern of connections that form between these cells during the first few minutes after an event occurs are sufficient to store a memory.</p>
+
+
+
+<p>&ldquo;One of our main conclusions in this study is that a specific memory is stored in a specific pattern of connectivity between engram cell ensembles that lie along an anatomical pathway. This conclusion is provocative because the dogma has been that a memory is instead stored by synaptic strength,&rdquo; says Susumu Tonegawa, the Picower Professor of Biology and Neuroscience, the director of the RIKEN-MIT Center for Neural Circuit Genetics at the Picower Institute for Learning and Memory, and the study&rsquo;s senior author.</p>
+
+
+
+<p>The researchers also showed that even though memories held by silent engrams cannot be naturally recalled, the memories persist for at least a week and can be &ldquo;awakened&rdquo; days later by treating cells with a protein that stimulates synapse formation.</p>
+
+
+
+<p>Dheeraj Roy, a recent MIT PhD recipient, is the lead author of the paper, which appears in the <em>Proceedings of the National Academy of Sciences</em> the week of Oct. 23. Other authors are MIT postdoc Shruti Muralidhar and technical associate Lillian Smith.</p>
+
+
+
+<p><strong>Silent memories</strong></p>
+
+
+
+<p>Neuroscientists have long believed that memories of events are stored when synaptic connections, which allow neurons to communicate with each other, are strengthened. Previous studies have found that if synthesis of certain cellular proteins is blocked in mice immediately after an event occurs, the mice will have no long-term memory of the event.</p>
+
+
+
+<p>However, in a 2015 paper, <a href="http://news.mit.edu/2015/optogenetics-find-lost-memories-0528" rel="noopener noreferrer" target="_blank">Tonegawa and his colleagues showed</a> for the first time that memories could be stored even when synthesis of the cellular proteins is blocked. They found that while the mice could not recall those memories in response to natural cues, such as being placed in the cage where a fearful event took place, the memories were still there and could be artificially retrieved using a technique known as optogenetics.</p>
+
+
+
+<p>The researchers have dubbed these memory cells &ldquo;silent engrams,&rdquo; and they have since found that these engrams can also be formed in other situations. In a study of mice with symptoms that mimic early Alzheimer&rsquo;s disease, the <a href="http://news.mit.edu/2016/retrieve-missing-memories-early-alzheimers-symptoms-0316" rel="noopener noreferrer" target="_blank">researchers found</a> that while the mice had trouble recalling memories, those memories still existed and could be optogenetically retrieved.</p>
+
+
+
+<p>In a more recent study of a process called systems consolidation of memory, the <a href="http://news.mit.edu/2017/neuroscientists-identify-brain-circuit-necessary-memory-formation-0406" rel="noopener noreferrer" target="_blank">researchers found engrams</a> in the hippocampus and the prefrontal cortex that encoded the same memory. However, the prefrontal cortex engrams were silent for about two weeks after the memory was initially encoded, while the hippocampal engrams were active right away. Over time, the memory in the prefrontal cortex became active, while the hippocampal engram slowly became silent.</p>
+
+
+
+<p>In their new <em>PNAS</em> study, the researchers investigated further how these silent engrams are formed, how long they last, and how they can be re-activated.</p>
+
+
+
+<p>Similar to their original 2015 study, they trained mice to fear being placed in a certain cage, by delivering a mild foot shock. After this training, the mice freeze when placed back in that cage. As the mice were trained, their memory cells were labeled with a light-sensitive protein that allows the cells to be re-activated with light. The researchers also inhibited the synthesis of cellular proteins immediately after the training occurred.</p>
+
+
+
+<p>They found that after the training, the mice did not react when placed back in the cage where the training took place. However, the mice did freeze when the memory cells were activated with laser light while the animals were in a cage that should not have had any fearful associations. These silent memories could be activated by laser light for up to eight days after the original training.</p>
+
+
+
+<p><strong>Making connections</strong></p>
+
+
+
+<p>The findings offer support for Tonegawa&rsquo;s new hypothesis that the strengthening of synaptic connections, while necessary for a memory to be initially encoded, is not necessary for its subsequent long-term storage. Instead, he proposes that memories are stored in the specific pattern of connections formed between engram cell ensembles. These connections, which form very rapidly during encoding, are distinct from the synaptic strengthening that occurs later (within a few hours of the event) with the help of protein synthesis.</p>
+
+
+
+<p>&ldquo;What we are saying is that even without new cellular protein synthesis, once a new connection is made, or a pre-existing connection is strengthened during encoding, that new pattern of connections is maintained,&rdquo; Tonegawa says. &ldquo;Even if you cannot induce natural memory recall, the memory information is still there.&rdquo;</p>
+
+
+
+<p>This raised a question about the purpose of the post-encoding protein synthesis. Considering that silent engrams are not retrieved by natural cues, the researchers believe the primary purpose of the protein synthesis is to enable natural recall cues to do their job efficiently.</p>
+
+
+
+<p>The researchers also tried to reactivate the silent engrams by treating the mice with a protein called PAK1, which promotes the formation of synapses. They found that this treatment, given two days after the original event took place, was enough to grow new synapses between engram cells. A few days after the treatment, mice whose ability to recall the memory had been blocked initially would freeze after being placed in the cage where the training took place. Furthermore, their reaction was just as strong as that of mice whose memories had been formed with no interference.</p>
+
+
+
+<p>Sheena Josselyn, an associate professor of psychology and physiology at the University of Toronto, said the findings run counter to the longstanding idea that memory formation involves strengthening of synapses between neurons and that this process requires protein synthesis.</p>
+
+
+
+<p>&ldquo;They showed that a memory formed during protein-synthesis inhibition may be artificially (but not naturally) recalled. That is, the memory is still retained in the brain without protein synthesis, but this memory cannot be accessed under normal conditions, suggesting that spines may not be the key keepers of information,&rdquo; says Josselyn, who was not involved in the research. &ldquo;The findings are controversial, but many paradigm-shifting papers are.&rdquo;</p>
+
+
+
+<p>Along with the researchers&rsquo; previous findings on silent engrams in early Alzheimer&rsquo;s disease, this study suggests that re-activating certain synapses could help restore some memory recall function in patients with early stage Alzheimer&rsquo;s disease, Roy says.</p>
+
+
+
+<p>The research was funded by the RIKEN Brain Science Institute, the Howard Hughes Medical Institute, and the JPB Foundation.</p>]]></content>
+	<updated>2017-10-23T18:59:59+00:00</updated>
+	<author><name>Anne Trafton | MIT News Office</name></author>
+	<source>
+		<id>http://news.mit.edu/mitresearch-rss.xml</id>
+		<link rel="self" href="http://news.mit.edu/mitresearch-rss.xml"/>
+		<updated>2017-10-23T18:59:59+00:00</updated>
+		<title>MIT Research News</title></source>
+
+
+	<link rel="enclosure" 
+		type="image" 
+		length="1"
+		href="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Silent-Engram-1.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443545</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/gsoa-moi102317.php" rel="alternate" type="text/html"/>
+	<title type="html">Moment of impact: A journey into the Chicxulub Crater</title>
+	<summary type="html"><![CDATA[<p>(Geological Society of America) When the Chicxulub asteroid slammed into Earth about 66 million year...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Geological Society of America</i>) When the Chicxulub asteroid slammed into Earth about 66 million years ago, it obliterated 80 percent of Earth's species, blasted out a crater 200 kilometers across, and signaled an abrupt end to the Cretaceous Period. The impact, its catastrophic effects, and its aftermath have engrossed scientists and the public alike since it was first discovered.</p>]]></content>
+	<updated>2017-10-23T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-23T04:00:00+00:00</updated>
+		<title>EurekAlert! - Earth Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443561</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/cu-fft101917.php" rel="alternate" type="text/html"/>
+	<title type="html">Fossils from the world's oldest trees reveal complex anatomy never seen before</title>
+	<summary type="html"><![CDATA[<p>(Cardiff University) The first trees to have ever grown on Earth were also the most complex, new res...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Cardiff University</i>) The first trees to have ever grown on Earth were also the most complex, new research has revealed.</p>]]></content>
+	<updated>2017-10-23T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-23T04:00:00+00:00</updated>
+		<title>EurekAlert! - Agriculture</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443552</id>
+	<link href="https://futurism.com/singapore-will-stop-adding-new-cars-to-its-roads-in-2018/" rel="alternate" type="text/html"/>
+	<title type="html">Singapore Will Stop Adding New Cars to Its Roads in 2018</title>
+	<summary type="html"><![CDATA[<p>Limited Space in Singapore
+The city-state of Singapore has announced a plan to reduce the vehicle gr...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Limited Space in Singapore</h2>
+<p>The <a href="https://futurism.com/smart-city-singapore-going-get-smarter/?src=featured" rel="noopener noreferrer" target="_blank">city-state of Singapore</a> has announced a plan to reduce the vehicle growth rate from 0.25 percent per year to 0 percent for cars and motorcycles. Due to the limited space available, Singapore controls the number of vehicles on the road to a great degree.</p>
+<p>The Land Transport Authority (LTA) issues permits, known as Certificates of Entitlement, that give vehicle owners the right to have their vehicle for a period of ten years. The permits are auctioned off. The last auction ended with the highest bidder paying $41,617 (US $30,533.39) only for the privilege&nbsp;of being able to operate the vehicle.</p>
+<p>The government cites the limited available&nbsp;land area as a reason behind the halt. The LTA stated, &ldquo;In view of land constraints and competing needs, there is limited scope for further expansion of the road network.&rdquo; Roads currently take up twelve percent of the city&rsquo;s total land area. There are more than 600,000 private and rental cars on this limited road space. The growth rate for commercial vehicles will remain at 0.25 percent.</p>
+<figure><img src="https://futurism.com/wp-content/uploads/2017/10/6868602527_d9b503b9a8_z.jpg" alt="Image credit: Aleksandr Zykov/Flickr" width="640" height="380"><figcaption>Image credit: Aleksandr Zykov/Flickr</figcaption></figure>
+<h2>Climate Change</h2>
+<p>The restriction on new cars will make it even more difficult to own a car in Singapore, which remains one of the most expensive places to own a vehicle. <a href="https://www.reuters.com/article/us-markets-bitcoin-institutional/big-money-stays-away-from-booming-bitcoin-idUSKBN1CS0EB" rel="noopener noreferrer" target="_blank">According to <em>Reuters</em></a>, mid-range vehicles can cost more than four times the price of the same vehicle in the U.S.<figure><a href="https://futurism.com/images/flying-cars-of-tomorrow-infographic/" rel="noopener noreferrer" target="_blank"><img src="https://futurism.com/wp-content/uploads/2016/06/Homepage-Thumbnail-7-900x600.jpg" alt="Flying Cars: A Future Buyer&rsquo;s Guide [Infographic]"></a><figcaption><strong><a href="https://futurism.com/images/flying-cars-of-tomorrow-infographic/" target="_blank" rel="noopener noreferrer">Click to View Full Infographic</a></strong></figcaption></figure>
+</p><p>However, increased restriction on vehicle ownership will have some positive side effects, at least in terms of environmental impact. Less cars on the roads of Singapore&nbsp;will mean less pollution for fossil fuel burning engines. Also, halting the expansion of the roads system in the country will prevent further transportation development of natural spaces. Even without expansion, not adding new vehicles will prevent the current system from becoming overcrowded, also preventing <a href="https://futurism.com/smog-in-parts-of-the-u-s-comes-from-air-pollution-in-asia/" rel="noopener noreferrer" target="_blank">environmentally&nbsp;harmful</a> gridlock.</p>
+<p>The new restrictions will not impact the number of permits available. The LTA will re-evaluate the policy for cars and motorcycles in 2020 and for commercial vehicles in March of 2021.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/singapore-will-stop-adding-new-cars-to-its-roads-in-2018/" target="_blank">Singapore Will Stop Adding New Cars to Its Roads in 2018</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-23T18:45:52+00:00</updated>
+	<author><name>Patrick Caughill</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-23T18:45:52+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="future society"/>
+
+	<category term="climate change"/>
+
+	<category term="environmental regulation"/>
+
+	<category term="singapore"/>
+
+	<category term="transportation"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-23:/443341</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uoca-sdn101917.php" rel="alternate" type="text/html"/>
+	<title type="html">Scientists develop new theory of molecular evolution</title>
+	<summary type="html"><![CDATA[<p>(University of Colorado Anschutz Medical Campus) Researchers from the University of Colorado Anschut...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Colorado Anschutz Medical Campus</i>) Researchers from the University of Colorado Anschutz Medical Campus and the University College London have developed a new theory of molecular evolution, offering insights into how genes function, how the rates of evolutionary divergence can be predicted, and how harmful mutations arise at a basic level.</p>]]></content>
+	<updated>2017-10-23T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-23T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/443676</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171023150541.htm" rel="alternate" type="text/html"/>
+	<title type="html">Fruit-eating increases biodiversity</title>
+	<summary type="html"><![CDATA[<p>By dispersing the seeds of plants, fruit-eating animals contribute to the possibility of increased p...</p>]]></summary>
+	<content type="html"><![CDATA[<p>By dispersing the seeds of plants, fruit-eating animals contribute to the possibility of increased plant speciation and thus biodiversity, investigators have discovered.</p>]]></content>
+	<updated>2017-10-23T19:05:41+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-23T19:05:41+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171023150541-large.jpg"/>
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-05-02:/389097</id>
@@ -107,7 +604,7 @@
 		<id>https://www.phoronix.com/</id>
 		<link rel="self" href="https://www.phoronix.com/"/>
 		<updated>2017-04-26T18:55:08+00:00</updated>
-		<title>Phoronix</title></source>
+		<title>[D] Phoronix</title></source>
 
 
 </entry>
@@ -185,9 +682,9 @@ We all know that pollution, in general, is harmful to human health. But a study 
 	<id>tag:localhost,2017-10-23:/443137</id>
 	<link href="https://inhabitat.com/study-finds-pollution-is-more-deadly-than-war-natural-disasters-and-disease" rel="alternate" type="text/html"/>
 	<title type="html">Study finds pollution is more deadly than war, natural disasters, and disease</title>
-	<summary type="html"><![CDATA[<p>Environmental pollution isn&rsquo;t just inconvenient, it&rsquo;s also deadly. Every year, more people are kill...</p>]]></summary>
+	<summary type="html"><![CDATA[<p>Environmental pollution isn&rsquo;t just inconvenient &ndash; it&rsquo;s downright deadly. Every year, more peo...</p>]]></summary>
 	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/study-finds-pollution-more-deadly-than-all-war-and-violence-1-889x592.jpg" alt="AIDS, malaria, tuberculosis, environment, pollution, Lancet medical journal, science, News, environmental destruction, air pollution, war, violence, poverty,"></p>
-<p>Environmental <a href="https://inhabitat.com/tag/pollution" rel="noopener noreferrer" target="_blank">pollution</a> isn&rsquo;t just inconvenient, it&rsquo;s also deadly. Every year, more people are killed by pollutants &mdash; from toxic air to contaminated water &mdash; than by all <a href="https://inhabitat.com/tag/war" rel="noopener noreferrer" target="_blank">war</a> and violence. Pollution is also responsible for more deaths than AIDS, tuberculosis, and malaria combined. This disturbing revelation was revealed in a new study published in the <a href="https://phys.org/journals/lancet/" rel="noopener noreferrer" target="_blank">Lancet </a>medical journal. Scientists determined that one out of every six premature deaths (about 9 million in 2015) results from pollution; and while life is more important than money, these deaths cause $4.6 trillion in annual losses or about 6.2 percent of the world&rsquo;s economy.</p>
+<p>Environmental <a href="https://inhabitat.com/tag/pollution" rel="noopener noreferrer" target="_blank">pollution</a> isn&rsquo;t just inconvenient &ndash; it&rsquo;s downright deadly. Every year, more people are killed by pollutants &mdash; from toxic air to contaminated water &mdash; than by all <a href="https://inhabitat.com/tag/war" rel="noopener noreferrer" target="_blank">war</a> and violence. Pollution is also responsible for more deaths than AIDS, tuberculosis, and malaria combined. This disturbing revelation was revealed in a new study published in the <a href="https://phys.org/journals/lancet/" rel="noopener noreferrer" target="_blank">Lancet</a> medical journal. Scientists determined that one out of every six premature deaths (about 9 million in 2015) results from pollution; and while life is more important than money, these deaths cause $4.6 trillion in annual losses or about 6.2 percent of the world&rsquo;s economy.</p>
 <p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/study-finds-pollution-more-deadly-than-all-war-and-violence-1-889x592.jpg" alt="AIDS, malaria, tuberculosis, environment, pollution, Lancet medical journal, science, News, environmental destruction, air pollution, war, violence, poverty,"></p>
 <p>Epidemiologist Philip Landrigan, lead author and Dean of global health at the Icahn School of Medicine in New York, said, &ldquo;There&rsquo;s been a lot of study of pollution, but it&rsquo;s never received the resources or level of attention as, say, AIDS or <a href="https://inhabitat.com/tag/climate-change" rel="noopener noreferrer" target="_blank">climate change.</a>&rdquo; Landrigan added that pollution is a &ldquo;massive problem&rdquo; few truly comprehend, as what they&rsquo;re witnessing are &ldquo;scattered bits of it.&rdquo; This is the first study of its kind to take into account data on all <a href="https://inhabitat.com/tag/disease" rel="noopener noreferrer" target="_blank">diseases</a> and death caused by pollution combined.</p>
 <p>According to the <a href="https://phys.org/journals/lancet/" rel="noopener noreferrer" target="_blank">study</a>, developing countries &mdash; primarily in Asia and <a href="https://inhabitat.com/tag/Africa" rel="noopener noreferrer" target="_blank">Africa</a> &mdash; are putting the most people at risk due to a lack of air and soil pollution monitoring systems. In 2015, one out of four (2.5 million) premature deaths in <a href="https://inhabitat.com/tag/India" rel="noopener noreferrer" target="_blank">India</a> and one out of five (1.8 million) premature deaths in China were caused by pollution-related illness. &ldquo;In the West, we got the lead out of the gasoline, so we thought lead was handled. We got rid of the burning rivers, cleaned up the worst of the toxic sites. And then all of those discussions went into the background,&rdquo; said Richard Fuller, head of the Pure Earth and one of the 47 scientists who contributed to the report. In <a href="https://inhabitat.com/tag/Bangladesh" rel="noopener noreferrer" target="_blank">Bangladesh</a>, Pakistan, North Korea, South Sudan and Haiti, nearly one-fifth of premature deaths are pollution-related.</p>
@@ -1122,470 +1619,6 @@ NASA scientists have found more evidence that Saturn...</p>]]></summary>
 		type="image/generic" 
 		length="1"
 		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-geneeditingi.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441433</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171019101010.htm" rel="alternate" type="text/html"/>
-	<title type="html">Scientists pinpoint jealousy in the monogamous mind</title>
-	<summary type="html"><![CDATA[<p>Scientists find that in male titi monkeys, jealousy is associated with heightened activity in the ci...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Scientists find that in male titi monkeys, jealousy is associated with heightened activity in the cingulate cortex, an area of the brain associated with social pain in humans, and the lateral septum, associated with pair bond formation in primates. A better understanding of jealousy may provide important clues on how to approach health and welfare problems such as addiction and domestic violence, as well as autism.</p>]]></content>
-	<updated>2017-10-19T14:10:10+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-19T14:10:10+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171019101010-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-20:/441932</id>
-	<link href="https://phys.org/news/2017-10-years-rainbowthe-revolution.html" rel="alternate" type="text/html"/>
-	<title type="html">10 years of the trapped rainbow—the revolution of slow light</title>
-	<summary type="html"><![CDATA[<p>A decade on from suggesting light can be dramatically slowed - or even stopped - by new materials, O...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A decade on from suggesting light can be dramatically slowed - or even stopped - by new materials, Ortwin Hess reviews the progress and applications.</p>]]></content>
-	<updated>2017-10-20T10:56:22+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-20T10:56:22+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="optics &amp; photonics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/59e9d032432e6.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-20:/441954</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/f-wld101317.php" rel="alternate" type="text/html"/>
-	<title type="html">Waterside lighting drastically disrupts wildlife in the surrounding ecosystem</title>
-	<summary type="html"><![CDATA[<p>(Frontiers) Researchers in Germany find that streetlights near waterways attract flying insects from...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Frontiers</i>) Researchers in Germany find that streetlights near waterways attract flying insects from the water and change the predator community living in the grass beneath the lights. The findings show that artificial night-time lighting could have implications for the surrounding ecosystem and biodiversity, which should be considered when designing new lighting concepts.</p>]]></content>
-	<updated>2017-10-20T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-20T04:00:00+00:00</updated>
-		<title>EurekAlert! - Agriculture</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-02-27:/369417</id>
-	<link href="http://www.gereports.com/light-bright-san-diego-leads-way-future-smart-cities/" rel="alternate" type="text/html"/>
-	<title type="html">From Light To Bright: San Diego Is Building The World’s Largest Municipal Internet Of Things</title>
-	<summary type="html"><![CDATA[<p>San Diego&rsquo;s newest streetlights might not look all that special &mdash; and that&rsquo;s exactly the point. Desi...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/02/22164454/city-scape.jpg" alt=""><p>San Diego&rsquo;s newest streetlights might not look all that special &mdash; and that&rsquo;s exactly the point. Designed to blend in with the rest of the city&rsquo;s outdoor lighting, they&rsquo;re easy to overlook. Under the surface, though, the LED fixtures are actually data-gathering machines.&nbsp;They will allow San Diego to build the largest municipal internet-of-things network in the world.</p>
-<p>San Diego&rsquo;s digital lighting revolution started as a modest solution to a common problem. &ldquo;We were broke,&rdquo; says David Graham, San Diego&rsquo;s deputy chief operating officer. &ldquo;In the early 2000s, we went through about a decade of fiscal crisis, and we were trying to find ways to be more efficient, save money and reduce energy usage.&rdquo;</p>
-<p>One idea to save money was to replace the yellow glow of the city&rsquo;s old sodium vapor streetlamps with efficient new LED lights. In addition to providing cleaner, broader-spectrum light, the new fixtures used 60 percent less energy and slashed maintenance needs because of their longer life spans. The city <a href="http://www.sandiegouniontribune.com/news/environment/sdut-san-diego-swtiches-green-street-lights-2011sep19-htmlstory.html" rel="noopener noreferrer" target="_blank">replaced more than 35,000 lights</a>, yielding an estimated $2.2 million in savings per year.</p>
-<p>But the new fixtures also brought to light new problems. &ldquo;We know when a traditional light bulb isn&rsquo;t working, because it burns out,&rdquo; says Austin Ashe, general manager of Current, powered by GE&rsquo;s Intelligent Cities program. &ldquo;But an LED doesn&rsquo;t burn out. It just degrades over time.&rdquo;</p>
-<p>As GE replaced the lights, San Diego asked for a better way to monitor the LEDs. The answer, and the first step toward connecting the city&rsquo;s lighting infrastructure, was LightGrid. This adaptive control program connected streetlights through a wireless network, enabling the city to monitor and manage lights remotely. &ldquo;Now we know exactly how much energy a streetlight is using,&rdquo; Graham says. &ldquo;We know if it&rsquo;s out. We can brighten or dim it, depending on environmental factors.&rdquo;</p>
-<p>But LightGrid was just the first step. San Diego soon discovered it could reap additional benefits through expanded connectivity. San Diego agreed to be the first city to <a href="http://www.gereports.com/smart-streets-are-made-of-these-san-diego-deploys-americas-first-intelligent-lighting-system/" rel="noopener noreferrer" target="_blank">pilot GE&rsquo;s intelligent cities platform</a> &mdash; enabled by adding nodes holding multiple sensors to streetlights. The nodes connected to Predix, GE&rsquo;s operating system for the Industrial Internet, to process the metadata collected by the sensors.</p>
-<div><a href="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/02/22164746/City-IQ-multi-fixture-node.jpg" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/02/22164746/City-IQ-multi-fixture-node-1024x576.jpg" alt="Over the next year, San Diego plans to replace 14,000 lights with LED fixtures, and 3,600 of those will be equipped with new intelligent nodes. " width="1024" height="576"></a><p><em>Smart lights, big city. Over the next year, San Diego plans to replace 14,000 lights with LED fixtures, and 3,600 will be equipped with new intelligent nodes. Image credit: GE Lighting</em></p></div>
-<p>The intelligent lighting platform, which can sense sound, light and environmental conditions, offers a host of potential applications. But in the beginning, San Diego started with something really simple: parking. &ldquo;With sensored street lights, you can have more efficient use of your on-street parking,&rdquo; Graham says. &ldquo;You can better sense where cars are, and you can better understand parking and traffic.&rdquo;</p>
-<p>In 2014, the city ran a pilot test of just over 40 intelligent sensor nodes, which it installed downtown and used to monitor traffic. The goal, Graham says, was to enable people to find parking spaces with a minimum of effort. &ldquo;In a city like San Diego, there are real climate impacts to helping people get to parking quickly and efficiently, without idling or driving around,&rdquo; he says.</p>
-<p>But parking is only the beginning. For instance, one application called <a href="http://www.gereports.com/12529-2/" rel="noopener noreferrer" target="_blank">ShotSpotter</a> uses the sensors&rsquo; sound and light detection capabilities to help law enforcement. &ldquo;Before they even arrive, first responders know immediately where shots were fired and triangulate where the shooter is, how many shooters there are, which direction they&rsquo;re shooting in,&rdquo; Ashe says. &ldquo;This is highly valuable information to help cities manage and mitigate crime.&rdquo;</p>
-<p>Over the next year, the city will replace <a href="http://www.sandiegouniontribune.com/news/politics/sd-me-government-0104-story.html" rel="noopener noreferrer" target="_blank">14,000 lights</a>&nbsp;with LED fixtures, and 3,600 will be equipped with the new intelligent nodes. &ldquo;The intelligent platform will cover 160 square miles, or half our city,&rdquo; Graham says. &ldquo;We&rsquo;re doing 100 percent deployment in our underserved neighborhoods using community development block grants.&rdquo;</p>
-<p>The LED upgrade and intelligent platform deployment is expected to cost $30 million, and Graham estimates that it will save about $2.5 million worth of electricity per year. It will also further reduce maintenance costs, and the parking and shot spotting applications are likely to translate into cost savings and improved safety. But the major benefits of the new lights, Graham admits, are still unknown. &ldquo;We&rsquo;ve created a platform to do things we can&rsquo;t even imagine today.&rdquo;</p>
-<p>He expects that the most significant new ideas will come from San Diegans. The city plans to make much of the information from the nodes openly available to app developers. &ldquo;We actually held a block party for streetlights,&rdquo; Graham says. &ldquo;We asked the public to tell us what they thought an intelligent city could be and how they thought their streetlights could improve their lives.&rdquo; It also held a hackathon to teach interested community members how to make their own apps that use the new information.</p>
-<p>Ultimately, Graham hopes, the streetlights will become the key to San Diego&rsquo;s future. &ldquo;I see streetlights as the platform to transform our communities,&rdquo; he says. &ldquo;They can help us connect us to our citizens, to provide a future where we&rsquo;re able to better understand our neighborhoods and give them the services that they want.&rdquo;</p>]]></content>
-	<updated>2017-02-22T22:37:18+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.ge.com/reports</id>
-		<link rel="self" href="https://www.ge.com/reports"/>
-		<updated>2017-02-22T22:37:18+00:00</updated>
-		<title>GE Reports</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-21:/358784</id>
-	<link href="http://www.gereports.com/amazon-turns-ge-wind-turbines-power-business/" rel="alternate" type="text/html"/>
-	<title type="html">Amazon Turns To Wind To Power Its Business</title>
-	<summary type="html"><![CDATA[<p>Amazon may be the largest online retailer in the world, but the company is focused on having a posit...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/18161656/PSP31505-09.jpg" alt="24 Internet-connected 2.85-103 wind turbines at the McLean's Mountain Wind Farm, Northland Power Project, Manitoulin Island, Lake Huron, Ontario, Canada. It is using data generated from Internet-connected sensors on the turbines. GE Renewable Energy and Northland work together: Data insights lead to proactive maintenance, less down time, and a more efficient wind farm."><p>Amazon may be the largest online retailer in the world, but the company is focused on having a positive impact on the ground as well. With an ever-expanding global network of fulfillment and data centers, Amazon has a growing demand for energy. Amazon also has an equal appetite for and commitment to renewable energy. In fact, Amazon Web Services (AWS), the company&rsquo;s cloud computing business, has a long-term commitment to achieve 100 percent renewable energy usage for its global infrastructure footprint.</p>
-<p>The company has become a big player in the renewable energy industry, recently announcing plans for its largest wind farm yet in a blustery corner of west Texas. When completed in late 2017, Amazon Wind Farm Texas will have the capacity to generate approximately 1 million megawatt-hours of electricity annually &mdash; enough to power almost 90,000 U.S. homes.</p>
-<p>The wind farm, built by Lincoln Clean Energy, includes a fleet of GE wind turbines, and of the energy generated, 90 percent of the output will be sold to Amazon&rsquo;s fulfillment arm.</p>
-<p>Scott Stalica, <a href="https://www.linkedin.com/title/manager-commercial-operations-americas?trk=mprofile_title" rel="noopener noreferrer" target="_blank">manager for commercial operations in the Americas</a> at GE Renewable Energy points out that wind is not only good for the climate but also for the wallet. The cost of wind power is about one-third of what it was six years ago. &ldquo;Wind is very competitive versus alternative forms of generation,&rdquo; Stalica says.</p>
-<div><a href="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/18161642/PSP31507-5832.jpg" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/18161642/PSP31507-5832-1024x683.jpg" alt="2.0-116 wind turbine installation in Shallowater, Texas, USA." width="1024" height="683"></a><p><em>&ldquo;Wind is very competitive versus alternative forms of generation,&rdquo; says GE&rsquo;s Stalica. Images credit: GE Renewable Energy</em></p></div>
-<p>Data published by the&nbsp;Energy Information Administration shows that the cost of onshore wind energy &mdash; without federal tax and other financial incentives &mdash; is projected to reach $73.60 per megawatt-hour by 2020 and dropping as turbine technologies improve. That&rsquo;s slightly cheaper than conventional coal, which costs about <a href="http://www.eia.gov/forecasts/aeo/electricity_generation.cfm" rel="noopener noreferrer" target="_blank">$75.20</a> per megawatt-hour.</p>
-<p>The opportunity for corporations to leverage the cost-competitive nature of renewable energy is growing. In 2015, AWS announced the construction of Amazon Solar Farm US East, Amazon Wind Farm Fowler Ridge, Amazon Wind Farm US Central and Amazon Wind Farm US East. In 2016, it announced five additional solar farms and one more wind farm, bringing the total number of such AWS projects to 10. With the addition of Amazon Wind Farm Texas, Amazon is poised to generate almost 3.6 million megawatt-hours of renewable energy by year-end 2017.</p>
-<p>Scurry County, Texas, was selected as the site for the Amazon Wind Farm Texas because of its plentiful wind and affordable production and transmission costs. &ldquo;It makes good sense to build these large wind farms where the wind resource is strong and the local residents welcome the economic boost from such projects,&rdquo; says Paul Parkes, senior account manager in Wind Energy at GE, &ldquo;you need a really good wind resource, and it&rsquo;s got to be close to transmission lines to integrate and connect to the grid.&nbsp; This project is a model for connecting those dots and deriving the optimum energy solution for Amazon.&rdquo;</p>
-<p>&nbsp;</p>]]></content>
-	<updated>2017-01-20T23:14:17+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.ge.com/reports</id>
-		<link rel="self" href="https://www.ge.com/reports"/>
-		<updated>2017-01-20T23:14:17+00:00</updated>
-		<title>GE Reports</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-04:/353867</id>
-	<link href="http://www.gereports.com/soon-tech-jobs-will-design-data/" rel="alternate" type="text/html"/>
-	<title type="html">Soon, The Only Tech Jobs Will Be Design Or Data</title>
-	<summary type="html"><![CDATA[<p>The robots are coming for web programming. And coding schools will soon be obsolete. Even an enginee...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/04100008/GettyImages-681903741-e1483467224373.jpg" alt="Roboter sitzt auf einer Stuhlreihe mit Karton, k&uuml;nstliche Intelligenz, Roboter, Technologie, Ersatz f&uuml;r Menschen, Maschine, modern, futuristisch, 3D Rendering, digital generiert, humanoid, menschlich, Business, Konzept,  Palme, Auszeit, K&uuml;ndigung, alles hinter sich lassen, erleichtert, traurig, Sorgen, fotorealistisch, Umzug, Ver&auml;nderung"><h4>The robots are coming for web programming. And coding schools will soon be obsolete. Even an engineer&nbsp;admits: with increasing automation, technology will soon replace the majority of tech jobs themselves.</h4>
-<p>&nbsp;</p>
-<p><span>I have a friend who can see the future. We were talking a few years ago about how far tooling and automation had come along in software engineering. He suggested that, in the very near future, there would be only two jobs in application development: user experience design (UX) and data science. Everything between would be automated. I was a bit skeptical at the time, but I have since come around to his point of view.</span></p>
-<p><span>Since the first dot-com boom, there have been three specialized roles in web development: engineering, product management and UX. Engineers tended to be responsible for the data and functional layers while UX roles built the user interface. Coordination between them, and responsibility for the business overall, was managed by product managers. Students graduating from coding schools have been taught to think in these terms, and build apps that reflect this architecture.</span></p>
-<p><span>Today, we see a different picture. We&rsquo;ve reached the point at which most web application programming is configuration. You configure tools, infrastructure and, frameworks, all mostly through the browser or in source control. What we used to build by hand is all available in package form now. Essentially, the job of today&rsquo;s developer is simply tying everything together. But how did we get here?</span></p>
-<p><span>Sometime in the last five years, web architecture began to change. APIs, which even non-techies are coming to appreciate as the glue that binds the Internet, have enabled data sharing and application ecosystems on an unprecedented scale. Modern applications are now designed explicitly to share data with other systems, or to be extended in ways the API authors never intended. This is really &ldquo;Open Source,&rdquo; evolved to its next logical and glorious level.</span></p>
-<p><span>JavaScript, the clunky browser-bound language we all hated 15 years ago, experienced something of a renaissance around 2010. Now, it&rsquo;s causing a revolution in the way apps are composed. Frameworks like Google&rsquo;s AngularJS or Facebook&rsquo;s ReactJS enable developers to build apps using flexible components, moving pieces of UX functionality around with ease. This results in apps that are both modular and extensible.</span></p>
-<p><span>Cloud services like Amazon Web Services (AWS) make it possible for any development team to build and customize their own IT infrastructure. DevOps (a mash-up of Development and Operations that is basically shorthand for &ldquo;We do our own Ops now&rdquo;) is quickly erasing the need for a dedicated IT Operations department. The bearded wizards, who in the past spent their days crawling under desks, playing with network cabling or racking servers, are rapidly disappearing. They were gatekeepers to the application developers, controlling when and how our code would be deployed to production. Now, we can control everything through the AWS console.</span></p>
-<p><span>As an engineer, it&rsquo;s not difficult to envision a future in which I can build an application in minutes, essentially with drag and drop, plugging components together in a browser-based configuration system. (Think IFTTT or Zapier, but for application development.) In such a world, there isn&rsquo;t a market for the old custom web application developer anymore.</span></p>
-<p><span>Since the beginning of modern computing, each wave of engineering innovation has automated low-level tasks. Over time, high level and manual intensive tasks eventually become low-level tasks and modules. We moved from programming in assembly to the general programming language, from procedural programming to object-oriented programming, from hand-built servers to virtualization and cloud computing. </span></p>
-<p><span>Now, we&rsquo;re moving a level up again. The only jobs in application development soon will be data science and customer experience design. Everything between them will be commodified.</span></p>
-<p>&nbsp;</p>
-<p>(Top photo: Courtesy Getty Images.)</p>
-<p>&nbsp;</p>
-<p><em><span><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/04100008/SamMcAfeeMD-150x150.jpg" alt="SamMcAfeeMD" width="150" height="150">Sam McAfee is a cofounder of <a href="http://blackwillowstudios.com/" target="_blank" rel="noopener noreferrer">Blackwillow Studios</a>, which builds popup incubators for enterprises undergoing digital transformation.</span></em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>All views expressed are those of the author.</p>]]></content>
-	<updated>2017-01-04T10:00:08+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.ge.com/reports</id>
-		<link rel="self" href="https://www.ge.com/reports"/>
-		<updated>2017-01-04T10:00:08+00:00</updated>
-		<title>GE Reports</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-01-03:/353547</id>
-	<link href="http://www.gereports.com/automation-isnt-end-world-heres/" rel="alternate" type="text/html"/>
-	<title type="html">Automation Isn’t The End Of The World — Here’s Why</title>
-	<summary type="html"><![CDATA[<p>Robots probably will take our jobs. That doesn&rsquo;t have to be bad news, writes Leonardo Quattrucci, po...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/03100000/GettyImages-596063202-e1483383179401.jpg" alt="Businessmans walk straight into the abyss. Vector Illustration"><h4>Robots probably will take our jobs. That doesn&rsquo;t have to be bad news, writes Leonardo Quattrucci, policy assistant to the Head of the European Commission&rsquo;s&nbsp;European Political Strategy Centre. The future of work is about more than just automation. Machines push us to specialize in our competitive advantages, which would ideally&nbsp;push us toward a more connected and equitable economy.</h4>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div>
-<p>What keeps you up at night?</p>
-</div>
-<div>
-<p>For many people worldwide, the answer is unemployment. Work is not just what allows us to sustain ourselves and our families: it expands our possibilities to be and do what we aspire to; it gives meaning and rhythm to our endeavors as part of a broader social contract. This is why in times of &ldquo;polycrisis&rdquo; and broader economic transformations, we dread losing what we hold so dear to a presumed automation apocalypse.</p>
-<div><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/03100000/v0p5ie0mRwtc3uv5gxjV8AtCcGFMBDbBj1934S4pyIQ-1024x428.png" alt="What are people most worried about? Note: Representative sample of adults aged 16-64. September 2016: 18,014; August 2016: 18,042." width="1024" height="428"><p>What are people most worried about? Note: Representative sample of adults aged 16-64. September 2016: 18,014; August 2016: 18,042.</p></div>
-<div>
-<p>It is true: <a href="http://www.oecd-ilibrary.org/social-issues-migration-health/the-risk-of-automation-for-jobs-in-oecd-countries_5jlz9h56dvq7-en?crawler=true" rel="noopener noreferrer" target="_blank">if a routine task can be performed cheaper, faster and better by a robot, there is a chance it will be</a>. What is also true &ndash; and even more certain &ndash; is that machines push us to specialize in our competitive advantages: more &ldquo;human&rdquo; work, creative and social intelligence, interpersonal and non-routine tasks are what makes us resilient and adaptive to change.</p>
-</div>
-<div>
-<p>The future of work is about much more than automation. It is about equitable access to opportunities and accessibility. It is as much about finding employment as being entrepreneurial.</p>
-</div>
-<div>
-<p>The future of work is about new ways to better preserve, share, spread and generate economic and social value. Advances in knowledge and technology have already empowered us with novel skills and solutions. They come down to three &ldquo;Cs&rdquo;: circular, collaborative and connective.</p>
-</div>
-<p><b>A Look into the Future of Work</b></p>
-<div>
-<p>In the 21st century, progress is about circling the economic and social square. As we reach planetary boundaries and unemployment tops our hierarchy of concerns, we can no longer afford to waste our capital &ndash; whether natural or human. A circular economy can help put an end to that.</p>
-</div>
-<div>
-<p>Investing to make buildings more sustainable, for example, means more energy-efficient houses that curb pollution and help families save more on their energy bill. At the same time, making apartments smarter brings construction workers &ndash; who were hard hit by the 2008 financial crisis &ndash; back into the labor market, and equips them with new technical skills.</p>
-</div>
-<div>
-<p>In the same way, projects like <a href="https://thelastmile.org/" target="_blank" rel="noopener noreferrer">Last Mile Works</a> turn inmates &ndash; who are generally considered economically passive members of society &ndash; into digital entrepreneurs, making them economically active while they are incarcerated and preparing them for reintegration when they are out.</p>
-<div><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/03100000/NyJuOdSSPjhxBraTkwJU7GWAntFrNKB3w3ll-Wz-HZA.png" alt="Trends in Routine and Non-Routine Tasks in Occupations, United States Image: OECD Skills Outlook 2013, OECD." width="617" height="485"><p>Trends in Routine and Non-Routine Tasks in Occupations, United States. Image: OECD Skills Outlook 2013, OECD.</p></div>
-<div>
-<p>Preserving and uncovering value is not enough. It must be shared and accessible. This is ever more possible in an increasingly collaborative economy. Communities in Brooklyn, New York are creating a <a href="http://www.npr.org/sections/alltechconsidered/2016/07/04/482958497/how-blockchain-helps-brooklyn-dwellers-use-neighbors-solar-energy" target="_blank" rel="noopener noreferrer">shared economy for peer-to-peer energy exchange</a> to be more resilient and take neighbors out of energy poverty. So if a house&rsquo;s solar panels produce excess electricity that would generally go to waste, that surplus can be transferred to another, immediately and at a locally determined price. Similarly, as <a href="https://ec.europa.eu/epsc/publications/strategic-notes/towards-low-emission-mobility_en#footnote6" target="_blank" rel="noopener noreferrer">cars are on average parked 92 percent of the time</a>, why not share them with those who face obstacles to mobility and maximize everyone&rsquo;s benefits?</p>
-</div>
-<div>
-<p>Finally, circular and collaborative innovations would not run as efficiently &ndash; if at all &ndash; had we not entered the connective economy. Thanks to connectivity, drones can be activated with one click to deliver medicines to rural areas, saving lives that an ambulance would have never reached. The most expensive part of that drone &ndash; which can be built <a href="http://m.crn.com/news/mobility/video/300082469/watch-a-drone-expert-and-hps-cto-build-a-drone-in-under-15-minutes.htm" target="_blank" rel="noopener noreferrer">in 15 minutes</a> &ndash; was probably the result of a worldwide hackathon that made it openly accessible and brought its cost down to $8. Connectivity has extended our imagination, allowing us to engineer solutions to seemingly unsolvable problems, and invent new professions that not long ago only belonged to science fiction.</p>
-</div>
-<div>
-<p>Connectivity also means that we can invite more talent &ndash; all talent &ndash; into the future workplace. Initiatives like <a href="http://stevensinitiative.org/" target="_blank" rel="noopener noreferrer">Stevens</a> use virtual exchanges to build cross-cultural skills and facilitate the integration of today&rsquo;s immigrant children into tomorrow&rsquo;s ever more diverse workforce. The elderly and people with disabilities can overcome physical limits and enter digital workplaces. Women can tear down the last barriers of gender discrimination.</p>
-<div><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/03100000/oDl8KTWIY7TV9mrwOqQsxzNX6YAkZtVtGFH-unhOMCU-1024x566.png" alt="Image: European Commission. " width="1024" height="566"><p>Image: European Commission.</p></div>
-<p>When we look at the future of work with circular, collaborative and connective lenses, it stops looking like the automation apocalypse. These &ldquo;three Cs&rdquo; are not just attributes of an economy that may well yield minimum waste and maximum benefits for a larger number of people. They are qualities of a networked society in which we become individually stronger when we act collectively. They are critical skills that allow us to turn specific problems into systemic possibilities, and shape the future of work we want. They are the demonstration that, in the 21st century, solidarity is not just an ethical quality, but it makes social and economic sense. A robot cannot see and seize that.</p>
-<p>&nbsp;</p>
-</div>
-</div>
-</div>
-<p>(Top photo: Courtesy Getty Images.)</p>
-<p>&nbsp;</p>
-<p>This piece first appeared in the World Economic Forum&rsquo;s <a href="https://www.weforum.org/agenda/2016/11/automation-is-not-the-end-of-the-world-here-s-why" target="_blank" rel="noopener noreferrer">Agenda blog</a>.</p>
-<p>&nbsp;</p>
-<p><em><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/01/03100000/small_2mFLBzsEQrKBsg1TeKNlJ0tlJmzordS4c9gVlRFl3pg-150x150.jpg" alt="small_2mFLBzsEQrKBsg1TeKNlJ0tlJmzordS4c9gVlRFl3pg" width="150" height="150">Leonardo Quattrucci is the Policy Assistant to the Head of the European Commission&rsquo;s European Strategy Centre.&nbsp;</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>All views expressed are those of the author.</p>]]></content>
-	<updated>2017-01-03T10:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.ge.com/reports</id>
-		<link rel="self" href="https://www.ge.com/reports"/>
-		<updated>2017-01-03T10:00:00+00:00</updated>
-		<title>GE Reports</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441370</id>
-	<link href="https://phys.org/news/2017-10-involved-geoengineering-debate.html" rel="alternate" type="text/html"/>
-	<title type="html">Why you need to get involved in the geoengineering debate – now</title>
-	<summary type="html"><![CDATA[<p>The prospect of engineering the world's climate system to tackle global warming is becoming more and...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The prospect of engineering the world's climate system to tackle global warming is becoming more and more likely. This may seem like a crazy idea but I, and over 250 other scientists, policy makers and stakeholders from around the globe recently descended on Berlin to debate the promises and perils of geoengineering.</p>]]></content>
-	<updated>2017-10-19T14:10:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-19T14:10:03+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="environment"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/whyyouneedto.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441283</id>
-	<link href="https://phys.org/news/2017-10-secret-bees-amazing-nanotechnologies-hidden.html" rel="alternate" type="text/html"/>
-	<title type="html">Flowers' secret signal to bees and other amazing nanotechnologies hidden in plants</title>
-	<summary type="html"><![CDATA[<p>Flowers have a secret signal that's specially tailored for bees so they know where to collect nectar...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Flowers have a secret signal that's specially tailored for bees so they know where to collect nectar. And new research has just given us a greater insight into how this signal works. Nanoscale patterns on the petals reflect light in a way that effectively creates a "blue halo" around the flower that helps attract the bees and encourages pollination.</p>]]></content>
-	<updated>2017-10-19T12:10:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-19T12:10:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="plants &amp; animals"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/flowerssecre.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441373</id>
-	<link href="https://phys.org/news/2017-10-mathematically-hiv-drug-pharmacodynamics.html" rel="alternate" type="text/html"/>
-	<title type="html">Mathematically modeling HIV drug pharmacodynamics</title>
-	<summary type="html"><![CDATA[<p>37 million people around the world today live with Human Immunodeficiency Virus (HIV), which is resp...</p>]]></summary>
-	<content type="html"><![CDATA[<p>37 million people around the world today live with Human Immunodeficiency Virus (HIV), which is responsible for roughly 1.1 million deaths caused by AIDS-related conditions.</p>]]></content>
-	<updated>2017-10-19T14:00:05+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-19T14:00:05+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="mathematics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/9-mathematical.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441312</id>
-	<link href="https://phys.org/news/2017-10-stem-cell-platform-human.html" rel="alternate" type="text/html"/>
-	<title type="html">Stem cell platform sheds new light on beginnings of human development</title>
-	<summary type="html"><![CDATA[<p>Researchers at University of Toronto's Medicine By Design have engineered a new platform to study th...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Researchers at University of Toronto's Medicine By Design have engineered a new platform to study the earliest stages of human development in the lab, pulling back the curtain on key biological processes that until now have taken place inside the uterus, beyond the gaze of scientists.</p>]]></content>
-	<updated>2017-10-19T13:20:41+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-19T13:20:41+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="biotechnology"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441313</id>
-	<link href="https://phys.org/news/2017-10-international-human-cell-atlas-publishes.html" rel="alternate" type="text/html"/>
-	<title type="html">The international Human Cell Atlas publishes strategic blueprint, announces data from first one million cells</title>
-	<summary type="html"><![CDATA[<p>The Human Cell Atlas (HCA) Consortium has released a blueprint for the international initiative's ef...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The Human Cell Atlas (HCA) Consortium has released a blueprint for the international initiative's efforts to create a comprehensive reference map of all human cells, a project that will form the basis for a deeper understanding of human health and for diagnosing, monitoring, and treating disease.</p>]]></content>
-	<updated>2017-10-19T13:19:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-19T13:19:55+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="cell &amp; microbiology"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/2-theinternati.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441290</id>
-	<link href="https://phys.org/news/2017-10-scientists-reveal-superbug-artillery.html" rel="alternate" type="text/html"/>
-	<title type="html">Scientists reveal 'superbug's' artillery</title>
-	<summary type="html"><![CDATA[<p>Monash University's Biomedicine Discovery Institute (BDI) researchers have created the first high-re...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Monash University's Biomedicine Discovery Institute (BDI) researchers have created the first high-resolution structure depicting a crucial part of the 'superbug' Pseudomonas aeruginosa, classified by the WHO as having the highest level threat to human health. The image identifies the 'nanomachine' used by the highly virulent bacteria to secrete toxins, pointing the way for drug design targeting this.</p>]]></content>
-	<updated>2017-10-19T11:37:07+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-19T11:37:07+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="cell &amp; microbiology"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/42-scientistsre.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441397</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/hfsp-spt101917.php" rel="alternate" type="text/html"/>
-	<title type="html">Svante Pääbo to receive the 2018 HFSP Nakasone Award</title>
-	<summary type="html"><![CDATA[<p>(Human Frontier Science Program) Svante P&auml;&auml;bo of the Max Planck Institute for Evolutionary Anthropol...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Human Frontier Science Program</i>) Svante P&auml;&auml;bo of the Max Planck Institute for Evolutionary Anthropology in Leipzig (Germany) was the 2018 HFSP Nakasone Award awarded for his discovery of the extent to which hybridization with Neanderthals and Denisovans has shaped the evolution of modern humans, and his development of techniques for sequencing DNA from fossils.</p>]]></content>
-	<updated>2017-10-19T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-19T04:00:00+00:00</updated>
-		<title>EurekAlert! - Earth Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-18:/384549</id>
-	<link href="https://www.linux.com/news/explained-neural-networks" rel="alternate" type="text/html"/>
-	<title type="html">Explained: Neural Networks</title>
-	<summary type="html"><![CDATA[<p>In the past 10 years, the best-performing artificial-intelligence systems &mdash; such as the speech recog...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>In the past 10 years, the best-performing artificial-intelligence systems &mdash; such as the speech recognizers on smartphones or Google&rsquo;s latest automatic translator &mdash; have resulted from a technique called &ldquo;deep learning.&rdquo;</p></div></div></div>]]></content>
-	<updated>2017-04-18T11:30:56+00:00</updated>
-	<author><name>MIT News</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-04-18T11:30:56+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-18:/441054</id>
-	<link href="https://www.gamingonlinux.com/articles/openage-the-open-source-game-engine-for-age-of-empires-ii-and-more-games-is-advancing.10568" rel="alternate" type="text/html"/>
-	<title type="html">openage, the open source game engine for Age of Empires II and more games is advancing</title>
-	<summary type="html"><![CDATA[<p>Tags: Open Source, Game EngineAnother open source game engine has been advancing recently, this time...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Tags: Open Source, Game Engine</p><p></p><p>Another open source game engine has been advancing recently, this time it's openage [<a href="http://openage.sft.mx/" target="_blank" rel="noopener noreferrer">Official Site</a>, <a href="https://github.com/SFTtech/openage" target="_blank" rel="noopener noreferrer">GitHub</a>], the game engine for playing games like Age of Empires, Age of Empires II (HD) and Star Wars: Galactic Battlegrounds.</p>
-
-<p>Shared on <a href="https://www.reddit.com/r/linux_gaming/comments/776vxq/status_of_openage_open_source_engine_clone_of/" target="_blank" rel="noopener noreferrer">reddit</a> was this video showing off some of the progress:</p>
-
-<div></div>
-
-<p>Looks like it's really starting to come together, which is awesome. As someone who spent hours playing AoE, this project is really exciting to me. Who knows, in another year perhaps this might be quite playable? Looks a bit rough right now of course, but very interesting to see the state of it right now.</p>
-
-<p>Much like OpenMW (Morrowind), OpenRA (Red Alert, Command &amp; Conquer, Dune 2000) and others, it aims to be an engine reimplementation that requires the original game assets. According to a comment from a developer, they're targetting Age of Empires II first, with Age of Empires and Star Wars: Galactic Battlegrounds to follow.</p>]]></content>
-	<updated>2017-10-18T22:10:18+00:00</updated>
-	<author><name>contact@gamingonlinux.com (liamdawe)</name></author>
-	<source>
-		<id>https://www.gamingonlinux.com/</id>
-		<link rel="self" href="https://www.gamingonlinux.com/"/>
-		<updated>2017-10-18T22:10:18+00:00</updated>
-		<title>GamingOnLinux.com Latest Articles</title></source>
-
-	<category term="open source"/>
-
-	<category term="game engine"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441230</id>
-	<link href="https://phys.org/news/2017-10-individual-cellular-receptors.html" rel="alternate" type="text/html"/>
-	<title type="html">Researchers observe individual cellular receptors at work</title>
-	<summary type="html"><![CDATA[<p>Using a revolutionary live-cell microscopy technique, an international team of scientist has for the...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Using a revolutionary live-cell microscopy technique, an international team of scientist has for the first time observed individual receptors for hormones and drugs working in intact cells.</p>]]></content>
-	<updated>2017-10-19T09:29:53+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-19T09:29:53+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="biochemistry"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/individualre.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-04:/380445</id>
-	<link href="https://www.linux.com/news/sir-tim-berners-lee-receives-2016-acm-am-turing-award" rel="alternate" type="text/html"/>
-	<title type="html">Sir Tim Berners-Lee Receives 2016 ACM A.M. Turing Award</title>
-	<summary type="html"><![CDATA[<p>ACM named&nbsp;Sir Tim Berners-Lee, a Professor at Massachusetts Institute of Technology and the Universi...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>ACM named&nbsp;<a href="http://awards.acm.org/award_winners/berners-lee_8087960" target="_blank" rel="noopener noreferrer">Sir Tim Berners-Lee</a>, a Professor at Massachusetts Institute of Technology and the University of Oxford, the recipient of the 2016 ACM A.M. Turing Award. Berners-Lee was cited for inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale.</p></div></div></div>]]></content>
-	<updated>2017-04-04T13:30:56+00:00</updated>
-	<author><name>Communications of the ACM</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-04-04T13:30:56+00:00</updated>
-		<title>Linux.com</title></source>
-
 
 </entry>
 
