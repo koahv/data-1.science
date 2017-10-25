@@ -4,11 +4,408 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-10-19T16:00:06+00:00</updated>
+<updated>2017-08-06T11:00:16+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444381</id>
+	<link href="https://www.linuxfoundation.org/press-release/linux-foundation-releases-annual-kernel-development-report/" rel="alternate" type="text/html"/>
+	<title type="html">The Linux Foundation Releases Annual Kernel Development Report</title>
+	<summary type="html"><![CDATA[<p>Latest version of annual report demonstrates the continued growth in interest and participation in t...</p>]]></summary>
+	<content type="html"><![CDATA[<p><i><span>Latest version of annual report demonstrates the continued growth in interest and participation in the Linux kernel, as well as accelerating rate of change</span></i></p>
+<p><b>PRAGUE (Open Source Summit Europe) &ndash; October 25, 2017 &ndash;</b> <a href="http://www.linuxfoundation.org/" rel="noopener noreferrer" target="_blank"><span>The Linux Foundation</span></a><span>, the nonprofit organization enabling mass innovation through open source, </span><span>today announced the immediate release of its </span><a href="https://www.linuxfoundation.org/2017-linux-kernel-report-landing-page/" rel="noopener noreferrer" target="_blank"><span>2017 Linux Kernel Development Report</span></a><span>. The report analyzes the work done by 15,600 developers over more than a decade, as well as more recent trends. </span></p>
+<p><span>This is the eighth such report that is released on a roughly annual basis to help illustrate the Linux kernel development process and the work that defines the largest collaborative project in the history of computing. This year&rsquo;s paper covers work completed through Linux kernel 4.13, with an emphasis on releases 4.8 to 4.13. The last report was released in August 2016 and focused on 3.19 to 4.7.</span></p>
+<p><span>Key findings from this year&rsquo;s paper include:</span></p>
+<ul>
+<li><span>Roughly 15,600 developers from more than 1,400 companies have contributed to the Linux kernel </span><span>since the adoption of Git made detailed tracking possible</span><span>. Since the last report, over 4,300 developers from more than 500 companies have contributed to the kernel; 1,670 of these developers contributed for the first time, comprising about a third of contributors. </span></li>
+</ul>
+<ul>
+<li><span>The Top 10 organizations sponsoring Linux kernel development since the last report include Intel, Red Hat, Linaro, IBM, Samsung, SUSE, Google, AMD, Renesas and Mellanox. The complete top 30 contributing organizations can be seen in the full report.</span></li>
+</ul>
+<ul>
+<li><span>The rate of Linux development continues to increase, as does the number of developers and companies involved in the process. The average number of changes accepted into the kernel per hour is 8.5, a significant increase from the 7.8 changes in the last report, which translates to 204 changes every day and over 1,400 per week. The average days of development per release increased slightly to 67.66 days from 66 last year, with every release spaced either 63 or 70 days apart, providing significant predictability. The 4.9 and 4.12 development cycles featured the highest patch rates ever seen in the history of the kernel project.</span></li>
+</ul>
+<ul>
+<li><span>The number of unpaid developers may be stabilizing, with these developers contributing 8.2% of contributions, a slight increase from 7.7% in last year&rsquo;s report. This is still significantly down from the 11.8% reported in 2014. This is likely due to kernel developers being in short supply, leading those who demonstrate the ability to submit quality patches to not have trouble finding job offers.</span></li>
+</ul>
+<p><span>The report is co-authored by </span><span>Jonathan</span><span> Corbet, Linux kernel developer and editor of LWN.net, and Greg Kroah-Hartman, Linux kernel maintainer and Linux Foundation fellow. This year&rsquo;s report also features interviews with 17 Linux kernel developers and maintainers.</span></p>
+<p><span>&ldquo;The incredible rates of contribution and participation in the Linux kernel demonstrate the continued strength and scalability of the kernel community,&rdquo; said Jim Zemlin, executive director of The Linux Foundation. &ldquo;This report provides important information that helps show how incredibly effective the collaborative development model can be for one of the most essential software projects in history.&rdquo;</span></p>
+<p><span>To download the full report, please visit </span><a href="https://www.linuxfoundation.org/2017-linux-kernel-report-landing-page/" rel="noopener noreferrer" target="_blank"><span>https://www.linuxfoundation.org/2017-linux-kernel-report-landing-page/</span></a><span>. </span></p>
+<p><span>The paper is being released today at the invitation-only Linux Kernel Summit, taking place alongside Open Source Summit Europe, hosted by The Linux Foundation. Open Source Summit is a technical conference where 2,000+ developers, operators, and community leadership professionals convene to collaborate, share information and learn about the latest in open technologies, including Linux, containers, cloud computing and more. The event combines the existing LinuxCon, ContainerCon and CloudOpen conferences with the all new Open Community Conference and Diversity Empowerment Summit. For more information and keynote session livestream, visit </span><a href="http://events.linuxfoundation.org/events/open-source-summit-europe/program/live-video-stream" rel="noopener noreferrer" target="_blank"><span>http://events.linuxfoundation.org/events/open-source-summit-europe/program/live-video-stream</span></a><span>. </span></p>
+<p><span>Additional Resources</span></p>
+<p><span>Video: Greg Kroah-Hartman: Linux Kernel Development &ndash; </span><a href="https://www.youtube.com/watch?v=mmu0pkSI5sw" rel="noopener noreferrer" target="_blank"><span>https://www.youtube.com/watch?v=mmu0pkSI5sw</span></a></p>
+<p><b>About The Linux Foundation</b></p>
+<p><span>The Linux Foundation is the organization of choice for the world&rsquo;s top developers and companies to build ecosystems that accelerate open technology development and commercial adoption. Together with the worldwide open source community, it is solving the hardest technology problems by creating the largest shared technology investment in history. Founded in 2000, The Linux Foundation today provides tools, training and events to scale any open source project, which together deliver an economic impact not achievable by any one company. More information can be found at </span><a href="http://www.linuxfoundation.org" rel="noopener noreferrer" target="_blank"><span>www.linuxfoundation.org</span></a><span>.</span></p>
+<p><span># # #</span></p>
+<p><i><span>The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our trademark usage page:</span></i><a href="https://www.linuxfoundation.org/trademark-usage" rel="noopener noreferrer" target="_blank"><i><span> https://www.linuxfoundation.org/trademark-usage</span></i></a><i><span>. Linux is a registered trademark of Linus Torvalds.</span></i></p>
+<p>The post <a rel="noopener noreferrer" href="https://www.linuxfoundation.org/press-release/linux-foundation-releases-annual-kernel-development-report/" target="_blank">The Linux Foundation Releases Annual Kernel Development Report</a> appeared first on <a rel="noopener noreferrer" href="https://www.linuxfoundation.org" target="_blank">The Linux Foundation</a>.</p>]]></content>
+	<updated>2017-10-25T06:35:25+00:00</updated>
+	<author><name>Linux Foundation</name></author>
+	<source>
+		<id>https://www.linuxfoundation.org</id>
+		<link rel="self" href="https://www.linuxfoundation.org"/>
+		<updated>2017-10-25T06:35:25+00:00</updated>
+		<title>The Linux Foundation</title></source>
+
+	<category term="linux foundation"/>
+
+	<category term="press release"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444391</id>
+	<link href="https://phys.org/news/2017-10-explore-affects-teeth-nanoscale.html" rel="alternate" type="text/html"/>
+	<title type="html">Researchers explore how chewing affects teeth on the nanoscale</title>
+	<summary type="html"><![CDATA[<p>Food leaves permanent traces on teeth. Cows chewing on grass, tigers tearing up a piece of raw meat ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Food leaves permanent traces on teeth. Cows chewing on grass, tigers tearing up a piece of raw meat and humans munching on tortilla chips all end up with tiny scratches and nicks on the enamel of their teeth. Examining these marks on the microscale&mdash;what researchers call "microwear"&mdash;has led to new discoveries about the nature of teeth and the diet of our human ancestors.</p>]]></content>
+	<updated>2017-10-25T06:28:37+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-25T06:28:37+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="nanomaterials"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/36-researcherse.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/444288</id>
+	<link href="http://physicsworld.com/cws/article/news/2017/oct/24/photonic-nanostructures-bring-bees-to-flowers" rel="alternate" type="text/html"/>
+	<title type="html">Photonic nanostructures bring bees to flowers</title>
+	<summary type="html"><![CDATA[<p>Flash Physics: need-to-know updates from the world of physics</p>]]></summary>
+	<content type="html"><![CDATA[<p>Flash Physics: need-to-know updates from the world of physics<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/Wq4GP-uw9U8" height="1" width="1" alt=""></p>]]></content>
+	<updated>2017-10-24T13:00:36+00:00</updated>
+	<author><name>Marric Stephens</name></author>
+	<source>
+		<id>http://physicsworld.com/</id>
+		<link rel="self" href="http://physicsworld.com/"/>
+		<updated>2017-10-24T13:00:36+00:00</updated>
+		<title>physicsworld.com: all content</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/444107</id>
+	<link href="http://www.renewableenergyworld.com/articles/2017/10/li-ion-tech-get-first-testing-platform-for-battery-lifetime.html" rel="alternate" type="text/html"/>
+	<title type="html">Li-ion Tech Gets First Testing Platform for Battery Lifetime</title>
+	<summary type="html"><![CDATA[<p>DNV GL yesterday said that it has created the first testing-based verification of battery lifetime f...</p>]]></summary>
+	<content type="html"><![CDATA[<p>DNV GL yesterday said that it has created the first testing-based verification of battery lifetime for lithium-ion batteries.</p><img src="http://feeds.feedburner.com/~r/RenewableEnergyNewsRssFeed/~4/jOdwbMoSvag" height="1" width="1" alt="">]]></content>
+	<updated>2017-10-24T16:46:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.renewableenergyworld.com</id>
+		<link rel="self" href="http://www.renewableenergyworld.com"/>
+		<updated>2017-10-24T16:46:00+00:00</updated>
+		<title>Renewable Energy News RSS Feed</title></source>
+
+	<category term="storage"/>
+
+	<category term="news"/>
+
+
+	<link rel="enclosure" 
+		type="image/png" 
+		length="1"
+		href="http://www.renewableenergyworld.com/content/rew/en/articles/2017/10/li-ion-tech-get-first-testing-platform-for-battery-lifetime/_jcr_content/leftcolumn/article/thumbnailimage.img.jpg"/>
+
+	<link rel="enclosure" 
+		type="image/png" 
+		length="1"
+		href="http://www.renewableenergyworld.com/content/rew/en/articles/2017/10/li-ion-tech-get-first-testing-platform-for-battery-lifetime/_jcr_content/leftcolumn/article/headerimage.img.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/444142</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171024133733.htm" rel="alternate" type="text/html"/>
+	<title type="html">Supercomputers help scientists improve seismic forecasts for California</title>
+	<summary type="html"><![CDATA[<p>Researchers have used the Stampede1 and 2 supercomputers to complete one of the world's largest eart...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Researchers have used the Stampede1 and 2 supercomputers to complete one of the world's largest earthquake simulation models: The Uniform California Earthquake Rupture Forecast (UCERF3). The simulations showed that in the week following a magnitude 7.0 earthquake, the likelihood of another magnitude 7.0 quake in California would be up to 300 times greater than the week before.</p>]]></content>
+	<updated>2017-10-24T17:37:33+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-24T17:37:33+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171024133733-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444479</id>
+	<link href="https://phys.org/news/2017-10-atlas-photon-tagged-jet-quenching-quark-gluon.html" rel="alternate" type="text/html"/>
+	<title type="html">ATLAS Experiment studies photon-tagged jet quenching in the quark-gluon plasma</title>
+	<summary type="html"><![CDATA[<p>Collisions of lead nuclei in the LHC form the hot, dense medium known as the quark-gluon plasma (QGP...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Collisions of lead nuclei in the LHC form the hot, dense medium known as the quark-gluon plasma (QGP). Experimentally, the QGP is characterised by the collective flow of emerging quarks and gluons. They fragment into highly collimated "jets" of particles that in turn lose energy through a phenomenon known as jet quenching. Studying this effect can improve the understanding of quantum chromodynamics, the theory of the strong nuclear interaction that governs the behaviour of the QGP.</p>]]></content>
+	<updated>2017-10-25T10:48:56+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-25T10:48:56+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="general physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-3-atlasexperim.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/444248</id>
+	<link href="https://futurism.com/the-next-most-powerful-supercomputer-in-the-u-s-is-almost-complete/" rel="alternate" type="text/html"/>
+	<title type="html">The Next Most Powerful Supercomputer in the U.S. Is Almost Complete</title>
+	<summary type="html"><![CDATA[<p>Computing for Science
+Inside one of the rooms of the Oak Ridge National Laboratory (ORNL) at Tenness...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Computing for Science</h2>
+<p>Inside one of the rooms of the <a href="https://www.olcf.ornl.gov/" target="_blank" rel="noopener noreferrer">Oak Ridge National Laboratory (ORNL)</a> at Tennessee, the next fastest and most powerful supercomputer in the U.S. is getting ready to solve some of science&rsquo;s biggest questions. Meet the&nbsp;<a href="https://www.olcf.ornl.gov/summit/" target="_blank" rel="noopener noreferrer">Summit supercomputer</a>, which is designed to be the predecessor to ORNL&rsquo;s current high-performance supercomputer called Titan.</p>
+<p>Supercomputers have been around for some time now. The high-performance computing these devices are capable of make them ideal for running larger and more complex computational problems, such as those that deal with questions of science. For Oak Ridge Leadership Computing Facility project director Buddy Bland, these type of big problems would make a good test for Summit&rsquo;s capabilities.</p>
+<p></p>
+<p>&ldquo;We will try to run some big problems,&rdquo; <a href="http://www.knoxnews.com/story/news/2017/10/17/summit-supercomputer-exascale-oak-ridge-national-lab/750965001/" target="_blank" rel="noopener noreferrer">he told the </a><i><a href="http://www.knoxnews.com/story/news/2017/10/17/summit-supercomputer-exascale-oak-ridge-national-lab/750965001/" target="_blank" rel="noopener noreferrer">Knoxville News Sentinel</a></i>, referring to the period of &ldquo;early science&rdquo; Summit will be busy with as soon as it becomes operational in 2018. The remaining parts of Summit will come in February, Bland said, &ldquo;Then we would expect the machine to be built up and accepted sometime next summer.&rdquo;</p>
+<p>Once built, the science problems Summit will tackle include testing and developing stronger, lighter manufacturing materials; the use of sound waves to model the inside of the Earth; and other astrophysics projects that explore the universe&rsquo;s origins.</p>
+<p>&ldquo;For instance, we&rsquo;ll be looking into why supernovae explode,&rdquo; Bland said. &ldquo;When stars explode, they create all of the elements we find in the universe, everything that&rsquo;s part of you and me and part of this planet gets created.&rdquo; The ORNL team expects Summit to be available for open research by 2019.</p>
+<h2>Radically More Powerful Supercomputer</h2>
+<p>Currently, the world&rsquo;s fastest and most powerful supercomputer is in China.&nbsp;<a href="https://futurism.com/china-builds-the-worlds-fastest-supercomputer-93-petaflops/" target="_blank" rel="noopener noreferrer">The Sunway TaihuLight</a>&nbsp;is capable of 93 peta floating-point operations per second (FLOPS) of computing power, with a theoretical peak of 125 petaFLOPS. A FLOP measures computing speed, and a petaFLOP is equal to one thousand million million (10<sup>15</sup>) FLOPS. Today&rsquo;s regular computers, in contrast, can only perform about 63GFLOPS, although <a href="https://www.popsci.com/intel-teraflop-chip" target="_blank" rel="noopener noreferrer">Intel has developed a chip</a> that can give your desktop computer some teraFLOPS of power.<figure><a href="https://futurism.com/images/meet-powerful-computers-world/" rel="noopener noreferrer" target="_blank"><img src="https://futurism.com/wp-content/uploads/2015/12/supercomputers_home.jpg" alt="Meet The Most Powerful Computers in the World"></a><figcaption><strong><a href="https://futurism.com/images/meet-powerful-computers-world/" target="_blank" rel="noopener noreferrer">Click to View Full Infographic</a></strong></figcaption></figure>
+</p><p>Summit, on the other hand, would be capable of 200 petaFLOPS, which potentially outperforms the Sunway TaihuLight. It&rsquo;s able to do this thanks to&nbsp;<a href="http://www.nvidia.com/object/what-is-gpu-computing.html" target="_blank" rel="noopener noreferrer">GPU-accelerated computing</a>, which means it uses a central processing unit&nbsp;&mdash; like regular computers do&nbsp;&mdash; but is coupled with graphical processing units (GPUs) to perform computations. GPUs create realistic visuals in video games, but they also help scientists when they use supercomputers to understand physical phenomenon.</p>
+<p>&ldquo;For the first time, we were able to do a simulation of a star exploding in three dimensions and we found that it wasn&rsquo;t symmetric all the way around,&rdquo; Bland said, referring to an exploding star simulation ORNL ran on the Titan. &ldquo;When a star starts collapsing in on itself and then explodes out, you&rsquo;ve got these rolling and tumbling things.&rdquo;</p>
+<p>In short, the Summit will be the fastest supercomputer around by 2018. But ORNL doesn&rsquo;t want to stop there. By 2021, they plan on developing the world&rsquo;s first exascale computer, capable of processing information at one exaFLOP or a billion billion operations per second. That&rsquo;s 50 times faster than the fastest supercomputer. Still, <a href="https://futurism.com/the-eight-most-powerful-supercomputers-in-the-world/" target="_blank" rel="noopener noreferrer">as powerful as these supercomputers</a> will be, scientists are also looking forward to a universal quantum computer.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/the-next-most-powerful-supercomputer-in-the-u-s-is-almost-complete/" target="_blank">The Next Most Powerful Supercomputer in the U.S. Is Almost Complete</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-24T21:15:51+00:00</updated>
+	<author><name>Dom Galeon</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-24T21:15:51+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="robots &amp; machines"/>
+
+	<category term="computing"/>
+
+	<category term="ornl"/>
+
+	<category term="summit"/>
+
+	<category term="supercomputer"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/444109</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uab-hni102417.php" rel="alternate" type="text/html"/>
+	<title type="html">How Neanderthals influenced human genetics at the crossroads of Asia and Europe</title>
+	<summary type="html"><![CDATA[<p>(University at Buffalo) A new study explores the genetic legacy of ancient trysts between Neandertha...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University at Buffalo</i>) A new study explores the genetic legacy of ancient trysts between Neanderthals and the ancestors of modern humans, with a focus on Western Asia, the region where the first relations may have occurred.</p>]]></content>
+	<updated>2017-10-24T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-24T04:00:00+00:00</updated>
+		<title>EurekAlert! - Earth Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/444148</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171024105656.htm" rel="alternate" type="text/html"/>
+	<title type="html">Brain region that motivates behavior change discovered</title>
+	<summary type="html"><![CDATA[<p>Ever been stuck in a rut? Researchers found that stimulating a region of the brain called the poster...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Ever been stuck in a rut? Researchers found that stimulating a region of the brain called the posterior cingulate cortex can lead to changes in routine behavior. Neurons there ramp up their firing rates, then peak just before a pattern shifts. Knowing this could help businesses better understand how to spur employee innovation, exploration and creativity.</p>]]></content>
+	<updated>2017-10-24T14:56:56+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-24T14:56:56+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/444080</id>
+	<link href="https://futurism.com/cern-scientist-on-life-after-the-higgs-boson/" rel="alternate" type="text/html"/>
+	<title type="html">CERN Scientist on What Physicists Have Left to Discover After Higgs Boson</title>
+	<summary type="html"><![CDATA[<p>A Tiny, Huge Discovery
+On July 4th, 2012, researchers&nbsp;from&nbsp;the European Organization for Nuclear Res...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>A Tiny, Huge Discovery</h2>
+<p>On July 4th, 2012, researchers&nbsp;from&nbsp;the European Organization for Nuclear Research (CERN) made a big announcement. They had observed the Higgs boson, an elementary particle predicted by&nbsp;one of the&nbsp;best models for physics in the universe.&nbsp;&ldquo;&lsquo;We discovered the particle that makes it possible for atoms to form in the first place.&rsquo; That&rsquo;s much sexier,&rdquo; James Beacham, a particle physicist at CERN, said&nbsp;of the discovery in an interview at&nbsp;<a href="http://brainbar.com/speaker/james-beacham" rel="noopener noreferrer" target="_blank">Brain Bar Budapest,</a> a future-oriented science festival in Hungary held in June.</p>
+<p>Those in the know might have been anticipating this observation for decades, but that didn&rsquo;t dampen the excitement. The discovery marked the culmination of a 40-year scientific effort, as Beacham noted, and it&nbsp;<a href="https://home.cern/topics/higgs-boson" rel="noopener noreferrer" target="_blank">garnered the Nobel Prize in physics in 2013</a>.</p>
+<p>Most discoveries in physics remain far from the public eye, esoteric and uninviting to the masses. But this discovery of a new particle, predicted by many and finally observed after so much work and anticipation &mdash; was different. It sparked a media frenzy, <a href="https://www.pri.org/stories/2016-08-27/physics-failure-brings-almost-much-excitement-success" rel="noopener noreferrer" target="_blank">the excitement from which continued well beyond</a>&nbsp;the days and weeks after the discovery was announced.</p>
+<p></p>
+<h2>Moving On</h2>
+<p>There was great success and celebration, but every party has to end. After the discovery of the Higgs boson, CERN scientists seemed to fall into a slow, sullen post-discovery period, if <a href="https://www.nytimes.com/2017/06/19/science/cern-large-hadron-collider-higgs-physics.html?_r=0" rel="noopener noreferrer" target="_blank">a recent article from the <em>New York Times</em></a>&nbsp;is to be believed.</p>
+<p>Beacham paints a different picture. From his telling, CERN isn&rsquo;t stalling out, it&rsquo;s in a honeymoon phase. The Higgs boson discovery really just answered one question: whether or not it existed, he said at the June event. &ldquo;The second we found [the Higgs boson], that was not enough for us. We&nbsp;want to know every single one of its properties,&rdquo; Beacham said. &ldquo;Even before we announced it&hellip;we were ahead.&rdquo; This discovery had been predicted for so long that, while the observation itself was thrilling, CERN researchers were already working on&nbsp;what else this observation could reveal.</p>
+<p>Discovering the Higgs boson&nbsp;created many more questions than it answered &mdash; physics is funny like that. &ldquo;So for us, there was no celebration downtime,&rdquo; Beacham said. That&rsquo;s in part because the Higgs is &ldquo;a crazy particle,&rdquo; he added. &ldquo;It&rsquo;s unlike anything else that we know of in the Standard Model.&rdquo; Predicting the Higgs boson came with so many precise conditions that its existence&nbsp;allows scientists to test&nbsp;a number of other conditions that the model predicts.</p>
+<p>This is how Beacham and a lot of other CERN scientists are spending their time these days&nbsp;&mdash; exploring questions never before answered, with this discovery serving as a magnificent jumping off point.&nbsp;&ldquo;Now, the current and foreseeable future for&nbsp;ATLAS [one of the five major experiments at CERN]&nbsp;is to make sure that we&rsquo;re not going to miss anything,&rdquo; he said. That is, he admits, a little vague, but that&rsquo;s the beauty of this type of exploration. There are still particles that physicists have predicted, but which no one has yet observed. The more we discover, the more complex the universe becomes to us.&nbsp;&ldquo;[CERN is] one of the most sophisticated devices that anyone has ever designed, and we have to do our damnedest to make sure that we don&rsquo;t miss anything,&rdquo; Beacham said.</p>
+<p>There were those who viewed the discovery of the Higgs boson&nbsp;with a sort of finality &mdash; a tremendously anticipated observation that would tell researchers one way or another if they were right or if somehow they&rsquo;d misinterpreted the trusted standard model.&nbsp;But that&rsquo;s not how physicists see it.</p>
+<p>Physics, like many fields that pursue knowledge and truth, is a winding path punctuated&nbsp;by jumps and halts.&nbsp;Beacham wasn&rsquo;t able to&nbsp;predict&nbsp;exactly what the next big discovery might be, but the curiosity and uncertainty are&nbsp;part of what makes discovery and the endless quest to answer &ldquo;what if?&rdquo; so magical.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/cern-scientist-on-life-after-the-higgs-boson/" target="_blank">CERN Scientist on What Physicists Have Left to Discover After Higgs Boson</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-24T16:25:55+00:00</updated>
+	<author><name>Chelsea Gohd</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-24T16:25:55+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="hard science"/>
+
+	<category term="cern"/>
+
+	<category term="discovery"/>
+
+	<category term="higgs boson"/>
+
+	<category term="particle physics"/>
+
+	<category term="physics"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/444075</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171024103319.htm" rel="alternate" type="text/html"/>
+	<title type="html">Self-esteem mapped in the human brain</title>
+	<summary type="html"><![CDATA[<p>A team of researchers has devised a mathematical equation that can explain how our self-esteem is sh...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A team of researchers has devised a mathematical equation that can explain how our self-esteem is shaped by what other people think of us.</p>]]></content>
+	<updated>2017-10-24T14:33:19+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-24T14:33:19+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/10/171024103319-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/443993</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/uob-hln102417.php" rel="alternate" type="text/html"/>
+	<title type="html">High-speed locomotion neurons found in the brainstem</title>
+	<summary type="html"><![CDATA[<p>(University of Basel) A clearly defined subpopulation of neurons in the brainstem is essential to ex...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Basel</i>) A clearly defined subpopulation of neurons in the brainstem is essential to execute locomotion at high speeds. Interestingly, these high-speed neurons are intermingled with others that can elicit immediate stopping. How defined groups of brainstem neurons can regulate important aspects of full motor programs, reports a study by researchers of the Biozentrum at the University of Basel and the Friedrich Miescher Institute for Biomedical Research (FMI). The journal Nature has published the results.</p>]]></content>
+	<updated>2017-10-24T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-24T04:00:00+00:00</updated>
+		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-24:/444218</id>
+	<link href="http://www.deepseanews.com/2017/10/how-the-squid-lost-its-shell/" rel="alternate" type="text/html"/>
+	<title type="html">How the Squid Lost Its Shell</title>
+	<summary type="html"><![CDATA[<p>This is a guest post by Dr. Danna Staaf, a science writer with a PhD in marine biology from Stanford...</p>]]></summary>
+	<content type="html"><![CDATA[<p><em>This is a guest post by Dr. Danna Staaf, a science writer with a PhD in marine biology from Stanford University. Her first book, <a href="https://www.amazon.com/Squid-Empire-Rise-Fall-Cephalopods/dp/1611689236" rel="noopener noreferrer" target="_blank">Squid Empire: The Rise and Fall of the Cephalopods</a>, chronicles the 500-million-year evolutionary journey of these fascinating animals. She also blogs at <a href="http://www.cephalopodiatrist.com/p/home.html" rel="noopener noreferrer" target="_blank">The Cephalopodiatrist</a>.</em></p>
+<p>Giant squid are the sea&rsquo;s best monsters, tentacles down. For evidence we need look no further than the logo of this very website. But did you know that our beloved <em>Architeuthis</em> descends from a venerable line of sea monsters&mdash;that Archy&rsquo;s ancestors, in fact, may have been the first animals ever to merit the name &ldquo;mons<span>ter&rdquo;?</span></p>
+<p><img src="http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken-300x440.jpg" alt="" width="300" height="440" srcset="http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken-300x440.jpg 300w, http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken-102x150.jpg 102w, http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken-768x1126.jpg 768w, http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken-600x880.jpg 600w, http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken.jpg 1397w" sizes="(max-width: 300px) 100vw, 300px"></p>
+<p>The phrase &ldquo;prehistoric sea monster&rdquo; might summon to mind an <a href="http://www.ucmp.berkeley.edu/diapsids/ichthyosauria.html" rel="noopener noreferrer" target="_blank">ichthyosaur</a> or <a href="https://en.wikipedia.org/wiki/Megalodon" rel="noopener noreferrer" target="_blank">megalodon</a>, but these are johnny-come-latelies to the underwater scene. Megalodon showed up a mere 23 million years ago. Ichthyosaurs evolved closer to 250 million years ago, which may seem pretty old (okay, it is) until you consider the age of the first cephalopod: 450 million years.</p>
+<p>I&rsquo;ll admit that initially cephalopods were no monsters. Snail-like, they lived inside shells that measured a few centimeters at most. But these shells contained a remarkable evolutionary innovation: sealed-off chambers that could be drained of fluid and filled with buoyant gas.</p>
+<p>This buoyancy freed cephalopods from the constraints of their heavy shells, allowing them to reach stupendous sizes. No matter how big the shell grew, its weight was automatically offset by more gas-filled chambers.</p>
+<div><img src="http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants.jpg" alt="" width="1412" height="644" srcset="http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants.jpg 1412w, http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants-150x68.jpg 150w, http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants-300x137.jpg 300w, http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants-768x350.jpg 768w, http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants-600x274.jpg 600w" sizes="(max-width: 1412px) 100vw, 1412px"><p>Paleozoic Giants. Image from: Christian, et al. &ldquo;Normal giants? Temporal and latitudinal shifts of Palaeozoic marine invertebrate gigantism and global change.&rdquo; Lethaia 48.2 (2015): 267-288 (<a href="http://onlinelibrary.wiley.com/store/10.1111/let.12104/asset/let12104.pdf?v=1&amp;t=j8bw9xtf&amp;s=a9b7dd695fba09a5a79530cc9153fc35e134f22c&amp;systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+7th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+08.00+EDT+%2F+13.00+BST+%2F+17%3A30+IST+%2F+20.00+SGT+and+Sunday+8th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+06.00+EDT+%2F+11.00+BST+%2F+15%3A30+IST+%2F+18.00+SGT+for+essential+maintenance.+Apologies+for+the+inconvenience+caused+." rel="noopener noreferrer" target="_blank">PDF</a>)</p></div>
+<p>&nbsp;</p>
+<p><em>Endoceras giganteum</em>, for example, grew up to 3.5 meters, longer than a basketball hoop is tall. It was the biggest animal the world had yet seen. I feel confident calling this 450-million-year-old beast one of the planet&rsquo;s first monsters.</p>
+<p>But how did we get from <em>Endoceras</em> to <em>Architeuthis</em>? Is one a direct ancestor of the other, or are they distant cousins n-times-removed? And what became of that fantastic shell?</p>
+<p>We need a family tree for <em>Endoceras</em>, <em>Architeuthis</em>, and everything in between&mdash;in other words, a cephalopod phylogeny. For over a century, scientists have been working to reconstruct such a phylogeny with evidence from fossils, embryos, DNA and more. I made an attempt to synthesize the most recent work into a single drawing, with lots of advice from paleontologists and the helping hand of an artist who polished my messy sketchwork (and put in those friendly eyes).</p>
+<div><a href="http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny.jpg" rel="noopener noreferrer" target="_blank"><img src="http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny-600x786.jpg" alt="" width="600" height="786" srcset="http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny-600x786.jpg 600w, http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny-114x150.jpg 114w, http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny-300x393.jpg 300w, http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny-768x1007.jpg 768w, http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny.jpg 1536w" sizes="(max-width: 600px) 100vw, 600px"></a><p>Phylogenetic tree, created by Danna Staaf and C.A. Clark</p></div>
+<p>&nbsp;</p>
+<p><em>Endoceras</em> was one of the Orthocerida, which you can find down in the Ordovician, in the lower right. Today&rsquo;s giant squid take pride of place&mdash;with their smaller siblings&mdash;top and center. As for the rest&hellip;</p>
+<p>From Cambrian through Silurian times, cephalopods all wore their shells on the outside of their bodies, just like every other self-respecting mollusk. The nautiloids continued that decorous habit to the <a href="https://en.wikipedia.org/wiki/Nautilus" rel="noopener noreferrer" target="_blank">present day</a>. Another externally-shelled group, the ammonoids, explored every bizarre baroque extreme of shell coiling and ornamentation before getting mass-extincted alongside the dinosaurs.</p>
+<p>What remains are the coleoids&mdash;the only group of cephalopods in which evolution sheathed the shell, burying hard structure inside a soft body.</p>
+<p>At first, this internal shell was still massive and still full of buoyant chambers, as in the early coleoid <em>Hematites</em>. But over time natural selection (carried out by hungry fish, for the most part) favored smaller, simpler shells.</p>
+<div><img src="http://www.deepseanews.com/wp-content/uploads/2017/10/4cover_fossil-600x481.jpg" alt="" width="600" height="481" srcset="http://www.deepseanews.com/wp-content/uploads/2017/10/4cover_fossil-600x481.jpg 600w, http://www.deepseanews.com/wp-content/uploads/2017/10/4cover_fossil-150x120.jpg 150w, http://www.deepseanews.com/wp-content/uploads/2017/10/4cover_fossil-300x241.jpg 300w, http://www.deepseanews.com/wp-content/uploads/2017/10/4cover_fossil-768x616.jpg 768w" sizes="(max-width: 600px) 100vw, 600px"><p>Fossil Squid; credit: Diego Sala.</p></div>
+<p>&nbsp;</p>
+<p>Now, <a href="http://tolweb.org/Sepioidea/23870" rel="noopener noreferrer" target="_blank">cuttlefish</a> and <a href="http://tolweb.org/Spirula_spirula/148171" rel="noopener noreferrer" target="_blank">ram&rsquo;s horn squid</a> are the only modern coleoids to retain the hard calcium and buoyant chambers of their ancestors. The internal shells of octopuses have evolved into mere vestiges.</p>
+<p>And squid? Well, the shell remnant of a squid has no chambers and no calcium. But it runs the full length of the body, from head to fin-tip, and it offers support to the powerful muscles that carry these modern monsters through the sea. Though unarmored, <em>Architeuthis</em> is most likely faster and far more agile than <em>Endoceras</em> could ever have dreamed of being.</p>
+<p>So which one would you rather meet in a dark alley?</p>]]></content>
+	<updated>2017-10-03T17:54:49+00:00</updated>
+	<author><name>RR Helm</name></author>
+	<source>
+		<id>http://www.deepseanews.com</id>
+		<link rel="self" href="http://www.deepseanews.com"/>
+		<updated>2017-10-03T17:54:49+00:00</updated>
+		<title>Deep Sea News</title></source>
+
+	<category term="abyss"/>
+
+	<category term="benthic"/>
+
+	<category term="biology"/>
+
+	<category term="cephalopods"/>
+
+	<category term="ecology"/>
+
+	<category term="evolution"/>
+
+	<category term="paleobiology"/>
+
+	<category term="pelagic"/>
+
+	<category term="pictures and movies"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444412</id>
+	<link href="https://www.tecmint.com/run-commands-from-standard-input-using-tee-and-xargs-in-linux/" rel="alternate" type="text/html"/>
+	<title type="html">How to Run Commands from Standard Input Using Tee and Xargs in Linux</title>
+	<summary type="html"><![CDATA[<p>While using the command line, you can directly pass the output of one program (for example a tool th...</p>]]></summary>
+	<content type="html"><![CDATA[<p>While using the command line, you can directly pass the output of one program (for example a tool that generates some system information or statistics) as input for another program (such as text-filtering or...</p>]]></content>
+	<updated>2017-10-20T06:00:15+00:00</updated>
+	<author><name>Aaron Kili</name></author>
+	<source>
+		<id>https://www.tecmint.com</id>
+		<link rel="self" href="https://www.tecmint.com"/>
+		<updated>2017-10-20T06:00:15+00:00</updated>
+		<title>Tecmint: Linux Howtos, Tutorials &amp; Guides » Linux Commands</title></source>
+
+	<category term="linux commands"/>
+
+	<category term="linux tricks"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-10-23:/443026</id>
@@ -1165,460 +1562,6 @@ We all know that pollution, in general, is harmful to human health. But a study 
 		<updated>2017-08-06T11:00:16+00:00</updated>
 		<title>GE Reports</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-30:/414518</id>
-	<link href="http://www.ge.com/reports/editing-human-embryos-crispr-moving-ahead-nows-time-work-ethics/" rel="alternate" type="text/html"/>
-	<title type="html">Editing Human Embryos With CRISPR Is Moving Ahead – Now’s The Time To Work Out The Ethics</title>
-	<summary type="html"><![CDATA[<p>There&rsquo;s still a way to go from editing single-cell embryos to a full-term &ldquo;designer baby.&#822;...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/07/28141742/GettyImages-136810267-e1501265872568.jpg" alt=""><h4>There&rsquo;s still a way to go from editing single-cell embryos to a full-term &ldquo;designer baby.&rdquo; But researchers at Oregon Health and Science University say they worked with single-cell embryos, inserting CRISPR chemicals at the time of fertilization.</h4>
-<p>&nbsp;</p>
-<p>The announcement by researchers in Portland, Oregon that they&rsquo;ve successfully modified the genetic material&nbsp;<a href="https://www.technologyreview.com/s/608350/first-human-embryos-edited-in-us/" rel="noopener noreferrer" target="_blank">of a human embryo</a>&nbsp;took some people by surprise.</p>
-<p>With headlines referring to &ldquo;<a href="https://www.businesslive.co.za/bd/world/americas/2017-07-27-us-university-edits-embryo-genes-in-experiment-hailed-as-groundbreaking/" rel="noopener noreferrer" target="_blank">groundbreaking</a>&rdquo; research and &ldquo;<a href="http://www.dailymail.co.uk/sciencetech/article-4734364/First-editing-human-embryos-carried-United-States.html" rel="noopener noreferrer" target="_blank">designer babies</a>,&rdquo; you might wonder what the scientists actually accomplished. This was a big step forward, but hardly unexpected. As this kind of work proceeds, it continues to raise questions about ethical issues and how we should we react.</p>
-<p><strong>What did researchers actually do?</strong></p>
-<p>For a number of years now we have had the ability to alter genetic material in a cell, using a technique called CRISPR.</p>
-<p>The DNA that makes up our genome comprises long sequences of base pairs, each base indicated by one of four letters. These letters form a genetic alphabet, and the &ldquo;words&rdquo; or &ldquo;sentences&rdquo; created from a particular order of letters are the genes that determine our characteristics.</p>
-<p>Sometimes words can be &ldquo;misspelled&rdquo; or sentences slightly garbled, resulting in a disease or disorder. Genetic engineering is designed to correct those mistakes. CRISPR is a tool that enables scientists to target a specific area of a gene, working like the search-and-replace function in Microsoft Word, to remove a section and insert the &ldquo;correct&rdquo; sequence.</p>
-<p>In the last decade, CRISPR has been the primary tool for those seeking to modify genes &ndash; human and otherwise. Among other things, it has been used in experiments to make&nbsp;<a href="https://doi.org/10.1038/nbt.3439" rel="noopener noreferrer" target="_blank">mosquitoes resistant to malaria</a>, genetically&nbsp;<a href="http://www.genengnews.com/gen-exclusives/crispr-applications-in-plants/77900846" rel="noopener noreferrer" target="_blank">modify plants to be resistant to disease</a>, explore the possibility of&nbsp;<a href="https://doi.org/10.1038/nature.2015.18448" rel="noopener noreferrer" target="_blank">engineered pets</a>&nbsp;and&nbsp;<a href="https://www.sciencenews.org/blog/science-ticker/crispr-used-cows-help-fight-tuberculosis" rel="noopener noreferrer" target="_blank">livestock</a>, and potentially treat some human diseases (including&nbsp;<a href="http://sites.tufts.edu/crispr/applications/hiv-treatment/" rel="noopener noreferrer" target="_blank">HIV</a>,&nbsp;<a href="https://doi.org/10.15252/emmm.201606325" rel="noopener noreferrer" target="_blank">hemophilia</a>&nbsp;and&nbsp;<a href="https://doi.org/10.1016/j.omtn.2016.12.012" rel="noopener noreferrer" target="_blank">leukemia</a>).</p>
-<p>Up until recently, the focus in humans has been on changing the cells of a single individual, and not changing eggs, sperm and early embryos &ndash; what are called the &ldquo;germline&rdquo; cells that pass traits along to offspring. The theory is that focusing on non-germline cells would limit any unexpected long-term impact of genetic changes on descendants. At the same time, this limitation means that we would have to use the technique in every generation, which affects its potential therapeutic benefit.</p>
-<p>Earlier this year, an international committee convened by the National Academy of Sciences&nbsp;<a href="https://doi.org/10.17226/24623" rel="noopener noreferrer" target="_blank">issued a report</a>&nbsp;that, while highlighting the concerns with human germline genetic engineering, laid out a series of&nbsp;<a href="http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=24623" rel="noopener noreferrer" target="_blank">safeguards and recommended oversight</a>. The report was widely regarded as opening the door to embryo-editing research.</p>
-<p>That is exactly what happened in Oregon. Although this is the first study reported in the United States, similar research has been&nbsp;<a href="https://doi.org/10.1007/s13238-015-0153-5" rel="noopener noreferrer" target="_blank">conducted in China</a>. This new study, however, apparently avoided previous errors we&rsquo;ve seen with CRISPR &ndash; such as changes in other, untargeted parts of the genome, or the desired change not occurring in all cells. Both of these problems had made scientists wary of using CRISPR to make changes in embryos that might eventually be used in a human pregnancy. Evidence of more successful (and thus safer) CRISPR use may lead to additional studies involving human embryos.</p>
-<p><strong>What didn&rsquo;t happen in Oregon?</strong></p>
-<p>First, this study did not entail the creation of &ldquo;designer babies,&rdquo; despite some news headlines. The research involved only early stage embryos, outside the womb, none of which was allowed to develop beyond a few days.</p>
-<p>In fact, there are a number of existing limits &ndash; both policy-based and scientific &ndash; that will create barriers to implanting an edited embryo to achieve the birth of a child. There is a&nbsp;<a href="https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-nih-funding-research-using-gene-editing-technologies-human-embryos" rel="noopener noreferrer" target="_blank">federal ban on funding</a>&nbsp;gene editing research in embryos; in some states, there are also&nbsp;<a href="https://nyscf.org/scmapus" rel="noopener noreferrer" target="_blank">total bans on embryo research</a>, regardless of how funded. In addition, the implantation of an edited human embryos would be regulated under the&nbsp;<a href="https://humansubjects.nih.gov/pregnant-women-human-fetuses-neonates" rel="noopener noreferrer" target="_blank">federal human research regulations</a>, the&nbsp;<a href="https://www.fda.gov/biologicsbloodvaccines/cellulargenetherapyproducts/" rel="noopener noreferrer" target="_blank">Food, Drug and Cosmetic Act</a>and potentially the federal rules regarding&nbsp;<a href="https://wwwn.cdc.gov/CLIA/Regulatory/default.aspx" rel="noopener noreferrer" target="_blank">clinical laboratory testing</a>.</p>
-<p>Beyond the regulatory barriers, we are a long way from having the scientific knowledge necessary to design our children. While the Oregon experiment focused on a single gene correction to inherited diseases, there are few human traits that are controlled by one gene. Anything that involves multiple genes or a gene/environment interaction will be less amenable to this type of engineering. Most characteristics we might be interested in designing &ndash; such as intelligence, personality, athletic or artistic or musical ability &ndash; are much more complex.</p>
-<p>Second, while this is a significant step forward in the science regarding the use of the CRISPR technique, it is only one step. There is a long way to go between this and a cure for various disease and disorders. This is not to say that there aren&rsquo;t concerns. But we have some time to consider the issues before the use of the technique becomes a mainstream medical practice.</p>
-<p><strong>So what should we be concerned about?</strong></p>
-<p>Taking into account the cautions above, we do need to decide when and how we should use this technique.</p>
-<p>Should there be limits on the types of things you can edit in an embryo? If so, what should they entail? These questions also involve deciding who gets to set the limits and control access to the technology.</p>
-<p>We may also be concerned about who gets to control the subsequent research using this technology. Should there be state or federal oversight? Keep in mind that we cannot control what happens in other countries. Even in this country it can be difficult to craft guidelines that restrict only the research someone finds objectionable, while allowing other important research to continue. Additionally, the use of assisted reproductive technologies (IVF, for example) is&nbsp;<a href="http://www.rockinst.org/pdf/health_care/2009-07-States_Regulation_ART.pdf" rel="noopener noreferrer" target="_blank">largely unregulated in the U.S.</a>, and the decision to put in place restrictions will certainly raise objections from both potential parents and IVF providers.</p>
-<p>Moreover, there are important questions about cost and access. Right now most assisted reproductive technologies are available only to higher-income individuals. A handful of&nbsp;<a href="http://www.ncsl.org/research/health/insurance-coverage-for-infertility-laws.aspx" rel="noopener noreferrer" target="_blank">states mandate infertility treatment coverage</a>, but it is very limited. How should we regulate access to embryo editing for serious diseases? We are in the midst of a&nbsp;<a href="https://theconversation.com/us/topics/us-health-care-reform-40185" rel="noopener noreferrer" target="_blank">widespread debate</a>about health care, access and cost. If it becomes established and safe, should this technique be part of a basic package of health care services when used to help create a child who does not suffer from a specific genetic problem? What about editing for nonhealth issues or less serious problems &ndash; are there fairness concerns if only people with sufficient wealth can access?</p>
-<p>So far the promise of genetic engineering for disease eradication has not lived up to its hype. Nor have many other milestones, like the 1996&nbsp;<a href="https://theconversation.com/20-years-after-dolly-everything-you-always-wanted-to-know-about-the-cloned-sheep-and-what-came-next-72655" rel="noopener noreferrer" target="_blank">cloning of Dolly the sheep</a>, resulted in the feared apocalypse. The announcement of the Oregon study is only the next step in a long line of research. Nonetheless, it is sure to bring many of the issues about embryos, stem cell research, genetic engineering and reproductive technologies back into the spotlight. Now is the time to figure out how we want to see this gene-editing path unfold.</p>
-<p>(Top image: Getty Images.)</p>
-<p>This piece first appeared in <a href="http://theconversation.com/editing-human-embryos-with-crispr-is-moving-ahead-nows-the-time-to-work-out-the-ethics-81732" target="_blank" rel="noopener noreferrer">The Conversation</a>.</p>
-<p><em><a href="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/07/28142625/image-20170727-8518-12xtcz4.jpg" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/07/28142625/image-20170727-8518-12xtcz4-150x150.jpg" alt="" width="150" height="150" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/07/28142625/image-20170727-8518-12xtcz4-150x150.jpg 150w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/07/28142625/image-20170727-8518-12xtcz4-32x32.jpg 32w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/07/28142625/image-20170727-8518-12xtcz4-50x50.jpg 50w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/07/28142625/image-20170727-8518-12xtcz4-64x64.jpg 64w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/07/28142625/image-20170727-8518-12xtcz4-96x96.jpg 96w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/07/28142625/image-20170727-8518-12xtcz4-128x128.jpg 128w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/07/28142625/image-20170727-8518-12xtcz4.jpg 238w" sizes="(max-width: 150px) 100vw, 150px"></a>Jessica Berg is Dean and Tom J.E. and Bette Lou Walker Professor of Law at Case Western Reserve University. She also a Professor of Bioethics and Professor of Public Health, with a joint appointment in the School of Medicine.</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>All views expressed are those of the author.</p>]]></content>
-	<updated>2017-07-30T11:00:53+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.ge.com/reports</id>
-		<link rel="self" href="https://www.ge.com/reports"/>
-		<updated>2017-07-30T11:00:53+00:00</updated>
-		<title>GE Reports</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-17:/393186</id>
-	<link href="http://www.gereports.com/5-infographics-explain-one-year-blockchain-news/" rel="alternate" type="text/html"/>
-	<title type="html">5 Infographics That Explain One Year Of Blockchain News</title>
-	<summary type="html"><![CDATA[<p>There&rsquo;s a lot happening in the world of blockchain, the sometimes hard-to-grasp disruptive te...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16133617/GettyImages-645390792-e1494956187985.jpg" alt="blockchain"><div>
-<h4>There&rsquo;s a lot happening in the world of blockchain, the sometimes hard-to-grasp disruptive technology.&nbsp;Jess McCuan, content creator-in-chief with Quid, whose software can read millions of news articles for collective intelligence, uses data-focused visuals to help others easily&nbsp;digest blockchain&rsquo;s biggest news in the last year.</h4>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>If you work in finance or own any <a href="http://money.cnn.com/infographic/technology/what-is-bitcoin/" rel="noopener noreferrer" target="_blank">bitcoin</a>, you likely already know about blockchain technology.</p>
-</div>
-<div>
-<p>But for those in neither category, here&rsquo;s a quick overview of a year&rsquo;s worth of news about blockchains, databases that essentially make records <a href="http://www.economist.com/news/briefing/21677228-technology-behind-bitcoin-lets-people-who-do-not-know-or-trust-each-other-build-dependable" rel="noopener noreferrer" target="_blank">more verifiable and permanent</a>.</p>
-</div>
-<div>
-<p>For this analysis, we used <a href="https://quid.com/" rel="noopener noreferrer" target="_blank">Quid</a>, software that searches and analyses massive amounts of data and then offers insight by organizing that content visually.</p>
-</div>
-<div>
-<p>It&rsquo;s been a big year for news about blockchain, heralded as a technology that will disrupt several industries <a href="http://www.nasdaq.com/article/seven-industries-that-blockchain-will-disrupt-in-2017-cm734366" rel="noopener noreferrer" target="_blank">beyond banking</a> in 2017.</p>
-</div>
-<div>
-<p>Last spring, the biggest headline in the blockchain world was that an Australian entrepreneur, Craig Wright, finally <a href="http://fortune.com/2016/05/02/bitcoin-satoshi-wright/" rel="noopener noreferrer" target="_blank">came out of the shadows</a> and declared he was the creator of the cryptocurrency bitcoin (though plenty were skeptical). Then a massive <a href="https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/" rel="noopener noreferrer" target="_blank">security breach at the decentralized autonomous organization </a>was such a blow to blockchain that journalists wrote about the event all year. Last fall Ripple, which develops a payment protocol and exchange network, announced it had <a href="http://fortune.com/2016/09/15/ripple-raises-55m-adds-major-bank-partners-as-blockchain-gains-ground/" rel="noopener noreferrer" target="_blank">raised $50 million</a> and partnered with major banks. In the timeline below, we identified several other events that generated significant news volume.</p>
-<div><a href="http://www.gereports.com/?attachment_id=29677" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125010/3np9AAj7qyW9XAW70Xn78W2Ha892gedrVGSr1r_juW0-1024x768.jpg" alt="blockchain" width="1024" height="768" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125010/3np9AAj7qyW9XAW70Xn78W2Ha892gedrVGSr1r_juW0.jpg 1024w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125010/3np9AAj7qyW9XAW70Xn78W2Ha892gedrVGSr1r_juW0-300x225.jpg 300w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125010/3np9AAj7qyW9XAW70Xn78W2Ha892gedrVGSr1r_juW0-768x576.jpg 768w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125010/3np9AAj7qyW9XAW70Xn78W2Ha892gedrVGSr1r_juW0-665x499.jpg 665w" sizes="(max-width: 1024px) 100vw, 1024px"></a><p>A Quid timeline maps 3,409 stories about blockchain, colored by cluster, from global news sources between 20 April 2016-20 April 2017. In the graph above, Quid sampled the data to show which stories generated the most volume in relation to each other.</p></div>
-</div>
-<div>
-<p>Sorting all that data into a network, major themes emerge. The theme that generated the most stories was contracts and regulation. These stories, which account for 10 percent of the network, include wide-ranging debates about blockchain, suggesting it <a href="https://www.americanbanker.com/opinion/revolutionary-smart-contracts-automate-trust" rel="noopener noreferrer" target="_blank">fosters trust</a> in certain contract-heavy areas of finance or, on the other hand, exposes financial markets to <a href="http://www.hk-lawyer.org/content/blockchain-exposes-securities-markets-aml-and-terrorist-financing-risk-says-esma" rel="noopener noreferrer" target="_blank">money laundering and terrorist financing</a>.</p>
-</div>
-<div>
-<p>Other important themes: blockchain&rsquo;s effect on mobile payments, trade finance, and augmented and virtual reality. The more surprising themes and developments: some countries see blockchain technology as a way to cut down on voting fraud, and others, like Australia, are starting to incorporate blockchain into peer-to-peer solar power exchanges.</p>
-<div><a href="http://www.gereports.com/?attachment_id=29679" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125138/1ydcYcAU_iyh7kO-HBacU3AvG7H6a_a25-rGbXklA1s-1024x768.jpg" alt="blockchain" width="1024" height="768" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125138/1ydcYcAU_iyh7kO-HBacU3AvG7H6a_a25-rGbXklA1s.jpg 1024w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125138/1ydcYcAU_iyh7kO-HBacU3AvG7H6a_a25-rGbXklA1s-300x225.jpg 300w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125138/1ydcYcAU_iyh7kO-HBacU3AvG7H6a_a25-rGbXklA1s-768x576.jpg 768w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125138/1ydcYcAU_iyh7kO-HBacU3AvG7H6a_a25-rGbXklA1s-665x499.jpg 665w" sizes="(max-width: 1024px) 100vw, 1024px"></a><p>A Quid network represents data from 3,409 stories about blockchain, colored by cluster, from global news sources between 20 April 2016 and 20 April 2017.</p></div>
-</div>
-<p>Next, the major players in blockchain. At the top of the list: <a href="https://en.wikipedia.org/wiki/Blythe_Masters" rel="noopener noreferrer" target="_blank">Blythe Masters</a>, an economist and former JPMorgan Chase executive who&rsquo;s now running the software company Digital Asset Holdings. Then<a href="https://www.hyperledger.org/about/leadership" rel="noopener noreferrer" target="_blank"> Bryan Behlendorf</a>, a former programmer who now runs the open-source project Hyperledger. Quid identified Satoshi Nakamoto, the pseudonym of the bitcoin founder, and Craig Wright as two separate individuals, though Wright claims that they are in fact the same person (interestingly, the two entities appear in different areas of the network).</p>
-<p><a href="http://www.gereports.com/?attachment_id=29681" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125313/iUgHsqpBYQxMpvZ3CWOW_D3J4aYQD3r6d5k0zTggwaA-1024x768.jpg" alt="blockchain" width="1024" height="768" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125313/iUgHsqpBYQxMpvZ3CWOW_D3J4aYQD3r6d5k0zTggwaA.jpg 1024w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125313/iUgHsqpBYQxMpvZ3CWOW_D3J4aYQD3r6d5k0zTggwaA-300x225.jpg 300w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125313/iUgHsqpBYQxMpvZ3CWOW_D3J4aYQD3r6d5k0zTggwaA-768x576.jpg 768w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125313/iUgHsqpBYQxMpvZ3CWOW_D3J4aYQD3r6d5k0zTggwaA-665x499.jpg 665w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
-<p>In a network of news stories that shows largely positive sentiment, skepticism about Wright and his claims is one of the few areas of negative sentiment.</p>
-<p><a href="http://www.gereports.com/?attachment_id=29683" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125459/zm38Hm6A_WxH9bvhKvFA_p3Gm8_vyJyvdZGnscfAzYA-1024x768.jpg" alt="" width="1024" height="768" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125459/zm38Hm6A_WxH9bvhKvFA_p3Gm8_vyJyvdZGnscfAzYA.jpg 1024w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125459/zm38Hm6A_WxH9bvhKvFA_p3Gm8_vyJyvdZGnscfAzYA-300x225.jpg 300w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125459/zm38Hm6A_WxH9bvhKvFA_p3Gm8_vyJyvdZGnscfAzYA-768x576.jpg 768w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125459/zm38Hm6A_WxH9bvhKvFA_p3Gm8_vyJyvdZGnscfAzYA-665x499.jpg 665w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
-<p>&nbsp;</p>
-<div>
-<p>Finally, we ran a search that combined both the words &ldquo;blockchain&rdquo; and &ldquo;future&rdquo; to see if the future of blockchain looks any different than the present.</p>
-</div>
-<div>
-<p>In a network view, there were some notable differences, namely, the emergence of blockchain in sectors beyond finance. The future of blockchain appears to veer more heavily into music and the arts, where the technology helps musicians and others protect the <a href="https://techcrunch.com/2016/10/08/how-blockchain-can-change-the-music-industry/" rel="noopener noreferrer" target="_blank">copyrights to their work</a>.</p>
-</div>
-<div>
-<p>And in the future, it seems blockchain may also play a bigger role in healthcare and medical records, insurance and green energy.</p>
-<div><a href="http://www.gereports.com/?attachment_id=29684" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125553/BVDFvHCX-oB9pQIgvbkEfxUU8c_WnIh3l1qzpLbPpPY-1024x768.jpg" alt="blockchain" width="1024" height="768" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125553/BVDFvHCX-oB9pQIgvbkEfxUU8c_WnIh3l1qzpLbPpPY.jpg 1024w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125553/BVDFvHCX-oB9pQIgvbkEfxUU8c_WnIh3l1qzpLbPpPY-300x225.jpg 300w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125553/BVDFvHCX-oB9pQIgvbkEfxUU8c_WnIh3l1qzpLbPpPY-768x576.jpg 768w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/16125553/BVDFvHCX-oB9pQIgvbkEfxUU8c_WnIh3l1qzpLbPpPY-665x499.jpg 665w" sizes="(max-width: 1024px) 100vw, 1024px"></a><p>A Quid network shows 1,675 stories about the future of blockchain, from global news sources between 20 April 2016 and 20 April 2017.</p></div>
-<p>(Top image: Courtesy Getty Images.)</p>
-<p>This piece first appeared in the World Economic Forum&rsquo;s <a href="https://www.weforum.org/agenda/2017/04/5-infographics-that-explain-one-year-of-blockchain-news" target="_blank" rel="noopener noreferrer">Agenda blog</a>.</p>
-<p>&nbsp;</p>
-</div>
-<p><em>Jess McCuan is&nbsp;Content creator-in-chief with Quid.&nbsp;</em></p>
-<p>All views expressed are those of the author.</p>]]></content>
-	<updated>2017-05-17T09:00:12+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.ge.com/reports</id>
-		<link rel="self" href="https://www.ge.com/reports"/>
-		<updated>2017-05-17T09:00:12+00:00</updated>
-		<title>GE Reports</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-01:/388649</id>
-	<link href="http://www.gereports.com/future-home-robotics-capable-personable-cute/" rel="alternate" type="text/html"/>
-	<title type="html">The Future Of Home Robotics: Capable, Personable And Cute? </title>
-	<summary type="html"><![CDATA[<p>If working in robotics for the last 15&nbsp;years has taught Mayfield Robotics CTO Kaijen Hsiao anything,...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/26142316/Kuri_Entertains1-e1493231044120.jpg" alt="home robotics"><h4><span>If working in robotics for the last 15&nbsp;years has taught Mayfield Robotics CTO Kaijen Hsiao anything, it&rsquo;s that as the market for home robots evolves, so will consumer expectations. &nbsp;Those expectations are centered not only on technological capabilities, but also on a home robot&rsquo;s personality and the overall experience of interactions.</span> <span>Currently, home robotics is perceived in the context of either some sort of digitized assistant or a simple, utilitarian tool for cleaning. But Kuri, an &ldquo;insanely cute and useful&rdquo; personal robot, leaves the user feeling like home robots are commonplace, friendly and welcoming.</span></h4>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><span>The concept of the </span><i><span>home</span></i><span> robot is still new to most people. &nbsp;When asked to imagine a home robot, most people either think of robot vacuum cleaners or fictional robots like Rosie, the robot maid from &ldquo;The Jetsons.&rdquo; &nbsp;While digital assistive technologies such as Alexa, Siri, or Google Assistant are no longer a new concept, robotic assistance in the home beyond cleaning still is. &nbsp;Recently, however, there has been an eruption of potential new home robots, specifically in the home assistant / companion space. &nbsp;This blooming of robotic technology in the home is the result of recent technological breakthroughs, and also sets the stage for what the next five years of home robots will look like, including more focus on a robot&rsquo;s personality. </span></p>
-<p><strong>How We Got Here</strong></p>
-<p><span>The last five years have seen huge improvements in three key areas of robotics. &nbsp;The first is lowered cost and availability of key components. With parts becoming cheaper, useful home assistant robots that can navigate around your home and be aware of their surroundings can finally be made at a price point that is attractive to a wider consumer market. &nbsp;The second is speech recognition technology, which has finally reached a point where users can reliably and consistently issue commands to home robots directly. Finally, advances in vision, and in particular deep-learning-based vision, have recently enabled robots to be aware of people and pets around them, thus setting the stage for compelling interactions between humans and robots that grant robots the appearance of personality.</span></p>
-<p><strong>The Future of Home Robotics: Personality and Character</strong></p>
-<p><span>At this point in time, robot capabilities such as mapping and navigation are still more difficult to implement than voice recognition capabilities. &nbsp;But we are starting to see such capabilities becoming commoditized and more affordable. In the next five years, the increased availability of vision-based navigation will lower the barriers to entry in the home robot space. &nbsp;At that point, the market is likely to become much more crowded, and the major factor that determines the success or failure of individual robots will be personality.</span></p>
-<div><a href="http://www.gereports.com/?attachment_id=29106" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/26142444/Kuri_Speaks_Robot-1024x576.jpg" alt="" width="1024" height="576" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/26142444/Kuri_Speaks_Robot-1024x576.jpg 1024w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/26142444/Kuri_Speaks_Robot-300x169.jpg 300w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/26142444/Kuri_Speaks_Robot-768x432.jpg 768w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/05/26142444/Kuri_Speaks_Robot-665x374.jpg 665w" sizes="(max-width: 1024px) 100vw, 1024px"></a><p>Courtesy: Mayfield Robotics</p></div>
-<p><span>We at Mayfield like to say that we make joyful, useful and inspiring robots&mdash;and all three of those features are equally important.&nbsp;</span><a href="https://www.heykuri.com/" rel="noopener noreferrer" target="_blank"><span>Kuri</span></a><span> needs to be useful to earn a place in your home, but we also hope that she will inspire others to both create more robots like her and to be interested in STEM fields even from an early age. But perhaps most importantly, for her acceptance in your home and in daily life, she needs to provide joy. &nbsp;</span></p>
-<p></p>
-<p><span>A great deal of care went into creating Kuri&rsquo;s personality, something that few other robots have explored in depth. &nbsp;</span><a href="https://anki.com/en-us/cozmo" rel="noopener noreferrer" target="_blank"><span>Anki&rsquo;s Cozmo</span></a><span> is one exception; their fun little toy robot showed personality to be critical in eliciting a positive reaction from consumers. &nbsp;We&rsquo;re seeing that the capabilities of a robot are important, but even more important are the emotional interactions that take place between robots and humans. &nbsp;As the technology improves, cost lowers, and consumer expectation increases, home robots will ultimately become a form of art and entertainment. &nbsp;</span></p>
-<p><strong>Opportunities in Robotics</strong></p>
-<p><span>The creation of relevant, useful, and personality-filled home robots will demand talented professionals, and not just roboticists and engineers. Think of it like video games: the amount of time, energy and work that goes into creating one is staggering, and yet the most amazing visual effects ever invented can&rsquo;t save a game if the story isn&rsquo;t good or the characters look creepy as they move. Creative types, animators and industrial designers will be needed not just to create more complex and functional robots, but to create and deliver a new form of entertainment. The home robot will be not just a capable assistant, but something with personality&mdash;life-like, a companion in the home that you actually like having around.</span></p>
-<p>&nbsp;</p>
-<p>(Top image: Kuri, the home robot companion, is available for pre-order for Holiday 2017. Courtesy: Mayfield Robotics.)</p>
-<p>&nbsp;</p>
-<p><em><span><a href="http://www.gereports.com/__trashed/screen-shot-2017-04-26-at-10-19-38-am/" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26134802/Screen-Shot-2017-04-26-at-10.19.38-AM-150x150.png" alt="" width="150" height="150" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26134802/Screen-Shot-2017-04-26-at-10.19.38-AM-150x150.png 150w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26134802/Screen-Shot-2017-04-26-at-10.19.38-AM-32x32.png 32w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26134802/Screen-Shot-2017-04-26-at-10.19.38-AM-50x50.png 50w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26134802/Screen-Shot-2017-04-26-at-10.19.38-AM-64x64.png 64w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26134802/Screen-Shot-2017-04-26-at-10.19.38-AM-96x96.png 96w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26134802/Screen-Shot-2017-04-26-at-10.19.38-AM-128x128.png 128w" sizes="(max-width: 150px) 100vw, 150px"></a>Kaijen Hsiao is the Chief Technology Officer of Mayfield Robotics, a well-funded consumer robotics company headquartered in Redwood City, California. This position has been the hallmark of her career: opening up new capabilities of robotics technology, with particular attention on shared autonomous teleoperation, imitation learning, tactile grasp adjustment, human-aware navigation and, most recently, robot mapping and localization.</span></em></p>
-<p>&nbsp;</p>
-<p>All views expressed are those of the author.</p>]]></content>
-	<updated>2017-05-01T09:00:39+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.ge.com/reports</id>
-		<link rel="self" href="https://www.ge.com/reports"/>
-		<updated>2017-05-01T09:00:39+00:00</updated>
-		<title>GE Reports</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-28:/388006</id>
-	<link href="http://www.gereports.com/cities-of-2050-data-and-tech-will-fuel-the-megacities-of-the-future/" rel="alternate" type="text/html"/>
-	<title type="html">Cities Of 2050: Data And Tech Will Fuel The Megacities Of The Future</title>
-	<summary type="html"><![CDATA[<p>When it comes to designing infrastructure, one thing is for sure: Big Data collected through the IoT...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/28180311/smart-city.jpg" alt="" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/28180311/smart-city.jpg 1367w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/28180311/smart-city-187x300.jpg 187w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/28180311/smart-city-768x1232.jpg 768w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/28180311/smart-city-638x1024.jpg 638w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/28180311/smart-city-665x1067.jpg 665w" sizes="(max-width: 1367px) 100vw, 1367px"><h4>When it comes to designing infrastructure, one thing is for sure: Big Data collected through the IoT will play a key role in growing the megacities of 2050, including using data to watch people&rsquo;s movements&nbsp;and creating smarter mobility. But creating smart cities means more than using the IoT to optimize services or communicate information to residents. It should frame local government decision-making around city transformation.</h4>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>What will cities look like by the year 2050? Will they be like those in South Korea <a href="http://www.pbs.org/frontlineworld/stories/south_korea802/video/video_index.html" target="_blank" rel="noopener noreferrer">centered on a digitally connected</a> retrofit of existing society; will they parallel the shiny new cities of Dubai or Singapore; or could they possibly move underground or <a href="https://futurism.com/videos/this-26-billion-underwater-city-could-be-ready-in-15-years/" target="_blank" rel="noopener noreferrer">under the oceans</a>?</p>
-<p>Today, innovative cities such as <a href="https://www.theguardian.com/cities/2016/may/06/story-of-cities-37-mayor-jaime-lerner-curitiba-brazil-green-capital-global-icon" target="_blank" rel="noopener noreferrer">Curitiba, Brazil</a>, are rethinking entire mass-transportation strategies while debating visions of <a href="https://www.transportation.gov/fastlane/dot-seeks-proposals-automated-vehicle-technology-%E2%80%9Cproving-grounds%E2%80%9D" target="_blank" rel="noopener noreferrer">autonomous cars</a> and <a href="http://www.techzone360.com/topics/techzone/articles/2017/01/16/428813-airbus-enters-human-carrying-drone-race-but-where.htm" target="_blank" rel="noopener noreferrer">drones</a>. The most basic infrastructure needs have always been about how people want to live and move around.</p>
-<p>It&rsquo;s also about how <em>things </em>move around. FedEx sees e-commerce increasing by 26 percent from 2016 to <a href="https://www.bloomberg.com/politics/articles/2017-02-01/fedex-pushes-for-infrastructure-fix-as-trump-weighs-investment" target="_blank" rel="noopener noreferrer">$2.4 trillion worldwide by 2018</a>, which adds pressure to upgrade roads, highways, and port/airport infrastructure for vehicle use&mdash;autonomous or otherwise.</p>
-<p>Add to this mix myriad technology disruptions such as sensors, Big Data, and the Internet of Things (IoT), which can help adjacent cities work together like cogs in a bigger machine.</p>
-<p>But why is that important? Planners have been considering <a href="https://redshift.autodesk.com/the-future-of-cities/" rel="noopener noreferrer" target="_blank">urbanization</a> pressures, often in areas with little room to increase building or infrastructure capacity. One alternative is analyzing collected data to determine how to densify corridors of population between neighboring cities, with mass transit creating megaregions that could easily become home to millions more.</p>
-<p>The challenge for cities around the world is, how do they grow? How do they perform and transform simultaneously?</p>
-<p><strong>Data and the Megacities of the Future</strong></p>
-<p>Neighboring cities are coalescing in their shared infrastructure and mutual impact of their economies. <a href="https://www.washingtonpost.com/graphics/national/maps-of-american-infrastrucure/?tid=ss_tw" target="_blank" rel="noopener noreferrer">Power lines, roads, transit, water systems, and safety</a> don&rsquo;t stop at city limits, and municipalities are facing transformation at unprecedented rates. As a result, there&rsquo;s a lot of debate about who decides the way forward and what that looks like.</p>
-<p>When it comes to designing infrastructure, one thing is for sure: Big Data collected through the IoT will play a key role in growing the megacities of 2050. &ldquo;Big Data is all the information around us that is being collected in various streams,&rdquo; says Steph Stoppenhagen, smart cities business development director for Black &amp; Veatch. &ldquo;If you use a metrocard to get on a subway, then the system knows when you entered, where you went, and the route you took. How is this helpful? By recognizing if the subway service worked. Was it successful? If so, you will do it again and again. That is one example of using data to watch people&rsquo;s movements&mdash;creating smarter mobility.&rdquo;</p>
-<p>Not all data easily translates into useful or actionable information, though. To address the changing urban landscape, information itself should be seen as a form of infrastructure&mdash;one that can be used for better planning to <a href="http://news.nationalgeographic.com/2016/11/us-commutes-reveal-new-economic-megaregions-map/#/03megaregions.jpg" target="_blank" rel="noopener noreferrer">connect</a> cities within a bigger system.</p>
-<p>The starting point is people, not technology. Planning, design, and investment decisions&mdash;along with supportive policy making&mdash;can be informed and expedited via infrastructure visualization, simulation, and analysis. The rise of Big Data and advanced modeling technology make it possible to plan and prioritize infrastructure investment with greater foresight, better communicate potential outcomes, and <a href="http://www.thefiscaltimes.com/2015/02/05/How-Big-Cities-Mine-Big-Data-Solve-Big-Problems" target="_blank" rel="noopener noreferrer">yield measurably better results</a>.</p>
-<p>Creating <a href="https://redshift.autodesk.com/smart-cities/" rel="noopener noreferrer" target="_blank">smart cities</a> means more than using the IoT to optimize services or communicate information to residents: It should be a construct used to frame local government decision making around <a href="http://zofnass.gsd.harvard.edu/planning/" target="_blank" rel="noopener noreferrer">city transformation</a>. While 2050 seems far off, for existing cities that must perform, transform, and compete with brand-new cities, it&rsquo;s pretty close at hand. Cities need to evolve to develop sustainably; improve resilience; meet citizens&rsquo; rising expectations; and attract investment, new businesses, and talent. The good news is that data and technology will make work and life better by creating a well-connected community.</p>
-<p>But smart investment and policy decisions are crucial to planning, and moving to long-term investment (versus grant funding) is key. To achieve that, cities must connect:</p>
-<ul>
-<li><strong>Projects: </strong>Developments that build toward the <a href="https://www.inverse.com/article/5062-7-planned-cities-designed-to-change-our-urban-future" target="_blank" rel="noopener noreferrer">unified city vision</a>and meet broader economic objectives such as accessibility, jobs, affordable housing, and healthy environments.</li>
-<li><strong>Teams:</strong> Collaborative efforts functioning across all levels of government to unlock public and private infrastructure investment, leveraging Big Data to track the performance of infrastructure.</li>
-<li><strong>Insights:</strong> New technologies that revolutionize how cities are planned, function, and grow the economy by connecting everyone at the beginning of project planning.</li>
-<li><strong>Outcomes:</strong> Projects that meet planning/business-case measures and use cost-benefit analyses to meet economic objectives.</li>
-</ul>
-<p><strong>The Future of Planning Is 3D</strong></p>
-<p>Building Information Modeling (BIM) gives meaning to the vast information available to architects and engineers, urban citizens, and decision makers. Advanced 3D modeling allows people to analyze complex information, including risks and problems at a system-versus-asset level. What that means is thinking about what the whole infrastructure system is trying to accomplish versus goals of its individual components. That information helps architects and engineers enhance designs so individuals, firms, and cities can meet their &ldquo;smart&rdquo; connected goals, bringing neighboring cities together.</p>
-<p>Consistent use of <a href="http://www.autodesk.com/solutions/bim/hub/building-a-bim-city-featuring-kalyani-group" target="_blank" rel="noopener noreferrer">3D in-context models</a> coupled with simulation software can create a hypothetical but realistic scenario of the physical infrastructure&rsquo;s performance. It establishes a concrete vision in 3D, setting the context for discussing goals and performance measures that everyone can understand.</p>
-<p><a href="http://www.autodesk.com/solutions/bim/civil-infrastructure/urban#related-video-stunning-cyber-city-visualization" target="_blank" rel="noopener noreferrer">Technology</a> lets people see with both eyes open&mdash;gaining perspective <em>and </em>depth&mdash;rather than with one eye closed, which gives&nbsp;perspective but no depth. The depth comes from information streaming through technology: Information-rich models can help stretch infrastructure investment dollars throughout the design and construction phases.</p>
-<p>Going forward, using 2D designs in an ever-changing 3D world won&rsquo;t work. Using 3D BIM processes will be a critical skill set to build the right infrastructure for a megacities-of-the-future vision.</p>
-<p><strong>Creating Smart Foundations Together</strong></p>
-<p>Cities are often overwhelmed by&nbsp;Big Data and lack the ability to make the information actionable. A benefit of BIM is that it can manage connections among all the data useful for complex city design projects&mdash;from the micro to macro level.</p>
-<p>Through an <a href="http://www.autodesk.com/solutions/bim/hub/building-a-bim-city-featuring-kalyani-group" rel="noopener noreferrer" target="_blank">immersive collaboration</a>, the general public will better understand the future of infrastructure design. This way of stepping into, around, and through infrastructure virtually is becoming the norm. It aids in faster design-concept creation, vetting, and approval, and it reduces stakeholder pushback.</p>
-<p>In this era of connected BIM&mdash;where information forms the infrastructure for planning, designing, and maintaining manmade and natural systems&mdash;the objective is to create integrated and resilient infrastructure. Then, cities will be able to withstand and <a href="http://bimontherocks.com/reconstructing-a-town-with-bim/" rel="noopener noreferrer" target="_blank">recover more quickly from natural and human-caused disasters</a>&mdash;and grow to support their future.</p>
-<p>By collecting and analyzing more information, civil engineers will better predict what&rsquo;s needed to manage bridges, roads, and other infrastructure assets, prolonging their lifecycles. As populations increase and demand for infrastructure rises, future-proofing assets must take into account true lifecycle costs.</p>
-<p>Smart infrastructure connections at a personal, community, metropolitan, or even national level&mdash;underpinned by technology&mdash;provide the capability for monitoring and measuring. Then the analysis of data feedback can yield positive steps to address issues (whether through human or machine actions).</p>
-<p>This changes the vision of cities and provides the foundation for more holistic planning. In connected <a href="http://www.businessinsider.com/10-most-populous-cities-2050-2016-2/" target="_blank" rel="noopener noreferrer">2050 cities</a>, all kinds of infrastructure&mdash;energy, water, transportation, buildings, and governance&mdash;will &ldquo;talk&rdquo; to each other to prioritize needs, optimize performance, minimize energy use, and make life more enjoyable and productive for the people who live in and travel between cities.</p>
-<p>(Top image credit: Getty Images.)</p>
-<p><span>This article originally appeared&nbsp;on Autodesk&rsquo;s&nbsp;<span><a href="https://redshift.autodesk.com/megacities-of-the-future/" target="_blank" rel="noopener noreferrer">Redshift</a></span>, a si</span><span>te dedicated to inspiring designers, engineers, builders and makers.</span></p>
-<p>&nbsp;</p>
-<p><em><a href="http://www.gereports.com/cities-of-2050-data-and-tech-will-fuel-the-megacities-of-the-future/5f3e2e490c0f149727592c5df6138b30/" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26114422/5f3e2e490c0f149727592c5df6138b30-150x150.jpeg" alt="" width="150" height="150" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26114422/5f3e2e490c0f149727592c5df6138b30-150x150.jpeg 150w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26114422/5f3e2e490c0f149727592c5df6138b30-32x32.jpeg 32w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26114422/5f3e2e490c0f149727592c5df6138b30-50x50.jpeg 50w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26114422/5f3e2e490c0f149727592c5df6138b30-64x64.jpeg 64w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26114422/5f3e2e490c0f149727592c5df6138b30-96x96.jpeg 96w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26114422/5f3e2e490c0f149727592c5df6138b30-128x128.jpeg 128w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/26114422/5f3e2e490c0f149727592c5df6138b30.jpeg 240w" sizes="(max-width: 150px) 100vw, 150px"></a>Terry D. Bennett, LS, LPF, MRICS, ENV SP, LEED AP, is the senior industry strategist for civil infrastructure at Autodesk.</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>All views expressed are those of the author.</p>
-<p>&nbsp;</p>]]></content>
-	<updated>2017-04-28T09:00:16+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.ge.com/reports</id>
-		<link rel="self" href="https://www.ge.com/reports"/>
-		<updated>2017-04-28T09:00:16+00:00</updated>
-		<title>GE Reports</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-16:/383982</id>
-	<link href="http://www.gereports.com/nasa-saturns-moon-enceladus-basic-ingredients-life/" rel="alternate" type="text/html"/>
-	<title type="html">NASA: Saturn’s Moon Enceladus Has All the Basic Ingredients for Life</title>
-	<summary type="html"><![CDATA[<p>Well, what are we waiting for?
-&nbsp;
-&nbsp;
-NASA scientists have found more evidence that Saturn...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/14142412/Screen-Shot-2017-04-14-at-2.23.38-PM-e1492194310140.jpg" alt=""><h4>Well, what are we waiting for?</h4>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>NASA scientists have found more evidence that Saturn&rsquo;s icy moon <a href="https://en.wikipedia.org/wiki/Enceladus" rel="noopener noreferrer" target="_blank">Enceladus</a>&nbsp;could support life: the presence of hydrogen molecules in huge geysers of water shooting up from the surface.</p>
-<p>The discovery of this chemical energy source means Enceladus is currently the very best place to look for life outside of Earth, with conditions that could be just right for alien microbes to survive.</p>
-<p>&ldquo;This is the closest we&rsquo;ve come, so far, to identifying a place with some of the ingredients needed for a habitable environment,&rdquo; <a href="https://www.nasa.gov/press-release/nasa-missions-provide-new-insights-into-ocean-worlds-in-our-solar-system" rel="noopener noreferrer" target="_blank">said Thomas Zurbuchen</a>, associate administrator for NASA&rsquo;s Science Mission Directorate.</p>
-<p>We&rsquo;ve got the Cassini spacecraft to thank for the new findings, as the probe has been busy taking measurements around Saturn and Enceladus since 2004.</p>
-<p>An analysis of the samples Cassini <a href="http://www.sciencealert.com/nasa-s-cassini-spacecraft-just-made-a-deep-dive-in-enceladus-s-icy-plumes" rel="noopener noreferrer" target="_blank">took two years ago</a>, as it flew through the geysers of Enceladus, have now revealed these tell-tale hydrogen molecules.</p>
-<p>The hydrogen strongly suggests that hydrothermal activity is going on in <a href="http://www.sciencealert.com/a-vast-global-ocean-lies-under-the-surface-of-saturn-s-moon-enceladus" rel="noopener noreferrer" target="_blank">the ocean below the surface</a> of Enceladus, and because some of the most basic lifeforms on Earth thrive in ocean vents like the ones Cassini has been flying over, the same type of life could exist on Saturn&rsquo;s moon.</p>
-<p>&ldquo;This doesn&rsquo;t tell us whether life is there or not,&rdquo; astronomer Jonathan Lunine, from the Cornell Centre for Astrophysics and Planetary Science, <a href="http://gizmodo.com/saturns-moon-enceladus-has-the-basic-ingredients-for-li-1794296870" rel="noopener noreferrer" target="_blank">told Gizmodo</a>.</p>
-<p>&ldquo;It just makes the case for the ocean being able to support life that much stronger.&rdquo;</p>
-<div><a href="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/14143325/enceladus-news-2.jpg" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/14143325/enceladus-news-2.jpg" alt="" width="700" height="394" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/14143325/enceladus-news-2.jpg 700w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/14143325/enceladus-news-2-300x169.jpg 300w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/04/14143325/enceladus-news-2-665x374.jpg 665w" sizes="(max-width: 700px) 100vw, 700px"></a><p>NASA/JPL-Caltech</p></div>
-<p>We&rsquo;ve suspected for a while that water is being heated below the surface of Enceladus, but the presence of hydrogen just about confirms it: the reaction of certain minerals with hot rocks is the most likely explanation for the large amounts of hydrogen found by Cassini.</p>
-<p>Meanwhile, the hydrogen discovery also makes it more likely that methane is being produced from carbon dioxide on the moon, a process known as <a href="https://en.wikipedia.org/wiki/Methanogenesis" rel="noopener noreferrer" target="_blank">methanogenesis</a>.</p>
-<p>The hydrogen and the methanogenesis could well provide a food source for microbes, experts think, in the same way it does on Earth.</p>
-<p>In other words, Earth&rsquo;s microbes could probably live on Enceladus.</p>
-<p>But, the hydrogen is so abundant that it might also mean there are no microbes around to eat it up, NASA said in its press conference today, or that microbes are there but only in a very small number.</p>
-<p>For the time being we just don&rsquo;t know &ndash; but the ingredients for life are there, based on the <a href="https://www.nasa.gov/press-release/nasa-missions-provide-new-insights-into-ocean-worlds-in-our-solar-system" rel="noopener noreferrer" target="_blank">research published today</a>.</p>
-<p>&ldquo;The discovery of native molecular hydrogen [H2] completes the set of what I would call the &lsquo;basic&rsquo; requirements for life as we know it: liquid water, organic molecules, minerals, and an accessible source of &lsquo;free&rsquo; energy,&rdquo; <a href="http://gizmodo.com/saturns-moon-enceladus-has-the-basic-ingredients-for-li-1794296870?rev=1492102341781" rel="noopener noreferrer" target="_blank">Lunine explained to Gizmodo</a>.</p>
-<p>&ldquo;The H2 discovery completes the case for going back to Enceladus to look for life.&rdquo;</p>
-<p>At the same time, scientists working with the Hubble telescope say they&rsquo;ve found more evidence that another of Jupiter&rsquo;s moons, Europa, is spurting out watery jets of its own, giving us yet another potential spot where life might develop.</p>
-<p>Researchers have suggested <a href="http://www.sciencealert.com/hubble-may-have-caught-jets-of-water-squirting-out-of-a-potentially-habitable-moon" rel="noopener noreferrer" target="_blank">Europa has geysers of its own</a> before, but this latest evidence is more compelling. For the time being though, Enceladus remains the most promising place to look for life.</p>
-<p>Sadly, we soon have to <a href="https://www.sciencealert.com/here-s-how-and-when-nasa-will-finally-destroy-cassini" rel="noopener noreferrer" target="_blank">say goodbye to Cassini</a> after all the fantastic work it&rsquo;s been doing in studying Saturn and its moons.</p>
-<p>The spacecraft will crash into Saturn in September, after a job well done.</p>
-<p>The findings have now been published in <a href="http://science.sciencemag.org/content/356/6334/132" rel="noopener noreferrer" target="_blank"><em>Science</em></a>.</p>
-<p>(Top image:&nbsp;This illustration shows Cassini diving through the Enceladus plume in 2015. New ocean world discoveries from Cassini and Hubble will help inform future exploration and the broader search for life beyond Earth. <a href="https://www.nasa.gov/press-release/nasa-missions-provide-new-insights-into-ocean-worlds-in-our-solar-system" target="_blank" rel="noopener noreferrer">Credit: NASA/JPL-Caltech</a>)</p>
-<p>This piece first appeared in <a href="http://www.sciencealert.com/we-ve-found-another-basic-ingredient-for-life-to-exist-on-enceladus-says-nasa" target="_blank" rel="noopener noreferrer">ScienceAlert</a>.</p>
-<p><em>David Nield is a freelance technology and science writer.&nbsp;</em></p>
-<p>&nbsp;</p>
-<p>All views expressed are those of the author.</p>]]></content>
-	<updated>2017-04-16T11:00:35+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.ge.com/reports</id>
-		<link rel="self" href="https://www.ge.com/reports"/>
-		<updated>2017-04-16T11:00:35+00:00</updated>
-		<title>GE Reports</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441653</id>
-	<link href="https://www.ge.com/reports/laser-focus-computer-vision-machine-learning-speeding-3d-printing/" rel="alternate" type="text/html"/>
-	<title type="html">Laser Focus: Computer Vision and Machine Learning Are Speeding Up 3D Printing</title>
-	<summary type="html"><![CDATA[<p>Scientists working at GE labs in upstate New York have spent decades building computer vision system...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/08/10101036/AVIO-AERO-CAMERI-IMG_0017.jpg" alt="" srcset="https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/08/10101036/AVIO-AERO-CAMERI-IMG_0017.jpg 5472w, https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/08/10101036/AVIO-AERO-CAMERI-IMG_0017-300x200.jpg 300w, https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/08/10101036/AVIO-AERO-CAMERI-IMG_0017-768x512.jpg 768w, https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/08/10101036/AVIO-AERO-CAMERI-IMG_0017-1024x683.jpg 1024w" sizes="(max-width: 5472px) 100vw, 5472px"><p>Scientists working at GE labs in upstate New York have spent decades building computer vision systems that can study diseased tissue, and hunt for microscopic cracks in machine parts and other features often invisible to the naked eye. &ldquo;Computer vision can be used to find things we either can&rsquo;t see or may not know to look for,&rdquo; says Joseph Vinciquerra, who runs the <a href="https://www.ge.com/reports/just-press-print-ge-building-3d-printing-vending-machine-jetsons/" rel="noopener noreferrer" target="_blank">Additive Research Lab</a> at GE Global Research in Niskayuna, New York.</p>
-<p>Now Vinciquerra and his team are using their insights to improve the way 3D printers work.</p>
-<p>Even though companies like GE already print parts for jet engines, additive manufacturing is still a young field. It can take days to weeks to print large parts such as a compressor blade. If something goes wrong near the end of the process, precious machine time and money could go to waste.</p>
-<p>The GE researchers are building a system that could speed up the process and eventually achieve &ldquo;100 percent yield,&rdquo; an engineer&rsquo;s Nirvana where machines only produce good parts, beginning with the very first build. &ldquo;We do a tremendous amount of work on additive powders to understand what characteristics lead to a good build,&rdquo; says materials scientist Kate Gurnon, a member of the team. &ldquo;We want to apply this automatically to the machines and, in real time, observe the dynamic behavior of the powder delivery to the build plate. In this way, we will have a better chance of getting to the 100 percent yield, faster.&rdquo;</p>
-<div><a href="https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/06/01120543/Arcam-avio-disc.jpg" rel="noopener noreferrer" target="_blank"><img src="https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/06/01120543/Arcam-avio-disc-1024x683.jpg" alt="" width="640" height="427" srcset="https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/06/01120543/Arcam-avio-disc-1024x683.jpg 1024w, https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/06/01120543/Arcam-avio-disc-300x200.jpg 300w, https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/06/01120543/Arcam-avio-disc-768x512.jpg 768w, https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/06/01120543/Arcam-avio-disc-600x400.jpg 600w, https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/06/01120543/Arcam-avio-disc-540x360.jpg 540w, https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/06/01120543/Arcam-avio-disc-665x443.jpg 665w" sizes="(max-width: 640px) 100vw, 640px"></a><p><em>It can take days to weeks to print large metal parts. If something goes wrong near the end of the process, precious machine time and money could go to waste. Top and above images credits: Avio Aero</em></p></div>
-<p>3D printing and other additive manufacturing methods print parts directly from a computer file. They can shape a component by fusing together thin layers of metal powder with a laser, for example. But even these highly-advanced machines are prone to variability. There are a number of culprits &ldquo;that can make the difference between a good build and a build that has sub-optimal properties,&rdquo; Vinciquerra says. They include variation in the size of the powder particles, as well as &ldquo;the complex dynamic of adding new powder layers,&rdquo; which can be as thin as a human hair. &ldquo;We know that things happen during this re-coating process that you cannot control mechanically,&rdquo; he says. &ldquo;We also know that the more we reuse powder, the more opportunities exist for that powder to change and behave differently over time.&rdquo;</p>
-<p>AI and machine learning can help. &ldquo;Using artificial intelligence and machine learning, we will turn 3D printers into essentially their own inspectors,&rdquo; Vinciquerra says. &ldquo;By eliminating the need to inspect parts after they&rsquo;re completely built, we can shave days, even weeks off the entire manufacturing process and lead to a breakthrough in productivity.&rdquo;</p>
-<p>The team starts by printing simple geometric shapes like flat bars and cylinders. They use high-resolution cameras to film every layer and record streaks, pits, divots and other patterns in the powder practically invisible to humans. Next, they run the samples through a powerful CT scanner and hunt for flaws.</p>
-<p>All of the data is stored in computer memory and a proprietary machine-learning algorithm correlates defects revealed by the scanners with powder patterns recorded on the particular layer. &ldquo;The more often you do it, the smarter the system gets,&rdquo; Vinciquerra says. &ldquo;The computer vision alone will eventually have enough training to tell us whether we are going to have a problem.&rdquo;</p>
-<div><a href="https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/08/10101105/Inside-laser-machine-2.jpg" rel="noopener noreferrer" target="_blank"><img src="https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/08/10101105/Inside-laser-machine-2-1024x512.jpg" alt="" width="640" height="320" srcset="https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/08/10101105/Inside-laser-machine-2-1024x512.jpg 1024w, https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/08/10101105/Inside-laser-machine-2-300x150.jpg 300w, https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/08/10101105/Inside-laser-machine-2-768x384.jpg 768w" sizes="(max-width: 640px) 100vw, 640px"></a><p><em>&ldquo;Using artificial intelligence and machine learning, we will turn 3D printers into essentially their own inspectors,&rdquo; says GE&rsquo;s Joe Vinciquerra. Image credit: Concept Laser</em></p></div>
-<p>But Vinciquerra and Gurnon are going deeper. They are working with other members of the team to loop the defect-spotting ability into machine controls to make the 3D printer smarter. When the computer vision spots a familiar streak that it knows will lead to cavities, for example, the printer can automatically add more power or speed to the laser beam to adjust, or change the thickness of the next layer. &ldquo;The idea is that the machine has a compensation strategy based on what the computer vision sees,&rdquo; Vinciquerra says. &ldquo;That&rsquo;s the long-term goal here.&rdquo;</p>
-<p>One way to get there is to build a &ldquo;digital twin,&rdquo; a virtual representation of the production process that can compare ideal conditions with reality in real time and suggest changes to reach a flawless result. Vinciquerra says that the digital twin is &ldquo;sort of a recipe card&rdquo; that &ldquo;represents the gold standard of how the material should be processed&rdquo; in the 3D printer. &ldquo;It&rsquo;s telling me that if I use these parameters to build a part from a certain material, I can expect this kind of behavior in the final product,&rdquo; Vinciquerra says.</p>
-<p>The next generation of the twin will be able to gather computer vision data but also collect information from other sensors monitoring the printing process, such as the shape of the tiny pool of metal rendered molten by the laser.</p>
-<p>Vinciquerra notes that some of GE&rsquo;s most advanced 3D-printed parts for GE Aviation can take more than a week to complete and require several more hours after that for processing and validation. &ldquo;If we could recognize a defect very early in a part build, we would have an opportunity to stop and start over,&rdquo; Vinciquerra added. &ldquo;On the other hand, if a part is more than halfway through a build, we could evaluate whether the defect could be fixed by adjusting the rest of the layers being printed. We have never had this degree of flexibility in manufacturing.&rdquo;</p>
-<p>&nbsp;</p>]]></content>
-	<updated>2017-10-19T20:50:16+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.ge.com/reports</id>
-		<link rel="self" href="https://www.ge.com/reports"/>
-		<updated>2017-10-19T20:50:16+00:00</updated>
-		<title>GE Reports</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441697</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171019181855.htm" rel="alternate" type="text/html"/>
-	<title type="html">NASA's MAVEN mission finds Mars has a twisted magnetic tail</title>
-	<summary type="html"><![CDATA[<p>Mars has an invisible magnetic 'tail' that is twisted by interaction with the solar wind, according ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Mars has an invisible magnetic 'tail' that is twisted by interaction with the solar wind, according to new research using data from NASA's MAVEN spacecraft.</p>]]></content>
-	<updated>2017-10-19T22:18:55+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-19T22:18:55+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171019181855-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-20:/441759</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171019100938.htm" rel="alternate" type="text/html"/>
-	<title type="html">Phenogenetic map created for stem cells models of neurological diseases</title>
-	<summary type="html"><![CDATA[<p>In an effort to better understand neurological diseases like Alzheimer's, Parkinson's and ALS -- and...</p>]]></summary>
-	<content type="html"><![CDATA[<p>In an effort to better understand neurological diseases like Alzheimer's, Parkinson's and ALS -- and develop new ways to treat them -- researchers have performed the first meta-analysis of all induced pluripotent stem cell models for neurological and neurodegenerative diseases, and created an atlas of how cell characteristics are linked to their genotype.</p>]]></content>
-	<updated>2017-10-19T14:09:38+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-19T14:09:38+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441537</id>
-	<link href="https://blog.ted.com/achievement-unlocked-tedx-celebrates-100000-talks/" rel="alternate" type="text/html"/>
-	<title type="html">Achievement unlocked: TEDx celebrates 100,000 talks!</title>
-	<summary type="html"><![CDATA[<p>Ideas never sleep &mdash; and neither does the TEDx archive. &nbsp;Since going online in 2009, the archiv...</p>]]></summary>
-	<content type="html"><![CDATA[<p><span>Ideas never sleep &mdash; and neither does the </span><a href="https://www.youtube.com/user/TEDxTalks" rel="noopener noreferrer" target="_blank"><span>TEDx archive</span></a><span>. &nbsp;Since going online in 2009, the archive has amassed thousands of perspective-shifting talks from across the world &mdash; and we&rsquo;ve just reached 100,000! So, to celebrate TEDx and its rich library of incredible ideas (honestly, where else but on the TEDx archive will you hear from your city&rsquo;s leading fly expert, a neuroscientist and a farm activist all in one place?), we&rsquo;re highlighting this moment with some of our favorite milestones to date.</span></p>
-<p><img data-attachment-id="106290" data-permalink="https://blog.ted.com/achievement-unlocked-tedx-celebrates-100000-talks/100000-talks-top/" data-orig-file="https://tedconfblog.files.wordpress.com/2017/10/100000-talks-top.jpg?w=900&amp;h=5254" data-orig-size="2500,14595" data-comments-opened="0" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="100000 talks top" data-image-description="" data-medium-file="https://tedconfblog.files.wordpress.com/2017/10/100000-talks-top.jpg?w=900&amp;h=5254?w=86" data-large-file="https://tedconfblog.files.wordpress.com/2017/10/100000-talks-top.jpg?w=900&amp;h=5254?w=90" src="https://tedconfblog.files.wordpress.com/2017/10/100000-talks-top.jpg?w=900&amp;h=5254" alt="" width="900" height="5254" srcset="https://tedconfblog.files.wordpress.com/2017/10/100000-talks-top.jpg?w=900&amp;h=5254 900w, https://tedconfblog.files.wordpress.com/2017/10/100000-talks-top.jpg?w=1800&amp;h=10508 1800w, https://tedconfblog.files.wordpress.com/2017/10/100000-talks-top.jpg?w=768&amp;h=4484 768w, https://tedconfblog.files.wordpress.com/2017/10/100000-talks-top.jpg?w=90&amp;h=525 90w" sizes="(max-width: 900px) 100vw, 900px"></p>
-<p><a href="https://www.youtube.com/playlist?list=PLsRNoUx8w3rNU3NoKVbghF9v5iDOAuBbQ" rel="noopener noreferrer" target="_blank"><img data-attachment-id="106302" data-permalink="https://blog.ted.com/achievement-unlocked-tedx-celebrates-100000-talks/screen-shot-2017-10-19-at-4-28-48-pm/" data-orig-file="https://tedconfblog.files.wordpress.com/2017/10/screen-shot-2017-10-19-at-4-28-48-pm.png?w=900" data-orig-size="995,408" data-comments-opened="0" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="" data-image-description="" data-medium-file="https://tedconfblog.files.wordpress.com/2017/10/screen-shot-2017-10-19-at-4-28-48-pm.png?w=900?w=250" data-large-file="https://tedconfblog.files.wordpress.com/2017/10/screen-shot-2017-10-19-at-4-28-48-pm.png?w=900?w=530" src="https://tedconfblog.files.wordpress.com/2017/10/screen-shot-2017-10-19-at-4-28-48-pm.png?w=900" alt="" srcset="https://tedconfblog.files.wordpress.com/2017/10/screen-shot-2017-10-19-at-4-28-48-pm.png?w=900 900w, https://tedconfblog.files.wordpress.com/2017/10/screen-shot-2017-10-19-at-4-28-48-pm.png?w=150 150w, https://tedconfblog.files.wordpress.com/2017/10/screen-shot-2017-10-19-at-4-28-48-pm.png?w=250 250w, https://tedconfblog.files.wordpress.com/2017/10/screen-shot-2017-10-19-at-4-28-48-pm.png?w=768 768w, https://tedconfblog.files.wordpress.com/2017/10/screen-shot-2017-10-19-at-4-28-48-pm.png?w=530 530w, https://tedconfblog.files.wordpress.com/2017/10/screen-shot-2017-10-19-at-4-28-48-pm.png 995w" sizes="(max-width: 900px) 100vw, 900px"></a></p><br>  <a rel="noopener noreferrer" href="http://feeds.wordpress.com/1.0/gocomments/tedconfblog.wordpress.com/106260/" target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/tedconfblog.wordpress.com/106260/"></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=blog.ted.com&amp;blog=14795620&amp;post=106260&amp;subd=tedconfblog&amp;ref=&amp;feed=1" width="1" height="1"><img src="http://feeds.feedburner.com/~r/TEDBlog/~4/SueIIkOluUo" height="1" width="1" alt="">]]></content>
-	<updated>2017-10-19T20:33:42+00:00</updated>
-	<author><name>TED Staff</name></author>
-	<source>
-		<id>http://feeds.feedburner.com/</id>
-		<link rel="self" href="http://feeds.feedburner.com/"/>
-		<updated>2017-10-19T20:33:42+00:00</updated>
-		<title>TED Blog</title></source>
-
-	<category term="news"/>
-
-	<category term="milestone"/>
-
-	<category term="tedx"/>
-
-	<category term="tedx talks"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441548</id>
-	<link href="https://phys.org/news/2017-10-team-high-resolution-dopamine-receptor.html" rel="alternate" type="text/html"/>
-	<title type="html">Team determines first high-resolution structure of dopamine receptor</title>
-	<summary type="html"><![CDATA[<p>One way or another, many psychiatric drugs work by binding to receptor molecules in the brain that a...</p>]]></summary>
-	<content type="html"><![CDATA[<p>One way or another, many psychiatric drugs work by binding to receptor molecules in the brain that are sensitive to the neurotransmitter dopamine, a chemical signal that is central to how our experiences shape our behavior. But because scientists still don't understand the differences between the many kinds of dopamine receptors present on brain cells, most of these drugs are "messy," binding to multiple different dopamine receptor molecules and leading to serious side effects ranging from movement disorders to pathological gambling.</p>]]></content>
-	<updated>2017-10-19T18:00:08+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-19T18:00:08+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="biochemistry"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/keypsychiatr.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441551</id>
-	<link href="https://phys.org/news/2017-10-machine-automatically-red-blood-cells.html" rel="alternate" type="text/html"/>
-	<title type="html">New machine learning system can automatically identify shapes of red blood cells</title>
-	<summary type="html"><![CDATA[<p>Using a computational approach known as deep learning, scientists have developed a new system to cla...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Using a computational approach known as deep learning, scientists have developed a new system to classify the shapes of red blood cells in a patient's blood. The findings, published in PLOS Computational Biology, could potentially help doctors monitor people with sickle cell disease.</p>]]></content>
-	<updated>2017-10-19T18:00:05+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-19T18:00:05+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="other"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/newmachinele.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441532</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/uoc--kpd101817.php" rel="alternate" type="text/html"/>
-	<title type="html">Key psychiatric drug target comes into focus</title>
-	<summary type="html"><![CDATA[<p>(University of California - San Francisco) One way or another, many psychiatric drugs work by bindin...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of California - San Francisco</i>) One way or another, many psychiatric drugs work by binding to receptor molecules in the brain that are sensitive to the neurotransmitter dopamine, a chemical signal that is central to how our experiences shape our behavior. But because scientists still don't understand the differences between the many kinds of dopamine receptors present on brain cells, most of these drugs are 'messy,' binding to multiple different dopamine receptor molecules and leading to serious side effects ranging from movement disorders to pathological gambling.</p>]]></content>
-	<updated>2017-10-19T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-19T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441516</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/wifb-srk101917.php" rel="alternate" type="text/html"/>
-	<title type="html">Study reveals key molecular link in major cell growth pathway</title>
-	<summary type="html"><![CDATA[<p>(Whitehead Institute for Biomedical Research) A team of scientists led by Whitehead Institute has un...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Whitehead Institute for Biomedical Research</i>) A team of scientists led by Whitehead Institute has uncovered a surprising molecular link that connects how cells regulate growth with how they sense and make available the nutrients required for growth. The researchers' findings also implicate a new protein, SLC38A9, as a potential drug target in pancreatic cancer.</p>]]></content>
-	<updated>2017-10-19T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-19T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-19:/441485</id>
-	<link href="https://phys.org/news/2017-10-gene-brain-major.html" rel="alternate" type="text/html"/>
-	<title type="html">Gene editing in the brain gets a major upgrade</title>
-	<summary type="html"><![CDATA[<p>Genome editing technologies have revolutionized biomedical science, providing a fast and easy way to...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Genome editing technologies have revolutionized biomedical science, providing a fast and easy way to modify genes. However, the technique allowing scientists to carryout the most precise edits, doesn't work in cells that are no longer dividing - which includes most neurons in the brain. This technology had limited use in brain research, until now. Research Fellow Jun Nishiyama, M.D., Ph.D., Research Scientist, Takayasu Mikuni, M.D., Ph.D., and Scientific Director, Ryohei Yasuda, Ph.D. at the Max Planck Florida Institute for Neuroscience (MPFI) have developed a new tool that, for the first time, allows precise genome editing in mature neurons, opening up vast new possibilities in neuroscience research.</p>]]></content>
-	<updated>2017-10-19T16:00:06+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-19T16:00:06+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="biotechnology"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-geneeditingi.jpg"/>
 
 </entry>
 
