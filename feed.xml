@@ -4,11 +4,499 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-08-06T11:00:16+00:00</updated>
+<updated>2017-05-05T07:00:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2016-10-25:/335090</id>
+	<link href="http://www.livescience.com/56626-how-humans-first-populated-oceania.html" rel="alternate" type="text/html"/>
+	<title type="html">Oceania: How Humans Populated One of Earth's Most Remote Places</title>
+	<summary type="html"><![CDATA[<p>Researchers ran computer simulations that take into account environmental variability and geographic...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Researchers ran computer simulations that take into account environmental variability and geographical setting to investigate how early explorers made it to these tiny, remote islands in the Pacific.</p>]]></content>
+	<updated>2016-10-25T10:34:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.livescience.com</id>
+		<link rel="self" href="https://www.livescience.com"/>
+		<updated>2016-10-25T10:34:00+00:00</updated>
+		<title>LiveScience.com</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="http://www.livescience.com/images/i/000/087/078/original/palau-micronesia.jpg?interpolation=lanczos-none&amp;fit=around|160:100&amp;crop=160:100;*,*"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-10-02:/328313</id>
+	<link href="https://www.eurekalert.org/pub_releases/2016-09/iufc-low090216.php" rel="alternate" type="text/html"/>
+	<title type="html">Latest ocean warming review reveals extent of impacts on nature and humans</title>
+	<summary type="html"><![CDATA[<p>(International Union for Conservation of Nature) Ocean warming is affecting humans in direct ways an...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>International Union for Conservation of Nature</i>) Ocean warming is affecting humans in direct ways and the impacts are already being felt, including effects on fish stocks and crop yields, more extreme weather events and increased risk from water-borne diseases, according to what has been called the most comprehensive review available on the issue, launched today by the International Union for Conservation of Nature at the IUCN World Conservation Congress in Hawaii.</p>]]></content>
+	<updated>2016-09-05T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2016-09-05T04:00:00+00:00</updated>
+		<title>EurekAlert! - Oceanography</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-14:/323725</id>
+	<link href="http://phys.org/news/2016-09-insights-impacts-ocean-acidification.html" rel="alternate" type="text/html"/>
+	<title type="html">New insights into the impacts of ocean acidification</title>
+	<summary type="html"><![CDATA[<p>A new study recently published in the journal Global Biogeochemical Cycles offers clues to the poten...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A new study recently published in the journal Global Biogeochemical Cycles offers clues to the potential impact of ocean acidification deep-sea, shell-forming organisms.</p>]]></content>
+	<updated>2016-09-14T14:13:58+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2016-09-14T14:13:58+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="environment"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="http://cdn.phys.org/newman/csz/news/tmb/2016/13-newinsightsi.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2016-09-07:/321462</id>
+	<link href="http://www.eurekalert.org/pub_releases/2016-09/miot-sfi090716.php" rel="alternate" type="text/html"/>
+	<title type="html">Study finds increased ocean acidification due to human activities</title>
+	<summary type="html"><![CDATA[<p>(Massachusetts Institute of Technology) Oceanographers from MIT and Woods Hole Oceanographic Institu...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Massachusetts Institute of Technology</i>) Oceanographers from MIT and Woods Hole Oceanographic Institution report that the northeast Pacific Ocean has absorbed an increasing amount of anthropogenic carbon dioxide over the last decade, at a rate that mirrors the increase of carbon dioxide emissions pumped into the atmosphere.</p>]]></content>
+	<updated>2016-09-07T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2016-09-07T04:00:00+00:00</updated>
+		<title>EurekAlert! - Atmospheric Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444573</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/unio-urd102517.php" rel="alternate" type="text/html"/>
+	<title type="html">UNIST researchers develop highly stable perovskite solar cells</title>
+	<summary type="html"><![CDATA[<p>(Ulsan National Institute of Science and Technology(UNIST)) South Korea's Ulsan Nationl Institute of...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Ulsan National Institute of Science and Technology(UNIST)</i>) South Korea's Ulsan Nationl Institute of Science and Technology has recently introduced a highly stable perovskite solar cells (PSCs).</p>]]></content>
+	<updated>2017-10-25T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-25T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-26:/445108</id>
+	<link href="http://www.esa.int/Our_Activities/Human_Spaceflight/Low-cost_clocks_for_landing_on_the_Moon" rel="alternate" type="text/html"/>
+	<title type="html">Low-cost clocks for landing on the Moon</title>
+	<summary type="html"><![CDATA[<p>A European clock accurate to a trillionth of a second is set to be used on satellites a...</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/10/laser_to_the_moon/17222787-1-eng-GB/Laser_to_the_Moon_small.jpg" width="170" height="96" align="left" hspace="8"><br>
+		<p>
+A European clock accurate to a trillionth of a second is set to be used on satellites and missions to the Moon.
+</p><p>
+The ultra-precise time-keeper was conceived by a small company in Latvia, and ESA has recognised its potential for space.
+</p><p>
+&ldquo;We are the Ferrari of timers with the components of a tractor,&rdquo; says Nikolai Adamovitch of Eventech.&nbsp;
+</p>]]></content>
+	<updated>2017-10-26T09:17:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.esa.int/</id>
+		<link rel="self" href="http://www.esa.int/"/>
+		<updated>2017-10-26T09:17:00+00:00</updated>
+		<title>ESA Top News</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-26:/444984</id>
+	<link href="https://www.livescience.com/60777-testing-quantum-mechanics-in-space.html" rel="alternate" type="text/html"/>
+	<title type="html">There and Back Again: Scientists Beam Photons to Space to Test Quantum Theory</title>
+	<summary type="html"><![CDATA[<p>Researchers have taken a famous quantum-physics experiment to new heights by sending light, in the f...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Researchers have taken a famous quantum-physics experiment to new heights by sending light, in the form of photons, to space and back, demonstrating the dual-particle-wave nature of light over much greater distances than scientists can achieve on Earth.</p>]]></content>
+	<updated>2017-10-25T14:04:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.livescience.com</id>
+		<link rel="self" href="https://www.livescience.com"/>
+		<updated>2017-10-25T14:04:00+00:00</updated>
+		<title>LiveScience.com</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="https://img.purch.com/rc/160x100/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5Ni8zOTcvb3JpZ2luYWwvdmVkb3ZhdG8xSFIuanBn"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-26:/444994</id>
+	<link href="https://www.livescience.com/45005-banana-nutrition-facts.html" rel="alternate" type="text/html"/>
+	<title type="html">Bananas: Health Benefits, Risks &amp; Nutrition Facts</title>
+	<summary type="html"><![CDATA[<p>Bananas are packed with nutrients and are good for your heart, your eyes, your diet and your mood.</p>]]></summary>
+	<content type="html"><![CDATA[<p>Bananas are packed with nutrients and are good for your heart, your eyes, your diet and your mood.</p>]]></content>
+	<updated>2017-10-25T13:33:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.livescience.com</id>
+		<link rel="self" href="https://www.livescience.com"/>
+		<updated>2017-10-25T13:33:00+00:00</updated>
+		<title>LiveScience.com</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="https://img.purch.com/rc/160x100/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2NS8xNDkvb3JpZ2luYWwvYmFuYW5hcy5qcGc="/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444927</id>
+	<link href="https://futurism.com/bill-gates-humanity-will-see-its-last-case-of-polio-this-year/" rel="alternate" type="text/html"/>
+	<title type="html">Bill Gates: “Humanity Will See Its Last Case of Polio This Year”</title>
+	<summary type="html"><![CDATA[<p>Completely Eradicated
+For a long time, polio was one of the most feared diseases around the world. A...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Completely Eradicated</h2>
+<p>For a long time, polio was one of the most feared diseases around the world. And although its <a href="https://amhistory.si.edu/polio/timeline/index.htm" target="_blank" rel="noopener noreferrer">first recorded case dates back to 1789</a>, polio epidemics actually predate recorded history. Currently, in 2017, it looks like polio&rsquo;s long reign of terror is about to officially end, according to updates on Tuesday from the Rotary International&rsquo;s fifth annual <a href="https://www.rotary.org/en/unsung-heroes-honored-world-polio-day-2017" target="_blank" rel="noopener noreferrer">World Polio Day celebration</a> co-hosted by the Bill &amp; Melinda Gates Foundation.</p>
+<p>&ldquo;Progress in fighting polio might be one of the world&rsquo;s best-kept secrets in global health,&rdquo; Microsoft co-founder and billionaire philanthropist Bill Gates <a href="https://www.gatesnotes.com/2017-Annual-Letter#ALChapter2" target="_blank" rel="noopener noreferrer">wrote in his foundation&rsquo;s 2017 annual letter</a>. &ldquo;If things stay stable in the conflicted areas, humanity will see its last case of polio this year.&rdquo;</p>
+<p>The head of the foundation&rsquo;s polio eradication efforts, Dr. Jay Wenger, is hopeful that polio could indeed disappear by this year&rsquo;s end &mdash; two years earlier than <a href="https://futurism.com/bill-gates-we-are-closer-than-ever-before-to-totally-eradicating-polio/" target="_blank" rel="noopener noreferrer">what Gates previously predicted</a>. &ldquo;What we&rsquo;re looking at now is sort of the endgame of polio eradication. We are closer than ever, and we&rsquo;re optimistic that we can see the end of wild poliovirus disease by as early as this year,&rdquo; he said, <a href="https://www.usatoday.com/story/tech/news/2017/10/24/bill-gates-polio-eradicated-year/795856001/" target="_blank" rel="noopener noreferrer">as reported by </a><i><a href="https://www.usatoday.com/story/tech/news/2017/10/24/bill-gates-polio-eradicated-year/795856001/" target="_blank" rel="noopener noreferrer">USA Today</a></i>.</p>
+<p></p>
+<h2>A Victory for Vaccines</h2>
+<p>Polio could very well be the second disease eradicated in our lifetime, next to smallpox. Dr. Wenger said that there are now only 12 cases of polio in the entire world, and all of them are found within two countries: Afghanistan and Pakistan. &ldquo;In the last couple of years, we&rsquo;ve seen unprecedented progress. In 2015 we could only find 74 cases; in 2016 we found 37, and then this year so far we&rsquo;ve found only 12 in only two countries.&rdquo;</p>
+<p>This success comes from the unsung heroes that World Polio Day celebrates, those that have helped to spread the first safe and effective oral vaccine against polio, developed by Jonas Salk in 1955. The Global Polio Eradication Initiative, launched in 1988 by the World Health Assembly, has since reduced polio incidence by 99.9 percent. This mass vaccination campaign, supported by numerous institutions around the world, made this victory against polio possible.</p>
+<p>The Gates Foundation pledged $450 million in June to continue supporting efforts against polio. &ldquo;You might be wondering why we&rsquo;re spending so much money when there&rsquo;s only 12 cases,&rdquo; Dr. Wenger said. &ldquo;We want to be sure we finish it off.&rdquo;</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/bill-gates-humanity-will-see-its-last-case-of-polio-this-year/" target="_blank">Bill Gates: &ldquo;Humanity Will See Its Last Case of Polio This Year&rdquo;</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-25T22:01:42+00:00</updated>
+	<author><name>Dom Galeon</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-25T22:01:42+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="health &amp; medicine"/>
+
+	<category term="bill gates"/>
+
+	<category term="polio"/>
+
+	<category term="vaccines"/>
+
+	<category term="world polio day"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444932</id>
+	<link href="https://futurism.com/scientists-used-genetic-modification-to-create-low-fat-pigs/" rel="alternate" type="text/html"/>
+	<title type="html">Scientists Used Genetic Modification to Create Low-Fat Pigs</title>
+	<summary type="html"><![CDATA[<p>Low-Fat Pigs
+Chinese scientists have successfully used CRISPR to create twelve healthy pigs that hav...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Low-Fat Pigs</h2>
+<p>Chinese scientists have <a href="https://futurism.com/crispr-is-on-the-cusp-of-eradicating-a-host-of-diseases/" target="_blank" rel="noopener noreferrer">successfully used CRISPR</a> to create twelve healthy pigs that have around 24 percent less body fat than normal. The genetically modified low-fat pigs are still capable of maintaining a healthy body temperature, which could allow farmers to ensure the animals&rsquo; welfare without spending as much money on feeding them and keeping them warm.</p>
+<p>Most mammals possess a gene known as UCP1, which allows an organisms to regulate its body temperature when it&rsquo;s cold by burning fat&ndash;but pigs don&rsquo;t. The scientists took the gene from a mouse and <a href="https://futurism.com/experts-cast-doubt-on-groundbreaking-crispr-embryo-editing-research/" target="_blank" rel="noopener noreferrer">used CRISPR to introduce it</a> into pig cells. These cells were used to create in excess of 2,553 cloned pig embryos.</p>
+<p></p>
+<p>Embryos were then implanted into thirteen pigs, three of which became pregnant, giving birth to twelve male pigs. These animals were found to be completely healthy, and one even managed to mate and produce healthy offspring.</p>
+<p>This study offers up a lot of utility for farmers, giving them a means of raising healthy pigs more cheaply than current methods allow. However, there&rsquo;s also a health benefit to people eating pork that is less fatty as a result of the genetic modification.</p>
+<p>The next question is whether or not animals that have been modified in this way could ever be legally sold for human consumption.</p>
+<h2>You Are What You Eat</h2>
+<p>There are <a href="https://futurism.com/new-genetically-engineered-corn-could-revolutionize-our-agriculture/" target="_blank" rel="noopener noreferrer">significant advantages to genetically modified foods</a>, ranging from practical benefits for farmers, to the fact that hardier crops could help produce sustenance for areas where malnutrition is common. However, the US and other countries have proven to be reticent about signing off on official approval.</p>
+<p>&ldquo;I very much doubt that this particular pig will ever be imported into the USA&mdash;one thing&mdash;and secondly, whether it would ever be allowed to enter the food chain,&rdquo; said animal sciences professor R. Michael Roberts in <a href="http://www.npr.org/sections/thesalt/2017/10/23/559060166/crispr-bacon-chinese-scientists-create-genetically-modified-low-fat-pigs" target="_blank" rel="noopener noreferrer">an interview with NPR</a>.&nbsp;<figure><a href="https://futurism.com/images/how-crispr-works-the-future-of-genetic-engineering/" rel="noopener noreferrer" target="_blank"><img src="https://futurism.com/wp-content/uploads/2015/01/Crispr-Cas-9.jpg" alt="How CRISPR Works: The Future of Genetic Engineering and Designer Humans"></a><figcaption><strong><a href="https://futurism.com/images/how-crispr-works-the-future-of-genetic-engineering/" target="_blank" rel="noopener noreferrer">Click to View Full Infographic</a></strong></figcaption></figure>
+</p><p>This year, the first genetically modified salmon <a href="https://futurism.com/you-can-now-buy-genetically-engineered-salmon-in-canada/" target="_blank" rel="noopener noreferrer">was sold in North America</a>, but gaining approval from the Food and Drug Administration was a process that took a quarter of a century. Unlike these pigs, the salmon were designed to be sterile, and it was still mandated that they had to be properly contained to avoid the risk of them contaminating natural populations of the fish.</p>
+<p>Despite the fact that studies have demonstrated that genetically modified foods <a href="https://futurism.com/expansive-report-on-gm-crops-finds-they-are-safe-pose-no-health-risks/" target="_blank" rel="noopener noreferrer">pose no health risks</a>, there&rsquo;s still a great deal of pushback against their production and sale. However, as projects like these low-fat pigs demonstrate the breadth of what can be achieved, we might see the general consensus begin to change.</p>
+<p>If we&rsquo;re this anxious about modifying animals on a genetic level, it seems likely that we&rsquo;re a way off doing the same to humans&ndash;even though CRISPR could be <a href="https://futurism.com/scientists-just-used-gene-editing-to-remove-a-fatal-blood-disorder-from-human-embryos/" target="_blank" rel="noopener noreferrer">used to great effect</a> if we did choose to tinker with our own genetic make-up.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/scientists-used-genetic-modification-to-create-low-fat-pigs/" target="_blank">Scientists Used Genetic Modification to Create Low-Fat Pigs</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-25T21:50:21+00:00</updated>
+	<author><name>Brad Jones</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-25T21:50:21+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="hard science"/>
+
+	<category term="crispr"/>
+
+	<category term="food"/>
+
+	<category term="genetically modified food"/>
+
+	<category term="pigs"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444820</id>
+	<link href="http://news.mit.edu/2017/researchers-engineer-crispr-edit-single-rna-letters-human-cells-1015" rel="alternate" type="text/html"/>
+	<title type="html">Researchers engineer CRISPR to edit single RNA letters in human cells</title>
+	<summary type="html"><![CDATA[<p>The Broad Institute and MIT scientists who first harnessed CRISPR for mammalian genome editing have ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The Broad Institute and MIT scientists who first harnessed CRISPR for mammalian genome editing have engineered a new molecular system for efficiently editing RNA in human cells. RNA editing, which can alter gene products without making changes to the genome, has profound potential as a tool for both research and disease treatment.</p>
+
+
+
+<p>In a paper published today in <em>Science</em>, senior author Feng Zhang and his team describe the new CRISPR-based system, called RNA Editing for Programmable A to I Replacement, or &ldquo;REPAIR.&rdquo; The system can change single RNA nucleotides in mammalian cells in a programmable and precise fashion. REPAIR has the ability to reverse disease-causing mutations at the RNA level, as well as other potential therapeutic and basic science applications.</p>
+
+
+
+<p>&ldquo;The ability to correct disease-causing mutations is one of the primary goals of genome editing,&rdquo; says Zhang, a core institute member of the Broad Institute, an investigator at the McGovern Institute, and the James and Patricia Poitras &rsquo;63 Professor in Neuroscience and associate professor in the departments of Brain and Cognitive Sciences and Biological Engineering at MIT. &ldquo;So far, we&rsquo;ve gotten very good at inactivating genes, but actually recovering lost protein function is much more challenging. This new ability to edit RNA opens up more potential opportunities to recover that function and treat many diseases, in almost any kind of cell.&rdquo;</p>
+
+
+
+<p>REPAIR has the ability to target individual RNA letters, or nucleosides, switching adenosines to inosines (read as guanosines by the cell). These letters are involved in single-base changes known to regularly cause disease in humans. In human disease, a mutation from G to A is extremely common; these alterations have been implicated in, for example, cases of focal epilepsy, Duchenne muscular dystrophy, and Parkinson&rsquo;s disease. REPAIR has the ability to reverse the impact of any pathogenic G-to-A mutation regardless of its surrounding nucleotide sequence, with the potential to operate in any cell type.</p>
+
+
+
+<p>Unlike the permanent changes to the genome required for DNA editing, RNA editing offers a safer, more flexible way to make corrections in the cell. &ldquo;REPAIR can fix mutations without tampering with the genome, and because RNA naturally degrades, it&rsquo;s a potentially reversible fix,&rdquo; explains co-first author David Cox, a graduate student in Zhang&rsquo;s lab.</p>
+
+
+
+<p>To create REPAIR, the researchers systematically profiled the CRISPR-Cas13 enzyme family for potential &ldquo;editor&rdquo; candidates (unlike Cas9, the Cas13 proteins target and cut RNA). They selected an enzyme from <em>Prevotella</em> bacteria, called PspCas13b, which was the most effective at inactivating RNA. The team engineered a deactivated variant of PspCas13b that still binds to specific stretches of RNA but lacks its &ldquo;scissor-like&rdquo; activity, and fused it to a protein called ADAR2, which changes the letters A to I in RNA transcripts.</p>
+
+
+
+<p>In REPAIR, the deactivated Cas13b enzyme seeks out a target sequence of RNA, and the ADAR2 element performs the base conversion without cutting the transcript or relying on any of the cell&rsquo;s native machinery.</p>
+
+
+
+<p>The team further modified the editing system to improve its specificity, reducing detectable off-target edits from 18,385 to only 20 in the whole transcriptome. The upgraded incarnation, REPAIRv2, consistently achieved the desired edit in 20 to 40 percent &mdash; and up to 51 percent &mdash; of a targeted RNA without signs of significant off-target activity. &ldquo;The success we had engineering this system is encouraging, and there are clear signs REPAIRv2 can be evolved even further for more robust activity while still maintaining specificity,&rdquo; says Omar Abudayyeh, co-first author and a graduate student in Zhang&rsquo;s lab.</p>
+
+
+
+<p>To demonstrate REPAIR&rsquo;s therapeutic potential, the team synthesized the pathogenic mutations that cause Fanconi anemia and X-linked nephrogenic diabetes insipidus, introduced them into human cells, and successfully corrected these mutations at the RNA level. To push the therapeutic prospects further, the team plans to improve REPAIRv2&rsquo;s efficiency and to package it into a delivery system appropriate for introducing REPAIRv2 into specific tissues in animal models.</p>
+
+
+
+<p>The researchers are also working on additional tools for other types of nucleotide conversions. &ldquo;There&rsquo;s immense natural diversity in these enzymes,&rdquo; says co-first author Jonathan Gootenberg, a graduate student in both Zhang&rsquo;s lab and the lab of Broad core institute member Aviv Regev. &ldquo;We&rsquo;re always looking to harness the power of nature to carry out these changes.&rdquo;</p>
+
+
+
+<p>Zhang, along with the Broad Institute and MIT, plans to share the REPAIR system widely. As with earlier CRISPR tools, the groups will make this technology freely available for academic research via the <a href="https://www.addgene.org/Feng_Zhang/" rel="noopener noreferrer" target="_blank">Zhang lab&rsquo;s page</a> on the plasmid-sharing website Addgene, through which the Zhang lab has already shared reagents more than 42,000 times with researchers at more than 2,200 labs in 61 countries, accelerating research around the world.</p>
+
+
+
+<p>This research was funded, in part, by the National Institutes of Health and the Poitras Center for Affective Disorders Research.</p>]]></content>
+	<updated>2017-10-25T18:00:00+00:00</updated>
+	<author><name>Broad Institute</name></author>
+	<source>
+		<id>http://news.mit.edu/mitresearch-rss.xml</id>
+		<link rel="self" href="http://news.mit.edu/mitresearch-rss.xml"/>
+		<updated>2017-10-25T18:00:00+00:00</updated>
+		<title>MIT Research News</title></source>
+
+
+	<link rel="enclosure" 
+		type="image" 
+		length="1"
+		href="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-CrisprRNA.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444664</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/kift-nso102517.php" rel="alternate" type="text/html"/>
+	<title type="html">Navigation system of brain cells decoded</title>
+	<summary type="html"><![CDATA[<p>(Karlsruher Institut f&uuml;r Technologie (KIT) ) The human brain contains roughly 100 billion neurons. I...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Karlsruher Institut f&uuml;r Technologie (KIT) </i>) The human brain contains roughly 100 billion neurons. Information among them is transmitted via a complex network of nerve fibers. Hardwiring of most of this network takes place before birth according to a genetic blueprint, that is without external influences playing a role. Researchers of Karlsruhe Institute of Technology (KIT) have now found out more about how the navigation system guiding the axons during growth works. This is reported in the eLife magazine.</p>]]></content>
+	<updated>2017-10-25T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-25T04:00:00+00:00</updated>
+		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444771</id>
+	<link href="https://inhabitat.com/italy-seeks-to-phase-out-coal-power-plants-by-2025" rel="alternate" type="text/html"/>
+	<title type="html">Italy seeks to phase out coal power plants by 2025</title>
+	<summary type="html"><![CDATA[<p>Nation by nation, Europe is going green. The latest country to prove its commitment to sustainable ...</p>]]></summary>
+	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Italy-seeks-to-phase-out-all-coal-power-plants-2025-889x593.jpg" alt="Italy, Europe, sustainability, coal, power plant, geothermal, alternative energy, environment, politics, News, "></p>
+<p>Nation by nation, <a href="https://inhabitat.com/tag/Europe" rel="noopener noreferrer" target="_blank">Europe</a> is going green. The latest country to prove its commitment to sustainable solutions is <a href="https://inhabitat.com/tag/Italy" rel="noopener noreferrer" target="_blank">Italy</a>. On Tuesday, the Italian Industry Minister announced that by 2025, the country plans to phase out <a href="https://inhabitat.com/tag/coal" rel="noopener noreferrer" target="_blank">coal</a> power plants. Additionally, the country plans to meet 27 percent of &ldquo;gross overall energy consumption&rdquo; with renewable sources by the year 2030.</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Italy-seeks-to-phase-out-all-coal-power-plants-2025-889x593.jpg" alt="Italy, Europe, sustainability, coal, power plant, geothermal, alternative energy, environment, politics, News, "></p>
+<p>During a parliamentary hearing, Minister <a href="https://energy.economictimes.indiatimes.com/tag/carlo+calenda" rel="noopener noreferrer" target="_blank">Carlo Calenda</a> asked the national grid company to identify the infrastructure needed to make the transition. Shortly after, the country&rsquo;s biggest utility, Enel, said it will not invest in new coal-fired power plants.</p>
+<p>Unlike other countries in Europe, Italy&rsquo;s renewable sector is constantly growing. In 2015, for instance, <a href="https://inhabitat.com/tag/renewable-energy" rel="noopener noreferrer" target="_blank">renewable energy </a>sources generated just under 38 percent of the country&rsquo;s electricity. Hydro-electrical plants remain the biggest contributor (15.5 percent), and solar and <a href="https://inhabitat.com/tag/wind" rel="noopener noreferrer" target="_blank">wind</a> sources have reached nearly 13 percent, according to <a href="https://www.zmescience.com/ecology/renewable-energy-ecology/italy-phases-out-coal-25102017/" rel="noopener noreferrer" target="_blank">ZME Science.</a> The country has no nuclear plants, as they were banned through a <a href="https://en.wikipedia.org/wiki/Italian_referendums,_1987" rel="noopener noreferrer" target="_blank">referendum in 1987</a>.</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Italy-seeks-to-phase-out-all-coal-power-plants-2025-2-889x592.jpg" alt="Italy, Europe, sustainability, coal, power plant, geothermal, alternative energy, environment, politics, News, "></p>
+<p><a href="https://inhabitat.com/supervolcano-in-italy-is-becoming-more-dangerous-as-magma-builds-beneath-the-surface/" rel="noopener noreferrer" target="_blank">Related: Supervolcano in Italy is &ldquo;becoming more dangerous&rdquo; as magma builds beneath the surface</a></p>
+<p>Chris Littlecott, who heads a fossil fuel transition program at <a href="https://www.e3g.org/docs/The_Coal_Phase_Out_Transition_-_Italys_Leadership_Opportunity%2C_E3G%2C_April_2017.pdf" rel="noopener noreferrer" target="_blank">think tank E3G</a>, applauded the development. &ldquo;Italy&rsquo;s positive commitment to phase out coal by 2025 demonstrates real international leadership as it completes its year holding the G7 Presidency,&rdquo; he said in a statement. &ldquo;Italy now joins its G7 peers in Canada, France, and the <a href="https://inhabitat.com/tag/UK" rel="noopener noreferrer" target="_blank">UK</a> in taking action to phase out coal power generation over the next decade. Together, they can lead a growing coalition of countries and regions that are now acting on coal,&rdquo; he said.</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Italy-seeks-to-phase-out-all-coal-power-plants-2025-3-889x609.jpg" alt="Italy, Europe, sustainability, coal, power plant, geothermal, alternative energy, environment, politics, News, "></p>
+<p>Though this development is commendable, nothing has been confirmed just yet. The strategy should receive governmental and parliamentary approval at the beginning of November. If it passes, the measure will also speed up the introduction of vehicles powered by <a href="https://inhabitat.com/tag/sustainability" rel="noopener noreferrer" target="_blank">alternative fuels</a>, and it will raise the number of <a href="https://inhabitat.com/tag/electric" rel="noopener noreferrer" target="_blank">EV</a> charging stations to 19,000 by 2020.</p>
+<p>Via <a href="https://www.zmescience.com/ecology/renewable-energy-ecology/italy-phases-out-coal-25102017/" rel="noopener noreferrer" target="_blank">ZME Science</a></p>
+<p><em>Images via <a href="http://www.publicdomainpictures.net/view-image.php?image=208876&amp;picture=sorrento-italy" target="_blank" rel="noopener noreferrer">Public Domain Pictures, </a><a href="http://www.pixabay.com" rel="noopener noreferrer" target="_blank">Pixabay</a></em></p><div>
+<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=P-2seFhNL2I:gVzY_X4pb7c:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=P-2seFhNL2I:gVzY_X4pb7c:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
+</div>]]></content>
+	<updated>2017-10-25T17:10:25+00:00</updated>
+	<author><name>Amanda Froelich</name></author>
+	<source>
+		<id>https://inhabitat.com</id>
+		<link rel="self" href="https://inhabitat.com"/>
+		<updated>2017-10-25T17:10:25+00:00</updated>
+		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
+
+	<category term="energy"/>
+
+	<category term="policy"/>
+
+	<category term="wind power"/>
+
+	<category term="solar power"/>
+
+	<category term="energy efficiency"/>
+
+	<category term="uk"/>
+
+	<category term="sustainability"/>
+
+	<category term="environment"/>
+
+	<category term="renewable energy"/>
+
+	<category term="electric"/>
+
+	<category term="europe"/>
+
+	<category term="italy"/>
+
+	<category term="coal"/>
+
+	<category term="politics"/>
+
+	<category term="news"/>
+
+	<category term="climate change"/>
+
+	<category term="alternative energy"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-26:/445095</id>
+	<link href="https://fossbytes.com/linux-kernel-development-contributer/" rel="alternate" type="text/html"/>
+	<title type="html">Who Contributes To Linux Kernel? How Has Its Development Evolved In Past 26 Years?</title>
+	<summary type="html"><![CDATA[<p>ny discussion involving the open source software cannot be completed without the mention of Linux ke...</p>]]></summary>
+	<content type="html"><![CDATA[<p>ny discussion involving the open source software cannot be completed without the mention of Linux kernel. This collaborative effort has become one of the most popular and successful open source development projects. If we talk about the current state, the Linux operating system runs 90% of the public cloud, has 62% embedded market share, and [&hellip;]</p>
+<p>The post <a rel="noopener noreferrer" href="https://fossbytes.com/linux-kernel-development-contributer/" target="_blank">Who Contributes To Linux Kernel? How Has Its Development Evolved In Past 26 Years?</a> appeared first on <a rel="noopener noreferrer" href="https://fossbytes.com" target="_blank">Fossbytes</a>.</p>]]></content>
+	<updated>2017-10-26T09:04:45+00:00</updated>
+	<author><name>Adarsh Verma</name></author>
+	<source>
+		<id>https://fossbytes.com</id>
+		<link rel="self" href="https://fossbytes.com"/>
+		<updated>2017-10-26T09:04:45+00:00</updated>
+		<title>fossBytes » linux</title></source>
+
+	<category term="geek"/>
+
+	<category term="news"/>
+
+	<category term="linux"/>
+
+	<category term="linux foundation"/>
+
+	<category term="linux kernel"/>
+
+	<category term="linux kernel contributors"/>
+
+	<category term="linux kernel development"/>
+
+	<category term="open source"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444846</id>
+	<link href="https://www.sciencedaily.com/releases/2017/10/171025140509.htm" rel="alternate" type="text/html"/>
+	<title type="html">Flu forecasting tool uses evolution to make earlier predictions</title>
+	<summary type="html"><![CDATA[<p>A new flu forecasting tool aims to make better predictions by combining data about how the virus spr...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A new flu forecasting tool aims to make better predictions by combining data about how the virus spreads with an estimate of how much the current virus evolved compared to recent years. The new model accurately predicted the total number of cases for each season in the US from 2002 to 2016, and produced an accurate, real-time prediction for the 2016-17 season before it started last year.</p>]]></content>
+	<updated>2017-10-25T18:05:09+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-10-25T18:05:09+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444678</id>
+	<link href="https://inhabitat.com/saudi-arabia-announces-plan-for-500b-megacity-powered-by-renewables" rel="alternate" type="text/html"/>
+	<title type="html">Saudi Arabia announces plan for $500B megacity powered by renewables</title>
+	<summary type="html"><![CDATA[<p>Saudi Arabia just announced plans for a futuristic megacity that will span 10,000 square miles and ...</p>]]></summary>
+	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/NEOM-Full-Width-Tall-889x298.jpg" alt="NEOM, Public Investment Fund of Saudi Arabia, Saudi Arabia, Discover NEOM, land, zone, environment, Jordan, Egypt, global hub, technology, green technology, future"></p>
+<p><a href="https://inhabitat.com/tag/saudi-arabia/" rel="noopener noreferrer" target="_blank">Saudi Arabia</a> just announced plans for a futuristic megacity that will span 10,000 square miles and three countries near the Red Sea. <a href="http://www.discoverneom.com/" rel="noopener noreferrer" target="_blank">NEOM</a> will be an independent economic zone owned by the <a href="http://pif.gov.sa/Governance.html" rel="noopener noreferrer" target="_blank">Public Investment Fund of Saudi Arabia</a> &ndash; and the nation is calling out to innovators, scientists, and dreamers to form an aspirational society to pioneer <a href="https://inhabitat.com/tag/future/" rel="noopener noreferrer" target="_blank">next-gen</a> technologies. The future of <a href="https://inhabitat.com/tag/food/" rel="noopener noreferrer" target="_blank">food</a>, <a href="https://inhabitat.com/tag/energy/" rel="noopener noreferrer" target="_blank">energy</a>, and <a href="https://inhabitat.com/tag/biotechnology/" rel="noopener noreferrer" target="_blank">biotechnology</a>, to name a few, will be explored in this global community to be backed by over $500 billion.</p>
+<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/NEOM-889x592.jpg" alt="NEOM, Public Investment Fund of Saudi Arabia, Saudi Arabia, Discover NEOM, land, zone, environment, Jordan, Egypt, global hub, technology, green technology, future"></p>
+<p>NEOM will be the world&rsquo;s first independent economic zone &ndash; supported by Saudi Arabia&rsquo;s investment, but the country said it will be developed independently of their current governmental framework. They want to transform NEOM into a global hub to pursue innovation in nine investment sectors: advanced manufacturing, food, biotech, mobility, media, technological and digital sciences, entertainment, energy and <a href="https://inhabitat.com/tag/water/" rel="noopener noreferrer" target="_blank">water</a>, and livability.</p>
+<p><a href="https://inhabitat.com/the-worlds-first-tesla-town-with-solar-roofs-and-powerwalls-is-coming-to-australia/" rel="noopener noreferrer" target="_blank">Related: The world&rsquo;s first &ldquo;Tesla Town&rdquo; with solar roofs and Powerwalls is coming to Australia</a></p>
+<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/NEOM-Land-889x592.jpg" alt="NEOM, Public Investment Fund of Saudi Arabia, Saudi Arabia, Discover NEOM, land, zone, environment, Jordan, Egypt, global hub, technology, green technology, future"></p>
+<p>Saudi Arabia crown prince Mohammed bin Salman said, &ldquo;Future technologies form the cornerstone for NEOM&rsquo;s development: disruptive solutions for <a href="https://inhabitat.com/tag/transportation/" rel="noopener noreferrer" target="_blank">transportation</a> from automated driving to passenger drones, new ways of growing and processing food, healthcare centered around the patient for their holistic well-being, wireless high-speed Internet as a free good called digital air, free world-class continuous online education, full-scale e-governance putting city services at your fingertips, building codes that make <a href="https://inhabitat.com/tag/net-zero/" rel="noopener noreferrer" target="_blank">net-zero</a> carbon houses the standard, a city layout that encourages walking and <a href="https://inhabitat.com/tag/bicycling/" rel="noopener noreferrer" target="_blank">bicycling</a>, and all solely powered by <a href="https://inhabitat.com/tag/renewable-energy/" rel="noopener noreferrer" target="_blank">renewable energy</a>.&rdquo;</p>
+<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/NEOM-Future-889x592.jpg" alt="NEOM, Public Investment Fund of Saudi Arabia, Saudi Arabia, Discover NEOM, land, zone, environment, Jordan, Egypt, global hub, technology, green technology, future"></p>
+<p>NEOM will be located in Saudi Arabia, Jordan, and Egypt, in a region with mountains, beaches, and coral reefs. As Saudi Arabia seeks to <a href="https://www.thenational.ae/business/economy/saudi-arabia-unveils-500bn-investment-zone-spanning-three-countries-1.669930" rel="noopener noreferrer" target="_blank">diversify away from oil</a>, <a href="https://inhabitat.com/tag/solar-power/" rel="noopener noreferrer" target="_blank">solar</a> and <a href="https://inhabitat.com/tag/wind-energy/" rel="noopener noreferrer" target="_blank">wind energy</a> will help power NEOM.</p>
+<p>Saudi Arabia has already started communicating with potential partners and investors, and the frequently asked questions document for NEOM said its first phase will be finished in 2025.</p>
+<p><big><a href="http://www.discoverneom.com/" rel="noopener noreferrer" target="_blank">+ NEOM</a></big></p>
+<p>Via the <a href="https://www.prnewswire.com/news-releases/hrh-the-crown-prince-mohammed-bin-salman-announces-neom---the-destination-for-the-future-652706393.html" rel="noopener noreferrer" target="_blank">Public Investment Fund of Saudi Arabia</a> and NEOM (<a href="http://www.discoverneom.com/content/pdfs/NEOM_BROCHURE_ENGLISH.pdf" rel="noopener noreferrer" target="_blank">1</a>,<a href="http://www.discoverneom.com/content/pdfs/NEOM_FAQS_ENGLISH.pdf" rel="noopener noreferrer" target="_blank">2</a>,<a href="http://www.discoverneom.com/content/pdfs/NEOM_INFOGRAPHIC_ENGLISH.pdf" rel="noopener noreferrer" target="_blank">3</a>)</p>
+<p><em>Images via <a href="http://www.discoverneom.com/" rel="noopener noreferrer" target="_blank">NEOM</a></em></p><div>
+<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=QMx7x4R-YMU:ObzapiCPSJs:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=QMx7x4R-YMU:ObzapiCPSJs:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
+</div>]]></content>
+	<updated>2017-10-25T15:41:48+00:00</updated>
+	<author><name>Lacy Cooke</name></author>
+	<source>
+		<id>https://inhabitat.com</id>
+		<link rel="self" href="https://inhabitat.com"/>
+		<updated>2017-10-25T15:41:48+00:00</updated>
+		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
+
+	<category term="future"/>
+
+	<category term="renewable energy"/>
+
+	<category term="technology"/>
+
+	<category term="green technology"/>
+
+	<category term="saudi arabia"/>
+
+	<category term="news"/>
+
+	<category term="neom"/>
+
+	<category term="public investment fund of saudi arabia"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-10-25:/444381</id>
@@ -1183,384 +1671,6 @@ We all know that pollution, in general, is harmful to human health. But a study 
 		<link rel="self" href="https://opensource.com/frontpage"/>
 		<updated>2017-05-05T07:00:00+00:00</updated>
 		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443053</id>
-	<link href="https://opensource.com/article/17/10/open-government-hurricane-relief" rel="alternate" type="text/html"/>
-	<title type="html">How open government is helping with hurricane relief</title>
-	<summary type="html"><![CDATA[<p>Just weeks after Hurricane Harvey hit Texas, two more "unprecedented" hurricanes made their way to t...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/lead-images/BUSINESS_lightning.png" width="520" height="292" alt="How open government is helping with hurricane relief" title="How open government is helping with hurricane relief"><p>Just weeks after Hurricane Harvey hit Texas, two more "unprecedented" hurricanes made their way to the southeastern United States. Although changes in Hurricane Irma's path spared Florida from the bulk of the damage, both Irma and Maria directly hit Puerto Rico and the U.S. Virgin Islands. Hurricane Maria was particularly devastating for the more than 3.5 million American citizens living in these U.S. Caribbean territories.</p>
-<br>
-<a href="https://opensource.com/article/17/10/open-government-hurricane-relief" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-10-23T07:01:00+00:00</updated>
-	<author><name>drubinstein</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-10-23T07:01:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-04:/425502</id>
-	<link href="https://opensource.com/article/17/9/linux-kids" rel="alternate" type="text/html"/>
-	<title type="html">What&amp;#039;s the current state of Linux distros for kids?</title>
-	<summary type="html"><![CDATA[<p>When she was only two years old, my daughter was fascinated by the old Eee PC running Ubuntu Studio ...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/lead-images/idea_innovation_kid_education.png" width="520" height="292" alt="6 Linux distributions for kids" title="6 Linux distributions for kids"><p>When she was only two years old, my daughter was fascinated by the old Eee PC running Ubuntu Studio I was&nbsp;using&nbsp;as one of my main computers. She would climb on my lap to hammer away at the keyboard, so&mdash;even though she was a bit young&mdash;I decided to search for Linux distributions made for children. To my surprise, I found a few distros made for kids as young as two.&nbsp;</p>
-<br>
-<a href="https://opensource.com/article/17/9/linux-kids" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-09-04T07:01:00+00:00</updated>
-	<author><name>jimmysjolund</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-09-04T07:01:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-18:/410688</id>
-	<link href="https://opensource.com/article/17/7/top-4-reasons-i-use-dwm-linux-window-manager" rel="alternate" type="text/html"/>
-	<title type="html">Top 4 reasons I use dwm for my Linux window manager</title>
-	<summary type="html"><![CDATA[<p>I like minimalistic views. If I could run everything in a terminal I would. It's free from shiny stu...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/car-penguin-drive-linux-yellow.png" width="520" height="292" alt="Top 4 reasons I use dwm for my Linux window manager" title="Top 4 reasons I use dwm for my Linux window manager"><p>I like minimalistic views. If I could run everything in a terminal I would. It's free from shiny stuff that hogs my resources and distracts my feeble mind. I also grow tired of resizing and moving windows, never getting them to align perfectly.</p>
-<br>
-<a href="https://opensource.com/article/17/7/top-4-reasons-i-use-dwm-linux-window-manager" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-07-18T07:01:00+00:00</updated>
-	<author><name>jimmysjolund</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-07-18T07:01:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-26:/404138</id>
-	<link href="https://opensource.com/article/17/6/open-source-localization-tools" rel="alternate" type="text/html"/>
-	<title type="html">18 open source translation tools to localize your project</title>
-	<summary type="html"><![CDATA[<p>Localization plays a central role in the ability to customize an open source project to suit the nee...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/people_remote_teams_world.png" width="520" height="292" alt="18 open source translation tools to localize your project" title="18 open source translation tools to localize your project"><p>Localization plays a central role in the ability to customize an open source project to suit the needs of users around the world. Besides coding, language translation is one of the main ways people around the world contribute to and engage with open source projects.</p>
-<p>There are tools specific to the language services industry (surprised to hear that's a thing?) that enable a smooth localization process with a high level of quality. Categories that localization tools fall into include:</p>
-<br>
-<a href="https://opensource.com/article/17/6/open-source-localization-tools" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-06-26T07:00:00+00:00</updated>
-	<author><name>gueroJeff</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-06-26T07:00:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-24:/395163</id>
-	<link href="https://opensource.com/article/17/5/30-best-practices-software-development-and-testing" rel="alternate" type="text/html"/>
-	<title type="html">30 best practices for software development and testing</title>
-	<summary type="html"><![CDATA[<p>Joining any new company&mdash;with an established culture and programming practices&mdash;can be a daunting expe...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/business/lightning-test.png" width="520" height="292" alt="30 best practices for software development and testing" title="30 best practices for software development and testing"><p>Joining any new company&mdash;with an established culture and programming practices&mdash;can be a daunting experience. When I joined the <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer">Ansible</a> team, I decided to write up the software engineering practices and principles I&rsquo;ve learned over the years and to which I strive to work. This is a non-definitive, non-exhaustive list of principles that should be applied with wisdom and flexibility.</p>
-<br>
-<a href="https://opensource.com/article/17/5/30-best-practices-software-development-and-testing" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-05-24T07:02:00+00:00</updated>
-	<author><name>mfoord</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-05-24T07:02:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-24:/395165</id>
-	<link href="https://opensource.com/article/17/5/what-technologies-are-poised-take-over" rel="alternate" type="text/html"/>
-	<title type="html">Which technologies are poised to take over in open source?</title>
-	<summary type="html"><![CDATA[<p>When you think of open source technologies, you probably think of the stalwarts, the technologies th...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/arrows_translation_lead.jpg" width="521" height="292" alt="Which technologies are poised to take over in open source?" title="Which technologies are poised to take over in open source?"><p>When you think of open source technologies, you probably think of the stalwarts, the technologies that have been around for years and years. It makes sense: According to a survey conducted in Q4 of 2016 by my company, <a href="https://twitter.com/GreythornNA" target="_blank" rel="noopener noreferrer">Greythorn</a>, 30%+ of participants said established technologies are among the top ten they primarily use.</p>
-<br>
-<a href="https://opensource.com/article/17/5/what-technologies-are-poised-take-over" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-05-24T07:00:00+00:00</updated>
-	<author><name>Scott Hirleman</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-05-24T07:00:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-29:/388331</id>
-	<link href="https://opensource.com/article/17/4/news-april-29" rel="alternate" type="text/html"/>
-	<title type="html">A fully open source satellite, new resources from the Linux Foundation, and more news</title>
-	<summary type="html"><![CDATA[<p>In this edition of our open source news roundup, we take a look at the first open source satellite, ...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/life/weekly_news_roundup_tv.png" width="538" height="310" alt="Open source news roundup for April 15-28, 2017" title="Open source news roundup for April 15-28, 2017"><p>In this edition of our open source news roundup, we take a look at the first open source satellite, The Linux Foundation's new IoT-focused group, and more.</p>
-<p></p><center><strong>Open source news roundup for April 15-28, 2017</strong></center>
-<h2>Launching the first open source satellite</h2>
-<p>Last week, <a href="http://hackaday.com/2017/04/19/flying-the-first-open-source-satellite/" target="_blank" rel="noopener noreferrer">the first open source satellite</a> made its way into space. The Libre Space Foundation, the organization behind the satellite, is dedicated to developing libre space hardware.</p>
-<br>
-<a href="https://opensource.com/article/17/4/news-april-29" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-04-29T07:00:00+00:00</updated>
-	<author><name>robinmuilwijk</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-04-29T07:00:00+00:00</updated>
-		<title>Opensource.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-22:/442838</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171020160018.htm" rel="alternate" type="text/html"/>
-	<title type="html">Health: New protein aggregation measurement tool</title>
-	<summary type="html"><![CDATA[<p>A team of scientists have described the synthetic genetic tool they built to quantitatively sense, m...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A team of scientists have described the synthetic genetic tool they built to quantitatively sense, measure and manipulate protein aggregation in live cells. This may open the door to greater understanding and treatment of a range of maladies from Alzheimer's to type II diabetes.</p>]]></content>
-	<updated>2017-10-20T20:00:18+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-20T20:00:18+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171020160018-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-21:/442381</id>
-	<link href="https://dzone.com/articles/ai-and-iot-taking-data-insight-to-action?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone" rel="alternate" type="text/html"/>
-	<title type="html">AI and IoT: Taking Data Insight to Action</title>
-	<summary type="html"><![CDATA[<p>Recent Gartner estimations lead us to believe that up to 20 billion connected things will be in use ...</p>]]></summary>
-	<content type="html"><![CDATA[<p pid="2">Recent Gartner estimations lead us to believe that up to 20 billion connected things will be in use by 2020. Data is the oil of our century &mdash; but should we be concerned with an "oil spill hazard?" Will artificial intelligence curb this threatening phenomenon, or rather, will it reveal the full potential of IoT data value?</p>
-<p pid="5"><em>If my calculations are correct, when artificial intelligence hits the Internet of Things... you're gonna see some serious sh*t.&rdquo; &mdash; Doc E. Brown (or something like that)</em></p>]]></content>
-	<updated>2017-10-21T05:01:41+00:00</updated>
-	<author><name>Fred Jacquet</name></author>
-	<source>
-		<id>https://dzone.com</id>
-		<link rel="self" href="https://dzone.com"/>
-		<updated>2017-10-21T05:01:41+00:00</updated>
-		<title>DZone.com Feed</title></source>
-
-	<category term="iot"/>
-
-	<category term="big data analytics"/>
-
-	<category term="artificial intelligence"/>
-
-	<category term="iiot"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://dzone.com/thumbnail?fid=6963633&amp;w=600"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-20:/442225</id>
-	<link href="https://phys.org/news/2017-10-ocean-critical-climate-lacks-long-term.html" rel="alternate" type="text/html"/>
-	<title type="html">U.S. ocean observation critical to understanding climate change, but lacks long-term national planning</title>
-	<summary type="html"><![CDATA[<p>The ocean plays a critical role in climate and weather, serving as a massive reservoir of heat and w...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The ocean plays a critical role in climate and weather, serving as a massive reservoir of heat and water that influences tropical storms, El Nin?o, and climate change. In addition, the ocean has absorbed 30 percent of the carbon dioxide associated with human activities, lessening the climate effects of fossil fuel combustion.</p>]]></content>
-	<updated>2017-10-20T18:07:21+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-20T18:07:21+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="earth sciences"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-20:/442008</id>
-	<link href="https://phys.org/news/2017-10-breakthrough-ultra-fast-nanoscale.html" rel="alternate" type="text/html"/>
-	<title type="html">Breakthrough in ultra-fast data processing at nanoscale</title>
-	<summary type="html"><![CDATA[<p>A research team from the National University of Singapore has recently invented a novel "converter" ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A research team from the National University of Singapore has recently invented a novel "converter" that can harness the speed and small size of plasmons for high frequency data processing and transmission in nanoelectronics.</p>]]></content>
-	<updated>2017-10-20T12:23:48+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-20T12:23:48+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="nanophysics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/22-breakthrough.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-20:/442092</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171019115747.htm" rel="alternate" type="text/html"/>
-	<title type="html">Nanomedicine researchers target disease at the molecular level</title>
-	<summary type="html"><![CDATA[<p>It&rsquo;s truly small-scale work. But researchers in nanomedicine &ndash; the study, development and applicatio...</p>]]></summary>
-	<content type="html"><![CDATA[<p>It&rsquo;s truly small-scale work. But researchers in nanomedicine &ndash; the study, development and application of materials under 100 nanometers in size to diagnose and treat disease &ndash; are making some big-time advances.</p>]]></content>
-	<updated>2017-10-19T15:57:47+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-19T15:57:47+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171019115747-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-20:/441992</id>
-	<link href="https://phys.org/news/2017-10-chemical.html" rel="alternate" type="text/html"/>
-	<title type="html">The chemical that tells plants when it's time to sleep</title>
-	<summary type="html"><![CDATA[<p>Each of us goes through a daily cycle. We wake up, spend the day eating, working and playing, and th...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Each of us goes through a daily cycle. We wake up, spend the day eating, working and playing, and then we sleep. Messing with this cycle by not sleeping, doing shift work, travelling to a different time zone or living where there is 24 hours of light or dark can really interfere with our wellbeing and our long-term health.</p>]]></content>
-	<updated>2017-10-20T13:00:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-20T13:00:01+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="biotechnology"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/thechemicalt.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-20:/442009</id>
-	<link href="https://phys.org/news/2017-10-function-gene-regulatory-protein.html" rel="alternate" type="text/html"/>
-	<title type="html">New function in gene-regulatory protein discovered</title>
-	<summary type="html"><![CDATA[<p>Researchers at Ume&aring; and Stockholm universities in Sweden and Johns Hopkins University School of Medi...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Researchers at Ume&aring; and Stockholm universities in Sweden and Johns Hopkins University School of Medicine in the U.S. have published a new study in the journal Molecular Cell. They show how the protein CBP affects the expression of genes through its interaction with the basal machinery that reads the instructions in our DNA.</p>]]></content>
-	<updated>2017-10-20T12:20:30+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-20T12:20:30+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="biotechnology"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/newfunctioni.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-20:/442007</id>
-	<link href="https://phys.org/news/2017-10-shallow-soils-savannas-south-america.html" rel="alternate" type="text/html"/>
-	<title type="html">Shallow soils promote savannas in South America</title>
-	<summary type="html"><![CDATA[<p>New research suggests that the boundary between South American tropical rainforests and savannas is ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>New research suggests that the boundary between South American tropical rainforests and savannas is influenced by the depth to which plants can root. Shallow rooting depth promotes the establishment of savannas. Previous research has shown that precipitation and fire mediate tropical forest and savanna distributions. The study shows that below ground conditions need to be considered to understand the distribution of terrestrial vegetation both historically and in the face of future climate change. The study by researchers of the Senckenberg Biodiversity and Climate Research Centre and Goethe University is based on computer vegetation models and was published in Journal of Biogeography.</p>]]></content>
-	<updated>2017-10-20T12:24:03+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-20T12:24:03+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="environment"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/shallowsoils.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-06:/416702</id>
-	<link href="http://www.ge.com/reports/storing-data-dna-brings-nature-digital-universe/" rel="alternate" type="text/html"/>
-	<title type="html">Storing Data In DNA Brings Nature Into The Digital Universe</title>
-	<summary type="html"><![CDATA[<p>Researchers who hold the world record for&nbsp;storing&nbsp;and retrieving&nbsp;data&nbsp;in&nbsp;DNA&nbsp;explain how the buildin...</p>]]></summary>
-	<content type="html"><![CDATA[<img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133522/getty_872521868778443735-e1501868163916.jpg" alt=""><h4>Researchers who hold the world record for&nbsp;<span>storing</span>&nbsp;and retrieving&nbsp;<span>data</span>&nbsp;in&nbsp;<span>DNA</span>&nbsp;explain how the building blocks of life can be used to hold&nbsp;<span>digital</span>&nbsp;information as well.</h4>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Humanity is producing data at an unimaginable rate, to the point that storage technologies can&rsquo;t keep up. Every five years, the amount of data we&rsquo;re producing increases&nbsp;<a href="https://www.emc.com/leadership/digital-universe/index.htm" rel="noopener noreferrer" target="_blank">10-fold</a>, including photos and videos. Not all of it needs to be stored, but manufacturers of data storage aren&rsquo;t making hard drives and flash chips fast enough to&nbsp;<a href="http://www.seagate.com/our-story/data-age-2025/" rel="noopener noreferrer" target="_blank">hold what we do want to keep</a>. Since we&rsquo;re not going to stop taking pictures and recording movies, we need to develop new ways to save them.</p>
-<p>Over millennia, nature has evolved an incredible information storage medium &ndash; DNA. It evolved to store genetic information, blueprints for building proteins, but DNA can be used for many more purposes than just that. DNA is also much denser than modern storage media: The data on hundreds of thousands of DVDs could fit inside a&nbsp;<a href="https://dx.doi.org/10.1038/nature11875" rel="noopener noreferrer" target="_blank">matchbox-size package of DNA</a>. DNA is also much more durable &ndash;&nbsp;<a href="http://dx.doi.org/10.1002/anie.201411378" rel="noopener noreferrer" target="_blank">lasting thousands of years</a>&nbsp;&ndash; than today&rsquo;s hard drives, which may last&nbsp;<a href="https://www.extremetech.com/computing/170748-how-long-do-hard-drives-actually-live-for" rel="noopener noreferrer" target="_blank">years or decades</a>. And while hard drive formats and connection standards become obsolete, DNA never will, at least so long as there&rsquo;s life.</p>
-<p>The idea of storing digital data in DNA is&nbsp;<a href="https://en.wikipedia.org/wiki/DNA_digital_data_storage" rel="noopener noreferrer" target="_blank">several decades old</a>, but recent work from&nbsp;<a href="http://dx.doi.org/10.1126/science.1226355" rel="noopener noreferrer" target="_blank">Harvard</a>&nbsp;and the&nbsp;<a href="https://dx.doi.org/10.1038/nature11875" rel="noopener noreferrer" target="_blank">European Bioinformatics Institute</a>&nbsp;showed that progress in modern DNA manipulation methods could make it both possible and practical today. Many research groups, including at the&nbsp;<a href="http://dx.doi.org/10.1002/anie.201411378" rel="noopener noreferrer" target="_blank">ETH Zurich</a>, the&nbsp;<a href="https://dx.doi.org/10.1038/srep14138" rel="noopener noreferrer" target="_blank">University of Illinois at Urbana-Champaign</a>&nbsp;and&nbsp;<a href="http://dx.doi.org/10.1126/science.aaj2038" rel="noopener noreferrer" target="_blank">Columbia University</a>&nbsp;are working on this problem. Our&nbsp;<a href="http://misl.cs.washington.edu/" rel="noopener noreferrer" target="_blank">own group</a>&nbsp;at the University of Washington and Microsoft&nbsp;<a href="https://www.washington.edu/news/2016/07/07/uw-microsoft-researchers-break-record-for-dna-data-storage/" rel="noopener noreferrer" target="_blank">holds the world record</a>&nbsp;for the amount of data successfully stored in and retrieved from DNA &ndash; 200 megabytes.</p>
-<p><strong>Preparing bits to become atoms</strong></p>
-<p>Traditional media like hard drives, thumb drives or DVDs store digital data by changing either the&nbsp;<a href="https://www.extremetech.com/computing/88078-how-a-hard-drive-works" rel="noopener noreferrer" target="_blank">magnetic</a>,&nbsp;<a href="http://computer.howstuffworks.com/flash-memory.htm" rel="noopener noreferrer" target="_blank">electrical</a>&nbsp;or&nbsp;<a href="https://www.pcmag.com/article2/0,2817,1820962,00.asp" rel="noopener noreferrer" target="_blank">optical properties</a>&nbsp;of a material to store 0s and 1s.</p>
-<p>To store data in DNA, the concept is the same, but the process is different. DNA molecules are long sequences of smaller molecules, called nucleotides &ndash; adenine, cytosine, thymine and guanine, usually designated as A, C, T and G. Rather than creating sequences of 0s and 1s, as in electronic media, DNA storage uses sequences of the nucleotides.</p>
-<p>There are several ways to do this, but the general idea is to assign digital data patterns to DNA nucleotides. For instance, 00 could be equivalent to A, 01 to C, 10 to T and 11 to G. To store a picture, for example, we start with its encoding as a digital file, like a JPEG. That file is, in essence, a long string of 0s and 1s. Let&rsquo;s say the first eight bits of the file are 01111000; we break them into pairs &ndash; 01 11 10 00 &ndash; which correspond to C-G-T-A. That&rsquo;s the order in which we join the nucleotides to form a DNA strand.</p>
-<p>Digital computer files can be quite large &ndash;&nbsp;<a href="https://softwareengineering.stackexchange.com/questions/332069/what-is-a-realistic-real-world-maximum-size-for-a-sqlite-database" rel="noopener noreferrer" target="_blank">even terabytes in size for large databases</a>. But individual DNA strands have to be much shorter &ndash; holding only about 20 bytes each. That&rsquo;s because the longer a DNA strand is, the harder it is to build chemically.</p>
-<p>So we need to break the data into smaller chunks, and add to each an indicator of where in the sequence it falls. When it&rsquo;s time to read the DNA-stored information, that indicator will ensure all the chunks of data stay in their proper order.</p>
-<p>Now we have a plan for how to store the data. Next we have to actually do it.</p>
-<p><strong>Storing the data</strong></p>
-<p>After determining what order the letters should go in, the DNA sequences are manufactured letter by letter with chemical reactions. These reactions are driven by equipment that takes in bottles of A&rsquo;s, C&rsquo;s, G&rsquo;s and T&rsquo;s and mixes them in a liquid solution with other chemicals to control the reactions that specify the order of the physical DNA strands.</p>
-<p>This process brings us another benefit of DNA storage: backup copies. Rather than making one strand at a time, the chemical reactions make many identical strands at once, before going on to make many copies of the next strand in the series.</p>
-<p>Once the DNA strands are created, we need to protect them against damage from&nbsp;<a href="http://dx.doi.org/10.1002/anie.201411378" rel="noopener noreferrer" target="_blank">humidity and light</a>. So we dry them out and put them in a container that keeps them cold and blocks water and light.</p>
-<p>But stored data are useful only if we can retrieve them later.</p>
-<p><strong>Reading the data back</strong></p>
-<p>To read the data back out of storage, we use a sequencing machine exactly like those used for analysis of&nbsp;<a href="https://en.wikipedia.org/wiki/DNA_sequencing" rel="noopener noreferrer" target="_blank">genomic DNA in cells</a>. This identifies the molecules, generating a letter sequence per molecule, which we then decode into a binary sequence of 0s and 1s in order. This process can destroy the DNA as it is read &ndash; but that&rsquo;s where those backup copies come into play: There are many copies of each sequence.</p>
-<p>And if the backup copies get depleted, it is easy to make duplicate copies to refill the storage &ndash; just as nature&nbsp;<a href="https://en.wikipedia.org/wiki/Polymerase_chain_reaction" rel="noopener noreferrer" target="_blank">copies DNA all the time</a>.</p>
-<p>At the moment, most DNA retrieval systems require reading all of the information stored in a particular container, even if we want only a small amount of it. This is like reading an entire hard drive&rsquo;s worth of information just to find one email message. We have developed techniques &ndash; based on&nbsp;<a href="http://www.jstor.org/stable/1700278" rel="noopener noreferrer" target="_blank">well-studied biochemistry methods</a>&nbsp;&ndash; that let us&nbsp;<a href="https://doi.org/10.1101/114553" rel="noopener noreferrer" target="_blank">identify and read</a>&nbsp;only the&nbsp;<a href="http://dx.doi.org/10.1145/2872362.2872397" rel="noopener noreferrer" target="_blank">specific pieces of information</a>&nbsp;a user needs to retrieve from DNA storage.</p>
-<p><strong>Remaining challenges</strong></p>
-<p>At present, DNA storage is experimental. Before it becomes commonplace, it needs to be completely automated, and the processes of both building DNA and reading it must be improved. They are both prone to error and relatively slow. For example, today&rsquo;s DNA synthesis lets us write a few&nbsp;<a href="https://synbiobeta.com/time-new-dna-synthesis-sequencing-cost-curves-rob-carlson/" rel="noopener noreferrer" target="_blank">hundred bytes per second</a>; a modern hard drive can write&nbsp;<a href="https://www.lifewire.com/what-are-read-and-write-speeds-2640236" rel="noopener noreferrer" target="_blank">hundreds of millions of bytes per second</a>. An average iPhone photo would take several hours to store in DNA, though it takes less than a second to save on the phone or transfer to a computer.</p>
-<p>These are significant challenges, but we are optimistic because all the relevant technologies are improving rapidly. Further, DNA data storage doesn&rsquo;t need the perfect accuracy that biology requires, so researchers are likely to find even cheaper and faster ways to store information in nature&rsquo;s oldest data storage system.</p>
-<p>(Top image: Courtesy Getty Images.)</p>
-<p>This piece first appeared in <a href="https://theconversation.com/storing-data-in-dna-brings-nature-into-the-digital-universe-78226" target="_blank" rel="noopener noreferrer">The Conversation</a>.</p>
-<p><em><a href="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133929/luis_ceze.jpg" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133929/luis_ceze-150x150.jpg" alt="" width="150" height="150" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133929/luis_ceze-150x150.jpg 150w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133929/luis_ceze-32x32.jpg 32w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133929/luis_ceze-50x50.jpg 50w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133929/luis_ceze-64x64.jpg 64w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133929/luis_ceze-96x96.jpg 96w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133929/luis_ceze-128x128.jpg 128w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133929/luis_ceze.jpg 238w" sizes="(max-width: 150px) 100vw, 150px"></a>Luis Ceze is an Associate Professor of Computer Science and Engineering at the&nbsp;University of Washington.</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><em><a href="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133945/karin-low-res-1024x733.jpg" rel="noopener noreferrer" target="_blank"><img src="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133945/karin-low-res-1024x733-150x150.jpg" alt="" width="150" height="150" srcset="http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133945/karin-low-res-1024x733-150x150.jpg 150w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133945/karin-low-res-1024x733-32x32.jpg 32w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133945/karin-low-res-1024x733-50x50.jpg 50w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133945/karin-low-res-1024x733-64x64.jpg 64w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133945/karin-low-res-1024x733-96x96.jpg 96w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133945/karin-low-res-1024x733-128x128.jpg 128w, http://dsg.files.app.content.prod.s3.amazonaws.com/gereports/wp-content/uploads/2017/08/04133945/karin-low-res-1024x733.jpg 238w" sizes="(max-width: 150px) 100vw, 150px"></a>Karin Strauss is a researcher at Microsoft Research and an affiliate associate professor at the University of Washington&rsquo;s Department of Computer Science and Engineering.</em></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>All views expressed are those of the authors.</p>]]></content>
-	<updated>2017-08-06T11:00:16+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.ge.com/reports</id>
-		<link rel="self" href="https://www.ge.com/reports"/>
-		<updated>2017-08-06T11:00:16+00:00</updated>
-		<title>GE Reports</title></source>
 
 
 </entry>
