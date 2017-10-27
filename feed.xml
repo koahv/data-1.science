@@ -4,11 +4,288 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-05-05T07:00:00+00:00</updated>
+<updated>2017-05-02T12:00:56+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-10-27:/445690</id>
+	<link href="https://phys.org/news/2017-10-evaporation-dynamics-nano-micro-scale.html" rel="alternate" type="text/html"/>
+	<title type="html">Evaporation dynamics at the nano- and micro-scale</title>
+	<summary type="html"><![CDATA[<p>A new evaporation dynamics study finds that very small droplets evaporate more slowly than predicted...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A new evaporation dynamics study finds that very small droplets evaporate more slowly than predicted by current models. Researchers from the Institute of Physical Chemistry of the Polish Academy of Sciences (IPC PAS) in Warsaw, in cooperation with the Institute of Physics of the PAS (IP PAS),have described the course of evaporation of micrometer and nanometer-sized droplets. The result of the research, presented in the journal Soft Matter, is an equation that accurately predicts the course of evaporation for droplets of different sizes and fluids. The equation has many applications, including constructing more accurate climate models and designing more efficient internal combustion engines or cooling units.</p>]]></content>
+	<updated>2017-10-27T10:26:11+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-27T10:26:11+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="condensed matter"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/smalldroplet.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-26:/445376</id>
+	<link href="https://futurism.com/rights-synthetic-lifeforms-civil-rights-controversy/" rel="alternate" type="text/html"/>
+	<title type="html">The Rights of Synthetic Lifeforms is the Next Great Civil Rights Controversy</title>
+	<summary type="html"><![CDATA[<p>Robot Rights
+Artificially intelligent (AI) robots and automated systems are already transforming soc...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Robot Rights</h2>
+<p>Artificially intelligent (AI) robots and <a href="https://futurism.com/automation-may-lead-to-a-workless-future-for-humans-heres-how-we-can-cope/" target="_blank" rel="noopener noreferrer">automated systems</a> are already transforming society in a host of ways. Cars are creeping closer to <a href="https://futurism.com/intel-and-waymo-have-teamed-up-to-roll-out-fully-autonomous-vehicles/" target="_blank" rel="noopener noreferrer">Level 5 autonomy</a>, factories are cutting costs by <a href="https://futurism.com/3-tiny-robots-help-cut-chinese-warehouse-labor-costs-by-half-kelsey/" target="_blank" rel="noopener noreferrer">replacing human workers with robots</a>, and AIs are even outperforming people in a number of traditionally <a href="https://futurism.com/the-automation-upheaval-wont-be-limited-to-blue-collar-jobs/" target="_blank" rel="noopener noreferrer">white-collar professions</a>.</p>
+<p>As these systems advance, so will the potential that they are involved in criminal activity, and right now, no regulations are in place that say how the law should treat super-intelligent synthetic entities. Who takes the blame if a robot causes an accident or is implicated in a crime? What happens if a robot is the victim of a crime? Do self-aware robots deserve rights that are comparable to those given to human beings?</p>
+<p></p>
+<p>Before we can begin discussing robot rights, we need to articulate exactly what (or who?) counts in this equation, said <a href="https://www.media.mit.edu/" target="_blank" rel="noopener noreferrer">MIT Media Lab</a> researcher and robot ethics expert Kate Darling in an email correspondence with Futurism. In other words, clearly defined terminology is a prerequisite for any productive conversation regarding robot rights.</p>
+<p>&ldquo;If we want to use legislation to regulate robotic technology, we&rsquo;re going to need to establish better definitions than what we&rsquo;re operating with today,&rdquo; she said. &ldquo;Even the word &lsquo;robot&rsquo; doesn&rsquo;t have a good universal definition right now.&rdquo;</p>
+<h2>Eyes on Today</h2>
+<p>Now is the time to put these definitions in place because artificially intelligent robots are already in our midst.</p>
+<p>Autonomous delivery robots are a common sight in the <a href="https://futurism.com/estonia-could-be-the-first-country-in-the-world-to-introduce-its-own-cryptocurrency/" target="_blank" rel="noopener noreferrer">Estonian</a> capital of Tallinn. As such, the country&rsquo;s government is being proactive with regards to robot regulations and legal recourse for issues regarding ownership and culpability.</p>
+<p>&ldquo;It all started out from the <a href="https://futurism.com/autonomous-cars-will-be-on-california-roads-in-2018-without-human-drivers/" target="_blank" rel="noopener noreferrer">self-driving car</a> taskforce,&rdquo; Marten Kaevats, the national digital advisor for the government office of Estonia, told Futurism. &ldquo;We quite soon discovered that these liability, integrity, and accountability issues are not specific to self-driving cars; they&rsquo;re general AI questions.&rdquo;</p>
+<p></p>
+<p>Kaevats is aware that any discussion of robots and AI can quickly devolve into talk of <a href="https://futurism.com/kurzweil-claims-that-the-singularity-will-happen-by-2045/" target="_blank" rel="noopener noreferrer">the singularity</a> and superintelligence, but that&rsquo;s not the focus right now. &ldquo;We are trying to work on things that are actually already here,&rdquo; he explained.</p>
+<p>Still, Estonia is looking to put legislation in place that has the flexibility to respond to advances in technology. Kaevats acknowledges that it&rsquo;s not possible to create regulations that are completely future-proof, but he sees a pressing need for laws that offer certain rights alongside certain liabilities.</p>
+<p>As Kaevats pointed out, right now, self-aware artificial intelligences are so far off that there&rsquo;s no reason to rush into giving robots similar rights to humans. In addition to considering the ethical ramifications of putting machines on par with humans, we need to examine how such laws might be open to abuse <em>before </em>regulations are established.</p>
+<h2>Production Line Patsy</h2>
+<p>Estonia isn&rsquo;t the only place where conversations on robot rights are happening.</p>
+<p>The journal <em>Artificial Intelligence and Law</em> recently published an article by <a href="http://www.bath.ac.uk/" target="_blank" rel="noopener noreferrer">University of Bath</a> reader Joanna J. Bryson and academic lawyers Mihailis E. Diamantis and Thomas D. Grant. In the paper, the authors state that <a href="https://link.springer.com/article/10.1007/s10506-017-9214-9#Sec8" target="_blank" rel="noopener noreferrer">proposals for synthetic personhood</a> are already being discussed by the European Union and that the legal framework to do so is already in place. The authors stress the importance of giving artificially intelligent beings obligations as well as protections, so as to remove their potential as a &ldquo;liability shield.&rdquo;</p>
+<p>But granting them full rights?</p>
+<p>When Bryson spoke to Futurism, she warned <em>against</em> the establishment of robot rights, relating the situation to the way the legal personhood of corporations has been abused in the past<em>. </em></p>
+<p>&ldquo;Corporations are legal persons, but it&rsquo;s a legal fiction. It would be a similar legal fiction to make AI a legal person,&rdquo; said Bryson. &ldquo;What we need to do is roll back, if anything, the overextension of legal personhood &mdash; not roll it forward into machines. It doesn&rsquo;t generate any benefits; it only encourages people to obfuscate their AI.&rdquo;</p>
+<figure><a href="https://futurism.com/images/types-of-ai-from-reactive-to-self-aware-infographic/" rel="noopener noreferrer" target="_blank"><img src="https://futurism.com/wp-content/uploads/2016/12/HomeThumb.jpg-1.png" alt="Types of AI: From Reactive to Self-Aware [INFOGRAPHIC]"></a><figcaption><strong><a href="https://futurism.com/images/types-of-ai-from-reactive-to-self-aware-infographic/" target="_blank" rel="noopener noreferrer">Click to View Full Infographic</a></strong></figcaption></figure>
+<p>Bryson offered up the example of a <a href="https://futurism.com/dubai-jump-starts-autonomous-taxi-service-with-50-tesla-vehicles/" target="_blank" rel="noopener noreferrer">driverless taxi</a>, which could potentially be made fully independent from its owner or manufacturer, serving as a legally recognized individual, fulfilling its own contracts. This situation could be manipulated to reduce the amount of taxes paid on the vehicle&rsquo;s earnings by whoever receives the profits.</p>
+<p>Kaevats said that this won&rsquo;t be a problem in Estonia &mdash; the country&rsquo;s digital <a href="https://futurism.com/research-shows-inequality-is-solved-with-wealth-redistribution-not-tax-cuts/" target="_blank" rel="noopener noreferrer">tax system</a> is proactive enough to track any malicious activity. However, the potential for abuse certainly exists in regions with less technologically advanced tax codes.</p>
+<p>Corporations can already use the letter of the law to withhold as much wealth as possible. The use of a synthetic person as a &ldquo;fall guy&rdquo; for illicit activity isn&rsquo;t outside the realm of possibility, and giving a robot rights could serve to emancipate them from conventional ownership. At that point, the entity is the ultimate independent contractor, with companies able to absolve themselves of wrongdoing even if they instructed the machine to behave in the illegal way.</p>
+<p>Legislation could certainly be written up that avoids these pitfalls, though, so policy makers just need to be sure that any rights given to synthetic entities don&rsquo;t include loopholes that can be abused.</p>
+<h2>Moral Dilemma</h2>
+<p>In the far more distant future, we&rsquo;ll need to consider the issue of self-aware robots. How should we tackle synthetic personhood for those entities?</p>
+<p>&ldquo;If we discover that there are certain capacities that we want to create in artificial intelligence, and once you create those, you spontaneously get these cognitive features that warrant personhood, we&rsquo;ll have to have this discussion about how similar they are to the human consciousness,&rdquo; James Hughes, executive director of the <a href="https://ieet.org/" target="_blank" rel="noopener noreferrer">Institute for Ethics and Emerging Technologies</a>, told Futurism.</p>
+<q>Traditionally, under the law, you&rsquo;re either a person or you are property.</q>
+<p>The creation of this level of technology won&rsquo;t be happening anytime soon, if it happens at all, but its potential raises some thorny issues about our obligation to <a href="https://futurism.com/human-intelligence-limited-why-need-synthetic-intelligence/" target="_blank" rel="noopener noreferrer">synthetic beings</a> and the evolving nature of personhood.</p>
+<p>&ldquo;Traditionally, under the law, you&rsquo;re either a person or you are property &mdash; and the problem with being property is that you have no rights,&rdquo; bioethicist and attorney-at-law Linda McDonald-Glenn told Futurism. &ldquo;In the past, we&rsquo;ve made some pretty awful mistakes.&rdquo;</p>
+<p>According to Hughes, this situation calls for a test that determines whether or not a synthetic person is self-aware. In the meantime, Estonia has found a fairly simple way to determine the rights of their robots. Instead of using technology as the defining factor, the nation will grant rights based on registration under the <a href="https://medium.com/e-residency-blog/estonia-starts-public-discussion-legalising-ai-166cb8e34596" target="_blank" rel="noopener noreferrer">mythologically inspired Kratt law</a>.</p>
+<p>Estonian folklore states that the Kratt is an inanimate object brought to life, just as artificial intelligence can give a machine the cognitive abilities it needs to complete a particular task. The Kratt law will determine what level of sophistication a robot needs to possess in order to be considered its own legal entity.</p>
+<p>&ldquo;This is what we want our governments to do,&rdquo; said Bryson, praising European efforts to put well-thought-out legislation in place. &ldquo;This is what governments are for and what law is for.&rdquo;</p>
+<p>In many ways, AI technology is still very young, but there&rsquo;s no better time than now to start thinking about the legal and ethical implications of its usage.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/rights-synthetic-lifeforms-civil-rights-controversy/" target="_blank">The Rights of Synthetic Lifeforms is the Next Great Civil Rights Controversy</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-26T18:00:58+00:00</updated>
+	<author><name>Brad Jones</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-26T18:00:58+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="artificial intelligence"/>
+
+	<category term="ethics"/>
+
+	<category term="regulation"/>
+
+	<category term="robots"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-27:/445672</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/epfd-aal102617.php" rel="alternate" type="text/html"/>
+	<title type="html">Advanced artificial limbs mapped in the brain</title>
+	<summary type="html"><![CDATA[<p>(Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne) EPFL scientists from the Center for Neuroprosthetics have...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne</i>) EPFL scientists from the Center for Neuroprosthetics have used functional MRI to show how the brain re-maps motor and sensory pathways following targeted motor and sensory reinnervation (TMSR), a neuroprosthetic approach where residual limb nerves are rerouted towards intact muscles and skin regions to control a robotic limb.</p>]]></content>
+	<updated>2017-10-27T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-27T04:00:00+00:00</updated>
+		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-26:/445420</id>
+	<link href="https://futurism.com/darpas-new-brain-device-increases-learning-speed-by-40/" rel="alternate" type="text/html"/>
+	<title type="html">DARPA’s New Brain Device Increases Learning Speed by 40%</title>
+	<summary type="html"><![CDATA[<p>Cheap and Non-Invasive
+New research funded by the U.S. Department of Defense&rsquo;s Defense Advance...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Cheap and Non-Invasive</h2>
+<p>New research funded by the U.S. Department of Defense&rsquo;s <a href="https://www.darpa.mil/" target="_blank" rel="noopener noreferrer">Defense Advanced Research Project Agency (DARPA)</a> has successfully demonstrated how a non-invasive method of stimulating the brain can boost cognitive performance. Working under DARPA&rsquo;s <a href="https://www.darpa.mil/program/restoring-active-memory" target="_blank" rel="noopener noreferrer">Restoring Active Memory (RAM) program</a>, scientists from <a href="http://www.hrl.com/" target="_blank" rel="noopener noreferrer">HRL Laboratories</a> in California, <a href="http://www.mcgill.ca/" target="_blank" rel="noopener noreferrer">McGill University</a> in Montreal, Canada, and <a href="https://soterixmedical.com/" target="_blank" rel="noopener noreferrer">Soterix Medical</a> in New York tested their brain device on macaques and observed a substantial increase in the monkeys&rsquo; ability to quickly perform certain tasks.</p>
+<figure><a href="https://futurism.com/images/reprogramming-the-human-mind-heres-how-well-make-humanity-2-0-infographic/" rel="noopener noreferrer" target="_blank"><img src="https://futurism.com/wp-content/uploads/2016/11/Homepage-Thumbnail-900x600.jpg" alt="Reprogramming the Human Mind: Here&rsquo;s How We&rsquo;ll Make Humanity 2.0 [INFOGRAPHIC]"></a><figcaption><strong><a href="https://futurism.com/images/reprogramming-the-human-mind-heres-how-well-make-humanity-2-0-infographic/" target="_blank" rel="noopener noreferrer">Click to View Full Infographic</a></strong></figcaption></figure>
+<p>In their study published, which has been published in the journal <i><a href="http://www.cell.com/current-biology/fulltext/S0960-9822(17)31185-5" target="_blank" rel="noopener noreferrer">Current Biology,</a></i> the HRL team describes how they used non-invasive transcranial direct current stimulation (tDCS) to stimulate the prefrontal cortex in the macaques. They then prompted the animals to perform a task based on associative learning &mdash; learning associations between visual cues and a location &mdash; in order to get a reward.</p>
+<p>The macaques that wore the tDCS brain device significantly outperformed the control group. The former needed only 12 trials to learn how to immediately get the reward, while the latter needed 21 trials, with the tDCS device accounting for the 40 percent increase in learning speed, according to the researchers.</p>
+<p>&ldquo;In this experiment, we targeted the prefrontal cortex with individualized non-invasive stimulation montages,&rdquo; lead HRL researcher Praveen Pilly <a href="http://www.hrl.com/news/2017/10/12/hrl-and-mcgill-scientists-confirm-transcranial-stimulation-effects-and-determine-a-key-mechanism" target="_blank" rel="noopener noreferrer">said in a statement</a>. &ldquo;That is the region that controls many executive functions, including decision-making, cognitive control, and contextual memory retrieval. It is connected to almost all the other cortical areas of the brain, and stimulating it has widespread effects.&rdquo;</p>
+<p>Based on the results of their study, the researchers say the increased learning speed was caused by the modulated connectivity between brain areas and not the rate at which neurons fired.</p>
+<h2>All in the Mind</h2>
+<p>The ability to <a href="https://futurism.com/do-not-edit-nootropics-and-the-future-of-brain-enhancing-smart-drugs/" target="_blank" rel="noopener noreferrer">increase one&rsquo;s brain function</a> almost instantaneously is no doubt appealing. As such, the concept has been a fixture of science fiction for decades (see: &ldquo;Flowers for Algernon,&rdquo; &ldquo;Limitless&rdquo;), but advancements in technology seem to be bringing us closer to a future in which quickly leveling-up intelligence is a real possibility.</p>
+<p>In addition to this DARPA device, researchers from Boston University have developed their own <a href="https://futurism.com/scientists-just-used-brain-stimulation-to-literally-change-how-people-think/" target="_blank" rel="noopener noreferrer">non-invasive method to improve learning</a> using high-definition transcranial alternating current stimulation (HD-tACS). However, the DARPA researchers claim their device is cheap, which may make it more appealing than other technologies like it.</p>
+<p></p>
+<p>Simply making people smarter is not the sole purpose of this type of research. A potentially more immediate application of DARPA&rsquo;s brain device is the treatment of people suffering from neural degeneration that causes a loss of memory function.</p>
+<p><a href="http://www.cell.com/current-biology/fulltext/S0960-9822(17)31185-5" target="_blank" rel="noopener noreferrer">As the team noted in their study</a>, &ldquo;These results are consistent with the idea that tDCS leads to widespread changes in brain activity and suggest that it may be a valuable method for cheaply and non-invasively altering functional connectivity in humans.&rdquo;</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/darpas-new-brain-device-increases-learning-speed-by-40/" target="_blank">DARPA&rsquo;s New Brain Device Increases Learning Speed by 40%</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-26T18:27:31+00:00</updated>
+	<author><name>Dom Galeon</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-26T18:27:31+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="hard science"/>
+
+	<category term="brain stimulation"/>
+
+	<category term="memory"/>
+
+	<category term="mental health"/>
+
+	<category term="neurobiology"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-26:/445423</id>
+	<link href="https://futurism.com/crispr-can-now-be-used-to-edit-individual-bases/" rel="alternate" type="text/html"/>
+	<title type="html">CRISPR Can Now Be Used to Edit Individual Bases</title>
+	<summary type="html"><![CDATA[<p>Crisper Than CRISPR
+CRISPR-Cas9 has been widely heralded as one of the most important scientific dev...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Crisper Than CRISPR</h2>
+<p>CRISPR-Cas9 has been widely heralded as one of the most important scientific developments of recent years, thanks to its capacity to <a href="https://futurism.com/scientists-developed-a-way-to-precisely-edit-genes-in-the-human-brain/" target="_blank" rel="noopener noreferrer">make edits to the human genome</a>. Now, a more precise version of the tool has been developed by a team of scientists from the Massachusetts Institute of Technology and Harvard.</p>
+<p>The human genome is made up of chemical bases that are referred to as A, C, G, and T. The new technique is called base editing, and it allows individual bases to be modified without causing a break in the <a href="https://futurism.com/scientists-are-creating-materials-from-dna/" target="_blank" rel="noopener noreferrer">DNA&rsquo;s overarching structure</a>.</p>
+<p>Sometimes, only one base pair in a length of DNA is abnormal in some way &ndash; this is called a point mutation, and it accounts for 32,000 of the 50,000 changes in the human genome that have been associated with diseases. <a href="http://nature.com/articles/doi:10.1038/nature24644" rel="noopener noreferrer" target="_blank">A study published in <em>Nature</em></a> looked at changing an A base into a G; w process that could address around half of those mutations.</p>
+<p></p>
+<p>The modified version of CRISPR only targets a particular base, rearranging its atoms and prompting cells to adjust the corresponding strand to match. For instance, an A-T base pair is rewritten as G-C.</p>
+<p>&ldquo;Standard genome-editing methods, including <a href="https://futurism.com/scientists-used-genetic-modification-to-create-low-fat-pigs/" target="_blank" rel="noopener noreferrer">the use of CRISPR-Cas9</a>, make double-stranded breaks in DNA, which is especially useful when the goal is to insert or delete DNA bases,&rdquo; said David Liu, who led the research, speaking to the <a href="https://www.technologyreview.com/s/609203/crispr-20-is-here-and-its-way-more-precise/" target="_blank" rel="noopener noreferrer">MIT Technology Review</a>. &ldquo;But when the goal is to simply fix a point mutation, base editing offers a more efficient and cleaner solution.&rdquo;</p>
+<p>This project isn&rsquo;t necessarily a replacement for the CRISPR &ndash; it&rsquo;s a different tool that allows for a different kind of edit to be made. The results could have a profound impact on the effect that hereditary diseases can have on people&rsquo;s lives.</p>
+<h2>DNA &amp; RNA</h2>
+<p>While one study was looking into how base editing could be used to modify DNA, another group of researchers have been looking into how it could be <a href="https://futurism.com/rna-may-not-be-the-sole-originator-of-life-scientists-report/" target="_blank" rel="noopener noreferrer">used to tweak RNA</a>. With RNA, the molecule naturally degrades in the body, so making adjustments to it doesn&rsquo;t result in permanent changes.</p>
+<p>Liu projects that base editing both RNA and DNA in the same patient could offer up some novel possibilities for therapeutic treatments. He and his team are now going to investigate how base editing might be used to fix blood disorders, <a href="https://futurism.com/researchers-are-using-stem-cell-tech-to-end-neurological-disorders/" target="_blank" rel="noopener noreferrer">neurological disorders</a>, hereditary deafness, and hereditary blindness.</p>
+<p>Many hereditary diseases have no known treatment options, so this research could turn out to be life-changing for people that are affected.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/crispr-can-now-be-used-to-edit-individual-bases/" target="_blank">CRISPR Can Now Be Used to Edit Individual Bases</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-26T18:12:11+00:00</updated>
+	<author><name>Brad Jones</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-26T18:12:11+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="health &amp; medicine"/>
+
+	<category term="crispr"/>
+
+	<category term="dna"/>
+
+	<category term="human genome"/>
+
+	<category term="rna"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-26:/445196</id>
+	<link href="https://phys.org/news/2017-10-climate-affects-blocks-health.html" rel="alternate" type="text/html"/>
+	<title type="html">How climate change affects the building blocks for health</title>
+	<summary type="html"><![CDATA[<p>In August last year, a third of the residents of the North Island township Havelock North fell acute...</p>]]></summary>
+	<content type="html"><![CDATA[<p>In August last year, a third of the residents of the North Island township Havelock North fell acutely ill with gastroenteritis after their water was contaminated with campylobacter.</p>]]></content>
+	<updated>2017-10-26T13:40:05+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-26T13:40:05+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="environment"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/5-howclimatech.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-26:/445207</id>
+	<link href="http://www.skyandtelescope.com/astronomy-news/how-bright-moon-exactly/" rel="alternate" type="text/html"/>
+	<title type="html">How Bright is the Moon . . . Exactly?</title>
+	<summary type="html"><![CDATA[<p>A new study will take the old standard of Moon brightness to a new level of precision.
+A full Easter...</p>]]></summary>
+	<content type="html"><![CDATA[<p><span><strong><em>A new study will take the old standard of Moon brightness to a new level of precision.</em></strong></span></p>
+<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Full-Easter-Moon.jpg" alt="Full Easter Moon" width="400" height="228" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/Full-Easter-Moon.jpg 480w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/Full-Easter-Moon-300x171.jpg 300w" sizes="(max-width: 400px) 100vw, 400px"><p>A full Easter Moon rising<br><em>Dave Dickinson</em></p></div>
+<p>For many a deep-sky astrophotographer, the Moon is something to be avoided. But for Earth-observing satellites, the Moon serves as a crucial calibration source &mdash; and it's about to get an overhaul.</p>
+<p>The Moon doesn't produce its own light, of course: Its surface reflects the light of the Sun. But even though the Moon is airless and practically unchanging, not every lunar reflection is the same. The brightness of the Moon depends on the exact angle between the Earth, Moon, and Sun.</p>
+<p>For example, the brightness of a <a href="http://www.skyandtelescope.com/observing/celestial-objects-to-watch/the-phase-of-the-moon/" rel="noopener noreferrer" target="_blank">full Moon</a> is usually quoted at magnitude around &ndash;13, about 14 magnitudes or 400,000 times fainter than the Sun. (With a mean <em>albedo</em>, or reflectivity, of just 13%, the Moon is actually as dark as worn asphalt.) Yet the full Moon is about six times brighter than a first- or last-quarter (half-illuminated) Moon. That's because, during the full Moon, sunlight strikes the lunar surface nearly straight on from Earth's perspective, with few shadows.</p>
+<p>The Moon-Sun-Earth angles would be easy enough to calculate if the Moon were in a circular orbit, but not only does the Moon vary in distance during its elliptical orbit around Earth, it also rocks slowly back and forth (<em>libration</em>) and side to side (<em>nutation</em>) as it keeps one face turned perpetually Earthward. As a result, the angle of sunlight on the Moon's face follows a complex but predictable cycle that repeats roughly every 20 years.</p>
+<p>Until now, the intricacy of those changes have limited the Moon's usefulness as a calibration source. A new <a href="https://www.nist.gov/news-events/news/2017/10/how-bright-moon-really" rel="noopener noreferrer" target="_blank">project from the National Institute of Standards and Technology</a> (NIST) plans to refine this standard in an ambitious project.</p>
+<h3>Gazing Moonward</h3>
+<div><img src="http://wwwcdn.skyandtelescope.com/wp-content/uploads/moon-thumbnail-281x360.jpg" alt="moon NIST" width="281" height="360" srcset="http://wwwcdn.skyandtelescope.com/wp-content/uploads/moon-thumbnail-281x360.jpg 281w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/moon-thumbnail-148x190.jpg 148w, http://wwwcdn.skyandtelescope.com/wp-content/uploads/moon-thumbnail.jpg 300w" sizes="(max-width: 281px) 100vw, 281px"><p>The Moon over the NIST Maryland Campus. These white domes will house the equipment used in the Moon brightness experiment. Eventually the domes and equipment will be moved to the Mauna Loa Observatory in Hawai'i.<br> <em>NIST</em></p></div>
+<p>The current uncertainty for the brightness of the Moon lies between 5% and 10%. But Earth-observing satellites require narrower wiggle room of less than 1%. Otherwise, gaps between missions mean missing out on important information.</p>
+<p>"You lose the ability to stitch together measurements from different satellites to determine long term trends," says Stephen Maxwell (NIST) in a <a href="https://www.nist.gov/news-events/news/2017/10/how-bright-moon-really" rel="noopener noreferrer" target="_blank">recent press release.</a></p>
+<p>More precise measurements are feasible. "The Moon's reflectance is stable to 1 part in 100 million per year," says Joe Rice (NIST). "The sunlight that illuminates the Moon does vary over an 11-year cycle, but that amount is only 0.1% across the spectrum."</p>
+<p>The heart of the effort, still under development, is a 6-inch (150-mm) telescope equipped with a calcium fluoride lens (often used in spectroscopic instruments), which will enable the telescope to focus the Moon's light across ultraviolet, visible, and infrared wavelengths. Color calibration will occur nightly against broad- and narrowband light sources placed 15 to 30 meters away.</p>
+<p>The multi-wavelength information is crucial, as Earth-observing satellites utilize the Moon's light to ensure that one satellite's "red"&nbsp; isn't another satellite's "yellow." Color can help satellites investigate algal blooms, trends in crop health, and more.</p>
+<p>The project is scheduled to begin operations under the clear skies of Mauna Loa Observatory on Hawai'i in 2018. Although the pattern of illumination angles varies over 20 years, researchers expect to collect enough data in just 3 to 5 years to cover 95% of the possible angles.</p>
+<p>The monitoring results will come just in time for the next generation of Earth-observing satellites, including <a href="https://www.nesdis.noaa.gov/jpss-1" rel="noopener noreferrer" target="_blank">JPSS-1</a>, which is set to launch next month from Vandenberg Air Force Base in California on November 10th.</p>
+<p>Perhaps we shouldn't curse the next bright full Moon after all.</p>
+<p></p>
+<p>The post <a rel="noopener noreferrer" href="http://www.skyandtelescope.com/astronomy-news/how-bright-moon-exactly/" target="_blank">How Bright is the Moon . . . Exactly?</a> appeared first on <a rel="noopener noreferrer" href="http://www.skyandtelescope.com" target="_blank">Sky &amp; Telescope</a>.</p>]]></content>
+	<updated>2017-10-26T13:00:10+00:00</updated>
+	<author><name>David Dickinson</name></author>
+	<source>
+		<id>http://www.skyandtelescope.com</id>
+		<link rel="self" href="http://www.skyandtelescope.com"/>
+		<updated>2017-10-26T13:00:10+00:00</updated>
+		<title>Sky &amp; Telescope</title></source>
+
+	<category term="astronomy blogs"/>
+
+	<category term="astronomy in space with david dickinson"/>
+
+	<category term="astronomy news"/>
+
+	<category term="solar system"/>
+
+	<category term="moon"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-26:/445198</id>
+	<link href="https://phys.org/news/2017-10-letters-dna-functions.html" rel="alternate" type="text/html"/>
+	<title type="html">Researchers create new 'letters' to enhance DNA functions</title>
+	<summary type="html"><![CDATA[<p>Just like how letters are strung together to form words, our DNA is also strung together by letters ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Just like how letters are strung together to form words, our DNA is also strung together by letters to encode proteins. The genetic alphabet contains only 4 natural letters - A, C, G and T, which hold the blueprint for the production of proteins that make our bodies work. Now, researchers from the Institute of Bioengineering and Nanotechnology (IBN) of the Agency for Science, Technology and Research (A*STAR) have created a DNA technology with two new genetic letters that could better detect infectious diseases, such as dengue and Zika.</p>]]></content>
+	<updated>2017-10-26T13:40:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-26T13:40:03+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/65-researchersc.jpg"/>
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2016-10-25:/335090</id>
@@ -1456,221 +1733,6 @@ The city-state of Singapore has announced a plan to reduce the vehicle gr...</p>
 		<link rel="self" href="https://www.linux.com/feeds/rss"/>
 		<updated>2017-05-02T12:00:56+00:00</updated>
 		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-01:/388717</id>
-	<link href="https://www.linux.com/news/closer-look-learning-aspect-machine-learning" rel="alternate" type="text/html"/>
-	<title type="html">A Closer Look at the ‘Learning’ Aspect of Machine Learning</title>
-	<summary type="html"><![CDATA[<p>This piece is the latest in a series, called &ldquo;Machine Learning Is Not Magic,&rdquo; covering how to get st...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><em>This piece is the latest in a series, called &ldquo;<a href="https://www.thenewstack.io/tag/Machine-Learning-Is-Not-Magic" rel="noopener noreferrer" target="_blank">Machine Learning Is Not Magic</a>,&rdquo; covering how to get started in machine learning, using familiar&nbsp;tools such as Excel, Python, Jupyter Notebooks and cloud services from Azure and Amazon Web Services.&nbsp;<a href="https://www.thenewstack.io/tag/Machine-Learning-is-Not-Magic" rel="noopener noreferrer" target="_blank">Check back here</a>&nbsp;each Friday for future installments.&nbsp;</em></p></div></div></div>]]></content>
-	<updated>2017-05-01T08:37:56+00:00</updated>
-	<author><name>The New Stack</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-05-01T08:37:56+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-26:/387459</id>
-	<link href="http://www.phoronix.com/scan.php?page=news_item&amp;px=GrSecurity-No-Longer-Free" rel="alternate" type="text/html"/>
-	<title type="html">GrSecurity Kernel Patches Will No Longer Be Free To The Public</title>
-	<summary type="html"><![CDATA[<p>The GrSecurity initiative that hosts various out-of-tree patches to the mainline Linux kernel in ord...</p>]]></summary>
-	<content type="html"><![CDATA[<p>The GrSecurity initiative that hosts various out-of-tree patches to the mainline Linux kernel in order to enhance the security will no longer be available to non-paying users...</p>]]></content>
-	<updated>2017-04-26T18:55:08+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.phoronix.com/</id>
-		<link rel="self" href="https://www.phoronix.com/"/>
-		<updated>2017-04-26T18:55:08+00:00</updated>
-		<title>[D] Phoronix</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-04-26:/387224</id>
-	<link href="https://www.linux.com/news/how-get-started-learning-program-0" rel="alternate" type="text/html"/>
-	<title type="html">How to Get Started Learning to Program</title>
-	<summary type="html"><![CDATA[<p>There's a lot of buzz lately about learning to program.</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>There's a lot of buzz lately about learning to program.</p></div></div></div>]]></content>
-	<updated>2017-04-26T08:30:56+00:00</updated>
-	<author><name>OpenSource.com</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-04-26T08:30:56+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443306</id>
-	<link href="https://futurism.com/pollution-deaths-worldwide/" rel="alternate" type="text/html"/>
-	<title type="html">Study: 1 in 6 Deaths Worldwide Caused by Pollution in 2015</title>
-	<summary type="html"><![CDATA[<p>Deadly Pollution
-We all know that pollution, in general, is harmful to human health. But a study pub...</p>]]></summary>
-	<content type="html"><![CDATA[<h2>Deadly Pollution</h2>
-<p>We all know that pollution, in general, is harmful to human health. But a study <a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32345-0/fulltext" target="_blank" rel="noopener noreferrer">published in <em>T</em></a><i><a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32345-0/fulltext" target="_blank" rel="noopener noreferrer">he Lancet&nbsp;</a></i>has shown the true magnitude of the threat. According to the study, in 2015, <a href="https://www.technologyreview.com/the-download/609182/pollution-causes-9-million-premature-deaths-a-year/?utm_campaign=Owned+Social&amp;utm_source=Facebook&amp;utm_medium=Owned+Social" target="_blank" rel="noopener noreferrer">1 in every 6 deaths around the world</a> were caused by toxic air, water, soil, or workplace environment. That&rsquo;s roughly 9 million people. To drive home the true weight of these figures, this means that pollution kills three times more people annually than tuberculosis, AIDS, or malaria.</p>
-<p>Of these<a href="https://www.reuters.com/article/us-health-pollution/study-links-pollution-to-millions-of-deaths-worldwide-idUSKBN1CO39B" target="_blank" rel="noopener noreferrer"> 9 million annual deaths</a>, 92% occur in less wealthy nations, signaling an obvious socioeconomic divide. Developing economies have the financial burden of fighting the causes of pollution (the welfare-linked costs of which are estimated to be roughly $4.6 trillion a year) while at the same time handling its repercussions. This problem will only continue to grow unless broader interventions are put in place &mdash; as the countries most greatly affected cannot afford to take major action on their own.</p>
-<p>&ldquo;Pollution is much more than an environmental challenge &ndash; it is a profound and pervasive threat that affects many aspects of human health and wellbeing,&rdquo; said Philip Landrigan, a&nbsp;professor at the Icahn School of Medicine at Mount Sinai who co-led the study.</p>
-<p></p>
-<h2>Drastic Consequences</h2>
-<p>The study,&nbsp;published this past Friday, was conducted by about 40 international scientists. They used data from the Global Burden of Disease study and the Institute for Health Metrics and Evaluation at the University of Washington. It is clear from the study that not only is pollution a deadly, global issue, but there is clear division between wealthier and poorer countries. According to the study, pollution causes approximately 16% of all deaths worldwide&nbsp;&mdash; a figure that is 15 times larger than deaths caused by war and violence. And, while this figure is staggering worldwide, when you take a closer look at more-affected countries, that figure could jump to 25%.</p>
-<p>Besides&nbsp;causing the deaths of millions, pollution has also been affecting our planet in other ways: <a href="https://futurism.com/pollution-from-ships-is-causing-lightning-storms-over-ocean-shipping-lanes/" target="_blank" rel="noopener noreferrer">it has even sparked lightning storms.&nbsp;</a>There are a number of ways that people are looking to combat this serious issue. An obvious way in which pollution can be battled is through legislation. China is taking this effort seriously,<a href="https://futurism.com/its-official-china-is-launching-a-war-on-pollution/" target="_blank" rel="noopener noreferrer"> as&nbsp; 1.1 million people die in the country annually </a>as a result of pollution. China is also investing 3 trillion yuan ($440 billion) in incentive programs and credit mechanisms for businesses that will shift priorities toward producing less emissions.</p>
-<p>In addition to government-backed programs, there are some who are using technological innovation to fight the battle:<a href="https://futurism.com/a-tiny-device-can-transform-air-pollution-into-usable-fuel/" target="_blank" rel="noopener noreferrer"> One group of scientists has even developed a device </a>that turns air pollution into usable fuel. If we&rsquo;re going to get serious about fighting pollution on a global scale, we&rsquo;ll need more intensive methods. It is not a slow-moving issue that can be thought of occasionally and worked at on a small scale. It is a problem that&rsquo;s already proven deadly, requiring direct and immediate action.</p>
-<p>The post <a rel="noopener noreferrer" href="https://futurism.com/pollution-deaths-worldwide/" target="_blank">Study: 1 in 6 Deaths Worldwide Caused by Pollution in 2015</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
-	<updated>2017-10-21T21:54:08+00:00</updated>
-	<author><name>Chelsea Gohd</name></author>
-	<source>
-		<id>https://futurism.com</id>
-		<link rel="self" href="https://futurism.com"/>
-		<updated>2017-10-21T21:54:08+00:00</updated>
-		<title>Futurism</title></source>
-
-	<category term="earth &amp; energy"/>
-
-	<category term="air pollution"/>
-
-	<category term="mortality"/>
-
-	<category term="pollution"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443216</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/uom-efs102017.php" rel="alternate" type="text/html"/>
-	<title type="html">Electricity from shale gas vs. coal: Lifetime toxic releases from coal much higher</title>
-	<summary type="html"><![CDATA[<p>(University of Michigan) Despite widespread concern about potential human health impacts from hydrau...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of Michigan</i>) Despite widespread concern about potential human health impacts from hydraulic fracturing, the lifetime toxic chemical releases associated with coal-generated electricity are 10 to 100 times greater than those from electricity generated with natural gas obtained via fracking, according to a new University of Michigan study.</p>]]></content>
-	<updated>2017-10-23T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-23T04:00:00+00:00</updated>
-		<title>EurekAlert! - Atmospheric Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443137</id>
-	<link href="https://inhabitat.com/study-finds-pollution-is-more-deadly-than-war-natural-disasters-and-disease" rel="alternate" type="text/html"/>
-	<title type="html">Study finds pollution is more deadly than war, natural disasters, and disease</title>
-	<summary type="html"><![CDATA[<p>Environmental pollution isn&rsquo;t just inconvenient &ndash; it&rsquo;s downright deadly. Every year, more peo...</p>]]></summary>
-	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/study-finds-pollution-more-deadly-than-all-war-and-violence-1-889x592.jpg" alt="AIDS, malaria, tuberculosis, environment, pollution, Lancet medical journal, science, News, environmental destruction, air pollution, war, violence, poverty,"></p>
-<p>Environmental <a href="https://inhabitat.com/tag/pollution" rel="noopener noreferrer" target="_blank">pollution</a> isn&rsquo;t just inconvenient &ndash; it&rsquo;s downright deadly. Every year, more people are killed by pollutants &mdash; from toxic air to contaminated water &mdash; than by all <a href="https://inhabitat.com/tag/war" rel="noopener noreferrer" target="_blank">war</a> and violence. Pollution is also responsible for more deaths than AIDS, tuberculosis, and malaria combined. This disturbing revelation was revealed in a new study published in the <a href="https://phys.org/journals/lancet/" rel="noopener noreferrer" target="_blank">Lancet</a> medical journal. Scientists determined that one out of every six premature deaths (about 9 million in 2015) results from pollution; and while life is more important than money, these deaths cause $4.6 trillion in annual losses or about 6.2 percent of the world&rsquo;s economy.</p>
-<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/study-finds-pollution-more-deadly-than-all-war-and-violence-1-889x592.jpg" alt="AIDS, malaria, tuberculosis, environment, pollution, Lancet medical journal, science, News, environmental destruction, air pollution, war, violence, poverty,"></p>
-<p>Epidemiologist Philip Landrigan, lead author and Dean of global health at the Icahn School of Medicine in New York, said, &ldquo;There&rsquo;s been a lot of study of pollution, but it&rsquo;s never received the resources or level of attention as, say, AIDS or <a href="https://inhabitat.com/tag/climate-change" rel="noopener noreferrer" target="_blank">climate change.</a>&rdquo; Landrigan added that pollution is a &ldquo;massive problem&rdquo; few truly comprehend, as what they&rsquo;re witnessing are &ldquo;scattered bits of it.&rdquo; This is the first study of its kind to take into account data on all <a href="https://inhabitat.com/tag/disease" rel="noopener noreferrer" target="_blank">diseases</a> and death caused by pollution combined.</p>
-<p>According to the <a href="https://phys.org/journals/lancet/" rel="noopener noreferrer" target="_blank">study</a>, developing countries &mdash; primarily in Asia and <a href="https://inhabitat.com/tag/Africa" rel="noopener noreferrer" target="_blank">Africa</a> &mdash; are putting the most people at risk due to a lack of air and soil pollution monitoring systems. In 2015, one out of four (2.5 million) premature deaths in <a href="https://inhabitat.com/tag/India" rel="noopener noreferrer" target="_blank">India</a> and one out of five (1.8 million) premature deaths in China were caused by pollution-related illness. &ldquo;In the West, we got the lead out of the gasoline, so we thought lead was handled. We got rid of the burning rivers, cleaned up the worst of the toxic sites. And then all of those discussions went into the background,&rdquo; said Richard Fuller, head of the Pure Earth and one of the 47 scientists who contributed to the report. In <a href="https://inhabitat.com/tag/Bangladesh" rel="noopener noreferrer" target="_blank">Bangladesh</a>, Pakistan, North Korea, South Sudan and Haiti, nearly one-fifth of premature deaths are pollution-related.</p>
-<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/study-finds-pollution-more-deadly-than-all-war-and-violence-3-889x582.jpg" alt="AIDS, malaria, tuberculosis, environment, pollution, Lancet medical journal, science, News, environmental destruction, air pollution, war, violence, poverty,"></p>
-<p>Based on this information, it should not come as a surprise that the poorest suffer most from pollution-related illness. 92 percent of sickness related to <a href="https://inhabitat.com/tag/environment" rel="noopener noreferrer" target="_blank">environmental</a> toxicity occurs in low- or middle-income countries. <a href="https://phys.org/news/2017-10-world-pollution-deadlier-wars-disasters.html" rel="noopener noreferrer" target="_blank">Phys</a> reports, &ldquo;Environmental regulations in those countries tend to be weaker, and industries lean on outdated technologies and dirtier fuels.&rdquo; Fuller noted that this safety of the public is being compromised for industrial growth, which has negative repercussions. He said, &ldquo;What people don&rsquo;t realize is that pollution does damage to <a href="https://inhabitat.com/tag/economy" rel="noopener noreferrer" target="_blank">economies</a>. People who are sick or dead cannot contribute to the economy. They need to be looked after.&rdquo;</p>
-<p>To determine the global impact of <a href="https://inhabitat.com/tag/air-pollution" rel="noopener noreferrer" target="_blank">pollution</a>, the study&rsquo;s authors used methods outlined by the U.S. Environmental Protection Agency for assessing field data from soil tests, in addition to air and water pollution data from the Global Burden of Disease. Though 9 million pollution-related deaths is a &ldquo;conservative&rdquo; estimate, it is still 15 times the number of people killed in war or other forms of violence, and six times the number killed in <a href="https://inhabitat.com/tag/green-transportation" rel="noopener noreferrer" target="_blank">road accidents</a>.</p>
-<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/10/study-finds-pollution-more-deadly-than-all-war-and-violence-2-889x591.jpg" alt="AIDS, malaria, tuberculosis, environment, pollution, Lancet medical journal, science, News, environmental destruction, air pollution, war, violence, poverty,"></p>
-<p>Ernesto Sanchez-Triana, the&nbsp;lead environmental specialist at the World Bank, said, &ldquo;The relationship between pollution and <a href="https://inhabitat.com/tag/poverty" rel="noopener noreferrer" target="_blank">poverty</a> is very clear. And controlling pollution would help us address many other problems, from climate change to <a href="https://inhabitat.com/tag/malnutrition" rel="noopener noreferrer" target="_blank">malnutrition</a>. The linkages can&rsquo;t be ignored.&rdquo;</p>
-<p><big><a href="https://phys.org/journals/lancet/" rel="noopener noreferrer" target="_blank">+ Lancet</a><big></big></big></p>
-<p>Via <a href="https://phys.org/news/2017-10-world-pollution-deadlier-wars-disasters.html" rel="noopener noreferrer" target="_blank">Phys</a></p>
-<p><em>Images via <a href="http://www.pixabay.com" rel="noopener noreferrer" target="_blank">Pixabay</a></em></p><div>
-<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=6nLhAXInjQU:On6AMVaTYQg:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=6nLhAXInjQU:On6AMVaTYQg:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
-</div>]]></content>
-	<updated>2017-10-23T10:38:13+00:00</updated>
-	<author><name>Amanda Froelich</name></author>
-	<source>
-		<id>https://inhabitat.com</id>
-		<link rel="self" href="https://inhabitat.com"/>
-		<updated>2017-10-23T10:38:13+00:00</updated>
-		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
-
-	<category term="africa"/>
-
-	<category term="poverty"/>
-
-	<category term="environment"/>
-
-	<category term="air quality"/>
-
-	<category term="india"/>
-
-	<category term="climate change"/>
-
-	<category term="global warming"/>
-
-	<category term="pollution"/>
-
-	<category term="green transportation"/>
-
-	<category term="air pollution"/>
-
-	<category term="bangladesh"/>
-
-	<category term="water issues"/>
-
-	<category term="economy"/>
-
-	<category term="war"/>
-
-	<category term="science"/>
-
-	<category term="news"/>
-
-	<category term="environmental destruction"/>
-
-	<category term="disease"/>
-
-	<category term="malnutrition"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443238</id>
-	<link href="https://phys.org/news/2017-10-crops-evolved-millennia-earlier-thought.html" rel="alternate" type="text/html"/>
-	<title type="html">Crops evolved 10 millennia earlier than thought</title>
-	<summary type="html"><![CDATA[<p>Ancient hunter-gatherers began to systemically affect the evolution of crops up to thirty thousand y...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Ancient hunter-gatherers began to systemically affect the evolution of crops up to thirty thousand years ago &ndash; around ten millennia before experts previously thought &ndash; according to new research by the University of Warwick.</p>]]></content>
-	<updated>2017-10-23T12:53:58+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-23T12:53:58+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="biotechnology"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/cropsevolved.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-05:/390122</id>
-	<link href="https://opensource.com/article/17/5/open-data-trends" rel="alternate" type="text/html"/>
-	<title type="html">3 big open data trends in the United States</title>
-	<summary type="html"><![CDATA[<p>The open data community got a surprising piece of news&nbsp;when the Trump Administration recently announ...</p>]]></summary>
-	<content type="html"><![CDATA[<img typeof="foaf:Image" src="https://opensource.com/sites/default/files/images/government/GOV_opendata.png" width="520" height="292" alt="3 big open data trends in the United States" title="3 big open data trends in the United States"><p dir="ltr">The open data community got <a href="https://www.nytimes.com/2017/04/14/us/politics/visitor-log-white-house-trump.html?_r=1" target="_blank" rel="noopener noreferrer">a surprising piece of news</a>&nbsp;when the Trump Administration recently announced that it would no longer be supporting the Open.whitehouse.gov's Open Data portal.</p>
-<br>
-<a href="https://opensource.com/article/17/5/open-data-trends" rel="noopener noreferrer" target="_blank">read more</a>]]></content>
-	<updated>2017-05-05T07:00:00+00:00</updated>
-	<author><name>sam.mcclenney</name></author>
-	<source>
-		<id>https://opensource.com/frontpage</id>
-		<link rel="self" href="https://opensource.com/frontpage"/>
-		<updated>2017-05-05T07:00:00+00:00</updated>
-		<title>Opensource.com</title></source>
 
 
 </entry>
