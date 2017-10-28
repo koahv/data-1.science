@@ -1,5 +1,5 @@
 rm words.txt
-wget https://o0-770.rhcloud.com/words.txt
+wget https://localhost/words.txt
 sed -i '1d;2d' words.txt
 
 
