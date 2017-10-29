@@ -1,5 +1,5 @@
 rm words.txt
-wget http://localhost/words.txt
+#wget http://localhost/words.txt
 sed -i '1d;2d' words.txt
 
 
