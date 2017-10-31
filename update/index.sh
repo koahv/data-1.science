@@ -6,7 +6,7 @@ wget -O feed.xml "http://localhost/tt-rss/public.php?op=rss&id=-1&key=vyn7su59c7
 sed -i '1d' feed.xml
 
 
-sed -i '1s/^/<HTML>\n<HEAD>\n<TITLE>data-1.science<\/TITLE>\n<meta charset="UTF-8"><meta name="google-site-verification" content="cjBnLqqABjC1aHNwKlgEq_tqFvgpE__jxiJaU_aHTS4" \/><meta name="description" content="Top Science Breakthrough News" \/><link rel="stylesheet" type="text\/css" href="jquery.dataTables.0.css"><script src="jquery-1.10.2.min.js"><\/script><script src="jquery.dataTables.min.js"><\/script><script src="initialise.js"><\/script>\n<\/HEAD>\n<BODY onload="myFunction()" style="margin:0;"><div id="loader"><\/div><div style="display:none;" id="myDiv" class="animate-bottom"><h2>Tada!<\/h2><\/div>/' index.html
+sed -i '1s/^/<HTML>\n<HEAD>\n<TITLE>data-1.science<\/TITLE>\n<meta charset="UTF-8"><meta name="google-site-verification" content="cjBnLqqABjC1aHNwKlgEq_tqFvgpE__jxiJaU_aHTS4" \/><meta name="description" content="Top Science Breakthrough News" \/><link rel="stylesheet" type="text\/css" href="jquery.dataTables.0.css"><script src="jquery-1.10.2.min.js"><\/script><script src="jquery.dataTables.min.js"><\/script><script src="initialise.js"><\/script>\n<\/HEAD>\n<BODY onload="myFunction()" style="margin:0;"><div id="loader"><\/div><div style="display:none;" id="myDiv" class="animate-bottom"><\/div>/' index.html
 
 #\n<script async src="\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js"><\/script>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({\n  google_ad_client: "ca-pub-1180084567973917",\n  enable_page_level_ads: true\n  });\n<\/script>\n
 
