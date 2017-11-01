@@ -4,11 +4,387 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-05-02T12:00:56+00:00</updated>
+<updated>2017-06-22T04:00:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-10-31:/447154</id>
+	<link href="https://phys.org/news/2017-10-lhc.html" rel="alternate" type="text/html"/>
+	<title type="html">LHC reaches 2017 targets ahead of schedule</title>
+	<summary type="html"><![CDATA[<p>Today, CERN Control Centre operators announced good news, the Large Hadron Collider (LHC) has succes...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Today, CERN Control Centre operators announced good news, the Large Hadron Collider (LHC) has successfully met its production target for 2017, delivering more than 45 inverse femtobarns to the experiments.</p>]]></content>
+	<updated>2017-10-31T14:20:02+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-31T14:20:02+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="general physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/lhcreaches20.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-28:/445917</id>
+	<link href="https://futurism.com/future-quantum-computer/" rel="alternate" type="text/html"/>
+	<title type="html">Here’s What a World Powered by Quantum Computers Will Look Like</title>
+	<summary type="html"><![CDATA[<p>Beyond Science Fiction
+In 1935, Albert Einstein famously collaborated with physicists Boris Podolsky...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Beyond Science Fiction</h2>
+<p>In 1935, Albert Einstein famously collaborated with physicists Boris Podolsky and Nathan Rosen <sup></sup>on a paper designed to illuminate the weaknesses in quantum mechanics, a branch of physics focused on the very small. Though the phenomenon of &ldquo;entanglement&rdquo; was so new the term hadn&rsquo;t even been coined yet, Einstein wasted no time voicing his skepticism of it, calling the &ldquo;spooky action at a distance&rdquo; simply impossible.</p>
+<p>Nearly a century later, we now have abundant proof that <a href="https://futurism.com/this-discovery-could-transform-our-understanding-of-the-cosmos/" target="_blank" rel="noopener noreferrer">entanglement is possible</a>. In fact, we&rsquo;re now on the brink of building the quantum computers that will allow us to use the phenomenon to answer some of humanity&rsquo;s greatest questions.</p>
+<p></p>
+<p>Quantum computers handle and process information in a way far different from that of classical computers.</p>
+<p>While a classical computer works with bits as information placeholders, a quantum computer works with quantum bits (qubits). While bits carry information in either a 0 or 1 state, qubits can be 0s and 1s <i>at the same time</i> thanks to quantum superposition.</p>
+<p>Meanwhile, entanglement allows particles to be manipulated despite the distance between them &mdash; anything that happens to one particle will instantly be reflected in the other. Information can, therefore, be sent across greater distances far more quickly than with classical computers.</p>
+<p></p>
+<p>Although the field of quantum computing is still in its nascent stages and extremely complicated, researchers have made significant advances in recent years on the development of <a href="https://futurism.com/googles-quantum-computer-may-be-superior-to-conventional-computers-by-2018/" target="_blank" rel="noopener noreferrer">working quantum computers</a>. They&rsquo;ve found ways to <a href="https://futurism.com/physicists-demonstrate-record-breaking-long-distance-quantum-entanglement-in-space/" target="_blank" rel="noopener noreferrer"> sustain the life of qubits</a> to increase the length of time information could be <a href="https://futurism.com/scientists-just-successfully-stored-quantum-information-10000-times-longer-than-ever-before/" target="_blank" rel="noopener noreferrer">contained in a quantum system</a>, and according to experts, <a href="https://futurism.com/taken-the-age-of-commercial-quantum-computers-has-arrived/" target="_blank" rel="noopener noreferrer">working quantum computers</a> will very likely be available in the next couple of decades.</p>
+<p>&ldquo;Nobody is saying &lsquo;never&rsquo; anymore,&rdquo; Scott Totzke, Chief Executive of the Canadian firm Isara Corp., <a href="https://www.wsj.com/articles/how-googles-quantum-computer-could-change-the-world-1508158847?mod=e2fb" target="_blank" rel="noopener noreferrer">told </a><i><a href="https://www.wsj.com/articles/how-googles-quantum-computer-could-change-the-world-1508158847?mod=e2fb" target="_blank" rel="noopener noreferrer">The Wall Street Journal</a></i>. &ldquo;We are in the very, very early days, but we are well past the science-fiction point.&rdquo;</p>
+<p>So, what can we expect from the future of quantum computing?</p>
+<h2>Life With Quantum Computers</h2>
+<p>Quantum computers will be capable of performing vastly more <a href="https://futurism.com/the-race-to-prove-quantum-supremacy-may-be-won-in-the-next-year/" target="_blank" rel="noopener noreferrer">complicated computations</a> than classical computers, and according to <a href="http://superposition.com/" target="_blank" rel="noopener noreferrer">William Hurley</a>, chair of the Quantum Computing Standards Workgroup at the <a href="https://www.ieee.org/index.html?WT.mc_id=mn_ieee" target="_blank" rel="noopener noreferrer">Institute of Electrical and Electronics Engineers (IEEE)</a>, the implications of that will be tremendous.</p>
+<p>Hurley elaborated on this in an email to Futurism:</p>
+<blockquote><p>It&rsquo;s my personal belief that quantum computing will help us make sense of the deluge of data we find ourselves creating to solve some very interesting problems. There are systems generating billions of data sets a day, and those might be the solution to some critical problems affecting society, but we can&rsquo;t possibly begin to [work] through [all the data]. To me, that&rsquo;s extremely exciting.</p></blockquote>
+<p>In short, the future of quantum computing will see us solving some of the most complex questions facing the world today and not just in fields like physics or science.</p>
+<p>&ldquo;I think there&rsquo;s a huge opportunity for quantum computing to disrupt a number of industries,&rdquo; said Hurley. &ldquo;However, I believe that the financial, pharmaceutical, and security industries will see the most change in the shortest amount of time.&rdquo;</p>
+<p></p>
+<p>While some experts have warned that this power could be <a href="https://futurism.com/worlds-leading-physicist-says-quantum-computers-are-tools-of-destruction-not-creation/" target="_blank" rel="noopener noreferrer">used for nefarious purposes</a>, Hurley believes the good will outweigh the bad:</p>
+<blockquote><p>There will always be reasons to temper our optimism around any new technological advance. Still, I am incredibly excited about the potential positive outcomes of quantum computing. From finding new cures to diseases to helping discover new particles, I think this is the most excited I have been in my entire career. We should be focusing our energy as much on the positive outcomes as we currently are the negative ones.</p></blockquote>
+<h2>A New Kind of Internet</h2>
+<p>So-called quantum communications is one of the more interesting applications planned for the future of quantum computing.</p>
+<p>Researchers in China and elsewhere in the world have begun exploring the potential of <a href="https://futurism.com/china-set-to-launch-the-worlds-first-quantum-communication-network/" target="_blank" rel="noopener noreferrer">building quantum networks</a> using the same principles behind quantum computing. The creation of these networks would eventually open the door for a <a href="https://futurism.com/the-quantum-internet-is-just-a-decade-away-heres-what-you-need-to-know/" target="_blank" rel="noopener noreferrer">quantum internet</a>, a more secure communication system in which information is stored and transmitted with <a href="https://futurism.com/nist-study-quantum-computers-will-make-current-cryptography-obsolete/" target="_blank" rel="noopener noreferrer">advanced cryptography</a>. Such a network, however, couldn&rsquo;t be truly realized until <a href="https://futurism.com/new-condensed-matter-state-paves-the-way-for-scalable-quantum-computers/" target="_blank" rel="noopener noreferrer">quantum computers become scalable</a>, which <a href="https://futurism.com/when-will-quantum-computers-be-consumer-products/" target="_blank" rel="noopener noreferrer">Futurism readers</a> think will happen before 2050.</p>
+<figure><a href="https://futurism.com/images/future-moonshots-infographic/" rel="noopener noreferrer" target="_blank"><img src="https://futurism.com/wp-content/uploads/2016/11/Homepage-Thumbnail-3-1.jpg" alt="Future Moonshots [INFOGRAPHIC]"></a><figcaption><strong><a href="https://futurism.com/images/future-moonshots-infographic/" target="_blank" rel="noopener noreferrer">Click to View Full Infographic</a></strong></figcaption></figure>
+<p>While researchers have managed to create quantum computers, they are all bulky and only work in specialized environments. Therefore, the future of quantum computing may include the adoption of alternatives to the systems currently being created in cutting-edge laboratories.</p>
+<p>The path forward may be through the creation of <a href="https://spectrum.ieee.org/tech-talk/computing/hardware/qudits-the-real-future-of-quantum-computing" target="_blank" rel="noopener noreferrer">specialized computer chips</a> capable of functioning like quantum computers but sans the state-of-the-art components those systems require. The quantum computing revolution could also well begin with the average person accessing a quantum computer through a cloud service, such as those <a href="https://futurism.com/ibm-giving-public-access-five-qubit-quantum-computer-free/" target="_blank" rel="noopener noreferrer">IBM</a> and <a href="https://www.bloomberg.com/news/articles/2017-07-17/google-s-quantum-computing-push-opens-new-front-in-cloud-battle" target="_blank" rel="noopener noreferrer">Google</a> have created.</p>
+<p>&ldquo;I think you&rsquo;re going to see general availability of simulators and emulators that are useful in the next 24 months,&rdquo; said Hurley. Still, those systems would just be a placeholder for the real deal, which he sees arriving in the not-so-distant future: &ldquo;I would love to see a universal quantum computer available as earlier as three to five years out, and I believe that could be possible.&rdquo;</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/future-quantum-computer/" target="_blank">Here&rsquo;s What a World Powered by Quantum Computers Will Look Like</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-27T18:28:31+00:00</updated>
+	<author><name>Dom Galeon</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-27T18:28:31+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="robots &amp; machines"/>
+
+	<category term="computing"/>
+
+	<category term="quantum computing"/>
+
+	<category term="quantum internet"/>
+
+	<category term="quantum mechanics"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-28:/445919</id>
+	<link href="https://futurism.com/videos/quantum-computers-explained/" rel="alternate" type="text/html"/>
+	<title type="html">The Science of Quantum Computers Explained in Under Two Minutes</title>
+	<summary type="html"><![CDATA[<p>In the next few years, quantum computers will usher in the next great era in computing technology. T...</p>]]></summary>
+	<content type="html"><![CDATA[<p>In the next few years, quantum computers will usher in the next great era in computing technology. Their successful creation will be a paradigm-shifting achievement&hellip;one that will forever alter the future of humanity. Here&rsquo;s what you need to know.</p>
+<p></p><p>The post <a rel="noopener noreferrer" href="https://futurism.com/videos/quantum-computers-explained/" target="_blank">The Science of Quantum Computers Explained in Under Two Minutes</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-27T18:04:25+00:00</updated>
+	<author><name>Jolene Creighton</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-27T18:04:25+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="hard science"/>
+
+	<category term="encryption"/>
+
+	<category term="quantum computers"/>
+
+	<category term="qubits"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-31:/446885</id>
+	<link href="http://physicsworld.com/cws/article/news/2017/oct/30/proton-antiproton-equivalence-confirmed-by-best-ever-measurement-of-magnetic-moment" rel="alternate" type="text/html"/>
+	<title type="html">Proton–antiproton equivalence confirmed by best-ever measurement of magnetic moment</title>
+	<summary type="html"><![CDATA[<p>Flash Physics: need-to-know updates from the world of physics</p>]]></summary>
+	<content type="html"><![CDATA[<p>Flash Physics: need-to-know updates from the world of physics<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/4J2Gr9sGSA4" height="1" width="1" alt=""></p>]]></content>
+	<updated>2017-10-30T12:46:08+00:00</updated>
+	<author><name>Marric Stephens</name></author>
+	<source>
+		<id>http://physicsworld.com/</id>
+		<link rel="self" href="http://physicsworld.com/"/>
+		<updated>2017-10-30T12:46:08+00:00</updated>
+		<title>physicsworld.com: all content</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-30:/446857</id>
+	<link href="https://phys.org/news/2017-10-saturn-belts-stranger-solar.html" rel="alternate" type="text/html"/>
+	<title type="html">Saturn's radiation belts: A stranger to the solar wind</title>
+	<summary type="html"><![CDATA[<p>The radiation belts of Earth and Saturn differ more strongly than previously assumed. In these belts...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The radiation belts of Earth and Saturn differ more strongly than previously assumed. In these belts, very energetic particles, such as electrons and protons, move around the planet at high velocities - captured by its magnetic field. In the case of the Earth, the solar wind, a current of charged particles from the Sun varying in strength, controls the intensity of the radiation belt both directly and indirectly. The radiation belts of Saturn, however, develop completely independently of the solar wind and are instead decisively influenced by the gas giant's moons. These results are published today in the journal Nature Astronomy by a group of researchers from the Max Planck Institute for Solar System Research (MPS) in Germany co-leading the most comprehensive study on the subject to date. Key to the new findings are measurements of the MIMI-LEMMS instrument aboard NASA's Cassini space probe, which explored the Saturn system for more than 13 years before its dive into the planet on the 15th of September this year.</p>]]></content>
+	<updated>2017-10-30T21:59:52+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-30T21:59:52+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="space exploration"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/saturnsradia.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-28:/446048</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/nsfc-s2i102717.php" rel="alternate" type="text/html"/>
+	<title type="html">September 2017's intense solar activity viewed from space</title>
+	<summary type="html"><![CDATA[<p>(NASA/Goddard Space Flight Center) September 2017 saw a spate of solar activity, with the Sun emitti...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>NASA/Goddard Space Flight Center</i>) September 2017 saw a spate of solar activity, with the Sun emitting 27 M-class and four X-class flares and releasing several powerful coronal mass ejections, or CMEs, between Sept. 6-10. Solar flares are powerful bursts of radiation, while coronal mass ejections are massive clouds of solar material and magnetic fields that erupt from the Sun at incredible speeds.</p>]]></content>
+	<updated>2017-10-27T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-27T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-27:/445892</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/ggph-tsu102717.php" rel="alternate" type="text/html"/>
+	<title type="html">The successful US/German satellite gravity mission GRACE comes to an end after 15 years</title>
+	<summary type="html"><![CDATA[<p>(GFZ GeoForschungsZentrum Potsdam, Helmholtz Centre) On March 17, 2002, the twin satellites of the N...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>GFZ GeoForschungsZentrum Potsdam, Helmholtz Centre</i>) On March 17, 2002, the twin satellites of the NASA/German Gravity Recovery and Climate Experiment (GRACE) were launched in order to make precise measurements of the Earth&acute;s gravity field. GRACE has lasted three times as long as originally planned for more than 15 years. Now it has ended science operations.</p>]]></content>
+	<updated>2017-10-27T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-27T04:00:00+00:00</updated>
+		<title>EurekAlert! - Space and Planetary Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-27:/445715</id>
+	<link href="https://phys.org/news/2017-10-physicists-quantum-gravity-current-technology.html" rel="alternate" type="text/html"/>
+	<title type="html">Physicists propose test of quantum gravity using current technology</title>
+	<summary type="html"><![CDATA[<p>Physicists have proposed a way to test quantum gravity that, in principle, could be performed by a l...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Physicists have proposed a way to test quantum gravity that, in principle, could be performed by a laser-based, table-top experiment using currently available technology. Although a theory of quantum gravity would overcome one of the biggest challenges in modern physics by unifying general relativity and quantum mechanics, currently physicists have no way of testing any proposed theories of quantum gravity.</p>]]></content>
+	<updated>2017-10-27T11:00:02+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-27T11:00:02+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="quantum physics"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/quantumgravi.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-31:/447165</id>
+	<link href="https://phys.org/news/2017-10-disruptive-bioengineering-cells-interact.html" rel="alternate" type="text/html"/>
+	<title type="html">Disruptive bioengineering – changing the way cells interact with each other</title>
+	<summary type="html"><![CDATA[<p>Researchers at the MRC Weatherall Institute of Molecular Medicine have developed a new platform base...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Researchers at the MRC Weatherall Institute of Molecular Medicine have developed a new platform based on the revolutionary CRISPR/Cas9 technology, to alter the way human cells respond to external signals, and provide new opportunities for stopping cancer cells from developing.</p>]]></content>
+	<updated>2017-10-31T13:55:17+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-31T13:55:17+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/disruptivebi.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-31:/447123</id>
+	<link href="https://inhabitat.com/73-million-trees-to-be-planted-in-largest-reforestation-project-ever-undertaken" rel="alternate" type="text/html"/>
+	<title type="html">73 million trees to be planted in largest reforestation project ever</title>
+	<summary type="html"><![CDATA[<p>Conservation International aims to plant 73 million trees in the Brazilian Amazon in the largest re...</p>]]></summary>
+	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Amazon-Rainforest-889x592.jpg" alt="Amazon, rainforest, tropical forest, Amazon rainforest"></p>
+<p>Conservation International aims to plant 73 million trees in the <a href="https://inhabitat.com/tag/amazon-rainforest/" rel="noopener noreferrer" target="_blank">Brazilian Amazon</a> in the largest reforestation project ever. The trees will be planted in the &ldquo;arc of deforestation&rdquo; that runs through the <a href="https://inhabitat.com/tag/brazil/" rel="noopener noreferrer" target="_blank">Brazilian</a> states of Amazonas, Acre, Par&aacute;, and Rond&ocirc;nia, as well as throughout the Xingu watershed. In the short-term, the project aims to restore 70,000 acres of tropical forest.&nbsp;&ldquo;If the world is to hit the 1.2&deg;C or 2&deg;C [degrees of warming] target that we all agreed to in Paris, then protecting tropical forests in particular has to be a big part of that,&rdquo; said M. Sanjayan, CEO of Conservation International, in an interview with <a href="https://www.fastcompany.com/40481305/the-largest-ever-tropical-reforestation-is-planting-73-million-trees" rel="noopener noreferrer" target="_blank">Fast Company</a>.</p>
+<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Amazon-River-889x591.jpg" alt="Amazon, rainforest, tropical forest, Amazon rainforest"></p>
+<p>&ldquo;It&rsquo;s not just the trees that matter, but what kind of <a href="https://inhabitat.com/tag/trees/" rel="noopener noreferrer" target="_blank">trees</a>,&rdquo; said Sanjayan. &ldquo;If you&rsquo;re really thinking about getting carbon dioxide out of atmosphere, then tropical forests are the ones that end up mattering the most.&rdquo; Ceasing deforestation would allow for the absorption of 37 percent of the world&rsquo;s annual <a href="https://inhabitat.com/tag/fossil-fuels/" rel="noopener noreferrer" target="_blank">carbon emissions</a> yet scientists worry that 20 percent of the Amazon may be deforested in the next two decades, in addition to the 20 percent that was deforested in the past 40 years. To combat this rapid pace of destruction, Conservation International is utilizing new, efficient planting techniques that could be applied worldwide.&nbsp;&ldquo;This is not a stunt,&rdquo; said Sanjayan. &ldquo;It is a carefully controlled experiment to literally figure out how to do tropical restoration at scale, so that people can replicate it and we can drive the costs down dramatically.&rdquo;</p>
+<p><a href="https://inhabitat.com/hurricane-maria-ravaged-the-only-tropical-rainforest-in-the-united-states/" rel="noopener noreferrer" target="_blank">Related:&nbsp;Hurricane Maria ravaged the only tropical rainforest in the United States</a></p>
+<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/Amazon-Rainforest-889x592.jpg" alt="Amazon, rainforest, tropical forest, Amazon rainforest"></p>
+<p>The planting method used in the project is known as <em>muvuca</em>, which is a <a href="https://inhabitat.com/tag/portugal/" rel="noopener noreferrer" target="_blank">Portuguese</a> word to describe many people in a small place. In&nbsp;<em>muvuca,</em> hundreds of native tree seeds of various species are spread over every inch of deforested land. Natural selection then allows the most suited to survive and thrive. A 2014 study from the Food and Agriculture Organization and Biodiversity International found that&nbsp;more than 90 percent of native tree species planted using the&nbsp;<em>muvuca</em> method germinate and are well suited to survive <a href="https://inhabitat.com/tag/drought/" rel="noopener noreferrer" target="_blank">drought conditions</a> for up to six months.&nbsp;&ldquo;With plant-by-plant reforestation techniques, you get a typical density of about 160 plants per hectare,&rdquo; said Rodrigo Medeiros, Conservation International&rsquo;s vice president of the Brazil program and project lead, according to <a href="https://www.fastcompany.com/40481305/the-largest-ever-tropical-reforestation-is-planting-73-million-trees" rel="noopener noreferrer" target="_blank">Fast Company</a>. &ldquo;With muvuca, the initial outcome is 2,500 species per hectare. And after 10 years, you can reach 5,000 trees per hectare. It&rsquo;s much more diverse, much more dense, and less expensive than traditional techniques.&rdquo;</p>
+<p>Via <a href="https://www.fastcompany.com/40481305/the-largest-ever-tropical-reforestation-is-planting-73-million-trees" rel="noopener noreferrer" target="_blank">Fast Company</a></p>
+<p><em>Images via <a href="https://depositphotos.com/search/amazon-rainforest.html?qview=84187390" rel="noopener noreferrer" target="_blank">Depositphotos</a> <a href="https://depositphotos.com/search/amazon-rainforest.html?qview=42468941" rel="noopener noreferrer" target="_blank">(1)</a></em></p><div>
+<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=S16SbfGVWYQ:etVtWICobTw:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=S16SbfGVWYQ:etVtWICobTw:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
+</div>]]></content>
+	<updated>2017-10-31T13:47:21+00:00</updated>
+	<author><name>Greg Beach</name></author>
+	<source>
+		<id>https://inhabitat.com</id>
+		<link rel="self" href="https://inhabitat.com"/>
+		<updated>2017-10-31T13:47:21+00:00</updated>
+		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
+
+	<category term="environment"/>
+
+	<category term="conservation"/>
+
+	<category term="climate change"/>
+
+	<category term="carbon emissions"/>
+
+	<category term="trees"/>
+
+	<category term="forests"/>
+
+	<category term="deforestation"/>
+
+	<category term="rainforests"/>
+
+	<category term="ecology"/>
+
+	<category term="greenhouse gas emissions"/>
+
+	<category term="science"/>
+
+	<category term="reforestation"/>
+
+	<category term="news"/>
+
+	<category term="amazon rainforest"/>
+
+	<category term="tropical rainforests"/>
+
+	<category term="tropical forests"/>
+
+	<category term="conservation international"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-27:/445741</id>
+	<link href="https://phys.org/news/2017-10-image-genetics-space.html" rel="alternate" type="text/html"/>
+	<title type="html">Image: Studying the genetics of organisms in space</title>
+	<summary type="html"><![CDATA[<p>At NASA's Kennedy Space Center, organisms in a Petri plate are exposed to blue excitation lighting i...</p>]]></summary>
+	<content type="html"><![CDATA[<p>At NASA's Kennedy Space Center, organisms in a Petri plate are exposed to blue excitation lighting in a Spectrum prototype unit. Scientists and engineers working on the Spectrum project are developing new hardware for the International Space Station, to support experiments demonstrating how different organisms, such as plants, microbes or worms, develop under conditions of microgravity.</p>]]></content>
+	<updated>2017-10-27T11:50:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-27T11:50:03+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="space exploration"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/imagestudyin.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-30:/446473</id>
+	<link href="https://phys.org/news/2017-10-genome-previous-photosynthesis.html" rel="alternate" type="text/html"/>
+	<title type="html">Genome research challenges previous understanding of the origin of photosynthesis</title>
+	<summary type="html"><![CDATA[<p>Plant biologists at Lawrence Berkeley National Laboratory (Berkeley Lab), in collaboration with coll...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Plant biologists at Lawrence Berkeley National Laboratory (Berkeley Lab), in collaboration with colleagues from the California Institute of Technology (Caltech), have reconstructed the evolutionary history of photosynthesis to provide new insight into the yet-unfolding story of its origins.</p>]]></content>
+	<updated>2017-10-30T11:08:20+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-10-30T11:08:20+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/genomeresear.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-30:/446549</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-10/bti-pgs102917.php" rel="alternate" type="text/html"/>
+	<title type="html">Pumpkin genomes sequenced, revealing uncommon evolutionary history</title>
+	<summary type="html"><![CDATA[<p>(Boyce Thompson Institute) For some, pumpkins conjure carved Halloween decorations, but for many peo...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Boyce Thompson Institute</i>) For some, pumpkins conjure carved Halloween decorations, but for many people around the world, these gourds provide nutrition. Scientists at Boyce Thompson Institute (BTI) and the National Engineering Research Center for Vegetables in Beijing have sequenced the genomes of two important pumpkin species, Cucurbita maxima and Cucurbita moschata.</p>]]></content>
+	<updated>2017-10-29T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-10-29T04:00:00+00:00</updated>
+		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-10-29:/446225</id>
+	<link href="https://www.livescience.com/60802-explorers-dive-beneath-antarctic-ice.html" rel="alternate" type="text/html"/>
+	<title type="html">Explorers Will Dive Beneath Antarctic Ice Shelf Looking for Life</title>
+	<summary type="html"><![CDATA[<p>Scientists will spend six weeks diving beneath the Ross Ice Shelf, exploring how climate change affe...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Scientists will spend six weeks diving beneath the Ross Ice Shelf, exploring how climate change affects marine biodiversity while documenting their work through social media and in 360-degree video.</p>]]></content>
+	<updated>2017-10-29T12:30:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.livescience.com</id>
+		<link rel="self" href="https://www.livescience.com"/>
+		<updated>2017-10-29T12:30:00+00:00</updated>
+		<title>LiveScience.com</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/jpeg" 
+		length="1"
+		href="https://img.purch.com/rc/160x100/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5Ni80NTAvb3JpZ2luYWwvYWRnLTguanBn"/>
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-10-27:/445690</id>
@@ -1333,406 +1709,6 @@ On July 4th, 2012, researchers&nbsp;from&nbsp;the European Organization for Nucl
 		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
 		<updated>2017-06-22T04:00:00+00:00</updated>
 		<title>Red Hat Press Releases</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443314</id>
-	<link href="https://dzone.com/articles/whats-the-future-of-web-dev?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone" rel="alternate" type="text/html"/>
-	<title type="html">What's the Future of Web Dev?</title>
-	<summary type="html"><![CDATA[<p>To gather insights on the state of web application development today, we spoke with 12 executives wh...</p>]]></summary>
-	<content type="html"><![CDATA[<p pid="6">To gather insights on the state of web application development today, we spoke with 12 executives who are familiar with the current state of the industry and asked them, "What&rsquo;s the future of web applications from your point of view - where do the greatest opportunities lie?" Here's what they told us:</p> 
-<h2 pid="12">Collaboration</h2> 
-<ul> 
- <li><strong>Collaborative development tools.</strong> Currently, web-based collaboration ends at the mockup phase. We see room for technologies that allow a team to collaboratively develop an application up to the point of implementing multiple screens and transitions, data entry and validation rules, conditionally shown components, simple workflows, and other standard interactions, *before* developers go into an IDE and start writing code.</li> 
- <li>Capabilities with APIs, <strong>smooth UX, web platforms consistent across devices with the realization that there will be more devices.</strong>&nbsp;UI/UX testing with Selenium. Make it as simple as possible. Despite the complexity, at the end of the day, it&rsquo;s still an HTTP request and response in a simple Perl application.&nbsp;</li> 
- <li><strong>We&rsquo;ll get better at&nbsp;cross-platform.</strong>&nbsp;Ultimately, we&rsquo;ll have frameworks that enable us to build once and run everywhere but we&rsquo;ll start with the lowest common denominator which won&rsquo;t make anyone happy. Web applications will not go away though they may become industry specific.&nbsp;</li> 
- <li>The ability to coordinate all of the different variables that can affect web applications to&nbsp;<strong>ensure they are synchronized before they are presented to the end user</strong>.&nbsp;Automated deployment and visual testing and monitoring&nbsp;supports&nbsp;the entire digital transformation.&nbsp;</li> 
- <li><strong>Building apps to serve end users.</strong>&nbsp;Provide a great UX wherever and whenever the user wants to interact. Banks have realized the need to do this. New interfaces with phones, Alexa, and Siri. 67% of apps are gone after one use. Make sure the engagement is simple and the performance is good. Recognize the business goals before developing a new app versus tuning an existing app. Analyze where the app is failing and how much it is hurting your business. Know how the app is performing for each user.</li> 
-</ul> 
-<h2 pid="13">Other</h2> 
-<ul> 
- <li><strong>API first.</strong> Everything is backed by a public facing API. No breaking changes as we move forward. Smoother accomplishment of the goal of plugging email into the enterprise system easily.</li> 
- <li>There are opportunities in certain sectors, like retail, to <strong>leverage AR and VR</strong>. Experiences will be more immersive. This will increase the motivation and attack vectors for hackers. The only way to catch up is with automation, orchestration, and AI.</li> 
- <li><strong>Progressive web application technology.</strong> The web app experience is the same as the native app experience without the negative drawbacks. The barrier to entry is development and installation. Emerging technologies are being adopted by the browsers. This will free developers from platforms and app stores.</li> 
- <li>Orchestration with IDE more and more as add-on functions to third-party applications like Salesforce. <strong>Incrementally adding things to what customers are already using.</strong></li> 
- <li>Web applications are becoming common as the internet matures. To stay relevant as technology evolves it becomes imperative to increase intelligence. <strong>Applications that implement machine learning to understand the patterns of their users</strong> hold significant potential for maintaining usefulness, enhancing the user experience, and providing growth potential.</li> 
- <li><strong>Making microservices&nbsp;with better integration</strong> with other systems moving beyond self-hosted to cloud-hosted so they can scale. Stronger standards for REST.</li> 
- <li>Nobody knows for sure where the future of web applications lies -- whether it&rsquo;s voice controls, chatbots, artificial intelligence, AngularJS, ReactJS, or augmented reality. <strong>By choosing a model-driven platform, you can future-proof your web application development effort</strong>, adopt new technologies easily, and own the future &ndash; whatever it brings.</li> 
-</ul> 
-<p pid="2">What do you see as the future of web application development?</p>]]></content>
-	<updated>2017-10-23T15:01:01+00:00</updated>
-	<author><name>Tom Smith</name></author>
-	<source>
-		<id>https://dzone.com</id>
-		<link rel="self" href="https://dzone.com"/>
-		<updated>2017-10-23T15:01:01+00:00</updated>
-		<title>DZone.com Feed</title></source>
-
-	<category term="api"/>
-
-	<category term="web dev"/>
-
-	<category term="ide"/>
-
-	<category term="cross-platform development"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://dzone.com/thumbnail?fid=6575176&amp;w=600"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443615</id>
-	<link href="https://phys.org/news/2017-10-artificial-intelligence-gravitational-lens-candidates.html" rel="alternate" type="text/html"/>
-	<title type="html">Artificial intelligence finds 56 new gravitational lens candidates</title>
-	<summary type="html"><![CDATA[<p>A group of astronomers from the universities of Groningen, Naples and Bonn has developed a method th...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A group of astronomers from the universities of Groningen, Naples and Bonn has developed a method that finds gravitational lenses in enormous piles of observations. The method is based on the same artificial intelligence algorithm that Google, Facebook and Tesla have been using in the last years. The researchers published their method and 56 new gravitational lens candidates in the November issue of Monthly Notices of the Royal Astronomical Society.</p>]]></content>
-	<updated>2017-10-23T20:08:58+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-23T20:08:58+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="astronomy"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-2-artificialin.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/443712</id>
-	<link href="https://www.livescience.com/45838-potato-nutrition.html" rel="alternate" type="text/html"/>
-	<title type="html">Potatoes: Health Benefits, Risks &amp; Nutrition Facts</title>
-	<summary type="html"><![CDATA[<p>Potatoes are often thought of as a comfort food &mdash; richly mashed or crisply fried &mdash; but when prepared...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Potatoes are often thought of as a comfort food &mdash; richly mashed or crisply fried &mdash; but when prepared the right ways, these vegetables are actually quite nutritious.</p>]]></content>
-	<updated>2017-10-23T13:49:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.livescience.com</id>
-		<link rel="self" href="https://www.livescience.com"/>
-		<updated>2017-10-23T13:49:00+00:00</updated>
-		<title>LiveScience.com</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/jpeg" 
-		length="1"
-		href="https://img.purch.com/rc/160x100/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2Ni80MzEvb3JpZ2luYWwvcG90YXRvZXMuanBn"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/443693</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171023182701.htm" rel="alternate" type="text/html"/>
-	<title type="html">Brain patterns underlying mothers' responses to infant cries</title>
-	<summary type="html"><![CDATA[<p>Infant cries activate specific brain regions related to movement and speech, according to a study of...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Infant cries activate specific brain regions related to movement and speech, according to a study of mothers in 11 countries. The findings identify behaviors and underlying brain activities that are consistent among mothers from different cultures.</p>]]></content>
-	<updated>2017-10-23T22:27:01+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-23T22:27:01+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443554</id>
-	<link href="http://news.mit.edu/2017/neuroscientists-build-case-new-theory-memory-formation-1023" rel="alternate" type="text/html"/>
-	<title type="html">MIT neuroscientists build case for new theory of memory formation</title>
-	<summary type="html"><![CDATA[<p>Learning and memory are generally thought to be composed of three major steps: encoding events into ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Learning and memory are generally thought to be composed of three major steps: encoding events into the brain network, storing the encoded information, and later retrieving it for recall.</p>
-
-
-
-<p>Two years ago, MIT neuroscientists discovered that under certain types of retrograde amnesia, memories of a particular event could be stored in the brain even though they could not be retrieved through natural recall cues. This phenomenon suggests that existing models of memory formation need to be revised, as the researchers propose in a new paper in which they further detail how these &ldquo;silent engrams&rdquo; are formed and re-activated.</p>
-
-
-
-<p>The researchers believe their findings offer evidence that memory storage does not rely on the strengthening of connections, or &ldquo;synapses,&rdquo; between memory cells, as has long been thought. Instead, a pattern of connections that form between these cells during the first few minutes after an event occurs are sufficient to store a memory.</p>
-
-
-
-<p>&ldquo;One of our main conclusions in this study is that a specific memory is stored in a specific pattern of connectivity between engram cell ensembles that lie along an anatomical pathway. This conclusion is provocative because the dogma has been that a memory is instead stored by synaptic strength,&rdquo; says Susumu Tonegawa, the Picower Professor of Biology and Neuroscience, the director of the RIKEN-MIT Center for Neural Circuit Genetics at the Picower Institute for Learning and Memory, and the study&rsquo;s senior author.</p>
-
-
-
-<p>The researchers also showed that even though memories held by silent engrams cannot be naturally recalled, the memories persist for at least a week and can be &ldquo;awakened&rdquo; days later by treating cells with a protein that stimulates synapse formation.</p>
-
-
-
-<p>Dheeraj Roy, a recent MIT PhD recipient, is the lead author of the paper, which appears in the <em>Proceedings of the National Academy of Sciences</em> the week of Oct. 23. Other authors are MIT postdoc Shruti Muralidhar and technical associate Lillian Smith.</p>
-
-
-
-<p><strong>Silent memories</strong></p>
-
-
-
-<p>Neuroscientists have long believed that memories of events are stored when synaptic connections, which allow neurons to communicate with each other, are strengthened. Previous studies have found that if synthesis of certain cellular proteins is blocked in mice immediately after an event occurs, the mice will have no long-term memory of the event.</p>
-
-
-
-<p>However, in a 2015 paper, <a href="http://news.mit.edu/2015/optogenetics-find-lost-memories-0528" rel="noopener noreferrer" target="_blank">Tonegawa and his colleagues showed</a> for the first time that memories could be stored even when synthesis of the cellular proteins is blocked. They found that while the mice could not recall those memories in response to natural cues, such as being placed in the cage where a fearful event took place, the memories were still there and could be artificially retrieved using a technique known as optogenetics.</p>
-
-
-
-<p>The researchers have dubbed these memory cells &ldquo;silent engrams,&rdquo; and they have since found that these engrams can also be formed in other situations. In a study of mice with symptoms that mimic early Alzheimer&rsquo;s disease, the <a href="http://news.mit.edu/2016/retrieve-missing-memories-early-alzheimers-symptoms-0316" rel="noopener noreferrer" target="_blank">researchers found</a> that while the mice had trouble recalling memories, those memories still existed and could be optogenetically retrieved.</p>
-
-
-
-<p>In a more recent study of a process called systems consolidation of memory, the <a href="http://news.mit.edu/2017/neuroscientists-identify-brain-circuit-necessary-memory-formation-0406" rel="noopener noreferrer" target="_blank">researchers found engrams</a> in the hippocampus and the prefrontal cortex that encoded the same memory. However, the prefrontal cortex engrams were silent for about two weeks after the memory was initially encoded, while the hippocampal engrams were active right away. Over time, the memory in the prefrontal cortex became active, while the hippocampal engram slowly became silent.</p>
-
-
-
-<p>In their new <em>PNAS</em> study, the researchers investigated further how these silent engrams are formed, how long they last, and how they can be re-activated.</p>
-
-
-
-<p>Similar to their original 2015 study, they trained mice to fear being placed in a certain cage, by delivering a mild foot shock. After this training, the mice freeze when placed back in that cage. As the mice were trained, their memory cells were labeled with a light-sensitive protein that allows the cells to be re-activated with light. The researchers also inhibited the synthesis of cellular proteins immediately after the training occurred.</p>
-
-
-
-<p>They found that after the training, the mice did not react when placed back in the cage where the training took place. However, the mice did freeze when the memory cells were activated with laser light while the animals were in a cage that should not have had any fearful associations. These silent memories could be activated by laser light for up to eight days after the original training.</p>
-
-
-
-<p><strong>Making connections</strong></p>
-
-
-
-<p>The findings offer support for Tonegawa&rsquo;s new hypothesis that the strengthening of synaptic connections, while necessary for a memory to be initially encoded, is not necessary for its subsequent long-term storage. Instead, he proposes that memories are stored in the specific pattern of connections formed between engram cell ensembles. These connections, which form very rapidly during encoding, are distinct from the synaptic strengthening that occurs later (within a few hours of the event) with the help of protein synthesis.</p>
-
-
-
-<p>&ldquo;What we are saying is that even without new cellular protein synthesis, once a new connection is made, or a pre-existing connection is strengthened during encoding, that new pattern of connections is maintained,&rdquo; Tonegawa says. &ldquo;Even if you cannot induce natural memory recall, the memory information is still there.&rdquo;</p>
-
-
-
-<p>This raised a question about the purpose of the post-encoding protein synthesis. Considering that silent engrams are not retrieved by natural cues, the researchers believe the primary purpose of the protein synthesis is to enable natural recall cues to do their job efficiently.</p>
-
-
-
-<p>The researchers also tried to reactivate the silent engrams by treating the mice with a protein called PAK1, which promotes the formation of synapses. They found that this treatment, given two days after the original event took place, was enough to grow new synapses between engram cells. A few days after the treatment, mice whose ability to recall the memory had been blocked initially would freeze after being placed in the cage where the training took place. Furthermore, their reaction was just as strong as that of mice whose memories had been formed with no interference.</p>
-
-
-
-<p>Sheena Josselyn, an associate professor of psychology and physiology at the University of Toronto, said the findings run counter to the longstanding idea that memory formation involves strengthening of synapses between neurons and that this process requires protein synthesis.</p>
-
-
-
-<p>&ldquo;They showed that a memory formed during protein-synthesis inhibition may be artificially (but not naturally) recalled. That is, the memory is still retained in the brain without protein synthesis, but this memory cannot be accessed under normal conditions, suggesting that spines may not be the key keepers of information,&rdquo; says Josselyn, who was not involved in the research. &ldquo;The findings are controversial, but many paradigm-shifting papers are.&rdquo;</p>
-
-
-
-<p>Along with the researchers&rsquo; previous findings on silent engrams in early Alzheimer&rsquo;s disease, this study suggests that re-activating certain synapses could help restore some memory recall function in patients with early stage Alzheimer&rsquo;s disease, Roy says.</p>
-
-
-
-<p>The research was funded by the RIKEN Brain Science Institute, the Howard Hughes Medical Institute, and the JPB Foundation.</p>]]></content>
-	<updated>2017-10-23T18:59:59+00:00</updated>
-	<author><name>Anne Trafton | MIT News Office</name></author>
-	<source>
-		<id>http://news.mit.edu/mitresearch-rss.xml</id>
-		<link rel="self" href="http://news.mit.edu/mitresearch-rss.xml"/>
-		<updated>2017-10-23T18:59:59+00:00</updated>
-		<title>MIT Research News</title></source>
-
-
-	<link rel="enclosure" 
-		type="image" 
-		length="1"
-		href="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Silent-Engram-1.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443545</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/gsoa-moi102317.php" rel="alternate" type="text/html"/>
-	<title type="html">Moment of impact: A journey into the Chicxulub Crater</title>
-	<summary type="html"><![CDATA[<p>(Geological Society of America) When the Chicxulub asteroid slammed into Earth about 66 million year...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Geological Society of America</i>) When the Chicxulub asteroid slammed into Earth about 66 million years ago, it obliterated 80 percent of Earth's species, blasted out a crater 200 kilometers across, and signaled an abrupt end to the Cretaceous Period. The impact, its catastrophic effects, and its aftermath have engrossed scientists and the public alike since it was first discovered.</p>]]></content>
-	<updated>2017-10-23T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-23T04:00:00+00:00</updated>
-		<title>EurekAlert! - Earth Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443561</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/cu-fft101917.php" rel="alternate" type="text/html"/>
-	<title type="html">Fossils from the world's oldest trees reveal complex anatomy never seen before</title>
-	<summary type="html"><![CDATA[<p>(Cardiff University) The first trees to have ever grown on Earth were also the most complex, new res...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>Cardiff University</i>) The first trees to have ever grown on Earth were also the most complex, new research has revealed.</p>]]></content>
-	<updated>2017-10-23T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-23T04:00:00+00:00</updated>
-		<title>EurekAlert! - Agriculture</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443552</id>
-	<link href="https://futurism.com/singapore-will-stop-adding-new-cars-to-its-roads-in-2018/" rel="alternate" type="text/html"/>
-	<title type="html">Singapore Will Stop Adding New Cars to Its Roads in 2018</title>
-	<summary type="html"><![CDATA[<p>Limited Space in Singapore
-The city-state of Singapore has announced a plan to reduce the vehicle gr...</p>]]></summary>
-	<content type="html"><![CDATA[<h2>Limited Space in Singapore</h2>
-<p>The <a href="https://futurism.com/smart-city-singapore-going-get-smarter/?src=featured" rel="noopener noreferrer" target="_blank">city-state of Singapore</a> has announced a plan to reduce the vehicle growth rate from 0.25 percent per year to 0 percent for cars and motorcycles. Due to the limited space available, Singapore controls the number of vehicles on the road to a great degree.</p>
-<p>The Land Transport Authority (LTA) issues permits, known as Certificates of Entitlement, that give vehicle owners the right to have their vehicle for a period of ten years. The permits are auctioned off. The last auction ended with the highest bidder paying $41,617 (US $30,533.39) only for the privilege&nbsp;of being able to operate the vehicle.</p>
-<p>The government cites the limited available&nbsp;land area as a reason behind the halt. The LTA stated, &ldquo;In view of land constraints and competing needs, there is limited scope for further expansion of the road network.&rdquo; Roads currently take up twelve percent of the city&rsquo;s total land area. There are more than 600,000 private and rental cars on this limited road space. The growth rate for commercial vehicles will remain at 0.25 percent.</p>
-<figure><img src="https://futurism.com/wp-content/uploads/2017/10/6868602527_d9b503b9a8_z.jpg" alt="Image credit: Aleksandr Zykov/Flickr" width="640" height="380"><figcaption>Image credit: Aleksandr Zykov/Flickr</figcaption></figure>
-<h2>Climate Change</h2>
-<p>The restriction on new cars will make it even more difficult to own a car in Singapore, which remains one of the most expensive places to own a vehicle. <a href="https://www.reuters.com/article/us-markets-bitcoin-institutional/big-money-stays-away-from-booming-bitcoin-idUSKBN1CS0EB" rel="noopener noreferrer" target="_blank">According to <em>Reuters</em></a>, mid-range vehicles can cost more than four times the price of the same vehicle in the U.S.<figure><a href="https://futurism.com/images/flying-cars-of-tomorrow-infographic/" rel="noopener noreferrer" target="_blank"><img src="https://futurism.com/wp-content/uploads/2016/06/Homepage-Thumbnail-7-900x600.jpg" alt="Flying Cars: A Future Buyer&rsquo;s Guide [Infographic]"></a><figcaption><strong><a href="https://futurism.com/images/flying-cars-of-tomorrow-infographic/" target="_blank" rel="noopener noreferrer">Click to View Full Infographic</a></strong></figcaption></figure>
-</p><p>However, increased restriction on vehicle ownership will have some positive side effects, at least in terms of environmental impact. Less cars on the roads of Singapore&nbsp;will mean less pollution for fossil fuel burning engines. Also, halting the expansion of the roads system in the country will prevent further transportation development of natural spaces. Even without expansion, not adding new vehicles will prevent the current system from becoming overcrowded, also preventing <a href="https://futurism.com/smog-in-parts-of-the-u-s-comes-from-air-pollution-in-asia/" rel="noopener noreferrer" target="_blank">environmentally&nbsp;harmful</a> gridlock.</p>
-<p>The new restrictions will not impact the number of permits available. The LTA will re-evaluate the policy for cars and motorcycles in 2020 and for commercial vehicles in March of 2021.</p>
-<p>The post <a rel="noopener noreferrer" href="https://futurism.com/singapore-will-stop-adding-new-cars-to-its-roads-in-2018/" target="_blank">Singapore Will Stop Adding New Cars to Its Roads in 2018</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
-	<updated>2017-10-23T18:45:52+00:00</updated>
-	<author><name>Patrick Caughill</name></author>
-	<source>
-		<id>https://futurism.com</id>
-		<link rel="self" href="https://futurism.com"/>
-		<updated>2017-10-23T18:45:52+00:00</updated>
-		<title>Futurism</title></source>
-
-	<category term="future society"/>
-
-	<category term="climate change"/>
-
-	<category term="environmental regulation"/>
-
-	<category term="singapore"/>
-
-	<category term="transportation"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443341</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/uoca-sdn101917.php" rel="alternate" type="text/html"/>
-	<title type="html">Scientists develop new theory of molecular evolution</title>
-	<summary type="html"><![CDATA[<p>(University of Colorado Anschutz Medical Campus) Researchers from the University of Colorado Anschut...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of Colorado Anschutz Medical Campus</i>) Researchers from the University of Colorado Anschutz Medical Campus and the University College London have developed a new theory of molecular evolution, offering insights into how genes function, how the rates of evolutionary divergence can be predicted, and how harmful mutations arise at a basic level.</p>]]></content>
-	<updated>2017-10-23T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-23T04:00:00+00:00</updated>
-		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/443676</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171023150541.htm" rel="alternate" type="text/html"/>
-	<title type="html">Fruit-eating increases biodiversity</title>
-	<summary type="html"><![CDATA[<p>By dispersing the seeds of plants, fruit-eating animals contribute to the possibility of increased p...</p>]]></summary>
-	<content type="html"><![CDATA[<p>By dispersing the seeds of plants, fruit-eating animals contribute to the possibility of increased plant speciation and thus biodiversity, investigators have discovered.</p>]]></content>
-	<updated>2017-10-23T19:05:41+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-23T19:05:41+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171023150541-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-02:/389097</id>
-	<link href="https://www.redhat.com/en/about/press-releases/red-hat-unveils-end-end-cloud-native-development-environment-red-hat-openshiftio" rel="alternate" type="text/html"/>
-	<title type="html">Red Hat Unveils End-to-End Cloud-Native Development Environment with Red Hat OpenShift.io</title>
-	<summary type="html"><![CDATA[<p>Red Hat OpenShift.io enables digital transformation with a powerful application environment to addre...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Red Hat OpenShift.io enables digital transformation with a powerful application environment to address all development phases without requiring local resources.</p>]]></content>
-	<updated>2017-05-02T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.redhat.com/en/rss/press-releases</id>
-		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
-		<updated>2017-05-02T04:00:00+00:00</updated>
-		<title>Red Hat Press Releases</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-02:/389100</id>
-	<link href="https://www.redhat.com/en/about/press-releases/red-hat-sets-new-standard-trusted-enterprise-grade-containers-industry%E2%80%99s-first-container-health-index" rel="alternate" type="text/html"/>
-	<title type="html">Red Hat Sets New Standard for Trusted, Enterprise-Grade Containers with Industry’s First Container Health Index</title>
-	<summary type="html"><![CDATA[<p>Red Hat launches Container Health Index, an easy-to-understand security grade applied to Linux conta...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Red Hat launches Container Health Index, an easy-to-understand security grade applied to Linux containers as part of the Red Hat Container Catalog.</p>]]></content>
-	<updated>2017-05-02T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.redhat.com/en/rss/press-releases</id>
-		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
-		<updated>2017-05-02T04:00:00+00:00</updated>
-		<title>Red Hat Press Releases</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-02:/389102</id>
-	<link href="https://www.redhat.com/en/about/press-releases/red-hat-and-aws-extend-strategic-alliance-package-access-aws-services-within-red-hat-openshift" rel="alternate" type="text/html"/>
-	<title type="html">Red Hat and AWS Extend Strategic Alliance to Package Access to AWS Services Within Red Hat OpenShift</title>
-	<summary type="html"><![CDATA[<p>Through this unique offering, Red Hat will make AWS services accessible directly within Red Hat Open...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Through this unique offering, Red Hat will make AWS services accessible directly within Red Hat OpenShift Container Platform, allowing customers to take advantage of the world&rsquo;s most comprehensive and broadly adopted cloud whether they&rsquo;re using Red Hat OpenShift Container Platform on AWS or in an on-premises environment.</p>]]></content>
-	<updated>2017-05-02T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.redhat.com/en/rss/press-releases</id>
-		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
-		<updated>2017-05-02T04:00:00+00:00</updated>
-		<title>Red Hat Press Releases</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-05-02:/388998</id>
-	<link href="https://www.linux.com/news/red-hat-launches-openshiftio-online-ide-building-container-based-applications" rel="alternate" type="text/html"/>
-	<title type="html">Red Hat Launches OpenShift.io, an Online IDE for Building Container-Based Applications</title>
-	<summary type="html"><![CDATA[<p>Red Hat&nbsp;is launching&nbsp;OpenShift.io&nbsp;today, its first major foray into offering cloud-based developer t...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><a href="https://www.redhat.com/en" target="_blank" rel="noopener noreferrer">Red Hat</a>&nbsp;is launching&nbsp;<a href="https://www.openshift.io/" target="_blank" rel="noopener noreferrer">OpenShift.io</a>&nbsp;today, its first major foray into offering cloud-based developer tools.&nbsp;As the name implies, OpenShift.io sits on top of the company&rsquo;s Kubernetes-based OpenShift container management platform and provides developers with the tools they need to build cloud-native, container-based apps.</p></div></div></div>]]></content>
-	<updated>2017-05-02T12:00:56+00:00</updated>
-	<author><name>TechCrunch</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-05-02T12:00:56+00:00</updated>
-		<title>Linux.com</title></source>
 
 
 </entry>
