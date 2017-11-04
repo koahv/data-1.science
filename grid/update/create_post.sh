@@ -1,18 +1,57 @@
 #Input file
 _db="post_data/post.txt"
- 
+
+#sed -i 's/ \+/ /g' $_db
+cat $_db | tr -dc '[:alnum:]\n\r' | tr '[:upper:]' '[:lower:]'
+
+
 # If file exists 
 if [[ -f "$_db" ]]
 then
 	# read file
 	while IFS='|' read -r id date category title link author last_marked
 	do
-	echo $date $category $title $link $author $last_marked
-
+	
 	#make post
-    
+
+	#echo $date $category $title $link $author $last_marked
+
+	#split date and time into two vars
+	split_date=($date)
+
+	#echo post date ${split_date[0]}
+	#echo post time ${split_date[1]}
+
+	#modify title for post filename
+
+
+#	mod_title1="$(echo -e "${title}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
+#	echo -e "mod_title1='${mod_title1}'"	
+
+
+#	mod_title2=${mod_title1// /-}
+#	echo $mod_title2
+
+#echo $mod_title2 #| tr -dc '[:alnum:]\n\r' | tr '[:upper:]' '[:lower:]'
+
+#echo ${mod_title2//[\':._]/}
+
+
+
+
+
+mod_title1="$(echo -e "${title}" | iconv -t ascii//TRANSLIT | sed -r s/[^a-zA-Z0-9]+/-/g | sed -r s/^-+\|-+$//g | tr A-Z a-z)"
+#echo $mod_title1
+
+
+	echo "some data for the file" >> post_data/${split_date[0]}-$mod_title1
+
+
     done <"$_db"
 fi
+
+
+
 
 
 #remove | char
