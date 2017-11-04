@@ -25,7 +25,7 @@ then
 	# echo $mod_title1
 	
 	rm post_data/${split_date[0]}-$mod_title1.md
-	echo -e "---\nlayout: post\ntitle: $title\ndate: $date\ncategories: $category\n---\n\ncontent" >> post_data/${split_date[0]}-$mod_title1.md
+	echo -e "---\nlayout: post\ntitle: \"$title\"\ndate: $date\ncategories: $category\n---\n\ncontent" >> post_data/${split_date[0]}-$mod_title1.md
 
 	done <"$_db"
 fi

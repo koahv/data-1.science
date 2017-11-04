@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mapping coal's decline and the renewables' rise                                                                                                  
+title: " Mapping coal's decline and the renewables' rise                                                                                                  "
 date:  2016-06-23 11:02:26 
 categories:  Science     
 ---

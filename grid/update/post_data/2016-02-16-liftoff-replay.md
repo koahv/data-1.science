@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Liftoff replay                                                                                                                                   
+title: " Liftoff replay                                                                                                                                   "
 date:  2016-02-16 18:20:00 
 categories:  Astronomy   
 ---

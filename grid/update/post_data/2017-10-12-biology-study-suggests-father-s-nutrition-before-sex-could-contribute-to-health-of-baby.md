@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Biology study suggests father's nutrition before sex could contribute to health of baby                                                          
+title: " Biology study suggests father's nutrition before sex could contribute to health of baby                                                          "
 date:  2017-10-12 16:52:41 
 categories:  Science     
 ---

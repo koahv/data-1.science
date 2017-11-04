@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  India drift                                                                                                                                      
+title: " India drift                                                                                                                                      "
 date:  2015-05-04 04:00:00 
 categories:  Science     
 ---
