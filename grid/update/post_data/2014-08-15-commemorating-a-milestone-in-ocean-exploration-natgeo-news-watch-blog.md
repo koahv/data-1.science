@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Commemorating A Milestone in Ocean Exploration - NatGeo News Watch (blog)                                                                        "
+title:  Commemorating A Milestone in Ocean Exploration - NatGeo News Watch (blog)                                                                        
 date:  2014-08-15 12:54:22 
 categories:  Earth       
 ---

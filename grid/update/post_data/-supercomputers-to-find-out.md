@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Supercomputers To Find Out                                                                                                                       "
+title:  Supercomputers To Find Out                                                                                                                       
 date:                      
 categories:              
 ---
