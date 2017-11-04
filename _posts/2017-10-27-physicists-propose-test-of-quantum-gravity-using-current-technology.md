@@ -1,5 +1,5 @@
----
-title:  Physicists propose test of quantum gravity using current technology                                                                               
+--
+title:  Physicists propose test of quantum gravity using current technology
 ---
 
 content
