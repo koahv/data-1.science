@@ -31,11 +31,23 @@ then
 	# create character friendly title
 	mod_title3="$(echo -e "${mod_title2}" | iconv -t ascii//TRANSLIT | sed -r s/[^a-zA-Z0-9]+/\ /g | sed -r s/^-+\|-+$//g)"
 
+	# remove leading and trailing whitespaces from url
+
+	mod_link1="$(echo -e "${link}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
+
+
 	# clear files
 	rm post_data/${split_date[0]}-$mod_title1.md
 	
 	# write post
-	echo -e "---\nlayout: post\ndate: $date\ncategories: $category\n---\n\ncontent" >> post_data/${split_date[0]}-$mod_title1.md
+	echo -e "---\n\
+layout: post\n\
+date: $date\n\
+categories: $category\n\
+---\n\n\
+\
+[Article Link]($mod_link1)"\
+>> post_data/${split_date[0]}-$mod_title1.md
 
 	done <"$_db"
 fi

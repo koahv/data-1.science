@@ -1,15 +1,15 @@
 #Input file
-_db="post_data/post.txt"
+_tq="post_data/topic_quantum.txt"
 
 
-# If file exists 
-if [[ -f "$_db" ]]
-then
-	# read file
-	while IFS='|' read -r id date category title link author last_marked
-	do
-	
-	# make each post
+rm post_data/quantum-science.md
+echo -e "---\nlayout: page\n---\n\n" >> post_data/quantum-science.md
+
+
+# read file
+while IFS='|' read -r id date category title link author last_marked
+do
+	# make each topic
 
 	# echo $date $category $title $link $author $last_marked
 
@@ -37,20 +37,12 @@ then
 
 
 	# clear files
-	rm post_data/${split_date[0]}-$mod_title1.md
+	#rm post_data/${split_date[0]}-$mod_title1.md
 	
 	# write post
-	echo -e "---\n\
-layout: post\n\
-date: $date\n\
-categories: $category\n\
----\n\n\
-\
-[Article Link]($mod_link1)"\
->> post_data/${split_date[0]}-$mod_title1.md
+	echo -e "[Article Link]($mod_link1)" >> post_data/quantum-science.md
 
-	done <"$_db"
-fi
+done <"$_tq"
 
 
 

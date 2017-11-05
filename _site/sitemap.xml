@@ -2,15 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>http://localhost:4000/jekyll/update/2017/11/01/welcome-to-jekyll2.html</loc>
-      
-        <lastmod>2017-11-01T12:47:54+00:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/jekyll/update/2017/11/01/welcome-to-jekyll.html</loc>
       
         <lastmod>2017-11-01T12:47:53+00:00</lastmod>
@@ -20,81 +11,234 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/2017/11/01/hello-world.html</loc>
+      <loc>http://localhost:4000/science/2014/06/23/first-medical-x-ray-scanner-heads-for-space-station.html</loc>
       
-        <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/science/2017/10/31/lhc-reaches-2017-targets-ahead-of-schedule.html</loc>
-      
-        <lastmod>2017-10-31T14:20:02+00:00</lastmod>
+        <lastmod>2014-06-23T17:00:00+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2017/10/31/disruptive-bioengineering-changing-the-way-cells-interact-with-each-other.html</loc>
+      <loc>http://localhost:4000/astronomy/2014/06/21/faint-tremors-of-the-big-bang-gravitational-waves-team-concede-possible-error-video.html</loc>
       
-        <lastmod>2017-10-31T13:55:17+00:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/technology/2017/10/31/73-million-trees-to-be-planted-in-largest-reforestation-project-ever.html</loc>
-      
-        <lastmod>2017-10-31T13:47:21+00:00</lastmod>
+        <lastmod>2014-06-21T16:12:24+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2017/10/30/saturn-s-radiation-belts-a-stranger-to-the-solar-wind.html</loc>
+      <loc>http://localhost:4000/astronomy/2014/06/21/richard-dawkins-on-the-origin-of-life-in-the-universe-weekend-feature.html</loc>
       
-        <lastmod>2017-10-30T21:59:52+00:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/science/2017/10/30/proton-antiproton-equivalence-confirmed-by-best-ever-measurement-of-magnetic-moment.html</loc>
-      
-        <lastmod>2017-10-30T12:46:08+00:00</lastmod>
+        <lastmod>2014-06-21T15:41:18+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2017/10/30/genome-research-challenges-previous-understanding-of-the-origin-of-photosynthesis.html</loc>
+      <loc>http://localhost:4000/astronomy/2014/06/20/emergence-of-the-human-super-brain-today-s-most-popular.html</loc>
       
-        <lastmod>2017-10-30T11:08:20+00:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/science/2017/10/29/explorers-will-dive-beneath-antarctic-ice-shelf-looking-for-life.html</loc>
-      
-        <lastmod>2017-10-29T12:30:00+00:00</lastmod>
+        <lastmod>2014-06-20T16:13:33+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/technology/2017/10/29/pumpkin-genomes-sequenced-revealing-uncommon-evolutionary-history.html</loc>
+      <loc>http://localhost:4000/astronomy/2014/06/20/galactic-winds-from-supermassive-black-holes-found-shaping-structure-of-the-universe.html</loc>
       
-        <lastmod>2017-10-29T04:00:00+00:00</lastmod>
+        <lastmod>2014-06-20T15:08:33+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2014/06/20/mountain-top-exploded-to-make-way-for-ghost-telescope.html</loc>
+      
+        <lastmod>2014-06-20T14:56:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2014/06/19/commercial-quantum-computer-still-awaits-ultimate-test.html</loc>
+      
+        <lastmod>2014-06-19T19:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2014/06/19/electrons-magnetic-interactions-isolated-at-long-last.html</loc>
+      
+        <lastmod>2014-06-19T17:00:10+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/19/starbursting-galaxies-played-a-key-role-in-early-epoch-of-the-universe.html</loc>
+      
+        <lastmod>2014-06-19T14:45:34+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2014/06/18/create-the-ultimate-world-clock-with-a-quantum-link.html</loc>
+      
+        <lastmod>2014-06-18T18:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2014/06/18/clingy-dark-matter-may-slow-corpse-star-spins.html</loc>
+      
+        <lastmod>2014-06-18T18:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2014/06/18/entangled-clocks-could-provide-accurate-world-time-standard.html</loc>
+      
+        <lastmod>2014-06-18T16:30:03+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/18/water-building-molecule-found-around-dying-stars-in-helix-and-ring-nebulas.html</loc>
+      
+        <lastmod>2014-06-18T14:31:15+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2014/06/17/qubits-team-up-to-detect-errors.html</loc>
+      
+        <lastmod>2014-06-17T16:50:26+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/17/astronomers-develop-new-spectrum-for-methane-to-identify-signs-of-extraterrestrial-life.html</loc>
+      
+        <lastmod>2014-06-17T15:14:07+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/17/kepler-mission-finds-a-new-world-that-s-not-supposed-to-exist.html</loc>
+      
+        <lastmod>2014-06-17T14:50:02+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/16/gigantic-ring-of-dwarf-galaxies-orbit-andromeda-galaxy-in-an-immense-disk-today-s-most-popular.html</loc>
+      
+        <lastmod>2014-06-16T18:38:49+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/16/observation-of-big-bang-gravity-waves-challenged-serious-flaws-found.html</loc>
+      
+        <lastmod>2014-06-16T18:26:27+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/16/red-dwarf-stars-may-answer-the-question-are-we-alone.html</loc>
+      
+        <lastmod>2014-06-16T17:27:15+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/16/vast-oceans-of-water-may-be-trapped-in-earth-s-interior.html</loc>
+      
+        <lastmod>2014-06-16T15:16:37+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/14/laser-light-may-reveal-presence-of-an-alien-technological-civilization-weekend-feature.html</loc>
+      
+        <lastmod>2014-06-14T19:43:36+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/13/evidence-of-gravitational-waves-points-to-multiple-universes-video.html</loc>
+      
+        <lastmod>2014-06-13T16:48:55+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/13/is-spacetime-a-fluid-leading-physicists-query-today-s-most-popular.html</loc>
+      
+        <lastmod>2014-06-13T16:26:56+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/12/earth-s-moon-made-the-emergence-of-complex-multi-cellular-life-possible.html</loc>
+      
+        <lastmod>2014-06-12T17:43:04+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/11/nasa-as-long-as-alien-life-uses-chemistry-we-ll-have-the-capability-to-find-it-today-s-most-popular.html</loc>
+      
+        <lastmod>2014-06-11T15:19:50+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2014/06/10/100-million-planets-could-harbor-complex-life-in-the-milky-way.html</loc>
+      
+        <lastmod>2014-06-10T04:30:46+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
