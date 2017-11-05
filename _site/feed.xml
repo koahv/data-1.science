@@ -1,4 +1,258 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-05T20:24:05+00:00</updated><id>http://localhost:4000/</id><title type="html">data-1.science</title><subtitle>Science and Technology Articles</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/11/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-11-01T12:47:53+00:00</published><updated>2017-11-01T12:47:53+00:00</updated><id>http://localhost:4000/jekyll/update/2017/11/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/11/01/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-05T21:51:05+00:00</updated><id>http://localhost:4000/</id><title type="html">data-1.science</title><subtitle>Science and Technology Articles</subtitle><entry><title type="html">Quantum Science</title><link href="http://localhost:4000/2017/11/05/quantum-science.html" rel="alternate" type="text/html" title="Quantum Science" /><published>2017-11-05T00:00:00+00:00</published><updated>2017-11-05T00:00:00+00:00</updated><id>http://localhost:4000/2017/11/05/quantum-science</id><content type="html" xml:base="http://localhost:4000/2017/11/05/quantum-science.html">&lt;p&gt;&lt;a href=&quot;http://feeds.newscientist.com/c/749/f/10896/s/3ba2b6ad/sc/4/l/0L0Snewscientist0N0Carticle0Cmg222297420B70A0A0Ecreate0Ethe0Eultimate0Eworld0Eclock0Ewith0Ea0Equantum0Elink0Bhtml0Dcmpid0FRSS0QNSNS0Q20A120EGLOBAL0Qmagcontents/story01.htm&quot;&gt;Create the ultimate world clock with a quantum link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.newscientist.com/c/749/f/10897/s/3bac9756/sc/28/l/0L0Snewscientist0N0Carticle0Cdn25760A0Ecommercial0Equantum0Ecomputer0Estill0Eawaits0Eultimate0Etest0Bhtml0Dcmpid0FRSS0QNSNS0Q20A120EGLOBAL0Qonline0Enews/story01.htm&quot;&gt;Commercial quantum computer still awaits ultimate test&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news322725747.html&quot;&gt;Discovery of pure organic substances exhibiting the quantum spin liquid state&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news322745572.html&quot;&gt;D-Wave and predecessors: From simulated to quantum annealing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.theverge.com/2014/6/23/5836208/microsoft-steps-up-its-quantum-computing-ambitions&quot;&gt;Microsoft steps up its quantum computing ambitions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.spacemart.com/reports/Ultra_thin_wires_for_quantum_computing_999.html&quot;&gt;Ultra-thin wires for quantum computing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.google.com/news/url?sa=t&amp;amp;fd=R&amp;amp;ct2=us&amp;amp;usg=AFQjCNFEqUBDVXQC1FKoWbQSr8RoLvUbcg&amp;amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;amp;cid=52778541927243&amp;amp;ei=rX2pU4ivJ9HzggeWpYHoDg&amp;amp;url=http://phys.org/news/2014-06-physicists-boot-quantum-faster-previously.html&quot;&gt;Physicists find way to boot up quantum computers 72 times faster than … - Phys.Org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.newscientist.com/c/749/f/10896/s/3bdfc336/l/0L0Snewscientist0N0Carticle0Cmg222297530B50A0A0Efirst0Equantum0Etransmission0Esent0Ethrough0Espace0Bhtml0Dcmpid0FRSS0QNSNS0Q20A120EGLOBAL0Qmagcontents/story01.htm&quot;&gt;First quantum transmission sent through space&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news323089137.html&quot;&gt;‘Compressive sensing’ provides new approach to measuring a quantum system&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news323328458.html&quot;&gt;Researchers create quantum dots with single-atom precision&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news323342781.html&quot;&gt;Researchers bounce polarized photons off satellites to show feasibility of space based quantum communications&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.google.com/news/url?sa=t&amp;amp;fd=R&amp;amp;ct2=us&amp;amp;usg=AFQjCNHlAM9RAZ7cvDqBRcGbnsfOgaDIKw&amp;amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;amp;cid=52778536972087&amp;amp;ei=Ci60U7C0E9HzggeDi4HAAw&amp;amp;url=http://phys.org/news/2014-06-pairing-atoms-silicon-quantum.html&quot;&gt;Pairing up single atoms in silicon for quantum computing - Phys.Org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2014-07/isoa-tqd070414.php&quot;&gt;The quantum dance of oxygen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.google.com/news/url?sa=t&amp;amp;fd=R&amp;amp;ct2=us&amp;amp;usg=AFQjCNGtbUT9p3Zcl4v-fV6Yl4Rv6pZPEg&amp;amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;amp;cid=52778557909700&amp;amp;ei=3OTDU9jfHJSUwAGpm4D4Bg&amp;amp;url=http://phys.org/news/2014-07-scientists-track-quantum-errors-real.html&quot;&gt;Scientists track quantum errors in real time - Phys.Org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news324551043.html&quot;&gt;Scientists track quantum errors in real time&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.google.com/news/url?sa=t&amp;amp;fd=R&amp;amp;ct2=us&amp;amp;usg=AFQjCNFlyd3mLsXG2vWCD3TLDbqjskQdyA&amp;amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;amp;cid=52778558189660&amp;amp;ei=lKjEU5D6G5DugAfL5ICoDw&amp;amp;url=http://www.theregister.co.uk/2014/07/15/dwave_breaking_thousandqubit_barrier_with_forthcoming_quantum_system/&quot;&gt;D-Wave to bust 1000-qubit barrier with new quantum compute device - Register&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2014-07/dc-qli072214.php&quot;&gt;Quantum leap in lasers at Dartmouth brightens future for quantum computing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news325255211.html&quot;&gt;Quantum leap in lasers brightens future for quantum computing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2014-07/miop-sfw072314.php&quot;&gt;Scientists find way to maintain quantum entanglement in amplified signals&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2014-07/cu-tqc072814.php&quot;&gt;The quantum Cheshire cat: Scientists separate a particle from its properties&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news326465672.html&quot;&gt;Physicists introduce another quantum animal: The Quantum Pigeon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news326705594.html&quot;&gt;Electrons moving in a magnetic field exhibit strange quantum behavior&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news327243955.html&quot;&gt;Molecular engineers record an electron’s quantum behavior&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news327843860.html&quot;&gt;X-ray laser probes tiny quantum tornadoes in superfluid droplets&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news328158818.html&quot;&gt;Quantum meets classical: Qubit fabricated with integrated micromagnet increases speed of quantum manipulation in silicon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.google.com/news/url?sa=t&amp;amp;fd=R&amp;amp;ct2=us&amp;amp;usg=AFQjCNFdRyRt7iTegdgLsZcoDWpG1D8VSw&amp;amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;amp;cid=52778623315515&amp;amp;ei=vpsyVMjfAqPvwAGetoGICg&amp;amp;url=http://phys.org/news/2014-10-approach-on-chip-quantum.html&quot;&gt;A new approach to on-chip quantum computing - Phys.Org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.google.com/news/url?sa=t&amp;amp;fd=R&amp;amp;ct2=us&amp;amp;usg=AFQjCNHSMfAdWA7oRKq71Rw6KwuorbvA5Q&amp;amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;amp;cid=52778614446505&amp;amp;ei=vpsyVMjfAqPvwAGetoGICg&amp;amp;url=http://www.vox.com/xpress/2014/9/21/6750727/quantum-computing-video&quot;&gt;Watch this cartoon to finally understand quantum computing - Vox&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.newscientist.com/c/749/f/10896/s/3ff502b0/sc/4/l/0L0Snewscientist0N0Carticle0Cmg224299340B20A0A0Ehistoric0Equantum0Esoftware0Eis0Erun0Efor0Ethe0Efirst0Etime0Bhtml0Dcmpid0FRSS0QNSNS0Q20A120EGLOBAL0Qmagcontents/story01.htm&quot;&gt;Historic quantum software is run for the first time&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nanodaily.com/reports/Nanoscale_mirrored_cavities_amplify_connect_quantum_memories_999.html&quot;&gt;Nanoscale mirrored cavities amplify, connect quantum memories&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news342703682.html&quot;&gt;On quantum scales, there are many second laws of thermodynamics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.spacedaily.com/reports/Analogue_quantum_computers_Still_wishful_thinking_999.html&quot;&gt;Analogue quantum computers: Still wishful thinking?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.spacedaily.com/reports/Correlations_of_quantum_particles_help_in_distinguishing_physical_processes_999.html&quot;&gt;Correlations of quantum particles help in distinguishing physical processes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feedproxy.google.com/~r/PhysicsWorld/~3/JO-KA8145-0/two-quantum-properties-teleported-together-for-first-time&quot;&gt;Two quantum properties teleported together for first time&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news344501981.html&quot;&gt;Light, meet matter: Single-photon quantum memory in diamond optical phonons at room temperature&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2015-03/ws-bha032015.php&quot;&gt;Black holes and the dark sector explained by quantum gravity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.sciencedaily.com/~r/sciencedaily/~3/_6zxg0FDV4A/150319143422.htm&quot;&gt;Sharper nanoscopy: What happens when a quantum dot looks in a mirror?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feedproxy.google.com/~r/PhysicsWorld/~3/KfoH0WS60Qg/a-quantum-sense-of-smell&quot;&gt;A quantum sense of smell&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.sciencedaily.com/~r/sciencedaily/~3/JltXEwGVuJs/150324132234.htm&quot;&gt;‘Tipping point’ between quantum and classical worlds identified&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.sciencedaily.com/~r/sciencedaily/~3/7I1b_VkhmFk/150326151603.htm&quot;&gt;Magnetic quantum crystals&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2015-03/iiop-afg032315.php&quot;&gt;A first glimpse inside a macroscopic quantum state&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2015-04/dgo-fqt041015.php&quot;&gt;From quantum, through the big bang, to infinity – how to explain time?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.sciencedaily.com/~r/sciencedaily/~3/uZ8YDm72czo/150410165318.htm&quot;&gt;Electrical control of quantum bits in silicon paves the way to large quantum computers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.spacedaily.com/reports/Electrical_control_of_quantum_bits_in_silicon_paves_the_way_to_large_quantum_computers_999.html&quot;&gt;Control of quantum bits in silicon paves way for large quantum computers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.sciencedaily.com/~r/sciencedaily/~3/kWeTavfPfgI/150505111932.htm&quot;&gt;New chip architecture may provide foundation for quantum computer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news350040441.html&quot;&gt;New chip architecture may provide foundation for quantum computer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.spacedaily.com/reports/New_chip_architecture_may_provide_foundation_for_quantum_computer_999.html&quot;&gt;New chip architecture may provide foundation for quantum computer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.google.com/news/url?sa=t&amp;amp;fd=R&amp;amp;ct2=us&amp;amp;usg=AFQjCNGnd3YRHcXD7v4pBeOFdL-cwj3W3Q&amp;amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;amp;cid=52778823034064&amp;amp;ei=xfNYVfCrAcWQ3gGX5YFw&amp;amp;url=http://www.extremetech.com/extreme/204553-ibm-gets-closer-to-real-quantum-computing&quot;&gt;IBM gets closer to real quantum computing - ExtremeTech&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2015-05/anu-psq052615.php&quot;&gt;Physicists solve quantum tunneling mystery: ANU media release&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2015-05/uot-hsi052715.php&quot;&gt;How spacetime is built by quantum entanglement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.sciencedaily.com/~r/sciencedaily/~3/78m9KcpZfvM/150527103112.htm&quot;&gt;Physicists solve quantum tunneling mystery&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news352002810.html&quot;&gt;Endless oscillations: A theoretical study on quantum systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.sciencedaily.com/~r/sciencedaily/~3/FZ_4DdZTggw/150528124519.htm&quot;&gt;Donuts, math, and superdense teleportation of quantum information&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news354449063.html&quot;&gt;The quantum spin Hall effect is a fundamental property of light&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.google.com/news/url?sa=t&amp;amp;fd=R&amp;amp;ct2=us&amp;amp;usg=AFQjCNGkhjI1gsfEEB09xtI8FJoYdRvfPQ&amp;amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;amp;ei=n9yMVYC1GOq_3AGk26OYDw&amp;amp;url=http://phys.org/news/2015-06-physicists-quantum-coherence-entanglement-sides.html&quot;&gt;Physicists find quantum coherence and quantum entanglement are two sides of … - Phys.Org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.spacedaily.com/reports/New_method_of_quantum_entanglement_packs_vastly_more_data_in_a_photon_999.html&quot;&gt;New method of quantum entanglement packs vastly more data in a photon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news355553075.html&quot;&gt;Training Schrodinger’s cat: Controlling the quantum properties of light&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sciencedaily.com/releases/2015/07/150721162455.htm&quot;&gt;Drawing a line between quantum, classical world&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2015-07-symmetry-quantum-states-disruptions.html&quot;&gt;Enlisting symmetry to protect quantum states from disruptions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sciencedaily.com/releases/2015/08/150828142944.htm&quot;&gt;Seeing quantum motion; even one day ripples in the fabric of space-time?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sciencedaily.com/releases/2015/09/150911224341.htm&quot;&gt;Uniting classical and quantum mechanics: Breakthrough observation of Mott transition in a superconductor&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.google.com/news/url?sa=t&amp;amp;fd=R&amp;amp;ct2=us&amp;amp;usg=AFQjCNF1cIojcER4yuHW849HpYyrLICyZA&amp;amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;amp;ei=sA0AVvCbMMvH3gGI0p34Ag&amp;amp;url=http://www.techcentral.co.za/the-thrilling-future-of-quantum-computing/59931/&quot;&gt;The thrilling future of quantum computing - TechCentral&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://physicsworld.com/cws/article/news/2015/sep/21/could-schrodingers-bacterium-be-placed-in-a-quantum-superposition&quot;&gt;Could ‘Schrödinger’s bacterium’ be placed in a quantum superposition?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2015-09-physicists-distance-quantum-teleportation.html&quot;&gt;Physicists break distance record for quantum teleportation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2015-09-quantum-entanglement-goldilocks-effect.html&quot;&gt;Quantum entanglement: New study predicts a quantum Goldilocks effect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2015-09/s-nwo093015.php&quot;&gt;New way of retaining quantum memories stored in light&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nature.com/articles/srep14873&quot;&gt;The thermodynamic cost of driving quantum systems by their boundaries&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2015-10-quantum-thermodynamics.html&quot;&gt;What is quantum in quantum thermodynamics?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2015-10-physicists-entanglement-untangled-quantum.html&quot;&gt;Physicists have learned how to restore the entanglement of ‘untangled’ quantum light&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2015-10-historic-delft-einstein-god-dice.html&quot;&gt;Historic Delft Experiments tests Einstein’s ‘God does not play dice’ using quantum ‘dice’&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2015-10-universe-weird-landmark-quantum.html&quot;&gt;The universe really is weird, and a landmark quantum experiment proves it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2015-11-physicists-quantum-photons-messages-electrons.html&quot;&gt;Physicists set quantum record by using photons to carry messages from electrons almost 2 kilometers apart&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2015-12-physicists-thermodynamic-irreversibility-quantum.html&quot;&gt;Physicists confirm thermodynamic irreversibility in a quantum system&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://physicsworld.com/cws/article/news/2015/dec/11/double-quantum-teleportation-milestone-is-physics-world-2015-breakthrough-of-the-year&quot;&gt;Double quantum-teleportation milestone is Physics World 2015 Breakthrough of the Year&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2015-12/nios-nat121415.php&quot;&gt;NIST adds to quantum computing toolkit with mixed-atom logic operations&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-01-scientists-quantum-quantum-mechanical-field.html&quot;&gt;Scientists confirm existence of quantum knots and create them in a quantum-mechanical field&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2016-01/vuot-shq012616.php&quot;&gt;Solving hard quantum problems: Everything is connected&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-02-quantum-fridge.html&quot;&gt;The quantum fridge&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-03-features-quantum-mechanics.html&quot;&gt;Two defining features of quantum mechanics never appear together&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-03-physicists-quantum-fredkin-gate.html&quot;&gt;Physicists demonstrate a quantum Fredkin gate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://physicsworld.com/cws/article/news/2016/apr/07/birds-measure-magnetic-fields-using-long-lived-quantum-coherence&quot;&gt;Birds measure magnetic fields using long-lived quantum coherence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-04-physicists-quantify-quantum-weirdness.html&quot;&gt;Physicists quantify the usefulness of ‘quantum weirdness’&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2016-06/cfqt-qst060216.php&quot;&gt;Quantum satellite device tests technology for global quantum network&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2016-06/nios-nsq060116.php&quot;&gt;NIST’s super quantum simulator ‘entangles’ hundreds of ions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2016/06/160613144700.htm&quot;&gt;Light-matter interplay probed: Physicists achieve quantum Hall state with light&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2016/06/160617082309.htm&quot;&gt;Method for detecting quantum entanglement refined&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-06-particle-zoo-quantum-experimental-simulation.html&quot;&gt;Particle zoo in a quantum computer: First experimental quantum simulation of particle physics phenomena&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-06-genetic-algorithms-quantum-simulations.html&quot;&gt;Genetic algorithms can improve quantum simulations&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eurekalert.org/pub_releases/2016-06/miop-rpc062316.php&quot;&gt;Russian physicists create a high-precision ‘quantum ruler’&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-07-blur-line-classical-quantum-physics.html&quot;&gt;Researchers blur the line between classical and quantum physics by connecting chaos and entanglement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-07-scalable-quantum-simulation-molecule.html&quot;&gt;First completely scalable quantum simulation of a molecule&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-07-graphics-quantum-mechanics.html&quot;&gt;Improving computer graphics with quantum mechanics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.newscientist.com/article/2100985-black-hole-made-in-the-lab-shows-signs-of-quantum-entanglement/&quot;&gt;Black hole made in the lab shows signs of quantum entanglement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.newscientist.com/article/2101071-china-launches-worlds-first-quantum-communications-satellite/&quot;&gt;China launches world’s first quantum communications satellite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.thehindu.com/sci-tech/science/what-is-a-quantum-satellite/article9012342.ece?utm_source=RSS_Feed&amp;amp;utm_medium=RSS&amp;amp;utm_campaign=RSS_Syndication&quot;&gt;What is a quantum satellite?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-08-merge-quantum-coupling.html&quot;&gt;Light and matter merge in quantum coupling&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-10-quantum-effects-artificial-intelligence.html&quot;&gt;How quantum effects could improve artificial intelligence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phys.org/news/2016-11-scientists-accurate-quantum-date.html&quot;&gt;Scientists present the most accurate time measurements of quantum jumps to date&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nature.com/articles/npjqi201625?WT.feed_name=subjects_quantum-physics&quot;&gt;Practical challenges in quantum key distribution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eurekalert.org/pub_releases/2016-11/imi-bta111716.php&quot;&gt;Bridging the advances in AI and quantum computing for drug discovery and longevity research&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nature.com/srep/2017/170103/srep39767/full/srep39767.html?WT.feed_name=subjects_quantum-physics&quot;&gt;How a single particle simultaneously modifies the physical reality of two distant others: a quantum nonlocality and weak value study&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-01-cosmologists-closer-quantum-gravity.html&quot;&gt;Cosmologists a step closer to understanding quantum gravity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eurekalert.org/pub_releases/2017-02/uoo-pqc020317.php&quot;&gt;Protecting quantum computing networks against hacking threats&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nature.com/ncomms/2017/170209/ncomms13984/full/ncomms13984.html?WT.feed_name=subjects_quantum-physics&quot;&gt;Chip-based quantum key distribution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eurekalert.org/pub_releases/2017-03/uotb-aii030717.php&quot;&gt;Artificial intelligence in quantum systems, too&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-03-blurred-quantum-world.html&quot;&gt;‘Blurred times’ in a quantum world&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nature.com/news/europe-s-billion-euro-quantum-project-takes-shape-1.21925?WT.feed_name=subjects_quantum-physics&quot;&gt;Europe’s billion-euro quantum project takes shape&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-05-ways-quantum.html&quot;&gt;Five ways quantum computing will change the way we think about computing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-05-materials-quantum-closer-reality.html&quot;&gt;New materials bring quantum computing closer to reality&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2017/05/170510132027.htm&quot;&gt;Physicists find a way to control charged molecules – with quantum logic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eurekalert.org/pub_releases/2017-05/vuot-mft052417.php&quot;&gt;Measured for the first time: Direction of light waves changed by quantum effect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2017/05/170525141541.htm&quot;&gt;Magnetic switch turns strange quantum property on and off&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-05-mystery-quantum.html&quot;&gt;The mystery of quantum computers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2017/05/170526084521.htm&quot;&gt;Toward mass-producible quantum computers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.newscientist.com/article/2134843-chinese-satellite-beats-distance-record-for-quantum-entanglement/?utm_campaign=RSS%7CNSNS&amp;amp;utm_source=NSNS&amp;amp;utm_medium=RSS&amp;amp;utm_content=quantum-science&amp;amp;campaign_id=RSS%7CNSNS-quantum-science&quot;&gt;Chinese satellite beats distance record for quantum entanglement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://physicsworld.com/cws/article/news/2017/jun/16/entanglement-distributed-over-1200-km-by-quantum-satellite&quot;&gt;Entanglement distributed over 1200 km by quantum satellite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-06-quantum-zeno-effect-impacts-schroedinger.html&quot;&gt;How the quantum Zeno effect impacts Schroedinger’s cat&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eurekalert.org/pub_releases/2017-06/uosc-utl062617.php&quot;&gt;USC to lead IARPA quantum computing project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-07-probability-quantum-world-local-realism.html&quot;&gt;Probability that the quantum world obeys local realism is less than one in a billion, experiment shows&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-08-machine-tackles-quantum-error.html&quot;&gt;Machine learning tackles quantum error correction&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-09-blocks-global-quantum-internet.html&quot;&gt;First practical building blocks for a global quantum internet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eurekalert.org/pub_releases/2017-09/uotw-rdq092117.php&quot;&gt;Researchers demonstrate quantum teleportation of patterns of light&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eurekalert.org/pub_releases/2017-09/caos-cbw092717.php&quot;&gt;China builds world’s first space-ground integrated quantum communication network&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-10-d-quantum-gas-atomic-clock.html&quot;&gt;3-D quantum gas atomic clock offers new dimensions in measurement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2017/10/171013091023.htm&quot;&gt;Single photon reveals quantum entanglement of 16 million atoms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-10-quantum-mechanical-analysis-metabolism.html&quot;&gt;Researchers take a step toward quantum mechanical analysis of plant metabolism&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-10-revealing-quantum-statistics-pair-distant.html&quot;&gt;Revealing quantum statistics with a pair of distant atoms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys.org/news/2017-10-physicists-quantum-gravity-current-technology.html&quot;&gt;Physicists propose test of quantum gravity using current technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Create the ultimate world clock with a quantum link</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/11/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-11-01T12:47:53+00:00</published><updated>2017-11-01T12:47:53+00:00</updated><id>http://localhost:4000/jekyll/update/2017/11/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/11/01/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -10,4 +264,4 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">First Medical X Ray Scanner Heads For Space Station</title><link href="http://localhost:4000/science/2014/06/23/first-medical-x-ray-scanner-heads-for-space-station.html" rel="alternate" type="text/html" title="First Medical X Ray Scanner Heads For Space Station" /><published>2014-06-23T17:00:00+01:00</published><updated>2014-06-23T17:00:00+01:00</updated><id>http://localhost:4000/science/2014/06/23/first-medical-x-ray-scanner-heads-for-space-station</id><content type="html" xml:base="http://localhost:4000/science/2014/06/23/first-medical-x-ray-scanner-heads-for-space-station.html">&lt;p&gt;&lt;a href=&quot;http://feeds.newscientist.com/c/749/f/10896/s/3ba2b6b1/sc/14/l/0L0Snewscientist0N0Carticle0Cmg222297430B0A0A0A0Efirst0Emedical0Exray0Escanner0Eheads0Efor0Espace0Estation0Bhtml0Dcmpid0FRSS0QNSNS0Q20A120EGLOBAL0Qmagcontents/story01.htm&quot;&gt;Article Link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Article Link</summary></entry><entry><title type="html">Faint Tremors Of The Big Bang Gravitational Waves Team Concede Possible Error Video</title><link href="http://localhost:4000/astronomy/2014/06/21/faint-tremors-of-the-big-bang-gravitational-waves-team-concede-possible-error-video.html" rel="alternate" type="text/html" title="Faint Tremors Of The Big Bang Gravitational Waves Team Concede Possible Error Video" /><published>2014-06-21T16:12:24+01:00</published><updated>2014-06-21T16:12:24+01:00</updated><id>http://localhost:4000/astronomy/2014/06/21/faint-tremors-of-the-big-bang-gravitational-waves-team-concede-possible-error-video</id><content type="html" xml:base="http://localhost:4000/astronomy/2014/06/21/faint-tremors-of-the-big-bang-gravitational-waves-team-concede-possible-error-video.html">&lt;p&gt;&lt;a href=&quot;http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/pZNUJli-rMg/gravitational-waves-discovers-concede-possible-error.html&quot;&gt;Article Link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Article Link</summary></entry><entry><title type="html">Richard Dawkins On The Origin Of Life In The Universe Weekend Feature</title><link href="http://localhost:4000/astronomy/2014/06/21/richard-dawkins-on-the-origin-of-life-in-the-universe-weekend-feature.html" rel="alternate" type="text/html" title="Richard Dawkins On The Origin Of Life In The Universe Weekend Feature" /><published>2014-06-21T15:41:18+01:00</published><updated>2014-06-21T15:41:18+01:00</updated><id>http://localhost:4000/astronomy/2014/06/21/richard-dawkins-on-the-origin-of-life-in-the-universe-weekend-feature</id><content type="html" xml:base="http://localhost:4000/astronomy/2014/06/21/richard-dawkins-on-the-origin-of-life-in-the-universe-weekend-feature.html">&lt;p&gt;&lt;a href=&quot;http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/DKSdhhatoAA/richard-dawkins-on-the-origin-of-life-in-the-universe.html&quot;&gt;Article Link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Article Link</summary></entry><entry><title type="html">Emergence Of The Human Super Brain Today S Most Popular</title><link href="http://localhost:4000/astronomy/2014/06/20/emergence-of-the-human-super-brain-today-s-most-popular.html" rel="alternate" type="text/html" title="Emergence Of The Human Super Brain Today S Most Popular" /><published>2014-06-20T16:13:33+01:00</published><updated>2014-06-20T16:13:33+01:00</updated><id>http://localhost:4000/astronomy/2014/06/20/emergence-of-the-human-super-brain-today-s-most-popular</id><content type="html" xml:base="http://localhost:4000/astronomy/2014/06/20/emergence-of-the-human-super-brain-today-s-most-popular.html">&lt;p&gt;&lt;a href=&quot;http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/dWTO-_wN40Y/emergence-of-the-human-super-brain-75000-years-ago-todays-most-popular.html&quot;&gt;Article Link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Article Link</summary></entry><entry><title type="html">Galactic Winds From Supermassive Black Holes Found Shaping Structure Of The Universe</title><link href="http://localhost:4000/astronomy/2014/06/20/galactic-winds-from-supermassive-black-holes-found-shaping-structure-of-the-universe.html" rel="alternate" type="text/html" title="Galactic Winds From Supermassive Black Holes Found Shaping Structure Of The Universe" /><published>2014-06-20T15:08:33+01:00</published><updated>2014-06-20T15:08:33+01:00</updated><id>http://localhost:4000/astronomy/2014/06/20/galactic-winds-from-supermassive-black-holes-found-shaping-structure-of-the-universe</id><content type="html" xml:base="http://localhost:4000/astronomy/2014/06/20/galactic-winds-from-supermassive-black-holes-found-shaping-structure-of-the-universe.html">&lt;p&gt;&lt;a href=&quot;http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/7a6d8yQo58s/outflow-of-matter-from-supermassive-black-holes-found-shaping-structure-of-the-universe.html&quot;&gt;Article Link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Article Link</summary></entry><entry><title type="html">Mountain Top Exploded To Make Way For Ghost Telescope</title><link href="http://localhost:4000/science/2014/06/20/mountain-top-exploded-to-make-way-for-ghost-telescope.html" rel="alternate" type="text/html" title="Mountain Top Exploded To Make Way For Ghost Telescope" /><published>2014-06-20T14:56:00+01:00</published><updated>2014-06-20T14:56:00+01:00</updated><id>http://localhost:4000/science/2014/06/20/mountain-top-exploded-to-make-way-for-ghost-telescope</id><content type="html" xml:base="http://localhost:4000/science/2014/06/20/mountain-top-exploded-to-make-way-for-ghost-telescope.html">&lt;p&gt;&lt;a href=&quot;http://feeds.newscientist.com/c/749/f/10897/s/3bb42381/sc/10/l/0L0Snewscientist0N0Carticle0Cdn257650Emountain0Etop0Eexploded0Eto0Emake0Eway0Efor0Eghost0Etelescope0Bhtml0Dcmpid0FRSS0QNSNS0Q20A120EGLOBAL0Qonline0Enews/story01.htm&quot;&gt;Article Link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Article Link</summary></entry><entry><title type="html">Commercial Quantum Computer Still Awaits Ultimate Test</title><link href="http://localhost:4000/science/2014/06/19/commercial-quantum-computer-still-awaits-ultimate-test.html" rel="alternate" type="text/html" title="Commercial Quantum Computer Still Awaits Ultimate Test" /><published>2014-06-19T19:00:00+01:00</published><updated>2014-06-19T19:00:00+01:00</updated><id>http://localhost:4000/science/2014/06/19/commercial-quantum-computer-still-awaits-ultimate-test</id><content type="html" xml:base="http://localhost:4000/science/2014/06/19/commercial-quantum-computer-still-awaits-ultimate-test.html">&lt;p&gt;&lt;a href=&quot;http://feeds.newscientist.com/c/749/f/10897/s/3bac9756/sc/28/l/0L0Snewscientist0N0Carticle0Cdn25760A0Ecommercial0Equantum0Ecomputer0Estill0Eawaits0Eultimate0Etest0Bhtml0Dcmpid0FRSS0QNSNS0Q20A120EGLOBAL0Qonline0Enews/story01.htm&quot;&gt;Article Link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Article Link</summary></entry><entry><title type="html">Electrons Magnetic Interactions Isolated At Long Last</title><link href="http://localhost:4000/science/2014/06/19/electrons-magnetic-interactions-isolated-at-long-last.html" rel="alternate" type="text/html" title="Electrons Magnetic Interactions Isolated At Long Last" /><published>2014-06-19T17:00:10+01:00</published><updated>2014-06-19T17:00:10+01:00</updated><id>http://localhost:4000/science/2014/06/19/electrons-magnetic-interactions-isolated-at-long-last</id><content type="html" xml:base="http://localhost:4000/science/2014/06/19/electrons-magnetic-interactions-isolated-at-long-last.html">&lt;p&gt;&lt;a href=&quot;http://feedproxy.google.com/~r/PhysicsWorld/~3/WhFXtTrIqyE/electrons-magnetic-interactions-isolated-at-long-last&quot;&gt;Article Link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Article Link</summary></entry><entry><title type="html">Starbursting Galaxies Played A Key Role In Early Epoch Of The Universe</title><link href="http://localhost:4000/astronomy/2014/06/19/starbursting-galaxies-played-a-key-role-in-early-epoch-of-the-universe.html" rel="alternate" type="text/html" title="Starbursting Galaxies Played A Key Role In Early Epoch Of The Universe" /><published>2014-06-19T14:45:34+01:00</published><updated>2014-06-19T14:45:34+01:00</updated><id>http://localhost:4000/astronomy/2014/06/19/starbursting-galaxies-played-a-key-role-in-early-epoch-of-the-universe</id><content type="html" xml:base="http://localhost:4000/astronomy/2014/06/19/starbursting-galaxies-played-a-key-role-in-early-epoch-of-the-universe.html">&lt;p&gt;&lt;a href=&quot;http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/Iynv7HWv-UA/dwarf-starbursting-galaxies-played-a-key-role-in-early-epoch-of-the-universe.html&quot;&gt;Article Link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Article Link</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
