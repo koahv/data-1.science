@@ -1,0 +1,52 @@
+Beautiful, Informative Maps of the Moon
+Intel To Make Stephen Hawking's Computer System Open Source
+We can now edit our DNA. But let's do it wisely | Jennifer Doudna
+Formation of coastal sea ice in North Pacific drives ocean circulation and climate
+Debate: Is Technology Making Us Less Human?
+Free (online) Linux training/courses
+
+
+
+1) select two or more words from a title
+2) find all the other titles that contain those two or more words. this creates groups of related data.
+3) 
+
+
+1) find word count frequencies
+2) determine an importance value - a minimum count. assume 2.
+3) group the titles that contain both words for any combination (create a word list of all possibilities)
+4) now there are groupings of related data
+5) the word combinations that return the most titles tell you what kind of topics are more popular or important
+6) correllate the groups: combinations between Pluto and Moon, and Pluto and Atmosphere have a common topic so yeild similar titles. find duplicate words between two related groups?
+
+
+
+1)
+--------\
+| PLUTO >	      ^
+--------/	      |
+		      |(click to add tab)
+		-------------\
+(list of	| ATMOSPHERE >
+ relations)	-------------/
+
+		-------\
+		| MOON >
+		-------/
+
+		-----------\
+		| HORIZONS >
+		-----------/
+
+
+
+
+2)
+--------\	-------------\
+| PLUTO >	| ATMOSPHERE >
+--------/	-------------/
+
+		
+	TITLE1
+	TITLE2
+	TITLE3
