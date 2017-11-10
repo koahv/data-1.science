@@ -28,6 +28,6 @@ sed -i 's/td align/td nowrap align/g' index.html
 
 sed -i 's_^\([^>]\+right">\)\([[:digit:]]\+\)_\1<a href="archive/\2-l.svgz">svgz</a>_' index.html
 
-mv index.html ../index.html
-mv feed.xml ../feed.xml
+mv index.html ../grid/index.html
+mv feed.xml ../grid/feed.xml
 exit
