@@ -1,6 +1,7 @@
+# called from ../run.sh
 #rm words.txt
 #wget http://localhost/words.txt
-sed -i '1d;2d' ../words.txt
+sed -i '1d;2d' word_cloud/words.txt
 
 
 function wordfrequency() {
