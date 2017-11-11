@@ -20,5 +20,5 @@ function wordfrequency() {
 
 rm wordcount.txt
 cat words.txt | wordfrequency > wordcount.txt
-sh txt2cloud.sh -m3 words.txt > cloud.xhtml
+sh word_cloud/txt2cloud.sh -m3 words.txt > cloud.xhtml
 mv cloud.xhtml ../cloud.xhtml
