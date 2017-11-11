@@ -5,11 +5,11 @@ time sh locate.sh
 echo shell:index.sh
 time sh index.sh
 
-echo mv:words.txt
-mv words.txt ../gird/word/
+#echo mv:words.txt
+#mv words.txt ../gird/word/
 
 echo shell:words.sh
-sh ../grid/word/words.sh
+sh word_cloud/words.sh
 
 cd ..
 git pull

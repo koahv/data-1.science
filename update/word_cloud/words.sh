@@ -1,6 +1,6 @@
-rm words.txt
+#rm words.txt
 #wget http://localhost/words.txt
-sed -i '1d;2d' words.txt
+sed -i '1d;2d' ../words.txt
 
 
 function wordfrequency() {
@@ -18,5 +18,6 @@ function wordfrequency() {
 }
 
 rm wordcount.txt
-cat words.txt | wordfrequency > wordcount.txt
-sh txt2cloud.sh -m3 words.txt > cloud.xhtml
+cat ../words.txt | wordfrequency > wordcount.txt
+sh txt2cloud.sh -m3 ../words.txt > cloud.xhtml
+mv cloud.xhtml ../../cloud.xhtml

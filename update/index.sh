@@ -12,7 +12,7 @@ sed -i '1s/^/<HTML>\n<HEAD>\n<TITLE>data-1.science<\/TITLE>\n<meta charset="UTF-
 
 sed -i 's/<table border="1">/<table border="0" id="example" class="display"><thead>/g' index.html
 
-echo \<a href=\/word\/cloud.xhtml\>\<font size=\"2\"\>Word Cloud\<\/font\>\<\/a\> \| \<a href=\/feed.xml\>\<font size=\"2\"\>RSS\/Atom\<\/font\>\<\/a\>  >> index.html
+echo \<a href=https:\/\/data-1.science\/cloud.xhtml\>\<font size=\"2\"\>Word Cloud\<\/font\>\<\/a\> \| \<a href=\/feed.xml\>\<font size=\"2\"\>RSS\/Atom\<\/font\>\<\/a\>  >> index.html
 
 #echo \<a href=/word/coud.xhtml\>\<font size=\"2\"\>info\<\/font\>\<\/a\> \|  >> index.html
 
