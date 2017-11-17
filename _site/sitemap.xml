@@ -11,9 +11,27 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/linux/2017/11/06/improve-your-bash-sh-shell-script-with-shellcheck-lint-script-analysis-tool.html</loc>
+      
+        <lastmod>2017-11-06T09:47:05+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/2017/11/05/quantum-science.html</loc>
       
         <lastmod>2017-11-05T00:00:00+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/technology/2017/11/03/you-can-now-explore-all-19-of-south-africa-s-national-parks-on-google-maps.html</loc>
+      
+        <lastmod>2017-11-03T17:59:29+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -248,6 +266,15 @@
       <loc>http://localhost:4000/science/2017/10/25/bill-gates-humanity-will-see-its-last-case-of-polio-this-year.html</loc>
       
         <lastmod>2017-10-25T23:01:42+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/25/we-are-officially-sending-a-habitat-to-orbit-the-moon.html</loc>
+      
+        <lastmod>2017-10-25T22:51:09+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -1208,6 +1235,15 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/science/2017/10/12/3-d-packaging-of-dna-regulates-cell-identity.html</loc>
+      
+        <lastmod>2017-10-12T20:01:53+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/science/2017/10/12/satellites-map-photosynthesis-at-high-resolution.html</loc>
       
         <lastmod>2017-10-12T19:34:07+01:00</lastmod>
@@ -1220,6 +1256,15 @@
       <loc>http://localhost:4000/science/2017/10/12/spotting-the-spin-of-the-majorana-fermion-under-the-microscope.html</loc>
       
         <lastmod>2017-10-12T19:33:34+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/12/biology-study-suggests-father-s-nutrition-before-sex-could-contribute-to-health-of-baby.html</loc>
+      
+        <lastmod>2017-10-12T17:52:41+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -1288,6 +1333,672 @@
       <priority>1.0</priority>
     </url>
   
+    <url>
+      <loc>http://localhost:4000/open/source/2017/10/12/5-benefits-of-contributing-to-open-source-projects.html</loc>
+      
+        <lastmod>2017-10-12T08:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/linux/2017/10/11/nvidia-releases-linux-graphics-debugger-2-2.html</loc>
+      
+        <lastmod>2017-10-11T22:56:36+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/11/brain-chemical-abnormalities-in-earliest-stage-of-psychosis-identified.html</loc>
+      
+        <lastmod>2017-10-11T17:03:39+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/11/researchers-discuss-the-future-impact-of-today-s-nanotech-research.html</loc>
+      
+        <lastmod>2017-10-11T14:03:44+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/11/designing-drugs-aimed-at-a-different-part-of-life-s-code.html</loc>
+      
+        <lastmod>2017-10-11T13:12:35+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/11/how-machine-learning-can-predict-and-prevent-disruptions-in-reactors.html</loc>
+      
+        <lastmod>2017-10-11T12:11:32+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/11/artificial-intelligence-computer-designed-to-drive-autonomous-cars.html</loc>
+      
+        <lastmod>2017-10-11T11:49:44+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/11/intel-presents-17-qubit-superconducting-chip-with-advanced-packaging.html</loc>
+      
+        <lastmod>2017-10-11T11:48:31+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/linux/2017/10/11/what-is-devops-an-executive-guide-to-agile-development-and-it-operations.html</loc>
+      
+        <lastmod>2017-10-11T00:41:54+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/10/new-breast-cancer-drug-defeats-the-ras-genes-notorious-for-causing-many-types-of-cancer.html</loc>
+      
+        <lastmod>2017-10-10T20:28:57+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/10/sequencing-test-enables-precise-identification-of-drug-resistant-tb.html</loc>
+      
+        <lastmod>2017-10-10T18:39:27+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/10/growing-human-brain-cells-in-the-lab.html</loc>
+      
+        <lastmod>2017-10-10T18:39:12+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/10/oxytocin-and-breastfeeding-elucidation-of-a-molecular-mechanism.html</loc>
+      
+        <lastmod>2017-10-10T16:46:11+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/10/major-breakthrough-identifies-new-mechanism-for-the-development-of-schizophrenia.html</loc>
+      
+        <lastmod>2017-10-10T15:56:29+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/10/fossil-find-pushes-back-date-of-earliest-fused-bones-in-birds-by-40-million-years.html</loc>
+      
+        <lastmod>2017-10-10T13:45:55+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/linux/2017/10/10/building-an-open-standard-for-distributed-messaging-introducing-openmessaging.html</loc>
+      
+        <lastmod>2017-10-10T11:20:36+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/10/pest-resistance-to-biotech-crops-surging.html</loc>
+      
+        <lastmod>2017-10-10T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/10/how-the-cone-snail-s-deadly-venom-can-help-us-build-better-medicines.html</loc>
+      
+        <lastmod>2017-10-10T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/10/evolution-the-beneficiaries-of-mass-extinction.html</loc>
+      
+        <lastmod>2017-10-10T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/linux/2017/10/10/2017-red-hat-government-symposium-to-highlight-the-role-of-open-source-in-meeting-the-challenges-of-government-it.html</loc>
+      
+        <lastmod>2017-10-10T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/09/human-brain-recalls-visual-features-in-reverse-order-than-it-detects-them.html</loc>
+      
+        <lastmod>2017-10-09T20:49:46+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/09/novel-treatment-causes-cancer-to-self-destruct-without-affecting-healthy-cells.html</loc>
+      
+        <lastmod>2017-10-09T17:39:06+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/09/molecular-basis-for-memory-and-learning-brain-development-and-plasticity-share-similar-signalling-pathways.html</loc>
+      
+        <lastmod>2017-10-09T14:32:07+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/linux/2017/10/09/what-the-data-says-about-how-linux-kernel-developers-collaborate.html</loc>
+      
+        <lastmod>2017-10-09T13:59:40+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/09/how-brain-cells-die-in-alzheimer-s-and-ftd.html</loc>
+      
+        <lastmod>2017-10-09T13:43:57+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/09/nanoparticles-that-stick-wounds-together.html</loc>
+      
+        <lastmod>2017-10-09T13:40:06+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/linux/2017/10/09/10-layers-of-linux-container-security.html</loc>
+      
+        <lastmod>2017-10-09T12:30:36+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/09/atlas-experiment-studies-fragments-of-the-top-quark.html</loc>
+      
+        <lastmod>2017-10-09T11:39:42+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/09/japan-scientists-grow-drugs-in-chicken-eggs.html</loc>
+      
+        <lastmod>2017-10-09T08:02:46+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/technology/2017/10/09/watch-out-brain-network-calculates-impact-of-approaching-object.html</loc>
+      
+        <lastmod>2017-10-09T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/09/uta-bioengineer-to-collaborate-with-utsw-to-improve-neonatal-brain-monitoring.html</loc>
+      
+        <lastmod>2017-10-09T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/09/rit-to-develop-hybrid-biological-cell-separations-technology-for-lab-on-chip-devices.html</loc>
+      
+        <lastmod>2017-10-09T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/09/bacteria-self-organize-to-build-working-sensors.html</loc>
+      
+        <lastmod>2017-10-09T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/06/physicists-engineers-to-build-next-generation-mri-brain-scanner.html</loc>
+      
+        <lastmod>2017-10-06T21:00:55+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/06/plant-cells-survive-but-stop-dividing-upon-dna-damage.html</loc>
+      
+        <lastmod>2017-10-06T15:18:17+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/technology/2017/10/06/osha-others-create-new-industrial-robotics-standards-body.html</loc>
+      
+        <lastmod>2017-10-06T15:05:34+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/06/engineers-invent-breakthrough-millimeter-wave-circulator-ic.html</loc>
+      
+        <lastmod>2017-10-06T13:59:19+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/05/better-genetic-decoding-of-neurodevelopmental-disorders.html</loc>
+      
+        <lastmod>2017-10-05T19:17:54+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/05/3-d-quantum-gas-atomic-clock-offers-new-dimensions-in-measurement.html</loc>
+      
+        <lastmod>2017-10-05T19:00:05+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/technology/2017/10/05/report-solar-power-is-the-fastest-growing-source-of-new-energy.html</loc>
+      
+        <lastmod>2017-10-05T12:53:12+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2017/10/05/colourful-dunes-on-wind-swept-mars.html</loc>
+      
+        <lastmod>2017-10-05T10:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/05/scientists-enlist-supercomputers-machine-learning-to-automatically-identify-brain-tumors.html</loc>
+      
+        <lastmod>2017-10-05T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/05/new-neandertal-and-archaic-human-genomes-advance-our-understanding-of-human-evolution.html</loc>
+      
+        <lastmod>2017-10-05T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/04/alphabet-s-deepmind-forms-ethics-unit-for-artificial-intelligence.html</loc>
+      
+        <lastmod>2017-10-04T16:05:20+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/04/a-new-brain-computer-interface-for-music-composition.html</loc>
+      
+        <lastmod>2017-10-04T13:50:01+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/04/studying-bumblebees-to-learn-more-about-human-intelligence-and-memory.html</loc>
+      
+        <lastmod>2017-10-04T13:30:02+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/04/okinawan-pit-viper-genome-reveals-evolution-of-snake-venom.html</loc>
+      
+        <lastmod>2017-10-04T13:30:01+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2017/10/04/sputnik-1-celebrating-60-years-of-spaceflight.html</loc>
+      
+        <lastmod>2017-10-04T07:10:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/04/scientists-identify-a-possible-therapeutic-target-for-regulating-body-weight.html</loc>
+      
+        <lastmod>2017-10-04T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/04/new-nanomaterial-can-extract-hydrogen-fuel-from-seawater.html</loc>
+      
+        <lastmod>2017-10-04T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/04/nasa-s-webb-telescope-to-witness-galactic-infancy.html</loc>
+      
+        <lastmod>2017-10-04T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/04/alma-and-rosetta-detect-freon-40-in-space.html</loc>
+      
+        <lastmod>2017-10-04T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2017/10/03/2017-nobel-goes-to-gravitational-waves.html</loc>
+      
+        <lastmod>2017-10-03T23:05:45+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/03/explainer-why-gravitational-wave-researchers-won-a-nobel.html</loc>
+      
+        <lastmod>2017-10-03T20:40:02+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/earth/2017/10/03/how-the-squid-lost-its-shell.html</loc>
+      
+        <lastmod>2017-10-03T18:54:49+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/10/03/a-new-way-to-produce-clean-hydrogen-fuel-from-water-using-sunlight.html</loc>
+      
+        <lastmod>2017-10-03T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/linux/2017/10/01/nasa-s-eyes-is-still-being-ported-to-linux.html</loc>
+      
+        <lastmod>2017-10-01T12:26:37+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/09/30/first-open-access-data-from-large-collider-confirm-subatomic-particle-patterns.html</loc>
+      
+        <lastmod>2017-09-30T11:16:04+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/09/29/bioreactors-on-a-chip-renew-promises-for-algal-biofuels.html</loc>
+      
+        <lastmod>2017-09-29T16:02:42+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2017/09/29/elon-musk-s-new-plans-for-a-moon-base-and-a-mars-mission-by-2022.html</loc>
+      
+        <lastmod>2017-09-29T08:15:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2017/09/29/gravitational-waves-first-joint-ligo-virgo-detection.html</loc>
+      
+        <lastmod>2017-09-29T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/09/29/china-builds-world-s-first-space-ground-integrated-quantum-communication-network.html</loc>
+      
+        <lastmod>2017-09-29T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/09/27/ligo-and-virgo-observatories-detect-gravitational-wave-signals-from-black-hole-collision.html</loc>
+      
+        <lastmod>2017-09-27T17:30:01+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/open/source/2017/09/27/7-best-practices-for-giving-a-conference-talk.html</loc>
+      
+        <lastmod>2017-09-27T08:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/09/26/gene-circuit-design-strategy-to-advance-synthetic-biology.html</loc>
+      
+        <lastmod>2017-09-26T21:23:03+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/09/26/biochemists-discover-mechanism-that-helps-flu-viruses-evolve.html</loc>
+      
+        <lastmod>2017-09-26T16:20:12+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2017/09/26/preparing-to-fly-sentinel-5p.html</loc>
+      
+        <lastmod>2017-09-26T12:15:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/linux/2017/09/26/mastering-file-searches-on-linux.html</loc>
+      
+        <lastmod>2017-09-26T10:07:40+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/09/25/physicists-create-and-measure-quantized-mechanical-oscillations.html</loc>
+      
+        <lastmod>2017-09-25T16:07:16+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/linux/2017/09/25/1-4-million-new-phishing-sites-launched-each-month.html</loc>
+      
+        <lastmod>2017-09-25T11:17:54+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2017/09/25/ever-changing-view.html</loc>
+      
+        <lastmod>2017-09-25T08:30:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/open/source/2017/09/25/using-machine-learning-to-name-colors.html</loc>
+      
+        <lastmod>2017-09-25T08:02:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/technology/2017/09/24/how-aerial-thermal-imagery-is-revolutionizing-archaeology.html</loc>
+      
+        <lastmod>2017-09-24T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/linux/2017/09/23/spaceborne-linux-supercomputer-starts-running-in-space-achieves-1-teraflop-speed.html</loc>
+      
+        <lastmod>2017-09-23T09:44:17+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
   
     
   
@@ -1310,6 +2021,22 @@
         <changefreq></changefreq>
         <priority></priority>
        </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
     
   
     

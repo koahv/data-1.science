@@ -4,4 +4,4 @@ date:  2017-10-26 18:27:31
 categories:  Science     
 ---
 
-[Article Link](https://futurism.com/darpas-new-brain-device-increases-learning-speed-by-40/)
+[Article Link](https://futurism.com/darpas-new-brain-device-increases-learning-speed-by-40/)Tags: hard science,brain stimulation,memory,mental health,neurobiology

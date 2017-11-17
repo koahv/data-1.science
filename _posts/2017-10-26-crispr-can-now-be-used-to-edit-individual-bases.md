@@ -4,4 +4,4 @@ date:  2017-10-26 18:12:11
 categories:  Science     
 ---
 
-[Article Link](https://futurism.com/crispr-can-now-be-used-to-edit-individual-bases/)
+[Article Link](https://futurism.com/crispr-can-now-be-used-to-edit-individual-bases/)Tags: health & medicine,crispr,dna,human genome,rna

@@ -6,12 +6,12 @@ _db="post_data/post.txt"
 if [[ -f "$_db" ]]
 then
 	# read file
-	while IFS='|' read -r id date category title link author last_marked
+	while IFS='|' read -r id date category title link author last_marked tags snippet
 	do
 	
 	# make each post
 
-	# echo $date $category $title $link $author $last_marked
+	# echo $date $category $title $link $author $last_marked $tags
 
 	# split date and time into two vars
 	split_date=($date)
@@ -46,7 +46,9 @@ date: $date\n\
 categories: $category\n\
 ---\n\n\
 \
-[Article Link]($mod_link1)"\
+[Article Link]($mod_link1)"\n\
+Snippet:\n\n$snippet
+Tags: $tags\
 >> post_data/${split_date[0]}-$mod_title1.md
 
 	done <"$_db"
