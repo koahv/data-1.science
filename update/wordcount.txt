@@ -1,14 +1,14 @@
-4406 
-1227 the
-1161 of
-745 to
+4409 
+1228 the
+1162 of
+746 to
 653 in
-629 s
-442 a
+630 s
+443 a
 438 for
 411 and
 371 new
-307 on
+308 on
 281 how
 216 is
 208 quantum
@@ -19,7 +19,7 @@
 181 space
 156 earth
 147 brain
-143 with
+144 with
 142 what
 137 scientists
 131 world
@@ -37,7 +37,7 @@
  89 magnetic
  89 light
  88 dna
- 87 are
+ 88 are
  83 energy
  82 time
  82 source
@@ -46,15 +46,15 @@
  79 million
  77 dark
  76 an
- 73 can
+ 74 can
  72 mission
  68 more
  68 matter
  67 system
  67 may
  66 into
+ 64 moon
  64 be
- 63 moon
  62 reveals
  62 as
  61 year
@@ -68,9 +68,9 @@
  55 it
  55 climate
  54 most
+ 53 we
  53 could
  52 will
- 52 we
  52 than
  52 spacecraft
  52 humans
@@ -131,7 +131,7 @@
  35 early
  35 discover
  35 computer
- 33 your
+ 34 your
  33 wind
  33 red
  33 hubble
@@ -145,10 +145,10 @@
  32 between
  31 x
  31 physics
+ 31 now
  31 next
  31 large
  31 editing
- 30 now
  30 evolved
  29 us
  29 understanding
@@ -182,6 +182,7 @@
  26 find
  26 evidence
  26 ever
+ 25 tool
  25 their
  25 technology
  25 structure
@@ -194,7 +195,6 @@
  25 comet
  25 chip
  25 breakthrough
- 24 tool
  24 times
  24 plant
  24 out
@@ -237,6 +237,7 @@
  21 disease
  21 complex
  21 com
+ 21 all
  20 was
  20 stars
  20 show
@@ -246,7 +247,7 @@
  20 giant
  20 galaxy
  20 clues
- 20 all
+ 19 you
  19 when
  19 t
  19 state
@@ -261,13 +262,13 @@
  19 commands
  19 closer
  19 atoms
- 18 you
  18 watch
  18 three
  18 supercomputer
  18 percent
  18 origin
  18 modern
+ 18 maps
  18 made
  18 hadron
  18 grow
@@ -290,7 +291,6 @@
  17 rare
  17 powered
  17 planets
- 17 maps
  17 liftoff
  17 last
  17 information
@@ -363,6 +363,7 @@
  14 people
  14 past
  14 other
+ 14 orbit
  14 neutrino
  14 network
  14 mysterious
@@ -400,7 +401,6 @@
  13 patterns
  13 org
  13 orbiter
- 13 orbit
  13 offers
  13 mass
  13 mapping
@@ -411,9 +411,12 @@
  13 known
  13 just
  13 internet
+ 13 improve
+ 13 google
  13 gas
  13 force
  13 extreme
+ 13 explore
  13 electric
  13 earliest
  13 drive
@@ -449,11 +452,8 @@
  12 io
  12 infographic
  12 india
- 12 improve
- 12 google
  12 goes
  12 fast
- 12 explore
  12 encrypt
  12 electrons
  12 efficient
@@ -529,6 +529,7 @@
  11 behind
  11 bang
  11 away
+ 11 analysis
  11 amazon
  11 alzheimer
  11 against
@@ -585,7 +586,6 @@
  10 biggest
  10 bees
  10 b
- 10 analysis
  10 advanced
   9 within
   9 wayland
@@ -607,6 +607,7 @@
   9 storage
   9 still
   9 steps
+  9 south
   9 sources
   9 silicon
   9 sheds
@@ -659,6 +660,7 @@
   9 biology
   9 atlas
   9 ancestors
+  9 africa
   9 adds
   8 yields
   8 works
@@ -682,12 +684,12 @@
   8 stable
   8 spot
   8 spin
-  8 south
   8 soil
   8 smallest
   8 site
   8 signal
   8 side
+  8 shell
   8 self
   8 rocket
   8 resistance
@@ -701,6 +703,7 @@
   8 phase
   8 osiris
   8 organisms
+  8 officially
   8 nuclear
   8 never
   8 nearly
@@ -761,7 +764,6 @@
   8 approach
   8 applications
   8 ants
-  8 africa
   8 advances
   8 achieves
   8 access
@@ -792,7 +794,6 @@
   7 simulation
   7 significant
   7 signals
-  7 shell
   7 share
   7 secret
   7 russian
@@ -817,7 +818,6 @@
   7 performance
   7 paves
   7 opens
-  7 officially
   7 neural
   7 needs
   7 monitoring
@@ -1043,6 +1043,7 @@
   6 belts
   6 begin
   6 battery
+  6 bash
   6 bad
   6 available
   6 australia
@@ -1258,7 +1259,6 @@
   5 bigger
   5 belt
   5 beautiful
-  5 bash
   5 aws
   5 atmospheric
   5 area
@@ -1465,6 +1465,7 @@
   4 hear
   4 healing
   4 habits
+  4 habitat
   4 groundwater
   4 grep
   4 god
@@ -1691,6 +1692,7 @@
   3 sequenced
   3 sequence
   3 sensors
+  3 sending
   3 selected
   3 seeks
   3 seeds
@@ -1698,6 +1700,7 @@
   3 secure
   3 seawater
   3 seas
+  3 script
   3 scientist
   3 scales
   3 saharan
@@ -1781,6 +1784,7 @@
   3 neutral
   3 nebula
   3 nears
+  3 national
   3 nanostructures
   3 named
   3 name
@@ -1882,7 +1886,6 @@
   3 helping
   3 hand
   3 hall
-  3 habitat
   3 habitable
   3 groups
   3 group
@@ -2313,7 +2316,6 @@
   2 sensitivity
   2 sensing
   2 senses
-  2 sending
   2 selects
   2 selection
   2 secretly
@@ -2518,7 +2520,6 @@
   2 neandertal
   2 ndtv
   2 native
-  2 national
   2 nanotechnology
   2 nanoparticles
   2 my
@@ -3837,6 +3838,7 @@
   1 shifter
   1 shells
   1 shellfish
+  1 shellcheck
   1 shelf
   1 sheet
   1 shatters
@@ -3848,6 +3850,7 @@
   1 shallow
   1 shale
   1 shaking
+  1 sh
   1 sexy
   1 sextant
   1 several
@@ -3896,7 +3899,6 @@
   1 sdo
   1 sdn
   1 scriptreplay
-  1 script
   1 scripps
   1 screening
   1 screenfetch
@@ -4399,6 +4401,7 @@
   1 parsing
   1 parrots
   1 parliament
+  1 parks
   1 paris
   1 paraplegic
   1 paralysis
@@ -4827,6 +4830,7 @@
   1 listening
   1 lipoic
   1 linuxcon
+  1 lint
   1 linguists
   1 lineages
   1 lineage

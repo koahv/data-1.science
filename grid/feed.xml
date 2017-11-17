@@ -4,11 +4,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-06-22T04:00:00+00:00</updated>
+<updated>2017-08-15T08:30:56+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-10-25:/444931</id>
+	<link href="https://futurism.com/we-are-officially-sending-a-habitat-to-orbit-the-moon/" rel="alternate" type="text/html"/>
+	<title type="html">We Are Officially Sending a Habitat to Orbit the Moon</title>
+	<summary type="html"><![CDATA[<p>Establishing a Lunar Habitat
+Now that the United States is officially getting back into space explor...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Establishing a Lunar Habitat</h2>
+<p>Now that the United States is officially getting back into space exploration, the Moon now seems to be the focus &mdash; or at least the starting point &mdash; of a lot of plans involving space travel. The Trump administration <a href="https://futurism.com/the-u-s-officially-says-they-are-sending-humans-to-the-moon/?src=featured" target="_blank" rel="noopener noreferrer">has redirected NASA&rsquo;s priorities</a> to settling on our lunar neighbor before Mars, and SpaceX CEO Elon Musk has said the<a href="https://futurism.com/elon-musk-is-officially-sending-humans-to-mars-in-2024/" target="_blank" rel="noopener noreferrer">&nbsp;BFR project</a> will be a key factor in creating a lunar base.</p>
+<p>To continue the trend, Bigelow Aerospace and the United Launch Alliance (ULA) announced last week they would be collaborating to design an inflatable habitat. The habitat would be launched into space by the end of 2022, and eventually function as a lunar depot. <a href="http://bigelowaerospace.com/" target="_blank" rel="noopener noreferrer">Bigelow Aerospace</a> is designing two B330 expandable modules, while ULA is providing the Vulcan 562 configuration rocket that will carry the module into low Earth orbit. A single B330 is roughly one-third the volume of the International Space Station.</p>
+<p></p>
+<p>After the Vulcan rocket brings the B330 into low Earth orbit, it will inflate, and Bigelow will outfit it with additional equipment and put it through a series of tests. Once it&rsquo;s fully up and running, additional launches will be carried out to provide 35 tons of cryogenic propellant to the module. It will then be maneuvered into its final location: low lunar orbit.</p>
+<p>&ldquo;We are excited to work with ULA on this lunar depot project,&rdquo; said Bigelow Aerospace president Robert Bigelow in a statement. &ldquo;Our lunar depot plan is a strong complement to other plans intended to eventually put people on Mars. It will provide NASA and America with an exciting and financially practical success opportunity that can be accomplished in the short term. This lunar depot could be deployed easily by 2022 to support the nation&rsquo;s re-energized plans for returning to the Moon.&rdquo;</p>
+<h2>Other Countries Heading to the Moon</h2>
+<p>The United States isn&rsquo;t the only country that has plans for the moon. Russia and China are set to sign <a href="https://futurism.com/russia-and-china-to-sign-a-multi-year-space-exploration-deal/" target="_blank" rel="noopener noreferrer">a multi-year space exploration deal</a> that covers lunar and deep space exploration, and Russia is <a href="https://futurism.com/russia-confirms-participation-in-nasas-deep-space-gateway-project/" target="_blank" rel="noopener noreferrer">working with NASA on the Deep Space Gateway project</a> to build a lunar space station.</p>
+<p>Earlier this year, the China National Space Administration (CNSA) and the European Space Agency (ESA) expressed a desire <a href="https://futurism.com/china-and-europe-may-build-a-moon-village-in-the-2020s/" target="_blank" rel="noopener noreferrer">to work together on an international lunar base</a>, or a &ldquo;moon village,&rdquo; by 2020.</p>
+<p></p>
+<p>&ldquo;The Chinese have a very ambitious moon program already in place,&rdquo; said Pal A. Hvistendahl, ESA&rsquo;s head of media relations, at the time. &ldquo;Space has changed since the space race of the &rsquo;60s. We recognize that to explore space for peaceful purposes, we do [need] international cooperation.&rdquo;</p>
+<p>It&rsquo;s been quite some time since humanity saw the Moon as a worthwhile place to venture to. Regardless of who manages to do it first, it&rsquo;s an exciting time for space travel.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/we-are-officially-sending-a-habitat-to-orbit-the-moon/" target="_blank">We Are Officially Sending a Habitat to Orbit the Moon</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-10-25T21:51:09+00:00</updated>
+	<author><name>Kyree Leary</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-10-25T21:51:09+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="off world"/>
+
+	<category term="lunar habitat"/>
+
+	<category term="moon"/>
+
+	<category term="space"/>
+
+	<category term="space exploration"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-03:/448989</id>
+	<link href="https://inhabitat.com/you-can-now-explore-all-19-of-south-africas-national-parks-on-google-maps" rel="alternate" type="text/html"/>
+	<title type="html">You can now explore all 19 of South Africa's National Parks on Google Maps</title>
+	<summary type="html"><![CDATA[<p>Have you ever wanted to walk in the footsteps of Nelson Mandela, track cheetahs on foot, or stroll ...</p>]]></summary>
+	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/11/Explore-South-Africas-National-Parks-with-Google-Maps-1-889x406.jpg" alt="Google Maps, South Africa, National Parks, Nature Reserves, Conservation, Exploration, Hiking, Nature, Outdoors, "></p>
+<p>Have you ever wanted to <a href="https://www.google.com/maps/@-29.4681918,30.1703826,2a,75y,228.21h,95.64t/data=!3m6!1e1!3m4!1sizWlQwYx7n4Zl8MLaEFvUw!2e0!7i13312!8i6656" rel="noopener noreferrer" target="_blank">walk in the footsteps of Nelson Mandela</a>, <a href="https://www.google.com/maps/@-32.102144,25.4173855,3a,23.8y,139.73h,110.13t/data=!3m6!1e1!3m4!1suSAzqx67c2rI4AtkKJdRQg!2e0!7i13312!8i6656" rel="noopener noreferrer" target="_blank">track cheetahs on foot</a>, or stroll with elephants &mdash; and other exotic creatures &mdash; in <a href="https://inhabitat.com/tag/South-Africa" rel="noopener noreferrer" target="_blank">South Africa</a>? Well, here&rsquo;s your chance. Thanks to the efforts of over 200 volunteers, now you can use <a href="https://inhabitat.com/tag/Google-Maps" rel="noopener noreferrer" target="_blank">Google Maps</a> to explore 19 National Parks, 17 nature reserves, and many other sites of natural, cultural and historical significance in South Africa.</p>
+<p></p>
+<p>More than 200 nature-loving South Africans volunteered to map out parts of the country they call home. Many of the helpers were rangers and guides with <a href="https://www.sanparks.org/" rel="noopener noreferrer" target="_blank">SANParks</a>, <a href="http://www.capenature.co.za/" rel="noopener noreferrer" target="_blank">CapeNature</a> and <a href="http://www.kznwildlife.com/" rel="noopener noreferrer" target="_blank">KZN Ezemvelo Wildlife</a>. Others were just good Samaritans, tech enthusiasts and avid <a href="https://inhabitat.com/tag/hiking" rel="noopener noreferrer" target="_blank">hikers</a> who want to make a difference. Over the span of twelve months, the volunteers trekked over 50,000km to establish 232 points of interest.</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/11/Explore-South-Africas-National-Parks-with-Google-Maps-1-889x406.jpg" alt="Google Maps, South Africa, National Parks, Nature Reserves, Conservation, Exploration, Hiking, Nature, Outdoors, "></p>
+<p>Said Magdalena Filak, Program Manager for Google, &ldquo;The hundreds of volunteers who helped along the way proved to be truly passionate about showing the best of South Africa through their participation in the loan program.&rdquo; The <a href="https://www.google.com/streetview/loan/" rel="noopener noreferrer" target="_blank">Google Street View Camera Loan</a> program encourages anyone to borrow the 360-degree camera technology to help the <a href="https://inhabitat.com/tag/Earth" rel="noopener noreferrer" target="_blank">planet</a>. Reportedly, this is the first time Google has partnered with a third-party for the program.</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/11/Explore-South-Africas-National-Parks-with-Google-Maps-3-889x556.jpg" alt="Google Maps, South Africa, National Parks, Nature Reserves, Conservation, Exploration, Hiking, Nature, Outdoors, "></p>
+<p><a href="https://www.drivesouthafrica.com/" rel="noopener noreferrer" target="_blank">Drive South Africa</a> played a big role in coordinating the <a href="https://inhabitat.com/tag/volunteering" rel="noopener noreferrer" target="_blank">volunteers</a>. Andre Van Kets, an outdoor enthusiast and the founder of the <a href="https://inhabitat.com/tag/Cape-Town" rel="noopener noreferrer" target="_blank">Cape Town</a>-based company, explained the technology: &ldquo;The Trekker camera is a 22kg custom-made backpack fitted with 15 cameras pointing in all directions. The on-board technology plots the camera&rsquo;s exact location on the trail. While recording, the camera takes a 360-degree photo every two-seconds. It&rsquo;s basically the off-road equivalent of Google&rsquo;s Street View cars.&rdquo; Kets added that he saw &ldquo;potential in this technology to showcase South Africa to travellers around the globe&rdquo; when he applied.</p>
+<p><a href="https://inhabitat.com/thousands-of-plastic-bottles-transformed-into-an-inspiring-tower-of-hope-in-south-africa/" rel="noopener noreferrer" target="_blank">Related: Thousands of plastic bottles transformed into an inspiring tower of hope in South Africa</a></p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/11/Explore-South-Africas-National-Parks-with-Google-Maps-2-889x598.jpg" alt="Google Maps, South Africa, National Parks, Nature Reserves, Conservation, Exploration, Hiking, Nature, Outdoors, "></p>
+<p>In addition to mapping over two hundred points of interest, volunteers mapped eight UNESCO World Heritage Sites. Users can also see <a href="https://www.google.com/maps/@-22.2138856,29.386949,3a,75y,68.02h,86.4t/data=!3m6!1e1!3m4!1sPXnvkba2tetLrlxAdnFjGQ!2e0!7i13312!8i6656" rel="noopener noreferrer" target="_blank">Mapungubwe Hill</a>, which is home to an ancient African civilization, the <a href="https://www.google.com/maps/@-28.1337718,16.9107854,3a,75y,191.17h,89.73t/data=!3m6!1e1!3m4!1sVxjsP55XcPr4gZ2P226WOw!2e0!7i13312!8i6656" rel="noopener noreferrer" target="_blank">Richtersveld</a> that is known for its incredible moonscapes, and <a href="https://www.google.com/maps/@-27.6689539,32.3168609,2a,75y,87.58h,72.84t/data=!3m9!1e1!3m7!1sTdz5axKc6LNslQd14tCIRQ!2e0!7i13312!8i6656!9m2!1b1!2i25" rel="noopener noreferrer" target="_blank">iSimangaliso Wetland Park</a>, South Africa&rsquo;s oldest UNESCO site which serves as a critical habitat for many <a href="https://inhabitat.com/tag/biodiversity" rel="noopener noreferrer" target="_blank">species</a>.</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/11/Explore-South-Africas-National-Parks-with-Google-Maps-5-889x556.jpg" alt="Google Maps, South Africa, National Parks, Nature Reserves, Conservation, Exploration, Hiking, Nature, Outdoors, "></p>
+<p>The response has been overwhelmingly positive. Dennis Wood of Ezemvelo KZN Wildlife said, &ldquo;As the proud conservation authority for KwaZulu-Natal, Ezemvelo KZN Wildlife are excited to be partnered with Google&rsquo; new initiative in exposing our <a href="https://inhabitat.com/tag/national-parks" rel="noopener noreferrer" target="_blank">trails</a> on this global platform that we believe will engage our prospective guests to &ldquo;Take time to Discover&rdquo; our province&rsquo;s rich natural beauty and <a href="https://inhabitat.com/tag/conservation" rel="noopener noreferrer" target="_blank">conservation</a> wildlife heritage.&rdquo;</p>
+<p><img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/11/Explore-South-Africas-National-Parks-with-Google-Maps-6-889x556.jpg" alt="Google Maps, South Africa, National Parks, Nature Reserves, Conservation, Exploration, Hiking, Nature, Outdoors, "></p>
+<p><big><a href="https://www.google.com/streetview/loan/" rel="noopener noreferrer" target="_blank">+ Google Street View Loan Program</a></big></p>
+<p><em>Images via <a href="https://photos.google.com/share/AF1QipPq7zlSbKRPhmnlXg2i4AhmdC8oRtR6AMrtdXnx_yTOv9wKpwn38ahISxbW5hFa4A?key=RDRfRmVtZjcxTlBkNjc3TzlQUWcxUnZVM1JEWHpn" rel="noopener noreferrer" target="_blank">Google Maps</a></em></p><div>
+<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=NDpVaH1_hpY:du8HjmNaIII:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=NDpVaH1_hpY:du8HjmNaIII:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
+</div>]]></content>
+	<updated>2017-11-03T17:59:29+00:00</updated>
+	<author><name>Amanda Froelich</name></author>
+	<source>
+		<id>https://inhabitat.com</id>
+		<link rel="self" href="https://inhabitat.com"/>
+		<updated>2017-11-03T17:59:29+00:00</updated>
+		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
+
+	<category term="south africa"/>
+
+	<category term="conservation"/>
+
+	<category term="green technology"/>
+
+	<category term="innovation"/>
+
+	<category term="earth"/>
+
+	<category term="google"/>
+
+	<category term="cape town"/>
+
+	<category term="national parks"/>
+
+	<category term="google maps"/>
+
+	<category term="science"/>
+
+	<category term="biodiversity"/>
+
+	<category term="news"/>
+
+	<category term="hiking"/>
+
+	<category term="volunteering"/>
+
+	<category term="things to do"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-06:/449608</id>
+	<link href="https://www.cyberciti.biz/programming/improve-your-bashsh-shell-script-with-shellcheck-lint-script-analysis-tool/" rel="alternate" type="text/html"/>
+	<title type="html">Improve your bash/sh shell script with ShellCheck lint script analysis tool</title>
+	<summary type="html"><![CDATA[<p>ShellCheck is a static analysis tool for shell scripts. One can use it to finds bugs in your shell s...</p>]]></summary>
+	<content type="html"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml"><span>S</span>hellCheck is a static analysis tool for shell scripts. One can use it to finds bugs in your shell scripts. It is written in Haskell. You can find warnings and suggestions for bash/sh shell scripts with this tool. Let us see how to install and use ShellCheck on a Linux or Unix-like system to enhance your shell scripts, avoid errors and productivity.</div>]]></content>
+	<updated>2017-11-06T09:47:05+00:00</updated>
+	<author><name>Vivek Gite</name></author>
+	<source>
+		<id>http://feeds.cyberciti.biz/</id>
+		<link rel="self" href="http://feeds.cyberciti.biz/"/>
+		<updated>2017-11-06T09:47:05+00:00</updated>
+		<title>nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format</title></source>
+
+	<category term="command line hacks"/>
+
+	<category term="howto"/>
+
+	<category term="programming"/>
+
+	<category term="debian linux"/>
+
+	<category term="freebsd"/>
+
+	<category term="linux"/>
+
+	<category term="macos"/>
+
+	<category term="os x"/>
+
+	<category term="sysadmin"/>
+
+	<category term="ubuntu"/>
+
+	<category term="unix"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-10-31:/447154</id>
@@ -1658,57 +1801,6 @@ On July 4th, 2012, researchers&nbsp;from&nbsp;the European Organization for Nucl
 		<link rel="self" href="https://www.linux.com/feeds/rss"/>
 		<updated>2017-08-15T08:30:56+00:00</updated>
 		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-22:/403520</id>
-	<link href="https://www.linux.com/news/viewing-linux-output-columns" rel="alternate" type="text/html"/>
-	<title type="html">Viewing Linux Output in Columns</title>
-	<summary type="html"><![CDATA[<p>The Linux column command makes it easy to display data in a columnar format -- often making it easie...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>The Linux column command makes it easy to display data in a columnar format -- often making it easier to view, digest, or incorporate into a report. While column is a command that's simple to use, it has some very useful options that are worth considering. In the examples in this post, you will get a feel for how the command works and how you can get it to format data in the most useful ways.</p></div></div></div>]]></content>
-	<updated>2017-06-22T08:30:29+00:00</updated>
-	<author><name>Network World</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-06-22T08:30:29+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-07-11:/408672</id>
-	<link href="https://www.redhat.com/en/about/press-releases/red-hat-introduces-next-generation-openshift-online-public-cloud-offering" rel="alternate" type="text/html"/>
-	<title type="html">Red Hat Introduces Next Generation of OpenShift Online Public Cloud Offering</title>
-	<summary type="html"><![CDATA[<p>Red Hat brings its public cloud offering, OpenShift Online, to the same Linux containers- and Kubern...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Red Hat brings its public cloud offering, OpenShift Online, to the same Linux containers- and Kubernetes-based foundation as OpenShift Container Platform.</p>]]></content>
-	<updated>2017-07-11T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.redhat.com/en/rss/press-releases</id>
-		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
-		<updated>2017-07-11T04:00:00+00:00</updated>
-		<title>Red Hat Press Releases</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-06-22:/403511</id>
-	<link href="https://www.redhat.com/en/about/press-releases/british-army-migrates-cloud-infrastructure-red-hat-solutions" rel="alternate" type="text/html"/>
-	<title type="html">British Army Migrates Cloud Infrastructure to Red Hat Solutions</title>
-	<summary type="html"><![CDATA[<p>&nbsp;With the new Ansible automation-based system, the Army has accelerated its pace of change by 75 per...</p>]]></summary>
-	<content type="html"><![CDATA[<p>&nbsp;With the new Ansible automation-based system, the Army has accelerated its pace of change by 75 percent. Upgrades that used to take a day can now be achieved with high availability in less than two hours, and can be scheduled after hours. Emergency patches that used to take approximately three days can be implemented in a matter of hours. Overall, delivering changes is now four times faster, on average, based on the British Army&rsquo;s internal calculations.</p>]]></content>
-	<updated>2017-06-22T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.redhat.com/en/rss/press-releases</id>
-		<link rel="self" href="https://www.redhat.com/en/rss/press-releases"/>
-		<updated>2017-06-22T04:00:00+00:00</updated>
-		<title>Red Hat Press Releases</title></source>
 
 
 </entry>
