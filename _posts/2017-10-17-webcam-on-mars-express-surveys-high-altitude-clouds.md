@@ -1,7 +1,0 @@
----
-layout: post
-date:  2017-10-17 09:00:00 
-categories:  Astronomy   
----
-
-[Article Link](http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Webcam_on_Mars_Express_surveys_high-altitude_clouds)Tags:

@@ -35,6 +35,11 @@ then
 
 	mod_link1="$(echo -e "${link}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
 
+	mod_snippet1="$(echo -e "${snippet}" | sed -e 's/<[^>]*>//g')"
+
+
+
+
 
 	# clear files
 	rm post_data/${split_date[0]}-$mod_title1.md
@@ -46,9 +51,9 @@ date: $date\n\
 categories: $category\n\
 ---\n\n\
 \
-[Article Link]($mod_link1)"\n\
-Snippet:\n\n$snippet
-Tags: $tags\
+[Article Link]($mod_link1)\n\n\
+\> $mod_snippet1\n\n\
+Tags: $tags"\
 >> post_data/${split_date[0]}-$mod_title1.md
 
 	done <"$_db"
