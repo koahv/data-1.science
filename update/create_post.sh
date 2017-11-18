@@ -45,16 +45,7 @@ then
 	rm post_data/${split_date[0]}-$mod_title1.md
 	
 	# write post
-	echo -e "---\n\
-layout: post\n\
-date: $date\n\
-categories: $category\n\
----\n\n\
-\
-[Article Link]($mod_link1)\n\n\
-\> $mod_snippet1\n\n\
-Tags: $tags"\
->> post_data/${split_date[0]}-$mod_title1.md
+	echo -e "---\nlayout: post\ndate: $date\ncategories: $category\n---\n\n>$mod_snippet1\n\n>Tags - $tags\n\n[Visit Link]($mod_link1)" >> post_data/${split_date[0]}-$mod_title1.md
 
 	done <"$_db"
 fi
