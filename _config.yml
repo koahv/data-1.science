@@ -32,14 +32,16 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-seo-tag
 future: true
 
 paginate: 10
 paginate_path: "/page/:num/"
 
 header_pages: 
-  - about.md
+  - search.md
   - Grid.md
+# - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

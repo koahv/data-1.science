@@ -537,11 +537,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #006400;
+  color: #000;
   text-decoration: none; }
 
 a:visited {
-  color: #000; }
+  color: #006400; }
 
 a:hover {
   color: #111;
@@ -593,8 +593,8 @@ pre > code {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  max-width: 60%;
+  /**max-width: calc(800px - (30px * 2));*/
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
