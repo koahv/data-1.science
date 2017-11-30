@@ -26,7 +26,7 @@ then
 	# echo $mod_title1
 	
 	# remove leading and trailing whitespaces
-	mod_title2="$(echo -e "${title}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
+	mod_title2="$(echo -e "${title}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' | tr -d '"')"
 	
 	# create character friendly title
 	mod_title3="$(echo -e "${mod_title2}" | iconv -t ascii//TRANSLIT | sed -r s/[^a-zA-Z0-9]+/\ /g | sed -r s/^-+\|-+$//g)"
@@ -38,14 +38,17 @@ then
 	mod_snippet1="$(echo -e "${snippet}" | sed -e 's/<[^>]*>//g')"
 
 
-
+	if [[ -z "${author// }" ]]
+	then
+		author="unknown author"
+	fi
 
 
 	# clear files
 	rm post_data/${split_date[0]}-$mod_title1.md
 	
 	# write post
-	echo -e "---\nlayout: post\ndate: $date\ncategories: $category\n---\n\n>$mod_snippet1\n\n>Tags - $tags\n\n[Visit Link]($mod_link1)" >> post_data/${split_date[0]}-$mod_title1.md
+	echo -e "---\nlayout: post\ntitle: \"$mod_title2\"\ndate: $date\ncategories: $category\nauthor: $author\ntags: $tags\n---\n\n\n>$mod_snippet1\n\n[Visit Link]($mod_link1)" >> post_data/${split_date[0]}-$mod_title1.md
 
 	done <"$_db"
 fi

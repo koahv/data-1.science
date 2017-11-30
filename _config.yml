@@ -35,7 +35,7 @@ plugins:
   - jekyll-seo-tag
 future: true
 
-paginate: 10
+paginate: 50
 paginate_path: "/page/:num/"
 
 header_pages: 
