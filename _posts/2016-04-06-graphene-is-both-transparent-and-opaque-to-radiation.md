@@ -11,3 +11,5 @@ tags:
 > (Ecole Polytechnique Fédérale de Lausanne) A microchip that filters out unwanted radiation with the help of graphene has been developed by scientists from the EPFL and tested by researchers of the University of Geneva (UNIGE). The invention could be used in future devices to transmit wireless data ten times faster.
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/epfd-gib040516.php)
+
+id:  270953 

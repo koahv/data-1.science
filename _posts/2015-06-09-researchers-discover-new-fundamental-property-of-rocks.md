@@ -11,3 +11,5 @@ tags:  earth
 > The discovery of a new fundamental rock property will improve estimates of underground resources, such as hydrocarbons and drinking water, as well as CO₂ storage reservoir capacity.
 
 [Visit Link](http://phys.org/news353058311.html)
+
+id:  136137 

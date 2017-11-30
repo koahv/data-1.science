@@ -11,3 +11,5 @@ tags:
 > An important new factor behind one of the major causes of blindness has been discovered by scientists, which they hope could lead to new treatments. Age-related Macular Degeneration (AMD) is the major cause of blindness in the western world, affecting around 50 million people. It has been shown that sufferers are genetically predisposed to develop the condition.
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/IMwWQxRHkII/141114085839.htm)
+
+id:   62124 

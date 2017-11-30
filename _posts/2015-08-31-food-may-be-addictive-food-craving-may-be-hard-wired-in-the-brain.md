@@ -11,3 +11,5 @@ tags:
 > An international group of researchers have found that food craving activates different brain networks between obese and normal weight patients. This indicates that the tendency to want food may be ‘hard-wired’ into the brain of overweight patients, becoming a functional brain biomarker. 
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150831001121.htm)
+
+id:  176817 

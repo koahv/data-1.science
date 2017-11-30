@@ -11,3 +11,5 @@ tags:  earth
 > Eleven places in the world – 10 of which are in the tropics – will account for over 80 per cent of forest loss globally by 2030, according to research released today by WWF.
 
 [Visit Link](http://phys.org/news349426248.html)
+
+id:  115363 

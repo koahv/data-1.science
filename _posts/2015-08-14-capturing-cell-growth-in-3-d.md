@@ -11,3 +11,5 @@ tags:  biotechnology
 > Replicating how cancer and other cells interact in the body is somewhat difficult in the lab. Biologists generally culture one cell type in plastic plates, which doesn't represent the dynamic cell interactions within living organisms.
 
 [Visit Link](http://phys.org/news/2015-08-capturing-cell-growth-d.html)
+
+id:  169475 

@@ -11,3 +11,5 @@ tags:
 > Hawking and two colleagues propose that information isn't destroyed at the heart of a black hole; it's stored at the black hole's boundary in holographic form.
 
 [Visit Link](http://www.livescience.com/51980-stephen-hawking-black-hole-mystery.html)
+
+id:  175075 

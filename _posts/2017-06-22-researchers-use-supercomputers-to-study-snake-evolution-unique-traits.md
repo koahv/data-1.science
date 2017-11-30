@@ -11,3 +11,5 @@ tags:  biotechnology
 > Evolution takes eons, but it leaves marks on the genomes of organisms that can be detected with DNA sequencing and analysis.
 
 [Visit Link](https://phys.org/news/2017-06-supercomputers-snake-evolution-unique-traits.html)
+
+id:  403500 

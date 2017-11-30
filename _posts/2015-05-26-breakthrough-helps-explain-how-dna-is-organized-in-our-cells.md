@@ -11,3 +11,5 @@ tags:  biology
 > A team of researchers at the IRCM led by François Robert, PhD, uncovered a critical role for two proteins in chromatin structure. Their breakthrough, recently published in the scientific journal Molecular Cell, helps explain how DNA is organized in our cells. This discovery could lead to a better understanding of what causes certain types of cancer, such as lymphoma.
 
 [Visit Link](http://phys.org/news351859510.html)
+
+id:  128756 

@@ -11,3 +11,5 @@ tags:
 > Despite the much-anticipated depletion of public IPv4 addresses, adoption of network address translation (NAT) has led most enterprises to continue using IPv4 both internally and at the internet edge.
 
 [Visit Link](https://www.linux.com/news/ipv6-transition-quick-guide)
+
+id:  359210 

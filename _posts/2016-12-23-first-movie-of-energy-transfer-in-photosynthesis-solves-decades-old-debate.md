@@ -11,3 +11,5 @@ tags:  materials science
 > Using ultrafast imaging of moving energy in photosynthesis, scientists have determined the speed of crucial processes for the first time.
 
 [Visit Link](http://phys.org/news/2016-12-movie-energy-photosynthesis-decades-old-debate.html)
+
+id:  351969 

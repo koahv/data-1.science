@@ -11,3 +11,5 @@ tags:  environment
 > Cambodia's prime minister has ordered a million hectares of forest be included in protected zones as the country faces one of the world's fastest deforestation rates.
 
 [Visit Link](http://phys.org/news/2016-04-cambodia-million-hectares-forest.html)
+
+id:  279823 

@@ -11,3 +11,5 @@ tags:  physics
 > Recently physicists at Chapman University's Institute for Quantum Studies introduced the Quantum Cheshire Cat. Now they have introduced another quantum animal: the Quantum Pigeon.
 
 [Visit Link](http://phys.org/news326465672.html)
+
+id:   32567 

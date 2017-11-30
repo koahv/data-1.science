@@ -11,3 +11,5 @@ tags:  space exploration
 > Demanding electric, magnetic and power requirements, harsh radiation, and strict planetary protection rules are some of the critical issues that had to be tackled in order to move ESA's Jupiter Icy Moons Explorer – Juice – from the drawing board and into construction.
 
 [Visit Link](https://phys.org/news/2017-03-esa-jupiter-mission-board.html)
+
+id:  375065 

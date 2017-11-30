@@ -11,3 +11,5 @@ tags:
 > Title:&nbsp;Basic Rules to Streamline Open Source Compliance For Software Development22 FebLearn more
 
 [Visit Link](https://www.linux.com/blog/learn/compliance/2017/2/basic-rules-streamline-open-source-compliance-software-development)
+
+id:  368044 

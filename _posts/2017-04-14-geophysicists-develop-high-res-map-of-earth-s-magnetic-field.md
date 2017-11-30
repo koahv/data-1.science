@@ -11,3 +11,5 @@ tags:  earth sciences
 > A University of Kentucky geophysicist is helping an international team of scientists reveal dramatic new information about the Earth's magnetic field.
 
 [Visit Link](https://phys.org/news/2017-04-geophysicists-high-res-earth-magnetic-field.html)
+
+id:  383673 

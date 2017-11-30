@@ -11,3 +11,5 @@ tags:  cell & microbiology
 > The Human Cell Atlas (HCA) Consortium has released a blueprint for the international initiative's efforts to create a comprehensive reference map of all human cells, a project that will form the basis for a deeper understanding of human health and for diagnosing, monitoring, and treating disease.
 
 [Visit Link](https://phys.org/news/2017-10-international-human-cell-atlas-publishes.html)
+
+id:  441313 

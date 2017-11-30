@@ -11,3 +11,5 @@ tags:  linux commands,linux tricks
 > In this article, we will briefly talk about ports in computer networking and move to how you can list all open ports in Linux. In computer networking, and more definitely in software terms, a&#46;&#46;&#46;
 
 [Visit Link](http://www.tecmint.com/find-open-ports-in-linux/)
+
+id:  338098 

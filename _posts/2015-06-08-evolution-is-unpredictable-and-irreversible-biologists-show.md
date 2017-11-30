@@ -11,3 +11,5 @@ tags:  biology
 > Evolutionary theorist Stephen Jay Gould is famous for describing the evolution of humans and other conscious beings as a chance accident of history. If we could go back millions of years and "run the tape of life again," he mused, evolution would follow a different path.
 
 [Visit Link](http://phys.org/news353002893.html)
+
+id:  135757 

@@ -11,3 +11,5 @@ tags:
 > (Terry Collins Assoc) UNEP report: Global investments in renewable energy rebounded strongly last year, registering a solid 17 percent increase after two years of declines and brushing aside the challenge from sharply lower crude oil prices.
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/tca-rrg033015.php)
+
+id:  102826 

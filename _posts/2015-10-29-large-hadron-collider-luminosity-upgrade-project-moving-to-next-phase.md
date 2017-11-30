@@ -11,3 +11,5 @@ tags:  general physics
 > This week more than 230 scientists and engineers from around the world met at CERN to discuss the High-Luminosity LHC – a major upgrade to the Large Hadron Collider (LHC) that will increase the accelerator's discovery potential from 2025.
 
 [Visit Link](http://phys.org/news/2015-10-large-hadron-collider-luminosity-phase.html)
+
+id:  204596 

@@ -11,3 +11,5 @@ tags:
 > “As an instrument for selecting at random, I have found nothing superior to dice,” wrote statistician Francis Galton in an 1890 issue of Nature.
 
 [Visit Link](https://www.linux.com/news/brief-history-random-numbers)
+
+id:  379500 

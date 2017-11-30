@@ -11,3 +11,5 @@ tags:
 > Physicists explain how to bring a famous thought experiment to life
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/sep/21/could-schrodingers-bacterium-be-placed-in-a-quantum-superposition)
+
+id:  187246 

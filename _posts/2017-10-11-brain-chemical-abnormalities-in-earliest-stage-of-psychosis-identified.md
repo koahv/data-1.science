@@ -11,3 +11,5 @@ tags:
 > A new study of young people experiencing a first episode of psychosis reports elevations in the brain chemicals glutamate and glycine. 
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171011120339.htm)
+
+id:  437846 

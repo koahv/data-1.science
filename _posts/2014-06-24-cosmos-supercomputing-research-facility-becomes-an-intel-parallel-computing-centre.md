@@ -11,3 +11,5 @@ tags:  technology
 > Cambridge's COSMOS supercomputer, the largest shared-memory computer in Europe, has been named by computer giant Intel as one of its Parallel Computing Centres, building on a long-standing collaboration between Intel and the University of Cambridge.
 
 [Visit Link](http://phys.org/news322806960.html)
+
+id:    4062 

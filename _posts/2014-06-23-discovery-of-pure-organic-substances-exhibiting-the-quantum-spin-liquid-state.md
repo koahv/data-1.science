@@ -11,3 +11,5 @@ tags:  physics
 > Researchers at the University of Tokyo and Japan's National Institute for Materials Science have discovered pure organic substances exhibiting the quantum spin liquid state.
 
 [Visit Link](http://phys.org/news322725747.html)
+
+id:    2499 

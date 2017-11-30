@@ -11,3 +11,5 @@ tags:  archaeology & fossils
 > A new species of fungus gnat in Indian amber closely resembles its fossil relatives from Europe, disproving the concept of a strongly isolated Indian subcontinent.
 
 [Visit Link](https://phys.org/news/2017-05-flies-insect-fossils-amber-india.html)
+
+id:  393216 

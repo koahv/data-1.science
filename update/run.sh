@@ -12,7 +12,7 @@ echo shell:words.sh
 sh word_cloud/words.sh
 
 cd ..
-git pull
+#git pull
 git add .
 git commit -m "update"
 git push

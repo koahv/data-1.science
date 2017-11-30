@@ -11,3 +11,5 @@ tags:  space exploration
 > Japanese whisky will be sent into space next month to test how time in a zero-gravity environment affects its flavour, one of the country's biggest drinks makers said Friday.
 
 [Visit Link](http://phys.org/news/2015-07-japanese-firm-mature-whisky-space.html)
+
+id:  163167 

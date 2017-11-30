@@ -11,3 +11,5 @@ tags:  astronomy & space
 > A new kind of spacecraft that sails on sunlight has just been successfully deployed above Earth. The LightSail satellite yesterday overcame a series of glitches to unfurl its solar sails, a propulsion system that's entirely different to traditional rockets, thrusters or even solar panels.
 
 [Visit Link](http://phys.org/news353310334.html)
+
+id:  138214 

@@ -11,3 +11,5 @@ tags:
 > There's a lot of buzz lately about learning to program.
 
 [Visit Link](https://www.linux.com/news/how-get-started-learning-program-0)
+
+id:  387224 

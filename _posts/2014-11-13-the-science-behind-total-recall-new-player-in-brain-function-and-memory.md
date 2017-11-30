@@ -11,3 +11,5 @@ tags:
 > Is it possible to change the amount of information the brain can store? Maybe, according to a new international study. The research has identified a molecule that puts a brake on brain processing and when removed, brain function and memory recall is improved.
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/v62bjKT5eH8/141113152916.htm)
+
+id:   62147 

@@ -11,3 +11,5 @@ tags:
 > The bats use the way the sun's light is scattered in the atmosphere at sunset to calibrate their internal magnetic compass, which helps them to fly in the right direction, a new study has shown.
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/URk4Tzy0pfQ/140722111838.htm)
+
+id:   25694 

@@ -11,3 +11,5 @@ tags:
 > Calculations suggest memory and learning could be mimicked by quasiparticles
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/jan/31/magnetic-skyrmions-could-help-make-low-energy-artificial-brains)
+
+id:  361664 

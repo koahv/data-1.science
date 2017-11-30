@@ -1,12 +1,12 @@
-4425 
+4430 
 1236 the
-1166 of
-747 to
-656 in
+1169 of
+748 to
+658 in
 631 s
 447 a
 439 for
-412 and
+414 and
 372 new
 310 on
 283 how
@@ -14,12 +14,12 @@
 208 quantum
 191 nasa
 190 from
-186 first
+187 first
 182 linux
 181 space
 157 earth
 148 brain
-146 with
+147 with
 142 what
 138 scientists
 131 world
@@ -29,8 +29,8 @@
 114 years
 108 evolution
 107 study
-102 researchers
- 99 by
+103 researchers
+100 by
  94 that
  91 light
  90 solar
@@ -40,8 +40,8 @@
  88 dna
  84 energy
  83 time
+ 83 life
  82 source
- 82 life
  79 universe
  79 million
  77 dark
@@ -72,10 +72,10 @@
  53 will
  53 spacecraft
  53 could
+ 53 ancient
  52 than
  52 humans
  52 data
- 52 ancient
  51 waves
  51 genome
  49 using
@@ -94,10 +94,10 @@
  43 image
  43 high
  43 have
+ 43 global
  43 discovered
  42 planet
  42 history
- 42 global
  42 genetic
  42 discovery
  42 about
@@ -154,6 +154,7 @@
  29 understanding
  29 through
  29 make
+ 29 experiment
  29 d
  29 atmosphere
  28 test
@@ -162,13 +163,13 @@
  28 long
  28 intelligence
  28 has
- 28 experiment
  28 engineering
  28 ago
  27 wave
  27 two
  27 molecular
  27 ice
+ 27 find
  27 cell
  27 before
  27 back
@@ -180,7 +181,6 @@
  26 help
  26 genes
  26 finds
- 26 find
  26 evidence
  26 ever
  25 tool
@@ -196,7 +196,9 @@
  25 comet
  25 chip
  25 breakthrough
+ 25 birds
  24 times
+ 24 species
  24 plant
  24 out
  24 oceans
@@ -205,11 +207,9 @@
  24 mercury
  24 key
  24 hole
- 24 birds
  24 best
  23 video
  23 top
- 23 species
  23 security
  23 news
  23 horizons
@@ -242,6 +242,7 @@
  20 was
  20 stars
  20 show
+ 20 percent
  20 nature
  20 model
  20 living
@@ -253,7 +254,6 @@
  19 when
  19 t
  19 state
- 19 percent
  19 oldest
  19 memory
  19 international
@@ -304,6 +304,7 @@
  17 core
  17 control
  17 code
+ 17 brings
  17 beyond
  17 based
  17 animal
@@ -313,6 +314,7 @@
  16 set
  16 search
  16 ray
+ 16 oxygen
  16 neanderthals
  16 learn
  16 identify
@@ -324,7 +326,6 @@
  16 does
  16 different
  16 build
- 16 brings
  16 bird
  16 begins
  15 webb
@@ -337,7 +338,6 @@
  15 results
  15 resolution
  15 released
- 15 oxygen
  15 origins
  15 milky
  15 line
@@ -391,6 +391,7 @@
  13 work
  13 unique
  13 technique
+ 13 synthetic
  13 support
  13 supercomputers
  13 successfully
@@ -436,7 +437,6 @@
  12 used
  12 third
  12 things
- 12 synthetic
  12 strong
  12 stem
  12 see
@@ -490,6 +490,7 @@
  11 satellites
  11 rover
  11 role
+ 11 report
  11 repair
  11 releases
  11 rays
@@ -547,7 +548,6 @@
  10 same
  10 revolutionary
  10 revolution
- 10 report
  10 release
  10 reality
  10 properties
@@ -589,6 +589,7 @@
  10 close
  10 clean
  10 built
+ 10 biology
  10 biggest
  10 bees
  10 b
@@ -660,7 +661,6 @@
   9 ceres
   9 cassini
   9 captures
-  9 biology
   9 atlas
   9 ancestors
   9 africa
@@ -718,6 +718,7 @@
   8 major
   8 mail
   8 lunar
+  8 links
   8 linked
   8 keep
   8 increases
@@ -742,6 +743,7 @@
   8 environmental
   8 electrical
   8 el
+  8 down
   8 disorders
   8 detecting
   8 detail
@@ -834,7 +836,6 @@
   7 mammals
   7 lost
   7 linus
-  7 links
   7 lightning
   7 led
   7 lead
@@ -869,7 +870,6 @@
   7 environment
   7 eat
   7 drives
-  7 down
   7 disk
   7 discoveries
   7 difference
@@ -933,6 +933,7 @@
   6 studying
   6 stop
   6 spaceflight
+  6 snakes
   6 smell
   6 skull
   6 simulations
@@ -1029,6 +1030,7 @@
   6 consumption
   6 construction
   6 conditions
+  6 comprehensive
   6 clear
   6 classical
   6 cave
@@ -1099,7 +1101,6 @@
   5 solved
   5 society
   5 social
-  5 snakes
   5 skills
   5 since
   5 sharks
@@ -1110,6 +1111,8 @@
   5 save
   5 robots
   5 road
+  5 risks
+  5 rise
   5 ring
   5 right
   5 rewrite
@@ -1163,6 +1166,7 @@
   5 man
   5 mammal
   5 magnetism
+  5 loss
   5 local
   5 liquid
   5 lines
@@ -1243,7 +1247,6 @@
   5 controlling
   5 container
   5 confirmed
-  5 comprehensive
   5 composition
   5 complexity
   5 complete
@@ -1277,6 +1280,7 @@
   4 worms
   4 wormhole
   4 won
+  4 wild
   4 were
   4 walking
   4 voyage
@@ -1329,8 +1333,6 @@
   4 rocks
   4 robotic
   4 rivers
-  4 risks
-  4 rise
   4 ripples
   4 reverse
   4 result
@@ -1419,13 +1421,13 @@
   4 marijuana
   4 magnetosphere
   4 magnet
-  4 loss
   4 lizards
   4 lives
   4 listen
   4 limb
   4 likely
   4 lifts
+  4 levels
   4 letters
   4 legs
   4 legged
@@ -1496,6 +1498,7 @@
   4 exoplanets
   4 existence
   4 existed
+  4 eu
   4 ethics
   4 eruptions
   4 errors
@@ -1567,6 +1570,7 @@
   4 babies
   4 autonomous
   4 attacks
+  4 associated
   4 application
   4 appear
   4 america
@@ -1589,7 +1593,6 @@
   3 woolly
   3 wireless
   3 wired
-  3 wild
   3 wfirst
   3 weyl
   3 weston
@@ -1781,6 +1784,7 @@
   3 order
   3 oracle
   3 opportunity
+  3 opportunities
   3 opengl
   3 offshore
   3 observable
@@ -1843,7 +1847,6 @@
   3 limits
   3 lightweight
   3 lifestyle
-  3 levels
   3 least
   3 leaf
   3 leaders
@@ -1942,7 +1945,6 @@
   3 everywhere
   3 everything
   3 europeans
-  3 eu
   3 epoch
   3 enterprise
   3 enter
@@ -1960,6 +1962,7 @@
   3 editor
   3 edited
   3 edge
+  3 ecosystems
   3 ecosystem
   3 eclipses
   3 echolocation
@@ -2061,6 +2064,7 @@
   3 bipolar
   3 bioluminescent
   3 bioengineers
+  3 bioengineering
   3 bioengineered
   3 benchmarks
   3 becomes
@@ -2072,7 +2076,6 @@
   3 automatically
   3 aurora
   3 astronaut
-  3 associated
   3 assembly
   3 assembled
   3 arrival
@@ -2201,6 +2204,7 @@
   2 transformation
   2 transfer
   2 train
+  2 trade
   2 tower
   2 tour
   2 tough
@@ -2499,7 +2503,6 @@
   2 organism
   2 orbital
   2 optimize
-  2 opportunities
   2 openssl
   2 ones
   2 offspring
@@ -2691,6 +2694,7 @@
   2 his
   2 hindu
   2 highly
+  2 highlights
   2 hide
   2 herald
   2 hell
@@ -2800,6 +2804,7 @@
   2 extract
   2 extra
   2 exposure
+  2 explosion
   2 exploding
   2 explanation
   2 expectations
@@ -2842,7 +2847,6 @@
   2 effort
   2 edx
   2 edrs
-  2 ecosystems
   2 economy
   2 economic
   2 east
@@ -3041,7 +3045,6 @@
   2 biosphere
   2 biosensor
   2 biofuels
-  2 bioengineering
   2 bioenergy
   2 bioavailability
   2 bio
@@ -3059,6 +3062,7 @@
   2 bat
   2 basics
   2 bases
+  2 ban
   2 balloon
   2 balances
   2 bacterial
@@ -4583,6 +4587,7 @@
   1 nest
   1 nespoli
   1 nerve
+  1 neotropical
   1 neonatal
   1 neolithization
   1 neolithic
@@ -4947,6 +4952,7 @@
   1 jetting
   1 jetson
   1 jessie
+  1 jena
   1 jellies
   1 jedi
   1 jealousy
@@ -4984,6 +4990,7 @@
   1 investment
   1 investigates
   1 invertebrates
+  1 inventory
   1 inventor
   1 inventions
   1 invention
@@ -5153,7 +5160,6 @@
   1 hills
   1 highways
   1 highway
-  1 highlights
   1 hierarchy
   1 hiding
   1 hiccups
@@ -5488,7 +5494,6 @@
   1 expressed
   1 exposes
   1 exposed
-  1 explosion
   1 explorers
   1 explorer
   1 explored
@@ -5745,6 +5750,7 @@
   1 dev
   1 determines
   1 determined
+  1 destroys
   1 despotism
   1 desperately
   1 deserts
@@ -6293,7 +6299,6 @@
   1 banish
   1 bandages
   1 bananas
-  1 ban
   1 bags
   1 bacterium
   1 backwards

@@ -11,3 +11,5 @@ tags:  bioenergy,solar,hydropower,geothermal,wind power,featured blog
 > It’s finally happening. After years of research and development, of policy debates over subsidies and climate change and energy independence; renewable energy is finally starting to replace fossil fuel sources of electric generation across the nation.
 
 [Visit Link](http://www.renewableenergyworld.com/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016.html)
+
+id:  317769 

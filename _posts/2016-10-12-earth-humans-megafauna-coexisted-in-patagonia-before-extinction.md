@@ -11,3 +11,5 @@ tags:
 > (American Geosciences Institute) As we celebrate National Fossil Day, EARTH Magazine brings you a story set in Pleistocene South America, and was home to large megafauna species like giant sloths and saber-toothed cats. At some point as the climate warmed and human settlers began hunting, the megafauna living in Patagonia and Tierra del Fuego went extinct.
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/agi-ehm101216.php)
+
+id:  331634 

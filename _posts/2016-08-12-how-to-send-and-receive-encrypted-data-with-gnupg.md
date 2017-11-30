@@ -11,3 +11,5 @@ tags:
 > Title:&nbsp;How to Send and Receive Encrypted Data with GnuPG12 AugLearn more
 
 [Visit Link](https://www.linux.com/learn/how-send-and-receive-encrypted-data-gnupg)
+
+id:  313831 

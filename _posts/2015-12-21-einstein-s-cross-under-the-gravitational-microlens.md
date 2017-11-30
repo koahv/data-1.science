@@ -11,3 +11,5 @@ tags:
 > Spanish astrophysicists obtain precise measurements for an object orbiting a black hole five billion light-years away. This is like detecting the ridges of a one euro coin located 100,000 kilometers away. 
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/12/151221095531.htm)
+
+id:  227735 

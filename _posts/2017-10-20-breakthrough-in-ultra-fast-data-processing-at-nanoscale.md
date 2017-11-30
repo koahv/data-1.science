@@ -11,3 +11,5 @@ tags:  nanophysics
 > A research team from the National University of Singapore has recently invented a novel "converter" that can harness the speed and small size of plasmons for high frequency data processing and transmission in nanoelectronics.
 
 [Visit Link](https://phys.org/news/2017-10-breakthrough-ultra-fast-nanoscale.html)
+
+id:  442008 

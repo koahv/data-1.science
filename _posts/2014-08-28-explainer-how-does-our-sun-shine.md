@@ -11,3 +11,5 @@ tags:  physics
 > What makes our sun shine has been a mystery for most of human history. Given our sun is a star and stars are suns, explaining the source of the sun's energy would help us understand why stars shine.
 
 [Visit Link](http://phys.org/news328435136.html)
+
+id:   47562 

@@ -11,3 +11,5 @@ tags:  biology
 > Life science researchers at Virginia Tech have accelerated a game-changing technology that's being used to study one of the planet's most lethal disease-carrying animals.
 
 [Visit Link](http://phys.org/news345725394.html)
+
+id:   96053 

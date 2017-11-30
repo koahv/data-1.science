@@ -11,3 +11,5 @@ tags:
 > Static electricity results from an imbalance between negative and positive charges in objects.
 
 [Visit Link](http://www.livescience.com/51656-static-electricity.html)
+
+id:  159942 

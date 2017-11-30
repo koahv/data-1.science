@@ -11,3 +11,5 @@ tags:
 > The NVPTX back-end code for GCC that's going to allow OpenACC 2.0 offloading support for NVIDIA GPUs with GCC is close to materializing within the mainline code-base...
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTgxODU)
+
+id:   54431 

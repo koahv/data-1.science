@@ -11,3 +11,5 @@ tags:  other sciences
 > Hardly a day passes without pundits crying for leadership in the NFL commissioner and team owners, among high-ranking government officials, and in other public figures. If University of Illinois experts didn't have evidence that this valuable trait can be taught, they might join the collective swoon that's engulfing much of the country.
 
 [Visit Link](http://phys.org/news331834149.html)
+
+id:   53499 

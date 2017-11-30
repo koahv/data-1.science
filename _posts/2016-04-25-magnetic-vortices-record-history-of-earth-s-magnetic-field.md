@@ -11,3 +11,5 @@ tags:
 > Ancient rock record remains unaltered by vast temperature fluctuations
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/apr/25/magnetic-vortices-record-history-of-earths-magnetic-field)
+
+id:  278074 

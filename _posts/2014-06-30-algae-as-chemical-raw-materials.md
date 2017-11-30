@@ -11,3 +11,5 @@ tags:
 > Chemists and biologists have succeeded in transforming algae oil into high-quality chemical raw materials via so-called isomerizing alkoxycarbonylation. This provides the foundation for the use of algae as a basic chemical component for a broad spectrum of materials and products, beyond the use of algae as a substitute for crude oil.
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/GprlfAkBy3w/140630093631.htm)
+
+id:   10527 

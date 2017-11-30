@@ -11,3 +11,5 @@ tags:  biology
 > (Phys.org) —A genetically engineered tobacco plant, developed with two genes from blue-green algae (cyanobacteria), holds promise for improving the yields of many food crops.
 
 [Visit Link](http://phys.org/news330240481.html)
+
+id:   50359 

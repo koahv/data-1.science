@@ -11,3 +11,5 @@ tags:  environment
 > Plastic rubbish will outweigh fish in the oceans by 2050 unless the world takes drastic action to recycle the material, a report warned Tuesday on the opening day of the annual gathering of the rich and powerful in the snow-clad Swiss ski resort of Davos.
 
 [Visit Link](http://phys.org/news/2016-01-plastic-outweigh-fish-oceans.html)
+
+id:  238332 

@@ -11,3 +11,5 @@ tags:
 > The thermodynamic cost of driving quantum systems by their boundariesScientific Reports, Published online: 8 October 2015; doi:10.1038/srep14873
 
 [Visit Link](http://www.nature.com/articles/srep14873)
+
+id:  195421 

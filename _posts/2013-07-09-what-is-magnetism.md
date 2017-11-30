@@ -11,3 +11,5 @@ tags:  2016-05-16 09:00:28.417428
 >                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Magnetism is the phenomenon that arises from the force between objects that produce fields that attract or repel other objects. 
 
 [Visit Link](Magnetic Fields & Magnetic Force)
+
+id:  161938 

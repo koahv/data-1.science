@@ -11,3 +11,5 @@ tags:  quantum physics
 > Two-quantum oscillations of atoms in a semiconductor crystal are excited by ultrashort terahertz pulses. The terahertz waves radiated from the moving atoms are analyzed by a novel time-resolving method and demonstrate the non-classical character of large-amplitude atomic motions.
 
 [Visit Link](http://phys.org/news/2016-05-quantum-swinga-pendulum.html)
+
+id:  282514 

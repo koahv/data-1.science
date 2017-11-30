@@ -11,3 +11,5 @@ tags:
 > Model reveals functional role of spin-glass-like states in neurological networks
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/mar/22/spin-glass-provides-insight-into-brain-activity)
+
+id:  376654 

@@ -11,3 +11,5 @@ tags:  technology
 > Researchers Thursday unveiled a powerful new postage-stamp size chip delivering supercomputer performance using a process that mimics the human brain.
 
 [Visit Link](http://phys.org/news326639392.html)
+
+id:   34451 

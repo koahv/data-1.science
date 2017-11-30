@@ -11,3 +11,5 @@ tags:  space exploration
 > NASA's New Horizons spacecraft captured this high-resolution enhanced color view of Pluto on July 14, 2015. The image combines blue, red and infrared images taken by the Ralph/Multispectral Visual Imaging Camera (MVIC).
 
 [Visit Link](http://phys.org/news/2015-09-image-unprecedented-high-resolution-pluto.html)
+
+id:  189440 

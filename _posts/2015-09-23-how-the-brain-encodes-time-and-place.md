@@ -11,3 +11,5 @@ tags:
 > Neuroscientists have now identified a brain circuit that processes the 'when' and 'where' components of memory. Previous models of memory had suggested that the hippocampus, a brain structure critical for memory formation, separates timing and context information. However, the new study shows that this information is split even before it reaches the hippocampus. 
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/09/150923134112.htm)
+
+id:  188524 

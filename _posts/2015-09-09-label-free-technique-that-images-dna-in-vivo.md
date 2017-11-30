@@ -11,3 +11,5 @@ tags:  general physics
 > (Phys.org)—A group of researchers from Harvard University report being able to observe DNA dynamics during cell division in vivo using time-lapse stimulated Raman scattering microscopy and without using fluorescent labels. Their work appears in the Proceedings of the National Academy of Sciences.
 
 [Visit Link](http://phys.org/news/2015-09-label-free-technique-images-dna-vivo.html)
+
+id:  181627 

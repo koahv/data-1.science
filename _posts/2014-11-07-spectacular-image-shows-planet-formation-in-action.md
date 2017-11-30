@@ -11,3 +11,5 @@ tags:
 > New ALMA observation is like a very early snapshot of our solar system
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/b-wrBwHDx3w/spectacular-image-shows-planet-formation-in-action)
+
+id:   59772 

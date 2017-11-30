@@ -11,3 +11,5 @@ tags:
 > Surface features on Ceres -- the largest world between Mars and Jupiter -- and its interior evolution have a closer relationship than one might think. A recent study analyzed Ceres' surface features to reveal clues about the dwarf planet's interior evolution. 
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/11/171109135703.htm)
+
+id:  451669 

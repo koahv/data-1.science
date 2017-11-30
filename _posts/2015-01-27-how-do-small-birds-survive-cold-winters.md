@@ -11,3 +11,5 @@ tags:
 > Norway's small birds face many challenges during the winter, including short days and long energy-intensive nights, tough weather conditions and food shortages, along with the risk of becoming a meal for hungry predators. Many at a tiny size, how do they survive?
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/rv_Au1S-SJY/150127100159.htm)
+
+id:   76243 

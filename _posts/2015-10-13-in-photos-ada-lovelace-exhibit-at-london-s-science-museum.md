@@ -11,3 +11,5 @@ tags:
 > Calculating machines and notes that predict the future of computing are among the items on display at the new exhibit. 
 
 [Visit Link](http://www.livescience.com/52463-ada-lovelace-museum-exhibit-photos.html)
+
+id:  197518 

@@ -11,3 +11,5 @@ tags:  astronomy & space
 >  Russia on Saturday announced initial plans to build a new orbital space station together with NASA to replace the International Space Station (ISS), which is set to operate until 2024.
 
 [Visit Link](http://phys.org/news346754256.html)
+
+id:  101847 

@@ -11,3 +11,5 @@ tags:
 > Despite similar views about the overall place of science in America, the general public and scientists often see science-related issues through a different lens, according to a new pair of surveys.
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/vXW8KCsNYjQ/150129143030.htm)
+
+id:   77208 

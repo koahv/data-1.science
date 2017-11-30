@@ -11,3 +11,5 @@ tags:  chemistry
 > Engineers have combined innovative optical technology with nanocomposite thin-films to create a new type of sensor that is inexpensive, fast, highly sensitive and able to detect and analyze a wide range of gases.
 
 [Visit Link](http://phys.org/news347213624.html)
+
+id:  104347 

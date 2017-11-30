@@ -11,3 +11,5 @@ tags:  astronomy & space
 >  Japanese scientists have succeeded in transmitting energy wirelessly, in a key step that could one day make solar power generation in space a possibility, an official said Thursday.
 
 [Visit Link](http://phys.org/news345351820.html)
+
+id:   94320 

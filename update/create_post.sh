@@ -48,7 +48,9 @@ then
 	rm post_data/${split_date[0]}-$mod_title1.md
 	
 	# write post
-	echo -e "---\nlayout: post\ntitle: \"$mod_title2\"\ndate: $date\ncategories: $category\nauthor: $author\ntags: $tags\n---\n\n\n>$mod_snippet1\n\n[Visit Link]($mod_link1)" >> post_data/${split_date[0]}-$mod_title1.md
+	echo -e "---\nlayout: post\ntitle: \"$mod_title2\"\ndate: $date\ncategories: $category\nauthor: $author\ntags: $tags\n---\n\n\n>$mod_snippet1\n\n[Visit Link]($mod_link1)\n\nid: $id" >> post_data/${split_date[0]}-$mod_title1.md
+	
+	# include article extracts/notes
 
 	done <"$_db"
 fi

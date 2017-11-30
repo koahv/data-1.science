@@ -11,3 +11,5 @@ tags:
 > (NASA/Goddard Space Flight Center) Astronomers using data from NASA's Hubble Space Telescope and ground observation have found an unlikely object in an improbable place -- a monster black hole lurking inside one of the tiniest galaxies ever known.
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/nsfc-hhf091714.php)
+
+id:   48548 

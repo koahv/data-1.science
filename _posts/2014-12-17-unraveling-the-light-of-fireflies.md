@@ -11,3 +11,5 @@ tags:  physics
 > How do fireflies produce those mesmerizing light flashes? Using cutting-edge imaging techniques, scientists from Switzerland and Taiwan have unraveled the firefly's intricate light-producing system for the first time.
 
 [Visit Link](http://phys.org/news338011163.html)
+
+id:   67280 

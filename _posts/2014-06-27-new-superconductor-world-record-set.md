@@ -11,3 +11,5 @@ tags:
 > Filed under: Energy News
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/matter_energy/energy_technology/~3/oumnOKRy6PY/140626213359.htm)
+
+id:    8488 

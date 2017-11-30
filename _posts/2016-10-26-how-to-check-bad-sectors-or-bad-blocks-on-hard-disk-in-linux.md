@@ -11,3 +11,5 @@ tags:  linux commands,linux tricks
 > Let us start by defining a bad sector/block, it&#8217;s a section on a disk drive or flash memory that can not be read from or written to anymore, as a result of a fixed&#46;&#46;&#46;
 
 [Visit Link](http://www.tecmint.com/check-linux-hard-disk-bad-sectors-bad-blocks/)
+
+id:  335372 

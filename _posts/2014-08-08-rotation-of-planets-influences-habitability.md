@@ -11,3 +11,5 @@ tags:  astronomy & space
 > There are currently almost 2,000 extrasolar planets known to us, but most are inhospitable gas giants. Thanks to NASA's Kepler mission, a handful of smaller, rockier planets have been discovered within the habitable zones of their stars that could provide a niche for alien life.
 
 [Visit Link](http://phys.org/news326700691.html)
+
+id:   34893 

@@ -11,3 +11,5 @@ tags:
 > (Salk Institute) Data from the Salk Institute shows brain's memory capacity is in the petabyte range, as much as entire Web.
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/si-mco012016.php)
+
+id:  238998 

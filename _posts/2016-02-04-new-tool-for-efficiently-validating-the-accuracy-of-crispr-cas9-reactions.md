@@ -11,3 +11,5 @@ tags:
 > (Institute for Basic Science) IBS researchers create multiplex Digenome-seq to find errors in CRISPR-Cas9 processes.
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/ifbs-ntf020416.php)
+
+id:  246336 

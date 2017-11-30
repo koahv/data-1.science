@@ -11,3 +11,5 @@ tags:
 > Miniature human hearts that beat of their own accord have been grown in the lab.
 
 [Visit Link](http://feeds.sciencealert.com.au/~r/sciencealert-latestnews/~3/ch0qD4oZCYA/20142606-25752.html)
+
+id:    7046 

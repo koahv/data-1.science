@@ -11,3 +11,5 @@ tags:  biology
 > Duke researchers have developed a new method to precisely control when genes are turned on and active.
 
 [Visit Link](http://phys.org/news347535983.html)
+
+id:  105304 

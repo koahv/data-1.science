@@ -11,3 +11,5 @@ tags:  condensed matter
 > The quantitative characterisation of the magnetic ordering realised in magnetic phases is an essential part of research into the magnetic properties of solids.
 
 [Visit Link](http://phys.org/news/2016-11-magndata-database-magnetic.html)
+
+id:  337500 

@@ -11,3 +11,5 @@ tags:
 > The last common ancestor of humans and chimpanzees may have had shoulders that were similar to those of modern African apes, researchers say. The finding supports the notion that the human lineage shifted to a life away from trees gradually.
 
 [Visit Link](http://www.livescience.com/52110-chimpanzee-human-shoulder-evolution.html)
+
+id:  181057 

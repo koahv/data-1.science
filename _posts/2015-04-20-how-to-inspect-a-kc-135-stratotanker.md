@@ -11,3 +11,5 @@ tags:
 > Read more about How to Inspect a KC-135 StratotankerComments
 
 [Visit Link](http://www.pddnet.com/news/2015/04/how-inspect-kc-135-stratotanker)
+
+id:  111794 

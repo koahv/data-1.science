@@ -11,3 +11,5 @@ tags:
 > The greenhouse effect occurs when Earth's atmosphere traps solar radiation because of the presence of certain gases, which causes temperatures to rise.
 
 [Visit Link](http://www.livescience.com/37743-greenhouse-effect.html)
+
+id:  273448 

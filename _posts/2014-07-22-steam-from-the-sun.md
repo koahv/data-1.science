@@ -11,3 +11,5 @@ tags:
 > Filed under: Energy News
 
 [Visit Link](http://theenergycollective.com/energyatmit/438941/steam-sun)
+
+id:   25006 

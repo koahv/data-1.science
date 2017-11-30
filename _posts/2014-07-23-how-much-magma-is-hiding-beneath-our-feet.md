@@ -11,3 +11,5 @@ tags:
 > (Université de Genève) Molten rock, or magma, has a strong influence on our planet and its inhabitants, causing destructive volcanic eruptions and generating some of the giant mineral deposits. Our understanding of these phenomena is, however, limited by the fact that most magma cools and solidifies several kilometers beneath our feet, only to be exposed at the surface, millions of years later, by erosion.
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/udg-hmm071714.php)
+
+id:   26500 

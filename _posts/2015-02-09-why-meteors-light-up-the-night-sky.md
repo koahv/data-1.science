@@ -11,3 +11,5 @@ tags:  astronomy & space
 > Meteors have been seen since people first looked at the night sky. They are comprised of small pieces of debris, typically no larger than a grain of dust or sand, which continually crash into the Earth's atmosphere.
 
 [Visit Link](http://phys.org/news342690788.html)
+
+id:   80052 

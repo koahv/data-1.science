@@ -11,3 +11,5 @@ tags:
 > (John Innes Centre) New research reveals how a plant used in traditional Chinese medicine produces compounds which may help to treat cancer and liver diseases.
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/jic-sdh040616.php)
+
+id:  272119 

@@ -11,3 +11,5 @@ tags:  biology
 > (Phys.org) —A pioneering genetic study of the endangered Congolese Okapi has for the first time unravelled the mystery behind its evolutionary origins and genetic structure. The new information will prove indispensable for future conservation management of the species and, ultimately, its survival.
 
 [Visit Link](http://phys.org/news324537051.html)
+
+id:   19342 

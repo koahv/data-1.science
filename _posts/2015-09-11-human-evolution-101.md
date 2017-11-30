@@ -11,3 +11,5 @@ tags:
 > With all the buzz about Homo naledi, the newly discovered human ancestor, here’s some background that will help put it in context.
 
 [Visit Link](http://news.nationalgeographic.com/2015/09/human-evolution-101/)
+
+id:  183967 

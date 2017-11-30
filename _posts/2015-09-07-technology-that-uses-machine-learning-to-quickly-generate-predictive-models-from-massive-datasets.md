@@ -11,3 +11,5 @@ tags:  computer sciences
 > Fujitsu Laboratories today announced the development of a machine-learning technology that can generate highly accurate predictive models from datasets of more than 50 million records in a matter of hours.
 
 [Visit Link](http://phys.org/news/2015-09-technology-machine-quickly-massive-datasets.html)
+
+id:  180497 

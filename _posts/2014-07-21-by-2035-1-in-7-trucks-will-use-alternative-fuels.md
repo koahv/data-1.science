@@ -11,3 +11,5 @@ tags:
 > Filed under: Energy News
 
 [Visit Link](http://feeds.importantmedia.org/~r/IM-cleantechnica/~3/-1QnZQ1L5Yg/)
+
+id:   24486 

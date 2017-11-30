@@ -11,3 +11,5 @@ tags:
 > VideosYes, conceivably. And if/when we achieve the levels of technology necessary for simulation, the universe will become our playground...Contributed Author:&nbsp;Big ThinkTopics:&nbsp;R&amp;D
 
 [Visit Link](http://www.pddnet.com/videos/2015/11/can-computer-simulate-consciousness)
+
+id:  211144 

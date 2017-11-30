@@ -11,3 +11,5 @@ tags:
 > How can a beam of light tell the difference between left and right? At the Vienna University of Technology (TU Wien) tiny particles have been coupled to a glass fibre.Read more about Nanoparticles Break the Symmetry of LightComments
 
 [Visit Link](http://www.pddnet.com/news/2014/10/nanoparticles-break-symmetry-light)
+
+id:   53225 

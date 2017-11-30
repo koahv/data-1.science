@@ -11,3 +11,5 @@ tags:  quantum physics
 > Caltech applied scientists have developed a new way to simulate large-scale motion numerically using the mathematics that govern the universe at the quantum level.
 
 [Visit Link](http://phys.org/news/2016-07-graphics-quantum-mechanics.html)
+
+id:  309051 

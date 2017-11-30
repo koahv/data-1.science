@@ -11,3 +11,5 @@ tags:
 > Researchers are trying to better understand the epidemiology and control of Ebola Virus Disease in order to alleviate suffering and prevent future disease outbreaks from reaching the catastrophic proportions of the current crisis.
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/loU_l4cyyvg/150206111704.htm)
+
+id:   79185 

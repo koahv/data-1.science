@@ -11,3 +11,5 @@ tags:
 > Title:&nbsp;Advanced lm-sensors Tips and Tricks on Linux21 SepLearn more
 
 [Visit Link](https://www.linux.com/learn/intro-to-linux/2017/9/advanced-lm-sensors-tips-and-tricks-linux-0)
+
+id:  431349 

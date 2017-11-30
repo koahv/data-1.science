@@ -11,3 +11,5 @@ tags:
 > Quantum dots put voltage fluctuations to work
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/H7SFDMZoUJM/physicists-generate-electrical-currents-from-noise)
+
+id:  112503 

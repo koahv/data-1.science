@@ -11,3 +11,5 @@ tags:  earth
 > Subsidence, rockfalls and landslides threaten potentially devastating human and economic consequences across Europe – but satellites can help.  
 
 [Visit Link](http://phys.org/news322806984.html)
+
+id:    4088 

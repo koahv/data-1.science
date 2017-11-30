@@ -11,3 +11,5 @@ tags:
 > Developmental neuroscientists have found specific brain markers that predict generosity in children. Those neural markers appear to be linked to both social and moral evaluation processes. Although young children are natural helpers, their perspective on sharing resources tends to be selfish.
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/eN6TefWSQc8/141219103948.htm)
+
+id:   67754 

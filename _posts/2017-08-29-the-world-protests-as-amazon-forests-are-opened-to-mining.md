@@ -11,3 +11,5 @@ tags:  environment
 > The Amazon, often described as the "lungs of the Earth", is the largest rainforest in the world. Its extraordinary biodiversity and sheer scale has made it a globally significant resource in the fight against climate change.
 
 [Visit Link](https://phys.org/news/2017-08-world-protests-amazon-forests.html)
+
+id:  423733 

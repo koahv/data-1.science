@@ -11,3 +11,5 @@ tags:
 > Synesthesia is a neurological condition that causes the brain to process data in the form of several senses at once; for example, hearing sounds while also seeing them as colorful swirls.
 
 [Visit Link](https://www.livescience.com/60707-what-is-synesthesia.html)
+
+id:  440488 

@@ -11,3 +11,5 @@ tags:
 > Quantum teleportation has been achieved by a number of research teams around the globe since it was first theorized in 1993, but current experimental methods require extensive resources and/or only work successfully a fraction of the time. Now, by taking advantage of the mathematical properties intrinsic to the shape of a donut -- or torus, in mathematical terminology -- a physicists have made great strides by realizing 'superdense teleportation.'
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/FZ_4DdZTggw/150528124519.htm)
+
+id:  130211 

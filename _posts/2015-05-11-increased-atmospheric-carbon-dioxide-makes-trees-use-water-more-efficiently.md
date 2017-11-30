@@ -11,3 +11,5 @@ tags:  earth
 > The increase in atmospheric CO2 concentration has allowed trees across Europe to use their available water resources more efficiently, new research has shown.
 
 [Visit Link](http://phys.org/news350559676.html)
+
+id:  121454 

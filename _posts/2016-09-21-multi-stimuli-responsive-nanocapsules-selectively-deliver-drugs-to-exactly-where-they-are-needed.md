@@ -11,3 +11,5 @@ tags:  bio & medicine
 > A nanoparticle-based drug delivery system that can sense and respond to different conditions in the body, as well as to an externally applied magnetic field, could enhance doctors' ability to target drugs to specific sites of disease.
 
 [Visit Link](http://phys.org/news/2016-09-multi-stimuli-responsive-nanocapsules-drugs.html)
+
+id:  325525 

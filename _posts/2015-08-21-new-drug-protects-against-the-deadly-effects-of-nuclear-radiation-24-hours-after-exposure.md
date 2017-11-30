@@ -11,3 +11,5 @@ tags:
 > A new breakthrough has been reported in countering the deadly effects of radiation exposure. A single injection of a regenerative peptide was shown to significantly increase survival in mice when given 24 hours after nuclear radiation exposure. 
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150821164157.htm)
+
+id:  172967 

@@ -11,3 +11,5 @@ tags:
 > How can you produce a magnet with exactly the right magnetic field? A research team now has a solution: for the first time, they have created magnets with a 3D printer. 
 
 [Visit Link](https://www.sciencedaily.com/releases/2016/10/161025115757.htm)
+
+id:  335417 

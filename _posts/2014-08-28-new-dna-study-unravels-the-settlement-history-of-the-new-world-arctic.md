@@ -11,3 +11,5 @@ tags:
 > (University of Copenhagen) A new DNA study unravels the settlement history of the New World Arctic.
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/uoc-nds082814.php)
+
+id:   47827 

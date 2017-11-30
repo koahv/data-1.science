@@ -11,3 +11,5 @@ tags:
 > (University of Birmingham) Mass extinctions were followed by periods of low diversity in which certain new species dominated wide regions of the supercontinent Pangaea, reports a new study.
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uob-etb100917.php)
+
+id:  437157 

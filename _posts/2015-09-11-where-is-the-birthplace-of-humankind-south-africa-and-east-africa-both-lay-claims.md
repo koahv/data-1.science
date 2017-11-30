@@ -11,3 +11,5 @@ tags:
 > The new human fossils from South Africa have added fuel to a long-standing debate over the geographical origins of our species.
 
 [Visit Link](http://news.nationalgeographic.com/2015/09/150911-hominin-hominid-berger-homo-naledi-fossils-ancestor-rising-star-human-origins/)
+
+id:  183971 

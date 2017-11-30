@@ -11,3 +11,5 @@ tags:  linux commands
 > fdisk stands (for &#8220;fixed disk or format disk&#8220;) is an most commonly used command-line based disk manipulation utility for a Linux/Unix systems. With the help of fdisk command you can view, create, resize, delete,&#46;&#46;&#46;
 
 [Visit Link](http://www.tecmint.com/fdisk-commands-to-manage-linux-disk-partitions/)
+
+id:  225531 

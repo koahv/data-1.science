@@ -11,3 +11,5 @@ tags:
 > Degenerating neurons in patients with Alzheimer's disease measurably responded to an experimental gene therapy in which nerve growth factor was injected into their brains, report researchers. 
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150827154415.htm)
+
+id:  176253 

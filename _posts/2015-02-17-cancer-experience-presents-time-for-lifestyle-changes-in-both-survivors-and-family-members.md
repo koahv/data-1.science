@@ -11,3 +11,5 @@ tags:
 > After studying cancer survivors and their family caregivers, researchers conclude that the period between the final cancer treatment and first post-treatment checkup may be an ideal time for the entire household to jumpstart a healthy lifestyle.
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/cq9X08UevX0/150217122822.htm)
+
+id:   83584 

@@ -11,3 +11,5 @@ tags:  technology
 > Martian colonists could use an innovative new technique to harvest energy from carbon dioxide thanks to research pioneered at Northumbria University, Newcastle. 
 
 [Visit Link](http://phys.org/news344767948.html)
+
+id:   91185 

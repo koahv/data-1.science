@@ -11,3 +11,5 @@ tags:  biology
 > Scientists from the University of Southampton have discovered the genetic basis which allows corals to produce their stunning range of colours.
 
 [Visit Link](http://phys.org/news341775678.html)
+
+id:   77396 

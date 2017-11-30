@@ -11,3 +11,5 @@ tags:
 > Title:&nbsp;The 7 Elements of an Open Source Management Program: Teams and Tools8 FebLearn more
 
 [Visit Link](https://www.linux.com/blog/compliance-ebook/2017/2/7-elements-open-source-management-program-teams-and-tools)
+
+id:  364073 

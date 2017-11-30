@@ -11,3 +11,5 @@ tags:
 > The Columbia River basin in the Pacific Northwest offers great potential for water power; hydroelectric power stations there generate over 20,000 megawatts already. Now a simulation model will help optimize the operation of the extensive dam system.
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/oxQvvkEObjs/140806094710.htm)
+
+id:   33354 

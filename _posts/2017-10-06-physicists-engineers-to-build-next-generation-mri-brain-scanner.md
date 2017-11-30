@@ -11,3 +11,5 @@ tags:  general physics
 > Functional magnetic resonance imaging, or fMRI, has transformed our view of the brain, allowing researchers to pinpoint areas associated with everything from depression and dementia to playing chess and engaging in sex.
 
 [Visit Link](https://phys.org/news/2017-10-physicists-next-generation-mri-brain-scanner.html)
+
+id:  436217 

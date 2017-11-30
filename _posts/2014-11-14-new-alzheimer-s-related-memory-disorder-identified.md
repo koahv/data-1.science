@@ -11,3 +11,5 @@ tags:
 > A multi-institutional study has defined and established criteria for a new neurological disease closely resembling Alzheimer’s disease called primary age-related tauopathy (PART). Patients with PART develop cognitive impairment that can be indistinguishable from Alzheimer’s disease, but they lack amyloid plaques. Awareness of this neurological disease will help doctors diagnose and develop more effective treatments for patients with different types of memory impairment.
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/wBbYUAbArcI/141113194947.htm)
+
+id:   62140 

@@ -11,3 +11,5 @@ tags:  astronomy & space
 > The Magnetometer instrument that will fly on NOAA's GOES-R satellite when it is launched in early 2016 has completed the development and testing phase and is ready to be integrated with the spacecraft.
 
 [Visit Link](http://phys.org/news324693922.html)
+
+id:   20959 

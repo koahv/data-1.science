@@ -11,3 +11,5 @@ tags:
 > The Burmese python's body and organs grow dramatically after it eats and then shrink after the meal is digested. This study is the first to link the extreme body changes directly to changes in gene expression and show how quickly gene expression shifts after the snake eats.
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/TtldTkEtRds/150518081447.htm)
+
+id:  124591 

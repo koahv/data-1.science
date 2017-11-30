@@ -11,3 +11,5 @@ tags:
 > Red Hat has released their third update to their "Software Collections" that provide updated development tools/packages to RHEL6/RHEL7 users as an alternative to their default packages...
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTgyNjI)
+
+id:   58922 

@@ -11,3 +11,5 @@ tags:
 > &nbsp;blackmoreops: Is there really a filesystem standard structure in Linux?
 
 [Visit Link](http://www.linuxtoday.com/upload/linux-file-system-hierarchy-150216170510.html)
+
+id:   83674 

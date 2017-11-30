@@ -11,3 +11,5 @@ tags:
 > For those closely following the work on Enlightenment, there's now work finally materializing in supporting XWayland...
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Enlightenment-XWayland)
+
+id:  145945 

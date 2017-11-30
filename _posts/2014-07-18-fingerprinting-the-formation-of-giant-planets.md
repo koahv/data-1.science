@@ -11,3 +11,5 @@ tags:  astronomy & space
 > A team of Brazilian and American astronomers used CFHT observations of the system 16 Cygni to discover evidence of how giant planets like Jupiter form.
 
 [Visit Link](http://phys.org/news324884769.html)
+
+id:   23074 
