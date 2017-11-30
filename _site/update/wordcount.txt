@@ -1,64 +1,64 @@
-4409 
-1228 the
-1162 of
-746 to
-653 in
-630 s
-443 a
-438 for
-411 and
-371 new
-308 on
-281 how
+4425 
+1236 the
+1166 of
+747 to
+656 in
+631 s
+447 a
+439 for
+412 and
+372 new
+310 on
+283 how
 216 is
 208 quantum
 191 nasa
-189 from
-185 first
+190 from
+186 first
 182 linux
 181 space
-156 earth
-147 brain
-144 with
+157 earth
+148 brain
+146 with
 142 what
-137 scientists
+138 scientists
 131 world
 117 at
 116 human
 115 mars
 114 years
-105 study
-105 evolution
+108 evolution
+107 study
 102 researchers
  99 by
  94 that
+ 91 light
  90 solar
  90 open
  89 magnetic
- 89 light
+ 89 are
  88 dna
- 88 are
- 83 energy
- 82 time
+ 84 energy
+ 83 time
  82 source
- 81 life
+ 82 life
  79 universe
  79 million
  77 dark
  76 an
- 74 can
+ 75 can
  72 mission
+ 68 system
  68 more
  68 matter
- 67 system
  67 may
  66 into
  64 moon
  64 be
+ 62 year
  62 reveals
+ 62 its
  62 as
- 61 year
- 61 its
  61 cells
  59 way
  59 our
@@ -67,34 +67,35 @@
  55 ocean
  55 it
  55 climate
+ 54 we
  54 most
- 53 we
+ 53 will
+ 53 spacecraft
  53 could
- 52 will
  52 than
- 52 spacecraft
  52 humans
  52 data
  52 ancient
  51 waves
- 50 genome
+ 51 genome
  49 using
  49 gravitational
+ 49 gene
  48 water
  48 map
  48 jupiter
- 48 gene
  47 future
  46 like
  45 research
+ 45 learning
  44 pluto
  44 physicists
- 44 learning
  44 artificial
  43 image
  43 high
  43 have
  43 discovered
+ 42 planet
  42 history
  42 global
  42 genetic
@@ -103,9 +104,9 @@
  41 weather
  41 use
  41 satellite
- 41 planet
  41 day
  40 power
+ 40 one
  40 found
  40 fossil
  40 black
@@ -113,11 +114,10 @@
  39 today
  39 telescope
  39 shows
- 39 one
  38 sun
+ 38 record
  38 change
  37 up
- 37 record
  37 gravity
  37 evolutionary
  36 sea
@@ -138,6 +138,7 @@
  33 after
  32 station
  32 plants
+ 32 editing
  32 do
  32 create
  32 cancer
@@ -148,27 +149,26 @@
  31 now
  31 next
  31 large
- 31 editing
- 30 evolved
+ 31 evolved
  29 us
  29 understanding
+ 29 through
  29 make
  29 d
  29 atmosphere
- 28 through
+ 28 test
+ 28 photosynthesis
  28 machine
  28 long
  28 intelligence
+ 28 has
  28 experiment
  28 engineering
  28 ago
  27 wave
  27 two
- 27 test
- 27 photosynthesis
  27 molecular
  27 ice
- 27 has
  27 cell
  27 before
  27 back
@@ -179,6 +179,7 @@
  26 largest
  26 help
  26 genes
+ 26 finds
  26 find
  26 evidence
  26 ever
@@ -204,7 +205,6 @@
  24 mercury
  24 key
  24 hole
- 24 finds
  24 birds
  24 best
  23 video
@@ -233,6 +233,7 @@
  21 launches
  21 launch
  21 kernel
+ 21 inside
  21 health
  21 disease
  21 complex
@@ -243,29 +244,31 @@
  20 show
  20 nature
  20 model
- 20 inside
+ 20 living
  20 giant
  20 galaxy
  20 clues
+ 20 closer
  19 you
  19 when
  19 t
  19 state
+ 19 percent
  19 oldest
  19 memory
- 19 living
  19 international
  19 insights
  19 images
+ 19 engine
  19 drug
  19 dinosaur
  19 commands
- 19 closer
  19 atoms
  18 watch
  18 three
+ 18 team
  18 supercomputer
- 18 percent
+ 18 step
  18 origin
  18 modern
  18 maps
@@ -275,16 +278,14 @@
  18 great
  18 faster
  18 esa
- 18 engine
+ 18 crispr
  18 computers
  18 channel
  18 body
  18 better
  17 tiny
- 17 team
  17 systems
  17 super
- 17 step
  17 seen
  17 schizophrenia
  17 risk
@@ -300,7 +301,6 @@
  17 entanglement
  17 dinosaurs
  17 develop
- 17 crispr
  17 core
  17 control
  17 code
@@ -332,6 +332,7 @@
  15 tools
  15 takes
  15 take
+ 15 sentinel
  15 secrets
  15 results
  15 resolution
@@ -340,6 +341,7 @@
  15 origins
  15 milky
  15 line
+ 15 just
  15 identified
  15 get
  15 generation
@@ -354,7 +356,6 @@
  14 titan
  14 testing
  14 tech
- 14 sentinel
  14 second
  14 real
  14 protein
@@ -370,6 +371,7 @@
  14 mechanism
  14 makes
  14 laser
+ 14 lab
  14 juno
  14 hunt
  14 galileo
@@ -377,6 +379,7 @@
  14 fields
  14 europe
  14 einstein
+ 14 earliest
  14 diet
  14 daily
  14 cosmic
@@ -392,6 +395,7 @@
  13 supercomputers
  13 successfully
  13 size
+ 13 sense
  13 rosetta
  13 replay
  13 provides
@@ -399,6 +403,7 @@
  13 probe
  13 popular
  13 patterns
+ 13 own
  13 org
  13 orbiter
  13 offers
@@ -407,9 +412,7 @@
  13 making
  13 let
  13 landing
- 13 lab
  13 known
- 13 just
  13 internet
  13 improve
  13 google
@@ -418,10 +421,10 @@
  13 extreme
  13 explore
  13 electric
- 13 earliest
  13 drive
  13 detector
  13 design
+ 13 crops
  13 completes
  13 cern
  13 blood
@@ -430,18 +433,18 @@
  12 warming
  12 vision
  12 venus
+ 12 used
  12 third
  12 things
+ 12 synthetic
  12 strong
  12 stem
- 12 sense
  12 see
  12 radio
  12 radiation
  12 pi
  12 phys
  12 part
- 12 own
  12 neutrinos
  12 marine
  12 live
@@ -458,8 +461,8 @@
  12 electrons
  12 efficient
  12 effect
+ 12 dwarf
  12 diversity
- 12 crops
  12 created
  12 common
  12 cloud
@@ -474,10 +477,8 @@
  12 action
  11 where
  11 volcanic
- 11 used
  11 tree
  11 there
- 11 synthetic
  11 survive
  11 supermassive
  11 some
@@ -488,6 +489,7 @@
  11 scale
  11 satellites
  11 rover
+ 11 role
  11 repair
  11 releases
  11 rays
@@ -517,7 +519,6 @@
  11 facts
  11 evolve
  11 effects
- 11 dwarf
  11 distant
  11 did
  11 curiosity
@@ -537,14 +538,17 @@
  10 week
  10 unveils
  10 tissue
+ 10 timelapse
  10 temperature
  10 stress
  10 sleep
  10 six
+ 10 sheds
  10 same
- 10 role
+ 10 revolutionary
  10 revolution
  10 report
+ 10 release
  10 reality
  10 properties
  10 produce
@@ -560,6 +564,7 @@
  10 low
  10 ligo
  10 less
+ 10 language
  10 land
  10 instrument
  10 i
@@ -578,6 +583,7 @@
  10 entire
  10 engineers
  10 end
+ 10 edit
  10 detected
  10 co
  10 close
@@ -600,7 +606,6 @@
   9 turn
   9 track
   9 towards
-  9 timelapse
   9 thought
   9 teeth
   9 switch
@@ -610,13 +615,10 @@
   9 south
   9 sources
   9 silicon
-  9 sheds
   9 sees
   9 scientific
   9 says
   9 rex
-  9 revolutionary
-  9 release
   9 raspberry
   9 public
   9 probes
@@ -627,6 +629,7 @@
   9 only
   9 offer
   9 nvidia
+  9 nuclear
   9 novel
   9 neurons
   9 neptune
@@ -634,7 +637,6 @@
   9 models
   9 leads
   9 latest
-  9 language
   9 know
   9 introduction
   9 impacts
@@ -645,16 +647,17 @@
   9 game
   9 four
   9 forest
+  9 flying
   9 feature
   9 examples
   9 efficiency
-  9 edit
   9 during
   9 developed
   9 detects
   9 detect
   9 date
   9 color
+  9 ceres
   9 cassini
   9 captures
   9 biology
@@ -704,7 +707,6 @@
   8 osiris
   8 organisms
   8 officially
-  8 nuclear
   8 never
   8 nearly
   8 near
@@ -727,7 +729,6 @@
   8 full
   8 forces
   8 focus
-  8 flying
   8 finding
   8 file
   8 fight
@@ -747,9 +748,9 @@
   8 current
   8 creatures
   8 coming
+  8 circuits
   8 changing
   8 challenges
-  8 ceres
   8 cellular
   8 caused
   8 cause
@@ -764,6 +765,7 @@
   8 approach
   8 applications
   8 ants
+  8 air
   8 advances
   8 achieves
   8 access
@@ -817,6 +819,7 @@
   7 photons
   7 performance
   7 paves
+  7 p
   7 opens
   7 neural
   7 needs
@@ -837,6 +840,7 @@
   7 lead
   7 launched
   7 kilometers
+  7 insects
   7 increase
   7 imaging
   7 identifies
@@ -851,6 +855,7 @@
   7 git
   7 genetically
   7 gamma
+  7 forms
   7 flowers
   7 findings
   7 files
@@ -878,7 +883,7 @@
   7 comes
   7 coal
   7 clocks
-  7 circuits
+  7 cities
   7 century
   7 center
   7 bring
@@ -898,7 +903,6 @@
   7 ancestor
   7 amber
   7 allen
-  7 air
   7 agriculture
   7 active
   7 across
@@ -959,7 +963,6 @@
   6 photo
   6 per
   6 pacific
-  6 p
   6 output
   6 online
   6 non
@@ -989,6 +992,7 @@
   6 left
   6 languages
   6 laboratory
+  6 ion
   6 industrial
   6 improving
   6 immune
@@ -996,9 +1000,9 @@
   6 higher
   6 healthy
   6 guardian
+  6 grown
   6 geoengineering
   6 generate
-  6 forms
   6 forests
   6 flies
   6 finally
@@ -1027,7 +1031,6 @@
   6 conditions
   6 clear
   6 classical
-  6 cities
   6 cave
   6 causes
   6 cat
@@ -1054,6 +1057,7 @@
   6 affect
   6 addiction
   6 adaptation
+  5 yield
   5 winds
   5 which
   5 whale
@@ -1122,6 +1126,7 @@
   5 pressure
   5 prepares
   5 potential
+  5 plays
   5 plasma
   5 plane
   5 place
@@ -1148,6 +1153,7 @@
   5 music
   5 moving
   5 move
+  5 mosquito
   5 monster
   5 monkey
   5 monitor
@@ -1166,9 +1172,8 @@
   5 joins
   5 japanese
   5 issues
-  5 ion
   5 invisible
-  5 insects
+  5 interior
   5 ingredients
   5 if
   5 hyperloop
@@ -1182,7 +1187,6 @@
   5 hawaii
   5 hardware
   5 happens
-  5 grown
   5 graphene
   5 go
   5 glow
@@ -1195,6 +1199,7 @@
   5 fastest
   5 farm
   5 face
+  5 explores
   5 experimental
   5 experience
   5 exoplanet
@@ -1255,6 +1260,7 @@
   5 c
   5 business
   5 british
+  5 breaking
   5 blog
   5 bigger
   5 belt
@@ -1268,7 +1274,6 @@
   5 agency
   5 added
   5 accurate
-  4 yield
   4 worms
   4 wormhole
   4 won
@@ -1322,6 +1327,7 @@
   4 scorpion
   4 safe
   4 rocks
+  4 robotic
   4 rivers
   4 risks
   4 rise
@@ -1360,7 +1366,6 @@
   4 polarized
   4 poised
   4 plumage
-  4 plays
   4 play
   4 plates
   4 plastic
@@ -1398,7 +1403,6 @@
   4 multi
   4 motion
   4 mosquitoes
-  4 mosquito
   4 month
   4 moment
   4 moisture
@@ -1441,7 +1445,6 @@
   4 investigate
   4 introduces
   4 internal
-  4 interior
   4 intelligent
   4 instruments
   4 installed
@@ -1464,6 +1467,7 @@
   4 heavy
   4 hear
   4 healing
+  4 hand
   4 habits
   4 habitat
   4 groundwater
@@ -1486,7 +1490,6 @@
   4 facility
   4 expression
   4 express
-  4 explores
   4 experts
   4 expedition
   4 expansion
@@ -1521,6 +1524,7 @@
   4 details
   4 decoding
   4 decades
+  4 dawn
   4 database
   4 cycle
   4 crossing
@@ -1549,7 +1553,6 @@
   4 california
   4 buried
   4 builds
-  4 breaking
   4 boundary
   4 boosts
   4 boost
@@ -1709,10 +1712,10 @@
   3 rules
   3 roots
   3 robotics
-  3 robotic
   3 richard
   3 rice
   3 rica
+  3 revolutionizing
   3 restore
   3 rest
   3 responsive
@@ -1762,6 +1765,7 @@
   3 piece
   3 phonons
   3 phenomena
+  3 penn
   3 penguin
   3 pave
   3 pattern
@@ -1782,10 +1786,12 @@
   3 observable
   3 numbers
   3 neutral
+  3 nervous
   3 nebula
   3 nears
   3 national
   3 nanostructures
+  3 nanoparticles
   3 named
   3 name
   3 n
@@ -1884,7 +1890,6 @@
   3 hints
   3 highlight
   3 helping
-  3 hand
   3 hall
   3 habitable
   3 groups
@@ -1996,7 +2001,6 @@
   3 debugger
   3 debug
   3 de
-  3 dawn
   3 dating
   3 darwin
   3 dangerous
@@ -2020,6 +2024,7 @@
   3 constraints
   3 consciousness
   3 connecting
+  3 completed
   3 communications
   3 commercial
   3 combat
@@ -2056,6 +2061,7 @@
   3 bipolar
   3 bioluminescent
   3 bioengineers
+  3 bioengineered
   3 benchmarks
   3 becomes
   3 beam
@@ -2130,6 +2136,7 @@
   2 webcam
   2 weapons
   2 watts
+  2 waste
   2 war
   2 wants
   2 want
@@ -2198,6 +2205,7 @@
   2 tour
   2 tough
   2 touchdown
+  2 touch
   2 tornadoes
   2 toolkit
   2 tipping
@@ -2353,7 +2361,6 @@
   2 rights
   2 rhythms
   2 rhel
-  2 revolutionizing
   2 reversal
   2 response
   2 resonance
@@ -2461,8 +2468,8 @@
   2 perceive
   2 pentaquarks
   2 pentaquark
-  2 penn
   2 pc
+  2 patient
   2 pathway
   2 pathfinder
   2 patent
@@ -2515,13 +2522,11 @@
   2 neuron
   2 neurological
   2 networking
-  2 nervous
   2 negative
   2 neandertal
   2 ndtv
   2 native
   2 nanotechnology
-  2 nanoparticles
   2 my
   2 mw
   2 mushrooms
@@ -2537,6 +2542,7 @@
   2 moore
   2 months
   2 montana
+  2 money
   2 moments
   2 modifications
   2 modification
@@ -2581,6 +2587,7 @@
   2 lux
   2 lung
   2 luminosity
+  2 luck
   2 lovelace
   2 longer
   2 london
@@ -2697,6 +2704,7 @@
   2 head
   2 hd
   2 harvesting
+  2 harvest
   2 hartman
   2 harbor
   2 happy
@@ -2804,6 +2812,7 @@
   2 examines
   2 examined
   2 eweek
+  2 evolves
   2 every
   2 events
   2 evaporation
@@ -2813,6 +2822,7 @@
   2 escaping
   2 escape
   2 error
+  2 epa
   2 entirely
   2 enriquez
   2 enormous
@@ -2943,7 +2953,6 @@
   2 compute
   2 computational
   2 comprehensively
-  2 completed
   2 compare
   2 company
   2 community
@@ -2991,6 +3000,7 @@
   2 caterpillar
   2 cataract
   2 cases
+  2 carrying
   2 carnivorous
   2 carl
   2 caribbean
@@ -3032,7 +3042,6 @@
   2 biosensor
   2 biofuels
   2 bioengineering
-  2 bioengineered
   2 bioenergy
   2 bioavailability
   2 bio
@@ -3074,6 +3083,7 @@
   2 arms
   2 arguments
   2 apps
+  2 approved
   2 approaching
   2 approaches
   2 appears
@@ -3095,6 +3105,7 @@
   2 analyses
   2 amp
   2 amounts
+  2 amount
   2 ames
   2 americans
   2 american
@@ -3118,6 +3129,7 @@
   2 aids
   2 agile
   2 agents
+  2 affecting
   2 aerial
   2 advancing
   2 adopts
@@ -3222,7 +3234,6 @@
   1 watery
   1 waterside
   1 waterfalls
-  1 waste
   1 wasp
   1 washington
   1 wars
@@ -3363,6 +3374,7 @@
   1 twists
   1 twist
   1 twilight
+  1 twice
   1 twenty
   1 tutorial
   1 turmeric
@@ -3436,7 +3448,6 @@
   1 toxicity
   1 town
   1 tournament
-  1 touch
   1 tops
   1 topping
   1 topography
@@ -3922,6 +3933,7 @@
   1 sbc
   1 saxon
   1 saw
+  1 saving
   1 saved
   1 savannas
   1 savanna
@@ -4030,6 +4042,7 @@
   1 reprograming
   1 reproducible
   1 reproduces
+  1 reprocessing
   1 repository
   1 reported
   1 replicating
@@ -4380,7 +4393,6 @@
   1 paving
   1 pause
   1 paula
-  1 patient
   1 paths
   1 pathological
   1 pathogen
@@ -4647,7 +4659,6 @@
   1 monopoles
   1 monogamous
   1 monkeys
-  1 money
   1 monday
   1 monarch
   1 momentum
@@ -4791,7 +4802,6 @@
   1 lump
   1 luminous
   1 lumbering
-  1 luck
   1 lucid
   1 lua
   1 ls
@@ -4901,6 +4911,7 @@
   1 kiwi
   1 kit
   1 king
+  1 killing
   1 kill
   1 kickstarter
   1 kibo
@@ -5186,7 +5197,6 @@
   1 hatching
   1 hasson
   1 hasn
-  1 harvest
   1 harnessing
   1 harnesses
   1 harness
@@ -5505,7 +5515,6 @@
   1 exceeds
   1 exact
   1 ex
-  1 evolves
   1 everyone
   1 evaluate
   1 evade
@@ -5543,7 +5552,6 @@
   1 epigenetics
   1 epidemic
   1 epicenter
-  1 epa
   1 envisioned
   1 envision
   1 environmentally
@@ -5777,6 +5785,7 @@
   1 decodes
   1 declining
   1 declines
+  1 declined
   1 deciphered
   1 decipher
   1 decides
@@ -5918,6 +5927,7 @@
   1 constantly
   1 console
   1 consider
+  1 conserved
   1 conservative
   1 conservation
   1 connects
@@ -6025,6 +6035,7 @@
   1 citizen
   1 circulator
   1 circular
+  1 circuitry
   1 circle
   1 cia
   1 churns
@@ -6090,7 +6101,6 @@
   1 castle
   1 cassis
   1 cartoon
-  1 carrying
   1 carrot
   1 carrier
   1 carotene
@@ -6367,7 +6377,6 @@
   1 arab
   1 aqueous
   1 aquanauts
-  1 approved
   1 apply
   1 applied
   1 appearance
@@ -6413,7 +6422,6 @@
   1 amplified
   1 amphibians
   1 amphibian
-  1 amount
   1 ammonia
   1 amiss
   1 ambitions
@@ -6438,6 +6446,7 @@
   1 aligned
   1 align
   1 alfvenic
+  1 alertness
   1 alert
   1 aldous
   1 alcoholism
@@ -6463,7 +6472,6 @@
   1 aftermath
   1 afterglow
   1 affiliate
-  1 affecting
   1 aerospace
   1 aerosols
   1 aerojet

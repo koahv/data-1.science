@@ -1,0 +1,13 @@
+---
+layout: post
+title: "How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL"
+date:  2016-08-06 06:58:26 
+categories:  Linux       
+author:  Tecmint                                                       
+tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+---
+
+
+> Title:&nbsp;How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL6 AugLearn more
+
+[Visit Link](https://www.linux.com/learn/how-encrypt-and-decrypt-files-and-directories-using-tar-and-openssl)

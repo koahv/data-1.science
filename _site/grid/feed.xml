@@ -4,11 +4,481 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-08-15T08:30:56+00:00</updated>
+<updated>2017-10-24T16:46:00+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-11-02:/448149</id>
+	<link href="http://www.esa.int/ESA_Multimedia/Videos/2017/10/Sentinel-5P_prepared_for_liftoff" rel="alternate" type="text/html"/>
+	<title type="html">Sentinel-5P timelapse</title>
+	<summary type="html"><![CDATA[<p>A look back on the preparations for the 13 October liftoff of Sentinel-5P</p>]]></summary>
+	<content type="html"><![CDATA[<img src="http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/10/sentinel-5p_before_encapsulation/17230117-1-eng-GB/Sentinel-5P_before_encapsulation_large.jpg" width="600"><br>
+		A look back on the preparations for the 13 October liftoff of Sentinel-5P]]></content>
+	<updated>2017-11-02T09:30:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.esa.int/</id>
+		<link rel="self" href="http://www.esa.int/"/>
+		<updated>2017-11-02T09:30:00+00:00</updated>
+		<title>ESA Top News</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-13:/453083</id>
+	<link href="https://phys.org/news/2017-11-photosynthesis.html" rel="alternate" type="text/html"/>
+	<title type="html">Learning from photosynthesis: Synthetic circuits can harvest light energy</title>
+	<summary type="html"><![CDATA[<p>The green sulfur bacterium makes its home in the chilly waters of the Black Sea. To eke out its lone...</p>]]></summary>
+	<content type="html"><![CDATA[<p>The green sulfur bacterium makes its home in the chilly waters of the Black Sea. To eke out its lonely existence, this life form scavenges energy from the feeble sunlight available to it at a depth of over 250 feet.</p>]]></content>
+	<updated>2017-11-13T16:22:30+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-11-13T16:22:30+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="materials science"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/learningfrom.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-10:/452062</id>
+	<link href="https://phys.org/news/2017-11-closer-crops-yield.html" rel="alternate" type="text/html"/>
+	<title type="html">One step closer to crops with twice the yield</title>
+	<summary type="html"><![CDATA[<p>Scientists from Wageningen University &amp; Research have found natural genetic variation for photosynth...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Scientists from Wageningen University &amp; Research have found natural genetic variation for photosynthesis in plants and are unravelling it to the DNA level. As a result it should be possible to breed crops that use photosynthesis more effectively in the future, increasing their yield and enabling them to capture more CO2 from the air in the soil. This represents a major step on the long road to solving global food challenges and realising the Paris climate agreement.</p>]]></content>
+	<updated>2017-11-10T14:48:12+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-11-10T14:48:12+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="biotechnology"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-1-onestepclose.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-10:/451999</id>
+	<link href="https://phys.org/news/2017-11-earliest-life-evolved-earth.html" rel="alternate" type="text/html"/>
+	<title type="html">New study sheds light on how earliest forms of life evolved on Earth</title>
+	<summary type="html"><![CDATA[<p>A new study led by ANU has shed light on how the earliest forms of life evolved on Earth about four ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>A new study led by ANU has shed light on how the earliest forms of life evolved on Earth about four billion years ago.</p>]]></content>
+	<updated>2017-11-10T13:43:02+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-11-10T13:43:02+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="evolution"/>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-newstudyshed.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-09:/451669</id>
+	<link href="https://www.sciencedaily.com/releases/2017/11/171109135703.htm" rel="alternate" type="text/html"/>
+	<title type="html">Dawn spacecraft explores dwarf planet Ceres' interior evolution</title>
+	<summary type="html"><![CDATA[<p>Surface features on Ceres -- the largest world between Mars and Jupiter -- and its interior evolutio...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Surface features on Ceres -- the largest world between Mars and Jupiter -- and its interior evolution have a closer relationship than one might think. A recent study analyzed Ceres' surface features to reveal clues about the dwarf planet's interior evolution.</p>]]></content>
+	<updated>2017-11-09T18:57:03+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-11-09T18:57:03+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/11/171109135703-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-03:/449039</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-11/niom-bac110317.php" rel="alternate" type="text/html"/>
+	<title type="html">Brain's alertness circuitry conserved through evolution</title>
+	<summary type="html"><![CDATA[<p>(NIH/National Institute of Mental Health) Using a molecular method likely to become widely adopted b...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>NIH/National Institute of Mental Health</i>) Using a molecular method likely to become widely adopted by the field, researchers have discovered brain circuitry essential for alertness, or vigilance -- and for brain states more generally. Strikingly, the same cell types and circuits are engaged during alertness in zebra fish and mice, species whose evolutionary forebears parted ways hundreds of millions of years ago. This suggests that the human brain is likely similarly wired for this state critical to survival.</p>]]></content>
+	<updated>2017-11-03T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-11-03T04:00:00+00:00</updated>
+		<title>EurekAlert! - Chemistry, Physics and Materials Sciences</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-02:/448548</id>
+	<link href="https://futurism.com/we-just-completed-a-record-breaking-test-of-a-revolutionary-ion-engine/" rel="alternate" type="text/html"/>
+	<title type="html">We Just Completed a Record-Breaking Test of a Revolutionary Ion Engine</title>
+	<summary type="html"><![CDATA[<p>X3 Hall-effect
+When it comes to the future of space exploration, a number of new technologies are be...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>X3 Hall-effect</h2>
+<p>When it comes to the future of space exploration, a number of new technologies are being investigated. Foremost among these are new forms of propulsion that will be able to balance fuel-efficiency with power. Not only would engines that are capable of achieving a great deal of thrust using less fuel be cost-effective, they will be able to ferry astronauts to destinations like Mars and beyond in less time.</p>
+<p>This is where engines like the X3 Hall-effect thruster comes into play. This thruster, which is being developed by NASA&rsquo;s Glenn Research Center in conjunction with the US Air Force and the University of Michigan, is a scaled-up model of the kinds of thrusters used by the&nbsp;<a href="https://dawn.jpl.nasa.gov/" rel="noopener noreferrer" target="_blank"><em>Dawn</em>&nbsp;spacecraft</a>. During a&nbsp;<a href="http://ns.umich.edu/new/releases/25192-thruster-for-mars-mission-breaks-records" rel="noopener noreferrer" target="_blank">recent test</a>, this thruster shattered the previous record for a Hall-effect thruster, achieving higher power and superior thrust.</p>
+<p>Hall-effect thrusters have garnered favor with mission planners in recent years because of their extreme efficiency. They function by turning small amounts of propellant (usually inert gases like xenon) into charged plasma with electrical fields, which is then accelerated very quickly using a magnetic field. Compared to chemical rockets, they can achieve top speeds using a tiny fraction of their fuel.</p>
+<p>However, a major challenge so far has been building a Hall-effect thruster that is capable of achieving high levels of thrust as well. While fuel efficient, conventional ion engines typically produce only a fraction of the thrust produced by rockets that rely on solid-chemical propellants. Hence why NASA has been developing the scaled-up model X3 thruster in conjunction with its partners.</p>
+<p>The development of the thruster has been overseen by Alec Gallimore, a professor of aerospace engineering and the Robert J. Vlasic Dean of Engineering at the University of Michigan. As he indicated in a recent Michigan News&nbsp;<a href="http://ns.umich.edu/new/releases/25192-thruster-for-mars-mission-breaks-records" rel="noopener noreferrer" target="_blank">press statement</a>:</p>
+<blockquote><p><em>&ldquo;Mars missions are just on the horizon, and we already know that Hall thrusters work well in space. They can be optimized either for carrying equipment with minimal energy and propellant over the course of a year or so, or for speed&mdash;carrying the crew to Mars much more quickly.&rdquo;</em></p></blockquote>
+<h2>New Records</h2>
+<p>In recent tests, the X3 shattered the previous thrust record set by a Hall thruster, achieving 5.4 newtons of force compared with the old record of 3.3 newtons. The X3 also more than doubled the operating current (250 amperes vs. 112 amperes) and ran at a slightly higher power than the previous record-holder (102 kilowatts vs. 98 kilowatts). This was encouraging news, since it means that the engine can offer faster acceleration, which means shorter travel times.</p>
+<p>The test was carried about by Scott Hall and Hani Kamhawi at the NASA Glenn Research Center in Cleveland. Whereas Hall is a doctoral student in aerospace engineering at U-M, Kamhawi is NASA Glenn research scientist who has been heavily involved in the development of the X3. In addition, Kamhawi is also Hall&rsquo;s NASA mentor, as part of the&nbsp;<a href="https://www.nasa.gov/directorates/spacetech/strg/archives_nstrf.html" rel="noopener noreferrer" target="_blank">NASA Space Technology Research Fellowship</a>&nbsp;(NSTRF).</p>
+<figure><img src="https://futurism.com/wp-content/uploads/2017/11/Dawn-Ion-engine-NASA-JPL-600x338.jpg" alt="" width="600" height="338"><figcaption>Artist&rsquo;s concept of Dawn mission using its blue ion engine to reach Ceres in the distance. Credit: NASA/JPL</figcaption></figure>
+<p>This test was the culmination of more than five years of research which sought to improve upon current Hall-effect designs. To conduct the test, the team relied on NASA Glenn&rsquo;s vacuum chamber, which is currently the only chamber in the US that can handle the X3 thruster. This is due to the sheer amount of exhaust the thruster produces, which can result in ionized xenon drifting back into the plasma plume, thus skewing the test results.</p>
+<p>NASA Glenn&rsquo;s setup is the only one with a vacuum pump powerful enough to create the conditions necessary to keep the exhaust clean. Hall and Kamhawi also had to build a custom thrust stand to support the X3&rsquo;s 227 kg (500 pound) frame and withstand the force it generates, since existing stands were not up to the task. After securing a test window, the team spent four weeks prepping the stand, the thruster, and setting up all the necessary connections.</p>
+<figure><img src="https://futurism.com/wp-content/uploads/2017/11/thruster-for-mars-mission-breaks-records-thruster-orig-20171023-1024x683-600x400.jpg" alt="" width="600" height="400"><figcaption>Scott Hall makes some final adjustments on the thruster before the test begins. Credit: NASA</figcaption></figure>
+<p>All the while, NASA researchers, engineers and technicians were on hand to provide support. After 20 hours of pumping to achieve a space-like vacuum inside the chamber, Hall and Kamhawi conducted a series of tests where the engine would be fired for 12-hours straight. Over the course of 25 days, the team brought the X3 up to its record-breaking power, current and thrust levels.</p>
+<h2>Future Testing</h2>
+<p>Looking ahead, the team plans to conduct more tests in Gallimore&rsquo;s lab at U-M using an upgraded vacuum chamber. These upgrades will are schedules to be completed by January of 2018, and will enable the team to conduct future tests in-house. This upgrade was made possible thanks to a $1 million USD grant, contributed in part by the Air Force Office of Scientific Research, with additional support provided by the Jet Propulsion Laboratory and U-M.</p>
+<figure><img src="https://futurism.com/wp-content/uploads/2017/11/thruster-for-mars-mission-breaks-records-firing-orig-20171023-e1509127871136-1024x607-600x356.jpg" alt="" width="600" height="356"><figcaption>A side shot of the X3 firing at 50 kilowatts. Credit: NASA</figcaption></figure>
+<p>The X3&rsquo;s power supplies are also being developed by&nbsp;<a href="http://www.rocket.com/" rel="noopener noreferrer" target="_blank">Aerojet Rocketdyne</a>, the Sacramento-based rocket and missile propulsion manufacturer that is also the lead on the propulsion system grant from NASA. By Spring of 2018, the engine is expected to be integrated with these power systems; at which point, a series of 100-hour tests that will once again be conducted at the Glenn Research Center.</p>
+<p>The X3 is one of three prototypes that NASA is investigating for future crewed missions to Mars, all of which are intended to reduce travel times and reduce the amount of fuel needed. Beyond making such missions more cost-effective, the reduced transit times are also intended to reduce the amount of radiation astronauts will be exposed to as they travel between Earth and Mars.</p>
+<p>The project is funded through NASA&rsquo;s&nbsp;<a href="https://www.nasa.gov/nextstep" rel="noopener noreferrer" target="_blank">Next Space Technologies for Exploration Partnership</a>&nbsp;(Next-STEP), which supports not just propulsion systems but also habitat systems and in-space manufacturing.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/we-just-completed-a-record-breaking-test-of-a-revolutionary-ion-engine/" target="_blank">We Just Completed a Record-Breaking Test of a Revolutionary Ion Engine</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-11-02T21:09:37+00:00</updated>
+	<author><name>Universe Today</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-11-02T21:09:37+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="robots &amp; machines"/>
+
+	<category term="hall-effect thrusters"/>
+
+	<category term="nasa"/>
+
+	<category term="rockets"/>
+
+	<category term="sci-fi visions"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-02:/448526</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-11/uot-aca103017.php" rel="alternate" type="text/html"/>
+	<title type="html">Are cities affecting evolution?</title>
+	<summary type="html"><![CDATA[<p>(University of Toronto) In the first study to take a comprehensive look at the way urbanization is a...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Toronto</i>) In the first study to take a comprehensive look at the way urbanization is affecting evolution, Professors Marc Johnson and Jason Munshi-Smith say they've found a 'wake-up call for the public, governments and other scientists.'</p>]]></content>
+	<updated>2017-11-02T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-11-02T04:00:00+00:00</updated>
+		<title>EurekAlert! - Atmospheric Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-01:/447930</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-11/uop-lpa103017.php" rel="alternate" type="text/html"/>
+	<title type="html">Luck plays a role in how language evolves, Penn team finds</title>
+	<summary type="html"><![CDATA[<p>(University of Pennsylvania) Read a few lines of Chaucer or Shakespeare and you'll get a sense of ho...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Pennsylvania</i>) Read a few lines of Chaucer or Shakespeare and you'll get a sense of how the English language has changed during the past millennium. Examining collections of annotated texts dating from the 12th to the 21st centuries, researchers found that certain linguistic changes were guided by pressures analogous to natural selection -- social, cognitive and other factors -- while others seem to have occurred purely by happenstance.</p>]]></content>
+	<updated>2017-11-01T04:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-11-01T04:00:00+00:00</updated>
+		<title>EurekAlert! - Earth Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-01:/447757</id>
+	<link href="https://www.sciencedaily.com/releases/2017/11/171101092019.htm" rel="alternate" type="text/html"/>
+	<title type="html">Revolutionizing nuclear waste reprocessing and saving money</title>
+	<summary type="html"><![CDATA[<p>Seeking a better way to capture radioactive iodides in spent nuclear reactor fuel, scientists have d...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Seeking a better way to capture radioactive iodides in spent nuclear reactor fuel, scientists have developed an extremely efficient 'molecular trap' that can be recycled and reused.</p>]]></content>
+	<updated>2017-11-01T13:20:19+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://www.sciencedaily.com/news/</id>
+		<link rel="self" href="https://www.sciencedaily.com/news/"/>
+		<updated>2017-11-01T13:20:19+00:00</updated>
+		<title>Latest Science News -- ScienceDaily</title></source>
+
+
+	<link rel="enclosure" 
+		type="image/generic" 
+		length="1"
+		href="https://www.sciencedaily.com/images/2017/11/171101092019-large.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-15:/454336</id>
+	<link href="https://futurism.com/first-time-scientists-used-gene-editing-inside-living-patient/" rel="alternate" type="text/html"/>
+	<title type="html">For the First Time, Scientists Used Gene Editing Inside a Living Patient</title>
+	<summary type="html"><![CDATA[<p>Cut and Paste
+For the first time, doctors have edited the genome of a living human patient. A 44-yea...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Cut and Paste</h2>
+<p>For the first time, doctors have <a href="http://www.the-scientist.com/?articles.view/articleNo/50957/title/Man-Receives-First-In-Vivo-Gene-Editing-Therapy/&amp;utm_content=63169272&amp;utm_medium=social&amp;utm_source=facebook/" target="_blank" rel="noopener noreferrer">edited the genome</a> of a living human patient. A 44-year-old man received the treatment at a hospital in Oakland, California on November 13.</p>
+<p>The patient suffers from Hunter syndrome, a rare genetic condition which leaves the sufferer without an enzyme that&rsquo;s used to break down complex polysaccharides, a carbohydrate. Left untreated, it can <a href="https://www.mayoclinic.org/diseases-conditions/hunter-syndrome/symptoms-causes/syc-20350706" rel="noopener noreferrer" target="_blank">cause permanent damage</a> to mental development, organ function and physical abilities. In this case, doctors have attempted to correct the condition by using zinc finger nucleuses (ZFNs). These enzymes cut a gene that&rsquo;s present in liver cells, inserting a functional copy of the gene that produces the desired enzyme.</p>
+<p></p>
+<p>The treatment was <a href="https://futurism.com/genome-editing-used-first-attempt-treat-hemophilia/" target="_blank" rel="noopener noreferrer">developed by Sangamo Therapeutics</a>, a biotechnology firm based in California. &ldquo;This is the first time someone could have a new gene put into their liver,&rdquo; said the company&rsquo;s president and CEO, Sandy Macrae, in an interview with <i>The Scientist</i>. He described performing the trial as &ldquo;a privilege and a responsibility.&rdquo;</p>
+<p>ZFNs are a more unwieldy method of <a href="https://futurism.com/hiv-can-mutate-evade-attempts-modify-crispr-gene-editing/" target="_blank" rel="noopener noreferrer">performing gene editing</a> than CRISPR Cas-9, but they do offer more precision. The implementation utilized by Sangamo reportedly offers the ability to cut at any base that might be required.</p>
+<h2>Gene Genie</h2>
+<p>A successful trial like this demonstrates how far we&rsquo;ve come in terms of being able to <a href="https://futurism.com/images/how-crispr-works-the-future-of-genetic-engineering/" target="_blank" rel="noopener noreferrer">make edits to the human genome</a>. Between CRISPR and ZFNs, we have developed powerful tools that allow us to make precise modifications &ndash; and that will allow us to treat a wide variety of different conditions.</p>
+<p>This procedure is part of a larger trial being carried out by Sangamo, which will also consist of experimental treatments for people suffering from hemophilia B and Hurler syndrome, as well as Hunter syndrome. All three diseases are caused by absent or non-functional genes, which can now be inserted thanks to these cutting-edge techniques.</p>
+<p>The use of ZFNs to treat Hunter syndrome offers up a huge improvement over the way the disease is addressed at present. The current method typically involves weekly infusions of <a href="https://explorist.futurism.com/biologic-drugs-transforming-medicine/" target="_blank" rel="noopener noreferrer">enzyme replacement therapy</a>. While this has proven to be effective, since the patient isn&rsquo;t actually producing the enzymes, it&rsquo;s an ongoing treatment that consumes a lot of time and money. <figure><a href="https://futurism.com/images/how-crispr-works-the-future-of-genetic-engineering/" rel="noopener noreferrer" target="_blank"><img src="https://futurism.com/wp-content/uploads/2015/01/Crispr-Cas-9.jpg" alt="How CRISPR Works: The Future of Genetic Engineering and Designer Humans"></a><figcaption><strong><a href="https://futurism.com/images/how-crispr-works-the-future-of-genetic-engineering/" target="_blank" rel="noopener noreferrer">Click to View Full Infographic</a></strong></figcaption></figure>
+</p><p>Conversely, ZFNs make lasting changes to the human body that remove the problem entirely. It&rsquo;s easy to see how this technique could have a huge impact on the patient&rsquo;s quality of life &ndash; it&rsquo;s a matter of nipping the issue in the bud, rather than addressing it continually.&nbsp;The next step will be to figure out how this technique might be used to treat other conditions.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/first-time-scientists-used-gene-editing-inside-living-patient/" target="_blank">For the First Time, Scientists Used Gene Editing Inside a Living Patient</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-11-15T18:22:19+00:00</updated>
+	<author><name>Brad Jones</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-11-15T18:22:19+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="health &amp; medicine"/>
+
+	<category term="hunter syndrome"/>
+
+	<category term="sangamo therapeutics"/>
+
+	<category term="zfns"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-14:/453601</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-11/fau-brh111317.php" rel="alternate" type="text/html"/>
+	<title type="html">Bioengineered robotic hand with its own nervous system will sense touch</title>
+	<summary type="html"><![CDATA[<p>(Florida Atlantic University) Researchers are developing a first-of-its-kind bioengineered robotic h...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Florida Atlantic University</i>) Researchers are developing a first-of-its-kind bioengineered robotic hand that will actually feel and adapt to its environment. This 'living' robot will have its own peripheral nervous system directly linking robotic sensors and actuators.</p>]]></content>
+	<updated>2017-11-14T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-11-14T05:00:00+00:00</updated>
+		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-13:/453059</id>
+	<link href="http://news.mit.edu/2017/crispr-carrying-nanoparticles-edit-genome-1113" rel="alternate" type="text/html"/>
+	<title type="html">CRISPR-carrying nanoparticles edit the genome</title>
+	<summary type="html"><![CDATA[<p>In a new study, MIT researchers have developed nanoparticles that can deliver the CRISPR genome-edit...</p>]]></summary>
+	<content type="html"><![CDATA[<p>In a new study, MIT researchers have developed nanoparticles that can deliver the CRISPR genome-editing system and specifically modify genes in mice. The team used nanoparticles to carry the CRISPR components, eliminating the need to use viruses for delivery.</p>
+
+
+
+<p>Using the new delivery technique, the researchers were able to cut out certain genes in about 80 percent of liver cells, the best success rate ever achieved with CRISPR in adult animals.</p>
+
+
+
+<p>&ldquo;What&rsquo;s really exciting here is that we&rsquo;ve shown you can make a nanoparticle that can be used to permanently and specifically edit the DNA in the liver of an adult animal,&rdquo; says Daniel Anderson, an associate professor in MIT&rsquo;s Department of Chemical Engineering and a member of MIT&rsquo;s Koch Institute for Integrative Cancer Research and Institute for Medical Engineering and Science (IMES).</p>
+
+
+
+<p>One of the genes targeted in this study, known as Pcsk9, regulates cholesterol levels. Mutations in the human version of the gene are associated with a rare disorder called dominant familial hypercholesterolemia, and the FDA recently approved two antibody drugs that inhibit Pcsk9. However these antibodies need to be taken regularly, and for the rest of the patient&rsquo;s life, to provide therapy. The new nanoparticles permanently edit the gene following a single treatment, and the technique also offers promise for treating other liver disorders, according to the MIT team.</p>
+
+
+
+<p>Anderson is the senior author of the study, which appears in the Nov. 13 issue of <em>Nature Biotechnology</em>. The paper&rsquo;s lead author is Koch Institute research scientist Hao Yin. Other authors include David H. Koch Institute Professor Robert Langer of MIT, professors Victor Koteliansky and Timofei Zatsepin of the Skolkovo Institute of Science and Technology, and Professor Wen Xue of the University of Massachusetts Medical School.</p>
+
+
+
+<p><strong>Targeting disease</strong></p>
+
+
+
+<p>Many scientists are trying to develop safe and efficient ways to deliver the components needed for CRISPR, which consists of a DNA-cutting enzyme called Cas9 and a short RNA that guides the enzyme to a specific area of the genome, directing Cas9 where to make its cut.</p>
+
+
+
+<p>In most cases, researchers rely on viruses to carry the gene for Cas9, as well as the RNA guide strand. In 2014, Anderson, Yin, and their colleagues developed a nonviral delivery system in the first-ever demonstration of curing a disease (the liver disorder tyrosinemia) with CRISPR in an adult animal. However, this type of delivery requires a high-pressure injection, a method that can also cause some damage to the liver.</p>
+
+
+
+<p>Later, the researchers showed they could deliver the components without the high-pressure injection by packaging messenger RNA (mRNA) encoding Cas9 into a nanoparticle instead of a virus. Using this approach, in which the guide RNA was still delivered by a virus, the researchers were able to edit the target gene in about 6 percent of hepatocytes, which is enough to treat tyrosinemia.</p>
+
+
+
+<p>While that delivery technique holds promise, in some situations it would be better to have a completely nonviral delivery system, Anderson says. One consideration is that once a particular virus is used, the patient will develop antibodies to it, so it couldn&rsquo;t be used again. Also, some patients have pre-existing antibodies to the viruses being tested as CRISPR delivery vehicles.</p>
+
+
+
+<p>In the new <em>Nature Biotechnology</em> paper, the researchers came up with a system that delivers both Cas9 and the RNA guide using nanoparticles, with no need for viruses. To deliver the guide RNAs, they first had to chemically modify the RNA to protect it from enzymes in the body that would normally break it down before it could reach its destination.</p>
+
+
+
+<p>The researchers analyzed the structure of the complex formed by Cas9 and the RNA guide, or sgRNA, to figure out which sections of the guide RNA strand could be chemically modified without interfering with the binding of the two molecules. Based on this analysis, they created and tested many possible combinations of modifications.</p>
+
+
+
+<p>&ldquo;We used the structure of the Cas9 and sgRNA complex as a guide and did tests to figure out we can modify as much as 70 percent of the guide RNA,&rdquo; Yin says. &ldquo;We could heavily modify it and not affect the binding of sgRNA and Cas9, and this enhanced modification really enhances activity.&rdquo;</p>
+
+
+
+<p><strong>Reprogramming the liver</strong></p>
+
+
+
+<p>The researchers packaged these modified RNA guides (which they call enhanced sgRNA) into lipid nanoparticles, which they had previously used to deliver other types of RNA to the liver, and injected them into mice along with nanoparticles containing mRNA that encodes Cas9.</p>
+
+
+
+<p>They experimented with knocking out a few different genes expressed by hepatocytes, but focused most of their attention on the cholesterol-regulating Pcsk9 gene. The researchers were able to eliminate this gene in more than 80 percent of liver cells, and the Pcsk9 protein was undetectable in these mice. They also found a 35 percent drop in the total cholesterol levels of the treated mice.</p>
+
+
+
+<p>The researchers are now working on identifying other liver diseases that might benefit from this approach, and advancing these approaches toward use in patients.</p>
+
+
+
+<p>&ldquo;I think having a fully synthetic nanoparticle that can specifically turn genes off could be a powerful tool not just for Pcsk9 but for other diseases as well,&rdquo; Anderson says. &ldquo;The liver is a really important organ and also is a source of disease for many people. If you can reprogram the DNA of your liver while you&rsquo;re still using it, we think there are many diseases that could be addressed.&rdquo;</p>
+
+
+
+<p>&ldquo;We are very excited to see this new application of nanotechnology open new avenues for gene editing,&rdquo; Langer adds.</p>
+
+
+
+<p>The research was funded by the National Institutes of Health (NIH), the Russian Scientific Fund, the Skoltech Center, and the Koch Institute Support (core) Grant from the National Cancer Institute.</p>]]></content>
+	<updated>2017-11-13T15:59:59+00:00</updated>
+	<author><name>Anne Trafton | MIT News Office</name></author>
+	<source>
+		<id>http://news.mit.edu/mitresearch-rss.xml</id>
+		<link rel="self" href="http://news.mit.edu/mitresearch-rss.xml"/>
+		<updated>2017-11-13T15:59:59+00:00</updated>
+		<title>MIT Research News</title></source>
+
+
+	<link rel="enclosure" 
+		type="image" 
+		length="1"
+		href="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Nonviral-CRISPR.jpg"/>
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-09:/451640</id>
+	<link href="https://futurism.com/epa-approved-release-mosquito-killing-insects-grown-lab/" rel="alternate" type="text/html"/>
+	<title type="html">The EPA Just Approved the Release of Mosquito-Killing Insects Grown in the Lab</title>
+	<summary type="html"><![CDATA[<p>Mosquito-Killing Mosquitoes
+For more than 4,000 years, humans have battled mosquito-borne diseases, ...</p>]]></summary>
+	<content type="html"><![CDATA[<h2>Mosquito-Killing Mosquitoes</h2>
+<p>For more than <a href="https://www.cdc.gov/malaria/about/history/" target="_blank" rel="noopener noreferrer">4,000 years</a>, humans have battled mosquito-borne diseases, and now, the U.S. Environmental Protection Agency (EPA) has approved a line of lab-grown mosquitoes designed to reduce the number of these illness-causing insects.</p>
+<p>If you get an itchy bite over the summer, it&rsquo;s most probably from a member of the species Aedes albopictus, otherwise known as the Asian tiger mosquito. On November 3, the EPA approved the release of male Asian tiger mosquitoes infected with a bacterium that prevents them from successfully reproducing.</p>
+<p>Kentucky-based biotech company <a href="http://mosquitomate.com/?v=3.0" target="_blank" rel="noopener noreferrer">MosquitoMate</a> infected the lab-grown male mosquitoes with <a href="https://www.epa.gov/pesticides/epa-grants-extension-experimental-use-permit-wolbachia-mosquito" target="_blank" rel="noopener noreferrer">Wolbachia pipientis</a>, a naturally occurring bacteria found in many insects. This bacteria cannot be transmitted to mammals, and eggs fertilized by infected males will not hatch. In the wild, Wolbachia protects individual <a href="https://qz.com/676813/in-a-world-first-scientists-have-found-a-way-to-use-bacteria-to-fight-the-zika-virus/" target="_blank" rel="noopener noreferrer">mosquitoes from viruses</a>, but male mosquitoes do not bite humans regardless.</p>
+<p></p>
+<p>MosquitoMate has EPA permission to sell the lab-grown mosquitoes to municipal bodies and individuals in 20 states. <a href="https://qz.com/1123456/the-epa-has-approved-the-release-of-weaponized-mosquitoes-in-20-us-states/" target="_blank" rel="noopener noreferrer">Quartz reports that</a> the approved states are those with weather similar to that of Kentucky, New York, and California, where MosquitoMate tested the bugs&rsquo; effectiveness. The mosquitoes have also been officially registered as a biopesticide.</p>
+<h2>Fighting Disease</h2>
+<p>On their website, <a href="http://mosquitomate.com/how-it-works/" target="_blank" rel="noopener noreferrer">MosquitoMate claims</a> that the release of their modified males reduces biting mosquito populations by 80 percent, and currently, they market their line of lab-grown mosquitoes as a method of pest control, helping towns and their citizens see fewer itchy bites in the warm months.</p>
+<p>However, mosquitoes of the Aedes genus carry diseases like Zika, dengue, yellow fever, and Chikungunya. The most common vector of those diseases is the species Aedes aegypti, which is <a href="https://en.wikipedia.org/wiki/Aedes_aegypti#/media/File:Global_Aedes_aegypti_distribution_(e08347).png" target="_blank" rel="noopener noreferrer">relatively uncommon in the U.S.</a>, but a scourge in tropical climates around the world. Wolbachia does not naturally occur in this particular species.</p>
+<p><a href="http://www.nature.com/news/us-government-approves-killer-mosquitoes-to-fight-disease-1.22959?WT.mc_id=TWT_NatureNews&amp;sf148235237=1" rel="noopener noreferrer" target="_blank">Nature reports that</a> MosquitoMate has tested Wolbachia-infected A. aegypti mosquitoes <a href="http://keysmosquito.org/2017/04/18/fkmcd-releases-wolbachia-mosquitoes-on-stock-island/" target="_blank" rel="noopener noreferrer">in the Florida keys</a> and in Fresno, Calfornia. If the bacteria shows the same effectiveness in this species, the company&rsquo;s mosquitoes could be a tiny, flying weapon in our battle against some of the <a href="https://www.wired.com/2016/06/zika-mosquitos/" target="_blank" rel="noopener noreferrer">deadliest diseases on the planet</a>.</p>
+<figure><a href="https://futurism.com/images/in-the-footsteps-of-zika-the-next-critter-borne-viruses-infographic/" rel="noopener noreferrer" target="_blank"><img src="https://futurism.com/wp-content/uploads/2016/12/In-the-Footsteps-of-Zika_home_-v1.jpg" alt="In the Footsteps of Zika: The Next Critter-Borne Viruses [INFOGRAPHIC]"></a><figcaption><strong><a href="https://futurism.com/images/in-the-footsteps-of-zika-the-next-critter-borne-viruses-infographic/" target="_blank" rel="noopener noreferrer">Click to View Full Infographic</a></strong></figcaption></figure>
+<p>Notably, MosquitoMate&rsquo;s lab-grown mosquitoes are not genetically engineered &mdash; they&rsquo;re infected with the Wolbachia bacterium after birth &mdash; but others are using genetic engineering to try to solve the world&rsquo;s mosquito problem.</p>
+<p>Bill Gates has invested millions toward <a href="https://futurism.com/bill-gates-doubles-down-on-eradicating-mosquitoes-with-genetic-engineering/" target="_blank" rel="noopener noreferrer">eradicating malaria</a> through genetically modified mosquitoes, while researchers from Johns Hopkins University are working on ones that <a href="https://futurism.com/gene-editing-could-end-mosquito-borne-disease/" target="_blank" rel="noopener noreferrer">resist the dengue fever virus.</a></p>
+<p>In Brazil, U.K.-based company Oxitec has been <a href="https://futurism.com/factory-made-mosquitoes-can-reduce-disease-transmitting-populations-by-90/" target="_blank" rel="noopener noreferrer">testing a group</a> of A. aegypti that have been genetically modified to contain a gene that kills their progeny. When the company attempted <a href="https://futurism.com/fda-approved-genetically-modified-mosquitoes-will-combat-zika-virus/" target="_blank" rel="noopener noreferrer">to trial their mosquitoes in Florida</a>, however, one community voted to prevent their release, though the rest of their county was in favor.</p>
+<figure><img src="https://futurism.com/wp-content/uploads/2017/11/Aedes_aegypti_CDC-Gathany-2.jpg" alt="An Aedes aegypti mosquito. (Image credit: US Center for Disease Control)" width="700" height="380"><figcaption>An <i>Aedes aegypti </i>mosquito. Image credit: U.S. Center for Disease Control</figcaption></figure>
+<p>Despite reassurances that genetic engineering is safe, <a href="https://futurism.com/genetic-engineering-a-primer/" target="_blank" rel="noopener noreferrer">fears of this technique clearly remain.</a> Additionally, some are <a href="https://futurism.com/scientists-could-eradicate-malaria-by-altering-mosquitoes-dna-but-should-they/" target="_blank" rel="noopener noreferrer">worried about the potential ecological consequences</a> of messing with the spread of these biting insects.</p>
+<p>However, with mosquitoes causing an estimated <a href="https://www.smithsonianmag.com/smart-news/mosquitoes-kill-more-humans-human-murderers-do-180951272/" target="_blank" rel="noopener noreferrer">725,000 deaths per year</a>, such experiments can be worth consideration so long as they are conducted smartly.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/epa-approved-release-mosquito-killing-insects-grown-lab/" target="_blank">The EPA Just Approved the Release of Mosquito-Killing Insects Grown in the Lab</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-11-09T19:06:07+00:00</updated>
+	<author><name>Claudia Geib</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-11-09T19:06:07+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="health &amp; medicine"/>
+
+	<category term="epa"/>
+
+	<category term="gmo"/>
+
+	<category term="mosquito"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-19:/455931</id>
+	<link href="https://futurism.com/insects-flying-declined-75-percent/" rel="alternate" type="text/html"/>
+	<title type="html">27-Year Study Finds the Amount of Insects Flying in the Air Has Declined 75 Percent</title>
+	<summary type="html"><![CDATA[<p>Bug&nbsp;researchers in Germany are puzzled.
+New data suggests&nbsp;the total population of flying insects the...</p>]]></summary>
+	<content type="html"><![CDATA[<p>Bug&nbsp;researchers in Germany are puzzled.</p>
+<p>New data suggests&nbsp;the total population of flying insects there has declined a whopping 75% in the past 27 years. And no one knows why.</p>
+<p>A study released Wednesday in the journal&nbsp;<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809#sec002" rel="noopener noreferrer" target="_blank">PLOS ONE</a>&nbsp;details a longitudinal study by German researchers to measure &ldquo;flying insect biomass&rdquo; &mdash; the weight of all flying bugs&nbsp;&mdash; in 63 protected spots around the country.</p>
+<p>The&nbsp;scientists surveyed places like dunes, grasslands, and forests, using&nbsp;trapping tents to collect over 118 pounds of bugs over the 27 year period. They were expecting to find some&nbsp;population decreases, but this extreme decline, they said, is &ldquo;alarming&rdquo;.</p>
+<p>The most recent&nbsp;<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169156" rel="noopener noreferrer" target="_blank">Living Planet Index</a>&nbsp;(which measures biodiversity and population&nbsp;trends&nbsp;in fish, amphibians, reptiles, birds and mammals around the world) suggested that wildlife abundance on&nbsp;Earth decreased by as much as 58%&nbsp;between&nbsp;1970&nbsp;and 2012.&nbsp;<a href="https://link.springer.com/article/10.1007%2Fs10841-017-9972-4" rel="noopener noreferrer" target="_blank">Butterfly</a>, bee, and moth populations have&nbsp;previously been shown to be in decline&nbsp;across Europe.</p>
+<p>But this widespread insect death&nbsp;struck the researchers as extreme.&nbsp;At the peak of summer heat, when there are usually more bugs out than in the spring and fall,&nbsp;the&nbsp;drop&nbsp;was even&nbsp;more pronounced, and bug counts were down 82%,&nbsp;&mdash; that&rsquo;s 7% more than the average&nbsp;decline over the 27-year period.</p>
+<p>The lack of insects, of course, also&nbsp;problematic for small critters who eat flying bugs and has ripple effects up the food chain. A majority (roughly 80%) of plants rely on insects for pollination, and birds gobble them for sustenance.&nbsp; German birds are feeling the squeeze on their food supply&nbsp;&mdash;&nbsp;<a href="https://www.nabu.de/news/2017/10/23284.html" rel="noopener noreferrer" target="_blank">new research</a>&nbsp;published Thursday shows that Germany&nbsp;lost 15% of its non-endangered bird population in the past 12 years.</p>
+<p>The researchers aren&rsquo;t sure what&rsquo;s causing this precipitous fall. Across the diverse&nbsp;swath of German habitats studied, all spots saw similar declines, suggesting the decrease had nothing to do with landscape changes.&nbsp;And the scientists don&rsquo;t think&nbsp;shifts&nbsp;in weather, land use, or climate change are valid explanations either. If anything,&nbsp;rising global temperatures should increase bug populations, the authors argue, because insect biomass is &ldquo;positively related&rdquo; to temperature, according to their models.</p>
+<p>Other experts&nbsp;have pointed out, however, that not all bugs thrive on a warming Earth.&nbsp;<a href="https://www.washingtonpost.com/national/health-science/a-bugged-life-warm-winter-could-mean-more-insects/2012/03/07/gIQA5b033R_story.html?utm_term=.45b99b20780a" rel="noopener noreferrer" target="_blank">The Washington Post</a>&nbsp;reports that an especially warm spring&nbsp;could bring some bugs (like bees) out early,&nbsp;only to&nbsp;starve when there&rsquo;s not enough food.</p>
+<p>But the German researchers are zeroing in on one possible explanation&nbsp;for their findings:&nbsp;&ldquo;Pesticide usage, year-round tillage, increased use of fertilizers and frequency of agronomic measures&hellip; may form a plausible cause,&rdquo; they&nbsp;wrote.</p>
+<p>More research is needed to know the role the agricultural industry is playing, but the German Farmer&rsquo;s Union is already&nbsp;playing defense. The association&rsquo;s secretary general,&nbsp;Bernhard Kr&uuml;sken, told&nbsp;<a href="http://www.dw.com/en/insect-and-bird-populations-declining-dramatically-in-germany/a-41030897" rel="noopener noreferrer" target="_blank">Deutsche Welle</a>&nbsp;that &ldquo;considering that the insect count was done exclusively in protected habitats, this shows that it would be premature to quickly point at agriculture.&rdquo;</p>
+<p>Regardless of the cause, scientists worldwide have been sounding the alarm&nbsp;about declining insect populations for months.</p>
+<p>&ldquo;If you&rsquo;re an insect-eating bird living in that area, four-fifths of your food is gone in the last quarter-century, which is staggering,&rdquo; Dave Goulson, an ecologist at the University of Sussex, told&nbsp;<a href="http://www.sciencemag.org/news/2017/05/where-have-all-insects-gone" rel="noopener noreferrer" target="_blank">Science Magazine</a>&nbsp;earlier this year. &ldquo;One almost hopes&rdquo; the German trend is&nbsp;unique, he said, and not reverberating around the globe.</p>
+<p>The post <a rel="noopener noreferrer" href="https://futurism.com/insects-flying-declined-75-percent/" target="_blank">27-Year Study Finds the Amount of Insects Flying in the Air Has Declined 75 Percent</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
+	<updated>2017-11-19T13:00:23+00:00</updated>
+	<author><name>Business Insider</name></author>
+	<source>
+		<id>https://futurism.com</id>
+		<link rel="self" href="https://futurism.com"/>
+		<updated>2017-11-19T13:00:23+00:00</updated>
+		<title>Futurism</title></source>
+
+	<category term="sci-fi visions"/>
+
+	<category term="bugs"/>
+
+	<category term="environment"/>
+
+	<category term="extinction"/>
+
+	<category term="insects"/>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-10-25:/444931</id>
@@ -1410,398 +1880,6 @@ Chinese scientists have successfully used CRISPR to create twelve healthy pigs t
 		type="image/png" 
 		length="1"
 		href="http://www.renewableenergyworld.com/content/rew/en/articles/2017/10/li-ion-tech-get-first-testing-platform-for-battery-lifetime/_jcr_content/leftcolumn/article/headerimage.img.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/444142</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171024133733.htm" rel="alternate" type="text/html"/>
-	<title type="html">Supercomputers help scientists improve seismic forecasts for California</title>
-	<summary type="html"><![CDATA[<p>Researchers have used the Stampede1 and 2 supercomputers to complete one of the world's largest eart...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Researchers have used the Stampede1 and 2 supercomputers to complete one of the world's largest earthquake simulation models: The Uniform California Earthquake Rupture Forecast (UCERF3). The simulations showed that in the week following a magnitude 7.0 earthquake, the likelihood of another magnitude 7.0 quake in California would be up to 300 times greater than the week before.</p>]]></content>
-	<updated>2017-10-24T17:37:33+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-24T17:37:33+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171024133733-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-25:/444479</id>
-	<link href="https://phys.org/news/2017-10-atlas-photon-tagged-jet-quenching-quark-gluon.html" rel="alternate" type="text/html"/>
-	<title type="html">ATLAS Experiment studies photon-tagged jet quenching in the quark-gluon plasma</title>
-	<summary type="html"><![CDATA[<p>Collisions of lead nuclei in the LHC form the hot, dense medium known as the quark-gluon plasma (QGP...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Collisions of lead nuclei in the LHC form the hot, dense medium known as the quark-gluon plasma (QGP). Experimentally, the QGP is characterised by the collective flow of emerging quarks and gluons. They fragment into highly collimated "jets" of particles that in turn lose energy through a phenomenon known as jet quenching. Studying this effect can improve the understanding of quantum chromodynamics, the theory of the strong nuclear interaction that governs the behaviour of the QGP.</p>]]></content>
-	<updated>2017-10-25T10:48:56+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-25T10:48:56+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="general physics"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/1-3-atlasexperim.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/444248</id>
-	<link href="https://futurism.com/the-next-most-powerful-supercomputer-in-the-u-s-is-almost-complete/" rel="alternate" type="text/html"/>
-	<title type="html">The Next Most Powerful Supercomputer in the U.S. Is Almost Complete</title>
-	<summary type="html"><![CDATA[<p>Computing for Science
-Inside one of the rooms of the Oak Ridge National Laboratory (ORNL) at Tenness...</p>]]></summary>
-	<content type="html"><![CDATA[<h2>Computing for Science</h2>
-<p>Inside one of the rooms of the <a href="https://www.olcf.ornl.gov/" target="_blank" rel="noopener noreferrer">Oak Ridge National Laboratory (ORNL)</a> at Tennessee, the next fastest and most powerful supercomputer in the U.S. is getting ready to solve some of science&rsquo;s biggest questions. Meet the&nbsp;<a href="https://www.olcf.ornl.gov/summit/" target="_blank" rel="noopener noreferrer">Summit supercomputer</a>, which is designed to be the predecessor to ORNL&rsquo;s current high-performance supercomputer called Titan.</p>
-<p>Supercomputers have been around for some time now. The high-performance computing these devices are capable of make them ideal for running larger and more complex computational problems, such as those that deal with questions of science. For Oak Ridge Leadership Computing Facility project director Buddy Bland, these type of big problems would make a good test for Summit&rsquo;s capabilities.</p>
-<p></p>
-<p>&ldquo;We will try to run some big problems,&rdquo; <a href="http://www.knoxnews.com/story/news/2017/10/17/summit-supercomputer-exascale-oak-ridge-national-lab/750965001/" target="_blank" rel="noopener noreferrer">he told the </a><i><a href="http://www.knoxnews.com/story/news/2017/10/17/summit-supercomputer-exascale-oak-ridge-national-lab/750965001/" target="_blank" rel="noopener noreferrer">Knoxville News Sentinel</a></i>, referring to the period of &ldquo;early science&rdquo; Summit will be busy with as soon as it becomes operational in 2018. The remaining parts of Summit will come in February, Bland said, &ldquo;Then we would expect the machine to be built up and accepted sometime next summer.&rdquo;</p>
-<p>Once built, the science problems Summit will tackle include testing and developing stronger, lighter manufacturing materials; the use of sound waves to model the inside of the Earth; and other astrophysics projects that explore the universe&rsquo;s origins.</p>
-<p>&ldquo;For instance, we&rsquo;ll be looking into why supernovae explode,&rdquo; Bland said. &ldquo;When stars explode, they create all of the elements we find in the universe, everything that&rsquo;s part of you and me and part of this planet gets created.&rdquo; The ORNL team expects Summit to be available for open research by 2019.</p>
-<h2>Radically More Powerful Supercomputer</h2>
-<p>Currently, the world&rsquo;s fastest and most powerful supercomputer is in China.&nbsp;<a href="https://futurism.com/china-builds-the-worlds-fastest-supercomputer-93-petaflops/" target="_blank" rel="noopener noreferrer">The Sunway TaihuLight</a>&nbsp;is capable of 93 peta floating-point operations per second (FLOPS) of computing power, with a theoretical peak of 125 petaFLOPS. A FLOP measures computing speed, and a petaFLOP is equal to one thousand million million (10<sup>15</sup>) FLOPS. Today&rsquo;s regular computers, in contrast, can only perform about 63GFLOPS, although <a href="https://www.popsci.com/intel-teraflop-chip" target="_blank" rel="noopener noreferrer">Intel has developed a chip</a> that can give your desktop computer some teraFLOPS of power.<figure><a href="https://futurism.com/images/meet-powerful-computers-world/" rel="noopener noreferrer" target="_blank"><img src="https://futurism.com/wp-content/uploads/2015/12/supercomputers_home.jpg" alt="Meet The Most Powerful Computers in the World"></a><figcaption><strong><a href="https://futurism.com/images/meet-powerful-computers-world/" target="_blank" rel="noopener noreferrer">Click to View Full Infographic</a></strong></figcaption></figure>
-</p><p>Summit, on the other hand, would be capable of 200 petaFLOPS, which potentially outperforms the Sunway TaihuLight. It&rsquo;s able to do this thanks to&nbsp;<a href="http://www.nvidia.com/object/what-is-gpu-computing.html" target="_blank" rel="noopener noreferrer">GPU-accelerated computing</a>, which means it uses a central processing unit&nbsp;&mdash; like regular computers do&nbsp;&mdash; but is coupled with graphical processing units (GPUs) to perform computations. GPUs create realistic visuals in video games, but they also help scientists when they use supercomputers to understand physical phenomenon.</p>
-<p>&ldquo;For the first time, we were able to do a simulation of a star exploding in three dimensions and we found that it wasn&rsquo;t symmetric all the way around,&rdquo; Bland said, referring to an exploding star simulation ORNL ran on the Titan. &ldquo;When a star starts collapsing in on itself and then explodes out, you&rsquo;ve got these rolling and tumbling things.&rdquo;</p>
-<p>In short, the Summit will be the fastest supercomputer around by 2018. But ORNL doesn&rsquo;t want to stop there. By 2021, they plan on developing the world&rsquo;s first exascale computer, capable of processing information at one exaFLOP or a billion billion operations per second. That&rsquo;s 50 times faster than the fastest supercomputer. Still, <a href="https://futurism.com/the-eight-most-powerful-supercomputers-in-the-world/" target="_blank" rel="noopener noreferrer">as powerful as these supercomputers</a> will be, scientists are also looking forward to a universal quantum computer.</p>
-<p>The post <a rel="noopener noreferrer" href="https://futurism.com/the-next-most-powerful-supercomputer-in-the-u-s-is-almost-complete/" target="_blank">The Next Most Powerful Supercomputer in the U.S. Is Almost Complete</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
-	<updated>2017-10-24T21:15:51+00:00</updated>
-	<author><name>Dom Galeon</name></author>
-	<source>
-		<id>https://futurism.com</id>
-		<link rel="self" href="https://futurism.com"/>
-		<updated>2017-10-24T21:15:51+00:00</updated>
-		<title>Futurism</title></source>
-
-	<category term="robots &amp; machines"/>
-
-	<category term="computing"/>
-
-	<category term="ornl"/>
-
-	<category term="summit"/>
-
-	<category term="supercomputer"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/444109</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/uab-hni102417.php" rel="alternate" type="text/html"/>
-	<title type="html">How Neanderthals influenced human genetics at the crossroads of Asia and Europe</title>
-	<summary type="html"><![CDATA[<p>(University at Buffalo) A new study explores the genetic legacy of ancient trysts between Neandertha...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University at Buffalo</i>) A new study explores the genetic legacy of ancient trysts between Neanderthals and the ancestors of modern humans, with a focus on Western Asia, the region where the first relations may have occurred.</p>]]></content>
-	<updated>2017-10-24T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-24T04:00:00+00:00</updated>
-		<title>EurekAlert! - Earth Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/444148</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171024105656.htm" rel="alternate" type="text/html"/>
-	<title type="html">Brain region that motivates behavior change discovered</title>
-	<summary type="html"><![CDATA[<p>Ever been stuck in a rut? Researchers found that stimulating a region of the brain called the poster...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Ever been stuck in a rut? Researchers found that stimulating a region of the brain called the posterior cingulate cortex can lead to changes in routine behavior. Neurons there ramp up their firing rates, then peak just before a pattern shifts. Knowing this could help businesses better understand how to spur employee innovation, exploration and creativity.</p>]]></content>
-	<updated>2017-10-24T14:56:56+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-24T14:56:56+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/444080</id>
-	<link href="https://futurism.com/cern-scientist-on-life-after-the-higgs-boson/" rel="alternate" type="text/html"/>
-	<title type="html">CERN Scientist on What Physicists Have Left to Discover After Higgs Boson</title>
-	<summary type="html"><![CDATA[<p>A Tiny, Huge Discovery
-On July 4th, 2012, researchers&nbsp;from&nbsp;the European Organization for Nuclear Res...</p>]]></summary>
-	<content type="html"><![CDATA[<h2>A Tiny, Huge Discovery</h2>
-<p>On July 4th, 2012, researchers&nbsp;from&nbsp;the European Organization for Nuclear Research (CERN) made a big announcement. They had observed the Higgs boson, an elementary particle predicted by&nbsp;one of the&nbsp;best models for physics in the universe.&nbsp;&ldquo;&lsquo;We discovered the particle that makes it possible for atoms to form in the first place.&rsquo; That&rsquo;s much sexier,&rdquo; James Beacham, a particle physicist at CERN, said&nbsp;of the discovery in an interview at&nbsp;<a href="http://brainbar.com/speaker/james-beacham" rel="noopener noreferrer" target="_blank">Brain Bar Budapest,</a> a future-oriented science festival in Hungary held in June.</p>
-<p>Those in the know might have been anticipating this observation for decades, but that didn&rsquo;t dampen the excitement. The discovery marked the culmination of a 40-year scientific effort, as Beacham noted, and it&nbsp;<a href="https://home.cern/topics/higgs-boson" rel="noopener noreferrer" target="_blank">garnered the Nobel Prize in physics in 2013</a>.</p>
-<p>Most discoveries in physics remain far from the public eye, esoteric and uninviting to the masses. But this discovery of a new particle, predicted by many and finally observed after so much work and anticipation &mdash; was different. It sparked a media frenzy, <a href="https://www.pri.org/stories/2016-08-27/physics-failure-brings-almost-much-excitement-success" rel="noopener noreferrer" target="_blank">the excitement from which continued well beyond</a>&nbsp;the days and weeks after the discovery was announced.</p>
-<p></p>
-<h2>Moving On</h2>
-<p>There was great success and celebration, but every party has to end. After the discovery of the Higgs boson, CERN scientists seemed to fall into a slow, sullen post-discovery period, if <a href="https://www.nytimes.com/2017/06/19/science/cern-large-hadron-collider-higgs-physics.html?_r=0" rel="noopener noreferrer" target="_blank">a recent article from the <em>New York Times</em></a>&nbsp;is to be believed.</p>
-<p>Beacham paints a different picture. From his telling, CERN isn&rsquo;t stalling out, it&rsquo;s in a honeymoon phase. The Higgs boson discovery really just answered one question: whether or not it existed, he said at the June event. &ldquo;The second we found [the Higgs boson], that was not enough for us. We&nbsp;want to know every single one of its properties,&rdquo; Beacham said. &ldquo;Even before we announced it&hellip;we were ahead.&rdquo; This discovery had been predicted for so long that, while the observation itself was thrilling, CERN researchers were already working on&nbsp;what else this observation could reveal.</p>
-<p>Discovering the Higgs boson&nbsp;created many more questions than it answered &mdash; physics is funny like that. &ldquo;So for us, there was no celebration downtime,&rdquo; Beacham said. That&rsquo;s in part because the Higgs is &ldquo;a crazy particle,&rdquo; he added. &ldquo;It&rsquo;s unlike anything else that we know of in the Standard Model.&rdquo; Predicting the Higgs boson came with so many precise conditions that its existence&nbsp;allows scientists to test&nbsp;a number of other conditions that the model predicts.</p>
-<p>This is how Beacham and a lot of other CERN scientists are spending their time these days&nbsp;&mdash; exploring questions never before answered, with this discovery serving as a magnificent jumping off point.&nbsp;&ldquo;Now, the current and foreseeable future for&nbsp;ATLAS [one of the five major experiments at CERN]&nbsp;is to make sure that we&rsquo;re not going to miss anything,&rdquo; he said. That is, he admits, a little vague, but that&rsquo;s the beauty of this type of exploration. There are still particles that physicists have predicted, but which no one has yet observed. The more we discover, the more complex the universe becomes to us.&nbsp;&ldquo;[CERN is] one of the most sophisticated devices that anyone has ever designed, and we have to do our damnedest to make sure that we don&rsquo;t miss anything,&rdquo; Beacham said.</p>
-<p>There were those who viewed the discovery of the Higgs boson&nbsp;with a sort of finality &mdash; a tremendously anticipated observation that would tell researchers one way or another if they were right or if somehow they&rsquo;d misinterpreted the trusted standard model.&nbsp;But that&rsquo;s not how physicists see it.</p>
-<p>Physics, like many fields that pursue knowledge and truth, is a winding path punctuated&nbsp;by jumps and halts.&nbsp;Beacham wasn&rsquo;t able to&nbsp;predict&nbsp;exactly what the next big discovery might be, but the curiosity and uncertainty are&nbsp;part of what makes discovery and the endless quest to answer &ldquo;what if?&rdquo; so magical.</p>
-<p>The post <a rel="noopener noreferrer" href="https://futurism.com/cern-scientist-on-life-after-the-higgs-boson/" target="_blank">CERN Scientist on What Physicists Have Left to Discover After Higgs Boson</a> appeared first on <a rel="noopener noreferrer" href="https://futurism.com" target="_blank">Futurism</a>.</p>]]></content>
-	<updated>2017-10-24T16:25:55+00:00</updated>
-	<author><name>Chelsea Gohd</name></author>
-	<source>
-		<id>https://futurism.com</id>
-		<link rel="self" href="https://futurism.com"/>
-		<updated>2017-10-24T16:25:55+00:00</updated>
-		<title>Futurism</title></source>
-
-	<category term="hard science"/>
-
-	<category term="cern"/>
-
-	<category term="discovery"/>
-
-	<category term="higgs boson"/>
-
-	<category term="particle physics"/>
-
-	<category term="physics"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/444075</id>
-	<link href="https://www.sciencedaily.com/releases/2017/10/171024103319.htm" rel="alternate" type="text/html"/>
-	<title type="html">Self-esteem mapped in the human brain</title>
-	<summary type="html"><![CDATA[<p>A team of researchers has devised a mathematical equation that can explain how our self-esteem is sh...</p>]]></summary>
-	<content type="html"><![CDATA[<p>A team of researchers has devised a mathematical equation that can explain how our self-esteem is shaped by what other people think of us.</p>]]></content>
-	<updated>2017-10-24T14:33:19+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://www.sciencedaily.com/news/</id>
-		<link rel="self" href="https://www.sciencedaily.com/news/"/>
-		<updated>2017-10-24T14:33:19+00:00</updated>
-		<title>Latest Science News -- ScienceDaily</title></source>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://www.sciencedaily.com/images/2017/10/171024103319-large.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/443993</id>
-	<link href="https://www.eurekalert.org/pub_releases/2017-10/uob-hln102417.php" rel="alternate" type="text/html"/>
-	<title type="html">High-speed locomotion neurons found in the brainstem</title>
-	<summary type="html"><![CDATA[<p>(University of Basel) A clearly defined subpopulation of neurons in the brainstem is essential to ex...</p>]]></summary>
-	<content type="html"><![CDATA[<p>(<i>University of Basel</i>) A clearly defined subpopulation of neurons in the brainstem is essential to execute locomotion at high speeds. Interestingly, these high-speed neurons are intermingled with others that can elicit immediate stopping. How defined groups of brainstem neurons can regulate important aspects of full motor programs, reports a study by researchers of the Biozentrum at the University of Basel and the Friedrich Miescher Institute for Biomedical Research (FMI). The journal Nature has published the results.</p>]]></content>
-	<updated>2017-10-24T04:00:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.eurekalert.org</id>
-		<link rel="self" href="http://www.eurekalert.org"/>
-		<updated>2017-10-24T04:00:00+00:00</updated>
-		<title>EurekAlert! - Technology, Engineering and Computer Science</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/444218</id>
-	<link href="http://www.deepseanews.com/2017/10/how-the-squid-lost-its-shell/" rel="alternate" type="text/html"/>
-	<title type="html">How the Squid Lost Its Shell</title>
-	<summary type="html"><![CDATA[<p>This is a guest post by Dr. Danna Staaf, a science writer with a PhD in marine biology from Stanford...</p>]]></summary>
-	<content type="html"><![CDATA[<p><em>This is a guest post by Dr. Danna Staaf, a science writer with a PhD in marine biology from Stanford University. Her first book, <a href="https://www.amazon.com/Squid-Empire-Rise-Fall-Cephalopods/dp/1611689236" rel="noopener noreferrer" target="_blank">Squid Empire: The Rise and Fall of the Cephalopods</a>, chronicles the 500-million-year evolutionary journey of these fascinating animals. She also blogs at <a href="http://www.cephalopodiatrist.com/p/home.html" rel="noopener noreferrer" target="_blank">The Cephalopodiatrist</a>.</em></p>
-<p>Giant squid are the sea&rsquo;s best monsters, tentacles down. For evidence we need look no further than the logo of this very website. But did you know that our beloved <em>Architeuthis</em> descends from a venerable line of sea monsters&mdash;that Archy&rsquo;s ancestors, in fact, may have been the first animals ever to merit the name &ldquo;mons<span>ter&rdquo;?</span></p>
-<p><img src="http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken-300x440.jpg" alt="" width="300" height="440" srcset="http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken-300x440.jpg 300w, http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken-102x150.jpg 102w, http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken-768x1126.jpg 768w, http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken-600x880.jpg 600w, http://www.deepseanews.com/wp-content/uploads/2017/10/1_kraken.jpg 1397w" sizes="(max-width: 300px) 100vw, 300px"></p>
-<p>The phrase &ldquo;prehistoric sea monster&rdquo; might summon to mind an <a href="http://www.ucmp.berkeley.edu/diapsids/ichthyosauria.html" rel="noopener noreferrer" target="_blank">ichthyosaur</a> or <a href="https://en.wikipedia.org/wiki/Megalodon" rel="noopener noreferrer" target="_blank">megalodon</a>, but these are johnny-come-latelies to the underwater scene. Megalodon showed up a mere 23 million years ago. Ichthyosaurs evolved closer to 250 million years ago, which may seem pretty old (okay, it is) until you consider the age of the first cephalopod: 450 million years.</p>
-<p>I&rsquo;ll admit that initially cephalopods were no monsters. Snail-like, they lived inside shells that measured a few centimeters at most. But these shells contained a remarkable evolutionary innovation: sealed-off chambers that could be drained of fluid and filled with buoyant gas.</p>
-<p>This buoyancy freed cephalopods from the constraints of their heavy shells, allowing them to reach stupendous sizes. No matter how big the shell grew, its weight was automatically offset by more gas-filled chambers.</p>
-<div><img src="http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants.jpg" alt="" width="1412" height="644" srcset="http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants.jpg 1412w, http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants-150x68.jpg 150w, http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants-300x137.jpg 300w, http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants-768x350.jpg 768w, http://www.deepseanews.com/wp-content/uploads/2017/10/2_paleozoic_giants-600x274.jpg 600w" sizes="(max-width: 1412px) 100vw, 1412px"><p>Paleozoic Giants. Image from: Christian, et al. &ldquo;Normal giants? Temporal and latitudinal shifts of Palaeozoic marine invertebrate gigantism and global change.&rdquo; Lethaia 48.2 (2015): 267-288 (<a href="http://onlinelibrary.wiley.com/store/10.1111/let.12104/asset/let12104.pdf?v=1&amp;t=j8bw9xtf&amp;s=a9b7dd695fba09a5a79530cc9153fc35e134f22c&amp;systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+7th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+08.00+EDT+%2F+13.00+BST+%2F+17%3A30+IST+%2F+20.00+SGT+and+Sunday+8th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+06.00+EDT+%2F+11.00+BST+%2F+15%3A30+IST+%2F+18.00+SGT+for+essential+maintenance.+Apologies+for+the+inconvenience+caused+." rel="noopener noreferrer" target="_blank">PDF</a>)</p></div>
-<p>&nbsp;</p>
-<p><em>Endoceras giganteum</em>, for example, grew up to 3.5 meters, longer than a basketball hoop is tall. It was the biggest animal the world had yet seen. I feel confident calling this 450-million-year-old beast one of the planet&rsquo;s first monsters.</p>
-<p>But how did we get from <em>Endoceras</em> to <em>Architeuthis</em>? Is one a direct ancestor of the other, or are they distant cousins n-times-removed? And what became of that fantastic shell?</p>
-<p>We need a family tree for <em>Endoceras</em>, <em>Architeuthis</em>, and everything in between&mdash;in other words, a cephalopod phylogeny. For over a century, scientists have been working to reconstruct such a phylogeny with evidence from fossils, embryos, DNA and more. I made an attempt to synthesize the most recent work into a single drawing, with lots of advice from paleontologists and the helping hand of an artist who polished my messy sketchwork (and put in those friendly eyes).</p>
-<div><a href="http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny.jpg" rel="noopener noreferrer" target="_blank"><img src="http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny-600x786.jpg" alt="" width="600" height="786" srcset="http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny-600x786.jpg 600w, http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny-114x150.jpg 114w, http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny-300x393.jpg 300w, http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny-768x1007.jpg 768w, http://www.deepseanews.com/wp-content/uploads/2017/10/3_phylogeny.jpg 1536w" sizes="(max-width: 600px) 100vw, 600px"></a><p>Phylogenetic tree, created by Danna Staaf and C.A. Clark</p></div>
-<p>&nbsp;</p>
-<p><em>Endoceras</em> was one of the Orthocerida, which you can find down in the Ordovician, in the lower right. Today&rsquo;s giant squid take pride of place&mdash;with their smaller siblings&mdash;top and center. As for the rest&hellip;</p>
-<p>From Cambrian through Silurian times, cephalopods all wore their shells on the outside of their bodies, just like every other self-respecting mollusk. The nautiloids continued that decorous habit to the <a href="https://en.wikipedia.org/wiki/Nautilus" rel="noopener noreferrer" target="_blank">present day</a>. Another externally-shelled group, the ammonoids, explored every bizarre baroque extreme of shell coiling and ornamentation before getting mass-extincted alongside the dinosaurs.</p>
-<p>What remains are the coleoids&mdash;the only group of cephalopods in which evolution sheathed the shell, burying hard structure inside a soft body.</p>
-<p>At first, this internal shell was still massive and still full of buoyant chambers, as in the early coleoid <em>Hematites</em>. But over time natural selection (carried out by hungry fish, for the most part) favored smaller, simpler shells.</p>
-<div><img src="http://www.deepseanews.com/wp-content/uploads/2017/10/4cover_fossil-600x481.jpg" alt="" width="600" height="481" srcset="http://www.deepseanews.com/wp-content/uploads/2017/10/4cover_fossil-600x481.jpg 600w, http://www.deepseanews.com/wp-content/uploads/2017/10/4cover_fossil-150x120.jpg 150w, http://www.deepseanews.com/wp-content/uploads/2017/10/4cover_fossil-300x241.jpg 300w, http://www.deepseanews.com/wp-content/uploads/2017/10/4cover_fossil-768x616.jpg 768w" sizes="(max-width: 600px) 100vw, 600px"><p>Fossil Squid; credit: Diego Sala.</p></div>
-<p>&nbsp;</p>
-<p>Now, <a href="http://tolweb.org/Sepioidea/23870" rel="noopener noreferrer" target="_blank">cuttlefish</a> and <a href="http://tolweb.org/Spirula_spirula/148171" rel="noopener noreferrer" target="_blank">ram&rsquo;s horn squid</a> are the only modern coleoids to retain the hard calcium and buoyant chambers of their ancestors. The internal shells of octopuses have evolved into mere vestiges.</p>
-<p>And squid? Well, the shell remnant of a squid has no chambers and no calcium. But it runs the full length of the body, from head to fin-tip, and it offers support to the powerful muscles that carry these modern monsters through the sea. Though unarmored, <em>Architeuthis</em> is most likely faster and far more agile than <em>Endoceras</em> could ever have dreamed of being.</p>
-<p>So which one would you rather meet in a dark alley?</p>]]></content>
-	<updated>2017-10-03T17:54:49+00:00</updated>
-	<author><name>RR Helm</name></author>
-	<source>
-		<id>http://www.deepseanews.com</id>
-		<link rel="self" href="http://www.deepseanews.com"/>
-		<updated>2017-10-03T17:54:49+00:00</updated>
-		<title>Deep Sea News</title></source>
-
-	<category term="abyss"/>
-
-	<category term="benthic"/>
-
-	<category term="biology"/>
-
-	<category term="cephalopods"/>
-
-	<category term="ecology"/>
-
-	<category term="evolution"/>
-
-	<category term="paleobiology"/>
-
-	<category term="pelagic"/>
-
-	<category term="pictures and movies"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-25:/444412</id>
-	<link href="https://www.tecmint.com/run-commands-from-standard-input-using-tee-and-xargs-in-linux/" rel="alternate" type="text/html"/>
-	<title type="html">How to Run Commands from Standard Input Using Tee and Xargs in Linux</title>
-	<summary type="html"><![CDATA[<p>While using the command line, you can directly pass the output of one program (for example a tool th...</p>]]></summary>
-	<content type="html"><![CDATA[<p>While using the command line, you can directly pass the output of one program (for example a tool that generates some system information or statistics) as input for another program (such as text-filtering or...</p>]]></content>
-	<updated>2017-10-20T06:00:15+00:00</updated>
-	<author><name>Aaron Kili</name></author>
-	<source>
-		<id>https://www.tecmint.com</id>
-		<link rel="self" href="https://www.tecmint.com"/>
-		<updated>2017-10-20T06:00:15+00:00</updated>
-		<title>Tecmint: Linux Howtos, Tutorials &amp; Guides » Linux Commands</title></source>
-
-	<category term="linux commands"/>
-
-	<category term="linux tricks"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-23:/443026</id>
-	<link href="https://www.linuxfoundation.org/press-release/linux-foundation-debuts-community-data-license-agreement/" rel="alternate" type="text/html"/>
-	<title type="html">Linux Foundation Debuts Community Data License Agreement </title>
-	<summary type="html"><![CDATA[<p>New open data licenses make it easier for individuals and organizations of all types to share, analy...</p>]]></summary>
-	<content type="html"><![CDATA[<p><em>New open data licenses make it easier for individuals and organizations of all types to share, analyze and use data collaboratively </em></p>
-<p><strong>PRAGUE (OPEN SOURCE SUMMIT EUROPE 2017), October 23, 2017 &ndash; </strong>The Linux Foundation, the nonprofit advancing <a href="https://www.linuxfoundation.org" rel="noopener noreferrer" target="_blank">professional open source</a> management for mass collaboration, today announced the <a href="https://www.cdla.io/" rel="noopener noreferrer" target="_blank">Community Data License Agreement</a> (CDLA) family of open data agreements. In an era of expansive and often underused data, the CDLA licenses are an effort to define a licensing framework to support collaborative communities built around curating and sharing &ldquo;open&rdquo; data.</p>
-<p>Inspired by the collaborative software development models of open source software, the CDLA licenses are designed to enable individuals and organizations of all types to share data as easily as they currently share open source software code. Soundly drafted licensing models can help people form communities to assemble, curate and maintain vast amounts of data, measured in petabytes and exabytes, to bring new value to communities of all types, to build new business opportunities and to power new applications that promise to enhance safety and services.</p>
-<p>The growth of big data analytics, machine learning and artificial intelligence (AI) technologies has allowed people to extract unprecedented levels of insight from data. Now the challenge is to assemble the critical mass of data for those tools to analyze. The CDLA licenses are designed to help governments, academic institutions, businesses and other organizations open up and share data, with the goal of creating communities that curate and share data openly.</p>
-<p>For instance, if automakers, suppliers and civil infrastructure services can share data, they may be able to improve safety, decrease energy consumption and improve predictive maintenance. Self-driving cars are heavily dependent on AI systems for navigation, and need massive volumes of data to function properly. Once on the road, they can generate nearly a gigabyte of data every second. For the average car, that means two petabytes of sensor, audio, video and other data each year.</p>
-<p>Similarly, climate modeling can integrate measurements captured by government agencies with simulation data from other organizations and then use machine learning systems to look for patterns in the information. <a href="https://www.nature.com/news/how-machine-learning-could-help-to-improve-climate-forecasts-1.22503" rel="noopener noreferrer" target="_blank">It&rsquo;s estimated that</a> a single model can yield a petabyte of data, a volume that challenges standard computer algorithms, but is useful for machine learning systems. This knowledge may help improve agriculture or aid in studying extreme weather patterns.</p>
-<p>And if government agencies share aggregated data on building permits, school enrollment figures, sewer and water usage, their citizens benefit from the ability of commercial entities to anticipate their future needs and respond with infrastructure and facilities that arrive in anticipation of citizens&rsquo; demands.</p>
-<p>&ldquo;An open data license is essential for the frictionless sharing of the data that powers both critical technologies and societal benefits,&rdquo; said Jim Zemlin, Executive Director of The Linux Foundation. &ldquo;The success of open source software provides a powerful example of what can be accomplished when people come together around a resource and advance it for the common good. The CDLA licenses are a key step in that direction and will encourage the continued growth of applications and infrastructure.&rdquo;</p>
-<p><strong>CDLA Licenses Promote Sharing While Reducing Risk</strong></p>
-<p>The Linux Foundation, in collaboration with a broad set of participating organizations, drafted the CDLA licenses with the needs of companies, organizations and communities that have valuable data assets such as these to share. The intention of the licenses is for contributors and consumers of open datasets to actively use and support the contribution of data in a uniform fashion, while clarifying the terms of that sharing and reducing risk.</p>
-<p>There are two CDLA licenses: a Sharing license that encourages contributions of data back to the data community and a Permissive license that puts no additional sharing requirements on recipients or contributors of open data. Both encourage and facilitate the productive use of data. A few commercial and community implications of the licenses include:</p>
-<ul>
-<li>Data producers can share with greater clarity about what recipients may do with it. Data producers can also choose between Sharing and Permissive licenses and select the model that best aligns with their interests. In either case, data producers should enjoy the clarity of recognized terms and disclaimers of liabilities and warranties.</li>
-<li>Data communities can standardize on a license or set of licenses that provide the ability to share data on known, equal terms that balance the needs of data producers and data users. Data communities have a high degree of flexibility to add their own governance and requirements for curating data as a community, particularly around areas such as personally identifiable information.</li>
-<li>Data users who are looking for datasets to help kick off training an AI system or for any other use will have the ability to find data shared under a known license model with terms that clearly state their rights and responsibilities.</li>
-</ul>
-<p>The CDLA is data privacy agnostic and relies on the publisher and curators of the data to create their own governance structure around what data they curate and how. Each producer or curator of data will have to work through various jurisdictional requirements and legal issues.</p>
-<p><strong>Broad Support for the CDLA</strong></p>
-<p>&ldquo;Data is the oil of the 21st century,&rdquo; said Mark Radcliffe, Partner and Global Chair of the FOSS Practice Group at DLA Piper. &ldquo;Yet, the legal protection for and licensing of data is in its infancy. Many current licenses take a variety of inconsistent (and frequently incomplete) approaches to the use and licensing of data.&nbsp;The CDLA provides a valuable tool for companies and lawyers in managing the use and licensing of data.&nbsp;In the best tradition of the open source community, The Linux Foundation used a collaborative process to get the best possible agreement.&nbsp;I will be using the CDLA for many of my clients.&rdquo;</p>
-<p>&ldquo;We see the CDLA as being in the forefront of encouraging a shift in how people view data,&rdquo; said Todd Moore, Vice President, Open Technology at IBM. &ldquo;Given the growing volume of available datasets, data by itself is no longer the primary source of value. Instead, the ecosystem around the development and mining of trends and insights derived from data holds far more value for society. The CDLA provides the right platform to enable this shift in view and we are excited to be an early adopter.&rdquo;</p>
-<p>&ldquo;Data is replacing concrete as the foundation of 21<sup>st</sup> century transportation, and knitting this increasingly complex array of public and private data sources together requires new approaches to data licensing and data governance,&rdquo; said Kevin Webb, Executive Director, Open Transport Partnership. &ldquo;The CDLA provides a critical new tool to facilitate collaboration and data sharing between government and private sector innovators.&rdquo;</p>
-<p>&ldquo;Shared data licensing will do for machine learning and the next phase of information technology evolution what the GNU General Public License and the free software ethos it embodied did for primary software production over the last generation,&rdquo; said Eben Moglen, Professor of Law at Columbia Law School and founding director of the Software Freedom Law Center.&nbsp;&ldquo;Clearly expressed, well-designed rules for &lsquo;share alike&rsquo; treatment of collaboratively-produced data will enable massive cooperation and help us resist over-concentrated ownership of the resource most crucial to 21st century social and economic development.&rdquo;</p>
-<p>To learn more, go to https://www.cdla.io/.</p>
-<p><strong>About The Linux Foundation</strong></p>
-<p>The Linux Foundation is the organization of choice for the world&rsquo;s top developers and companies to build ecosystems that accelerate open technology development and commercial adoption. Together with the worldwide open source community, it is solving the hardest technology problems by creating the largest shared technology investment in history. Founded in 2000, The Linux Foundation today provides tools, training and events to scale any open source project, which together deliver an economic impact not achievable by any one company. More information can be found at <a href="http://www.linuxfoundation.org" rel="noopener noreferrer" target="_blank">www.linuxfoundation.org</a>.</p>
-<p># # #</p>
-<p><em>The Linux Foundation has registered trademarks and uses trademarks, including The Linux Foundation. For a full list of trademarks of The Linux Foundation, please see our trademark usage page: </em><a href="https://www.linuxfoundation.org/trademark-usage" rel="noopener noreferrer" target="_blank"><em>https://www.linuxfoundation.org/trademark-usage</em></a><em>. Linux is a registered trademark of Linus Torvalds.</em></p>
-<p>The post <a rel="noopener noreferrer" href="https://www.linuxfoundation.org/press-release/linux-foundation-debuts-community-data-license-agreement/" target="_blank">Linux Foundation Debuts Community Data License Agreement&nbsp;</a> appeared first on <a rel="noopener noreferrer" href="https://www.linuxfoundation.org" target="_blank">The Linux Foundation</a>.</p>]]></content>
-	<updated>2017-10-23T06:00:09+00:00</updated>
-	<author><name>Linux Foundation</name></author>
-	<source>
-		<id>https://www.linuxfoundation.org</id>
-		<link rel="self" href="https://www.linuxfoundation.org"/>
-		<updated>2017-10-23T06:00:09+00:00</updated>
-		<title>The Linux Foundation</title></source>
-
-	<category term="press release"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-09-12:/427907</id>
-	<link href="https://www.linux.com/blog/event/os-summit-la/2017/7/linus-torvalds-fun-linux-kernel-and-future" rel="alternate" type="text/html"/>
-	<title type="html">Video: Linus Torvalds On Fun, the Linux Kernel, and the Future</title>
-	<summary type="html"><![CDATA[<p>Title:&nbsp; Video: Linus Torvalds On Fun, the Linux Kernel, and the Future15 SepLearn more</p>]]></summary>
-	<content type="html"><![CDATA[<div><div>Title:&nbsp;</div><div><div property="dc:title"> Video: Linus Torvalds On Fun, the Linux Kernel, and the Future</div></div></div><div><div><div>15 Sep</div></div></div><div><div><div><div><a href="http://localhost/blog/event/os-summit-la/2017/7/linus-torvalds-fun-linux-kernel-and-future" rel="noopener noreferrer" target="_blank">Learn more</a></div></div></div></div>]]></content>
-	<updated>2017-09-15T09:40:13+00:00</updated>
-	<author><name>aankerholz</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-09-15T09:40:13+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-28:/423551</id>
-	<link href="https://www.linux.com/news/what-do-most-successful-open-source-projects-have-common" rel="alternate" type="text/html"/>
-	<title type="html">What Do the Most Successful Open Source Projects Have In Common?</title>
-	<summary type="html"><![CDATA[<p>Thriving open source projects have many users, and the most active have thousands of authors contrib...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p><span>Thriving open source projects have many users, and the most active have thousands of authors contributing. There are now more than 60 million open source repositories, but the vast majority are just a public workspace for a single individual. What differentiates the most successful open source projects? One commonality is that most of them are backed by either one company or a group of companies collaborating together.</span></p></div></div></div>]]></content>
-	<updated>2017-08-28T20:38:28+00:00</updated>
-	<author><name>lfadmin</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-08-28T20:38:28+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-18:/420729</id>
-	<link href="https://www.linux.com/news/software-defined-networking-sdn-explained-beginners" rel="alternate" type="text/html"/>
-	<title type="html">Software Defined Networking (SDN) Explained for Beginners</title>
-	<summary type="html"><![CDATA[<p>Over the past few years, &nbsp;Software Defined Networking (SDN) has been a &nbsp;key buzz in the computer net...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Over the past few years, &nbsp;Software Defined Networking (SDN) has been a &nbsp;key buzz in the computer networking/IT industry. Today, more and more companies are discussing SDN to leverage it for their business and future growth plans.</p></div></div></div>]]></content>
-	<updated>2017-08-18T07:00:06+00:00</updated>
-	<author><name>HowToForge Tutorials</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-08-18T07:00:06+00:00</updated>
-		<title>Linux.com</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-08-15:/419376</id>
-	<link href="https://www.linux.com/news/history-microprocessor-debug-1980-2016" rel="alternate" type="text/html"/>
-	<title type="html">A History of Microprocessor Debug, 1980–2016</title>
-	<summary type="html"><![CDATA[<p>Since the dawn of electronics design, where there have been designs, there have been bugs. But where...</p>]]></summary>
-	<content type="html"><![CDATA[<div><div><div property="content:encoded"><p>Since the dawn of electronics design, where there have been designs, there have been bugs. But where they have been bugs, there inevitably was debug, engaged in an epic wrestling match with faults, bugs, and errors to determine which would prevail -- and how thoroughly.</p></div></div></div>]]></content>
-	<updated>2017-08-15T08:30:56+00:00</updated>
-	<author><name>Embedded.com</name></author>
-	<source>
-		<id>https://www.linux.com/feeds/rss</id>
-		<link rel="self" href="https://www.linux.com/feeds/rss"/>
-		<updated>2017-08-15T08:30:56+00:00</updated>
-		<title>Linux.com</title></source>
-
 
 </entry>
 

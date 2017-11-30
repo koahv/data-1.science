@@ -2,9 +2,9 @@
 layout: post
 title: "20 Unix Command Line Tricks – Part I"
 date:  2015-01-13 04:34:47 
-categories:  Linux      
-author:  Vivek Gite        
-tags:  command line hacks,freebsd,linux,openbsd,os x,unix                                                                                                 
+categories:  Linux       
+author:  Vivek Gite                                                    
+tags:  command line hacks,freebsd,linux,openbsd,os x,unix                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 ---
 
 
