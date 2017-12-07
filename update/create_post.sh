@@ -6,7 +6,7 @@ _db="post_data/post.txt"
 if [[ -f "$_db" ]]
 then
 	# read file
-	while IFS='|' read -r id date category title link author last_marked tags snippet
+	while IFS='|' read -r id date category title link author last_marked tags snippet factsheet
 	do
 	
 	# make each post
@@ -48,9 +48,11 @@ then
 	rm post_data/${split_date[0]}-$mod_title1.md
 	
 	# write post
-	echo -e "---\nlayout: post\ntitle: \"$mod_title2\"\ndate: $date\ncategories: $category\nauthor: $author\ntags: $tags\n---\n\n\n>$mod_snippet1\n\n[Visit Link]($mod_link1)\n\nid: $id" >> post_data/${split_date[0]}-$mod_title1.md
+	echo -e "---\nlayout: post\ntitle: \"$mod_title2\"\ndate: $date\ncategories: $category\nauthor: $author\ntags: $tags\n---\n\n\n>$mod_snippet1\n\n>$factsheet\n\n[Visit Link]($mod_link1)\n\nid: $id" >> post_data/${split_date[0]}-$mod_title1.md
 	
-	# include article extracts/notes
+	# mv file to _posts
+#	mv post_data/${split_date[0]}-$mod_title1.md ~/data-1.science/_posts/
+
 
 	done <"$_db"
 fi
