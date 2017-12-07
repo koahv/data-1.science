@@ -34,6 +34,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 future: true
+exclude: ["grid", "update"]
 
 paginate: 50
 paginate_path: "/page/:num/"
