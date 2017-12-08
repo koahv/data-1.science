@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+
 echo shell:locate.sh
 time sh locate.sh
 

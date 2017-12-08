@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #rm out.txt
 wget http://localhost/out.txt
 mv out.txt index.html

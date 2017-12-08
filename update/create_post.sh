@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #Input file
 _db="post_data/post.txt"
 

@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 #Input file
 _tq="post_data/topic_quantum.txt"
 _tl="post_data/topic_linux.txt"

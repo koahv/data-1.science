@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # called from ../run.sh
 #rm words.txt
 #wget http://localhost/words.txt
