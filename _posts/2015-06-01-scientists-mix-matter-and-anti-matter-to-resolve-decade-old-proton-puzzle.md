@@ -8,7 +8,11 @@ tags:  physics
 ---
 
 
-> Fans of science and science fiction have been warned that mixing matter with anti-matter can yield explosive results. And that's just what physicists were counting on, in hopes of blowing wide open a puzzle that has confounded them for the last decade.
+#### Extract
+>Fans of science and science fiction have been warned that mixing matter with anti-matter can yield explosive results. And that's just what physicists were counting on, in hopes of blowing wide open a puzzle that has confounded them for the last decade.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news352372357.html)
 

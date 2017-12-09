@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (University of Copenhagen) A new DNA study unravels the settlement history of the New World Arctic.
+#### Extract
+>(University of Copenhagen) A new DNA study unravels the settlement history of the New World Arctic.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/uoc-nds082814.php)
 

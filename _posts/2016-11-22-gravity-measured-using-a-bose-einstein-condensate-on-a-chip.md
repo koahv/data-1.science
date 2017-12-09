@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> New high-precision gravimeter could be deployed in a backpack
+#### Extract
+>New high-precision gravimeter could be deployed in a backpack
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/nov/22/gravity-measured-using-a-bose-einstein-condensate-on-a-chip)
 

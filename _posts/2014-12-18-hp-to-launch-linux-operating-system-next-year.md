@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Hewlett Packard is going to introduce their "revolutionary" new operating system next summer that's dubbed Linux++...
+#### Extract
+>Hewlett Packard is going to introduce their "revolutionary" new operating system next summer that's dubbed Linux++...
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTg2Nzg)
 

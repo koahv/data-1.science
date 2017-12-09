@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Method could help develop sophisticated spintronic memories
+#### Extract
+>Method could help develop sophisticated spintronic memories
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/mD-_gEy5dZw/diamond-defect-images-magnetic-domain-walls)
 

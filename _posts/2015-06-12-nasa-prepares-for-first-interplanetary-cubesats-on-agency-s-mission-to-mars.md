@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Read more about NASA Prepares for First Interplanetary CubeSats on Agency&#039;s Mission to MarsComments
+#### Extract
+>Read more about NASA Prepares for First Interplanetary CubeSats on Agency&#039;s Mission to MarsComments
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2015/06/nasa-prepares-first-interplanetary-cubesats-agencys-mission-mars)
 

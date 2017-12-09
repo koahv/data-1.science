@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Snakes used to have four legs, according to a roughly 120-million-year-old fossil from northeastern Brazil.
+#### Extract
+>Snakes used to have four legs, according to a roughly 120-million-year-old fossil from northeastern Brazil.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/51643-photos-four-legged-snake.html)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> The closest-yet views of Ceres, delivered by NASA's Dawn spacecraft, show the small world's features in unprecedented detail, including Ceres' tall, conical mountain; crater formation features and narrow, braided fractures. 
+#### Extract
+>The closest-yet views of Ceres, delivered by NASA's Dawn spacecraft, show the small world's features in unprecedented detail, including Ceres' tall, conical mountain; crater formation features and narrow, braided fractures.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150825111111.htm)
 

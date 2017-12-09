@@ -8,7 +8,11 @@ tags:  space exploration
 ---
 
 
-> NASA proposes a magnetic shield to protect Mars' atmosphere
+#### Extract
+>NASA proposes a magnetic shield to protect Mars' atmosphere
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://phys.org/news/2017-03-nasa-magnetic-shield-mars-atmosphere.html)
 

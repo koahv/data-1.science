@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Tomsk Polytechnic University) Russian and British scientists develop a technology to targeted deliver drugs to inflammation spot by magnet controlled stem cells. Native body cells joined magnetic microcapsules are very promising for cell therapy and gene engineering applications.
+#### Extract
+>(Tomsk Polytechnic University) Russian and British scientists develop a technology to targeted deliver drugs to inflammation spot by magnet controlled stem cells. Native body cells joined magnetic microcapsules are very promising for cell therapy and gene engineering applications.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-12/tpu-msc122816.php)
 

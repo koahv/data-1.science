@@ -8,7 +8,11 @@ tags:  environment
 ---
 
 
-> The prospect of engineering the world's climate system to tackle global warming is becoming more and more likely. This may seem like a crazy idea but I, and over 250 other scientists, policy makers and stakeholders from around the globe recently descended on Berlin to debate the promises and perils of geoengineering.
+#### Extract
+>The prospect of engineering the world's climate system to tackle global warming is becoming more and more likely. This may seem like a crazy idea but I, and over 250 other scientists, policy makers and stakeholders from around the globe recently descended on Berlin to debate the promises and perils of geoengineering.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://phys.org/news/2017-10-involved-geoengineering-debate.html)
 

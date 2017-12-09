@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Lithium is a metal used in manufacturing, electronics and mental health.
+#### Extract
+>Lithium is a metal used in manufacturing, electronics and mental health.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/28579-lithium.html)
 

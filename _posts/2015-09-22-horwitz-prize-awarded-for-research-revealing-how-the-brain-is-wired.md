@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Columbia University Medical Center) Columbia will award the 2015 Horwitz Prize to S. Lawrence Zipursky, for discovering a molecular identification system that helps neurons to wire the brain.
+#### Extract
+>(Columbia University Medical Center) Columbia will award the 2015 Horwitz Prize to S. Lawrence Zipursky, for discovering a molecular identification system that helps neurons to wire the brain.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/cumc-hpa092215.php)
 

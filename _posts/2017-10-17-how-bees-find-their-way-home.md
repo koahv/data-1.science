@@ -8,7 +8,11 @@ tags:  plants & animals
 ---
 
 
-> How can a bee fly straight home in the middle of the night after a complicated route through thick vegetation in search of food? For the first time, researchers have been able to show what happens in the brain of the bee.
+#### Extract
+>How can a bee fly straight home in the middle of the night after a complicated route through thick vegetation in search of food? For the first time, researchers have been able to show what happens in the brain of the bee.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://phys.org/news/2017-10-bees-home.html)
 

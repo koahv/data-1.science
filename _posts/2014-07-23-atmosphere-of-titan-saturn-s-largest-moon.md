@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> An astronomer has published the results of the comparison of his model of Titan's atmosphere with the latest data.
+#### Extract
+>An astronomer has published the results of the comparison of his model of Titan's atmosphere with the latest data.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/-fOkXSWKLbQ/140723111030.htm)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> The aging of the population, shifting diagnostic criteria, and new health care policy initiatives are some of the factors driving changes in mental health treatment for older Americans, according to new research. 
+#### Extract
+>The aging of the population, shifting diagnostic criteria, and new health care policy initiatives are some of the factors driving changes in mental health treatment for older Americans, according to new research.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/09/150909130424.htm)
 

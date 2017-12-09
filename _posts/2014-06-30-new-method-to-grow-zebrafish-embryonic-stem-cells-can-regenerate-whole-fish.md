@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Mary Ann Liebert, Inc./Genetic Engineering News) Zebrafish, a model organism that plays an important role in biological research and the discovery and development of new drugs and cell-based therapies, can form embryonic stem cells.
+#### Extract
+>(Mary Ann Liebert, Inc./Genetic Engineering News) Zebrafish, a model organism that plays an important role in biological research and the discovery and development of new drugs and cell-based therapies, can form embryonic stem cells.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/mali-nmt063014.php)
 

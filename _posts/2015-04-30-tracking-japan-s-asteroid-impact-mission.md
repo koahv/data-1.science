@@ -8,7 +8,11 @@ tags:  astronomy & space
 ---
 
 
-> ESA is set to support Japan's 'touch-and-go' Hayabusa-2 spacecraft, now en route to a little-known asteroid, helping to boost the scientific return from this audacious mission.
+#### Extract
+>ESA is set to support Japan's 'touch-and-go' Hayabusa-2 spacecraft, now en route to a little-known asteroid, helping to boost the scientific return from this audacious mission.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news349594208.html)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Title:&nbsp;Thinking Big: Supporting Open Source for Decades to Come26 AprLearn more
+#### Extract
+>Title:&nbsp;Thinking Big: Supporting Open Source for Decades to Come26 AprLearn more
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.linux.com/blog/thinking-big-supporting-open-source-decades-come)
 

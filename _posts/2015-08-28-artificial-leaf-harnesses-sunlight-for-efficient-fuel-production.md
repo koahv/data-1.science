@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> A new solar fuel generation system, or artificial leaf, safely creates fuel from sunlight and water with record-setting efficiency and stability. 
+#### Extract
+>A new solar fuel generation system, or artificial leaf, safely creates fuel from sunlight and water with record-setting efficiency and stability.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150828142940.htm)
 

@@ -8,7 +8,11 @@ tags:  astronomy
 ---
 
 
-> A state-of-the-art telescope for detecting optical signatures of gravitational waves - built and operated by an international research collaboration, led by the University of Warwick - has been officially launched.
+#### Extract
+>A state-of-the-art telescope for detecting optical signatures of gravitational waves - built and operated by an international research collaboration, led by the University of Warwick - has been officially launched.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://phys.org/news/2017-07-telescope-optical-gravitational.html)
 

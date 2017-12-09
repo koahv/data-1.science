@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Researchers have found physical differences in the brains of people who respond emotionally to others' feelings, compared to those who respond more rationally.
+#### Extract
+>Researchers have found physical differences in the brains of people who respond emotionally to others' feelings, compared to those who respond more rationally.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150618104153.htm)
 

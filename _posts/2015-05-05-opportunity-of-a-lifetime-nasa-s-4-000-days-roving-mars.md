@@ -8,7 +8,11 @@ tags:  astronomy & space
 ---
 
 
-> NASA's exploration rover Opportunity landed on Mars more than 11 years ago, in January 2004, with what then seemed like ambitious goals: to survive 90 Martian days and drive 600 metres. Opportunity has since driven the first off-Earth marathon (42.2 kilometres, or just over 26 miles) and just passed through its 4,000th Martian day – known as a sol on the Red Planet, lasting 40 minutes longer than on Earth.
+#### Extract
+>NASA's exploration rover Opportunity landed on Mars more than 11 years ago, in January 2004, with what then seemed like ambitious goals: to survive 90 Martian days and drive 600 metres. Opportunity has since driven the first off-Earth marathon (42.2 kilometres, or just over 26 miles) and just passed through its 4,000th Martian day – known as a sol on the Red Planet, lasting 40 minutes longer than on Earth.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news350028857.html)
 

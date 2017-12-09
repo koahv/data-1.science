@@ -8,7 +8,11 @@ tags:  astronomy
 ---
 
 
-> We live in interesting times. For thousands of years, we have thought we knew what the universe – and everything in it – was made of: normal matter, the kind that make up the elements of the periodic table.
+#### Extract
+>We live in interesting times. For thousands of years, we have thought we knew what the universe – and everything in it – was made of: normal matter, the kind that make up the elements of the periodic table.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-02-dark-energy.html)
 

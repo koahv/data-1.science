@@ -8,7 +8,11 @@ tags:  linux commands,grep command
 ---
 
 
-> Have you ever been into a situation where you need to search for a string, word or pattern inside a file? if yes, then the grep utility comes handy in such situation. grep is a command&#46;&#46;&#46;
+#### Extract
+>Have you ever been into a situation where you need to search for a string, word or pattern inside a file? if yes, then the grep utility comes handy in such situation. grep is a command&#46;&#46;&#46;
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.tecmint.com/linux-grep-commands-character-classes-bracket-expressions/)
 

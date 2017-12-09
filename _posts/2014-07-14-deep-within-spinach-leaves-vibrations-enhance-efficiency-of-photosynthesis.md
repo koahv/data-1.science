@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Filed under: Energy News
+#### Extract
+>Filed under: Energy News
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/matter_energy/energy_technology/~3/Lo9JGMwljlQ/140713155502.htm)
 

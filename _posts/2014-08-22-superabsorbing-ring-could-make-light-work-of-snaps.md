@@ -8,7 +8,11 @@ tags:  physics
 ---
 
 
-> A quantum effect in which excited atoms team up to emit an enhanced pulse of light can be turned on its head to create 'superabsorbing' systems to make the 'ultimate camera pixel'.
+#### Extract
+>A quantum effect in which excited atoms team up to emit an enhanced pulse of light can be turned on its head to create 'superabsorbing' systems to make the 'ultimate camera pixel'.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news327916156.html)
 

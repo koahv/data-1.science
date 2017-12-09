@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Title:&nbsp;Dig into DNS: Part 429 SepLearn more
+#### Extract
+>Title:&nbsp;Dig into DNS: Part 429 SepLearn more
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.linux.com/learn/dig-dns-part-4)
 

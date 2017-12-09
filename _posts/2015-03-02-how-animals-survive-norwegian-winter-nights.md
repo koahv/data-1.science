@@ -8,7 +8,11 @@ tags:  biology
 ---
 
 
-> Norwegian mammals and birds have many different methods of surviving long, intense winter nights. A biologist from the Norwegian University of Science and Technology (NTNU) University Museum reveals their secrets for survival.
+#### Extract
+>Norwegian mammals and birds have many different methods of surviving long, intense winter nights. A biologist from the Norwegian University of Science and Technology (NTNU) University Museum reveals their secrets for survival.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news344508293.html)
 

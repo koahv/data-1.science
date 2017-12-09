@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Even plants and animals like to leave a good impression.
+#### Extract
+>Even plants and animals like to leave a good impression.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/37781-how-do-fossils-form-rocks.html)
 

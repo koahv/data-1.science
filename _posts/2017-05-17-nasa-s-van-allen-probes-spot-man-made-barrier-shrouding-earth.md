@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (NASA/Goddard Space Flight Center) Humans have long been shaping Earth's landscape, but now scientists know that we also can shape our near-space environment with radio communications, which have been found to interact with particles in space.
+#### Extract
+>(NASA/Goddard Space Flight Center) Humans have long been shaping Earth's landscape, but now scientists know that we also can shape our near-space environment with radio communications, which have been found to interact with particles in space.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-05/nsfc-nva051717.php)
 

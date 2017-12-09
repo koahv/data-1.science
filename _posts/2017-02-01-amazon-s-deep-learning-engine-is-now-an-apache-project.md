@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Amazon Web Services has seemingly found open source religion over the past several months, including in the field of artificial intelligence.
+#### Extract
+>Amazon Web Services has seemingly found open source religion over the past several months, including in the field of artificial intelligence.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/amazons-deep-learning-engine-now-apache-project)
 

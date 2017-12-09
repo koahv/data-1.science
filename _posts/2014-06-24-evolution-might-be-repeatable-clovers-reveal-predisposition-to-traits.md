@@ -8,7 +8,11 @@ tags:  nature & environment
 ---
 
 
-> Can evolution be repeated? That's a good question, and it's one that scientists wanted to find out.
+#### Extract
+>Can evolution be repeated? That's a good question, and it's one that scientists wanted to find out.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.scienceworldreport.com/articles/15629/20140624/evolution-repeatable-clovers-reveal-predisposition-traits.htm)
 

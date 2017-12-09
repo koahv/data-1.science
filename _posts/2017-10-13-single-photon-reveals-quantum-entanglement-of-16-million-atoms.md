@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Quantum theory predicts that a vast number of atoms can be entangled and intertwined by a very strong quantum relationship even in a macroscopic structure. Until now, experimental evidence has been mostly lacking, despite recent advances have shown the entanglement of 2,900 atoms. Scientists recently reengineered their data processing, demonstrating that 16 million atoms were entangled in a one-centimeter crystal. 
+#### Extract
+>Quantum theory predicts that a vast number of atoms can be entangled and intertwined by a very strong quantum relationship even in a macroscopic structure. Until now, experimental evidence has been mostly lacking, despite recent advances have shown the entanglement of 2,900 atoms. Scientists recently reengineered their data processing, demonstrating that 16 million atoms were entangled in a one-centimeter crystal.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171013091023.htm)
 

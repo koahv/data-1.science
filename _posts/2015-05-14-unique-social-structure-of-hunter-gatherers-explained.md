@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Sex equality in residential decision-making explains the unique social structure of hunter-gatherers, a new study reveals.
+#### Extract
+>Sex equality in residential decision-making explains the unique social structure of hunter-gatherers, a new study reveals.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/0GBOO9iwoNk/150514142946.htm)
 

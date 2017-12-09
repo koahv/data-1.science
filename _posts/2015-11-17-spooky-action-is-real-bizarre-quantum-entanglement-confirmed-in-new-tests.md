@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Spooky action at a distance, the bizarre implication of quantum mechanics that so-rattled Einstein, is real, a series of new tests confirm.
+#### Extract
+>Spooky action at a distance, the bizarre implication of quantum mechanics that so-rattled Einstein, is real, a series of new tests confirm.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/52811-spooky-action-is-real.html)
 

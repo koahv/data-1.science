@@ -8,7 +8,11 @@ tags:  materials science
 ---
 
 
-> When organic chemists identify a useful chemical compound—a new drug, for instance—it's up to chemical engineers to determine how to mass-produce it.
+#### Extract
+>When organic chemists identify a useful chemical compound—a new drug, for instance—it's up to chemical engineers to determine how to mass-produce it.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://phys.org/news/2017-06-machine-approach-aid-industrial-drug.html)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Massachusetts Institute of Technology) MIT researchers explain mystery of India's rapid move toward Eurasia 80 million years ago.
+#### Extract
+>(Massachusetts Institute of Technology) MIT researchers explain mystery of India's rapid move toward Eurasia 80 million years ago.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/miot-id043015.php)
 

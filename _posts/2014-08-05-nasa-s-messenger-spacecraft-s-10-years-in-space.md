@@ -8,7 +8,11 @@ tags:  astronomy & space
 ---
 
 
-> Ten years ago, on August 3, 2004, NASA's MESSENGER (MErcury Surface, Space ENvironment, GEochemistry, and Ranging) spacecraft blasted off from Cape Canaveral, Florida, for a risky mission that would take the small satellite dangerously close to Mercury's surface, paving the way for an ambitious study of the planet closest to the Sun.
+#### Extract
+>Ten years ago, on August 3, 2004, NASA's MESSENGER (MErcury Surface, Space ENvironment, GEochemistry, and Ranging) spacecraft blasted off from Cape Canaveral, Florida, for a risky mission that would take the small satellite dangerously close to Mercury's surface, paving the way for an ambitious study of the planet closest to the Sun.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news326436653.html)
 

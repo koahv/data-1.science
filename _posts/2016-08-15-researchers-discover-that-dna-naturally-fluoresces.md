@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Northwestern University) The new discovery opens door for staining-free, super-resolution imaging and expands understanding of biology.
+#### Extract
+>(Northwestern University) The new discovery opens door for staining-free, super-resolution imaging and expands understanding of biology.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/nu-rd081516.php)
 

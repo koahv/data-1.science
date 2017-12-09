@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Quantum-information method helps make exquisite measurement
+#### Extract
+>Quantum-information method helps make exquisite measurement
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/WhFXtTrIqyE/electrons-magnetic-interactions-isolated-at-long-last)
 

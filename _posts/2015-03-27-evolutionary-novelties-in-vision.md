@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> A new study shows that genes crucial for vision were multiplied in the early stages of vertebrate evolution and acquired distinct functions leading to the sophisticated mechanisms of vertebrate eyes.
+#### Extract
+>A new study shows that genes crucial for vision were multiplied in the early stages of vertebrate evolution and acquired distinct functions leading to the sophisticated mechanisms of vertebrate eyes.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/5kAdGZCUjFE/150327090902.htm)
 

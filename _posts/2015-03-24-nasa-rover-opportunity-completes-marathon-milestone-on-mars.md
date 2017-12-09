@@ -8,7 +8,11 @@ tags:  astronomy & space
 ---
 
 
-> NASA says the Opportunity rover has passed the marathon mark for driving on Mars.
+#### Extract
+>NASA says the Opportunity rover has passed the marathon mark for driving on Mars.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news346439334.html)
 

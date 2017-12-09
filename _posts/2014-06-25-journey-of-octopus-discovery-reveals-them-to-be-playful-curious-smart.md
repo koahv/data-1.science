@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> It took Billey less than an hour to figure out how to open a childproof jar, so what can't octopuses do?
+#### Extract
+>It took Billey less than an hour to figure out how to open a childproof jar, so what can't octopuses do?
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/PnCnCbPhC6o/)
 

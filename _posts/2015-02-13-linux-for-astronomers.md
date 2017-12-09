@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> LinuxJournal: in this article, I introduce a distribution created specifically for astronomers, called Distro Astro.
+#### Extract
+>LinuxJournal: in this article, I introduce a distribution created specifically for astronomers, called Distro Astro.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.linuxtoday.com/infrastructure/linux-for-astronomers.html)
 

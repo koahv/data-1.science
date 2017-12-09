@@ -2,6 +2,60 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>http://localhost:4000/science/2017/11/29/jena-experiment-loss-of-species-destroys-ecosystems.html</loc>
+      
+        <lastmod>2017-11-29T05:00:00+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/11/27/first-comprehensive-inventory-of-neotropical-snakes.html</loc>
+      
+        <lastmod>2017-11-27T11:30:44+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/11/27/large-scale-approach-reveals-imperfect-actor-in-plant-biotechnology.html</loc>
+      
+        <lastmod>2017-11-27T05:00:00+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/11/22/eu-trade-ban-brings-down-global-trade-in-wild-birds-by-90-percent.html</loc>
+      
+        <lastmod>2017-11-22T05:00:00+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/11/21/report-highlights-opportunities-and-risks-associated-with-synthetic-biology-and-bioengineering.html</loc>
+      
+        <lastmod>2017-11-21T05:00:00+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2017/11/20/rise-in-oxygen-levels-links-to-ancient-explosion-of-life-researchers-find.html</loc>
+      
+        <lastmod>2017-11-20T05:00:00+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/science/2017/11/19/27-year-study-finds-the-amount-of-insects-flying-in-the-air-has-declined-75-percent.html</loc>
       
         <lastmod>2017-11-19T13:00:23+00:00</lastmod>
@@ -26885,7 +26939,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/astronomy/2015/01/16/finding-farmland-new-maps-offer-a-clearer-view-of-global-agriculture.html</loc>
+      <loc>http://localhost:4000/science/2015/01/16/finding-farmland-new-maps-offer-a-clearer-view-of-global-agriculture.html</loc>
       
         <lastmod>2015-01-16T05:00:00+00:00</lastmod>
       
@@ -27173,7 +27227,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/astronomy/2014/12/22/russian-scientists-map-water-vapor-in-martian-atmosphere.html</loc>
+      <loc>http://localhost:4000/science/2014/12/22/russian-scientists-map-water-vapor-in-martian-atmosphere.html</loc>
       
         <lastmod>2014-12-22T05:00:00+00:00</lastmod>
       
@@ -27812,7 +27866,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/astronomy/2014/11/13/mars-too-has-macroweather.html</loc>
+      <loc>http://localhost:4000/science/2014/11/13/mars-too-has-macroweather.html</loc>
       
         <lastmod>2014-11-13T05:00:00+00:00</lastmod>
       

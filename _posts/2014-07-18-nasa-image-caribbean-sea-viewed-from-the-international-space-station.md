@@ -8,7 +8,11 @@ tags:  astronomy & space
 ---
 
 
-> From the Earth-orbiting International Space Station, flying some 225 nautical miles above the Caribbean Sea in the early morning hours of July 15, NASA astronaut Reid Wiseman photographed this north-looking panorama.
+#### Extract
+>From the Earth-orbiting International Space Station, flying some 225 nautical miles above the Caribbean Sea in the early morning hours of July 15, NASA astronaut Reid Wiseman photographed this north-looking panorama.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news324885674.html)
 

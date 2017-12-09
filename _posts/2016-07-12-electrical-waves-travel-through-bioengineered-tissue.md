@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Genetically modified cells could provide insights into heart disease and lead to biological computers
+#### Extract
+>Genetically modified cells could provide insights into heart disease and lead to biological computers
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/jul/12/electrical-waves-travel-through-bioengineered-tissue)
 

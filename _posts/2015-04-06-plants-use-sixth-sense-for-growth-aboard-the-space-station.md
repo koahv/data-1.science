@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (NASA/Johnson Space Center) Although it is arguable as to whether plants have all five human senses -- sight, scent, hearing, taste and touch -- they do have a unique sense of gravity, which is being tested in space.
+#### Extract
+>(NASA/Johnson Space Center) Although it is arguable as to whether plants have all five human senses -- sight, scent, hearing, taste and touch -- they do have a unique sense of gravity, which is being tested in space.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/nsc-pus040615.php)
 

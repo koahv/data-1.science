@@ -8,7 +8,11 @@ tags:  biology
 ---
 
 
-> Wobbegong (Orectolobus maculatus) and angel sharks (Squatina australis) have evolved unique electrosensory pores that aid attacks on unsuspecting prey from beneath, according to a recent study.
+#### Extract
+>Wobbegong (Orectolobus maculatus) and angel sharks (Squatina australis) have evolved unique electrosensory pores that aid attacks on unsuspecting prey from beneath, according to a recent study.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news344595134.html)
 

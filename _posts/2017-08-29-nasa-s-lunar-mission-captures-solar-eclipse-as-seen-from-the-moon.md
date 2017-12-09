@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (NASA/Goddard Space Flight Center) LRO captured an image of the Moon's shadow over a large region of the United States, centered just north of Nashville, Tennessee.
+#### Extract
+>(NASA/Goddard Space Flight Center) LRO captured an image of the Moon's shadow over a large region of the United States, centered just north of Nashville, Tennessee.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/nsfc-nlm082917.php)
 

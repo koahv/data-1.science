@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (University of Basel) Traffic lights, neon-lit advertisements, a jungle of road signs. When learning to drive, it is often very difficult to distinguish between important and irrelevant information. How the brain learns the importance of certain images over others is being investigated by Professor Sonja Hofer at the Biozentrum of the University of Basel. In a recently published study in Neuron, the neuroscientist shows that learning the relevance of images considerably modifies neuronal networks in the brain.
+#### Extract
+>(University of Basel) Traffic lights, neon-lit advertisements, a jungle of road signs. When learning to drive, it is often very difficult to distinguish between important and irrelevant information. How the brain learns the importance of certain images over others is being investigated by Professor Sonja Hofer at the Biozentrum of the University of Basel. In a recently published study in Neuron, the neuroscientist shows that learning the relevance of images considerably modifies neuronal networks in the brain.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/uob-htb061715.php)
 

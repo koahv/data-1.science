@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> A baby bird that resembles a toxic caterpillar is among several animals that masquerade as other species to trick predators.
+#### Extract
+>A baby bird that resembles a toxic caterpillar is among several animals that masquerade as other species to trick predators.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/lLn-F0ZSmZw/)
 

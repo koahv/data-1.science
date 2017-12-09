@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Eastern South African hydroclimate over the past 270,000 yearsScientific Reports, Published online: 21 December 2015; doi:10.1038/srep18153
+#### Extract
+>Eastern South African hydroclimate over the past 270,000 yearsScientific Reports, Published online: 21 December 2015; doi:10.1038/srep18153
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.nature.com/articles/srep18153)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Doctors long have stressed the importance of good nutrition for expectant mothers. Now biologists say the father's diet, too, could play a similar role in the health of a baby. 
+#### Extract
+>Doctors long have stressed the importance of good nutrition for expectant mothers. Now biologists say the father's diet, too, could play a similar role in the health of a baby.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171012125241.htm)
 

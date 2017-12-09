@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (American Association for the Advancement of Science) Using radio waves, astronomers have been able to peer through Jupiter's thick clouds, gaining insights into the gas giant's atmosphere, a new study reports.
+#### Extract
+>(American Association for the Advancement of Science) Using radio waves, astronomers have been able to peer through Jupiter's thick clouds, gaining insights into the gas giant's atmosphere, a new study reports.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/aaft-sal053116.php)
 

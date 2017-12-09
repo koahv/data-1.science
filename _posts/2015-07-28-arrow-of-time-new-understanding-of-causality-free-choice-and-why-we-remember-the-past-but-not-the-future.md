@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Theoretical physicists have developed a fully-symmetric formulation of quantum theory which establishes an exact link between asymmetry and the fact that we can remember the past but not the future.
+#### Extract
+>Theoretical physicists have developed a fully-symmetric formulation of quantum theory which establishes an exact link between asymmetry and the fact that we can remember the past but not the future.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150728091946.htm)
 

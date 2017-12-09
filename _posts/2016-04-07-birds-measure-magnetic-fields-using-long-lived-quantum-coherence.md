@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Evolution may have optimized fluctuations in cryptochrome proteins, say scientists
+#### Extract
+>Evolution may have optimized fluctuations in cryptochrome proteins, say scientists
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/apr/07/birds-measure-magnetic-fields-using-long-lived-quantum-coherence)
 

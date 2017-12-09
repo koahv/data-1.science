@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> The photoelectric effect refers to what happens when electrons are emitted from a material that has absorbed electromagnetic radiation.
+#### Extract
+>The photoelectric effect refers to what happens when electrons are emitted from a material that has absorbed electromagnetic radiation.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/58816-photoelectric-effect.html)
 

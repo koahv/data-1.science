@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Bees can be blown off course by applying a magnetic field
+#### Extract
+>Bees can be blown off course by applying a magnetic field
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/mar/27/honey-bees-navigate-using-magnetic-abdomens)
 

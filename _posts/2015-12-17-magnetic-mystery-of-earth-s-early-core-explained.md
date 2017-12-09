@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> 
+#### Extract
+>
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.nature.com/news/magnetic-mystery-of-earth-s-early-core-explained-1.19058)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Instituto de Astrofísica de Canarias (IAC)) A study shows that the most massive stars in the last stages of their lives are those which contaminate the interstellar medium with new chemical elements, giving rise to successive generations of stars in these 'astronomical fossils'.
+#### Extract
+>(Instituto de Astrofísica de Canarias (IAC)) A study shows that the most massive stars in the last stages of their lives are those which contaminate the interstellar medium with new chemical elements, giving rise to successive generations of stars in these 'astronomical fossils'.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/idad-soo110816.php)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Scientists find that in male titi monkeys, jealousy is associated with heightened activity in the cingulate cortex, an area of the brain associated with social pain in humans, and the lateral septum, associated with pair bond formation in primates. A better understanding of jealousy may provide important clues on how to approach health and welfare problems such as addiction and domestic violence, as well as autism. 
+#### Extract
+>Scientists find that in male titi monkeys, jealousy is associated with heightened activity in the cingulate cortex, an area of the brain associated with social pain in humans, and the lateral septum, associated with pair bond formation in primates. A better understanding of jealousy may provide important clues on how to approach health and welfare problems such as addiction and domestic violence, as well as autism.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171019101010.htm)
 

@@ -8,7 +8,11 @@ tags:  physics
 ---
 
 
-> Materials can be divided into two categories based on their ability to conduct electricity. Metals, such as copper and silver, allow electrons to move freely and carry with them electrical charge. Insulators, such as rubber or wood, hold on to their electrons tightly and will not allow an electrical current to flow.
+#### Extract
+>Materials can be divided into two categories based on their ability to conduct electricity. Metals, such as copper and silver, allow electrons to move freely and carry with them electrical charge. Insulators, such as rubber or wood, hold on to their electrons tightly and will not allow an electrical current to flow.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news344762855.html)
 

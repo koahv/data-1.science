@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> About one in five people experience tinnitus, the perception of a sound -- often described as ringing -- that isn't really there. Now, researchers have taken advantage of a rare opportunity to record directly from the brain of a person with tinnitus in order to find the brain networks responsible.
+#### Extract
+>About one in five people experience tinnitus, the perception of a sound -- often described as ringing -- that isn't really there. Now, researchers have taken advantage of a rare opportunity to record directly from the brain of a person with tinnitus in order to find the brain networks responsible.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/sUMaKsQBtzk/150423125858.htm)
 

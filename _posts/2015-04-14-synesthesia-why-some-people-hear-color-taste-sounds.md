@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Researchers have shed new light on synesthesia -- the effect of hearing colors, seeing sounds and other cross-sensory phenomena.
+#### Extract
+>Researchers have shed new light on synesthesia -- the effect of hearing colors, seeing sounds and other cross-sensory phenomena.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/VJIpcaSM2b8/150413214343.htm)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Scientists will spend six weeks diving beneath the Ross Ice Shelf, exploring how climate change affects marine biodiversity while documenting their work through social media and in 360-degree video.
+#### Extract
+>Scientists will spend six weeks diving beneath the Ross Ice Shelf, exploring how climate change affects marine biodiversity while documenting their work through social media and in 360-degree video.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.livescience.com/60802-explorers-dive-beneath-antarctic-ice.html)
 

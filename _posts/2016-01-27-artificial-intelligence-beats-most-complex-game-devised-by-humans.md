@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> An artificial intelligence system has used "deep learning" to defeat a professional Go player, solving one of the landmark challenges in AI.
+#### Extract
+>An artificial intelligence system has used "deep learning" to defeat a professional Go player, solving one of the landmark challenges in AI.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/53497-ai-defeats-human-go-player.html)
 

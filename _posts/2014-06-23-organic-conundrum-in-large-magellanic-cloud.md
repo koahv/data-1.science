@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> A group of organic chemicals that are considered carcinogens and pollutants today on Earth, but are also thought to be the building blocks for the origins of life, may hold clues to how carbon-rich chemicals created in stars are processed and recycled in space.
+#### Extract
+>A group of organic chemicals that are considered carcinogens and pollutants today on Earth, but are also thought to be the building blocks for the origins of life, may hold clues to how carbon-rich chemicals created in stars are processed and recycled in space.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/aujejuRp3cU/140623092333.htm)
 

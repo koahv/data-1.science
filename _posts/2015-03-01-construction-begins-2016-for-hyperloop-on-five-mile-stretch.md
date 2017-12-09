@@ -8,7 +8,11 @@ tags:  technology
 ---
 
 
-> Hyperloop construction will occur next year with the first full-scale track. Hyperloop Transportation Technologies announced it plans to start building a five-mile track in central California in 2016. Consider this an urban Hyperloop system for California, and not a dream on paper but quite real.
+#### Extract
+>Hyperloop construction will occur next year with the first full-scale track. Hyperloop Transportation Technologies announced it plans to start building a five-mile track in central California in 2016. Consider this an urban Hyperloop system for California, and not a dream on paper but quite real.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news344410744.html)
 

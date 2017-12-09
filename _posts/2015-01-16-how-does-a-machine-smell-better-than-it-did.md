@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (University of Manchester) Scientists have come up with a way of creating sensors which could allow machines to smell more accurately humans.
+#### Extract
+>(University of Manchester) Scientists have come up with a way of creating sensors which could allow machines to smell more accurately humans.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/uom-hda011515.php)
 

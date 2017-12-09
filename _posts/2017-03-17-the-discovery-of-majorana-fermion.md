@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Science China Press) Majorana fermion can serve as the building block of fault tolerant topological quantum computing. As a result, Majorana fermion drew great attention recently in the condensed matter physics. The current state research of Majorana fermion was published in a review article in Science China Physics, Mechanics & Astronomy.
+#### Extract
+>(Science China Press) Majorana fermion can serve as the building block of fault tolerant topological quantum computing. As a result, Majorana fermion drew great attention recently in the condensed matter physics. The current state research of Majorana fermion was published in a review article in Science China Physics, Mechanics & Astronomy.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/scp-tdo031717.php)
 

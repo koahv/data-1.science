@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Filed under: Energy News
+#### Extract
+>Filed under: Energy News
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.importantmedia.org/~r/IM-cleantechnica/~3/xHEfhwxG7y4/)
 

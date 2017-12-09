@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> More than one-third of American adults are obese, and now, a new report shows that children and teens aren't far behind. 
+#### Extract
+>More than one-third of American adults are obese, and now, a new report shows that children and teens aren't far behind.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/51973-childhood-obesity-united-states.html)
 

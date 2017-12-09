@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Trapped ions model the creation and annihilation of electron&ndash;positron pairs
+#### Extract
+>Trapped ions model the creation and annihilation of electron&ndash;positron pairs
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/jun/30/quantum-computer-simulates-fundamental-particle-interactions-for-the-first-time)
 

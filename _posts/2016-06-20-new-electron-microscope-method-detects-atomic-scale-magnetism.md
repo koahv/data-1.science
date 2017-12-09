@@ -8,7 +8,11 @@ tags:  nanophysics
 ---
 
 
-> Scientists can now detect magnetic behavior at the atomic level with a new electron microscopy technique developed by a team from the Department of Energy's Oak Ridge National Laboratory and Uppsala University, Sweden. The researchers took a counterintuitive approach by taking advantage of optical distortions that they typically try to eliminate.
+#### Extract
+>Scientists can now detect magnetic behavior at the atomic level with a new electron microscopy technique developed by a team from the Department of Energy's Oak Ridge National Laboratory and Uppsala University, Sweden. The researchers took a counterintuitive approach by taking advantage of optical distortions that they typically try to eliminate.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-06-electron-microscope-method-atomic-scale-magnetism.html)
 

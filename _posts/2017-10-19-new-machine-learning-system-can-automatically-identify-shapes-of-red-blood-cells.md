@@ -8,7 +8,11 @@ tags:  other
 ---
 
 
-> Using a computational approach known as deep learning, scientists have developed a new system to classify the shapes of red blood cells in a patient's blood. The findings, published in PLOS Computational Biology, could potentially help doctors monitor people with sickle cell disease.
+#### Extract
+>Using a computational approach known as deep learning, scientists have developed a new system to classify the shapes of red blood cells in a patient's blood. The findings, published in PLOS Computational Biology, could potentially help doctors monitor people with sickle cell disease.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://phys.org/news/2017-10-machine-automatically-red-blood-cells.html)
 

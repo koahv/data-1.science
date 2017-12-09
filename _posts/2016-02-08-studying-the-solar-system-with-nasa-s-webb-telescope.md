@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (NASA/Goddard Space Flight Center) NASA's James Webb Space Telescope will look across vast distances to find the earliest stars and galaxies and study the atmospheres of mysterious worlds orbiting other stars. But the observatory also will investigate objects in Earth's own neighborhood -- planets, moons, comets and asteroids in our solar system.
+#### Extract
+>(NASA/Goddard Space Flight Center) NASA's James Webb Space Telescope will look across vast distances to find the earliest stars and galaxies and study the atmospheres of mysterious worlds orbiting other stars. But the observatory also will investigate objects in Earth's own neighborhood -- planets, moons, comets and asteroids in our solar system.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/nsfc-sts020816.php)
 

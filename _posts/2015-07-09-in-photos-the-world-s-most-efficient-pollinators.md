@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Bumblebees are some of the world's best pollinators, working harder, longer and on more species than other bees, but their habitat is endangered by climate change.
+#### Extract
+>Bumblebees are some of the world's best pollinators, working harder, longer and on more species than other bees, but their habitat is endangered by climate change.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/51488-photos-worlds-best-pollinators.html)
 

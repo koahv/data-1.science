@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Red Hat is launching OpenShift.io today, its first major foray into offering cloud-based developer tools. As the name implies, OpenShift.io sits on top of the company’s Kubernetes-based OpenShift container management platform and provides developers with the tools they need to build cloud-native, container-based apps.
+#### Extract
+>Red Hat is launching OpenShift.io today, its first major foray into offering cloud-based developer tools. As the name implies, OpenShift.io sits on top of the company’s Kubernetes-based OpenShift container management platform and provides developers with the tools they need to build cloud-native, container-based apps.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/red-hat-launches-openshiftio-online-ide-building-container-based-applications)
 

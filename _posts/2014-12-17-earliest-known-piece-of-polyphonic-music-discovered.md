@@ -8,7 +8,11 @@ tags:  other sciences
 ---
 
 
-> New research has uncovered the earliest known practical piece of polyphonic music, an example of the principles that laid the foundations of European musical tradition.
+#### Extract
+>New research has uncovered the earliest known practical piece of polyphonic music, an example of the principles that laid the foundations of European musical tradition.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news338017110.html)
 

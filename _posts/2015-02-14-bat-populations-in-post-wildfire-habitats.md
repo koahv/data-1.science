@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Researchers are measuring bat populations in post-wildfire forests of Arizona. Bats are considered an indicator species of habitat health.
+#### Extract
+>Researchers are measuring bat populations in post-wildfire forests of Arizona. Bats are considered an indicator species of habitat health.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/vUlgiPxl3aQ/150214092354.htm)
 

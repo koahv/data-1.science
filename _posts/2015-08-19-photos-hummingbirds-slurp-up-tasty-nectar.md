@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> The exact way hummingbird tongues work has long eluded scientists — until now.
+#### Extract
+>The exact way hummingbird tongues work has long eluded scientists — until now.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/51907-photos-hummingbird-tongues.html)
 

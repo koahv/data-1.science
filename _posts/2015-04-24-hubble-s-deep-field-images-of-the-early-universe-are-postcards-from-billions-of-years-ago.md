@@ -8,7 +8,11 @@ tags:  astronomy & space
 ---
 
 
-> This insignificant patch of sky in the fairly obscure constellation of Fornax is the setting for one of the most remarkable images ever captured. Although only a fraction of the full moon in size, this image traces thousands of distant galaxies to the edge of the observable universe.
+#### Extract
+>This insignificant patch of sky in the fairly obscure constellation of Fornax is the setting for one of the most remarkable images ever captured. Although only a fraction of the full moon in size, this image traces thousands of distant galaxies to the edge of the observable universe.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news349075733.html)
 

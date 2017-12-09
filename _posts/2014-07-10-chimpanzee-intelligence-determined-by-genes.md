@@ -8,7 +8,11 @@ tags:  biology
 ---
 
 
-> A chimpanzee's intelligence is largely determined by its genes, while environmental factors may be less important than scientists previously thought, according to a Georgia State University research study.
+#### Extract
+>A chimpanzee's intelligence is largely determined by its genes, while environmental factors may be less important than scientists previously thought, according to a Georgia State University research study.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news324211096.html)
 

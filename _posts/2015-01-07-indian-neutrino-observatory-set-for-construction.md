@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Government pledges &#36;236m towards underground lab
+#### Extract
+>Government pledges &#36;236m towards underground lab
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/oCwt25F-bDo/indian-neutrino-observatory-set-for-construction)
 

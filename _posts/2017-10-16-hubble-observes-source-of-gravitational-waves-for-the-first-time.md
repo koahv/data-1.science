@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (ESA/Hubble Information Centre) The NASA/ESA Hubble Space Telescope has observed for the first time the source of a gravitational wave, created by the merger of two neutron stars. This merger created a kilonova -- an object predicted by theory decades ago -- that ejects heavy elements such as gold and platinum into space. This event also provides the strongest evidence yet that short duration gamma-ray bursts are caused by mergers of neutron stars.
+#### Extract
+>(ESA/Hubble Information Centre) The NASA/ESA Hubble Space Telescope has observed for the first time the source of a gravitational wave, created by the merger of two neutron stars. This merger created a kilonova -- an object predicted by theory decades ago -- that ejects heavy elements such as gold and platinum into space. This event also provides the strongest evidence yet that short duration gamma-ray bursts are caused by mergers of neutron stars.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/eic-hos101617.php)
 

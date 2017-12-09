@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Experts have shown that when certain parts of cannabis are used to treat cancer tumors alongside radio therapy treatment the growths can virtually disappear.
+#### Extract
+>Experts have shown that when certain parts of cannabis are used to treat cancer tumors alongside radio therapy treatment the growths can virtually disappear.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Cx7jta9lopI/141114085629.htm)
 

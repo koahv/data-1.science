@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> A large study of chimps finds certain aspects of intelligence are more heritable than others.
+#### Extract
+>A large study of chimps finds certain aspects of intelligence are more heritable than others.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/8UsdF1fTC8g/)
 

@@ -8,7 +8,11 @@ tags:  other sciences
 ---
 
 
-> A new fossil discovery of bones makes the 90-pound emperor penguin, thought to be the largest of all penguins, rather puny. Penguin-watching has become all the more fascinating in light of new observations from researchers about the penguin past. RT called its headline The Big Kiekowskii, and New Scientist referred to the mega-penguin. They were talking about the study that presents newly unearthed fossils.
+#### Extract
+>A new fossil discovery of bones makes the 90-pound emperor penguin, thought to be the largest of all penguins, rather puny. Penguin-watching has become all the more fascinating in light of new observations from researchers about the penguin past. RT called its headline The Big Kiekowskii, and New Scientist referred to the mega-penguin. They were talking about the study that presents newly unearthed fossils.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news326394977.html)
 

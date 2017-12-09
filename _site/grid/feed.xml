@@ -4,11 +4,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Starred articles</title>
 <generator uri="http://tt-rss.org/">Tiny Tiny RSS/17.4 (3b8d9bc)</generator>
-<updated>2017-10-24T16:46:00+00:00</updated>
+<updated>2017-10-25T18:05:09+00:00</updated>
 <id>http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3</id>
 <link href="http://localhost/tt-rss/public.php?op=rss&amp;id=-1&amp;key=vyn7su59c7b50850ac3" rel="self"/>
 
 <link href="http://localhost/tt-rss" rel="alternate"/>
+
+<entry>
+	<id>tag:localhost,2017-11-21:/456939</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-11/uoc-rho112117.php" rel="alternate" type="text/html"/>
+	<title type="html">Report highlights opportunities and risks associated with synthetic biology and bioengineering</title>
+	<summary type="html"><![CDATA[<p>(University of Cambridge) Human genome editing, 3-D-printed replacement organs and artificial photos...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>University of Cambridge</i>) Human genome editing, 3-D-printed replacement organs and artificial photosynthesis - the field of bioengineering offers great promise for tackling the major challenges that face our society. But as a new article out today highlights, these developments provide both opportunities and risks in the short and long term.</p>]]></content>
+	<updated>2017-11-21T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-11-21T05:00:00+00:00</updated>
+		<title>EurekAlert! - Agriculture</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-29:/460397</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-11/tuom-jel112817.php" rel="alternate" type="text/html"/>
+	<title type="html">Jena Experiment: Loss of species destroys ecosystems</title>
+	<summary type="html"><![CDATA[<p>(Technical University of Munich (TUM)) How serious is the loss of species globally? Are material cyc...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Technical University of Munich (TUM)</i>) How serious is the loss of species globally? Are material cycles in an ecosystem with few species changed? In order to find this out, the 'Jena Experiment' was established in 2002, one of the largest biodiversity experiments worldwide. Professor Wolfgang Weisser from the Technical University of Munich (TUM) reports on two unexpected findings of the long-term study: Biodiversity influences almost half the processes in the ecosystem, and intensive grassland management does not result in higher yields than high biodiversity.</p>]]></content>
+	<updated>2017-11-29T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-11-29T05:00:00+00:00</updated>
+		<title>EurekAlert! - Agriculture</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-27:/458938</id>
+	<link href="https://phys.org/news/2017-11-comprehensive-neotropical-snakes.html" rel="alternate" type="text/html"/>
+	<title type="html">First comprehensive inventory of Neotropical snakes</title>
+	<summary type="html"><![CDATA[<p>An international team made up of scientists from Brazil, Australia, the U.S., Ecuador, Germany and S...</p>]]></summary>
+	<content type="html"><![CDATA[<p>An international team made up of scientists from Brazil, Australia, the U.S., Ecuador, Germany and Sweden has published the results of an extensive database of snakes of the American tropics. This database is made up of museum collections from the past 150 years and demonstrates that some Neotropical regions, such as the Cerrado in the central Brazil, contain a disproportionately high diversity. Furthermore, some other diverse regions are disproportionately under-sampled, such as the Amazon. For the first time, distribution patterns, collection records and frequency of occurrence are recorded from a total of 147,515 contributions to 886 snake species. Thus, the database covers 74 percent of all snake species from 27 countries. The database will serve as a solid basis for conservation concepts, and biodiversity and evolution models in the future. The study was recently published in the journal Global Ecology and Biogeography.</p>]]></content>
+	<updated>2017-11-27T11:30:44+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>https://phys.org/</id>
+		<link rel="self" href="https://phys.org/"/>
+		<updated>2017-11-27T11:30:44+00:00</updated>
+		<title>Phys.org - latest science and technology news stories</title></source>
+
+	<category term="ecology"/>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-22:/457581</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-11/fos--etb112017.php" rel="alternate" type="text/html"/>
+	<title type="html">EU trade ban brings down global trade in wild birds by 90 percent</title>
+	<summary type="html"><![CDATA[<p>(Faculty of Science - University of Copenhagen) Trade of wild birds has dropped 90 percent globally ...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Faculty of Science - University of Copenhagen</i>) Trade of wild birds has dropped 90 percent globally since EU banned bird imports in 2005. A new study in Science Advances demonstrates how it decreased the number of birds traded annually from 1.3 million to 130,000. International trade of wild birds is a root cause of exotic birds spreading worldwide. The study was led by Center for Macroecology, Evolution and Climate, University of Copenhagen and CIBIO-InBIO Research Centre in Biodiversity and Genetic Resources, University of Porto.</p>]]></content>
+	<updated>2017-11-22T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-11-22T05:00:00+00:00</updated>
+		<title>EurekAlert! - Agriculture</title></source>
+
+
+</entry>
+
+<entry>
+	<id>tag:localhost,2017-11-20:/456283</id>
+	<link href="https://www.eurekalert.org/pub_releases/2017-11/wuis-rio111717.php" rel="alternate" type="text/html"/>
+	<title type="html">Rise in oxygen levels links to ancient explosion of life, researchers find</title>
+	<summary type="html"><![CDATA[<p>(Washington University in St. Louis) A team of researchers, including a faculty member and postdocto...</p>]]></summary>
+	<content type="html"><![CDATA[<p>(<i>Washington University in St. Louis</i>) A team of researchers, including a faculty member and postdoctoral fellow from Washington University in St. Louis, found that oxygen levels appear to increase by roughly 80 percent at about the same time as a three-fold increase in biodiversity during the Ordovician Period, between 445 and 485 million years ago, according to a study published Nov. 20 in Nature Geoscience.</p>]]></content>
+	<updated>2017-11-20T05:00:00+00:00</updated>
+	<author><name></name></author>
+	<source>
+		<id>http://www.eurekalert.org</id>
+		<link rel="self" href="http://www.eurekalert.org"/>
+		<updated>2017-11-20T05:00:00+00:00</updated>
+		<title>EurekAlert! - Atmospheric Science</title></source>
+
+
+</entry>
 
 <entry>
 	<id>tag:localhost,2017-11-02:/448149</id>
@@ -1714,172 +1801,6 @@ Chinese scientists have successfully used CRISPR to create twelve healthy pigs t
 		<updated>2017-10-25T18:05:09+00:00</updated>
 		<title>Latest Science News -- ScienceDaily</title></source>
 
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-25:/444678</id>
-	<link href="https://inhabitat.com/saudi-arabia-announces-plan-for-500b-megacity-powered-by-renewables" rel="alternate" type="text/html"/>
-	<title type="html">Saudi Arabia announces plan for $500B megacity powered by renewables</title>
-	<summary type="html"><![CDATA[<p>Saudi Arabia just announced plans for a futuristic megacity that will span 10,000 square miles and ...</p>]]></summary>
-	<content type="html"><![CDATA[<p><img fl:hint-main-image="true" src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/NEOM-Full-Width-Tall-889x298.jpg" alt="NEOM, Public Investment Fund of Saudi Arabia, Saudi Arabia, Discover NEOM, land, zone, environment, Jordan, Egypt, global hub, technology, green technology, future"></p>
-<p><a href="https://inhabitat.com/tag/saudi-arabia/" rel="noopener noreferrer" target="_blank">Saudi Arabia</a> just announced plans for a futuristic megacity that will span 10,000 square miles and three countries near the Red Sea. <a href="http://www.discoverneom.com/" rel="noopener noreferrer" target="_blank">NEOM</a> will be an independent economic zone owned by the <a href="http://pif.gov.sa/Governance.html" rel="noopener noreferrer" target="_blank">Public Investment Fund of Saudi Arabia</a> &ndash; and the nation is calling out to innovators, scientists, and dreamers to form an aspirational society to pioneer <a href="https://inhabitat.com/tag/future/" rel="noopener noreferrer" target="_blank">next-gen</a> technologies. The future of <a href="https://inhabitat.com/tag/food/" rel="noopener noreferrer" target="_blank">food</a>, <a href="https://inhabitat.com/tag/energy/" rel="noopener noreferrer" target="_blank">energy</a>, and <a href="https://inhabitat.com/tag/biotechnology/" rel="noopener noreferrer" target="_blank">biotechnology</a>, to name a few, will be explored in this global community to be backed by over $500 billion.</p>
-<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/NEOM-889x592.jpg" alt="NEOM, Public Investment Fund of Saudi Arabia, Saudi Arabia, Discover NEOM, land, zone, environment, Jordan, Egypt, global hub, technology, green technology, future"></p>
-<p>NEOM will be the world&rsquo;s first independent economic zone &ndash; supported by Saudi Arabia&rsquo;s investment, but the country said it will be developed independently of their current governmental framework. They want to transform NEOM into a global hub to pursue innovation in nine investment sectors: advanced manufacturing, food, biotech, mobility, media, technological and digital sciences, entertainment, energy and <a href="https://inhabitat.com/tag/water/" rel="noopener noreferrer" target="_blank">water</a>, and livability.</p>
-<p><a href="https://inhabitat.com/the-worlds-first-tesla-town-with-solar-roofs-and-powerwalls-is-coming-to-australia/" rel="noopener noreferrer" target="_blank">Related: The world&rsquo;s first &ldquo;Tesla Town&rdquo; with solar roofs and Powerwalls is coming to Australia</a></p>
-<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/NEOM-Land-889x592.jpg" alt="NEOM, Public Investment Fund of Saudi Arabia, Saudi Arabia, Discover NEOM, land, zone, environment, Jordan, Egypt, global hub, technology, green technology, future"></p>
-<p>Saudi Arabia crown prince Mohammed bin Salman said, &ldquo;Future technologies form the cornerstone for NEOM&rsquo;s development: disruptive solutions for <a href="https://inhabitat.com/tag/transportation/" rel="noopener noreferrer" target="_blank">transportation</a> from automated driving to passenger drones, new ways of growing and processing food, healthcare centered around the patient for their holistic well-being, wireless high-speed Internet as a free good called digital air, free world-class continuous online education, full-scale e-governance putting city services at your fingertips, building codes that make <a href="https://inhabitat.com/tag/net-zero/" rel="noopener noreferrer" target="_blank">net-zero</a> carbon houses the standard, a city layout that encourages walking and <a href="https://inhabitat.com/tag/bicycling/" rel="noopener noreferrer" target="_blank">bicycling</a>, and all solely powered by <a href="https://inhabitat.com/tag/renewable-energy/" rel="noopener noreferrer" target="_blank">renewable energy</a>.&rdquo;</p>
-<p><img src="//inhabitat.com/wp-content/blogs.dir/1/files/2017/10/NEOM-Future-889x592.jpg" alt="NEOM, Public Investment Fund of Saudi Arabia, Saudi Arabia, Discover NEOM, land, zone, environment, Jordan, Egypt, global hub, technology, green technology, future"></p>
-<p>NEOM will be located in Saudi Arabia, Jordan, and Egypt, in a region with mountains, beaches, and coral reefs. As Saudi Arabia seeks to <a href="https://www.thenational.ae/business/economy/saudi-arabia-unveils-500bn-investment-zone-spanning-three-countries-1.669930" rel="noopener noreferrer" target="_blank">diversify away from oil</a>, <a href="https://inhabitat.com/tag/solar-power/" rel="noopener noreferrer" target="_blank">solar</a> and <a href="https://inhabitat.com/tag/wind-energy/" rel="noopener noreferrer" target="_blank">wind energy</a> will help power NEOM.</p>
-<p>Saudi Arabia has already started communicating with potential partners and investors, and the frequently asked questions document for NEOM said its first phase will be finished in 2025.</p>
-<p><big><a href="http://www.discoverneom.com/" rel="noopener noreferrer" target="_blank">+ NEOM</a></big></p>
-<p>Via the <a href="https://www.prnewswire.com/news-releases/hrh-the-crown-prince-mohammed-bin-salman-announces-neom---the-destination-for-the-future-652706393.html" rel="noopener noreferrer" target="_blank">Public Investment Fund of Saudi Arabia</a> and NEOM (<a href="http://www.discoverneom.com/content/pdfs/NEOM_BROCHURE_ENGLISH.pdf" rel="noopener noreferrer" target="_blank">1</a>,<a href="http://www.discoverneom.com/content/pdfs/NEOM_FAQS_ENGLISH.pdf" rel="noopener noreferrer" target="_blank">2</a>,<a href="http://www.discoverneom.com/content/pdfs/NEOM_INFOGRAPHIC_ENGLISH.pdf" rel="noopener noreferrer" target="_blank">3</a>)</p>
-<p><em>Images via <a href="http://www.discoverneom.com/" rel="noopener noreferrer" target="_blank">NEOM</a></em></p><div>
-<a href="http://feeds.feedburner.com/~ff/Inhabitat?a=QMx7x4R-YMU:ObzapiCPSJs:yIl2AUoC8zA" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/Inhabitat?a=QMx7x4R-YMU:ObzapiCPSJs:DLYy-l-dIDg" rel="noopener noreferrer" target="_blank"><img src="http://feeds.feedburner.com/~ff/Inhabitat?d=DLYy-l-dIDg" border="0"></a>
-</div>]]></content>
-	<updated>2017-10-25T15:41:48+00:00</updated>
-	<author><name>Lacy Cooke</name></author>
-	<source>
-		<id>https://inhabitat.com</id>
-		<link rel="self" href="https://inhabitat.com"/>
-		<updated>2017-10-25T15:41:48+00:00</updated>
-		<title>Inhabitat - Sustainable Design Innovation, Eco Architecture, Green Building » green technology</title></source>
-
-	<category term="future"/>
-
-	<category term="renewable energy"/>
-
-	<category term="technology"/>
-
-	<category term="green technology"/>
-
-	<category term="saudi arabia"/>
-
-	<category term="news"/>
-
-	<category term="neom"/>
-
-	<category term="public investment fund of saudi arabia"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-25:/444381</id>
-	<link href="https://www.linuxfoundation.org/press-release/linux-foundation-releases-annual-kernel-development-report/" rel="alternate" type="text/html"/>
-	<title type="html">The Linux Foundation Releases Annual Kernel Development Report</title>
-	<summary type="html"><![CDATA[<p>Latest version of annual report demonstrates the continued growth in interest and participation in t...</p>]]></summary>
-	<content type="html"><![CDATA[<p><i><span>Latest version of annual report demonstrates the continued growth in interest and participation in the Linux kernel, as well as accelerating rate of change</span></i></p>
-<p><b>PRAGUE (Open Source Summit Europe) &ndash; October 25, 2017 &ndash;</b> <a href="http://www.linuxfoundation.org/" rel="noopener noreferrer" target="_blank"><span>The Linux Foundation</span></a><span>, the nonprofit organization enabling mass innovation through open source, </span><span>today announced the immediate release of its </span><a href="https://www.linuxfoundation.org/2017-linux-kernel-report-landing-page/" rel="noopener noreferrer" target="_blank"><span>2017 Linux Kernel Development Report</span></a><span>. The report analyzes the work done by 15,600 developers over more than a decade, as well as more recent trends. </span></p>
-<p><span>This is the eighth such report that is released on a roughly annual basis to help illustrate the Linux kernel development process and the work that defines the largest collaborative project in the history of computing. This year&rsquo;s paper covers work completed through Linux kernel 4.13, with an emphasis on releases 4.8 to 4.13. The last report was released in August 2016 and focused on 3.19 to 4.7.</span></p>
-<p><span>Key findings from this year&rsquo;s paper include:</span></p>
-<ul>
-<li><span>Roughly 15,600 developers from more than 1,400 companies have contributed to the Linux kernel </span><span>since the adoption of Git made detailed tracking possible</span><span>. Since the last report, over 4,300 developers from more than 500 companies have contributed to the kernel; 1,670 of these developers contributed for the first time, comprising about a third of contributors. </span></li>
-</ul>
-<ul>
-<li><span>The Top 10 organizations sponsoring Linux kernel development since the last report include Intel, Red Hat, Linaro, IBM, Samsung, SUSE, Google, AMD, Renesas and Mellanox. The complete top 30 contributing organizations can be seen in the full report.</span></li>
-</ul>
-<ul>
-<li><span>The rate of Linux development continues to increase, as does the number of developers and companies involved in the process. The average number of changes accepted into the kernel per hour is 8.5, a significant increase from the 7.8 changes in the last report, which translates to 204 changes every day and over 1,400 per week. The average days of development per release increased slightly to 67.66 days from 66 last year, with every release spaced either 63 or 70 days apart, providing significant predictability. The 4.9 and 4.12 development cycles featured the highest patch rates ever seen in the history of the kernel project.</span></li>
-</ul>
-<ul>
-<li><span>The number of unpaid developers may be stabilizing, with these developers contributing 8.2% of contributions, a slight increase from 7.7% in last year&rsquo;s report. This is still significantly down from the 11.8% reported in 2014. This is likely due to kernel developers being in short supply, leading those who demonstrate the ability to submit quality patches to not have trouble finding job offers.</span></li>
-</ul>
-<p><span>The report is co-authored by </span><span>Jonathan</span><span> Corbet, Linux kernel developer and editor of LWN.net, and Greg Kroah-Hartman, Linux kernel maintainer and Linux Foundation fellow. This year&rsquo;s report also features interviews with 17 Linux kernel developers and maintainers.</span></p>
-<p><span>&ldquo;The incredible rates of contribution and participation in the Linux kernel demonstrate the continued strength and scalability of the kernel community,&rdquo; said Jim Zemlin, executive director of The Linux Foundation. &ldquo;This report provides important information that helps show how incredibly effective the collaborative development model can be for one of the most essential software projects in history.&rdquo;</span></p>
-<p><span>To download the full report, please visit </span><a href="https://www.linuxfoundation.org/2017-linux-kernel-report-landing-page/" rel="noopener noreferrer" target="_blank"><span>https://www.linuxfoundation.org/2017-linux-kernel-report-landing-page/</span></a><span>. </span></p>
-<p><span>The paper is being released today at the invitation-only Linux Kernel Summit, taking place alongside Open Source Summit Europe, hosted by The Linux Foundation. Open Source Summit is a technical conference where 2,000+ developers, operators, and community leadership professionals convene to collaborate, share information and learn about the latest in open technologies, including Linux, containers, cloud computing and more. The event combines the existing LinuxCon, ContainerCon and CloudOpen conferences with the all new Open Community Conference and Diversity Empowerment Summit. For more information and keynote session livestream, visit </span><a href="http://events.linuxfoundation.org/events/open-source-summit-europe/program/live-video-stream" rel="noopener noreferrer" target="_blank"><span>http://events.linuxfoundation.org/events/open-source-summit-europe/program/live-video-stream</span></a><span>. </span></p>
-<p><span>Additional Resources</span></p>
-<p><span>Video: Greg Kroah-Hartman: Linux Kernel Development &ndash; </span><a href="https://www.youtube.com/watch?v=mmu0pkSI5sw" rel="noopener noreferrer" target="_blank"><span>https://www.youtube.com/watch?v=mmu0pkSI5sw</span></a></p>
-<p><b>About The Linux Foundation</b></p>
-<p><span>The Linux Foundation is the organization of choice for the world&rsquo;s top developers and companies to build ecosystems that accelerate open technology development and commercial adoption. Together with the worldwide open source community, it is solving the hardest technology problems by creating the largest shared technology investment in history. Founded in 2000, The Linux Foundation today provides tools, training and events to scale any open source project, which together deliver an economic impact not achievable by any one company. More information can be found at </span><a href="http://www.linuxfoundation.org" rel="noopener noreferrer" target="_blank"><span>www.linuxfoundation.org</span></a><span>.</span></p>
-<p><span># # #</span></p>
-<p><i><span>The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our trademark usage page:</span></i><a href="https://www.linuxfoundation.org/trademark-usage" rel="noopener noreferrer" target="_blank"><i><span> https://www.linuxfoundation.org/trademark-usage</span></i></a><i><span>. Linux is a registered trademark of Linus Torvalds.</span></i></p>
-<p>The post <a rel="noopener noreferrer" href="https://www.linuxfoundation.org/press-release/linux-foundation-releases-annual-kernel-development-report/" target="_blank">The Linux Foundation Releases Annual Kernel Development Report</a> appeared first on <a rel="noopener noreferrer" href="https://www.linuxfoundation.org" target="_blank">The Linux Foundation</a>.</p>]]></content>
-	<updated>2017-10-25T06:35:25+00:00</updated>
-	<author><name>Linux Foundation</name></author>
-	<source>
-		<id>https://www.linuxfoundation.org</id>
-		<link rel="self" href="https://www.linuxfoundation.org"/>
-		<updated>2017-10-25T06:35:25+00:00</updated>
-		<title>The Linux Foundation</title></source>
-
-	<category term="linux foundation"/>
-
-	<category term="press release"/>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-25:/444391</id>
-	<link href="https://phys.org/news/2017-10-explore-affects-teeth-nanoscale.html" rel="alternate" type="text/html"/>
-	<title type="html">Researchers explore how chewing affects teeth on the nanoscale</title>
-	<summary type="html"><![CDATA[<p>Food leaves permanent traces on teeth. Cows chewing on grass, tigers tearing up a piece of raw meat ...</p>]]></summary>
-	<content type="html"><![CDATA[<p>Food leaves permanent traces on teeth. Cows chewing on grass, tigers tearing up a piece of raw meat and humans munching on tortilla chips all end up with tiny scratches and nicks on the enamel of their teeth. Examining these marks on the microscale&mdash;what researchers call "microwear"&mdash;has led to new discoveries about the nature of teeth and the diet of our human ancestors.</p>]]></content>
-	<updated>2017-10-25T06:28:37+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>https://phys.org/</id>
-		<link rel="self" href="https://phys.org/"/>
-		<updated>2017-10-25T06:28:37+00:00</updated>
-		<title>Phys.org - latest science and technology news stories</title></source>
-
-	<category term="nanomaterials"/>
-
-
-	<link rel="enclosure" 
-		type="image/generic" 
-		length="1"
-		href="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2017/36-researcherse.jpg"/>
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/444288</id>
-	<link href="http://physicsworld.com/cws/article/news/2017/oct/24/photonic-nanostructures-bring-bees-to-flowers" rel="alternate" type="text/html"/>
-	<title type="html">Photonic nanostructures bring bees to flowers</title>
-	<summary type="html"><![CDATA[<p>Flash Physics: need-to-know updates from the world of physics</p>]]></summary>
-	<content type="html"><![CDATA[<p>Flash Physics: need-to-know updates from the world of physics<img src="http://feeds.feedburner.com/~r/PhysicsWorld/~4/Wq4GP-uw9U8" height="1" width="1" alt=""></p>]]></content>
-	<updated>2017-10-24T13:00:36+00:00</updated>
-	<author><name>Marric Stephens</name></author>
-	<source>
-		<id>http://physicsworld.com/</id>
-		<link rel="self" href="http://physicsworld.com/"/>
-		<updated>2017-10-24T13:00:36+00:00</updated>
-		<title>physicsworld.com: all content</title></source>
-
-
-</entry>
-
-<entry>
-	<id>tag:localhost,2017-10-24:/444107</id>
-	<link href="http://www.renewableenergyworld.com/articles/2017/10/li-ion-tech-get-first-testing-platform-for-battery-lifetime.html" rel="alternate" type="text/html"/>
-	<title type="html">Li-ion Tech Gets First Testing Platform for Battery Lifetime</title>
-	<summary type="html"><![CDATA[<p>DNV GL yesterday said that it has created the first testing-based verification of battery lifetime f...</p>]]></summary>
-	<content type="html"><![CDATA[<p>DNV GL yesterday said that it has created the first testing-based verification of battery lifetime for lithium-ion batteries.</p><img src="http://feeds.feedburner.com/~r/RenewableEnergyNewsRssFeed/~4/jOdwbMoSvag" height="1" width="1" alt="">]]></content>
-	<updated>2017-10-24T16:46:00+00:00</updated>
-	<author><name></name></author>
-	<source>
-		<id>http://www.renewableenergyworld.com</id>
-		<link rel="self" href="http://www.renewableenergyworld.com"/>
-		<updated>2017-10-24T16:46:00+00:00</updated>
-		<title>Renewable Energy News RSS Feed</title></source>
-
-	<category term="storage"/>
-
-	<category term="news"/>
-
-
-	<link rel="enclosure" 
-		type="image/png" 
-		length="1"
-		href="http://www.renewableenergyworld.com/content/rew/en/articles/2017/10/li-ion-tech-get-first-testing-platform-for-battery-lifetime/_jcr_content/leftcolumn/article/thumbnailimage.img.jpg"/>
-
-	<link rel="enclosure" 
-		type="image/png" 
-		length="1"
-		href="http://www.renewableenergyworld.com/content/rew/en/articles/2017/10/li-ion-tech-get-first-testing-platform-for-battery-lifetime/_jcr_content/leftcolumn/article/headerimage.img.jpg"/>
 
 </entry>
 

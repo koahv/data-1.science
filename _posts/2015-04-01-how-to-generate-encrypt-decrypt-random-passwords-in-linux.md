@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> &nbsp;tecmint: In this article, we will share some interesting Linux tips and tricks to generate random passwords and also how to encrypt and decrypt passwords with or without slat method.
+#### Extract
+>&nbsp;tecmint: In this article, we will share some interesting Linux tips and tricks to generate random passwords and also how to encrypt and decrypt passwords with or without slat method.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.linuxtoday.com/upload/how-to-generateencryptdecrypt-random-passwords-in-linux-150330231504.html)
 

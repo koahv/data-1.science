@@ -8,7 +8,11 @@ tags:  plants & animals
 ---
 
 
-> Birds have an impressive ability to navigate. They can fly long distances, to places that they may never have visited before, sometimes returning home after months away.
+#### Extract
+>Birds have an impressive ability to navigate. They can fly long distances, to places that they may never have visited before, sometimes returning home after months away.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://phys.org/news/2017-08-migrating-birds-magnetic-distances.html)
 

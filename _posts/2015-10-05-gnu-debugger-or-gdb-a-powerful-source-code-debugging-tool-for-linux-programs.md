@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> &nbsp;tecmint: A debugger plays a vital role in any software development system.
+#### Extract
+>&nbsp;tecmint: A debugger plays a vital role in any software development system.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.linuxtoday.com/developer/gnu-debugger-or-gdb-a-powerful-source-code-debugging-tool-for-linux-programs-151004230118.html)
 

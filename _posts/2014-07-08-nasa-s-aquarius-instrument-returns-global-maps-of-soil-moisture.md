@@ -8,7 +8,11 @@ tags:  earth
 ---
 
 
-> Scientists working with data from NASA's Aquarius instrument have released worldwide maps of soil moisture, showing how the wetness of the land fluctuates with the seasons and weather phenomena.
+#### Extract
+>Scientists working with data from NASA's Aquarius instrument have released worldwide maps of soil moisture, showing how the wetness of the land fluctuates with the seasons and weather phenomena.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news324029771.html)
 

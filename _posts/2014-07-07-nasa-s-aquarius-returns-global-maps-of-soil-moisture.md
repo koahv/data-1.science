@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (NASA/Goddard Space Flight Center) Scientists working with data from NASA's Aquarius instrument have released worldwide maps of soil moisture, showing how the wetness of the land fluctuates with the seasons and weather phenomena.
+#### Extract
+>(NASA/Goddard Space Flight Center) Scientists working with data from NASA's Aquarius instrument have released worldwide maps of soil moisture, showing how the wetness of the land fluctuates with the seasons and weather phenomena.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/nsfc-nar070714.php)
 

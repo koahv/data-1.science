@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (University of Southern California) Individual populations of mosquitoes are under strong evolutionary pressure from humans and their environment, a new study shows.
+#### Extract
+>(University of Southern California) Individual populations of mosquitoes are under strong evolutionary pressure from humans and their environment, a new study shows.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/uosc-ttg062515.php)
 

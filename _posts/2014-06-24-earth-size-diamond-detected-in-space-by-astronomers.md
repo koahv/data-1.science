@@ -8,7 +8,11 @@ tags:  space
 ---
 
 
-> A team of astronomers have identified a remarkably coldest and faintest white dwarf star ever detected that is approximately 11 billion years old.
+#### Extract
+>A team of astronomers have identified a remarkably coldest and faintest white dwarf star ever detected that is approximately 11 billion years old.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.scienceworldreport.com/articles/15619/20140624/earth-size-diamond-in-space-detected-astronomers.htm)
 

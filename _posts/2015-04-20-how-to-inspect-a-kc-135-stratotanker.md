@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Read more about How to Inspect a KC-135 StratotankerComments
+#### Extract
+>Read more about How to Inspect a KC-135 StratotankerComments
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2015/04/how-inspect-kc-135-stratotanker)
 

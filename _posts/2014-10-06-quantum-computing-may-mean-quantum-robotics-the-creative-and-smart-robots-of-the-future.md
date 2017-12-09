@@ -8,7 +8,11 @@ tags:  tech
 ---
 
 
-> Scientists have taken a closer look at quantum computing and have found that quantum tools can help robots learn and respond much faster to the stimuli around them.
+#### Extract
+>Scientists have taken a closer look at quantum computing and have found that quantum tools can help robots learn and respond much faster to the stimuli around them.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.scienceworldreport.com/articles/17722/20141006/quantum-computing-mean-robotics-creative-smart-robots-future.htm)
 

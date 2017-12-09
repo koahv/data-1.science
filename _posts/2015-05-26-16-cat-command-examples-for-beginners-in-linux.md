@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> &nbsp;Linuxtechi: cat stands for Concatenate.
+#### Extract
+>&nbsp;Linuxtechi: cat stands for Concatenate.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.linuxtoday.com/developer/16-cat-command-examples-for-beginners-in-linux-150518210512.html)
 

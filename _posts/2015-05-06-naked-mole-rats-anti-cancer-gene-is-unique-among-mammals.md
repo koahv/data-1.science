@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Naked mole rats are unusual in many ways as a result of adaptations to living underground, with extreme longevity and a lack of the normal signs of aging. However, the gene that gives naked mole-rats’ their natural resistance to cancer is unique among mammals, research concludes.
+#### Extract
+>Naked mole rats are unusual in many ways as a result of adaptations to living underground, with extreme longevity and a lack of the normal signs of aging. However, the gene that gives naked mole-rats’ their natural resistance to cancer is unique among mammals, research concludes.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/8Endm1qyY8g/150506084638.htm)
 

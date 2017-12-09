@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Here's some new GCC compiler benchmarks on Linux x86_64 for your viewing pleasure this weekend...
+#### Extract
+>Here's some new GCC compiler benchmarks on Linux x86_64 for your viewing pleasure this weekend...
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=GCC-5.1-6.0-June-SVN)
 

@@ -8,7 +8,11 @@ tags:  astronomy & space
 ---
 
 
-> NASA's New Horizons spacecraft is at Pluto's doorstep, following an incredible journey of nine years and 3 billion miles.
+#### Extract
+>NASA's New Horizons spacecraft is at Pluto's doorstep, following an incredible journey of nine years and 3 billion miles.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news353693380.html)
 

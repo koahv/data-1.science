@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (American Statistical Association) The world's population will increase from today's 7.3 billion people to 9.7 billion in 2050 and 11.2 billion at century's end, John R. Wilmoth, the director of the United Nations Population Division, told a session focused on demographic forecasting at the 2015 Joint Statistical Meetings today in Seattle.
+#### Extract
+>(American Statistical Association) The world's population will increase from today's 7.3 billion people to 9.7 billion in 2050 and 11.2 billion at century's end, John R. Wilmoth, the director of the United Nations Population Division, told a session focused on demographic forecasting at the 2015 Joint Statistical Meetings today in Seattle.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/asa-wpl080615.php)
 

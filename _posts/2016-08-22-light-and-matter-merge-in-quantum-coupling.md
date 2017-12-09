@@ -8,7 +8,11 @@ tags:  quantum physics
 ---
 
 
-> Where light and matter intersect, the world illuminates. Where light and matter interact so strongly that they become one, they illuminate a world of new physics, according to Rice University scientists.
+#### Extract
+>Where light and matter intersect, the world illuminates. Where light and matter interact so strongly that they become one, they illuminate a world of new physics, according to Rice University scientists.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-08-merge-quantum-coupling.html)
 

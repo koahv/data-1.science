@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Quantum properties dictate electrons' rotational frequency
+#### Extract
+>Quantum properties dictate electrons' rotational frequency
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/UB-JBHzwJaM/electrons-in-magnetic-field-reveal-surprises)
 

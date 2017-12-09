@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> A frozen observatory has spotted ghostly, nearly massless particles coming from inside our galaxy and points beyond the Milky Way. Finding these cosmic neutrinos also sheds light on the origins of cosmic rays, the researchers said. 
+#### Extract
+>A frozen observatory has spotted ghostly, nearly massless particles coming from inside our galaxy and points beyond the Milky Way. Finding these cosmic neutrinos also sheds light on the origins of cosmic rays, the researchers said.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/51927-cosmic-neutrinos-confirmed.html)
 

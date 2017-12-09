@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Read more about Magnetospheric Multiscale Spacecraft Poised for Launch Comments
+#### Extract
+>Read more about Magnetospheric Multiscale Spacecraft Poised for Launch Comments
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2015/03/magnetospheric-multiscale-spacecraft-poised-launch)
 

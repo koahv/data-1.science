@@ -8,7 +8,11 @@ tags:  biology
 ---
 
 
-> One of developmental biology's most perplexing questions concerns what signals transform masses of undifferentiated cells into tremendously complex organisms, a process called ontogeny.
+#### Extract
+>One of developmental biology's most perplexing questions concerns what signals transform masses of undifferentiated cells into tremendously complex organisms, a process called ontogeny.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news350291092.html)
 

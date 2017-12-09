@@ -8,7 +8,11 @@ tags:  quantum physics
 ---
 
 
-> Just as in the well-known children's story of Goldilocks and the Three Bears, something good happens when things are done in moderation, rather than in extremes.
+#### Extract
+>Just as in the well-known children's story of Goldilocks and the Three Bears, something good happens when things are done in moderation, rather than in extremes.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news/2015-09-quantum-entanglement-goldilocks-effect.html)
 

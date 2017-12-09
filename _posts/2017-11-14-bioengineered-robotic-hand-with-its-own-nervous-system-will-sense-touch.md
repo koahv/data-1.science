@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Florida Atlantic University) Researchers are developing a first-of-its-kind bioengineered robotic hand that will actually feel and adapt to its environment. This 'living' robot will have its own peripheral nervous system directly linking robotic sensors and actuators.
+#### Extract
+>(Florida Atlantic University) Researchers are developing a first-of-its-kind bioengineered robotic hand that will actually feel and adapt to its environment. This 'living' robot will have its own peripheral nervous system directly linking robotic sensors and actuators.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/fau-brh111317.php)
 

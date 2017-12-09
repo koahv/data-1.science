@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (University of Alberta) A University of Alberta researcher has successfully generated 3-D simulations of deep jet streams and storms on Jupiter and Saturn, helping to satiate our eternal quest for knowledge of planetary dynamics. The results facilitate a deeper understanding of planetary weather and provide clues to the dynamics of Earth's weather patterns evidenced in jet streams and ocean currents.
+#### Extract
+>(University of Alberta) A University of Alberta researcher has successfully generated 3-D simulations of deep jet streams and storms on Jupiter and Saturn, helping to satiate our eternal quest for knowledge of planetary dynamics. The results facilitate a deeper understanding of planetary weather and provide clues to the dynamics of Earth's weather patterns evidenced in jet streams and ocean currents.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-11/uoa-stj112715.php)
 

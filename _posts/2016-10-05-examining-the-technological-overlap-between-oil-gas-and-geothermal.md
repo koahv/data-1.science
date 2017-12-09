@@ -8,7 +8,11 @@ tags:  geothermal,opinion & commentary
 ---
 
 
-> The intersection of the oil and gas and geothermal industries is one that is rich in unexpected ways, be it in drilling technologies or the new frontier of co-production of both fossil fuels and geothermal power from the same well.
+#### Extract
+>The intersection of the oil and gas and geothermal industries is one that is rich in unexpected ways, be it in drilling technologies or the new frontier of co-production of both fossil fuels and geothermal power from the same well.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.renewableenergyworld.com/articles/2016/10/examining-the-technological-overlap-between-oil-gas-and-geothermal.html)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Alphabet Inc.’s artificial intelligence division Google DeepMind is making the maze-like game platform it uses for many of its experiments available to other researchers and the general public.
+#### Extract
+>Alphabet Inc.’s artificial intelligence division Google DeepMind is making the maze-like game platform it uses for many of its experiments available to other researchers and the general public.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/google-deepmind-makes-ai-training-platform-publicly-available)
 

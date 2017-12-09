@@ -8,7 +8,11 @@ tags:  biology
 ---
 
 
-> A pair of genetics researchers at Iowa State University found striking patterns in the building blocks of DNA in a wide variety of species, according to their recently published paper.
+#### Extract
+>A pair of genetics researchers at Iowa State University found striking patterns in the building blocks of DNA in a wide variety of species, according to their recently published paper.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news346660130.html)
 

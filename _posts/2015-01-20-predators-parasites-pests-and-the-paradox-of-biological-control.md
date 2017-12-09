@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (University of Michigan) When a bird swoops down and grabs a caterpillar devouring your backyard garden, you might view it as a clear victory for natural pest control.
+#### Extract
+>(University of Michigan) When a bird swoops down and grabs a caterpillar devouring your backyard garden, you might view it as a clear victory for natural pest control.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/uom-ppp011415.php)
 

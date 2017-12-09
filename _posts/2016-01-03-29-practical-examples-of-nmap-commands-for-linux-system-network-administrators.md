@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> 
+#### Extract
+>
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.linuxtoday.com/infrastructure/29-practical-examples-of-nmap-commands-for-linux-systemnetwork-administrators-151230210220.html)
 

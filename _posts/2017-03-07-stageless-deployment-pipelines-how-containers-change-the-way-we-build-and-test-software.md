@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Title:&nbsp;Stageless Deployment Pipelines: How Containers Change the Way We Build and Test Software7 MarLearn more
+#### Extract
+>Title:&nbsp;Stageless Deployment Pipelines: How Containers Change the Way We Build and Test Software7 MarLearn more
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.linux.com/blog/stageless-deployment-pipelines-how-containers-change-way-we-build-and-test-software)
 

@@ -8,7 +8,11 @@ tags:  other sciences
 ---
 
 
-> Look at a primate or a Neanderthal skull and compare it with a modern human's. Notice anything missing?
+#### Extract
+>Look at a primate or a Neanderthal skull and compare it with a modern human's. Notice anything missing?
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news348163865.html)
 

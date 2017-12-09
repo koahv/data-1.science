@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Stanford's School of Earth, Energy & Environmental Sciences ) The carbon balance in the Amazon can change quickly in response to heat and drought conditions.
+#### Extract
+>(Stanford's School of Earth, Energy & Environmental Sciences ) The carbon balance in the Amazon can change quickly in response to heat and drought conditions.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/ssoe-arr042816.php)
 

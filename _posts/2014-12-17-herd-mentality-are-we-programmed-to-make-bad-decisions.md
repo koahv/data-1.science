@@ -8,7 +8,11 @@ tags:  biology
 ---
 
 
-> A natural desire to be part of the 'in crowd' could damage our ability to make the right decisions, a new study has shown.
+#### Extract
+>A natural desire to be part of the 'in crowd' could damage our ability to make the right decisions, a new study has shown.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news337975902.html)
 

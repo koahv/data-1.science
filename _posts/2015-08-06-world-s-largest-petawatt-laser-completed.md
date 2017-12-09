@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Read more about World&#039;s Largest Petawatt Laser CompletedComments
+#### Extract
+>Read more about World&#039;s Largest Petawatt Laser CompletedComments
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2015/08/worlds-largest-petawatt-laser-completed)
 

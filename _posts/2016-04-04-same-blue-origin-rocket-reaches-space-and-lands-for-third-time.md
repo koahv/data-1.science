@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> The private space firm owned by Amazon boss Jeff Bezos is the first to launch and land the same rocket – beating rival SpaceX to the punch
+#### Extract
+>The private space firm owned by Amazon boss Jeff Bezos is the first to launch and land the same rocket – beating rival SpaceX to the punch
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.newscientist.com/article/2082923-same-blue-origin-rocket-reaches-space-and-lands-for-third-time/)
 

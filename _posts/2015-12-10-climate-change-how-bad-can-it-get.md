@@ -8,7 +8,11 @@ tags:  environment
 ---
 
 
-> Ministers in Paris have until Friday to conclude a 195-nation pact to stop Earth's climate becoming inhospitable to humans and other species.
+#### Extract
+>Ministers in Paris have until Friday to conclude a 195-nation pact to stop Earth's climate becoming inhospitable to humans and other species.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news/2015-12-climate-bad.html)
 

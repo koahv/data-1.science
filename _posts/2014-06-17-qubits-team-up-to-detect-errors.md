@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Record seven-qubit quantum register built
+#### Extract
+>Record seven-qubit quantum register built
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/_Jkj4un0lOg/qubits-team-up-to-detect-errors)
 

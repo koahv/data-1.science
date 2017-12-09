@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> &nbsp;tecmint: chattr (Change Attribute) is a command line Linux utilit
+#### Extract
+>&nbsp;tecmint: chattr (Change Attribute) is a command line Linux utilit
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.linuxtoday.com/upload/5-chattr-commands-to-make-important-files-immutable-unchangeable-in-linux-141004025008.html)
 

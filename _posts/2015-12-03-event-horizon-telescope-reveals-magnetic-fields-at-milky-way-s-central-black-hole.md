@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> For the first time, astronomers have detected magnetic fields just outside the event horizon of the black hole at the center of our Milky Way galaxy. 
+#### Extract
+>For the first time, astronomers have detected magnetic fields just outside the event horizon of the black hole at the center of our Milky Way galaxy.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/12/151203150233.htm)
 

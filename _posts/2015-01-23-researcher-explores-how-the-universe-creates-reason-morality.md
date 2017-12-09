@@ -8,7 +8,11 @@ tags:  astronomy & space
 ---
 
 
-> Recent developments in science are beginning to suggest that the universe naturally produces complexity. The emergence of life in general and perhaps even rational life, with its associated technological culture, may be extremely common, argues Clemson researcher Kelly Smith in a recently published paper in the journal Space Policy.
+#### Extract
+>Recent developments in science are beginning to suggest that the universe naturally produces complexity. The emergence of life in general and perhaps even rational life, with its associated technological culture, may be extremely common, argues Clemson researcher Kelly Smith in a recently published paper in the journal Space Policy.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news341229624.html)
 

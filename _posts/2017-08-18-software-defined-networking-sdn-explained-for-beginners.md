@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Over the past few years,  Software Defined Networking (SDN) has been a  key buzz in the computer networking/IT industry. Today, more and more companies are discussing SDN to leverage it for their business and future growth plans.
+#### Extract
+>Over the past few years,  Software Defined Networking (SDN) has been a  key buzz in the computer networking/IT industry. Today, more and more companies are discussing SDN to leverage it for their business and future growth plans.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/software-defined-networking-sdn-explained-beginners)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> New technique bags Bloch points
+#### Extract
+>New technique bags Bloch points
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/aug/03/nanoscale-imaging-looks-deep-into-magnetic-materials)
 

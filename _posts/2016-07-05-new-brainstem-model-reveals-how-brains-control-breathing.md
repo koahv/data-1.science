@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (eLife ) Scientists from Karolinska Institutet, Sweden, have discovered how the brain controls our breathing in response to changing oxygen and carbon dioxide levels in the blood.
+#### Extract
+>(eLife ) Scientists from Karolinska Institutet, Sweden, have discovered how the brain controls our breathing in response to changing oxygen and carbon dioxide levels in the blood.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/e-nbm070416.php)
 

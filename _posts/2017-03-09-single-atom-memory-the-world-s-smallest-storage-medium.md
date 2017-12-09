@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Institute for Basic Science) One bit of digital information can now be successfully stored in an individual atom. This result is a breakthrough in the miniaturization of storage media and has the potential to serve as a basis for quantum computing.
+#### Extract
+>(Institute for Basic Science) One bit of digital information can now be successfully stored in an individual atom. This result is a breakthrough in the miniaturization of storage media and has the potential to serve as a basis for quantum computing.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/ifbs-sam030917.php)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (University of California - Santa Cruz) An unprecedented analysis of North Pacific ocean circulation over the past 1.2 million years has found that sea ice formation in coastal regions is a key driver of deep ocean circulation, influencing climate on regional and global scales. Coastal sea ice formation takes place on relatively small scales, however, and is not captured well in global climate models.
+#### Extract
+>(University of California - Santa Cruz) An unprecedented analysis of North Pacific ocean circulation over the past 1.2 million years has found that sea ice formation in coastal regions is a key driver of deep ocean circulation, influencing climate on regional and global scales. Coastal sea ice formation takes place on relatively small scales, however, and is not captured well in global climate models.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/uoc--foc102015.php)
 

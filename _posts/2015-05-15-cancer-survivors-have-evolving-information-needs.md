@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Judging by the nature and topics of their information seeking, cancer patients' information needs appear to differ depending on the type of cancer they have and where they are in their survivorship.
+#### Extract
+>Judging by the nature and topics of their information seeking, cancer patients' information needs appear to differ depending on the type of cancer they have and where they are in their survivorship.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/7vTeumtoSNs/150515130126.htm)
 

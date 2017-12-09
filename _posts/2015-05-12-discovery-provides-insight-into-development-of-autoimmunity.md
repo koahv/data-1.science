@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> The action of a gene that regulates the education of T cells has been uncovered by researchers, providing insight into how and why the immune system begins mistaking the body's own tissues for targets.
+#### Extract
+>The action of a gene that regulates the education of T cells has been uncovered by researchers, providing insight into how and why the immune system begins mistaking the body's own tissues for targets.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/oIWElBf7_mY/150512140815.htm)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Read more about Study Advances Limits for Ultrafast Nano-DevicesComments
+#### Extract
+>Read more about Study Advances Limits for Ultrafast Nano-DevicesComments
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2014/07/study-advances-limits-ultrafast-nano-devices)
 

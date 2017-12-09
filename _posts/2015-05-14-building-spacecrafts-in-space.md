@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Read more about Building Spacecrafts in Space Comments
+#### Extract
+>Read more about Building Spacecrafts in Space Comments
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/videos/2015/05/building-spacecrafts-space)
 

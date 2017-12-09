@@ -8,7 +8,11 @@ tags:  space
 ---
 
 
-> Astronomers have spotted an unusual series of eruptions form the sun, thanks to a suite of spacecraft.
+#### Extract
+>Astronomers have spotted an unusual series of eruptions form the sun, thanks to a suite of spacecraft.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.scienceworldreport.com/articles/15631/20140624/spacecraft-witness-puffing-sun-causing-reluctant-eruption.htm)
 

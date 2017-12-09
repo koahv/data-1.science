@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (DOE/SLAC National Accelerator Laboratory) Researchers from the Department of Energy's SLAC National Accelerator Laboratory and Stanford University have for the first time shown that neural networks -- a form of artificial intelligence -- can accurately analyze the complex distortions in spacetime known as gravitational lenses 10 million times faster than traditional methods.
+#### Extract
+>(DOE/SLAC National Accelerator Laboratory) Researchers from the Department of Energy's SLAC National Accelerator Laboratory and Stanford University have for the first time shown that neural networks -- a form of artificial intelligence -- can accurately analyze the complex distortions in spacetime known as gravitational lenses 10 million times faster than traditional methods.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/dnal-aia082917.php)
 

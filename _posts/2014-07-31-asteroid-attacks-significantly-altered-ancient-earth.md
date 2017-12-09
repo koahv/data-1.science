@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Arizona State University) New research shows that more than four billion years ago, the surface of Earth was heavily reprocessed as a result of giant asteroid impacts. A new model based on existing lunar and terrestrial data sheds light on the role asteroid bombardments played in the geological evolution of the uppermost layers of the Hadean Earth.
+#### Extract
+>(Arizona State University) New research shows that more than four billion years ago, the surface of Earth was heavily reprocessed as a result of giant asteroid impacts. A new model based on existing lunar and terrestrial data sheds light on the role asteroid bombardments played in the geological evolution of the uppermost layers of the Hadean Earth.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/asu-aas073114.php)
 

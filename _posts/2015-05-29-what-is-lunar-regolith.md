@@ -8,7 +8,11 @@ tags:  astronomy & space
 ---
 
 
-> When you're walking around on soft ground, do you notice how your feet leave impressions? Perhaps you've tracked some of the looser earth in your yard into the house on occasion? If you were to pick up some of these traces – what we refer to as dirt or soil – and examine them beneath a microscope, what would you see?
+#### Extract
+>When you're walking around on soft ground, do you notice how your feet leave impressions? Perhaps you've tracked some of the looser earth in your yard into the house on occasion? If you were to pick up some of these traces – what we refer to as dirt or soil – and examine them beneath a microscope, what would you see?
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news352110458.html)
 

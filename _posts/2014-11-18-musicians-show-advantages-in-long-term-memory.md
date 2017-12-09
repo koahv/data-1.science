@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Psychologists have demonstrated a link between musical training and long-term memory advantages.
+#### Extract
+>Psychologists have demonstrated a link between musical training and long-term memory advantages.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/QvAcuA1Wtnc/141118125554.htm)
 

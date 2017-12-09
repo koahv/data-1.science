@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Title:&nbsp;Advanced lm-sensors Tips and Tricks on Linux21 SepLearn more
+#### Extract
+>Title:&nbsp;Advanced lm-sensors Tips and Tricks on Linux21 SepLearn more
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.linux.com/learn/intro-to-linux/2017/9/advanced-lm-sensors-tips-and-tricks-linux-0)
 

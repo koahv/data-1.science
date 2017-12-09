@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> 
+#### Extract
+>
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.linuxtoday.com/upload/linux-ls-command-examples-for-beginners-141215044512.html)
 

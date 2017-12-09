@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> A new study sheds light on the impact of plasma waves on high-energy electrons streaking into Earth's magnetic field from space. 
+#### Extract
+>A new study sheds light on the impact of plasma waves on high-energy electrons streaking into Earth's magnetic field from space.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/10/151027143023.htm)
 

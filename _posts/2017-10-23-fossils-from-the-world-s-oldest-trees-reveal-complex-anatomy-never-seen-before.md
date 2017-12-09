@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Cardiff University) The first trees to have ever grown on Earth were also the most complex, new research has revealed.
+#### Extract
+>(Cardiff University) The first trees to have ever grown on Earth were also the most complex, new research has revealed.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/cu-fft101917.php)
 

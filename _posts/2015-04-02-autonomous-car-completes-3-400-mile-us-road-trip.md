@@ -8,7 +8,11 @@ tags:  technology
 ---
 
 
-> An autonomous car's recent 3,400-mile U.S. road trip proves there's at least one thing computers do better than humans: Follow the speed limit.
+#### Extract
+>An autonomous car's recent 3,400-mile U.S. road trip proves there's at least one thing computers do better than humans: Follow the speed limit.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news347211535.html)
 

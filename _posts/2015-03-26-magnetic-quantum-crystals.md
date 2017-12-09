@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> In experiments with ultracold rubidium atoms scientists create magnetic quantum crystals made of gigantic Rydberg atoms.
+#### Extract
+>In experiments with ultracold rubidium atoms scientists create magnetic quantum crystals made of gigantic Rydberg atoms.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/7I1b_VkhmFk/150326151603.htm)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Consuming a metal-rich planet or two early in its life can change a star’s colour – making them the flamingos of space
+#### Extract
+>Consuming a metal-rich planet or two early in its life can change a star’s colour – making them the flamingos of space
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.newscientist.com/article/2092531-flamingo-stars-turn-pink-when-they-gobble-iron-rich-planets/)
 

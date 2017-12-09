@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> NewsThe nail-biting maneuver that sent Japan’s Akatsuki spacecraft into orbit around Venus this week is being celebrated by NASA scientists, eager to learn more about the atmosphere and climate of...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace
+#### Extract
+>NewsThe nail-biting maneuver that sent Japan’s Akatsuki spacecraft into orbit around Venus this week is being celebrated by NASA scientists, eager to learn more about the atmosphere and climate of...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2015/12/japanese-spacecraft-successfully-orbits-venus)
 

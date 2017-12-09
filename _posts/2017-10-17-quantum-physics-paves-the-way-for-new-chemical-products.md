@@ -8,7 +8,11 @@ tags:  condensed matter
 ---
 
 
-> Research by an OU molecular physicist has discovered that electrons can control chemical reactions in experiments leading to purer, cheaper chemical products.
+#### Extract
+>Research by an OU molecular physicist has discovered that electrons can control chemical reactions in experiments leading to purer, cheaper chemical products.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://phys.org/news/2017-10-quantum-physics-paves-chemical-products.html)
 

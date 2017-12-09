@@ -8,7 +8,11 @@ tags:  earth
 ---
 
 
-> Crop producers and scientists hold deeply different views on climate change and its possible causes, a study by Purdue and Iowa State universities shows.
+#### Extract
+>Crop producers and scientists hold deeply different views on climate change and its possible causes, a study by Purdue and Iowa State universities shows.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news334933314.html)
 

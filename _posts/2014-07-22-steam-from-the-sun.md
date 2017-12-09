@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Filed under: Energy News
+#### Extract
+>Filed under: Energy News
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://theenergycollective.com/energyatmit/438941/steam-sun)
 

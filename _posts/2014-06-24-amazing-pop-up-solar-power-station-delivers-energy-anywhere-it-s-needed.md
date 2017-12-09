@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Filed under: Energy News
+#### Extract
+>Filed under: Energy News
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://inhabitat.com/amazing-pop-up-solar-power-station-delivers-energy-anywhere-its-needed/)
 

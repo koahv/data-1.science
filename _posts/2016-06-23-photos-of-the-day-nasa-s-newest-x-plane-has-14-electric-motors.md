@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> NewsNASA is working on an electric propulsion plane that uses a unique wing shape to maximize its efficiency. The plane was designated X-57 on June 17 and nicknamed “Maxwell” after physicist James Clerk Maxwell...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace
+#### Extract
+>NewsNASA is working on an electric propulsion plane that uses a unique wing shape to maximize its efficiency. The plane was designated X-57 on June 17 and nicknamed “Maxwell” after physicist James Clerk Maxwell...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.pddnet.com/news/2016/06/photos-day-nasas-newest-x-plane-has-14-electric-motors)
 

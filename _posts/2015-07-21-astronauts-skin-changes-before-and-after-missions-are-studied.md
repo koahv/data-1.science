@@ -8,7 +8,11 @@ tags:  space exploration
 ---
 
 
-> As NASA once put, space is no trip to the spa. Changes in skin occur during spaceflight. According to recent reports, scientists have found that skin of astronauts who spend a lot of time in space gets thinner.
+#### Extract
+>As NASA once put, space is no trip to the spa. Changes in skin occur during spaceflight. According to recent reports, scientists have found that skin of astronauts who spend a lot of time in space gets thinner.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news/2015-07-astronauts-skin-missions.html)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Five-year-long construction of giant US neutrino experiment complete
+#### Extract
+>Five-year-long construction of giant US neutrino experiment complete
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/nHANUH7NJWs/fermilabs-nova-neutrino-experiment-kicks-off)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> In an age when Microsoft is floating the idea of open-sourcing even Windows, it&#39;s clear that open source has pretty much conquered the world of software—or the parts of it that matter, at least. But, in a lot of ways, the weight of open source is now extending into many other realms, defining...
+#### Extract
+>In an age when Microsoft is floating the idea of open-sourcing even Windows, it&#39;s clear that open source has pretty much conquered the world of software—or the parts of it that matter, at least. But, in a lot of ways, the weight of open source is now extending into many other realms, defining...
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://thevarguy.com/open-source-application-software-companies/051415/free-software-and-free-culture-open-sources-influence-soc)
 

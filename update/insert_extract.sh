@@ -14,3 +14,6 @@ then
 	
 	done <"$_db"
 fi
+
+# Alternatively run this sql in pgadmin and enter manually
+# SELECT f.id, f.updated, g.title, f.title, f.link, f.author, e.last_marked, e.tag_cache, f.content, f.custom_extract FROM ttrss_user_entries e INNER JOIN ttrss_feeds d ON d.id = e.feed_id INNER JOIN ttrss_entries f ON f.id = e.ref_id INNER JOIN ttrss_feed_categories g ON d.cat_id = g.id WHERE e.marked ORDER BY f.updated DESC

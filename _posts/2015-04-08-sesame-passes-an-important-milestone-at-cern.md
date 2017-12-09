@@ -8,7 +8,11 @@ tags:  physics
 ---
 
 
-> The SESAME project has reached an important milestone: the first complete cell of this accelerator for the Middle East has been assembled and successfully tested at CERN.
+#### Extract
+>The SESAME project has reached an important milestone: the first complete cell of this accelerator for the Middle East has been assembled and successfully tested at CERN.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news347698652.html)
 

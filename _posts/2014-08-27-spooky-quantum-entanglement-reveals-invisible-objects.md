@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> In a physics first, quantum entanglement of two-colored laser beams created pictures of otherwise unseeable objects, experimenters report.
+#### Extract
+>In a physics first, quantum entanglement of two-colored laser beams created pictures of otherwise unseeable objects, experimenters report.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/L_dHj_zLnto/)
 

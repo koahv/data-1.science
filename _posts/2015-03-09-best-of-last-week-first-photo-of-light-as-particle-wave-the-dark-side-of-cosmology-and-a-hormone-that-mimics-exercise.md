@@ -8,7 +8,11 @@ tags:  other sciences
 ---
 
 
-> (Phys.org)—It was another interesting week for physics as a team working at École Polytechnique Fédérale de Lausanne found a way to take the first ever photograph of light as both a particle and wave. Meanwhile, another team working at UC Santa Barbara announced that they had developed the first-ever quantum device that detects and corrects its own errors—a necessary precursor in developing a full quantum computer.
+#### Extract
+>(Phys.org)—It was another interesting week for physics as a team working at École Polytechnique Fédérale de Lausanne found a way to take the first ever photograph of light as both a particle and wave. Meanwhile, another team working at UC Santa Barbara announced that they had developed the first-ever quantum device that detects and corrects its own errors—a necessary precursor in developing a full quantum computer.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news345107719.html)
 

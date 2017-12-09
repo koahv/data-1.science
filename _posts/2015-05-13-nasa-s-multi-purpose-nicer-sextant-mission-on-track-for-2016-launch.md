@@ -8,7 +8,11 @@ tags:  astronomy & space
 ---
 
 
-> NASA mission that embodies the virtues of faster, less expensive access to space has sailed past all major development milestones and is scheduled to be delivered to Cape Canaveral on time for its October 2016 launch.
+#### Extract
+>NASA mission that embodies the virtues of faster, less expensive access to space has sailed past all major development milestones and is scheduled to be delivered to Cape Canaveral on time for its October 2016 launch.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news350728723.html)
 

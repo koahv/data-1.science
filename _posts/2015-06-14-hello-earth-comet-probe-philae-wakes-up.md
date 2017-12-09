@@ -8,7 +8,11 @@ tags:  astronomy & space
 ---
 
 
-> The European space probe Philae woke up overnight after nearly seven months in hibernation as it hurtled towards the Sun on the back of a comet, mission control said Sunday.
+#### Extract
+>The European space probe Philae woke up overnight after nearly seven months in hibernation as it hurtled towards the Sun on the back of a comet, mission control said Sunday.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news353503692.html)
 

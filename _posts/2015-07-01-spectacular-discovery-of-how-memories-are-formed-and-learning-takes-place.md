@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (University of Leicester) Jennifer Aniston, Clint Eastwood and Halle Berry images used in 'mind game' to establish for the first time how new memories are formed.
+#### Extract
+>(University of Leicester) Jennifer Aniston, Clint Eastwood and Halle Berry images used in 'mind game' to establish for the first time how new memories are formed.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/uol-do062615.php)
 

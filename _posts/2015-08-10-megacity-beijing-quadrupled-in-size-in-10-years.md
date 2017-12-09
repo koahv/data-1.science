@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Beijing has seen explosive growth in recent years, with the physical size of the city quadrupling in just a decade, a new study reveals.
+#### Extract
+>Beijing has seen explosive growth in recent years, with the physical size of the city quadrupling in just a decade, a new study reveals.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/51799-beijing-quadrupled-in-decade.html)
 

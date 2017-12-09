@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Evidence is rapidly growing showing vital relationships between both diet quality and potential nutritional deficiencies and mental health, a new international collaborative study has revealed.
+#### Extract
+>Evidence is rapidly growing showing vital relationships between both diet quality and potential nutritional deficiencies and mental health, a new international collaborative study has revealed.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/3cVW0Cu_DKA/150129104217.htm)
 

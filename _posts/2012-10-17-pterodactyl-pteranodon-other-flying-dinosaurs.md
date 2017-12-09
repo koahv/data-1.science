@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Flying reptiles ruled the skies for millions of years.
+#### Extract
+>Flying reptiles ruled the skies for millions of years.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/24071-pterodactyl-pteranodon-flying-dinosaurs.html)
 

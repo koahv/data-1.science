@@ -8,7 +8,11 @@ tags:  space exploration
 ---
 
 
-> An unusual observation by Mars Express shows a sweeping view over the planet's south polar ice cap and across its ancient, cratered highlands.
+#### Extract
+>An unusual observation by Mars Express shows a sweeping view over the planet's south polar ice cap and across its ancient, cratered highlands.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news/2015-09-south-pole-mars.html)
 

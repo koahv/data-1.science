@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> &nbsp;tecmint: We often use the 'mv' command to rename a single file in Linux.
+#### Extract
+>&nbsp;tecmint: We often use the 'mv' command to rename a single file in Linux.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.linuxtoday.com/developer/rename-a-command-line-tool-for-renaming-multiple-files-in-linux-150928224016.html)
 

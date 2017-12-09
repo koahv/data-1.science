@@ -8,7 +8,11 @@ tags:  space exploration
 ---
 
 
-> Russian cosmonaut Gennady Padalka returned safely to Earth with two other astronauts from the International Space Station Saturday with the record for having spent the most time in space.
+#### Extract
+>Russian cosmonaut Gennady Padalka returned safely to Earth with two other astronauts from the International Space Station Saturday with the record for having spent the most time in space.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news/2015-09-russian-cosmonaut-days-space.html)
 

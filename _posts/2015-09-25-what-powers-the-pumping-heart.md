@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (University of Toronto) Researchers at the Ted Rogers Centre for Heart Research have uncovered a treasure trove of proteins, which hold answers about how our heart pumps -- a phenomenon known as contractility.
+#### Extract
+>(University of Toronto) Researchers at the Ted Rogers Centre for Heart Research have uncovered a treasure trove of proteins, which hold answers about how our heart pumps -- a phenomenon known as contractility.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uot-wpt092515.php)
 

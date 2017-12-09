@@ -8,7 +8,11 @@ tags:  nature & environment
 ---
 
 
-> Scientists have unearthed fossilized remains of a horned dinosaur in Montana from the late Cretaceous Period.
+#### Extract
+>Scientists have unearthed fossilized remains of a horned dinosaur in Montana from the late Cretaceous Period.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.scienceworldreport.com/articles/15530/20140619/77-million-year-old-new-species-of-horned-dinosaur-discovered-in-montana.htm)
 

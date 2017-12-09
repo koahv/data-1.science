@@ -8,7 +8,11 @@ tags:  optics & photonics
 ---
 
 
-> A decade on from suggesting light can be dramatically slowed - or even stopped - by new materials, Ortwin Hess reviews the progress and applications.
+#### Extract
+>A decade on from suggesting light can be dramatically slowed - or even stopped - by new materials, Ortwin Hess reviews the progress and applications.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://phys.org/news/2017-10-years-rainbowthe-revolution.html)
 

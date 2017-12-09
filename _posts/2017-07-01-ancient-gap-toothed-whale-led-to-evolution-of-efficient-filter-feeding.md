@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> A new fossil find, named Coronodon havensteini, helps explain the unusual eating habits of the blue whale.
+#### Extract
+>A new fossil find, named Coronodon havensteini, helps explain the unusual eating habits of the blue whale.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.livescience.com/59672-ancient-gap-toothed-whale-discovered.html)
 

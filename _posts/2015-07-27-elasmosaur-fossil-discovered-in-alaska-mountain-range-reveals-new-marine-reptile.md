@@ -8,7 +8,11 @@ tags:  nature & environment
 ---
 
 
-> Researchers have uncovered a massive new species of marine reptile called an elasmosaur that once lived within Alaska.
+#### Extract
+>Researchers have uncovered a massive new species of marine reptile called an elasmosaur that once lived within Alaska.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.scienceworldreport.com/articles/28202/20150727/elasmosaur-fossil-discovered-alaska-mountain-range-reveals-new-marine-reptile.htm)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Bioengineers in the United States have developed a new method for encrypting and storing sensitive information in DNA. Digital data storage degrades and can become obsolete and old-school books and paper require lots of space. 
+#### Extract
+>Bioengineers in the United States have developed a new method for encrypting and storing sensitive information in DNA. Digital data storage degrades and can become obsolete and old-school books and paper require lots of space.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2016/07/160711122612.htm)
 

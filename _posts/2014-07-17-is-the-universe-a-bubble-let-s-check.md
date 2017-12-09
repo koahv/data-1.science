@@ -8,7 +8,11 @@ tags:  physics
 ---
 
 
-> Perimeter Associate Faculty member Matthew Johnson and his colleagues are working to bring the multiverse hypothesis, which to some sounds like a fanciful tale, firmly into the realm of testable science.
+#### Extract
+>Perimeter Associate Faculty member Matthew Johnson and his colleagues are working to bring the multiverse hypothesis, which to some sounds like a fanciful tale, firmly into the realm of testable science.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news324821301.html)
 

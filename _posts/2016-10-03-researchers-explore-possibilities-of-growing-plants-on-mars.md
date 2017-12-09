@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Florida Institute of Technology) Even as the recent focus has been on how we will get to Mars, scientists at Florida Institute of Technology are working on what we will eat once we arrive.
+#### Extract
+>(Florida Institute of Technology) Even as the recent focus has been on how we will get to Mars, scientists at Florida Institute of Technology are working on what we will eat once we arrive.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/fiot-rep100316.php)
 

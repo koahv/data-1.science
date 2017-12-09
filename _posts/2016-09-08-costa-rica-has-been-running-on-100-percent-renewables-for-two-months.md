@@ -8,7 +8,11 @@ tags:  solar,hydropower,imported,wind power,geothermal
 ---
 
 
-> Costa Rica ran on 100 percent renewable energy for 76 straight days between June and August this year, according to a new report, demonstrating that life without fossil fuels is possible - for small countries, at least.
+#### Extract
+>Costa Rica ran on 100 percent renewable energy for 76 straight days between June and August this year, according to a new report, demonstrating that life without fossil fuels is possible - for small countries, at least.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.renewableenergyworld.com/articles/pt/2016/09/costa-rica-has-been-running-on-100-percent-renewables-for-two-months.html)
 

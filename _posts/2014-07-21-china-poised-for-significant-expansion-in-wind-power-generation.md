@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Filed under: Energy News
+#### Extract
+>Filed under: Energy News
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feedproxy.google.com/~r/AlternativeEnergyStocks/~3/hxnUXrUfepg/china_poised_for_significant_expansion_in_wind_power_generation.html)
 

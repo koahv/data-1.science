@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Why is it that when people are too stressed they are often grouchy, grumpy, nasty, distracted or forgetful? Researchers have just highlighted a fundamental synaptic mechanism that explains the relationship between chronic stress and the loss of social skills and cognitive impairment. When triggered by stress, an enzyme attacks a synaptic regulatory molecule in the brain, leading to these problems.
+#### Extract
+>Why is it that when people are too stressed they are often grouchy, grumpy, nasty, distracted or forgetful? Researchers have just highlighted a fundamental synaptic mechanism that explains the relationship between chronic stress and the loss of social skills and cognitive impairment. When triggered by stress, an enzyme attacks a synaptic regulatory molecule in the brain, leading to these problems.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/_HzaHPgQvRo/140918091418.htm)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Good news: Germany produced a record 50.6 percent of its energy with solar panels in the first two weeks of June.
+#### Extract
+>Good news: Germany produced a record 50.6 percent of its energy with solar panels in the first two weeks of June.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencealert.com.au/~r/sciencealert-latestnews/~3/eH1twROpHQU/20142306-25725.html)
 

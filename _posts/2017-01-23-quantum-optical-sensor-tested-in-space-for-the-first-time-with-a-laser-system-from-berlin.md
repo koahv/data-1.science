@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> For the first time ever, a cloud of ultra-cold atoms has been successfully created in space on board of a sounding rocket. The MAIUS mission demonstrates that quantum optical sensors can be operated even in harsh environments like space – a prerequisite for finding answers to the most challenging questions of fundamental physics and an important innovation driver for everyday applications. 
+#### Extract
+>For the first time ever, a cloud of ultra-cold atoms has been successfully created in space on board of a sounding rocket. The MAIUS mission demonstrates that quantum optical sensors can be operated even in harsh environments like space – a prerequisite for finding answers to the most challenging questions of fundamental physics and an important innovation driver for everyday applications.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/01/170123090842.htm)
 

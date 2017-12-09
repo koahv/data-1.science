@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> &nbsp;tecmint: The '!' symbol or operator in Linux can be used as Logical Negation operator as well as to fetch commands from history with tweaks or to run previously run command with modification.
+#### Extract
+>&nbsp;tecmint: The '!' symbol or operator in Linux can be used as Logical Negation operator as well as to fetch commands from history with tweaks or to run previously run command with modification.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.linuxtoday.com/infrastructure/10-amazing-and-mysterious-uses-of-symbol-or-operator-in-linux-commands-150515032508.html)
 

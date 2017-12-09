@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Ecole Polytechnique Fédérale de Lausanne) EPFL researchers have found that water molecules are 10,000 times more sensitive to ions than previously thought.
+#### Extract
+>(Ecole Polytechnique Fédérale de Lausanne) EPFL researchers have found that water molecules are 10,000 times more sensitive to ions than previously thought.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/epfd-asi040816.php)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Some people who smoke pot do show changes in brain development, but those changes seem to be dependent on genes and other factors.
+#### Extract
+>Some people who smoke pot do show changes in brain development, but those changes seem to be dependent on genes and other factors.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/51981-does-marijuana-change-the-brain.html)
 

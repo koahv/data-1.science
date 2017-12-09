@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Techniques could lead to better quantum-information networks
+#### Extract
+>Techniques could lead to better quantum-information networks
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/sep/25/physicists-create-and-measure-quantized-mechanical-oscillations)
 

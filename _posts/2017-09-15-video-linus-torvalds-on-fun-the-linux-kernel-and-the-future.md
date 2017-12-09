@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Title:&nbsp; Video: Linus Torvalds On Fun, the Linux Kernel, and the Future15 SepLearn more
+#### Extract
+>Title:&nbsp; Video: Linus Torvalds On Fun, the Linux Kernel, and the Future15 SepLearn more
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.linux.com/blog/event/os-summit-la/2017/7/linus-torvalds-fun-linux-kernel-and-future)
 

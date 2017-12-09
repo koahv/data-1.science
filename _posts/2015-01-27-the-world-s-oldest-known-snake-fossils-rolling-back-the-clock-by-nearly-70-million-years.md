@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Fossilized remains of four ancient snakes have been dated between 140 and 167 million years old -- nearly 70 million years older than the previous record of ancient snake fossils -- and are changing the way we think about the origins of snakes.
+#### Extract
+>Fossilized remains of four ancient snakes have been dated between 140 and 167 million years old -- nearly 70 million years older than the previous record of ancient snake fossils -- and are changing the way we think about the origins of snakes.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/YvIgTjEJo-0/150127122446.htm)
 

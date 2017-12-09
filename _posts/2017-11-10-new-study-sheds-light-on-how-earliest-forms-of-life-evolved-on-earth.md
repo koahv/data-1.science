@@ -8,7 +8,11 @@ tags:  evolution
 ---
 
 
-> A new study led by ANU has shed light on how the earliest forms of life evolved on Earth about four billion years ago.
+#### Extract
+>A new study led by ANU has shed light on how the earliest forms of life evolved on Earth about four billion years ago.
+
+#### Factsheet
+> The earliest forms of life evolved on Earth about four billion years ago.
 
 [Visit Link](https://phys.org/news/2017-11-earliest-life-evolved-earth.html)
 

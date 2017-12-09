@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Hokkaido University) Naked mole-rats (NMR) are the longest-living rodent species and exhibit extraordinary resistance to cancer. A Japanese research team found the induced pluripotent stem cells derived from NMR to be non-tumorigenic, shedding new light on their unique anti-cancer mechanism at the molecular level.
+#### Extract
+>(Hokkaido University) Naked mole-rats (NMR) are the longest-living rodent species and exhibit extraordinary resistance to cancer. A Japanese research team found the induced pluripotent stem cells derived from NMR to be non-tumorigenic, shedding new light on their unique anti-cancer mechanism at the molecular level.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/hu-asa061616.php)
 

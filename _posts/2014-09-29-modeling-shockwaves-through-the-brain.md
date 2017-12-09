@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Massachusetts Institute of Technology) A new scaling law helps estimate humans' risk of blast-induced traumatic brain injury.
+#### Extract
+>(Massachusetts Institute of Technology) A new scaling law helps estimate humans' risk of blast-induced traumatic brain injury.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/miot-mst092914.php)
 

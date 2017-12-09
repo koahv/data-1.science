@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> 
+#### Extract
+>
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.nature.com/news/quantum-teleportation-is-even-weirder-than-you-think-1.22321?WT.feed_name=subjects_quantum-physics)
 

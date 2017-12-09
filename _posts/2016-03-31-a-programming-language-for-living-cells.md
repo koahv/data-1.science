@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Massachusetts Institute of Technology) New language lets MIT researchers design novel biological circuits.
+#### Extract
+>(Massachusetts Institute of Technology) New language lets MIT researchers design novel biological circuits.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/miot-apl032916.php)
 

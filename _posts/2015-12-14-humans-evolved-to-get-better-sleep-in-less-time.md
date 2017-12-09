@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Duke University) Insomniacs take heart: Humans get by on significantly less sleep than our closest animal relatives. The secret, according to a new study of slumber patterns across 21 species of primates, is that our sleep is more efficient.
+#### Extract
+>(Duke University) Insomniacs take heart: Humans get by on significantly less sleep than our closest animal relatives. The secret, according to a new study of slumber patterns across 21 species of primates, is that our sleep is more efficient.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/du-het121415.php)
 

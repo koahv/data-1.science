@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (University of California - San Diego) Scientists at Scripps Institution of Oceanography at UC San Diego have discovered the first evidence that deep earthquakes, those breaking at more than 400 kilometers (250 miles) below Earth's surface, can rupture much faster than ordinary earthquakes. The finding gives seismologists new clues about the forces behind deep earthquakes as well as fast-breaking earthquakes that strike near the surface.
+#### Extract
+>(University of California - San Diego) Scientists at Scripps Institution of Oceanography at UC San Diego have discovered the first evidence that deep earthquakes, those breaking at more than 400 kilometers (250 miles) below Earth's surface, can rupture much faster than ordinary earthquakes. The finding gives seismologists new clues about the forces behind deep earthquakes as well as fast-breaking earthquakes that strike near the surface.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/uoc--ssd070914.php)
 

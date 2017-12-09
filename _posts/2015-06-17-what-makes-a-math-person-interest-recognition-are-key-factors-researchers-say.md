@@ -8,7 +8,11 @@ tags:  other sciences
 ---
 
 
-> You're either a math person or you're not – at least that's what we've always heard.
+#### Extract
+>You're either a math person or you're not – at least that's what we've always heard.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news353749712.html)
 

@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> There's a lot of buzz lately about learning to program.
+#### Extract
+>There's a lot of buzz lately about learning to program.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/how-get-started-learning-program-0)
 

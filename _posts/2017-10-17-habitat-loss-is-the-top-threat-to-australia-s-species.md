@@ -8,7 +8,11 @@ tags:  ecology
 ---
 
 
-> Earlier this month, Australia's outgoing Threatened Species Commissioner Gregory Andrews told ABC radio that land clearing is not the biggest threat to Australia's wildlife. His claim caused a stir among Australia's biodiversity scientists and conservation professionals, who have plenty of evidence to the contrary.
+#### Extract
+>Earlier this month, Australia's outgoing Threatened Species Commissioner Gregory Andrews told ABC radio that land clearing is not the biggest threat to Australia's wildlife. His claim caused a stir among Australia's biodiversity scientists and conservation professionals, who have plenty of evidence to the contrary.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://phys.org/news/2017-10-habitat-loss-threat-australia-species.html)
 

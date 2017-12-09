@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> For the first time, an international team of scientists has mapped all the genes that are activated in the first few days of a fertilized human egg. 
+#### Extract
+>For the first time, an international team of scientists has mapped all the genes that are activated in the first few days of a fertilized human egg.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/09/150903081200.htm)
 

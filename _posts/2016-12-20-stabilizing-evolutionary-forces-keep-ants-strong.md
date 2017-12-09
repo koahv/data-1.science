@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Hokkaido University) Researchers are finding evidence of natural selection that maintains the status quo among ant populations.
+#### Extract
+>(Hokkaido University) Researchers are finding evidence of natural selection that maintains the status quo among ant populations.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-12/hu-sef122016.php)
 

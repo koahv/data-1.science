@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> (Vanderbilt University) A team of Vanderbilt scientists have genetically modified luciferase, the enzyme that produces bioluminescence, so that it acts as an optical sensor that records activity in brain cells.
+#### Extract
+>(Vanderbilt University) A team of Vanderbilt scientists have genetically modified luciferase, the enzyme that produces bioluminescence, so that it acts as an optical sensor that records activity in brain cells.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/vu-bsc102716.php)
 

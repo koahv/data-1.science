@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Filed under: Energy News
+#### Extract
+>Filed under: Energy News
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://rss.sciam.com/~r/sciam/alternative-energy-technology/~3/8l8Z4DlEI1g/)
 

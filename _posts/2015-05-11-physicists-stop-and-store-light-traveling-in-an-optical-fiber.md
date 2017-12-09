@@ -8,7 +8,11 @@ tags:  physics
 ---
 
 
-> Researchers at the Kastler Brossel Laboratory in Paris have managed to store light that propagates in an optical fiber and to release it later on demand. By causing interaction between the traveling light and a few thousand atoms in the vicinity, they demonstrated an all-fibered memory.
+#### Extract
+>Researchers at the Kastler Brossel Laboratory in Paris have managed to store light that propagates in an optical fiber and to release it later on demand. By causing interaction between the traveling light and a few thousand atoms in the vicinity, they demonstrated an all-fibered memory.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news350548549.html)
 

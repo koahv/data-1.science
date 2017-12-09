@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> An ultramarathon runner overcame an early injury, sleep deprivation and steep terrain to complete an astounding 2,189-mile run along the Appalachian Trail in 46 days and 8 hours.
+#### Extract
+>An ultramarathon runner overcame an early injury, sleep deprivation and steep terrain to complete an astounding 2,189-mile run along the Appalachian Trail in 46 days and 8 hours.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.livescience.com/51594-ultramarathon-record-appalachian-trail.html)
 

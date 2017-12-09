@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Niels Bohr won a Nobel Prize for the idea that an atom is a small, positively charged nucleus surrounded by orbiting electrons. He also contributed to quantum theory.
+#### Extract
+>Niels Bohr won a Nobel Prize for the idea that an atom is a small, positively charged nucleus surrounded by orbiting electrons. He also contributed to quantum theory.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.livescience.com/32016-niels-bohr-atomic-theory.html)
 

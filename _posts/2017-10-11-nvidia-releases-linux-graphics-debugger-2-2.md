@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> NVIDIA has today released an updated version of their Linux Graphics Debugger to help game/application developers in analyzing issues and performance problems around OpenGL 4.x on GeForce/Quadro GPUs...
+#### Extract
+>NVIDIA has today released an updated version of their Linux Graphics Debugger to help game/application developers in analyzing issues and performance problems around OpenGL 4.x on GeForce/Quadro GPUs...
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=NVIDIA-Linux-Debugger-2.2)
 

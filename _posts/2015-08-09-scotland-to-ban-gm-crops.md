@@ -8,7 +8,11 @@ tags:  biotechnology
 ---
 
 
-> Scotland is set to ban the cultivation of genetically modified (GM) crops, officials announced Sunday.
+#### Extract
+>Scotland is set to ban the cultivation of genetically modified (GM) crops, officials announced Sunday.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](http://phys.org/news/2015-08-scotland-gm-crops.html)
 

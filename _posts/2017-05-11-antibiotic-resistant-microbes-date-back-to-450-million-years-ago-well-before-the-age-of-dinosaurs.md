@@ -8,7 +8,11 @@ tags:
 ---
 
 
-> Leading hospital 'superbugs,' known as the enterococci, arose from an ancestor that dates back 450 million years -- about the time when animals were first crawling onto land (and well before the age of dinosaurs), according to a new study. 
+#### Extract
+>Leading hospital 'superbugs,' known as the enterococci, arose from an ancestor that dates back 450 million years -- about the time when animals were first crawling onto land (and well before the age of dinosaurs), according to a new study.
+
+#### Factsheet
+>factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/05/170511142012.htm)
 
