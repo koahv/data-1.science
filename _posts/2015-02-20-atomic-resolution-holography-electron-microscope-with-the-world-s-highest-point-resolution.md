@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Atomic-resolution holography electron microscope with the world's highest point resolution"
-date:  2015-02-20 13:50:02 
-categories:  Science     
+date: 2015-02-20 13:50:02
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news343642383.html)
 
-id:   85232 
+id:   85232

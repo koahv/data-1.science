@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Nanobionics supercharge photosynthesis"
-date:  2015-05-19 12:33:04 
-categories:  Science     
+date: 2015-05-19 12:33:04
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/7GzdrkuVGi8/150519083304.htm)
 
-id:  125428 
+id:  125428

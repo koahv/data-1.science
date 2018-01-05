@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Improve your bash/sh shell script with ShellCheck lint script analysis tool"
-date:  2017-11-06 09:47:05 
-categories:  Linux       
-author:  Vivek Gite                                                    
-tags:  command line hacks,howto,programming,debian linux,freebsd,linux,macos,os x,sysadmin,ubuntu,unix                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+date: 2017-11-06 09:47:05
+categories: Linux
+author: Vivek Gite
+tags: [command line hacks, howto, programming, debian linux, freebsd, linux, macos, os x, sysadmin, ubuntu, unix]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  command line hacks,howto,programming,debian linux,freebsd,linux,macos,os 
 
 [Visit Link](https://www.cyberciti.biz/programming/improve-your-bashsh-shell-script-with-shellcheck-lint-script-analysis-tool/)
 
-id:  449608 
+id:  449608

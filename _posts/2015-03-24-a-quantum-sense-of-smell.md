@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A quantum sense of smell"
-date:  2015-03-24 10:05:46 
-categories:  Science     
+date: 2015-03-24 10:05:46
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/KfoH0WS60Qg/a-quantum-sense-of-smell)
 
-id:   99695 
+id:   99695

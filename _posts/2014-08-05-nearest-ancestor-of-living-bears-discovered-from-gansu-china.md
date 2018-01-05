@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Nearest ancestor of living bears discovered from Gansu, China"
-date:  2014-08-05 14:00:01 
-categories:  Science     
+date: 2014-08-05 14:00:01
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news326447899.html)
 
-id:   32289 
+id:   32289

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Water molecules favor negative charges"
-date:  2014-07-16 12:10:14 
-categories:  Science     
+date: 2014-07-16 12:10:14
+categories: Science
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  chemistry
 
 [Visit Link](http://phys.org/news324713915.html)
 
-id:   21209 
+id:   21209

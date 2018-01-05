@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Watch invisible gravity waves rumble through the atmosphere"
-date:  2015-05-11 17:19:39 
-categories:  Science     
+date: 2015-05-11 17:19:39
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/CKkYvSzM-c4/150511131939.htm)
 
-id:  121504 
+id:  121504

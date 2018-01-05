@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Building an Open Standard for Distributed Messaging: Introducing OpenMessaging"
-date:  2017-10-10 10:20:36 
-categories:  Linux       
-author:  lfadmin                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-10-10 10:20:36
+categories: Linux
+author: lfadmin
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/building-open-standard-distributed-messaging-introducing-openmessaging)
 
-id:  437121 
+id:  437121

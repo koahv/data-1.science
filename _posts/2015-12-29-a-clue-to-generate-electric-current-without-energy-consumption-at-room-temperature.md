@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A clue to generate electric current without energy consumption at room temperature"
-date:  2015-12-29 05:00:00 
-categories:  Science     
+date: 2015-12-29 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/hu-act122915.php)
 
-id:  230081 
+id:  230081

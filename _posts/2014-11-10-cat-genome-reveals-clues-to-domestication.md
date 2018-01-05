@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cat genome reveals clues to domestication​​"
-date:  2014-11-10 21:10:42 
-categories:  Science     
+date: 2014-11-10 21:10:42
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Vg2RM7zTAmA/141110161042.htm)
 
-id:   59925 
+id:   59925

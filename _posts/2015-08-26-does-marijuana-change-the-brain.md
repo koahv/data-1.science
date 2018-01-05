@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Does Marijuana Change the Brain?"
-date:  2015-08-26 15:31:46 
-categories:  Science     
+date: 2015-08-26 15:31:46
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51981-does-marijuana-change-the-brain.html)
 
-id:  175073 
+id:  175073

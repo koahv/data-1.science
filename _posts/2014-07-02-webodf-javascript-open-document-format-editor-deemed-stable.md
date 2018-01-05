@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "WebODF: JavaScript Open Document Format Editor Deemed Stable"
-date:  2014-07-02 14:14:00 
-categories:  World       
-author:  Unknown Lamer                                                 
-tags:  opensource                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+date: 2014-07-02 14:14:00
+categories: World
+author: Unknown Lamer
+tags: [opensource]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  opensource
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ugg7HTEgzlk/story01.htm)
 
-id:   11925 
+id:   11925

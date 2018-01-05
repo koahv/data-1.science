@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why parrots are great vocal imitators"
-date:  2015-06-24 18:31:54 
-categories:  Science     
+date: 2015-06-24 18:31:54
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150624143154.htm)
 
-id:  144877 
+id:  144877

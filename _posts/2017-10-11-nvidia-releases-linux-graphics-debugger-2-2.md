@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NVIDIA Releases Linux Graphics Debugger 2.2"
-date:  2017-10-11 21:56:36 
-categories:  Linux       
+date: 2017-10-11 21:56:36
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=NVIDIA-Linux-Debugger-2.2)
 
-id:  437948 
+id:  437948

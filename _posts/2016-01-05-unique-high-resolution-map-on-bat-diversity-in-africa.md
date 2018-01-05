@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Unique high-resolution map on bat diversity in Africa"
-date:  2016-01-05 12:40:01 
-categories:  Science     
+date: 2016-01-05 12:40:01
+categories: Science
 author: unknown author
-tags:  ecology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [ecology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  ecology
 
 [Visit Link](http://phys.org/news/2016-01-unique-high-resolution-diversity-africa.html)
 
-id:  231914 
+id:  231914

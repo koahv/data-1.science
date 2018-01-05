@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Can a Computer Simulate Consciousness?"
-date:  2015-11-13 16:33:25 
-categories:  Technology  
-author:  mfassbender                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-11-13 16:33:25
+categories: Technology
+author: mfassbender
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/videos/2015/11/can-computer-simulate-consciousness)
 
-id:  211144 
+id:  211144

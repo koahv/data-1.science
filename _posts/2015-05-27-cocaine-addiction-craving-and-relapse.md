@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cocaine addiction, craving and relapse"
-date:  2015-05-27 01:50:39 
-categories:  Science     
+date: 2015-05-27 01:50:39
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Zw357mCXRu4/150526215039.htm)
 
-id:  129138 
+id:  129138

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New open access journal on cannabis and cannabinoid research launching fall 2015"
-date:  2015-04-24 04:00:00 
-categories:  Science     
+date: 2015-04-24 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/mali-noa042415.php)
 
-id:  114365 
+id:  114365

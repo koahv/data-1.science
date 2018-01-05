@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Personal navigation: How we know where we are"
-date:  2015-02-16 11:47:43 
-categories:  Science     
+date: 2015-02-16 11:47:43
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/OV280FowIZg/150216064743.htm)
 
-id:   83192 
+id:   83192

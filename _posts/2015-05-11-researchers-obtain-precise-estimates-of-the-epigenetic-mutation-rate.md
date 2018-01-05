@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers obtain precise estimates of the epigenetic mutation rate"
-date:  2015-05-11 19:00:01 
-categories:  Science     
+date: 2015-05-11 19:00:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news350561594.html)
 
-id:  121541 
+id:  121541

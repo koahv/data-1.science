@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Unpowered Exoskeleton Increases Walking Efficiency"
-date:  2015-04-01 17:37:43 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-04-01 17:37:43
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/04/unpowered-exoskeleton-increases-walking-efficiency)
 
-id:  103586 
+id:  103586

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What are extrasolar planets?"
-date:  2015-05-25 13:40:01 
-categories:  Science     
+date: 2015-05-25 13:40:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news351762176.html)
 
-id:  128420 
+id:  128420

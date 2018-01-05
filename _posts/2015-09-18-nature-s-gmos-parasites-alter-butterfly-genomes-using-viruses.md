@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Nature's GMOs: Parasites Alter Butterfly Genomes Using Viruses"
-date:  2015-09-18 17:55:27 
-categories:  Science     
+date: 2015-09-18 17:55:27
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/52225-parasites-viruses-genetically-modify-butterflies.html)
 
-id:  186488 
+id:  186488

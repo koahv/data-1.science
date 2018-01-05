@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bats use both sides of brain to listen—just like humans"
-date:  2015-04-27 08:45:10 
-categories:  Science     
+date: 2015-04-27 08:45:10
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news349328701.html)
 
-id:  114776 
+id:  114776

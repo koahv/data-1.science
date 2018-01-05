@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "FLOSS Weekly 355: Suckless"
-date:  2015-09-25 11:12:34 
-categories:  Linux       
-author:  Randal Schwartz, Guillermo Amaral, Anselm R Garbe, Kai Hendry 
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+date: 2015-09-25 11:12:34
+categories: Linux
+author: Randal Schwartz, Guillermo Amaral, Anselm R Garbe, Kai Hendry
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=219724)
 
-id:  189395 
+id:  189395

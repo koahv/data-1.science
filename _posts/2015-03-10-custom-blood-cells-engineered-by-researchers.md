@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Custom blood cells engineered by researchers"
-date:  2015-03-10 16:30:16 
-categories:  Science     
+date: 2015-03-10 16:30:16
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/uS_0piKgDlQ/150310123016.htm)
 
-id:   93520 
+id:   93520

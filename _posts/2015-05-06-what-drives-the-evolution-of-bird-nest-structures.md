@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What drives the evolution of bird nest structures?"
-date:  2015-05-06 04:00:00 
-categories:  Science     
+date: 2015-05-06 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/copo-wdt050615.php)
 
-id:  119722 
+id:  119722

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Vast Ocean Underlies Ice on Saturn's Moon Enceladus"
-date:  2015-09-16 19:15:00 
-categories:  Science     
-author:  Nadia Drake                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-09-16 19:15:00
+categories: Science
+author: Nadia Drake
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.nationalgeographic.com/2015/09/150916-enceladus-global-ocean-search-for-extraterrestrial-life/)
 
-id:  185763 
+id:  185763

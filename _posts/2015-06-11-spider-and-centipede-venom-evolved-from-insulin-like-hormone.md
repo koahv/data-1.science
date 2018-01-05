@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Spider and centipede venom evolved from insulin-like hormone"
-date:  2015-06-11 04:00:00 
-categories:  Technology  
+date: 2015-06-11 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/cp-sac060915.php)
 
-id:  137667 
+id:  137667

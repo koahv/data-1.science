@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Invading the brain to understand and repair cognition"
-date:  2016-04-05 04:00:00 
-categories:  Technology  
+date: 2016-04-05 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/cns-itb040416.php)
 
-id:  270620 
+id:  270620

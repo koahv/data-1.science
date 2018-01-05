@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Weather forecasts made for planets beyond our solar system"
-date:  2015-05-12 18:08:54 
-categories:  Science     
+date: 2015-05-12 18:08:54
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/HzqiYa1It8g/150512140854.htm)
 
-id:  122242 
+id:  122242

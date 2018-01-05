@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Image: Messenger's iridescent Mercury"
-date:  2015-06-16 10:48:20 
-categories:  Science     
+date: 2015-06-16 10:48:20
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news353656079.html)
 
-id:  139820 
+id:  139820

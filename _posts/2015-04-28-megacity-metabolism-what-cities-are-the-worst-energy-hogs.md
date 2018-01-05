@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Megacity metabolism: What cities are the worst energy hogs?"
-date:  2015-04-28 16:53:53 
-categories:  Science     
+date: 2015-04-28 16:53:53
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/FfMSQpOgbXE/150428125353.htm)
 
-id:  115535 
+id:  115535

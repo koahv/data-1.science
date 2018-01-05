@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "U.S. Air Force Shatters World Speed Record for Magnetic Levitation"
-date:  2016-04-25 20:55:07 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-25 20:55:07
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/videos/2016/04/us-air-force-shatters-world-speed-record-magnetic-levitation)
 
-id:  278066 
+id:  278066

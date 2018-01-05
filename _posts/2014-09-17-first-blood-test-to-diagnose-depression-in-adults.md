@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First blood test to diagnose depression in adults"
-date:  2014-09-17 16:12:29 
-categories:  Science     
+date: 2014-09-17 16:12:29
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/EuerGvJn_ss/140917121229.htm)
 
-id:   50289 
+id:   50289

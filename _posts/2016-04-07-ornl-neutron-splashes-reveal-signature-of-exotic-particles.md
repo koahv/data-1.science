@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ORNL neutron 'splashes' reveal signature of exotic particles"
-date:  2016-04-07 04:00:00 
-categories:  Technology  
+date: 2016-04-07 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/drnl-on040716.php)
 
-id:  271831 
+id:  271831

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tracing the evolution of bird reproduction"
-date:  2016-08-10 04:00:00 
-categories:  Science     
+date: 2016-08-10 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/copo-tte080516.php)
 
-id:  312911 
+id:  312911

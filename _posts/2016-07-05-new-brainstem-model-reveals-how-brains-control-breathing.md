@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New brainstem model reveals how brains control breathing"
-date:  2016-07-05 04:00:00 
-categories:  Technology  
+date: 2016-07-05 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/e-nbm070416.php)
 
-id:  301703 
+id:  301703

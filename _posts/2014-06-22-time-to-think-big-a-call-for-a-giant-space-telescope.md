@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Time to think big: A call for a giant space telescope"
-date:  2014-06-22 14:22:07 
-categories:  Science     
+date: 2014-06-22 14:22:07
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/qWSBWQ0pfPs/140622102207.htm)
 
-id:     656 
+id:     656

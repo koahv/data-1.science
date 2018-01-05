@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Getting more out of nature: Genetic toolkit finds new maximum for crop yields"
-date:  2014-11-02 18:00:08 
-categories:  Science     
+date: 2014-11-02 18:00:08
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news334148050.html)
 
-id:   58407 
+id:   58407

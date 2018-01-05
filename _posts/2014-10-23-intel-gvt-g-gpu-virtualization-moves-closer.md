@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Intel GVT-g GPU Virtualization Moves Closer"
-date:  2014-10-23 13:56:44 
-categories:  Linux       
+date: 2014-10-23 13:56:44
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTgyMTE)
 
-id:   57196 
+id:   57196

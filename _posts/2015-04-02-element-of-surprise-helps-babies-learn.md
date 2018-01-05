@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Element of surprise helps babies learn"
-date:  2015-04-02 20:15:01 
-categories:  Science     
+date: 2015-04-02 20:15:01
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/-talsDYoMqY/150402161501.htm)
 
-id:  104382 
+id:  104382

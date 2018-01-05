@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers discuss the future impact of today's nanotech research"
-date:  2017-10-11 13:03:44 
-categories:  Science     
+date: 2017-10-11 13:03:44
+categories: Science
 author: unknown author
-tags:  nanophysics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [nanophysics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanophysics
 
 [Visit Link](https://phys.org/news/2017-10-discuss-future-impact-today-nanotech.html)
 
-id:  437613 
+id:  437613

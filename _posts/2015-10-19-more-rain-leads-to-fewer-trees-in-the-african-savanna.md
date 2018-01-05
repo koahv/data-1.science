@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "More rain leads to fewer trees in the African savanna"
-date:  2015-10-19 04:00:00 
-categories:  Science     
+date: 2015-10-19 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/pu-mrl101915.php)
 
-id:  199734 
+id:  199734

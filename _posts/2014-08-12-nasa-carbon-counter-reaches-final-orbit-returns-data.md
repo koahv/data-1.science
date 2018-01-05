@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA carbon counter reaches final orbit, returns data"
-date:  2014-08-12 10:00:01 
-categories:  Science     
+date: 2014-08-12 10:00:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news327039998.html)
 
-id:   36905 
+id:   36905

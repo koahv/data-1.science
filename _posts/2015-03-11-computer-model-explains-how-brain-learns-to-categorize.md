@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Computer model explains how brain learns to categorize"
-date:  2015-03-11 12:12:56 
-categories:  Science     
+date: 2015-03-11 12:12:56
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/LvTcGflHh_c/150311081256.htm)
 
-id:   93831 
+id:   93831

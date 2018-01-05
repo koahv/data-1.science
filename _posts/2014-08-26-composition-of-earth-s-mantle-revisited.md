@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Composition of Earth's mantle revisited"
-date:  2014-08-26 19:28:13 
-categories:  Science     
+date: 2014-08-26 19:28:13
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/WhsDWrLlS2I/140826152813.htm)
 
-id:   46489 
+id:   46489

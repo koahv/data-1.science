@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists synthesize molecules that absorb any color of sunlight, from the oranges through the near-infrared"
-date:  2015-04-02 20:20:57 
-categories:  Science     
+date: 2015-04-02 20:20:57
+categories: Science
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  chemistry
 
 [Visit Link](http://phys.org/news347210443.html)
 
-id:  104359 
+id:  104359

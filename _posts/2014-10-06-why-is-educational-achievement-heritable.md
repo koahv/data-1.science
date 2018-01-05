@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why is educational achievement heritable?"
-date:  2014-10-06 19:21:51 
-categories:  Science     
+date: 2014-10-06 19:21:51
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/lbiVBWfd4cM/141006152151.htm)
 
-id:   53730 
+id:   53730

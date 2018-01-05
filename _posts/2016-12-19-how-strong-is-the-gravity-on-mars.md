@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How strong is the gravity on Mars?"
-date:  2016-12-19 13:00:02 
-categories:  Science     
+date: 2016-12-19 13:00:02
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-12-strong-gravity-mars.html)
 
-id:  350582 
+id:  350582

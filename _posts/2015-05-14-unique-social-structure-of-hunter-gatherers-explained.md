@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Unique social structure of hunter-gatherers explained"
-date:  2015-05-14 18:29:46 
-categories:  Science     
+date: 2015-05-14 18:29:46
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/0GBOO9iwoNk/150514142946.htm)
 
-id:  123465 
+id:  123465

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Asteroid Juno seen traveling through space in new ALMA images and animation"
-date:  2015-04-07 14:10:06 
-categories:  Science     
+date: 2015-04-07 14:10:06
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news347619490.html)
 
-id:  105933 
+id:  105933

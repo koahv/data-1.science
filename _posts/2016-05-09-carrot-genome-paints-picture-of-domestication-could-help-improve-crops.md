@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Carrot genome paints picture of domestication, could help improve crops"
-date:  2016-05-09 04:00:00 
-categories:  Science     
+date: 2016-05-09 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/uow-cgp050916.php)
 
-id:  282648 
+id:  282648

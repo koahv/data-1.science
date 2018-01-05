@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mile-high Mars mounds built by wind and climate change"
-date:  2016-03-31 14:00:01 
-categories:  Science     
+date: 2016-03-31 14:00:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-03-mile-high-mars-mounds-built-climate.html)
 
-id:  268576 
+id:  268576

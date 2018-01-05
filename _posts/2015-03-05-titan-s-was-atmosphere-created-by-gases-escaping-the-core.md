@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Titan's was atmosphere created by gases escaping the core"
-date:  2015-03-05 12:50:01 
-categories:  Science     
+date: 2015-03-05 12:50:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news344763020.html)
 
-id:   91199 
+id:   91199

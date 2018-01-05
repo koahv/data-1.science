@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Single atom memory: The world's smallest storage medium"
-date:  2017-03-09 05:00:00 
-categories:  Science     
+date: 2017-03-09 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/ifbs-sam030917.php)
 
-id:  372782 
+id:  372782

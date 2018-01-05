@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Eight ways zinc affects the human body"
-date:  2014-07-18 15:45:41 
-categories:  Science     
+date: 2014-07-18 15:45:41
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/aznUQSeMZJM/140718114541.htm)
 
-id:   24160 
+id:   24160

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tricks to play with vim"
-date:  2015-08-12 20:39:34 
-categories:  Linux       
-author:  Sandra Henry-Stocker                                          
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+date: 2015-08-12 20:39:34
+categories: Linux
+author: Sandra Henry-Stocker
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=217913)
 
-id:  168707 
+id:  168707

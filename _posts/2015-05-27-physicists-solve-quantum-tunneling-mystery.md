@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists solve quantum tunneling mystery"
-date:  2015-05-27 14:31:12 
-categories:  Science     
+date: 2015-05-27 14:31:12
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/78m9KcpZfvM/150527103112.htm)
 
-id:  129748 
+id:  129748

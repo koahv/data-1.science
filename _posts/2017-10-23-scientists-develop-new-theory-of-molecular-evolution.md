@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists develop new theory of molecular evolution"
-date:  2017-10-23 04:00:00 
-categories:  Science     
+date: 2017-10-23 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoca-sdn101917.php)
 
-id:  443341 
+id:  443341

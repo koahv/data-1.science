@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Animal foraging tactics unchanged for 50 million years"
-date:  2014-07-16 01:57:30 
-categories:  Science     
+date: 2014-07-16 01:57:30
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/CVRUFSGlv4U/140715215730.htm)
 
-id:   20884 
+id:   20884

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ireland hits new record of wind energy production at 1,942MW"
-date:  2015-01-07 12:43:00 
-categories:  Tech        
+date: 2015-01-07 12:43:00
+categories: Tech
 author: unknown author
-tags:  clean tech                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [clean tech]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  clean tech
 
 [Visit Link](http://www.siliconrepublic.com/clean-tech/item/40044-ireland-hits-new-record-of)
 
-id:   70409 
+id:   70409

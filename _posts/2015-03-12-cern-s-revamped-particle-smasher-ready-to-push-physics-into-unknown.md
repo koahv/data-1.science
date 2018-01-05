@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "CERN's revamped particle smasher ready to push physics into unknown"
-date:  2015-03-12 16:54:35 
-categories:  Science     
+date: 2015-03-12 16:54:35
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news345383666.html)
 
-id:   94619 
+id:   94619

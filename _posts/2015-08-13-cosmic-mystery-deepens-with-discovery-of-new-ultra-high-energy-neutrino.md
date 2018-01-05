@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cosmic mystery deepens with discovery of new ultra-high-energy neutrino"
-date:  2015-08-13 12:00:01 
-categories:  Science     
+date: 2015-08-13 12:00:01
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-08-cosmic-mystery-deepens-discovery-ultra-high-energy.html)
 
-id:  168972 
+id:  168972

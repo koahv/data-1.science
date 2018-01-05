@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to banish children's fussy eating: Three steps"
-date:  2015-06-29 11:59:41 
-categories:  Science     
+date: 2015-06-29 11:59:41
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150629075941.htm)
 
-id:  146773 
+id:  146773

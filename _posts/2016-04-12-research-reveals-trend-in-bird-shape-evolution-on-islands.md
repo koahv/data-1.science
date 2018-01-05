@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Research reveals trend in bird-shape evolution on islands"
-date:  2016-04-12 04:00:00 
-categories:  Science     
+date: 2016-04-12 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/tuom-rrt041216.php)
 
-id:  273329 
+id:  273329

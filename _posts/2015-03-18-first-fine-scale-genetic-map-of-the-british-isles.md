@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First fine-scale genetic map of the British Isles"
-date:  2015-03-18 18:54:20 
-categories:  Science     
+date: 2015-03-18 18:54:20
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/GXKvolaB-QE/150318145420.htm)
 
-id:   97380 
+id:   97380

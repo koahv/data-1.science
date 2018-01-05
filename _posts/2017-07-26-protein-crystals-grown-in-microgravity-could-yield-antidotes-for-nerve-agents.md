@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Protein crystals grown in microgravity could yield antidotes for nerve agents"
-date:  2017-07-26 11:33:33 
-categories:  Science     
+date: 2017-07-26 11:33:33
+categories: Science
 author: unknown author
-tags:  condensed matter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [condensed matter]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  condensed matter
 
 [Visit Link](https://phys.org/news/2017-07-protein-crystals-grown-microgravity-yield.html)
 
-id:  413335 
+id:  413335

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Orbital ATK on the rebound with Antares return to flight in 2016"
-date:  2015-08-28 13:40:01 
-categories:  Science     
+date: 2015-08-28 13:40:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-orbital-atk-rebound-antares-flight.html)
 
-id:  176086 
+id:  176086

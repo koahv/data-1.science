@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Betty: Turn Generic English Into Linux Terminal Commands"
-date:  2014-06-21 06:00:00 
-categories:  Linux       
+date: 2014-06-21 06:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/developer/betty-turn-generic-english-into-linux-terminal-commands.html)
 
-id:    1465 
+id:    1465

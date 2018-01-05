@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists uncover gene 'architects' responsible for body's blueprint"
-date:  2015-04-13 19:00:01 
-categories:  Science     
+date: 2015-04-13 19:00:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news348143304.html)
 
-id:  108568 
+id:  108568

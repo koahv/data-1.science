@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Formation of coastal sea ice in North Pacific drives ocean circulation and climate"
-date:  2015-10-20 04:00:00 
-categories:  Science     
+date: 2015-10-20 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/uoc--foc102015.php)
 
-id:  200249 
+id:  200249

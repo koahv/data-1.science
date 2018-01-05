@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ecuador Breaks Guinness Reforestation Record - Discovery News"
-date:  2015-05-17 09:45:21 
-categories:  Earth       
+date: 2015-05-17 09:45:21
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNF1yxyoXPd9PEyXC3Btq5k_BrEicA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778843072756&ei=yPBZVaHyDtqs3AGU5ICIAw&url=http://news.discovery.com/earth/plants/ecuador-breaks-guinness-reforestation-record-150517.htm)
 
-id:  124620 
+id:  124620

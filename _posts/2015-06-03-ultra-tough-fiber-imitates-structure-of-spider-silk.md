@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ultra-tough fiber imitates structure of spider silk"
-date:  2015-06-03 16:45:43 
-categories:  Science     
+date: 2015-06-03 16:45:43
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150603124543.htm)
 
-id:  133288 
+id:  133288

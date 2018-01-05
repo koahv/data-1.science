@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Engineers turns metal into glass: New process solves an age-old conundrum"
-date:  2014-08-13 14:38:02 
-categories:  Science     
+date: 2014-08-13 14:38:02
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/z5cMBU8LxkA/140813103802.htm)
 
-id:   38595 
+id:   38595

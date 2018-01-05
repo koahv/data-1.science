@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Shifting land won't stop your journey"
-date:  2014-06-24 09:50:01 
-categories:  Science     
+date: 2014-06-24 09:50:01
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news322806984.html)
 
-id:    4088 
+id:    4088

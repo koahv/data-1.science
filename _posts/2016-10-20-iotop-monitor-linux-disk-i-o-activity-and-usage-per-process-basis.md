@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Iotop – Monitor Linux Disk I/O Activity and Usage Per-Process Basis"
-date:  2016-10-20 06:00:32 
-categories:  Linux       
-author:  Tecmint                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-10-20 06:00:32
+categories: Linux
+author: Tecmint
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/learn/iotop-monitor-linux-disk-io-activity-and-usage-process-basis)
 
-id:  334083 
+id:  334083

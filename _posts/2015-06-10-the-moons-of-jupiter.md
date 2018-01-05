@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The moons of Jupiter"
-date:  2015-06-10 13:30:01 
-categories:  Science     
+date: 2015-06-10 13:30:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news353145957.html)
 
-id:  136888 
+id:  136888

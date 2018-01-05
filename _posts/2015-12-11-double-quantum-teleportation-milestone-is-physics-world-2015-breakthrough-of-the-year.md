@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Double quantum-teleportation milestone is Physics World 2015 Breakthrough of the Year"
-date:  2015-12-11 04:00:00 
-categories:  Science     
+date: 2015-12-11 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/dec/11/double-quantum-teleportation-milestone-is-physics-world-2015-breakthrough-of-the-year)
 
-id:  223488 
+id:  223488

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Explainer: How do satellites orbit the Earth?"
-date:  2014-08-11 12:50:02 
-categories:  Science     
+date: 2014-08-11 12:50:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news326963710.html)
 
-id:   36120 
+id:   36120

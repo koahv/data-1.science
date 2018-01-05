@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bats bolster brain hypothesis, maybe technology, too"
-date:  2014-08-15 14:02:25 
-categories:  Science     
+date: 2014-08-15 14:02:25
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news327315726.html)
 
-id:   39542 
+id:   39542

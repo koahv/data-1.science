@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ATLAS Experiment studies photon-tagged jet quenching in the quark-gluon plasma"
-date:  2017-10-25 10:48:56 
-categories:  Science     
+date: 2017-10-25 10:48:56
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-10-atlas-photon-tagged-jet-quenching-quark-gluon.html)
 
-id:  444479 
+id:  444479

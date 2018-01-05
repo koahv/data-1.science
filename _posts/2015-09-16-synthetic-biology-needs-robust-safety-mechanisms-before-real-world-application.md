@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Synthetic biology needs robust safety mechanisms before real world application"
-date:  2015-09-16 14:52:16 
-categories:  Science     
+date: 2015-09-16 14:52:16
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2015-09-synthetic-biology-robust-safety-mechanisms.html)
 
-id:  185359 
+id:  185359

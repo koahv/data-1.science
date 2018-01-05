@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Vitamin B6: Sources & Benefits"
-date:  2015-08-20 06:34:33 
-categories:  Science     
+date: 2015-08-20 06:34:33
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51920-vitamin-b6.html)
 
-id:  171952 
+id:  171952

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Modular brains help organisms learn new skills without forgetting old skills"
-date:  2015-04-02 04:00:00 
-categories:  Technology  
+date: 2015-04-02 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/p-mbh032615.php)
 
-id:  104253 
+id:  104253

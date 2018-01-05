@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Activating genes on demand"
-date:  2015-03-04 21:39:09 
-categories:  Science     
+date: 2015-03-04 21:39:09
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news344709538.html)
 
-id:   90945 
+id:   90945

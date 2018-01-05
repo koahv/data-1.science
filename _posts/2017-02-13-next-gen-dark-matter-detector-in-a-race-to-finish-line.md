@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Next-gen dark matter detector in a race to finish line"
-date:  2017-02-13 14:20:38 
-categories:  Science     
+date: 2017-02-13 14:20:38
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-02-next-gen-dark-detector-finish-line.html)
 
-id:  365183 
+id:  365183

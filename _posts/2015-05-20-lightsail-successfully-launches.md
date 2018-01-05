@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "LightSail Successfully Launches"
-date:  2015-05-20 20:56:45 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-05-20 20:56:45
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/05/lightsail-successfully-launches)
 
-id:  126703 
+id:  126703

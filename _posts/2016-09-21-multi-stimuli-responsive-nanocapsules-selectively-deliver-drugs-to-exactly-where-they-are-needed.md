@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Multi stimuli-responsive nanocapsules selectively deliver drugs to exactly where they are needed"
-date:  2016-09-21 11:30:01 
-categories:  Science     
+date: 2016-09-21 11:30:01
+categories: Science
 author: unknown author
-tags:  bio & medicine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [bio & medicine]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  bio & medicine
 
 [Visit Link](http://phys.org/news/2016-09-multi-stimuli-responsive-nanocapsules-drugs.html)
 
-id:  325525 
+id:  325525

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "LHCb unveils new particles"
-date:  2016-07-05 12:56:02 
-categories:  Science     
+date: 2016-07-05 12:56:02
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2016-07-lhcb-unveils-particles.html)
 
-id:  301597 
+id:  301597

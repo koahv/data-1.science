@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A new mechanism for catalyzing the splitting of water"
-date:  2016-03-30 10:04:23 
-categories:  Science     
+date: 2016-03-30 10:04:23
+categories: Science
 author: unknown author
-tags:  materials science                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [materials science]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  materials science
 
 [Visit Link](http://phys.org/news/2016-03-mechanism-catalyzing.html)
 
-id:  267981 
+id:  267981

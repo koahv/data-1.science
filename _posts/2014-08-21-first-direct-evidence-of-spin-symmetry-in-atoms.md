@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First direct evidence of 'spin symmetry' in atoms"
-date:  2014-08-21 18:14:36 
-categories:  Science     
+date: 2014-08-21 18:14:36
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/eS4NNXthoRg/140821141436.htm)
 
-id:   43984 
+id:   43984

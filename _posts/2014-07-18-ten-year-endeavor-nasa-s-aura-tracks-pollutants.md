@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ten-year endeavor: NASA's Aura tracks pollutants"
-date:  2014-07-18 14:25:17 
-categories:  Science     
+date: 2014-07-18 14:25:17
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/1dXAR3wUYks/140718102517.htm)
 
-id:   23549 
+id:   23549

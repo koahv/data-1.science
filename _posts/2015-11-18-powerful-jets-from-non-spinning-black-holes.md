@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Powerful jets from non-spinning black holes"
-date:  2015-11-18 13:33:47 
-categories:  Science     
+date: 2015-11-18 13:33:47
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2015-11-powerful-jets-non-spinning-black-holes.html)
 
-id:  213125 
+id:  213125

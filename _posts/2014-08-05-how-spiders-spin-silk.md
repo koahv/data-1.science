@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How spiders spin silk"
-date:  2014-08-05 04:00:00 
-categories:  Science     
+date: 2014-08-05 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/p-hss080114.php)
 
-id:   32577 
+id:   32577

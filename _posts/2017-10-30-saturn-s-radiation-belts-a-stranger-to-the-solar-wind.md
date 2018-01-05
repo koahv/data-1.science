@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Saturn's radiation belts: A stranger to the solar wind"
-date:  2017-10-30 21:59:52 
-categories:  Science     
+date: 2017-10-30 21:59:52
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-10-saturn-belts-stranger-solar.html)
 
-id:  446857 
+id:  446857

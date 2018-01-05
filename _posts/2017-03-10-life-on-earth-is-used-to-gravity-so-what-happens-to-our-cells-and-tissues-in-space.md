@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Life on Earth is used to gravity – so what happens to our cells and tissues in space?"
-date:  2017-03-10 13:50:01 
-categories:  Science     
+date: 2017-03-10 13:50:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-03-life-earth-gravity-cells-tissues.html)
 
-id:  373026 
+id:  373026

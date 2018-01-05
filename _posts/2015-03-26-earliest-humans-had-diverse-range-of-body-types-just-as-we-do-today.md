@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earliest humans had diverse range of body types, just as we do today"
-date:  2015-03-26 04:00:00 
-categories:  Science     
+date: 2015-03-26 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/uoc-ehh032615.php)
 
-id:  101223 
+id:  101223

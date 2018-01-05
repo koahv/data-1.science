@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Global consumption an increasingly significant driver of tropical deforestation"
-date:  2014-10-22 14:34:40 
-categories:  Science     
+date: 2014-10-22 14:34:40
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/wxkS9cHSl_Y/141022103440.htm)
 
-id:   56568 
+id:   56568

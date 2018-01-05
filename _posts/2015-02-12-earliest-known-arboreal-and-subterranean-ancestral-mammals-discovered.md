@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earliest-known arboreal and subterranean ancestral mammals discovered"
-date:  2015-02-12 05:00:00 
-categories:  Science     
+date: 2015-02-12 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-02/uocm-eaa020615.php)
 
-id:   82216 
+id:   82216

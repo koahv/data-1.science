@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA mission uncovers a dance of electrons in space"
-date:  2017-05-18 04:00:00 
-categories:  Science     
+date: 2017-05-18 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-05/nsfc-nmu051817.php)
 
-id:  393738 
+id:  393738

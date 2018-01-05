@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Seven ways to feel full without overeating"
-date:  2014-10-21 16:56:28 
-categories:  Science     
+date: 2014-10-21 16:56:28
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/9Z2c7DX5Q7A/141021125628.htm)
 
-id:   55647 
+id:   55647

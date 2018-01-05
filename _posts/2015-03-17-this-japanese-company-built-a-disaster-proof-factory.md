@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "This Japanese Company Built a “Disaster-Proof” Factory"
-date:  2015-03-17 18:59:42 
-categories:  Technology  
+date: 2015-03-17 18:59:42
+categories: Technology
 author: unknown author
-tags:  distributed power,ge power & water,japan,waukesha,led                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [distributed power, ge power & water, japan, waukesha, led]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  distributed power,ge power & water,japan,waukesha,led
 
 [Visit Link](http://www.gereports.com/post/113798852100)
 
-id:   96595 
+id:   96595

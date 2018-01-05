@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA orders first ever commercial human spaceflight mission from Boeing"
-date:  2015-05-29 14:10:01 
-categories:  Science     
+date: 2015-05-29 14:10:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news352110672.html)
 
-id:  130740 
+id:  130740

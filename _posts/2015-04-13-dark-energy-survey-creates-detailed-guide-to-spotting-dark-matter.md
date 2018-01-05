@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dark Energy Survey creates detailed guide to spotting dark matter "
-date:  2015-04-13 19:20:43 
-categories:  Science     
+date: 2015-04-13 19:20:43
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news348157217.html)
 
-id:  108682 
+id:  108682

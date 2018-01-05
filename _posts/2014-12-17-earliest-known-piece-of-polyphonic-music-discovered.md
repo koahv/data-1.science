@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earliest known piece of polyphonic music discovered"
-date:  2014-12-17 10:38:41 
-categories:  Science     
+date: 2014-12-17 10:38:41
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news338017110.html)
 
-id:   67275 
+id:   67275

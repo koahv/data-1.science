@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "HIV can develop resistance to CRISPR/Cas9"
-date:  2016-04-07 04:00:00 
-categories:  Technology  
+date: 2016-04-07 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/cp-hcd033116.php)
 
-id:  271631 
+id:  271631

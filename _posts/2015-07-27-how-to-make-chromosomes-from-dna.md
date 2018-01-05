@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to make chromosomes from DNA"
-date:  2015-07-27 13:59:04 
-categories:  Science     
+date: 2015-07-27 13:59:04
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150727095904.htm)
 
-id:  160915 
+id:  160915

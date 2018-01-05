@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How do plants make oxygen? Ask cyanobacteria"
-date:  2017-03-30 04:00:00 
-categories:  Science     
+date: 2017-03-30 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/ciot-hdp033017.php)
 
-id:  379252 
+id:  379252

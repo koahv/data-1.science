@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What is the Earth's average temperature?"
-date:  2015-08-19 13:20:01 
-categories:  Science     
+date: 2015-08-19 13:20:01
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2015-08-earth-average-temperature.html)
 
-id:  171607 
+id:  171607

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists break distance record for quantum teleportation"
-date:  2015-09-22 13:00:04 
-categories:  Science     
+date: 2015-09-22 13:00:04
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2015-09-physicists-distance-quantum-teleportation.html)
 
-id:  187832 
+id:  187832

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First direct exploration of magnetic fields in the upper solar atmosphere"
-date:  2017-05-18 01:00:01 
-categories:  Science     
+date: 2017-05-18 01:00:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-05-exploration-magnetic-fields-upper-solar.html)
 
-id:  393544 
+id:  393544

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The brain's electrical alphabet: Timing, rate underlie neural information, study shows"
-date:  2015-01-23 13:17:19 
-categories:  Science     
+date: 2015-01-23 13:17:19
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/uf2DdD7t7KM/150123081719.htm)
 
-id:   74742 
+id:   74742

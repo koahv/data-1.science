@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Another milestone in hybrid artificial photosynthesis"
-date:  2015-08-24 04:00:00 
-categories:  Science     
+date: 2015-08-24 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/dbnl-am082415.php)
 
-id:  174123 
+id:  174123

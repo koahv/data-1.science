@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists engineer animals with ancient genes to test causes of evolution"
-date:  2017-01-13 05:00:00 
-categories:  Science     
+date: 2017-01-13 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/uocm-sea011217.php)
 
-id:  356712 
+id:  356712

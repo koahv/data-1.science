@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Technical troubleshooting at the CERN Control Centre"
-date:  2014-08-05 12:51:11 
-categories:  Science     
+date: 2014-08-05 12:51:11
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news326447443.html)
 
-id:   32220 
+id:   32220

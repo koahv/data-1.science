@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Has Stephen Hawking Just Solved a Huge Black-Hole Mystery?"
-date:  2015-08-26 13:08:37 
-categories:  Science     
+date: 2015-08-26 13:08:37
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51980-stephen-hawking-black-hole-mystery.html)
 
-id:  175075 
+id:  175075

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "People and primates share chewing adaptations"
-date:  2015-06-24 09:40:58 
-categories:  Science     
+date: 2015-06-24 09:40:58
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news354343246.html)
 
-id:  144356 
+id:  144356

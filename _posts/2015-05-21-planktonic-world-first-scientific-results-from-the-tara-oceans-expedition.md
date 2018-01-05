@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Planktonic world: First scientific results from the Tara Oceans expedition"
-date:  2015-05-21 18:03:46 
-categories:  Science     
+date: 2015-05-21 18:03:46
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news351435816.html)
 
-id:  127080 
+id:  127080

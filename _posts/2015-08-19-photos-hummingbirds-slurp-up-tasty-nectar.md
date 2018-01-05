@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos: Hummingbirds Slurp Up Tasty Nectar"
-date:  2015-08-19 11:36:48 
-categories:  Science     
+date: 2015-08-19 11:36:48
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51907-photos-hummingbird-tongues.html)
 
-id:  171481 
+id:  171481

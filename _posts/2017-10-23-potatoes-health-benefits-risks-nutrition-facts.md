@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Potatoes: Health Benefits, Risks & Nutrition Facts"
-date:  2017-10-23 13:49:00 
-categories:  Science     
+date: 2017-10-23 13:49:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.livescience.com/45838-potato-nutrition.html)
 
-id:  443712 
+id:  443712

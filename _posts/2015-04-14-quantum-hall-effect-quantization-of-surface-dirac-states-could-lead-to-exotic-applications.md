@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum Hall effect: Quantization of 'surface Dirac states' could lead to exotic applications"
-date:  2015-04-14 12:53:52 
-categories:  Science     
+date: 2015-04-14 12:53:52
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/HOjhfui5y98/150414085352.htm)
 
-id:  109102 
+id:  109102

@@ -1,19 +1,36 @@
 ---
 layout: post
-title: "Meteorite Impacts on Ancient Oceans --May Have Created the Genetic Molecules That Led to Life"
-date:  2015-08-19 14:42:13 
-categories:  Astronomy   
-author:  dailygalaxy.com                                               
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+title: "Meteorite Impacts on Ancient Oceans --"May Have Created the Genetic Molecules That Led to Life""
+date: 2015-08-19 14:42:13
+categories: Astronomy
+author: dailygalaxy.com
+tags: []
 ---
 
 
 #### Extract
->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   +
+> 
+ 
+
+ 
+ 
+A new study shown that meteorite impacts on ancient oceans may have created nucleobases and amino acids. Researchers from Tohoku University, National Institute for Materials Science and Hiroshima University discovered this after conducting impact experiments simulating a meteorite hitting an ancient ocean.
+
+With precise analysis of the products recovered after impacts, the team found the formation of nucleobases and amino acids from inorganic compounds. The research is reported this week in the journal Earth and Planetary Science Letters.
+All the genetic information of modern life is stored in DNA as sequences of nucleobases. However, formation of nucleobases from inorganic compounds available on prebiotic Earth had been considered to be difficult.
+In 2009, this team reported the formation of the simplest amino acid, glycine, by simulating meteorite impacts. This time, they replaced the carbon source with bicarbonate and conducted hypervelocity impact experiments at 1 km/s using a single stage propellant gun (Figure 2).
+They found the formation of a far larger variety of life's building blocks, including two kinds of nucleobases and nine kinds of proteinogenic amino acids. The results suggest a new route for how genetic molecules may have first formed on Earth.
+The Daily Galaxy via Tohoku University
+Related articles
+
+New Theory of the Molecular Origins of Life
+Unexplained Red Arcs Observed on Saturn's Moon Tethys
+Black Hole Collisions --"Astronomers 'Hear' Them Via Gravity Signals"
+
 
 #### Factsheet
 >factsheet unavailable
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/meteorite-impacts-on-ancient-oceans-may-have-created-the-genetic-molecules-that-led-to-life.html)
 
-id:  171544 
+id:  171544

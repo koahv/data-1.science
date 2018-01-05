@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fermilab experiment sees neutrinos change over 500 miles"
-date:  2015-08-07 13:17:55 
-categories:  Science     
+date: 2015-08-07 13:17:55
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-08-fermilab-neutrinos-miles.html)
 
-id:  166340 
+id:  166340

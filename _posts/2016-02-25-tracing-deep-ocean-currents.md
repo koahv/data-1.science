@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tracing deep ocean currents"
-date:  2016-02-25 13:33:13 
-categories:  Science     
+date: 2016-02-25 13:33:13
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2016-02-deep-ocean-currents.html)
 
-id:  255435 
+id:  255435

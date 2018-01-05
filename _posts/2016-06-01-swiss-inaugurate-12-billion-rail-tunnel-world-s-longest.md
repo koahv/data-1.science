@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Swiss Inaugurate $12 Billion Rail Tunnel, World's Longest"
-date:  2016-06-01 13:40:55 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-06-01 13:40:55
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/06/swiss-inaugurate-12-billion-rail-tunnel-worlds-longest)
 
-id:  290919 
+id:  290919

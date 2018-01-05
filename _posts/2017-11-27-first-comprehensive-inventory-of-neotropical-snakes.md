@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First comprehensive inventory of Neotropical snakes"
-date:  2017-11-27 11:30:44 
-categories:  Science     
+date: 2017-11-27 11:30:44
+categories: Science
 author: unknown author
-tags:  ecology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [database, ecology, snakes]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  ecology
 
 [Visit Link](https://phys.org/news/2017-11-comprehensive-neotropical-snakes.html)
 
-id:  458938 
+id:  458938

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Opportunity of a lifetime—NASA's 4,000 days roving Mars"
-date:  2015-05-05 11:30:02 
-categories:  Science     
+date: 2015-05-05 11:30:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news350028857.html)
 
-id:  118655 
+id:  118655

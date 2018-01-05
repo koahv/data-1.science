@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Precise and programmable biological circuits"
-date:  2014-10-23 14:22:08 
-categories:  Science     
+date: 2014-10-23 04:00:00
+categories: Technology
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: []
 ---
 
 
 #### Extract
->A team led by ETH professor Yaakov Benenson has developed several new components for biological circuits. These components are key building blocks for constructing precisely functioning and programmable bio-computers.
+>(ETH Zurich) A team led by ETH professor Yaakov Benenson has developed several new components for biological circuits. These components are key building blocks for constructing precisely functioning and programmable bio-computers.
 
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://phys.org/news333278517.html)
+[Visit Link](http://www.eurekalert.org/pub_releases/2014-10/ez-pap102314.php)
 
-id:   57266 
+id:   57198

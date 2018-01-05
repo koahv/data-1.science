@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Most Viewed Linux Kernel News Stories Of 2016"
-date:  2016-12-30 15:27:56 
-categories:  Linux       
+date: 2016-12-30 15:27:56
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Linux-Kernel-Popular-News-2016)
 
-id:  353242 
+id:  353242

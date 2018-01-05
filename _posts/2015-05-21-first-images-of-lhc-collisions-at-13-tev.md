@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First images of LHC collisions at 13 TeV"
-date:  2015-05-21 10:55:04 
-categories:  Science     
+date: 2015-05-21 10:55:04
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news351410095.html)
 
-id:  126622 
+id:  126622

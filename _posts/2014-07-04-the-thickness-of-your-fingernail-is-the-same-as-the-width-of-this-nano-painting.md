@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The thickness of your fingernail is the same as the width of this nano-painting"
-date:  2014-07-04 05:11:34 
-categories:  Science     
+date: 2014-07-04 05:11:34
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencealert.com.au/~r/sciencealert-latestnews/~3/E3hinfPsRME/20140407-25817.html)
 
-id:   13360 
+id:   13360

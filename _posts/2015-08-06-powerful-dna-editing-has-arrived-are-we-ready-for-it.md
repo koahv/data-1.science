@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Powerful DNA 'Editing' Has Arrived, Are We Ready for It?"
-date:  2015-08-06 18:12:03 
-categories:  Science     
+date: 2015-08-06 18:12:03
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51776-powerful-dna-editing-has-arrived-are-we-ready-for-it.html)
 
-id:  165788 
+id:  165788

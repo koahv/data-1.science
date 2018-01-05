@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Hubble's planetary portrait captures new changes in Jupiter's Great Red Spot"
-date:  2015-10-13 04:00:00 
-categories:  Technology  
+date: 2015-10-13 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/nsfc-hpp101315.php)
 
-id:  197503 
+id:  197503

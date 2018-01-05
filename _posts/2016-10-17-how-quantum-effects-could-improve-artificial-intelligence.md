@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How quantum effects could improve artificial intelligence"
-date:  2016-10-17 13:30:02 
-categories:  Science     
+date: 2016-10-17 13:30:02
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-10-quantum-effects-artificial-intelligence.html)
 
-id:  332723 
+id:  332723

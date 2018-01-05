@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Will we ever colonize Mars?"
-date:  2015-06-01 14:50:01 
-categories:  Science     
+date: 2015-06-01 14:50:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news352372515.html)
 
-id:  131790 
+id:  131790

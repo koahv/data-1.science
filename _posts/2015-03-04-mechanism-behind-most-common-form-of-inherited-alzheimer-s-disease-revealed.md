@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mechanism behind most common form of inherited Alzheimer's disease revealed"
-date:  2015-03-04 18:09:11 
-categories:  Science     
+date: 2015-03-04 18:09:11
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/1cNsLuuTcco/150304130911.htm)
 
-id:   90899 
+id:   90899

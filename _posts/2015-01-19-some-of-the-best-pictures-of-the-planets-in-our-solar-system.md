@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Some of the best pictures of the planets in our solar system"
-date:  2015-01-19 14:50:01 
-categories:  Science     
+date: 2015-01-19 14:50:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news340879738.html)
 
-id:   72747 
+id:   72747

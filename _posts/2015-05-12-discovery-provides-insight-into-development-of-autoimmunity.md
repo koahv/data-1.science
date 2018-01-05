@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Discovery provides insight into development of autoimmunity"
-date:  2015-05-12 18:08:15 
-categories:  Science     
+date: 2015-05-12 18:08:15
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/oIWElBf7_mY/150512140815.htm)
 
-id:  122245 
+id:  122245

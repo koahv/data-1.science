@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Hottest lava eruption linked to growth of first continents"
-date:  2014-06-24 09:35:53 
-categories:  Science     
+date: 2014-06-24 09:35:53
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news322806930.html)
 
-id:    4063 
+id:    4063

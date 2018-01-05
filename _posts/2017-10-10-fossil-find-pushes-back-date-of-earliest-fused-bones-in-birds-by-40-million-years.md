@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fossil find pushes back date of earliest fused bones in birds by 40 million years"
-date:  2017-10-10 12:45:55 
-categories:  Science     
+date: 2017-10-10 12:45:55
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](https://phys.org/news/2017-10-fossil-date-earliest-fused-bones.html)
 
-id:  437052 
+id:  437052

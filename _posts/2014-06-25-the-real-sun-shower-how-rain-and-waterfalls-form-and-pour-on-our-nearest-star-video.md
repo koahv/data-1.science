@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Real Sun Shower: How Rain and Waterfalls Form and Pour on our Nearest Star (VIDEO)"
-date:  2014-06-25 12:32:03 
-categories:  Science     
+date: 2014-06-25 12:32:03
+categories: Science
 author: unknown author
-tags:  space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space
 
 [Visit Link](http://www.scienceworldreport.com/articles/15648/20140625/real-sun-shower-rain-waterfalls-form-pour-nearest-star-video.htm)
 
-id:    6076 
+id:    6076

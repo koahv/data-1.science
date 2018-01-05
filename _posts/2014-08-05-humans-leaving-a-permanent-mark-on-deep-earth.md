@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Humans leaving a permanent mark on deep Earth"
-date:  2014-08-05 13:50:01 
-categories:  Science     
+date: 2014-08-05 13:50:01
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news326448302.html)
 
-id:   32291 
+id:   32291

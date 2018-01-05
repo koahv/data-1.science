@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "In search of tinnitus, that phantom ringing in the ears"
-date:  2015-04-23 16:58:58 
-categories:  Science     
+date: 2015-04-23 16:58:58
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/sUMaKsQBtzk/150423125858.htm)
 
-id:  113804 
+id:  113804

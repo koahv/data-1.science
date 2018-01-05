@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cannabis consumers show greater susceptibility to false memories"
-date:  2015-04-21 14:49:09 
-categories:  Science     
+date: 2015-04-21 14:49:09
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/DGAVIlLWD2c/150421104909.htm)
 
-id:  112335 
+id:  112335

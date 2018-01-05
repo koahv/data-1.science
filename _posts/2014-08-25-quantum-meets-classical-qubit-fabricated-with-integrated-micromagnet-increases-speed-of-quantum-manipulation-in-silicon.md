@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum meets classical: Qubit fabricated with integrated micromagnet increases speed of quantum manipulation in silicon"
-date:  2014-08-25 13:30:02 
-categories:  Science     
+date: 2014-08-25 13:30:02
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news328158818.html)
 
-id:   45701 
+id:   45701

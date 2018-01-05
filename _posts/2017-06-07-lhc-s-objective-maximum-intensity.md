@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "LHC's objective—maximum intensity"
-date:  2017-06-07 12:02:27 
-categories:  Science     
+date: 2017-06-07 12:02:27
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-06-lhc-objectivemaximum-intensity.html)
 
-id:  398923 
+id:  398923

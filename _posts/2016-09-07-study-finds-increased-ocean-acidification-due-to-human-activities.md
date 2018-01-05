@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study finds increased ocean acidification due to human activities"
-date:  2016-09-07 04:00:00 
-categories:  Science     
+date: 2016-09-07 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-09/miot-sfi090716.php)
 
-id:  321462 
+id:  321462

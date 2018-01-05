@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A Look at Some of the World's Longest Railway Tunnels"
-date:  2016-06-02 14:06:51 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-06-02 14:06:51
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/06/look-some-worlds-longest-railway-tunnels)
 
-id:  290916 
+id:  290916

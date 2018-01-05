@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The genetics of coping with HIV"
-date:  2014-09-16 18:15:31 
-categories:  Science     
+date: 2014-09-16 18:15:31
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/YZKZkCnL-Ds/140916141531.htm)
 
-id:   49440 
+id:   49440

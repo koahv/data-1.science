@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Widespread loss of ocean oxygen to become noticeable in 2030s"
-date:  2016-04-27 04:00:00 
-categories:  Science     
+date: 2016-04-27 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/ncfa-wlo042716.php)
 
-id:  278741 
+id:  278741

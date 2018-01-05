@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "This week from AGU: Sea-level spikes, volcanic risk, volcanos cause drought"
-date:  2014-08-05 04:00:00 
-categories:  Science     
+date: 2014-08-05 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/agu-twf080514.php)
 
-id:   32714 
+id:   32714

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The first ever photograph of light as a particle and a wave"
-date:  2015-03-02 05:00:00 
-categories:  Science     
+date: 2015-03-02 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/epfd-tfe030115.php)
 
-id:   89319 
+id:   89319

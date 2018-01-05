@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Understanding Different Classifications of Shell Commands and Their Usage in Linux"
-date:  2016-08-26 07:36:18 
-categories:  Linux       
-author:  Aaron Kili                                                    
-tags:  linux commands,linux tricks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+date: 2016-08-26 07:36:18
+categories: Linux
+author: Aaron Kili
+tags: [linux commands, linux tricks]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands,linux tricks
 
 [Visit Link](http://www.tecmint.com/understanding-different-linux-shell-commands-usage/)
 
-id:  318023 
+id:  318023

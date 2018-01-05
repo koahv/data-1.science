@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What life was like for newborn giant sea lizards during the age of the dinosaur"
-date:  2015-04-10 04:00:00 
-categories:  Science     
+date: 2015-04-10 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/w-wlw041015.php)
 
-id:  107673 
+id:  107673

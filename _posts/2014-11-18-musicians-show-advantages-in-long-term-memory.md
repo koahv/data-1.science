@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Musicians show advantages in long-term memory"
-date:  2014-11-18 17:55:54 
-categories:  Science     
+date: 2014-11-18 17:55:54
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/QvAcuA1Wtnc/141118125554.htm)
 
-id:   63901 
+id:   63901

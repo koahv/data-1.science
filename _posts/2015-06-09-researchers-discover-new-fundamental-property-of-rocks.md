@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers discover new fundamental property of rocks"
-date:  2015-06-09 13:00:02 
-categories:  Science     
+date: 2015-06-09 13:00:02
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news353058311.html)
 
-id:  136137 
+id:  136137

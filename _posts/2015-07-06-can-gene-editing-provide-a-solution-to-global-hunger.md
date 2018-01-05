@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Can gene editing provide a solution to global hunger?"
-date:  2015-07-06 12:50:04 
-categories:  Science     
+date: 2015-07-06 12:50:04
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news355386937.html)
 
-id:  150039 
+id:  150039

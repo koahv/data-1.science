@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Gene expression is key to understanding differences between individuals and disease susceptibility"
-date:  2015-05-07 18:51:34 
-categories:  Science     
+date: 2015-05-07 18:51:34
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/rKFbkkb9rt4/150507145134.htm)
 
-id:  120186 
+id:  120186

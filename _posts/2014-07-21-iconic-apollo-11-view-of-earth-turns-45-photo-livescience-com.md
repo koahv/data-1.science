@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Iconic Apollo 11 View of Earth Turns 45 (Photo) - LiveScience.com"
-date:  2014-07-21 18:30:45 
-categories:  Earth       
+date: 2014-07-21 18:30:45
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNENaT-FNEAfvTjmsixVieZRuiphkw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778562084794&ei=dVnNU-i5GcWdgQeL7YCABw&url=http://www.livescience.com/46899-apollo-11-image-of-earth.html)
 
-id:   24708 
+id:   24708

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists gather to prepare for Large Synoptic Survey Telescope"
-date:  2015-03-09 21:45:11 
-categories:  Science     
+date: 2015-03-09 21:45:11
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/NPlIJU5jo-Q/150309174511.htm)
 
-id:   93026 
+id:   93026

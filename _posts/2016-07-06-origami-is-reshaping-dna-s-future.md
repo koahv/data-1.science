@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Origami' is reshaping DNA's future"
-date:  2016-07-06 04:00:00 
-categories:  Technology  
+date: 2016-07-06 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/tkf-ir070516.php)
 
-id:  301869 
+id:  301869

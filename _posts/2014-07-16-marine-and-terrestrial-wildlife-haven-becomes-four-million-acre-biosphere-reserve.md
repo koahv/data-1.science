@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Marine and terrestrial wildlife haven becomes four million-acre biosphere reserve"
-date:  2014-07-16 11:20:02 
-categories:  Science     
+date: 2014-07-16 11:20:02
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news324711903.html)
 
-id:   21139 
+id:   21139

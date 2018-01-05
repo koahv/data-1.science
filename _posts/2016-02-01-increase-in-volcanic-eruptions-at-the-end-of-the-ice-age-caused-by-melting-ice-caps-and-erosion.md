@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Increase in volcanic eruptions at the end of the ice age caused by melting ice caps and erosion"
-date:  2016-02-01 17:41:35 
-categories:  Science     
+date: 2016-02-01 17:41:35
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2016-02-volcanic-eruptions-ice-age-caps.html)
 
-id:  244158 
+id:  244158

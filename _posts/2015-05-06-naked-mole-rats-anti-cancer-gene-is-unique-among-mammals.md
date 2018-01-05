@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Naked mole-rats anti-cancer gene is unique among mammals"
-date:  2015-05-06 12:46:38 
-categories:  Science     
+date: 2015-05-06 12:46:38
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/8Endm1qyY8g/150506084638.htm)
 
-id:  119334 
+id:  119334

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Swing-dancing' pairs of electrons discovered"
-date:  2015-05-13 18:58:43 
-categories:  Science     
+date: 2015-05-13 18:58:43
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/2aVTf-1Y95s/150513145843.htm)
 
-id:  122907 
+id:  122907

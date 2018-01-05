@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "COSMIAC's third CubeSat mission will study ionosphere"
-date:  2015-05-14 12:20:01 
-categories:  Science     
+date: 2015-05-14 12:20:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news350806749.html)
 
-id:  123240 
+id:  123240

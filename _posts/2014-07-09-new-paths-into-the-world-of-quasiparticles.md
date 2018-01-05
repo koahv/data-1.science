@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New paths into the world of quasiparticles"
-date:  2014-07-09 04:00:00 
-categories:  Science     
+date: 2014-07-09 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/uoi-npi070814.php)
 
-id:   16649 
+id:   16649

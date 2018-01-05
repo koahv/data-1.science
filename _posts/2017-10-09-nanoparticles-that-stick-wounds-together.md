@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Nanoparticles that stick wounds together"
-date:  2017-10-09 12:40:06 
-categories:  Science     
+date: 2017-10-09 12:40:06
+categories: Science
 author: unknown author
-tags:  bio & medicine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [bio & medicine]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  bio & medicine
 
 [Visit Link](https://phys.org/news/2017-10-nanoparticles-wounds.html)
 
-id:  436694 
+id:  436694

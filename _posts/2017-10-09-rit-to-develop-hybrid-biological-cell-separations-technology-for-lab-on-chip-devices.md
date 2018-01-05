@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "RIT to develop hybrid biological cell separations technology for lab-on-chip devices"
-date:  2017-10-09 04:00:00 
-categories:  Science     
+date: 2017-10-09 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/riot-rtd100917.php)
 
-id:  437137 
+id:  437137

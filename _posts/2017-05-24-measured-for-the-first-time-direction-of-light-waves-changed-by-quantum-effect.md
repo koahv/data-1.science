@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Measured for the first time: Direction of light waves changed by quantum effect"
-date:  2017-05-24 04:00:00 
-categories:  Science     
+date: 2017-05-24 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-05/vuot-mft052417.php)
 
-id:  395197 
+id:  395197

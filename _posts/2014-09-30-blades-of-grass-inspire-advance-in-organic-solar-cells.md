@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Blades of grass inspire advance in organic solar cells"
-date:  2014-09-30 04:00:00 
-categories:  Technology  
+date: 2014-09-30 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/uoma-bog093014.php)
 
-id:   51755 
+id:   51755

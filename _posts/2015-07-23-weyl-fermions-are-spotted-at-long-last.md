@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Weyl fermions are spotted at long last"
-date:  2015-07-23 15:51:02 
-categories:  Science     
+date: 2015-07-23 15:51:02
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/jul/23/weyl-fermions-are-spotted-at-long-last)
 
-id:  159839 
+id:  159839

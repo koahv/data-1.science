@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient skull shows modern humans colonized Eurasia 60-70,000 years ago"
-date:  2015-01-29 16:37:17 
-categories:  Science     
+date: 2015-01-29 16:37:17
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/LVE_aTL23ms/150129113717.htm)
 
-id:   77229 
+id:   77229

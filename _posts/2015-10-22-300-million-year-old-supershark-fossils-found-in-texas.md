@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "300 million-year-old 'supershark' fossils found in Texas"
-date:  2015-10-22 12:00:01 
-categories:  Science     
+date: 2015-10-22 12:00:01
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-10-million-year-old-supershark-fossils-texas.html)
 
-id:  201204 
+id:  201204

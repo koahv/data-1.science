@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A Closer Look at the ‘Learning’ Aspect of Machine Learning"
-date:  2017-05-01 08:37:56 
-categories:  Linux       
-author:  The New Stack                                                 
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-05-01 08:37:56
+categories: Linux
+author: The New Stack
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/closer-look-learning-aspect-machine-learning)
 
-id:  388717 
+id:  388717

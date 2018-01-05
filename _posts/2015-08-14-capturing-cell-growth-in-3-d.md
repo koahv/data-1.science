@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Capturing cell growth in 3-D"
-date:  2015-08-14 09:38:13 
-categories:  Science     
+date: 2015-08-14 09:38:13
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2015-08-capturing-cell-growth-d.html)
 
-id:  169475 
+id:  169475

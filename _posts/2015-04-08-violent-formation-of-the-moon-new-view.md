@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Violent formation of the moon: New view"
-date:  2015-04-08 17:30:45 
-categories:  Science     
+date: 2015-04-08 17:30:45
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/k1NwNBmKZU4/150408133045.htm)
 
-id:  106723 
+id:  106723

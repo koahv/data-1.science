@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Vision-restoring gene therapy also strengthens visual processing pathways in brain"
-date:  2015-07-15 19:53:19 
-categories:  Science     
+date: 2015-07-15 19:53:19
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150715155319.htm)
 
-id:  155550 
+id:  155550

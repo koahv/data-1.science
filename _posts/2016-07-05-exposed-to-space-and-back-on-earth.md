@@ -1,19 +1,24 @@
 ---
 layout: post
 title: "Exposed to space and back on Earth"
-date:  2016-07-05 13:27:00 
-categories:  Astronomy   
+date: 2016-07-05 13:27:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
 #### Extract
->+
+>
+								
+		
+In the excitement of watching Tim Peake, Yuri Malenchenko and Tim Kopra land on Earth on 18 June after 186 days in space, all attention was focused on the astronauts and their bumpy ride.&nbsp;
+
+	
 
 #### Factsheet
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/Principia/Exposed_to_space_and_back_on_Earth)
 
-id:  301566 
+id:  301566

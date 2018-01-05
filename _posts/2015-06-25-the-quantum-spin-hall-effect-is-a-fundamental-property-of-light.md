@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The quantum spin Hall effect is a fundamental property of light"
-date:  2015-06-25 18:00:10 
-categories:  Science     
+date: 2015-06-25 18:00:10
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news354449063.html)
 
-id:  145337 
+id:  145337

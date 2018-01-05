@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolutionary leap from fins to legs was surprisingly simple"
-date:  2016-03-08 11:39:56 
-categories:  Science     
+date: 2016-03-08 11:39:56
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2016-03-evolutionary-fins-legs-surprisingly-simple.html)
 
-id:  259731 
+id:  259731

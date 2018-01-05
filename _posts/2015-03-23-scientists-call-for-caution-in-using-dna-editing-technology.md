@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists call for caution in using DNA-editing technology"
-date:  2015-03-23 14:00:02 
-categories:  Science     
+date: 2015-03-23 14:00:02
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news346320388.html)
 
-id:   98961 
+id:   98961

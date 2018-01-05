@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Georgia Tech researchers demonstrate how the brain can handle so much data"
-date:  2015-12-15 05:00:00 
-categories:  Technology  
+date: 2015-12-15 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/giot-gtr121515.php)
 
-id:  225479 
+id:  225479

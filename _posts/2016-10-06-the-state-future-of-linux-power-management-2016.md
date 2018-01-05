@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The State & Future Of Linux Power Management (2016)"
-date:  2016-10-06 17:27:14 
-categories:  Linux       
+date: 2016-10-06 17:27:14
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Linux-Power-Management-2016)
 
-id:  330028 
+id:  330028

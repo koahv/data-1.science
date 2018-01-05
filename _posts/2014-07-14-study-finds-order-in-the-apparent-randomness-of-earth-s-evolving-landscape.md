@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study finds order in the apparent randomness of Earth's evolving landscape"
-date:  2014-07-14 10:50:01 
-categories:  Science     
+date: 2014-07-14 10:50:01
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news324536343.html)
 
-id:   19379 
+id:   19379

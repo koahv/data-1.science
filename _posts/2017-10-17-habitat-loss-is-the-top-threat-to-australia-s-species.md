@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Habitat loss is the top threat to Australia's species"
-date:  2017-10-17 12:40:04 
-categories:  Science     
+date: 2017-10-17 12:40:04
+categories: Science
 author: unknown author
-tags:  ecology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [ecology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  ecology
 
 [Visit Link](https://phys.org/news/2017-10-habitat-loss-threat-australia-species.html)
 
-id:  440079 
+id:  440079

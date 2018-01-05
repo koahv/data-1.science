@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ice on Mars: Mars has belts of glaciers consisting of frozen water"
-date:  2015-04-08 14:27:01 
-categories:  Science     
+date: 2015-04-08 14:27:01
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/f71u2wZVLfY/150408102701.htm)
 
-id:  106751 
+id:  106751

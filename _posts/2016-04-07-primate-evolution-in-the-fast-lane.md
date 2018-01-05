@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Primate evolution in the fast lane"
-date:  2016-04-07 04:00:00 
-categories:  Science     
+date: 2016-04-07 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/cu-pei040716.php)
 
-id:  271670 
+id:  271670

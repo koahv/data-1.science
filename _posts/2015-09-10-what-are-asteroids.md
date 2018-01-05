@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What are asteroids?"
-date:  2015-09-10 13:10:04 
-categories:  Science     
+date: 2015-09-10 13:10:04
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-asteroids.html)
 
-id:  182336 
+id:  182336

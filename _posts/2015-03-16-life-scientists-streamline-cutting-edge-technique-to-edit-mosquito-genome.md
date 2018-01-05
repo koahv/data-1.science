@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Life scientists streamline cutting-edge technique to edit mosquito genome"
-date:  2015-03-16 19:00:04 
-categories:  Science     
+date: 2015-03-16 19:00:04
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news345725394.html)
 
-id:   96053 
+id:   96053

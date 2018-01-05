@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Van Allen Probes show how to accelerate electrons"
-date:  2014-07-16 05:47:35 
-categories:  Science     
+date: 2014-07-16 05:47:35
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news324693971.html)
 
-id:   20958 
+id:   20958

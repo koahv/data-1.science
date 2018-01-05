@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The moons of Saturn"
-date:  2015-09-14 12:50:01 
-categories:  Science     
+date: 2015-09-14 12:50:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-moons-saturn.html)
 
-id:  184120 
+id:  184120

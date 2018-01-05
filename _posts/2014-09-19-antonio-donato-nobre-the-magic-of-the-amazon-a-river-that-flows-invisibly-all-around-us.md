@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Antonio Donato Nobre: The magic of the Amazon: A river that flows invisibly all around us"
-date:  2014-09-19 15:04:54 
-categories:  Interest    
-author:  Antonio Donato Nobre                                          
-tags:  higher education                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+date: 2014-09-19 15:04:54
+categories: Interest
+author: Antonio Donato Nobre
+tags: [higher education]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  higher education
 
 [Visit Link](http://feedproxy.google.com/~r/TEDTalks_video/~3/q6NUOhi8DB8/antonio_donato_nobre_the_magic_of_the_amazon_a_river_that_flows_invisibly_all_around_us)
 
-id:   52384 
+id:   52384

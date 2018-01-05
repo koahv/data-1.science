@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Violent solar system history uncovered by WA meteorite"
-date:  2014-08-07 04:00:00 
-categories:  Science     
+date: 2014-08-07 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/cu-vss080714.php)
 
-id:   34975 
+id:   34975

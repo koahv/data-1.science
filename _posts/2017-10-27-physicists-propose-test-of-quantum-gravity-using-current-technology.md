@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists propose test of quantum gravity using current technology"
-date:  2017-10-27 11:00:02 
-categories:  Science     
+date: 2017-10-27 11:00:02
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-10-physicists-quantum-gravity-current-technology.html)
 
-id:  445715 
+id:  445715

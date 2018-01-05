@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Historic Delft Experiments tests Einstein's 'God does not play dice' using quantum 'dice'"
-date:  2015-10-21 20:47:22 
-categories:  Science     
+date: 2015-10-21 20:47:22
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2015-10-historic-delft-einstein-god-dice.html)
 
-id:  200946 
+id:  200946

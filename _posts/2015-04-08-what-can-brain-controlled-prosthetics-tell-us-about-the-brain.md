@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What can brain-controlled prosthetics tell us about the brain?"
-date:  2015-04-08 04:00:00 
-categories:  Technology  
+date: 2015-04-08 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/du-wcb040815.php)
 
-id:  106457 
+id:  106457

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pluto-bound craft seeks Manhattan-sized lump of ice"
-date:  2014-06-17 13:35:00 
-categories:  Astronomy   
+date: 2014-06-17 13:35:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.newscientist.com/c/749/f/10898/s/3b96f0b2/sc/32/l/0L0Snewscientist0N0Carticle0Cdn25740A0Eplutobound0Ecraft0Eseeks0Emanhattansized0Elump0Eof0Eice0Bhtml0Dcmpid0FRSS0QNSNS0Q20A120EGLOBAL0Qspace/story01.htm)
 
-id:     631 
+id:     631

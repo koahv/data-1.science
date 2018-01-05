@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient fossils reveal remarkable stability of Caribbean lizard communities"
-date:  2015-07-28 10:19:47 
-categories:  Science     
+date: 2015-07-28 10:19:47
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-07-ancient-fossils-reveal-remarkable-stability.html)
 
-id:  161411 
+id:  161411

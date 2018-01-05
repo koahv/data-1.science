@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The open source revolution is coming and it will conquer the 1% - ex CIA spy - The Guardian"
-date:  2014-06-19 11:31:26 
-categories:  Open Source 
+date: 2014-06-19 11:31:26
+categories: Open Source
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFHxdrvLbVJ0pb6gRGqWkAjUobb8Q&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=PH2pU5D3HIjGgQfMxoBY&url=http://www.theguardian.com/environment/earth-insight/2014/jun/19/open-source-revolution-conquer-one-percent-cia-spy)
 
-id:    4504 
+id:    4504

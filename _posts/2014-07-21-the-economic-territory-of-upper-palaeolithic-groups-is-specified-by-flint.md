@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The economic territory of Upper Palaeolithic groups is specified by flint"
-date:  2014-07-21 04:00:00 
-categories:  Science     
+date: 2014-07-21 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/uotb-tet072114.php)
 
-id:   24511 
+id:   24511

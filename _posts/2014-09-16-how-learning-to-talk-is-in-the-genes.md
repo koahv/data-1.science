@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How learning to talk is in the genes"
-date:  2014-09-16 15:22:42 
-categories:  Science     
+date: 2014-09-16 15:22:42
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/dRxqufB1vQw/140916112242.htm)
 
-id:   49460 
+id:   49460

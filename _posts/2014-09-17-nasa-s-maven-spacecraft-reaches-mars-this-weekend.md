@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Maven Spacecraft Reaches Mars This Weekend"
-date:  2014-09-17 20:05:47 
-categories:  Technology  
-author:  mfassbender                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-09-17 20:05:47
+categories: Technology
+author: mfassbender
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2014/09/nasas-maven-spacecraft-reaches-mars-weekend)
 
-id:   48232 
+id:   48232

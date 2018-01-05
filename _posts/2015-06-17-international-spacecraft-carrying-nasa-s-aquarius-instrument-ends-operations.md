@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "International spacecraft carrying NASA's Aquarius instrument ends operations"
-date:  2015-06-17 23:15:18 
-categories:  Science     
+date: 2015-06-17 23:15:18
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news353787307.html)
 
-id:  141135 
+id:  141135

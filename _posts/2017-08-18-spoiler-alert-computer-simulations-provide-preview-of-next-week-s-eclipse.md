@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Spoiler alert: Computer simulations provide preview of next week's eclipse"
-date:  2017-08-18 04:00:00 
-categories:  Astronomy   
+date: 2017-08-18 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/uota-sac081817.php)
 
-id:  420602 
+id:  420602

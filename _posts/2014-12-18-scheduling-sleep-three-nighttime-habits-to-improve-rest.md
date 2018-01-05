@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scheduling sleep: Three nighttime habits to improve rest"
-date:  2014-12-18 19:08:33 
-categories:  Science     
+date: 2014-12-18 19:08:33
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/uabncLhzcPw/141218140833.htm)
 
-id:   67795 
+id:   67795

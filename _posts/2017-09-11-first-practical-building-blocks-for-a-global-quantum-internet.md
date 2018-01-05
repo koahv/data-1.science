@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First practical building blocks for a global quantum internet"
-date:  2017-09-11 15:00:06 
-categories:  Science     
+date: 2017-09-11 15:00:06
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-09-blocks-global-quantum-internet.html)
 
-id:  427528 
+id:  427528

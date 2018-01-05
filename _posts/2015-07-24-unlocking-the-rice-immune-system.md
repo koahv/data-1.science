@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Unlocking the rice immune system"
-date:  2015-07-24 18:46:04 
-categories:  Science     
+date: 2015-07-24 18:46:04
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2015-07-rice-immune.html)
 
-id:  160207 
+id:  160207

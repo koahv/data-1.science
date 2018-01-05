@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Terrawatch: The crash that splintered Earth's crust - The Guardian"
-date:  2014-07-04 20:31:22 
-categories:  Earth       
+date: 2014-07-04 20:31:22
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEJjskkxkN30dSF3x3d1NDGRz3Ffw&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=cxG3U9DoDMKBgQfk6ICwCQ&url=http://www.theguardian.com/science/2014/jul/04/terrawatch-asteroid-impact-plate-tectonics)
 
-id:   13707 
+id:   13707

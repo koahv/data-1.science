@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Battery technology grows to meet demands of renewable energy - Pittsburgh Post Gazette"
-date:  2014-06-24 11:44:14 
-categories:  Energy      
+date: 2014-06-24 11:44:14
+categories: Energy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHCcuzrI1gs3RNt5qc29htqMC0alg&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=832pU-D9H8LwgQfjlICgBQ&url=http://powersource.post-gazette.com/business/2014/06/24/Battery-technology-grows-to-meed-demands-of-renewable-energy/stories/201406240021)
 
-id:    4531 
+id:    4531

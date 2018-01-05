@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Broad Institute-MIT team identifies highly efficient new cas9 for in vivo genome editing"
-date:  2015-04-01 04:00:00 
-categories:  Technology  
+date: 2015-04-01 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/biom-bit033015.php)
 
-id:  103737 
+id:  103737

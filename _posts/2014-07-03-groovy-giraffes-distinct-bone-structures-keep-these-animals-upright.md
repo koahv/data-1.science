@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Groovy giraffesdistinct bone structures keep these animals upright"
-date:  2014-07-03 04:00:00 
-categories:  Science     
+date: 2014-07-03 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/sfeb-ggd070314.php)
 
-id:   12806 
+id:   12806

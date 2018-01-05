@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "GOES-R satellite begins environmental testing"
-date:  2015-05-21 21:18:37 
-categories:  Science     
+date: 2015-05-21 21:18:37
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news351447470.html)
 
-id:  127134 
+id:  127134

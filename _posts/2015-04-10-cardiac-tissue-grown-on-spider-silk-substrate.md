@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cardiac tissue grown on 'spider silk' substrate"
-date:  2015-04-10 15:35:55 
-categories:  Science     
+date: 2015-04-10 15:35:55
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/hBb4Ia49DTk/150410113555.htm)
 
-id:  107778 
+id:  107778

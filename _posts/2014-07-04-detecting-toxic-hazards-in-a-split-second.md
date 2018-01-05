@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Detecting toxic hazards in a split second"
-date:  2014-07-04 10:50:01 
-categories:  Science     
+date: 2014-07-04 10:50:01
+categories: Science
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  chemistry
 
 [Visit Link](http://phys.org/news323675393.html)
 
-id:   13423 
+id:   13423

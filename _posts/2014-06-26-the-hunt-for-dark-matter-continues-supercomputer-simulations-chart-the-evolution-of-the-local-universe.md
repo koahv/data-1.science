@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Hunt for Dark Matter Continues: Supercomputer Simulations Chart the Evolution of the Local Universe"
-date:  2014-06-26 11:14:21 
-categories:  Science     
+date: 2014-06-26 11:14:21
+categories: Science
 author: unknown author
-tags:  space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space
 
 [Visit Link](http://www.scienceworldreport.com/articles/15673/20140626/hunt-dark-matter-continues-supercomputer-simulations-chart-evolution-local-universe.htm)
 
-id:    7268 
+id:    7268

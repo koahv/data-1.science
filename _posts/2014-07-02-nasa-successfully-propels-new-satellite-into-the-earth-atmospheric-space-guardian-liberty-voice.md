@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Successfully Propels New Satellite Into the Earth Atmospheric Space - Guardian Liberty Voice"
-date:  2014-07-02 22:07:31 
-categories:  Earth       
+date: 2014-07-02 22:07:31
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHjnmkB3kcSfvdwxQWhYq-85MxKdQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778547764079&ei=Qoy0U6CwJIrKgAfYtoCwAQ&url=http://guardianlv.com/2014/07/nasa-successfully-propels-new-satellite-into-the-earth-atmospheric-space/)
 
-id:   12352 
+id:   12352

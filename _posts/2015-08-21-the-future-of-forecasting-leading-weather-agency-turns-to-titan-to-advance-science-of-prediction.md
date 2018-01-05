@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The future of forecasting: Leading weather agency turns to Titan to advance science of prediction"
-date:  2015-08-21 21:12:16 
-categories:  Science     
+date: 2015-08-21 21:12:16
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2015-08-future-weather-agency-titan-advance.html)
 
-id:  173021 
+id:  173021

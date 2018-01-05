@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fight against Alzheimer's disease: New research on walnuts"
-date:  2014-10-21 16:57:44 
-categories:  Science     
+date: 2014-10-21 16:57:44
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/7uFIHtNV_Uk/141021125744.htm)
 
-id:   55644 
+id:   55644

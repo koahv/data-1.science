@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How do bone cells grow in space?"
-date:  2015-04-15 13:29:30 
-categories:  Science     
+date: 2015-04-15 13:29:30
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news348308945.html)
 
-id:  109551 
+id:  109551

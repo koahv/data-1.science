@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Finding supports model on cause of DNA's right-handed double helix"
-date:  2014-09-18 11:20:01 
-categories:  Science     
+date: 2014-09-18 11:20:01
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news330241976.html)
 
-id:   50385 
+id:   50385

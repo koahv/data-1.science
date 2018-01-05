@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bacteria self-organize to build working sensors"
-date:  2017-10-09 04:00:00 
-categories:  Science     
+date: 2017-10-09 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/du-bst100517.php)
 
-id:  436747 
+id:  436747

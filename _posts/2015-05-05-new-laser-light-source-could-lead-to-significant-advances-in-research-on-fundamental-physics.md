@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New laser-light source could lead to significant advances in research on fundamental physics"
-date:  2015-05-05 12:39:19 
-categories:  Science     
+date: 2015-05-05 12:39:19
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news350033946.html)
 
-id:  118639 
+id:  118639

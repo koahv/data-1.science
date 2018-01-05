@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Image: STEREO-A spacecraft returns data from the far side of the sun"
-date:  2015-07-17 10:12:54 
-categories:  Science     
+date: 2015-07-17 10:12:54
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-07-image-stereo-a-spacecraft-side-sun.html)
 
-id:  156562 
+id:  156562

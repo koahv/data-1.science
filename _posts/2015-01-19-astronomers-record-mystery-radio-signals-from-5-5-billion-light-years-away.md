@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Astronomers Record Mystery Radio Signals From 5.5 Billion Light Years Away"
-date:  2015-01-19 21:37:00 
-categories:  World       
-author:  samzenpus                                                     
-tags:  space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+date: 2015-01-19 21:37:00
+categories: World
+author: samzenpus
+tags: [space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/r3qiZHAX5KU/story01.htm)
 
-id:   72884 
+id:   72884

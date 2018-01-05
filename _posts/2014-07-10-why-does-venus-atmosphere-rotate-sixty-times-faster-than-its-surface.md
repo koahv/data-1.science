@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why does Venus' atmosphere rotate sixty times faster than its surface?"
-date:  2014-07-10 13:29:25 
-categories:  Science     
+date: 2014-07-10 13:29:25
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news324203307.html)
 
-id:   17310 
+id:   17310

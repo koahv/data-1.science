@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pioneering discovery of an odor-detecting receptor enhancer"
-date:  2017-10-12 13:40:57 
-categories:  Science     
+date: 2017-10-12 13:40:57
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-10-discovery-odor-detecting-receptor.html)
 
-id:  438212 
+id:  438212

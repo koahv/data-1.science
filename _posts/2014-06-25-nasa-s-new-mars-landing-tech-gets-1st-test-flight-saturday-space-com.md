@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's New Mars-Landing Tech Gets 1st Test Flight Saturday - Space.com"
-date:  2014-06-25 19:35:01 
-categories:  Astronomy   
+date: 2014-06-25 19:35:01
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGntkR7zQxqyBP5rcJ7u63OOul9qQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778542984913&ei=gFmrU9CABcKBgQfk6ICwCQ&url=http://www.space.com/26355-nasa-flying-saucer-test-ldsd-preview.html)
 
-id:    6940 
+id:    6940

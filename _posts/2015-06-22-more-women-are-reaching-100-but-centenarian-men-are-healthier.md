@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "More women are reaching 100 but centenarian men are healthier"
-date:  2015-06-22 14:10:47 
-categories:  Science     
+date: 2015-06-22 14:10:47
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150622101047.htm)
 
-id:  143122 
+id:  143122

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dark Energy Survey kicks off second season cataloging the wonders of deep space"
-date:  2014-08-18 04:00:00 
-categories:  Science     
+date: 2014-08-18 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/dnal-des081814.php)
 
-id:   40917 
+id:   40917

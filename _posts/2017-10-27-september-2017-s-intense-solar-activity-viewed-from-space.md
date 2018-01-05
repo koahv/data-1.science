@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "September 2017's intense solar activity viewed from space"
-date:  2017-10-27 04:00:00 
-categories:  Astronomy   
+date: 2017-10-27 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/nsfc-s2i102717.php)
 
-id:  446048 
+id:  446048

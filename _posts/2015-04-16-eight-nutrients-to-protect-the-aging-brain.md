@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Eight nutrients to protect the aging brain"
-date:  2015-04-16 00:33:40 
-categories:  Science     
+date: 2015-04-16 00:33:40
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/4a0UZaQvPy4/150415203340.htm)
 
-id:  110030 
+id:  110030

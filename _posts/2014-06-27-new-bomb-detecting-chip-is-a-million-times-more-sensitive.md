@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New bomb-detecting chip is a million times more sensitive"
-date:  2014-06-27 01:56:31 
-categories:  Science     
+date: 2014-06-27 01:56:31
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencealert.com.au/~r/sciencealert-latestnews/~3/6SO3q93JNHY/20142706-25760.html)
 
-id:    8081 
+id:    8081

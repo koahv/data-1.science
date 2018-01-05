@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DARPA Shares Its Vision for the Future"
-date:  2015-03-27 16:37:41 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-03-27 16:37:41
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/03/darpa-shares-its-vision-future)
 
-id:  101508 
+id:  101508

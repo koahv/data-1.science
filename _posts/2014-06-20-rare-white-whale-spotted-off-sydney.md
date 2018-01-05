@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Rare white whale spotted off Sydney"
-date:  2014-06-20 17:10:01 
-categories:  Science     
+date: 2014-06-20 17:10:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news322488025.html)
 
-id:     858 
+id:     858

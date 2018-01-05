@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tiny super magnets could be the future of drug delivery"
-date:  2016-11-14 05:00:00 
-categories:  Science     
+date: 2016-11-14 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/e-tsm111416.php)
 
-id:  340660 
+id:  340660

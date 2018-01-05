@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Generation game: earliest evidence of reproduction in complex species found - The Guardian"
-date:  2015-08-03 15:00:35 
-categories:  Earth       
+date: 2015-08-03 15:00:35
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGhAuhQ15Fl_rPoqAZTixXZT0O7Hg&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=UIK_VdjiG4bW3gGzwrQg&url=http://www.theguardian.com/science/2015/aug/03/fossil-earliest-proof-reproduction-in-complex-species-fractofusus)
 
-id:  163950 
+id:  163950

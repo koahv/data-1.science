@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Innovative imaging technique reveals new cellular secrets"
-date:  2015-09-11 15:41:05 
-categories:  Science     
+date: 2015-09-11 15:41:05
+categories: Science
 author: unknown author
-tags:  cell & microbiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [cell & microbiology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cell & microbiology
 
 [Visit Link](http://phys.org/news/2015-09-imaging-technique-reveals-cellular-secrets.html)
 
-id:  183069 
+id:  183069

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Number of genes linked to height revealed by study"
-date:  2014-10-05 17:49:09 
-categories:  Science     
+date: 2014-10-05 17:49:09
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/5PeCnb3V3bM/141005134909.htm)
 
-id:   52521 
+id:   52521

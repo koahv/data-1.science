@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bipolar disorder discovery at the nano level"
-date:  2014-10-22 19:47:05 
-categories:  Science     
+date: 2014-10-22 19:47:05
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/5p5LnbK5Jw8/141022154705.htm)
 
-id:   56964 
+id:   56964

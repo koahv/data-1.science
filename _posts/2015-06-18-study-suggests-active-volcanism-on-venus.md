@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study suggests active volcanism on Venus"
-date:  2015-06-18 14:56:25 
-categories:  Science     
+date: 2015-06-18 14:56:25
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news353843766.html)
 
-id:  141425 
+id:  141425

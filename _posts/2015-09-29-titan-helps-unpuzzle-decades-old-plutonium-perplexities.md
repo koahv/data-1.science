@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Titan helps unpuzzle decades-old plutonium perplexities"
-date:  2015-09-29 21:38:47 
-categories:  Science     
+date: 2015-09-29 21:38:47
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-09-titan-unpuzzle-decades-old-plutonium-perplexities.html)
 
-id:  191236 
+id:  191236

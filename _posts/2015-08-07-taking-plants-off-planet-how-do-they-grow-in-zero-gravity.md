@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Taking plants off-planet – how do they grow in zero gravity?"
-date:  2015-08-07 13:10:03 
-categories:  Science     
+date: 2015-08-07 13:10:03
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-off-planet-gravity.html)
 
-id:  166341 
+id:  166341

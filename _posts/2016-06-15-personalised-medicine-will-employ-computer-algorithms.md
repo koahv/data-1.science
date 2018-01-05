@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Personalised medicine will employ computer algorithms"
-date:  2016-06-15 04:00:00 
-categories:  Technology  
+date: 2016-06-15 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/iu-pmw061516.php)
 
-id:  295245 
+id:  295245

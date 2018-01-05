@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Elusive New Pentaquark Particle Discovered After 50-Year Hunt"
-date:  2015-07-14 21:57:05 
-categories:  Science     
+date: 2015-07-14 21:57:05
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51557-new-pentaquark-particle-discovered.html)
 
-id:  154832 
+id:  154832

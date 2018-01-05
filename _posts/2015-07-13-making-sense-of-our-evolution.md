@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Making sense of our evolution"
-date:  2015-07-13 13:10:01 
-categories:  Science     
+date: 2015-07-13 13:10:01
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](http://phys.org/news/2015-07-evolution.html)
 
-id:  153708 
+id:  153708

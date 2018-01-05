@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers pursue low-cost, efficient technologies for hydrogen generation"
-date:  2017-10-12 13:03:02 
-categories:  Science     
+date: 2017-10-12 13:03:02
+categories: Science
 author: unknown author
-tags:  materials science                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [materials science]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  materials science
 
 [Visit Link](https://phys.org/news/2017-10-pursue-low-cost-efficient-technologies-hydrogen.html)
 
-id:  438105 
+id:  438105

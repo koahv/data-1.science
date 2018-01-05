@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Autism and human evolutionary success"
-date:  2016-11-15 05:00:00 
-categories:  Science     
+date: 2016-11-15 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/uoy-aah111516.php)
 
-id:  341097 
+id:  341097

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Artificial intelligence finds 56 new gravitational lens candidates"
-date:  2017-10-23 20:08:58 
-categories:  Science     
+date: 2017-10-23 20:08:58
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](https://phys.org/news/2017-10-artificial-intelligence-gravitational-lens-candidates.html)
 
-id:  443615 
+id:  443615

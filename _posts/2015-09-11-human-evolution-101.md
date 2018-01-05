@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Human Evolution 101"
-date:  2015-09-11 22:01:39 
-categories:  Science     
-author:  Nadia Drake                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-09-11 22:01:39
+categories: Science
+author: Nadia Drake
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.nationalgeographic.com/2015/09/human-evolution-101/)
 
-id:  183967 
+id:  183967

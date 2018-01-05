@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Elements Recently Added to Periodic Table"
-date:  2016-02-01 19:41:46 
-categories:  Technology  
-author:  jmoonie                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-02-01 19:41:46
+categories: Technology
+author: jmoonie
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/02/new-elements-recently-added-periodic-table)
 
-id:  244253 
+id:  244253

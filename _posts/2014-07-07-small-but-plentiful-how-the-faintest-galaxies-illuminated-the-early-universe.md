@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Small, but plentiful: How the faintest galaxies illuminated the early universe"
-date:  2014-07-07 11:13:48 
-categories:  Science     
+date: 2014-07-07 11:13:48
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news323935989.html)
 
-id:   14526 
+id:   14526

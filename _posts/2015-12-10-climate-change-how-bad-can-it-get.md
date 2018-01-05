@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Climate change: How bad can it get?"
-date:  2015-12-10 08:42:22 
-categories:  Science     
+date: 2015-12-10 08:42:22
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2015-12-climate-bad.html)
 
-id:  222903 
+id:  222903

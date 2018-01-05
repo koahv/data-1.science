@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What’s new for LHC Run II"
-date:  2015-02-14 14:23:56 
-categories:  Science     
+date: 2015-02-14 14:23:56
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/ME1a_zMTNCQ/150214092356.htm)
 
-id:   82652 
+id:   82652

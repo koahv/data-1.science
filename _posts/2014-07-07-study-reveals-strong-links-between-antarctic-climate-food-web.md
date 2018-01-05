@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study reveals strong links between Antarctic climate, food web"
-date:  2014-07-07 04:00:00 
-categories:  Science     
+date: 2014-07-07 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/viom-srs070714.php)
 
-id:   14839 
+id:   14839

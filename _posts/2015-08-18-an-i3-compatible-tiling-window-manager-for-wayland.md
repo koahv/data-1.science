@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "An i3-Compatible Tiling Window Manager For Wayland"
-date:  2015-08-18 04:00:50 
-categories:  Linux       
+date: 2015-08-18 04:00:50
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Wayland-i3-Sway-Tiling)
 
-id:  170783 
+id:  170783

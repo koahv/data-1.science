@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Darwin's finches highlight the unity of all life"
-date:  2015-04-03 11:50:01 
-categories:  Science     
+date: 2015-04-03 11:50:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news347263552.html)
 
-id:  104542 
+id:  104542

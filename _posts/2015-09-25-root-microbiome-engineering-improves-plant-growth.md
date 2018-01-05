@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Root microbiome engineering improves plant growth"
-date:  2015-09-25 20:30:00 
-categories:  Science     
+date: 2015-09-25 20:30:00
+categories: Science
 author: unknown author
-tags:  cell & microbiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [cell & microbiology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cell & microbiology
 
 [Visit Link](http://phys.org/news/2015-09-root-microbiome-growth.html)
 
-id:  189704 
+id:  189704

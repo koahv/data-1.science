@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Ten Essentials for Good API Documentation"
-date:  2017-09-20 10:07:40 
-categories:  Linux       
-author:  A List Apart                                                  
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-09-20 10:07:40
+categories: Linux
+author: A List Apart
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/ten-essentials-good-api-documentation)
 
-id:  430786 
+id:  430786

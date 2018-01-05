@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ATLAS Experiment explores how the Higgs boson interacts with other bosons"
-date:  2017-07-26 09:58:17 
-categories:  Science     
+date: 2017-07-26 09:58:17
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-07-atlas-explores-higgs-boson-interacts.html)
 
-id:  413274 
+id:  413274

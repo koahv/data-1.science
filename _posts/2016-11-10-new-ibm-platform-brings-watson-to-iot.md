@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New IBM Platform Brings Watson to IoT"
-date:  2016-11-10 09:00:00 
-categories:  Linux       
-author:  SDx Central                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-11-10 09:00:00
+categories: Linux
+author: SDx Central
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/new-ibm-platform-brings-watson-iot-0)
 
-id:  339798 
+id:  339798

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Genetic engineering boosts energy transport in artificial photosynthesis"
-date:  2015-10-13 13:55:23 
-categories:  Science     
+date: 2015-10-13 13:55:23
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/oct/13/genetic-engineering-boosts-energy-transport-in-artificial-photosynthesis)
 
-id:  197587 
+id:  197587

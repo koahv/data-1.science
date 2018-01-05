@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "US scientists celebrate the restart of the Large Hadron Collider"
-date:  2015-04-06 10:01:32 
-categories:  Science     
+date: 2015-04-06 10:01:32
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news347518879.html)
 
-id:  105149 
+id:  105149

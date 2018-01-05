@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Holometer rules out first theory of space-time correlations"
-date:  2015-12-04 09:26:38 
-categories:  Science     
+date: 2015-12-04 09:26:38
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-12-holometer-theory-space-time.html)
 
-id:  219995 
+id:  219995

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Construction Begins on What Will Be the Largest Telescope Ever Built"
-date:  2015-11-13 15:02:19 
-categories:  Technology  
-author:  mfassbender                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-11-13 15:02:19
+categories: Technology
+author: mfassbender
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/11/construction-begins-what-will-be-largest-telescope-ever-built)
 
-id:  211149 
+id:  211149

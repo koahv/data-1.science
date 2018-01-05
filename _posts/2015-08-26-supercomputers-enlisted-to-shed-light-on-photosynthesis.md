@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Supercomputers enlisted to shed light on photosynthesis"
-date:  2015-08-26 04:00:00 
-categories:  Science     
+date: 2015-08-26 11:58:42
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [computer sciences]
 ---
 
 
 #### Extract
->(University of the Basque Country ) Using quantum mechanics as the basis, UPV/EHU computer scientists, physicists and chemists are working together to produce simulations of the molecule in which photosynthesis occurs. They have executed an OCTOPUS software package in the fastest supercomputers in Europe, and after incorporating various improvements, they have carried out the biggest simulations made in this field by efficiently using thousands of processors.
+>Researchers at the UPV/EHU-University of the Basque Country are using high-performance computing to simulate the processes that take place during the first moments of photosynthesis
 
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://www.eurekalert.org/pub_releases/2015-08/uotb-set082615.php)
+[Visit Link](http://phys.org/news/2015-08-supercomputers-photosynthesis.html)
 
-id:  174785 
+id:  174718

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How healthy is genetically modified soybean oil?"
-date:  2015-03-05 20:21:11 
-categories:  Science     
+date: 2015-03-05 20:21:11
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/42OuosqgN9A/150305152111.htm)
 
-id:   91582 
+id:   91582

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What causes lightning?"
-date:  2015-07-10 14:10:04 
-categories:  Science     
+date: 2015-07-10 14:10:04
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://phys.org/news/2015-07-lightning.html)
 
-id:  152856 
+id:  152856

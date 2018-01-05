@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "High-sugar diet no problem for genetic mutants"
-date:  2014-10-06 17:35:02 
-categories:  Science     
+date: 2014-10-06 17:35:02
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/mHLBSRmvVmU/141006133502.htm)
 
-id:   53734 
+id:   53734

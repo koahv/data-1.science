@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers successfully produce genome-edited pigs using revolutionary technology"
-date:  2015-03-26 12:10:01 
-categories:  Science     
+date: 2015-03-26 12:10:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news346575344.html)
 
-id:  100830 
+id:  100830

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists discover new system for human genome editing"
-date:  2015-09-25 04:00:00 
-categories:  Technology  
+date: 2015-09-25 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/biom-sdn092515.php)
 
-id:  189579 
+id:  189579

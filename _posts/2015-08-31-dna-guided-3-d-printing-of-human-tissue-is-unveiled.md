@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DNA-guided 3-D printing of human tissue is unveiled"
-date:  2015-08-31 04:00:00 
-categories:  Technology  
+date: 2015-08-31 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/uoc--d3p082815.php)
 
-id:  177122 
+id:  177122

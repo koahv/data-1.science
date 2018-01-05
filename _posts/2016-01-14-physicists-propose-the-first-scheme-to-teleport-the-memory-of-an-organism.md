@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists propose the first scheme to teleport the memory of an organism"
-date:  2016-01-14 10:37:55 
-categories:  Science     
+date: 2016-01-14 10:37:55
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-01-physicists-scheme-teleport-memory.html)
 
-id:  236191 
+id:  236191

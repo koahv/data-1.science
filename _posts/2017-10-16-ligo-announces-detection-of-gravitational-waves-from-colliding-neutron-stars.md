@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "LIGO announces detection of gravitational waves from colliding neutron stars"
-date:  2017-10-16 04:00:00 
-categories:  Science     
+date: 2017-10-16 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoc-lad101617.php)
 
-id:  439676 
+id:  439676

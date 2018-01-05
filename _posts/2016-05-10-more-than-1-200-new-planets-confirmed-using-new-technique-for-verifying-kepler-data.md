@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "More than 1,200 new planets confirmed using new technique for verifying Kepler data"
-date:  2016-05-10 04:00:00 
-categories:  Astronomy   
+date: 2016-05-10 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/pu-mt1051016.php)
 
-id:  283196 
+id:  283196

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Simulating the jet streams and anticyclones of Jupiter and Saturn"
-date:  2015-11-30 05:00:00 
-categories:  Astronomy   
+date: 2015-11-30 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-11/uoa-stj112715.php)
 
-id:  217999 
+id:  217999

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evaporation dynamics at the nano- and micro-scale"
-date:  2017-10-27 10:26:11 
-categories:  Science     
+date: 2017-10-27 10:26:11
+categories: Science
 author: unknown author
-tags:  condensed matter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [condensed matter]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  condensed matter
 
 [Visit Link](https://phys.org/news/2017-10-evaporation-dynamics-nano-micro-scale.html)
 
-id:  445690 
+id:  445690

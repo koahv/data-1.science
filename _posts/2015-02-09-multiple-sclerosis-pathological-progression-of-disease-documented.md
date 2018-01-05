@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Multiple sclerosis: pathological progression of disease documented"
-date:  2015-02-09 13:35:09 
-categories:  Science     
+date: 2015-02-09 13:35:09
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/YN282ctsXMY/150209083509.htm)
 
-id:   80312 
+id:   80312

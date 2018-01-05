@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New advances in solar cell technology"
-date:  2016-10-05 15:42:05 
-categories:  Science     
+date: 2016-10-05 15:42:05
+categories: Science
 author: unknown author
-tags:  energy & green tech                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [energy & green tech]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  energy & green tech
 
 [Visit Link](http://phys.org/news/2016-10-advances-solar-cell-technology.html)
 
-id:  329508 
+id:  329508

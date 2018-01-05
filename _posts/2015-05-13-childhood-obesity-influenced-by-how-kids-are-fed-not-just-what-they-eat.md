@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Childhood obesity influenced by how kids are fed, not just what they eat"
-date:  2015-05-13 13:33:58 
-categories:  Science     
+date: 2015-05-13 13:33:58
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/iEm0SRW3QoY/150513093358.htm)
 
-id:  122637 
+id:  122637

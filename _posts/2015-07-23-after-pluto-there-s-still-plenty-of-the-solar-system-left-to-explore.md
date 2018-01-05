@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "After Pluto there's still plenty of the solar system left to explore"
-date:  2015-07-23 11:40:01 
-categories:  Science     
+date: 2015-07-23 11:40:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-07-pluto-plenty-solar-left-explore.html)
 
-id:  159253 
+id:  159253

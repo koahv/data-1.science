@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient Gap-Toothed Whale Led to Evolution of Efficient Filter Feeding"
-date:  2017-07-01 15:09:00 
-categories:  Science     
+date: 2017-07-01 15:09:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.livescience.com/59672-ancient-gap-toothed-whale-discovered.html)
 
-id:  406104 
+id:  406104

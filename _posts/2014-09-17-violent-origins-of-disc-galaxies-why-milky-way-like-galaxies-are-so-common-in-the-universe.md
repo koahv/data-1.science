@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Violent origins of disc galaxies: Why Milky Way-like galaxies are so common in the universe"
-date:  2014-09-17 11:31:14 
-categories:  Science     
+date: 2014-09-17 11:31:14
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Z6Rq2esSyxo/140917073114.htm)
 
-id:   50322 
+id:   50322

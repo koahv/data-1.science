@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A molecular compass for bird navigation"
-date:  2015-02-27 15:59:05 
-categories:  Science     
+date: 2015-02-27 15:59:05
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news344257108.html)
 
-id:   88445 
+id:   88445

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers reveal how neurodegenerative diseases spread through the brain"
-date:  2016-11-09 05:00:00 
-categories:  Technology  
+date: 2016-11-09 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/vfi-rrh110916.php)
 
-id:  339445 
+id:  339445

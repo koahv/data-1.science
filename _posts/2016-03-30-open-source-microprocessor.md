@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Open-source microprocessor"
-date:  2016-03-30 04:00:00 
-categories:  Technology  
+date: 2016-03-30 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/ez-om033016.php)
 
-id:  268126 
+id:  268126

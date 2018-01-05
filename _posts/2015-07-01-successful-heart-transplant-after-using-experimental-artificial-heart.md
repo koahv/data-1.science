@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Successful heart transplant after using experimental artificial heart"
-date:  2015-07-01 18:09:01 
-categories:  Science     
+date: 2015-07-01 18:09:01
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150701140901.htm)
 
-id:  148476 
+id:  148476

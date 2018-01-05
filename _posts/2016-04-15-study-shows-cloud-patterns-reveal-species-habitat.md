@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study shows cloud patterns reveal species habitat"
-date:  2016-04-15 04:00:00 
-categories:  Astronomy   
+date: 2016-04-15 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/nsfc-ssc041516.php)
 
-id:  274861 
+id:  274861

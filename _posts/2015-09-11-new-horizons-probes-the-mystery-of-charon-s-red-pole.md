@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Horizons probes the mystery of Charon's red pole"
-date:  2015-09-11 13:23:52 
-categories:  Science     
+date: 2015-09-11 13:23:52
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-horizons-probes-mystery-charon-red.html)
 
-id:  183006 
+id:  183006

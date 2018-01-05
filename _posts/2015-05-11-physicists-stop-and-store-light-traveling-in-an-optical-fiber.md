@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists stop and store light traveling in an optical fiber"
-date:  2015-05-11 11:35:59 
-categories:  Science     
+date: 2015-05-11 11:35:59
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news350548549.html)
 
-id:  121294 
+id:  121294

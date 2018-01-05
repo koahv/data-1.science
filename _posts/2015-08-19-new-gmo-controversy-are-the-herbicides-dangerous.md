@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New GMO Controversy: Are the Herbicides Dangerous?"
-date:  2015-08-19 21:28:09 
-categories:  Science     
+date: 2015-08-19 21:28:09
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51917-gmo-herbicides-health.html)
 
-id:  171902 
+id:  171902

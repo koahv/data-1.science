@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Where will big neuroscience take us?"
-date:  2014-11-17 16:07:02 
-categories:  Science     
+date: 2014-11-17 16:07:02
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/6aY0Mc4InK4/141117110702.htm)
 
-id:   63218 
+id:   63218

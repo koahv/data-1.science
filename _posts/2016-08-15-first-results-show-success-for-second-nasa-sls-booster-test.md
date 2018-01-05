@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First Results Show Success for Second NASA SLS Booster Test"
-date:  2016-08-15 13:24:32 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-08-15 13:24:32
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/08/first-results-show-success-second-nasa-sls-booster-test)
 
-id:  314318 
+id:  314318

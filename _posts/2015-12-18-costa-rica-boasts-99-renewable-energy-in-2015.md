@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Costa Rica boasts 99% renewable energy in 2015"
-date:  2015-12-18 21:12:15 
-categories:  Science     
+date: 2015-12-18 21:12:15
+categories: Science
 author: unknown author
-tags:  energy & green tech                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [energy & green tech]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  energy & green tech
 
 [Visit Link](http://phys.org/news/2015-12-costa-rica-renewable-energy.html)
 
-id:  227088 
+id:  227088

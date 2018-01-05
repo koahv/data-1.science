@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DARPA taps lab to help restore sense of touch to amputees"
-date:  2015-02-09 05:00:00 
-categories:  Technology  
+date: 2015-02-09 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-02/dlnl-dtl020915.php)
 
-id:   80264 
+id:   80264

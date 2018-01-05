@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Measuring the mass of 'massless' electrons"
-date:  2014-06-23 17:46:51 
-categories:  Science     
+date: 2014-06-23 17:46:51
+categories: Science
 author: unknown author
-tags:  nanotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [nanotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanotechnology
 
 [Visit Link](http://phys.org/news322749966.html)
 
-id:    3427 
+id:    3427

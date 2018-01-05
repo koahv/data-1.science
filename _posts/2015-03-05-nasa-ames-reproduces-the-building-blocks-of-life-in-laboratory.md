@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Ames reproduces the building blocks of life in laboratory"
-date:  2015-03-05 11:52:33 
-categories:  Science     
+date: 2015-03-05 11:52:33
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news344760745.html)
 
-id:   91140 
+id:   91140

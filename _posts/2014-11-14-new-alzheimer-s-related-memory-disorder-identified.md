@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Alzheimer's-related memory disorder identified"
-date:  2014-11-14 00:49:47 
-categories:  Science     
+date: 2014-11-14 00:49:47
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/wBbYUAbArcI/141113194947.htm)
 
-id:   62140 
+id:   62140

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New evidence emerges on the origins of life"
-date:  2015-06-01 19:00:04 
-categories:  Science     
+date: 2015-06-01 19:00:04
+categories: Science
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  chemistry
 
 [Visit Link](http://phys.org/news352371006.html)
 
-id:  131909 
+id:  131909

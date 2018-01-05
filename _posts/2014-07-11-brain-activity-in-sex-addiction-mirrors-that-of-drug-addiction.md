@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brain activity in sex addiction mirrors that of drug addiction"
-date:  2014-07-11 19:33:27 
-categories:  Science     
+date: 2014-07-11 19:33:27
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/tlFQdNTuFN0/140711153327.htm)
 
-id:   18645 
+id:   18645

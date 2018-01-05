@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "SwRI scientists study nitrogen provision for Pluto's atmosphere"
-date:  2015-08-11 04:00:00 
-categories:  Astronomy   
+date: 2015-08-11 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/sri-sss081115.php)
 
-id:  167896 
+id:  167896

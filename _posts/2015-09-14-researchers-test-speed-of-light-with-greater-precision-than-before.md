@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers test speed of light with greater precision than before"
-date:  2015-09-14 11:15:34 
-categories:  Science     
+date: 2015-09-14 11:15:34
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-09-greater-precision.html)
 
-id:  184057 
+id:  184057

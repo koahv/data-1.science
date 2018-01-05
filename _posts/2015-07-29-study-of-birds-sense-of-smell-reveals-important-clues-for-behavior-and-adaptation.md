@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Study of birds' sense of smell reveals important clues for behavior and adaptation"
-date:  2015-07-29 15:54:24 
-categories:  Science     
+date: 2015-07-29 04:00:00
+categories: Science
 author: unknown author
-tags:  plants & animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: []
 ---
 
 
 #### Extract
->From slight sparrows to preening peacocks to soaring falcons, birds have long been known to possess distinct abilities in their sense of smell, but little has been known about the evolution of olfaction.
+>(Molecular Biology and Evolution (Oxford University Press)) A large comparative genomic study of the olfactory genes tied to a bird's sense of smell has revealed important differences that correlate with their ecological niches and specific behaviors.
 
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://phys.org/news/2015-07-birds-reveals-important-clues-behavior.html)
+[Visit Link](http://www.eurekalert.org/pub_releases/2015-07/mbae-sob072915.php)
 
-id:  162066 
+id:  162053

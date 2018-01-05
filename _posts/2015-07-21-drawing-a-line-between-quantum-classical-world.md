@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Drawing a line between quantum, classical world"
-date:  2015-07-21 20:24:55 
-categories:  Science     
+date: 2015-07-21 20:24:55
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150721162455.htm)
 
-id:  158493 
+id:  158493

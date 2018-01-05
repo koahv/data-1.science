@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Making cows more environmentally friendly"
-date:  2017-03-29 16:08:01 
-categories:  Science     
+date: 2017-03-29 16:08:01
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](https://phys.org/news/2017-03-cows-environmentally-friendly.html)
 
-id:  378831 
+id:  378831

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Editing the brain: How new epigenetic tools could rewrite our understanding of memory and more"
-date:  2015-01-21 16:46:04 
-categories:  Science     
+date: 2015-01-21 16:46:04
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/ji8xQ8KXGOY/150121114604.htm)
 
-id:   73890 
+id:   73890

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Toward a safe antiobesity drug that could block fat absorption"
-date:  2015-07-29 04:00:00 
-categories:  Science     
+date: 2015-07-29 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/acs-tas072915.php)
 
-id:  162157 
+id:  162157

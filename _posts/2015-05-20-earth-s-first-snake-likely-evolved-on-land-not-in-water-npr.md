@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earth's First Snake Likely Evolved On Land, Not In Water - NPR"
-date:  2015-05-20 00:04:01 
-categories:  Earth       
+date: 2015-05-20 00:04:01
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFiky88Gvk5LuZGPXJ70W7UlR91LA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778847283100&ei=RyNcVdDVPMK13QGrjYCoAQ&url=http://www.npr.org/2015/05/19/407967852/earths-first-snake-likely-evolved-on-land-not-in-water)
 
-id:  125834 
+id:  125834

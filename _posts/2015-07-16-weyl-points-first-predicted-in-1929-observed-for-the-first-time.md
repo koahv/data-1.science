@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Weyl points, first predicted in 1929, observed for the first time"
-date:  2015-07-16 20:06:01 
-categories:  Science     
+date: 2015-07-16 20:06:01
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150716160601.htm)
 
-id:  156196 
+id:  156196

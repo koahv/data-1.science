@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bat populations in post-wildfire habitats"
-date:  2015-02-14 14:23:54 
-categories:  Science     
+date: 2015-02-14 14:23:54
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/vUlgiPxl3aQ/150214092354.htm)
 
-id:   82395 
+id:   82395

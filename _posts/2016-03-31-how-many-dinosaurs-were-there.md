@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How many dinosaurs were there?"
-date:  2016-03-31 12:20:01 
-categories:  Science     
+date: 2016-03-31 12:20:01
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2016-03-dinosaurs.html)
 
-id:  268603 
+id:  268603

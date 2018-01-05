@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Educating the immune system to prevent allergies"
-date:  2015-05-14 04:00:00 
-categories:  Science     
+date: 2015-05-14 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/muhc-eti051315.php)
 
-id:  123254 
+id:  123254

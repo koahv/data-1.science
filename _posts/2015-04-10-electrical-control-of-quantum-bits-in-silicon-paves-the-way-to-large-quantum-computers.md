@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Electrical control of quantum bits in silicon paves the way to large quantum computers"
-date:  2015-04-10 20:53:18 
-categories:  Science     
+date: 2015-04-10 20:53:18
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/uZ8YDm72czo/150410165318.htm)
 
-id:  107988 
+id:  107988

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "One secret of ancient amber revealed"
-date:  2014-07-09 18:02:01 
-categories:  Science     
+date: 2014-07-09 18:02:01
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/fPejWgy-N6w/140709140201.htm)
 
-id:   16951 
+id:   16951

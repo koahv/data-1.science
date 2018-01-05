@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First molecules discovered by next-generation artificial intelligence to be developed into drugs"
-date:  2017-07-27 04:00:00 
-categories:  Technology  
+date: 2017-07-27 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/imi-fmd072617.php)
 
-id:  413724 
+id:  413724

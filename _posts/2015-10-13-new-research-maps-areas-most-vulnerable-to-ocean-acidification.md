@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New research maps areas most vulnerable to ocean acidification"
-date:  2015-10-13 18:01:51 
-categories:  Science     
+date: 2015-10-13 18:01:51
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2015-10-areas-vulnerable-ocean-acidification.html)
 
-id:  197464 
+id:  197464

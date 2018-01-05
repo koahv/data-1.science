@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "CERN: A milestone toward a higher-energy nuclear physics facility"
-date:  2015-05-05 11:12:53 
-categories:  Science     
+date: 2015-05-05 11:12:53
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news350028749.html)
 
-id:  118658 
+id:  118658

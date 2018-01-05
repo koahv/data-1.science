@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Great white shark numbers are surging, study says"
-date:  2014-06-20 17:50:01 
-categories:  Science     
+date: 2014-06-20 17:50:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news322488229.html)
 
-id:     853 
+id:     853

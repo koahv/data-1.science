@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA completes MESSENGER mission with expected impact on Mercury's surface"
-date:  2015-05-01 10:50:01 
-categories:  Science     
+date: 2015-05-01 10:50:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news349679370.html)
 
-id:  117281 
+id:  117281

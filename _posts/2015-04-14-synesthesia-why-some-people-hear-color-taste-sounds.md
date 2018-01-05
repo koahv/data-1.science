@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Synesthesia: Why some people hear color, taste sounds"
-date:  2015-04-14 01:43:43 
-categories:  Science     
+date: 2015-04-14 01:43:43
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/VJIpcaSM2b8/150413214343.htm)
 
-id:  108830 
+id:  108830

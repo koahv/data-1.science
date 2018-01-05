@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Shape-shifting frog discovered in Ecuadorian Andes"
-date:  2015-03-23 04:00:00 
-categories:  Science     
+date: 2015-03-23 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/cwru-sfd032315.php)
 
-id:   99157 
+id:   99157

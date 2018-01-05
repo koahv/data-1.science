@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A new brain-computer interface for music composition"
-date:  2017-10-04 12:50:01 
-categories:  Science     
+date: 2017-10-04 12:50:01
+categories: Science
 author: unknown author
-tags:  engineering                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [engineering]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  engineering
 
 [Visit Link](https://phys.org/news/2017-10-brain-computer-interface-music-composition.html)
 
-id:  435024 
+id:  435024

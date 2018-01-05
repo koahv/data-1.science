@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists quantify the usefulness of 'quantum weirdness'"
-date:  2016-04-13 11:07:37 
-categories:  Science     
+date: 2016-04-13 11:07:37
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-04-physicists-quantify-quantum-weirdness.html)
 
-id:  273613 
+id:  273613

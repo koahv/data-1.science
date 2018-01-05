@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Drivers of temporal changes in temperate forest plant diversity"
-date:  2015-07-27 13:28:05 
-categories:  Science     
+date: 2015-07-27 13:28:05
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150727092805.htm)
 
-id:  161009 
+id:  161009

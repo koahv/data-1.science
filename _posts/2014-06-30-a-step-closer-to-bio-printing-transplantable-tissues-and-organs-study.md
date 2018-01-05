@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A step closer to bio-printing transplantable tissues and organs: Study"
-date:  2014-06-30 04:00:00 
-categories:  Technology  
+date: 2014-06-30 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/uos-asc062914.php)
 
-id:    9975 
+id:    9975

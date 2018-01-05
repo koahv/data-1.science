@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "UAB researchers develop a harmless artificial virus for gene therapy"
-date:  2015-04-08 04:00:00 
-categories:  Technology  
+date: 2015-04-08 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/uadb-urd040815.php)
 
-id:  106458 
+id:  106458

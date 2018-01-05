@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers developed single cell level sorting technology using sound waves"
-date:  2017-10-17 13:43:56 
-categories:  Science     
+date: 2017-10-17 13:43:56
+categories: Science
 author: unknown author
-tags:  analytical chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+tags: [analytical chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  analytical chemistry
 
 [Visit Link](https://phys.org/news/2017-10-cell-technology.html)
 
-id:  440112 
+id:  440112

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "James Webb Space Telescope backplane arrives at NASA Goddard for mirror assembly"
-date:  2015-08-26 22:02:19 
-categories:  Science     
+date: 2015-08-26 22:02:19
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-james-webb-space-telescope-backplane.html)
 
-id:  175228 
+id:  175228

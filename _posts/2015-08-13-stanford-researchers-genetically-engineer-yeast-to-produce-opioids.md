@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Stanford researchers genetically engineer yeast to produce opioids"
-date:  2015-08-13 04:00:00 
-categories:  Science     
+date: 2015-08-13 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/ssoe-srg080715.php)
 
-id:  169219 
+id:  169219

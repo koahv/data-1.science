@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Changes in a single gene's action can control addiction and depression-related behaviors"
-date:  2014-11-10 05:00:00 
-categories:  Science     
+date: 2014-11-10 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-11/tmsh-cia111014.php)
 
-id:   59265 
+id:   59265

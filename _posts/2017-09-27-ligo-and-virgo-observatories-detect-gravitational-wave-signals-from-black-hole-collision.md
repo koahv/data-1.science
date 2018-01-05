@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "LIGO and Virgo observatories detect gravitational wave signals from black hole collision"
-date:  2017-09-27 16:30:01 
-categories:  Science     
+date: 2017-09-27 16:30:01
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](https://phys.org/news/2017-09-ligo-virgo-observatories-black-hole.html)
 
-id:  433106 
+id:  433106

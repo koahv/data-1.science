@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How strong is gravity on other planets?"
-date:  2016-01-01 15:51:34 
-categories:  Science     
+date: 2016-01-01 15:51:34
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-01-strong-gravity-planets.html)
 
-id:  230882 
+id:  230882

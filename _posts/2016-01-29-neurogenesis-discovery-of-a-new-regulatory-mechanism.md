@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Neurogenesis -- discovery of a new regulatory mechanism"
-date:  2016-01-29 05:00:00 
-categories:  Technology  
+date: 2016-01-29 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/vfi-n-d012916.php)
 
-id:  243045 
+id:  243045

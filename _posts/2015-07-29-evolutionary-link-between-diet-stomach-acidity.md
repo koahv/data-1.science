@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolutionary link between diet, stomach acidity"
-date:  2015-07-29 19:51:41 
-categories:  Science     
+date: 2015-07-29 19:51:41
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150729155141.htm)
 
-id:  162463 
+id:  162463

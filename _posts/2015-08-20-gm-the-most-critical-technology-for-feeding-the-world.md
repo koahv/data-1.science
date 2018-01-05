@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "GM -- 'the most critical technology' for feeding the world"
-date:  2015-08-20 04:00:00 
-categories:  Science     
+date: 2015-08-20 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/bc-g-081915.php)
 
-id:  172507 
+id:  172507

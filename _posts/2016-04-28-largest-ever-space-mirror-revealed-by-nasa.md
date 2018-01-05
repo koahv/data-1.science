@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Largest Ever Space Mirror Revealed by NASA"
-date:  2016-04-28 20:23:04 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-28 20:23:04
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/04/largest-ever-space-mirror-revealed-nasa)
 
-id:  279451 
+id:  279451

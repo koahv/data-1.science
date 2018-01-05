@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fruit flies crucial to basic research"
-date:  2015-03-30 14:00:02 
-categories:  Science     
+date: 2015-03-30 14:00:02
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news346924687.html)
 
-id:  102267 
+id:  102267

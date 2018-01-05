@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Genetic basis of color diversity in coral reefs discovered"
-date:  2015-01-30 00:00:07 
-categories:  Science     
+date: 2015-01-30 00:00:07
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news341775678.html)
 
-id:   77396 
+id:   77396

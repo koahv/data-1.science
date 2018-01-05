@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Planet Saturn"
-date:  2015-08-03 11:56:44 
-categories:  Science     
+date: 2015-08-03 11:56:44
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-planet-saturn.html)
 
-id:  163926 
+id:  163926

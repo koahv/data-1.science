@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A world map of Neanderthal and Denisovan ancestry in modern humans"
-date:  2016-03-28 16:00:01 
-categories:  Science     
+date: 2016-03-28 16:00:01
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2016-03-world-neanderthal-denisovan-ancestry-modern.html)
 
-id:  267197 
+id:  267197

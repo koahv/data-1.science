@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos of the Day: Astronauts Enter World's First Inflatable Space Habitat"
-date:  2016-06-06 19:40:54 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-06-06 19:40:54
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/06/photos-day-astronauts-enter-worlds-first-inflatable-space-habitat)
 
-id:  292102 
+id:  292102

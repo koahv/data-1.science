@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "In CRISPR advance, scientists successfully edit human T cells"
-date:  2015-07-27 19:37:27 
-categories:  Science     
+date: 2015-07-27 19:37:27
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150727153727.htm)
 
-id:  161236 
+id:  161236

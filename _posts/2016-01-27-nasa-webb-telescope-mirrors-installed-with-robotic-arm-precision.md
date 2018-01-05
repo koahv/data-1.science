@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Webb Telescope mirrors installed with robotic arm precision"
-date:  2016-01-27 05:00:00 
-categories:  Astronomy   
+date: 2016-01-27 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/nsfc-nwt012716.php)
 
-id:  242098 
+id:  242098

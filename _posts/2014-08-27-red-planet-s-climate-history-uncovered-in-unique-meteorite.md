@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Red Planet's Climate History uncovered in Unique Meteorite"
-date:  2014-08-27 17:15:53 
-categories:  Science     
+date: 2014-08-27 17:15:53
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/c0df7NFlZXk/140827131553.htm)
 
-id:   47013 
+id:   47013

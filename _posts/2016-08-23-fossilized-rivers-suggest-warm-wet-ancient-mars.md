@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fossilized rivers suggest warm, wet ancient Mars"
-date:  2016-08-23 04:00:00 
-categories:  Astronomy   
+date: 2016-08-23 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/ucl-frs082316.php)
 
-id:  316908 
+id:  316908

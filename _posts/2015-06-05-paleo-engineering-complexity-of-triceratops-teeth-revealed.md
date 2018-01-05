@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Paleo-engineering: Complexity of triceratops' teeth revealed"
-date:  2015-06-05 22:19:35 
-categories:  Science     
+date: 2015-06-05 22:19:35
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150605181935.htm)
 
-id:  134848 
+id:  134848

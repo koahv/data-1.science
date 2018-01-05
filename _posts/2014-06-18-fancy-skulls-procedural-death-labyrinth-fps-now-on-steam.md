@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fancy Skulls Procedural Death Labyrinth FPS Now On Steam"
-date:  2014-06-18 13:43:15 
-categories:  Linux VG    
+date: 2014-06-18 13:43:15
+categories: Linux VG
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.gamingonlinux.com/articles/fancy-skulls-procedural-death-labyrinth-fps-now-on-steam.3919/)
 
-id:    1340 
+id:    1340

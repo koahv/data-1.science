@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why does the Milky Way rotate?"
-date:  2015-02-11 15:00:01 
-categories:  Science     
+date: 2015-02-11 15:00:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news342866992.html)
 
-id:   81597 
+id:   81597

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Star with different internal driving force than the sun"
-date:  2016-05-04 04:00:00 
-categories:  Astronomy   
+date: 2016-05-04 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/uoc--swd050316.php)
 
-id:  281181 
+id:  281181

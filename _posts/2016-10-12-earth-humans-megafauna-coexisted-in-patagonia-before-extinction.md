@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "EARTH: Humans, megafauna coexisted in Patagonia before extinction"
-date:  2016-10-12 04:00:00 
-categories:  Science     
+date: 2016-10-12 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/agi-ehm101216.php)
 
-id:  331634 
+id:  331634

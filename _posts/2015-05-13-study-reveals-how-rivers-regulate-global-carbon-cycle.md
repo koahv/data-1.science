@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study reveals how rivers regulate global carbon cycle"
-date:  2015-05-13 17:00:05 
-categories:  Science     
+date: 2015-05-13 17:00:05
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news350739650.html)
 
-id:  122713 
+id:  122713

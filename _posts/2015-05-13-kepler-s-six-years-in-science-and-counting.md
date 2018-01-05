@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Kepler's six years in science (and counting)"
-date:  2015-05-13 10:38:15 
-categories:  Science     
+date: 2015-05-13 10:38:15
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news350717883.html)
 
-id:  122481 
+id:  122481

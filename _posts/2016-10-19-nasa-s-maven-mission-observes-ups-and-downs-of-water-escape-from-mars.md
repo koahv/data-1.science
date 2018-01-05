@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's MAVEN mission observes ups and downs of water escape from Mars"
-date:  2016-10-19 04:00:00 
-categories:  Astronomy   
+date: 2016-10-19 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/nsfc-nmm101916.php)
 
-id:  333533 
+id:  333533

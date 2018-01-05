@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Astronauts board space station for one-year mission (Update)"
-date:  2015-03-27 21:45:48 
-categories:  Science     
+date: 2015-03-27 21:45:48
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news346697135.html)
 
-id:  101696 
+id:  101696

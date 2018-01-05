@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The discovery of Majorana fermion"
-date:  2017-03-17 04:00:00 
-categories:  Science     
+date: 2017-03-17 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/scp-tdo031717.php)
 
-id:  375210 
+id:  375210

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Some tropical plants pick the best hummingbirds to pollinate flowers"
-date:  2015-03-03 14:58:42 
-categories:  Science     
+date: 2015-03-03 14:58:42
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/XRocxno46V0/150303095842.htm)
 
-id:   90059 
+id:   90059

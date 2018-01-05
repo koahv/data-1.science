@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Stem cell advance brings bioengineered arteries closer to reality"
-date:  2017-07-10 04:00:00 
-categories:  Technology  
+date: 2017-07-10 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/mifr-sca070617.php)
 
-id:  408466 
+id:  408466

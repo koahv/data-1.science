@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "3,000 atoms entangled with a single photon"
-date:  2015-03-25 18:00:03 
-categories:  Science     
+date: 2015-03-25 18:00:03
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news346488175.html)
 
-id:  100392 
+id:  100392

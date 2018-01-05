@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos of the Day: First Public, Super-Speed Hyperloop Test"
-date:  2016-05-12 20:24:45 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-05-12 20:24:45
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/05/photos-day-first-public-super-speed-hyperloop-test)
 
-id:  284181 
+id:  284181

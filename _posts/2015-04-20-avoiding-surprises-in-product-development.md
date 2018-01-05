@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Avoiding Surprises in Product Development"
-date:  2015-04-20 14:02:25 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-04-20 14:02:25
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/articles/2015/04/avoiding-surprises-product-development)
 
-id:  111559 
+id:  111559

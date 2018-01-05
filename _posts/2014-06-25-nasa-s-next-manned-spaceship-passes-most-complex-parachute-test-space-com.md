@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Next Manned Spaceship Passes 'Most Complex' Parachute Test - Space.com"
-date:  2014-06-25 22:19:41 
-categories:  Astronomy   
+date: 2014-06-25 22:19:41
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEMMRX_sb8v4lhkDPnPajzryBoR1g&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778543234910&ei=gFmrU9CABcKBgQfk6ICwCQ&url=http://www.space.com/26358-nasa-orion-spacecraft-parachute-test.html)
 
-id:    6939 
+id:    6939

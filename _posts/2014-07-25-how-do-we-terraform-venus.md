@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How do we terraform Venus?"
-date:  2014-07-25 14:30:02 
-categories:  Science     
+date: 2014-07-25 14:30:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news325497132.html)
 
-id:   28202 
+id:   28202

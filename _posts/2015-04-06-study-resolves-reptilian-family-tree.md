@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study resolves reptilian family tree"
-date:  2015-04-06 10:17:10 
-categories:  Science     
+date: 2015-04-06 10:17:10
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news347519818.html)
 
-id:  105145 
+id:  105145

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The future of search engines"
-date:  2017-08-03 04:00:00 
-categories:  Technology  
+date: 2017-08-03 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/uota-tfo080217.php)
 
-id:  416092 
+id:  416092

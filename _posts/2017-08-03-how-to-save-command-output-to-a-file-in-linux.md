@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to Save Command Output to a File in Linux"
-date:  2017-08-03 06:47:53 
-categories:  Linux       
-author:  Aaron Kili                                                    
-tags:  linux commands,linux tricks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+date: 2017-08-03 06:47:53
+categories: Linux
+author: Aaron Kili
+tags: [linux commands, linux tricks]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands,linux tricks
 
 [Visit Link](https://www.tecmint.com/save-command-output-to-a-file-in-linux/)
 
-id:  415800 
+id:  415800

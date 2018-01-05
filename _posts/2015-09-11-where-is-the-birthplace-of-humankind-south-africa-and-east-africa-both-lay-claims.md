@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Where Is the Birthplace of Humankind? South Africa and East Africa Both Lay Claims"
-date:  2015-09-11 17:27:31 
-categories:  Science     
-author:  Evan Hadingham                                                
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-09-11 17:27:31
+categories: Science
+author: Evan Hadingham
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.nationalgeographic.com/2015/09/150911-hominin-hominid-berger-homo-naledi-fossils-ancestor-rising-star-human-origins/)
 
-id:  183971 
+id:  183971

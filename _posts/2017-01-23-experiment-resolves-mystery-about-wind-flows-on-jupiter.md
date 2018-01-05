@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Experiment resolves mystery about wind flows on Jupiter"
-date:  2017-01-23 05:00:00 
-categories:  Astronomy   
+date: 2017-01-23 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/uoc--erm012017.php)
 
-id:  359159 
+id:  359159

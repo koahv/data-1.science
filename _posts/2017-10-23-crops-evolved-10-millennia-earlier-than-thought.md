@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Crops evolved 10 millennia earlier than thought"
-date:  2017-10-23 12:53:58 
-categories:  Science     
+date: 2017-10-23 12:53:58
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-10-crops-evolved-millennia-earlier-thought.html)
 
-id:  443238 
+id:  443238

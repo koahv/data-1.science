@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Counting lines of code with cloc"
-date:  2014-07-16 18:00:00 
-categories:  Linux       
+date: 2014-07-16 18:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/it_management/counting-lines-of-code-with-cloc.html)
 
-id:   21701 
+id:   21701

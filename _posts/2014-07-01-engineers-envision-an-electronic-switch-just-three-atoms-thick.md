@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Engineers envision an electronic switch just three atoms thick"
-date:  2014-07-01 09:00:02 
-categories:  Science     
+date: 2014-07-01 09:00:02
+categories: Science
 author: unknown author
-tags:  nanotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [nanotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanotechnology
 
 [Visit Link](http://phys.org/news323366944.html)
 
-id:   10687 
+id:   10687

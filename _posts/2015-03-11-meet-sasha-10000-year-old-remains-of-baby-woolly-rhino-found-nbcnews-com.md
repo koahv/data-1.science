@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Meet Sasha: 10000-Year-Old Remains of Baby Woolly Rhino Found - NBCNews.com"
-date:  2015-03-11 20:27:26 
-categories:  Earth       
+date: 2015-03-11 20:27:26
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNE5YfGoRz3xgmxsA46qyeZJ4EOddQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778767337516&ei=kAEBVbiFBqW_3AHgj4G4Dw&url=http://www.nbcnews.com/science/science-news/10-000-year-old-remains-extinct-woolly-rhino-baby-discovered-n321671)
 
-id:   94202 
+id:   94202

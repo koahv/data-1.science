@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Studying bumblebees to learn more about human intelligence and memory"
-date:  2017-10-04 12:30:02 
-categories:  Science     
+date: 2017-10-04 12:30:02
+categories: Science
 author: unknown author
-tags:  plants & animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [plants & animals]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plants & animals
 
 [Visit Link](https://phys.org/news/2017-10-bumblebees-human-intelligence-memory.html)
 
-id:  435029 
+id:  435029

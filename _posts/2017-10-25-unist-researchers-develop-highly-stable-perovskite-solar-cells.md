@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "UNIST researchers develop highly stable perovskite solar cells"
-date:  2017-10-25 04:00:00 
-categories:  Science     
+date: 2017-10-25 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/unio-urd102517.php)
 
-id:  444573 
+id:  444573

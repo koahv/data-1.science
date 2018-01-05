@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Vitamin B2 (Riboflavin): Sources, Benefits and Dosage"
-date:  2015-08-25 04:38:07 
-categories:  Science     
+date: 2015-08-25 04:38:07
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51966-vitamin-b2-riboflavin.html)
 
-id:  173977 
+id:  173977

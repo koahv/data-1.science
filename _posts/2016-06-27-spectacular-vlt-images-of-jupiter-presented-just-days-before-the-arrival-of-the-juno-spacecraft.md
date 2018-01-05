@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Spectacular VLT images of Jupiter presented just days before the arrival of the Juno spacecraft"
-date:  2016-06-27 10:12:22 
-categories:  Science     
+date: 2016-06-27 10:12:22
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-06-spectacular-vlt-images-jupiter-days.html)
 
-id:  298944 
+id:  298944

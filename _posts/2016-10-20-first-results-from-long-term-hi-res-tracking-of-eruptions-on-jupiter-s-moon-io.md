@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First results from long-term, hi-res tracking of eruptions on Jupiter's moon Io"
-date:  2016-10-20 04:00:00 
-categories:  Astronomy   
+date: 2016-10-20 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/uoc--frf101716.php)
 
-id:  334067 
+id:  334067

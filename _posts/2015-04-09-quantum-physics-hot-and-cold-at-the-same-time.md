@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum physics: Hot and cold at the same time"
-date:  2015-04-09 18:30:37 
-categories:  Science     
+date: 2015-04-09 18:30:37
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/r2CcwrJyqYg/150409143037.htm)
 
-id:  107297 
+id:  107297

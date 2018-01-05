@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Growing skin in the lab"
-date:  2016-04-01 04:00:00 
-categories:  Technology  
+date: 2016-04-01 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/r-gsi033016.php)
 
-id:  269214 
+id:  269214

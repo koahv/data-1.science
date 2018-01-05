@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mammal diversity exploded immediately after dinosaur extinction"
-date:  2015-12-22 00:00:01 
-categories:  Science     
+date: 2015-12-22 00:00:01
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-12-mammal-diversity-immediately-dinosaur-extinction.html)
 
-id:  227941 
+id:  227941

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Toward 'greener,' inexpensive solar cells"
-date:  2016-10-07 04:00:00 
-categories:  Science     
+date: 2016-10-07 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/acs-ti100716.php)
 
-id:  330365 
+id:  330365

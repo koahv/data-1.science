@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Experimental 36-core chip unveiled"
-date:  2014-06-23 16:10:02 
-categories:  Science     
+date: 2014-06-23 16:10:02
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/ahgZFLMTVYo/140623121002.htm)
 
-id:    4852 
+id:    4852

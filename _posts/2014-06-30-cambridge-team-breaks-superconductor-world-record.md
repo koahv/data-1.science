@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cambridge Team Breaks Superconductor World Record"
-date:  2014-06-30 14:25:00 
-categories:  World       
-author:  samzenpus                                                     
-tags:  uk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+date: 2014-06-30 14:25:00
+categories: World
+author: samzenpus
+tags: [uk]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  uk
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/WtNCAzNKZI4/story01.htm)
 
-id:   10029 
+id:   10029

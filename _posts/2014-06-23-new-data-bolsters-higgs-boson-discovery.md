@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New data bolsters Higgs boson discovery"
-date:  2014-06-23 15:31:59 
-categories:  Science     
+date: 2014-06-23 15:31:59
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news322741906.html)
 
-id:    3163 
+id:    3163

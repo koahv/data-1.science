@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Unique feeding mechanism among marine reptiles from the age of dinosaurs"
-date:  2015-10-22 11:50:03 
-categories:  Science     
+date: 2015-10-22 11:50:03
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-10-unique-mechanism-marine-reptiles-age.html)
 
-id:  201206 
+id:  201206

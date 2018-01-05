@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Explainer: What is microgravity?"
-date:  2016-04-27 12:40:07 
-categories:  Science     
+date: 2016-04-27 12:40:07
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-04-microgravity.html)
 
-id:  278691 
+id:  278691

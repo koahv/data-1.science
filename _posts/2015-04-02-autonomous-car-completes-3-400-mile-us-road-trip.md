@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Autonomous car completes 3,400-mile US road trip"
-date:  2015-04-02 20:39:02 
-categories:  Science     
+date: 2015-04-02 20:39:02
+categories: Science
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://phys.org/news347211535.html)
 
-id:  104353 
+id:  104353

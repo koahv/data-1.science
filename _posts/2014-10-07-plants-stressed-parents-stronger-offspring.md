@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Plants: Stressed parents, stronger offspring"
-date:  2014-10-07 13:22:52 
-categories:  Science     
+date: 2014-10-07 13:22:52
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/5j8etgTWl0k/141007092252.htm)
 
-id:   54153 
+id:   54153

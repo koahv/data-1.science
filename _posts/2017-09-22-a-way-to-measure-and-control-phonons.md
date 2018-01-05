@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A way to measure and control phonons"
-date:  2017-09-22 12:50:02 
-categories:  Science     
+date: 2017-09-22 12:50:02
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-09-phonons.html)
 
-id:  431686 
+id:  431686

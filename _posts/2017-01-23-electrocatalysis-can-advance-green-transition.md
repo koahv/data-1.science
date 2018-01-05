@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Electrocatalysis can advance green transition"
-date:  2017-01-23 14:07:49 
-categories:  Science     
+date: 2017-01-23 14:07:49
+categories: Science
 author: unknown author
-tags:  materials science                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [materials science]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  materials science
 
 [Visit Link](https://phys.org/news/2017-01-electrocatalysis-advance-green-transition.html)
 
-id:  359061 
+id:  359061

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "In Photos: The World's Most Efficient Pollinators"
-date:  2015-07-09 18:01:48 
-categories:  Science     
+date: 2015-07-09 18:01:48
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51488-photos-worlds-best-pollinators.html)
 
-id:  152271 
+id:  152271

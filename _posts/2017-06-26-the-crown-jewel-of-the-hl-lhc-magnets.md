@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The crown jewel of the HL-LHC magnets"
-date:  2017-06-26 11:38:01 
-categories:  Science     
+date: 2017-06-26 11:38:01
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-06-crown-jewel-hl-lhc-magnets.html)
 
-id:  404159 
+id:  404159

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dark energy measured with record-breaking map of 1.2 million galaxies"
-date:  2016-07-14 04:00:00 
-categories:  Science     
+date: 2016-07-14 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/dbnl-dem071416.php)
 
-id:  304730 
+id:  304730

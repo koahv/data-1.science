@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ATLAS Experiment searches for new symmetries of nature"
-date:  2017-04-11 09:25:07 
-categories:  Science     
+date: 2017-04-11 09:25:07
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-04-atlas-symmetries-nature.html)
 
-id:  382385 
+id:  382385

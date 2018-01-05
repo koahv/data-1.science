@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World's first genetic modification of human embryos reported: Experts consider ethics"
-date:  2015-04-24 16:23:12 
-categories:  Science     
+date: 2015-04-24 16:23:12
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/o4PtewFhkl8/150424122312.htm)
 
-id:  114192 
+id:  114192

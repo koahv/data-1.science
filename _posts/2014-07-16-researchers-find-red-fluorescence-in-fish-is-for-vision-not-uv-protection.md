@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers find red fluorescence in fish is for vision not UV protection"
-date:  2014-07-16 10:37:57 
-categories:  Science     
+date: 2014-07-16 10:37:57
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news324711414.html)
 
-id:   21112 
+id:   21112

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What is DevOps? An executive guide to agile development and IT operations"
-date:  2017-10-10 23:41:54 
-categories:  Linux       
+date: 2017-10-10 23:41:54
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.zdnet.com/article/what-is-devops-an-executive-guide-to-agile-development-and-it-operations/#ftag=RSSbaffb68)
 
-id:  437393 
+id:  437393

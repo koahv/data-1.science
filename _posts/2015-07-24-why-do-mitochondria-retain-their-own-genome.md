@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why do mitochondria retain their own genome?"
-date:  2015-07-24 14:30:02 
-categories:  Science     
+date: 2015-07-24 14:30:02
+categories: Science
 author: unknown author
-tags:  cell & microbiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [cell & microbiology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cell & microbiology
 
 [Visit Link](http://phys.org/news/2015-07-mitochondria-retain-genome.html)
 
-id:  160150 
+id:  160150

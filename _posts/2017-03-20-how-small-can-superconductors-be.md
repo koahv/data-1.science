@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How small can superconductors be?"
-date:  2017-03-20 13:30:01 
-categories:  Science     
+date: 2017-03-20 13:30:01
+categories: Science
 author: unknown author
-tags:  superconductivity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [superconductivity]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  superconductivity
 
 [Visit Link](https://phys.org/news/2017-03-small-superconductors.html)
 
-id:  375573 
+id:  375573

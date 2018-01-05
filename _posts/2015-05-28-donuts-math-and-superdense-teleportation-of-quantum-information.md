@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Donuts, math, and superdense teleportation of quantum information"
-date:  2015-05-28 16:45:19 
-categories:  Science     
+date: 2015-05-28 16:45:19
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/FZ_4DdZTggw/150528124519.htm)
 
-id:  130211 
+id:  130211

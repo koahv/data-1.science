@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers store computer operating system and short movie on DNA"
-date:  2017-03-02 19:00:05 
-categories:  Science     
+date: 2017-03-02 19:00:05
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-03-short-movie-dna.html)
 
-id:  370673 
+id:  370673

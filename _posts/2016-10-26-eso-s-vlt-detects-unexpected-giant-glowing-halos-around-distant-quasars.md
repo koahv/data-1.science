@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ESO's VLT detects unexpected giant glowing halos around distant quasars"
-date:  2016-10-26 04:00:00 
-categories:  Astronomy   
+date: 2016-10-26 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/e-evd102416.php)
 
-id:  335374 
+id:  335374

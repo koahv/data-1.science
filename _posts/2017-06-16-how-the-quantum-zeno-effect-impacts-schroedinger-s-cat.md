@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How the quantum Zeno effect impacts Schroedinger's cat"
-date:  2017-06-16 12:28:51 
-categories:  Science     
+date: 2017-06-16 12:28:51
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-06-quantum-zeno-effect-impacts-schroedinger.html)
 
-id:  401760 
+id:  401760

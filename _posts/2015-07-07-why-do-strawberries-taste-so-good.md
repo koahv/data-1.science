@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why do strawberries taste so good?"
-date:  2015-07-07 12:40:02 
-categories:  Science     
+date: 2015-07-07 12:40:02
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news355475951.html)
 
-id:  150659 
+id:  150659

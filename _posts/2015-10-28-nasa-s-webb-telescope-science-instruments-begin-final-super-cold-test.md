@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Webb Telescope science instruments begin final super cold test"
-date:  2015-10-28 04:00:00 
-categories:  Technology  
+date: 2015-10-28 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/nsfc-nwt102815.php)
 
-id:  204023 
+id:  204023

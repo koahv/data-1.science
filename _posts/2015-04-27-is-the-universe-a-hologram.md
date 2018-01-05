@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Is the universe a hologram?"
-date:  2015-04-27 14:16:33 
-categories:  Science     
+date: 2015-04-27 14:16:33
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/9w8DcrslULE/150427101633.htm)
 
-id:  114928 
+id:  114928

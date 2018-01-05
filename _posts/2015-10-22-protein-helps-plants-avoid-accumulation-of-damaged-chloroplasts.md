@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Protein helps plants avoid accumulation of damaged chloroplasts"
-date:  2015-10-22 04:00:00 
-categories:  Science     
+date: 2015-10-22 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/aaft-php101915.php)
 
-id:  201431 
+id:  201431

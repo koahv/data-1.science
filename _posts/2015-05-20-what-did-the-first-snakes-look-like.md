@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "What did the first snakes look like?"
-date:  2015-05-20 01:02:53 
-categories:  Science     
+date: 2015-05-20 00:00:01
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [biology]
 ---
 
 
 #### Extract
->The original snake ancestor was a nocturnal, stealth-hunting predator that had tiny hindlimbs with ankles and toes, according to new research. Snakes show incredible diversity, with over 3,400 living species found in a wide range of habitats, such as land, water and in trees. But little is known about where and when they evolved, and how their original ancestor looked and behaved.
+>The ancestral snakes in the grass actually lived in the forest, according to the most detailed look yet at the iconic reptiles.
 
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/c2BWoEB99iM/150519210253.htm)
+[Visit Link](http://phys.org/news351261014.html)
 
-id:  125782 
+id:  125737

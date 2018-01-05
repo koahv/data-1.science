@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brain protein influences how the brain manages stress; suggests new model of depression"
-date:  2014-11-12 05:00:00 
-categories:  Science     
+date: 2014-11-12 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-11/tmsh-bpi111214.php)
 
-id:   61520 
+id:   61520

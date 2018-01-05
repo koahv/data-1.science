@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to compare and merge text files on Linux"
-date:  2015-08-03 17:38:23 
-categories:  Linux       
+date: 2015-08-03 17:38:23
+categories: Linux
 author: unknown author
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=217525)
 
-id:  164022 
+id:  164022

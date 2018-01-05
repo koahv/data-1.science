@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A lesson from wheat evolution: From the wild to our spaghetti dish"
-date:  2016-04-05 21:00:04 
-categories:  Science     
+date: 2016-04-05 21:00:04
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](http://phys.org/news/2016-04-lesson-wheat-evolution-wild-spaghetti.html)
 
-id:  270772 
+id:  270772

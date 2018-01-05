@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers put mouse gene in cattle to make them less susceptible to TB"
-date:  2015-03-05 14:50:01 
-categories:  Science     
+date: 2015-03-05 14:50:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news344769616.html)
 
-id:   91269 
+id:   91269

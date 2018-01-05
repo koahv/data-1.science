@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Engineers develop a new biosensor chip for detecting DNA mutations"
-date:  2016-06-14 10:58:22 
-categories:  Science     
+date: 2016-06-14 10:58:22
+categories: Science
 author: unknown author
-tags:  bio & medicine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [bio & medicine]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  bio & medicine
 
 [Visit Link](http://phys.org/news/2016-06-biosensor-chip-dna-mutations.html)
 
-id:  294611 
+id:  294611

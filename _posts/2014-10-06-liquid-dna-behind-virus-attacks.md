@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Liquid DNA behind virus attacks"
-date:  2014-10-06 04:00:00 
-categories:  Science     
+date: 2014-10-06 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-10/lu-ldb100614.php)
 
-id:   53094 
+id:   53094

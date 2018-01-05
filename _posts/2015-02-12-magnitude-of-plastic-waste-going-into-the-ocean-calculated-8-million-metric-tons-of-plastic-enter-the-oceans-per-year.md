@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Magnitude of plastic waste going into the ocean calculated: 8 million metric tons of plastic enter the oceans per year"
-date:  2015-02-12 20:44:22 
-categories:  Science     
+date: 2015-02-12 20:44:22
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/HjgAdswu0zQ/150212154422.htm)
 
-id:   82448 
+id:   82448

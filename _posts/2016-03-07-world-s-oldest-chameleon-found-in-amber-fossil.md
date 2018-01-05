@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World's oldest chameleon found in amber fossil"
-date:  2016-03-07 11:48:26 
-categories:  Science     
+date: 2016-03-07 11:48:26
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2016-03-world-oldest-chameleon-amber-fossil.html)
 
-id:  259266 
+id:  259266

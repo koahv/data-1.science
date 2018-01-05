@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Types of athletic training affect how brain communicates with muscles"
-date:  2015-09-18 04:00:00 
-categories:  Science     
+date: 2015-09-18 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uok-toa091815.php)
 
-id:  186487 
+id:  186487

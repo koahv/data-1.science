@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why comets are like deep fried ice cream"
-date:  2015-02-11 14:08:12 
-categories:  Science     
+date: 2015-02-11 14:08:12
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/ZHRruKeTaKo/150211090812.htm)
 
-id:   81557 
+id:   81557

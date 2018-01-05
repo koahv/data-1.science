@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Video: Dark matter hunt with LUX-ZEPLIN"
-date:  2017-08-15 14:40:04 
-categories:  Science     
+date: 2017-08-15 14:40:04
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-08-video-dark-lux-zeplin.html)
 
-id:  419362 
+id:  419362

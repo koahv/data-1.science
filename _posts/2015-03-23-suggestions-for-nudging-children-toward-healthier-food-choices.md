@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Suggestions for Nudging Children toward Healthier Food Choices"
-date:  2015-03-23 15:16:44 
-categories:  Science     
+date: 2015-03-23 15:16:44
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Gj2mAx9gwLc/150323111644.htm)
 
-id:   99231 
+id:   99231

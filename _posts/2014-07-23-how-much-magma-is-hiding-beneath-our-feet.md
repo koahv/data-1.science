@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How much magma is hiding beneath our feet?"
-date:  2014-07-23 04:00:00 
-categories:  Science     
+date: 2014-07-23 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/udg-hmm071714.php)
 
-id:   26500 
+id:   26500

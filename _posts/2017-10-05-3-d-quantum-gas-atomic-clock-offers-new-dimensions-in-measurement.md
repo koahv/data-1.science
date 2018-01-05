@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "3-D quantum gas atomic clock offers new dimensions in measurement"
-date:  2017-10-05 18:00:05 
-categories:  Science     
+date: 2017-10-05 18:00:05
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-10-d-quantum-gas-atomic-clock.html)
 
-id:  435683 
+id:  435683

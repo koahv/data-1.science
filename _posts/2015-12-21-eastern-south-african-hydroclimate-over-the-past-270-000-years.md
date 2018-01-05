@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Eastern South African hydroclimate over the past 270,000 years"
-date:  2015-12-21 00:00:00 
-categories:  Science     
-author:  Margit H. Simon                                               
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-12-21 00:00:00
+categories: Science
+author: Margit H. Simon
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.nature.com/articles/srep18153)
 
-id:  227603 
+id:  227603

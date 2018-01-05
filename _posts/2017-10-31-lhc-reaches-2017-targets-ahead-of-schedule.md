@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "LHC reaches 2017 targets ahead of schedule"
-date:  2017-10-31 14:20:02 
-categories:  Science     
+date: 2017-10-31 14:20:02
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-10-lhc.html)
 
-id:  447154 
+id:  447154

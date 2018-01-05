@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Swirling ammonia lies below Jupiter's thick clouds"
-date:  2016-06-02 04:00:00 
-categories:  Astronomy   
+date: 2016-06-02 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/aaft-sal053116.php)
 
-id:  291057 
+id:  291057

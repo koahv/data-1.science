@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Shubhendu Sharma: How to grow a tiny forest anywhere"
-date:  2014-09-04 15:22:26 
-categories:  Interest    
-author:  Shubhendu Sharma                                              
-tags:  higher education                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+date: 2014-09-04 15:22:26
+categories: Interest
+author: Shubhendu Sharma
+tags: [higher education]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  higher education
 
 [Visit Link](http://feedproxy.google.com/~r/TEDTalks_video/~3/qwcjYCYVBGc/shubhendu_sharma_how_to_grow_a_tiny_forest_anywhere)
 
-id:   49278 
+id:   49278

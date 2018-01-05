@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Construction to begin in Hawaii on world's most advanced telescope"
-date:  2014-08-05 04:00:00 
-categories:  Astronomy   
+date: 2014-08-05 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/uoc--ctb080514.php)
 
-id:   33191 
+id:   33191

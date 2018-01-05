@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "It's go time for LUX-Zeplin dark matter experiment"
-date:  2014-07-18 04:00:00 
-categories:  Science     
+date: 2014-07-18 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/yu-igt071814.php)
 
-id:   23374 
+id:   23374

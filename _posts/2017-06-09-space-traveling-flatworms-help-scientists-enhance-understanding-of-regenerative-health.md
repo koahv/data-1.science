@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Space-traveling flatworms help scientists enhance understanding of regenerative health"
-date:  2017-06-09 04:00:00 
-categories:  Technology  
+date: 2017-06-09 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-06/tu-sfh060917.php)
 
-id:  399698 
+id:  399698

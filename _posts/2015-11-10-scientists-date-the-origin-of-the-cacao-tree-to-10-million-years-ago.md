@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists date the origin of the cacao tree to 10 million years ago"
-date:  2015-11-10 05:00:00 
-categories:  Science     
+date: 2015-11-10 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-11/f-sdt110515.php)
 
-id:  209644 
+id:  209644

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Five ways quantum computing will change the way we think about computing"
-date:  2017-05-08 10:30:01 
-categories:  Science     
+date: 2017-05-08 10:30:01
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-05-ways-quantum.html)
 
-id:  390527 
+id:  390527

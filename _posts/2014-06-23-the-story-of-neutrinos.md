@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The story of neutrinos"
-date:  2014-06-23 12:36:29 
-categories:  Science     
+date: 2014-06-23 12:36:29
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/_OE4_FS0JYg/the-story-of-neutrinos)
 
-id:    3634 
+id:    3634

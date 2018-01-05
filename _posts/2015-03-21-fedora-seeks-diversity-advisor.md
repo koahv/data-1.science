@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fedora Seeks Diversity Advisor"
-date:  2015-03-21 02:00:00 
-categories:  Linux       
+date: 2015-03-21 02:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/upload/fedora-seeks-diversity-advisor-150320111010.html)
 
-id:   98599 
+id:   98599

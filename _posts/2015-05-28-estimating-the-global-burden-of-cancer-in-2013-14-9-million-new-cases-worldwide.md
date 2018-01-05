@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Estimating the global burden of cancer in 2013; 14.9 million new cases worldwide"
-date:  2015-05-28 16:44:05 
-categories:  Science     
+date: 2015-05-28 16:44:05
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/YivaaDEz7dM/150528124405.htm)
 
-id:  130217 
+id:  130217

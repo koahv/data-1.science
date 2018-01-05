@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA image: Flying over an aurora"
-date:  2015-06-24 10:23:35 
-categories:  Science     
+date: 2015-06-24 10:23:35
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news354345808.html)
 
-id:  144435 
+id:  144435

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers use supercomputers to study snake evolution, unique traits"
-date:  2017-06-22 16:13:16 
-categories:  Science     
+date: 2017-06-22 16:13:16
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-06-supercomputers-snake-evolution-unique-traits.html)
 
-id:  403500 
+id:  403500

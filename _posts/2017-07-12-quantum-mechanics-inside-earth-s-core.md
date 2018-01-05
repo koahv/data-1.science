@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum mechanics inside Earth's core"
-date:  2017-07-12 13:27:01 
-categories:  Science     
+date: 2017-07-12 13:27:01
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](https://phys.org/news/2017-07-quantum-mechanics-earth-core.html)
 
-id:  409054 
+id:  409054

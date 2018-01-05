@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Damage-free structure of photosystem II and the synthesis of model compounds for water-oxidation"
-date:  2015-09-24 10:40:01 
-categories:  Science     
+date: 2015-09-24 10:40:01
+categories: Science
 author: unknown author
-tags:  materials science                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [materials science]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  materials science
 
 [Visit Link](http://phys.org/news/2015-09-damage-free-photosystem-ii-synthesis-compounds.html)
 
-id:  188850 
+id:  188850

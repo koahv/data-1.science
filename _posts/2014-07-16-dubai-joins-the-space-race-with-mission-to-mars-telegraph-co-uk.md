@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dubai joins the space race with mission to Mars - Telegraph.co.uk"
-date:  2014-07-16 15:46:56 
-categories:  Astronomy   
+date: 2014-07-16 15:46:56
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHfD_vWiAEnsbrRqej66JFuuKyWHA&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=AzXHU9GvH8nqgAezqoDwCQ&url=http://www.telegraph.co.uk/news/worldnews/middleeast/unitedarabemirates/10971580/Dubai-joins-the-space-race-with-mission-to-Mars.html)
 
-id:   21929 
+id:   21929

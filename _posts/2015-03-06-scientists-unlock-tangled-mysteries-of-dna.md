@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists unlock tangled mysteries of DNA"
-date:  2015-03-06 16:14:18 
-categories:  Science     
+date: 2015-03-06 16:14:18
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news344862849.html)
 
-id:   91953 
+id:   91953

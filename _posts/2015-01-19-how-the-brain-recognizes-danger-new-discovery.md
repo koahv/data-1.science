@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How the brain recognizes danger: New discovery"
-date:  2015-01-19 17:45:18 
-categories:  Science     
+date: 2015-01-19 17:45:18
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/CPQsLwWYBLY/150119124518.htm)
 
-id:   72562 
+id:   72562

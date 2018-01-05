@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Spectacular discovery' of how memories are formed and learning takes place"
-date:  2015-07-01 04:00:00 
-categories:  Technology  
+date: 2015-07-01 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/uol-do062615.php)
 
-id:  148377 
+id:  148377

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "CO2-neutral hydrogen from biomass"
-date:  2017-07-07 11:52:52 
-categories:  Science     
+date: 2017-07-07 11:52:52
+categories: Science
 author: unknown author
-tags:  materials science                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [materials science]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  materials science
 
 [Visit Link](https://phys.org/news/2017-07-co2-neutral-hydrogen-biomass.html)
 
-id:  407585 
+id:  407585

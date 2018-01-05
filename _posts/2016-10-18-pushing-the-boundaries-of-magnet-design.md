@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pushing the boundaries of magnet design"
-date:  2016-10-18 04:00:00 
-categories:  Science     
+date: 2016-10-18 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/s-ptb101816.php)
 
-id:  333231 
+id:  333231

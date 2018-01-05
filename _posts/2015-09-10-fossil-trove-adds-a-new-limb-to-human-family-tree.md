@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fossil trove adds a new limb to human family tree"
-date:  2015-09-10 04:00:00 
-categories:  Science     
+date: 2015-09-10 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uow-fta091015.php)
 
-id:  182463 
+id:  182463

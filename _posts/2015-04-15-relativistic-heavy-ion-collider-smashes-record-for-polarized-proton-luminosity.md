@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Relativistic Heavy Ion Collider smashes record for polarized proton luminosity"
-date:  2015-04-15 01:25:27 
-categories:  Science     
+date: 2015-04-15 01:25:27
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/2aLr8EUsUx0/150414212527.htm)
 
-id:  109392 
+id:  109392

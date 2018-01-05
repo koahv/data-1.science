@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Exogenous microRNAs in maternal food pass through placenta, regulate fetal gene expression"
-date:  2015-05-12 16:00:02 
-categories:  Science     
+date: 2015-05-12 16:00:02
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news350647882.html)
 
-id:  122028 
+id:  122028

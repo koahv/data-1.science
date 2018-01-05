@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists introduce new cosmic connectivity: Quantum pigeonhole paradox"
-date:  2014-08-05 17:25:26 
-categories:  Science     
+date: 2014-08-05 17:25:26
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/GP0Lmh3_jAU/140805132526.htm)
 
-id:   32667 
+id:   32667

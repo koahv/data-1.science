@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Machine learning approach could aid the design of industrial processes for drug manufacturing"
-date:  2017-06-27 10:09:50 
-categories:  Science     
+date: 2017-06-27 10:09:50
+categories: Science
 author: unknown author
-tags:  materials science                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [materials science]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  materials science
 
 [Visit Link](https://phys.org/news/2017-06-machine-approach-aid-industrial-drug.html)
 
-id:  404545 
+id:  404545

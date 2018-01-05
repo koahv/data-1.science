@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Theory of the strong interaction verified: Supercomputer calculates mass difference between neutron and proton"
-date:  2015-03-26 19:16:07 
-categories:  Science     
+date: 2015-03-26 19:16:07
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/KvSyT08oPOA/150326151607.htm)
 
-id:  101154 
+id:  101154

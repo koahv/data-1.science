@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Crab and other crustacean shells may help prevent and treat inflammatory disease"
-date:  2014-06-24 04:00:00 
-categories:  Science     
+date: 2014-06-24 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/fau-cao062314.php)
 
-id:    3941 
+id:    3941

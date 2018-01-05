@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Solar energy prices see double-digit declines in 2013; Trend expected to continue"
-date:  2014-10-21 04:00:00 
-categories:  Technology  
+date: 2014-10-21 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-10/drel-sep102114.php)
 
-id:   54676 
+id:   54676

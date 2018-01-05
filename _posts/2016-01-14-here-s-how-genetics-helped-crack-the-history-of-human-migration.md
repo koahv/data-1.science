@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Here's how genetics helped crack the history of human migration"
-date:  2016-01-14 13:44:16 
-categories:  Science     
+date: 2016-01-14 13:44:16
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2016-01-genetics-history-human-migration.html)
 
-id:  236244 
+id:  236244

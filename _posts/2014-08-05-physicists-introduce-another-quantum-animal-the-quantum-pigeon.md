@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists introduce another quantum animal: The Quantum Pigeon"
-date:  2014-08-05 17:54:46 
-categories:  Science     
+date: 2014-08-05 17:54:46
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news326465672.html)
 
-id:   32567 
+id:   32567

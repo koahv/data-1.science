@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Aerojet Rocketdyne Completes J-2X Testing"
-date:  2014-06-30 16:55:50 
-categories:  Technology  
-author:  cfox                                                          
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-06-30 16:55:50
+categories: Technology
+author: cfox
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2014/06/aerojet-rocketdyne-completes-j-2x-testing)
 
-id:   10148 
+id:   10148

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's OSIRIS-REx takes its first image of Jupiter"
-date:  2017-02-14 05:00:00 
-categories:  Astronomy   
+date: 2017-02-14 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/nsfc-not021417.php)
 
-id:  365715 
+id:  365715

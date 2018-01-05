@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientist explains sulfur behavior in Venus atmosphere"
-date:  2016-04-26 04:00:00 
-categories:  Astronomy   
+date: 2016-04-26 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/miop-dso042616.php)
 
-id:  278311 
+id:  278311

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Most detailed view ever of star formation in the distant universe"
-date:  2015-06-08 18:00:02 
-categories:  Science     
+date: 2015-06-08 18:00:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news352967351.html)
 
-id:  135773 
+id:  135773

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Cretaceous fossils shed light on the early evolution of ants"
-date:  2016-05-30 04:00:00 
-categories:  Science     
+date: 2016-05-30 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/caos-ncf053016.php)
 
-id:  290042 
+id:  290042

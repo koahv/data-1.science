@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Invasive Trap-Jaw Ants Spread in the Southeast"
-date:  2014-06-18 17:02:55 
-categories:  Science     
+date: 2014-06-18 17:02:55
+categories: Science
 author: unknown author
-tags:  nature & environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+tags: [nature & environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nature & environment
 
 [Visit Link](http://www.scienceworldreport.com/articles/15515/20140618/invasive-trap-jaw-ants-spread-southeast.htm)
 
-id:    1689 
+id:    1689

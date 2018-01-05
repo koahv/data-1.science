@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brain of world's first known predators discovered"
-date:  2014-07-16 17:00:01 
-categories:  Science     
+date: 2014-07-16 17:00:01
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news324705759.html)
 
-id:   21539 
+id:   21539

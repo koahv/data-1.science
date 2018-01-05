@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Helping parents understand infant sleep patterns"
-date:  2014-12-19 15:41:46 
-categories:  Science     
+date: 2014-12-19 15:41:46
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/lp_vUdsMrTk/141219104146.htm)
 
-id:   67750 
+id:   67750

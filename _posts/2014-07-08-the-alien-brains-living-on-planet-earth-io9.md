@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Alien Brains Living on Planet Earth - io9"
-date:  2014-07-08 21:37:06 
-categories:  Earth       
+date: 2014-07-08 21:37:06
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEJQxDVXxcANGBf28gG_VuslWCA5w&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=3Gi8U7iiJoaKwAHQvIHIBg&url=http://animals.io9.com/the-alien-brains-living-on-planet-earth-1601932496)
 
-id:   15967 
+id:   15967

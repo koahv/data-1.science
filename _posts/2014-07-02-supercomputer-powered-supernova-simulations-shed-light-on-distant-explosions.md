@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Supercomputer-powered supernova simulations shed light on distant explosions"
-date:  2014-07-02 11:25:25 
-categories:  Science     
+date: 2014-07-02 11:25:25
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news323504713.html)
 
-id:   11711 
+id:   11711

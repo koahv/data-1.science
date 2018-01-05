@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Littlest' quark-gluon plasma revealed by physicists using Large Hadron Collider"
-date:  2015-09-03 04:00:00 
-categories:  Science     
+date: 2015-09-03 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uok-qp090315.php)
 
-id:  179150 
+id:  179150

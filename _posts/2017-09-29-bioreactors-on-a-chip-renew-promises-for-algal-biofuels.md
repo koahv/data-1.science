@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bioreactors on a chip renew promises for algal biofuels"
-date:  2017-09-29 15:02:42 
-categories:  Science     
+date: 2017-09-29 15:02:42
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-09-bioreactors-chip-renew-algal-biofuels.html)
 
-id:  433961 
+id:  433961

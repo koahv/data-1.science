@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Unprecedented 3-D view of important brain receptor"
-date:  2014-06-27 19:00:14 
-categories:  Science     
+date: 2014-06-27 19:00:14
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/nSPXxBpK4uM/140627150014.htm)
 
-id:    8878 
+id:    8878

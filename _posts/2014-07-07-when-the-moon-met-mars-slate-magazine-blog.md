@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "When the Moon Met Mars - Slate Magazine (blog)"
-date:  2014-07-07 13:51:29 
-categories:  Astronomy   
+date: 2014-07-07 13:51:29
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFR8XpFobMuiYzK6xFmoLBDFasosQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778550771797&ei=IGu5U7C8OsKBgQfk6ICwCQ&url=http://www.slate.com/blogs/bad_astronomy/2014/07/06/occultation_the_moon_and_mars.html)
 
-id:   14120 
+id:   14120

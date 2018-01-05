@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The dwarf planet Quaoar"
-date:  2015-08-28 13:30:02 
-categories:  Science     
+date: 2015-08-28 13:30:02
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-dwarf-planet-quaoar.html)
 
-id:  176088 
+id:  176088

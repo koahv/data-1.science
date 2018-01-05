@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dating the moon-forming impact event with meteorites"
-date:  2015-04-16 18:00:02 
-categories:  Science     
+date: 2015-04-16 18:00:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news348409541.html)
 
-id:  110313 
+id:  110313

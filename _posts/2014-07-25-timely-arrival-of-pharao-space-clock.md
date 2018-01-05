@@ -1,19 +1,24 @@
 ---
 layout: post
 title: "Timely arrival of Pharao space clock"
-date:  2014-07-25 12:12:00 
-categories:  Astronomy   
+date: 2014-07-25 12:12:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
 #### Extract
->+
+>
+								
+		
+ESA has welcomed the arrival of Pharao, an important part of ESA’s atomic clock experiment that will be attached to the International Space Station in 2016.
+
+	
 
 #### Factsheet
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/Research/Timely_arrival_of_Pharao_space_clock)
 
-id:   28088 
+id:   28088

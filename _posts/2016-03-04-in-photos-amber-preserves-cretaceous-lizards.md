@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "In Photos: Amber Preserves Cretaceous Lizards"
-date:  2016-03-04 19:17:28 
-categories:  Science     
+date: 2016-03-04 19:17:28
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/53945-photos-amber-preserves-cretaceous-lizards.html)
 
-id:  258849 
+id:  258849

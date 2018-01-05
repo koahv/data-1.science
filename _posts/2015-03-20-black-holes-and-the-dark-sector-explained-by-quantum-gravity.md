@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Black holes and the dark sector explained by quantum gravity"
-date:  2015-03-20 04:00:00 
-categories:  Astronomy   
+date: 2015-03-20 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/ws-bha032015.php)
 
-id:   98233 
+id:   98233

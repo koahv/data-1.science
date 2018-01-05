@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "An improved age for Earth's latest magnetic field reversal using radiometric dating"
-date:  2015-07-07 04:00:00 
-categories:  Science     
+date: 2015-07-07 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/rooi-aia070615.php)
 
-id:  150841 
+id:  150841

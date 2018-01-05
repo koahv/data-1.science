@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Artificial leaf goes more efficient for hydrogen generation"
-date:  2017-01-04 05:00:00 
-categories:  Science     
+date: 2017-01-04 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/unio-alg010317.php)
 
-id:  353945 
+id:  353945

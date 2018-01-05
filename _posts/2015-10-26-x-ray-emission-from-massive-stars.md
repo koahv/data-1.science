@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "X-ray emission from massive stars"
-date:  2015-10-26 13:00:34 
-categories:  Science     
+date: 2015-10-26 13:00:34
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2015-10-x-ray-emission-massive-stars.html)
 
-id:  202520 
+id:  202520

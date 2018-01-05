@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Psychology of the appeal of being anti-GMO"
-date:  2015-04-24 14:53:48 
-categories:  Science     
+date: 2015-04-24 14:53:48
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/jeJ5qv20RTU/150424105348.htm)
 
-id:  114200 
+id:  114200

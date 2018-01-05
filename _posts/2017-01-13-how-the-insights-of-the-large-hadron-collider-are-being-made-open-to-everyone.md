@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How the insights of the Large Hadron Collider are being made open to everyone"
-date:  2017-01-13 13:56:27 
-categories:  Science     
+date: 2017-01-13 13:56:27
+categories: Science
 author: unknown author
-tags:  other                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [other]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other
 
 [Visit Link](https://phys.org/news/2017-01-insights-large-hadron-collider.html)
 
-id:  356621 
+id:  356621

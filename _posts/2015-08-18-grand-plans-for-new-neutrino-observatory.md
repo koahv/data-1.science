@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "GRAND plans for new neutrino observatory"
-date:  2015-08-18 15:55:32 
-categories:  Science     
+date: 2015-08-18 15:55:32
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/aug/18/grand-plans-for-new-neutrino-observatory)
 
-id:  171302 
+id:  171302

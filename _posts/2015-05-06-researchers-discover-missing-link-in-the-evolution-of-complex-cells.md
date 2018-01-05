@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers discover missing link in the evolution of complex cells"
-date:  2015-05-06 04:00:00 
-categories:  Science     
+date: 2015-05-06 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/uu-rdm050415.php)
 
-id:  119511 
+id:  119511

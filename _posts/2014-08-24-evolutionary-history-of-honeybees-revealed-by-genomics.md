@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolutionary history of honeybees revealed by genomics"
-date:  2014-08-24 17:00:16 
-categories:  Science     
+date: 2014-08-24 17:00:16
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news328034190.html)
 
-id:   45340 
+id:   45340

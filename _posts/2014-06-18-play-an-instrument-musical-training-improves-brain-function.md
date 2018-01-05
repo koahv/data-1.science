@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Play an Instrument? Musical Training Improves Brain Function"
-date:  2014-06-18 14:02:15 
-categories:  Science     
+date: 2014-06-18 14:02:15
+categories: Science
 author: unknown author
-tags:  health & medicine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [health & medicine]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  health & medicine
 
 [Visit Link](http://www.scienceworldreport.com/articles/15504/20140618/play-an-instrument-musical-training-improves-brain-function.htm)
 
-id:    1700 
+id:    1700

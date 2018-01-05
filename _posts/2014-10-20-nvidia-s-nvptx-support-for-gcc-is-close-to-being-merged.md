@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NVIDIA's NVPTX Support For GCC Is Close To Being Merged"
-date:  2014-10-20 15:50:01 
-categories:  Linux       
+date: 2014-10-20 15:50:01
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTgxODU)
 
-id:   54431 
+id:   54431

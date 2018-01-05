@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A timeline of comet probe's 11-year journey"
-date:  2015-06-14 19:04:59 
-categories:  Science     
+date: 2015-06-14 19:04:59
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news353513079.html)
 
-id:  138909 
+id:  138909

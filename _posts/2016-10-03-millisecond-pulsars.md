@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Millisecond pulsars"
-date:  2016-10-03 12:00:01 
-categories:  Science     
+date: 2016-10-03 12:00:01
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2016-10-millisecond-pulsars.html)
 
-id:  328578 
+id:  328578

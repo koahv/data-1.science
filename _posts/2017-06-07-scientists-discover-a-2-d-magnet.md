@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists discover a 2-D magnet"
-date:  2017-06-07 17:00:04 
-categories:  Science     
+date: 2017-06-07 17:00:04
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-06-scientists-d-magnet.html)
 
-id:  399002 
+id:  399002

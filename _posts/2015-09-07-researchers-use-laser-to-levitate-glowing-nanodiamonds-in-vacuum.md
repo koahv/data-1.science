@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers use laser to levitate, glowing nanodiamonds in vacuum"
-date:  2015-09-07 15:00:03 
-categories:  Science     
+date: 2015-09-07 15:00:03
+categories: Science
 author: unknown author
-tags:  optics & photonics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+tags: [optics & photonics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  optics & photonics
 
 [Visit Link](http://phys.org/news/2015-09-laser-levitate-nanodiamonds-vacuum.html)
 
-id:  180621 
+id:  180621

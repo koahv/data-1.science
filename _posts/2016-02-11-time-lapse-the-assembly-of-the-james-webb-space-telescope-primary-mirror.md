@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Time-Lapse: The Assembly of the James Webb Space Telescope Primary Mirror"
-date:  2016-02-11 19:00:34 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-02-11 19:00:34
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/videos/2016/02/time-lapse-assembly-james-webb-space-telescope-primary-mirror)
 
-id:  249160 
+id:  249160

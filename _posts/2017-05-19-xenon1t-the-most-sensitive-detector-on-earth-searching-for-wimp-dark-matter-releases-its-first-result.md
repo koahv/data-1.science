@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "XENON1T, the most sensitive detector on Earth searching for WIMP dark matter, releases its first result"
-date:  2017-05-19 09:45:15 
-categories:  Science     
+date: 2017-05-19 09:45:15
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-05-xenon1t-sensitive-detector-earth-wimp.html)
 
-id:  394012 
+id:  394012

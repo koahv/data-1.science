@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Thousands of never-before-seen human genome variations uncovered"
-date:  2014-11-10 17:42:33 
-categories:  Science     
+date: 2014-11-10 17:42:33
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/a6FJ-u1jXOA/141110124233.htm)
 
-id:   59938 
+id:   59938

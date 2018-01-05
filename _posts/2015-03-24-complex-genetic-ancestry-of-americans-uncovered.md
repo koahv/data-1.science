@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Complex genetic ancestry of Americans uncovered"
-date:  2015-03-24 16:00:03 
-categories:  Science     
+date: 2015-03-24 16:00:03
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news346406346.html)
 
-id:   99660 
+id:   99660

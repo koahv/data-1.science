@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Two defining features of quantum mechanics never appear together"
-date:  2016-03-21 13:30:01 
-categories:  Science     
+date: 2016-03-21 13:30:01
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-03-features-quantum-mechanics.html)
 
-id:  264449 
+id:  264449

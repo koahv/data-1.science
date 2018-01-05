@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New insights into the family tree of modern turtles"
-date:  2015-11-30 12:30:01 
-categories:  Science     
+date: 2015-11-30 12:30:01
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](http://phys.org/news/2015-11-insights-family-tree-modern-turtles.html)
 
-id:  217700 
+id:  217700

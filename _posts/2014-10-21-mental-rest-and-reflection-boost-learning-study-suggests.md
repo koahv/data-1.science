@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mental rest and reflection boost learning, study suggests"
-date:  2014-10-21 01:27:54 
-categories:  Science     
+date: 2014-10-21 01:27:54
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/qNz6N-rHtGQ/141020212754.htm)
 
-id:   56307 
+id:   56307

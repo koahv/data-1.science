@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Botanists conduct first large-scale genetic study of marijuana, hemp"
-date:  2015-08-26 18:00:04 
-categories:  Science     
+date: 2015-08-26 18:00:04
+categories: Science
 author: unknown author
-tags:  plants & animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [plants & animals]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plants & animals
 
 [Visit Link](http://phys.org/news/2015-08-botanists-large-scale-genetic-marijuana-hemp.html)
 
-id:  174997 
+id:  174997

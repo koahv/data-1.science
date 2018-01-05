@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Controlling the magnetic properties of individual iron atoms"
-date:  2016-01-29 15:24:47 
-categories:  Science     
+date: 2016-01-29 15:24:47
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2016-01-magnetic-properties-individual-iron-atoms.html)
 
-id:  243105 
+id:  243105

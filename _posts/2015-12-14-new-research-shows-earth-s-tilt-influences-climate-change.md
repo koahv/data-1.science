@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New research shows Earth's tilt influences climate change"
-date:  2015-12-14 05:00:00 
-categories:  Science     
+date: 2015-12-14 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/lsu-nrs121415.php)
 
-id:  224482 
+id:  224482

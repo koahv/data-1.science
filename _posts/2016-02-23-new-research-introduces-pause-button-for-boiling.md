@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New research introduces 'pause button' for boiling"
-date:  2016-02-23 05:00:00 
-categories:  Technology  
+date: 2016-02-23 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/su-nri022316.php)
 
-id:  254526 
+id:  254526

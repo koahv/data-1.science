@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New way to save fish—and fishers"
-date:  2015-05-19 09:16:17 
-categories:  Science     
+date: 2015-05-19 09:16:17
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news351231369.html)
 
-id:  125219 
+id:  125219

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists produce strongest evidence yet of schizophrenia's causes"
-date:  2015-06-03 16:39:46 
-categories:  Science     
+date: 2015-06-03 16:39:46
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150603123946.htm)
 
-id:  133435 
+id:  133435

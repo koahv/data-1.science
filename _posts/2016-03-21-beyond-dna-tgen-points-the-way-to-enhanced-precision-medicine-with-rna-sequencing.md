@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Beyond DNA: TGen points the way to enhanced precision medicine with RNA sequencing"
-date:  2016-03-21 04:00:00 
-categories:  Technology  
+date: 2016-03-21 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/ttgr-bdt032116.php)
 
-id:  264728 
+id:  264728

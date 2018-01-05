@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What Is Synesthesia?"
-date:  2017-10-18 05:24:31 
-categories:  Science     
+date: 2017-10-18 05:24:31
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.livescience.com/60707-what-is-synesthesia.html)
 
-id:  440488 
+id:  440488

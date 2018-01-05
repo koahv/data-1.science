@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The next step in DNA computing: GPS mapping?"
-date:  2015-05-06 04:00:00 
-categories:  Technology  
+date: 2015-05-06 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/acs-tns050615.php)
 
-id:  119351 
+id:  119351

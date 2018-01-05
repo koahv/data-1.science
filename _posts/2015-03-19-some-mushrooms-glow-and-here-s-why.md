@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Some mushrooms glow, and here's why"
-date:  2015-03-19 16:00:06 
-categories:  Science     
+date: 2015-03-19 16:00:06
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news345979210.html)
 
-id:   97730 
+id:   97730

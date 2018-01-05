@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NOAA’s GOES-R Arrives at NASA Kennedy for Launch Processing"
-date:  2016-08-24 13:11:10 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-08-24 13:11:10
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/08/noaas-goes-r-arrives-nasa-kennedy-launch-processing)
 
-id:  317262 
+id:  317262

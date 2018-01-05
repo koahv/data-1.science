@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why 'whispers' among bees sometimes evolve into 'shouts'"
-date:  2014-07-07 16:00:01 
-categories:  Science     
+date: 2014-07-07 16:00:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news323946444.html)
 
-id:   14791 
+id:   14791

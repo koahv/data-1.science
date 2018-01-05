@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Is the universe a bubble? Let's check"
-date:  2014-07-17 17:08:32 
-categories:  Science     
+date: 2014-07-17 17:08:32
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news324821301.html)
 
-id:   22542 
+id:   22542

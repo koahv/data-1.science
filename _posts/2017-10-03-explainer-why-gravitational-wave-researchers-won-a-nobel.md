@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Explainer: Why gravitational wave researchers won a Nobel"
-date:  2017-10-03 19:40:02 
-categories:  Science     
+date: 2017-10-03 19:40:02
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-10-gravitational-won-nobel.html)
 
-id:  434781 
+id:  434781

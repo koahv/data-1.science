@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "High-tech predictions of the impacts of extreme weather"
-date:  2016-03-14 12:45:17 
-categories:  Science     
+date: 2016-03-14 12:45:17
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2016-03-high-tech-impacts-extreme-weather.html)
 
-id:  262011 
+id:  262011

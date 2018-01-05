@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA launches carbon satellite after 2009 failure"
-date:  2014-07-02 13:55:10 
-categories:  Tech        
+date: 2014-07-02 13:55:10
+categories: Tech
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://uk.news.yahoo.com/nasa-launches-carbon-satellite-2009-failure-102005081.html)
 
-id:   11718 
+id:   11718

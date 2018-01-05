@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient rocks record first evidence for photosynthesis that made oxygen"
-date:  2015-10-06 20:36:39 
-categories:  Science     
+date: 2015-10-06 20:36:39
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2015-10-ancient-evidence-photosynthesis-oxygen.html)
 
-id:  194538 
+id:  194538

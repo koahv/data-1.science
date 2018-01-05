@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "UCLA physicists map the atomic structure of an alloy"
-date:  2017-02-01 05:00:00 
-categories:  Technology  
+date: 2017-02-01 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/uoc--upm012617.php)
 
-id:  362152 
+id:  362152

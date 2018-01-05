@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earth organisms survive under low-pressure Martian conditions"
-date:  2015-06-02 16:58:43 
-categories:  Science     
+date: 2015-06-02 16:58:43
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150602125843.htm)
 
-id:  132660 
+id:  132660

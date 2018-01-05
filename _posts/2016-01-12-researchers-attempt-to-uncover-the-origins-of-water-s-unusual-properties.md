@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers attempt to uncover the origins of water's unusual properties"
-date:  2016-01-12 14:30:01 
-categories:  Science     
+date: 2016-01-12 14:30:01
+categories: Science
 author: unknown author
-tags:  condensed matter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [condensed matter]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  condensed matter
 
 [Visit Link](http://phys.org/news/2016-01-uncover-unusual-properties.html)
 
-id:  235211 
+id:  235211

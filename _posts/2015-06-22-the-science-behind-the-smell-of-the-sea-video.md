@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The science behind the smell of the sea (video)"
-date:  2015-06-22 04:00:00 
-categories:  Science     
+date: 2015-06-22 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/acs-tsb062215.php)
 
-id:  143396 
+id:  143396

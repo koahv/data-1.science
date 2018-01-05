@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Large number of dark matter peaks found using gravitational lensing"
-date:  2014-07-15 20:37:05 
-categories:  Science     
+date: 2014-07-15 20:37:05
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news324660994.html)
 
-id:   20722 
+id:   20722

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "India drift"
-date:  2015-05-04 04:00:00 
-categories:  Science     
+date: 2015-05-04 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/miot-id043015.php)
 
-id:  118211 
+id:  118211

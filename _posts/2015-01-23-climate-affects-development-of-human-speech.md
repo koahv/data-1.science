@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Climate affects development of human speech"
-date:  2015-01-23 15:25:37 
-categories:  Science     
+date: 2015-01-23 15:25:37
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/RlAEQhTHQiU/150123102537.htm)
 
-id:   74720 
+id:   74720

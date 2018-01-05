@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists have learned how to restore the entanglement of 'untangled' quantum light"
-date:  2015-10-13 11:17:48 
-categories:  Science     
+date: 2015-10-13 11:17:48
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2015-10-physicists-entanglement-untangled-quantum.html)
 
-id:  197102 
+id:  197102

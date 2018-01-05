@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Venus's turbulent atmosphere"
-date:  2017-07-25 04:00:00 
-categories:  Astronomy   
+date: 2017-07-25 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/uoc-vta072517.php)
 
-id:  413143 
+id:  413143

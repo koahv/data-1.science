@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Plastic to outweigh fish in oceans by 2050, study warns"
-date:  2016-01-19 19:38:02 
-categories:  Science     
+date: 2016-01-19 19:38:02
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2016-01-plastic-outweigh-fish-oceans.html)
 
-id:  238332 
+id:  238332

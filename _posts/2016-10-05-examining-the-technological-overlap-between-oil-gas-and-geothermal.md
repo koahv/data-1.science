@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Examining the Technological Overlap Between Oil, Gas and Geothermal"
-date:  2016-10-05 13:01:00 
-categories:  Energy      
+date: 2016-10-05 13:01:00
+categories: Energy
 author: unknown author
-tags:  geothermal,opinion & commentary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [geothermal, opinion & commentary]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  geothermal,opinion & commentary
 
 [Visit Link](http://www.renewableenergyworld.com/articles/2016/10/examining-the-technological-overlap-between-oil-gas-and-geothermal.html)
 
-id:  329451 
+id:  329451

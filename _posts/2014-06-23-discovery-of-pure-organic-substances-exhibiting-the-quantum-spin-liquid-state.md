@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Discovery of pure organic substances exhibiting the quantum spin liquid state"
-date:  2014-06-23 11:50:03 
-categories:  Science     
+date: 2014-06-23 11:50:03
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news322725747.html)
 
-id:    2499 
+id:    2499

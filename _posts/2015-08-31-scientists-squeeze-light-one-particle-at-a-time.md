@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Scientists 'squeeze' light one particle at a time"
-date:  2015-08-31 16:03:04 
-categories:  Science     
+date: 2015-08-31 16:03:04
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
 #### Extract
->A team of scientists have measured a bizarre effect in quantum physics, in which individual particles of light are said to have been 'squeezed' -- an achievement which at least one textbook had written off as hopeless.
+>A team of scientists have measured a bizarre effect in quantum physics, in which individual particles of light are said to have been 'squeezed' -- an achievement which at least one textbook had written off as hopeless. 
 
 #### Factsheet
 >factsheet unavailable
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150831120304.htm)
 
-id:  177133 
+id:  177133

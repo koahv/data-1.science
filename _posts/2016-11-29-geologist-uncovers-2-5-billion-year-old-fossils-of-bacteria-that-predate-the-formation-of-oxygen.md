@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Geologist uncovers 2.5 billion-year-old fossils of bacteria that predate the formation of oxygen"
-date:  2016-11-29 17:48:33 
-categories:  Science     
+date: 2016-11-29 17:48:33
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2016-11-geologist-uncovers-billion-year-old-fossils-bacteria.html)
 
-id:  344855 
+id:  344855

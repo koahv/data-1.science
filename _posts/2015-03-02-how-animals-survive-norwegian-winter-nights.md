@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How animals survive Norwegian winter nights"
-date:  2015-03-02 14:40:02 
-categories:  Science     
+date: 2015-03-02 14:40:02
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news344508293.html)
 
-id:   89399 
+id:   89399

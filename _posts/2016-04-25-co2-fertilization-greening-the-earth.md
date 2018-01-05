@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "CO2 fertilization greening the earth"
-date:  2016-04-25 04:00:00 
-categories:  Science     
+date: 2016-04-25 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/bu-cfg042216.php)
 
-id:  277861 
+id:  277861

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tapping particles of light: Scientists single out individual photons"
-date:  2015-11-30 15:10:57 
-categories:  Science     
+date: 2015-11-30 15:10:57
+categories: Science
 author: unknown author
-tags:  optics & photonics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+tags: [optics & photonics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  optics & photonics
 
 [Visit Link](http://phys.org/news/2015-11-particles-scientists-individual-photons.html)
 
-id:  217766 
+id:  217766

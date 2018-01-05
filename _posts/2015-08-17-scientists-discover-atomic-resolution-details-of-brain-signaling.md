@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists discover atomic-resolution details of brain signaling"
-date:  2015-08-17 15:03:43 
-categories:  Science     
+date: 2015-08-17 15:03:43
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-08-scientists-atomic-resolution-brain.html)
 
-id:  170398 
+id:  170398

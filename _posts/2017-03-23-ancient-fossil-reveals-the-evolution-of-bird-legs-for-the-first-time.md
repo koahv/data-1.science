@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient fossil reveals the evolution of bird legs for the first time"
-date:  2017-03-23 12:42:31 
-categories:  Science     
+date: 2017-03-23 12:42:31
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](https://phys.org/news/2017-03-ancient-fossil-reveals-evolution-bird.html)
 
-id:  376856 
+id:  376856

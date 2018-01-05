@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New insights found in black hole collisions"
-date:  2015-03-27 15:03:49 
-categories:  Science     
+date: 2015-03-27 15:03:49
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news346664680.html)
 
-id:  101530 
+id:  101530

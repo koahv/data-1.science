@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A new way to discover DNA modifications"
-date:  2016-02-29 05:00:00 
-categories:  Technology  
+date: 2016-02-29 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/miot-anw022916.php)
 
-id:  257046 
+id:  257046

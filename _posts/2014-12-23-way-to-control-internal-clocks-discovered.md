@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Way to control internal clocks discovered"
-date:  2014-12-23 17:22:24 
-categories:  Science     
+date: 2014-12-23 17:22:24
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Z2pOOKFVbkw/141223122224.htm)
 
-id:   69015 
+id:   69015

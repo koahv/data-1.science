@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Meals ready to eat: Expedition 44 crew members sample leafy greens grown on space station"
-date:  2015-08-10 04:00:00 
-categories:  Science     
+date: 2015-08-10 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/nsc-mrt080715.php)
 
-id:  167060 
+id:  167060

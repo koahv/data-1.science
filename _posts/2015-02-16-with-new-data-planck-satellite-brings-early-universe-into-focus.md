@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "With new data, Planck satellite brings early universe into focus"
-date:  2015-02-16 05:00:00 
-categories:  Science     
+date: 2015-02-16 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-02/tkf-wnd021615.php)
 
-id:   83526 
+id:   83526

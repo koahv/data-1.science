@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Amazon rainforest responds quickly to extreme climate events"
-date:  2016-04-28 04:00:00 
-categories:  Science     
+date: 2016-04-28 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/ssoe-arr042816.php)
 
-id:  279275 
+id:  279275

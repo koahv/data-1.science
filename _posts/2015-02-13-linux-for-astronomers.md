@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Linux for Astronomers"
-date:  2015-02-13 21:00:00 
-categories:  Linux       
+date: 2015-02-13 21:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/infrastructure/linux-for-astronomers.html)
 
-id:   82565 
+id:   82565

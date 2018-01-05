@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Large hadron collider prepares to deliver six times the data"
-date:  2016-05-10 10:38:28 
-categories:  Science     
+date: 2016-05-10 10:38:28
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2016-05-large-hadron-collider.html)
 
-id:  282912 
+id:  282912

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Free HTTPS certs for all - Let's Encrypt project opens doors to public"
-date:  2015-12-04 01:59:16 
-categories:  Linux       
-author:  Chris Williams                                                
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+date: 2015-12-04 01:59:16
+categories: Linux
+author: Chris Williams
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=222865)
 
-id:  219868 
+id:  219868

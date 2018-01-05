@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "D-Wave and predecessors: From simulated to quantum annealing"
-date:  2014-06-23 16:33:04 
-categories:  Science     
+date: 2014-06-23 16:33:04
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news322745572.html)
 
-id:    3221 
+id:    3221

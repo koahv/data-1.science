@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers study the sun's coronal rain in great detail"
-date:  2014-06-24 09:33:26 
-categories:  Science     
+date: 2014-06-24 09:33:26
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news322806790.html)
 
-id:    4064 
+id:    4064

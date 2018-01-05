@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pulsar-based spacecraft navigation system one step closer to reality"
-date:  2016-08-16 11:09:37 
-categories:  Science     
+date: 2016-08-16 11:09:37
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2016-08-pulsar-based-spacecraft-closer-reality.html)
 
-id:  314641 
+id:  314641

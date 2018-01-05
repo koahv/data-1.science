@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "There and Back Again: Scientists Beam Photons to Space to Test Quantum Theory"
-date:  2017-10-25 14:04:00 
-categories:  Science     
+date: 2017-10-25 14:04:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.livescience.com/60777-testing-quantum-mechanics-in-space.html)
 
-id:  444984 
+id:  444984

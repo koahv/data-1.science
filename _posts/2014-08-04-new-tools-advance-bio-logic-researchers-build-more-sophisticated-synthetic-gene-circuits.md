@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New tools advance bio-logic: Researchers build more sophisticated synthetic gene circuits"
-date:  2014-08-04 11:19:51 
-categories:  Science     
+date: 2014-08-04 11:19:51
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news326355556.html)
 
-id:   31193 
+id:   31193

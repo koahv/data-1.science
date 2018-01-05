@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Variability of major oceanic currents driven by climate change"
-date:  2016-03-17 13:20:02 
-categories:  Science     
+date: 2016-03-17 13:20:02
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2016-03-variability-major-oceanic-currents-driven.html)
 
-id:  263410 
+id:  263410

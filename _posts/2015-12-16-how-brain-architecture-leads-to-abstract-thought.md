@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How brain architecture leads to abstract thought"
-date:  2015-12-16 05:00:00 
-categories:  Technology  
+date: 2015-12-16 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/uoma-hba121615.php)
 
-id:  225887 
+id:  225887

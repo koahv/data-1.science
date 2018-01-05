@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Instrument to Harvest Martian Water Launching in 2018"
-date:  2015-12-11 14:51:13 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-12-11 14:51:13
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/12/instrument-harvest-martian-water-launching-2018)
 
-id:  223732 
+id:  223732

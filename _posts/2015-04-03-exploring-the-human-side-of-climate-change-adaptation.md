@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Exploring the human side of climate change adaptation"
-date:  2015-04-03 11:20:02 
-categories:  Science     
+date: 2015-04-03 11:20:02
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news347263399.html)
 
-id:  104549 
+id:  104549

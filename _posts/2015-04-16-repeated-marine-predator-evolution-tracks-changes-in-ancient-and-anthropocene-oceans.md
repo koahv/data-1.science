@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Repeated marine predator evolution tracks changes in ancient and Anthropocene oceans"
-date:  2015-04-16 04:00:00 
-categories:  Science     
+date: 2015-04-16 18:00:01
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [biology]
 ---
 
 
 #### Extract
->(Smithsonian) A team of Smithsonian scientists synthesized decades of scientific discoveries to illuminate the common and unique patterns driving the extraordinary transitions that whales, dolphins, seals and other species underwent as they moved from land to sea. Drawing on recent breakthroughs in diverse fields such as paleontology, molecular biology and conservation ecology, their findings offer a comprehensive look at how life in the ocean has responded to environmental change from the Triassic to the Anthropocene.
+>For more than 250 million years, four-limbed land animals known as tetrapods have repeatedly conquered the Earth's oceans. These creatures—such as plesiosaurs, penguins and sea turtles—descended from separate groups of terrestrial vertebrates that convergently evolved to thrive in aquatic environments.
 
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://www.eurekalert.org/pub_releases/2015-04/s-rmp041315.php)
+[Visit Link](http://phys.org/news348408423.html)
 
-id:  110384 
+id:  110314

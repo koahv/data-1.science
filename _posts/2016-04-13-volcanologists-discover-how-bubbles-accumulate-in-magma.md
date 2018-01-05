@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Volcanologists discover how bubbles accumulate in magma"
-date:  2016-04-13 17:00:11 
-categories:  Science     
+date: 2016-04-13 17:00:11
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2016-04-volcanologists-accumulate-magma.html)
 
-id:  273945 
+id:  273945

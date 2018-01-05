@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Chimpanzee intelligence determined by genes"
-date:  2014-07-10 16:00:04 
-categories:  Science     
+date: 2014-07-10 16:00:04
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news324211096.html)
 
-id:   17514 
+id:   17514

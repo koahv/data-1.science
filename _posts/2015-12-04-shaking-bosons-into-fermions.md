@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Shaking bosons into fermions"
-date:  2015-12-04 14:50:49 
-categories:  Science     
+date: 2015-12-04 14:50:49
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-12-bosons-fermions.html)
 
-id:  220061 
+id:  220061

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's MMS delivers promising initial results"
-date:  2015-12-18 05:00:00 
-categories:  Astronomy   
+date: 2015-12-18 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/nsfc-nmd121815.php)
 
-id:  227071 
+id:  227071

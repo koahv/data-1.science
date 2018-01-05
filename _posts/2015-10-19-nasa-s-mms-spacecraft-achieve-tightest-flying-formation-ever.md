@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's MMS spacecraft achieve tightest flying formation ever"
-date:  2015-10-19 11:49:55 
-categories:  Science     
+date: 2015-10-19 11:49:55
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-10-nasa-mms-spacecraft-tightest-formation.html)
 
-id:  199483 
+id:  199483

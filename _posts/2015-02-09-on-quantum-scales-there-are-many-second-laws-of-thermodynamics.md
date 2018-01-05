@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "On quantum scales, there are many second laws of thermodynamics"
-date:  2015-02-09 20:00:11 
-categories:  Science     
+date: 2015-02-09 20:00:11
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news342703682.html)
 
-id:   80403 
+id:   80403

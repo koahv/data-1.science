@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DXL-2: Studying X-ray emissions in space"
-date:  2015-12-03 05:00:00 
-categories:  Science     
+date: 2015-12-03 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/nsfc-dsx120315.php)
 
-id:  219745 
+id:  219745

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "International team observes first radio counterpart to gravitational waves"
-date:  2017-10-16 04:00:00 
-categories:  Science     
+date: 2017-10-16 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/nrl-ito101617.php)
 
-id:  439671 
+id:  439671

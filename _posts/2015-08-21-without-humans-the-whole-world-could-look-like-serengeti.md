@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Without humans, the whole world could look like Serengeti"
-date:  2015-08-21 00:00:01 
-categories:  Science     
+date: 2015-08-21 00:00:01
+categories: Science
 author: unknown author
-tags:  ecology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [ecology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  ecology
 
 [Visit Link](http://phys.org/news/2015-08-humans-world-serengeti.html)
 
-id:  172540 
+id:  172540

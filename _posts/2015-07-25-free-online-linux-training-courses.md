@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Free (online) Linux training/courses"
-date:  2015-07-25 19:14:54 
-categories:  Linux       
+date: 2015-07-25 19:14:54
+categories: Linux
 author: unknown author
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=217167)
 
-id:  160484 
+id:  160484

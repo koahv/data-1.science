@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Human faces are so variable because we evolved to look unique"
-date:  2014-09-16 15:22:40 
-categories:  Science     
+date: 2014-09-16 15:22:40
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/5D7cOw278tA/140916112240.htm)
 
-id:   49461 
+id:   49461

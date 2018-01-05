@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Exceptionally preserved fossil gives voice to ancient terror bird"
-date:  2015-04-09 04:00:00 
-categories:  Science     
+date: 2015-04-09 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/sovp-epf040215.php)
 
-id:  107283 
+id:  107283

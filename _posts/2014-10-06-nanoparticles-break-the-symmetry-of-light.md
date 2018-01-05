@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Nanoparticles Break the Symmetry of Light"
-date:  2014-10-06 15:46:57 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-10-06 15:46:57
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2014/10/nanoparticles-break-symmetry-light)
 
-id:   53225 
+id:   53225

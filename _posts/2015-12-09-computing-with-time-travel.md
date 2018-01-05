@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Computing with time travel"
-date:  2015-12-09 13:54:24 
-categories:  Science     
+date: 2015-12-09 13:54:24
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2015-12-computing-with-time-travel.html)
 
-id:  222315 
+id:  222315

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "COSMOS supercomputing research facility becomes an Intel Parallel Computing Centre"
-date:  2014-06-24 09:36:15 
-categories:  Science     
+date: 2014-06-24 09:36:15
+categories: Science
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://phys.org/news322806960.html)
 
-id:    4062 
+id:    4062

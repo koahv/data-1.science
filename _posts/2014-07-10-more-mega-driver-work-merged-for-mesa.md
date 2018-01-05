@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "More Mega Driver Work Merged For Mesa"
-date:  2014-07-10 13:20:56 
-categories:  Linux       
+title: "More "Mega Driver" Work Merged For Mesa"
+date: 2014-07-10 13:20:56
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTczOTM)
 
-id:   17330 
+id:   17330

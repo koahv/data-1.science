@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dark matter guides growth of supermassive black holes"
-date:  2015-02-18 17:34:25 
-categories:  Science     
+date: 2015-02-18 17:34:25
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Su-5UJabrCc/150218123425.htm)
 
-id:   84332 
+id:   84332

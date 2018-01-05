@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pushing cells towards a higher pluripotency state"
-date:  2014-06-24 09:00:01 
-categories:  Science     
+date: 2014-06-24 09:00:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news322801085.html)
 
-id:    4044 
+id:    4044

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Time-Lapse Video Of Earth From Space Is Your Monday Moment Of Zen - io9"
-date:  2014-07-14 13:42:00 
-categories:  Earth       
+date: 2014-07-14 13:42:00
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEnThgZ8kG7gdY0-yJr5l6QK6maZg&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778557924209&ei=EuzDU8CoMYTzggeDr4DIBg&url=http://io9.com/new-time-lapse-video-of-earth-from-space-is-your-monday-1604592190)
 
-id:   19552 
+id:   19552

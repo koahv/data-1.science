@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World's food and energy systems key to tackling global biodiversity decline"
-date:  2016-10-27 10:48:43 
-categories:  Science     
+date: 2016-10-27 10:48:43
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2016-10-world-food-energy-key-tackling.html)
 
-id:  335871 
+id:  335871

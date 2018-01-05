@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA image: Caribbean Sea viewed from the International Space Station"
-date:  2014-07-18 11:01:22 
-categories:  Science     
+date: 2014-07-18 11:01:22
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news324885674.html)
 
-id:   23092 
+id:   23092

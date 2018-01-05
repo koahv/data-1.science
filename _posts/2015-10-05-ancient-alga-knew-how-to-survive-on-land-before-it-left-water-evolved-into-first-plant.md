@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient alga knew how to survive on land before it left water & evolved into first plant"
-date:  2015-10-05 04:00:00 
-categories:  Science     
+date: 2015-10-05 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/jic-aak100215.php)
 
-id:  193843 
+id:  193843

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ALMA and Rosetta detect freon-40 in space"
-date:  2017-10-04 04:00:00 
-categories:  Science     
+date: 2017-10-04 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/fos--aar100417.php)
 
-id:  434987 
+id:  434987

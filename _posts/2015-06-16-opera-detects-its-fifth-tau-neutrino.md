@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "OPERA detects its fifth tau neutrino"
-date:  2015-06-16 12:23:08 
-categories:  Science     
+date: 2015-06-16 12:23:08
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news353661759.html)
 
-id:  139905 
+id:  139905

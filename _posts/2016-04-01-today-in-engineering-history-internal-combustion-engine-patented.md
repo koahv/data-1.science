@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Today in Engineering History: Internal Combustion Engine Patented"
-date:  2016-04-01 15:17:27 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-01 15:17:27
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/04/today-engineering-history-internal-combustion-engine-patented)
 
-id:  269240 
+id:  269240

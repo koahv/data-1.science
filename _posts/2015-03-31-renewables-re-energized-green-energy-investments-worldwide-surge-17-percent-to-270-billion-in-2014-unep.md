@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Renewables re-energized: Green energy investments worldwide surge 17 percent to $270 billion in 2014 (UNEP)"
-date:  2015-03-31 04:00:00 
-categories:  Science     
+date: 2015-03-31 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/tca-rrg033015.php)
 
-id:  102826 
+id:  102826

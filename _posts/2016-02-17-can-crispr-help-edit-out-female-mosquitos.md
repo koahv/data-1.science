@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Can CRISPR help edit out female mosquitos?"
-date:  2016-02-17 05:00:00 
-categories:  Technology  
+date: 2016-02-17 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/cp-cch021016.php)
 
-id:  251674 
+id:  251674

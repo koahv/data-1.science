@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What is global warming?"
-date:  2015-11-17 07:53:53 
-categories:  Science     
+date: 2015-11-17 07:53:53
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2015-11-global_1.html)
 
-id:  212462 
+id:  212462

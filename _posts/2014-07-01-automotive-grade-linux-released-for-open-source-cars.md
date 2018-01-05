@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Automotive Grade Linux Released For Open Source Cars"
-date:  2014-07-01 19:30:00 
-categories:  Linux       
-author:  Soulskill                                                     
-tags:  opensource                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+date: 2014-07-01 19:30:00
+categories: Linux
+author: Soulskill
+tags: [opensource]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  opensource
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdotLinux/~3/ajMD04E7N7Y/story01.htm)
 
-id:   11270 
+id:   11270

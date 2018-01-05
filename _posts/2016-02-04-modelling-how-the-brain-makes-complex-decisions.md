@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Modelling how the brain makes complex decisions"
-date:  2016-02-04 05:00:00 
-categories:  Technology  
+date: 2016-02-04 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/uoc-mht020416.php)
 
-id:  245757 
+id:  245757

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study suggests how mosquitoes evolved an attraction to human scent"
-date:  2014-11-12 18:00:01 
-categories:  Science     
+date: 2014-11-12 18:00:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news335009422.html)
 
-id:   61503 
+id:   61503

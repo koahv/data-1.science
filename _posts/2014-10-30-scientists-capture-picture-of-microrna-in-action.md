@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists capture picture of 'microRNA' in action"
-date:  2014-10-30 18:19:10 
-categories:  Science     
+date: 2014-10-30 18:19:10
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Vsqapi2m7gA/141030141910.htm)
 
-id:   58271 
+id:   58271

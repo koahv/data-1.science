@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Stem cell platform sheds new light on beginnings of human development"
-date:  2017-10-19 13:20:41 
-categories:  Science     
+date: 2017-10-19 13:20:41
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-10-stem-cell-platform-human.html)
 
-id:  441312 
+id:  441312

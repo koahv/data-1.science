@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers propose a new theory of star formation"
-date:  2014-07-04 02:03:55 
-categories:  Science     
+date: 2014-07-04 02:03:55
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencealert.com.au/~r/sciencealert-latestnews/~3/TexZI6byjQg/20140407-25815.html)
 
-id:   13301 
+id:   13301

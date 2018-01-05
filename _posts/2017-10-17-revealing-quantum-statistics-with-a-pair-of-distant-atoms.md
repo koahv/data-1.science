@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Revealing quantum statistics with a pair of distant atoms"
-date:  2017-10-17 12:59:03 
-categories:  Science     
+date: 2017-10-17 12:59:03
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-10-revealing-quantum-statistics-pair-distant.html)
 
-id:  440130 
+id:  440130

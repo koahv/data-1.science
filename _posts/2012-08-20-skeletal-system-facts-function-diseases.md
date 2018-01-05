@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Skeletal System: Facts, Function & Diseases"
-date:  2012-08-20 20:56:52 
-categories:  Science     
+date: 2012-08-20 20:56:52
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/22537-skeletal-system.html)
 
-id:  173978 
+id:  173978

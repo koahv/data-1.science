@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Who Needs the Internet of Things?"
-date:  2016-09-13 15:01:14 
-categories:  Linux       
-author:  ericstephenbrown                                              
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-09-13 15:01:14
+categories: Linux
+author: ericstephenbrown
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/who-needs-internet-things)
 
-id:  323290 
+id:  323290

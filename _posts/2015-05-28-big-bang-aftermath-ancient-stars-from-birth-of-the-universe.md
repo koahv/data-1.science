@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Big Bang aftermath: Ancient stars from birth of the universe"
-date:  2015-05-28 12:38:24 
-categories:  Science     
+date: 2015-05-28 12:38:24
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Xt55UtsYVZI/150528083824.htm)
 
-id:  130246 
+id:  130246

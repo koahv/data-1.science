@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Low-Density Supersonic Decelerator Set to Lift Off - Jet Propulsion Laboratory"
-date:  2014-06-28 00:21:09 
-categories:  Astronomy   
+date: 2014-06-28 00:21:09
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGsCNB_O7g0dSbsMR3Zz9XnPMWX0A&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=RK-uU4CgH9HzggeDi4HAAw&url=http://www.jpl.nasa.gov/news/news.php?release%3D2014-207)
 
-id:    9042 
+id:    9042

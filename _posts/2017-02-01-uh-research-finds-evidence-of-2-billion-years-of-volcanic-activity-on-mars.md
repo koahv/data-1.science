@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "UH research finds evidence of 2 billion years of volcanic activity on Mars"
-date:  2017-02-01 05:00:00 
-categories:  Astronomy   
+date: 2017-02-01 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/uoh-urf012617.php)
 
-id:  362104 
+id:  362104

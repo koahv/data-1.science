@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why don't plants get sunburn?"
-date:  2016-07-12 13:20:01 
-categories:  Science     
+date: 2016-07-12 13:20:01
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2016-07-dont-sunburn.html)
 
-id:  303844 
+id:  303844

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "3-D atomic structure of TRPML1 ion channel published"
-date:  2017-10-13 15:02:52 
-categories:  Science     
+date: 2017-10-13 15:02:52
+categories: Science
 author: unknown author
-tags:  biochemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+tags: [biochemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biochemistry
 
 [Visit Link](https://phys.org/news/2017-10-d-atomic-trpml1-ion-channel.html)
 
-id:  438845 
+id:  438845

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Forest losses increase local temperatures"
-date:  2016-02-05 05:00:00 
-categories:  Science     
+date: 2016-02-05 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/ecjr-fli020516.php)
 
-id:  246286 
+id:  246286

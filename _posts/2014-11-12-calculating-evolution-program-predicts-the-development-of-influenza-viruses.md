@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Calculating evolution: Program predicts the development of influenza viruses"
-date:  2014-11-12 13:38:55 
-categories:  Science     
+date: 2014-11-12 13:38:55
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news335003925.html)
 
-id:   61251 
+id:   61251

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Living to 100: Lifestyle advice for would-be centenarians"
-date:  2015-04-30 12:23:14 
-categories:  Science     
+date: 2015-04-30 12:23:14
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/nt1Z0-cS32g/150430082314.htm)
 
-id:  116755 
+id:  116755

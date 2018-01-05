@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Skulls Uncovered from 'Pit of Bones' Shed Light on Neanderthal and Human Evolution"
-date:  2014-06-20 11:24:20 
-categories:  Science     
+date: 2014-06-20 11:24:20
+categories: Science
 author: unknown author
-tags:  nature & environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+tags: [nature & environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nature & environment
 
 [Visit Link](http://www.scienceworldreport.com/articles/15559/20140620/skulls-uncovered-pit-bones-shed-light-neanderthal-human-evolution.htm)
 
-id:    1647 
+id:    1647

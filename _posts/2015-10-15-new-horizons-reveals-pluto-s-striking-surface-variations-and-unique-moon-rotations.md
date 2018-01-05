@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Horizons reveals Pluto's striking surface variations and unique moon rotations"
-date:  2015-10-15 04:00:00 
-categories:  Astronomy   
+date: 2015-10-15 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/uom-nhr101415.php)
 
-id:  198601 
+id:  198601

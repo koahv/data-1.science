@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "GOES-R satellite Magnetometer ready for spacecraft integration"
-date:  2014-07-16 05:45:37 
-categories:  Science     
+date: 2014-07-16 05:45:37
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news324693922.html)
 
-id:   20959 
+id:   20959

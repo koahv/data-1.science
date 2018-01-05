@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Will Venus Express Spacecraft Crash or Keep Decoding Planet's Secrets?"
-date:  2014-06-24 12:36:23 
-categories:  Science     
-author:  Nadia Drake                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-06-24 12:36:23
+categories: Science
+author: Nadia Drake
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/FdBpfDXWIdI/)
 
-id:    4261 
+id:    4261

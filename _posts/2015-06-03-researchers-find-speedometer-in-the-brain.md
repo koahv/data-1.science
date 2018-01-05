@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers find speedometer in the brain"
-date:  2015-06-03 17:22:52 
-categories:  Science     
+date: 2015-06-03 17:22:52
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150603132252.htm)
 
-id:  133422 
+id:  133422

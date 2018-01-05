@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA mini-balloon mission maps migratory magnetic boundary"
-date:  2016-05-19 04:00:00 
-categories:  Astronomy   
+date: 2016-05-19 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/nsfc-nmm051916.php)
 
-id:  286577 
+id:  286577

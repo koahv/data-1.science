@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "LightSail solar spaceship ends test flight in fiery descent"
-date:  2015-06-16 16:02:00 
-categories:  Tech        
-author:  Jon Fingas                                                    
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-06-16 16:02:00
+categories: Tech
+author: Jon Fingas
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.engadget.com/2015/06/16/lightsail-mission-ends/?ncid=rss_truncated)
 
-id:  140037 
+id:  140037

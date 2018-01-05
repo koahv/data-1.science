@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What is Halley's Comet?"
-date:  2015-06-15 13:50:01 
-categories:  Science     
+date: 2015-06-15 13:50:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news353579451.html)
 
-id:  139138 
+id:  139138

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers explore how genomic integrity is preserved in double-strand breaks"
-date:  2015-08-18 13:10:02 
-categories:  Science     
+date: 2015-08-18 13:10:02
+categories: Science
 author: unknown author
-tags:  cell & microbiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [cell & microbiology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cell & microbiology
 
 [Visit Link](http://phys.org/news/2015-08-explore-genomic-double-strand.html)
 
-id:  170921 
+id:  170921

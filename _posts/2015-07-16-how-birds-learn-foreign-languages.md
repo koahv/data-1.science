@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How birds learn foreign languages"
-date:  2015-07-16 16:41:20 
-categories:  Science     
+date: 2015-07-16 16:41:20
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150716124120.htm)
 
-id:  156205 
+id:  156205

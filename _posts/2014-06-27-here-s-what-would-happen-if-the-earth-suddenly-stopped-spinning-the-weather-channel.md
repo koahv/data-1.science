@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Here's What Would Happen If the Earth Suddenly Stopped Spinning - The Weather Channel"
-date:  2014-06-27 20:48:47 
-categories:  Earth       
+date: 2014-06-27 20:48:47
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHHEEErozbfU8eZLvlmG7UkEjOknQ&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=zzmvU4DkMsWdgQff0oDIDw&url=http://www.weather.com/news/heres-what-would-happen-if-earth-suddenly-stopped-spinning-20140627)
 
-id:    9208 
+id:    9208

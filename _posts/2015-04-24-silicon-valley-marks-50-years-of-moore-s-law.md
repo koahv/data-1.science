@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Silicon Valley marks 50 years of Moore's Law"
-date:  2015-04-24 14:40:02 
-categories:  Science     
+date: 2015-04-24 14:40:02
+categories: Science
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://phys.org/news349088149.html)
 
-id:  114247 
+id:  114247

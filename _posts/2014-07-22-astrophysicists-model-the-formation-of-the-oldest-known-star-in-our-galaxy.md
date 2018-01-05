@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Astrophysicists model the formation of the oldest-known star in our galaxy"
-date:  2014-07-22 20:20:05 
-categories:  Science     
+date: 2014-07-22 20:20:05
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news325264792.html)
 
-id:   25771 
+id:   25771

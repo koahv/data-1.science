@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ALMA precisely measures black hole mass"
-date:  2015-06-18 09:00:03 
-categories:  Science     
+date: 2015-06-18 09:00:03
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news353817207.html)
 
-id:  141221 
+id:  141221

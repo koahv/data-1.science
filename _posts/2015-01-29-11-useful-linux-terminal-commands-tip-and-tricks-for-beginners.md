@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "11 Useful Linux Terminal Commands, Tip and Tricks For Beginners"
-date:  2015-01-29 21:00:00 
-categories:  Linux       
+date: 2015-01-29 21:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/upload/11-useful-linux-terminal-commands-tip-and-tricks-for-beginners-150129002007.html)
 
-id:   76838 
+id:   76838

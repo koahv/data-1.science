@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Social brains: Do insect societies share brain power?"
-date:  2015-06-16 23:00:01 
-categories:  Science     
+date: 2015-06-16 23:00:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news353669991.html)
 
-id:  140378 
+id:  140378

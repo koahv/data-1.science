@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Organic molecules in Titan's atmosphere are intriguingly skewed"
-date:  2014-10-22 04:00:00 
-categories:  Astronomy   
+date: 2014-10-22 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-10/nrao-omi102214.php)
 
-id:   56733 
+id:   56733

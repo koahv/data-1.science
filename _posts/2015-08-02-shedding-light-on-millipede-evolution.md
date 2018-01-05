@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Shedding light on millipede evolution"
-date:  2015-08-02 11:19:26 
-categories:  Science     
+date: 2015-08-02 11:19:26
+categories: Science
 author: unknown author
-tags:  plants & animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [plants & animals]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plants & animals
 
 [Visit Link](http://phys.org/news/2015-08-millipede-evolution.html)
 
-id:  163684 
+id:  163684

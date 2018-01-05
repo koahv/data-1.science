@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mysterious neutrinos take the stage at SLAC"
-date:  2015-09-24 09:59:00 
-categories:  Science     
+date: 2015-09-24 09:59:00
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-09-mysterious-neutrinos-stage-slac.html)
 
-id:  188811 
+id:  188811

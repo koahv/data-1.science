@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Big dinosaur discoveries in tiny toothy packages"
-date:  2015-08-07 07:50:39 
-categories:  Science     
+date: 2015-08-07 07:50:39
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-08-big-dinosaur-discoveries-tiny-toothy.html)
 
-id:  166023 
+id:  166023

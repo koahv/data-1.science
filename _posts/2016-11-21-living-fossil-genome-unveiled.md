@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Living fossil genome unveiled"
-date:  2016-11-21 05:00:00 
-categories:  Science     
+date: 2016-11-21 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/g-lfg111716.php)
 
-id:  342680 
+id:  342680

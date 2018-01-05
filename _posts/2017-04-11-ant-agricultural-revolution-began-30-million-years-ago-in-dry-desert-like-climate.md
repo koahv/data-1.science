@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ant agricultural revolution began 30 million years ago in dry, desert-like climate"
-date:  2017-04-11 04:00:00 
-categories:  Science     
+date: 2017-04-11 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/s-aar040617.php)
 
-id:  382789 
+id:  382789

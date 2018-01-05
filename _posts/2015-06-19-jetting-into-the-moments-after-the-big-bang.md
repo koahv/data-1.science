@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Jetting into the moments after the Big Bang"
-date:  2015-06-19 18:17:32 
-categories:  Science     
+date: 2015-06-19 18:17:32
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150619141732.htm)
 
-id:  142214 
+id:  142214

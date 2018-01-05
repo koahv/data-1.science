@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mathematically modeling HIV drug pharmacodynamics"
-date:  2017-10-19 14:00:05 
-categories:  Science     
+date: 2017-10-19 14:00:05
+categories: Science
 author: unknown author
-tags:  mathematics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [mathematics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  mathematics
 
 [Visit Link](https://phys.org/news/2017-10-mathematically-hiv-drug-pharmacodynamics.html)
 
-id:  441373 
+id:  441373

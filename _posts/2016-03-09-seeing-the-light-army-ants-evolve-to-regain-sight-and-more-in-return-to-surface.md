@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Seeing the light: Army ants evolve to regain sight and more in return to surface"
-date:  2016-03-09 21:47:59 
-categories:  Science     
+date: 2016-03-09 21:47:59
+categories: Science
 author: unknown author
-tags:  plants & animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [plants & animals]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plants & animals
 
 [Visit Link](http://phys.org/news/2016-03-army-ants-evolve-regain-sight.html)
 
-id:  260559 
+id:  260559

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "10 Amazing and Mysterious Uses of (!) Symbol or Operator in Linux Commands"
-date:  2015-05-15 22:00:00 
-categories:  Linux       
+date: 2015-05-15 22:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/infrastructure/10-amazing-and-mysterious-uses-of-symbol-or-operator-in-linux-commands-150515032508.html)
 
-id:  124158 
+id:  124158

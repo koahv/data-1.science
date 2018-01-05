@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Science and art bring back to life 300-million-year-old specimens of a primitive reptile-like vertebrate"
-date:  2014-07-21 16:37:39 
-categories:  Science     
+date: 2014-07-21 16:37:39
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/ZQSWwvVqiok/140721123739.htm)
 
-id:   24805 
+id:   24805

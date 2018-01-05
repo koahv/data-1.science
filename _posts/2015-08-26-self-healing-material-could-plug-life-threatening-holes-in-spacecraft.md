@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Self-healing material could plug life-threatening holes in spacecraft"
-date:  2015-08-26 14:39:03 
-categories:  Science     
+date: 2015-08-26 14:39:03
+categories: Science
 author: unknown author
-tags:  materials science                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [materials science]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  materials science
 
 [Visit Link](http://phys.org/news/2015-08-self-healing-material-life-threatening-holes-spacecraft.html)
 
-id:  174935 
+id:  174935

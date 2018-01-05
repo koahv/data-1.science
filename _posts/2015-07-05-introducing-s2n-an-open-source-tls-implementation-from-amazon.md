@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Introducing s2n, An Open-Source TLS implementation from Amazon"
-date:  2015-07-05 01:29:30 
-categories:  Linux       
+date: 2015-07-05 01:29:30
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Amazon-Launches-s2n)
 
-id:  149775 
+id:  149775

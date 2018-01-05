@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "2014 Nobel Prize in Physiology or Medicine: Cells that constitute a positioning system in the brain"
-date:  2014-10-06 12:24:30 
-categories:  Science     
+date: 2014-10-06 12:24:30
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/q1xTJelyEP4/141006082430.htm)
 
-id:   53204 
+id:   53204

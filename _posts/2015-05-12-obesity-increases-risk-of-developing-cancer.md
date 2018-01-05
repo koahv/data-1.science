@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Obesity increases risk of developing cancer"
-date:  2015-05-12 11:51:12 
-categories:  Science     
+date: 2015-05-12 11:51:12
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/b6du7wMmYxE/150512075112.htm)
 
-id:  122114 
+id:  122114

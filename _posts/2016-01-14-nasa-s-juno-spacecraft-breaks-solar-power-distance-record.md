@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Juno Spacecraft Breaks Solar Power Distance Record"
-date:  2016-01-14 19:24:28 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-01-14 19:24:28
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/01/nasas-juno-spacecraft-breaks-solar-power-distance-record)
 
-id:  236437 
+id:  236437

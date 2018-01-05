@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Reversing pest resistance to biotech cotton: The secret is in the mix"
-date:  2017-05-08 19:00:07 
-categories:  Science     
+date: 2017-05-08 19:00:07
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-05-reversing-pest-resistance-biotech-cotton.html)
 
-id:  390726 
+id:  390726

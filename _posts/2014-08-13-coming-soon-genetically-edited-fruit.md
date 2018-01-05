@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Coming soon: Genetically edited fruit?"
-date:  2014-08-13 16:34:26 
-categories:  Science     
+date: 2014-08-13 16:34:26
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news327152055.html)
 
-id:   38028 
+id:   38028

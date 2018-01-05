@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Flies that pollinized Cretaceous plants 105 million years ago"
-date:  2015-07-10 12:15:31 
-categories:  Science     
+date: 2015-07-10 12:15:31
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150710081531.htm)
 
-id:  152682 
+id:  152682

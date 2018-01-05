@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Today in Engineering History: Explorer 1's Mission Ends"
-date:  2016-03-31 14:47:19 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-03-31 14:47:19
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/03/today-engineering-history-explorer-1s-mission-ends)
 
-id:  268667 
+id:  268667

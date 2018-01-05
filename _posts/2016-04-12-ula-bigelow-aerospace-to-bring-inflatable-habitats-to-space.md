@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ULA, Bigelow Aerospace to Bring Inflatable Habitats to Space"
-date:  2016-04-12 19:52:51 
-categories:  Technology  
-author:  jmeister                                                      
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-12 19:52:51
+categories: Technology
+author: jmeister
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/04/ula-bigelow-aerospace-bring-inflatable-habitats-space)
 
-id:  273402 
+id:  273402

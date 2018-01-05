@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum swing—a pendulum that moves forward and backwards at the same time"
-date:  2016-05-09 13:20:12 
-categories:  Science     
+date: 2016-05-09 13:20:12
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-05-quantum-swinga-pendulum.html)
 
-id:  282514 
+id:  282514

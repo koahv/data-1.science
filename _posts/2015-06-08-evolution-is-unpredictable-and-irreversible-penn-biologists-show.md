@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolution is unpredictable and irreversible, Penn biologists show"
-date:  2015-06-08 04:00:00 
-categories:  Science     
+date: 2015-06-08 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/uop-eiu060815.php)
 
-id:  135883 
+id:  135883

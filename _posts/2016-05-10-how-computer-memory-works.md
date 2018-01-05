@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How Computer Memory Works"
-date:  2016-05-10 21:14:42 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-05-10 21:14:42
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/05/how-computer-memory-works)
 
-id:  283327 
+id:  283327

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Stop and listen: Study shows how movement affects hearing"
-date:  2014-08-27 18:17:00 
-categories:  Science     
+date: 2014-08-27 18:17:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/mgPV_B83mrU/140827141700.htm)
 
-id:   46996 
+id:   46996

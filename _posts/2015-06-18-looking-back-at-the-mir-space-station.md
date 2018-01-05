@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Looking back at the Mir space station"
-date:  2015-06-18 12:20:02 
-categories:  Science     
+date: 2015-06-18 12:20:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news353832556.html)
 
-id:  141313 
+id:  141313

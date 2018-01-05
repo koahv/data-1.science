@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Journey of Octopus Discovery Reveals Them to Be Playful, Curious, Smart"
-date:  2014-06-25 11:13:17 
-categories:  Science     
-author:  Simon Worrall                                                 
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-06-25 11:13:17
+categories: Science
+author: Simon Worrall
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/PnCnCbPhC6o/)
 
-id:    5967 
+id:    5967

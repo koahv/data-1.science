@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Curiosity captures gravity wave shaped clouds on Mars"
-date:  2017-03-24 13:00:01 
-categories:  Science     
+date: 2017-03-24 13:00:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-03-curiosity-captures-gravity-clouds-mars.html)
 
-id:  377294 
+id:  377294

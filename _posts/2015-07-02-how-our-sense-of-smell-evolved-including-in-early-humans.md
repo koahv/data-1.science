@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How our sense of smell evolved, including in early humans"
-date:  2015-07-02 15:21:10 
-categories:  Science     
+date: 2015-07-02 15:21:10
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150702112110.htm)
 
-id:  148908 
+id:  148908

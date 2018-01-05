@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Pluto Probe May Carry Crowdsourced Message to Aliens - Space.com"
-date:  2015-05-19 11:47:31 
-categories:  Astronomy   
+date: 2015-05-19 11:47:31
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHVgJOl8sZoHUThK1cgFOy4rod7cA&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=hDRbVcCWN8K13QGrjYCoAQ&url=http://www.space.com/29439-pluto-spacecraft-message-to-aliens.html)
 
-id:  125272 
+id:  125272

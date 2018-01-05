@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fracking Chemicals Can Disrupt Hormones and May Impact Health"
-date:  2014-06-23 15:40:20 
-categories:  Science     
+date: 2014-06-23 15:40:20
+categories: Science
 author: unknown author
-tags:  nature & environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+tags: [nature & environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nature & environment
 
 [Visit Link](http://www.scienceworldreport.com/articles/15612/20140623/fracking-chemicals-disrupt-hormones-impact-health.htm)
 
-id:    3197 
+id:    3197

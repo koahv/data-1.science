@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Voices in people's heads more complex than previously thought"
-date:  2015-03-11 00:57:07 
-categories:  Science     
+date: 2015-03-11 00:57:07
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/kYoB-vmvydY/150310205707.htm)
 
-id:   93620 
+id:   93620

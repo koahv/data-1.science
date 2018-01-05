@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Turning political pledges into action on climate change"
-date:  2015-10-07 12:40:01 
-categories:  Science     
+date: 2015-10-07 12:40:01
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2015-10-political-pledges-action-climate.html)
 
-id:  194993 
+id:  194993

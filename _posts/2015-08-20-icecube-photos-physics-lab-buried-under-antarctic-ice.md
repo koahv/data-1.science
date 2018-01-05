@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "IceCube Photos: Physics Lab Buried Under Antarctic Ice"
-date:  2015-08-20 15:17:28 
-categories:  Science     
+date: 2015-08-20 15:17:28
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51924-icecube-observatory-photos.html)
 
-id:  172230 
+id:  172230

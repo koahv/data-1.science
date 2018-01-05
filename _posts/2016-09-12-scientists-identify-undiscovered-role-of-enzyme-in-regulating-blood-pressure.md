@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists identify undiscovered role of enzyme in regulating blood pressure"
-date:  2016-09-12 15:00:16 
-categories:  Science     
+date: 2016-09-12 15:00:16
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2016-09-scientists-undiscovered-role-enzyme-blood.html)
 
-id:  322947 
+id:  322947

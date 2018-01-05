@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Record-Breaking Laser Hits 2,000 Trillion Watts"
-date:  2015-08-17 22:57:33 
-categories:  Science     
+date: 2015-08-17 22:57:33
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51889-record-breaking-laser-hits-2000-trillion-watts.html)
 
-id:  170648 
+id:  170648

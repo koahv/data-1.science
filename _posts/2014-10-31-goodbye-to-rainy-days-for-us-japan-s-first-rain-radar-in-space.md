@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Goodbye to rainy days for US, Japan's first rain radar in space"
-date:  2014-10-31 04:00:00 
-categories:  Technology  
+date: 2014-10-31 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-10/nsfc-gtr103114.php)
 
-id:   57534 
+id:   57534

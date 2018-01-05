@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why the Sun's atmosphere is hotter than its surface"
-date:  2015-06-17 13:17:57 
-categories:  Science     
+date: 2015-06-17 13:17:57
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150617091757.htm)
 
-id:  141071 
+id:  141071

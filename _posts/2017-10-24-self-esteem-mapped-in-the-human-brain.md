@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Self-esteem mapped in the human brain"
-date:  2017-10-24 14:33:19 
-categories:  Science     
+date: 2017-10-24 14:33:19
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
 #### Extract
->A team of researchers has devised a mathematical equation that can explain how our self-esteem is shaped by what other people think of us.
+>A team of researchers has devised a mathematical equation that can explain how our self-esteem is shaped by what other people think of us. 
 
 #### Factsheet
 >factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171024103319.htm)
 
-id:  444075 
+id:  444075

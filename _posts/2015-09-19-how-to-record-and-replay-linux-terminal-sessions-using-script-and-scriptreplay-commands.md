@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to Record and Replay Linux Terminal Sessions using ‘script’ and ‘scriptreplay’ Commands"
-date:  2015-09-19 08:00:48 
-categories:  Linux       
-author:  Aaron Kili                                                    
-tags:  linux commands,linux tricks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+date: 2015-09-19 08:00:48
+categories: Linux
+author: Aaron Kili
+tags: [linux commands, linux tricks]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands,linux tricks
 
 [Visit Link](http://www.tecmint.com/record-and-replay-linux-terminal-session-commands-using-script/)
 
-id:  186759 
+id:  186759

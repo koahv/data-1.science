@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ants show left bias when exploring new spaces"
-date:  2014-12-24 15:31:07 
-categories:  Science     
+date: 2014-12-24 15:31:07
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Lmim4ar6BQs/141224103107.htm)
 
-id:   68987 
+id:   68987

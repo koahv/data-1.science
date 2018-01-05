@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Pluto images from NASA's New Horizons"
-date:  2015-09-11 13:23:04 
-categories:  Science     
+date: 2015-09-11 13:23:04
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-pluto-images-nasa-horizons.html)
 
-id:  183007 
+id:  183007

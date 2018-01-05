@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers sequence entire genome of seahorse, investigate essential mechanisms of evolution"
-date:  2016-12-14 18:00:01 
-categories:  Science     
+date: 2016-12-14 18:00:01
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2016-12-sequence-entire-genome-seahorse-essential.html)
 
-id:  349460 
+id:  349460

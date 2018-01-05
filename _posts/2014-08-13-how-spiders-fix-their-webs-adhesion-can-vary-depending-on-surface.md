@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How spiders fix their webs: Adhesion can vary depending on surface"
-date:  2014-08-13 14:35:07 
-categories:  Science     
+date: 2014-08-13 14:35:07
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/DlrZSfcc5HE/140813103507.htm)
 
-id:   38173 
+id:   38173

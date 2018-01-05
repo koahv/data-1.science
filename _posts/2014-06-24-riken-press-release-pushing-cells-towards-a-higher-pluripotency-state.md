@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "RIKEN press release: Pushing cells towards a higher pluripotency state"
-date:  2014-06-24 04:00:00 
-categories:  Science     
+date: 2014-06-24 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/r-rpr062214.php)
 
-id:    4083 
+id:    4083

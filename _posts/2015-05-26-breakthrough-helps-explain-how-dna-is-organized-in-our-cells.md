@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Breakthrough helps explain how DNA is organized in our cells"
-date:  2015-05-26 15:45:33 
-categories:  Science     
+date: 2015-05-26 15:45:33
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news351859510.html)
 
-id:  128756 
+id:  128756

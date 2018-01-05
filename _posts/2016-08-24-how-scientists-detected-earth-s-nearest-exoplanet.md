@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How Scientists Detected Earth's Nearest Exoplanet"
-date:  2016-08-24 20:23:22 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-08-24 20:23:22
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/article/2016/08/how-scientists-detected-earths-nearest-exoplanet)
 
-id:  317977 
+id:  317977

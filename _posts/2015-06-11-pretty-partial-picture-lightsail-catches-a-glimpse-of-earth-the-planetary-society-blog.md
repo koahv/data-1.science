@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pretty (Partial) Picture: LightSail Catches a Glimpse of Earth - The Planetary Society (blog)"
-date:  2015-06-11 04:15:29 
-categories:  Earth       
+date: 2015-06-11 04:15:29
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEvg-OMGILkEryFzrb42wEzjadYBw&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=LyR5VZ3QHJuh3AHoloCoAQ&url=http://www.planetary.org/blogs/jason-davis/2015/20150610-lightsail-cathes-glimpse-earth.html)
 
-id:  137395 
+id:  137395

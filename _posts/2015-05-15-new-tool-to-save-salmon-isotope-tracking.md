@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New tool to save salmon: Isotope tracking"
-date:  2015-05-15 18:50:13 
-categories:  Science     
+date: 2015-05-15 18:50:13
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/AqB17EZECP0/150515145013.htm)
 
-id:  124436 
+id:  124436

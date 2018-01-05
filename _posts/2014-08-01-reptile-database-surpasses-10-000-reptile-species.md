@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Reptile Database surpasses 10,000 reptile species"
-date:  2014-08-01 17:20:45 
-categories:  Science     
+date: 2014-08-01 17:20:45
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news326118030.html)
 
-id:   30211 
+id:   30211

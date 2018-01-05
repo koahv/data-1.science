@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Comprehensive look at brain cancer treatments"
-date:  2015-05-01 22:21:14 
-categories:  Science     
+date: 2015-05-01 22:21:14
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/UimffJo57f0/150501182114.htm)
 
-id:  117695 
+id:  117695

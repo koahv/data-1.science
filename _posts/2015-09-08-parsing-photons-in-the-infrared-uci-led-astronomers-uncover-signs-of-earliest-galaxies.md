@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Parsing photons in the infrared, UCI-led astronomers uncover signs of earliest galaxies"
-date:  2015-09-08 04:00:00 
-categories:  Astronomy   
+date: 2015-09-08 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uoc--ppi090815.php)
 
-id:  181861 
+id:  181861

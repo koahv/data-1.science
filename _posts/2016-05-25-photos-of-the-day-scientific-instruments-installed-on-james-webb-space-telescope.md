@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos of the Day: Scientific Instruments Installed on James Webb Space Telescope"
-date:  2016-05-25 13:48:32 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-05-25 13:48:32
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/05/photos-day-scientific-instruments-installed-james-webb-space-telescope)
 
-id:  288474 
+id:  288474

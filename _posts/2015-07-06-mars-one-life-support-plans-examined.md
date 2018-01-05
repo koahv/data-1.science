@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mars One Life Support Plans Examined"
-date:  2015-07-06 18:15:17 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-07-06 18:15:17
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/articles/2015/07/mars-one-life-support-plans-examined)
 
-id:  150340 
+id:  150340

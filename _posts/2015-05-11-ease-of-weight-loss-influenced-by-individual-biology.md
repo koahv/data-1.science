@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ease of weight loss influenced by individual biology"
-date:  2015-05-11 20:29:18 
-categories:  Science     
+date: 2015-05-11 20:29:18
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/v3GPN2dA9tk/150511162918.htm)
 
-id:  121760 
+id:  121760

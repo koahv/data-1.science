@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Neptune's moon of Triton"
-date:  2015-07-29 13:50:04 
-categories:  Science     
+date: 2015-07-29 13:50:04
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-07-neptune-moon-triton.html)
 
-id:  162078 
+id:  162078

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Best precision yet for neutrino measurements at Daya Bay"
-date:  2015-09-11 14:01:03 
-categories:  Science     
+date: 2015-09-11 14:01:03
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-09-precision-neutrino-daya-bay.html)
 
-id:  182993 
+id:  182993

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers create new 'letters' to enhance DNA functions"
-date:  2017-10-26 13:40:03 
-categories:  Science     
+date: 2017-10-26 13:40:03
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-10-letters-dna-functions.html)
 
-id:  445198 
+id:  445198

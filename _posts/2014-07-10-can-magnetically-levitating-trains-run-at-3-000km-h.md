@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Can magnetically levitating trains run at 3,000km/h?"
-date:  2014-07-10 13:40:01 
-categories:  Science     
+date: 2014-07-10 13:40:01
+categories: Science
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://phys.org/news324202716.html)
 
-id:   17347 
+id:   17347

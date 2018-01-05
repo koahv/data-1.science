@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mercury's core dynamo present early in planet's history"
-date:  2015-05-13 04:00:00 
-categories:  Astronomy   
+date: 2015-05-13 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/aaft-mcd051315.php)
 
-id:  123502 
+id:  123502

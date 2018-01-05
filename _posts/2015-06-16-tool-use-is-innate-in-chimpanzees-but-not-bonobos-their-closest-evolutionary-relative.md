@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tool use is 'innate' in chimpanzees but not bonobos, their closest evolutionary relative"
-date:  2015-06-16 11:23:18 
-categories:  Science     
+date: 2015-06-16 11:23:18
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150616072318.htm)
 
-id:  140091 
+id:  140091

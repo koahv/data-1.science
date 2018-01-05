@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "After 85-year search, massless particle with promise for next-generation electronics found"
-date:  2015-07-16 04:00:00 
-categories:  Science     
+date: 2015-07-16 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/pu-a8s071015.php)
 
-id:  156095 
+id:  156095

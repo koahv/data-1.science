@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Japanese firm to mature whisky in space"
-date:  2015-07-31 10:50:01 
-categories:  Science     
+date: 2015-07-31 10:50:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-07-japanese-firm-mature-whisky-space.html)
 
-id:  163167 
+id:  163167

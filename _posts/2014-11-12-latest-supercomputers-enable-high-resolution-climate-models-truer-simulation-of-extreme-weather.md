@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Latest supercomputers enable high-resolution climate models, truer simulation of extreme weather"
-date:  2014-11-12 05:00:00 
-categories:  Science     
+date: 2014-11-12 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-11/dbnl-lse111214.php)
 
-id:   61610 
+id:   61610

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Global change: Trees continue to grow at a faster rate"
-date:  2014-09-17 04:00:00 
-categories:  Science     
+date: 2014-09-17 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/tum-gct091714.php)
 
-id:   48633 
+id:   48633

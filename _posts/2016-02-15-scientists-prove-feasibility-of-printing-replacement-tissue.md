@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists prove feasibility of 'printing' replacement tissue"
-date:  2016-02-15 05:00:00 
-categories:  Technology  
+date: 2016-02-15 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/wfbm-spf021116.php)
 
-id:  250547 
+id:  250547

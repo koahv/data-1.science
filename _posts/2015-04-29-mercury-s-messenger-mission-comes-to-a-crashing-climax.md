@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mercury's MESSENGER mission comes to a crashing climax"
-date:  2015-04-29 15:30:01 
-categories:  Science     
+date: 2015-04-29 15:30:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news349510972.html)
 
-id:  116405 
+id:  116405

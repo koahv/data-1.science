@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World population to keep growing this century, hit 11 billion by 2100"
-date:  2014-09-18 18:00:21 
-categories:  Science     
+date: 2014-09-18 18:00:21
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news330252479.html)
 
-id:   50859 
+id:   50859

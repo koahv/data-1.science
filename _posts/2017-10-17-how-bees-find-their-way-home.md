@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How bees find their way home"
-date:  2017-10-17 12:37:09 
-categories:  Science     
+date: 2017-10-17 12:37:09
+categories: Science
 author: unknown author
-tags:  plants & animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [plants & animals]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plants & animals
 
 [Visit Link](https://phys.org/news/2017-10-bees-home.html)
 
-id:  440083 
+id:  440083

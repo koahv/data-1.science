@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "US Forest Service releases findings on the effects of drought for forests and rangelands"
-date:  2016-02-01 21:56:00 
-categories:  Science     
+date: 2016-02-01 21:56:00
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2016-02-forest-effects-drought-forests-rangelands.html)
 
-id:  244368 
+id:  244368

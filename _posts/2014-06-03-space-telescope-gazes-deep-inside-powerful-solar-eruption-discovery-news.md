@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Space Telescope Gazes Deep Inside Powerful Solar Eruption - Discovery News"
-date:  2014-06-03 15:27:42 
-categories:  Astronomy   
+date: 2014-06-03 15:27:42
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGPu69I2ISZnnmA5rBWKRelq838CQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778521175085&ei=J4GpU4nZGdHwggeqm4CIAw&url=http://news.discovery.com/space/space-telescope-gazes-deep-inside-powerful-solar-eruption-140603.htm)
 
-id:    4601 
+id:    4601

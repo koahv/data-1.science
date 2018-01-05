@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A New Home for Google Open Source"
-date:  2017-03-29 11:04:51 
-categories:  Linux       
-author:  Google Open Source                                            
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-03-29 11:04:51
+categories: Linux
+author: Google Open Source
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/new-home-google-open-source)
 
-id:  378743 
+id:  378743

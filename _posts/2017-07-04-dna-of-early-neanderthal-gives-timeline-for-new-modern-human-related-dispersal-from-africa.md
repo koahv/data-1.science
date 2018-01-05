@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DNA of early Neanderthal gives timeline for new modern human-related dispersal from Africa"
-date:  2017-07-04 04:00:00 
-categories:  Science     
+date: 2017-07-04 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/mpif-doe062917.php)
 
-id:  406632 
+id:  406632

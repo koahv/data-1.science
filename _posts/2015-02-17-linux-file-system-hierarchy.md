@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Linux file system hierarchy"
-date:  2015-02-17 19:00:00 
-categories:  Linux       
+date: 2015-02-17 19:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/upload/linux-file-system-hierarchy-150216170510.html)
 
-id:   83674 
+id:   83674

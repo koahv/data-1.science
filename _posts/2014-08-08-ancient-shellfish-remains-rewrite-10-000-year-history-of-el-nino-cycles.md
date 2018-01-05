@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient shellfish remains rewrite 10,000-year history of El Nino cycles"
-date:  2014-08-08 04:00:00 
-categories:  Science     
+date: 2014-08-08 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/uow-asr080814.php)
 
-id:   35277 
+id:   35277

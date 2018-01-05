@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study reveals key molecular link in major cell growth pathway"
-date:  2017-10-19 04:00:00 
-categories:  Science     
+date: 2017-10-19 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/wifb-srk101917.php)
 
-id:  441516 
+id:  441516

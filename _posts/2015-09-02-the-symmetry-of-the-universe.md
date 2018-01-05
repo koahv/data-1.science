@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The symmetry of the universe"
-date:  2015-09-02 04:00:00 
-categories:  Science     
+date: 2015-09-02 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/tuom-tso090215.php)
 
-id:  178330 
+id:  178330

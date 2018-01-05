@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Image: The effect of the winds of Mars"
-date:  2015-06-02 09:56:16 
-categories:  Science     
+date: 2015-06-02 09:56:16
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news352443370.html)
 
-id:  132296 
+id:  132296

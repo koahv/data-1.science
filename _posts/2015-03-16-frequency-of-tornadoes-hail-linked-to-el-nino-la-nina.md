@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Frequency of tornadoes, hail linked to El Nino, La Nina"
-date:  2015-03-16 16:00:15 
-categories:  Science     
+date: 2015-03-16 16:00:15
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news345718027.html)
 
-id:   95807 
+id:   95807

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Chinese team performs gene editing on human embryo"
-date:  2015-04-23 13:20:49 
-categories:  Science     
+date: 2015-04-23 13:20:49
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news348999623.html)
 
-id:  113468 
+id:  113468

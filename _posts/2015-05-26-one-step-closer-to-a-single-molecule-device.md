@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "One Step Closer to a Single-Molecule Device"
-date:  2015-05-26 16:52:11 
-categories:  Technology  
-author:  mfassbender                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-05-26 16:52:11
+categories: Technology
+author: mfassbender
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/05/one-step-closer-single-molecule-device)
 
-id:  128851 
+id:  128851

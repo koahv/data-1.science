@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The vacuum tube strikes back: NASA's tiny 460GHz vacuum transistor that could ... - ExtremeTech"
-date:  2014-06-24 20:38:14 
-categories:  Astronomy   
+date: 2014-06-24 20:38:14
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFDrVDJruYxJt_bIjS3j9lrk8FlZQ&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=iIKpU4H0A4jkggfVxoHQCg&url=http://www.extremetech.com/extreme/185027-the-vacuum-tube-strikes-back-nasas-tiny-460ghz-vacuum-transistor-that-could-one-day-replace-silicon-fets)
 
-id:    4687 
+id:    4687

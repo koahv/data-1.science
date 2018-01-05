@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Which fossil fuel reserves must stay in the ground to avoid dangerous climate change?"
-date:  2015-01-07 05:00:00 
-categories:  Science     
+date: 2015-01-07 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/ucl-wff010615.php)
 
-id:   69984 
+id:   69984

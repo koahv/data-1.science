@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "After a half century, the exotic pentaquark particle is found"
-date:  2015-08-24 13:10:01 
-categories:  Science     
+date: 2015-08-24 13:10:01
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-08-century-exotic-pentaquark-particle.html)
 
-id:  173621 
+id:  173621

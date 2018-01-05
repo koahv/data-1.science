@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What makes Mars sunsets different from Earth's? - Phys.Org"
-date:  2015-05-19 12:54:32 
-categories:  Earth       
+date: 2015-05-19 12:54:32
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFPFPtlHV5kRppwRdFS237rmn7v2A&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778838900180&ei=rV5bVYiVBtKU3QHM0oGIDQ&url=http://phys.org/news/2015-05-mars-sunsets-earth.html)
 
-id:  125376 
+id:  125376

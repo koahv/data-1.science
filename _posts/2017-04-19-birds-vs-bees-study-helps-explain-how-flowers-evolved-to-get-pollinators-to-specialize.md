@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Birds vs. bees: Study helps explain how flowers evolved to get pollinators to specialize"
-date:  2017-04-19 04:00:00 
-categories:  Science     
+date: 2017-04-19 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/wpi-bvb041917.php)
 
-id:  385020 
+id:  385020

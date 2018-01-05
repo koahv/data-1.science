@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Directly reprogramming a cell's identity with gene editing"
-date:  2016-08-11 04:00:00 
-categories:  Technology  
+date: 2016-08-11 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/du-dra081116.php)
 
-id:  313585 
+id:  313585

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Giant telescope takes close look at Jupiter's moon Io"
-date:  2015-05-01 11:37:26 
-categories:  Science     
+date: 2015-05-01 11:37:26
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news349684512.html)
 
-id:  117276 
+id:  117276

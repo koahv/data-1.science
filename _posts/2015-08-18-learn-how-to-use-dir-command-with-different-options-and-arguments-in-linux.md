@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Learn How to Use ‘dir’ Command with Different Options and Arguments in Linux"
-date:  2015-08-18 09:24:00 
-categories:  Linux       
-author:  Aaron Kili                                                    
-tags:  linux commands                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-08-18 09:24:00
+categories: Linux
+author: Aaron Kili
+tags: [linux commands]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands
 
 [Visit Link](http://www.tecmint.com/linux-dir-command-usage-with-examples/)
 
-id:  170827 
+id:  170827

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Data-storage for eternity, stored in the form of DNA"
-date:  2015-02-12 20:46:33 
-categories:  Science     
+date: 2015-02-12 20:46:33
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/hz_bs9wKdTQ/150212154633.htm)
 
-id:   82436 
+id:   82436

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Linux Audio Is Being Further Modernized With The 4.1 Kernel"
-date:  2015-04-16 11:43:59 
-categories:  Linux       
+date: 2015-04-16 11:43:59
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Linux-Sound-4.1-Kernel)
 
-id:  110259 
+id:  110259

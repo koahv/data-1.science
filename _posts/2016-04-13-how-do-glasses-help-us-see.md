@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How Do Glasses Help Us See?"
-date:  2016-04-13 17:35:23 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-13 17:35:23
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/videos/2016/04/how-do-glasses-help-us-see)
 
-id:  273881 
+id:  273881

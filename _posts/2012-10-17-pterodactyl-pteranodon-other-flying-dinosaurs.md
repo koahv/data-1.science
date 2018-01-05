@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pterodactyl, Pteranodon & Other Flying 'Dinosaurs'"
-date:  2012-10-17 21:49:08 
-categories:  Science     
+date: 2012-10-17 21:49:08
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/24071-pterodactyl-pteranodon-flying-dinosaurs.html)
 
-id:  264092 
+id:  264092

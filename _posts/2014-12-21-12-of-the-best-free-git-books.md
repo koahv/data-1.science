@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "12 of the Best Free Git Books"
-date:  2014-12-21 13:06:33 
-categories:  Linux       
-author:  Steve Emms                                                    
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-12-21 13:06:33
+categories: Linux
+author: Steve Emms
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/community/blogs/133-general-linux/799592-12-of-the-best-free-git-books/)
 
-id:   69365 
+id:   69365

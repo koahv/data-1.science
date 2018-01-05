@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers discover gene that controls melting point of cocoa butter"
-date:  2015-04-17 12:00:01 
-categories:  Science     
+date: 2015-04-17 12:00:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news348475849.html)
 
-id:  110714 
+id:  110714

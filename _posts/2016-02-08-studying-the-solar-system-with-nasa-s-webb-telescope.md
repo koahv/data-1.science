@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Studying the solar system with NASA's Webb Telescope"
-date:  2016-02-08 05:00:00 
-categories:  Astronomy   
+date: 2016-02-08 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/nsfc-sts020816.php)
 
-id:  247511 
+id:  247511

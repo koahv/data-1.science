@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Most comprehensive study to date reveals evolutionary history of citrus"
-date:  2015-04-14 04:00:00 
-categories:  Science     
+date: 2015-04-14 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/mbae-mcs040815.php)
 
-id:  109270 
+id:  109270

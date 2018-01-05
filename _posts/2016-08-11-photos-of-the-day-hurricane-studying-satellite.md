@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos of the Day: Hurricane-Studying Satellite"
-date:  2016-08-11 13:50:26 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-08-11 13:50:26
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/08/photos-day-hurricane-studying-satellite)
 
-id:  313611 
+id:  313611

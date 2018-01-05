@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Free Software and Free Culture: Open Source's Influence on Society"
-date:  2015-06-02 15:02:27 
-categories:  Linux       
+date: 2015-06-02 15:02:27
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://thevarguy.com/open-source-application-software-companies/051415/free-software-and-free-culture-open-sources-influence-soc)
 
-id:  123118 
+id:  123118

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers align atomic friction experiment"
-date:  2015-06-24 09:50:55 
-categories:  Science     
+date: 2015-06-24 09:50:55
+categories: Science
 author: unknown author
-tags:  nanotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [nanotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanotechnology
 
 [Visit Link](http://phys.org/news354343847.html)
 
-id:  144352 
+id:  144352

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Hippocampus: In search of memory storage"
-date:  2015-06-03 12:32:39 
-categories:  Science     
+date: 2015-06-03 12:32:39
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150603083239.htm)
 
-id:  133300 
+id:  133300

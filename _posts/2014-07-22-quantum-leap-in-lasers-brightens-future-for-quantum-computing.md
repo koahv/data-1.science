@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum leap in lasers brightens future for quantum computing"
-date:  2014-07-22 17:40:21 
-categories:  Science     
+date: 2014-07-22 17:40:21
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news325255211.html)
 
-id:   25539 
+id:   25539

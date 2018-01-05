@@ -1,19 +1,34 @@
 ---
 layout: post
-title: "Search for Earth's Deep Life --Ancient, Hydrogen-Rich Waters Discovered Deep Underground"
-date:  2014-12-17 19:00:02 
-categories:  Astronomy   
-author:  dailygalaxy.com                                               
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+title: ""Search for Earth's Deep Life" --Ancient, Hydrogen-Rich Waters Discovered Deep Underground"
+date: 2014-12-17 19:00:02
+categories: Astronomy
+author: dailygalaxy.com
+tags: []
 ---
 
 
 #### Extract
->+
+>
+
+ 
+A team of scientists has mapped the location of hydrogen-rich waters found trapped kilometres beneath Earth's surface in rock fractures in Precambrian rocks make up over 70% of the surface of the Earth's crust in Canada, South Africa and Scandinavia.
+The team says their findings provide a "global network of sites" with hydrogen-rich waters that can be targeted in the search for deep life over coming years. They also point to the implications for life on Mars. The Red Planet has ancient rocks with hydrogen-producing potential, so could also host microbial life: "If the ancient rocks of Earth are producing this much hydrogen, it may be that similar processes are taking place on Mars," Sherwood Lollar, a geoscientist at University of Toronto's Department of Earth Sciences, said.
+Scientists said the water is found in the oldest rocks on Earth – Precambrian Shield rocks. Findings showed they have a chemistry similar to water found near deep sea vents, meaning they could support microbes living in isolation. The study, to be published in Nature on December 18, includes data from 19 different mine sites that were explored by Lollar, senior research associate Georges Lacrampe-Couloume, and colleagues at Oxford and Princeton universities.
+"This represents a quantum change in our understanding of the total volume of Earth's crust that may be habitable," lead author Lollar said. "Until now, none of the estimates of global hydrogen production sustaining deep microbial populations had included a contribution from the ancient continents." She said the terrain represents a "sleeping giant", with the huge area a "source of possible energy for life".
+The authors explain that understanding how much hydrogen is produced is key to understanding the amount of Earth's habitable subsurface. Deep in gold mines and under the sea, hydrothermal vents release geothermally heated waters that are hydrogen rich. They host complex microbial communities nurtured by the chemicals dissolved in the fluid.
+The Daily Galaxy via University of Toronto
+Related articles
+
+Asteroid Impact 3.3 Billion Years Ago "Dwarfed the Dinosaur-Extinction Event" (Thanksgiving Holiday Feature)
+"Did Life Originate Deep Inside Earth?" --Deep Carbon Observatory Scientists
+Origin of Earth's Oceans --"From Plate Tectonics or Icy Comets?"
+New Layer of Earth Grows Beneath Icelandic Volcano
+
 
 #### Factsheet
 >factsheet unavailable
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/IMx5ibY33fw/search-for-earths-deep-life-ancient-hydrogen-rich-waters-discovered-deep-underground.html)
 
-id:   67706 
+id:   67706

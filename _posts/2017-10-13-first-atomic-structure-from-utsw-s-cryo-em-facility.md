@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First atomic structure from UTSW's cryo-EM facility"
-date:  2017-10-13 04:00:00 
-categories:  Technology  
+date: 2017-10-13 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/usmc-fas101217.php)
 
-id:  438854 
+id:  438854

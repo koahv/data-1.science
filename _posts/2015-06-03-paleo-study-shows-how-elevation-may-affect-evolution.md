@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Paleo study shows how elevation may affect evolution"
-date:  2015-06-03 08:12:03 
-categories:  Science     
+date: 2015-06-03 08:12:03
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news352523513.html)
 
-id:  132997 
+id:  132997

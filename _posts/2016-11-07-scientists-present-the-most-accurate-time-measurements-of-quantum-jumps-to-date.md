@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists present the most accurate time measurements of quantum jumps to date"
-date:  2016-11-07 16:24:16 
-categories:  Science     
+date: 2016-11-07 16:24:16
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-11-scientists-accurate-quantum-date.html)
 
-id:  338893 
+id:  338893

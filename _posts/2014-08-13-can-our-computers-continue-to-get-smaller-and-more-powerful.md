@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Can our computers continue to get smaller and more powerful?"
-date:  2014-08-13 21:44:47 
-categories:  Science     
+date: 2014-08-13 21:44:47
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/tRzzMGpNO_g/140813174447.htm)
 
-id:   39066 
+id:   39066

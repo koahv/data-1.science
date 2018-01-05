@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The benefits and dangers of supplements"
-date:  2014-09-16 15:17:43 
-categories:  Science     
+date: 2014-09-16 15:17:43
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/YCbz7r1Zg5Y/140916111743.htm)
 
-id:   49471 
+id:   49471

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The evolution of tyrannosaurs"
-date:  2016-02-18 14:10:01 
-categories:  Science     
+date: 2016-02-18 14:10:01
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2016-02-evolution-tyrannosaurs.html)
 
-id:  252105 
+id:  252105

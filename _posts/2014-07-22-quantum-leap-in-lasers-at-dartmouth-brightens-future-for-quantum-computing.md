@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum leap in lasers at Dartmouth brightens future for quantum computing"
-date:  2014-07-22 04:00:00 
-categories:  Technology  
+date: 2014-07-22 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/dc-qli072214.php)
 
-id:   25428 
+id:   25428

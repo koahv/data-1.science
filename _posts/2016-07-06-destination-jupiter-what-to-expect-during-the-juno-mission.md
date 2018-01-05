@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Destination Jupiter: What to Expect During the Juno Mission"
-date:  2016-07-06 13:25:40 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-07-06 13:25:40
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/07/destination-jupiter-what-expect-during-juno-mission)
 
-id:  301980 
+id:  301980

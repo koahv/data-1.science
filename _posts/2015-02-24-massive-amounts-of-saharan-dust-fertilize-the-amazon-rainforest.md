@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Massive amounts of Saharan dust fertilize the Amazon rainforest"
-date:  2015-02-24 15:28:47 
-categories:  Science     
+date: 2015-02-24 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
 #### Extract
->Every year, millions of tons of nutrient-rich Saharan dust cross the Atlantic Ocean, bringing vital phosphorus and other fertilizers to depleted Amazon soils. For the first time, scientists have an accurate estimate of how much phosphorus makes this trans-Atlantic journey.
+>(University of Maryland) Every year, millions of tons of nutrient-rich Saharan dust cross the Atlantic Ocean, bringing vital phosphorus and other fertilizers to depleted Amazon soils. For the first time, scientists have an accurate estimate of how much phosphorus makes this trans-Atlantic journey.
 
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/ZxqKTtZ4Yr0/150224102847.htm)
+[Visit Link](http://www.eurekalert.org/pub_releases/2015-02/uom-mao022315.php)
 
-id:   86779 
+id:   86602

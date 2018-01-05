@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Deep learning system for drug discovery to be presented at the Machine Intelligence Summit in Berlin"
-date:  2016-06-14 04:00:00 
-categories:  Technology  
+date: 2016-06-14 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/imi-dls061316.php)
 
-id:  294551 
+id:  294551

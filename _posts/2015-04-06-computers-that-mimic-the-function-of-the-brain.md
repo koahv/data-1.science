@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Computers that mimic the function of the brain"
-date:  2015-04-06 04:00:00 
-categories:  Science     
+date: 2015-04-06 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/nu-ctm040615.php)
 
-id:  105347 
+id:  105347

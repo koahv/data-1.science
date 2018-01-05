@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Heat radiates 10,000 times faster at the nanoscale"
-date:  2015-12-10 05:00:00 
-categories:  Technology  
+date: 2015-12-10 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/uom-hr1121015.php)
 
-id:  223243 
+id:  223243

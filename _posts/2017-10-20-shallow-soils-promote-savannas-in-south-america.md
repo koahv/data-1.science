@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Shallow soils promote savannas in South America"
-date:  2017-10-20 12:24:03 
-categories:  Science     
+date: 2017-10-20 12:24:03
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](https://phys.org/news/2017-10-shallow-soils-savannas-south-america.html)
 
-id:  442007 
+id:  442007

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers design first artificial ribosome"
-date:  2015-07-30 01:57:35 
-categories:  Science     
+date: 2015-07-30 01:57:35
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150729215735.htm)
 
-id:  162453 
+id:  162453

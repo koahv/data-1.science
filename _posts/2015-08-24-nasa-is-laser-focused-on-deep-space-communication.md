@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA is laser-focused on deep space communication"
-date:  2015-08-24 19:04:52 
-categories:  Science     
+date: 2015-08-24 19:04:52
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-nasa-laser-focused-deep-space.html)
 
-id:  173897 
+id:  173897

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Artificial photosynthesis: Researchers create the first practical design for photoelectrochemical water splitting"
-date:  2016-09-12 15:43:12 
-categories:  Science     
+date: 2016-09-12 15:43:12
+categories: Science
 author: unknown author
-tags:  energy & green tech                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [energy & green tech]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  energy & green tech
 
 [Visit Link](http://phys.org/news/2016-09-artificial-photosynthesis-photoelectrochemical.html)
 
-id:  322942 
+id:  322942

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Measure greenhouse gases from space"
-date:  2016-06-22 10:48:45 
-categories:  Science     
+date: 2016-06-22 10:48:45
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2016-06-greenhouse-gases-space.html)
 
-id:  297541 
+id:  297541

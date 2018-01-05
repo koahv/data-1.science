@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists generate a new type of human stem cell that has half a genome"
-date:  2016-03-16 04:00:00 
-categories:  Technology  
+date: 2016-03-16 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/thuo-sga031416.php)
 
-id:  263164 
+id:  263164

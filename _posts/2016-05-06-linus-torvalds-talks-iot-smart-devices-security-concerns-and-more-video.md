@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Linus Torvalds Talks IoT, Smart Devices, Security Concerns, and More [Video]"
-date:  2016-05-06 15:00:00 
-categories:  Linux       
-author:  ericstephenbrown                                              
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-05-06 15:00:00
+categories: Linux
+author: ericstephenbrown
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/linus-torvalds-talks-iot-smart-devices-security-concerns-and-more-video)
 
-id:  281984 
+id:  281984

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Neuroscientists reverse memories' emotional associations: Brain circuit that links feelings to memories manipulated"
-date:  2014-08-27 17:16:58 
-categories:  Science     
+date: 2014-08-27 17:16:58
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Wf3wPHgU4S0/140827131658.htm)
 
-id:   47009 
+id:   47009

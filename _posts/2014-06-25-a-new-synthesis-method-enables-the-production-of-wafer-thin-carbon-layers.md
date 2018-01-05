@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A new synthesis method enables the production of wafer-thin carbon layers"
-date:  2014-06-25 11:40:02 
-categories:  Science     
+date: 2014-06-25 11:40:02
+categories: Science
 author: unknown author
-tags:  nanotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [nanotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanotechnology
 
 [Visit Link](http://phys.org/news322897618.html)
 
-id:    6024 
+id:    6024

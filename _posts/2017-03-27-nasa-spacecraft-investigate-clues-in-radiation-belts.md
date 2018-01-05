@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA spacecraft investigate clues in radiation belts"
-date:  2017-03-27 15:57:43 
-categories:  Science     
+date: 2017-03-27 15:57:43
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-03-nasa-spacecraft-clues-belts.html)
 
-id:  377860 
+id:  377860

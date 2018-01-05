@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New function in gene-regulatory protein discovered"
-date:  2017-10-20 12:20:30 
-categories:  Science     
+date: 2017-10-20 12:20:30
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-10-function-gene-regulatory-protein.html)
 
-id:  442009 
+id:  442009

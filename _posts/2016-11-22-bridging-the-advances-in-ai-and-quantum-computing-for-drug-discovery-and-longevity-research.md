@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bridging the advances in AI and quantum computing for drug discovery and longevity research"
-date:  2016-11-22 05:00:00 
-categories:  Technology  
+date: 2016-11-22 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/imi-bta111716.php)
 
-id:  342986 
+id:  342986

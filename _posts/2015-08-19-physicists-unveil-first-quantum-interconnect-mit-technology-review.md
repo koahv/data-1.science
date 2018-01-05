@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists Unveil First Quantum Interconnect - MIT Technology Review"
-date:  2015-08-19 15:17:37 
-categories:  Science     
+date: 2015-08-19 15:17:37
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNERZeHFopVsaIHQdHVrZNICoSPpRQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778930480784&ei=0l_3VbjDG4rL3gHDrJBQ&url=http://www.technologyreview.com/view/540696/physicists-unveil-first-quantum-interconnect/)
 
-id:  184434 
+id:  184434

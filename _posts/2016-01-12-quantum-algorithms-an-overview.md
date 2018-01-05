@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum algorithms: an overview"
-date:  2016-01-12 00:00:00 
-categories:  Science     
+date: 2016-01-12 00:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.nature.com/articles/npjqi201523)
 
-id:  235266 
+id:  235266

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Schizophrenia, bipolar disorder may share genetic roots with creativity"
-date:  2015-06-08 16:01:45 
-categories:  Science     
+date: 2015-06-08 16:01:45
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150608120145.htm)
 
-id:  135599 
+id:  135599

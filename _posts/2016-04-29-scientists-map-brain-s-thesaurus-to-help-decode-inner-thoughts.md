@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists map brain's 'thesaurus' to help decode inner thoughts"
-date:  2016-04-29 04:00:00 
-categories:  Technology  
+date: 2016-04-29 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/nsf-smb042916.php)
 
-id:  279741 
+id:  279741

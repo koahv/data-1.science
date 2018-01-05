@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Network Time Keeps on Ticking with Long-Running NTP Project"
-date:  2016-04-28 14:48:48 
-categories:  Linux       
-author:  aankerholz                                                    
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-28 14:48:48
+categories: Linux
+author: aankerholz
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/network-time-keeps-ticking-long-running-ntp-project)
 
-id:  279169 
+id:  279169

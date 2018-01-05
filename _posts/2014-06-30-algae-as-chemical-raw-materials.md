@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Algae as chemical raw materials"
-date:  2014-06-30 13:36:31 
-categories:  Science     
+date: 2014-06-30 13:36:31
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/GprlfAkBy3w/140630093631.htm)
 
-id:   10527 
+id:   10527

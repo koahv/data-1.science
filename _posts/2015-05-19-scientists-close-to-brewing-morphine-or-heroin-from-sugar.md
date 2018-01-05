@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists close to brewing morphine (or heroin) from sugar"
-date:  2015-05-19 02:39:00 
-categories:  Tech        
-author:  Timothy J. Seppala                                            
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-05-19 02:39:00
+categories: Tech
+author: Timothy J. Seppala
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.engadget.com/2015/05/18/brew-your-own-heroin/?ncid=rss_truncated)
 
-id:  125104 
+id:  125104

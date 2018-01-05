@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Babies can think before they can speak"
-date:  2015-05-26 18:06:01 
-categories:  Science     
+date: 2015-05-26 18:06:01
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/RdF_mk5yGV8/150526140601.htm)
 
-id:  128920 
+id:  128920

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The gas giant Jupiter"
-date:  2015-08-26 12:00:01 
-categories:  Science     
+date: 2015-08-26 12:00:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-gas-giant-jupiter.html)
 
-id:  174716 
+id:  174716

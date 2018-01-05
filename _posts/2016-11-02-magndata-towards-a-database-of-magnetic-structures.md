@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "MAGNDATA: Towards a database of magnetic structures"
-date:  2016-11-02 13:45:00 
-categories:  Science     
+date: 2016-11-02 13:45:00
+categories: Science
 author: unknown author
-tags:  condensed matter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [condensed matter]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  condensed matter
 
 [Visit Link](http://phys.org/news/2016-11-magndata-database-magnetic.html)
 
-id:  337500 
+id:  337500

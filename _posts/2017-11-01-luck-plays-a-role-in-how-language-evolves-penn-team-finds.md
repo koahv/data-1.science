@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Luck plays a role in how language evolves, Penn team finds"
-date:  2017-11-01 04:00:00 
-categories:  Science     
+date: 2017-11-01 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/uop-lpa103017.php)
 
-id:  447930 
+id:  447930

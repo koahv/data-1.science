@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Astronomers Discover Rare Triple Supermassive Black Hole System - Sci-News.com"
-date:  2014-06-26 10:56:58 
-categories:  Astronomy   
+date: 2014-06-26 10:56:58
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGCMnw_wheA9lJE7jTkvUx1mBsjXw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778543217711&ei=2gesU6CeKtHzggeDi4HAAw&url=http://www.sci-news.com/astronomy/science-triple-supermassive-black-hole-system-02022.html)
 
-id:    7276 
+id:    7276

@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "NOAA's DSCOVR to provide 'EPIC' views of earth"
-date:  2015-01-07 05:00:00 
-categories:  Science     
+date: 2015-01-07 05:00:00
+categories: Science
+Astronomy
+Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +18,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/nsfc-ndt010715.php)
 
-id:   69978 
+id:   69978

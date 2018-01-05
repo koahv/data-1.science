@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New study points to better classrooms for children with disabilities"
-date:  2015-03-06 14:16:11 
-categories:  Science     
+date: 2015-03-06 14:16:11
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/9_ozNqqb4tg/150306091611.htm)
 
-id:   91873 
+id:   91873

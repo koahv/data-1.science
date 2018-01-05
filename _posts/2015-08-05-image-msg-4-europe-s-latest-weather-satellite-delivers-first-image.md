@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Image: MSG-4, Europe's latest weather satellite, delivers first image"
-date:  2015-08-05 10:20:01 
-categories:  Science     
+date: 2015-08-05 10:20:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-image-msg-europe-latest-weather.html)
 
-id:  164950 
+id:  164950

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "30 years and counting, the X-ray laser lives on"
-date:  2015-04-15 11:40:03 
-categories:  Science     
+date: 2015-04-15 11:40:03
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news348301570.html)
 
-id:  109497 
+id:  109497

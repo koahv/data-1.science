@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How the brain balances hearing between our ears"
-date:  2015-05-12 16:41:34 
-categories:  Science     
+date: 2015-05-12 16:41:34
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Vzz4TSpuu4I/150512124134.htm)
 
-id:  122072 
+id:  122072

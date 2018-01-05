@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What's coming after Hubble and James Webb? The High-Definition Space Telescope"
-date:  2015-08-13 13:20:01 
-categories:  Science     
+date: 2015-08-13 13:20:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-hubble-james-webb-high-definition-space.html)
 
-id:  169122 
+id:  169122

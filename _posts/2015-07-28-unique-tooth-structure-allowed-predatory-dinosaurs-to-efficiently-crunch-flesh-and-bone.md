@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Unique tooth structure allowed predatory dinosaurs to efficiently crunch flesh and bone"
-date:  2015-07-28 09:00:01 
-categories:  Science     
+date: 2015-07-28 09:00:01
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-07-unique-tooth-predatory-dinosaurs-efficiently.html)
 
-id:  161419 
+id:  161419

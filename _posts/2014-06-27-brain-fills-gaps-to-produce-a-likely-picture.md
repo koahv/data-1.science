@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brain fills gaps to produce a likely picture"
-date:  2014-06-27 13:45:51 
-categories:  Science     
+date: 2014-06-27 13:45:51
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/_L1jpVw5EXU/140627094551.htm)
 
-id:    8691 
+id:    8691

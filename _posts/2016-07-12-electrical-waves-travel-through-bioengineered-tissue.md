@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Electrical waves travel through bioengineered tissue"
-date:  2016-07-12 15:17:22 
-categories:  Science     
+date: 2016-07-12 15:17:22
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/jul/12/electrical-waves-travel-through-bioengineered-tissue)
 
-id:  304035 
+id:  304035

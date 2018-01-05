@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Emotional brains 'physically different' from rational ones"
-date:  2015-06-18 14:41:53 
-categories:  Science     
+date: 2015-06-18 14:41:53
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150618104153.htm)
 
-id:  141497 
+id:  141497

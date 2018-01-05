@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers develop technique to produce a direct image of the DNA helix and its inner structure"
-date:  2015-08-31 11:30:01 
-categories:  Science     
+date: 2015-08-31 11:30:01
+categories: Science
 author: unknown author
-tags:  biochemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+tags: [biochemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biochemistry
 
 [Visit Link](http://phys.org/news/2015-08-technique-image-dna-helix.html)
 
-id:  176902 
+id:  176902

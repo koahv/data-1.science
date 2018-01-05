@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A dictionary of the language of cells"
-date:  2015-07-22 11:30:02 
-categories:  Science     
+date: 2015-07-22 11:30:02
+categories: Science
 author: unknown author
-tags:  cell & microbiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [cell & microbiology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cell & microbiology
 
 [Visit Link](http://phys.org/news/2015-07-dictionary-language-cells.html)
 
-id:  158681 
+id:  158681

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How do ants identify different members of their society?"
-date:  2015-08-13 16:00:04 
-categories:  Science     
+date: 2015-08-13 16:00:04
+categories: Science
 author: unknown author
-tags:  plants & animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [plants & animals]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plants & animals
 
 [Visit Link](http://phys.org/news/2015-08-ants-members-society.html)
 
-id:  169101 
+id:  169101

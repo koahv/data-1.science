@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Whales and dolphins have rich 'human-like' cultures and societies"
-date:  2017-10-16 04:00:00 
-categories:  Science     
+date: 2017-10-16 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uom-wad101217.php)
 
-id:  439625 
+id:  439625

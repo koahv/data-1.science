@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Quantum optical hard drive breakthrough"
-date:  2015-01-08 05:00:00 
-categories:  Technology  
+date: 2015-01-08 05:00:00
+categories: Technology
+Science
+Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +18,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/anu-qoh010815.php)
 
-id:   71516 
+id:   71516

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "3-D packaging of DNA regulates cell identity"
-date:  2017-10-12 19:01:53 
-categories:  Science     
+date: 2017-10-12 19:01:53
+categories: Science
 author: unknown author
-tags:  cell & microbiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [cell & microbiology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cell & microbiology
 
 [Visit Link](https://phys.org/news/2017-10-d-packaging-dna-cell-identity.html)
 
-id:  438510 
+id:  438510

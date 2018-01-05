@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Where bread began: Ancient tools used to reconstruct -- and taste -- prehistoric cuisine"
-date:  2015-08-26 04:00:00 
-categories:  Science     
+date: 2015-08-26 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/bu-wbb082515.php)
 
-id:  174772 
+id:  174772

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Strong interaction between herbivores and plants"
-date:  2017-03-23 15:43:14 
-categories:  Science     
+date: 2017-03-23 15:43:14
+categories: Science
 author: unknown author
-tags:  ecology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [ecology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  ecology
 
 [Visit Link](https://phys.org/news/2017-03-strong-interaction-herbivores.html)
 
-id:  376937 
+id:  376937

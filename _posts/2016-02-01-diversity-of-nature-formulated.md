@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Diversity of nature formulated"
-date:  2016-02-01 05:00:00 
-categories:  Science     
+date: 2016-02-01 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/uoc--don020116.php)
 
-id:  244294 
+id:  244294

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New algorithms may revolutionize drug discoveries -- and our understanding of life"
-date:  2017-02-06 05:00:00 
-categories:  Science     
+date: 2017-02-06 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/uot-nam020317.php)
 
-id:  363235 
+id:  363235

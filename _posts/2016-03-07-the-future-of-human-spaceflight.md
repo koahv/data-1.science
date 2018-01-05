@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Future of Human Spaceflight"
-date:  2016-03-07 15:07:12 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-03-07 15:07:12
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/article/2016/03/future-human-spaceflight)
 
-id:  259290 
+id:  259290

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Revolutionary guitar string rocks the guitar world"
-date:  2017-09-22 10:36:35 
-categories:  Science     
+date: 2017-09-22 10:36:35
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-09-revolutionary-guitar-world.html)
 
-id:  431610 
+id:  431610

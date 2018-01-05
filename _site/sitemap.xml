@@ -92,9 +92,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2017/11/13/crispr-carrying-nanoparticles-edit-the-genome.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2017-11-13-crispr-carrying-nanoparticles-edit-the-genome.html</loc>
       
-        <lastmod>2017-11-13T15:59:59+00:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -659,15 +659,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2017/10/23/mit-neuroscientists-build-case-for-new-theory-of-memory-formation.html</loc>
-      
-        <lastmod>2017-10-23T19:59:59+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/science/2017/10/23/singapore-will-stop-adding-new-cars-to-its-roads-in-2018.html</loc>
       
         <lastmod>2017-10-23T19:45:52+01:00</lastmod>
@@ -713,6 +704,24 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/science/2017/10/23/moment-of-impact-a-journey-into-the-chicxulub-crater.html</loc>
+      
+        <lastmod>2017-10-23T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/2017/12/18/2017-10-23-mit-neuroscientists-build-case-for-new-theory-of-memory-formation.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/open/source/2017/10/23/how-open-government-is-helping-with-hurricane-relief.html</loc>
       
         <lastmod>2017-10-23T08:01:00+01:00</lastmod>
@@ -732,15 +741,6 @@
   
     <url>
       <loc>http://localhost:4000/science/2017/10/23/scientists-develop-new-theory-of-molecular-evolution.html</loc>
-      
-        <lastmod>2017-10-23T05:00:00+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/science/2017/10/23/moment-of-impact-a-journey-into-the-chicxulub-crater.html</loc>
       
         <lastmod>2017-10-23T05:00:00+01:00</lastmod>
       
@@ -1118,15 +1118,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2017/10/17/we-can-hack-our-immune-cells-to-fight-cancer.html</loc>
-      
-        <lastmod>2017-10-17T15:00:55+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/science/2017/10/17/icarus-lifts-off.html</loc>
       
         <lastmod>2017-10-17T14:50:03+01:00</lastmod>
@@ -1202,6 +1193,15 @@
       <loc>http://localhost:4000/astronomy/2017/10/17/webcam-on-mars-express-surveys-high-altitude-clouds.html</loc>
       
         <lastmod>2017-10-17T10:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/2017/12/18/2017-10-17-we-can-hack-our-immune-cells-to-fight-cancer.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -3953,18 +3953,18 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/technology/2017/04/16/nasa-saturn-s-moon-enceladus-has-all-the-basic-ingredients-for-life.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2017-04-16-the-ultimate-a-to-z-list-of-linux-commands.html</loc>
       
-        <lastmod>2017-04-16T12:00:35+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/linux/2017/04/16/the-ultimate-a-to-z-list-of-linux-commands.html</loc>
+      <loc>http://localhost:4000/technology/2017/04/16/nasa-saturn-s-moon-enceladus-has-all-the-basic-ingredients-for-life.html</loc>
       
-        <lastmod>2017-04-16T11:32:32+01:00</lastmod>
+        <lastmod>2017-04-16T12:00:35+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -5825,18 +5825,18 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2016/11/22/gravity-measured-using-a-bose-einstein-condensate-on-a-chip.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2016-11-22-what-will-humans-look-like-in-100-years.html</loc>
       
-        <lastmod>2016-11-22T16:23:27+00:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2016/11/22/what-will-humans-look-like-in-100-years.html</loc>
+      <loc>http://localhost:4000/science/2016/11/22/gravity-measured-using-a-bose-einstein-condensate-on-a-chip.html</loc>
       
-        <lastmod>2016-11-22T16:19:53+00:00</lastmod>
+        <lastmod>2016-11-22T16:23:27+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -7283,9 +7283,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2016/08/12/what-a-planet-needs-to-sustain-life.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2016-08-12-what-a-planet-needs-to-sustain-life.html</loc>
       
-        <lastmod>2016-08-12T15:49:58+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -8093,18 +8093,18 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2016/06/28/how-computers-are-learning-to-be-creative.html</loc>
+      <loc>http://localhost:4000/earth/2016/06/28/nasa-x2019-s-juno-spacecraft-prepares-to-probe-jupiter-x2019-s-mysteries.html</loc>
       
-        <lastmod>2016-06-28T15:46:01+01:00</lastmod>
+        <lastmod>2016-06-28T01:00:00+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/earth/2016/06/28/nasa-x2019-s-juno-spacecraft-prepares-to-probe-jupiter-x2019-s-mysteries.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2016-06-28-how-computers-are-learning-to-be-creative.html</loc>
       
-        <lastmod>2016-06-28T01:00:00+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -8336,18 +8336,18 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2016/06/21/an-ocean-lies-a-few-kilometers-beneath-saturn-s-moon-enceladus-s-icy-surface.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2016-06-21-why-genetic-research-must-be-more-diverse.html</loc>
       
-        <lastmod>2016-06-21T16:57:43+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2016/06/21/why-genetic-research-must-be-more-diverse.html</loc>
+      <loc>http://localhost:4000/science/2016/06/21/an-ocean-lies-a-few-kilometers-beneath-saturn-s-moon-enceladus-s-icy-surface.html</loc>
       
-        <lastmod>2016-06-21T16:07:40+01:00</lastmod>
+        <lastmod>2016-06-21T16:57:43+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -8363,9 +8363,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2016/06/21/3d-printing-human-organs-in-space-microgravity-test-successful.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2016-06-21-3d-printing-human-organs-in-space-microgravity-test-successful.html</loc>
       
-        <lastmod>2016-06-21T06:43:00+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -8732,6 +8732,15 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/2017/12/18/2016-06-06-what-s-so-sexy-about-math.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/technology/2016/06/06/photos-of-the-day-astronauts-enter-world-s-first-inflatable-space-habitat.html</loc>
       
         <lastmod>2016-06-06T20:40:54+01:00</lastmod>
@@ -8753,15 +8762,6 @@
       <loc>http://localhost:4000/astronomy/2016/06/06/flamingo-stars-turn-pink-when-they-gobble-iron-rich-planets.html</loc>
       
         <lastmod>2016-06-06T17:51:48+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/interest/2016/06/06/what-s-so-sexy-about-math.html</loc>
-      
-        <lastmod>2016-06-06T16:15:26+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -8816,15 +8816,6 @@
       <loc>http://localhost:4000/technology/2016/06/03/gene-circuits-in-live-cells-can-perform-complex-computations.html</loc>
       
         <lastmod>2016-06-03T05:00:00+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/linux/2016/06/02/linux-lexicon-linux-directory-structure-in-detail.html</loc>
-      
-        <lastmod>2016-06-02T17:50:32+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -8915,6 +8906,15 @@
       <loc>http://localhost:4000/astronomy/2016/06/02/nasa-s-hubble-finds-universe-is-expanding-faster-than-expected.html</loc>
       
         <lastmod>2016-06-02T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/2017/12/18/2016-06-02-linux-lexicon-linux-directory-structure-in-detail.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -9272,18 +9272,18 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2016/05/16/how-scientists-are-trying-to-hack-your-dreams.html</loc>
+      <loc>http://localhost:4000/science/2016/05/16/maize-genome-dark-matter-discovery-a-boon-for-breeders.html</loc>
       
-        <lastmod>2016-05-16T15:48:24+01:00</lastmod>
+        <lastmod>2016-05-16T05:00:00+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2016/05/16/maize-genome-dark-matter-discovery-a-boon-for-breeders.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2016-05-16-how-scientists-are-trying-to-hack-your-dreams.html</loc>
       
-        <lastmod>2016-05-16T05:00:00+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -9407,18 +9407,27 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/technology/2016/05/10/how-computer-memory-works.html</loc>
+      <loc>http://localhost:4000/astronomy/2016/05/10/transit-of-mercury.html</loc>
       
-        <lastmod>2016-05-10T22:14:42+01:00</lastmod>
+        <lastmod>2016-05-10T12:45:00+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2016/05/10/this-is-your-brain-on-communication.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2016-05-10-this-is-your-brain-on-communication.html</loc>
       
-        <lastmod>2016-05-10T16:05:47+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/technology/2016/05/10/how-computer-memory-works.html</loc>
+      
+        <lastmod>2016-05-10T22:14:42+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -9443,15 +9452,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/astronomy/2016/05/10/transit-of-mercury.html</loc>
-      
-        <lastmod>2016-05-10T12:45:00+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/science/2016/05/10/large-hadron-collider-prepares-to-deliver-six-times-the-data.html</loc>
       
         <lastmod>2016-05-10T11:38:28+01:00</lastmod>
@@ -9470,15 +9470,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2016/05/09/gene-editing-can-now-change-an-entire-species-forever.html</loc>
-      
-        <lastmod>2016-05-09T15:52:08+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/science/2016/05/09/quantum-swing-a-pendulum-that-moves-forward-and-backwards-at-the-same-time.html</loc>
       
         <lastmod>2016-05-09T14:20:12+01:00</lastmod>
@@ -9488,18 +9479,27 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/astronomy/2016/05/09/first-global-mercury-map-shows-its-hills-and-valleys-in-detail.html</loc>
+      <loc>http://localhost:4000/technology/2016/05/09/how-will-people-interact-with-technology-in-the-future.html</loc>
       
-        <lastmod>2016-05-09T12:51:17+01:00</lastmod>
+        <lastmod>2016-05-09T05:00:00+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/technology/2016/05/09/how-will-people-interact-with-technology-in-the-future.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2016-05-09-gene-editing-can-now-change-an-entire-species-forever.html</loc>
       
-        <lastmod>2016-05-09T05:00:00+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2016/05/09/first-global-mercury-map-shows-its-hills-and-valleys-in-detail.html</loc>
+      
+        <lastmod>2016-05-09T12:51:17+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -9911,9 +9911,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2016/04/20/we-can-reprogram-life-how-to-do-it-wisely.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2016-04-20-we-can-reprogram-life-how-to-do-it-wisely.html</loc>
       
-        <lastmod>2016-04-20T16:04:46+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -10019,15 +10019,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2016/04/13/a-new-superweapon-in-the-fight-against-cancer.html</loc>
-      
-        <lastmod>2016-04-13T16:08:28+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/science/2016/04/13/diet-affects-the-evolution-of-birds.html</loc>
       
         <lastmod>2016-04-13T13:18:34+01:00</lastmod>
@@ -10055,18 +10046,27 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/technology/2016/04/12/ula-bigelow-aerospace-to-bring-inflatable-habitats-to-space.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2016-04-13-a-new-superweapon-in-the-fight-against-cancer.html</loc>
       
-        <lastmod>2016-04-12T20:52:51+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2016/04/12/your-kids-might-live-on-mars-here-s-how-they-ll-survive.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2016-04-12-your-kids-might-live-on-mars-here-s-how-they-ll-survive.html</loc>
       
-        <lastmod>2016-04-12T15:41:40+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/technology/2016/04/12/ula-bigelow-aerospace-to-bring-inflatable-habitats-to-space.html</loc>
+      
+        <lastmod>2016-04-12T20:52:51+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -10091,27 +10091,27 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2016/04/08/climate-change-is-moving-the-north-pole.html</loc>
-      
-        <lastmod>2016-04-08T19:00:00+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/interest/2016/04/08/the-mind-behind-linux.html</loc>
-      
-        <lastmod>2016-04-08T17:00:29+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/science/2016/04/08/when-life-returned-after-a-volcanic-mass-extinction.html</loc>
       
         <lastmod>2016-04-08T16:24:09+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/2017/12/18/2016-04-08-the-mind-behind-linux.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2016/04/08/climate-change-is-moving-the-north-pole.html</loc>
+      
+        <lastmod>2016-04-08T19:00:00+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -10271,15 +10271,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/interest/2016/04/05/how-megacities-are-changing-the-map-of-the-world.html</loc>
-      
-        <lastmod>2016-04-05T16:04:51+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/energy/2016/04/05/57-of-scotland-s-energy-came-from-renewables-in-2015.html</loc>
       
         <lastmod>2016-04-05T15:30:38+01:00</lastmod>
@@ -10310,6 +10301,15 @@
       <loc>http://localhost:4000/technology/2016/04/05/invading-the-brain-to-understand-and-repair-cognition.html</loc>
       
         <lastmod>2016-04-05T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/2017/12/18/2016-04-05-how-megacities-are-changing-the-map-of-the-world.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -13682,6 +13682,15 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/2017/12/18/2015-10-20-we-can-now-edit-our-dna-but-let-s-do-it-wisely.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/astronomy/2015/10/20/image-of-the-day-snapshot-of-the-oldest-light-in-the-universe.html</loc>
       
         <lastmod>2015-10-20T17:38:26+01:00</lastmod>
@@ -13694,15 +13703,6 @@
       <loc>http://localhost:4000/science/2015/10/20/study-shows-that-tree-planting-alone-may-not-significantly-offset-urban-carbon-emissions.html</loc>
       
         <lastmod>2015-10-20T16:41:20+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/interest/2015/10/20/we-can-now-edit-our-dna-but-let-s-do-it-wisely.html</loc>
-      
-        <lastmod>2015-10-20T16:03:31+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -15653,6 +15653,15 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/2017/12/18/2015-09-04-i-leapt-from-the-stratosphere-here-s-how-i-did-it.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/science/2015/09/05/fortifying-computer-chips-for-space-travel.html</loc>
       
         <lastmod>2015-09-05T00:53:47+01:00</lastmod>
@@ -15665,15 +15674,6 @@
       <loc>http://localhost:4000/science/2015/09/04/the-million-year-old-monkey-new-evidence-confirms-the-antiquity-of-fossil-primate.html</loc>
       
         <lastmod>2015-09-04T17:13:50+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/interest/2015/09/04/i-leapt-from-the-stratosphere-here-s-how-i-did-it.html</loc>
-      
-        <lastmod>2015-09-04T16:14:43+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -15716,54 +15716,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2015/09/03/lightning-strike-reflects-on-international-space-station-solar-panel.html</loc>
-      
-        <lastmod>2015-09-03T16:13:22+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/tech/2015/09/03/how-many-trees-are-in-the-world-3-trillion-apparently.html</loc>
-      
-        <lastmod>2015-09-03T14:39:20+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/science/2015/09/03/magnetic-wormhole-connecting-two-regions-of-space-created-for-the-first-time.html</loc>
       
         <lastmod>2015-09-03T14:39:05+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/astronomy/2015/09/03/kuiper-belt-target-picked-for-new-horizons.html</loc>
-      
-        <lastmod>2015-09-03T13:56:52+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/science/2015/09/03/study-reveals-the-genetic-start-up-of-a-human-embryo.html</loc>
-      
-        <lastmod>2015-09-03T13:12:00+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/science/2015/09/03/sa-fossil-is-the-long-awaited-link-to-the-evolution-of-turtles.html</loc>
-      
-        <lastmod>2015-09-03T05:00:00+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -15791,6 +15746,51 @@
       <loc>http://localhost:4000/science/2015/09/03/scientists-from-atapuerca-revolutionizing-human-evolution.html</loc>
       
         <lastmod>2015-09-03T03:11:46+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/2017/12/18/2015-09-03-lightning-strike-reflects-on-international-space-station-solar-panel.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/tech/2015/09/03/how-many-trees-are-in-the-world-3-trillion-apparently.html</loc>
+      
+        <lastmod>2015-09-03T14:39:20+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/astronomy/2015/09/03/kuiper-belt-target-picked-for-new-horizons.html</loc>
+      
+        <lastmod>2015-09-03T13:56:52+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2015/09/03/study-reveals-the-genetic-start-up-of-a-human-embryo.html</loc>
+      
+        <lastmod>2015-09-03T13:12:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/science/2015/09/03/sa-fossil-is-the-long-awaited-link-to-the-evolution-of-turtles.html</loc>
+      
+        <lastmod>2015-09-03T05:00:00+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -17363,9 +17363,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2015/08/11/stunning-photo-captures-lightning-rainbow-at-same-time.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2015-08-11-stunning-photo-captures-lightning-rainbow-at-same-time.html</loc>
       
-        <lastmod>2015-08-11T17:10:08+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -18452,15 +18452,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2015/07/20/apollo-11-amazing-photos-offer-rare-glimpse-of-history.html</loc>
-      
-        <lastmod>2015-07-20T16:12:23+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/science/2015/07/20/jurassic-period-saw-fastest-mammal-evolution.html</loc>
       
         <lastmod>2015-07-20T12:43:37+01:00</lastmod>
@@ -18473,6 +18464,15 @@
       <loc>http://localhost:4000/open/source/2015/07/20/what-is-open-science.html</loc>
       
         <lastmod>2015-07-20T11:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/2017/12/18/2015-07-20-apollo-11-amazing-photos-offer-rare-glimpse-of-history.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -19361,15 +19361,6 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2015/06/23/rare-aurora-borealis-sighting-in-the-u-s-photos.html</loc>
-      
-        <lastmod>2015-06-23T22:20:12+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/technology/2015/06/23/can-heat-be-controlled-as-waves.html</loc>
       
         <lastmod>2015-06-23T17:07:32+01:00</lastmod>
@@ -19391,6 +19382,15 @@
       <loc>http://localhost:4000/science/2015/06/23/single-gene-controls-fish-brain-size-and-intelligence.html</loc>
       
         <lastmod>2015-06-23T05:00:00+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/2017/12/18/2015-06-23-rare-aurora-borealis-sighting-in-the-u-s-photos.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -19532,9 +19532,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2015/06/19/12-volcanoes-around-the-world-that-could-erupt-at-any-time.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2015-06-19-12-volcanoes-around-the-world-that-could-erupt-at-any-time.html</loc>
       
-        <lastmod>2015-06-19T14:05:57+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -20261,6 +20261,15 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/2017/12/18/2015-06-04-the-ocean-s-beautiful-hidden-monsters-photos.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/technology/2015/06/04/spacecraft-of-the-week-ikaros.html</loc>
       
         <lastmod>2015-06-04T20:51:28+01:00</lastmod>
@@ -20318,15 +20327,6 @@
       <loc>http://localhost:4000/technology/2015/06/04/a-microscopic-approach-to-the-magnetic-sensitivity-of-animals.html</loc>
       
         <lastmod>2015-06-04T05:00:00+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/earth/2015/06/04/the-ocean-s-beautiful-hidden-monsters-photos.html</loc>
-      
-        <lastmod>2015-06-04T01:02:16+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -26939,7 +26939,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/astronomy/2015/01/16/finding-farmland-new-maps-offer-a-clearer-view-of-global-agriculture.html</loc>
+      <loc>http://localhost:4000/science/2015/01/16/finding-farmland-new-maps-offer-a-clearer-view-of-global-agriculture.html</loc>
       
         <lastmod>2015-01-16T05:00:00+00:00</lastmod>
       
@@ -26993,9 +26993,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/earth/2015/01/10/the-stunning-creatures-of-the-white-sea-photos.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2015-01-10-the-stunning-creatures-of-the-white-sea-photos.html</loc>
       
-        <lastmod>2015-01-10T00:22:44+00:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -27110,7 +27110,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2015/01/07/noaa-s-dscovr-to-provide-epic-views-of-earth.html</loc>
+      <loc>http://localhost:4000/astronomy/2015/01/07/noaa-s-dscovr-to-provide-epic-views-of-earth.html</loc>
       
         <lastmod>2015-01-07T05:00:00+00:00</lastmod>
       
@@ -27515,7 +27515,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2014/12/15/the-deep-carbon-observatory-quantities-movements-forms-and-origins-of-earth-s-carbon.html</loc>
+      <loc>http://localhost:4000/astronomy/2014/12/15/the-deep-carbon-observatory-quantities-movements-forms-and-origins-of-earth-s-carbon.html</loc>
       
         <lastmod>2014-12-15T05:00:00+00:00</lastmod>
       
@@ -28181,7 +28181,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/energy/2014/10/30/one-third-of-scotland-could-soon-be-powered-by-the-world-s-biggest-underwater-windmill-tidal-plant.html</loc>
+      <loc>http://localhost:4000/technology/2014/10/30/one-third-of-scotland-could-soon-be-powered-by-the-world-s-biggest-underwater-windmill-tidal-plant.html</loc>
       
         <lastmod>2014-10-30T20:58:29+00:00</lastmod>
       
@@ -31052,27 +31052,27 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/linux/2014/07/19/10-raspberry-pi-upgrades-part-2.html</loc>
-      
-        <lastmod>2014-07-19T18:06:40+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/energy/2014/07/19/jamaica-unveils-world-s-largest-wind-solar-hybrid-installation.html</loc>
-      
-        <lastmod>2014-07-19T08:14:05+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  
-    <url>
       <loc>http://localhost:4000/linux/2014/07/19/six-clicks-more-linux-single-board-computers.html</loc>
       
         <lastmod>2014-07-19T01:16:05+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/2017/12/18/2014-07-19-jamaica-unveils-world-s-largest-wind-solar-hybrid-installation.html</loc>
+      
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/linux/2014/07/19/10-raspberry-pi-upgrades-part-2.html</loc>
+      
+        <lastmod>2014-07-19T18:06:40+01:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -35453,9 +35453,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/science/2013/07/10/what-is-magnetism.html</loc>
+      <loc>http://localhost:4000/2017/12/18/2013-07-09-what-is-magnetism.html</loc>
       
-        <lastmod>2013-07-10T00:06:26+01:00</lastmod>
+        <lastmod>2017-12-18T15:32:58+00:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>

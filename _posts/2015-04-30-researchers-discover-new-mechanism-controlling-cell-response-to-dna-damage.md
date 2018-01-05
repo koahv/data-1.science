@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers discover new mechanism controlling cell response to DNA damage"
-date:  2015-04-30 14:35:06 
-categories:  Science     
+date: 2015-04-30 14:35:06
+categories: Science
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  chemistry
 
 [Visit Link](http://phys.org/news349608899.html)
 
-id:  116712 
+id:  116712

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A rare glimpse at the elusive saharan cheetah"
-date:  2015-01-29 21:05:49 
-categories:  Science     
+date: 2015-01-29 21:05:49
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news341769943.html)
 
-id:   77414 
+id:   77414

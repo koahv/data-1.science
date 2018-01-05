@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why don't men live as long as women?"
-date:  2015-07-06 19:00:02 
-categories:  Science     
+date: 2015-07-06 19:00:02
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news355408796.html)
 
-id:  150292 
+id:  150292

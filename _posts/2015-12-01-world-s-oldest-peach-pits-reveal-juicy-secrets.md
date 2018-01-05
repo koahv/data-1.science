@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World's Oldest Peach Pits Reveal Juicy Secrets"
-date:  2015-12-01 19:23:00 
-categories:  Science     
+date: 2015-12-01 19:23:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/52952-oldest-peach-fossils-discovered.html)
 
-id:  218582 
+id:  218582

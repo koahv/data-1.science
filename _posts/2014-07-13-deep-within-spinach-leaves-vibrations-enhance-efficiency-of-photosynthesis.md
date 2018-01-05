@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Deep within spinach leaves, vibrations enhance efficiency of photosynthesis"
-date:  2014-07-13 19:55:02 
-categories:  Science     
+date: 2014-07-13 19:55:02
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Lo9JGMwljlQ/140713155502.htm)
 
-id:   19183 
+id:   19183

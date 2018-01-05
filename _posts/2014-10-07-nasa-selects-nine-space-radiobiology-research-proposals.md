@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA selects nine space radiobiology research proposals"
-date:  2014-10-07 10:50:02 
-categories:  Science     
+date: 2014-10-07 10:50:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news331881976.html)
 
-id:   53812 
+id:   53812

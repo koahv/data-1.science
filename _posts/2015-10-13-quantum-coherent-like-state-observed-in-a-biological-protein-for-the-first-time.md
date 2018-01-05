@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum coherent-like state observed in a biological protein for the first time"
-date:  2015-10-13 15:45:18 
-categories:  Science     
+date: 2015-10-13 15:45:18
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-10-quantum-coherent-like-state-biological-protein.html)
 
-id:  197282 
+id:  197282

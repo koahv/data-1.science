@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Super-Kamiokande detector awaits neutrinos from a supernova"
-date:  2016-11-10 05:00:00 
-categories:  Astronomy   
+date: 2016-11-10 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/f-sf-tsd111016.php)
 
-id:  339835 
+id:  339835

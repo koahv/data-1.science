@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos: Ancient Flowering Plant May Have Lived with Dinosaurs"
-date:  2015-08-18 15:49:40 
-categories:  Science     
+date: 2015-08-18 15:49:40
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51898-ancient-flowering-plant-photos.html)
 
-id:  170996 
+id:  170996

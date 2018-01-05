@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Astrophysicists draw most comprehensive map of the universe"
-date:  2015-04-27 17:31:19 
-categories:  Science     
+date: 2015-04-27 17:31:19
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/NFtlF0oQW7w/150427133119.htm)
 
-id:  115125 
+id:  115125

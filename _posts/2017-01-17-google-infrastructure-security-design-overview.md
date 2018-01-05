@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Google Infrastructure Security Design Overview"
-date:  2017-01-17 09:00:00 
-categories:  Linux       
-author:  Google Cloud Platform                                         
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-01-17 09:00:00
+categories: Linux
+author: Google Cloud Platform
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/google-infrastructure-security-design-overview)
 
-id:  357577 
+id:  357577

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dark matter—hot or not?"
-date:  2016-08-31 12:40:02 
-categories:  Science     
+date: 2016-08-31 12:40:02
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2016-08-dark-matterhot.html)
 
-id:  319388 
+id:  319388

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Large-scale approach reveals imperfect actor in plant biotechnology"
-date:  2017-11-27 05:00:00 
-categories:  Science     
+date: 2017-11-27 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [agriculture, biology, biotech, genetics, molecular biology, plant sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/wifb-lar112717.php)
 
-id:  459191 
+id:  459191

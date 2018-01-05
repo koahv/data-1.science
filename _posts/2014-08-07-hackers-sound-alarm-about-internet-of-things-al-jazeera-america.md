@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Hackers sound alarm about Internet of Things - Al Jazeera America"
-date:  2014-08-07 09:50:08 
-categories:  Security    
+date: 2014-08-07 09:50:08
+categories: Security
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFADn_xYdkJP4t1cGEXXNOATkQfRw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778578738575&ei=fR3jU4ihAoqTggez-oGQDg&url=http://america.aljazeera.com/articles/2014/8/7/hackers-vs-internetofthings.html)
 
-id:   33848 
+id:   33848

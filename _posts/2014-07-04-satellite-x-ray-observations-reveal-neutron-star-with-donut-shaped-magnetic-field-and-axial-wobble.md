@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Satellite X-ray observations reveal neutron star with donut-shaped magnetic field and axial wobble"
-date:  2014-07-04 15:30:02 
-categories:  Science     
+date: 2014-07-04 15:30:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news323686478.html)
 
-id:   13611 
+id:   13611

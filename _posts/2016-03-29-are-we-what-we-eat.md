@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Are we what we eat?"
-date:  2016-03-29 04:00:00 
-categories:  Technology  
+date: 2016-03-29 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/mbae-aww032416.php)
 
-id:  267830 
+id:  267830

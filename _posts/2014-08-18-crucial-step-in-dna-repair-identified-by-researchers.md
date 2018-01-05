@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Crucial step in DNA repair identified by researchers"
-date:  2014-08-18 19:25:13 
-categories:  Science     
+date: 2014-08-18 19:25:13
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/W616VCQsXuY/140818152513.htm)
 
-id:   41736 
+id:   41736

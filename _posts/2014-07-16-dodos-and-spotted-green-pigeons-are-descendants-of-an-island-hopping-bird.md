@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dodos and spotted green pigeons are descendants of an island hopping bird"
-date:  2014-07-16 01:43:01 
-categories:  Science     
+date: 2014-07-16 01:43:01
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/TCtDEY3gPmk/140715214301.htm)
 
-id:   20888 
+id:   20888

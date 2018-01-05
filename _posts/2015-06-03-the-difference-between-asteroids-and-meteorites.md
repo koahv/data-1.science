@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The difference between asteroids and meteorites"
-date:  2015-06-03 13:13:09 
-categories:  Science     
+date: 2015-06-03 13:13:09
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news352541577.html)
 
-id:  133139 
+id:  133139

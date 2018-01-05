@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Lightning expected to increase by 50 percent with global warming"
-date:  2014-11-13 05:00:00 
-categories:  Science     
+date: 2014-11-13 05:00:00
+categories: Science
+Science
+Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +18,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-11/uoc--let111214.php)
 
-id:   61822 
+id:   61822

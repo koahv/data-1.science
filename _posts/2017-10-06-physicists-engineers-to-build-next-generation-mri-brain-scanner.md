@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists, engineers to build next-generation MRI brain scanner"
-date:  2017-10-06 20:00:55 
-categories:  Science     
+date: 2017-10-06 20:00:55
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-10-physicists-next-generation-mri-brain-scanner.html)
 
-id:  436217 
+id:  436217

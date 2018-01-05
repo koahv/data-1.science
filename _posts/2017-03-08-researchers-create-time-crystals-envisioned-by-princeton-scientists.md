@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers create 'time crystals' envisioned by Princeton scientists"
-date:  2017-03-08 18:00:06 
-categories:  Science     
+date: 2017-03-08 18:00:06
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-03-crystals-envisioned-princeton-scientists.html)
 
-id:  372450 
+id:  372450

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Deep-sea octopus broods eggs for over 4 years -- longer than any known animal"
-date:  2014-07-30 04:00:00 
-categories:  Science     
+date: 2014-07-30 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/mbar-dob072214.php)
 
-id:   29577 
+id:   29577

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Deep Learning Machine Teaches Itself Chess in 72 Hours, Plays at International Master Level"
-date:  2015-09-14 12:30:00 
-categories:  Technology  
+date: 2015-09-14 12:30:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/)
 
-id:  184579 
+id:  184579

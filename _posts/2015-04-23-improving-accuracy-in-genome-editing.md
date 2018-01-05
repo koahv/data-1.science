@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Improving accuracy in genome editing"
-date:  2015-04-23 14:10:13 
-categories:  Science     
+date: 2015-04-23 04:00:00
+categories: Technology
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: []
 ---
 
 
 #### Extract
->Imagine a day when scientists are able to alter the DNA of organisms in the lab in the search for answers to a host of questions. Or imagine a day when doctors treat genetic disorders by administering drugs designed to alter a patient's genome.
+>(Harvard University) A team of scientists has developed an engineered form of the genome-editing protein Cas9 that can be controlled by a small molecule and offers improved DNA specificity.
 
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://phys.org/news349002591.html)
+[Visit Link](http://www.eurekalert.org/pub_releases/2015-04/hu-iai042315.php)
 
-id:  113598 
+id:  113509

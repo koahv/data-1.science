@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Eye shape reveals whether animal is predator or prey"
-date:  2015-08-11 13:14:05 
-categories:  Science     
+date: 2015-08-11 13:14:05
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/aug/11/eye-shape-reveals-whether-animal-is-predator-or-prey)
 
-id:  168204 
+id:  168204

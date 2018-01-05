@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How sustainable is vertical farming?"
-date:  2015-12-11 14:20:01 
-categories:  Science     
+date: 2015-12-11 14:20:01
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2015-12-sustainable-vertical-farming.html)
 
-id:  223585 
+id:  223585

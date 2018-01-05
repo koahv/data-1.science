@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How Do Fossils Form?"
-date:  2013-06-26 22:02:48 
-categories:  Science     
+date: 2013-06-26 22:02:48
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/37781-how-do-fossils-form-rocks.html)
 
-id:  187178 
+id:  187178

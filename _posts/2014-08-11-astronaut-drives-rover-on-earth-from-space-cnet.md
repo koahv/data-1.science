@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Astronaut drives rover on Earth -- from space - CNET"
-date:  2014-08-11 19:56:00 
-categories:  Earth       
+date: 2014-08-11 19:56:00
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGCZKzP5tsWV-vMXkC2f2R9zPtifA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778582134039&ei=JSXpU_r4HobawAHb5oCYAw&url=http://www.cnet.com/news/astronaut-drives-rover-on-earth-from-space/)
 
-id:   36555 
+id:   36555

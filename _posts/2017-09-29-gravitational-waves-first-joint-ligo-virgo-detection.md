@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Gravitational waves: First joint LIGO-Virgo detection"
-date:  2017-09-29 04:00:00 
-categories:  Astronomy   
+date: 2017-09-29 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/c-gwf092917.php)
 
-id:  433965 
+id:  433965

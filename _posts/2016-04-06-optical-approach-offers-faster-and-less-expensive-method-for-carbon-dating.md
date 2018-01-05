@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Optical approach offers faster and less expensive method for carbon dating"
-date:  2016-04-06 04:00:00 
-categories:  Science     
+date: 2016-04-06 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/tos-oao040116.php)
 
-id:  271080 
+id:  271080

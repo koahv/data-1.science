@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Austria's new green super computer"
-date:  2014-07-15 14:30:01 
-categories:  Science     
+date: 2014-07-15 14:30:01
+categories: Science
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://phys.org/news324635285.html)
 
-id:   20424 
+id:   20424

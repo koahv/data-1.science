@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Controlling RNA in living cells"
-date:  2016-04-25 04:00:00 
-categories:  Technology  
+date: 2016-04-25 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/miot-cri042216.php)
 
-id:  278051 
+id:  278051

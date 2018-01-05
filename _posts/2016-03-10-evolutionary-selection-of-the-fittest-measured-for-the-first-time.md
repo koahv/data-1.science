@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolutionary 'selection of the fittest' measured for the first time"
-date:  2016-03-10 19:00:02 
-categories:  Science     
+date: 2016-03-10 19:00:02
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](http://phys.org/news/2016-03-evolutionary-fittest.html)
 
-id:  260972 
+id:  260972

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Science instruments of NASA's James Webb Space Telescope successfully installed"
-date:  2016-05-24 04:00:00 
-categories:  Astronomy   
+date: 2016-05-24 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/nsfc-sio052416.php)
 
-id:  288401 
+id:  288401

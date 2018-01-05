@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Image: Chaos on watery Europa"
-date:  2015-05-11 13:13:10 
-categories:  Science     
+date: 2015-05-11 13:13:10
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news350554382.html)
 
-id:  121283 
+id:  121283

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists isolate neutrinos from Earth's mantle for first time"
-date:  2015-08-14 14:22:07 
-categories:  Science     
+date: 2015-08-14 14:22:07
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/aug/14/physicists-isolate-neutrinos-from-earths-mantle-for-first-time)
 
-id:  169878 
+id:  169878

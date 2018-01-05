@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tech titans want to conquer death – but do you really want to live forever?"
-date:  2015-05-07 14:10:01 
-categories:  Science     
+date: 2015-05-07 14:10:01
+categories: Science
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://phys.org/news350207498.html)
 
-id:  120095 
+id:  120095

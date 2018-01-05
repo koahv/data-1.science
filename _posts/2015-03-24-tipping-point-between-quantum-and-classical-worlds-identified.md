@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Tipping point' between quantum and classical worlds identified"
-date:  2015-03-24 17:22:34 
-categories:  Science     
+date: 2015-03-24 17:22:34
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/JltXEwGVuJs/150324132234.htm)
 
-id:   99890 
+id:   99890

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "BGI reports the evolutionary adaptations of Tibetans may have benefited from extinct denisovans"
-date:  2014-07-02 04:00:00 
-categories:  Science     
+date: 2014-07-02 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/bs-brt070114.php)
 
-id:   12168 
+id:   12168

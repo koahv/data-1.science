@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tiny plant fossils offer window into Earth's landscape millions of years ago"
-date:  2015-01-20 05:00:00 
-categories:  Astronomy   
+date: 2015-01-20 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/nsf-tpf012015.php)
 
-id:   74510 
+id:   74510

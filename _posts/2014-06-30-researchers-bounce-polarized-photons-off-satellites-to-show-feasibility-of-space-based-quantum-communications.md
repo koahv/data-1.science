@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers bounce polarized photons off satellites to show feasibility of space based quantum communications"
-date:  2014-06-30 15:00:01 
-categories:  Science     
+date: 2014-06-30 15:00:01
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news323342781.html)
 
-id:   10057 
+id:   10057

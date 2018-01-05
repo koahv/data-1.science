@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Encryption Support For EXT4"
-date:  2015-04-11 15:12:12 
-categories:  Linux       
+date: 2015-04-11 15:12:12
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=EXT4-Encryption-Support)
 
-id:  108015 
+id:  108015

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Early human diet explains our eating habits"
-date:  2015-08-31 12:42:43 
-categories:  Science     
+date: 2015-08-31 12:42:43
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-08-early-human-diet-habits.html)
 
-id:  176894 
+id:  176894

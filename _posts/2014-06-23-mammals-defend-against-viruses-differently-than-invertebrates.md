@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mammals defend against viruses differently than invertebrates"
-date:  2014-06-23 22:28:41 
-categories:  Science     
+date: 2014-06-23 22:28:41
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news322766843.html)
 
-id:    3723 
+id:    3723

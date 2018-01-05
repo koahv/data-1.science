@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Solving hard quantum problems: Everything is connected"
-date:  2016-01-26 05:00:00 
-categories:  Science     
+date: 2016-01-26 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/vuot-shq012616.php)
 
-id:  241415 
+id:  241415

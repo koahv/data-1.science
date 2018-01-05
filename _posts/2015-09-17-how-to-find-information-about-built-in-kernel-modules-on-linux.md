@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to find information about built-in kernel modules on Linux"
-date:  2015-09-17 17:47:42 
-categories:  Linux       
-author:  Dan Nanni                                                     
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+date: 2015-09-17 17:47:42
+categories: Linux
+author: Dan Nanni
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=219427)
 
-id:  186008 
+id:  186008

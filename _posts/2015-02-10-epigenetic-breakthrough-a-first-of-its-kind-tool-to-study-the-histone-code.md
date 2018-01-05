@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Epigenetic breakthrough: A first of its kind tool to study the histone code"
-date:  2015-02-10 05:00:00 
-categories:  Science     
+date: 2015-02-10 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-02/uonc-eba021015.php)
 
-id:   81004 
+id:   81004

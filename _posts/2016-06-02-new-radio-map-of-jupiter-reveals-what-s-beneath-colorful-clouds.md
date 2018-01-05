@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New radio map of Jupiter reveals what's beneath colorful clouds"
-date:  2016-06-02 04:00:00 
-categories:  Astronomy   
+date: 2016-06-02 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/uoc--nrm052516.php)
 
-id:  291058 
+id:  291058

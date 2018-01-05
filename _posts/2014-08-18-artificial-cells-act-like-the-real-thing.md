@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Artificial cells act like the real thing"
-date:  2014-08-18 13:50:27 
-categories:  Science     
+date: 2014-08-18 13:50:27
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/y4GrsD4YwrQ/140818095027.htm)
 
-id:   41089 
+id:   41089

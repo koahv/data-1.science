@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Machine Learning: The Bigger Picture, Part I"
-date:  2016-09-08 11:40:00 
-categories:  Linux       
-author:  DZone                                                         
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-09-08 11:40:00
+categories: Linux
+author: DZone
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/machine-learning-bigger-picture-part-i)
 
-id:  321897 
+id:  321897

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New age of genome editing could lead to cure for sickle cell anemia"
-date:  2015-05-14 12:59:21 
-categories:  Science     
+date: 2015-05-14 12:59:21
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/yP3ql2rifpw/150514085921.htm)
 
-id:  123207 
+id:  123207

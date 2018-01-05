@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists confirm thermodynamic irreversibility in a quantum system"
-date:  2015-12-01 14:30:01 
-categories:  Science     
+date: 2015-12-01 14:30:01
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2015-12-physicists-thermodynamic-irreversibility-quantum.html)
 
-id:  218358 
+id:  218358

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Thick atmosphere of Saturn's moon Titan fluctuates with Sun's cycle"
-date:  2015-04-22 19:21:58 
-categories:  Science     
+date: 2015-04-22 19:21:58
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/SYRN9BhkiPo/150422152158.htm)
 
-id:  113223 
+id:  113223

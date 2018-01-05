@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "On the road to creating an electrodeless spacecraft propulsion engine"
-date:  2017-06-13 09:44:27 
-categories:  Science     
+date: 2017-06-13 09:44:27
+categories: Science
 author: unknown author
-tags:  plasma physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [plasma physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plasma physics
 
 [Visit Link](https://phys.org/news/2017-06-road-electrodeless-spacecraft-propulsion.html)
 
-id:  400530 
+id:  400530

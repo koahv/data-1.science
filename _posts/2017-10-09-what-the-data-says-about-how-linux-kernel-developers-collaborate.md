@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What the Data Says About How Linux Kernel Developers Collaborate"
-date:  2017-10-09 12:59:40 
-categories:  Linux       
-author:  OpenSource.com                                                
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-10-09 12:59:40
+categories: Linux
+author: OpenSource.com
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/what-data-says-about-how-linux-kernel-developers-collaborate)
 
-id:  436676 
+id:  436676

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New species of human relative discovered in S.A. cave"
-date:  2015-09-10 04:00:00 
-categories:  Science     
+date: 2015-09-10 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uotw-ns091015.php)
 
-id:  182466 
+id:  182466

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Open Source Software and Security: What You Need to Know"
-date:  2017-03-16 21:01:20 
-categories:  Linux       
+date: 2017-03-16 21:01:20
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://thevarguy.com/ubuntu/open-source-software-and-security-what-you-need-know)
 
-id:  374908 
+id:  374908

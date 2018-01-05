@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Swarm reveals Earth’s changing magnetism"
-date:  2014-06-20 15:57:51 
-categories:  Science     
+date: 2014-06-20 15:57:51
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/t7T9_25Hwz0/140620115751.htm)
 
-id:     674 
+id:     674

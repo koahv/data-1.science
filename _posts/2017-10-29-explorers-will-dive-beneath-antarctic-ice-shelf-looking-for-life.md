@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Explorers Will Dive Beneath Antarctic Ice Shelf Looking for Life"
-date:  2017-10-29 12:30:00 
-categories:  Science     
+date: 2017-10-29 12:30:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.livescience.com/60802-explorers-dive-beneath-antarctic-ice.html)
 
-id:  446225 
+id:  446225

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Plants survive better through mass extinctions than animals"
-date:  2015-02-17 05:00:00 
-categories:  Science     
+date: 2015-02-17 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-02/uog-psb021715.php)
 
-id:   83571 
+id:   83571

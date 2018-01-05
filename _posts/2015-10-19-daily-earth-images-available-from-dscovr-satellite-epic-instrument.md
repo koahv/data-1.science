@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Daily Earth images available from DSCOVR satellite EPIC instrument"
-date:  2015-10-19 04:00:00 
-categories:  Technology  
+date: 2015-10-19 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/nsfc-dei101915.php)
 
-id:  199769 
+id:  199769

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "CT scan of Earth links deep mantle plumes with volcanic hotspots"
-date:  2015-09-02 17:03:21 
-categories:  Science     
+date: 2015-09-02 17:03:21
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2015-09-ct-scan-earth-links-deep.html)
 
-id:  178508 
+id:  178508

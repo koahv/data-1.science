@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists gain first glimpse of new concepts developing in the brain"
-date:  2015-06-09 18:17:38 
-categories:  Science     
+date: 2015-06-09 18:17:38
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150609141738.htm)
 
-id:  136473 
+id:  136473

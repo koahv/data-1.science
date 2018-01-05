@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's PACE mission will uncover new information about health of our oceans"
-date:  2016-07-20 04:00:00 
-categories:  Science     
+date: 2016-07-20 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/nsfc-npm072016.php)
 
-id:  306652 
+id:  306652

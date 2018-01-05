@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Life in 3-D: Scientists pave the way for understanding the role of non-coding DNA in common genetic diseases"
-date:  2015-08-20 17:54:50 
-categories:  Science     
+date: 2015-08-20 17:54:50
+categories: Science
 author: unknown author
-tags:  cell & microbiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [cell & microbiology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cell & microbiology
 
 [Visit Link](http://phys.org/news/2015-08-life-d-scientists-pave-role.html)
 
-id:  172280 
+id:  172280

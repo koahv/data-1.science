@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum physics paves the way for new chemical products"
-date:  2017-10-17 12:37:44 
-categories:  Science     
+date: 2017-10-17 12:37:44
+categories: Science
 author: unknown author
-tags:  condensed matter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [condensed matter]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  condensed matter
 
 [Visit Link](https://phys.org/news/2017-10-quantum-physics-paves-chemical-products.html)
 
-id:  440082 
+id:  440082

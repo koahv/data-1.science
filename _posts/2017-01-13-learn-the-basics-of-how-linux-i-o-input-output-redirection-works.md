@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Learn The Basics of How Linux I/O (Input/Output) Redirection Works"
-date:  2017-01-13 07:01:33 
-categories:  Linux       
-author:  Aaron Kili                                                    
-tags:  linux commands,linux tricks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+date: 2017-01-13 07:01:33
+categories: Linux
+author: Aaron Kili
+tags: [linux commands, linux tricks]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands,linux tricks
 
 [Visit Link](http://www.tecmint.com/linux-io-input-output-redirection-operators/)
 
-id:  356595 
+id:  356595

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What is dark energy?"
-date:  2016-02-01 14:20:01 
-categories:  Science     
+date: 2016-02-01 14:20:01
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2016-02-dark-energy.html)
 
-id:  243943 
+id:  243943

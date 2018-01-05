@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Reshaping the horse through millennia"
-date:  2014-12-15 20:46:27 
-categories:  Science     
+date: 2014-12-15 20:46:27
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/zmNAQ_6QM4s/141215154627.htm)
 
-id:   65389 
+id:   65389

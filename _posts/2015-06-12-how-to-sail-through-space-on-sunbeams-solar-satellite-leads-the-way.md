@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to sail through space on sunbeams – solar satellite leads the way"
-date:  2015-06-12 15:20:02 
-categories:  Science     
+date: 2015-06-12 15:20:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news353310334.html)
 
-id:  138214 
+id:  138214

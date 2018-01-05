@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "GRAPES-3 indicates a crack in Earth's magnetic shield"
-date:  2016-11-03 04:00:00 
-categories:  Science     
+date: 2016-11-03 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/tiof-gia110216.php)
 
-id:  337759 
+id:  337759

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists Use Computer Models to Reveal Quantum Effects in Biological Oxygen Transport"
-date:  2014-07-17 18:48:51 
-categories:  Science     
+date: 2014-07-17 18:48:51
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news324827298.html)
 
-id:   22636 
+id:   22636

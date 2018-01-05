@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Explained: Neural Networks"
-date:  2017-04-18 11:30:56 
-categories:  Linux       
-author:  MIT News                                                      
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-04-18 11:30:56
+categories: Linux
+author: MIT News
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/explained-neural-networks)
 
-id:  384549 
+id:  384549

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fossilized dinosaur brain tissue identified for the first time"
-date:  2016-10-27 17:00:01 
-categories:  Science     
+date: 2016-10-27 17:00:01
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2016-10-fossilized-dinosaur-brain-tissue.html)
 
-id:  335950 
+id:  335950

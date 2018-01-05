@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Honey bees use multiple genetic pathways to fight infections"
-date:  2015-03-26 22:36:20 
-categories:  Science     
+date: 2015-03-26 22:36:20
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/3aGDbKb6yUA/150326183620.htm)
 
-id:  101468 
+id:  101468

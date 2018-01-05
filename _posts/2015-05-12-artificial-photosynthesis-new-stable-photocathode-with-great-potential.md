@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Artificial photosynthesis: New, stable photocathode with great potential"
-date:  2015-05-12 04:00:00 
-categories:  Science     
+date: 2015-05-12 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/hbfm-apn051215.php)
 
-id:  122164 
+id:  122164

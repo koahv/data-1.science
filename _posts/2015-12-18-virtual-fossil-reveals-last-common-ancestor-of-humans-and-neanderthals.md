@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Virtual fossil' reveals last common ancestor of humans and Neanderthals"
-date:  2015-12-18 00:00:03 
-categories:  Science     
+date: 2015-12-18 00:00:03
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-12-virtual-fossil-reveals-common-ancestor.html)
 
-id:  226547 
+id:  226547

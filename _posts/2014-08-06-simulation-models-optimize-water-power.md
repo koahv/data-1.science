@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Simulation models optimize water power"
-date:  2014-08-06 13:47:10 
-categories:  Science     
+date: 2014-08-06 13:47:10
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/oxQvvkEObjs/140806094710.htm)
 
-id:   33354 
+id:   33354

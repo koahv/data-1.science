@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Rotation of planets influences habitability"
-date:  2014-08-08 11:11:44 
-categories:  Science     
+date: 2014-08-08 11:11:44
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news326700691.html)
 
-id:   34893 
+id:   34893

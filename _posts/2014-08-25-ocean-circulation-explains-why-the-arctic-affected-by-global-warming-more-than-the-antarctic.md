@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ocean circulation explains why the Arctic affected by global warming more than the Antarctic"
-date:  2014-08-25 10:30:02 
-categories:  Science     
+date: 2014-08-25 10:30:02
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news328165796.html)
 
-id:   45565 
+id:   45565

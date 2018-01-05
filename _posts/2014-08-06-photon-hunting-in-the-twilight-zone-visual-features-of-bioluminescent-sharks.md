@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photon hunting in the twilight zone: Visual features of bioluminescent sharks"
-date:  2014-08-06 18:00:01 
-categories:  Science     
+date: 2014-08-06 18:00:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news326534919.html)
 
-id:   33538 
+id:   33538

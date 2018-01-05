@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Still hot inside the Moon: Tidal heating in the deepest part of the lunar mantle"
-date:  2014-08-08 08:51:02 
-categories:  Science     
+date: 2014-08-08 08:51:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news326692241.html)
 
-id:   34801 
+id:   34801

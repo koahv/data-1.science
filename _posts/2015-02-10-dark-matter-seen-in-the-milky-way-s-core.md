@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dark matter seen in the Milky Way's core"
-date:  2015-02-10 16:41:13 
-categories:  Science     
+date: 2015-02-10 16:41:13
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/HucrJUiihCI/dark-matter-seen-in-the-milky-ways-core)
 
-id:   81381 
+id:   81381

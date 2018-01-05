@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New branch added to European family tree: Europeans descended from at least 3, not 2, groups of ancient humans"
-date:  2014-09-17 17:18:12 
-categories:  Science     
+date: 2014-09-17 17:18:12
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/fHKvh5U3a9w/140917131812.htm)
 
-id:   50280 
+id:   50280

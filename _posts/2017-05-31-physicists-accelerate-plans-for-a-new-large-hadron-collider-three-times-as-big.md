@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists accelerate plans for a new Large Hadron Collider three times as big"
-date:  2017-05-31 16:11:43 
-categories:  Science     
+date: 2017-05-31 16:11:43
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-05-physicists-large-hadron-collider-big.html)
 
-id:  396989 
+id:  396989

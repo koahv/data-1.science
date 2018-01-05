@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Immunity gene fusions uncovered in plants"
-date:  2016-02-19 05:00:00 
-categories:  Technology  
+date: 2016-02-19 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/tgac-igf021616.php)
 
-id:  252675 
+id:  252675

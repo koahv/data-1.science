@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Vitamin A: Sources & Benefits"
-date:  2015-08-25 23:31:46 
-categories:  Science     
+date: 2015-08-25 23:31:46
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51975-vitamin-a.html)
 
-id:  174535 
+id:  174535

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First 'images' of thunder: Sound waves captured visually"
-date:  2015-05-05 16:13:28 
-categories:  Science     
+date: 2015-05-05 16:13:28
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/r8fBmm6bj2A/150505121328.htm)
 
-id:  118867 
+id:  118867

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Out of an hours-long explosion, a stand-in for the first stars"
-date:  2014-07-11 19:33:41 
-categories:  Science     
+date: 2014-07-11 19:33:41
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/USfI7ZrfRxA/140711153341.htm)
 
-id:   18643 
+id:   18643

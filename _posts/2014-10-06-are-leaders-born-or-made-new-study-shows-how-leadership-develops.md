@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Are leaders born or made? New study shows how leadership develops"
-date:  2014-10-06 21:11:55 
-categories:  Science     
+date: 2014-10-06 21:11:55
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news331834149.html)
 
-id:   53499 
+id:   53499

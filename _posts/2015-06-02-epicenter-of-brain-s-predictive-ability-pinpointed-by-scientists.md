@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Epicenter of brain's predictive ability pinpointed by scientists"
-date:  2015-06-02 17:05:53 
-categories:  Science     
+date: 2015-06-02 17:05:53
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150602130553.htm)
 
-id:  132738 
+id:  132738

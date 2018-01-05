@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "SwRI scientists discover evidence for a habitable region within Saturn's moon Enceladus"
-date:  2017-04-13 04:00:00 
-categories:  Astronomy   
+date: 2017-04-13 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/sri-ssd041317.php)
 
-id:  383614 
+id:  383614

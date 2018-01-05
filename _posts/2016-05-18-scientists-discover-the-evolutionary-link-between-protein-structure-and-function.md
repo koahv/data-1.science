@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists discover the evolutionary link between protein structure and function"
-date:  2016-05-18 18:56:09 
-categories:  Science     
+date: 2016-05-18 18:56:09
+categories: Science
 author: unknown author
-tags:  cell & microbiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [cell & microbiology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cell & microbiology
 
 [Visit Link](http://phys.org/news/2016-05-scientists-evolutionary-link-protein-function.html)
 
-id:  286167 
+id:  286167

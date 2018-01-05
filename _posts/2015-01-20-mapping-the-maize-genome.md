@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mapping the maize genome"
-date:  2015-01-20 05:00:00 
-categories:  Science     
+date: 2015-01-20 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/bsoa-mtm012015.php)
 
-id:   74564 
+id:   74564

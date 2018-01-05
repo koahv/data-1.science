@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Magnetic quantum crystals"
-date:  2015-03-26 19:16:03 
-categories:  Science     
+date: 2015-03-26 19:16:03
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/7I1b_VkhmFk/150326151603.htm)
 
-id:  101155 
+id:  101155

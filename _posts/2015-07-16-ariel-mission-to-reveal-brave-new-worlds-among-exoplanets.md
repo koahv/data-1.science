@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ARIEL mission to reveal 'Brave New Worlds' among exoplanets"
-date:  2015-07-16 12:19:24 
-categories:  Science     
+date: 2015-07-16 12:19:24
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2015-07-ariel-mission-reveal-brave-worlds.html)
 
-id:  155879 
+id:  155879

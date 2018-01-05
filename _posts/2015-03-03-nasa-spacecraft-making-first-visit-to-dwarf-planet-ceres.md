@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Spacecraft Making First Visit to Dwarf Planet Ceres"
-date:  2015-03-03 14:50:47 
-categories:  Technology  
-author:  mfassbender                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-03-03 14:50:47
+categories: Technology
+author: mfassbender
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/03/nasa-spacecraft-making-first-visit-dwarf-planet-ceres)
 
-id:   89964 
+id:   89964

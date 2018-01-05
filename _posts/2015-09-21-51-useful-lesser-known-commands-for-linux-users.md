@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "51 Useful Lesser Known Commands for Linux Users"
-date:  2015-09-21 18:00:00 
-categories:  Linux       
+date: 2015-09-21 18:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/developer/51-useful-lesser-known-commands-for-linux-users-150919233022.html)
 
-id:  187530 
+id:  187530

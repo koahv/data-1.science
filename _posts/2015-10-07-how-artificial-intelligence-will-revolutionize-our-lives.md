@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How Artificial Intelligence Will Revolutionize Our Lives"
-date:  2015-10-07 09:00:00 
-categories:  Science     
-author:  Simon Worrall                                                 
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-10-07 09:00:00
+categories: Science
+author: Simon Worrall
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.nationalgeographic.com/2015/10/151007-computers-artificial-intelligence-ai-robots-data-ngbooktalk/)
 
-id:  194740 
+id:  194740

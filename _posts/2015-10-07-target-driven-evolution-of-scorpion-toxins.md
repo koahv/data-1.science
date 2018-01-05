@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Target-Driven Evolution of Scorpion Toxins"
-date:  2015-10-07 00:00:00 
-categories:  Science     
-author:  Shangfei  Zhang                                               
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-10-07 00:00:00
+categories: Science
+author: Shangfei  Zhang
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.nature.com/articles/srep14973)
 
-id:  194894 
+id:  194894

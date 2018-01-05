@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Computer model simulates Neolithic transition from egalitarianism to leadership and despotism"
-date:  2014-08-06 12:47:48 
-categories:  Science     
+date: 2014-08-06 12:47:48
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news326533603.html)
 
-id:   33133 
+id:   33133

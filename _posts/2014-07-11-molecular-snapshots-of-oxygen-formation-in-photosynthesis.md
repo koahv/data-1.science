@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Molecular snapshots of oxygen formation in photosynthesis"
-date:  2014-07-11 14:30:01 
-categories:  Science     
+date: 2014-07-11 14:30:01
+categories: Science
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  chemistry
 
 [Visit Link](http://phys.org/news324292820.html)
 
-id:   18274 
+id:   18274

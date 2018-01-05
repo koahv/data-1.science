@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photoelectric Effect: Explanation & Applications"
-date:  2017-04-24 14:17:00 
-categories:  Science     
+date: 2017-04-24 14:17:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/58816-photoelectric-effect.html)
 
-id:  386630 
+id:  386630

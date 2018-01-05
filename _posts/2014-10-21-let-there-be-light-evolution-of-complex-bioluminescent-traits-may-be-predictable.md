@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Let there be light: Evolution of complex bioluminescent traits may be predictable"
-date:  2014-10-21 17:50:20 
-categories:  Science     
+date: 2014-10-21 17:50:20
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Nws9vWtyyY8/141021135020.htm)
 
-id:   55628 
+id:   55628

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Gradual changes in the environment delay evolutionary adaptations"
-date:  2016-01-07 13:30:01 
-categories:  Science     
+date: 2016-01-07 13:30:01
+categories: Science
 author: unknown author
-tags:  ecology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [ecology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  ecology
 
 [Visit Link](http://phys.org/news/2016-01-gradual-environment-evolutionary.html)
 
-id:  233094 
+id:  233094

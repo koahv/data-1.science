@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Directly Observes Fundamental Process of Nature for 1st Time"
-date:  2016-05-13 13:12:19 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-05-13 13:12:19
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/05/nasa-directly-observes-fundamental-process-nature-1st-time)
 
-id:  285053 
+id:  285053

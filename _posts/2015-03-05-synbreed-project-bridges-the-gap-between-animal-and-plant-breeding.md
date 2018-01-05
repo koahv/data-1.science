@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Synbreed project bridges the gap between animal and plant breeding"
-date:  2015-03-05 15:31:18 
-categories:  Science     
+date: 2015-03-05 15:31:18
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news344773856.html)
 
-id:   91268 
+id:   91268

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Unity on Mars mission easier said than done - USA TODAY"
-date:  2014-06-25 20:12:10 
-categories:  Astronomy   
+date: 2014-06-25 20:12:10
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNE372SxGzkT7VAaIGD6YSqKRUazkA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778542776461&ei=YjWrU7jqDsf3ggeJjIGQAw&url=http://www.usatoday.com/story/news/nation/2014/06/25/unity-on-mars-mission-elusive/11365109/)
 
-id:    6808 
+id:    6808

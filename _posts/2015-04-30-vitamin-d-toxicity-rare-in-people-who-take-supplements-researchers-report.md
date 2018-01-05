@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Vitamin D toxicity rare in people who take supplements, researchers report"
-date:  2015-04-30 17:48:52 
-categories:  Science     
+date: 2015-04-30 17:48:52
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/8MT-U20oRno/150430134852.htm)
 
-id:  116982 
+id:  116982

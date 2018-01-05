@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New research finds ocean's most abundant organisms have clear daily cycles"
-date:  2014-07-10 04:00:00 
-categories:  Science     
+date: 2014-07-10 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/uoha-nrf070314.php)
 
-id:   17646 
+id:   17646

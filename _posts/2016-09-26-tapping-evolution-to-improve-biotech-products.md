@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tapping evolution to improve biotech products"
-date:  2016-09-26 21:25:36 
-categories:  Science     
+date: 2016-09-26 21:25:36
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2016-09-evolution-biotech-products.html)
 
-id:  326881 
+id:  326881

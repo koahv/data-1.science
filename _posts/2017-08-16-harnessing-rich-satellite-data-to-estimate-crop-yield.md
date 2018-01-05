@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Harnessing rich satellite data to estimate crop yield"
-date:  2017-08-16 17:20:06 
-categories:  Science     
+date: 2017-08-16 17:20:06
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](https://phys.org/news/2017-08-harnessing-rich-satellite-crop-yield.html)
 
-id:  419878 
+id:  419878

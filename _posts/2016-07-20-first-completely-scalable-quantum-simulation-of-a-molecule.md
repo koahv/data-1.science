@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First completely scalable quantum simulation of a molecule"
-date:  2016-07-20 12:30:02 
-categories:  Science     
+date: 2016-07-20 12:30:02
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-07-scalable-quantum-simulation-molecule.html)
 
-id:  306378 
+id:  306378

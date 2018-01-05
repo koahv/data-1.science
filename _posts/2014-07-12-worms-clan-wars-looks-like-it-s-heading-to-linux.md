@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Worms Clan Wars Looks Like It's Heading To Linux"
-date:  2014-07-12 09:54:27 
-categories:  Linux VG    
+date: 2014-07-12 09:54:27
+categories: Linux VG
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.gamingonlinux.com/articles/worms-clan-wars-looks-like-its-heading-to-linux.4015/)
 
-id:   18781 
+id:   18781

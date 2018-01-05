@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Supercomputer unlocks secrets of plant cells to pave the way for more resilient crops"
-date:  2015-05-21 04:00:00 
-categories:  Technology  
+date: 2015-05-21 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/uom-sus051915.php)
 
-id:  127155 
+id:  127155

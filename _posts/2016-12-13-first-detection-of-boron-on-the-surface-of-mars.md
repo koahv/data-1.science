@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First detection of boron on the surface of Mars"
-date:  2016-12-13 05:00:00 
-categories:  Astronomy   
+date: 2016-12-13 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-12/danl-fdo121316.php)
 
-id:  349057 
+id:  349057

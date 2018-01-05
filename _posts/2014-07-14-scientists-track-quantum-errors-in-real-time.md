@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists track quantum errors in real time"
-date:  2014-07-14 14:04:15 
-categories:  Science     
+date: 2014-07-14 14:04:15
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news324551043.html)
 
-id:   19521 
+id:   19521

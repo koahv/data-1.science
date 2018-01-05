@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How deep-brain stimulation reshapes neural circuits in Parkinson's disease"
-date:  2015-04-13 04:00:00 
-categories:  Technology  
+date: 2015-04-13 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/uoc--hds041015.php)
 
-id:  108478 
+id:  108478

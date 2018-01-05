@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Species' evolutionary choice: Disperse or adapt?"
-date:  2015-05-01 16:54:49 
-categories:  Science     
+date: 2015-05-01 16:54:49
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/vcjdWqOPZt0/150501125449.htm)
 
-id:  117476 
+id:  117476

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Curiosity rover finds active, ancient organic chemistry on Mars"
-date:  2014-12-16 19:56:10 
-categories:  Science     
+date: 2014-12-16 19:56:10
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news337964159.html)
 
-id:   66921 
+id:   66921

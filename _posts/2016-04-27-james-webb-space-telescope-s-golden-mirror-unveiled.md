@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "James Webb Space Telescope's golden mirror unveiled"
-date:  2016-04-27 04:00:00 
-categories:  Technology  
+date: 2016-04-27 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/nsfc-jws042716.php)
 
-id:  278908 
+id:  278908

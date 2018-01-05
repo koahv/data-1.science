@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "UNC researchers create DNA repair map of the entire human genome"
-date:  2015-05-01 04:00:00 
-categories:  Science     
+date: 2015-05-01 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/uonc-urc050115.php)
 
-id:  117352 
+id:  117352

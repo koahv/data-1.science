@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New MAVEN findings reveal how Mars' atmosphere was lost to space"
-date:  2017-03-30 04:00:00 
-categories:  Astronomy   
+date: 2017-03-30 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/uoca-nmf032917.php)
 
-id:  379262 
+id:  379262

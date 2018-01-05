@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The science behind total recall: New player in brain function and memory"
-date:  2014-11-13 20:29:16 
-categories:  Science     
+date: 2014-11-13 20:29:16
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/v62bjKT5eH8/141113152916.htm)
 
-id:   62147 
+id:   62147

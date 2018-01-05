@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NVIDIA Wins Over AMD For Linux Gaming Ultra HD 4K Performance"
-date:  2014-06-19 16:30:00 
-categories:  Linux       
+date: 2014-06-19 16:30:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/vr.php?view=20577)
 
-id:    1509 
+id:    1509

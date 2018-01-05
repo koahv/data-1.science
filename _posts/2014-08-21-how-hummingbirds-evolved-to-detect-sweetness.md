@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How hummingbirds evolved to detect sweetness"
-date:  2014-08-21 18:14:49 
-categories:  Science     
+date: 2014-08-21 18:14:49
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/yVL8V-ur_O8/140821141449.htm)
 
-id:   43982 
+id:   43982

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Satellite Data Gives Scientists New Look at Underground Water Sources"
-date:  2014-06-18 14:52:04 
-categories:  Science     
+date: 2014-06-18 14:52:04
+categories: Science
 author: unknown author
-tags:  space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space
 
 [Visit Link](http://www.scienceworldreport.com/articles/15510/20140618/satellite-data-gives-scientists-new-look-underground-water-sources.htm)
 
-id:    1694 
+id:    1694

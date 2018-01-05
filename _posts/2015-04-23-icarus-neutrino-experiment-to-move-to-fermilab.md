@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ICARUS neutrino experiment to move to Fermilab"
-date:  2015-04-23 12:51:59 
-categories:  Science     
+date: 2015-04-23 12:51:59
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news348997906.html)
 
-id:  113477 
+id:  113477

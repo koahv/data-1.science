@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Global water use may outstrip supply by mid-century"
-date:  2015-03-23 21:13:55 
-categories:  Science     
+date: 2015-03-23 21:13:55
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news346349628.html)
 
-id:   99362 
+id:   99362

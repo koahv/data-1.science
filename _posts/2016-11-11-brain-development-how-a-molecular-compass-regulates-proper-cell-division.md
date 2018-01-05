@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brain development: How a 'molecular compass' regulates proper cell division"
-date:  2016-11-11 16:41:35 
-categories:  Science     
+date: 2016-11-11 16:41:35
+categories: Science
 author: unknown author
-tags:  cell & microbiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [cell & microbiology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cell & microbiology
 
 [Visit Link](http://phys.org/news/2016-11-brain-molecular-compass-proper-cell.html)
 
-id:  340182 
+id:  340182

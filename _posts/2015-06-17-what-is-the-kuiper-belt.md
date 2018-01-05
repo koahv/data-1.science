@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What is the Kuiper Belt?"
-date:  2015-06-17 13:10:04 
-categories:  Science     
+date: 2015-06-17 13:10:04
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news353749610.html)
 
-id:  140647 
+id:  140647

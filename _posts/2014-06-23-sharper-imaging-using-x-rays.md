@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Sharper imaging using X-rays"
-date:  2014-06-23 17:10:01 
-categories:  Science     
+date: 2014-06-23 17:10:01
+categories: Science
 author: unknown author
-tags:  nanotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [nanotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanotechnology
 
 [Visit Link](http://phys.org/news322746196.html)
 
-id:    3386 
+id:    3386

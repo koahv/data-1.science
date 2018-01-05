@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Auroras on Mars"
-date:  2015-05-23 14:21:04 
-categories:  Science     
+date: 2015-05-23 14:21:04
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/z3If5iqz0GU/150523102104.htm)
 
-id:  127868 
+id:  127868

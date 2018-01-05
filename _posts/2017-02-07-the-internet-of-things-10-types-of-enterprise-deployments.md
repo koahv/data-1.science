@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Internet of Things: 10 Types of Enterprise Deployments"
-date:  2017-02-07 09:00:00 
-categories:  Linux       
-author:  ZDNet                                                         
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-02-07 09:00:00
+categories: Linux
+author: ZDNet
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/internet-things-10-types-enterprise-deployments)
 
-id:  363633 
+id:  363633

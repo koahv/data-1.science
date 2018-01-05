@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Blood to feeling: Scientists turn adult human blood cells into neurons"
-date:  2015-05-21 16:09:19 
-categories:  Science     
+date: 2015-05-21 16:09:19
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/bYjZVkqqkDc/150521120919.htm)
 
-id:  127014 
+id:  127014

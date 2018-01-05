@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Great Apps to Take Notes"
-date:  2014-08-16 09:08:46 
-categories:  Linux       
-author:  Steve Emms                                                    
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-08-16 09:08:46
+categories: Linux
+author: Steve Emms
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/community/blogs/133-general-linux/784397-great-apps-to-take-notes/)
 
-id:   40875 
+id:   40875

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Antimatter catches a wave: Accelerating positrons with plasma is a step toward smaller, cheaper particle colliders"
-date:  2015-08-26 17:00:07 
-categories:  Science     
+date: 2015-08-26 17:00:07
+categories: Science
 author: unknown author
-tags:  plasma physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [plasma physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plasma physics
 
 [Visit Link](http://phys.org/news/2015-08-antimatter-positrons-plasma-smaller-cheaper.html)
 
-id:  174913 
+id:  174913

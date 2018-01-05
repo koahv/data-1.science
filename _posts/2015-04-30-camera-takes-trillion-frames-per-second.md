@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Camera Takes Trillion-Frames-Per-Second"
-date:  2015-04-30 18:15:04 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-04-30 18:15:04
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/04/camera-takes-trillion-frames-second)
 
-id:  116902 
+id:  116902

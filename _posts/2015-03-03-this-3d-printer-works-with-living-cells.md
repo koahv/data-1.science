@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "This 3D Printer Works With Living Cells"
-date:  2015-03-03 14:46:30 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-03-03 14:46:30
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/03/3d-printer-works-living-cells)
 
-id:   89965 
+id:   89965

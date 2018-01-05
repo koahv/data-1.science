@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "SpaceX Announces Plans for 2018 Mars Mission"
-date:  2016-04-28 15:16:40 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-28 15:16:40
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/04/spacex-announces-plans-2018-mars-mission)
 
-id:  279245 
+id:  279245

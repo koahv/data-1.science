@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum satellite device tests technology for global quantum network"
-date:  2016-06-02 04:00:00 
-categories:  Technology  
+date: 2016-06-02 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/cfqt-qst060216.php)
 
-id:  290887 
+id:  290887

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Open Source Operating Systems for IoT"
-date:  2016-10-26 15:00:24 
-categories:  Linux       
-author:  ericstephenbrown                                              
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-10-26 15:00:24
+categories: Linux
+author: ericstephenbrown
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/open-source-operating-systems-iot)
 
-id:  335504 
+id:  335504

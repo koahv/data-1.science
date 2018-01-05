@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Sir Tim Berners-Lee Receives 2016 ACM A.M. Turing Award"
-date:  2017-04-04 13:30:56 
-categories:  Linux       
-author:  Communications of the ACM                                     
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-04-04 13:30:56
+categories: Linux
+author: Communications of the ACM
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/sir-tim-berners-lee-receives-2016-acm-am-turing-award)
 
-id:  380445 
+id:  380445

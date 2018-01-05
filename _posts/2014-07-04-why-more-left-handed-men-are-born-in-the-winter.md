@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why More Left-Handed Men are Born in the Winter"
-date:  2014-07-04 12:56:44 
-categories:  Science     
+date: 2014-07-04 12:56:44
+categories: Science
 author: unknown author
-tags:  human                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [human]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  human
 
 [Visit Link](http://www.scienceworldreport.com/articles/15836/20140704/why-more-left-handed-men-born-winter.htm)
 
-id:   13539 
+id:   13539

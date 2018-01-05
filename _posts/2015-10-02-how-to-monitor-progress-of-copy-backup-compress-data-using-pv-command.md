@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to Monitor Progress of (Copy/Backup/Compress) Data using ‘pv’ Command"
-date:  2015-10-02 05:24:21 
-categories:  Linux       
-author:  Aaron Kili                                                    
-tags:  linux commands,linux tricks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+date: 2015-10-02 05:24:21
+categories: Linux
+author: Aaron Kili
+tags: [linux commands, linux tricks]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands,linux tricks
 
 [Visit Link](http://www.tecmint.com/monitor-copy-backup-tar-progress-in-linux-using-pv-command/)
 
-id:  192656 
+id:  192656

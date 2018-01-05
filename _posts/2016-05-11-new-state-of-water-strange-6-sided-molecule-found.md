@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New State of Water: Strange 6-Sided Molecule Found"
-date:  2016-05-11 14:30:00 
-categories:  Science     
+date: 2016-05-11 14:30:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/54710-strange-six-sided-water-molecule-found.html)
 
-id:  283633 
+id:  283633

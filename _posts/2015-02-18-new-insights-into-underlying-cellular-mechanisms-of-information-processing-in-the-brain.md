@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New insights into underlying cellular mechanisms of information processing in the brain"
-date:  2015-02-18 05:00:00 
-categories:  Science     
+date: 2015-02-18 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-02/mpfi-nii021815.php)
 
-id:   84500 
+id:   84500

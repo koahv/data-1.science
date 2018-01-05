@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Q&A: The 5 Ingredients Needed for Life Beyond Earth"
-date:  2014-06-25 11:44:22 
-categories:  Science     
-author:  Mike Lemonick                                                 
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-06-25 11:44:22
+categories: Science
+author: Mike Lemonick
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/VGlqm2nVxGc/)
 
-id:    6011 
+id:    6011

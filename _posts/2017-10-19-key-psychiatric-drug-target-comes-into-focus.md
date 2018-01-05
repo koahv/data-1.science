@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Key psychiatric drug target comes into focus"
-date:  2017-10-19 04:00:00 
-categories:  Science     
+date: 2017-10-19 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoc--kpd101817.php)
 
-id:  441532 
+id:  441532

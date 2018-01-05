@@ -4,6 +4,9 @@
 # starred articles from db into txt
 psql -tU postgres -o post_data/post.txt -d ttrssdb2 -c "SELECT f.id, f.updated, g.title, f.title, f.link, f.author, e.last_marked, e.tag_cache, f.content, f.custom_extract FROM ttrss_user_entries e INNER JOIN ttrss_feeds d ON d.id = e.feed_id INNER JOIN ttrss_entries f ON f.id = e.ref_id INNER JOIN ttrss_feed_categories g ON d.cat_id = g.id WHERE e.marked ORDER BY f.id"
 
+psql -tU postgres -o post_data/id.txt -d ttrssdb2 -c "SELECT f.id FROM ttrss_user_entries e INNER JOIN ttrss_entries f ON f.id = e.ref_id WHERE e.marked ORDER BY f.id"
+
+
 # html table output of starred articles
 rm out.txt
 psql -U postgres -H -o out.txt -d ttrssdb2 -c "SELECT f.updated, g.title, f.title, f.link, d.title, d.site_url, d.feed_url, f.author, e.last_marked FROM ttrss_user_entries e INNER JOIN ttrss_feeds d ON d.id = e.feed_id INNER JOIN ttrss_entries f ON f.id = e.ref_id INNER JOIN ttrss_feed_categories g ON d.cat_id = g.id WHERE e.marked"

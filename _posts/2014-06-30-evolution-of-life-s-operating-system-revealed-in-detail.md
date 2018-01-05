@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolution of life's operating system revealed in detail"
-date:  2014-06-30 19:01:35 
-categories:  Science     
+date: 2014-06-30 19:01:35
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news323359278.html)
 
-id:   10295 
+id:   10295

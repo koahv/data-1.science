@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Smart atomic cloud solves Heisenberg's observation problem"
-date:  2017-07-12 04:00:00 
-categories:  Science     
+date: 2017-07-12 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/fos--s071217.php)
 
-id:  409244 
+id:  409244

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos of the Day: NASA Assembles First Pieces for Deep Space Mission"
-date:  2015-09-10 12:49:47 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-09-10 12:49:47
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/09/photos-day-nasa-assembles-first-pieces-deep-space-mission-0)
 
-id:  182259 
+id:  182259

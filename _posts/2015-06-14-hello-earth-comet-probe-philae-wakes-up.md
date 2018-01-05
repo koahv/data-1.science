@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Hello Earth!': Comet probe Philae wakes up"
-date:  2015-06-14 16:28:27 
-categories:  Science     
+date: 2015-06-14 16:28:27
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news353503692.html)
 
-id:  138890 
+id:  138890

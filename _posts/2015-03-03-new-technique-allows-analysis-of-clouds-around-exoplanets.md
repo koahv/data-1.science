@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New technique allows analysis of clouds around exoplanets"
-date:  2015-03-03 11:25:16 
-categories:  Science     
+date: 2015-03-03 11:25:16
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news344586304.html)
 
-id:   89875 
+id:   89875

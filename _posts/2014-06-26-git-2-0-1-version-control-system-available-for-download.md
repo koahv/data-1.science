@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Git 2.0.1 Version Control System Available for Download"
-date:  2014-06-26 18:07:00 
-categories:  Linux       
-author:  Softpedia News (Silviu Stahie)                                
-tags:  linux & opensource blog                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+date: 2014-06-26 18:07:00
+categories: Linux
+author: Softpedia News (Silviu Stahie)
+tags: [linux & opensource blog]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux & opensource blog
 
 [Visit Link](http://news.softpedia.com/news/Git-2-0-1-Version-Control-System-Available-for-Download-448534.shtml)
 
-id:    7737 
+id:    7737

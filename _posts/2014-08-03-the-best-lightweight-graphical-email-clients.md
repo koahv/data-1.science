@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Best Lightweight Graphical Email Clients"
-date:  2014-08-03 21:00:00 
-categories:  Linux       
+date: 2014-08-03 21:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/upload/the-best-lightweight-graphical-email-clients-140802110029.html)
 
-id:   30959 
+id:   30959

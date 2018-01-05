@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers study radiation risks for astronauts journeying to Mars"
-date:  2015-05-07 11:00:14 
-categories:  Science     
+date: 2015-05-07 11:00:14
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news350200804.html)
 
-id:  119886 
+id:  119886

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Searching for ingredients of dark matter and dark energy"
-date:  2015-08-20 04:00:00 
-categories:  Science     
+date: 2015-08-20 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/aaft-sfi081715.php)
 
-id:  172518 
+id:  172518

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Artificial intelligence analyzes gravitational lenses 10 million times faster"
-date:  2017-08-30 04:00:00 
-categories:  Astronomy   
+date: 2017-08-30 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/dnal-aia082917.php)
 
-id:  424286 
+id:  424286

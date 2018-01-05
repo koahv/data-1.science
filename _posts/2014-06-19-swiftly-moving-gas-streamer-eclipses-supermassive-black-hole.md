@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Swiftly moving gas streamer eclipses supermassive black hole"
-date:  2014-06-19 04:00:00 
-categories:  Astronomy   
+date: 2014-06-19 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/ucl-smg061714.php)
 
-id:    2722 
+id:    2722

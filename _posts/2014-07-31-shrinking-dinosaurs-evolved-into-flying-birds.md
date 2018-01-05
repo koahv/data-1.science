@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Shrinking dinosaurs evolved into flying birds"
-date:  2014-07-31 04:00:00 
-categories:  Science     
+date: 2014-07-31 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/uoa-sde072814.php)
 
-id:   29640 
+id:   29640

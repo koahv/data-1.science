@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ceres' bright spots seen in striking new detail"
-date:  2015-09-09 19:35:12 
-categories:  Science     
+date: 2015-09-09 19:35:12
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-ceres-bright.html)
 
-id:  181936 
+id:  181936

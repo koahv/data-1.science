@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Like in Humans, Genes Drive Half of Chimp Intelligence, Study Finds"
-date:  2014-07-10 16:06:34 
-categories:  Science     
-author:  Virginia Hughes                                               
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-07-10 16:06:34
+categories: Science
+author: Virginia Hughes
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/8UsdF1fTC8g/)
 
-id:   17506 
+id:   17506

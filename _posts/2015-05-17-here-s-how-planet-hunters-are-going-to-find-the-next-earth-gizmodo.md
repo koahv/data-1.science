@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Here's How Planet Hunters Are Going to Find the Next Earth - Gizmodo"
-date:  2015-05-17 15:01:26 
-categories:  Earth       
+date: 2015-05-17 15:01:26
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFit_tUYOc4wtJdO4uM91UYtFKsbw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778842705778&ei=b8lYVeDlJ4W53QGIxoHYCw&url=http://gizmodo.com/heres-how-planet-hunters-are-going-to-find-the-next-ear-1703491062)
 
-id:  124406 
+id:  124406

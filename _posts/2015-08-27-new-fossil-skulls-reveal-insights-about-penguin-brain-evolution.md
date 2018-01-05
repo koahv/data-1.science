@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New fossil skulls reveal insights about penguin brain evolution"
-date:  2015-08-27 14:31:35 
-categories:  Science     
+date: 2015-08-27 14:31:35
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-08-fossil-skulls-reveal-insights-penguin.html)
 
-id:  175479 
+id:  175479

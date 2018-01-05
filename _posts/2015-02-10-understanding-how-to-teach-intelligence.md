@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Understanding how to teach 'intelligence'"
-date:  2015-02-10 13:36:49 
-categories:  Science     
+date: 2015-02-10 13:36:49
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/pHzN-ikD9EY/150210083649.htm)
 
-id:   80991 
+id:   80991

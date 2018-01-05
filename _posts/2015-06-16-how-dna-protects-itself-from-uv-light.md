@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How DNA protects itself from UV light"
-date:  2015-06-16 12:19:15 
-categories:  Science     
+date: 2015-06-16 12:19:15
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news353661547.html)
 
-id:  139907 
+id:  139907

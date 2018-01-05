@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How strong is the force of gravity on Earth?"
-date:  2016-12-07 14:20:01 
-categories:  Science     
+date: 2016-12-07 14:20:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-12-strong-gravity-earth.html)
 
-id:  347261 
+id:  347261

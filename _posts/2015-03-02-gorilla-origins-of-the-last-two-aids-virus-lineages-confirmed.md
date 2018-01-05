@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Gorilla origins of the last two AIDS virus lineages confirmed"
-date:  2015-03-02 20:00:08 
-categories:  Science     
+date: 2015-03-02 20:00:08
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news344520638.html)
 
-id:   89704 
+id:   89704

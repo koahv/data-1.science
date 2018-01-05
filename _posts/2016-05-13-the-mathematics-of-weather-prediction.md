@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The mathematics of weather prediction"
-date:  2016-05-13 13:20:04 
-categories:  Science     
+date: 2016-05-13 13:20:04
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2016-05-mathematics-weather.html)
 
-id:  284403 
+id:  284403

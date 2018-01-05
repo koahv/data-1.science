@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Three Challenges for the Web, According to its Inventor"
-date:  2017-03-14 10:30:56 
-categories:  Linux       
-author:  WWW Foundation                                                
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-03-14 10:30:56
+categories: Linux
+author: WWW Foundation
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/three-challenges-web-according-its-inventor-0)
 
-id:  374005 
+id:  374005

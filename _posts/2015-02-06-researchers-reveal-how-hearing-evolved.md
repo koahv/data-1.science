@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers reveal how hearing evolved"
-date:  2015-02-06 17:52:57 
-categories:  Science     
+date: 2015-02-06 17:52:57
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/2AwB31XwWQ0/150206125257.htm)
 
-id:   79179 
+id:   79179

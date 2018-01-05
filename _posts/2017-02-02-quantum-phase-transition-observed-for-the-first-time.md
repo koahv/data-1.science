@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum phase transition observed for the first time"
-date:  2017-02-02 05:00:00 
-categories:  Technology  
+date: 2017-02-02 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/iosa-qpt020117.php)
 
-id:  362238 
+id:  362238

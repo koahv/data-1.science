@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cells adapt ultra-rapidly to zero gravity"
-date:  2017-02-28 11:56:29 
-categories:  Science     
+date: 2017-02-28 11:56:29
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-02-cells-ultra-rapidly-gravity.html)
 
-id:  369713 
+id:  369713

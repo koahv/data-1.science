@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers closer to being able to change blood types"
-date:  2015-04-29 17:29:26 
-categories:  Science     
+date: 2015-04-29 17:29:26
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Pq7aebULsEw/150429132926.htm)
 
-id:  116237 
+id:  116237

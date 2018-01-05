@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's James Webb Space Telescope secondary mirror installed"
-date:  2016-03-07 05:00:00 
-categories:  Astronomy   
+date: 2016-03-07 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/nsfc-njw030716.php)
 
-id:  259550 
+id:  259550

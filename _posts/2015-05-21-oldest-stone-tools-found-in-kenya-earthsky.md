@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Oldest stone tools found in Kenya - EarthSky"
-date:  2015-05-21 12:24:00 
-categories:  Earth       
+date: 2015-05-21 12:24:00
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNF_TibCtXKCYKA0EgnUMOMq2MZjlA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778848092449&ei=ijxdVYCjHsT43QH-4oHwDg&url=http://earthsky.org/earth/oldest-known-stone-tools-found-in-kenya)
 
-id:  126464 
+id:  126464

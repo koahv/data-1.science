@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New study hints at spontaneous appearance of primordial DNA"
-date:  2015-04-07 13:56:35 
-categories:  Science     
+date: 2015-04-07 13:56:35
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/3sdpxYPmGqg/150407095635.htm)
 
-id:  105844 
+id:  105844

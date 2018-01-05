@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Superabsorbing ring could make light work of snaps"
-date:  2014-08-22 12:49:43 
-categories:  Science     
+date: 2014-08-22 12:49:43
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news327916156.html)
 
-id:   44447 
+id:   44447

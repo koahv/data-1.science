@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The chemical that tells plants when it's time to sleep"
-date:  2017-10-20 13:00:01 
-categories:  Science     
+date: 2017-10-20 13:00:01
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-10-chemical.html)
 
-id:  441992 
+id:  441992

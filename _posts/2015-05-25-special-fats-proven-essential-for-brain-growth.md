@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Special fats proven essential for brain growth"
-date:  2015-05-25 16:04:51 
-categories:  Science     
+date: 2015-05-25 16:04:51
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Ydz3fe2N_RY/150525120451.htm)
 
-id:  128441 
+id:  128441

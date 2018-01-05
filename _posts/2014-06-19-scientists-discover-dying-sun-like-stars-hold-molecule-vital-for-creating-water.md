@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists Discover Dying Sun-Like Stars Hold Molecule Vital for Creating Water"
-date:  2014-06-19 10:52:25 
-categories:  Science     
+date: 2014-06-19 10:52:25
+categories: Science
 author: unknown author
-tags:  space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space
 
 [Visit Link](http://www.scienceworldreport.com/articles/15518/20140619/scientists-discover-dying-sun-stars-hold-molecule-vital-creating-water.htm)
 
-id:    1686 
+id:    1686

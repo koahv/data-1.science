@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Celebrating 50 Years of Exploring the Red Planet"
-date:  2015-07-16 18:17:22 
-categories:  Technology  
-author:  mfassbender                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-07-16 18:17:22
+categories: Technology
+author: mfassbender
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/07/celebrating-50-years-exploring-red-planet)
 
-id:  156175 
+id:  156175

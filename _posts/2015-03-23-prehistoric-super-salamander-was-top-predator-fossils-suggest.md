@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Prehistoric super salamander was top predator, fossils suggest"
-date:  2015-03-23 04:00:00 
-categories:  Science     
+date: 2015-03-23 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/uoe-pss032315.php)
 
-id:   99405 
+id:   99405

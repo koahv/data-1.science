@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How molecular clocks are refining human evolution's timeline"
-date:  2017-04-07 12:20:02 
-categories:  Science     
+date: 2017-04-07 12:20:02
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](https://phys.org/news/2017-04-molecular-clocks-refining-human-evolution.html)
 
-id:  381520 
+id:  381520

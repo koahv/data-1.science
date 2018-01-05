@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New gravity map gives best view yet inside Mars"
-date:  2016-03-21 04:00:00 
-categories:  Science     
+date: 2016-03-21 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/nsfc-ngm032116.php)
 
-id:  264693 
+id:  264693

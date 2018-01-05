@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mediterranean diet cuts heart disease risk by nearly half"
-date:  2015-03-05 00:02:22 
-categories:  Science     
+date: 2015-03-05 00:02:22
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/HUXkV4SwrF0/150304190222.htm)
 
-id:   91073 
+id:   91073

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists working to understand how and why matter came about"
-date:  2015-02-06 17:51:17 
-categories:  Science     
+date: 2015-02-06 17:51:17
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/zx5fsnDSOOE/150206125117.htm)
 
-id:   79182 
+id:   79182

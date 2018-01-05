@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to Check Bad Sectors or Bad Blocks on Hard Disk in Linux"
-date:  2016-10-26 06:53:13 
-categories:  Linux       
-author:  Aaron Kili                                                    
-tags:  linux commands,linux tricks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+date: 2016-10-26 06:53:13
+categories: Linux
+author: Aaron Kili
+tags: [linux commands, linux tricks]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands,linux tricks
 
 [Visit Link](http://www.tecmint.com/check-linux-hard-disk-bad-sectors-bad-blocks/)
 
-id:  335372 
+id:  335372

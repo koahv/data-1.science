@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New evidence for anthropic theory that fundamental physics constants underlie life-enabling universe"
-date:  2015-01-16 05:00:00 
-categories:  Science     
+date: 2015-01-16 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/scp-nef011415.php)
 
-id:   73431 
+id:   73431

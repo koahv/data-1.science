@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bioengineers create functional 3-D brain-like tissue: Tissue kept alive for months"
-date:  2014-08-11 19:11:19 
-categories:  Science     
+date: 2014-08-11 19:11:19
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/MmxaR2vfj30/140811151119.htm)
 
-id:   36735 
+id:   36735

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fingerprinting the formation of giant planets"
-date:  2014-07-18 10:46:25 
-categories:  Science     
+date: 2014-07-18 10:46:25
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news324884769.html)
 
-id:   23074 
+id:   23074

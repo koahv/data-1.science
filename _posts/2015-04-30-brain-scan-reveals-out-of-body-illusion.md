@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brain scan reveals out-of-body illusion"
-date:  2015-04-30 16:41:07 
-categories:  Science     
+date: 2015-04-30 16:41:07
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Tdv85Zmr1dQ/150430124107.htm)
 
-id:  116990 
+id:  116990

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Past and present genomes tell the story of Native American biological origins"
-date:  2015-07-27 04:00:00 
-categories:  Science     
+date: 2015-07-27 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/crwi-pap072715.php)
 
-id:  160955 
+id:  160955

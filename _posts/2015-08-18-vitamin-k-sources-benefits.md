@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Vitamin K: Sources & Benefits"
-date:  2015-08-18 23:49:05 
-categories:  Science     
+date: 2015-08-18 23:49:05
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51908-vitamin-k.html)
 
-id:  171298 
+id:  171298

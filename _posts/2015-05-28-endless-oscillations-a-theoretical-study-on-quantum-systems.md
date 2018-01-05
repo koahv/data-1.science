@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Endless oscillations: A theoretical study on quantum systems"
-date:  2015-05-28 07:33:40 
-categories:  Science     
+date: 2015-05-28 07:33:40
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news352002810.html)
 
-id:  129982 
+id:  129982

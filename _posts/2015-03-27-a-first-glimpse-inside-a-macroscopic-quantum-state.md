@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A first glimpse inside a macroscopic quantum state"
-date:  2015-03-27 04:00:00 
-categories:  Technology  
+date: 2015-03-27 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/iiop-afg032315.php)
 
-id:  101285 
+id:  101285

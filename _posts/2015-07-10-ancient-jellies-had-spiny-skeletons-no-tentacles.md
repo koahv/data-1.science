@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient Jellies Had Spiny Skeletons, No Tentacles"
-date:  2015-07-10 18:01:50 
-categories:  Science     
+date: 2015-07-10 18:01:50
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51515-ancient-comb-jellies-had-skeletons.html)
 
-id:  153008 
+id:  153008

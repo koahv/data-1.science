@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "LIGO detects gravitational waves for third time"
-date:  2017-06-01 04:00:00 
-categories:  Astronomy   
+date: 2017-06-01 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-06/miot-ldg052617.php)
 
-id:  397373 
+id:  397373

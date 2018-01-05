@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Expansion entropy': A new litmus test for chaos?"
-date:  2015-07-28 15:00:03 
-categories:  Science     
+date: 2015-07-28 15:00:03
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-07-expansion-entropy-litmus-chaos.html)
 
-id:  161498 
+id:  161498

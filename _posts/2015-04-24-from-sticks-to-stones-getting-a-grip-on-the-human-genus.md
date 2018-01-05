@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "From sticks to stones—getting a grip on the human genus"
-date:  2015-04-24 12:50:01 
-categories:  Science     
+date: 2015-04-24 12:50:01
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news349081366.html)
 
-id:  114269 
+id:  114269

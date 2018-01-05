@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Spooky Action Is Real: Bizarre Quantum Entanglement Confirmed in New Tests"
-date:  2015-11-17 17:06:45 
-categories:  Science     
+date: 2015-11-17 17:06:45
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/52811-spooky-action-is-real.html)
 
-id:  212727 
+id:  212727

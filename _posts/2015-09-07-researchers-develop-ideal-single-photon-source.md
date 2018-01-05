@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers develop ideal single-photon source"
-date:  2015-09-07 11:41:49 
-categories:  Science     
+date: 2015-09-07 11:41:49
+categories: Science
 author: unknown author
-tags:  optics & photonics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+tags: [optics & photonics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  optics & photonics
 
 [Visit Link](http://phys.org/news/2015-09-ideal-single-photon-source.html)
 
-id:  180502 
+id:  180502

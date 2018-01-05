@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mysterious gene functionally decoded"
-date:  2014-06-23 12:34:35 
-categories:  Science     
+date: 2014-06-23 12:34:35
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news322731248.html)
 
-id:    2562 
+id:    2562

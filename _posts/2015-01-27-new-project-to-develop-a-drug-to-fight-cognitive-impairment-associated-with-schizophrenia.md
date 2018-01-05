@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New project to develop a drug to fight cognitive impairment associated with schizophrenia"
-date:  2015-01-27 05:00:00 
-categories:  Technology  
+date: 2015-01-27 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/cfgr-npt012715.php)
 
-id:   75997 
+id:   75997

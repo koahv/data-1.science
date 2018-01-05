@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New, tighter timeline confirms ancient volcanism aligned with dinosaurs' extinction"
-date:  2014-12-18 20:45:44 
-categories:  Science     
+date: 2014-12-18 20:45:44
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/pcgS9QwTjxg/141218154544.htm)
 
-id:   67778 
+id:   67778

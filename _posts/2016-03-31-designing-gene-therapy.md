@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Designing gene therapy"
-date:  2016-03-31 04:00:00 
-categories:  Technology  
+date: 2016-03-31 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/embl-dgt033116.php)
 
-id:  268644 
+id:  268644

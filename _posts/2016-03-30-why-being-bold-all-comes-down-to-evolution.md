@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why being bold all comes down to evolution"
-date:  2016-03-30 13:50:02 
-categories:  Science     
+date: 2016-03-30 13:50:02
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](http://phys.org/news/2016-03-bold-evolution.html)
 
-id:  268092 
+id:  268092

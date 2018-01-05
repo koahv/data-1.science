@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Forest-mapping instrument for space station passes major milestone"
-date:  2015-09-15 20:14:07 
-categories:  Science     
+date: 2015-09-15 20:14:07
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-forest-mapping-instrument-space-station-major.html)
 
-id:  185040 
+id:  185040

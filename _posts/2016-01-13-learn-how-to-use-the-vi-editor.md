@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Learn how to use the vi editor"
-date:  2016-01-13 16:08:31 
-categories:  Linux       
+date: 2016-01-13 16:08:31
+categories: Linux
 author: unknown author
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=224375)
 
-id:  235759 
+id:  235759

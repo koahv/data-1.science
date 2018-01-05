@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Spacecraft of the Week: Mars Orbiter Mission"
-date:  2015-08-20 20:06:10 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-08-20 20:06:10
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/08/spacecraft-week-mars-orbiter-mission)
 
-id:  172439 
+id:  172439

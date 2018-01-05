@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New gene-detecting technology brings new, resilient superwheat closer"
-date:  2016-04-25 04:00:00 
-categories:  Technology  
+date: 2016-04-25 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/jic-ngt042116.php)
 
-id:  277848 
+id:  277848

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Seeing Earth as an exoplanet: What signs of life are visible?"
-date:  2014-07-21 11:50:01 
-categories:  Science     
+date: 2014-07-21 11:50:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news325144601.html)
 
-id:   24329 
+id:   24329

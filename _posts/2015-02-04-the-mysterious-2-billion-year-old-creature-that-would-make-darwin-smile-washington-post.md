@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The mysterious 2 billion-year-old creature that would make Darwin smile - Washington Post"
-date:  2015-02-04 08:02:10 
-categories:  Earth       
+date: 2015-02-04 08:02:10
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNG3hXrUiAD7nwvKr26UNJGxlzDpGw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778729947672&ei=s23YVMCaDJGd3QGB64LQCw&url=http://www.washingtonpost.com/news/morning-mix/wp/2015/02/04/the-mysterious-and-unchanging-2-billion-year-old-creature-that-would-make-darwin-smile/)
 
-id:   79000 
+id:   79000

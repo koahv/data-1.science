@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mapping wood production in European forests"
-date:  2015-09-09 13:00:01 
-categories:  Science     
+date: 2015-09-09 13:00:01
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2015-09-wood-production-european-forests.html)
 
-id:  181640 
+id:  181640

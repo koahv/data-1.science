@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "From a million miles away, NASA camera shows moon crossing face of Earth"
-date:  2015-08-05 04:00:00 
-categories:  Technology  
+date: 2015-08-05 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/nsfc-fam080515.php)
 
-id:  165323 
+id:  165323

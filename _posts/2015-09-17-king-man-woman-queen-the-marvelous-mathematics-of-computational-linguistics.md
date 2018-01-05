@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "King - Man + Woman = Queen: The Marvelous Mathematics of Computational Linguistics"
-date:  2015-09-17 10:50:00 
-categories:  Technology  
+date: 2015-09-17 10:50:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.technologyreview.com/view/541356/king-man-woman-queen-the-marvelous-mathematics-of-computational-linguistics/)
 
-id:  185971 
+id:  185971

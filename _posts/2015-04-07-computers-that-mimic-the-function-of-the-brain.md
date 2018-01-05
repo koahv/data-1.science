@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Computers that Mimic the Function of the Brain"
-date:  2015-04-07 14:42:31 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-04-07 14:42:31
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/04/computers-mimic-function-brain)
 
-id:  105893 
+id:  105893

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Large Hadron Collider luminosity upgrade project moving to next phase"
-date:  2015-10-29 20:55:59 
-categories:  Science     
+date: 2015-10-29 20:55:59
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-10-large-hadron-collider-luminosity-phase.html)
 
-id:  204596 
+id:  204596

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Are cities affecting evolution?"
-date:  2017-11-02 04:00:00 
-categories:  Science     
+date: 2017-11-02 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/uot-aca103017.php)
 
-id:  448526 
+id:  448526

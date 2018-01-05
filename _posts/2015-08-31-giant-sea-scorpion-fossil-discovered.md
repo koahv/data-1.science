@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Giant 'sea scorpion' fossil discovered"
-date:  2015-08-31 04:00:00 
-categories:  Science     
+date: 2015-08-31 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/bc-gs082715.php)
 
-id:  177398 
+id:  177398

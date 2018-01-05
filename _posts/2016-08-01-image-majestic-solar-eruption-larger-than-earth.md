@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Image: Majestic solar eruption larger than Earth"
-date:  2016-08-01 12:50:09 
-categories:  Science     
+date: 2016-08-01 12:50:09
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-08-image-majestic-solar-eruption-larger.html)
 
-id:  310100 
+id:  310100

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolving a bigger brain with human DNA"
-date:  2015-02-19 17:00:01 
-categories:  Science     
+date: 2015-02-19 17:00:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news343558525.html)
 
-id:   84838 
+id:   84838

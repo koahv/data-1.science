@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Plant engineered for more efficient photosynthesis"
-date:  2014-09-18 10:28:09 
-categories:  Science     
+date: 2014-09-18 10:28:09
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news330240481.html)
 
-id:   50359 
+id:   50359

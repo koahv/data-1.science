@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Carbon Dioxide Captured from Air Converted Directly to Methanol Fuel for First Time"
-date:  2016-02-02 18:45:19 
-categories:  Technology  
-author:  jmoonie                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-02-02 18:45:19
+categories: Technology
+author: jmoonie
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/02/carbon-dioxide-captured-air-converted-directly-methanol-fuel-first-time)
 
-id:  244868 
+id:  244868

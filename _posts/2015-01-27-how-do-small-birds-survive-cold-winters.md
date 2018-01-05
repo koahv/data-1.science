@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How do small birds survive cold winters?"
-date:  2015-01-27 15:01:59 
-categories:  Science     
+date: 2015-01-27 15:01:59
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/rv_Au1S-SJY/150127100159.htm)
 
-id:   76243 
+id:   76243

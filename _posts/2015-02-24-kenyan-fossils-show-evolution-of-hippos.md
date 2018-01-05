@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Kenyan fossils show evolution of hippos"
-date:  2015-02-24 16:34:46 
-categories:  Science     
+date: 2015-02-24 16:34:46
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/fQ6ZdUpF7qo/150224113446.htm)
 
-id:   86770 
+id:   86770

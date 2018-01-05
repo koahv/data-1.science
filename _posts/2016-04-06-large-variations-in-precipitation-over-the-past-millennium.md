@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Large variations in precipitation over the past millennium"
-date:  2016-04-06 17:00:05 
-categories:  Science     
+date: 2016-04-06 17:00:05
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2016-04-large-variations-precipitation-millennium.html)
 
-id:  271097 
+id:  271097

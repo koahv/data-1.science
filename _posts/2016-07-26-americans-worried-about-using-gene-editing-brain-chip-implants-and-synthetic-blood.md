@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Americans worried about using gene editing, brain chip implants and synthetic blood"
-date:  2016-07-26 04:00:00 
-categories:  Technology  
+date: 2016-07-26 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/prc-awa072016.php)
 
-id:  308214 
+id:  308214

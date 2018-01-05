@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Probability that the quantum world obeys local realism is less than one in a billion, experiment shows"
-date:  2017-07-20 13:30:02 
-categories:  Science     
+date: 2017-07-20 13:30:02
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-07-probability-quantum-world-local-realism.html)
 
-id:  411641 
+id:  411641

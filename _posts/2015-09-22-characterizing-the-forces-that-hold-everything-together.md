@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Characterizing the forces that hold everything together"
-date:  2015-09-22 04:00:00 
-categories:  Technology  
+date: 2015-09-22 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uoma-ctf092215.php)
 
-id:  187968 
+id:  187968

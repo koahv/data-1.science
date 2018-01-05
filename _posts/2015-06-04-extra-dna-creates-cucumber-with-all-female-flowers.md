@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Extra DNA creates cucumber with all female flowers"
-date:  2015-06-04 04:00:00 
-categories:  Science     
+date: 2015-06-04 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/cu-edc060415.php)
 
-id:  133915 
+id:  133915

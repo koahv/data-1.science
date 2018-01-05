@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Spacecraft of the Week: Solar Probe Plus"
-date:  2015-06-11 18:58:44 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-06-11 18:58:44
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/06/spacecraft-week-solar-probe-plus)
 
-id:  137778 
+id:  137778

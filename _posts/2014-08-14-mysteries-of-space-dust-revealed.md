@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mysteries of space dust revealed"
-date:  2014-08-14 04:00:00 
-categories:  Astronomy   
+date: 2014-08-14 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/dbnl-mos081314.php)
 
-id:   39032 
+id:   39032

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "11 df command examples in Linux"
-date:  2015-10-16 13:44:12 
-categories:  Linux       
-author:  Pradeep Kumar                                                 
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+date: 2015-10-16 13:44:12
+categories: Linux
+author: Pradeep Kumar
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=220748)
 
-id:  198955 
+id:  198955

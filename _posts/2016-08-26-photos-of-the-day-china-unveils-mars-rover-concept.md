@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos of the Day: China Unveils Mars Rover Concept"
-date:  2016-08-26 13:13:32 
-categories:  Technology  
-author:  skasprzak                                                     
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-08-26 13:13:32
+categories: Technology
+author: skasprzak
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/08/photos-day-china-unveils-mars-rover-concept)
 
-id:  318162 
+id:  318162

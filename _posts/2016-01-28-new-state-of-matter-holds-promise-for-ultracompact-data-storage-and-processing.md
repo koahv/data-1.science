@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New state of matter holds promise for ultracompact data storage and processing"
-date:  2016-01-28 09:07:48 
-categories:  Science     
+date: 2016-01-28 09:07:48
+categories: Science
 author: unknown author
-tags:  condensed matter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [condensed matter]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  condensed matter
 
 [Visit Link](http://phys.org/news/2016-01-state-ultracompact-storage.html)
 
-id:  242371 
+id:  242371

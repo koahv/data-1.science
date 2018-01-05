@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Patterns are math we love to look at"
-date:  2015-09-22 13:13:31 
-categories:  Science     
+date: 2015-09-22 13:13:31
+categories: Science
 author: unknown author
-tags:  mathematics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [mathematics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  mathematics
 
 [Visit Link](http://phys.org/news/2015-09-patterns-math.html)
 
-id:  187827 
+id:  187827

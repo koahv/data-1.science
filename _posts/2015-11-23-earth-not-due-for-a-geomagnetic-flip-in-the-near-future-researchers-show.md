@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earth not due for a geomagnetic flip in the near future, researchers show"
-date:  2015-11-23 20:00:11 
-categories:  Science     
+date: 2015-11-23 20:00:11
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2015-11-earth-due-geomagnetic-flip-future.html)
 
-id:  215378 
+id:  215378

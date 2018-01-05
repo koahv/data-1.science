@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "India's Mars Orbiter Captures Striking View of Red Planet's Canyons - NBCNews.com"
-date:  2015-08-14 23:19:24 
-categories:  Astronomy   
+date: 2015-08-14 23:19:24
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHjXfZdOWH5Aez1tjBSgZq2_kIfsA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778925716745&ei=mLnOVZD0HcPT3gHLvLboDQ&url=http://www.nbcnews.com/science/space/indias-mars-orbiter-captures-striking-view-planets-canyons-n410261)
 
-id:  169891 
+id:  169891

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physics of clouds: Long-held ideas about turbulence disproven"
-date:  2015-03-11 18:09:37 
-categories:  Science     
+date: 2015-03-11 18:09:37
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/eaMUezzC4oE/150311140937.htm)
 
-id:   94011 
+id:   94011

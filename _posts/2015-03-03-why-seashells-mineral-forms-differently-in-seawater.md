@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why seashells' mineral forms differently in seawater"
-date:  2015-03-03 11:26:46 
-categories:  Science     
+date: 2015-03-03 11:26:46
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news344586376.html)
 
-id:   89874 
+id:   89874

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum teleportation on a chip"
-date:  2015-04-01 04:00:00 
-categories:  Technology  
+date: 2015-04-01 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/uob-qto040115.php)
 
-id:  103421 
+id:  103421

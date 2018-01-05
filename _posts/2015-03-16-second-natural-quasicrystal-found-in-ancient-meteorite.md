@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Second natural quasicrystal found in ancient meteorite"
-date:  2015-03-16 04:00:00 
-categories:  Astronomy   
+date: 2015-03-16 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/pu-snq031615.php)
 
-id:   95928 
+id:   95928

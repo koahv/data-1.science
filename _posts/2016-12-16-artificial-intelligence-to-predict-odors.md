@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Artificial intelligence to predict odors"
-date:  2016-12-16 05:00:00 
-categories:  Technology  
+date: 2016-12-16 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-12/uoe-ait121616.php)
 
-id:  350247 
+id:  350247

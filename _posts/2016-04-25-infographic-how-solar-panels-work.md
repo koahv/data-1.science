@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Infographic: How Solar Panels Work"
-date:  2016-04-25 17:24:07 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-25 17:24:07
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/04/infographic-how-solar-panels-work)
 
-id:  278032 
+id:  278032

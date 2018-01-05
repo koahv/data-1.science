@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Projecting a Three-Dimensional Future"
-date:  2014-07-09 16:40:22 
-categories:  Technology  
-author:  cfox                                                          
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-07-09 16:40:22
+categories: Technology
+author: cfox
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2014/07/projecting-three-dimensional-future)
 
-id:   16638 
+id:   16638

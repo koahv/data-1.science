@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ESA's Jupiter mission moves off the drawing board"
-date:  2017-03-17 10:10:35 
-categories:  Science     
+date: 2017-03-17 10:10:35
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-03-esa-jupiter-mission-board.html)
 
-id:  375065 
+id:  375065

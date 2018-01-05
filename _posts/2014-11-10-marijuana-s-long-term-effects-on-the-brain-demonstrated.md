@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Marijuana's long-term effects on the brain demonstrated"
-date:  2014-11-10 21:11:23 
-categories:  Science     
+date: 2014-11-10 21:11:23
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/ECNeimPxgRc/141110161123.htm)
 
-id:   59924 
+id:   59924

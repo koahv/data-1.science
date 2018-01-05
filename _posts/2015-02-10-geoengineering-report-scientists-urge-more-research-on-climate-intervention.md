@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Geoengineering report: Scientists urge more research on climate intervention"
-date:  2015-02-10 20:59:42 
-categories:  Science     
+date: 2015-02-10 20:59:42
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/r1HNwOxlJH4/150210155942.htm)
 
-id:   81283 
+id:   81283

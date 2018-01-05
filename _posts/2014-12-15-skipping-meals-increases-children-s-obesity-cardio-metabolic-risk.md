@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Skipping meals increases children's obesity, cardio metabolic risk"
-date:  2014-12-15 13:44:20 
-categories:  Science     
+date: 2014-12-15 13:44:20
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/KhJ5t3EMz7E/141215084420.htm)
 
-id:   65446 
+id:   65446

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study yields insights into how plant cells grow"
-date:  2015-03-11 04:00:00 
-categories:  Technology  
+date: 2015-03-11 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/pu-syi031015.php)
 
-id:   94157 
+id:   94157

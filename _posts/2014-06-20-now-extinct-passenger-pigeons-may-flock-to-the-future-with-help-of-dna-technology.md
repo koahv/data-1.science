@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Now Extinct Passenger Pigeons may Flock to the Future with Help of DNA Technology"
-date:  2014-06-20 15:44:59 
-categories:  Science     
+date: 2014-06-20 15:44:59
+categories: Science
 author: unknown author
-tags:  nature & environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+tags: [nature & environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nature & environment
 
 [Visit Link](http://www.scienceworldreport.com/articles/15570/20140620/now-extinct-passenger-pigeons-may-flock-to-the-future-with-help-of-dna-technology.htm)
 
-id:    1638 
+id:    1638

@@ -9,15 +9,13 @@ then
 	while IFS='|' read -r id date category title link author last_marked tags snippet factsheet
 	do
 	
-	# make each post
-
-	# echo $date $category $title $link $author $last_marked $tags
-
+	# make each post	
+	#echo $date $category $title $link $author $last_marked $tags $snippet $factsheet
 	# split date and time into two vars
+
 	split_date=($date)
 
-	# echo post date ${split_date[0]}
-	# echo post time ${split_date[1]}
+	# echo post date ${split_date[0]}	# echo post time ${split_date[1]}
 
 	# modify title for post filename
 	
@@ -36,8 +34,7 @@ then
 	mod_link1="$(echo -e "${link}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
 
 	mod_snippet1="$(echo -e "${snippet}" | sed -e 's/<[^>]*>//g')"
-	mod_snippet2="$(echo -e "${mod_snippet1}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
-	
+	mod_snippet2="$(echo -e "${mod_snippet1}" | sed -e 's/^ *//;s/ *$//;s/  */ /;')"	
 		
 	# replace null entries
 	if [[ -z "${author// }" ]]
@@ -47,14 +44,27 @@ then
 
 	if [[ -z "${factsheet// }" ]]
 	then
-		factsheet="factsheet unavailable"
+		mod_factsheet1="factsheet unavailable"
+	
+	else
+		mod_factsheet1="$(echo -e "${factsheet}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
 	fi
 	
-	echo AUTHOR: $author;echo
-	echo EXTRACT:
-	echo $mod_snippet2;echo
-	echo FACTSHEET: $factsheet;echo;echo;
+	if [[ -z "${tags// }" ]]
+	then
+		mod_tags2=""
+	else
+		mod_tags1="$(echo -e "${tags}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' | sed -e 's/,/, /g')"
+		mod_tags2="tags: [ $mod_tags1 ]"
+	fi
 
+
+
+	#echo AUTHOR: $author;echo
+	#echo EXTRACT:
+	#echo $mod_snippet2;echo
+	#echo FACTSHEET: $factsheet;echo;echo;
+	
 
 
 
@@ -62,7 +72,7 @@ then
 	rm post_data/${split_date[0]}-$mod_title1.md
 	
 	# write post
-	echo -e "---\\nlayout: post\\ntitle: \"$mod_title2\"\\ndate: $date\\ncategories: $category\\nauthor: $author\\ntags: $tags\\n---\\n\\n\\n#### Extract\\n>$mod_snippet2\\n\\n#### Factsheet\\n>$factsheet\\n\\n[Visit Link]($mod_link1)\\n\\nid: $id" >> post_data/${split_date[0]}-$mod_title1.md
+	echo -e "---\\nlayout: post\\ntitle: \"$mod_title2\"\\ndate: $date\\ncategories: $category\\nauthor: $author\\n$mod_tags2\\n---\\n\\n\\n#### Extract\\n>$mod_snippet2\\n\\n#### Factsheet\\n>$mod_factsheet1\\n\\n[Visit Link]($mod_link1)\\n\\nid: $id" >> post_data/${split_date[0]}-$mod_title1.md
 	
 	# mv file to _posts
 #	mv post_data/${split_date[0]}-$mod_title1.md ~/data-1.science/_posts/

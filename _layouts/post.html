@@ -11,9 +11,11 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }} • Tags: {% for tags in page.tags %} {{ tags }}, {% endfor %}
+</span></span>
       {% endif %}</p>
-  </header>
+ 
+   </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
@@ -22,6 +24,7 @@ layout: default
 <hr>
 <p>
 <div class="relatedPosts">
+<b>Related Content (if any)</b>
 
 {% assign maxRelated = 10 %}
 {% assign minCommonTags =  2 %}
@@ -44,7 +47,6 @@ layout: default
 
     {% if sameTagCount >= minCommonTags %}
       <div>
-      <b>Related Content</b>
       <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
       </div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}

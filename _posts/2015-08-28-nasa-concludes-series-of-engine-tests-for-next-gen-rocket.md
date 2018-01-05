@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA concludes series of engine tests for next-gen rocket"
-date:  2015-08-28 10:30:01 
-categories:  Science     
+date: 2015-08-28 10:30:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-nasa-series-next-gen-rocket.html)
 
-id:  175979 
+id:  175979

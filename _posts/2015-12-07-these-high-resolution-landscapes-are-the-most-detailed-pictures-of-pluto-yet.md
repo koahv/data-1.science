@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "These High-Resolution Landscapes Are the Most Detailed Pictures of Pluto Yet"
-date:  2015-12-07 16:11:53 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-12-07 16:11:53
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/12/these-high-resolution-landscapes-are-most-detailed-pictures-pluto-yet)
 
-id:  221147 
+id:  221147

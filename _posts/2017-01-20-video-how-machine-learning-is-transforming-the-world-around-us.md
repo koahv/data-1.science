@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Video: How machine learning is transforming the world around us"
-date:  2017-01-20 15:19:26 
-categories:  Science     
+date: 2017-01-20 15:19:26
+categories: Science
 author: unknown author
-tags:  computer sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [computer sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  computer sciences
 
 [Visit Link](https://phys.org/news/2017-01-video-machine-world.html)
 
-id:  358673 
+id:  358673

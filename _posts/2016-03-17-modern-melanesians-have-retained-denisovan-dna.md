@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Modern Melanesians have retained Denisovan DNA"
-date:  2016-03-17 04:00:00 
-categories:  Science     
+date: 2016-03-17 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/aaft-mmh031416.php)
 
-id:  263583 
+id:  263583

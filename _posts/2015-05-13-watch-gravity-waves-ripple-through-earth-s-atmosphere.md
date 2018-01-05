@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Watch gravity waves ripple through Earth's atmosphere"
-date:  2015-05-13 15:19:00 
-categories:  Tech        
-author:  Jon Fingas                                                    
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-05-13 15:19:00
+categories: Tech
+author: Jon Fingas
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.engadget.com/2015/05/13/gravity-wave-atmospheric-model/?ncid=rss_truncated)
 
-id:  122595 
+id:  122595

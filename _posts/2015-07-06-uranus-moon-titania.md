@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Uranus' moon Titania"
-date:  2015-07-06 12:40:02 
-categories:  Science     
+date: 2015-07-06 12:40:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news355389755.html)
 
-id:  150045 
+id:  150045

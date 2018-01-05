@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Hubble, the telescope that revolutionized our view of space"
-date:  2015-04-21 06:33:22 
-categories:  Science     
+date: 2015-04-21 06:33:22
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news348802392.html)
 
-id:  112017 
+id:  112017

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New material discovery allows study of elusive Weyl fermion"
-date:  2016-08-15 04:00:00 
-categories:  Technology  
+date: 2016-08-15 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/dl-nmd081516.php)
 
-id:  314285 
+id:  314285

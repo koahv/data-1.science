@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Exercising early in life yields rewards in adult years"
-date:  2015-06-26 12:39:15 
-categories:  Science     
+date: 2015-06-26 12:39:15
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150626083915.htm)
 
-id:  145931 
+id:  145931

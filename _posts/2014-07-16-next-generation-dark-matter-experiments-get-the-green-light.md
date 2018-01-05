@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Next-generation dark matter experiments get the green light"
-date:  2014-07-16 12:00:01 
-categories:  Science     
+date: 2014-07-16 12:00:01
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news324714533.html)
 
-id:   21172 
+id:   21172

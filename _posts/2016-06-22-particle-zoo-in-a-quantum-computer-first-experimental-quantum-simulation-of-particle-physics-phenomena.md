@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Particle zoo in a quantum computer: First experimental quantum simulation of particle physics phenomena"
-date:  2016-06-22 17:00:08 
-categories:  Science     
+date: 2016-06-22 17:00:08
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-06-particle-zoo-quantum-experimental-simulation.html)
 
-id:  297698 
+id:  297698

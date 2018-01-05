@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The universe really is weird, and a landmark quantum experiment proves it"
-date:  2015-10-22 12:20:01 
-categories:  Science     
+date: 2015-10-22 12:20:01
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2015-10-universe-weird-landmark-quantum.html)
 
-id:  201199 
+id:  201199

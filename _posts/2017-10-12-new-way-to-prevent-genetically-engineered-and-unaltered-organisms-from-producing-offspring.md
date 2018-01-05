@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New way to prevent genetically engineered and unaltered organisms from producing offspring"
-date:  2017-10-12 09:00:03 
-categories:  Science     
+date: 2017-10-12 09:00:03
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-10-genetically-unaltered-offspring.html)
 
-id:  438028 
+id:  438028

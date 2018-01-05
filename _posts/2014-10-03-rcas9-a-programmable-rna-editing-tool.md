@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "RCas9: A programmable RNA editing tool"
-date:  2014-10-03 04:00:00 
-categories:  Technology  
+date: 2014-10-03 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-10/dbnl-rap100314.php)
 
-id:   51682 
+id:   51682

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Software Defined Networking (SDN) Explained for Beginners"
-date:  2017-08-18 07:00:06 
-categories:  Linux       
-author:  HowToForge Tutorials                                          
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-08-18 07:00:06
+categories: Linux
+author: HowToForge Tutorials
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/software-defined-networking-sdn-explained-beginners)
 
-id:  420729 
+id:  420729

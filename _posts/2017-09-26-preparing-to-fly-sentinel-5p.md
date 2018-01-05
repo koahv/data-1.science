@@ -1,19 +1,24 @@
 ---
 layout: post
 title: "Preparing to fly Sentinel-5P"
-date:  2017-09-26 11:15:00 
-categories:  Astronomy   
+date: 2017-09-26 11:15:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
 #### Extract
->+
+>
+								
+		
+The teams that will fly Sentinel-5P are training intensively for launch, ensuring that everyone knows their job and can react to any emergency.
+
+	
 
 #### Factsheet
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/Our_Activities/Operations/Preparing_to_fly_Sentinel-5P)
 
-id:  432622 
+id:  432622

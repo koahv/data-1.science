@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists identify schizophrenia's 'Rosetta Stone' gene"
-date:  2015-07-23 04:00:00 
-categories:  Science     
+date: 2015-07-23 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/cu-sis072315.php)
 
-id:  159792 
+id:  159792

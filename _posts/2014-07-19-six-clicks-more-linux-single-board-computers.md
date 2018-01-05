@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Six Clicks: More Linux single-board computers"
-date:  2014-07-19 00:16:05 
-categories:  Linux       
+date: 2014-07-19 00:16:05
+categories: Linux
 author: unknown author
-tags:  hardware,linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [hardware, linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  hardware,linux
 
 [Visit Link](http://www.zdnet.com/six-clicks-more-linux-single-board-computers-7000031776/#ftag=RSS510d04f)
 
-id:   23647 
+id:   23647

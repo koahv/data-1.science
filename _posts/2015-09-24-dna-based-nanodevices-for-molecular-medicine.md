@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DNA-based nanodevices for molecular medicine"
-date:  2015-09-24 04:00:00 
-categories:  Science     
+date: 2015-09-24 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/au-dnf092415.php)
 
-id:  188920 
+id:  188920

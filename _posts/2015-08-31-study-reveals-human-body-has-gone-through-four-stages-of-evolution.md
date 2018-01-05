@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study reveals human body has gone through four stages of evolution"
-date:  2015-08-31 20:07:24 
-categories:  Science     
+date: 2015-08-31 20:07:24
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-08-reveals-human-body-stages-evolution.html)
 
-id:  177251 
+id:  177251

@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "How diet shaped human evolution"
-date:  2016-03-29 17:22:45 
-categories:  Science     
+date: 2016-03-29 17:22:45
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
 #### Extract
->A new study finds that the Ice-Age diet -- a high-protein intake of large animals -- triggered physical changes in Neanderthals, namely a larger ribcage and a wider pelvis.
+>A new study finds that the Ice-Age diet -- a high-protein intake of large animals -- triggered physical changes in Neanderthals, namely a larger ribcage and a wider pelvis. 
 
 #### Factsheet
 >factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2016/03/160329132245.htm)
 
-id:  267845 
+id:  267845

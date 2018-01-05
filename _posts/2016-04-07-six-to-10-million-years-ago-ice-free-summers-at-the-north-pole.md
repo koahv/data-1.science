@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Six to 10 million years ago: Ice-free summers at the North Pole"
-date:  2016-04-07 17:00:01 
-categories:  Science     
+date: 2016-04-07 17:00:01
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2016-04-million-years-ice-free-summers-north.html)
 
-id:  271577 
+id:  271577

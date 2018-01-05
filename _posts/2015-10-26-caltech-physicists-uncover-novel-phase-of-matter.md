@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Caltech physicists uncover novel phase of matter"
-date:  2015-10-26 04:00:00 
-categories:  Science     
+date: 2015-10-26 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/ciot-cpu102615.php)
 
-id:  202750 
+id:  202750

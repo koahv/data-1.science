@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists discover radio emissions from fireballs"
-date:  2014-07-08 11:50:01 
-categories:  Science     
+date: 2014-07-08 11:50:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news324023143.html)
 
-id:   15508 
+id:   15508

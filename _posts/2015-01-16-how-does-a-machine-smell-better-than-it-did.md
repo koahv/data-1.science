@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How does a machine smell? Better than it did"
-date:  2015-01-16 05:00:00 
-categories:  Technology  
+date: 2015-01-16 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/uom-hda011515.php)
 
-id:   73380 
+id:   73380

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "10 Layers of Linux Container Security"
-date:  2017-10-09 11:30:36 
-categories:  Linux       
-author:  OpenSource.com                                                
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-10-09 11:30:36
+categories: Linux
+author: OpenSource.com
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/10-layers-linux-container-security)
 
-id:  436677 
+id:  436677

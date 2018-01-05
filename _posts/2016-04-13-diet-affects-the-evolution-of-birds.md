@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Diet affects the evolution of birds"
-date:  2016-04-13 12:18:34 
-categories:  Science     
+date: 2016-04-13 12:18:34
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](http://phys.org/news/2016-04-diet-affects-evolution-birds.html)
 
-id:  273668 
+id:  273668

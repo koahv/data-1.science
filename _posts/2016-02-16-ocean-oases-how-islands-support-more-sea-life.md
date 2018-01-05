@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ocean oases: How islands support more sea-life"
-date:  2016-02-16 16:00:02 
-categories:  Science     
+date: 2016-02-16 16:00:02
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2016-02-ocean-oases-islands-sea-life.html)
 
-id:  250929 
+id:  250929

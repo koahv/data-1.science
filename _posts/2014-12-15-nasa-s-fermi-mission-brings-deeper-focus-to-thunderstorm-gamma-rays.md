@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "NASA's Fermi Mission brings deeper focus to thunderstorm gamma-rays"
-date:  2014-12-15 05:00:00 
-categories:  Science     
+date: 2014-12-15 05:00:00
+categories: Science
+Science
+Technology
+Science
+Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +20,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-12/nsfc-nfm121514.php)
 
-id:   64566 
+id:   64566

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Software helps decrypt embryonic development"
-date:  2016-04-26 13:23:28 
-categories:  Science     
+date: 2016-04-26 13:23:28
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2016-04-software-decrypt-embryonic.html)
 
-id:  278239 
+id:  278239

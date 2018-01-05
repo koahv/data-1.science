@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Call for more research on how aquatic life affects the structure  and function of freshwater systems"
-date:  2015-05-12 04:00:00 
-categories:  Science     
+date: 2015-05-12 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/swrc-cfm051215.php)
 
-id:  122734 
+id:  122734

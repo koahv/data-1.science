@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "AMD & NVIDIA: Open vs. Closed-Source Driver Performance"
-date:  2017-01-09 13:05:45 
-categories:  Linux       
+date: 2017-01-09 13:05:45
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/vr.php?view=23995)
 
-id:  355200 
+id:  355200

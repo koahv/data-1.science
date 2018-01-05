@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why Humans Don't Have More Neanderthal Genes"
-date:  2016-11-09 15:02:00 
-categories:  Science     
+date: 2016-11-09 15:02:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/56800-why-humans-dont-have-more-neanderthal-genes.html)
 
-id:  339431 
+id:  339431

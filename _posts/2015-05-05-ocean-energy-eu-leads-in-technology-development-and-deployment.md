@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ocean energy: EU leads in technology development and deployment"
-date:  2015-05-05 16:42:30 
-categories:  Science     
+date: 2015-05-05 16:42:30
+categories: Science
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://phys.org/news350048537.html)
 
-id:  119023 
+id:  119023

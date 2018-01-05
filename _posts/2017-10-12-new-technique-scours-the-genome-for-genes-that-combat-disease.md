@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New technique scours the genome for genes that combat disease"
-date:  2017-10-12 10:22:48 
-categories:  Science     
+date: 2017-10-12 10:22:48
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-10-technique-scours-genome-genes-combat.html)
 
-id:  438067 
+id:  438067

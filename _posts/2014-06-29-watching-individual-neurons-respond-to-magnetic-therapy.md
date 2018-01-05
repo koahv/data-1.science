@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Watching individual neurons respond to magnetic therapy"
-date:  2014-06-29 04:00:00 
-categories:  Science     
+date: 2014-06-29 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/du-win062414.php)
 
-id:    9552 
+id:    9552

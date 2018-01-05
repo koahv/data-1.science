@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New method to grow zebrafish embryonic stem cells can regenerate whole fish"
-date:  2014-06-30 04:00:00 
-categories:  Science     
+date: 2014-06-30 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/mali-nmt063014.php)
 
-id:   10281 
+id:   10281

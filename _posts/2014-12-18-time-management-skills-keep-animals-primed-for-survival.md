@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Time management skills keep animals primed for survival"
-date:  2014-12-18 05:00:00 
-categories:  Science     
+date: 2014-12-18 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-12/p-tms121114.php)
 
-id:   68373 
+id:   68373

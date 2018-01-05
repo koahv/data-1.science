@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Explainer: What are fundamental particles?"
-date:  2015-03-20 12:30:01 
-categories:  Science     
+date: 2015-03-20 12:30:01
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news346058299.html)
 
-id:   98157 
+id:   98157

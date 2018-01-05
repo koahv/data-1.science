@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How do you measure a sea's level, anyway?"
-date:  2015-05-19 13:30:01 
-categories:  Science     
+date: 2015-05-19 13:30:01
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news351245167.html)
 
-id:  125319 
+id:  125319

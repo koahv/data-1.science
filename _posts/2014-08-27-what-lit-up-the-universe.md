@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What lit up the universe?"
-date:  2014-08-27 13:21:22 
-categories:  Science     
+date: 2014-08-27 13:21:22
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Sc9Urj-M_1w/140827092122.htm)
 
-id:   47048 
+id:   47048

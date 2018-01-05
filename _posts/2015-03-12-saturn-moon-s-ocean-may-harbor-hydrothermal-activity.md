@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Saturn Moon's Ocean May Harbor Hydrothermal Activity"
-date:  2015-03-12 14:07:06 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-03-12 14:07:06
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/03/saturn-moons-ocean-may-harbor-hydrothermal-activity)
 
-id:   94441 
+id:   94441

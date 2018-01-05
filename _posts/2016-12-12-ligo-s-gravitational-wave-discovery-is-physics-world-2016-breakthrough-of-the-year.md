@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "LIGO's gravitational-wave discovery is Physics World 2016 Breakthrough of the Year"
-date:  2016-12-12 11:00:00 
-categories:  Science     
+date: 2016-12-12 11:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/dec/12/ligo-gravitational-wave-discovery-is-physics-world-2016-breakthrough-of-the-year)
 
-id:  348558 
+id:  348558

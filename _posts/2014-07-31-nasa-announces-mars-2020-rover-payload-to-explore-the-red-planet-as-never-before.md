@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Announces Mars 2020 Rover Payload to Explore the Red Planet as Never Before"
-date:  2014-07-31 20:48:07 
-categories:  Technology  
-author:  mfassbender                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-07-31 20:48:07
+categories: Technology
+author: mfassbender
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2014/07/nasa-announces-mars-2020-rover-payload-explore-red-planet-never)
 
-id:   29258 
+id:   29258

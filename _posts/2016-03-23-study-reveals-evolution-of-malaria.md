@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study reveals evolution of malaria"
-date:  2016-03-23 14:58:14 
-categories:  Science     
+date: 2016-03-23 14:58:14
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](http://phys.org/news/2016-03-reveals-evolution-malaria.html)
 
-id:  265509 
+id:  265509

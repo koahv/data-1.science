@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Stunning new Pluto aerial tour"
-date:  2015-09-23 14:04:54 
-categories:  Science     
+date: 2015-09-23 14:04:54
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-stunning-pluto-aerial.html)
 
-id:  188347 
+id:  188347

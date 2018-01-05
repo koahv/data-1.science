@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How Green is Your State?"
-date:  2015-12-23 15:01:17 
-categories:  Energy      
+date: 2015-12-23 15:01:17
+categories: Energy
 author: unknown author
-tags:  solar,bioenergy,distributed energy,news,hydropower,wind power,geothermal,large scale renewables                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [solar, bioenergy, distributed energy, news, hydropower, wind power, geothermal, large scale renewables]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  solar,bioenergy,distributed energy,news,hydropower,wind power,geothermal,
 
 [Visit Link](http://www.renewableenergyworld.com/articles/2015/12/energy-news-how-green-is-your-state.html)
 
-id:  228651 
+id:  228651

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Superfast light source made from artificial atom"
-date:  2016-04-26 12:56:53 
-categories:  Science     
+date: 2016-04-26 12:56:53
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-04-superfast-source-artificial-atom.html)
 
-id:  278248 
+id:  278248

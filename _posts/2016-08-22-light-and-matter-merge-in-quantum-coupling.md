@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Light and matter merge in quantum coupling"
-date:  2016-08-22 19:22:33 
-categories:  Science     
+date: 2016-08-22 19:22:33
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-08-merge-quantum-coupling.html)
 
-id:  316585 
+id:  316585

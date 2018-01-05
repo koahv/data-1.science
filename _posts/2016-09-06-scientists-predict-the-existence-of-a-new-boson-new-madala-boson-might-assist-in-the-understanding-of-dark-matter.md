@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists predict the existence of a new boson: New Madala boson might assist in the understanding of dark matter"
-date:  2016-09-06 16:02:38 
-categories:  Science     
+date: 2016-09-06 16:02:38
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2016-09-scientists-boson-madala-dark.html)
 
-id:  321017 
+id:  321017

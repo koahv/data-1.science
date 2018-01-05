@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "EARTH Magazine: Rosetta off to decipher a comet's secrets"
-date:  2014-06-27 04:00:00 
-categories:  Astronomy   
+date: 2014-06-27 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/agi-emr062714.php)
 
-id:    8530 
+id:    8530

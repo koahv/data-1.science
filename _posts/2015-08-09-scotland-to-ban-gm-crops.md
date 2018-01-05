@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scotland to ban GM crops"
-date:  2015-08-09 16:05:07 
-categories:  Science     
+date: 2015-08-09 16:05:07
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2015-08-scotland-gm-crops.html)
 
-id:  166912 
+id:  166912

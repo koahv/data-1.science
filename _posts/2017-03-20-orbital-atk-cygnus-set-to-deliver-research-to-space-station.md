@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Orbital ATK Cygnus set to deliver research to space station"
-date:  2017-03-20 19:27:13 
-categories:  Science     
+date: 2017-03-20 19:27:13
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-03-orbital-atk-cygnus-space-station.html)
 
-id:  375887 
+id:  375887

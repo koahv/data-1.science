@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Gene associated with thinking skills"
-date:  2015-07-15 14:35:58 
-categories:  Science     
+date: 2015-07-15 14:35:58
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150715103558.htm)
 
-id:  155185 
+id:  155185

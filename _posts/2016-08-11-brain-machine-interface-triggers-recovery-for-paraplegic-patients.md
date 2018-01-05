@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brain-machine interface triggers recovery for paraplegic patients"
-date:  2016-08-11 04:00:00 
-categories:  Technology  
+date: 2016-08-11 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/csu-bit081016.php)
 
-id:  313477 
+id:  313477

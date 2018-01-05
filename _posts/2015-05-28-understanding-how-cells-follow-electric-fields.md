@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Understanding how cells follow electric fields"
-date:  2015-05-28 19:13:34 
-categories:  Science     
+date: 2015-05-28 19:13:34
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news352044807.html)
 
-id:  130421 
+id:  130421

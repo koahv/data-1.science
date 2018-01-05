@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Spacecraft of the Week: IKAROS"
-date:  2015-06-04 19:51:28 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-06-04 19:51:28
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/06/spacecraft-week-ikaros)
 
-id:  134254 
+id:  134254

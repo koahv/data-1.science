@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How brain can distinguish good from bad smells"
-date:  2014-12-16 15:05:19 
-categories:  Science     
+date: 2014-12-16 15:05:19
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/4OBIi8wwPPg/141216100519.htm)
 
-id:   66842 
+id:   66842

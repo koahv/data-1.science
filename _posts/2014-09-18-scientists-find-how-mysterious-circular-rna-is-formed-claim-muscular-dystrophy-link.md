@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists find how mysterious 'circular RNA' is formed, claim muscular dystrophy link"
-date:  2014-09-18 04:00:00 
-categories:  Science     
+date: 2014-09-18 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/thuo-rdh091814.php)
 
-id:   50830 
+id:   50830

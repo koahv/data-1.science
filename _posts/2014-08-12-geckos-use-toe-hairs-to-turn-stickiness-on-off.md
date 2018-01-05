@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Geckos use toe hairs to turn stickiness on/off"
-date:  2014-08-12 15:00:01 
-categories:  Science     
+date: 2014-08-12 15:00:01
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news327058258.html)
 
-id:   37198 
+id:   37198

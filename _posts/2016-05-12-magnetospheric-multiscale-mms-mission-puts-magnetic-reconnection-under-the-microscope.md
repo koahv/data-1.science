@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Magnetospheric Multiscale (MMS) mission puts magnetic reconnection under the microscope"
-date:  2016-05-12 04:00:00 
-categories:  Science     
+date: 2016-05-12 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/sri-mm050916.php)
 
-id:  284148 
+id:  284148

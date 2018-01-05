@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "XENON1T will join the hunt for dark matter this autumn"
-date:  2015-04-15 14:51:27 
-categories:  Science     
+date: 2015-04-15 14:51:27
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/owJxIsUzOFU/xenon1t-will-join-the-hunt-for-dark-matter-this-autumn)
 
-id:  109983 
+id:  109983

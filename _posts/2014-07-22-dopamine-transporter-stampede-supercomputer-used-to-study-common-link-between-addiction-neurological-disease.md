@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dopamine transporter: Stampede supercomputer used to study common link between addiction, neurological disease"
-date:  2014-07-22 20:43:57 
-categories:  Science     
+date: 2014-07-22 20:43:57
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/iC6g5ymKfCE/140722164357.htm)
 
-id:   26140 
+id:   26140

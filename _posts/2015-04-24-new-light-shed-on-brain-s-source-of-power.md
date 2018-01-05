@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New light shed on brain's source of power"
-date:  2015-04-24 14:53:52 
-categories:  Science     
+date: 2015-04-24 14:53:52
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/MoLhirLxpe4/150424105352.htm)
 
-id:  114199 
+id:  114199

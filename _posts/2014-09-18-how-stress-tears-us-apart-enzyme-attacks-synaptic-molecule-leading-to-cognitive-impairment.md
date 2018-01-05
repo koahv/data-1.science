@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How stress tears us apart: Enzyme attacks synaptic molecule, leading to cognitive impairment"
-date:  2014-09-18 13:14:18 
-categories:  Science     
+date: 2014-09-18 13:14:18
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/_HzaHPgQvRo/140918091418.htm)
 
-id:   50687 
+id:   50687

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New action plan to save world's rarest primate"
-date:  2015-05-19 13:49:49 
-categories:  Science     
+date: 2015-05-19 13:49:49
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news351247779.html)
 
-id:  125314 
+id:  125314

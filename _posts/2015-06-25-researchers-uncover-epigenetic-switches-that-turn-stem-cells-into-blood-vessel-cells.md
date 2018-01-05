@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers uncover epigenetic switches that turn stem cells into blood vessel cells"
-date:  2015-06-25 21:00:28 
-categories:  Science     
+date: 2015-06-25 21:00:28
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news354470420.html)
 
-id:  145538 
+id:  145538

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA: Understanding the magnetic sun"
-date:  2016-01-29 05:00:00 
-categories:  Science     
+date: 2016-01-29 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/nsfc-nut012916.php)
 
-id:  243288 
+id:  243288

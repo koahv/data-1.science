@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "An Extensive Look At The Changes Of GCC 5"
-date:  2015-04-13 13:06:36 
-categories:  Linux       
+date: 2015-04-13 13:06:36
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=GCC-5-Changes-Extensive)
 
-id:  108339 
+id:  108339

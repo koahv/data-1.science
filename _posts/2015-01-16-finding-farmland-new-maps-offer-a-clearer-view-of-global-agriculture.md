@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Finding farmland: New maps offer a clearer view of global agriculture"
-date:  2015-01-16 05:00:00 
-categories:  Astronomy   
+date: 2015-01-16 05:00:00
+categories: Astronomy
+Science
+Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +18,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/iifa-ffn011415.php)
 
-id:   73392 
+id:   73392

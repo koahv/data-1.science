@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Can Heat Be Controlled as Waves?"
-date:  2015-06-23 16:07:32 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-06-23 16:07:32
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/06/can-heat-be-controlled-waves-0)
 
-id:  143930 
+id:  143930

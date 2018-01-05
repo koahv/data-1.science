@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Expert system for early diagnosis of schizophrenia"
-date:  2015-11-05 05:00:00 
-categories:  Technology  
+date: 2015-11-05 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-11/ip-esf110515.php)
 
-id:  207288 
+id:  207288

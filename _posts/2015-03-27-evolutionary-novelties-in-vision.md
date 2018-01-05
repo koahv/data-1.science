@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolutionary novelties in vision"
-date:  2015-03-27 13:09:02 
-categories:  Science     
+date: 2015-03-27 13:09:02
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/5kAdGZCUjFE/150327090902.htm)
 
-id:  101460 
+id:  101460

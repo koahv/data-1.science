@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Egg hunt to find Ice Age parents"
-date:  2014-06-24 11:50:09 
-categories:  Science     
+date: 2014-06-24 11:50:09
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news322813473.html)
 
-id:    4209 
+id:    4209

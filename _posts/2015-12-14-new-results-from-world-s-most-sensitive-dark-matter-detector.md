@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New results from world's most sensitive dark matter detector"
-date:  2015-12-14 07:58:35 
-categories:  Science     
+date: 2015-12-14 07:58:35
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-12-results-world-sensitive-dark-detector.html)
 
-id:  224296 
+id:  224296

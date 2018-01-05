@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Twists and turns of life: Patterns of DNA supercoiling"
-date:  2016-04-04 04:00:00 
-categories:  Technology  
+date: 2016-04-04 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/ncfb-tat040316.php)
 
-id:  269969 
+id:  269969

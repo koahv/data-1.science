@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "On human gene editing: International summit statement"
-date:  2015-12-03 05:00:00 
-categories:  Technology  
+date: 2015-12-03 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/naos-ohg120315.php)
 
-id:  219751 
+id:  219751

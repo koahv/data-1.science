@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Proton–antiproton equivalence confirmed by best-ever measurement of magnetic moment"
-date:  2017-10-30 12:46:08 
-categories:  Science     
-author:  Marric Stephens                                               
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-10-30 12:46:08
+categories: Science
+author: Marric Stephens
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/oct/30/proton-antiproton-equivalence-confirmed-by-best-ever-measurement-of-magnetic-moment)
 
-id:  446885 
+id:  446885

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA plans to colonize Mars - RT"
-date:  2014-06-23 17:40:40 
-categories:  Astronomy   
+date: 2014-06-23 17:40:40
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNG5lpOYZuKXUW_ssVcRzCcG3fHQ-A&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778540850606&ei=iIKpU4H0A4jkggfVxoHQCg&url=http://rt.com/usa/167944-nasa-plans-colonize-mars/)
 
-id:    4679 
+id:    4679

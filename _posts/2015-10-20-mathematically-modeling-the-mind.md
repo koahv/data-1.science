@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mathematically modeling the mind"
-date:  2015-10-20 04:00:00 
-categories:  Technology  
+date: 2015-10-20 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/aiop-mmt101615.php)
 
-id:  200181 
+id:  200181

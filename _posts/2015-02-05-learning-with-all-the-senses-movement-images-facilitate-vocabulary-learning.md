@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Learning with all the senses: Movement, images facilitate vocabulary learning"
-date:  2015-02-05 17:31:09 
-categories:  Science     
+date: 2015-02-05 17:31:09
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/opWHh9hCblw/150205123109.htm)
 
-id:   79222 
+id:   79222

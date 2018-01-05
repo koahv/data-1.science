@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why is the Sun's atmosphere so much hotter than its surface? Nanoflares"
-date:  2014-08-01 21:11:24 
-categories:  Science     
+date: 2014-08-01 21:11:24
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/YpDav1_XoJg/140801171124.htm)
 
-id:   30528 
+id:   30528

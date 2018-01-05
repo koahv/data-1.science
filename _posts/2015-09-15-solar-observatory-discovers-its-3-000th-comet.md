@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Solar Observatory discovers its 3,000th comet"
-date:  2015-09-15 21:23:50 
-categories:  Science     
+date: 2015-09-15 21:23:50
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-solar-observatory-3000th-comet.html)
 
-id:  185036 
+id:  185036

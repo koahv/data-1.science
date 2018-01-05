@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Reinterpreting dark matter"
-date:  2014-07-02 04:00:00 
-categories:  Astronomy   
+date: 2014-07-02 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/uotb-rdm070214.php)
 
-id:   11944 
+id:   11944

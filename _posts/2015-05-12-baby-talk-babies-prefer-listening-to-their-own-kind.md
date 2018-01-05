@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Baby talk: Babies prefer listening to their own kind"
-date:  2015-05-12 13:06:33 
-categories:  Science     
+date: 2015-05-12 13:06:33
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/2NdG3JbML20/150512090633.htm)
 
-id:  122101 
+id:  122101

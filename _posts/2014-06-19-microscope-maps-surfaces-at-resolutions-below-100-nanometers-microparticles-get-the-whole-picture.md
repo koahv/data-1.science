@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Microscope maps surfaces at resolutions below 100 nanometers: Microparticles get the whole picture"
-date:  2014-06-19 18:59:30 
-categories:  Science     
+date: 2014-06-19 18:59:30
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/7oPCZYqVMQ8/140619145930.htm)
 
-id:     707 
+id:     707

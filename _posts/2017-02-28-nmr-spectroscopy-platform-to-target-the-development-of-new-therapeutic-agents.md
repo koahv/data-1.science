@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NMR spectroscopy platform to target the development of new therapeutic agents"
-date:  2017-02-28 05:00:00 
-categories:  Science     
+date: 2017-02-28 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/indl-nsp022817.php)
 
-id:  369922 
+id:  369922

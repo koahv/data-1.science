@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Plants can 'switch off' virus DNA"
-date:  2014-08-22 13:10:16 
-categories:  Science     
+date: 2014-08-22 13:10:16
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news327915896.html)
 
-id:   44437 
+id:   44437

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Viewing Linux Output in Columns"
-date:  2017-06-22 08:30:29 
-categories:  Linux       
-author:  Network World                                                 
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-06-22 08:30:29
+categories: Linux
+author: Network World
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/viewing-linux-output-columns)
 
-id:  403520 
+id:  403520

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Programming human cells to follow sets of logical instructions"
-date:  2017-03-29 13:00:04 
-categories:  Science     
+date: 2017-03-29 13:00:04
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-03-human-cells-logical.html)
 
-id:  378656 
+id:  378656

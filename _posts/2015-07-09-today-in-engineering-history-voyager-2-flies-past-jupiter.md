@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Today in Engineering History: Voyager 2 Flies Past Jupiter"
-date:  2015-07-09 18:28:50 
-categories:  Technology  
-author:  mfassbender                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-07-09 18:28:50
+categories: Technology
+author: mfassbender
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/blogs/2015/07/today-engineering-history-voyager-2-flies-past-jupiter)
 
-id:  152333 
+id:  152333

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pluto Flyby Begins: NASA Probe Enters Encounter Phase - Space.com - Space.com"
-date:  2015-07-09 11:41:56 
-categories:  Astronomy   
+date: 2015-07-09 11:41:56
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFRhqCyz8zSNfRq_Lxh1AIn1fyKlg&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778897119738&ei=3aieVbDUMsWQ3gHZvIH4Bw&url=http://www.space.com/29887-new-horizons-pluto-flyby-begins.html)
 
-id:  152110 
+id:  152110

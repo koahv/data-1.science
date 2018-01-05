@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Are current dietary guidelines for sodium and potassium reasonable?"
-date:  2015-04-07 04:00:00 
-categories:  Science     
+date: 2015-04-07 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/uowh-acd040715.php)
 
-id:  106224 
+id:  106224

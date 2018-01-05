@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists find way to maintain quantum entanglement in amplified signals"
-date:  2014-07-23 04:00:00 
-categories:  Technology  
+date: 2014-07-23 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/miop-sfw072314.php)
 
-id:   26262 
+id:   26262

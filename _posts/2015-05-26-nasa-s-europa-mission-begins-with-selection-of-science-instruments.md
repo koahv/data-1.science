@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Europa mission begins with selection of science instruments"
-date:  2015-05-26 21:20:52 
-categories:  Science     
+date: 2015-05-26 21:20:52
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news351879636.html)
 
-id:  129111 
+id:  129111

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "US company in Iowa churns out 100 cloned cows a year"
-date:  2014-06-29 07:35:54 
-categories:  Science     
+date: 2014-06-29 07:35:54
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news323231743.html)
 
-id:    9353 
+id:    9353

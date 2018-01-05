@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study helps prove galaxy evolution theory"
-date:  2016-12-19 21:54:41 
-categories:  Science     
+date: 2016-12-19 21:54:41
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2016-12-galaxy-evolution-theory.html)
 
-id:  350828 
+id:  350828

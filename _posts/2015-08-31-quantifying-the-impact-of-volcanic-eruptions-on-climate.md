@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantifying the impact of volcanic eruptions on climate"
-date:  2015-08-31 04:00:00 
-categories:  Science     
+date: 2015-08-31 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/udg-qti083115.php)
 
-id:  177077 
+id:  177077

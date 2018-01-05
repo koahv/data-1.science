@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fish – A Smart and User-Friendly Interactive Shell for Linux"
-date:  2015-07-31 11:18:07 
-categories:  Linux       
-author:  Avishek Kumar                                                 
-tags:  linux commands,fish shell                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+date: 2015-07-31 11:18:07
+categories: Linux
+author: Avishek Kumar
+tags: [linux commands, fish shell]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands,fish shell
 
 [Visit Link](http://www.tecmint.com/fish-a-smart-and-user-friendly-interactive-shell-for-linux/)
 
-id:  163063 
+id:  163063

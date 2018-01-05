@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Van Allen probes revolutionize view of radiation belts"
-date:  2016-01-19 05:00:00 
-categories:  Technology  
+date: 2016-01-19 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/nsfc-nva011916.php)
 
-id:  238451 
+id:  238451

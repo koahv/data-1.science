@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Today in Engineering History: Europe's First Weather Satellite Launches"
-date:  2015-11-23 16:34:40 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-11-23 16:34:40
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/11/today-engineering-history-europes-first-weather-satellite-launches)
 
-id:  215452 
+id:  215452

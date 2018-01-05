@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researcher explores how the universe creates reason, morality"
-date:  2015-01-23 15:00:31 
-categories:  Science     
+date: 2015-01-23 15:00:31
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news341229624.html)
 
-id:   75003 
+id:   75003

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "20 Unix Command Line Tricks – Part I"
-date:  2015-01-13 04:34:47 
-categories:  Linux       
-author:  Vivek Gite                                                    
-tags:  command line hacks,freebsd,linux,openbsd,os x,unix                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+date: 2015-01-13 04:34:47
+categories: Linux
+author: Vivek Gite
+tags: [command line hacks, freebsd, linux, openbsd, os x, unix]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  command line hacks,freebsd,linux,openbsd,os x,unix
 
 [Visit Link](http://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/)
 
-id:  210403 
+id:  210403

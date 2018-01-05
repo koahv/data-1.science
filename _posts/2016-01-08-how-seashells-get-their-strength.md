@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How seashells get their strength"
-date:  2016-01-08 05:00:00 
-categories:  Technology  
+date: 2016-01-08 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/dnnl-hsg010816.php)
 
-id:  233851 
+id:  233851

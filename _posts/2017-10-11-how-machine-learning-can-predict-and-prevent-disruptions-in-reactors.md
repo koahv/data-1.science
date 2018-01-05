@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How machine learning can predict and prevent disruptions in reactors"
-date:  2017-10-11 11:11:32 
-categories:  Science     
+date: 2017-10-11 11:11:32
+categories: Science
 author: unknown author
-tags:  plasma physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [plasma physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plasma physics
 
 [Visit Link](https://phys.org/news/2017-10-machine-disruptions-reactors.html)
 
-id:  437557 
+id:  437557

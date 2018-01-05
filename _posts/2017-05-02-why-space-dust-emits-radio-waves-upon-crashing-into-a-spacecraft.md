@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why space dust emits radio waves upon crashing into a spacecraft"
-date:  2017-05-02 04:00:00 
-categories:  Astronomy   
+date: 2017-05-02 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-05/aiop-wsd042717.php)
 
-id:  389042 
+id:  389042

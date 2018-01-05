@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Mars Orbiter Preparing for Mars Lander's 2016 Arrival"
-date:  2015-07-28 20:52:12 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-07-28 20:52:12
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/07/nasa-mars-orbiter-preparing-mars-landers-2016-arrival)
 
-id:  161797 
+id:  161797

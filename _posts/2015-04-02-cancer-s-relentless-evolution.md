@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cancer's relentless evolution"
-date:  2015-04-02 14:15:31 
-categories:  Science     
+date: 2015-04-02 14:15:31
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/hp_zwItrbgY/150402101531.htm)
 
-id:  104177 
+id:  104177

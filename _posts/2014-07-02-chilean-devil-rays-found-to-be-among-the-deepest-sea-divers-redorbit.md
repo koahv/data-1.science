@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Chilean Devil Rays Found To Be Among The Deepest Sea Divers - RedOrbit"
-date:  2014-07-02 18:35:34 
-categories:  Earth       
+date: 2014-07-02 18:35:34
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEn2wEYhHeg91f9dPh-UZWf6-ztVA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778547232745&ei=qAK0U_qALIWIgAeHo4GYCw&url=http://www.redorbit.com/news/science/1113183486/chilean-devil-rays-deep-sea-divers-070214/)
 
-id:   11770 
+id:   11770

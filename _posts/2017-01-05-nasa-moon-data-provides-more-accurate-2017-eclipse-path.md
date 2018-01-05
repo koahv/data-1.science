@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA moon data provides more accurate 2017 eclipse path"
-date:  2017-01-05 05:00:00 
-categories:  Astronomy   
+date: 2017-01-05 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/nsfc-nmd010517.php)
 
-id:  354360 
+id:  354360

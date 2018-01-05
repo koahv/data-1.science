@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists advance disease resistance in three of world's most important crops"
-date:  2016-04-25 15:26:57 
-categories:  Science     
+date: 2016-04-25 15:26:57
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2016-04-scientists-advance-disease-resistance-world.html)
 
-id:  277872 
+id:  277872

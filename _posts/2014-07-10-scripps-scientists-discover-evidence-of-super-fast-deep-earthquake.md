@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scripps scientists discover evidence of super-fast deep earthquake"
-date:  2014-07-10 04:00:00 
-categories:  Science     
+date: 2014-07-10 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/uoc--ssd070914.php)
 
-id:   17645 
+id:   17645

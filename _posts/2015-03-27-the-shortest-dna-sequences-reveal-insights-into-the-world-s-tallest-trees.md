@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The shortest DNA sequences reveal insights into the world's tallest trees"
-date:  2015-03-27 04:00:00 
-categories:  Technology  
+date: 2015-03-27 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/bsoa-tsd032715.php)
 
-id:  102165 
+id:  102165

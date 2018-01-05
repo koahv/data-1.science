@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ferroelectric switching seen in biological tissues"
-date:  2014-06-23 19:35:34 
-categories:  Science     
+date: 2014-06-23 19:35:34
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news322756517.html)
 
-id:    3537 
+id:    3537

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The successful US/German satellite gravity mission GRACE comes to an end after 15 years"
-date:  2017-10-27 04:00:00 
-categories:  Astronomy   
+date: 2017-10-27 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/ggph-tsu102717.php)
 
-id:  445892 
+id:  445892

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Solar Plane Completes Its Round-the-World Flight in Abu Dhabi"
-date:  2016-07-26 15:56:11 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-07-26 15:56:11
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/07/solar-plane-completes-its-round-world-flight-abu-dhabi)
 
-id:  308443 
+id:  308443

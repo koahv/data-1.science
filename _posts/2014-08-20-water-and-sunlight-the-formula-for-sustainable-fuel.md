@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Water and sunlight the formula for sustainable fuel"
-date:  2014-08-20 04:00:00 
-categories:  Technology  
+date: 2014-08-20 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/anu-was082014.php)
 
-id:   43532 
+id:   43532

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "This Mind-Blowing Infographic Shows The Incredible Depth Of The Earth's Oceans - Business Insider"
-date:  2014-07-02 10:05:16 
-categories:  Earth       
+date: 2014-07-02 10:05:16
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHmcLXMfffTObHsabiKFagtJJrkjQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778547378210&ei=txi0U_DpFojkgge_0ICoAQ&url=http://www.businessinsider.com/infographic-shows-incredible-depth-of-earths-oceans-2014-7)
 
-id:   11913 
+id:   11913

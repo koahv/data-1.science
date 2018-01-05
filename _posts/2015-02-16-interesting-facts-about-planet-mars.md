@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Interesting facts about planet Mars"
-date:  2015-02-16 14:40:01 
-categories:  Science     
+date: 2015-02-16 14:40:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news343298489.html)
 
-id:   83005 
+id:   83005

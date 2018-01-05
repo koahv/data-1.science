@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Nine superfruits and super seeds to add to your diet"
-date:  2015-03-12 21:35:32 
-categories:  Science     
+date: 2015-03-12 21:35:32
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/rHk7ClchYJo/150312173532.htm)
 
-id:   95035 
+id:   95035

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists track monster waves below the ocean surface"
-date:  2015-07-21 20:29:41 
-categories:  Science     
+date: 2015-07-21 20:29:41
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2015-07-scientists-track-monster-ocean-surface.html)
 
-id:  158420 
+id:  158420

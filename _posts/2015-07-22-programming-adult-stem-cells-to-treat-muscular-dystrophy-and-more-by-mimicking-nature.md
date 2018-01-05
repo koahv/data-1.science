@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Programming adult stem cells to treat muscular dystrophy and more by mimicking nature"
-date:  2015-07-22 04:00:00 
-categories:  Science     
+date: 2015-07-22 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/acs-pas072215.php)
 
-id:  158739 
+id:  158739

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Team traces strain of tuberculosis back 30,000 years"
-date:  2015-06-16 14:00:03 
-categories:  Science     
+date: 2015-06-16 14:00:03
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news353664742.html)
 
-id:  140150 
+id:  140150

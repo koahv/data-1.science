@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Future with NIAC: Swimming in Titan's Seas"
-date:  2015-07-10 19:05:44 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-07-10 19:05:44
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/07/nasas-future-niac-swimming-titans-seas)
 
-id:  152994 
+id:  152994

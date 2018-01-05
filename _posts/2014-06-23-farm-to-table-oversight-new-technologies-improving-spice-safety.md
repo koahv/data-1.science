@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Farm to table oversight, new technologies improving spice safety"
-date:  2014-06-23 19:27:09 
-categories:  Science     
+date: 2014-06-23 19:27:09
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news322756017.html)
 
-id:    3540 
+id:    3540

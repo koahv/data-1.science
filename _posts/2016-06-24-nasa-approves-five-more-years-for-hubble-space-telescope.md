@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA approves five more years for Hubble Space Telescope"
-date:  2016-06-24 16:24:22 
-categories:  Astronomy   
+date: 2016-06-24 16:24:22
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.newscientist.com/article/2095042-nasa-approves-five-more-years-for-hubble-space-telescope/)
 
-id:  298581 
+id:  298581

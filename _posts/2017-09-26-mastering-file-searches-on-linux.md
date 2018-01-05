@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mastering File Searches on Linux"
-date:  2017-09-26 09:07:40 
-categories:  Linux       
-author:  Network World                                                 
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-09-26 09:07:40
+categories: Linux
+author: Network World
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/mastering-file-searches-linux)
 
-id:  432731 
+id:  432731

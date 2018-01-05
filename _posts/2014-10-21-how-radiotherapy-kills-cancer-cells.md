@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How radiotherapy kills cancer cells"
-date:  2014-10-21 12:55:26 
-categories:  Science     
+date: 2014-10-21 12:55:26
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/CrFW1CgKm1c/141021085526.htm)
 
-id:   56293 
+id:   56293

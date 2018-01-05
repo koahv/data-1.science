@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What Is the Future of Smart Cities?"
-date:  2016-05-20 13:36:14 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-05-20 13:36:14
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/blog/2016/05/what-future-smart-cities)
 
-id:  286963 
+id:  286963

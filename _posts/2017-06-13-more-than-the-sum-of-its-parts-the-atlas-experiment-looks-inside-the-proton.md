@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "More than the sum of its parts: the ATLAS Experiment looks inside the proton"
-date:  2017-06-13 14:04:10 
-categories:  Science     
+date: 2017-06-13 14:04:10
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-06-sum-atlas-proton.html)
 
-id:  400554 
+id:  400554

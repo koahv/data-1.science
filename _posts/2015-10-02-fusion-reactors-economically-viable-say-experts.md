@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fusion reactors 'economically viable' say experts"
-date:  2015-10-02 04:00:00 
-categories:  Technology  
+date: 2015-10-02 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/du-fr100215.php)
 
-id:  192740 
+id:  192740

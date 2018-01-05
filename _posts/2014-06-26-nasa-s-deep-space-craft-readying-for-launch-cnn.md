@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's deep-space craft readying for launch - CNN"
-date:  2014-06-26 17:34:47 
-categories:  Astronomy   
+date: 2014-06-26 17:34:47
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEAHb-PT1Z_gltyGpW9CaS-jusfSw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778543234910&ei=knCtU4mdIIjkgge_0ICoAQ&url=http://www.cnn.com/2014/06/26/tech/innovation/nasa-orion-spacecraft/)
 
-id:    8373 
+id:    8373

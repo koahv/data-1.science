@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World’s first $9 Linux based computer is shipping now"
-date:  2015-09-27 14:40:28 
-categories:  Linux       
-author:  Vijay Prabhu                                                  
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+date: 2015-09-27 14:40:28
+categories: Linux
+author: Vijay Prabhu
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=219825)
 
-id:  190050 
+id:  190050

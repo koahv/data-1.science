@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Predicting solar flares"
-date:  2015-11-16 16:00:05 
-categories:  Science     
+date: 2015-11-16 16:00:05
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-11-solar-flares.html)
 
-id:  211994 
+id:  211994

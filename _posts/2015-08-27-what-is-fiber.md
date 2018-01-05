@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What Is Fiber?"
-date:  2015-08-27 05:07:23 
-categories:  Science     
+date: 2015-08-27 05:07:23
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51998-dietary-fiber.html)
 
-id:  175318 
+id:  175318

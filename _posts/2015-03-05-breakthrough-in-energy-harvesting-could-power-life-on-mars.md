@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Breakthrough in energy harvesting could power life on Mars"
-date:  2015-03-05 13:52:39 
-categories:  Science     
+date: 2015-03-05 13:52:39
+categories: Science
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://phys.org/news344767948.html)
 
-id:   91185 
+id:   91185

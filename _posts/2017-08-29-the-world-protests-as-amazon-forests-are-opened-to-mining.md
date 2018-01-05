@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The world protests as Amazon forests are opened to mining"
-date:  2017-08-29 11:43:34 
-categories:  Science     
+date: 2017-08-29 11:43:34
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](https://phys.org/news/2017-08-world-protests-amazon-forests.html)
 
-id:  423733 
+id:  423733

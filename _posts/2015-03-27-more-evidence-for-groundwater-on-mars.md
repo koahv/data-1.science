@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "More evidence for groundwater on Mars"
-date:  2015-03-27 17:47:31 
-categories:  Science     
+date: 2015-03-27 17:47:31
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news346682837.html)
 
-id:  101626 
+id:  101626

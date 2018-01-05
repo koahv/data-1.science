@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New data from Antarctic detector firms up cosmic neutrino sighting"
-date:  2015-08-20 15:00:01 
-categories:  Science     
+date: 2015-08-20 15:00:01
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-08-antarctic-detector-firms-cosmic-neutrino.html)
 
-id:  172221 
+id:  172221

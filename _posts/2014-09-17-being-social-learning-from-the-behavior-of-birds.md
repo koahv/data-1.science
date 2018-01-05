@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Being social: Learning from the behavior of birds"
-date:  2014-09-17 13:29:51 
-categories:  Science     
+date: 2014-09-17 13:29:51
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/6JKo3OgCZdM/140917092951.htm)
 
-id:   50306 
+id:   50306

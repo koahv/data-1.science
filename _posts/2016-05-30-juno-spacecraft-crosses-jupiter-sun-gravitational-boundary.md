@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Juno spacecraft crosses Jupiter / Sun gravitational boundary"
-date:  2016-05-30 07:43:20 
-categories:  Science     
+date: 2016-05-30 07:43:20
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-05-juno-spacecraft-jupiter-sun-gravitational.html)
 
-id:  289744 
+id:  289744

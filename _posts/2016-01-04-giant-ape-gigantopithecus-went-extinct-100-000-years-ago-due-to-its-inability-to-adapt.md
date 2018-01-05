@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Giant ape Gigantopithecus went extinct 100,000 years ago due to its inability to adapt"
-date:  2016-01-04 13:26:04 
-categories:  Science     
+date: 2016-01-04 13:26:04
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2016-01-giant-ape-gigantopithecus-extinct-years.html)
 
-id:  231415 
+id:  231415

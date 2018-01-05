@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "High-speed locomotion neurons found in the brainstem"
-date:  2017-10-24 04:00:00 
-categories:  Technology  
+date: 2017-10-24 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uob-hln102417.php)
 
-id:  443993 
+id:  443993

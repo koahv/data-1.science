@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How does my therapist rate?"
-date:  2015-12-02 05:00:00 
-categories:  Technology  
+date: 2015-12-02 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/uosc-hdm120115.php)
 
-id:  219123 
+id:  219123

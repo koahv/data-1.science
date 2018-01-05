@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Making fuel for exploring space"
-date:  2015-09-09 12:30:02 
-categories:  Science     
+date: 2015-09-09 12:30:02
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-09-fuel-exploring-space.html)
 
-id:  181650 
+id:  181650

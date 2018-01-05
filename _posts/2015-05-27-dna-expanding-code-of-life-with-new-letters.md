@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DNA: Expanding code of life with new 'letters'"
-date:  2015-05-27 15:31:01 
-categories:  Science     
+date: 2015-05-27 15:31:01
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/vJuC7VXFf7g/150527113101.htm)
 
-id:  129505 
+id:  129505

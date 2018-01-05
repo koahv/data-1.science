@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Russia starts moon base collaboration with European Space Agency"
-date:  2015-10-21 17:00:00 
-categories:  Astronomy   
+date: 2015-10-21 17:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.newscientist.com/c/749/f/10898/s/4adc7323/sc/28/l/0M0Snewscientist0N0Carticle0Cmg22830A4430E40A0A0Erussia0Estarts0Emoon0Ebase0Ecollaboration0Ewith0Eeuropean0Espace0Eagency0C/story01.htm)
 
-id:  200821 
+id:  200821

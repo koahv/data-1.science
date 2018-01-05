@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mount & Blade: Warband Now In Beta For Linux"
-date:  2014-06-26 18:39:29 
-categories:  Linux VG    
+date: 2014-06-26 18:39:29
+categories: Linux VG
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.gamingonlinux.com/articles/mount-blade-warband-now-in-beta-for-linux.3948/)
 
-id:    7854 
+id:    7854

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Forget the Consumer Internet of Things: IIoT Is Where It's Really At"
-date:  2016-04-01 13:40:23 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-01 13:40:23
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/blog/2016/04/forget-consumer-internet-things-iiot-where-its-really)
 
-id:  269105 
+id:  269105

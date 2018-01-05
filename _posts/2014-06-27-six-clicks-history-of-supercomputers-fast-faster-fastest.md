@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Six clicks: History of supercomputers -- fast, faster, fastest"
-date:  2014-06-27 20:20:06 
-categories:  Linux       
+date: 2014-06-27 20:20:06
+categories: Linux
 author: unknown author
-tags:  data centers,linux,open source                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [data centers, linux, open source]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  data centers,linux,open source
 
 [Visit Link](http://www.zdnet.com/six-clicks-history-of-supercomputers-fast-faster-fastest-7000031018/#ftag=RSS510d04f)
 
-id:    8794 
+id:    8794

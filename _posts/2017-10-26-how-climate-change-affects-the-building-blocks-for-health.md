@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How climate change affects the building blocks for health"
-date:  2017-10-26 13:40:05 
-categories:  Science     
+date: 2017-10-26 13:40:05
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](https://phys.org/news/2017-10-climate-affects-blocks-health.html)
 
-id:  445196 
+id:  445196

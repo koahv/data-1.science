@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Training Schrodinger's cat: Controlling the quantum properties of light"
-date:  2015-07-08 13:30:01 
-categories:  Science     
+date: 2015-07-08 13:30:01
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news355553075.html)
 
-id:  151288 
+id:  151288

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Skin tough"
-date:  2015-03-31 04:00:00 
-categories:  Technology  
+date: 2015-03-31 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/dbnl-st033115.php)
 
-id:  102961 
+id:  102961

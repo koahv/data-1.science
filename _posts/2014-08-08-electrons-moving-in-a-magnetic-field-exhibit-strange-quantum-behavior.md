@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Electrons moving in a magnetic field exhibit strange quantum behavior"
-date:  2014-08-08 12:33:29 
-categories:  Science     
+date: 2014-08-08 12:33:29
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news326705594.html)
 
-id:   34940 
+id:   34940

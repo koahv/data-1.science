@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Shedding light on the 'dark matter' of the genome"
-date:  2016-05-19 04:00:00 
-categories:  Science     
+date: 2016-05-19 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/uot-slo051916.php)
 
-id:  286467 
+id:  286467

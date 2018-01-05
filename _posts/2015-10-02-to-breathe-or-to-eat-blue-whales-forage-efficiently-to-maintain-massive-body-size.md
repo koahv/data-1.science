@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "To breathe or to eat: Blue whales forage efficiently to maintain massive body size"
-date:  2015-10-02 04:00:00 
-categories:  Science     
+date: 2015-10-02 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/nfwc-tbo092515.php)
 
-id:  192906 
+id:  192906

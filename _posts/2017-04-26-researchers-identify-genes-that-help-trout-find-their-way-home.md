@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers identify genes that help trout find their way home"
-date:  2017-04-26 04:00:00 
-categories:  Science     
+date: 2017-04-26 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/du-rig042617.php)
 
-id:  387470 
+id:  387470

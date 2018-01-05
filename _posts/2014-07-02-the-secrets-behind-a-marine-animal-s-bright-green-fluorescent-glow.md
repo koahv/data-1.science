@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Secrets Behind a Marine Animal's Bright Green Fluorescent Glow"
-date:  2014-07-02 12:59:16 
-categories:  Science     
+date: 2014-07-02 12:59:16
+categories: Science
 author: unknown author
-tags:  nature & environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+tags: [nature & environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nature & environment
 
 [Visit Link](http://www.scienceworldreport.com/articles/15788/20140702/secrets-behind-marine-animals-bright-green-fluorescent-glow.htm)
 
-id:   11796 
+id:   11796

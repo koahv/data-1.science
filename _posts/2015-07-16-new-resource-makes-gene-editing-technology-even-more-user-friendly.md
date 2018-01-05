@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New resource makes gene-editing technology even more user friendly"
-date:  2015-07-16 04:00:00 
-categories:  Technology  
+date: 2015-07-16 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/uoc--nrm071515.php)
 
-id:  155673 
+id:  155673

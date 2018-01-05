@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New detectors allow search for lightweight dark matter particles"
-date:  2015-09-08 17:53:30 
-categories:  Science     
+date: 2015-09-08 17:53:30
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-09-detectors-lightweight-dark-particles.html)
 
-id:  181152 
+id:  181152

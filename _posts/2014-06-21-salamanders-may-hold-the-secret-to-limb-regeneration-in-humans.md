@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Salamanders May Hold the Secret to Limb Regeneration in Humans"
-date:  2014-06-21 10:53:59 
-categories:  Science     
+date: 2014-06-21 10:53:59
+categories: Science
 author: unknown author
-tags:  health & medicine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [health & medicine]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  health & medicine
 
 [Visit Link](http://www.scienceworldreport.com/articles/15581/20140621/salamanders-hold-secret-limb-regeneration-humans.htm)
 
-id:    1628 
+id:    1628

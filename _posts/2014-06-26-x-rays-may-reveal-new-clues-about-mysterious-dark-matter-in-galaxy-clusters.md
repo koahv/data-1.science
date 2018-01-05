@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "X-Rays May Reveal New Clues about Mysterious Dark Matter in Galaxy Clusters"
-date:  2014-06-26 11:59:27 
-categories:  Science     
+date: 2014-06-26 11:59:27
+categories: Science
 author: unknown author
-tags:  space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space
 
 [Visit Link](http://www.scienceworldreport.com/articles/15674/20140626/x-rays-reveal-new-clues-mysterious-dark-matter-galaxy-clusters.htm)
 
-id:    7300 
+id:    7300

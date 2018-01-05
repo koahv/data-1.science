@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Open Source Diversity Efforts Gain Momentum in 2016"
-date:  2016-12-19 12:38:00 
-categories:  Linux       
-author:  OpenSource.com                                                
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-12-19 12:38:00
+categories: Linux
+author: OpenSource.com
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/open-source-diversity-efforts-gain-momentum-2016)
 
-id:  350650 
+id:  350650

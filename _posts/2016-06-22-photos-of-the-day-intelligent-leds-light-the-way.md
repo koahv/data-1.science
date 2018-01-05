@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos of the Day: Intelligent LEDs Light The Way"
-date:  2016-06-22 20:45:17 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-06-22 20:45:17
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/06/photos-day-intelligent-leds-light-way)
 
-id:  298189 
+id:  298189

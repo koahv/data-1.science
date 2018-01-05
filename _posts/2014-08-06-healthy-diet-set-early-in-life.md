@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Healthy diet set early in life"
-date:  2014-08-06 13:51:11 
-categories:  Science     
+date: 2014-08-06 13:51:11
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/I3w8-qseuHg/140806095111.htm)
 
-id:   33345 
+id:   33345

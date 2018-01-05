@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Waves on Sun give NASA new insight into space weather forecasting"
-date:  2017-03-30 18:11:40 
-categories:  Science     
+date: 2017-03-30 18:11:40
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-03-sun-nasa-insight-space-weather.html)
 
-id:  379328 
+id:  379328

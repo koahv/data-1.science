@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Clues emerge to genetic architecture of cognitive abilities in children"
-date:  2014-08-11 16:41:15 
-categories:  Science     
+date: 2014-08-11 16:41:15
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/PXxEQBqVQLU/140811124115.htm)
 
-id:   36758 
+id:   36758

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tools and primates: Opportunity, not necessity, is the mother of invention"
-date:  2014-11-11 05:00:00 
-categories:  Science     
+date: 2014-11-11 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-11/uoc-tap111014.php)
 
-id:   60869 
+id:   60869

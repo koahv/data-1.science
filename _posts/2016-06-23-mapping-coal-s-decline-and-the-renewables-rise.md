@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mapping coal's decline and the renewables' rise"
-date:  2016-06-23 11:02:26 
-categories:  Science     
+date: 2016-06-23 11:02:26
+categories: Science
 author: unknown author
-tags:  energy & green tech                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [energy & green tech]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  energy & green tech
 
 [Visit Link](http://phys.org/news/2016-06-coal-decline-renewables.html)
 
-id:  297961 
+id:  297961

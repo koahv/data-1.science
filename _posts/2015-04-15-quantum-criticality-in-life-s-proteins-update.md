@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum Criticality in life's proteins (Update)"
-date:  2015-04-15 07:54:10 
-categories:  Science     
+date: 2015-04-15 07:54:10
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news348144521.html)
 
-id:  108501 
+id:  108501

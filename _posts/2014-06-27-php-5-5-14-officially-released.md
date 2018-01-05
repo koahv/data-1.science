@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "PHP 5.5.14 Officially Released"
-date:  2014-06-27 16:23:00 
-categories:  Linux       
-author:  Softpedia News (Silviu Stahie)                                
-tags:  linux & opensource blog                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+date: 2014-06-27 16:23:00
+categories: Linux
+author: Softpedia News (Silviu Stahie)
+tags: [linux & opensource blog]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux & opensource blog
 
 [Visit Link](http://news.softpedia.com/news/PHP-5-5-14-Officially-Released-448701.shtml)
 
-id:    8584 
+id:    8584

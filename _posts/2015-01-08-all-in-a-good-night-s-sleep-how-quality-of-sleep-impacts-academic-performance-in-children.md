@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "All in a good night's sleep: How quality of sleep impacts academic performance in children"
-date:  2015-01-08 16:35:21 
-categories:  Science     
+date: 2015-01-08 16:35:21
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/rFuqbUHNXlM/150108113521.htm)
 
-id:   70575 
+id:   70575

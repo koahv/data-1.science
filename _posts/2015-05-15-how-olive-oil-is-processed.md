@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How olive oil is processed"
-date:  2015-05-15 12:20:02 
-categories:  Science     
+date: 2015-05-15 12:20:02
+categories: Science
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  chemistry
 
 [Visit Link](http://phys.org/news350895107.html)
 
-id:  123768 
+id:  123768

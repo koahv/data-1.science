@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World's first bilateral hand transplant on child"
-date:  2015-07-28 20:24:22 
-categories:  Science     
+date: 2015-07-28 20:24:22
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150728162422.htm)
 
-id:  161790 
+id:  161790

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DSCOVR is the linchpin of next-generation space weather forecasts"
-date:  2016-06-27 13:10:04 
-categories:  Science     
+date: 2016-06-27 13:10:04
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-06-dscovr-linchpin-next-generation-space-weather.html)
 
-id:  298987 
+id:  298987

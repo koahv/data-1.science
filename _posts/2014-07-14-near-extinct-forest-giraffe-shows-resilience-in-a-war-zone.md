@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Near-extinct forest giraffe shows resilience in a war zone"
-date:  2014-07-14 10:30:01 
-categories:  Science     
+date: 2014-07-14 10:30:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news324537051.html)
 
-id:   19342 
+id:   19342

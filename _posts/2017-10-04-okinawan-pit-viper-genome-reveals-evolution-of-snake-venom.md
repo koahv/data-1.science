@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Okinawan pit viper genome reveals evolution of snake venom"
-date:  2017-10-04 12:30:01 
-categories:  Science     
+date: 2017-10-04 12:30:01
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](https://phys.org/news/2017-10-okinawan-pit-viper-genome-reveals.html)
 
-id:  435030 
+id:  435030

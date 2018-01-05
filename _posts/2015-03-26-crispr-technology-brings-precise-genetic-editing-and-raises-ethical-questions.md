@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "CRISPR technology brings precise genetic editing – and raises ethical questions"
-date:  2015-03-26 13:10:04 
-categories:  Science     
+date: 2015-03-26 13:10:04
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news346578382.html)
 
-id:  100895 
+id:  100895

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists transfer pathogen-sensing ‘ANTENNA’ gene to wheat"
-date:  2015-03-12 01:04:17 
-categories:  Science     
+date: 2015-03-12 01:04:17
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/qqrvRm7SbYo/150311210417.htm)
 
-id:   94419 
+id:   94419

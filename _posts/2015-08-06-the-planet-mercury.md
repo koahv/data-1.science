@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The planet Mercury"
-date:  2015-08-06 13:10:01 
-categories:  Science     
+date: 2015-08-06 13:10:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-planet-mercury.html)
 
-id:  165581 
+id:  165581

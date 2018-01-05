@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Russian physicists create a high-precision 'quantum ruler'"
-date:  2016-06-23 04:00:00 
-categories:  Science     
+date: 2016-06-23 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/miop-rpc062316.php)
 
-id:  298051 
+id:  298051

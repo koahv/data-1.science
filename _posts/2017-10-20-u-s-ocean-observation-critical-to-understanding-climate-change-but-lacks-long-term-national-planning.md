@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "U.S. ocean observation critical to understanding climate change, but lacks long-term national planning"
-date:  2017-10-20 18:07:21 
-categories:  Science     
+date: 2017-10-20 18:07:21
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](https://phys.org/news/2017-10-ocean-critical-climate-lacks-long-term.html)
 
-id:  442225 
+id:  442225

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tiny beating hearts grown in the lab"
-date:  2014-06-26 03:09:44 
-categories:  Science     
+date: 2014-06-26 03:09:44
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencealert.com.au/~r/sciencealert-latestnews/~3/ch0qD4oZCYA/20142606-25752.html)
 
-id:    7046 
+id:    7046

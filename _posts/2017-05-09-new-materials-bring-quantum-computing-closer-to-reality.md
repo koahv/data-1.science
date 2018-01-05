@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New materials bring quantum computing closer to reality"
-date:  2017-05-09 11:15:59 
-categories:  Science     
+date: 2017-05-09 11:15:59
+categories: Science
 author: unknown author
-tags:  nanophysics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [nanophysics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanophysics
 
 [Visit Link](https://phys.org/news/2017-05-materials-quantum-closer-reality.html)
 
-id:  390903 
+id:  390903

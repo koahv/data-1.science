@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DNA Reveals Mysterious Human Cousin With Huge Teeth"
-date:  2015-11-16 20:21:49 
-categories:  Science     
-author:  Michael Greshko                                               
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-11-16 20:21:49
+categories: Science
+author: Michael Greshko
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.nationalgeographic.com/2015/11/151116-denisovan-human-anthropology-ancient-dna/)
 
-id:  212150 
+id:  212150

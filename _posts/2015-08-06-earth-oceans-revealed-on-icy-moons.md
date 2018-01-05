@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "EARTH: Oceans revealed on icy moons"
-date:  2015-08-06 04:00:00 
-categories:  Science     
+date: 2015-08-06 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/agi-eor080615.php)
 
-id:  165912 
+id:  165912

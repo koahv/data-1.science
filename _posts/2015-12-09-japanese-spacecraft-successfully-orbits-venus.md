@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Japanese Spacecraft Successfully Orbits Venus"
-date:  2015-12-09 19:23:01 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-12-09 19:23:01
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/12/japanese-spacecraft-successfully-orbits-venus)
 
-id:  222668 
+id:  222668

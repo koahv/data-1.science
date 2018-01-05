@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Intelligent neuroprostheses mimic natural motor control"
-date:  2015-03-30 04:00:00 
-categories:  Technology  
+date: 2015-03-30 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/cns-inm032715.php)
 
-id:  102643 
+id:  102643

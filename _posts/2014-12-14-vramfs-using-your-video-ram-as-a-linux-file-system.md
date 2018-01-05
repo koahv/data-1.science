@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "VRAMFS: Using Your Video RAM As A Linux File-System"
-date:  2014-12-14 01:56:35 
-categories:  Linux       
+date: 2014-12-14 01:56:35
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTg2MjI)
 
-id:   66233 
+id:   66233

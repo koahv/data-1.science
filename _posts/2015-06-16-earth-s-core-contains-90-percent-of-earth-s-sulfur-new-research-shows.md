@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earth's core contains 90 percent of Earth's sulfur, new research shows"
-date:  2015-06-16 22:00:01 
-categories:  Science     
+date: 2015-06-16 22:00:01
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news353670203.html)
 
-id:  140383 
+id:  140383

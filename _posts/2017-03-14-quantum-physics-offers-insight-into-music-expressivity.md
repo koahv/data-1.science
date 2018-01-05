@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum physics offers insight into music expressivity"
-date:  2017-03-14 04:00:00 
-categories:  Technology  
+date: 2017-03-14 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/qmuo-qpo031317.php)
 
-id:  374233 
+id:  374233

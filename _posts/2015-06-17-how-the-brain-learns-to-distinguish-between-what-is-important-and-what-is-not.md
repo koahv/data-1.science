@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How the brain learns to distinguish between what is important and what is not"
-date:  2015-06-17 04:00:00 
-categories:  Science     
+date: 2015-06-17 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/uob-htb061715.php)
 
-id:  140733 
+id:  140733

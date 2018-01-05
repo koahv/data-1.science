@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Accelerating research into dark energy"
-date:  2016-07-06 04:00:00 
-categories:  Science     
+date: 2016-07-06 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/ucl-ari070516.php)
 
-id:  302221 
+id:  302221

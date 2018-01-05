@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Intel presents 17-qubit superconducting chip with advanced packaging"
-date:  2017-10-11 10:48:31 
-categories:  Science     
+date: 2017-10-11 10:48:31
+categories: Science
 author: unknown author
-tags:  semiconductors                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [semiconductors]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  semiconductors
 
 [Visit Link](https://phys.org/news/2017-10-intel-qubit-superconducting-chip-advanced.html)
 
-id:  437517 
+id:  437517

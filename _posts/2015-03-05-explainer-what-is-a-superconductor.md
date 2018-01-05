@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Explainer: What is a superconductor?"
-date:  2015-03-05 13:00:02 
-categories:  Science     
+date: 2015-03-05 13:00:02
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news344762855.html)
 
-id:   91197 
+id:   91197

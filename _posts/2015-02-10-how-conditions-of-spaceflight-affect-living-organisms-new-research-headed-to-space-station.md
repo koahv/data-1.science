@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How conditions of spaceflight affect living organisms: New research headed to space station"
-date:  2015-02-10 18:27:02 
-categories:  Science     
+date: 2015-02-10 18:27:02
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/R4hda-6Ivlw/150210132702.htm)
 
-id:   81173 
+id:   81173

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Action spectrum of sun skin damage documented"
-date:  2015-06-26 13:55:23 
-categories:  Science     
+date: 2015-06-26 13:55:23
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150626095523.htm)
 
-id:  145922 
+id:  145922

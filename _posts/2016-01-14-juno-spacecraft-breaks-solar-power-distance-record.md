@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Juno spacecraft breaks solar power distance record"
-date:  2016-01-14 11:26:05 
-categories:  Science     
+date: 2016-01-14 11:26:05
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-01-juno-spacecraft-solar-power-distance.html)
 
-id:  236183 
+id:  236183

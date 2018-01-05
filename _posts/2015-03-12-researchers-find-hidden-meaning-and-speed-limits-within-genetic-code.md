@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers find hidden meaning and 'speed limits' within genetic code"
-date:  2015-03-12 20:18:06 
-categories:  Science     
+date: 2015-03-12 20:18:06
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news345395872.html)
 
-id:   94707 
+id:   94707

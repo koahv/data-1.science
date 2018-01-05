@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Same genes drive mathematics and reading ability"
-date:  2014-07-08 16:17:24 
-categories:  Science     
+date: 2014-07-08 16:17:24
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/3QoT23GwQuk/140708121724.htm)
 
-id:   16090 
+id:   16090

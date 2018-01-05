@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Learning bash scripting for beginners"
-date:  2015-05-26 05:00:00 
-categories:  Linux       
+date: 2015-05-26 05:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/developer/learning-bash-scripting-for-beginners-150520005015.html)
 
-id:  128658 
+id:  128658

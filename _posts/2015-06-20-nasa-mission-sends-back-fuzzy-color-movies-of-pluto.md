@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA mission sends back fuzzy, color 'movies' of Pluto"
-date:  2015-06-20 07:34:00 
-categories:  Tech        
-author:  Richard Lawler                                                
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-06-20 07:34:00
+categories: Tech
+author: Richard Lawler
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.engadget.com/2015/06/20/new-horizons-pluto-movie/?ncid=rss_truncated)
 
-id:  142422 
+id:  142422

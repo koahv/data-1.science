@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "VDPAU Library 0.8 Released"
-date:  2014-07-01 17:30:03 
-categories:  Linux       
+date: 2014-07-01 17:30:03
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTczMjM)
 
-id:   11149 
+id:   11149

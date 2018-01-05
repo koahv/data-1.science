@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Water scarcity and climate change through 2095"
-date:  2014-08-18 09:56:29 
-categories:  Science     
+date: 2014-08-18 09:56:29
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news327560165.html)
 
-id:   40547 
+id:   40547

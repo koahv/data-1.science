@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Can a Computer Pass for a Human?"
-date:  2016-04-27 14:43:26 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-27 14:43:26
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/videos/2016/04/can-computer-pass-human)
 
-id:  278731 
+id:  278731

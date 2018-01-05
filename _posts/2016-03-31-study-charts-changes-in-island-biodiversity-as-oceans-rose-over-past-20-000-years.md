@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study charts changes in island biodiversity as oceans rose over past 20,000 years"
-date:  2016-03-31 12:40:01 
-categories:  Science     
+date: 2016-03-31 12:40:01
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2016-03-island-biodiversity-oceans-rose-years.html)
 
-id:  268600 
+id:  268600

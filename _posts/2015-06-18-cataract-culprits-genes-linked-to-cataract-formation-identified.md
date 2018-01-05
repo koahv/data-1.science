@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cataract culprits: Genes linked to cataract formation identified"
-date:  2015-06-18 16:21:11 
-categories:  Science     
+date: 2015-06-18 16:21:11
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150618122111.htm)
 
-id:  141577 
+id:  141577

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "All creatures great and small: London Zoo weighs 17,000 animals"
-date:  2015-08-26 15:32:27 
-categories:  Science     
+date: 2015-08-26 15:32:27
+categories: Science
 author: unknown author
-tags:  plants & animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [plants & animals]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plants & animals
 
 [Visit Link](http://phys.org/news/2015-08-creatures-great-small-london-zoo.html)
 
-id:  174924 
+id:  174924

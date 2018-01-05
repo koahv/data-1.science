@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Citizen Scientists' Take Over Old NASA Satellite - Newser"
-date:  2014-07-05 21:43:41 
-categories:  Astronomy   
+date: 2014-07-05 21:43:41
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEtWNYmOUuB5pvZdMCM7zhbK0KZ-A&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=0KS4U6iWEMiXgQfWkICgCA&url=http://www.newser.com/story/190485/citizen-scientists-take-over-old-nasa-satellite.html)
 
-id:   13989 
+id:   13989

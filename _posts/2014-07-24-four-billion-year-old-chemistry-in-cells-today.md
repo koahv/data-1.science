@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Four-billion-year-old chemistry in cells today"
-date:  2014-07-24 13:40:21 
-categories:  Science     
+date: 2014-07-24 13:40:21
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/nOYBWg021OM/140724094021.htm)
 
-id:   27342 
+id:   27342

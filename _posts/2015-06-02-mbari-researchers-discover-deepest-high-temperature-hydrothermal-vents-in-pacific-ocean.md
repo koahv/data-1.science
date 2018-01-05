@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "MBARI researchers discover deepest high-temperature hydrothermal vents in Pacific Ocean"
-date:  2015-06-02 04:00:00 
-categories:  Science     
+date: 2015-06-02 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/mbar-mrd060215.php)
 
-id:  132835 
+id:  132835

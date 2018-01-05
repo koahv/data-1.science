@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "The Deep Carbon Observatory: Quantities, movements, forms and origins of Earth's carbon"
-date:  2014-12-15 05:00:00 
-categories:  Science     
+date: 2014-12-15 05:00:00
+categories: Astronomy
+Science
+Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +18,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-12/dco-tdc121214.php)
 
-id:   66447 
+id:   66447

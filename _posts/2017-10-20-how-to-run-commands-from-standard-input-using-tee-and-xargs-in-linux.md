@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to Run Commands from Standard Input Using Tee and Xargs in Linux"
-date:  2017-10-20 06:00:15 
-categories:  Linux       
-author:  Aaron Kili                                                    
-tags:  linux commands,linux tricks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+date: 2017-10-20 06:00:15
+categories: Linux
+author: Aaron Kili
+tags: [linux commands, linux tricks]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands,linux tricks
 
 [Visit Link](https://www.tecmint.com/run-commands-from-standard-input-using-tee-and-xargs-in-linux/)
 
-id:  444412 
+id:  444412

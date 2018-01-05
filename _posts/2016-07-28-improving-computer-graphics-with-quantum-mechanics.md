@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Improving computer graphics with quantum mechanics"
-date:  2016-07-28 11:01:13 
-categories:  Science     
+date: 2016-07-28 11:01:13
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-07-graphics-quantum-mechanics.html)
 
-id:  309051 
+id:  309051

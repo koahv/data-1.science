@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Temperature drives biodiversity"
-date:  2016-12-22 05:00:00 
-categories:  Science     
+date: 2016-12-22 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-12/uow-tdb121916.php)
 
-id:  351654 
+id:  351654

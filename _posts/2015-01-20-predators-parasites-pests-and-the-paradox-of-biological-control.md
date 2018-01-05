@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Predators, parasites, pests and the paradox of biological control"
-date:  2015-01-20 05:00:00 
-categories:  Science     
+date: 2015-01-20 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/uom-ppp011415.php)
 
-id:   74566 
+id:   74566

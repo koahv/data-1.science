@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Carl Sagan's solar spacecraft finally deploys its sails"
-date:  2015-06-07 21:12:00 
-categories:  Tech        
-author:  Jon Fingas                                                    
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-06-07 21:12:00
+categories: Tech
+author: Jon Fingas
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.engadget.com/2015/06/07/lightsail-deploys-sails/?ncid=rss_truncated)
 
-id:  135187 
+id:  135187

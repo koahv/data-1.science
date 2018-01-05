@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Four-legged fossil suggests snakes evolved from burrowing ancestors"
-date:  2015-07-23 04:00:00 
-categories:  Science     
+date: 2015-07-23 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/aaft-ffs072015.php)
 
-id:  159725 
+id:  159725

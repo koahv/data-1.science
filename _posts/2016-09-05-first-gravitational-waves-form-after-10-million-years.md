@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First gravitational waves form after 10 million years"
-date:  2016-09-05 04:00:00 
-categories:  Astronomy   
+date: 2016-09-05 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-09/uoz-fgw090516.php)
 
-id:  320933 
+id:  320933

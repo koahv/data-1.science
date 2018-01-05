@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Important study of how climate affects biodiversity"
-date:  2015-04-16 16:30:03 
-categories:  Science     
+date: 2015-04-16 16:30:03
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news348397107.html)
 
-id:  110320 
+id:  110320

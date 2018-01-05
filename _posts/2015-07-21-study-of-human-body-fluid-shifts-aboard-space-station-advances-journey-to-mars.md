@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study of human body fluid shifts aboard space station advances journey to Mars"
-date:  2015-07-21 13:46:38 
-categories:  Science     
+date: 2015-07-21 13:46:38
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-07-human-body-fluid-shifts-aboard.html)
 
-id:  158117 
+id:  158117

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Establishes Contact With STEREO Mission"
-date:  2016-08-22 21:02:35 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-08-22 21:02:35
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/08/nasa-establishes-contact-stereo-mission)
 
-id:  316570 
+id:  316570

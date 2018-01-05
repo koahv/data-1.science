@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Endangered dragonflies, raised in captivity, being released"
-date:  2015-07-18 00:30:01 
-categories:  Science     
+date: 2015-07-18 00:30:01
+categories: Science
 author: unknown author
-tags:  ecology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [ecology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  ecology
 
 [Visit Link](http://phys.org/news/2015-07-endangered-dragonflies-captivity.html)
 
-id:  156953 
+id:  156953

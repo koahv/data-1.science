@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Light-activated genes might be precisely controlled and targeted"
-date:  2015-02-09 16:42:33 
-categories:  Science     
+date: 2015-02-09 16:42:33
+categories: Science
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  chemistry
 
 [Visit Link](http://phys.org/news342704543.html)
 
-id:   80190 
+id:   80190

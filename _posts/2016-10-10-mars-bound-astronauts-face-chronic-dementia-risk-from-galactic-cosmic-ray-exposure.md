@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mars-bound astronauts face chronic dementia risk from galactic cosmic ray exposure"
-date:  2016-10-10 04:00:00 
-categories:  Astronomy   
+date: 2016-10-10 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/uoc--maf100716.php)
 
-id:  330672 
+id:  330672

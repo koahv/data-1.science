@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How bird evolution swapped snouts for beaks"
-date:  2015-08-19 10:50:02 
-categories:  Science     
+date: 2015-08-19 10:50:02
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](http://phys.org/news/2015-08-bird-evolution-swapped-snouts-beaks.html)
 
-id:  171404 
+id:  171404

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Herd mentality: Are we programmed to make bad decisions?"
-date:  2014-12-17 00:00:04 
-categories:  Science     
+date: 2014-12-17 00:00:04
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news337975902.html)
 
-id:   67283 
+id:   67283

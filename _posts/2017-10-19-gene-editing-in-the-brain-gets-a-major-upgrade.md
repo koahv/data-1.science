@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Gene editing in the brain gets a major upgrade"
-date:  2017-10-19 16:00:06 
-categories:  Science     
+date: 2017-10-19 16:00:06
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-10-gene-brain-major.html)
 
-id:  441485 
+id:  441485

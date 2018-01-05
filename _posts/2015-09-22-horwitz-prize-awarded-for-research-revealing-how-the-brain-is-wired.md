@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Horwitz Prize awarded for research revealing how the brain is wired"
-date:  2015-09-22 04:00:00 
-categories:  Science     
+date: 2015-09-22 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/cumc-hpa092215.php)
 
-id:  187999 
+id:  187999

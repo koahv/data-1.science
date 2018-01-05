@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Design and build of synthetic DNA goes back to 'BASIC'"
-date:  2015-03-10 18:31:28 
-categories:  Science     
+date: 2015-03-10 18:31:28
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news345216675.html)
 
-id:   93391 
+id:   93391

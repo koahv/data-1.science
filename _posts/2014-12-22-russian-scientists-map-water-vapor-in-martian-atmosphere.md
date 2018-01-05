@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Russian scientists 'map' water vapor in Martian atmosphere"
-date:  2014-12-22 05:00:00 
-categories:  Science     
+date: 2014-12-22 05:00:00
+categories: Science
+Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +17,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-12/miop-rs122214.php)
 
-id:   68716 
+id:   68716

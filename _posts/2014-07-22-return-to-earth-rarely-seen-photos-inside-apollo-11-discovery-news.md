@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Return to Earth: Rarely Seen Photos Inside Apollo 11 - Discovery News"
-date:  2014-07-22 02:39:10 
-categories:  Earth       
+date: 2014-07-22 02:39:10
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGil5d9vkCha8Ib8Ajv6ZM1LkE7Bw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778562084794&ei=Q9TNU-CPGob2wAHCxoCAAQ&url=http://news.discovery.com/space/history-of-space/return-to-earth-rarely-seen-photos-inside-apollo-11-photos140721.htm)
 
-id:   24975 
+id:   24975

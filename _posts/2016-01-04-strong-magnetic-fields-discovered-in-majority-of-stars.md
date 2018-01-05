@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Strong magnetic fields discovered in majority of stars"
-date:  2016-01-04 05:00:00 
-categories:  Science     
+date: 2016-01-04 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/uos-smf010316.php)
 
-id:  231497 
+id:  231497

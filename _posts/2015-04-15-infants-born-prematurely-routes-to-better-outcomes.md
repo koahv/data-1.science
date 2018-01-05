@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Infants born prematurely: Routes to better outcomes"
-date:  2015-04-15 13:27:57 
-categories:  Science     
+date: 2015-04-15 13:27:57
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/w_hOe2DdNIE/150415092757.htm)
 
-id:  109691 
+id:  109691

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Particle accelerator on a microchip"
-date:  2015-11-19 05:00:00 
-categories:  Technology  
+date: 2015-11-19 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-11/ded-pao111915.php)
 
-id:  213731 
+id:  213731

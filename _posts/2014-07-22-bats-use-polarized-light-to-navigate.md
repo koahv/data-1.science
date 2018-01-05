@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bats use polarized light to navigate"
-date:  2014-07-22 15:00:03 
-categories:  Science     
+date: 2014-07-22 15:00:03
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news325240523.html)
 
-id:   25370 
+id:   25370

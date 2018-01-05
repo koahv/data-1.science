@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Unraveling the light of fireflies"
-date:  2014-12-17 08:59:33 
-categories:  Science     
+date: 2014-12-17 08:59:33
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news338011163.html)
 
-id:   67280 
+id:   67280

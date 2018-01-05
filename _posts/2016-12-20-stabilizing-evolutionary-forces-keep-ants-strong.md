@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Stabilizing evolutionary forces keep ants strong"
-date:  2016-12-20 05:00:00 
-categories:  Science     
+date: 2016-12-20 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-12/hu-sef122016.php)
 
-id:  351034 
+id:  351034

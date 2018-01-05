@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Could we terraform Jupiter?"
-date:  2015-08-06 12:50:02 
-categories:  Science     
+date: 2015-08-06 12:50:02
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-terraform-jupiter.html)
 
-id:  165584 
+id:  165584

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers greatly increase precision of new genome editing tool"
-date:  2015-03-25 14:16:34 
-categories:  Science     
+date: 2015-03-25 14:16:34
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news346497144.html)
 
-id:  100277 
+id:  100277

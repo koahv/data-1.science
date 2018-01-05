@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A new picture of the last ice age"
-date:  2016-03-17 13:06:22 
-categories:  Science     
+date: 2016-03-17 13:06:22
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2016-03-picture-ice-age.html)
 
-id:  263417 
+id:  263417

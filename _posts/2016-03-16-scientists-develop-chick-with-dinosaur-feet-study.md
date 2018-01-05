@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists develop chick with 'dinosaur' feet: study"
-date:  2016-03-16 08:20:01 
-categories:  Science     
+date: 2016-03-16 08:20:01
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2016-03-scientists-chick-dinosaur-feet.html)
 
-id:  262876 
+id:  262876

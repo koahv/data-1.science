@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Special issue: Forest health"
-date:  2015-08-20 04:00:00 
-categories:  Science     
+date: 2015-08-20 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/aaft-sif081715.php)
 
-id:  172339 
+id:  172339

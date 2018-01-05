@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Organic conundrum in Large Magellanic Cloud"
-date:  2014-06-23 13:23:33 
-categories:  Science     
+date: 2014-06-23 13:23:33
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/aujejuRp3cU/140623092333.htm)
 
-id:    3362 
+id:    3362

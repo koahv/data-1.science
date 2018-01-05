@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "MoEDAL Closes In On Seach for Magnetic Particle"
-date:  2016-08-11 13:05:52 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-08-11 13:05:52
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/08/moedal-closes-seach-magnetic-particle)
 
-id:  313614 
+id:  313614

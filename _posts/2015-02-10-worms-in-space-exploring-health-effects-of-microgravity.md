@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Worms in space: Exploring health effects of microgravity"
-date:  2015-02-10 19:17:30 
-categories:  Science     
+date: 2015-02-10 19:17:30
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/heFtgSC3rRY/150210141730.htm)
 
-id:   81568 
+id:   81568

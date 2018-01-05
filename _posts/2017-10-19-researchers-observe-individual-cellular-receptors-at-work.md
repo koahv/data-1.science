@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers observe individual cellular receptors at work"
-date:  2017-10-19 09:29:53 
-categories:  Science     
+date: 2017-10-19 09:29:53
+categories: Science
 author: unknown author
-tags:  biochemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+tags: [biochemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biochemistry
 
 [Visit Link](https://phys.org/news/2017-10-individual-cellular-receptors.html)
 
-id:  441230 
+id:  441230

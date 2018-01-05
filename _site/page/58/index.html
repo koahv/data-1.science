@@ -5,8 +5,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Begin Jekyll SEO tag v2.3.0 -->
+  <!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>data-1.science | Science and Technology Articles</title>
+<meta name="generator" content="Jekyll v3.6.2" />
 <meta property="og:title" content="data-1.science" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Science and Technology Articles" />
@@ -14,10 +15,10 @@
 <link rel="canonical" href="http://localhost:4000/page/58/" />
 <meta property="og:url" content="http://localhost:4000/page/58/" />
 <meta property="og:site_name" content="data-1.science" />
-<link rel="prev" href="http://localhost:4000/page/57/">
-<link rel="next" href="http://localhost:4000/page/59/">
+<link rel="prev" href="http://localhost:4000/page/57/" />
+<link rel="next" href="http://localhost:4000/page/59/" />
 <script type="application/ld+json">
-{"name":null,"description":"Science and Technology Articles","url":"http://localhost:4000/page/58/","headline":"data-1.science","dateModified":null,"datePublished":null,"sameAs":null,"@type":"WebPage","author":null,"image":null,"publisher":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
+{"description":"Science and Technology Articles","url":"http://localhost:4000/page/58/","headline":"data-1.science","@type":"WebPage","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   <link rel="stylesheet" href="/assets/main.css">
@@ -103,8 +104,7 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>Red Hat’s OpenShift Commons invites open-source programmers and users to join us in working on its OpenShift Platform-as-a-Service cloud.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    +</p>
+  <p>Red Hat’s OpenShift Commons invites open-source programmers and users to join us in working on its OpenShift Platform-as-a-Service cloud.</p>
 </blockquote>
 
 <h4 id="factsheet">Factsheet</h4>
@@ -196,8 +196,72 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>5 Basic Principles of Linux System Security                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  +</p>
+  <p>5 Basic Principles of Linux System Security
+It is still common that people do not know where to start when it comes to information security. With 5 basic principles we can improve the Linux system security and question ourselves if we have done enough.
+ </p>
+  <ol>
+    <li>Know your system(s)
+The first principle is about knowing what your system is supposed to do. What is its primary role, what software packages does it need and who needs access?
+By knowing the role of the system you can better defend it against known and unknown threats.
+ 
+Security Measures:
+ </li>
+  </ol>
 </blockquote>
+
+<p>Password policy
+Proper software patch management
+Configuration management
+Documentation</p>
+
+<p> </p>
+<ol>
+  <li>Least Amount of Privilege
+Each process running, or package installed, might become a target. Security professionals call this the “attack surface”. What you want is to minimize this attack surface by removing unneeded components, limit access and by default use a “deny unless” strategy. This latter means that access by default is blocked, unless you allow it (whitelisting).
+Security Measures:
+ </li>
+</ol>
+
+<p>Use minimal/basic installation
+Only allow access to people who really need it</p>
+
+<ol>
+  <li>Perform Defense in Depth
+Protect the system by applying several layers of security. This principle is named “defense in depth” and can be compared with an onion: to get to the core, you have to peel of layer by layer. One broken defense might help us protect against full compromise.
+Security Measures:
+ </li>
+</ol>
+
+<p>IPtables / Nftables
+Hardening of software components</p>
+
+<ol>
+  <li>Protection is Key, Detection is a Must
+Security focuses on the protection of assets. While this is a primary objective, we should consider that one day our defenses are broken. Therefore we want to know this as soon as possible, so we can properly act. This is where principle 3 and 4 both are linked. Set-up proper detection methods, similar to the trip wires used by the military.
+Security Measures:
+ </li>
+</ol>
+
+<p>Linux audit framework
+Remote Logging
+Create backups and test them</p>
+
+<p> </p>
+<ol>
+  <li>Know your Enemy
+ 
+You can only protect a system the right way, if you know what threats you are facing. Why would this system be a target and who would be targeting it? Perform a risk analysis and determine what potential threats your system might endure.
+ 
+Security Measures:
+ </li>
+</ol>
+
+<p>Vulnerability scans
+Penetration tests
+Risk analysis</p>
+
+<p> 
+The post 5 Basic Principles of Linux System Security appeared first on Linux Audit.</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -243,8 +307,34 @@
     <h4 id="extract">Extract</h4>
 <blockquote>
   <p> 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  +</p>
+             
+ 
+Astronomers have found a huge black hole which was powering the brightest object in the early universe. The black hole’s mass is 12 billion solar masses, and the surrounding quasar pumped out 10^15 times the sun’s energy. An international team of astronomers have found a huge and ancient black hole which was powering the brightest object early in the universe.
+“Forming such a large black hole so quickly is hard to interpret with current theories,” said Fuyan Bian, from the Research School of Astronomy and Astrophysics at the Australian National University. Bian said the discovery challenges theories of how black holes form and grow in the early universe.
+The black hole’s mass is 12 billion times that of the Sun, and it lives at the centre of a quasar that pumped out a million billion times the energy of our Sun. A quasar is an extremely bright cloud of material in the process of being sucked into a black hole. As the material accelerates towards the black hole it heats up, emitting an extraordinary amount of light which actually pushes away material falling behind it.
+This process, known as radiation pressure, is thought to limit the growth rate of black holes, Dr Bian said.
+“However this black hole at the centre of the quasar gained enormous mass in a short period of time,” Dr Bian said.
+The black hole that powers this new quasar is four thousand times heavier than ours. SDSS J0100+2802 is also seven times brighter than the most distant quasar known (which is 13 billion years away) making it one of the most distant quasars discovered.
+The quasar was discovered using data from the 2.4 metre Lijiang Telescope (LJT) in China, the 6.5m Multiple Mirror Telescope (MMT), and the 8.4m Large Binocular Telescope (LBTO) in USA, the 6.5m Magellan Telescope in Las Campanas Observatory, Chile, and the 8.2m Gemini North Telescope in Hawaii.
+The newly discovered quasar SDSS J0100+2802 is the one with the most massive black hole and the highest luminosity among all known distant quasars. Image credit: Zhaoyu Li/Yunnan Observatory.
+ </p>
 </blockquote>
+
+<p> 
+Quasars evolved only about nine hundred million years after the Big Bang, close to the end of the cosmic dawn when light from the earliest generations of galaxies and quasars were thought to transformed the Universe. So how can a quasar so luminous, and a black hole so massive, form so early in the history of the Universe?
+“This ultra-luminous quasar with a 12-billion solar mass black hole provides a unique laboratory to the study of the mass assembly and galaxy formation around the most massive black hole at early Universe,” said Professor Xiaohui Fan from Steward Observatory, the University of Arizona, in a statement.
+“This quasar is unique. We are so excited, when we found that there is such luminous and massive quasar only 0.9 billion years after the Big Bang. Just like the brightest lighthouse in the distant universe, its glowing light will help us to probe more about the early universe,” Professor Xue-Bing Wu at Peking University, who led the team, also stated.
+The research team will carry out further investigations on the quasar with the Hubble Space Telescope and the Chandra X-ray Telescope.
+Dr Bian expects more surprising objects will be discovered during the Skymapper survey of the southern skies, currently being run by the ANU.
+“Skymapper will find more of these exciting objects. Because they are so luminous we can see further back in time and can use them to explore the early universe,” Dr Bian said.
+ The biggest known black hole in the universe weighs in with a mass of 18 billion Suns, and is about the size of an entire galaxy. This monster black hole has a puny twin hovering nearby. By observing the orbit of the smaller black hole, astronomers were able to test Einstein’s theory of general relativity with stronger gravitational fields than ever before.
+The biggest black hole beats out its nearest competitor by six times. Fortunately, it’s 3.5 billion light years away, forming the heart of a quasar called OJ287. 
+The team led by Xue-Bing Wu at Peking University, China, selected the quasar from the Sloan Digital Sky Survey of over 500 million objects in the northern skies, because of its distinctive red color. They then followed up with three other telescopes to study the object in detail.
+Related articles</p>
+
+<p>“Mysterious Link” –Galaxy’s Dark Matter Halo and Its Supermassive Black Hole
+First Stars Younger Than Thought –“May Impact Understanding Dark Components of the Universe”
+Fate of Galaxies Linked to Their Supermassive Black Hole</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -266,8 +356,17 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>+</p>
+
+  <p>There’s a movement afoot to find ways to create cleaner cities: Birmingham, England is slashing emissions like a CO2 ninja, while Oslo boasts the honor of having not a single landfill. Copenhagen is shooting to be carbon neutral by 2025 and Chicago is covering its rooftops in luscious greenery. Check out this infographic, brought to you by Hassle, to find out which cities are the cleanest and how they are making their city – and the planet - sparkle.
+Read the rest of INFOGRAPHIC: Discover the cleanest cities in the world</p>
 </blockquote>
+
+<p>Permalink |
+Add to
+del.icio.us | 
+digg</p>
+
+<p>Post tags: carbon neutral cities, chicago green roof, clean cities, copenhagen carbon neutral, environmentally friendly cities, Green Cities, green homes, green innovations, green living, green roofs, Oslo landfills, urban living, Vancouver greenest city, world’s cleanest cities</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -306,13 +405,13 @@
 
   <h1><a href="/science/2015/02/24/massive-amounts-of-saharan-dust-fertilize-the-amazon-rainforest.html">Massive amounts of Saharan dust fertilize the Amazon rainforest</a></h1>
   <p class="author">
-   <!--  <span class="date">2015-02-24 15:28:47 +0000</span> -->
+   <!--  <span class="date">2015-02-24 05:00:00 +0000</span> -->
 
   </p><br>
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>Every year, millions of tons of nutrient-rich Saharan dust cross the Atlantic Ocean, bringing vital phosphorus and other fertilizers to depleted Amazon soils. For the first time, scientists have an accurate estimate of how much phosphorus makes this trans-Atlantic journey.</p>
+  <p>(University of Maryland) Every year, millions of tons of nutrient-rich Saharan dust cross the Atlantic Ocean, bringing vital phosphorus and other fertilizers to depleted Amazon soils. For the first time, scientists have an accurate estimate of how much phosphorus makes this trans-Atlantic journey.</p>
 </blockquote>
 
 <h4 id="factsheet">Factsheet</h4>
@@ -320,9 +419,9 @@
   <p>factsheet unavailable</p>
 </blockquote>
 
-<p><a href="http://feeds.sciencedaily.com/~r/sciencedaily/~3/ZxqKTtZ4Yr0/150224102847.htm">Visit Link</a></p>
+<p><a href="http://www.eurekalert.org/pub_releases/2015-02/uom-mao022315.php">Visit Link</a></p>
 
-<p>id:   86779</p>
+<p>id:   86602</p>
 
   </div> -->
 
@@ -427,8 +526,12 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>+</p>
+
+  <p>San Jose, Calif. (UPI) Feb 19, 2015</p>
 </blockquote>
+
+<p>Researchers hope the Large Hadron Collider, set to resume scientific work in March after two years of improvements, can help them confirm the existence of “dark matter” particles. 
+ Dark matter makes up 27 percent of the universe. Dark energy - the all-encompassing term used to describe the strange properties exhibited by the emptiness of space - makes up 68 percent of the universe. In</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -473,7 +576,8 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>eWeek shares a slideshow of notable data from the recent Linux Development Report                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            +</p>
+  <p>eWeek shares a slideshow of notable data from the recent Linux Development Report
+Read More</p>
 </blockquote>
 
 <h4 id="factsheet">Factsheet</h4>
@@ -520,8 +624,27 @@
     <h4 id="extract">Extract</h4>
 <blockquote>
   <p> 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  +</p>
+ </p>
 </blockquote>
+
+<p> 
+As the sun skims through the galaxy, it flings out charged particles in a stream of plasma called the solar wind, and the solar wind creates a bubble extending far outside the solar system known as the heliosphere. For decades, scientists have visualized the heliosphere as shaped like a comet, with a very long tail extending thousands of times as far as the distance from the Earth to the sun.
+New research suggests that the sun’s magnetic field controls the large-scale shape of the heliosphere “much more than had been previously thought,” says Merav Opher, associate professor of astronomy and director of the Center for Space Physics at Boston University (BU). In the new model, the magnetic field squeezes the solar wind along the sun’s North and South axes, producing two jets that are then dragged downstream by the flow of the interstellar medium through which the heliosphere moves.
+The model indicates that the heliospheric tail doesn’t extend to large distances but is split into two by the two jets, and that the format of the jets is similar to that of astrophysical jets observed in many other stars and around black holes.
+“Most researchers don’t believe in the importance of the solar magnetic field, because the magnetic pressure on the solar wind’s particles is far lower than the thermal pressure of the particles,” says Opher, lead author on a paper appearing today in Astrophysical Journal Letters. However, the model shows that tension of the magnetic field controls what happens to the solar wind in the tail.
+Picture a tube of toothpaste with rubber bands wrapped around it, suggests co-author James Drake, professor of physics and director of the Joint Space-Science Institute at the University of Maryland. In this case, the toothpaste is the jet’s plasma, and the rubber bands are the rings of the solar magnetic field. “Magnetic fields have tension just like rubber bands, and these rings squeeze in,” he says. “So imagine you wrap your toothpaste tube very tightly with a lot of rubber bands, and they will squeeze the toothpaste out the end of your tube.”
+“Jets are really important in astrophysics,” Drake adds. “And from what we can tell, the mechanism that’s driving these heliospheric jets is basically the same as it is in, for example, the Crab Nebula. Yet this is really close by. If we’re right about all of this, it gives us a local test bed for exploring some very important physics.”
+“It’s also exciting that these jets are very turbulent, and will be very good particle accelerators,” says Opher. The jets might, for example, play a role in the acceleration of so-called anomalous cosmic rays “We don’t know where these particles are accelerated; it’s a bit of a puzzle,” she says.
+Solving such puzzles will be important for space travel. The heliosphere acts as “a cocoon to protect us, by filtering galactic cosmic rays,” she says. “Understanding the physical phenomena that govern the shape of the heliosphere will help us understand the filter.”
+The new view of the heliosphere was discovered by accident as the team studied surprising data from the Voyager 1 spacecraft and tried to understand how the galaxy’s magnetic field interacts with the heliosphere.
+One of two identical twin spacecraft launched in 1977, Voyager 1 in 2012 became the first man-made object to exit the heliosphere and plunge into interstellar space, according to the National Aeronautics and Space Administration (NASA).
+As the spacecraft approached and then crossed this boundary, “Voyager had very bizarre observations,” remarks Opher. It did not register the anticipated major change in the direction of magnetic field as it made the crossing.
+Struggling to explain these unexpected results, the team initially focused on the nose of the heliosphere rather than its tail. “The Voyagers had a flashlight in the kitchen, and nobody was looking in the attic,” she remarks. “We noticed, while studying the draping of the galaxy’s magnetic field around the nose, that the heliosphere was much shorter than we anticipated.” When she ran a much larger numerical simulation that continued to follow the flow of the solar wind, she unveiled the unforeseen two-tailed shape.
+More data on the heliosphere’s boundaries will become available sometime in the next few years when Voyager 2, like its twin, crosses into interstellar space.
+In the meantime, additional evidence about the shape of the heliosphere is available from two spacecraft that measure so-called neutral energetic atoms (ENAs), particles that are created by interactions between the solar wind and neutral atoms from the interstellar medium, and whose presence gives an indication of the heliosphere’s border.
+Opher says that results from the Interstellar Boundary Explorer (IBEX) project can be interpreted to offer support for the two-lobed tail model, although she notes that IBEX scientists offer a different interpretation. Data from the Cassini spacecraft’s ENA measurements also may suggest an almost “tailless” heliosphere, she adds.
+ The Daily Galaxy via Boston University
+Image credit: NASA</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -673,6 +796,43 @@
   </div> -->
 
 
+  <h1><a href="/2018/01/05/2015-02-17-your-inner-jellyfish-origin-of-electrical-communication-in-human-brain-traced-back-600-million-years.html"></a></h1>
+  <p class="author">
+   <!--  <span class="date">2018-01-05 16:17:26 +0000</span> -->
+
+  </p><br>
+  <!-- <div class="content">
+    #### Extract
+> 
+ 
+
+ 
+New research shows that a burst of evolutionary innovation in the genes responsible for electrical communication among nerve cells in our brains occurred over 600 million years ago in a common ancestor of humans and the sea anemone. Many of these genes, which when mutated in humans can lead to neurological disease, first evolved in the common ancestor of people and a group of animals called cnidarians, which includes jellyfish, coral, and sea anemones.
+A paper describing the research is scheduled to be posted online in the Early Edition (EE) of the journal Proceedings of the National Academy of Sciences of the United States of America sometime during the week beginning February 16, 2015. High-resolution images and a 10-second video are online at http://science.psu.edu/news-and-events/2015-news/Jegla2-2015
+"Our research group has been discovering evidence for a long time that most major signaling systems in our neurons are ancient, but we never really knew when they first appeared," said Timothy Jegla, an assistant professor of biology at Penn State University, who led the research. "We had always assumed that we would be able to trace most of these signaling systems to the earliest nervous systems, but in this paper we show that this is not the case. It looks like the majority of these signaling systems first appear in the common ancestor that humans share with jellyfish and sea anemones."
+Electrical impulses in nerve cells are generated by charged molecules known as ions moving into and out of the cell through highly specialized ion-channel proteins that form openings in the cell membrane. The new research focuses on the functional evolution of the genes that encode the proteins for potassium channels -- ion channels that allow potassium to flow out of nerve cells, stopping the cell's electrical impulses. "The channels are critical for determining how a nerve cell fires electrical signals," said Jegla. "It appears that animals such as sea anemones and jellyfish are using the same channels that shape electrical signals in our brains in essentially the same way."
+"Humans and sea anemones went their separate ways evolutionarily speaking roughly 600 million years ago," said Jegla, "so we know that the mechanisms we use to generate impulses in our neurons must be at least that old." The team then tried to trace these channels back even further in evolutionary time -- to the very origins of the nervous system. "One of the exciting recent findings in evolutionary biology is that the nervous system might be much older than the ancestor of sea anemones and humans," Jegla said. Recent genome sequences from comb jellies, which also have nervous systems, show that they are a more ancient group of animals than sea anemones and might even be the oldest type of animals that are still living today. "When we looked at comb jellies, we found that the potassium channels looked very different -- most of the channel types found in humans were missing," said Jegla. "We could trace only one kind of the human potassium channels that we looked at all the way back to comb jellies, but we find almost all of them in sea anemones."
+The implication is that many of the mechanisms we use to control electrical impulses in our neurons were not present in the earliest nervous systems. The team did find many different potassium channels in comb jellies, but they appear to have evolved independently after the comb jelly lineage split from that of our ancestors. "We don't know how complex electrical signaling is in living comb jellies, but it probably wasn't very complex in our common ancestor," said Jegla. The team now is interested in figuring out what drove the burst of innovation in ion channels in our common ancestor with sea anemones.
+"We don't yet understand why our ion channels evolved at that time, but the changes in the ability of nerve cells to generate electrical signals must have been revolutionary," said Jegla. "Our current favorite hypothesis is that neurons capable of directional signaling might have evolved at this time." In human nervous systems, most nerve cells have a polar structure with separate regions for inputs and outputs. This allows for directional information flow and highly complex circuits of nerve cells, but it requires a huge diversity of ion channels to shape the electrical signals as they pass through the polar nerve cells. "If our hypothesis turns out to be correct, we may be able to gain some important insights into how nerve cells and circuits evolved by studying sea anemones," said Jegla. "There is a lot that remains to be discovered about how we build polar neurons, and we can use evolution to point out the really important mechanisms that have been conserved through animal history."
+The Daily Galaxy via Penn State University
+Image credit: ocean.si.edu
+Related articles
+
+"Since the Beginning of Time, It is Almost impossible that Mars Ever had Water"
+Previously Unknown Window --"May Reveal Existence of Hidden Dark-Matter Particles"
+NASA's Pleiades Searching Kepler Mission Database for Habitable Alien Moons
+
+
+#### Factsheet
+>factsheet unavailable
+
+[Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/ndCoknUvXoM/your-inner-jellyfish-origin-of-electrical-communication-in-human-brain-traced-back-600-million-years.html)
+
+id:   83467
+
+  </div> -->
+
+
   <h1><a href="/energy/2015/02/17/china-increases-wind-power-by-23-percent-in-pursuit-of-clean-energy-goals.html">China increases wind power by 23 percent in pursuit of clean energy goals</a></h1>
   <p class="author">
    <!--  <span class="date">2015-02-17 22:57:32 +0000</span> -->
@@ -681,8 +841,18 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>+</p>
+
+  <p>Of all the nations on the planet, China is not the first place that comes to mind when the subject of green energy is on the table. Yet, China is trying. In 2014, wind farms created 23 percent more power than the previous year. Although China still relies heavily on coal for energy, the increase in clean energy gives some hope that the world’s most populated nation might someday be able to cap their contribution to global warming.</p>
 </blockquote>
+
+<p>Read the rest of China increases wind power by 23 percent in pursuit of clean energy goals</p>
+
+<p>Permalink |
+Add to
+del.icio.us | 
+digg</p>
+
+<p>Post tags: “wind power”, china carbon emissions, china clean energy, china green energy, china wind power, China wind power capacity, global warming, wind power increases 2014</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -742,30 +912,6 @@
   </div> -->
 
 
-  <h1><a href="/astronomy/2015/02/17/your-inner-jellyfish-origin-of-electrical-communication-in-human-brain-traced-back-600-million-years.html">Your Inner Jellyfish --Origin of Electrical Communication in Human Brain Traced Back 600 Million Years</a></h1>
-  <p class="author">
-   <!--  <span class="date">2015-02-17 16:02:38 +0000</span> -->
-
-  </p><br>
-  <!-- <div class="content">
-    <h4 id="extract">Extract</h4>
-<blockquote>
-  <p> 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  +</p>
-</blockquote>
-
-<h4 id="factsheet">Factsheet</h4>
-<blockquote>
-  <p>factsheet unavailable</p>
-</blockquote>
-
-<p><a href="http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/ndCoknUvXoM/your-inner-jellyfish-origin-of-electrical-communication-in-human-brain-traced-back-600-million-years.html">Visit Link</a></p>
-
-<p>id:   83467</p>
-
-  </div> -->
-
-
   <h1><a href="/energy/2015/02/17/researchers-glimpse-distortions-in-atomic-structure-of-materials.html">Researchers glimpse distortions in atomic structure of materials</a></h1>
   <p class="author">
    <!--  <span class="date">2015-02-17 13:01:30 +0000</span> -->
@@ -774,8 +920,13 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>+</p>
+
+  <p>Raleigh NC (SPX) Feb 17, 2015</p>
 </blockquote>
+
+<p>Researchers from North Carolina State University are using a technique they developed to observe minute distortions in the atomic structure of complex materials, shedding light on what causes these distortions and opening the door to studies on how such atomic-scale variations can influence a material’s properties.</p>
+
+<p>Researchers have known for years that the properties of complex materials,</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -797,8 +948,13 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>+</p>
+
+  <p>Glasgow, UK (SPX) Feb 17, 2015</p>
 </blockquote>
+
+<p>Communication security and metrology could be enhanced through a study of the role of quantum correlations in the distinguishability of physical processes, by researchers at the Universities of Strathclyde and Waterloo.</p>
+
+<p>The study involved analysing the impact of quantum steering - the way a measurement performed on a particle can affect another distant particle. The study authors devised a</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -866,8 +1022,18 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>+</p>
+
+  <p>Israeli alternative energy company Brenmiller Energy has solved one of the biggest issues with solar technology — how to generate electricity when the sun sets. The Tel Aviv-based company announced on Monday that it will build a 10-megawatt solar facility in the Negev desert city of Dimona that will generate renewable electricity for around 20 hours per day through an energy storage technology the company has been developing for the past three years. Biomass will be used as a backup during the four hours when the solar power system is not generating electricity.</p>
 </blockquote>
+
+<p>Read the rest of Israeli solar power plant to generate electricity around the clock</p>
+
+<p>Permalink |
+Add to
+del.icio.us | 
+digg</p>
+
+<p>Post tags: biomass, Brenmiller Energy, energy storage, Israel, solar, solar power plant Dimona</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -958,8 +1124,12 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>+</p>
+
+  <p>San Jose, Calif. (UPI) Feb 13, 2015</p>
 </blockquote>
+
+<p>A group of researchers at the American Association of the Advancement of Science conference on Friday  unveiled a working contact lens prototype with a built-in zoom feature. 
+ The contact lens is really two lenses in one - one lens for seeing the world as it is, another to magnify one’s surroundings by a factor of three. A single wink (the blink of one eye), will trigger the switch back</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -981,8 +1151,13 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>+</p>
+
+  <p>Saitama, Japan (SPX) Feb 15, 2015</p>
 </blockquote>
+
+<p>Traditional computational tools are simply not powerful enough to solve some complex optimisation problems, like, for example, protein folding. Quantum annealing, a potentially successful implementation of analogue quantum computing, would bring about an ultra-performant computational method.</p>
+
+<p>A series of reviews in this topical issue of EPJ ST, guest-edited by Sei Suzuki from Saitama Medic</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -1073,8 +1248,11 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>+</p>
+
 </blockquote>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	See the ground tracks of ESA spacecraft and satellites on our interactive map, including the final voyage of Europe's Automated Transfer Vehicle
+</code></pre></div></div>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -1119,8 +1297,22 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>Animated history of planetary detection, from 1750 to 2015. Credit and copyright: Hugh Osborn.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        +</p>
+  <p>Animated history of planetary detection, from 1750 to 2015. Credit and copyright: Hugh Osborn.
+The universe is an amazingly large place. It’s so large that we may sometimes feel as though we are lost in a vast, empty sea. But of course, the cosmos is anything but empty. The universe is populated with asteroids, planets, stars, black holes, and a plethora of other objects. This seems rather obvious; however, we didn’t always know this. In fact, we didn’t even discover Pluto until 1930. Then, for more than half a century, the universe was silent.
+The first exoplanet (a planet that orbits a star in another solar system) wasn’t detected until 1994. At this point, Dr. Alexander Wolszczan, a radio astronomer at Pennsylvania State University, reported what he called “unambiguous proof” of extrasolar planetary systems (of course, scientists believed that other planets existed before this, but believe and proof are terribly different). Notably, the first detection, the one made by Wolszczan, involved planets orbiting a pulsar. Due to the extreme radiation given off by these stellar objects, there was no chance of life existing on the first exoplanets that we discovered.
+Very shortly thereafter, a Swiss team led by Michel Mayor and Didier Queloz of Geneva announced the discovery of the first alien world orbiting a star like our own sun.  Mayor and Queloz’s work gave us hope—at last, we had found alien worlds that lived in a system that was at least somewhat akin to our own, making the likeness of alien life much more plausible.
+Then there was a torrent of planets. To date, we have discovered more than 1,000 alien worlds, with another 3,200 planetary candidates, 90 percent of which should end up being confirmed, according to mission scientists.
+This animation reveals just how empty our universe seemed only a few decades ago, and how populated it is now. The animation was made by Hugh Osborn, who is a PhD student at the University of Warwick.</p>
 </blockquote>
+
+<p>On his website, Osborne asserts, “The idea of this plot is to compare our own Solar System (with planets plotted in dark blue) against the newly-discovered extrasolar worlds. Think of this plot as a projection of all 1873 worlds onto our own solar system, with the Sun (and all other stars) at the far left. As you move out to the right, the orbital period of the planets increases, and correspondingly (thanks to Kepler’s Third Law), so does the distance from the star. Moving upwards means the mass of the worlds increase, from Moon-sized at the base to 10,000 times that of Earth at the top (30 Jupiter Masses).”
+So. How do we detect planets that are, potentially, thousands of light-years away? There are a few different ways. One way is the radial velocity method.
+As is the case with the Sun and the other planets in our solar system, other stars with orbiting planets behave strangely in response to the planet’s gravity. Subsequently, the slight gravitational perturbations not only cause the star’s orbit to shift, but they lead to variations in the speed we see the star moving in when it travels towards or away from Earth. This, in turn, results in a displacement in the parent star’s spectral lines; otherwise known as the Doppler effect.
+If we are trying to uncover stars that are farther away, we generally rely on the transit method. Unfortunately, this method doesn’t give us  information about the planets mass, but it does give us information about the radius of any orbiting planets.
+This works by observing the planet as it passes in front of its parent stars’ disk from our vantage point. When this happens, the planet obstructs a small amount of the star’s light. The amount of light that dims as this transit occurs is dependent upon the relative sizes of the star and any orbiting planet. Planetary transits are only observable for planets whose orbits happen to be perfectly aligned from our vantage point…however, it seemingly works best for scanning large areas of the sky with a multitude of stars at once.
+In recent years, astronomers have concocted several new ways we can suss out other planets. The methods include stellar fingerprinting.
+This method looks at the chemical composition of stars to see if it contains a decent amount of iron and other heavier elements. Current models (along with observation) tell us that most heavy elements and compounds are locked up in rocky bodies following the formation of planetary systems. Even more-so when protoplanets are involved. They are born once they accrete enough heavy material for a planet to coalesce; meaning that the material doesn’t make its way into stars, leaving them anemic (so to speak). Thus, scientists can merely view the chemical compositin of the star, looking to see just how much heavy elements individual stars have. The more, the less likely a planet was born. Less and the likelihood is greater, which gives astronomers a starting point.
+The post Watch 250 Years of Planetary Detection in 60 Seconds appeared first on From Quarks to Quasars.</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -1188,7 +1380,13 @@
   <!-- <div class="content">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>Earth may seem like it has a lot of diversity, and I suppose that it does. There are organisms that are smaller than the tip of a needle, and there a few that are the size of a building (like the blue whale), or a person (like the Nomura’s jellyfish) . But in truth, many things on our planet are really rather tame. At least, they are tame as far as our experiences go. Take temperature. This may vary by fifty degrees from winter to summer, give or take a little, but this really isn’t much of a difference in the grand scheme of things.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      +</p>
+  <p>Earth may seem like it has a lot of diversity, and I suppose that it does. There are organisms that are smaller than the tip of a needle, and there a few that are the size of a building (like the blue whale), or a person (like the Nomura’s jellyfish) . But in truth, many things on our planet are really rather tame. At least, they are tame as far as our experiences go. Take temperature. This may vary by fifty degrees from winter to summer, give or take a little, but this really isn’t much of a difference in the grand scheme of things.
+For example, the hottest temperature, known as “Planck Temperature,” hits more than 100 million million million million million degrees, or 1032 K. As it has been noted, “You just can’t put this kind of temperature into perspective. There’s simply no way to wrap your head around this number. Saying that 1032 K is hot is like saying that the universe occupies some space” — We can’t go any higher than this, because if we try to, physics breaks. Literally. Gravity grows as strong as the other fundamental forces and, in essence, they all become one force.
+That is what we are looking for: the math behind that one force. That is the theory of everything. A kind of quantum gravity. Unfortunately, for now, it is beyond us, and so the highest temperature remains the ceiling, as it were. But now I am getting  a bit off topic.
+The point, however, is that the hottest hot and the coldest cold will blow your mind, and you should check out this infographic to get a better idea of what hot and cold really mean. Scroll below for a link to a larger version:
+Image Credit: BBC
+Click here for a larger image
+The post The Coldest and Hottest Temperatures in the Known Universe (Infographic) appeared first on From Quarks to Quasars.</p>
 </blockquote>
 
 <h4 id="factsheet">Factsheet</h4>
@@ -1232,7 +1430,7 @@
   
     <a href="/page/57/" class="previous">Previous</a>
   
-  <span class="page_number ">Page: 58 of 79</span>
+  <span class="page_number ">Page: 58 of 80</span>
   
     <a href="/page/59/" class="next">Next</a>
   

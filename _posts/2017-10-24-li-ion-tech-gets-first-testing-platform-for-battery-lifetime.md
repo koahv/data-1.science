@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Li-ion Tech Gets First Testing Platform for Battery Lifetime"
-date:  2017-10-24 16:46:00 
-categories:  Energy      
+date: 2017-10-24 16:46:00
+categories: Energy
 author: unknown author
-tags:  storage,news                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+tags: [storage, news]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  storage,news
 
 [Visit Link](http://www.renewableenergyworld.com/articles/2017/10/li-ion-tech-get-first-testing-platform-for-battery-lifetime.html)
 
-id:  444107 
+id:  444107

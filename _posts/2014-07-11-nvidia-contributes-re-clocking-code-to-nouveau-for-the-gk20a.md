@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NVIDIA Contributes Re-Clocking Code To Nouveau For The GK20A"
-date:  2014-07-11 04:48:54 
-categories:  Linux       
+date: 2014-07-11 04:48:54
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTczOTg)
 
-id:   17940 
+id:   17940

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "European birdwatchers unravel how birds respond to climate change"
-date:  2015-10-21 04:00:00 
-categories:  Science     
+date: 2015-10-21 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/fos--ebu101915.php)
 
-id:  200455 
+id:  200455

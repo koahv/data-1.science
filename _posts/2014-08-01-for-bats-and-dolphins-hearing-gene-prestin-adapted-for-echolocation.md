@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "For bats and dolphins, hearing gene prestin adapted for echolocation"
-date:  2014-08-01 13:12:28 
-categories:  Science     
+date: 2014-08-01 13:12:28
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/k5Sf2UO7Knk/140801091228.htm)
 
-id:   30041 
+id:   30041

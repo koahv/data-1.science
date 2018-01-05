@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Volcanic bacteria take minimalist approach to survival"
-date:  2015-08-03 04:00:00 
-categories:  Science     
+date: 2015-08-03 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/uoo-vbt080315.php)
 
-id:  164462 
+id:  164462

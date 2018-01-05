@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "An optomechanical crystal to study interactions among colocalized photons and phonons"
-date:  2014-07-21 12:58:53 
-categories:  Science     
+date: 2014-07-21 12:58:53
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news325151923.html)
 
-id:   24399 
+id:   24399

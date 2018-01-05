@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earth's water is older than the sun"
-date:  2014-09-25 04:00:00 
-categories:  Science     
+date: 2014-09-25 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/ci-ewi092214.php)
 
-id:   51741 
+id:   51741

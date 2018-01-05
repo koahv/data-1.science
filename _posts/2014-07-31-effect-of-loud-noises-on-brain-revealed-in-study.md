@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Effect of loud noises on brain revealed in study"
-date:  2014-07-31 14:25:24 
-categories:  Science     
+date: 2014-07-31 14:25:24
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/COaIM1b5gOg/140731102524.htm)
 
-id:   28734 
+id:   28734

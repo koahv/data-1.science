@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Non-aqueous solvent supports DNA nanotechnology"
-date:  2015-05-27 10:50:01 
-categories:  Science     
+date: 2015-05-27 10:50:01
+categories: Science
 author: unknown author
-tags:  nanotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [nanotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanotechnology
 
 [Visit Link](http://phys.org/news351926390.html)
 
-id:  129301 
+id:  129301

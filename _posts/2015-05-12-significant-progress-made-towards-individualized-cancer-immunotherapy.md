@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Significant progress made towards individualized cancer immunotherapy"
-date:  2015-05-12 14:40:30 
-categories:  Science     
+date: 2015-05-12 14:40:30
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/SW340oWCvf4/150512104030.htm)
 
-id:  122250 
+id:  122250

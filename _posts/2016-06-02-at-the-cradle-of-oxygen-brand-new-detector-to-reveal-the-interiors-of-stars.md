@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "At the cradle of oxygen: Brand-new detector to reveal the interiors of stars"
-date:  2016-06-02 04:00:00 
-categories:  Astronomy   
+date: 2016-06-02 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/fopu-atc060216.php)
 
-id:  290910 
+id:  290910

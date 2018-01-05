@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dust from the Sahara Desert cools the Iberian Peninsula"
-date:  2015-04-29 12:54:30 
-categories:  Science     
+date: 2015-04-29 12:54:30
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Yq-62szpUxU/150429085430.htm)
 
-id:  116135 
+id:  116135

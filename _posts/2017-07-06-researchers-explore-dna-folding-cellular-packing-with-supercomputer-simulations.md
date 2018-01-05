@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers explore DNA folding, cellular packing with supercomputer simulations"
-date:  2017-07-06 14:51:43 
-categories:  Science     
+date: 2017-07-06 14:51:43
+categories: Science
 author: unknown author
-tags:  biochemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+tags: [biochemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biochemistry
 
 [Visit Link](https://phys.org/news/2017-07-explore-dna-cellular-supercomputer-simulations.html)
 
-id:  407347 
+id:  407347

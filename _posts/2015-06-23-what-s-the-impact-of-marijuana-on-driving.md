@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What's the impact of marijuana on driving?"
-date:  2015-06-23 22:04:08 
-categories:  Science     
+date: 2015-06-23 22:04:08
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150623180408.htm)
 
-id:  144259 
+id:  144259

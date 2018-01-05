@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Curiosity spots a heavy metal meteorite"
-date:  2014-07-16 13:20:07 
-categories:  Science     
+date: 2014-07-16 13:20:07
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news324718363.html)
 
-id:   21272 
+id:   21272

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers discover deepest high-temperature hydrothermal vents in Pacific Ocean"
-date:  2015-06-02 22:08:48 
-categories:  Science     
+date: 2015-06-02 22:08:48
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news352487317.html)
 
-id:  132896 
+id:  132896

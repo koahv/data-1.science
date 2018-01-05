@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evidence of ancient life discovered in mantle rocks deep below the seafloor"
-date:  2015-08-31 19:00:02 
-categories:  Science     
+date: 2015-08-31 19:00:02
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2015-08-evidence-ancient-life-mantle-deep.html)
 
-id:  177196 
+id:  177196

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Traffic control: What we can learn from ants"
-date:  2015-04-22 12:43:50 
-categories:  Science     
+date: 2015-04-22 12:43:50
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/uTs6ycMcONc/150422084350.htm)
 
-id:  112806 
+id:  112806

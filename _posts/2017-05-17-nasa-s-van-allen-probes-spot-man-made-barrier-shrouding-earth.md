@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Van Allen Probes spot man-made barrier shrouding Earth"
-date:  2017-05-17 04:00:00 
-categories:  Astronomy   
+date: 2017-05-17 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-05/nsfc-nva051717.php)
 
-id:  393287 
+id:  393287

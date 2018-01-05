@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The ABC's of animal speech: Not so random after all"
-date:  2014-08-20 05:55:03 
-categories:  Science     
+date: 2014-08-20 05:55:03
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news327718477.html)
 
-id:   42361 
+id:   42361

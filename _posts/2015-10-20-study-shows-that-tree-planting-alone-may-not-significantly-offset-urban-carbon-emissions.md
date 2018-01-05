@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study shows that tree planting alone may not significantly offset urban carbon emissions"
-date:  2015-10-20 15:41:20 
-categories:  Science     
+date: 2015-10-20 15:41:20
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2015-10-tree-significantly-offset-urban-carbon.html)
 
-id:  200210 
+id:  200210

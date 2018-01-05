@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Construction of the world's biggest solar telescope"
-date:  2015-02-10 10:08:30 
-categories:  Science     
+date: 2015-02-10 10:08:30
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/o1jPTe2tWGE/150210050830.htm)
 
-id:   80996 
+id:   80996

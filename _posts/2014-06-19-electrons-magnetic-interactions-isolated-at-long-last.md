@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Electrons' magnetic interactions isolated at long last"
-date:  2014-06-19 16:00:10 
-categories:  Science     
+date: 2014-06-19 16:00:10
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/WhFXtTrIqyE/electrons-magnetic-interactions-isolated-at-long-last)
 
-id:     280 
+id:     280

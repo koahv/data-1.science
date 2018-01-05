@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Keep your Distance: Why Humans Learned to Fear What's Approaching"
-date:  2014-06-23 18:40:38 
-categories:  Science     
+date: 2014-06-23 18:40:38
+categories: Science
 author: unknown author
-tags:  health & medicine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [health & medicine]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  health & medicine
 
 [Visit Link](http://www.scienceworldreport.com/articles/15616/20140623/keep-your-distance-why-humans-learned-to-fear-whats-approaching.htm)
 
-id:    3484 
+id:    3484

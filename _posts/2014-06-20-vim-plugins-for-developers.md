@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Vim plugins for developers"
-date:  2014-06-20 21:00:00 
-categories:  Linux       
+date: 2014-06-20 21:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/upload/vim-plugins-for-developers-140619094010.html)
 
-id:    1468 
+id:    1468

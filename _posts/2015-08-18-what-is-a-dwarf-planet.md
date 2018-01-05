@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What is A dwarf planet?"
-date:  2015-08-18 12:30:41 
-categories:  Science     
+date: 2015-08-18 12:30:41
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-dwarf-planet.html)
 
-id:  170935 
+id:  170935

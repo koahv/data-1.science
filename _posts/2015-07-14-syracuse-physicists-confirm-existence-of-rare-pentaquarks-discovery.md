@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Syracuse physicists confirm existence of rare pentaquarks discovery"
-date:  2015-07-14 04:00:00 
-categories:  Science     
+date: 2015-07-14 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/su-spc071415.php)
 
-id:  154583 
+id:  154583

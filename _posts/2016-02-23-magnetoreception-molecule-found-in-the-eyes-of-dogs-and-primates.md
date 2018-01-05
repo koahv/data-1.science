@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Magnetoreception molecule found in the eyes of dogs and primates"
-date:  2016-02-23 14:55:48 
-categories:  Science     
+date: 2016-02-23 14:55:48
+categories: Science
 author: unknown author
-tags:  plants & animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [plants & animals]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plants & animals
 
 [Visit Link](http://phys.org/news/2016-02-magnetoreception-molecule-eyes-dogs-primates.html)
 
-id:  254282 
+id:  254282

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Let's Encrypt Becomes Linux Foundation Collaborative Project"
-date:  2015-04-09 22:00:00 
-categories:  Linux       
+date: 2015-04-09 22:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/security/lets-encrypt-becomes-linux-foundation-collaborative-project.html)
 
-id:  107452 
+id:  107452

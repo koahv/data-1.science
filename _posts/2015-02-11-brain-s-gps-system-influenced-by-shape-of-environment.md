@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brain's GPS system influenced by shape of environment"
-date:  2015-02-11 19:12:36 
-categories:  Science     
+date: 2015-02-11 19:12:36
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/EUjLX6lsiDg/150211141236.htm)
 
-id:   81840 
+id:   81840

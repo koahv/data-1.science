@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why interval walking training is better than continuous walking training"
-date:  2014-08-05 00:21:38 
-categories:  Science     
+date: 2014-08-05 00:21:38
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/mxcEugHr8qo/140804202138.htm)
 
-id:   32398 
+id:   32398

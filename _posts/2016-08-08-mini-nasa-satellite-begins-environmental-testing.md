@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Mini NASA satellite begins environmental testing"
-date:  2016-08-08 04:00:00 
-categories:  Technology  
+date: 2016-08-08 15:53:13
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [space exploration]
 ---
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) Slightly larger than a cereal box, the Dellingr CubeSat will study the charged particles of Earth's outer atmosphere, which can drive changes in our space weather and impact satellites. Dellingr construction is complete, and rigorous spacecraft testing is about to begin.
+>Construction of NASA's Dellingr CubeSat - a miniature satellite that provides a low-cost platform for missions - is complete, and the satellite has just left the lab for environmental testing. This is a key step after any satellite has been built to make sure it can withstand intense vibrations, the extremes of hot and cold, and even the magnetic fields of space - all the rigorous conditions the CubeSat will encounter during launch and spaceflight.
 
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://www.eurekalert.org/pub_releases/2016-08/nsfc-mns080816.php)
+[Visit Link](http://phys.org/news/2016-08-mini-nasa-satellite-environmental.html)
 
-id:  312284 
+id:  312235

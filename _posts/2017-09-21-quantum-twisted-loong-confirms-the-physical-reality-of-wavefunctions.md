@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum twisted Loong confirms the physical reality of wavefunctions"
-date:  2017-09-21 04:00:00 
-categories:  Science     
+date: 2017-09-21 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/scp-qtl091917.php)
 
-id:  431137 
+id:  431137

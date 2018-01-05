@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What Is Static Electricity?"
-date:  2015-07-24 05:52:37 
-categories:  Science     
+date: 2015-07-24 05:52:37
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51656-static-electricity.html)
 
-id:  159942 
+id:  159942

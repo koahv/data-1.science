@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New benchmarks for molecular spectroscopy"
-date:  2015-08-05 12:34:39 
-categories:  Science     
+date: 2015-08-05 12:34:39
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-08-benchmarks-molecular-spectroscopy.html)
 
-id:  165013 
+id:  165013

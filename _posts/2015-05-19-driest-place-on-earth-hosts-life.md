@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Driest place on Earth hosts life"
-date:  2015-05-19 11:47:28 
-categories:  Science     
+date: 2015-05-19 11:47:28
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news351240437.html)
 
-id:  125195 
+id:  125195

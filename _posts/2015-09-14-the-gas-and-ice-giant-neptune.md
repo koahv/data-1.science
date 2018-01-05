@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The gas (and ice) giant Neptune"
-date:  2015-09-14 13:40:02 
-categories:  Science     
+date: 2015-09-14 13:40:02
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-gas-ice-giant-neptune.html)
 
-id:  184103 
+id:  184103

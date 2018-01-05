@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mercury's magnetic field is almost four billion years old"
-date:  2015-05-07 18:52:00 
-categories:  Science     
+date: 2015-05-07 18:52:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/doJM41Zrvxo/150507145200.htm)
 
-id:  120185 
+id:  120185

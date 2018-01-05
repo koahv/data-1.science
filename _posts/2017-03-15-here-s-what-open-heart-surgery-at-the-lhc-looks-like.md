@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Here's what open-heart surgery at the LHC looks like"
-date:  2017-03-15 11:50:01 
-categories:  Science     
+date: 2017-03-15 11:50:01
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-03-open-heart-surgery-lhc.html)
 
-id:  374290 
+id:  374290

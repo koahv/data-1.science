@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New lab technique reveals structure and function of proteins critical in DNA repair"
-date:  2015-04-17 04:00:00 
-categories:  Technology  
+date: 2015-04-17 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/uoic-nlt041715.php)
 
-id:  110970 
+id:  110970

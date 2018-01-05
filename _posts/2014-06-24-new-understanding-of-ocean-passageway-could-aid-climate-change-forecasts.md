@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New understanding of ocean passageway could aid climate change forecasts"
-date:  2014-06-24 11:50:08 
-categories:  Science     
+date: 2014-06-24 11:50:08
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news322813622.html)
 
-id:    4210 
+id:    4210

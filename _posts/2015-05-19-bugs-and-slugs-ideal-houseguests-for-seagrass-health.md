@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bugs and slugs ideal houseguests for seagrass health"
-date:  2015-05-19 21:55:41 
-categories:  Science     
+date: 2015-05-19 21:55:41
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news351276852.html)
 
-id:  125653 
+id:  125653

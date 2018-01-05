@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Neurons that help predict what another individual will do identified"
-date:  2015-02-26 18:20:46 
-categories:  Science     
+date: 2015-02-26 18:20:46
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/DyhLbKzoQLs/150226132046.htm)
 
-id:   88023 
+id:   88023

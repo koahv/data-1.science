@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "People in leadership positions may sacrifice privacy for security"
-date:  2014-07-16 13:07:52 
-categories:  Science     
+date: 2014-07-16 13:07:52
+categories: Science
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://phys.org/news324720459.html)
 
-id:   21279 
+id:   21279

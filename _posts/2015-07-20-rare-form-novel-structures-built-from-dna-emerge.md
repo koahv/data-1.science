@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Rare form: Novel structures built from DNA emerge"
-date:  2015-07-20 15:47:24 
-categories:  Science     
+date: 2015-07-20 15:47:24
+categories: Science
 author: unknown author
-tags:  bio & medicine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [bio & medicine]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  bio & medicine
 
 [Visit Link](http://phys.org/news/2015-07-rare-built-dna-emerge.html)
 
-id:  157728 
+id:  157728

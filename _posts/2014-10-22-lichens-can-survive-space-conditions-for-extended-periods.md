@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Lichens can survive space conditions for extended periods"
-date:  2014-10-22 12:49:00 
-categories:  Science     
+date: 2014-10-22 12:49:00
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news333186526.html)
 
-id:   55796 
+id:   55796

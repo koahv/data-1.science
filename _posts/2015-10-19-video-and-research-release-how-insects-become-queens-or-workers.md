@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Video and research release: How insects become queens or workers"
-date:  2015-10-19 04:00:00 
-categories:  Science     
+date: 2015-10-19 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/babs-var101915.php)
 
-id:  199863 
+id:  199863

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Stageless Deployment Pipelines: How Containers Change the Way We Build and Test Software"
-date:  2017-03-07 04:13:01 
-categories:  Linux       
-author:  DanGarfield                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-03-07 04:13:01
+categories: Linux
+author: DanGarfield
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/blog/stageless-deployment-pipelines-how-containers-change-way-we-build-and-test-software)
 
-id:  372087 
+id:  372087

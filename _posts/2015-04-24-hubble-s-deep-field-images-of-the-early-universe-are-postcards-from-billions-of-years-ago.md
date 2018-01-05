@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Hubble's deep field images of the early universe are postcards from billions of years ago"
-date:  2015-04-24 11:00:01 
-categories:  Science     
+date: 2015-04-24 11:00:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news349075733.html)
 
-id:  113972 
+id:  113972

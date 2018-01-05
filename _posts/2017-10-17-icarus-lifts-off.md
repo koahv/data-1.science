@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Icarus lifts off"
-date:  2017-10-17 13:50:03 
-categories:  Science     
+date: 2017-10-17 13:50:03
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-10-icarus.html)
 
-id:  440111 
+id:  440111

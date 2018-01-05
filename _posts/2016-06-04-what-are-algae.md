@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What Are Algae?"
-date:  2016-06-04 08:17:00 
-categories:  Science     
+date: 2016-06-04 08:17:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/54979-what-are-algae.html)
 
-id:  291559 
+id:  291559

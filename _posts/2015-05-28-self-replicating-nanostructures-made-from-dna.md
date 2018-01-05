@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Self-replicating nanostructures made from DNA"
-date:  2015-05-28 13:10:02 
-categories:  Science     
+date: 2015-05-28 13:10:02
+categories: Science
 author: unknown author
-tags:  nanotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [nanotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanotechnology
 
 [Visit Link](http://phys.org/news352007343.html)
 
-id:  130057 
+id:  130057

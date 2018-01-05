@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Twenty-five year hunt uncovers heart defect responsible for cardiovascular diseases"
-date:  2014-11-18 12:29:42 
-categories:  Science     
+date: 2014-11-18 12:29:42
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/b7Wz9ZIzlcU/141118072942.htm)
 
-id:   63942 
+id:   63942

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "EU decision process hinders use of genetically modified trees"
-date:  2016-02-24 05:00:00 
-categories:  Technology  
+date: 2016-02-24 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/vfi-edp022416.php)
 
-id:  254957 
+id:  254957

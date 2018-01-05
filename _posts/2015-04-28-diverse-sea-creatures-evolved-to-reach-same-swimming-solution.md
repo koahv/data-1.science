@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Diverse sea creatures evolved to reach same swimming solution"
-date:  2015-04-28 04:00:00 
-categories:  Science     
+date: 2015-04-28 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/p-dsc042415.php)
 
-id:  115643 
+id:  115643

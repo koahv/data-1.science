@@ -1,19 +1,44 @@
 ---
 layout: post
-title: "When the Visible Universe was Less than One Microsecond Old --Researchers Simulate Birth of the Cosmos"
-date:  2014-08-26 14:23:47 
-categories:  Astronomy   
-author:  dailygalaxy.com                                               
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+title: ""When the Visible Universe was Less than One Microsecond Old" --Researchers Simulate Birth of the Cosmos"
+date: 2014-08-26 14:23:47
+categories: Astronomy
+author: dailygalaxy.com
+tags: []
 ---
 
 
 #### Extract
->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   +
+> 
+ 
+
+ 
+When the universe was less than one microsecond old and more than one trillion degrees, it transformed from a plasma of quarks and gluons into bound states of quarks - also known as protons and neutrons, the fundamental building blocks of ordinary matter that make up most of the visible universe.
+Using a calculation originally proposed seven years ago to be performed on a petaflop computer, Lawrence Livermore researchers computed conditions that simulate the birth of the universe. The theory of quantum chromodynamics (QCD) governs the interactions of the strong nuclear force and predicts it should happen when such conditions occur.
+In a paper appearing in the Aug. 18 edition of Physical Review Letters, Lawrence Livermore scientists Chris Schroeder, Ron Soltz and Pavlos Vranas calculated the properties of the QCD phase transition using LLNL's Vulcan, a five-petaflop machine. This work was done within the LLNL-led HotQCD Collaboration, involving Los Alamos National Laboratory, Institute for Nuclear Theory, Columbia University, Central China Normal University, Brookhaven National Laboratory and Universität Bielefed in Germany.
+ 
+
+ 
+This is the first time that this calculation has been performed in a way that preserves a certain fundamental symmetry of the QCD, in which the right and left-handed quarks (scientists call this chirality) can be interchanged without altering the equations. These important symmetries are easy to describe, but they are computationally very challenging to implement.
+"But with the invention of petaflop computing, we were able to calculate the properties with a theory proposed years ago when petaflop-scale computers weren't even around yet," Soltz said.
+The research has implications for our understanding of the evolution of the universe during the first microsecond after the Big Bang, when the universe expanded and cooled to a temperature below 10 trillion degrees.
+Below this temperature, quarks and gluons are confined, existing only in hadronic bound states such as the familiar proton and neutron. Above this temperature, these bound states cease to exist and quarks and gluons instead form plasma, which is strongly coupled near the transition and coupled more and more weakly as the temperature increases.
+"The result provides an important validation of our understanding of the strong interaction at high temperatures, and aids us in our interpretation of data collected at the Relativistic Heavy Ion Collider at Brookhaven National Laboratory and the Large Hadron Collider at CERN." Soltz said.
+Soltz and Pavlos Vranas, along with former colleague Thomas Luu, wrote an essay predicting that if there were powerful enough computers, the QCD phase transition could be calculated. The essay was published in Computing in Science &amp; Engineering in 2007, "back when a petaflop really did seem like a lot of computing," Soltz said. "With the invention of petaflop computers, the calculation took us several months to complete, but the 2007 estimate turned out to be pretty close."
+The extremely computationally intensive calculation was made possible through a Grand Challenge allocation of time on the Vulcan Blue Gene/Q Supercomputer at Lawrence Livermore National Laboratory.
+The Daily Galaxy via Anne M Stark, LLNL
+Image credits: NASA/Hubble Deep Field
+Related articles
+
+"Is the Cosmos a Vast Computer Simulation?" New Theory May Offer Clues
+'New Physics' Observations Challenge Standard Model of Universe
+First Indirect Evidence of So-Far Undetected Strange Baryons
+The 'Strange' Particle Between the Ordered Universe and Perfect Chaos
+
 
 #### Factsheet
 >factsheet unavailable
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/xY-m8POTMy0/when-the-visible-universe-was-less-than-one-microsecond-old-researchers-simulate-birth-of-the-cosmos.html)
 
-id:   46460 
+id:   46460

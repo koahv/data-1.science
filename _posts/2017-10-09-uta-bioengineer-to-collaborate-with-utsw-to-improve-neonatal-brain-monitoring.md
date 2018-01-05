@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "UTA bioengineer to collaborate with UTSW to improve neonatal brain monitoring"
-date:  2017-10-09 04:00:00 
-categories:  Science     
+date: 2017-10-09 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uota-ubt100917.php)
 
-id:  437139 
+id:  437139

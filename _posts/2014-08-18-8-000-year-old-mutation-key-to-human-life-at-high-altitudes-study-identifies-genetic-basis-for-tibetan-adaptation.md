@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "8,000-year-old mutation key to human life at high altitudes: Study identifies genetic basis for Tibetan adaptation"
-date:  2014-08-18 01:58:46 
-categories:  Science     
+date: 2014-08-18 01:58:46
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/2LqIW1Rbvtw/140817215846.htm)
 
-id:   40710 
+id:   40710

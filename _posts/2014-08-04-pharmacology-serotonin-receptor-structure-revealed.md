@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pharmacology: Serotonin receptor structure revealed"
-date:  2014-08-04 16:29:38 
-categories:  Science     
+date: 2014-08-04 16:29:38
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/4TRIjm738Jg/140804122938.htm)
 
-id:   32534 
+id:   32534

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Rivers, lakes impact ability of forests to store carbon"
-date:  2015-12-21 20:00:10 
-categories:  Science     
+date: 2015-12-21 20:00:10
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2015-12-rivers-lakes-impact-ability-forests.html)
 
-id:  227811 
+id:  227811

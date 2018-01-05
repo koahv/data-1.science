@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NIST adds to quantum computing toolkit with mixed-atom logic operations"
-date:  2015-12-16 05:00:00 
-categories:  Technology  
+date: 2015-12-16 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/nios-nat121415.php)
 
-id:  225750 
+id:  225750

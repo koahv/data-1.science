@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Artificial intelligence computer designed to drive autonomous cars"
-date:  2017-10-11 10:49:44 
-categories:  Science     
+date: 2017-10-11 10:49:44
+categories: Science
 author: unknown author
-tags:  hardware                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+tags: [hardware]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  hardware
 
 [Visit Link](https://phys.org/news/2017-10-artificial-intelligence-autonomous-cars.html)
 
-id:  437516 
+id:  437516

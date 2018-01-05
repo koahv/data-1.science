@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Core work: Iron vapor gives clues to formation of Earth and Moon"
-date:  2015-03-02 16:00:08 
-categories:  Science     
+date: 2015-03-02 16:00:08
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news344512173.html)
 
-id:   89384 
+id:   89384

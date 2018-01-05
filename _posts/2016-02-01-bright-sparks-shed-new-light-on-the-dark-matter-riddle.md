@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bright sparks shed new light on the dark matter riddle"
-date:  2016-02-01 05:00:00 
-categories:  Astronomy   
+date: 2016-02-01 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/s-bss020116.php)
 
-id:  243912 
+id:  243912

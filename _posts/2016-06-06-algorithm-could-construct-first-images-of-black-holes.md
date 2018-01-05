@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Algorithm could construct first images of black holes"
-date:  2016-06-06 04:00:00 
-categories:  Technology  
+date: 2016-06-06 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/miot-acc060616.php)
 
-id:  291903 
+id:  291903

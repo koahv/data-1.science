@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pigments, organelles persist in fossil feathers"
-date:  2015-08-27 04:00:00 
-categories:  Science     
+date: 2015-08-27 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/bu-pop082515.php)
 
-id:  175336 
+id:  175336

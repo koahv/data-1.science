@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Upgrading the CERN LHC's CMS experiment detector"
-date:  2017-03-24 11:37:33 
-categories:  Science     
+date: 2017-03-24 11:37:33
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-03-cern-lhc-cms-detector.html)
 
-id:  377173 
+id:  377173

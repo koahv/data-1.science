@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Flowers' secret signal to bees and other amazing nanotechnologies hidden in plants"
-date:  2017-10-19 12:10:01 
-categories:  Science     
+date: 2017-10-19 12:10:01
+categories: Science
 author: unknown author
-tags:  plants & animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [plants & animals]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plants & animals
 
 [Visit Link](https://phys.org/news/2017-10-secret-bees-amazing-nanotechnologies-hidden.html)
 
-id:  441283 
+id:  441283

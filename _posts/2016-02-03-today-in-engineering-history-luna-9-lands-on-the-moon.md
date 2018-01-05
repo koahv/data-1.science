@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Today in Engineering History: Luna 9 Lands on the Moon"
-date:  2016-02-03 16:45:14 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-02-03 16:45:14
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/02/today-engineering-history-luna-9-lands-moon)
 
-id:  245282 
+id:  245282

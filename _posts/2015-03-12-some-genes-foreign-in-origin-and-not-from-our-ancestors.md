@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Some genes 'foreign' in origin and not from our ancestors"
-date:  2015-03-12 16:00:07 
-categories:  Science     
+date: 2015-03-12 16:00:07
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news345367056.html)
 
-id:   94479 
+id:   94479

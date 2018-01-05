@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Report highlights opportunities and risks associated with synthetic biology and bioengineering"
-date:  2017-11-21 05:00:00 
-categories:  Science     
+date: 2017-11-21 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [agriculture, biology, biotech, plant sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/uoc-rho112117.php)
 
-id:  456939 
+id:  456939

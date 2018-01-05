@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Watch: Bird Mimics Caterpillar (and Other Animal Imposters)"
-date:  2015-01-24 11:46:24 
-categories:  Science     
-author:  Jason Bittel                                                  
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-01-24 11:46:24
+categories: Science
+author: Jason Bittel
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/lLn-F0ZSmZw/)
 
-id:   74900 
+id:   74900

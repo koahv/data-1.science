@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Barcoding tool for stem cells developed"
-date:  2014-10-05 17:49:11 
-categories:  Science     
+date: 2014-10-05 17:49:11
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/OMKntrwrQEI/141005134911.htm)
 
-id:   53439 
+id:   53439

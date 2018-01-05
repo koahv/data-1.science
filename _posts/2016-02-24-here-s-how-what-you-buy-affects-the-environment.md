@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Here's how what you buy affects the environment"
-date:  2016-02-24 12:26:21 
-categories:  Science     
+date: 2016-02-24 12:26:21
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2016-02-affects-environment.html)
 
-id:  254773 
+id:  254773

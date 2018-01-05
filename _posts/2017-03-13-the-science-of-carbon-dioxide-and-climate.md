@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The science of carbon dioxide and climate"
-date:  2017-03-13 13:21:58 
-categories:  Science     
+date: 2017-03-13 13:21:58
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](https://phys.org/news/2017-03-science-carbon-dioxide-climate.html)
 
-id:  373501 
+id:  373501

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA confirms evidence that liquid water flows on today's Mars (Update)"
-date:  2015-09-28 15:15:37 
-categories:  Science     
+date: 2015-09-28 15:15:37
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-evidence-brine-mars.html)
 
-id:  190370 
+id:  190370

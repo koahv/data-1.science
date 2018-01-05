@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Chinese scientists search for evidence of dark matter particles with new underground PandaX detector"
-date:  2014-07-22 04:00:00 
-categories:  Science     
+date: 2014-07-22 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/scp-css072214.php)
 
-id:   26213 
+id:   26213

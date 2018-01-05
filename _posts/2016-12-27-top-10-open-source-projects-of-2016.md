@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Top 10 Open Source Projects of 2016"
-date:  2016-12-27 09:00:00 
-categories:  Linux       
-author:  OpenSource.com                                                
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-12-27 09:00:00
+categories: Linux
+author: OpenSource.com
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/top-10-open-source-projects-2016)
 
-id:  352523 
+id:  352523

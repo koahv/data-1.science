@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Explainer: How does our sun shine?"
-date:  2014-08-28 13:50:02 
-categories:  Science     
+date: 2014-08-28 13:50:02
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news328435136.html)
 
-id:   47562 
+id:   47562

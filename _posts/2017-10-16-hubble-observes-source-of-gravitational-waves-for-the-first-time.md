@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Hubble observes source of gravitational waves for the first time"
-date:  2017-10-16 04:00:00 
-categories:  Science     
+date: 2017-10-16 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/eic-hos101617.php)
 
-id:  439678 
+id:  439678

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Targeting DNA"
-date:  2015-09-21 04:00:00 
-categories:  Technology  
+date: 2015-09-21 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/miot-td092115.php)
 
-id:  187229 
+id:  187229

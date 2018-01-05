@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers explore how chewing affects teeth on the nanoscale"
-date:  2017-10-25 06:28:37 
-categories:  Science     
+date: 2017-10-25 06:28:37
+categories: Science
 author: unknown author
-tags:  nanomaterials                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [nanomaterials]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanomaterials
 
 [Visit Link](https://phys.org/news/2017-10-explore-affects-teeth-nanoscale.html)
 
-id:  444391 
+id:  444391

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bullying: What we know based on 40 years of research"
-date:  2015-05-14 13:52:37 
-categories:  Science     
+date: 2015-05-14 13:52:37
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/aEeXwdLf31o/150514095237.htm)
 
-id:  123350 
+id:  123350

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mercury MESSENGER nears epic mission end"
-date:  2015-04-19 08:40:01 
-categories:  Science     
+date: 2015-04-19 08:40:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news348632096.html)
 
-id:  111263 
+id:  111263

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Monster move completes Earth's biggest radio telescope"
-date:  2014-06-17 16:37:00 
-categories:  Astronomy   
+date: 2014-06-17 16:37:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.newscientist.com/c/749/f/10898/s/3b984510/sc/32/l/0L0Snewscientist0N0Carticle0Cdn257410Emonster0Emove0Ecompletes0Eearths0Ebiggest0Eradio0Etelescope0Bhtml0Dcmpid0FRSS0QNSNS0Q20A120EGLOBAL0Qspace/story01.htm)
 
-id:     630 
+id:     630

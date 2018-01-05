@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Kiwi bird genome sequenced"
-date:  2015-07-23 00:00:01 
-categories:  Science     
+date: 2015-07-23 00:00:01
+categories: Science
 author: unknown author
-tags:  plants & animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tags: [plants & animals]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plants & animals
 
 [Visit Link](http://phys.org/news/2015-07-kiwi-bird-genome-sequenced.html)
 
-id:  159126 
+id:  159126

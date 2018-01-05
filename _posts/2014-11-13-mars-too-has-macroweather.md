@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Mars, too, has macroweather"
-date:  2014-11-13 05:00:00 
-categories:  Science     
+date: 2014-11-13 05:00:00
+categories: Science
+Science
+Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +18,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-11/mu-mth111314.php)
 
-id:   61821 
+id:   61821

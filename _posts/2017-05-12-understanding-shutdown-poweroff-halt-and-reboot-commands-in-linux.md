@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Understanding Shutdown, Poweroff, Halt and Reboot Commands in Linux"
-date:  2017-05-12 08:32:17 
-categories:  Linux       
-author:  Aaron Kili                                                    
-tags:  linux commands,linux tricks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+date: 2017-05-12 08:32:17
+categories: Linux
+author: Aaron Kili
+tags: [linux commands, linux tricks]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands,linux tricks
 
 [Visit Link](https://www.tecmint.com/shutdown-poweroff-halt-and-reboot-commands-in-linux/)
 
-id:  391927 
+id:  391927

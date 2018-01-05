@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mercury's Magnetic Field Was Once As Strong As Earth's - Study - Design & Trend"
-date:  2015-05-10 00:33:02 
-categories:  Earth       
+date: 2015-05-10 00:33:02
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEQxBIh-huCiVOGjM_hH3fmVcsILg&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778832321000&ei=KeZOVaDgFIKT3gGcwYGQBg&url=http://www.designntrend.com/articles/50443/20150509/magnetic-field-mercury-formed-4-billion-years-ago-same-time.htm)
 
-id:  121013 
+id:  121013

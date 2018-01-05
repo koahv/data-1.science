@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What is lunar regolith?"
-date:  2015-05-29 13:40:03 
-categories:  Science     
+date: 2015-05-29 13:40:03
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news352110458.html)
 
-id:  130745 
+id:  130745

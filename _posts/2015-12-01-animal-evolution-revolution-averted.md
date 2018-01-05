@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Animal evolution: Revolution averted"
-date:  2015-12-01 05:00:00 
-categories:  Science     
+date: 2015-12-01 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/lm-aer120115.php)
 
-id:  218643 
+id:  218643

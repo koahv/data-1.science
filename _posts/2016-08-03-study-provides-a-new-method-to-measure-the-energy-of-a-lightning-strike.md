@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study provides a new method to measure the energy of a lightning strike"
-date:  2016-08-03 04:00:00 
-categories:  Science     
+date: 2016-08-03 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/uosf-spa080216.php)
 
-id:  310799 
+id:  310799

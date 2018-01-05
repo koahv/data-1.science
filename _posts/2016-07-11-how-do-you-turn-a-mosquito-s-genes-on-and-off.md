@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How do you turn a mosquito's genes on and off?"
-date:  2016-07-11 04:00:00 
-categories:  Science     
+date: 2016-07-11 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/uab-hdy071116.php)
 
-id:  303400 
+id:  303400

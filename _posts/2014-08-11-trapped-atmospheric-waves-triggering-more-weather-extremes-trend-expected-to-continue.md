@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Trapped atmospheric waves triggering more weather extremes: Trend expected to continue"
-date:  2014-08-11 21:01:06 
-categories:  Science     
+date: 2014-08-11 21:01:06
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/fdrqEFge2vA/140811170106.htm)
 
-id:   36865 
+id:   36865

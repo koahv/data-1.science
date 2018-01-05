@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Biology in a twist -- deciphering the origins of cell behavior"
-date:  2015-03-30 04:00:00 
-categories:  Science     
+date: 2015-03-30 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/nuos-bia033015.php)
 
-id:  102869 
+id:  102869

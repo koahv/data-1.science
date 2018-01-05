@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA soil moisture mission begins science operations"
-date:  2015-05-20 11:30:02 
-categories:  Science     
+date: 2015-05-20 11:30:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news351324934.html)
 
-id:  125930 
+id:  125930

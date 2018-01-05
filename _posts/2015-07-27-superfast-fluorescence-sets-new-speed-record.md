@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Superfast fluorescence sets new speed record"
-date:  2015-07-27 04:00:00 
-categories:  Technology  
+date: 2015-07-27 09:00:01
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [nanophysics]
 ---
 
 
 #### Extract
->(Duke University) Researchers at Duke University have developed a plasmonic device that, combined with semiconductor quantum dots, could one day be turned into an ultrafast light-emitting diode for optical computing.
+>Researchers have developed an ultrafast light-emitting device that can flip on and off 90 billion times a second and could form the basis of optical computing.
 
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://www.eurekalert.org/pub_releases/2015-07/du-sfs072315.php)
+[Visit Link](http://phys.org/news/2015-07-superfast-fluorescence.html)
 
-id:  160841 
+id:  160838

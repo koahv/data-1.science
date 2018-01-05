@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Two Large Hadron Collider experiments first to observe rare subatomic process"
-date:  2015-05-13 18:55:09 
-categories:  Science     
+date: 2015-05-13 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
 #### Extract
->Two experiments at the Large Hadron Collider at the European Organization for Nuclear Research (CERN) in Geneva, Switzerland, have combined their results and observed a previously unseen subatomic process.
+>(DOE/Fermi National Accelerator Laboratory) Two experiments at the Large Hadron Collider at the European Organization for Nuclear Research (CERN) in Geneva, Switzerland, have combined their results and observed a previously unseen subatomic process.
 
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/B-edWfIDm04/150513145509.htm)
+[Visit Link](http://www.eurekalert.org/pub_releases/2015-05/dnal-tlh051315.php)
 
-id:  122913 
+id:  122809

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Environment and climate helped shape varied evolution of human languages"
-date:  2015-11-04 14:00:06 
-categories:  Science     
+date: 2015-11-04 14:00:06
+categories: Science
 author: unknown author
-tags:  social sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [social sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  social sciences
 
 [Visit Link](http://phys.org/news/2015-11-environment-climate-varied-evolution-human.html)
 
-id:  206787 
+id:  206787

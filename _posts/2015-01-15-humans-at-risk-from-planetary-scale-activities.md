@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Humans at risk from planetary-scale activities"
-date:  2015-01-15 05:00:00 
-categories:  Science     
+date: 2015-01-15 05:00:00
+categories: Science
+Science
+Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +18,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/anu-har011515.php)
 
-id:   72042 
+id:   72042

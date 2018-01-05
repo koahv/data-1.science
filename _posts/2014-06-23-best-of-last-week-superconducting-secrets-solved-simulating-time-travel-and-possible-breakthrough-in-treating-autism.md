@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Best of Last Week – Superconducting secrets solved, simulating time travel and possible breakthrough in treating autism"
-date:  2014-06-23 12:30:02 
-categories:  Science     
+date: 2014-06-23 12:30:02
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news322727428.html)
 
-id:    2566 
+id:    2566

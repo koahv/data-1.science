@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "3-D models of neuronal networks reveal organizational principles of sensory cortex"
-date:  2015-05-05 19:21:38 
-categories:  Science     
+date: 2015-05-05 19:21:38
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/W9UOp9ycEgM/150505152138.htm)
 
-id:  118970 
+id:  118970

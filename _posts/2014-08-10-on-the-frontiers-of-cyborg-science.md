@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "On the frontiers of cyborg science"
-date:  2014-08-10 09:28:49 
-categories:  Science     
+date: 2014-08-10 09:28:49
+categories: Science
 author: unknown author
-tags:  nanotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [nanotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanotechnology
 
 [Visit Link](http://phys.org/news326867181.html)
 
-id:   35661 
+id:   35661

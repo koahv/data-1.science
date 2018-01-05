@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pulling the strings of our genetic puppetmasters: Engineers gain control of gene activity"
-date:  2015-04-06 15:00:01 
-categories:  Science     
+date: 2015-04-06 15:00:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news347535983.html)
 
-id:  105304 
+id:  105304

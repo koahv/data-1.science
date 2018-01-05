@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A microscopic approach to the magnetic sensitivity of animals"
-date:  2015-06-04 04:00:00 
-categories:  Technology  
+date: 2015-06-04 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/uot-ama060415.php)
 
-id:  133859 
+id:  133859

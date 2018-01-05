@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World record: Most powerful high-energy particle beam for a neutrino experiment ever generated"
-date:  2015-07-08 17:44:00 
-categories:  Science     
+date: 2015-07-08 17:44:00
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news355581828.html)
 
-id:  151511 
+id:  151511

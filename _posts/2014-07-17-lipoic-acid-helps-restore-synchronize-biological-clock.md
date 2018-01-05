@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Lipoic acid helps restore, synchronize 'biological clock'"
-date:  2014-07-17 16:50:49 
-categories:  Science     
+date: 2014-07-17 16:50:49
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/JFYXNdnFZU4/140717125049.htm)
 
-id:   22687 
+id:   22687

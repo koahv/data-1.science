@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Astronomers closer to proving gravitational waves with precise measurements of rapidly rotating neutron star"
-date:  2014-06-27 15:27:14 
-categories:  Science     
+date: 2014-06-27 15:27:14
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/kDZC5PcmTKs/140627112714.htm)
 
-id:    8680 
+id:    8680

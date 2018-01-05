@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Image: Test mirror segments for the James Webb Space Telescope"
-date:  2015-08-18 10:00:02 
-categories:  Science     
+date: 2015-08-18 10:00:02
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-image-mirror-segments-james-webb.html)
 
-id:  170831 
+id:  170831

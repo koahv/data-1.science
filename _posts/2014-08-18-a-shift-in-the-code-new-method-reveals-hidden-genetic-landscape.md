@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A shift in the code: New method reveals hidden genetic landscape"
-date:  2014-08-18 02:01:00 
-categories:  Science     
+date: 2014-08-18 02:01:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/xYS3dBTWLUc/140817220100.htm)
 
-id:   40697 
+id:   40697

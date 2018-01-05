@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "JPL scientists predict future space probes will have artificial intelligence to operate autonomously"
-date:  2017-06-22 12:50:03 
-categories:  Science     
+date: 2017-06-22 12:50:03
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-06-jpl-scientists-future-space-probes.html)
 
-id:  403310 
+id:  403310

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New insights into the impacts of ocean acidification"
-date:  2016-09-14 14:13:58 
-categories:  Science     
+date: 2016-09-14 14:13:58
+categories: Science
 author: unknown author
-tags:  environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  environment
 
 [Visit Link](http://phys.org/news/2016-09-insights-impacts-ocean-acidification.html)
 
-id:  323725 
+id:  323725

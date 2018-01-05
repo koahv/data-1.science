@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers use single molecule of DNA to create world's smallest diode"
-date:  2016-04-04 04:00:00 
-categories:  Technology  
+date: 2016-04-04 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/uog-rus040416.php)
 
-id:  270178 
+id:  270178

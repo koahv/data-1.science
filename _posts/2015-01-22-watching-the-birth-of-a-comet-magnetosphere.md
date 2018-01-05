@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Watching the birth of a comet magnetosphere"
-date:  2015-01-22 19:18:02 
-categories:  Science     
+date: 2015-01-22 19:18:02
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Y-am4eug4YM/150122141802.htm)
 
-id:   74786 
+id:   74786

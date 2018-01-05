@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "MAVEN's top 10 discoveries at Mars"
-date:  2017-06-16 04:00:00 
-categories:  Astronomy   
+date: 2017-06-16 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-06/nsfc-mt1061617.php)
 
-id:  401809 
+id:  401809

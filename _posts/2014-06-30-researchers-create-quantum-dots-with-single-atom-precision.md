@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers create quantum dots with single-atom precision"
-date:  2014-06-30 10:28:12 
-categories:  Science     
+date: 2014-06-30 10:28:12
+categories: Science
 author: unknown author
-tags:  nanotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [nanotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanotechnology
 
 [Visit Link](http://phys.org/news323328458.html)
 
-id:    9804 
+id:    9804

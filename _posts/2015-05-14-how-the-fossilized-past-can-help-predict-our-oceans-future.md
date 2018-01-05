@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How the fossilized past can help predict our oceans' future"
-date:  2015-05-14 11:51:27 
-categories:  Science     
+date: 2015-05-14 11:51:27
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news350808675.html)
 
-id:  123244 
+id:  123244

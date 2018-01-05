@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Schizophrenia and cannabis use may share common genes"
-date:  2014-06-24 04:00:00 
-categories:  Science     
+date: 2014-06-24 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/kcl-sac062314.php)
 
-id:    4040 
+id:    4040

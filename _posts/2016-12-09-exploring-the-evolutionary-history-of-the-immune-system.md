@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Exploring the evolutionary history of the immune system"
-date:  2016-12-09 05:00:00 
-categories:  Science     
+date: 2016-12-09 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-12/c-ub-ete120916.php)
 
-id:  348232 
+id:  348232

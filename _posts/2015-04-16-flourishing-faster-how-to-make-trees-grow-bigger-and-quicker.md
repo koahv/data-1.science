@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Flourishing faster: How to make trees grow bigger and quicker"
-date:  2015-04-16 12:33:55 
-categories:  Science     
+date: 2015-04-16 12:33:55
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/bxLqy_hsXDI/150416083355.htm)
 
-id:  110241 
+id:  110241

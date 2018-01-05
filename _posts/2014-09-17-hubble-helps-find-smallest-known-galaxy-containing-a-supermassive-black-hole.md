@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Hubble helps find smallest known galaxy containing a supermassive black hole"
-date:  2014-09-17 04:00:00 
-categories:  Technology  
+date: 2014-09-17 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/nsfc-hhf091714.php)
 
-id:   48548 
+id:   48548

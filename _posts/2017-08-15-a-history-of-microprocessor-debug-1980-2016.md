@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A History of Microprocessor Debug, 1980–2016"
-date:  2017-08-15 08:30:56 
-categories:  Linux       
-author:  Embedded.com                                                  
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-08-15 08:30:56
+categories: Linux
+author: Embedded.com
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/history-microprocessor-debug-1980-2016)
 
-id:  419376 
+id:  419376

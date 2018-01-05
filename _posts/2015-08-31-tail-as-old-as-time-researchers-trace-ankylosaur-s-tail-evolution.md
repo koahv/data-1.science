@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tail as old as time—researchers trace ankylosaur's tail evolution"
-date:  2015-08-31 13:24:29 
-categories:  Science     
+date: 2015-08-31 13:24:29
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-08-tail-timeresearchers-ankylosaur-evolution.html)
 
-id:  176986 
+id:  176986

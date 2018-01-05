@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Chemists develop a promising drug synthesis method"
-date:  2017-10-18 09:57:36 
-categories:  Science     
+date: 2017-10-18 09:57:36
+categories: Science
 author: unknown author
-tags:  materials science                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [materials science]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  materials science
 
 [Visit Link](https://phys.org/news/2017-10-chemists-drug-synthesis-method.html)
 
-id:  440609 
+id:  440609

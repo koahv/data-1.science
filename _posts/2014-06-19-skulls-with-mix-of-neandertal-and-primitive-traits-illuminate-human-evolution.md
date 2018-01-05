@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Skulls with mix of Neandertal and primitive traits illuminate human evolution"
-date:  2014-06-19 04:00:00 
-categories:  Science     
+date: 2014-06-19 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/aaft-swm061314.php)
 
-id:    2777 
+id:    2777

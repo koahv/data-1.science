@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Exploring the Higgs boson's dark side"
-date:  2015-07-21 11:41:33 
-categories:  Science     
+date: 2015-07-21 11:41:33
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-07-exploring-higgs-boson-dark-side.html)
 
-id:  158026 
+id:  158026

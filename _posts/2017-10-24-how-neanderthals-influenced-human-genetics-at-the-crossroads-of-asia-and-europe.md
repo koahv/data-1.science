@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How Neanderthals influenced human genetics at the crossroads of Asia and Europe"
-date:  2017-10-24 04:00:00 
-categories:  Science     
+date: 2017-10-24 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uab-hni102417.php)
 
-id:  444109 
+id:  444109

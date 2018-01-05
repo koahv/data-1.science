@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers tracking the epic Serengeti migration reveal that humans have greater impact than food or predators"
-date:  2014-08-07 13:10:01 
-categories:  Science     
+date: 2014-08-07 13:10:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news326620529.html)
 
-id:   34100 
+id:   34100

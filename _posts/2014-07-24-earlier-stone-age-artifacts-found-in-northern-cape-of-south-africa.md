@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earlier Stone Age artifacts found in Northern Cape of South Africa"
-date:  2014-07-24 04:00:00 
-categories:  Science     
+date: 2014-07-24 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/uot-esa072414.php)
 
-id:   27651 
+id:   27651

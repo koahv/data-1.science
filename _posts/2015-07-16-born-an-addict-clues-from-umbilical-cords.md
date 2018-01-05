@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Born an addict: Clues from umbilical cords"
-date:  2015-07-16 16:47:46 
-categories:  Science     
+date: 2015-07-16 16:47:46
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150716124746.htm)
 
-id:  156288 
+id:  156288

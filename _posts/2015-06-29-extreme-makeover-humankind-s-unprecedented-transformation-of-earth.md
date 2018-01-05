@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Extreme makeover: Humankind's unprecedented transformation of Earth"
-date:  2015-06-29 12:01:58 
-categories:  Science     
+date: 2015-06-29 12:01:58
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150629080158.htm)
 
-id:  146721 
+id:  146721

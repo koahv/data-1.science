@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Elon Musk's high-speed Hyperloop train makes more sense for Mars than ... - Phys.Org"
-date:  2015-07-13 12:30:15 
-categories:  Astronomy   
+date: 2015-07-13 12:30:15
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFkvB6DERLG_GwMhm_uHBgqJr4dCw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778899967300&ei=ZV-kVdOpFMb_3QGNtIGgCw&url=http://phys.org/news/2015-07-elon-musk-high-speed-hyperloop-mars.html)
 
-id:  154095 
+id:  154095

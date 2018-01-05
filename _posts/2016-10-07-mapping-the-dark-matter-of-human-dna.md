@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mapping the 'dark matter' of human DNA"
-date:  2016-10-07 04:00:00 
-categories:  Technology  
+date: 2016-10-07 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/su-mt100716.php)
 
-id:  330274 
+id:  330274

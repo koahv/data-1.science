@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Expanding the DNA alphabet: 'Extra' DNA base found to be stable in mammals"
-date:  2015-06-22 15:00:11 
-categories:  Science     
+date: 2015-06-22 15:00:11
+categories: Science
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  chemistry
 
 [Visit Link](http://phys.org/news354170766.html)
 
-id:  143104 
+id:  143104

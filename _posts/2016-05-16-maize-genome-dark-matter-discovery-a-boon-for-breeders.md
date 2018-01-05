@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Maize genome 'dark matter' discovery a boon for breeders"
-date:  2016-05-16 04:00:00 
-categories:  Science     
+date: 2016-05-16 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/cu-mg051616.php)
 
-id:  285183 
+id:  285183

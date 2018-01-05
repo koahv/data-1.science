@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How DNA alarm-system works"
-date:  2015-03-30 04:00:00 
-categories:  Science     
+date: 2015-03-30 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/lmsu-hda033015.php)
 
-id:  102356 
+id:  102356

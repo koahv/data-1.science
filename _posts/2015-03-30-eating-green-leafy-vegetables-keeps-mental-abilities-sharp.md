@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Eating green leafy vegetables keeps mental abilities sharp"
-date:  2015-03-30 15:22:27 
-categories:  Science     
+date: 2015-03-30 15:22:27
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/OYtRvcApUTI/150330112227.htm)
 
-id:  102299 
+id:  102299

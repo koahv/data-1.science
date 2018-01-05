@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World-largest petawatt laser completed, delivering 2,000 trillion watts output"
-date:  2015-08-06 04:00:00 
-categories:  Technology  
+date: 2015-08-06 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/ou-wpl080615.php)
 
-id:  165867 
+id:  165867

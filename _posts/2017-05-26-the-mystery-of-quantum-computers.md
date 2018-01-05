@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The mystery of quantum computers"
-date:  2017-05-26 11:31:41 
-categories:  Science     
+date: 2017-05-26 11:31:41
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-05-mystery-quantum.html)
 
-id:  395892 
+id:  395892

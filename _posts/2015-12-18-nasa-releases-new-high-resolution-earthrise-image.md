@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Releases New High-Resolution Earthrise Image"
-date:  2015-12-18 16:01:44 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-12-18 16:01:44
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/12/nasa-releases-new-high-resolution-earthrise-image)
 
-id:  227150 
+id:  227150

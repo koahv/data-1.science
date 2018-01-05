@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First steps in formation of pancreatic cancer identified"
-date:  2014-11-10 16:01:06 
-categories:  Science     
+date: 2014-11-10 16:01:06
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/UgzvW34ZtPE/141110110106.htm)
 
-id:   59959 
+id:   59959

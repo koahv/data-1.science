@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Top 10 IoT Application Areas – Based on Real IoT Projects"
-date:  2016-08-18 07:00:00 
-categories:  Linux       
-author:  IoT Analytics                                                 
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-08-18 07:00:00
+categories: Linux
+author: IoT Analytics
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/top-10-iot-application-areas-based-real-iot-projects)
 
-id:  315574 
+id:  315574

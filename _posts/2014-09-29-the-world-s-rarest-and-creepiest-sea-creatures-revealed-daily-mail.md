@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The world's rarest and creepiest sea creatures revealed - Daily Mail"
-date:  2014-09-29 10:50:50 
-categories:  Earth       
+date: 2014-09-29 10:50:50
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHUgDeBtXZ2Q1z2i8Qam2USrwJueg&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778619777554&ei=rZsyVLOHIunqwAHHtYC4CA&url=http://www.dailymail.co.uk/travel/article-2767859/The-world-s-rarest-creepiest-sea-creatures-revealed.html)
 
-id:   51863 
+id:   51863

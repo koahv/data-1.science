@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Five myths about gravitational waves"
-date:  2015-09-07 11:30:02 
-categories:  Science     
+date: 2015-09-07 11:30:02
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2015-09-myths-gravitational.html)
 
-id:  180506 
+id:  180506

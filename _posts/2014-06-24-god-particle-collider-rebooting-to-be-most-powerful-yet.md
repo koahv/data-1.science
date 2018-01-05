@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "God Particle Collider Rebooting to Be Most Powerful Yet"
-date:  2014-06-24 12:36:23 
-categories:  Science     
-author:  Christine Dell''Amore in Copenhagen                           
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+title: ""God Particle" Collider Rebooting to Be Most Powerful Yet"
+date: 2014-06-24 12:36:23
+categories: Science
+author: Christine Dell''Amore in Copenhagen
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/D3T4fUvZ5pk/)
 
-id:    4242 
+id:    4242

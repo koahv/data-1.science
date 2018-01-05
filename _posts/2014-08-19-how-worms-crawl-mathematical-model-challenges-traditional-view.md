@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How worms crawl: mathematical model challenges traditional view"
-date:  2014-08-19 15:30:56 
-categories:  Science     
+date: 2014-08-19 15:30:56
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/o2ihyt0camo/140819113056.htm)
 
-id:   42651 
+id:   42651

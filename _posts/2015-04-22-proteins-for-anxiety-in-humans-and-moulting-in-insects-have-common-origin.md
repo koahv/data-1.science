@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Proteins for anxiety in humans and moulting in insects have common origin"
-date:  2015-04-22 00:00:01 
-categories:  Science     
+date: 2015-04-22 00:00:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news348855151.html)
 
-id:  112504 
+id:  112504

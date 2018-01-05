@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Sweeping over the south pole of Mars"
-date:  2015-09-11 09:34:00 
-categories:  Science     
+date: 2015-09-11 09:34:00
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-south-pole-mars.html)
 
-id:  182861 
+id:  182861

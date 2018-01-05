@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cayman Islands to deploy genetically modified mosquitoes"
-date:  2016-05-06 06:38:49 
-categories:  Science     
+date: 2016-05-06 06:38:49
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2016-05-cayman-islands-deploy-genetically-mosquitoes_1.html)
 
-id:  281864 
+id:  281864

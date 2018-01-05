@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Spots Supermassive Black Hole Ejecting Stream of Super Fast Gas"
-date:  2014-06-20 13:18:39 
-categories:  Science     
+date: 2014-06-20 13:18:39
+categories: Science
 author: unknown author
-tags:  space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space
 
 [Visit Link](http://www.scienceworldreport.com/articles/15562/20140620/nasa-spots-supermassive-black-hole-ejecting-stream-super-fast-gas.htm)
 
-id:    1644 
+id:    1644

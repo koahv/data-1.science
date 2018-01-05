@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to convert US to 100 percent renewable energy"
-date:  2015-06-09 13:30:25 
-categories:  Science     
+date: 2015-06-09 13:30:25
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150609093025.htm)
 
-id:  136196 
+id:  136196

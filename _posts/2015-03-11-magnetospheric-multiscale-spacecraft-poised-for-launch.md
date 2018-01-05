@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Magnetospheric Multiscale Spacecraft Poised for Launch"
-date:  2015-03-11 15:37:11 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-03-11 15:37:11
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/03/magnetospheric-multiscale-spacecraft-poised-launch)
 
-id:   93915 
+id:   93915

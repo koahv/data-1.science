@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The roots of human altruism"
-date:  2014-08-27 14:53:27 
-categories:  Science     
+date: 2014-08-27 14:53:27
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news328355576.html)
 
-id:   46636 
+id:   46636

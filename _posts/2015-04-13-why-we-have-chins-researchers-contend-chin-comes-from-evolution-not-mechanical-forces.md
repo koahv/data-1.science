@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why we have chins: Researchers contend chin comes from evolution, not mechanical forces"
-date:  2015-04-13 21:11:20 
-categories:  Science     
+date: 2015-04-13 21:11:20
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news348163865.html)
 
-id:  108746 
+id:  108746

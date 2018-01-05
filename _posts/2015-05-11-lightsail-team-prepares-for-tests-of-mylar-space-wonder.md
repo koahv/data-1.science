@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "LightSail team prepares for tests of mylar space wonder"
-date:  2015-05-11 21:42:20 
-categories:  Science     
+date: 2015-05-11 21:42:20
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news350584917.html)
 
-id:  121632 
+id:  121632

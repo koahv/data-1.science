@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What is Mars made of?"
-date:  2015-02-26 15:20:02 
-categories:  Science     
+date: 2015-02-26 15:20:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news344165345.html)
 
-id:   87971 
+id:   87971

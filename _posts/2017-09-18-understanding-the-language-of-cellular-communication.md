@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Understanding the language of cellular communication"
-date:  2017-09-18 11:10:03 
-categories:  Science     
+date: 2017-09-18 11:10:03
+categories: Science
 author: unknown author
-tags:  cell & microbiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [cell & microbiology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cell & microbiology
 
 [Visit Link](https://phys.org/news/2017-09-language-cellular.html)
 
-id:  429850 
+id:  429850

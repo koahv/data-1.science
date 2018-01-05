@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The quantum fridge"
-date:  2016-02-01 13:51:42 
-categories:  Science     
+date: 2016-02-01 13:51:42
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-02-quantum-fridge.html)
 
-id:  243951 
+id:  243951

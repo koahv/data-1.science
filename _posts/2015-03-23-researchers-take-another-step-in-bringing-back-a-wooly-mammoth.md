@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers take another step in bringing back a wooly mammoth"
-date:  2015-03-23 14:21:37 
-categories:  Science     
+date: 2015-03-23 14:21:37
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news346324889.html)
 
-id:   99106 
+id:   99106

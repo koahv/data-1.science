@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "GamingOnLinux Interviews Feral Interactive About XCOM & Linux Game Development"
-date:  2014-06-26 11:21:13 
-categories:  Linux VG    
+date: 2014-06-26 11:21:13
+categories: Linux VG
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.gamingonlinux.com/articles/gamingonlinux-interviews-feral-interactive-about-xcom-linux-game-development.3946/)
 
-id:    7323 
+id:    7323

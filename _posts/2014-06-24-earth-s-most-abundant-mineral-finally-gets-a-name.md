@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earth’s Most Abundant Mineral Finally Gets a Name"
-date:  2014-06-24 12:36:23 
-categories:  Science     
-author:  Brian Clark Howard                                            
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-06-24 12:36:23
+categories: Science
+author: Brian Clark Howard
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/3jXqNcFifJc/)
 
-id:    4259 
+id:    4259

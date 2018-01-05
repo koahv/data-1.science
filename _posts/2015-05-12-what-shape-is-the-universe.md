@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What shape is the universe?"
-date:  2015-05-12 12:26:05 
-categories:  Science     
+date: 2015-05-12 12:26:05
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news350637956.html)
 
-id:  121901 
+id:  121901

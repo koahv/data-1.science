@@ -5,20 +5,21 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Begin Jekyll SEO tag v2.3.0 -->
+  <!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>Optimize SSL/TLS for Maximum Security and Speed | data-1.science</title>
+<meta name="generator" content="Jekyll v3.6.2" />
 <meta property="og:title" content="Optimize SSL/TLS for Maximum Security and Speed" />
 <meta name="author" content="Michael Boelen" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Extract Optimize SSL/TLS for Maximum Security and Speed +" />
-<meta property="og:description" content="Extract Optimize SSL/TLS for Maximum Security and Speed +" />
+<meta name="description" content="Extract Optimize SSL/TLS for Maximum Security and Speed" />
+<meta property="og:description" content="Extract Optimize SSL/TLS for Maximum Security and Speed" />
 <link rel="canonical" href="http://localhost:4000/linux/2015/03/12/optimize-ssl-tls-for-maximum-security-and-speed.html" />
 <meta property="og:url" content="http://localhost:4000/linux/2015/03/12/optimize-ssl-tls-for-maximum-security-and-speed.html" />
 <meta property="og:site_name" content="data-1.science" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-03-12T19:19:11+00:00" />
 <script type="application/ld+json">
-{"name":null,"description":"Extract Optimize SSL/TLS for Maximum Security and Speed +","url":"http://localhost:4000/linux/2015/03/12/optimize-ssl-tls-for-maximum-security-and-speed.html","headline":"Optimize SSL/TLS for Maximum Security and Speed","dateModified":"2015-03-12T19:19:11+00:00","datePublished":"2015-03-12T19:19:11+00:00","sameAs":null,"@type":"BlogPosting","author":{"@type":"Person","name":"Michael Boelen"},"image":null,"publisher":null,"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/linux/2015/03/12/optimize-ssl-tls-for-maximum-security-and-speed.html"},"@context":"http://schema.org"}</script>
+{"description":"Extract Optimize SSL/TLS for Maximum Security and Speed","url":"http://localhost:4000/linux/2015/03/12/optimize-ssl-tls-for-maximum-security-and-speed.html","headline":"Optimize SSL/TLS for Maximum Security and Speed","dateModified":"2015-03-12T19:19:11+00:00","datePublished":"2015-03-12T19:19:11+00:00","@type":"BlogPosting","author":{"@type":"Person","name":"Michael Boelen"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/linux/2015/03/12/optimize-ssl-tls-for-maximum-security-and-speed.html"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   <link rel="stylesheet" href="/assets/main.css">
@@ -81,15 +82,122 @@
         Mar 12, 2015
       </time>
       
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Michael Boelen</span></span>
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Michael Boelen • Tags:  performance,  system administration,  web,  ssl,  sslv2,  sslv3,  tls,  tls1.0,  tls1.1,  tls1.2, 
+</span></span>
       </p>
-  </header>
+ 
+   </header>
 
   <div class="post-content" itemprop="articleBody">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>Optimize SSL/TLS for Maximum Security and Speed                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              +</p>
+  <p>Optimize SSL/TLS for Maximum Security and Speed</p>
 </blockquote>
+
+<p>High Goal Setting
+Recently we changed our corporate website into a “HTTPS only” version. Most of the content is not secret information, still we have some sensitive areas. The ordering section and downloads, and additional our portal. While some areas were already covered with a lock, we felt it was time to make the jump to cover it all.
+Additionally, we believe that we doing everything we can on our website, practicing security hardening ourselves. So that includes buying a SSL certificate, configure our web servers and finally tune it. In this article we share what we learned while doing so.
+Nginx Configuration
+For the purpose of demonstration, we will show some snippets in this article. While most of it is focused on nginx, the general rules can be applied to others like Apache. In any case, don’t simply copy snippets, but test them carefully and understand what they are doing.
+Let’s start hardening and tuning!
+Disable old protocols
+SSL version 2 and 3 are insecure. Several weaknesses in the last years showed that you should no longer use these. Also for companies who need to be PCI DSS compliant, are enforced to remove support for SSLv3.</p>
+<h1 id="only-allow-tls">Only allow TLS</h1>
+<p> 
+ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
+Select right ciphers
+Ciphers are part of the full conversation, deciding how the connection is initiated and maintained, but also how data is encrypted and protected.
+Selecting the right ciphers is not easy. All kind of vulnerabilities showed that selecting a wrong cipher can weaken your security defenses. Instead, use the great page of Mozilla, which helps you selecting the right cipher set, tuned to modern browsers.</p>
+<h1 id="use-specific-ciphers-and-let-server-decide-which-one-to">Use specific ciphers and let server decide which one to</h1>
+<p>use.
+ 
+ssl_ciphers ‘long string of ciphers’;
+ssl_prefer_server_ciphers on;
+Exotic HTTPS features
+Last years several new concepts have been introduced, to make the web a safer place.
+HTTPS configured with HTST, HPKP and forward secrecy.
+Forward secrecy
+The easy explanation for this feature, is ensuring that in the event of a private key is exposed, previous recorded messages can not be decrypted. The more technical background is that no additional keys can be gathered, when another key is compromised.
+Next Protocol Negotiation
+NPN is an extension to the TLS protocol, to set the transport protocol. In this case we have activated SPDY version 3.1. Configuration of this item will follow in sections below.
+OCSP stapling
+Instead of just relying on clients checking for a revocation list, we can help saving a lot of bandwidth with OCSP stapling. The server will do the checking instead and stamp it with a recent check. This way the client knows the certificate is still valid.
+HTST
+HTST, or HTTP Strict Transport Security, helps the browser to save a preferred protocol (HTTPS). This means that after a redirect from HTTP to HTTPS, the browser next time remembers to go directly to HTTPS. This helps with ensuring the right protocol is used, while limiting unneeded redirects at the same time.</p>
+
+<h1 id="redirect-other-domains-including-wwwdomaincom">Redirect other domains, including www.domain.com</h1>
+<p>server {
+  listen 80;
+  index index.html index.htm;
+  server_name *.domain.com *.other-domain.com;
+  add_header “Cache-Control” “public, max-age=31536000”;
+  return 301 https://domain.com;
+}</p>
+
+<p>See also the previous article about HTST.
+Public Key Pinning
+HTTP Public Key Pinning, or HPKP is a way to glue a hostname and a public key (of the certificate). This is done at the level of the browser, which have static lists.
+Performance
+On the web every second counts. So where possible, allow clients to cache data and do compression.
+Compression
+First level of performance tuning is sending less data on the line, with the help of file compression. For this the common used gzip module is used, which all modern browsers understand as well.
+So we enable gzip, define what gets compressed, how much and how much buffering we use.</p>
+<h1 id="turn-on-gzip-and-disable-it-for-msie6">Turn on gzip and disable it for MSIE6</h1>
+<p>gzip on;
+gzip_disable “msie6”;
+ </p>
+<h1 id="also-zip-proxied-requests">Also zip proxied requests</h1>
+<p>gzip_proxied any;</p>
+<h1 id="compression-level-only-do-zipping-if-minimum-length-is-1100-bytes">Compression level, only do zipping if minimum length is 1100 bytes</h1>
+<p>gzip_comp_level 6;
+gzip_min_length 1100;
+gzip_buffers 16 8k;</p>
+<h1 id="define-gzip-for-specific-types-we-dont-zip-fonts">Define gzip for specific types (we don’t zip fonts)</h1>
+<p>gzip_types text/plain text/css application/json application/x-javascript text/xml application/xml application/xml+rss text/javascript;</p>
+<h1 id="enabled-insert-vary-accept-encoding-header">Enabled (insert Vary: Accept-Encoding header)</h1>
+<p>gzip_vary on;
+Caching
+While compression is great, it is even better if we limit the amount of requests to our server. We want after all security AND performance.
+While browsers are already smart in knowing which files have been changed, it still sends out requests.
+Firefox network analyzer showing caching of objects
+The orange triangles show that requests have been done and returned with a 304 (not modified). The green circle is a successful 200 response (Ok) of the main test page.
+So we want to reduce the amount of requests to a bare minimum. So we picked an expire date of 1 week. Long enough for normal users which return on a regular basis, while not caching entries too long. After all, when releasing new content, we want to push that to the client.</p>
+
+<p>location ~* .(?:css|js) {
+   root /data/website/;
+   expires 1w;
+   add_header Cache-Control public;
+   add_header Vary Accept-Encoding;
+   access_log off;
+ }</p>
+
+<p>This configuration sets both an encoding (for compression) and sets caching to 1 week. That means that only once a week a new copy of the file is retrieved, unless the user forces a new download (CTRL+F5). Since we don’t care about logging the request of CSS and Javascript files, we don’t log it. Another slight performance win in that area as well.
+HTTPS tuning
+When it comes to HTTPS, a slow connection is usually caused due to the slow handshake. The main reason is network latency, in combination with the amount of packets needed to finish the handshake. The more packets, the longer it takes.
+Enable SPDY
+Enabling SPDY is easy, just add it to the listen statement. Note, you need a recent version of nginx.
+listen 443 spdy;
+listen [::]:443 default ipv6only=on spdy;
+Advertise also the availability of SPDY, by adding a header to the location block.
+add_header Alternative-Protocol 443:npn-spdy/3.1;
+Turn off SPDY compression
+To counter the CRIME exploit, turn off compression.</p>
+<h1 id="turn-off-spdy-compression">Turn off SPDY compression</h1>
+<p>spdy_headers_comp 0;
+Conclusion
+After all this tuning, we can learn a few things:
+SSL versus TLS
+SSL is old and insecure. Therefore version 2 and 3 should be disabled. TLS is fine, with TLSv1.1 and TLSv1.2 being preferred. TLSv1 might be still needed, for older browsers or some tooling (e.g. some versions of wget).
+Use SPDY
+Until the HTTP/2 protocol is there, make use of SPDY to enhance the speed of HTTPS.
+Security AND Performance
+Instead of security battling against performance, the combination is possible. Test your SSL configuration with SSL Labs. Use the GZIP module for nginx for maximum compression. Finally, use website speed testing tools like Pingdom to determine any bottlenecks.
+Other resources
+Submit certificate key pinning: https://hstspreload.appspot.com/
+Chrome
+Internal link for Chrome to check HTST database: chrome://net-internals/#htst
+ 
+The post Optimize SSL/TLS for Maximum Security and Speed appeared first on Linux Audit.</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -105,10 +213,38 @@
 <hr>
 <p>
 <div class="relatedPosts">
+<b>Related Content (if any)</b>
 
 
 
 
+
+  
+
+    
+    
+
+    
+
+    
+
+  
+
+    
+    
+
+    
+
+    
+
+  
+
+    
+    
+
+    
+
+    
 
   
 

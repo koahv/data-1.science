@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Genes exhibit different behaviours in different stages of development"
-date:  2014-10-22 12:42:52 
-categories:  Science     
+date: 2014-10-22 12:42:52
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/tFN75_PaE3I/141022084252.htm)
 
-id:   56586 
+id:   56586

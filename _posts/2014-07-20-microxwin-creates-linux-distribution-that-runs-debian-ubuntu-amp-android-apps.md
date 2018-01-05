@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "MicroxWin Creates Linux Distribution That Runs Debian/Ubuntu &amp; Android Apps"
-date:  2014-07-20 13:39:00 
-categories:  Linux       
-author:  samzenpus                                                     
-tags:  ubuntu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+date: 2014-07-20 13:39:00
+categories: Linux
+author: samzenpus
+tags: [ubuntu]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  ubuntu
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdotLinux/~3/PIHbYtYbwvs/story01.htm)
 
-id:   23966 
+id:   23966

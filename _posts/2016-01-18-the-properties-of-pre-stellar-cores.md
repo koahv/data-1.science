@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The properties of pre-stellar cores"
-date:  2016-01-18 12:29:01 
-categories:  Science     
+date: 2016-01-18 12:29:01
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2016-01-properties-pre-stellar-cores.html)
 
-id:  237674 
+id:  237674

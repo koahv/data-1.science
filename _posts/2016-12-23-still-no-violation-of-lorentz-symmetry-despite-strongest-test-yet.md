@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Still no violation of Lorentz symmetry, despite strongest test yet"
-date:  2016-12-23 14:10:03 
-categories:  Science     
+date: 2016-12-23 14:10:03
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2016-12-violation-lorentz-symmetry-strongest.html)
 
-id:  352031 
+id:  352031

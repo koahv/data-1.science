@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "OSHA, Others Create New Industrial Robotics Standards Body"
-date:  2017-10-06 14:05:34 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-10-06 14:05:34
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2017/10/osha-others-create-new-industrial-robotics-standards-body)
 
-id:  436709 
+id:  436709

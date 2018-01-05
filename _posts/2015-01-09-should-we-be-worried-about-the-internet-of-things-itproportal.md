@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Should we be worried about the Internet of Things? - ITProPortal"
-date:  2015-01-09 18:18:09 
-categories:  Tech        
+date: 2015-01-09 18:18:09
+categories: Tech
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=uk&usg=AFQjCNEy88PbKknJ5ej13nwk6PfvQB0SnA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778704494389&ei=JSywVMHhHrKKwgGKwIDYCQ&url=http://www.itproportal.com/2015/01/09/worried-internet-things/)
 
-id:   70854 
+id:   70854

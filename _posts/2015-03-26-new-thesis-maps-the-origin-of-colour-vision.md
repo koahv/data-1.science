@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New thesis maps the origin of colour vision"
-date:  2015-03-26 12:40:01 
-categories:  Science     
+date: 2015-03-26 12:40:01
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news346576080.html)
 
-id:  100827 
+id:  100827

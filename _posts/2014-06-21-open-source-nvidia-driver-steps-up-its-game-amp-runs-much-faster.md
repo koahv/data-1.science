@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Open-Source NVIDIA Driver Steps Up Its Game &amp; Runs Much Faster"
-date:  2014-06-21 12:27:00 
-categories:  Linux       
-author:  timothy                                                       
-tags:  graphics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+date: 2014-06-21 12:27:00
+categories: Linux
+author: timothy
+tags: [graphics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  graphics
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdotLinux/~3/VC6bi1vjM4o/story01.htm)
 
-id:     975 
+id:     975

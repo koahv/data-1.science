@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Babies learn words differently as they age, researcher finds"
-date:  2014-09-17 18:14:31 
-categories:  Science     
+date: 2014-09-17 18:14:31
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/_qtBhkfZI5Q/140917141431.htm)
 
-id:   50271 
+id:   50271

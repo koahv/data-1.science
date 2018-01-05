@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New chip architecture may provide foundation for quantum computer"
-date:  2015-05-05 15:00:03 
-categories:  Science     
+date: 2015-05-05 15:19:32
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: []
 ---
 
 
@@ -14,6 +14,6 @@ tags:  physics
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://phys.org/news350040441.html)
+[Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/kWeTavfPfgI/150505111932.htm)
 
-id:  118796 
+id:  118719

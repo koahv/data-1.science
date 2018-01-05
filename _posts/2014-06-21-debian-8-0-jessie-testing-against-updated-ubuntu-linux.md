@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Debian 8.0 Jessie Testing Against Updated Ubuntu Linux"
-date:  2014-06-21 14:30:00 
-categories:  Linux       
+date: 2014-06-21 14:30:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/vr.php?view=20572)
 
-id:    1489 
+id:    1489

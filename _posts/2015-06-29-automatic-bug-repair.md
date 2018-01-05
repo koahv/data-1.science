@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Automatic bug repair"
-date:  2015-06-29 04:00:00 
-categories:  Technology  
+date: 2015-06-29 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/miot-abr062915.php)
 
-id:  147006 
+id:  147006

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Conifers' helicoptering seeds are result of long evolutionary experiment"
-date:  2015-03-17 18:25:15 
-categories:  Science     
+date: 2015-03-17 18:25:15
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/mZy2_ViulAc/150317142515.htm)
 
-id:   96710 
+id:   96710

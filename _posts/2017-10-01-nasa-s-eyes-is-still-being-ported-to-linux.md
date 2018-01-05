@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Eyes Is Still Being Ported To Linux"
-date:  2017-10-01 11:26:37 
-categories:  Linux       
+date: 2017-10-01 11:26:37
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=NASA-Eyes-Still-Linux-Port)
 
-id:  434203 
+id:  434203

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum Computing May Mean Quantum Robotics: The Creative and Smart Robots of the Future"
-date:  2014-10-06 14:14:19 
-categories:  Science     
+date: 2014-10-06 14:14:19
+categories: Science
 author: unknown author
-tags:  tech                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+tags: [tech]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  tech
 
 [Visit Link](http://www.scienceworldreport.com/articles/17722/20141006/quantum-computing-mean-robotics-creative-smart-robots-future.htm)
 
-id:   53091 
+id:   53091

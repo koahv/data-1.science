@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Extremely rare footage of a tuatara hatching captured on film (w/ Video)"
-date:  2014-10-23 10:50:02 
-categories:  Science     
+date: 2014-10-23 10:50:02
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news333264244.html)
 
-id:   57040 
+id:   57040

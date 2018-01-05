@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pairing up single atoms in silicon for quantum computing - Phys.Org"
-date:  2014-06-16 11:39:23 
-categories:  Technology  
+date: 2014-06-16 11:39:23
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHlAM9RAZ7cvDqBRcGbnsfOgaDIKw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778536972087&ei=Ci60U7C0E9HzggeDi4HAAw&url=http://phys.org/news/2014-06-pairing-atoms-silicon-quantum.html)
 
-id:   12023 
+id:   12023

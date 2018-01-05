@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Particle jets reveal the secrets of the most exotic state of matter"
-date:  2015-03-11 04:00:00 
-categories:  Science     
+date: 2015-03-11 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/thni-pjr031115.php)
 
-id:   93900 
+id:   93900

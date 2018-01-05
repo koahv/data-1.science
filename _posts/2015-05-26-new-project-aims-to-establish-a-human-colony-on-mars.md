@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New project aims to establish a human colony on Mars"
-date:  2015-05-26 10:34:45 
-categories:  Science     
+date: 2015-05-26 10:34:45
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news351840875.html)
 
-id:  128624 
+id:  128624

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Forbidden atomic transitions: Controlling matter 1,000 times more precisely using high-resolution spectroscopy"
-date:  2015-03-02 17:33:41 
-categories:  Science     
+date: 2015-03-02 17:33:41
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/1-49Bbav-1k/150302123341.htm)
 
-id:   89515 
+id:   89515

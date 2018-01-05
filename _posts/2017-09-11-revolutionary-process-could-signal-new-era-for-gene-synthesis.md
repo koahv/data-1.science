@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Revolutionary process could signal new era for gene synthesis"
-date:  2017-09-11 04:00:00 
-categories:  Science     
+date: 2017-09-11 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/uos-rpc091117.php)
 
-id:  427510 
+id:  427510

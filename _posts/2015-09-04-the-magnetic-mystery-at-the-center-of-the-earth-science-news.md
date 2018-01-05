@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The magnetic mystery at the center of the Earth - Science News"
-date:  2015-09-04 15:00:15 
-categories:  Earth       
+date: 2015-09-04 15:00:15
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEgZvWrYZ5sDPwrwi-0KtSYKmKXOg&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=90zqVeiBAsvH3gGm1qJY&url=https://www.sciencenews.org/article/magnetic-mystery-center-earth)
 
-id:  179919 
+id:  179919

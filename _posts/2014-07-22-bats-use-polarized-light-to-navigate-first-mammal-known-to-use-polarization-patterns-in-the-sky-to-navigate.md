@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bats use polarized light to navigate: First mammal known to use polarization patterns in the sky to navigate"
-date:  2014-07-22 15:18:38 
-categories:  Science     
+date: 2014-07-22 15:18:38
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/URk4Tzy0pfQ/140722111838.htm)
 
-id:   25694 
+id:   25694

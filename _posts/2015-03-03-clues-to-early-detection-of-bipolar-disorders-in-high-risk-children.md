@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Clues to early detection of bipolar disorders in high-risk children"
-date:  2015-03-03 12:47:12 
-categories:  Science     
+date: 2015-03-03 12:47:12
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/qr5_16wvLlw/150303074712.htm)
 
-id:   90079 
+id:   90079

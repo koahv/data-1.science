@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Google’s Open Source Fuchsia OS: The Mystery Linux Distro"
-date:  2016-09-29 13:40:05 
-categories:  Linux       
-author:  Sam Dean                                                      
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-09-29 13:40:05
+categories: Linux
+author: Sam Dean
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/googles-open-source-fuchsia-os-mystery-linux-distro)
 
-id:  327673 
+id:  327673

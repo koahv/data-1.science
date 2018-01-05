@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pluto's moon Nix"
-date:  2015-09-04 12:13:43 
-categories:  Science     
+date: 2015-09-04 12:13:43
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-pluto-moon-nix.html)
 
-id:  179590 
+id:  179590

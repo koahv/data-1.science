@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Infographic: NASA Completes SLS Booster Test"
-date:  2016-06-28 15:47:38 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-06-28 15:47:38
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/06/infographic-nasa-completes-sls-booster-test)
 
-id:  300399 
+id:  300399

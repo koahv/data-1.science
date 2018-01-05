@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Russia finds two 'well-preserved' dinosaur skeletons"
-date:  2014-06-23 16:55:04 
-categories:  Science     
+date: 2014-06-23 16:55:04
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news322746894.html)
 
-id:    3286 
+id:    3286

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient genomes reveal that the English are one-third Anglo-Saxon"
-date:  2016-01-19 05:00:00 
-categories:  Science     
+date: 2016-01-19 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/wtsi-agr011516.php)
 
-id:  238411 
+id:  238411

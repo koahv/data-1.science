@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "400-million-year-old fish fossil reveals jaw structure linked to humans"
-date:  2017-08-16 11:36:21 
-categories:  Science     
+date: 2017-08-16 11:36:21
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](https://phys.org/news/2017-08-million-year-old-fish-fossil-reveals-jaw.html)
 
-id:  419708 
+id:  419708

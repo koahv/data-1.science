@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Seeing without eyes: Octopus's skin possesses the same cellular mechanism for detecting light as its eyes do"
-date:  2015-05-20 23:39:53 
-categories:  Science     
+date: 2015-05-20 23:39:53
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/2j2FSeZMais/150520193953.htm)
 
-id:  126504 
+id:  126504

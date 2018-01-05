@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists prepare to detect gravitational waves from neutron star collisions"
-date:  2016-08-02 12:30:02 
-categories:  Science     
+date: 2016-08-02 12:30:02
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2016-08-physicists-gravitational-neutron-star-collisions.html)
 
-id:  310450 
+id:  310450

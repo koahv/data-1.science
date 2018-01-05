@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Extreme volcanism: Image captures 1 of the brightest volcanoes in the solar system"
-date:  2014-08-04 04:00:00 
-categories:  Science     
+date: 2014-08-04 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/go-ev080414.php)
 
-id:   31702 
+id:   31702

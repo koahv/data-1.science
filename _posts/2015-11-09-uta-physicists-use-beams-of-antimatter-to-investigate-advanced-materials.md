@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "UTA physicists use beams of antimatter to investigate advanced materials"
-date:  2015-11-09 05:00:00 
-categories:  Technology  
+date: 2015-11-09 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-11/uota-upu110915.php)
 
-id:  208854 
+id:  208854

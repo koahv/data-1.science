@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Germany can now produce half its energy from solar"
-date:  2014-06-23 14:45:34 
-categories:  Science     
+date: 2014-06-23 14:45:34
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencealert.com.au/~r/sciencealert-latestnews/~3/eH1twROpHQU/20142306-25725.html)
 
-id:    3138 
+id:    3138

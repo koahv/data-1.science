@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Linux Block I/O Tracing"
-date:  2017-03-28 15:06:26 
-categories:  Linux       
-author:  mfilion                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-03-28 15:06:26
+categories: Linux
+author: mfilion
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/blog/linux-block-io-tracing)
 
-id:  378586 
+id:  378586

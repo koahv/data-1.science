@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Seed dormancy, a property that prevents germination, already existed 360 million years ago"
-date:  2014-11-19 14:11:09 
-categories:  Science     
+date: 2014-11-19 14:11:09
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news335610663.html)
 
-id:   64352 
+id:   64352

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Do not disturb! How the brain filters out distractions"
-date:  2014-07-03 14:26:03 
-categories:  Science     
+date: 2014-07-03 14:26:03
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/HJ-XiTKkDDc/140703102603.htm)
 
-id:   13777 
+id:   13777

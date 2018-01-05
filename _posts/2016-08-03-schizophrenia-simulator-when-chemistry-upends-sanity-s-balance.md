@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Schizophrenia simulator: When chemistry upends sanity's balance"
-date:  2016-08-03 04:00:00 
-categories:  Technology  
+date: 2016-08-03 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/giot-ssw080316.php)
 
-id:  311349 
+id:  311349

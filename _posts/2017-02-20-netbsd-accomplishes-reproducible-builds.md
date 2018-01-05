@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NetBSD Accomplishes Reproducible Builds"
-date:  2017-02-20 21:11:08 
-categories:  Linux       
+date: 2017-02-20 21:11:08
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=NetBSD-Reproducible-Builds)
 
-id:  367394 
+id:  367394

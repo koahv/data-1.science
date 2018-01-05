@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's New Horizons spacecraft closing in on Pluto - Phys.Org"
-date:  2015-01-19 12:04:28 
-categories:  Astronomy   
+date: 2015-01-19 12:04:28
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGPtiBZus2wKg4IPI3nA1h8G5zBQg&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778714054756&ei=U4i9VPCSM-bswQHTzIC4CQ&url=http://phys.org/news/2015-01-nasa-horizons-spacecraft-pluto.html)
 
-id:   73491 
+id:   73491

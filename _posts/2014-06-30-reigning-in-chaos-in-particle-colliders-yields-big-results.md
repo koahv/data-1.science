@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Reigning in chaos in particle colliders yields big results"
-date:  2014-06-30 18:00:01 
-categories:  Science     
+date: 2014-06-30 18:00:01
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news323354543.html)
 
-id:   10250 
+id:   10250

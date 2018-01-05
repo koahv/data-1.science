@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers identify key components of the cellular engine in living cells"
-date:  2014-08-14 12:00:02 
-categories:  Science     
+date: 2014-08-14 12:00:02
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news327221001.html)
 
-id:   38667 
+id:   38667

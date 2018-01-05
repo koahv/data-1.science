@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists demonstrate a quantum Fredkin gate"
-date:  2016-03-25 18:00:04 
-categories:  Science     
+date: 2016-03-25 18:00:04
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-03-physicists-quantum-fredkin-gate.html)
 
-id:  266441 
+id:  266441

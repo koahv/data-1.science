@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Public and scientists express strikingly different views about science-related issues"
-date:  2015-01-29 19:30:30 
-categories:  Science     
+date: 2015-01-29 19:30:30
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/vXW8KCsNYjQ/150129143030.htm)
 
-id:   77208 
+id:   77208

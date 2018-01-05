@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Learn Linux, 101: Customize and use the shell environment"
-date:  2015-12-12 17:22:50 
-categories:  Linux       
+date: 2015-12-12 17:22:50
+categories: Linux
 author: unknown author
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=223269)
 
-id:  223957 
+id:  223957

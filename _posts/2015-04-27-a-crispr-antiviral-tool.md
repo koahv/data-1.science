@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A CRISPR antiviral tool"
-date:  2015-04-27 04:00:00 
-categories:  Technology  
+date: 2015-04-27 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/ehs-aca042715.php)
 
-id:  115335 
+id:  115335

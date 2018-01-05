@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New analysis links tree height to climate"
-date:  2014-08-14 19:34:56 
-categories:  Science     
+date: 2014-08-14 19:34:56
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news327249280.html)
 
-id:   39124 
+id:   39124

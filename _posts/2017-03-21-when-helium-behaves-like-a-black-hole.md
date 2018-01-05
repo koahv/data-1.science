@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "When helium behaves like a black hole"
-date:  2017-03-21 04:00:00 
-categories:  Technology  
+date: 2017-03-21 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/uov-whb032117.php)
 
-id:  376010 
+id:  376010

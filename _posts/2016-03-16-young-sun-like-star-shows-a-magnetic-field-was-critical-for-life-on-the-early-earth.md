@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Young sun-like star shows a magnetic field was critical for life on the early Earth"
-date:  2016-03-16 04:00:00 
-categories:  Astronomy   
+date: 2016-03-16 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/hcfa-ys031616.php)
 
-id:  263037 
+id:  263037

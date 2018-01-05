@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Rats, reasoning, and rehabilitation: Neuroscientists are uncovering how we reason"
-date:  2015-03-30 12:42:50 
-categories:  Science     
+date: 2015-03-30 12:42:50
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/PZ2iGcfg98I/150330084250.htm)
 
-id:  102311 
+id:  102311

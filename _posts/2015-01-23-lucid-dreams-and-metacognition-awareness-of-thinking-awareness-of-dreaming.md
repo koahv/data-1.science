@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Lucid dreams and metacognition: Awareness of thinking; awareness of dreaming"
-date:  2015-01-23 18:51:12 
-categories:  Science     
+date: 2015-01-23 18:51:12
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Ldn5LdERCyY/150123135112.htm)
 
-id:   74706 
+id:   74706

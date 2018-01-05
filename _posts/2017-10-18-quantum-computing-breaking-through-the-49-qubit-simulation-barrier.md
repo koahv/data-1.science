@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum computing—breaking through the 49 qubit simulation barrier"
-date:  2017-10-18 12:10:03 
-categories:  Science     
+date: 2017-10-18 12:10:03
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-10-quantum-computingbreaking-qubit-simulation-barrier.html)
 
-id:  440673 
+id:  440673

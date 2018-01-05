@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "When an electron splits in two"
-date:  2015-05-12 13:30:01 
-categories:  Science     
+date: 2015-05-12 13:30:01
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news350628970.html)
 
-id:  122055 
+id:  122055

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA 'Warp Drive' One Step Closer"
-date:  2015-05-04 12:49:24 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-05-04 12:49:24
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/05/nasa-warp-drive-one-step-closer)
 
-id:  118111 
+id:  118111

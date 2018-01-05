@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New theory on cause of ice age 2.6 million years ago"
-date:  2014-06-27 13:44:04 
-categories:  Science     
+date: 2014-06-27 13:44:04
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/sH_xwZ2gDQc/140627094404.htm)
 
-id:    8697 
+id:    8697

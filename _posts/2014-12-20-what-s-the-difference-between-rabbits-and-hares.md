@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What's the Difference Between Rabbits and Hares?"
-date:  2014-12-20 14:51:48 
-categories:  Science     
-author:  Liz Langley                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-12-20 14:51:48
+categories: Science
+author: Liz Langley
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/i9_2nR0T9Kk/)
 
-id:   67494 
+id:   67494

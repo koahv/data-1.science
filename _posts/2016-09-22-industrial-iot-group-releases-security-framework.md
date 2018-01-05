@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Industrial IoT Group Releases Security Framework"
-date:  2016-09-22 07:55:38 
-categories:  Linux       
-author:  SDx Central                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-09-22 07:55:38
+categories: Linux
+author: SDx Central
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/industrial-iot-group-releases-security-framework)
 
-id:  325966 
+id:  325966

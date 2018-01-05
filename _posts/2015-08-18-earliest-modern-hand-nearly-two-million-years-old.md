@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earliest 'modern' hand nearly two million years old"
-date:  2015-08-18 17:27:05 
-categories:  Science     
+date: 2015-08-18 17:27:05
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-08-earliest-modern-million-years.html)
 
-id:  171207 
+id:  171207

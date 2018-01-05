@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dig into DNS: Part 3"
-date:  2016-09-20 13:02:08 
-categories:  Linux       
-author:  chrisbinnie                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-09-20 13:02:08
+categories: Linux
+author: chrisbinnie
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/dig-dns-part-3)
 
-id:  325167 
+id:  325167

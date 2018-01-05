@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Only four percent of the ocean is protected, study shows"
-date:  2015-10-26 08:15:02 
-categories:  Science     
+date: 2015-10-26 08:15:02
+categories: Science
 author: unknown author
-tags:  ecology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [ecology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  ecology
 
 [Visit Link](http://phys.org/news/2015-10-percent-ocean.html)
 
-id:  202547 
+id:  202547

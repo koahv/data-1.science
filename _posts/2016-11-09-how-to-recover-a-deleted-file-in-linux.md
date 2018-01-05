@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to Recover a Deleted File in Linux"
-date:  2016-11-09 06:00:14 
-categories:  Linux       
-author:  Gabriel Cánepa                                                
-tags:  linux commands,linux tricks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+date: 2016-11-09 06:00:14
+categories: Linux
+author: Gabriel Cánepa
+tags: [linux commands, linux tricks]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands,linux tricks
 
 [Visit Link](http://www.tecmint.com/recover-deleted-file-in-linux/)
 
-id:  339292 
+id:  339292

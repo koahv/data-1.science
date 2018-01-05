@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Successfully Ignites Largest Fire Experiment in Space"
-date:  2016-06-15 20:23:34 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-06-15 20:23:34
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/06/nasa-successfully-ignites-largest-fire-experiment-space)
 
-id:  295468 
+id:  295468

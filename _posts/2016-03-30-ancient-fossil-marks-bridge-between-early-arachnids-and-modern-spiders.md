@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient fossil marks bridge between early arachnids and modern spiders"
-date:  2016-03-30 12:30:02 
-categories:  Science     
+date: 2016-03-30 12:30:02
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2016-03-ancient-fossil-bridge-early-arachnids.html)
 
-id:  268008 
+id:  268008

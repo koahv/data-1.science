@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Google’s Open Source Report Card Highlights Game-Changing Contributions"
-date:  2016-10-20 17:25:17 
-categories:  Linux       
-author:  Sam Dean                                                      
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-10-20 17:25:17
+categories: Linux
+author: Sam Dean
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/googles-open-source-report-card-highlights-game-changing-contributions)
 
-id:  334015 
+id:  334015

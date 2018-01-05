@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mercury's mysterious 'darkness' revealed"
-date:  2016-03-07 05:00:00 
-categories:  Astronomy   
+date: 2016-03-07 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/ci-mm030316.php)
 
-id:  259521 
+id:  259521

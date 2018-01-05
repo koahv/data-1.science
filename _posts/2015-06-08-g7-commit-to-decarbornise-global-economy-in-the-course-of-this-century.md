@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "G7 commit to decarbornise global economy in the course of this century"
-date:  2015-06-08 16:53:11 
-categories:  Energy      
+title: "G7 commit to decarbornise global economy "in the course of this century""
+date: 2015-06-08 16:53:11
+categories: Energy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.greenwisebusiness.co.uk/news/g7-commit-to-decarbornise-global-economy-in-the-course-of-this-century-4615.aspx)
 
-id:  184172 
+id:  184172

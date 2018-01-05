@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists watch photosynthesis in action"
-date:  2014-07-09 04:00:00 
-categories:  Science     
+date: 2014-07-09 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/ded-swp070714.php)
 
-id:   16651 
+id:   16651

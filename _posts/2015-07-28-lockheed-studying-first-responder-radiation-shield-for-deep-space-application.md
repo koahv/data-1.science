@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Lockheed Studying First-Responder Radiation Shield for Deep-Space Application"
-date:  2015-07-28 20:33:35 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-07-28 20:33:35
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/07/lockheed-studying-first-responder-radiation-shield-deep-space-application)
 
-id:  161799 
+id:  161799

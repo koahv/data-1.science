@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brain differences seen in children with dyslexia, dysgraphia"
-date:  2015-04-28 18:19:19 
-categories:  Science     
+date: 2015-04-28 18:19:19
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/uKgDI-TnCRA/150428141919.htm)
 
-id:  115684 
+id:  115684

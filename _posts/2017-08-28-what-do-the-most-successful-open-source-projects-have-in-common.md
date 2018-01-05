@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What Do the Most Successful Open Source Projects Have In Common?"
-date:  2017-08-28 20:38:28 
-categories:  Linux       
-author:  lfadmin                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2017-08-28 20:38:28
+categories: Linux
+author: lfadmin
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/what-do-most-successful-open-source-projects-have-common)
 
-id:  423551 
+id:  423551

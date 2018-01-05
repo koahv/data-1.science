@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Threats to soil productivity threaten food security"
-date:  2015-05-07 20:54:04 
-categories:  Science     
+date: 2015-05-07 20:54:04
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/z7e72SDU9VY/150507165404.htm)
 
-id:  120365 
+id:  120365

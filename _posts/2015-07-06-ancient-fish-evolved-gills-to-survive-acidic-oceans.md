@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient Fish Evolved Gills to Survive Acidic Oceans"
-date:  2015-07-06 10:47:00 
-categories:  World       
-author:  Anna Salleh, ABC Science Online                               
-tags:  oxygen,oceans,hagifsh,gills,fish,evolution,animals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+date: 2015-07-06 10:47:00
+categories: World
+author: Anna Salleh, ABC Science Online
+tags: [oxygen, oceans, hagifsh, gills, fish, evolution, animals]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  oxygen,oceans,hagifsh,gills,fish,evolution,animals
 
 [Visit Link](http://news.discovery.com/animals/ancient-fish-evolved-gills-to-survive-acidic-oceans-150706.htm#mkcpgn=rssnws1)
 
-id:  150075 
+id:  150075

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Japan scientists grow drugs in chicken eggs"
-date:  2017-10-09 07:02:46 
-categories:  Science     
+date: 2017-10-09 07:02:46
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-10-japan-scientists-drugs-chicken-eggs.html)
 
-id:  436589 
+id:  436589

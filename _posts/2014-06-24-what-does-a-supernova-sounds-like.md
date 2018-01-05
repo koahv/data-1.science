@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What does a supernova sounds like?"
-date:  2014-06-24 12:40:01 
-categories:  Science     
+date: 2014-06-24 12:40:01
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news322816507.html)
 
-id:    4273 
+id:    4273

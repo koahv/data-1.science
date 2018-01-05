@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photosynthesis gene can help crops grow in adverse conditions"
-date:  2015-09-18 09:36:07 
-categories:  Science     
+date: 2015-09-18 09:36:07
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2015-09-photosynthesis-gene-crops-adverse-conditions.html)
 
-id:  186344 
+id:  186344

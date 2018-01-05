@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Magnetic reconnection research sheds light on explosive phenomena in astrophysics and fusion experiments"
-date:  2016-12-08 22:12:04 
-categories:  Science     
+date: 2016-12-08 22:12:04
+categories: Science
 author: unknown author
-tags:  plasma physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [plasma physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plasma physics
 
 [Visit Link](http://phys.org/news/2016-12-magnetic-reconnection-explosive-phenomena-astrophysics.html)
 
-id:  347881 
+id:  347881

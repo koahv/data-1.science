@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos of the Day: DARPA-Developed Bionic Arm Offers Precise Grip Control"
-date:  2016-07-11 21:01:58 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-07-11 21:01:58
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/07/photos-day-darpa-developed-bionic-arm-offers-precise-grip-control)
 
-id:  303568 
+id:  303568

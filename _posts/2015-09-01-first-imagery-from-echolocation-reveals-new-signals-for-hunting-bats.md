@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First imagery from echolocation reveals new signals for hunting bats"
-date:  2015-09-01 04:00:00 
-categories:  Science     
+date: 2015-09-01 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/e-fif082715.php)
 
-id:  177878 
+id:  177878

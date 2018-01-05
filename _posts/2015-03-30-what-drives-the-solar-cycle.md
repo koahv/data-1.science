@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What drives the solar cycle?"
-date:  2015-03-30 12:00:02 
-categories:  Science     
+date: 2015-03-30 12:00:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news346920501.html)
 
-id:  102194 
+id:  102194

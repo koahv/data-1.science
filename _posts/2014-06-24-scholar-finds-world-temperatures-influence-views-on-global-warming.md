@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scholar finds world temperatures influence views on global warming"
-date:  2014-06-24 10:00:02 
-categories:  Science     
+date: 2014-06-24 10:00:02
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news322807235.html)
 
-id:    4086 
+id:    4086

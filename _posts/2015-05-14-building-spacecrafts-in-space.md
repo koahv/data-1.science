@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Building Spacecrafts in Space"
-date:  2015-05-14 14:09:34 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-05-14 14:09:34
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/videos/2015/05/building-spacecrafts-space)
 
-id:  123257 
+id:  123257

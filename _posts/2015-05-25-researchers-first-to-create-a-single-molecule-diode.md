@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers first to create a single-molecule diode"
-date:  2015-05-25 15:00:13 
-categories:  Science     
+date: 2015-05-25 15:00:13
+categories: Science
 author: unknown author
-tags:  nanotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [nanotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanotechnology
 
 [Visit Link](http://phys.org/news351765588.html)
 
-id:  128406 
+id:  128406

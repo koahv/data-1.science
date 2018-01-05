@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "This Computer Will Grow Your Food in the Future"
-date:  2016-03-29 18:20:22 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-03-29 18:20:22
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/videos/2016/03/computer-will-grow-your-food-future)
 
-id:  267779 
+id:  267779

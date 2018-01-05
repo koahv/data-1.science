@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Molecular engineers record an electron's quantum behavior"
-date:  2014-08-14 18:06:20 
-categories:  Science     
+date: 2014-08-14 18:06:20
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news327243955.html)
 
-id:   39020 
+id:   39020

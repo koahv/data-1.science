@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists reverse aging in human cell lines and give theory of aging a new lease of life"
-date:  2015-05-26 12:51:38 
-categories:  Science     
+date: 2015-05-26 12:51:38
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/CYM3VUJOcuo/150526085138.htm)
 
-id:  128808 
+id:  128808

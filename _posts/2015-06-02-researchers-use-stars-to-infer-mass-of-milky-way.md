@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers use stars to infer mass of Milky Way"
-date:  2015-06-02 19:01:00 
-categories:  Science     
+date: 2015-06-02 19:01:00
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news352476045.html)
 
-id:  132799 
+id:  132799

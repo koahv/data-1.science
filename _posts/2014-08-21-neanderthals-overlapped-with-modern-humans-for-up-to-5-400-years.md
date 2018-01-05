@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Neanderthals 'overlapped' with modern humans for up to 5,400 years"
-date:  2014-08-21 16:37:57 
-categories:  Science     
+date: 2014-08-21 16:37:57
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/4ktnAWpDkbU/140821123757.htm)
 
-id:   43996 
+id:   43996

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Fermi mission expands its search for dark matter"
-date:  2016-08-12 04:00:00 
-categories:  Science     
+date: 2016-08-12 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/nsfc-nfm081216.php)
 
-id:  313953 
+id:  313953

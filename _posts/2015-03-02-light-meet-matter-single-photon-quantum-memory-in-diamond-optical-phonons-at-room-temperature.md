@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Light, meet matter: Single-photon quantum memory in diamond optical phonons at room temperature"
-date:  2015-03-02 14:30:01 
-categories:  Science     
+date: 2015-03-02 14:30:01
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news344501981.html)
 
-id:   89406 
+id:   89406

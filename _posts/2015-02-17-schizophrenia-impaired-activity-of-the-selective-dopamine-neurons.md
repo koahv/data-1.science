@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Schizophrenia: Impaired activity of the selective dopamine neurons"
-date:  2015-02-17 05:00:00 
-categories:  Science     
+date: 2015-02-17 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-02/guf-sia021715.php)
 
-id:   83521 
+id:   83521

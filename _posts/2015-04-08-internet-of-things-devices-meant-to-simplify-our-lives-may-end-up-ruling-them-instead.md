@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Internet of things devices meant to simplify our lives may end up ruling them instead"
-date:  2015-04-08 12:20:02 
-categories:  Science     
+date: 2015-04-08 12:20:02
+categories: Science
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://phys.org/news347698759.html)
 
-id:  106285 
+id:  106285

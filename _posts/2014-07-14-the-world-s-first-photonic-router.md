@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The world's first photonic router"
-date:  2014-07-14 04:00:00 
-categories:  Technology  
+date: 2014-07-14 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/wios-twf071414.php)
 
-id:   19501 
+id:   19501

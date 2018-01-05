@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Miniature brains made from patient skin cells reveal insights into autism"
-date:  2015-07-16 16:38:36 
-categories:  Science     
+date: 2015-07-16 16:38:36
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150716123836.htm)
 
-id:  156209 
+id:  156209

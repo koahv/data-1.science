@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's James Webb Space Telescope primary mirror fully assembled"
-date:  2016-02-04 05:00:00 
-categories:  Astronomy   
+date: 2016-02-04 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/nsfc-njw020416.php)
 
-id:  246042 
+id:  246042

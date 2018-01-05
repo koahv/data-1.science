@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Measurements of dinosaur body temperatures shed new light on 150-year debate"
-date:  2015-10-13 15:52:59 
-categories:  Science     
+date: 2015-10-13 15:52:59
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-10-dinosaur-body-temperatures-year-debate.html)
 
-id:  197278 
+id:  197278

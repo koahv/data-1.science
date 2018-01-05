@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers explain emergence of bacterial vortex"
-date:  2014-06-23 19:00:01 
-categories:  Science     
+date: 2014-06-23 19:00:01
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news322730726.html)
 
-id:    3498 
+id:    3498

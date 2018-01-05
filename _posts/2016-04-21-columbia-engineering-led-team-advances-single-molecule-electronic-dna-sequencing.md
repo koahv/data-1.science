@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Columbia Engineering-led team advances single molecule electronic DNA sequencing"
-date:  2016-04-21 04:00:00 
-categories:  Technology  
+date: 2016-04-21 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/cuso-cet042116.php)
 
-id:  276963 
+id:  276963

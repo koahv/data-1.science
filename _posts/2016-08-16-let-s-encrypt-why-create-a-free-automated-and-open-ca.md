@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Let's Encrypt: Why Create a Free, Automated, and Open CA?"
-date:  2016-08-16 14:33:00 
-categories:  Linux       
-author:  OpenSource.com                                                
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-08-16 14:33:00
+categories: Linux
+author: OpenSource.com
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/lets-encrypt-why-create-free-automated-and-open-ca)
 
-id:  314721 
+id:  314721

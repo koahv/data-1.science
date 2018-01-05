@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Worcester Polytechnic Institute team awarded patent for reprograming skin cells"
-date:  2016-05-24 04:00:00 
-categories:  Technology  
+date: 2016-05-24 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/wpi-wpi052416.php)
 
-id:  288090 
+id:  288090

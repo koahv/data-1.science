@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New insights about evolving Triceratops in Montana's Hell Creek Formation"
-date:  2014-07-01 10:34:52 
-categories:  Science     
+date: 2014-07-01 10:34:52
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news323415271.html)
 
-id:   10733 
+id:   10733

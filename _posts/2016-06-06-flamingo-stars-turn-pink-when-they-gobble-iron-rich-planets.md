@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Flamingo stars turn pink when they gobble iron-rich planets"
-date:  2016-06-06 16:51:48 
-categories:  Astronomy   
+date: 2016-06-06 16:51:48
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.newscientist.com/article/2092531-flamingo-stars-turn-pink-when-they-gobble-iron-rich-planets/)
 
-id:  292257 
+id:  292257

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Today in Engineering History: First Unmanned Saturn V Test Flight"
-date:  2015-11-09 17:17:10 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-11-09 17:17:10
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/blog/2015/11/today-engineering-history-first-unmanned-saturn-v-test-flight)
 
-id:  208783 
+id:  208783

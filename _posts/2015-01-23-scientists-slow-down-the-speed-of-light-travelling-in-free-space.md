@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists slow down the speed of light travelling in free space"
-date:  2015-01-23 19:41:58 
-categories:  Science     
+date: 2015-01-23 19:41:58
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/kEVvYZvgXMA/150123144158.htm)
 
-id:   74704 
+id:   74704

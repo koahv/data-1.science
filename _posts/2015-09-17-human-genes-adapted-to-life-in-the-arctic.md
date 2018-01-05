@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Human genes adapted to life in the Arctic"
-date:  2015-09-17 04:00:00 
-categories:  Science     
+date: 2015-09-17 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/fos--hga091715.php)
 
-id:  186156 
+id:  186156

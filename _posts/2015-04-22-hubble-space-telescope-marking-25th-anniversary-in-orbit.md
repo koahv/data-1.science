@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Hubble Space Telescope Marking 25th Anniversary in Orbit"
-date:  2015-04-22 13:55:17 
-categories:  Technology  
-author:  mfassbender                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-04-22 13:55:17
+categories: Technology
+author: mfassbender
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/04/hubble-space-telescope-marking-25th-anniversary-orbit)
 
-id:  112791 
+id:  112791

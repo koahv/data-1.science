@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos of the Day: The Largest Radio Telescope on Earth"
-date:  2016-02-29 14:54:48 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-02-29 14:54:48
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/02/photos-day-largest-radio-telescope-earth)
 
-id:  256606 
+id:  256606

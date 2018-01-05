@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bioenergy: Genetics of wood formation"
-date:  2015-04-17 12:50:25 
-categories:  Science     
+date: 2015-04-17 12:50:25
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Vc3zel-AsBM/150417085025.htm)
 
-id:  110781 
+id:  110781

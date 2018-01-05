@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What are asteroids made of?"
-date:  2015-09-14 13:00:01 
-categories:  Science     
+date: 2015-09-14 13:00:01
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-asteroids_1.html)
 
-id:  184119 
+id:  184119

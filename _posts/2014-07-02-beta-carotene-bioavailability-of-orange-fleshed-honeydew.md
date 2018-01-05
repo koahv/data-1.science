@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Beta-carotene bioavailability of orange-fleshed honeydew"
-date:  2014-07-02 11:40:02 
-categories:  Science     
+date: 2014-07-02 11:40:02
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news323503040.html)
 
-id:   11729 
+id:   11729

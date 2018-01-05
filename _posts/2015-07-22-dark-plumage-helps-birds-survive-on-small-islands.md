@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dark plumage helps birds survive on small islands"
-date:  2015-07-22 04:00:00 
-categories:  Science     
+date: 2015-07-22 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/copo-dph072215.php)
 
-id:  159070 
+id:  159070

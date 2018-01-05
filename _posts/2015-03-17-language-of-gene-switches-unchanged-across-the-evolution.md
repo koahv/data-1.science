@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Language of gene switches unchanged across the evolution"
-date:  2015-03-17 13:30:05 
-categories:  Science     
+date: 2015-03-17 13:30:05
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/A-S1X4V0eW0/150317093005.htm)
 
-id:   96725 
+id:   96725

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What Will We Do When the Machines Take Our Place?"
-date:  2014-08-28 19:40:34 
-categories:  Technology  
-author:  mfassbender                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2014-08-28 19:40:34
+categories: Technology
+author: mfassbender
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/blogs/2014/08/what-will-we-do-when-machines-take-our-place)
 
-id:   47938 
+id:   47938

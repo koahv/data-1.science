@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Protecting crops from radiation-contaminated soil"
-date:  2015-03-05 05:00:00 
-categories:  Science     
+date: 2015-03-05 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/r-pcf030215.php)
 
-id:   91179 
+id:   91179

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Charting A Path for Sustainable Jet Fuels"
-date:  2016-08-18 16:25:53 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-08-18 16:25:53
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/08/charting-path-sustainable-jet-fuels)
 
-id:  315612 
+id:  315612

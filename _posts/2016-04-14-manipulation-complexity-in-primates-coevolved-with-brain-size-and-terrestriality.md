@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Manipulation complexity in primates coevolved with brain size and terrestriality"
-date:  2016-04-14 00:00:00 
-categories:  Science     
-author:  Sandra A. Heldstab                                            
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-14 00:00:00
+categories: Science
+author: Sandra A. Heldstab
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.nature.com/articles/srep24528)
 
-id:  274108 
+id:  274108

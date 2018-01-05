@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Optics, nanotechnology combined to create low-cost sensor for gases"
-date:  2015-04-02 21:13:56 
-categories:  Science     
+date: 2015-04-02 21:13:56
+categories: Science
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  chemistry
 
 [Visit Link](http://phys.org/news347213624.html)
 
-id:  104347 
+id:  104347

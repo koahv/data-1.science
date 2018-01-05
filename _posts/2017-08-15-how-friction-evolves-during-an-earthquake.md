@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How friction evolves during an earthquake"
-date:  2017-08-15 21:29:34 
-categories:  Science     
+date: 2017-08-15 21:29:34
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](https://phys.org/news/2017-08-friction-evolves-earthquake.html)
 
-id:  419520 
+id:  419520

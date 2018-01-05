@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "2016 Future of Open Source Survey Says Open Source Is The Modern Architecture"
-date:  2016-04-27 17:29:24 
-categories:  Linux       
-author:  aankerholz                                                    
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-04-27 17:29:24
+categories: Linux
+author: aankerholz
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/2016-future-open-source-survey-says-open-source-modern-architecture)
 
-id:  278851 
+id:  278851

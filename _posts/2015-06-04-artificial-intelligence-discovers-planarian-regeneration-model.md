@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Artificial intelligence discovers planarian regeneration model"
-date:  2015-06-04 04:00:00 
-categories:  Technology  
+date: 2015-06-04 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/p-aid052815.php)
 
-id:  134105 
+id:  134105

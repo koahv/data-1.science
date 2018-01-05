@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Deforestation is messing with our weather, and our food"
-date:  2015-04-01 20:16:38 
-categories:  Science     
+date: 2015-04-01 20:16:38
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/lI_it7A2XFQ/150401161638.htm)
 
-id:  103862 
+id:  103862

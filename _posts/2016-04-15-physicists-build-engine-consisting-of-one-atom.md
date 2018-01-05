@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists build engine consisting of one atom"
-date:  2016-04-15 04:00:00 
-categories:  Technology  
+date: 2016-04-15 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/jgum-pbe041516.php)
 
-id:  274742 
+id:  274742

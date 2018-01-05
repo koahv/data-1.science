@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Increased atmospheric carbon dioxide makes trees use water more efficiently"
-date:  2015-05-11 15:00:08 
-categories:  Science     
+date: 2015-05-11 15:00:08
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news350559676.html)
 
-id:  121454 
+id:  121454

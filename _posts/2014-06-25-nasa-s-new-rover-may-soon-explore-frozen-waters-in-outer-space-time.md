@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's New Rover May Soon Explore Frozen Waters in Outer Space - TIME"
-date:  2014-06-25 06:30:47 
-categories:  Astronomy   
+date: 2014-06-25 06:30:47
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHCe6h7GSnyM3naUI-jyEkfNesS8g&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778542353057&ei=ArOqU-DRBMq1gweEkoDIDg&url=http://time.com/2919771/nasas-new-rover-may-soon-explore-frozen-waters-in-outer-space/)
 
-id:    6005 
+id:    6005

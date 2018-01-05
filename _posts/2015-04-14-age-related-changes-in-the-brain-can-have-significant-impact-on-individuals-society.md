@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Age-related changes in the brain can have significant impact on individuals, society"
-date:  2015-04-14 04:00:00 
-categories:  Science     
+date: 2015-04-14 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/naos-aci041415.php)
 
-id:  109004 
+id:  109004

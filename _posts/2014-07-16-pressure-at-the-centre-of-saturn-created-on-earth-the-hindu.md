@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pressure at the centre of Saturn created on Earth - The Hindu"
-date:  2014-07-16 17:47:18 
-categories:  Earth       
+date: 2014-07-16 17:47:18
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGgPPyUHtvJqGUml6BF-WtgESrqSQ&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=0L_GU5jyAYTzggfcroCIDw&url=http://www.thehindu.com/sci-tech/pressure-at-the-centre-of-saturn-created-on-earth/article6218188.ece)
 
-id:   21607 
+id:   21607

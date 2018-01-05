@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What set the Earth's plates in motion?"
-date:  2014-09-17 04:00:00 
-categories:  Science     
+date: 2014-09-17 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/uos-wst091614.php)
 
-id:   48594 
+id:   48594

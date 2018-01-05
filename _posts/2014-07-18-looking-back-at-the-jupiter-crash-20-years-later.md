@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Looking back at the Jupiter crash 20 years later"
-date:  2014-07-18 14:30:12 
-categories:  Science     
+date: 2014-07-18 14:30:12
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Rn9nGQw4jTw/140718103012.htm)
 
-id:   23547 
+id:   23547

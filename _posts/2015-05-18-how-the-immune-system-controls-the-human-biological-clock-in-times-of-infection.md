@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How the immune system controls the human biological clock in times of infection"
-date:  2015-05-18 17:51:39 
-categories:  Science     
+date: 2015-05-18 17:51:39
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/SaphoMI_1pY/150518135139.htm)
 
-id:  125050 
+id:  125050

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Electroporation delivery of CRISPR/Cas9 system improves efficiency and throughput"
-date:  2015-06-08 04:00:00 
-categories:  Technology  
+date: 2015-06-08 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/jl-edo060815.php)
 
-id:  135556 
+id:  135556

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A master switch that plays a key role in energy metabolism and human brain evolution"
-date:  2016-01-26 05:00:00 
-categories:  Science     
+date: 2016-01-26 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/mbae-ams012516.php)
 
-id:  241603 
+id:  241603

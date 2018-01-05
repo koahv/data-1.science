@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why big dinosaurs steered clear of the tropics"
-date:  2015-06-15 04:00:00 
-categories:  Science     
+date: 2015-06-15 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/uou-wbd061015.php)
 
-id:  139591 
+id:  139591

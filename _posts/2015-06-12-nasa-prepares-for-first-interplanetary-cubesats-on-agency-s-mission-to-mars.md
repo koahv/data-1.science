@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Prepares for First Interplanetary CubeSats on Agency's Mission to Mars"
-date:  2015-06-12 15:24:01 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-06-12 15:24:01
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/06/nasa-prepares-first-interplanetary-cubesats-agencys-mission-mars)
 
-id:  138289 
+id:  138289

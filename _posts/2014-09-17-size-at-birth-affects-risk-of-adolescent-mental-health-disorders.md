@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Size at birth affects risk of adolescent mental health disorders"
-date:  2014-09-17 16:07:09 
-categories:  Science     
+date: 2014-09-17 16:07:09
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/iYTcZ6Fl84Y/140917120709.htm)
 
-id:   50296 
+id:   50296

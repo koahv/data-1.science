@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ability to balance on one leg may reflect brain health, stroke risk"
-date:  2014-12-19 02:00:13 
-categories:  Science     
+date: 2014-12-19 02:00:13
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/890i-W0S70o/141218210013.htm)
 
-id:   67767 
+id:   67767

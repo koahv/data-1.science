@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study identifies first-ever human population adaptation to toxic chemical, arsenic"
-date:  2015-03-03 05:00:00 
-categories:  Technology  
+date: 2015-03-03 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/mbae-sif022715.php)
 
-id:   90421 
+id:   90421

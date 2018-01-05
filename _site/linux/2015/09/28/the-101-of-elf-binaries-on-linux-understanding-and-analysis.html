@@ -5,20 +5,21 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Begin Jekyll SEO tag v2.3.0 -->
+  <!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>The 101 of ELF Binaries on Linux: Understanding and Analysis | data-1.science</title>
+<meta name="generator" content="Jekyll v3.6.2" />
 <meta property="og:title" content="The 101 of ELF Binaries on Linux: Understanding and Analysis" />
 <meta name="author" content="Michael Boelen" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Extract Executable and Linkable Format An extensive dive into ELF files: for security incident response, development and better understanding We often don’t realize the craftsmanship of others, as we conceive them as normal. One of these things is the usage of common tools, like ps and ls. Even though the commands +" />
-<meta property="og:description" content="Extract Executable and Linkable Format An extensive dive into ELF files: for security incident response, development and better understanding We often don’t realize the craftsmanship of others, as we conceive them as normal. One of these things is the usage of common tools, like ps and ls. Even though the commands +" />
+<meta name="description" content="Extract Executable and Linkable Format An extensive dive into ELF files: for security incident response, development and better understanding We often don’t realize the craftsmanship of others, as we conceive them as normal. One of these things is the usage of common tools, like ps and ls. Even though the commands The post The 101 of ELF Binaries on Linux: Understanding and Analysis appeared first on Linux Audit." />
+<meta property="og:description" content="Extract Executable and Linkable Format An extensive dive into ELF files: for security incident response, development and better understanding We often don’t realize the craftsmanship of others, as we conceive them as normal. One of these things is the usage of common tools, like ps and ls. Even though the commands The post The 101 of ELF Binaries on Linux: Understanding and Analysis appeared first on Linux Audit." />
 <link rel="canonical" href="http://localhost:4000/linux/2015/09/28/the-101-of-elf-binaries-on-linux-understanding-and-analysis.html" />
 <meta property="og:url" content="http://localhost:4000/linux/2015/09/28/the-101-of-elf-binaries-on-linux-understanding-and-analysis.html" />
 <meta property="og:site_name" content="data-1.science" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-09-28T14:36:40+01:00" />
 <script type="application/ld+json">
-{"name":null,"description":"Extract Executable and Linkable Format An extensive dive into ELF files: for security incident response, development and better understanding We often don’t realize the craftsmanship of others, as we conceive them as normal. One of these things is the usage of common tools, like ps and ls. Even though the commands +","url":"http://localhost:4000/linux/2015/09/28/the-101-of-elf-binaries-on-linux-understanding-and-analysis.html","headline":"The 101 of ELF Binaries on Linux: Understanding and Analysis","dateModified":"2015-09-28T14:36:40+01:00","datePublished":"2015-09-28T14:36:40+01:00","sameAs":null,"@type":"BlogPosting","author":{"@type":"Person","name":"Michael Boelen"},"image":null,"publisher":null,"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/linux/2015/09/28/the-101-of-elf-binaries-on-linux-understanding-and-analysis.html"},"@context":"http://schema.org"}</script>
+{"description":"Extract Executable and Linkable Format An extensive dive into ELF files: for security incident response, development and better understanding We often don’t realize the craftsmanship of others, as we conceive them as normal. One of these things is the usage of common tools, like ps and ls. Even though the commands The post The 101 of ELF Binaries on Linux: Understanding and Analysis appeared first on Linux Audit.","url":"http://localhost:4000/linux/2015/09/28/the-101-of-elf-binaries-on-linux-understanding-and-analysis.html","headline":"The 101 of ELF Binaries on Linux: Understanding and Analysis","dateModified":"2015-09-28T14:36:40+01:00","datePublished":"2015-09-28T14:36:40+01:00","@type":"BlogPosting","author":{"@type":"Person","name":"Michael Boelen"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/linux/2015/09/28/the-101-of-elf-binaries-on-linux-understanding-and-analysis.html"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   <link rel="stylesheet" href="/assets/main.css">
@@ -81,14 +82,17 @@
         Sep 28, 2015
       </time>
       
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Michael Boelen</span></span>
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Michael Boelen • Tags:  software,  development,  system administration,  programming,  elf,  binary, 
+</span></span>
       </p>
-  </header>
+ 
+   </header>
 
   <div class="post-content" itemprop="articleBody">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>Executable and Linkable Format An extensive dive into ELF files: for security incident response, development and better understanding We often don’t realize the craftsmanship of others, as we conceive them as normal. One of these things is the usage of common tools, like ps and ls. Even though the commands                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      +</p>
+  <p>Executable and Linkable Format An extensive dive into ELF files: for security incident response, development and better understanding We often don’t realize the craftsmanship of others, as we conceive them as normal. One of these things is the usage of common tools, like ps and ls. Even though the commands
+The post The 101 of ELF Binaries on Linux: Understanding and Analysis appeared first on Linux Audit.</p>
 </blockquote>
 
 <h4 id="factsheet">Factsheet</h4>
@@ -105,6 +109,7 @@
 <hr>
 <p>
 <div class="relatedPosts">
+<b>Related Content (if any)</b>
 
 
 
@@ -31761,6 +31766,39 @@
 
     
 
+    
+
+  
+
+    
+    
+
+    
+
+    
+
+  
+
+    
+    
+
+    
+
+    
+
+  
+
+    
+    
+
+    
+
+    
+      <div>
+      <h5><a href="/linux/2014/07/15/linux-security-for-devops.html">Linux Security for DevOps</a></h5>
+      </div>
+      
+      
     
 
   

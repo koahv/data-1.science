@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's WFIRST spacecraft offers a huge step forward in our understanding of dark matter"
-date:  2016-05-02 10:05:13 
-categories:  Science     
+date: 2016-05-02 10:05:13
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2016-05-nasa-wfirst-spacecraft-huge-dark.html)
 
-id:  280131 
+id:  280131

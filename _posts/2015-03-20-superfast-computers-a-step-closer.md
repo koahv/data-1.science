@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Superfast Computers a Step Closer"
-date:  2015-03-20 15:10:42 
-categories:  Technology  
-author:  kduffy                                                        
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-03-20 15:10:42
+categories: Technology
+author: kduffy
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2015/03/superfast-computers-step-closer)
 
-id:   98236 
+id:   98236

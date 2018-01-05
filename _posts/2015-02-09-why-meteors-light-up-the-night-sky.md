@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Why meteors light up the night sky"
-date:  2015-02-09 13:40:06 
-categories:  Science     
+date: 2015-02-09 13:40:06
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news342690788.html)
 
-id:   80052 
+id:   80052

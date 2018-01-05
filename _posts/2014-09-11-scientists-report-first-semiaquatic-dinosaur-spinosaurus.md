@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists report first semiaquatic dinosaur, Spinosaurus"
-date:  2014-09-11 04:00:00 
-categories:  Science     
+date: 2014-09-11 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/ngs-srf090514.php)
 
-id:   48671 
+id:   48671

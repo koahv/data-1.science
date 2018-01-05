@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New study shows the importance of jellyfish falls to deep-sea ecosystem"
-date:  2014-10-15 04:00:00 
-categories:  Science     
+date: 2014-10-15 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-10/uoh-nss101514.php)
 
-id:   54721 
+id:   54721

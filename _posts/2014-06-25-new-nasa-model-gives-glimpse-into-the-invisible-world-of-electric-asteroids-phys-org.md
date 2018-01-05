@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New NASA model gives glimpse into the invisible world of electric asteroids - Phys.Org"
-date:  2014-06-25 20:58:51 
-categories:  Astronomy   
+date: 2014-06-25 20:58:51
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEBJVynt5POG79033s2fQ5DdbKGMA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778543313737&ei=_EqrU4DVN8WdgQff0oDIDw&url=http://phys.org/news/2014-06-nasa-glimpse-invisible-world-electric.html)
 
-id:    6903 
+id:    6903

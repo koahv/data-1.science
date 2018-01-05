@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Near instantaneous evolution discovered in bacteria"
-date:  2017-06-26 11:14:30 
-categories:  Science     
+date: 2017-06-26 11:14:30
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](https://phys.org/news/2017-06-instantaneous-evolution-bacteria.html)
 
-id:  404167 
+id:  404167

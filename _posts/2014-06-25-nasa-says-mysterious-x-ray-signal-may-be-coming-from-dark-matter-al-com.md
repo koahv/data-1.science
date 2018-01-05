@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA says mysterious X-ray signal may be coming from dark matter - al.com"
-date:  2014-06-25 22:55:55 
-categories:  Astronomy   
+date: 2014-06-25 22:55:55
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFZxTPPhqdyl9pYEmXegmo5v4fR4w&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778542898076&ei=xmCrU6m3BcLwgQfrw4GACw&url=http://www.al.com/news/huntsville/index.ssf/2014/06/nasa_says_mysterious_x-ray_sig.html)
 
-id:    6959 
+id:    6959

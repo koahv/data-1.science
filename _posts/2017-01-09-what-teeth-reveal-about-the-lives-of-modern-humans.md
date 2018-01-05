@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What teeth reveal about the lives of modern humans"
-date:  2017-01-09 05:00:00 
-categories:  Science     
+date: 2017-01-09 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/osu-wtr010917.php)
 
-id:  355305 
+id:  355305

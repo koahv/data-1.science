@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How the brain stabilizes connections in order to learn better"
-date:  2014-07-17 16:50:47 
-categories:  Science     
+date: 2014-07-17 16:50:47
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/XLiQbscpr7w/140717125047.htm)
 
-id:   22688 
+id:   22688

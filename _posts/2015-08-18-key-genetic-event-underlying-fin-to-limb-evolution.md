@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Key genetic event underlying fin-to-limb evolution"
-date:  2015-08-18 09:50:02 
-categories:  Science     
+date: 2015-08-18 09:50:02
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](http://phys.org/news/2015-08-key-genetic-event-underlying-fin-to-limb.html)
 
-id:  170833 
+id:  170833

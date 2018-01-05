@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Wayland & Weston 1.6 Alpha Released"
-date:  2014-08-22 16:30:37 
-categories:  Linux       
+date: 2014-08-22 16:30:37
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTc3MDU)
 
-id:   44628 
+id:   44628

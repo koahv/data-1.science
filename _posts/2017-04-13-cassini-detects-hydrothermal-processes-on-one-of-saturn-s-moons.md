@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cassini detects hydrothermal processes on one of Saturn's moons"
-date:  2017-04-13 04:00:00 
-categories:  Astronomy   
+date: 2017-04-13 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/aaft-cdh041017.php)
 
-id:  383615 
+id:  383615

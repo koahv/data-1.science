@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Image: Unprecedented detail in enhanced high-resolution color image of Pluto"
-date:  2015-09-25 10:17:23 
-categories:  Science     
+date: 2015-09-25 10:17:23
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-09-image-unprecedented-high-resolution-pluto.html)
 
-id:  189440 
+id:  189440

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Genome sequence of polar alga explains evolutionary adaptation to extreme variable climate"
-date:  2017-01-16 05:00:00 
-categories:  Science     
+date: 2017-01-16 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/uoea-gso011117.php)
 
-id:  357223 
+id:  357223

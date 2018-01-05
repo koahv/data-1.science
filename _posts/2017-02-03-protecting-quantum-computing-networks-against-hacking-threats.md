@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Protecting quantum computing networks against hacking threats"
-date:  2017-02-03 05:00:00 
-categories:  Science     
+date: 2017-02-03 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/uoo-pqc020317.php)
 
-id:  362864 
+id:  362864

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Neanderthals: Facts About Our Extinct Human Relatives"
-date:  2013-03-19 21:45:02 
-categories:  Science     
+date: 2013-03-19 21:45:02
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/28036-neanderthals-facts-about-our-extinct-human-relatives.html)
 
-id:  273977 
+id:  273977

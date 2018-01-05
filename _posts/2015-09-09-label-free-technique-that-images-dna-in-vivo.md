@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Label-free technique that images DNA in vivo"
-date:  2015-09-09 14:20:01 
-categories:  Science     
+date: 2015-09-09 14:20:01
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2015-09-label-free-technique-images-dna-vivo.html)
 
-id:  181627 
+id:  181627

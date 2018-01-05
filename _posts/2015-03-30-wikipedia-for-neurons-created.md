@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Wikipedia' for neurons created"
-date:  2015-03-30 20:33:32 
-categories:  Science     
+date: 2015-03-30 20:33:32
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/RyF2u4D0RBI/150330163332.htm)
 
-id:  102690 
+id:  102690

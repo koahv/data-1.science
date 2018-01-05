@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Enlisting symmetry to protect quantum states from disruptions"
-date:  2015-07-28 13:17:25 
-categories:  Science     
+date: 2015-07-28 13:17:25
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2015-07-symmetry-quantum-states-disruptions.html)
 
-id:  161520 
+id:  161520

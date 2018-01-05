@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Neanderthal genes gave modern humans an immunity boost, allergies"
-date:  2016-01-07 05:00:00 
-categories:  Science     
+date: 2016-01-07 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/cp-ngg123015.php)
 
-id:  233184 
+id:  233184

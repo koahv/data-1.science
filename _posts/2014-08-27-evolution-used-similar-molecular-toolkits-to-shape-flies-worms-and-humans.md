@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolution used similar molecular toolkits to shape flies, worms, and humans"
-date:  2014-08-27 17:16:56 
-categories:  Science     
+date: 2014-08-27 17:16:56
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Se2fzOuxxZY/140827131656.htm)
 
-id:   47010 
+id:   47010

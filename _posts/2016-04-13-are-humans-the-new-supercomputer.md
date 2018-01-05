@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Are humans the new supercomputer?"
-date:  2016-04-13 04:00:00 
-categories:  Technology  
+date: 2016-04-13 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/au-aht041316.php)
 
-id:  273869 
+id:  273869

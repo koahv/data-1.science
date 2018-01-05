@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Linux dominates supercomputers as never before"
-date:  2014-06-24 19:21:06 
-categories:  Linux       
+date: 2014-06-24 19:21:06
+categories: Linux
 author: unknown author
-tags:  data centers,linux,open source                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [data centers, linux, open source]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  data centers,linux,open source
 
 [Visit Link](http://www.zdnet.com/linux-dominates-supercomputers-as-never-before-7000030890/#ftag=RSS510d04f)
 
-id:    5346 
+id:    5346

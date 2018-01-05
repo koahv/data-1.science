@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Findings illuminate animal evolution in protein function"
-date:  2015-07-27 10:30:01 
-categories:  Science     
+date: 2015-07-27 10:30:01
+categories: Science
 author: unknown author
-tags:  biochemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+tags: [biochemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biochemistry
 
 [Visit Link](http://phys.org/news/2015-07-illuminate-animal-evolution-protein-function.html)
 
-id:  160880 
+id:  160880

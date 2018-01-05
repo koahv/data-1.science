@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Climate engineering may save coral reefs, study shows"
-date:  2015-05-25 16:04:30 
-categories:  Science     
+date: 2015-05-25 16:04:30
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/fTOIbA16q5c/150525120430.htm)
 
-id:  128442 
+id:  128442

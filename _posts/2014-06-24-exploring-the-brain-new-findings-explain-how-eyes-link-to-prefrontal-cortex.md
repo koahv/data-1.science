@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Exploring the brain: New findings explain how eyes link to prefrontal cortex"
-date:  2014-06-24 13:33:26 
-categories:  Science     
+date: 2014-06-24 13:33:26
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/WwkbaZFBytY/140624093326.htm)
 
-id:    4918 
+id:    4918

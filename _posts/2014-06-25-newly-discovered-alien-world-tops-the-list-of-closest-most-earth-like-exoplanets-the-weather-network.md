@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Newly-discovered alien world tops the list of closest, most Earth-like exoplanets - The Weather Network"
-date:  2014-06-25 22:05:56 
-categories:  Earth       
+date: 2014-06-25 22:05:56
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEo-WvQMINO6xd-o34JYZ4Ihf4Duw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778543311252&ei=WUyrU-HKMMLwgQfrw4GACw&url=http://www.theweathernetwork.com/news/articles/newly-discovered-alien-world-tops-the-list-of-closest-most-earth-like-exoplanets/30290/)
 
-id:    6907 
+id:    6907

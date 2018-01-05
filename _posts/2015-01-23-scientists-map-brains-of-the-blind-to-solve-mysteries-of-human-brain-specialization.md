@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists map brains of the blind to solve mysteries of human brain specialization"
-date:  2015-01-23 13:17:13 
-categories:  Science     
+date: 2015-01-23 13:17:13
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/mIMhdYCkXEA/150123081713.htm)
 
-id:   74745 
+id:   74745

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pest resistance to biotech crops surging"
-date:  2017-10-10 04:00:00 
-categories:  Science     
+date: 2017-10-10 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoa-prt100517.php)
 
-id:  437070 
+id:  437070

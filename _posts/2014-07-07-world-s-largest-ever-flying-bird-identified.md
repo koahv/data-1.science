@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World's largest-ever flying bird identified"
-date:  2014-07-07 19:00:07 
-categories:  Science     
+date: 2014-07-07 19:00:07
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news323962726.html)
 
-id:   14991 
+id:   14991

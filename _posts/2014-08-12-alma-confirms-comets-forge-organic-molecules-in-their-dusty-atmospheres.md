@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ALMA confirms comets forge organic molecules in their dusty atmospheres"
-date:  2014-08-12 08:56:10 
-categories:  Science     
+date: 2014-08-12 08:56:10
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news327038157.html)
 
-id:   36838 
+id:   36838

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Juno spacecraft enters Jupiter's magnetic field"
-date:  2016-07-01 10:20:45 
-categories:  Science     
+date: 2016-07-01 10:20:45
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-07-nasa-juno-spacecraft-jupiter-magnetic.html)
 
-id:  300798 
+id:  300798

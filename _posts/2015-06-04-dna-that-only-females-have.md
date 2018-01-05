@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DNA that only females have"
-date:  2015-06-04 12:45:11 
-categories:  Science     
+date: 2015-06-04 12:45:11
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150604084511.htm)
 
-id:  133882 
+id:  133882

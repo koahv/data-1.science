@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Psychotropic drug prescriptions: Therapeutic advances or fads?"
-date:  2014-11-11 05:00:00 
-categories:  Science     
+date: 2014-11-11 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-11/uom-pdp111114.php)
 
-id:   60918 
+id:   60918

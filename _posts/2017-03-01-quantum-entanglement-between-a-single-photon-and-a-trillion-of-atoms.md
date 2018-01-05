@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum entanglement between a single photon and a trillion of atoms"
-date:  2017-03-01 05:00:00 
-categories:  Science     
+date: 2017-03-01 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/fopu-qeb030117.php)
 
-id:  370224 
+id:  370224

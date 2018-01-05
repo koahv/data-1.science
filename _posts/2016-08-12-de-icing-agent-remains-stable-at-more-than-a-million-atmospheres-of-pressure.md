@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "De-icing agent remains stable at more than a million atmospheres of pressure"
-date:  2016-08-12 04:00:00 
-categories:  Technology  
+date: 2016-08-12 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/dlnl-dar081216.php)
 
-id:  313936 
+id:  313936

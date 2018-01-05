@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What the polarization of the cosmic microwave background is revealing"
-date:  2015-06-23 13:40:02 
-categories:  Science     
+date: 2015-06-23 13:40:02
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news354268757.html)
 
-id:  143803 
+id:  143803

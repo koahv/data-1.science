@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What flows on Pluto?"
-date:  2015-08-20 11:34:03 
-categories:  Science     
+date: 2015-08-20 11:34:03
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-pluto.html)
 
-id:  172059 
+id:  172059

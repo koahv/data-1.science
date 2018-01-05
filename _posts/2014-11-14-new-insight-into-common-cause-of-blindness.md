@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New insight into common cause of blindness"
-date:  2014-11-14 13:58:39 
-categories:  Science     
+date: 2014-11-14 13:58:39
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/IMwWQxRHkII/141114085839.htm)
 
-id:   62124 
+id:   62124

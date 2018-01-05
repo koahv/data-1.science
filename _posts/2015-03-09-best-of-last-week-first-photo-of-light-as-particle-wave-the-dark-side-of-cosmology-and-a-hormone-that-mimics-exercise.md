@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Best of Last Week – First photo of light as particle/wave, the dark side of cosmology and a hormone that mimics exercise"
-date:  2015-03-09 12:50:01 
-categories:  Science     
+date: 2015-03-09 12:50:01
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news345107719.html)
 
-id:   92609 
+id:   92609

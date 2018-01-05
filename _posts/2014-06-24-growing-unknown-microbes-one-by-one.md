@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Growing unknown microbes one by one"
-date:  2014-06-24 11:40:03 
-categories:  Science     
+date: 2014-06-24 11:40:03
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news322813197.html)
 
-id:    4175 
+id:    4175

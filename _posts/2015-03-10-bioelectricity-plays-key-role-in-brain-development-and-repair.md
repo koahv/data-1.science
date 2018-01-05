@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bioelectricity plays key role in brain development and repair"
-date:  2015-03-10 04:00:00 
-categories:  Technology  
+date: 2015-03-10 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/tu-bpk030415.php)
 
-id:   93560 
+id:   93560

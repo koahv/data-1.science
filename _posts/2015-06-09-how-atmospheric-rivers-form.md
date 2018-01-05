@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How atmospheric rivers form"
-date:  2015-06-09 15:00:03 
-categories:  Science     
+date: 2015-06-09 15:00:03
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news353059942.html)
 
-id:  136459 
+id:  136459

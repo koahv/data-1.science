@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Driving mosquito evolution to fight malaria"
-date:  2016-10-24 04:00:00 
-categories:  Science     
+date: 2016-10-24 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/uoc--dme102416.php)
 
-id:  334931 
+id:  334931

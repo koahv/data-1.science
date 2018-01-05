@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists grow multiple brain structures and make connections between them"
-date:  2015-06-15 16:52:52 
-categories:  Science     
+date: 2015-06-15 16:52:52
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150615125252.htm)
 
-id:  139734 
+id:  139734

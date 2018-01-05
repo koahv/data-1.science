@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "16 Commands to Show System/Hardware Info in Linux"
-date:  2015-03-23 17:00:00 
-categories:  Linux       
+date: 2015-03-23 17:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/upload/16-commands-to-show-systemhardware-info-in-linux-150322151510.html)
 
-id:   99304 
+id:   99304

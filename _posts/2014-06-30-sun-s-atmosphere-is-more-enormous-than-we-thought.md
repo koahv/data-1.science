@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Sun's atmosphere is more enormous than we thought"
-date:  2014-06-30 01:05:06 
-categories:  Science     
+date: 2014-06-30 01:05:06
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencealert.com.au/~r/sciencealert-latestnews/~3/UIY_bXCuRZc/20143006-25777.html)
 
-id:    9700 
+id:    9700

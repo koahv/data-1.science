@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Facts About Lithium"
-date:  2013-04-09 20:03:19 
-categories:  Science     
+date: 2013-04-09 20:03:19
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/28579-lithium.html)
 
-id:  188776 
+id:  188776

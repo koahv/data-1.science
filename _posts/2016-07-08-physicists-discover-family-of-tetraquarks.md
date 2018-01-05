@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists discover family of tetraquarks"
-date:  2016-07-08 04:00:00 
-categories:  Technology  
+date: 2016-07-08 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/su-pdf070716.php)
 
-id:  302787 
+id:  302787

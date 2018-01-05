@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos of the Day: NASA's Newest X-Plane Has 14 Electric Motors"
-date:  2016-06-23 19:22:14 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-06-23 19:22:14
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.pddnet.com/news/2016/06/photos-day-nasas-newest-x-plane-has-14-electric-motors)
 
-id:  298284 
+id:  298284

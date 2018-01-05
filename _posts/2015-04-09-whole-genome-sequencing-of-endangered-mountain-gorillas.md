@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Whole-genome sequencing of endangered mountain gorillas"
-date:  2015-04-09 18:00:04 
-categories:  Science     
+date: 2015-04-09 18:00:04
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news347801465.html)
 
-id:  107181 
+id:  107181

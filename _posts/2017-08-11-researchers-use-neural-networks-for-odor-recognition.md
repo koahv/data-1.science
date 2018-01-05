@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers use neural networks for odor recognition"
-date:  2017-08-11 10:46:37 
-categories:  Science     
+date: 2017-08-11 10:46:37
+categories: Science
 author: unknown author
-tags:  analytical chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+tags: [analytical chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  analytical chemistry
 
 [Visit Link](https://phys.org/news/2017-08-neural-networks-odor-recognition.html)
 
-id:  418365 
+id:  418365

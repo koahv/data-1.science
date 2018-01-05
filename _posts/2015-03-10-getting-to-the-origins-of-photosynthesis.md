@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Getting to the origins of photosynthesis"
-date:  2015-03-10 13:15:13 
-categories:  Science     
+date: 2015-03-10 13:15:13
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/tlWfqMKzUg4/150310091513.htm)
 
-id:   93538 
+id:   93538

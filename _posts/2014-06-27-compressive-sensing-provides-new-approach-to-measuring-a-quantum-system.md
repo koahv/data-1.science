@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Compressive sensing' provides new approach to measuring a quantum system"
-date:  2014-06-27 15:59:07 
-categories:  Science     
+date: 2014-06-27 15:59:07
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news323089137.html)
 
-id:    8548 
+id:    8548

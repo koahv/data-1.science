@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Genome's tale of 'conquer and enslave'"
-date:  2015-02-20 18:19:13 
-categories:  Science     
+date: 2015-02-20 18:19:13
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news343660743.html)
 
-id:   85470 
+id:   85470

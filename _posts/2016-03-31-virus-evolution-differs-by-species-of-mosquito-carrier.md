@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Virus evolution differs by species of mosquito carrier"
-date:  2016-03-31 04:00:00 
-categories:  Science     
+date: 2016-03-31 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/cp-ved032416.php)
 
-id:  268846 
+id:  268846

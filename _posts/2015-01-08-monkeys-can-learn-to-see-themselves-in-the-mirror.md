@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Monkeys can learn to see themselves in the mirror"
-date:  2015-01-08 18:00:47 
-categories:  Science     
+date: 2015-01-08 18:00:47
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/HvZwsn3sk_E/150108130047.htm)
 
-id:   70556 
+id:   70556

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Toward roads that de-ice themselves"
-date:  2015-12-16 05:00:00 
-categories:  Science     
+date: 2015-12-16 05:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/acs-trt121615.php)
 
-id:  225681 
+id:  225681

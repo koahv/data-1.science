@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Machine learning tackles quantum error correction"
-date:  2017-08-15 14:00:02 
-categories:  Science     
+date: 2017-08-15 14:00:02
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](https://phys.org/news/2017-08-machine-tackles-quantum-error.html)
 
-id:  419298 
+id:  419298

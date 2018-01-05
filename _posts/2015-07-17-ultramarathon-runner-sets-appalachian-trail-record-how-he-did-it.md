@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ultramarathon Runner Sets Appalachian Trail Record: How He Did It"
-date:  2015-07-17 16:36:03 
-categories:  Science     
+date: 2015-07-17 16:36:03
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51594-ultramarathon-record-appalachian-trail.html)
 
-id:  156822 
+id:  156822

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Game makers eager to pick your brain with neurogaming"
-date:  2014-06-20 17:30:04 
-categories:  Science     
+date: 2014-06-20 17:30:04
+categories: Science
 author: unknown author
-tags:  technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+tags: [technology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  technology
 
 [Visit Link](http://phys.org/news322475185.html)
 
-id:     855 
+id:     855

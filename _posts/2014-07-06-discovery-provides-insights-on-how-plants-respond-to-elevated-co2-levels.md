@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Discovery provides insights on how plants respond to elevated CO2 levels"
-date:  2014-07-06 17:00:01 
-categories:  Science     
+date: 2014-07-06 17:00:01
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news323856466.html)
 
-id:   14269 
+id:   14269

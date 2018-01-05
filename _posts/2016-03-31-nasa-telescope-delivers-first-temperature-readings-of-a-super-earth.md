@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Telescope Delivers First Temperature Readings of a Super-Earth"
-date:  2016-03-31 16:19:58 
-categories:  Technology  
-author:  jmeister                                                      
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-03-31 16:19:58
+categories: Technology
+author: jmeister
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/03/nasa-telescope-delivers-first-temperature-readings-super-earth)
 
-id:  268666 
+id:  268666

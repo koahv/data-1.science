@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Eyeing the stars: Ethiopia's space programme"
-date:  2015-08-25 06:55:20 
-categories:  Science     
+date: 2015-08-25 06:55:20
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2015-08-eyeing-stars-ethiopia-space-programme.html)
 
-id:  174011 
+id:  174011

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New microscope technique offers a better way to measure magnetic field of individual atoms"
-date:  2017-03-07 14:00:02 
-categories:  Science     
+date: 2017-03-07 14:00:02
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](https://phys.org/news/2017-03-microscope-technique-magnetic-field-individual.html)
 
-id:  371804 
+id:  371804

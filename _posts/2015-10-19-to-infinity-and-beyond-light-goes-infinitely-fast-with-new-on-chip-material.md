@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "To infinity and beyond: Light goes infinitely fast with new on-chip material"
-date:  2015-10-19 04:00:00 
-categories:  Technology  
+date: 2015-10-19 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/hu-tia101415.php)
 
-id:  199744 
+id:  199744

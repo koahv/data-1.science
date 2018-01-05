@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Analysis of fluid that bathes the human eye identifies 386 new proteins as biomarker candidates"
-date:  2015-05-29 04:00:00 
-categories:  Technology  
+date: 2015-05-29 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/mali-aof052915.php)
 
-id:  130859 
+id:  130859

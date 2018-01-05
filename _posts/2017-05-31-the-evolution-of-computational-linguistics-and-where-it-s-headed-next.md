@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The evolution of computational linguistics and where it's headed next"
-date:  2017-05-31 10:50:01 
-categories:  Science     
+date: 2017-05-31 10:50:01
+categories: Science
 author: unknown author
-tags:  computer sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [computer sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  computer sciences
 
 [Visit Link](https://phys.org/news/2017-05-evolution-linguistics.html)
 
-id:  396830 
+id:  396830

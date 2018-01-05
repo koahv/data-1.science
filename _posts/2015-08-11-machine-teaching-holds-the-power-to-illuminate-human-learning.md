@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Machine teaching' holds the power to illuminate human learning"
-date:  2015-08-11 04:00:00 
-categories:  Technology  
+date: 2015-08-11 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/uow-th081115.php)
 
-id:  168050 
+id:  168050

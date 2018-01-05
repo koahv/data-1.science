@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brain processes ongoing pain more emotionally"
-date:  2015-03-11 16:45:30 
-categories:  Science     
+date: 2015-03-11 16:45:30
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/i1un5o98Ri4/150311124530.htm)
 
-id:   94150 
+id:   94150

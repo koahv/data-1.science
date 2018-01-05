@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "'Big picture' thinking doesn't always lead people to indulge less, study says"
-date:  2014-07-23 20:20:52 
-categories:  Science     
+date: 2014-07-23 20:20:52
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/omf2ckvGL2g/140723162052.htm)
 
-id:   26936 
+id:   26936

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DNA reveals the origins of modern Europeans"
-date:  2015-03-23 12:30:04 
-categories:  Science     
+date: 2015-03-23 12:30:04
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news346314892.html)
 
-id:   98981 
+id:   98981

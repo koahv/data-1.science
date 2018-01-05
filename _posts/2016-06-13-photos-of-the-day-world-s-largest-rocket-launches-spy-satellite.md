@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos of the Day: World's Largest Rocket Launches Spy Satellite"
-date:  2016-06-13 20:37:57 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-06-13 20:37:57
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/news/2016/06/photos-day-worlds-largest-rocket-launches-spy-satellite)
 
-id:  294450 
+id:  294450

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Moment of impact: A journey into the Chicxulub Crater"
-date:  2017-10-23 04:00:00 
-categories:  Science     
+date: 2017-10-23 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/gsoa-moi102317.php)
 
-id:  443545 
+id:  443545

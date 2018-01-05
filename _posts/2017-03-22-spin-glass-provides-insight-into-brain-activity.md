@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Spin glass provides insight into brain activity"
-date:  2017-03-22 16:45:41 
-categories:  Science     
+date: 2017-03-22 16:45:41
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/mar/22/spin-glass-provides-insight-into-brain-activity)
 
-id:  376654 
+id:  376654

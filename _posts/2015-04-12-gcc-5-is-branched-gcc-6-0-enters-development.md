@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "GCC 5 Is Branched, GCC 6.0 Enters Development"
-date:  2015-04-12 20:11:40 
-categories:  Linux       
+date: 2015-04-12 20:11:40
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=GCC-5-Branched-GCC-6.0)
 
-id:  108174 
+id:  108174

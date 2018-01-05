@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World has lost 3 percent of its forests since 1990"
-date:  2015-09-14 04:00:00 
-categories:  Science     
+date: 2015-09-14 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uom-whl091415.php)
 
-id:  184184 
+id:  184184

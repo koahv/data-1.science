@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers create first global map of water in moon's soil"
-date:  2017-09-13 04:00:00 
-categories:  Astronomy   
+date: 2017-09-13 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/bu-rcf091317.php)
 
-id:  428595 
+id:  428595

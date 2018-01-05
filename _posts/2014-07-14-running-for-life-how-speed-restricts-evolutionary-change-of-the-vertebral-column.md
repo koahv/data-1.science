@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Running for life: How speed restricts evolutionary change of the vertebral column"
-date:  2014-07-14 04:00:00 
-categories:  Science     
+date: 2014-07-14 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/nbc-rfl071114.php)
 
-id:   19811 
+id:   19811

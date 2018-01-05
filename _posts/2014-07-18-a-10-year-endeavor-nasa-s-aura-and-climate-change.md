@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A 10-year endeavor: NASA's Aura and climate change"
-date:  2014-07-18 14:27:27 
-categories:  Science     
+date: 2014-07-18 14:27:27
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Or_dKVgKSwg/140718102727.htm)
 
-id:   23548 
+id:   23548

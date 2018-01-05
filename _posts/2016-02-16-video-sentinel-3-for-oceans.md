@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Video: Sentinel-3 for oceans"
-date:  2016-02-16 13:18:25 
-categories:  Science     
+date: 2016-02-16 13:18:25
+categories: Science
 author: unknown author
-tags:  earth sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [earth sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth sciences
 
 [Visit Link](http://phys.org/news/2016-02-video-sentinel-oceans.html)
 
-id:  250789 
+id:  250789

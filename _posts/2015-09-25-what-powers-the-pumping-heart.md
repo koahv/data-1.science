@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What powers the pumping heart?"
-date:  2015-09-25 04:00:00 
-categories:  Science     
+date: 2015-09-25 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uot-wpt092515.php)
 
-id:  189619 
+id:  189619

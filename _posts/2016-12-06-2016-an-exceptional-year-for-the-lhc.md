@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "2016—an exceptional year for the LHC"
-date:  2016-12-06 14:00:21 
-categories:  Science     
+date: 2016-12-06 14:00:21
+categories: Science
 author: unknown author
-tags:  general physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [general physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  general physics
 
 [Visit Link](http://phys.org/news/2016-12-2016an-exceptional-year-lhc.html)
 
-id:  346764 
+id:  346764

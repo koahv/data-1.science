@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dark Matter Mystery Deepens - Discovery News"
-date:  2014-06-17 21:59:32 
-categories:  Astronomy   
+date: 2014-06-17 21:59:32
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGArS8tah6_xR_IOAFUO4w7a110dw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778536863516&ei=J4GpU4nZGdHwggeqm4CIAw&url=http://news.discovery.com/space/dark-matter-mystery-deepens-140617.htm)
 
-id:    4595 
+id:    4595

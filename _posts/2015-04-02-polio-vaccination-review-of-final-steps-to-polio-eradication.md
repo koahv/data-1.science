@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Polio vaccination: Review of Final steps to polio eradication"
-date:  2015-04-02 12:21:56 
-categories:  Science     
+date: 2015-04-02 12:21:56
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/sVA7BG5_4ek/150402082156.htm)
 
-id:  104031 
+id:  104031

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Disruptive bioengineering – changing the way cells interact with each other"
-date:  2017-10-31 13:55:17 
-categories:  Science     
+date: 2017-10-31 13:55:17
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-10-disruptive-bioengineering-cells-interact.html)
 
-id:  447165 
+id:  447165

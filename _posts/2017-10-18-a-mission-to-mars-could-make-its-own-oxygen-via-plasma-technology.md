@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A mission to Mars could make its own oxygen via plasma technology"
-date:  2017-10-18 11:34:42 
-categories:  Science     
+date: 2017-10-18 11:34:42
+categories: Science
 author: unknown author
-tags:  plasma physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [plasma physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  plasma physics
 
 [Visit Link](https://phys.org/news/2017-10-mission-mars-oxygen-plasma-technology.html)
 
-id:  440630 
+id:  440630

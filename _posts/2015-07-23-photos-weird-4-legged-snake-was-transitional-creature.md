@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Photos: Weird 4-Legged Snake Was Transitional Creature"
-date:  2015-07-23 18:02:44 
-categories:  Science     
+date: 2015-07-23 18:02:44
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.livescience.com/51643-photos-four-legged-snake.html)
 
-id:  159719 
+id:  159719

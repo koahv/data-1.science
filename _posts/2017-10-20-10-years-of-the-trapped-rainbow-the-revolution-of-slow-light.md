@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "10 years of the trapped rainbow—the revolution of slow light"
-date:  2017-10-20 10:56:22 
-categories:  Science     
+date: 2017-10-20 10:56:22
+categories: Science
 author: unknown author
-tags:  optics & photonics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+tags: [optics & photonics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  optics & photonics
 
 [Visit Link](https://phys.org/news/2017-10-years-rainbowthe-revolution.html)
 
-id:  441932 
+id:  441932

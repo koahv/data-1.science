@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "USC to lead IARPA quantum computing project"
-date:  2017-06-26 04:00:00 
-categories:  Technology  
+date: 2017-06-26 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-06/uosc-utl062617.php)
 
-id:  404354 
+id:  404354

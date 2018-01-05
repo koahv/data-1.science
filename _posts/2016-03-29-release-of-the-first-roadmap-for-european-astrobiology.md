@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Release of the first Roadmap for European Astrobiology"
-date:  2016-03-29 04:00:00 
-categories:  Astronomy   
+date: 2016-03-29 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/esf-rot032916.php)
 
-id:  267630 
+id:  267630

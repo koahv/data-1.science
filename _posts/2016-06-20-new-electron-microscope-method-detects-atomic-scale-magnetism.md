@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New electron microscope method detects atomic-scale magnetism"
-date:  2016-06-20 20:25:50 
-categories:  Science     
+date: 2016-06-20 20:25:50
+categories: Science
 author: unknown author
-tags:  nanophysics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+tags: [nanophysics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nanophysics
 
 [Visit Link](http://phys.org/news/2016-06-electron-microscope-method-atomic-scale-magnetism.html)
 
-id:  296924 
+id:  296924

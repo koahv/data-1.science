@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How International Monitors Spot Nukes and Other Rumblings"
-date:  2015-09-10 16:00:00 
-categories:  Energy      
+date: 2015-09-10 16:00:00
+categories: Energy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.technologyreview.com/news/541141/how-international-monitors-spot-nukes-and-other-rumblings/)
 
-id:  184563 
+id:  184563

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "For the first time scientists map elevation changes of Greenlandic and Antarctic glaciers"
-date:  2014-08-20 13:36:59 
-categories:  Science     
+date: 2014-08-20 13:36:59
+categories: Science
 author: unknown author
-tags:  earth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [earth]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  earth
 
 [Visit Link](http://phys.org/news327746205.html)
 
-id:   42683 
+id:   42683

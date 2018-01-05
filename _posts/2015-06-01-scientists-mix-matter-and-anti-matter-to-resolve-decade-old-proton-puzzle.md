@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists mix matter and anti-matter to resolve decade-old proton puzzle"
-date:  2015-06-01 14:40:02 
-categories:  Science     
+date: 2015-06-01 14:40:02
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news352372357.html)
 
-id:  131793 
+id:  131793

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Millions of liters of juice from 1 grapefruit"
-date:  2015-04-15 04:00:00 
-categories:  Science     
+date: 2015-04-15 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/arco-mol041415.php)
 
-id:  109387 
+id:  109387

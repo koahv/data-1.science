@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Learn Linux, 101: A roadmap for LPIC-1"
-date:  2015-09-15 05:43:22 
-categories:  Linux       
+date: 2015-09-15 05:43:22
+categories: Linux
 author: unknown author
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=219277)
 
-id:  184550 
+id:  184550

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Thirty years of AIDS data highlight survival gains, room for improvement"
-date:  2015-06-04 12:47:15 
-categories:  Science     
+date: 2015-06-04 12:47:15
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150604084715.htm)
 
-id:  133936 
+id:  133936

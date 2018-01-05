@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New plant research leads to discovery of a gene that increases seed yield in maize"
-date:  2017-03-16 04:00:00 
-categories:  Science     
+date: 2017-03-16 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/vfi-npr031617.php)
 
-id:  376142 
+id:  376142

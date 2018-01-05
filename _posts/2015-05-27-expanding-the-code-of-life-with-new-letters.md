@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Expanding the code of life with new 'letters'"
-date:  2015-05-27 15:09:22 
-categories:  Science     
+date: 2015-05-27 15:09:22
+categories: Science
 author: unknown author
-tags:  chemistry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [chemistry]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  chemistry
 
 [Visit Link](http://phys.org/news351943756.html)
 
-id:  129445 
+id:  129445

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Rapid evolution of body size enhanced dinosaur and bird survival"
-date:  2015-11-03 14:20:10 
-categories:  Science     
+date: 2015-11-03 14:20:10
+categories: Science
 author: unknown author
-tags:  archaeology & fossils                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [archaeology & fossils]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  archaeology & fossils
 
 [Visit Link](http://phys.org/news/2015-11-rapid-evolution-body-size-dinosaur.html)
 
-id:  206400 
+id:  206400

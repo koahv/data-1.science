@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers blur the line between classical and quantum physics by connecting chaos and entanglement"
-date:  2016-07-12 17:10:17 
-categories:  Science     
+date: 2016-07-12 17:10:17
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-07-blur-line-classical-quantum-physics.html)
 
-id:  303899 
+id:  303899

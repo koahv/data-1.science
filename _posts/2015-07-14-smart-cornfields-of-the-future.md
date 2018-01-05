@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Smart cornfields of the future"
-date:  2015-07-14 04:00:00 
-categories:  Technology  
+date: 2015-07-14 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/wuis-sco071415.php)
 
-id:  155111 
+id:  155111

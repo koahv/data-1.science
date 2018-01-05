@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Humans artificially drive evolution of new species"
-date:  2016-06-28 23:00:03 
-categories:  Science     
+date: 2016-06-28 23:00:03
+categories: Science
 author: unknown author
-tags:  evolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [evolution]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  evolution
 
 [Visit Link](http://phys.org/news/2016-06-humans-artificially-evolution-species.html)
 
-id:  299804 
+id:  299804

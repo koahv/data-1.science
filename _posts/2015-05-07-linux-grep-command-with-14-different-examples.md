@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Linux grep command with 14 different examples"
-date:  2015-05-07 17:00:00 
-categories:  Linux       
+date: 2015-05-07 17:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/developer/linux-grep-command-with-14-different-examples-150504204507.html)
 
-id:  120114 
+id:  120114

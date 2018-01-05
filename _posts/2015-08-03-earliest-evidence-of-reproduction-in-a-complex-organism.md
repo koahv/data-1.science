@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earliest evidence of reproduction in a complex organism"
-date:  2015-08-03 19:48:58 
-categories:  Science     
+date: 2015-08-03 19:48:58
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150803154858.htm)
 
-id:  164267 
+id:  164267

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ants' movements hide mathematical patterns"
-date:  2015-05-12 14:32:27 
-categories:  Science     
+date: 2015-05-12 14:32:27
+categories: Science
 author: unknown author
-tags:  other sciences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: [other sciences]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  other sciences
 
 [Visit Link](http://phys.org/news350645539.html)
 
-id:  122039 
+id:  122039

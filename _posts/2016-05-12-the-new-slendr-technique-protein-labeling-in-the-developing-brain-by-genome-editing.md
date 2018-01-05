@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The new SLENDR technique: Protein labeling in the developing brain by genome editing"
-date:  2016-05-12 04:00:00 
-categories:  Technology  
+date: 2016-05-12 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/mpfi-tns051116.php)
 
-id:  284123 
+id:  284123

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Time for more 2016: leap second will be added to year’s end"
-date:  2016-07-07 11:40:01 
-categories:  Astronomy   
+date: 2016-07-07 11:40:01
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.newscientist.com/article/2096394-time-for-more-2016-leap-second-will-be-added-to-years-end/)
 
-id:  302360 
+id:  302360

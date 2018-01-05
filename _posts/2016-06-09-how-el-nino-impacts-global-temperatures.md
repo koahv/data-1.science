@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How El Niño impacts global temperatures"
-date:  2016-06-09 04:00:00 
-categories:  Science     
+date: 2016-06-09 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/anu-hen060916.php)
 
-id:  293165 
+id:  293165

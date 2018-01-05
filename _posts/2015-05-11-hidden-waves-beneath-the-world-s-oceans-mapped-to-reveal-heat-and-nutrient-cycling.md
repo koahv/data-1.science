@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Hidden Waves Beneath the World's Oceans Mapped to Reveal Heat and Nutrient Cycling"
-date:  2015-05-11 10:56:29 
-categories:  Science     
+date: 2015-05-11 10:56:29
+categories: Science
 author: unknown author
-tags:  nature & environment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+tags: [nature & environment]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  nature & environment
 
 [Visit Link](http://www.scienceworldreport.com/articles/25329/20150511/hidden-waves-beneath-worlds-oceans-mapped-reveal-heat-nutrient-cycling.htm)
 
-id:  121329 
+id:  121329

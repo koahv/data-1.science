@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Spinning a new version of spider silk"
-date:  2015-05-28 15:11:12 
-categories:  Science     
+date: 2015-05-28 15:11:12
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/iJZIaQR43gI/150528111112.htm)
 
-id:  130233 
+id:  130233

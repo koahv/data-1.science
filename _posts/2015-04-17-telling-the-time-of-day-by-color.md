@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Telling the time of day by color"
-date:  2015-04-17 18:52:07 
-categories:  Science     
+date: 2015-04-17 18:52:07
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/ElLzjMXBY4k/150417145207.htm)
 
-id:  111082 
+id:  111082

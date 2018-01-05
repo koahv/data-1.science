@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers find brain area that integrates speech's rhythms"
-date:  2015-05-18 04:00:00 
-categories:  Science     
+date: 2015-05-18 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/du-rfb051815.php)
 
-id:  124929 
+id:  124929

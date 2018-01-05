@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Transfering magnetic fields across long distances"
-date:  2014-06-25 11:40:03 
-categories:  Science     
+date: 2014-06-25 11:40:03
+categories: Science
 author: unknown author
-tags:  physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  physics
 
 [Visit Link](http://phys.org/news322900211.html)
 
-id:    6022 
+id:    6022

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolution is unpredictable and irreversible, biologists show"
-date:  2015-06-08 21:21:41 
-categories:  Science     
+date: 2015-06-08 21:21:41
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news353002893.html)
 
-id:  135757 
+id:  135757

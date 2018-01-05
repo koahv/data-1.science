@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New planetary dashboard shows 'Great Acceleration' in human activity since 1950"
-date:  2015-01-15 05:00:00 
-categories:  Astronomy   
+date: 2015-01-15 05:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/sp-npd011515.php)
 
-id:   73393 
+id:   73393

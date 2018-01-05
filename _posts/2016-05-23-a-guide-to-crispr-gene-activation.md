@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A guide to CRISPR gene activation"
-date:  2016-05-23 04:00:00 
-categories:  Technology  
+date: 2016-05-23 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/wifb-agt052216.php)
 
-id:  287664 
+id:  287664

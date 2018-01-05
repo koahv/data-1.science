@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cancer survivors have evolving information needs"
-date:  2015-05-15 17:01:26 
-categories:  Science     
+date: 2015-05-15 17:01:26
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/7vTeumtoSNs/150515130126.htm)
 
-id:  123917 
+id:  123917

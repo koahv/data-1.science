@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Breakthrough in tinnitus research could lead to testable model"
-date:  2015-05-12 19:26:46 
-categories:  Science     
+date: 2015-05-12 19:26:46
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/yd1tSzxRg3g/150512152646.htm)
 
-id:  122333 
+id:  122333

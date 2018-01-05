@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "World's biggest telescope meets world's second fastest supercomputer"
-date:  2016-08-22 13:39:04 
-categories:  Science     
+date: 2016-08-22 13:39:04
+categories: Science
 author: unknown author
-tags:  astronomy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [astronomy]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy
 
 [Visit Link](http://phys.org/news/2016-08-world-biggest-telescope-fastest-supercomputer.html)
 
-id:  316466 
+id:  316466

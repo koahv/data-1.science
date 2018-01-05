@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NEAFC adopts new deep-sea regulations - World Fishing"
-date:  2014-06-26 12:11:56 
-categories:  Earth       
+date: 2014-06-26 12:11:56
+categories: Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFDbbWPWH90NBPIDuWreE5lX8JU2w&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=nQ6sU_jpI4rKgAfYtoCwAQ&url=http://www.worldfishing.net/news101/industry-news/neafc-adopts-new-deep-sea-regulations)
 
-id:    7305 
+id:    7305

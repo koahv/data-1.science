@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Linux Foundation introduces new Linux certifications"
-date:  2014-08-20 18:07:05 
-categories:  Linux       
+date: 2014-08-20 18:07:05
+categories: Linux
 author: unknown author
-tags:  cxo,linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+tags: [cxo, linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cxo,linux
 
 [Visit Link](http://www.zdnet.com/linux-foundation-introduces-new-linux-certifications-7000032791/#ftag=RSS510d04f)
 
-id:   43019 
+id:   43019

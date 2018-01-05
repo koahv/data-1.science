@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Resistance genes from wild relatives of crops offer opportunities for more sustainable agriculture worldwide"
-date:  2015-09-04 12:00:01 
-categories:  Science     
+date: 2015-09-04 12:00:01
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2015-09-resistance-genes-wild-relatives-crops.html)
 
-id:  179534 
+id:  179534

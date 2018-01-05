@@ -1,19 +1,24 @@
 ---
 layout: post
 title: "Launch replay"
-date:  2015-07-16 07:45:00 
-categories:  Astronomy   
+date: 2015-07-16 07:45:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
 #### Extract
->+
+>
+							
+				
+		
+		Missed MSG-4 liftoff? Watch the replay of the launch from Europe’s Spaceport in French Guiana on 15 July
+	
 
 #### Factsheet
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/spaceinvideos/Videos/2015/07/MSG-4_liftoff)
 
-id:  155683 
+id:  155683

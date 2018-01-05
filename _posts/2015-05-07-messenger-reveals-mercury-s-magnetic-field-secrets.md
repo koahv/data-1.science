@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "MESSENGER reveals Mercury's magnetic field secrets"
-date:  2015-05-07 18:00:56 
-categories:  Science     
+date: 2015-05-07 18:00:56
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news350226044.html)
 
-id:  120140 
+id:  120140

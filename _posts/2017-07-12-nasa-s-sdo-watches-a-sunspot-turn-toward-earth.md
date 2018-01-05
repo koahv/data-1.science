@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's SDO watches a sunspot turn toward Earth"
-date:  2017-07-12 15:26:33 
-categories:  Science     
+date: 2017-07-12 15:26:33
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](https://phys.org/news/2017-07-nasa-sdo-sunspot-earth.html)
 
-id:  409115 
+id:  409115

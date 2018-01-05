@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Webb telescope microshutters journey into NASA clean room"
-date:  2014-06-24 11:20:44 
-categories:  Science     
+date: 2014-06-24 11:20:44
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news322813231.html)
 
-id:    4179 
+id:    4179

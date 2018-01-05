@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Time-lapse analysis offers new look at how cells repair DNA damage"
-date:  2015-09-02 11:31:21 
-categories:  Science     
+date: 2015-09-02 11:31:21
+categories: Science
 author: unknown author
-tags:  cell & microbiology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+tags: [cell & microbiology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  cell & microbiology
 
 [Visit Link](http://phys.org/news/2015-09-time-lapse-analysis-cells-dna.html)
 
-id:  178104 
+id:  178104

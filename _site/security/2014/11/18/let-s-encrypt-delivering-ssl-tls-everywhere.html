@@ -5,20 +5,21 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Begin Jekyll SEO tag v2.3.0 -->
+  <!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>Let’s Encrypt: Delivering SSL/TLS Everywhere | data-1.science</title>
+<meta name="generator" content="Jekyll v3.6.2" />
 <meta property="og:title" content="Let’s Encrypt: Delivering SSL/TLS Everywhere" />
 <meta name="author" content="unknown author" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Extract Vital personal and business information flows over the Internet more frequently than ever, and we don’t always know when it’s happening. It’s clear at this point that encrypting is something all of us should be doing. Then why don’t we use TLS (the successor to SSL) everywhere? Every browser in every device supports it. Every server in every data center supports it. Why don’t we just flip the switch? +" />
-<meta property="og:description" content="Extract Vital personal and business information flows over the Internet more frequently than ever, and we don’t always know when it’s happening. It’s clear at this point that encrypting is something all of us should be doing. Then why don’t we use TLS (the successor to SSL) everywhere? Every browser in every device supports it. Every server in every data center supports it. Why don’t we just flip the switch? +" />
+<meta name="description" content="Extract Vital personal and business information flows over the Internet more frequently than ever, and we don’t always know when it’s happening. It’s clear at this point that encrypting is something all of us should be doing. Then why don’t we use TLS (the successor to SSL) everywhere? Every browser in every device supports it. Every server in every data center supports it. Why don’t we just flip the switch?" />
+<meta property="og:description" content="Extract Vital personal and business information flows over the Internet more frequently than ever, and we don’t always know when it’s happening. It’s clear at this point that encrypting is something all of us should be doing. Then why don’t we use TLS (the successor to SSL) everywhere? Every browser in every device supports it. Every server in every data center supports it. Why don’t we just flip the switch?" />
 <link rel="canonical" href="http://localhost:4000/security/2014/11/18/let-s-encrypt-delivering-ssl-tls-everywhere.html" />
 <meta property="og:url" content="http://localhost:4000/security/2014/11/18/let-s-encrypt-delivering-ssl-tls-everywhere.html" />
 <meta property="og:site_name" content="data-1.science" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2014-11-18T15:00:00+00:00" />
 <script type="application/ld+json">
-{"name":null,"description":"Extract Vital personal and business information flows over the Internet more frequently than ever, and we don’t always know when it’s happening. It’s clear at this point that encrypting is something all of us should be doing. Then why don’t we use TLS (the successor to SSL) everywhere? Every browser in every device supports it. Every server in every data center supports it. Why don’t we just flip the switch? +","url":"http://localhost:4000/security/2014/11/18/let-s-encrypt-delivering-ssl-tls-everywhere.html","headline":"Let’s Encrypt: Delivering SSL/TLS Everywhere","dateModified":"2014-11-18T15:00:00+00:00","datePublished":"2014-11-18T15:00:00+00:00","sameAs":null,"@type":"BlogPosting","author":{"@type":"Person","name":"unknown author"},"image":null,"publisher":null,"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/security/2014/11/18/let-s-encrypt-delivering-ssl-tls-everywhere.html"},"@context":"http://schema.org"}</script>
+{"description":"Extract Vital personal and business information flows over the Internet more frequently than ever, and we don’t always know when it’s happening. It’s clear at this point that encrypting is something all of us should be doing. Then why don’t we use TLS (the successor to SSL) everywhere? Every browser in every device supports it. Every server in every data center supports it. Why don’t we just flip the switch?","url":"http://localhost:4000/security/2014/11/18/let-s-encrypt-delivering-ssl-tls-everywhere.html","headline":"Let’s Encrypt: Delivering SSL/TLS Everywhere","dateModified":"2014-11-18T15:00:00+00:00","datePublished":"2014-11-18T15:00:00+00:00","@type":"BlogPosting","author":{"@type":"Person","name":"unknown author"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/security/2014/11/18/let-s-encrypt-delivering-ssl-tls-everywhere.html"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   <link rel="stylesheet" href="/assets/main.css">
@@ -81,15 +82,39 @@
         Nov 18, 2014
       </time>
       
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">unknown author</span></span>
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">unknown author • Tags: 
+</span></span>
       </p>
-  </header>
+ 
+   </header>
 
   <div class="post-content" itemprop="articleBody">
     <h4 id="extract">Extract</h4>
 <blockquote>
-  <p>Vital personal and business information flows over the Internet more frequently than ever, and we don’t always know when it’s happening. It’s clear at this point that encrypting is something all of us should be doing. Then why don’t we use TLS (the successor to SSL) everywhere? Every browser in every device supports it. Every server in every data center supports it. Why don’t we just flip the switch?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       +</p>
+  <p>Vital personal and business information flows over the Internet more frequently than ever, and we don’t always know when it’s happening. It’s clear at this point that encrypting is something all of us should be doing. Then why don’t we use TLS (the successor to SSL) everywhere? Every browser in every device supports it. Every server in every data center supports it. Why don’t we just flip the switch?</p>
 </blockquote>
+
+<p>The challenge is server certificates. The anchor for any TLS-protected communication is a public-key certificate which demonstrates that the server you’re actually talking to is the server you intended to talk to. For many server operators, getting even a basic server certificate is just too much of a hassle. The application process can be confusing. It usually costs money. It’s tricky to install correctly. It’s a pain to update.</p>
+
+<p>Let’s Encrypt is a new free certificate authority, built on a foundation of cooperation and openness, that lets everyone be up and running with basic server certificates for their domains through a simple one-click process.</p>
+
+<p>Mozilla Corporation, Cisco Systems, Inc., Akamai Technologies, Electronic Frontier Foundation, IdenTrust, Inc., and researchers at the University of Michigan are working through the Internet Security Research Group (“ISRG”), a California public benefit corporation, to deliver this much-needed infrastructure in Q2 2015. The ISRG welcomes other organizations dedicated to the same ideal of ubiquitous, open Internet security.</p>
+
+<p>The key principles behind Let’s Encrypt are:</p>
+
+<p>Free: Anyone who owns a domain can get a certificate validated for that domain at zero cost.
+  Automatic: The entire enrollment process for certificates occurs painlessly during the server’s native installation or configuration process, while renewal occurs automatically in the background.
+  Secure: Let’s Encrypt will serve as a platform for implementing modern security techniques and best practices.
+  Transparent: All records of certificate issuance and revocation will be available to anyone who wishes to inspect them.
+  Open: The automated issuance and renewal protocol will be an open standard and as much of the software as possible will be open source. 
+  Cooperative: Much like the underlying Internet protocols themselves, Let’s Encrypt is a joint effort to benefit the entire community, beyond the control of any one organization.</p>
+
+<p>If you want to help these organizations in making TLS Everywhere a reality, here’s how you can get involved:</p>
+
+<p>Sponsor ISRG
+  Help Us Build Let’s Encrypt</p>
+
+<p>To learn more about the ISRG and our partners, check out our About page.</p>
 
 <h4 id="factsheet">Factsheet</h4>
 <blockquote>
@@ -105,10 +130,38 @@
 <hr>
 <p>
 <div class="relatedPosts">
+<b>Related Content (if any)</b>
 
 
 
 
+
+  
+
+    
+    
+
+    
+
+    
+
+  
+
+    
+    
+
+    
+
+    
+
+  
+
+    
+    
+
+    
+
+    
 
   
 

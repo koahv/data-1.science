@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Agriculture's next frontier? Growing plants in space"
-date:  2015-07-16 13:20:15 
-categories:  Science     
+date: 2015-07-16 13:20:15
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150716092015.htm)
 
-id:  155947 
+id:  155947

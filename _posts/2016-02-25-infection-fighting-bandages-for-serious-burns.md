@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Infection-fighting bandages for serious burns"
-date:  2016-02-25 05:00:00 
-categories:  Technology  
+date: 2016-02-25 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/epfd-ibf022416.php)
 
-id:  255379 
+id:  255379

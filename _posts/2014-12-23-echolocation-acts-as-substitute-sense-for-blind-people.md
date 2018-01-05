@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Echolocation acts as substitute sense for blind people"
-date:  2014-12-23 18:25:42 
-categories:  Science     
+date: 2014-12-23 18:25:42
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Oj_uQk3kgJw/141223132542.htm)
 
-id:   69012 
+id:   69012

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Calming Your Biggest Fears About Industrial IoT"
-date:  2015-06-15 14:34:55 
-categories:  Technology  
-author:  mfassbender                                                   
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-06-15 14:34:55
+categories: Technology
+author: mfassbender
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/blogs/2015/06/calming-your-biggest-fears-about-industrial-iot)
 
-id:  139202 
+id:  139202

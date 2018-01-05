@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tooth buried in bone shows prehistoric predators tangled across land, sea"
-date:  2014-09-26 04:00:00 
-categories:  Science     
+date: 2014-09-26 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/vt-tbi092614.php)
 
-id:   51734 
+id:   51734

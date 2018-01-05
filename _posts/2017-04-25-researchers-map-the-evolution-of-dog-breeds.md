@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers map the evolution of dog breeds"
-date:  2017-04-25 04:00:00 
-categories:  Science     
+date: 2017-04-25 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/cp-rmt042017.php)
 
-id:  386880 
+id:  386880

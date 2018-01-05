@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Machines teach astronomers about stars"
-date:  2015-01-16 19:56:56 
-categories:  Science     
+date: 2015-01-16 19:56:56
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/gchLYoHNoVw/150116145656.htm)
 
-id:   72599 
+id:   72599

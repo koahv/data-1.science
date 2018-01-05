@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Reservoir of ultracold atoms is filled continuously"
-date:  2015-07-30 14:21:59 
-categories:  Science     
+date: 2015-07-30 14:21:59
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/jul/30/reservoir-of-ultracold-atoms-is-filled-continuously)
 
-id:  162884 
+id:  162884

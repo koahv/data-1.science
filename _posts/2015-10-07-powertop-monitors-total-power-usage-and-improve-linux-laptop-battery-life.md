@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "PowerTop Monitors Total Power Usage and Improve Linux Laptop Battery Life"
-date:  2015-10-07 21:00:00 
-categories:  Linux       
+date: 2015-10-07 21:00:00
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.linuxtoday.com/upload/powertop-monitors-total-power-usage-and-improve-linux-laptop-battery-life-151007040023.html)
 
-id:  195330 
+id:  195330

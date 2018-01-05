@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New material for creating artificial blood vessels"
-date:  2015-04-28 04:00:00 
-categories:  Science     
+date: 2015-04-28 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/vuot-nmf042815.php)
 
-id:  115505 
+id:  115505

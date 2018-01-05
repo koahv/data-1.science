@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "10 fdisk Commands to Manage Linux Disk Partitions"
-date:  2015-12-16 04:00:07 
-categories:  Linux       
-author:  Ravi Saive                                                    
-tags:  linux commands                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-12-16 04:00:07
+categories: Linux
+author: Ravi Saive
+tags: [linux commands]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands
 
 [Visit Link](http://www.tecmint.com/fdisk-commands-to-manage-linux-disk-partitions/)
 
-id:  225531 
+id:  225531

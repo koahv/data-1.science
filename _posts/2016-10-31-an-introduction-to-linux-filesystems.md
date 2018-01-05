@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "An Introduction to Linux Filesystems"
-date:  2016-10-31 08:00:00 
-categories:  Linux       
-author:  OpenSource.com                                                
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-10-31 08:00:00
+categories: Linux
+author: OpenSource.com
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/introduction-linux-filesystems-0)
 
-id:  336843 
+id:  336843

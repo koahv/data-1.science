@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Image: Saturn's sponge-like moon Hyperion"
-date:  2015-04-28 12:44:09 
-categories:  Science     
+date: 2015-04-28 12:44:09
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news349429441.html)
 
-id:  115361 
+id:  115361

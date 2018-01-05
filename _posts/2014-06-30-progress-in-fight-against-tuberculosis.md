@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Progress in fight against tuberculosis"
-date:  2014-06-30 15:41:49 
-categories:  Science     
+date: 2014-06-30 15:41:49
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/CD9qtg0rNfU/140630114149.htm)
 
-id:   10497 
+id:   10497

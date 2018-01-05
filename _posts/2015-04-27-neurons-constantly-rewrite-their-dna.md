@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Neurons constantly rewrite their DNA"
-date:  2015-04-27 04:00:00 
-categories:  Science     
+date: 2015-04-27 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/jhm-ncr042315.php)
 
-id:  114917 
+id:  114917

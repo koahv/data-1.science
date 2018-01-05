@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Soybean science blooms with supercomputers"
-date:  2016-08-16 19:09:57 
-categories:  Science     
+date: 2016-08-16 19:09:57
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](http://phys.org/news/2016-08-soybean-science-blooms-supercomputers.html)
 
-id:  314890 
+id:  314890

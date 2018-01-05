@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "17-million-year-old whale fossil provides first exact date for East Africa's puzzling uplift"
-date:  2015-03-17 04:00:00 
-categories:  Science     
+date: 2015-03-17 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/smu-1mw031715.php)
 
-id:   96498 
+id:   96498

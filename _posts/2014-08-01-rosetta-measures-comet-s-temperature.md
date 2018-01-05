@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Rosetta measures comet's temperature"
-date:  2014-08-01 15:30:43 
-categories:  Science     
+date: 2014-08-01 15:30:43
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news326111431.html)
 
-id:   30121 
+id:   30121

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers use NASA and other data to look into the heart of a solar storm"
-date:  2014-08-28 04:00:00 
-categories:  Technology  
+date: 2014-08-28 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/nsfc-run082814.php)
 
-id:   47966 
+id:   47966

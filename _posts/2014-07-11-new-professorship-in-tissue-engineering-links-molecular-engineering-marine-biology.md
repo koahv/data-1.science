@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New professorship in tissue engineering links molecular engineering, marine biology"
-date:  2014-07-11 04:00:00 
-categories:  Technology  
+date: 2014-07-11 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/uoc-npi071114.php)
 
-id:   18346 
+id:   18346

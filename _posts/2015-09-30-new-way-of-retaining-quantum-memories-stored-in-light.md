@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New way of retaining quantum memories stored in light"
-date:  2015-09-30 04:00:00 
-categories:  Science     
+date: 2015-09-30 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/s-nwo093015.php)
 
-id:  191619 
+id:  191619

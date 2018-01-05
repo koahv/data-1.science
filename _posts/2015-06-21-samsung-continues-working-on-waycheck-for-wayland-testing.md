@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Samsung Continues Working On Waycheck For Wayland Testing"
-date:  2015-06-21 00:50:09 
-categories:  Linux       
+title: "Samsung Continues Working On "Waycheck" For Wayland Testing"
+date: 2015-06-21 00:50:09
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Waycheck-Wayland-Testing)
 
-id:  142601 
+id:  142601

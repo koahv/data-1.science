@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Where to Find the World's Best Programmers"
-date:  2016-10-24 09:20:00 
-categories:  Linux       
-author:  Network World                                                 
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2016-10-24 09:20:00
+categories: Linux
+author: Network World
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](https://www.linux.com/news/where-find-worlds-best-programmers)
 
-id:  334883 
+id:  334883

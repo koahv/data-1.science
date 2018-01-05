@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers find patterns in evolving genomes of thousands of species"
-date:  2015-03-27 12:00:02 
-categories:  Science     
+date: 2015-03-27 12:00:02
+categories: Science
 author: unknown author
-tags:  biology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+tags: [biology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biology
 
 [Visit Link](http://phys.org/news346660130.html)
 
-id:  101394 
+id:  101394

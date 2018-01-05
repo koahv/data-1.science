@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How the woodpecker avoids brain injury despite high-speed impacts via optimal anti-shock body structure"
-date:  2014-08-11 04:00:00 
-categories:  Technology  
+date: 2014-08-11 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/scp-htw081114.php)
 
-id:   36181 
+id:   36181

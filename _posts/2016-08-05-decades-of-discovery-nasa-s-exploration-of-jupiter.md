@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Decades of discovery: NASA's exploration of Jupiter"
-date:  2016-08-05 04:00:00 
-categories:  Astronomy   
+date: 2016-08-05 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/nsfc-dod080516.php)
 
-id:  311759 
+id:  311759

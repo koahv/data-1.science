@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How we hear distance: Echoes are essential for humans to perceive how far away a sound is"
-date:  2015-04-01 18:08:33 
-categories:  Science     
+date: 2015-04-01 18:08:33
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/ZHANczI59bs/150401140833.htm)
 
-id:  103691 
+id:  103691

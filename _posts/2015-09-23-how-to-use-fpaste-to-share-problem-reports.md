@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to use fpaste to share problem reports"
-date:  2015-09-23 21:05:14 
-categories:  Linux       
+date: 2015-09-23 21:05:14
+categories: Linux
 author: unknown author
-tags:  linux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+tags: [linux]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=219677)
 
-id:  188641 
+id:  188641

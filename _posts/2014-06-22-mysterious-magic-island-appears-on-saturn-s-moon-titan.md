@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mysterious 'Magic Island' appears on Saturn's moon Titan"
-date:  2014-06-22 17:00:09 
-categories:  Science     
+date: 2014-06-22 17:00:09
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news322590086.html)
 
-id:     833 
+id:     833

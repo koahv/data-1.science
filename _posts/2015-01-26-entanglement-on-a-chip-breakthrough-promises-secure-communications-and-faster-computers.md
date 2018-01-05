@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Entanglement on a chip: Breakthrough promises secure communications and faster computers"
-date:  2015-01-26 05:00:00 
-categories:  Technology  
+date: 2015-01-26 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/tos-eoa012115.php)
 
-id:   76030 
+id:   76030

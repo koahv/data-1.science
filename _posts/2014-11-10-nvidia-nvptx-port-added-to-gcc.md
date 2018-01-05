@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NVIDIA NVPTX Port Added To GCC"
-date:  2014-11-10 16:58:24 
-categories:  Linux       
+date: 2014-11-10 16:58:24
+categories: Linux
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTgzNTM)
 
-id:   60632 
+id:   60632

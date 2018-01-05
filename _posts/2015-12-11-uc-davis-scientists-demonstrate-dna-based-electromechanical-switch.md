@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "UC Davis scientists demonstrate DNA-based electromechanical switch"
-date:  2015-12-11 05:00:00 
-categories:  Technology  
+date: 2015-12-11 05:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/uoc--uds121115.php)
 
-id:  223507 
+id:  223507

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Higgs Boson Properties Measured More Precisely Than Ever Before"
-date:  2015-09-01 14:23:08 
-categories:  Technology  
-author:  mcrouse                                                       
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+date: 2015-09-01 14:23:08
+categories: Technology
+author: mcrouse
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.pddnet.com/2015/09/higgs-boson-properties-measured-more-precisely-ever)
 
-id:  177676 
+id:  177676

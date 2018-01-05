@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How a new telescope will measure the expansion of the universe"
-date:  2015-05-01 11:52:29 
-categories:  Science     
+date: 2015-05-01 11:52:29
+categories: Science
 author: unknown author
-tags:  astronomy & space                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [astronomy & space]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  astronomy & space
 
 [Visit Link](http://phys.org/news349685540.html)
 
-id:  117268 
+id:  117268

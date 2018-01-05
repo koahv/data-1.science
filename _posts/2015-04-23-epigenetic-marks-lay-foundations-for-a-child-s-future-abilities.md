@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Epigenetic Marks Lay Foundations for a Child’s Future Abilities"
-date:  2015-04-23 02:05:54 
-categories:  Science     
+date: 2015-04-23 02:05:54
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/XO41nx695_M/150422220554.htm)
 
-id:  113284 
+id:  113284

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "800 meters beneath Antarctic ice sheet, subglacial lake holds viable microbial ecosystems"
-date:  2014-08-21 04:00:00 
-categories:  Science     
+date: 2014-08-21 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/nsf-8mb082114.php)
 
-id:   44055 
+id:   44055

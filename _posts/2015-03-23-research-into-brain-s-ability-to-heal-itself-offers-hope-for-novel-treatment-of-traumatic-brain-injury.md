@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Research into brain's ability to heal itself offers hope for novel treatment of traumatic brain injury"
-date:  2015-03-23 15:16:51 
-categories:  Science     
+date: 2015-03-23 15:16:51
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/d_aRqwLm-r0/150323111651.htm)
 
-id:   99229 
+id:   99229

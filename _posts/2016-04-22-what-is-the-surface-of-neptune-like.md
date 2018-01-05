@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What is the surface of Neptune like?"
-date:  2016-04-22 13:50:02 
-categories:  Science     
+date: 2016-04-22 13:50:02
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-04-surface-neptune.html)
 
-id:  277160 
+id:  277160

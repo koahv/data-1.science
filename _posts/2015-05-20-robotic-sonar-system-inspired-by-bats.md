@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Robotic sonar system inspired by bats"
-date:  2015-05-20 04:00:00 
-categories:  Technology  
+date: 2015-05-20 04:00:00
+categories: Technology
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/asoa-rss050815.php)
 
-id:  126335 
+id:  126335

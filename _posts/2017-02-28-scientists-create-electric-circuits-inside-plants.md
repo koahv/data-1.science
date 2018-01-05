@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists create electric circuits inside plants"
-date:  2017-02-28 13:00:01 
-categories:  Science     
+date: 2017-02-28 13:00:01
+categories: Science
 author: unknown author
-tags:  biotechnology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+tags: [biotechnology]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  biotechnology
 
 [Visit Link](https://phys.org/news/2017-02-scientists-electric-circuits.html)
 
-id:  369772 
+id:  369772

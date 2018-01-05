@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Deep-sea divers dwarfed by alien-like jellyfish off coast of Japan - Daily Mail"
-date:  2014-12-16 17:21:35 
-categories:  Earth       
+date: 2014-12-16 17:21:35
+categories: Earth
+Earth
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +17,4 @@ tags:
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHM1uZfMtWZ7p6HxdFJfzxohiUsaw&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=_QyQVJDcJYncgAeTh4HYDA&url=http://www.dailymail.co.uk/travel/travel_news/article-2874491/Underwater-encounter-kind-Deep-sea-divers-dwarfed-gigantic-alien-like-jellyfish-coast-Japan.html)
 
-id:   64498 
+id:   64498

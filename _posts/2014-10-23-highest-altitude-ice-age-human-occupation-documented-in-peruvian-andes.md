@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Highest altitude ice age human occupation documented in Peruvian Andes"
-date:  2014-10-23 04:00:00 
-categories:  Science     
+date: 2014-10-23 04:00:00
+categories: Science
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-10/uom-hai101614.php)
 
-id:   57652 
+id:   57652

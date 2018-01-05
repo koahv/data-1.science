@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Simulations foresee hordes of colliding black holes in LIGO's future"
-date:  2016-06-23 04:00:00 
-categories:  Astronomy   
+date: 2016-06-23 04:00:00
+categories: Astronomy
 author: unknown author
-tags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+tags: []
 ---
 
 
@@ -16,4 +16,4 @@ tags:
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/uoc-sfh062316.php)
 
-id:  298432 
+id:  298432

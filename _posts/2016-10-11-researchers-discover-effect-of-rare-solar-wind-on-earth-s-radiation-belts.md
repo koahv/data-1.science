@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Researchers discover effect of rare solar wind on Earth's radiation belts"
-date:  2016-10-11 19:28:08 
-categories:  Science     
+date: 2016-10-11 19:28:08
+categories: Science
 author: unknown author
-tags:  space exploration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+tags: [space exploration]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  space exploration
 
 [Visit Link](http://phys.org/news/2016-10-effect-rare-solar-earth-belts.html)
 
-id:  331258 
+id:  331258

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists confirm existence of quantum knots and create them in a quantum-mechanical field"
-date:  2016-01-20 10:46:20 
-categories:  Science     
+date: 2016-01-20 10:46:20
+categories: Science
 author: unknown author
-tags:  quantum physics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+tags: [quantum physics]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  quantum physics
 
 [Visit Link](http://phys.org/news/2016-01-scientists-quantum-quantum-mechanical-field.html)
 
-id:  238662 
+id:  238662

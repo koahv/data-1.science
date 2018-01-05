@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to Impose High CPU Load and Stress Test on Linux Using ‘Stress-ng’ Tool"
-date:  2015-09-29 10:26:16 
-categories:  Linux       
-author:  Aaron Kili                                                    
-tags:  linux commands,stress,stress-ng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+date: 2015-09-29 10:26:16
+categories: Linux
+author: Aaron Kili
+tags: [linux commands, stress, stress-ng]
 ---
 
 
@@ -16,4 +16,4 @@ tags:  linux commands,stress,stress-ng
 
 [Visit Link](http://www.tecmint.com/linux-cpu-load-stress-test-with-stress-ng-tool/)
 
-id:  190897 
+id:  190897
