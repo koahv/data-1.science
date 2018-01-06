@@ -11,7 +11,7 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }} • Tags: {% for tags in page.tags %} {{ tags }}, {% endfor %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }} • Tags: {% for tags in page.tags %} {{ tags }} {% endfor %}
 </span></span>
       {% endif %}</p>
  
@@ -48,6 +48,16 @@ layout: default
 {% if hasSimilar.size > 0 %}
     </ul>
 {% endif %}
+
+
+
+
+
+    <ul class="tags">
+      {% for tag in page.tags %}
+    <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
+  {% endfor %}
+</ul>
 </div>
 
 </article>
