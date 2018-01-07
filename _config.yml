@@ -42,6 +42,7 @@ paginate_path: "/page/:num/"
 header_pages: 
   - search.md
   - Grid.md
+  - tags.html
 # - about.md
 
 # Exclude from processing.

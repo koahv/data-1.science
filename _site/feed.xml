@@ -1,161 +1,179 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-06T23:46:43+00:00</updated><id>http://localhost:4000/</id><title type="html">data-1.science</title><subtitle>Science and Technology Articles</subtitle><entry><title type="html"></title><link href="http://localhost:4000/2018/01/06/2017-06-09-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies.html" rel="alternate" type="text/html" title="" /><published>2018-01-06T23:46:43+00:00</published><updated>2018-01-06T23:46:43+00:00</updated><id>http://localhost:4000/2018/01/06/2017-06-09-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies</id><content type="html" xml:base="http://localhost:4000/2018/01/06/2017-06-09-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies.html">#### Extract
-&gt;&amp;nbsp;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-07T00:04:30+00:00</updated><id>http://localhost:4000/</id><title type="html">data-1.science</title><subtitle>Science and Technology Articles</subtitle><entry><title type="html"></title><link href="http://localhost:4000/2018/01/07/2017-06-09-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies.html" rel="alternate" type="text/html" title="" /><published>2018-01-07T00:04:30+00:00</published><updated>2018-01-07T00:04:30+00:00</updated><id>http://localhost:4000/2018/01/07/2017-06-09-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies</id><content type="html" xml:base="http://localhost:4000/2018/01/07/2017-06-09-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies.html">&lt;h4 id=&quot;extract&quot;&gt;Extract&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
 
-&amp;nbsp;
-Over a period of three years, a group of astrophysicists from the University of Zurich has developed and optimised a revolutionary code to describe with unprecedented accuracy the dynamics of dark matter and the formation of large-scale structures in the Universe. From the data, researchers will obtain new information on the nature of this mysterious dark energy, but also hope to discover new physics beyond the standard model, such as a modified version of general relativity or a new type of particle.
+&lt;p&gt; 
+Over a period of three years, a group of astrophysicists from the University of Zurich has developed and optimised a revolutionary code to describe with unprecedented accuracy the dynamics of dark matter and the formation of large-scale structures in the Universe. From the data, researchers will obtain new information on the nature of this mysterious dark energy, but also hope to discover new physics beyond the standard model, such as a modified version of general relativity or a new type of particle.&lt;/p&gt;
 
-The researchers have simulated the formation of our entire Universe with a large supercomputer. A gigantic catalog of about 25 billion virtual galaxies has been generated from 2 trillion digital particles. This catalogue is being used to calibrate the experiments on board the Euclid satellite, that will be launched in 2020 with the objective of investigating the nature of dark matter and dark energy.
+&lt;p&gt;The researchers have simulated the formation of our entire Universe with a large supercomputer. A gigantic catalog of about 25 billion virtual galaxies has been generated from 2 trillion digital particles. This catalogue is being used to calibrate the experiments on board the Euclid satellite, that will be launched in 2020 with the objective of investigating the nature of dark matter and dark energy.
 The image below shows a section of the virtual universe, a billion light years across, showing how dark matter is distributed in space, with dark matter halos the yellow clumps, interconnected by dark filaments. Cosmic void, shown as the white areas, are the lowest density regions in the Universe. (Joachim Stadel, UZH)
-&amp;nbsp;
+ &lt;/p&gt;
 
-&amp;nbsp;
+&lt;p&gt; 
 Over a period of three years, the astrophysicists from the University of Zurich has developed and optimised a revolutionary code to describe with unprecedented accuracy the dynamics of dark matter and the formation of large-scale structures in the Universe.
-As Joachim Stadel, Douglas Potter and Romain Teyssier report in their recently published paper, the code (called PKDGRAV3) has been designed to use optimally the available memory and processing power of modern supercomputing architectures, such as the &quot;Piz Daint&quot; supercomputer of the Swiss National Computing Center (CSCS). The code was executed on this world-leading machine for only 80 hours, and generated a virtual universe of two trillion (i.e., two thousand billion or 2 x 1012) macro-particles representing the dark matter fluid, from which a catalogue of 25 billion virtual galaxies was extracted.
+As Joachim Stadel, Douglas Potter and Romain Teyssier report in their recently published paper, the code (called PKDGRAV3) has been designed to use optimally the available memory and processing power of modern supercomputing architectures, such as the “Piz Daint” supercomputer of the Swiss National Computing Center (CSCS). The code was executed on this world-leading machine for only 80 hours, and generated a virtual universe of two trillion (i.e., two thousand billion or 2 x 1012) macro-particles representing the dark matter fluid, from which a catalogue of 25 billion virtual galaxies was extracted.
 Thanks to the high precision of their calculation, featuring a dark matter fluid evolving under its own gravity, the researchers have simulated the formation of small concentration of matter, called dark matter halos, in which we believe galaxies like the Milky Way form. The challenge of this simulation was to model galaxies as small as one tenth of the Milky Way, in a volume as large as our entire observable Universe. This was the requirement set by the European Euclid mission, whose main objective is to explore the dark side of the Universe.
-Indeed, about 95 percent of the Universe is dark. The cosmos consists of 23 percent of dark matter and 72 percent of dark energy. &quot;The nature of dark energy remains one of the main unsolved puzzles in modern science,&quot; says Romain Teyssier, UZH professor for computational astrophysics. A puzzle that can be cracked only through indirect observation: When the Euclid satellite will capture the light of billions of galaxies in large areas of the sky, astronomers will measure very subtle distortions that arise from the deflection of light of these background galaxies by a foreground, invisible distribution of mass - dark matter. &quot;That is comparable to the distortion of light by a somewhat uneven glass pane,&quot; says Joachim Stadel from the Institute for Computational Science of the UZH.
-This new virtual galaxy catalogue will help optimize the observational strategy of the Euclid experiment and minimize various sources of error, before the satellite embarks on its six-year data collecting mission in 2020. &quot;Euclid will perform a tomographic map of our Universe, tracing back in time more than 10-billion-year of evolution in the cosmos,&quot; Stadel says.
+Indeed, about 95 percent of the Universe is dark. The cosmos consists of 23 percent of dark matter and 72 percent of dark energy. “The nature of dark energy remains one of the main unsolved puzzles in modern science,” says Romain Teyssier, UZH professor for computational astrophysics. A puzzle that can be cracked only through indirect observation: When the Euclid satellite will capture the light of billions of galaxies in large areas of the sky, astronomers will measure very subtle distortions that arise from the deflection of light of these background galaxies by a foreground, invisible distribution of mass - dark matter. “That is comparable to the distortion of light by a somewhat uneven glass pane,” says Joachim Stadel from the Institute for Computational Science of the UZH.
+This new virtual galaxy catalogue will help optimize the observational strategy of the Euclid experiment and minimize various sources of error, before the satellite embarks on its six-year data collecting mission in 2020. “Euclid will perform a tomographic map of our Universe, tracing back in time more than 10-billion-year of evolution in the cosmos,” Stadel says.
 The Daily Galaxy via University of Zurich
-Related articles
+Related articles&lt;/p&gt;
 
-Observing the Invisible Universe --&quot;Vast Clumps of Dark Matter Shroud Galaxies&quot;
-&quot;Observing 20 Billion Galaxies&quot; --The Large Synoptic Survey Telescope (LSST)
-Milky Way Exists in the Largest Known Void in the Universe -- &quot;Measuring Roughly 1 Billion Light Years&quot; - The Daily Galaxy --Great Discoveries Channel
-&quot;For Starships of the Future&quot; --Astronomers Map Supermassive Black Holes in the Distant Universe - The Daily Galaxy --Great Discoveries Channel
-Mysterious Glow Detected at the Heart of the Milky Way --&quot;The Remnants of Ancient Stars or Dark Matter?&quot;
-New Fast-Radio-Burst Phenomenon Baffles Astronomers --&quot;Reveals a Previously Unknown Hole in the Milky Galaxy&quot; - The Daily Galaxy --Great Discoveries Channel
-Supernova Explosions Over Millions of Years --&quot;Source of Antimatter in the Milky Way&quot;
+&lt;p&gt;Observing the Invisible Universe –“Vast Clumps of Dark Matter Shroud Galaxies”
+“Observing 20 Billion Galaxies” –The Large Synoptic Survey Telescope (LSST)
+Milky Way Exists in the Largest Known Void in the Universe – “Measuring Roughly 1 Billion Light Years” - The Daily Galaxy –Great Discoveries Channel
+“For Starships of the Future” –Astronomers Map Supermassive Black Holes in the Distant Universe - The Daily Galaxy –Great Discoveries Channel
+Mysterious Glow Detected at the Heart of the Milky Way –“The Remnants of Ancient Stars or Dark Matter?”
+New Fast-Radio-Burst Phenomenon Baffles Astronomers –“Reveals a Previously Unknown Hole in the Milky Galaxy” - The Daily Galaxy –Great Discoveries Channel
+Supernova Explosions Over Millions of Years –“Source of Antimatter in the Milky Way”&lt;/p&gt;
 
+&lt;p&gt;       &lt;/p&gt;
 
+&lt;h4 id=&quot;factsheet&quot;&gt;Factsheet&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;factsheet unavailable&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;nbsp;&amp;#160;
+&lt;p&gt;&lt;a href=&quot;http://www.dailygalaxy.com/my_weblog/2017/06/-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies.html&quot;&gt;Visit Link&lt;/a&gt;&lt;/p&gt;
 
-#### Factsheet
-&gt;factsheet unavailable
+&lt;p&gt;id:  399823&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/07/2016-11-11-google-s-deepmind-ai-grasps-basic-laws-of-physics.html" rel="alternate" type="text/html" title="" /><published>2018-01-07T00:04:30+00:00</published><updated>2018-01-07T00:04:30+00:00</updated><id>http://localhost:4000/2018/01/07/2016-11-11-google-s-deepmind-ai-grasps-basic-laws-of-physics</id><content type="html" xml:base="http://localhost:4000/2018/01/07/2016-11-11-google-s-deepmind-ai-grasps-basic-laws-of-physics.html">&lt;h4 id=&quot;extract&quot;&gt;Extract&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
 
-[Visit Link](http://www.dailygalaxy.com/my_weblog/2017/06/-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies.html)
-
-id:  399823</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/06/2016-11-11-google-s-deepmind-ai-grasps-basic-laws-of-physics.html" rel="alternate" type="text/html" title="" /><published>2018-01-06T23:46:43+00:00</published><updated>2018-01-06T23:46:43+00:00</updated><id>http://localhost:4000/2018/01/06/2016-11-11-google-s-deepmind-ai-grasps-basic-laws-of-physics</id><content type="html" xml:base="http://localhost:4000/2018/01/06/2016-11-11-google-s-deepmind-ai-grasps-basic-laws-of-physics.html">#### Extract
-&gt; 
-
- 
+&lt;p&gt; 
 Google DeepMind’s artificial intelligence team, along with researchers at the University of California, Berkeley, has trained AI machines to interact with objects in order to evaluate their properties without any prior awareness of physical laws. The team set about various trials in different virtual environments in which the AI was faced with a series of blocks and tasked with assessing their properties.
 Advances in artificial intelligence have yielded intelligent machines that can achieve superhuman performance in Go, Atari, natural language processing, and complex control problems,but it is not clear that these systems can rival the scientific intuition of even a young child. The new reserach embraced the view in developmental science that human babies are endowed with a small number of separable systems of core knowledge for reasoning about objects, actions, number, space, and possibly social interactions.
 When encountering novel object, humans and other animals are able to infer a wide range of physical properties such as mass, friction and deformability by interacting with themin a goal driven way. This process of active interaction is in the same spirit of a scientist performing an experiment to discover hidden facts.
-The study, entitled Learning to perform physics experiments via deep reinforcement learning, explained that while recent advances in AI have achieved ‘superhuman performance’ in complex control problems and other processing tasks, the machines still lack a common sense understanding of our physical world – ‘it is not clear that these systems can rival the scientific intuition of even a young child.’ &quot;We found,&quot; the team concluded, &quot;that state of art deep reinforcement learning methods can learn to perform the experiments necessary to discover these hidden properties of the physical world. By systematically manipulating the problem difficulty and the cost incurred by the AI agent for performing experiments, we found that agents learn different strategies that balance the cost of gathering information against the cost of making mistakes in different situations.&quot; The Daily Galaxy via arxiv.org and thestack.com
+The study, entitled Learning to perform physics experiments via deep reinforcement learning, explained that while recent advances in AI have achieved ‘superhuman performance’ in complex control problems and other processing tasks, the machines still lack a common sense understanding of our physical world – ‘it is not clear that these systems can rival the scientific intuition of even a young child.’ “We found,” the team concluded, “that state of art deep reinforcement learning methods can learn to perform the experiments necessary to discover these hidden properties of the physical world. By systematically manipulating the problem difficulty and the cost incurred by the AI agent for performing experiments, we found that agents learn different strategies that balance the cost of gathering information against the cost of making mistakes in different situations.” The Daily Galaxy via arxiv.org and thestack.com
 Image credit: With thanks to tamaraberg.com
- 
+ &lt;/p&gt;
 
-Related articles
+&lt;p&gt;Related articles&lt;/p&gt;
 
-Dark Matter Enigma --&quot;Remarkably Similar to Particles Known Since the 1930s&quot;
+&lt;p&gt;Dark Matter Enigma –“Remarkably Similar to Particles Known Since the 1930s”
 A Quantum View of Space (Yet Another Win for Einstein!)
-Google's 'DeepMind' AI platform can now learn without human input | TechBleach.com
-Massive Explosions of Exiled Stars in Intergalactic Space --&quot;Far from Their Home Galaxies&quot;
+Google’s ‘DeepMind’ AI platform can now learn without human input | TechBleach.com
+Massive Explosions of Exiled Stars in Intergalactic Space –“Far from Their Home Galaxies”&lt;/p&gt;
 
+&lt;h4 id=&quot;factsheet&quot;&gt;Factsheet&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;factsheet unavailable&lt;/p&gt;
+&lt;/blockquote&gt;
 
-#### Factsheet
-&gt;factsheet unavailable
+&lt;p&gt;&lt;a href=&quot;http://www.dailygalaxy.com/my_weblog/2016/11/googles-deepmind-ai-grasps-basic-laws-of-physics.html&quot;&gt;Visit Link&lt;/a&gt;&lt;/p&gt;
 
-[Visit Link](http://www.dailygalaxy.com/my_weblog/2016/11/googles-deepmind-ai-grasps-basic-laws-of-physics.html)
+&lt;p&gt;id:  340164&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/07/2016-11-08-radical-new-theory-of-gravity-an-emergent-phenomenon-not-a-fundamental-force-of-the-universe.html" rel="alternate" type="text/html" title="" /><published>2018-01-07T00:04:30+00:00</published><updated>2018-01-07T00:04:30+00:00</updated><id>http://localhost:4000/2018/01/07/2016-11-08-radical-new-theory-of-gravity-an-emergent-phenomenon-not-a-fundamental-force-of-the-universe</id><content type="html" xml:base="http://localhost:4000/2018/01/07/2016-11-08-radical-new-theory-of-gravity-an-emergent-phenomenon-not-a-fundamental-force-of-the-universe.html">&lt;h4 id=&quot;extract&quot;&gt;Extract&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
 
-id:  340164</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/06/2016-11-08-radical-new-theory-of-gravity-an-emergent-phenomenon-not-a-fundamental-force-of-the-universe.html" rel="alternate" type="text/html" title="" /><published>2018-01-06T23:46:43+00:00</published><updated>2018-01-06T23:46:43+00:00</updated><id>http://localhost:4000/2018/01/06/2016-11-08-radical-new-theory-of-gravity-an-emergent-phenomenon-not-a-fundamental-force-of-the-universe</id><content type="html" xml:base="http://localhost:4000/2018/01/06/2016-11-08-radical-new-theory-of-gravity-an-emergent-phenomenon-not-a-fundamental-force-of-the-universe.html">#### Extract
-&gt; 
- 
- 
+&lt;p&gt; 
 A new theory of gravity might explain the curious motions of stars in galaxies. Emergent gravity, as the new theory is called, predicts the exact same deviation of motions that is usually explained by invoking dark matter.
 Erik Verlinde, renowned expert in string theory at the University of Amsterdam and the Delta Institute for Theoretical Physics, published a new research paper today in which he expands his groundbreaking views on the nature of gravity.
 In 2010, Erik Verlinde surprised the world with a completely new theory of gravity. According to Verlinde, gravity is not a fundamental force of nature, but an emergent phenomenon. In the same way that temperature arises from the movement of microscopic particles, gravity emerges from the changes of fundamental bits of information, stored in the very structure of spacetime.
- 
+ &lt;/p&gt;
 
-In his 2010 article (On the origin of gravity and the laws of Newton), Verlinde showed how Newton's famous second law, which describes how apples fall from trees and satellites stay in orbit, can be derived from these underlying microscopic building blocks.
+&lt;p&gt;In his 2010 article (On the origin of gravity and the laws of Newton), Verlinde showed how Newton’s famous second law, which describes how apples fall from trees and satellites stay in orbit, can be derived from these underlying microscopic building blocks.
 Extending his previous work and work done by others, Verlinde now shows how to understand the curious behavior of stars in galaxies without adding the puzzling dark matter.
 The outer regions of galaxies, like our own Milky Way, rotate much faster around the center than can be accounted for by the quantity of ordinary matter like stars, planets and interstellar gasses.
 Something else has to produce the required amount of gravitational force, so physicists proposed the existence of dark matter. Dark matter seems to dominate our universe, comprising more than 80 percent of all matter. Hitherto, the alleged dark matter particles have never been observed, despite many efforts to detect them.
 According to Erik Verlinde, there is no need to add a mysterious dark matter particle to the theory.
 In a new paper, which appeared today on the ArXiv preprint server, Verlinde shows how his theory of gravity accurately predicts the velocities by which the stars rotate around the center of the Milky Way, as well as the motion of stars inside other galaxies.
-&quot;We have evidence that this new view of gravity actually agrees with the observations, &quot; says Verlinde. &quot;At large scales, it seems, gravity just doesn't behave the way Einstein's theory predicts.&quot;
-At first glance, Verlinde's theory presents features similar to modified theories of gravity like MOND (modified Newtonian Dynamics, Mordehai Milgrom). However, where MOND tunes the theory to match the observations, Verlinde's theory starts from first principles. &quot;A totally different starting point,&quot; according to Verlinde.
-One of the ingredients in Verlinde's theory is an adaptation of the holographic principle, introduced by his tutor Gerard 't Hooft (Nobel Prize 1999, Utrecht University) and Leonard Susskind (Stanford University).
+“We have evidence that this new view of gravity actually agrees with the observations, “ says Verlinde. “At large scales, it seems, gravity just doesn’t behave the way Einstein’s theory predicts.”
+At first glance, Verlinde’s theory presents features similar to modified theories of gravity like MOND (modified Newtonian Dynamics, Mordehai Milgrom). However, where MOND tunes the theory to match the observations, Verlinde’s theory starts from first principles. “A totally different starting point,” according to Verlinde.
+One of the ingredients in Verlinde’s theory is an adaptation of the holographic principle, introduced by his tutor Gerard ‘t Hooft (Nobel Prize 1999, Utrecht University) and Leonard Susskind (Stanford University).
 According to the holographic principle, all the information in the entire universe can be described on a giant imaginary sphere around it. Verlinde now shows that this idea is not quite correct—part of the information in our universe is contained in space itself.
 This extra information is required to describe that other dark component of the universe: Dark energy, which is believed to be responsible for the accelerated expansion of the universe.
 Investigating the effects of this additional information on ordinary matter, Verlinde comes to a stunning conclusion. Whereas ordinary gravity can be encoded using the information on the imaginary sphere around the universe, as he showed in his 2010 work, the result of the additional information in the bulk of space is a force that nicely matches that attributed to dark matter.
-Gravity is in dire need of new approaches like the one by Verlinde, since it doesn't combine well with quantum physics. Both theories, crown jewels of 20th century physics, cannot be true at the same time. The problems arise in extreme conditions: near black holes, or during the Big Bang.
-&quot;Many theoretical physicists like me are working on a revision of the theory, and some major advancements have been made,&quot; says Verlinde. &quot;We might be standing on the brink of a new scientific revolution that will radically change our views on the very nature of space, time and gravity.&quot; The Daily Galaxy via Delta Institute for Theoretical Physics
-mage credit: NASA/CXC/CFA/J.Wang et. al./ING/JKT/NSF/NRAO/VL]
+Gravity is in dire need of new approaches like the one by Verlinde, since it doesn’t combine well with quantum physics. Both theories, crown jewels of 20th century physics, cannot be true at the same time. The problems arise in extreme conditions: near black holes, or during the Big Bang.
+“Many theoretical physicists like me are working on a revision of the theory, and some major advancements have been made,” says Verlinde. “We might be standing on the brink of a new scientific revolution that will radically change our views on the very nature of space, time and gravity.” The Daily Galaxy via Delta Institute for Theoretical Physics
+mage credit: NASA/CXC/CFA/J.Wang et. al./ING/JKT/NSF/NRAO/VL]&lt;/p&gt;
 
-Related articles
+&lt;p&gt;Related articles&lt;/p&gt;
 
-&quot;Dark Matter Observed in the Innermost Region the Milky Way&quot;
-Star Streams of the Milky Way --&quot;Trace of the Orbits of Ancient Globular Clusters&quot;
-Image of the Day: An Exploding Light Show in a Milky Way Satellite Galaxy
+&lt;p&gt;“Dark Matter Observed in the Innermost Region the Milky Way”
+Star Streams of the Milky Way –“Trace of the Orbits of Ancient Globular Clusters”
+Image of the Day: An Exploding Light Show in a Milky Way Satellite Galaxy&lt;/p&gt;
 
+&lt;h4 id=&quot;factsheet&quot;&gt;Factsheet&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;factsheet unavailable&lt;/p&gt;
+&lt;/blockquote&gt;
 
-#### Factsheet
-&gt;factsheet unavailable
+&lt;p&gt;&lt;a href=&quot;http://www.dailygalaxy.com/my_weblog/2016/11/radical-new-theory-of-gravity-an-emergent-phenomenon-not-a-fundamental-force-of-the-universe.html&quot;&gt;Visit Link&lt;/a&gt;&lt;/p&gt;
 
-[Visit Link](http://www.dailygalaxy.com/my_weblog/2016/11/radical-new-theory-of-gravity-an-emergent-phenomenon-not-a-fundamental-force-of-the-universe.html)
+&lt;p&gt;id:  339217&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/07/2016-09-10-china-to-launch-spacelab-next-week-1st-step-toward-being-the-world-s-de-facto-space-station.html" rel="alternate" type="text/html" title="" /><published>2018-01-07T00:04:30+00:00</published><updated>2018-01-07T00:04:30+00:00</updated><id>http://localhost:4000/2018/01/07/2016-09-10-china-to-launch-spacelab-next-week-1st-step-toward-being-the-world-s-de-facto-space-station</id><content type="html" xml:base="http://localhost:4000/2018/01/07/2016-09-10-china-to-launch-spacelab-next-week-1st-step-toward-being-the-world-s-de-facto-space-station.html">&lt;h4 id=&quot;extract&quot;&gt;Extract&lt;/h4&gt;
+&lt;blockquote&gt;
 
-id:  339217</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/06/2016-09-10-china-to-launch-spacelab-next-week-1st-step-toward-being-the-world-s-de-facto-space-station.html" rel="alternate" type="text/html" title="" /><published>2018-01-06T23:46:43+00:00</published><updated>2018-01-06T23:46:43+00:00</updated><id>http://localhost:4000/2018/01/06/2016-09-10-china-to-launch-spacelab-next-week-1st-step-toward-being-the-world-s-de-facto-space-station</id><content type="html" xml:base="http://localhost:4000/2018/01/06/2016-09-10-china-to-launch-spacelab-next-week-1st-step-toward-being-the-world-s-de-facto-space-station.html">#### Extract
-&gt;
-&amp;nbsp;
+  &lt;p&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
 
-&amp;nbsp;
-“The vast majority of space technology being developed is dual-use, and so serves Chinese security interests as well,&quot; says Johnson-Freese, an expert on the Chinese space program and a professor at the US Naval War College.&amp;nbsp;&quot;China understands the military advantages reaped by US space capabilities for many years, and wants those same capabilities”.
-China’s second orbiting spacelab Tiangong-2 and its carrier rocket, Long March 2F, were transferred to the launch pad yesterday at the Jiuquan Satellite Launch Center. China will launch its second spacelab &amp;nbsp;to test life support systems and refueling technology for its 60 ton modular space station. It will be visited in October by two astronauts aboard Shenzhou-11. The mission will bring China one step closer to the ultimate goal of its three-step human spaceflight program, a large, permanently inhabited space station.
+&lt;p&gt; 
+“The vast majority of space technology being developed is dual-use, and so serves Chinese security interests as well,” says Johnson-Freese, an expert on the Chinese space program and a professor at the US Naval War College. “China understands the military advantages reaped by US space capabilities for many years, and wants those same capabilities”.
+China’s second orbiting spacelab Tiangong-2 and its carrier rocket, Long March 2F, were transferred to the launch pad yesterday at the Jiuquan Satellite Launch Center. China will launch its second spacelab  to test life support systems and refueling technology for its 60 ton modular space station. It will be visited in October by two astronauts aboard Shenzhou-11. The mission will bring China one step closer to the ultimate goal of its three-step human spaceflight program, a large, permanently inhabited space station.
 The future of the International Space Station (ISS) is in question and is not guaranteed to operate beyond 2024. European space experts, traditional US space partners, are learning Chinese in anticipation of working with China if ISS is deorbited and the soon-to-be-launched Chinese station becomes the de facto international base, according to Johnson-Freese.
-&amp;nbsp;
+ &lt;/p&gt;
 
-&amp;nbsp;
+&lt;p&gt; 
 The core space station module, Tianhe-1, is due to be placed in orbit in 2018 by a heavy-lift Long March 5 rocket that will make its debut flight in November. Two more experiment modules – and a Hubble-class telescope that will dock with the station – will follow in the early 2020s. The space station will also be open to receiving science payloads, astronauts and even further modules from countries around the world, especially developing nations, under an agreement with the United Nations.
 Tiangong-2 will orbit at 393 kilometers above the Earth, the same as that of the future space station, where astronauts will undertake technical and repair-related experiments. It will carry space science projects for space biology, fluid physics in microgravity, fundamental physics, Earth science, space astronomy, and space environment. Wu Ji, director-general of the NSSC told gbtimes in February that Tiangong-2 will carry an ocean topography microwave altimeter.
-“It can measure the topography of the oceans to a very high, precise accuracy, like a few centimeters, and which can be used for study of the Earth's gravity field, and also for El Niño, for example, or this kind of large-scale climate change issues.”
+“It can measure the topography of the oceans to a very high, precise accuracy, like a few centimeters, and which can be used for study of the Earth’s gravity field, and also for El Niño, for example, or this kind of large-scale climate change issues.”
 Another payload on Tiangong-2 is POLAR, a gamma-ray detector involving collaboration between China, Switzerland and Poland that will study one of the most energetic events in the universe – Gamma Ray Bursts (GRBs), which emit more energy in seconds than our sun does in billions of years.
 Measuring the polarization of the GRBs can help eliminate causal mechanisms, with possibilities including massive stars collapsing into black holes and the merging of two neutron stars.
 POLAR will observe 10 GRBs per year in a mission lifetime of at least two years, the minimum stated time that Tiangong-2 will be in orbit. Other instruments include an atomic clock using laser-cooled rubidium atoms, a Quantum Key Distribution (QKD) experiment and a Multi-angle Spectral Imager.
 If all goes as planned, Tiangong-2 will be visited by China’s first refueling and cargo vessel, Tianzhou-1 in the first half of next year, launched on a Long March 7 rocket from the new Wenchang spaceport.
 And more, we might add.
-The Daily Galaxy via gbtimes.com&amp;nbsp;and&amp;nbsp;cctv-america.com
-&amp;nbsp;
+The Daily Galaxy via gbtimes.com and cctv-america.com
+ &lt;/p&gt;
 
-Related articles
+&lt;p&gt;Related articles&lt;/p&gt;
 
-ISS-Bound Antares Explosion --Space X's Elon Musk: Rocket's Outdated Technology &quot;A Joke&quot;
-A Moment of Zen --Titan Beyond Saturn's Rings
-Rocky Planet with a 3-Day Orbit --&quot;Only 21 Light-Years Away&quot;
+&lt;p&gt;ISS-Bound Antares Explosion –Space X’s Elon Musk: Rocket’s Outdated Technology “A Joke”
+A Moment of Zen –Titan Beyond Saturn’s Rings
+Rocky Planet with a 3-Day Orbit –“Only 21 Light-Years Away”&lt;/p&gt;
 
-#### Factsheet
-&gt;factsheet unavailable
+&lt;h4 id=&quot;factsheet&quot;&gt;Factsheet&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;factsheet unavailable&lt;/p&gt;
+&lt;/blockquote&gt;
 
-[Visit Link](http://www.dailygalaxy.com/my_weblog/2016/09/chinas-spacelab-to-launch-next-week-1st-step-toward-a-perpetually-inhabited-space-station-as-the-wor.html)
+&lt;p&gt;&lt;a href=&quot;http://www.dailygalaxy.com/my_weblog/2016/09/chinas-spacelab-to-launch-next-week-1st-step-toward-a-perpetually-inhabited-space-station-as-the-wor.html&quot;&gt;Visit Link&lt;/a&gt;&lt;/p&gt;
 
-id:  322549</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/06/2016-09-06-new-cern-lhc-experiments-predict-a-boson-beyond-the-higgs-that-could-unlock-clues-to-existence-of-dark-matter.html" rel="alternate" type="text/html" title="" /><published>2018-01-06T23:46:43+00:00</published><updated>2018-01-06T23:46:43+00:00</updated><id>http://localhost:4000/2018/01/06/2016-09-06-new-cern-lhc-experiments-predict-a-boson-beyond-the-higgs-that-could-unlock-clues-to-existence-of-dark-matter</id><content type="html" xml:base="http://localhost:4000/2018/01/06/2016-09-06-new-cern-lhc-experiments-predict-a-boson-beyond-the-higgs-that-could-unlock-clues-to-existence-of-dark-matter.html">#### Extract
-&gt;
-&amp;nbsp;
+&lt;p&gt;id:  322549&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/07/2016-09-06-new-cern-lhc-experiments-predict-a-boson-beyond-the-higgs-that-could-unlock-clues-to-existence-of-dark-matter.html" rel="alternate" type="text/html" title="" /><published>2018-01-07T00:04:30+00:00</published><updated>2018-01-07T00:04:30+00:00</updated><id>http://localhost:4000/2018/01/07/2016-09-06-new-cern-lhc-experiments-predict-a-boson-beyond-the-higgs-that-could-unlock-clues-to-existence-of-dark-matter</id><content type="html" xml:base="http://localhost:4000/2018/01/07/2016-09-06-new-cern-lhc-experiments-predict-a-boson-beyond-the-higgs-that-could-unlock-clues-to-existence-of-dark-matter.html">&lt;h4 id=&quot;extract&quot;&gt;Extract&lt;/h4&gt;
+&lt;blockquote&gt;
 
-&amp;nbsp;
+  &lt;p&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt; 
 Two separate experiments at the Large Hadron Collider at the European Organisation for Nuclear Research, on the French-Swiss border, appear to confirm the existence of a subatomic particle, the Madala boson, that for the first time could shed light on one of the great mysteries of the universe - dark matter.
-The Madala boson follows the discovery of the Higgs boson in 2012 &quot;but the particles differ remarkably,&quot; said the team leader Bruce Mellado of South Africa's Witwatersrand University School of Physics. The Madala boson is heavier and disintegrates into the Higgs boson. &quot;The Higgs boson in the Standard Model of physics is not able to explain several things, such as dark matter,&quot; Mellado added.
-&quot;The Madala boson is important for our understanding of the universe. Through this we can communicate with dark matter - we don't have an object that can do that. This could be the first,&quot; said Mellado. The boson appears to interact with energy that cannot be explained.
+The Madala boson follows the discovery of the Higgs boson in 2012 “but the particles differ remarkably,” said the team leader Bruce Mellado of South Africa’s Witwatersrand University School of Physics. The Madala boson is heavier and disintegrates into the Higgs boson. “The Higgs boson in the Standard Model of physics is not able to explain several things, such as dark matter,” Mellado added.
+“The Madala boson is important for our understanding of the universe. Through this we can communicate with dark matter - we don’t have an object that can do that. This could be the first,” said Mellado. The boson appears to interact with energy that cannot be explained.
 Mellado will summarize the reappearance of these features in the features in the proton-proton collision data collected during Run I by the ATLAS and CMS experiments at the Large Hadron Collider that were used to formulate the Madala hypothesis, and its implications.
 These features in the data were interpreted as being due to the existence of a new scalar, the Madala boson, with a mass around 270 GeV. A conservative statistical combination yielded a three sigma effect. The ATLAS and CMS collaboration have just released new data at the international conference ICHEP2016.
 In particular, Mellado will discuss a prediction, namely of the production of anomalously large 4 W bosons, leading to a striking and unequivocal signature.
-Dark matter is the new frontier in physics, Mellado said, and scientists were racing to work out what it is. The Chinese and Japanese had declared intentions of building colliders that could be used to search for the identity of dark matter and dark energy. A team of 35 University of the Witwatersrand scientists today hosts a series of seminars about the Madala boson (Zulu for &quot;old&quot;), followed by other seminars in the US, UK, China and India.
-The Daily Galaxy via&amp;nbsp;wits.ac.za
-Image credit: CERN
+Dark matter is the new frontier in physics, Mellado said, and scientists were racing to work out what it is. The Chinese and Japanese had declared intentions of building colliders that could be used to search for the identity of dark matter and dark energy. A team of 35 University of the Witwatersrand scientists today hosts a series of seminars about the Madala boson (Zulu for “old”), followed by other seminars in the US, UK, China and India.
+The Daily Galaxy via wits.ac.za
+Image credit: CERN&lt;/p&gt;
 
-#### Factsheet
-&gt;factsheet unavailable
+&lt;h4 id=&quot;factsheet&quot;&gt;Factsheet&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;factsheet unavailable&lt;/p&gt;
+&lt;/blockquote&gt;
 
-[Visit Link](http://www.dailygalaxy.com/my_weblog/2016/09/new-cern-lhc-experiments-predict-a-boson-beyond-the-higgs-that-could-unlock-clues-to-dark-matter.html)
+&lt;p&gt;&lt;a href=&quot;http://www.dailygalaxy.com/my_weblog/2016/09/new-cern-lhc-experiments-predict-a-boson-beyond-the-higgs-that-could-unlock-clues-to-dark-matter.html&quot;&gt;Visit Link&lt;/a&gt;&lt;/p&gt;
 
-id:  320971</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/06/2016-08-24-china-unveils-plans-for-a-manned-radar-station-on-the-moon-leading-space-scientists-have-joined-the-project.html" rel="alternate" type="text/html" title="" /><published>2018-01-06T23:46:43+00:00</published><updated>2018-01-06T23:46:43+00:00</updated><id>http://localhost:4000/2018/01/06/2016-08-24-china-unveils-plans-for-a-manned-radar-station-on-the-moon-leading-space-scientists-have-joined-the-project</id><content type="html" xml:base="http://localhost:4000/2018/01/06/2016-08-24-china-unveils-plans-for-a-manned-radar-station-on-the-moon-leading-space-scientists-have-joined-the-project.html">#### Extract
-&gt;
-&amp;nbsp;
+&lt;p&gt;id:  320971&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/07/2016-08-24-china-unveils-plans-for-a-manned-radar-station-on-the-moon-leading-space-scientists-have-joined-the-project.html" rel="alternate" type="text/html" title="" /><published>2018-01-07T00:04:30+00:00</published><updated>2018-01-07T00:04:30+00:00</updated><id>http://localhost:4000/2018/01/07/2016-08-24-china-unveils-plans-for-a-manned-radar-station-on-the-moon-leading-space-scientists-have-joined-the-project</id><content type="html" xml:base="http://localhost:4000/2018/01/07/2016-08-24-china-unveils-plans-for-a-manned-radar-station-on-the-moon-leading-space-scientists-have-joined-the-project.html">&lt;h4 id=&quot;extract&quot;&gt;Extract&lt;/h4&gt;
+&lt;blockquote&gt;
 
-&amp;nbsp;
+  &lt;p&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt; 
 The Chinese government has unveiled plans to build a permanently manned radar station on the moon to monitor Earth. The project was launched earlier this year and received funding from the National Natural Science Foundation of China. The proposed facility, which may include quarters for astronauts and a powerful radar antenna array at least 50 meters high, could monitor wider areas of our planet than existing satellites, according to scientists involved in the study.
 The base, which would be used for scientific research and defense monitoring, could also produce more powerful and clearer images of earth as the high-frequency microwaves emitted by the radar station could not only penetrate cloud, but also the earth’s surface, allowing it to monitor areas on land, under the sea and underground.
-&amp;nbsp;
+ 
 Leading space scientists in China have joined the radar station project. The team held a two-day brainstorming session at the Fragrant Hill Hotel in Beijing last month. Those taking part included Yan Jun, the director of the National Astronomical Observatories; Professor Lin Yangting, a planetary researcher whose team discovered evidence of coal-like carbon in an asteroid; and senior scientists from China’s unmanned lunar exploration missions. The team leader is Professor Guo Huadong, a top radar technology expert at the Chinese Academy of Sciences.
 Guo initially proposed the moon-based radar station in a research paper in the journal Science China Earth Sciences three years ago, suggesting that the moon had numerous advantages over satellites or a space station as an earth observation platform, including stability and the unlimited durability of any complex on the lunar surface.
 The data collected by lunar radar would help with a wide range of scientific research issues such as monitoring extreme weather conditions, global earthquake activity, agricultural production and the collapse of the polar ice caps, he wrote.To generate high intensity radio beams that could reach earth, the radar station would need an enormous amount of power so a solar or nuclear power plant would have to be built, Guo said in the paper.
@@ -166,179 +184,177 @@ Many researchers interviewed by the South China Morning Post, however, expressed
 The lunar radar project comes as China shows signs of wanting to play a leading role in a renewed race to the moon, according to some space experts.
 The design of a giant rocket the same size as the Saturn V in the US Apollo missions will be completed by 2020 to pave way for large scale activities in space including a “manned moon landing”, according to a scientific and technological innovation plan announced by the central government earlier this month.
 China’s scientific authorities appear optimistic about the prospects for the lunar radar base, despite the concerns voiced by some experts.
-The Daily Galaxy via&amp;nbsp;kcwtoday.co&amp;nbsp;and South China Morning Post
-Image credit: pics-about-space.com
+The Daily Galaxy via kcwtoday.co and South China Morning Post
+Image credit: pics-about-space.com&lt;/p&gt;
 
+&lt;p&gt;Related articles&lt;/p&gt;
 
+&lt;p&gt;Oldest Stars of the Universe –Harbor Clues to Its Evolution
+Milky Way Found to Be Much Larger Than Thought –Extending Width 50% to 150,000 Light Years!
+“Our Early Solar System Harbored SuperEarths” (Weekend Feature)
+“Search Older Super-Earths for Detectable Life” –Their Oceans Can Last for Billions of Years&lt;/p&gt;
 
+&lt;h4 id=&quot;factsheet&quot;&gt;Factsheet&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;factsheet unavailable&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;p&gt;&lt;a href=&quot;http://www.dailygalaxy.com/my_weblog/2016/08/china-unveils-plans-for-a-manned-radar-station-on-the-moon-leading-space-scientists-have-joined-the-.html&quot;&gt;Visit Link&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;id:  317254&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/07/2016-07-12-earth-is-leaking-its-atmosphere-weakness-found-in-our-magnetic-field-european-space-agency.html" rel="alternate" type="text/html" title="" /><published>2018-01-07T00:04:30+00:00</published><updated>2018-01-07T00:04:30+00:00</updated><id>http://localhost:4000/2018/01/07/2016-07-12-earth-is-leaking-its-atmosphere-weakness-found-in-our-magnetic-field-european-space-agency</id><content type="html" xml:base="http://localhost:4000/2018/01/07/2016-07-12-earth-is-leaking-its-atmosphere-weakness-found-in-our-magnetic-field-european-space-agency.html">&lt;h4 id=&quot;extract&quot;&gt;Extract&lt;/h4&gt;
+&lt;blockquote&gt;
 
+  &lt;p&gt; 
+ &lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;p&gt; 
+Earth’s atmosphere is leaking. Every day, around 90 tons of material escapes from our planet’s upper atmosphere and streams out into space. Although missions such as ESA’s Cluster fleet have long been investigating this leakage, there are still many open questions. How and why is Earth losing its atmosphere – and how is this relevant in our hunt for life elsewhere in the Universe?
+“The question of plasma transport and atmospheric loss is relevant for both planets and stars, and is an incredibly fascinating and important topic. Understanding how atmospheric matter escapes is crucial to understanding how life can develop on a planet,” said Arnaud Masson, ESA’s Deputy Project Scientist for the Cluster mission. “The interaction between incoming and outgoing material in Earth’s magnetosphere is a hot topic at the moment; where exactly is this stuff coming from? How did it enter our patch of space?”
+ &lt;/p&gt;
 
-Related articles
+&lt;p&gt; 
+Given the expanse of our atmosphere, 90 tons per day amounts to a small leak. Earth’s atmosphere weighs in at around five quadrillion (5 × 1015) tonnes, so we are in no danger of running out any time soon. However, understanding Earth’s atmosphere, and how it escapes to space, is key to understanding the atmospheres of other planets, and could be crucial in our hunt for habitable planets and extraterrestrial life.
+ &lt;/p&gt;
 
-Oldest Stars of the Universe --Harbor Clues to Its Evolution
-Milky Way Found to Be Much Larger Than Thought --Extending Width 50% to 150,000 Light Years!
-&quot;Our Early Solar System Harbored SuperEarths&quot; (Weekend Feature)
-&quot;Search Older Super-Earths for Detectable Life&quot; --Their Oceans Can Last for Billions of Years
+&lt;p&gt; 
+We have been exploring Earth’s magnetic environment for years using satellites such as ESA’s Cluster mission, a fleet of four spacecraft launched in 2000. Cluster has been continuously observing the magnetic interactions between the Sun and Earth for over a decade and half; this longevity, combined with its multi-spacecraft capabilities and unique orbit, have made it a key player in understanding both Earth’s leaking atmosphere and how our planet interacts with the surrounding Solar System.
+Earth’s magnetic field is complex; it extends from the interior of our planet out into space, exerting its influence over a region of space dubbed the magnetosphere.
+ &lt;/p&gt;
 
-#### Factsheet
-&gt;factsheet unavailable
-
-[Visit Link](http://www.dailygalaxy.com/my_weblog/2016/08/china-unveils-plans-for-a-manned-radar-station-on-the-moon-leading-space-scientists-have-joined-the-.html)
-
-id:  317254</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/06/2016-07-12-earth-is-leaking-its-atmosphere-weakness-found-in-our-magnetic-field-european-space-agency.html" rel="alternate" type="text/html" title="" /><published>2018-01-06T23:46:43+00:00</published><updated>2018-01-06T23:46:43+00:00</updated><id>http://localhost:4000/2018/01/06/2016-07-12-earth-is-leaking-its-atmosphere-weakness-found-in-our-magnetic-field-european-space-agency</id><content type="html" xml:base="http://localhost:4000/2018/01/06/2016-07-12-earth-is-leaking-its-atmosphere-weakness-found-in-our-magnetic-field-european-space-agency.html">#### Extract
-&gt;
-&amp;nbsp;
-&amp;nbsp;
-
-&amp;nbsp;
-Earth's atmosphere is leaking. Every day, around 90 tons of material escapes from our planet's upper atmosphere and streams out into space. Although missions such as ESA's Cluster fleet have long been investigating this leakage, there are still many open questions. How and why is Earth losing its atmosphere – and how is this relevant in our hunt for life elsewhere in the Universe?
-&quot;The question of plasma transport and atmospheric loss is relevant for both planets and stars, and is an incredibly fascinating and important topic. Understanding how atmospheric matter escapes is crucial to understanding how life can develop on a planet,&quot; said Arnaud Masson, ESA's Deputy Project Scientist for the Cluster mission. &quot;The interaction between incoming and outgoing material in Earth's magnetosphere is a hot topic at the moment; where exactly is this stuff coming from? How did it enter our patch of space?&quot;
-&amp;nbsp;
-
-&amp;nbsp;
-Given the expanse of our atmosphere, 90 tons per day amounts to a small leak. Earth's atmosphere weighs in at around five quadrillion (5 × 1015) tonnes, so we are in no danger of running out any time soon. However, understanding Earth's atmosphere, and how it escapes to space, is key to understanding the atmospheres of other planets, and could be crucial in our hunt for habitable planets and extraterrestrial life.
-&amp;nbsp;
-
-&amp;nbsp;
-We have been exploring Earth's magnetic environment for years using satellites such as ESA's Cluster mission, a fleet of four spacecraft launched in 2000. Cluster has been continuously observing the magnetic interactions between the Sun and Earth for over a decade and half; this longevity, combined with its multi-spacecraft capabilities and unique orbit, have made it a key player in understanding both Earth's leaking atmosphere and how our planet interacts with the surrounding Solar System.
-Earth's magnetic field is complex; it extends from the interior of our planet out into space, exerting its influence over a region of space dubbed the magnetosphere.
-&amp;nbsp;
-
-&amp;nbsp;
+&lt;p&gt; 
 The magnetosphere – and its inner region (the plasmasphere), a doughnut-shaped portion sitting atop our atmosphere, which co-rotates with Earth and extends to an average distance of 20 000 km – is flooded with charged particles and ions that are trapped, bouncing back and forth along field lines.
 At its outer Sunward edge the magnetosphere meets the solar wind, a continuous stream of charged particles – mostly protons and electrons – flowing from the Sun. Here, our magnetic field acts like a shield, deflecting and rerouting the incoming wind as a rock would obstruct a stream of water. This analogy can be continued for the side of Earth further from the Sun – particles within the solar wind are sculpted around our planet and slowly come back together, forming an elongated tube (named the magnetotail), which contains trapped sheets of plasma and interacting field lines.
-However, our magnetosphere shield does have its weaknesses; at Earth's poles the field lines are open, like those of a standard bar magnet (these locations are named the polar cusps). Here, solar wind particles can head inwards towards Earth, filling up the magnetosphere with energetic particles.
-Just as particles can head inwards down these open polar lines, particles can also head outwards. Ions from Earth's upper atmosphere – the ionosphere, which extends to roughly 1000 km above the Earth – also flood out to fill up this region of space. Although missions such as Cluster have discovered much, the processes involved remain unclear.
-Initially, scientists believed Earth's magnetic environment to be filled purely with particles of solar origin. However, as early as the 1990s it was predicted that Earth's atmosphere was leaking out into the plasmasphere – something that has since turned out to be true.
+However, our magnetosphere shield does have its weaknesses; at Earth’s poles the field lines are open, like those of a standard bar magnet (these locations are named the polar cusps). Here, solar wind particles can head inwards towards Earth, filling up the magnetosphere with energetic particles.
+Just as particles can head inwards down these open polar lines, particles can also head outwards. Ions from Earth’s upper atmosphere – the ionosphere, which extends to roughly 1000 km above the Earth – also flood out to fill up this region of space. Although missions such as Cluster have discovered much, the processes involved remain unclear.
+Initially, scientists believed Earth’s magnetic environment to be filled purely with particles of solar origin. However, as early as the 1990s it was predicted that Earth’s atmosphere was leaking out into the plasmasphere – something that has since turned out to be true.
 Observations have shown sporadic, powerful columns of plasma, dubbed plumes, growing within the plasmasphere, traveling outwards to the edge of the magnetosphere and interacting with solar wind plasma entering the magnetosphere.
-More recent studies have unambiguously confirmed another source – Earth's atmosphere is constantly leaking! Alongside the aforementioned plumes, a steady, continuous flow of material (comprising oxygen, hydrogen, and helium ions) leaves our planet's plasmasphere from the polar regions, replenishing the plasma within the magnetosphere. Cluster found proof of this wind, and has quantified its strength for both overall (reported in a paper published in 2013) and for hydrogen ions in particular (reported in 2009).
+More recent studies have unambiguously confirmed another source – Earth’s atmosphere is constantly leaking! Alongside the aforementioned plumes, a steady, continuous flow of material (comprising oxygen, hydrogen, and helium ions) leaves our planet’s plasmasphere from the polar regions, replenishing the plasma within the magnetosphere. Cluster found proof of this wind, and has quantified its strength for both overall (reported in a paper published in 2013) and for hydrogen ions in particular (reported in 2009).
 Overall, about 1 kg of material is escaping our atmosphere every second, amounting to almost 90 tonnes per day. Singling out just cold ions (light hydrogen ions, which require less energy to escape and thus possess a lower energy in the magnetosphere), the escape mass totals thousands of tonnes per year.
-Cold ions are important; many satellites – Cluster excluded – cannot detect them due to their low energies, but they form a significant part of the net matter loss from Earth, and may play a key role in shaping our magnetic environment.Solar storms and periods of heightened solar activity appear to speed up Earth's atmospheric loss significantly, by more than a factor of three. However, key questions remain: How do ions escape, and where do they originate? What processes are at play, and which is dominant?
-One of the key escape processes is thought to be centrifugal acceleration, which speeds up ions at Earth's poles as they cross the shape-shifting magnetic field lines there. These ions are shunted onto different drift trajectories, gain energy, and end up heading away from Earth into the magnetotail, where they interact with plasma and return to Earth at far higher speeds than they departed with – a kind of boomerang effect.
+Cold ions are important; many satellites – Cluster excluded – cannot detect them due to their low energies, but they form a significant part of the net matter loss from Earth, and may play a key role in shaping our magnetic environment.Solar storms and periods of heightened solar activity appear to speed up Earth’s atmospheric loss significantly, by more than a factor of three. However, key questions remain: How do ions escape, and where do they originate? What processes are at play, and which is dominant?
+One of the key escape processes is thought to be centrifugal acceleration, which speeds up ions at Earth’s poles as they cross the shape-shifting magnetic field lines there. These ions are shunted onto different drift trajectories, gain energy, and end up heading away from Earth into the magnetotail, where they interact with plasma and return to Earth at far higher speeds than they departed with – a kind of boomerang effect.
 Such high-energy particles can pose a threat to space-based technology, so understanding them is important. Cluster has explored this process multiple times during the past decade and a half – finding it to affect heavier ions such as oxygen more than lighter ones, and also detecting strong, high-speed beams of ions rocketing back to Earth from the magnetotail nearly 100 times over the course of three years.
-More recently, scientists have explored the process of magnetic reconnection, one of the most efficient physical processes by which the solar wind enters Earth's magnetosphere and accelerates plasma. In this process, plasma interacts and exchanges energy with magnetic field lines; different lines reconfigure themselves, breaking, shifting around, and forging new connections by merging with other lines, releasing huge amounts of energy in the process.
+More recently, scientists have explored the process of magnetic reconnection, one of the most efficient physical processes by which the solar wind enters Earth’s magnetosphere and accelerates plasma. In this process, plasma interacts and exchanges energy with magnetic field lines; different lines reconfigure themselves, breaking, shifting around, and forging new connections by merging with other lines, releasing huge amounts of energy in the process.
 Here, the cold ions are thought to be important. We know that cold ions affect the magnetic reconnection process, for example slowing down the reconnection rate at the boundary where the solar wind meets the magnetosphere (the magnetopause), but we are still unsure of the mechanisms at play.
-&quot;In essence, we need to figure out how cold plasma ends up at the magnetopause,&quot; said Philippe Escoubet, ESA's Project Scientist for the Cluster mission. &quot;There are a few different aspects to this; we need to know the processes involved in transporting it there, how these processes depend on the dynamic solar wind and the conditions of the magnetosphere, and where plasma is coming from in the first place – does it originate in the ionosphere, the plasmasphere, or somewhere else?&quot;
-Recently, scientists modelled and simulated Earth's magnetic environment with a focus on structures known as plasmoids and flux ropes – cylinders, tubes, and loops of plasma that become tangled up with magnetic field lines. These arise when the magnetic reconnection process occurs in the magnetotail and ejects plasmoids both towards the outer tail and towards Earth.
+“In essence, we need to figure out how cold plasma ends up at the magnetopause,” said Philippe Escoubet, ESA’s Project Scientist for the Cluster mission. “There are a few different aspects to this; we need to know the processes involved in transporting it there, how these processes depend on the dynamic solar wind and the conditions of the magnetosphere, and where plasma is coming from in the first place – does it originate in the ionosphere, the plasmasphere, or somewhere else?”
+Recently, scientists modelled and simulated Earth’s magnetic environment with a focus on structures known as plasmoids and flux ropes – cylinders, tubes, and loops of plasma that become tangled up with magnetic field lines. These arise when the magnetic reconnection process occurs in the magnetotail and ejects plasmoids both towards the outer tail and towards Earth.
 Cold ions may play a significant role in deciding the direction of the ejected plasmoid. These recent simulations showed a link between plasmoids heading towards Earth and heavy oxygen ions leaking out from the ionosphere – in other words, oxygen ions may reduce and quench the reconnection rates at certain points within the magnetotail that produce tailward trajectories, thus making it more favourable at other sites that instead send them Earthwards. These results agree with existing Cluster observations.
-Another recent Cluster study compared the two main atmospheric escape mechanisms Earth experiences – sporadic plumes emanating through the plasmasphere, and the steady leakage of Earth's atmosphere from the ionosphere – to see how they might contribute to the population of cold ions residing at the dayside magnetopause (the magnetosphere-solar wind boundary nearest the Sun).
-Both escape processes appear to depend in different ways on the interplanetary magnetic field (IMF), the solar magnetic field that is carried out into the Solar System by the solar wind. This field moves through space in a spiralling pattern due to the rotation of the Sun, like water released from a lawn sprinkler. Depending on how the IMF is aligned, it can effectively cancel out part of Earth's magnetic field at the magnetopause, linking up and merging with our field and allowing the solar wind to stream in.
-Plumes seem to occur when the IMF is oriented southward (anti-parallel to Earth's magnetic field, thus acting as mentioned above). Conversely, leaking outflows from the ionosphere occur during northward-oriented IMF. Both processes occur more strongly when the solar wind is either denser or travelling faster (thus exerting a higher dynamic pressure).
-&quot;While there is still much to learn, we've been able to make great progress here,&quot; said Masson. &quot;These recent studies have managed to successfully link together multiple phenomena – namely the ionospheric leak, plumes from the plasmasphere, and magnetic reconnection – to paint a better picture of Earth's magnetic environment. This research required several years of ongoing observation, something we could only get with Cluster.&quot;
+Another recent Cluster study compared the two main atmospheric escape mechanisms Earth experiences – sporadic plumes emanating through the plasmasphere, and the steady leakage of Earth’s atmosphere from the ionosphere – to see how they might contribute to the population of cold ions residing at the dayside magnetopause (the magnetosphere-solar wind boundary nearest the Sun).
+Both escape processes appear to depend in different ways on the interplanetary magnetic field (IMF), the solar magnetic field that is carried out into the Solar System by the solar wind. This field moves through space in a spiralling pattern due to the rotation of the Sun, like water released from a lawn sprinkler. Depending on how the IMF is aligned, it can effectively cancel out part of Earth’s magnetic field at the magnetopause, linking up and merging with our field and allowing the solar wind to stream in.
+Plumes seem to occur when the IMF is oriented southward (anti-parallel to Earth’s magnetic field, thus acting as mentioned above). Conversely, leaking outflows from the ionosphere occur during northward-oriented IMF. Both processes occur more strongly when the solar wind is either denser or travelling faster (thus exerting a higher dynamic pressure).
+“While there is still much to learn, we’ve been able to make great progress here,” said Masson. “These recent studies have managed to successfully link together multiple phenomena – namely the ionospheric leak, plumes from the plasmasphere, and magnetic reconnection – to paint a better picture of Earth’s magnetic environment. This research required several years of ongoing observation, something we could only get with Cluster.”
 Learning more about our own atmosphere can tell us much about our planetary neighbors – we could potentially apply such research to any astrophysical object with both an atmosphere and a magnetic field. We know that planetary atmospheres play an essential role in rendering a planet habitable or lifeless, but there remain many open questions.
-Consider the diversity seen in the planets and moons of our Solar System, for example. In our small patch of the Universe we see extreme and opposite worlds: the smog-like carbon dioxide atmosphere of Venus, the much-depleted tenuous atmosphere of present-day Mars, the nitrogen-rich atmosphere of Saturn's moon Titan, the essentially airless Jovian moon Callisto, the oxygen-bearing atmosphere of Earth.
+Consider the diversity seen in the planets and moons of our Solar System, for example. In our small patch of the Universe we see extreme and opposite worlds: the smog-like carbon dioxide atmosphere of Venus, the much-depleted tenuous atmosphere of present-day Mars, the nitrogen-rich atmosphere of Saturn’s moon Titan, the essentially airless Jovian moon Callisto, the oxygen-bearing atmosphere of Earth.
 How do we know if these planets could support life, or whether they may once have done so? Mars, for example, is thought to have once had a thick, dense atmosphere that has been considerably stripped away over time. Although the Red Planet is unlikely to be habitable today, it may well have been so in the past.
-&quot;Understanding more about our own atmosphere will help us when it comes to other planets throughout the Universe,&quot; said Escoubet. &quot;We need to know more. Why does Earth have an atmosphere that can support life, while other planets do not?&quot;Cluster is a unique mission; it comprises four spacecraft – a format that NASA recently used for their Magnetospheric Multiscale (MMS) mission, launched in 2015 – which allow continuous study of Earth's magnetic field and the solar wind from multiple locations and orientations. Cluster has been operating since 2000, and in that time has compiled a wealth of information about our magnetic environment across various periods of solar and terrestrial activity.
-&quot;Additionally, Cluster's orbit is truly unique amongst all current missions; the fleet is on a polar orbit, meaning they can explore our planet's dynamic polar regions – specifically the cusps and polar caps – up close and in unprecedented detail,&quot; added Escoubet.
-&quot;Overall, long-term space missions like Cluster are helping us to understand a whole lot more about our planet, its atmosphere, and atmospheric loss in general – which in turn will help us to understand the Solar System in which we live.&quot;
-Cluster is a constellation of four spacecraft flying in formation around Earth. It is the first space mission able to study, in three dimensions, the natural physical processes occurring within and in the near vicinity of the Earth's magnetosphere. Launched in 2000, it is composed of four identical spacecraft orbiting the Earth in a pyramidal configuration
-Cluster's payload consists of state-of-the-art plasma instrumentation to measure electric and magnetic fields over wide frequency ranges, and key physical parameters characterising electrons and ions from energies of near 0 eV to a few MeV. The science operations are coordinated by the Joint Science Operations Centre (JSOC) at the Rutherford Appleton Laboratory, United Kingdom, and implemented by ESA's European Space Operations Centre (ESOC), in Darmstadt, Germany.
-The Daily Galaxy via ESA
+“Understanding more about our own atmosphere will help us when it comes to other planets throughout the Universe,” said Escoubet. “We need to know more. Why does Earth have an atmosphere that can support life, while other planets do not?”Cluster is a unique mission; it comprises four spacecraft – a format that NASA recently used for their Magnetospheric Multiscale (MMS) mission, launched in 2015 – which allow continuous study of Earth’s magnetic field and the solar wind from multiple locations and orientations. Cluster has been operating since 2000, and in that time has compiled a wealth of information about our magnetic environment across various periods of solar and terrestrial activity.
+“Additionally, Cluster’s orbit is truly unique amongst all current missions; the fleet is on a polar orbit, meaning they can explore our planet’s dynamic polar regions – specifically the cusps and polar caps – up close and in unprecedented detail,” added Escoubet.
+“Overall, long-term space missions like Cluster are helping us to understand a whole lot more about our planet, its atmosphere, and atmospheric loss in general – which in turn will help us to understand the Solar System in which we live.”
+Cluster is a constellation of four spacecraft flying in formation around Earth. It is the first space mission able to study, in three dimensions, the natural physical processes occurring within and in the near vicinity of the Earth’s magnetosphere. Launched in 2000, it is composed of four identical spacecraft orbiting the Earth in a pyramidal configuration
+Cluster’s payload consists of state-of-the-art plasma instrumentation to measure electric and magnetic fields over wide frequency ranges, and key physical parameters characterising electrons and ions from energies of near 0 eV to a few MeV. The science operations are coordinated by the Joint Science Operations Centre (JSOC) at the Rutherford Appleton Laboratory, United Kingdom, and implemented by ESA’s European Space Operations Centre (ESOC), in Darmstadt, Germany.
+The Daily Galaxy via ESA&lt;/p&gt;
 
-Image credits: The magnetic reconnection region in Earth's magnetosphere, ESA/ATG Medialab
-Related articles
+&lt;p&gt;Image credits: The magnetic reconnection region in Earth’s magnetosphere, ESA/ATG Medialab
+Related articles&lt;/p&gt;
 
-Jupiter's Explosive Ever-Present Polar Lights --Many Times Size of the Earth
-Invisible Violence of the Solar Winds --Revealed by ESA's Cluster Satellites
-Solar Winds Could Stymie Manned Space-Age Missions
+&lt;p&gt;Jupiter’s Explosive Ever-Present Polar Lights –Many Times Size of the Earth
+Invisible Violence of the Solar Winds –Revealed by ESA’s Cluster Satellites
+Solar Winds Could Stymie Manned Space-Age Missions&lt;/p&gt;
 
-#### Factsheet
-&gt;factsheet unavailable
+&lt;h4 id=&quot;factsheet&quot;&gt;Factsheet&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;factsheet unavailable&lt;/p&gt;
+&lt;/blockquote&gt;
 
-[Visit Link](http://www.dailygalaxy.com/my_weblog/2016/07/-earth-is-losing-its-atmosphere-weakness-found-in-our-magnetic-field-european-space-agency.html)
+&lt;p&gt;&lt;a href=&quot;http://www.dailygalaxy.com/my_weblog/2016/07/-earth-is-losing-its-atmosphere-weakness-found-in-our-magnetic-field-european-space-agency.html&quot;&gt;Visit Link&lt;/a&gt;&lt;/p&gt;
 
-id:  303340</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/06/2016-07-02-listen-jupiter-s-eerie-roar-as-juno-spacecraft-enters-gas-giant-s-magnetic-field-strongest-in-solar-system.html" rel="alternate" type="text/html" title="" /><published>2018-01-06T23:46:43+00:00</published><updated>2018-01-06T23:46:43+00:00</updated><id>http://localhost:4000/2018/01/06/2016-07-02-listen-jupiter-s-eerie-roar-as-juno-spacecraft-enters-gas-giant-s-magnetic-field-strongest-in-solar-system</id><content type="html" xml:base="http://localhost:4000/2018/01/06/2016-07-02-listen-jupiter-s-eerie-roar-as-juno-spacecraft-enters-gas-giant-s-magnetic-field-strongest-in-solar-system.html">#### Extract
-&gt;
-&amp;nbsp;
-&amp;nbsp;
+&lt;p&gt;id:  303340&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/07/2016-07-02-listen-jupiter-s-eerie-roar-as-juno-spacecraft-enters-gas-giant-s-magnetic-field-strongest-in-solar-system.html" rel="alternate" type="text/html" title="" /><published>2018-01-07T00:04:30+00:00</published><updated>2018-01-07T00:04:30+00:00</updated><id>http://localhost:4000/2018/01/07/2016-07-02-listen-jupiter-s-eerie-roar-as-juno-spacecraft-enters-gas-giant-s-magnetic-field-strongest-in-solar-system</id><content type="html" xml:base="http://localhost:4000/2018/01/07/2016-07-02-listen-jupiter-s-eerie-roar-as-juno-spacecraft-enters-gas-giant-s-magnetic-field-strongest-in-solar-system.html">&lt;h4 id=&quot;extract&quot;&gt;Extract&lt;/h4&gt;
+&lt;blockquote&gt;
 
-Listen to Jupiter's strange voice as the robotic explorer moves into the magnetic field and enters into a polar orbit around the gas giant. &quot;We have over five years of spaceflight experience and only 10 days to Jupiter orbit insertion,&quot; said Rick Nybakken, Juno project manager from NASA's Jet Propulsion Laboratory in Pasadena, California. &quot;It is a great feeling to put all the interplanetary space in the rearview mirror and have the biggest planet in the solar system in our windshield.&quot;
+  &lt;p&gt; 
+ &lt;/p&gt;
+&lt;/blockquote&gt;
 
-In three days, July 4th, the spacecraft Juno will arrive at Jupiter, the culmination of a five-year, billion-dollar journey. It's mission: to peer deep inside the gas giant and unravel its origin and evolution. One of the biggest mysteries surrounding Jupiter is how it generates its powerful magnetic field, the strongest in the solar system.
-&amp;nbsp;
-One theory is that about halfway to Jupiter's core, the pressures and temperatures become so intense that the hydrogen that makes up 90 percent of the planet -- molecular gas on Earth -- looses hold of its electrons and begins behaving like a liquid metal. Oceans of liquid metallic hydrogen surrounding Jupiter's core would explain its powerful magnetic field.
-&amp;nbsp;
-&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;
-&amp;nbsp;
-But how and when does this transition from gas to liquid metal occur? How does it behave? Researchers hope that Juno will shed some light on this exotic state of hydrogen -- but one doesn't need to travel all the way to Jupiter to study it.
+&lt;p&gt;Listen to Jupiter’s strange voice as the robotic explorer moves into the magnetic field and enters into a polar orbit around the gas giant. “We have over five years of spaceflight experience and only 10 days to Jupiter orbit insertion,” said Rick Nybakken, Juno project manager from NASA’s Jet Propulsion Laboratory in Pasadena, California. “It is a great feeling to put all the interplanetary space in the rearview mirror and have the biggest planet in the solar system in our windshield.”&lt;/p&gt;
+
+&lt;p&gt;In three days, July 4th, the spacecraft Juno will arrive at Jupiter, the culmination of a five-year, billion-dollar journey. It’s mission: to peer deep inside the gas giant and unravel its origin and evolution. One of the biggest mysteries surrounding Jupiter is how it generates its powerful magnetic field, the strongest in the solar system.
+ 
+One theory is that about halfway to Jupiter’s core, the pressures and temperatures become so intense that the hydrogen that makes up 90 percent of the planet – molecular gas on Earth – looses hold of its electrons and begins behaving like a liquid metal. Oceans of liquid metallic hydrogen surrounding Jupiter’s core would explain its powerful magnetic field.
+ 
+                                           
+ 
+But how and when does this transition from gas to liquid metal occur? How does it behave? Researchers hope that Juno will shed some light on this exotic state of hydrogen – but one doesn’t need to travel all the way to Jupiter to study it.
 Four hundred million miles away, in a small, windowless room in the basement of Lyman Laboratory on Oxford Street in Cambridge, Massachusetts, there was, for a fraction of a fraction of a second, a small piece of Jupiter.
 Earlier this year, in an experiment about five-feet long, Harvard University researchers say they observed evidence of the abrupt transition of hydrogen from liquid insulator to liquid metal. It is one of the first times such a transition has ever been observed in any experiment.
-&quot;This is planetary science on the bench,&quot; said Mohamed Zaghoo, the NASA Earth &amp;amp; Space Science Fellow at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS). &quot;The question of how hydrogen transitions into a metallic state -- whether that is an abrupt transition or not -- has huge implications for planetary science. How hydrogen transitions inside Jupiter, for example, says a lot about the evolution, the temperature and the structure of these gas giants interiors.&quot;
+“This is planetary science on the bench,” said Mohamed Zaghoo, the NASA Earth &amp;amp; Space Science Fellow at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS). “The question of how hydrogen transitions into a metallic state – whether that is an abrupt transition or not – has huge implications for planetary science. How hydrogen transitions inside Jupiter, for example, says a lot about the evolution, the temperature and the structure of these gas giants interiors.”
 In the experiment, Zaghoo, Ashkan Salamat, and senior author Isaac Silvera, the Thomas D. Cabot Professor of the Natural Sciences, recreated the extreme pressures and temperatures of Jupiter by squeezing a sample of hydrogen between two diamond tips, about 100 microns wide, and firing short bursts of lasers of increasing intensity to raise the temperature.
 This experimental setup is significantly smaller and cheaper than other current techniques to generate metallic hydrogen, most of which rely on huge guns or lasers that generate shock waves to heat and pressurize hydrogen.
 The transition of the liquid to metallic hydrogen happens too quickly for human eyes to observe and the sample lasts only a fraction of a second before it deteriorates. So, instead of watching the sample itself for evidence of the transition, the team watched lasers pointed at the sample. When the phase transition occurred, the lasers abruptly reflected.
-&quot;At some point, the hydrogen abruptly transitioned from an insulating, transparent state, like glass, to a shiny metallic state that reflected light, like copper, gold or any other metal,&quot; Zaghoo said. &quot;Because this experiment, unlike shock wave experiments, isn't destructive, we could run the experiment continuously, doing measurements and monitoring for weeks and months to learn about the transition.&quot;
-&quot;This is the simplest and most fundamental atomic system, yet modern theory has large variances in predictions for the transition pressure,&quot; Silvera said. &quot;Our observation serves as a crucial guide to modern theory.&quot;
+“At some point, the hydrogen abruptly transitioned from an insulating, transparent state, like glass, to a shiny metallic state that reflected light, like copper, gold or any other metal,” Zaghoo said. “Because this experiment, unlike shock wave experiments, isn’t destructive, we could run the experiment continuously, doing measurements and monitoring for weeks and months to learn about the transition.”
+“This is the simplest and most fundamental atomic system, yet modern theory has large variances in predictions for the transition pressure,” Silvera said. “Our observation serves as a crucial guide to modern theory.”
 The results represent a culmination of decades of research by the Silvera group. The data collected could begin to answer some of the fundamental questions about the origins of solar systems.
-Metallic hydrogen also has important ramifications here on Earth, especially in energy and materials science. &quot;A lot of people are talking about the hydrogen economy because hydrogen is combustibly clean and it's very abundant,&quot; said Zaghoo. &quot;If you can compress hydrogen into high density, it has a lot of energy compacted into it.&quot;
-&quot;As a rocket fuel, metallic hydrogen would revolutionize rocketry as propellant an order of magnitude more powerful than any known chemical,&quot; said Silvera. &quot;This could cut down the time it takes to get to Mars from nine months to about two months, transforming prospects of human space endeavors.&quot;
-Metallic hydrogen could be used to make room temperature or even higher than room temperature super-conductors. The Juno mission goes hand-in-hand with laboratory experiments into metallic hydrogen, Zaghoo said.&quot;The measurements of Jupiter's magnetic field that Juno will be collecting is directly related to our data,&quot; he said. &quot;We're not in competition with NASA but, in some ways, we got to Jupiter first.&quot;
+Metallic hydrogen also has important ramifications here on Earth, especially in energy and materials science. “A lot of people are talking about the hydrogen economy because hydrogen is combustibly clean and it’s very abundant,” said Zaghoo. “If you can compress hydrogen into high density, it has a lot of energy compacted into it.”
+“As a rocket fuel, metallic hydrogen would revolutionize rocketry as propellant an order of magnitude more powerful than any known chemical,” said Silvera. “This could cut down the time it takes to get to Mars from nine months to about two months, transforming prospects of human space endeavors.”
+Metallic hydrogen could be used to make room temperature or even higher than room temperature super-conductors. The Juno mission goes hand-in-hand with laboratory experiments into metallic hydrogen, Zaghoo said.”The measurements of Jupiter’s magnetic field that Juno will be collecting is directly related to our data,” he said. “We’re not in competition with NASA but, in some ways, we got to Jupiter first.”
 In the Gemini Observatory image at the top of the page, white indicates cloud features at relatively high altitudes; blue indicates lower cloud structures; and red represents still deeper cloud features. The two red spots appear more white than red, because their tops hover high above the surrounding clouds. Also prominent is the polar stratospheric haze, which makes Jupiter bright near the pole. Other tiny white spots are regions of high clouds, like towering thunderheads. In visible light Jupiter looks orangish, but in the near-infrared the blue color is due to strong absorption features. The blue mid-level clouds are also closest to what one would see in a visual light image.
-The Daily Galaxy via NASA and Harvard University
+The Daily Galaxy via NASA and Harvard University&lt;/p&gt;
 
+&lt;p&gt;Puzzle of Saturn’s “Great White Spots” Solved –“Water was the Missing Piece”
+Destination: Jupiter! –One Year Left Till Juno Expedition’s Capture Orbit
+Dwarf Planet Ceres Mysterious Bright Spots Baffle NASA&lt;/p&gt;
 
+&lt;h4 id=&quot;factsheet&quot;&gt;Factsheet&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;factsheet unavailable&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;p&gt;&lt;a href=&quot;http://www.dailygalaxy.com/my_weblog/2016/07/listen-jupiters-eerie-roar-as-juno-spacecraft-moves-into-orbit-weekend-audio-feature.html&quot;&gt;Visit Link&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;id:  301114&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/07/2016-06-30-create-your-own-neural-paintings-using-deep-learning.html" rel="alternate" type="text/html" title="" /><published>2018-01-07T00:04:30+00:00</published><updated>2018-01-07T00:04:30+00:00</updated><id>http://localhost:4000/2018/01/07/2016-06-30-create-your-own-neural-paintings-using-deep-learning</id><content type="html" xml:base="http://localhost:4000/2018/01/07/2016-06-30-create-your-own-neural-paintings-using-deep-learning.html">&lt;h4 id=&quot;extract&quot;&gt;Extract&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Title: Create Your Own &quot;Neural Paintings&quot; using Deep Learning30 JunLearn more&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;h4 id=&quot;factsheet&quot;&gt;Factsheet&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;factsheet unavailable&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.linux.com/blog/create-your-own-neural-paintings-using-deep-learning&quot;&gt;Visit Link&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;id:  300698&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/07/2016-06-22-extreme-physics-nebula-observed-around-a-neutron-star-for-first-time.html" rel="alternate" type="text/html" title="" /><published>2018-01-07T00:04:30+00:00</published><updated>2018-01-07T00:04:30+00:00</updated><id>http://localhost:4000/2018/01/07/2016-06-22-extreme-physics-nebula-observed-around-a-neutron-star-for-first-time</id><content type="html" xml:base="http://localhost:4000/2018/01/07/2016-06-22-extreme-physics-nebula-observed-around-a-neutron-star-for-first-time.html">&lt;h4 id=&quot;extract&quot;&gt;Extract&lt;/h4&gt;
+&lt;blockquote&gt;
 
+  &lt;p&gt; 
+ &lt;/p&gt;
+&lt;/blockquote&gt;
 
-
-
-Puzzle of Saturn's &quot;Great White Spots&quot; Solved --&quot;Water was the Missing Piece&quot;
-Destination: Jupiter! --One Year Left Till Juno Expedition's Capture Orbit
-Dwarf Planet Ceres Mysterious Bright Spots Baffle NASA
-
-#### Factsheet
-&gt;factsheet unavailable
-
-[Visit Link](http://www.dailygalaxy.com/my_weblog/2016/07/listen-jupiters-eerie-roar-as-juno-spacecraft-moves-into-orbit-weekend-audio-feature.html)
-
-id:  301114</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/06/2016-06-30-create-your-own-neural-paintings-using-deep-learning.html" rel="alternate" type="text/html" title="" /><published>2018-01-06T23:46:43+00:00</published><updated>2018-01-06T23:46:43+00:00</updated><id>http://localhost:4000/2018/01/06/2016-06-30-create-your-own-neural-paintings-using-deep-learning</id><content type="html" xml:base="http://localhost:4000/2018/01/06/2016-06-30-create-your-own-neural-paintings-using-deep-learning.html">#### Extract
-&gt;Title:&amp;nbsp;Create Your Own &amp;quot;Neural Paintings&amp;quot; using Deep Learning30 JunLearn more
-
-#### Factsheet
-&gt;factsheet unavailable
-
-[Visit Link](https://www.linux.com/blog/create-your-own-neural-paintings-using-deep-learning)
-
-id:  300698</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2018/01/06/2016-06-22-extreme-physics-nebula-observed-around-a-neutron-star-for-first-time.html" rel="alternate" type="text/html" title="" /><published>2018-01-06T23:46:43+00:00</published><updated>2018-01-06T23:46:43+00:00</updated><id>http://localhost:4000/2018/01/06/2016-06-22-extreme-physics-nebula-observed-around-a-neutron-star-for-first-time</id><content type="html" xml:base="http://localhost:4000/2018/01/06/2016-06-22-extreme-physics-nebula-observed-around-a-neutron-star-for-first-time.html">#### Extract
-&gt;
-&amp;nbsp;
-&amp;nbsp;
-
-&amp;nbsp;
-&amp;nbsp;
+&lt;p&gt; 
+ 
 Astronomers have discovered a vast cloud of high-energy particles called a wind nebula around a rare ultra-magnetic neutron star, or magnetar, for the first time. The find offers a unique window into the properties, environment and outburst history of magnetars, which are the strongest magnets in the universe.
-A neutron star is the crushed core of a massive star that ran out of fuel, collapsed under its own weight, and exploded as a supernova. Each one compresses the equivalent mass of half a million Earths into a ball just 12 miles (20 kilometers) across, or about the length of New York's Manhattan Island. Neutron stars are most commonly found as pulsars, which produce radio, visible light, X-rays and gamma rays at various locations in their surrounding magnetic fields. When a pulsar spins these regions in our direction, astronomers detect pulses of emission, hence the name.
-&amp;nbsp;
-The X-ray image above shows extended emission around a source known as Swift J1834.9-0846, a rare ultra-magnetic neutron star called a magnetar. The glow arises from a cloud of fast-moving particles produced by the neutron star and corralled around it. Color indicates X-ray energies, with 2,000-3,000 electron volts (eV) in red, 3,000-4,500 eV in green, and 5,000 to 10,000 eV in blue. The image combines observations by the European Space Agency's XMM-Newton spacecraft taken on March 16 and Oct. 16, 2014.
-Typical pulsar magnetic fields can be 100 billion to 10 trillion times stronger than Earth's. Magnetar fields reach strengths a thousand times stronger still, and scientists don't know the details of how they are created. Of about 2,600 neutron stars known, to date only 29 are classified as magnetars.
-The newfound nebula surrounds a magnetar known as Swift J1834.9-0846 -- J1834.9 for short -- which was discovered by NASA's Swift satellite on Aug. 7, 2011, during a brief X-ray outburst. Astronomers suspect the object is associated with the W41 supernova remnant, located about 13,000 light-years away in the constellation Scutum toward the central part of our galaxy.
-&quot;Right now, we don't know how J1834.9 developed and continues to maintain a wind nebula, which until now was a structure only seen around young pulsars,&quot; said lead researcher George Younes, a postdoctoral researcher at George Washington University in Washington. &quot;If the process here is similar, then about 10 percent of the magnetar's rotational energy loss is powering the nebula's glow, which would be the highest efficiency ever measured in such a system.&quot;
-A month after the Swift discovery, a team led by Younes took another look at J1834.9 using the European Space Agency's (ESA) XMM-Newton X-ray observatory, which revealed an unusual lopsided glow about 15 light-years across centered on the magnetar. New XMM-Newton observations in March and October 2014, coupled with archival data from XMM-Newton and Swift, confirm this extended glow as the first wind nebula ever identified around a magnetar. A paper describing the analysis will be published by The Astrophysical Journal.
-&quot;For me the most interesting question is, why is this the only magnetar with a nebula? Once we know the answer, we might be able to understand what makes a magnetar and what makes an ordinary pulsar,&quot; said co-author Chryssa Kouveliotou, a professor in the Department of Physics at George Washington University's Columbian College of Arts and Sciences.
-The most famous wind nebula, powered by a pulsar less than a thousand years old, lies at the heart of the Crab Nebula supernova remnant in the constellation Taurus. Young pulsars like this one rotate rapidly, often dozens of times a second. The pulsar's fast rotation and strong magnetic field work together to accelerate electrons and other particles to very high energies. This creates an outflow astronomers call a pulsar wind that serves as the source of particles making up in a wind nebula.
-&quot;Making a wind nebula requires large particle fluxes, as well as some way to bottle up the outflow so it doesn't just stream into space,&quot; said co-author Alice Harding, an astrophysicist at NASA's Goddard Space Flight Center in Greenbelt, Maryland. &quot;We think the expanding shell of the supernova remnant serves as the bottle, confining the outflow for a few thousand years. When the shell has expanded enough, it becomes too weak to hold back the particles, which then leak out and the nebula fades away.&quot; This naturally explains why wind nebulae are not found among older pulsars, even those driving strong outflows.
+A neutron star is the crushed core of a massive star that ran out of fuel, collapsed under its own weight, and exploded as a supernova. Each one compresses the equivalent mass of half a million Earths into a ball just 12 miles (20 kilometers) across, or about the length of New York’s Manhattan Island. Neutron stars are most commonly found as pulsars, which produce radio, visible light, X-rays and gamma rays at various locations in their surrounding magnetic fields. When a pulsar spins these regions in our direction, astronomers detect pulses of emission, hence the name.
+ 
+The X-ray image above shows extended emission around a source known as Swift J1834.9-0846, a rare ultra-magnetic neutron star called a magnetar. The glow arises from a cloud of fast-moving particles produced by the neutron star and corralled around it. Color indicates X-ray energies, with 2,000-3,000 electron volts (eV) in red, 3,000-4,500 eV in green, and 5,000 to 10,000 eV in blue. The image combines observations by the European Space Agency’s XMM-Newton spacecraft taken on March 16 and Oct. 16, 2014.
+Typical pulsar magnetic fields can be 100 billion to 10 trillion times stronger than Earth’s. Magnetar fields reach strengths a thousand times stronger still, and scientists don’t know the details of how they are created. Of about 2,600 neutron stars known, to date only 29 are classified as magnetars.
+The newfound nebula surrounds a magnetar known as Swift J1834.9-0846 – J1834.9 for short – which was discovered by NASA’s Swift satellite on Aug. 7, 2011, during a brief X-ray outburst. Astronomers suspect the object is associated with the W41 supernova remnant, located about 13,000 light-years away in the constellation Scutum toward the central part of our galaxy.
+“Right now, we don’t know how J1834.9 developed and continues to maintain a wind nebula, which until now was a structure only seen around young pulsars,” said lead researcher George Younes, a postdoctoral researcher at George Washington University in Washington. “If the process here is similar, then about 10 percent of the magnetar’s rotational energy loss is powering the nebula’s glow, which would be the highest efficiency ever measured in such a system.”
+A month after the Swift discovery, a team led by Younes took another look at J1834.9 using the European Space Agency’s (ESA) XMM-Newton X-ray observatory, which revealed an unusual lopsided glow about 15 light-years across centered on the magnetar. New XMM-Newton observations in March and October 2014, coupled with archival data from XMM-Newton and Swift, confirm this extended glow as the first wind nebula ever identified around a magnetar. A paper describing the analysis will be published by The Astrophysical Journal.
+“For me the most interesting question is, why is this the only magnetar with a nebula? Once we know the answer, we might be able to understand what makes a magnetar and what makes an ordinary pulsar,” said co-author Chryssa Kouveliotou, a professor in the Department of Physics at George Washington University’s Columbian College of Arts and Sciences.
+The most famous wind nebula, powered by a pulsar less than a thousand years old, lies at the heart of the Crab Nebula supernova remnant in the constellation Taurus. Young pulsars like this one rotate rapidly, often dozens of times a second. The pulsar’s fast rotation and strong magnetic field work together to accelerate electrons and other particles to very high energies. This creates an outflow astronomers call a pulsar wind that serves as the source of particles making up in a wind nebula.
+“Making a wind nebula requires large particle fluxes, as well as some way to bottle up the outflow so it doesn’t just stream into space,” said co-author Alice Harding, an astrophysicist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “We think the expanding shell of the supernova remnant serves as the bottle, confining the outflow for a few thousand years. When the shell has expanded enough, it becomes too weak to hold back the particles, which then leak out and the nebula fades away.” This naturally explains why wind nebulae are not found among older pulsars, even those driving strong outflows.
 A pulsar taps into its rotational energy to produce light and accelerate its pulsar wind. By contrast, a magnetar outburst is powered by energy stored in the super-strong magnetic field. When the field suddenly reconfigures to a lower-energy state, this energy is suddenly released in an outburst of X-rays and gamma rays. So while magnetars may not produce the steady breeze of a typical pulsar wind, during outbursts they are capable of generating brief gales of accelerated particles.
-&quot;The nebula around J1834.9 stores the magnetar's energetic outflows over its whole active history, starting many thousands of years ago,&quot; said team member Jonathan Granot, an associate professor in the Department of Natural Sciences at the Open University in Ra'anana, Israel. &quot;It represents a unique opportunity to study the magnetar's historical activity, opening a whole new playground for theorists like me.&quot;
-ESA's XMM-Newton satellite was launched on Dec. 10, 1999, from Kourou, French Guiana, and continues to make observations. NASA funded elements of the XMM-Newton instrument package and provides the NASA Guest Observer Facility at Goddard, which supports use of the observatory by U.S. astronomers.
+“The nebula around J1834.9 stores the magnetar’s energetic outflows over its whole active history, starting many thousands of years ago,” said team member Jonathan Granot, an associate professor in the Department of Natural Sciences at the Open University in Ra’anana, Israel. “It represents a unique opportunity to study the magnetar’s historical activity, opening a whole new playground for theorists like me.”
+ESA’s XMM-Newton satellite was launched on Dec. 10, 1999, from Kourou, French Guiana, and continues to make observations. NASA funded elements of the XMM-Newton instrument package and provides the NASA Guest Observer Facility at Goddard, which supports use of the observatory by U.S. astronomers.
 The Daily Galaxy via NASA/Goddard Space Flight Center
 Image credit: ESA/XMM-Newton/Younes et al. 2016
-&amp;nbsp;
+ &lt;/p&gt;
 
+&lt;p&gt;Related articlesImage of the Day –Rare Conjunction of Jupiter’s Three Largest Moons&lt;/p&gt;
 
+&lt;h4 id=&quot;factsheet&quot;&gt;Factsheet&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;factsheet unavailable&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;p&gt;&lt;a href=&quot;http://www.dailygalaxy.com/my_weblog/2016/06/extreme-physics-nebula-observed-around-a-neutron-star-for-first-time.html&quot;&gt;Visit Link&lt;/a&gt;&lt;/p&gt;
 
-Related articlesImage of the Day --Rare Conjunction of Jupiter's Three Largest Moons
-
-#### Factsheet
-&gt;factsheet unavailable
-
-[Visit Link](http://www.dailygalaxy.com/my_weblog/2016/06/extreme-physics-nebula-observed-around-a-neutron-star-for-first-time.html)
-
-id:  297603</content><author><name></name></author></entry></feed>
+&lt;p&gt;id:  297603&lt;/p&gt;</content><author><name></name></author></entry></feed>
