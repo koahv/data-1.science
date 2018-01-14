@@ -9,7 +9,7 @@ tags: [environment]
 
 
 #### Extract
->Cambodia's prime minister has ordered a million hectares of forest be included in protected zones as the country faces one of the world's fastest deforestation rates.
+>Cambodia's prime minister has ordered a million hectares of forest be included in protected zones as the country faces one of the world's fastest deforestation rates....
 
 #### Factsheet
 >factsheet unavailable

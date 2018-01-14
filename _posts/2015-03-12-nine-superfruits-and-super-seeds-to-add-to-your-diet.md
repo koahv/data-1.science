@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Although there is no universal standard definition of a super seed or superfruit, they are often described as providing a number of nutrients and health benefits all in one package. A new article describes nine seeds and superfruits that fit the bill for consumers’ desire for natural, minimally processed foods.
+>Although there is no universal standard definition of a super seed or superfruit, they are often described as providing a number of nutrients and health benefits all in one package. A new article describes nine seeds and superfruits that fit the bill for consumers’ desire for natural, minimally processed foods....
 
 #### Factsheet
 >factsheet unavailable

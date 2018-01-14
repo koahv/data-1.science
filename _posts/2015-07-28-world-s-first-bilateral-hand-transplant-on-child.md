@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Surgeons recently completed the world's first bilateral hand transplant on a child. Earlier this month, the surgical team successfully transplanted donor hands and forearms onto 8-year-old Zion Harvey who, several years earlier, had undergone amputation of his hands and feet and a kidney transplant following a serious infection.
+>Surgeons recently completed the world's first bilateral hand transplant on a child. Earlier this month, the surgical team successfully transplanted donor hands and forearms onto 8-year-old Zion Harvey who, several years earlier, had undergone amputation of his hands and feet and a kidney transplant following a serious infection....
 
 #### Factsheet
 >factsheet unavailable

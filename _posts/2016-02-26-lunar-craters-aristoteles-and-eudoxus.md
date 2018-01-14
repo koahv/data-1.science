@@ -9,7 +9,7 @@ tags: [online gallery, sun & moon pictures]
 
 
 #### Extract
->The post Lunar craters Aristoteles and Eudoxus. appeared first on Sky &amp; Telescope.
+>The post Lunar craters Aristoteles and Eudoxus. appeared first on Sky &amp; Telescope....
 
 #### Factsheet
 >factsheet unavailable

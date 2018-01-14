@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Cambridge) Newly discovered tool-length 'subcultures' in our closest living relatives provide striking parallel with cultural differences observed between adjacent groups in human societies.
+>(University of Cambridge) Newly discovered tool-length 'subcultures' in our closest living relatives provide striking parallel with cultural differences observed between adjacent groups in human societies....
 
 #### Factsheet
 >factsheet unavailable

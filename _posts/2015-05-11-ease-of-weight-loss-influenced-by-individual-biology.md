@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->For the first time in a lab, researchers have found evidence supporting the commonly held belief that people with certain physiologies lose less weight than others when limiting calories. At this time, researchers do not know whether the biological differences are innate or develop over time.
+>For the first time in a lab, researchers have found evidence supporting the commonly held belief that people with certain physiologies lose less weight than others when limiting calories. At this time, researchers do not know whether the biological differences are innate or develop over time....
 
 #### Factsheet
 >factsheet unavailable

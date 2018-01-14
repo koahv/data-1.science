@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A new study probes the evolutionary history of eczema, examining a genetic variant strongly associated with the most common form of eczema, atopic dermatitis. 
+>A new study probes the evolutionary history of eczema, examining a genetic variant strongly associated with the most common form of eczema, atopic dermatitis....
 
 #### Factsheet
 >factsheet unavailable

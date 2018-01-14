@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Riboflavin is a B-complex vitamin that helps the body break down carbohydrates, proteins and fats to produce energy.
+>Riboflavin is a B-complex vitamin that helps the body break down carbohydrates, proteins and fats to produce energy....
 
 #### Factsheet
 >factsheet unavailable

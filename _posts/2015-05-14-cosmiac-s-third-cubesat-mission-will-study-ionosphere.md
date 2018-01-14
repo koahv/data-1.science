@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->The University of New Mexico's Configurable Space Microsystems Innovations and Applications Center (COSMIAC) is preparing its third CubeSat, a small, cube-shaped satellite, for a space launch.
+>The University of New Mexico's Configurable Space Microsystems Innovations and Applications Center (COSMIAC) is preparing its third CubeSat, a small, cube-shaped satellite, for a space launch....
 
 #### Factsheet
 >factsheet unavailable

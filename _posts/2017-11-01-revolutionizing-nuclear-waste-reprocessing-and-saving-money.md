@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Seeking a better way to capture radioactive iodides in spent nuclear reactor fuel, scientists have developed an extremely efficient 'molecular trap' that can be recycled and reused. 
+>Seeking a better way to capture radioactive iodides in spent nuclear reactor fuel, scientists have developed an extremely efficient 'molecular trap' that can be recycled and reused....
 
 #### Factsheet
 >factsheet unavailable

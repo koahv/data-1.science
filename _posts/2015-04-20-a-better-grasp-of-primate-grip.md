@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Yale University) Scientists are coming to grips with the superior grasping ability of humans and other primates throughout history. In a new study, a research team led by Yale University found that even the oldest known human ancestors may have had precision grip capabilities comparable to modern humans. This includes Australopithecus afarensis, which appears in the fossil record a million years before the first evidence of stone tools.
+>(Yale University) Scientists are coming to grips with the superior grasping ability of humans and other primates throughout history. In a new study, a research team led by Yale University found that even the oldest known human ancestors may have had precision grip capabilities comparable to modern humans. This includes Australopithecus afarensis, which appears in the fossil record a million years before the first evidence of stone tools....
 
 #### Factsheet
 >factsheet unavailable

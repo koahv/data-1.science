@@ -9,7 +9,7 @@ tags: [linux commands, linux tricks]
 
 
 #### Extract
->In this article, we will briefly talk about ports in computer networking and move to how you can list all open ports in Linux. In computer networking, and more definitely in software terms, a&#46;&#46;&#46;
+>In this article, we will briefly talk about ports in computer networking and move to how you can list all open ports in Linux. In computer networking, and more definitely in software terms, a&#46;&#46;&#46;...
 
 #### Factsheet
 >factsheet unavailable

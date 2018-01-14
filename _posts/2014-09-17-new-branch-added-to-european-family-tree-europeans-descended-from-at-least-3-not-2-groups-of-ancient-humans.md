@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Previous work suggested that Europeans descended from two ancestral groups: indigenous hunter-gatherers and early European farmers. This new study shows that there was also a third ancestral group, the Ancient North Eurasians, who contributed genetic material to almost all present-day Europeans. The research also reveals an even older lineage, the Basal Eurasians.
+>Previous work suggested that Europeans descended from two ancestral groups: indigenous hunter-gatherers and early European farmers. This new study shows that there was also a third ancestral group, the Ancient North Eurasians, who contributed genetic material to almost all present-day Europeans. The research also reveals an even older lineage, the Basal Eurasians....
 
 #### Factsheet
 >factsheet unavailable

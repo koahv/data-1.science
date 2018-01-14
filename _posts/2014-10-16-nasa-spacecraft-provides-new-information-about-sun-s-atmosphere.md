@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) NASA's Interface Region Imaging Spectrograph has provided scientists with five new findings into how the sun's atmosphere, or corona, is heated far hotter than its surface, what causes the sun's constant outflow of particles called the solar wind, and what mechanisms accelerate particles that power solar flares.
+>(NASA/Goddard Space Flight Center) NASA's Interface Region Imaging Spectrograph has provided scientists with five new findings into how the sun's atmosphere, or corona, is heated far hotter than its surface, what causes the sun's constant outflow of particles called the solar wind, and what mechanisms accelerate particles that power solar flares....
 
 #### Factsheet
 >factsheet unavailable

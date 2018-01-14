@@ -9,7 +9,7 @@ tags: [other sciences]
 
 
 #### Extract
->You're either a math person or you're not – at least that's what we've always heard.
+>You're either a math person or you're not – at least that's what we've always heard....
 
 #### Factsheet
 >factsheet unavailable

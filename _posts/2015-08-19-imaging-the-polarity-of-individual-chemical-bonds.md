@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New variation of atomic force microscopy can observe subtle charge imbalances
+>New variation of atomic force microscopy can observe subtle charge imbalances...
 
 #### Factsheet
 >factsheet unavailable

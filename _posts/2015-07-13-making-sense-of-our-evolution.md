@@ -9,7 +9,7 @@ tags: [evolution]
 
 
 #### Extract
->The science about our our special senses - vision, smell, hearing and taste - offers fascinating and unique perspectives on our evolution.
+>The science about our our special senses - vision, smell, hearing and taste - offers fascinating and unique perspectives on our evolution....
 
 #### Factsheet
 >factsheet unavailable

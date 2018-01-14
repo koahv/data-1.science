@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Rice University) Photosynthesis leaves behind a unique calling card, a chemical signature that is spelled out with stable oxygen isotopes, according to a new study in Science. The findings suggest isotopic signatures could exist for many biological and geological processes, including some that are difficult to observe with current tools.
+>(Rice University) Photosynthesis leaves behind a unique calling card, a chemical signature that is spelled out with stable oxygen isotopes, according to a new study in Science. The findings suggest isotopic signatures could exist for many biological and geological processes, including some that are difficult to observe with current tools....
 
 #### Factsheet
 >factsheet unavailable

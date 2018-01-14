@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Photos reveal the huge laboratory under Antarctica's ice where detectors scan the heavens for ghostly particles called neutrinos.
+>Photos reveal the huge laboratory under Antarctica's ice where detectors scan the heavens for ghostly particles called neutrinos....
 
 #### Factsheet
 >factsheet unavailable

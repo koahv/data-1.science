@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) Scientists have turned to a combination of real time observations and computer simulations to best analyze how material courses through the corona.
+>(NASA/Goddard Space Flight Center) Scientists have turned to a combination of real time observations and computer simulations to best analyze how material courses through the corona....
 
 #### Factsheet
 >factsheet unavailable

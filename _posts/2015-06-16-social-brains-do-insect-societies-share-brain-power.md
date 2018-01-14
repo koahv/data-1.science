@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->The society you live in can shape the complexity of your brain—and it does so differently for social insects than for humans and other vertebrate animals.
+>The society you live in can shape the complexity of your brain—and it does so differently for social insects than for humans and other vertebrate animals....
 
 #### Factsheet
 >factsheet unavailable

@@ -4,12 +4,12 @@ title: "Dawn spacecraft explores dwarf planet Ceres' interior evolution"
 date: 2017-11-09 18:57:03
 categories: Science
 author: unknown author
-tags: []
+tags: [ceres]
 ---
 
 
 #### Extract
->Surface features on Ceres -- the largest world between Mars and Jupiter -- and its interior evolution have a closer relationship than one might think. A recent study analyzed Ceres' surface features to reveal clues about the dwarf planet's interior evolution. 
+>Surface features on Ceres -- the largest world between Mars and Jupiter -- and its interior evolution have a closer relationship than one might think. A recent study analyzed Ceres' surface features to reveal clues about the dwarf planet's interior evolution....
 
 #### Factsheet
 >factsheet unavailable

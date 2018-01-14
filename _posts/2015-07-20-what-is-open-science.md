@@ -9,10 +9,7 @@ tags: []
 
 
 #### Extract
->In his autobiography, Just for Fun, Linux creator Linus Torvalds argues that the open source process tends to mirror the scientific enterprise. "Science was originally viewed as something dangerous, subversive, and antiestablishment—basically how software companies sometimes view open source," he writes. And like science, Torvalds suggests, open source drives innovation: "It is creating things that until recently were considered impossible, and opening up unexpected new markets."
-
-
-read more
+>In his autobiography, Just for Fun, Linux creator Linus Torvalds argues that the open source process tends to mirror the scientific enterprise. "Science was originally viewed as something dangerous, subversive, and antiestablishment—basically how software companies sometimes view open source," he writes. And like science, Torvalds suggests, open source drives innovation: "It is creating things that until recently were considered impossible, and opening up unexpected new markets." read more...
 
 #### Factsheet
 >factsheet unavailable

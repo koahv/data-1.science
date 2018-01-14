@@ -11,7 +11,7 @@ tags: []
 
 
 #### Extract
->(University of California - Berkeley) UC Berkeley atmospheric scientist David Romps and his colleagues looked at predictions of precipitation and cloud buoyancy in 11 different climate models and concluded that their combined effect will generate 50 percent more electrical discharges to the ground by the end of the century because of global warming. The main cause is water vapor, which fuels explosive deep convection in the atmosphere. The more convection, the greater the charge separation and the more cloud-to-ground strikes.
+>(University of California - Berkeley) UC Berkeley atmospheric scientist David Romps and his colleagues looked at predictions of precipitation and cloud buoyancy in 11 different climate models and concluded that their combined effect will generate 50 percent more electrical discharges to the ground by the end of the century because of global warming. The main cause is water vapor, which fuels explosive deep convection in the atmosphere. The more convection, the greater the charge separation and the more cloud-to-ground strikes....
 
 #### Factsheet
 >factsheet unavailable

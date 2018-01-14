@@ -9,7 +9,7 @@ tags: [command line hacks, freebsd, linux, openbsd, os x, unix]
 
 
 #### Extract
->Let us start new year with these Unix command line tricks to increase productivity at the Terminal. I have found them over the years and I'm now going to share with you.
+>Let us start new year with these Unix command line tricks to increase productivity at the Terminal. I have found them over the years and I'm now going to share with you....
 
 #### Factsheet
 >factsheet unavailable

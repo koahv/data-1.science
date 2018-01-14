@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Pennsylvania) A study by University of Pennsylvania biologists now provides evidence that, at the molecular level, evolution is both unpredictable and irreversible.
+>(University of Pennsylvania) A study by University of Pennsylvania biologists now provides evidence that, at the molecular level, evolution is both unpredictable and irreversible....
 
 #### Factsheet
 >factsheet unavailable

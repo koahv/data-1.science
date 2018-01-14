@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Juries in criminal cases typically decide if someone is guilty, then a judge determines a suitable level of punishment. New research confirms that these two separate assessments of guilt and punishment -- though related -- are calculated in different parts of the brain. In fact, researchers have found that they can disrupt and change one decision without affecting the other. 
+>Juries in criminal cases typically decide if someone is guilty, then a judge determines a suitable level of punishment. New research confirms that these two separate assessments of guilt and punishment -- though related -- are calculated in different parts of the brain. In fact, researchers have found that they can disrupt and change one decision without affecting the other....
 
 #### Factsheet
 >factsheet unavailable

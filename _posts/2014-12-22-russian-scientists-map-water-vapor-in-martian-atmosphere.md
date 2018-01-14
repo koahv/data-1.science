@@ -10,7 +10,7 @@ tags: []
 
 
 #### Extract
->(Moscow Institute of Physics and Technology) Russian scientists from the Space Research Institute of the Russian Academy of Sciences and the Moscow Institute of Physics and Technology, together with their French and American colleagues, have created a 'map' of the distribution of water vapor.
+>(Moscow Institute of Physics and Technology) Russian scientists from the Space Research Institute of the Russian Academy of Sciences and the Moscow Institute of Physics and Technology, together with their French and American colleagues, have created a 'map' of the distribution of water vapor....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Beijing has seen explosive growth in recent years, with the physical size of the city quadrupling in just a decade, a new study reveals.
+>Beijing has seen explosive growth in recent years, with the physical size of the city quadrupling in just a decade, a new study reveals....
 
 #### Factsheet
 >factsheet unavailable

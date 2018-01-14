@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->How does scarcity, or the appearance of scarcity, affect choice when several consumer products are presented at once? Researchers found a clear pattern: Scarcity polarizes preferences.
+>How does scarcity, or the appearance of scarcity, affect choice when several consumer products are presented at once? Researchers found a clear pattern: Scarcity polarizes preferences....
 
 #### Factsheet
 >factsheet unavailable

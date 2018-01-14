@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(John Innes Centre) Dr Tony Miller from the John Innes Centre has developed rice crops with an improved ability to manage their own pH levels, enabling them to take up significantly more nitrogen, iron and phosphorous from soil and increase yield by up to 54 percent.
+>(John Innes Centre) Dr Tony Miller from the John Innes Centre has developed rice crops with an improved ability to manage their own pH levels, enabling them to take up significantly more nitrogen, iron and phosphorous from soil and increase yield by up to 54 percent....
 
 #### Factsheet
 >factsheet unavailable

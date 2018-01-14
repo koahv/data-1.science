@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Netherlands Institute of Ecology (NIOO-KNAW)) Let's forget about the climate for a minute. Largely hidden from public view, another global change is causing increasing disruption. Residues of medicines in water can kill aquatic animals and play havoc with their food web and reproductive cycle. An international team of researchers led by the Netherlands Institute of Ecology (NIOO-KNAW) makes an urgent case for better wastewater treatment and biodegradable pharmaceuticals.
+>(Netherlands Institute of Ecology (NIOO-KNAW)) Let's forget about the climate for a minute. Largely hidden from public view, another global change is causing increasing disruption. Residues of medicines in water can kill aquatic animals and play havoc with their food web and reproductive cycle. An international team of researchers led by the Netherlands Institute of Ecology (NIOO-KNAW) makes an urgent case for better wastewater treatment and biodegradable pharmaceuticals....
 
 #### Factsheet
 >factsheet unavailable

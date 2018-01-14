@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->For the development of animals, nothing -- with the exception of DNA -- may be more important than oxygen in the atmosphere. A study now links the rise in oxygen to a rapid increase in the burial of sediment containing large amounts of carbon-rich organic matter. 
+>For the development of animals, nothing -- with the exception of DNA -- may be more important than oxygen in the atmosphere. A study now links the rise in oxygen to a rapid increase in the burial of sediment containing large amounts of carbon-rich organic matter....
 
 #### Factsheet
 >factsheet unavailable

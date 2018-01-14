@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Computer technology has transformed the way we live, but as consumers expect ever more from their devices at faster speeds, personal computers as well as larger electronic systems can overheat. This can cause them to slow down, or worse, completely shut down.Read more about Toward a New Way to Keep Electronics from Overheating
+>Computer technology has transformed the way we live, but as consumers expect ever more from their devices at faster speeds, personal computers as well as larger electronic systems can overheat. This can cause them to slow down, or worse, completely shut down.Read more about Toward a New Way to Keep Electronics from Overheating...
 
 #### Factsheet
 >factsheet unavailable

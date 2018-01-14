@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-The UK’s Farnborough airshow today saw ESA’s commitment to the next step in developing a revolutionary air-breathing rocket engine that could begin test firings in about four years.
-
-	
+>The UK’s Farnborough airshow today saw ESA’s commitment to the next step in developing a revolutionary air-breathing rocket engine that could begin test firings in about four years....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [astronomy]
 
 
 #### Extract
->We live in interesting times. For thousands of years, we have thought we knew what the universe – and everything in it – was made of: normal matter, the kind that make up the elements of the periodic table.
+>We live in interesting times. For thousands of years, we have thought we knew what the universe – and everything in it – was made of: normal matter, the kind that make up the elements of the periodic table....
 
 #### Factsheet
 >factsheet unavailable

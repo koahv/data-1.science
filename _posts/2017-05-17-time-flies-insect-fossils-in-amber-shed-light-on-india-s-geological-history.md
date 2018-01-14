@@ -9,7 +9,7 @@ tags: [archaeology & fossils]
 
 
 #### Extract
->A new species of fungus gnat in Indian amber closely resembles its fossil relatives from Europe, disproving the concept of a strongly isolated Indian subcontinent.
+>A new species of fungus gnat in Indian amber closely resembles its fossil relatives from Europe, disproving the concept of a strongly isolated Indian subcontinent....
 
 #### Factsheet
 >factsheet unavailable

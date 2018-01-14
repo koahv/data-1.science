@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
-> A group of American-led scientists and entrepreneurs has announced the start of a 10-year project aimed at creating synthetic human genomes in a move that could revolutionize the field of biotechnology but raises troubling ethical concerns.
+>A group of American-led scientists and entrepreneurs has announced the start of a 10-year project aimed at creating synthetic human genomes in a move that could revolutionize the field of biotechnology but raises troubling ethical concerns....
 
 #### Factsheet
 >factsheet unavailable

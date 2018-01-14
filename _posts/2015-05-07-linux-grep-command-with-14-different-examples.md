@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->linuxtechi: Linux like operating systems provides a searching tool known as grep (global regular expression print).
+>linuxtechi: Linux like operating systems provides a searching tool known as grep (global regular expression print)....
 
 #### Factsheet
 >factsheet unavailable

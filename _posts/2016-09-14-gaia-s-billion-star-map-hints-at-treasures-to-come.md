@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-The first catalogue of more than a billion stars from ESA’s Gaia satellite was published today – the largest all-sky survey of celestial objects to date.
-
-	
+>The first catalogue of more than a billion stars from ESA’s Gaia satellite was published today – the largest all-sky survey of celestial objects to date....
 
 #### Factsheet
 >factsheet unavailable

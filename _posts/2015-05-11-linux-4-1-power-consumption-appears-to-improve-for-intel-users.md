@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A Red Hat developer mentioned to us at Phoronix that they're seeing "drastically improved battery life" in some cases with the Linux 4.1 kernel to the extent that it's up to 2~4 hours of extra battery life with the kernel upgrade to Git. I've since started some fresh Linux laptop battery tests.
+>A Red Hat developer mentioned to us at Phoronix that they're seeing "drastically improved battery life" in some cases with the Linux 4.1 kernel to the extent that it's up to 2~4 hours of extra battery life with the kernel upgrade to Git. I've since started some fresh Linux laptop battery tests....
 
 #### Factsheet
 >factsheet unavailable

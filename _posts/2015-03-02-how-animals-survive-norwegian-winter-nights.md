@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Norwegian mammals and birds have many different methods of surviving long, intense winter nights. A biologist from the Norwegian University of Science and Technology (NTNU) University Museum reveals their secrets for survival.
+>Norwegian mammals and birds have many different methods of surviving long, intense winter nights. A biologist from the Norwegian University of Science and Technology (NTNU) University Museum reveals their secrets for survival....
 
 #### Factsheet
 >factsheet unavailable

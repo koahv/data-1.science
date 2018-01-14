@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->KRQE News 13Local NASA scientists monitor extreme weather from spaceWTOPWASHINGTON — So far this year, there&#39;s been severe drought in California and extreme flooding in places like Texas. But scientists right here in the D.C. area are monitoring it all from space. “NASA has 20 earth-observing satellites that provide sort ...NASA Scientists: Drought disappearing for the short term, not long termKRQE News 13New NASA Images Show Extreme DroughtFOX40all 5 news articles&nbsp;&raquo;
+>KRQE News 13Local NASA scientists monitor extreme weather from spaceWTOPWASHINGTON — So far this year, there&#39;s been severe drought in California and extreme flooding in places like Texas. But scientists right here in the D.C. area are monitoring it all from space. “NASA has 20 earth-observing satellites that provide sort ...NASA Scientists: Drought disappearing for the short term, not long termKRQE News 13New NASA Images Show Extreme DroughtFOX40all 5 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

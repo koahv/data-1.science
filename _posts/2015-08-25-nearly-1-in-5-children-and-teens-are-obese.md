@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->More than one-third of American adults are obese, and now, a new report shows that children and teens aren't far behind. 
+>More than one-third of American adults are obese, and now, a new report shows that children and teens aren't far behind....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Across the Serengeti-Mara, an estimated 1.3 million wildebeest and 250,000 zebra are making their annual migration in one of the most spectacular sights of the natural world.
+>Across the Serengeti-Mara, an estimated 1.3 million wildebeest and 250,000 zebra are making their annual migration in one of the most spectacular sights of the natural world....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Tiny grains of rock detected by the international Cassini spacecraft orbiting Saturn point to hydrothermal activity on the seafloor of its icy moon Enceladus.
-
-	
+>Tiny grains of rock detected by the international Cassini spacecraft orbiting Saturn point to hydrothermal activity on the seafloor of its icy moon Enceladus....
 
 #### Factsheet
 >factsheet unavailable

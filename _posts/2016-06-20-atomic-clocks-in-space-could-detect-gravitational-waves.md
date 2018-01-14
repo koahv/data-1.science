@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->System could complement LISA and LIGO, say physicists
+>System could complement LISA and LIGO, say physicists...
 
 #### Factsheet
 >factsheet unavailable

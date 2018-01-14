@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Cornell University) In a landmark finding, Cornell University and Florida State University researchers report they have identified 1 to 2 percent of the maize genome that turns genes on and off, so they may now focus their attention on these areas for more efficient plant breeding.
+>(Cornell University) In a landmark finding, Cornell University and Florida State University researchers report they have identified 1 to 2 percent of the maize genome that turns genes on and off, so they may now focus their attention on these areas for more efficient plant breeding....
 
 #### Factsheet
 >factsheet unavailable

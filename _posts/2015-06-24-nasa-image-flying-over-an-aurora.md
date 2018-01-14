@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->NASA astronaut Scott Kelly (@StationCDRKelly) captured photographs and video of auroras from the International Space Station on June 22, 2015.
+>NASA astronaut Scott Kelly (@StationCDRKelly) captured photographs and video of auroras from the International Space Station on June 22, 2015....
 
 #### Factsheet
 >factsheet unavailable

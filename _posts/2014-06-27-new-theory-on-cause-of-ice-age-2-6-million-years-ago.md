@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New research has provided a major new theory on the cause of the ice age that covered large parts of the Northern Hemisphere 2.6 million years ago.
+>New research has provided a major new theory on the cause of the ice age that covered large parts of the Northern Hemisphere 2.6 million years ago....
 
 #### Factsheet
 >factsheet unavailable

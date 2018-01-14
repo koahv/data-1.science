@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Institut national de la recherche scientifique - INRS) Implementation of a new nuclear magnetic resonance (NMR) spectroscopy platform will provide professors Nicolas Doucet and Steven LaPlante of Centre INRS-Institut Armand-Frappier with a powerful new tool for conducting an ambitious research program aimed at identifying new therapeutic molecules.
+>(Institut national de la recherche scientifique - INRS) Implementation of a new nuclear magnetic resonance (NMR) spectroscopy platform will provide professors Nicolas Doucet and Steven LaPlante of Centre INRS-Institut Armand-Frappier with a powerful new tool for conducting an ambitious research program aimed at identifying new therapeutic molecules....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->LinuxSecurity.com: Network-based firewalls have become almost ubiquitous across US enterprises for their proven defense against an ever-increasing array of threats.
+>LinuxSecurity.com: Network-based firewalls have become almost ubiquitous across US enterprises for their proven defense against an ever-increasing array of threats....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of California - San Francisco) By studying specially bred mice with specific developmental and cognitive traits resembling those seen in schizophrenia, UC San Francisco researchers have provided new evidence that abnormal rhythmic activity in particular brain cells contributes to problems with learning, attention, and decision-making in individuals with that disorder.
+>(University of California - San Francisco) By studying specially bred mice with specific developmental and cognitive traits resembling those seen in schizophrenia, UC San Francisco researchers have provided new evidence that abnormal rhythmic activity in particular brain cells contributes to problems with learning, attention, and decision-making in individuals with that disorder....
 
 #### Factsheet
 >factsheet unavailable

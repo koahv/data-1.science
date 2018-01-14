@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;Why Using Open Source Software Helps Companies Stay Flexible and Innovate8 MarLearn more
+>Title:&nbsp;Why Using Open Source Software Helps Companies Stay Flexible and Innovate8 MarLearn more...
 
 #### Factsheet
 >factsheet unavailable

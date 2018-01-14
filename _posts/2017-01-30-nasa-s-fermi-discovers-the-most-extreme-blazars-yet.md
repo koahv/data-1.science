@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) NASA's Fermi Gamma-ray Space Telescope has identified the farthest gamma-ray blazars, a type of galaxy whose intense emissions are powered by supersized black holes. Light from the most distant object began its journey to us when the universe was 1.4 billion years old, or nearly 10 percent of its present age.
+>(NASA/Goddard Space Flight Center) NASA's Fermi Gamma-ray Space Telescope has identified the farthest gamma-ray blazars, a type of galaxy whose intense emissions are powered by supersized black holes. Light from the most distant object began its journey to us when the universe was 1.4 billion years old, or nearly 10 percent of its present age....
 
 #### Factsheet
 >factsheet unavailable

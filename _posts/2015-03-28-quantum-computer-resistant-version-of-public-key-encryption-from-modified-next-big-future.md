@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientific ComputingQuantum computer resistant version of public key encryption from modified ...Next Big FutureQuantum computers operate on the subatomic level and theoretically provide processing power that could be exponentially faster than classical computers. Several companies are in the race to develop quantum computers including Google and Dwave&nbsp;...Mathematicians adapt Knapsack Code to take on Quantum-level Cyber AttacksScientific Computingall 2 news articles&nbsp;&raquo;
+>Scientific ComputingQuantum computer resistant version of public key encryption from modified ...Next Big FutureQuantum computers operate on the subatomic level and theoretically provide processing power that could be exponentially faster than classical computers. Several companies are in the race to develop quantum computers including Google and Dwave&nbsp;...Mathematicians adapt Knapsack Code to take on Quantum-level Cyber AttacksScientific Computingall 2 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

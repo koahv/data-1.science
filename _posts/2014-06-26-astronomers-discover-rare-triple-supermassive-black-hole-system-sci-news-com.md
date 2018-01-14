@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Sci-News.comAstronomers Discover Rare Triple Supermassive Black Hole SystemSci-News.comThe astronomers found that one of these galaxies, SDSS J150243.09+1111557.3 (J1502 for short), they thought contained two black holes (J1502P and J1502S) actually contained a triple system with a very compact double supermassive black hole.Triple Monster Black Hole DiscoveredNational GeographicTrio of supermassive black holes shakes space-timeAstronomy MagazineSA astronomers find triple black holeiAfrica.comall 81 news articles&nbsp;&raquo;
+>Sci-News.comAstronomers Discover Rare Triple Supermassive Black Hole SystemSci-News.comThe astronomers found that one of these galaxies, SDSS J150243.09+1111557.3 (J1502 for short), they thought contained two black holes (J1502P and J1502S) actually contained a triple system with a very compact double supermassive black hole.Triple Monster Black Hole DiscoveredNational GeographicTrio of supermassive black holes shakes space-timeAstronomy MagazineSA astronomers find triple black holeiAfrica.comall 81 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

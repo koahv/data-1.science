@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->(Phys.org) —Scientists at Yale University have demonstrated the ability to track real quantum errors as they occur, a major step in the development of reliable quantum computers. They report their results in the journal Nature.
+>(Phys.org) —Scientists at Yale University have demonstrated the ability to track real quantum errors as they occur, a major step in the development of reliable quantum computers. They report their results in the journal Nature....
 
 #### Factsheet
 >factsheet unavailable

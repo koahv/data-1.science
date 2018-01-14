@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A team of researchers is the first to successfully bioengineer a functional lung with perfusable and healthy vasculature in an ex vivo rodent lung. Their new approach allows the removal of the pulmonary epithelium while maintaining the viability and function of the vascular network and the lung matrix. 
+>A team of researchers is the first to successfully bioengineer a functional lung with perfusable and healthy vasculature in an ex vivo rodent lung. Their new approach allows the removal of the pulmonary epithelium while maintaining the viability and function of the vascular network and the lung matrix....
 
 #### Factsheet
 >factsheet unavailable

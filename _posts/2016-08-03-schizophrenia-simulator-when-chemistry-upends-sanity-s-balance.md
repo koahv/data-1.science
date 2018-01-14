@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Georgia Institute of Technology) Schizophrenia goes hand in hand with brain chemistry out of kilter, and treatment options for a major symptom aren't great. Biomedical engineers data-mined the collective scientific knowledge of a major symptom, the disruption of working memory, to build a remarkably accurate simulator that can help researchers and doctors devise new treatments.
+>(Georgia Institute of Technology) Schizophrenia goes hand in hand with brain chemistry out of kilter, and treatment options for a major symptom aren't great. Biomedical engineers data-mined the collective scientific knowledge of a major symptom, the disruption of working memory, to build a remarkably accurate simulator that can help researchers and doctors devise new treatments....
 
 #### Factsheet
 >factsheet unavailable

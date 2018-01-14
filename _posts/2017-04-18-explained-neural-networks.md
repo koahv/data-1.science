@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognizers on smartphones or Google’s latest automatic translator — have resulted from a technique called “deep learning.”
+>In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognizers on smartphones or Google’s latest automatic translator — have resulted from a technique called “deep learning.”...
 
 #### Factsheet
 >factsheet unavailable

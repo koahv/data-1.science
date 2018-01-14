@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->According to the World Food Program, some 795 million people – one in nine people on earth – don't have enough food to lead a healthy active life. That will only get worse with the next global food crisis, predicted to occur within four years by experts at the recent Third International Conference on Global Warming and Food Security.
+>According to the World Food Program, some 795 million people – one in nine people on earth – don't have enough food to lead a healthy active life. That will only get worse with the next global food crisis, predicted to occur within four years by experts at the recent Third International Conference on Global Warming and Food Security....
 
 #### Factsheet
 >factsheet unavailable

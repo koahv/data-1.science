@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Efforts to study black holes in the lab with versions that trap sound instead of light may have revealed a key prediction made by Stephen Hawking
+>Efforts to study black holes in the lab with versions that trap sound instead of light may have revealed a key prediction made by Stephen Hawking...
 
 #### Factsheet
 >factsheet unavailable

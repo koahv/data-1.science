@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A crucial step in DNA repair that could lead to targeted gene therapy for hereditary diseases such as 'children of the moon' and a common form of colon cancer has been found by scientists. Such disorders are caused by faulty DNA repair systems that increase the risk for cancer and other conditions.
+>A crucial step in DNA repair that could lead to targeted gene therapy for hereditary diseases such as 'children of the moon' and a common form of colon cancer has been found by scientists. Such disorders are caused by faulty DNA repair systems that increase the risk for cancer and other conditions....
 
 #### Factsheet
 >factsheet unavailable

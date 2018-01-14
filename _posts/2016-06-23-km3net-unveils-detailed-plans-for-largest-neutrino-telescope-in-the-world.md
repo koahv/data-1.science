@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(IOP Publishing) KM3NeT -- a European collaboration pioneering the deployment of kilometer cubed arrays of neutrino detectors off the Mediterranean coast -- has reported in detail on the scientific aims, technology and costs of its proposal in the Journal of Physics G: Nuclear and Particle Physics.
+>(IOP Publishing) KM3NeT -- a European collaboration pioneering the deployment of kilometer cubed arrays of neutrino detectors off the Mediterranean coast -- has reported in detail on the scientific aims, technology and costs of its proposal in the Journal of Physics G: Nuclear and Particle Physics....
 
 #### Factsheet
 >factsheet unavailable

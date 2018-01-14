@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(European Science Foundation) A new report, Technological Breakthroughs for Scientific Progress, has been published today by the European Science Foundation.
+>(European Science Foundation) A new report, Technological Breakthroughs for Scientific Progress, has been published today by the European Science Foundation....
 
 #### Factsheet
 >factsheet unavailable

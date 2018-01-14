@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Explore Japan’s Kibo space laboratory with your mobile phone or VR headset in this panorama
-	
+>Explore Japan’s Kibo space laboratory with your mobile phone or VR headset in this panorama...
 
 #### Factsheet
 >factsheet unavailable

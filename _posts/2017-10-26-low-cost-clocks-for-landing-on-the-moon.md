@@ -9,16 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-A European clock accurate to a trillionth of a second is set to be used on satellites and missions to the Moon.
-
-The ultra-precise time-keeper was conceived by a small company in Latvia, and ESA has recognised its potential for space.
-
-“We are the Ferrari of timers with the components of a tractor,” says Nikolai Adamovitch of Eventech.&nbsp;
-
-	
+>A European clock accurate to a trillionth of a second is set to be used on satellites and missions to the Moon. The ultra-precise time-keeper was conceived by a small company in Latvia, and ESA has recognised its potential for space. “We are the Ferrari of timers with the components of a tractor,” says Nikolai Adamovitch of Eventech.&nbsp;...
 
 #### Factsheet
 >factsheet unavailable

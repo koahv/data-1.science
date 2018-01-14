@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;HowToForge: One way to minimize the risk of data theft is to encrypt the data that is present even on our local system.
+>&nbsp;HowToForge: One way to minimize the risk of data theft is to encrypt the data that is present even on our local system....
 
 #### Factsheet
 >factsheet unavailable

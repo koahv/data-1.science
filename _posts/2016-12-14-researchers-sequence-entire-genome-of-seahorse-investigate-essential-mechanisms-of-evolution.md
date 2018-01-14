@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->Without a doubt, the seahorse belongs to Darwin's "endless forms most beautiful". Its body form is one of a kind. It has neither a tail nor pelvic fin, it swims vertically, bony plates reinforce its entire body and it has no teeth, a rare feature in fish. Another peculiarity is that male seahorses are the ones to become pregnant.
+>Without a doubt, the seahorse belongs to Darwin's "endless forms most beautiful". Its body form is one of a kind. It has neither a tail nor pelvic fin, it swims vertically, bony plates reinforce its entire body and it has no teeth, a rare feature in fish. Another peculiarity is that male seahorses are the ones to become pregnant....
 
 #### Factsheet
 >factsheet unavailable

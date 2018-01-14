@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University College London) A mathematical problem underlying fundamental questions in particle and quantum physics is provably unsolvable, according to scientists at UCL, Universidad Complutense de Madrid -- ICMAT and Technical University of Munich.
+>(University College London) A mathematical problem underlying fundamental questions in particle and quantum physics is provably unsolvable, according to scientists at UCL, Universidad Complutense de Madrid -- ICMAT and Technical University of Munich....
 
 #### Factsheet
 >factsheet unavailable

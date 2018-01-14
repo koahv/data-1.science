@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;tecmint: A debugger plays a vital role in any software development system.
+>&nbsp;tecmint: A debugger plays a vital role in any software development system....
 
 #### Factsheet
 >factsheet unavailable

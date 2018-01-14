@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The new Raspberry Pi Model B+ which launched this week offers more connectivity for the same low price.
+>The new Raspberry Pi Model B+ which launched this week offers more connectivity for the same low price....
 
 #### Factsheet
 >factsheet unavailable

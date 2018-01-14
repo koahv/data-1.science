@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->What are asteroids made of? Asteroids are made mostly of rock—with some composed of clay and silicate—and different metals, mostly nickel and iron. But other materials have been found in asteroids, as well.
+>What are asteroids made of? Asteroids are made mostly of rock—with some composed of clay and silicate—and different metals, mostly nickel and iron. But other materials have been found in asteroids, as well....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->(Phys.org)—A group of researchers from Harvard University report being able to observe DNA dynamics during cell division in vivo using time-lapse stimulated Raman scattering microscopy and without using fluorescent labels. Their work appears in the Proceedings of the National Academy of Sciences.
+>(Phys.org)—A group of researchers from Harvard University report being able to observe DNA dynamics during cell division in vivo using time-lapse stimulated Raman scattering microscopy and without using fluorescent labels. Their work appears in the Proceedings of the National Academy of Sciences....
 
 #### Factsheet
 >factsheet unavailable

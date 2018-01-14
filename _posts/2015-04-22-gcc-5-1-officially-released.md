@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Those behind the GNU Compiler Collection have announced this morning the official release of GCC 5.1, the first major release of GCC 5...
+>Those behind the GNU Compiler Collection have announced this morning the official release of GCC 5.1, the first major release of GCC 5......
 
 #### Factsheet
 >factsheet unavailable

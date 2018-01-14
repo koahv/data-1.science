@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
-> With the new Ansible automation-based system, the Army has accelerated its pace of change by 75 percent. Upgrades that used to take a day can now be achieved with high availability in less than two hours, and can be scheduled after hours. Emergency patches that used to take approximately three days can be implemented in a matter of hours. Overall, delivering changes is now four times faster, on average, based on the British Army’s internal calculations.
+> With the new Ansible automation-based system, the Army has accelerated its pace of change by 75 percent. Upgrades that used to take a day can now be achieved with high availability in less than two hours, and can be scheduled after hours. Emergency patches that used to take approximately three days can be implemented in a matter of hours. Overall, delivering changes is now four times faster, on average, based on the British Army’s internal calculations....
 
 #### Factsheet
 >factsheet unavailable

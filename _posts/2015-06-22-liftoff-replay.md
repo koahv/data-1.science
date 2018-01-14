@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Watch the replay of the Sentinel-2A launch on a Vega rocket from Europe’s Spaceport in French Guiana
-	
+>Watch the replay of the Sentinel-2A launch on a Vega rocket from Europe’s Spaceport in French Guiana...
 
 #### Factsheet
 >factsheet unavailable

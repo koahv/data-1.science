@@ -9,7 +9,7 @@ tags: [higher education]
 
 
 #### Extract
->"I want you to reimagine how life is organized on earth," says global strategist Parag Khanna. As our expanding cities grow ever more connected through transportation, energy and communications networks, we evolve from geography to what he calls "connectography." This emerging global network civilization holds the promise of reducing pollution and inequality -- and even overcoming geopolitical rivalries. In this talk, Khanna asks us to embrace a new maxim for the future: "Connectivity is destiny."
+>"I want you to reimagine how life is organized on earth," says global strategist Parag Khanna. As our expanding cities grow ever more connected through transportation, energy and communications networks, we evolve from geography to what he calls "connectography." This emerging global network civilization holds the promise of reducing pollution and inequality -- and even overcoming geopolitical rivalries. In this talk, Khanna asks us to embrace a new maxim for the future: "Connectivity is destiny."...
 
 #### Factsheet
 >factsheet unavailable

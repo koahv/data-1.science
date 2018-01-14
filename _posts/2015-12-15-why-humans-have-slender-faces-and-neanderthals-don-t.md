@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Neanderthals had protruding facial features because of the way their bodies deposited and dealt with bone, a new study finds. 
+>Neanderthals had protruding facial features because of the way their bodies deposited and dealt with bone, a new study finds....
 
 #### Factsheet
 >factsheet unavailable

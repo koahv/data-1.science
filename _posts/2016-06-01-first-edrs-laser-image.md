@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		ESA today unveiled the first Sentinel-1 satellite images sent via the European Data Relay System’s world-leading laser technology in high orbit
-	
+>ESA today unveiled the first Sentinel-1 satellite images sent via the European Data Relay System’s world-leading laser technology in high orbit...
 
 #### Factsheet
 >factsheet unavailable

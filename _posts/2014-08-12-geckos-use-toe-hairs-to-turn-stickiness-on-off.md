@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->Researchers at Oregon State University have developed a model that explains how geckos, as well as spiders and some insects, can run up and down walls, cling to ceilings, and seemingly defy gravity with such effortless grace.
+>Researchers at Oregon State University have developed a model that explains how geckos, as well as spiders and some insects, can run up and down walls, cling to ceilings, and seemingly defy gravity with such effortless grace....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Toronto) In the first study to take a comprehensive look at the way urbanization is affecting evolution, Professors Marc Johnson and Jason Munshi-Smith say they've found a 'wake-up call for the public, governments and other scientists.'
+>(University of Toronto) In the first study to take a comprehensive look at the way urbanization is affecting evolution, Professors Marc Johnson and Jason Munshi-Smith say they've found a 'wake-up call for the public, governments and other scientists.'...
 
 #### Factsheet
 >factsheet unavailable

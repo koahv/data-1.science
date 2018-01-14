@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->Plant biologists at Lawrence Berkeley National Laboratory (Berkeley Lab), in collaboration with colleagues from the California Institute of Technology (Caltech), have reconstructed the evolutionary history of photosynthesis to provide new insight into the yet-unfolding story of its origins.
+>Plant biologists at Lawrence Berkeley National Laboratory (Berkeley Lab), in collaboration with colleagues from the California Institute of Technology (Caltech), have reconstructed the evolutionary history of photosynthesis to provide new insight into the yet-unfolding story of its origins....
 
 #### Factsheet
 >factsheet unavailable

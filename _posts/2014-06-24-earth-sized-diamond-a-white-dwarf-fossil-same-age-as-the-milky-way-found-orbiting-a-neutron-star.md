@@ -9,35 +9,7 @@ tags: []
 
 
 #### Extract
->
-
- 
-White dwarfs are the extremely dense end-states of stars like our Sun that have collapsed to form an object approximately the size of the Earth. Composed mostly of carbon and oxygen, white dwarfs slowly cool and fade over billions of years. The object in this new study is likely the same age as the Milky Way, approximately 11 billion years old.
-Pulsars are rapidly spinning neutron stars, the superdense remains of massive stars that have exploded as supernovas. As neutron stars spin, lighthouse-like beams of radio waves, streaming from the poles of its powerful magnetic field, sweep through space. When one of these beams sweeps across the Earth, radio telescopes can capture the pulse of radio waves.
-A team of astronomers has identified possibly the coldest, faintest white dwarf star ever detected. This ancient stellar remnant is so cool that its carbon has crystallized, forming -- in effect -- an Earth-size diamond in space. The pulsar companion to this white dwarf, dubbed PSR J2222-0137, was the first object in this system to be detected. It was found using the GBT by Jason Boyles, then a graduate student at West Virginia University in Morgantown.
-“It’s a really remarkable object,” said David Kaplan, a professor at the University of Wisconsin-Milwaukee. “These things should be out there, but because they are so dim they are very hard to find.” Kaplan and his colleagues found this stellar gem using the National Radio Astronomy Observatory’s (NRAO) Green Bank Telescope (GBT) and Very Long Baseline Array (VLBA), as well as other observatories.
-These first observations revealed that the pulsar was spinning more than 30 times each second and was gravitationally bound to a companion star, which was initially identified as either another neutron star or, more likely, an uncommonly cool white dwarf. The two were calculated to orbit each other once every 2.45 days.
-“Our final image should show us a companion 100 times fainter than any other white dwarf orbiting a neutron star and about 10 times fainter than any known white dwarf, but we don’t see a thing,” said Bart Dunlap, a graduate student at the University of North Carolina at Chapel Hill and one of the team members. “If there’s a white dwarf there, and there almost certainly is, it must be extremely cold.”
-Astronomers believe that such a cool, collapsed star would be largely crystallized carbon, not unlike a diamond. Other such stars have been identified and they are theoretically not that rare, but with a low intrinsic brightness, they can be deucedly difficult to detect. Its fortuitous location in a binary system with a neutron star enabled the team to identify this one.
-The pulsar was then observed over a two-year period with the VLBA by Adam Deller, an astronomer at the Netherlands Institute for Radio Astronomy (ASTRON). These observations pinpointed its location and distance from the Earth -- approximately 900 light-years away in the direction of the constellation Aquarius. This information was critical in refining the model used to time the arrival of the pulses at the Earth with the GBT.
-By applying Einstein's theory of relativity, the researchers studied how the gravity of the companion warped space, causing delays in the radio signal as the pulsar passed behind it. These delayed travel times helped the researchers determine the orientation of their orbit and the individual masses of the two stars. The pulsar has a mass 1.2 times that of the Sun and the companion a mass 1.05 times that of the Sun.
-These data strongly indicated that the pulsar companion could not have been a second neutron star; the orbits were too orderly for a second supernova to have taken place.
-Knowing its location with such high precision and how bright a white dwarf should appear at that distance, the astronomers believed they should have been able to observe it in optical and infrared light.
-Remarkably, neither the Southern Astrophysical Research (SOAR) telescope in Chile nor the 10-meter Keck telescope in Hawaii was able to detect it.
-The researchers calculated that the white dwarf would be no more than a comparatively cool 3,000 degrees Kelvin (2,700 degrees Celsius). Our Sun at its center is about 5,000 times hotter.
-A paper describing these results is published in the Astrophysical Journal.
-The Chandra X-ray image at the top of the page shows the 2,000 year-old-remnant of such a cosmic explosion, known as RCW 103, which occurred about 10,000 light years from Earth. At the center, the bright blue dot is likely the neutron star that astronomers believe formed when the star exploded. For several years astronomers have struggled to understand the behavior of the this object, which exhibits unusually large variations in its X-ray emission over a period of years.
-New evidence from Chandra implies that the neutron star is rotating once every 6.7 hours, confirming recent work from XMM-Newton. This is much slower than a neutron star of its age should be spinning. One possible solution to this mystery is that the massive progenitor star to RCW 103 may not have exploded in isolation. Rather, a low-mass star that is too dim to see directly may be orbiting around the neutron star. Gas flowing from this unseen neighbor onto the neutron star might be powering its X-ray emission, and the interaction of the magnetic field of the two stars could have caused the neutron star to slow its rotation.
-The Daily Galaxy via National Radio Astronomy Observatory
-Image credit: NASA/CXC/Penn State/G.Garmire et al
- 
- 
-Related articles
-
-Bizzare Binary Neutron Stars With Gravity 300 Billion Times Earth --Confirms Einstein
-The Discovery of a Monster Stellar Corpse (Weekend Feature)
-Two White Dwarfs and a Superdense Star Create Perfect Cosmic Laboratory
-
+>    White dwarfs are the extremely dense end-states of stars like our Sun that have collapsed to form an object approximately the size of the Earth. Composed mostly of carbon and oxygen, white dwarfs slowly cool and fade over billions of years. The object in this new study is likely the same age as the Milky Way, approximately 11 billion years old. Pulsars are rapidly spinning neutron stars, the superdense remains of massive stars that have exploded as supernovas. As neutron stars spin, lighthouse-like beams of radio waves, streaming from the poles of its powerful magnetic field, sweep through space. When one of these beams sweeps across the Earth, radio telescopes can capture the pulse of radio waves. A team of astronomers has identified possibly the coldest, faintest white dwarf star ever detected. This ancient stellar remnant is so cool that its carbon has crystallized, forming -- in effect -- an Earth-size diamond in space. The pulsar companion to this white dwarf, dubbed PSR...
 
 #### Factsheet
 >factsheet unavailable

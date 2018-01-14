@@ -9,7 +9,7 @@ tags: [quantum physics]
 
 
 #### Extract
->Our computers, even the fastest ones, seem unable to withstand the needs of the enormous quantity of data produced in our technological society. That's why scientists are working on computers using quantum physics, or quantum computers, which promise to be faster and more powerful than conventional computers.
+>Our computers, even the fastest ones, seem unable to withstand the needs of the enormous quantity of data produced in our technological society. That's why scientists are working on computers using quantum physics, or quantum computers, which promise to be faster and more powerful than conventional computers....
 
 #### Factsheet
 >factsheet unavailable

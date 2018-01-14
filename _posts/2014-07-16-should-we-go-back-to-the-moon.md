@@ -9,8 +9,7 @@ tags: []
 
 
 #### Extract
->45 years ago man first walked on the moon. Is it time to go back?
-    
+>45 years ago man first walked on the moon. Is it time to go back?...
 
 #### Factsheet
 >factsheet unavailable

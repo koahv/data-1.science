@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Italy's Borexino detector provides further insights into radioactive heating of the Earth
+>Italy's Borexino detector provides further insights into radioactive heating of the Earth...
 
 #### Factsheet
 >factsheet unavailable

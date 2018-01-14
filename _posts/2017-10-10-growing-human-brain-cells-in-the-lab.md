@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A cost-effective technology has been developed to produce large quantities of human brain cells in two simple steps. By surmounting major challenges in human neuron-based drug discovery, researchers believe this technique will be adopted widely in both basic science and industry. 
+>A cost-effective technology has been developed to produce large quantities of human brain cells in two simple steps. By surmounting major challenges in human neuron-based drug discovery, researchers believe this technique will be adopted widely in both basic science and industry....
 
 #### Factsheet
 >factsheet unavailable

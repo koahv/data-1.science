@@ -9,7 +9,7 @@ tags: [chemistry]
 
 
 #### Extract
->A portable laser device is being developed at Heriot-Watt that can instantly identify chemical hazards, increasing the safety of emergency services and military personnel.
+>A portable laser device is being developed at Heriot-Watt that can instantly identify chemical hazards, increasing the safety of emergency services and military personnel....
 
 #### Factsheet
 >factsheet unavailable

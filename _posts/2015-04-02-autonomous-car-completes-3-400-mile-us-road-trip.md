@@ -9,7 +9,7 @@ tags: [technology]
 
 
 #### Extract
->An autonomous car's recent 3,400-mile U.S. road trip proves there's at least one thing computers do better than humans: Follow the speed limit.
+>An autonomous car's recent 3,400-mile U.S. road trip proves there's at least one thing computers do better than humans: Follow the speed limit....
 
 #### Factsheet
 >factsheet unavailable

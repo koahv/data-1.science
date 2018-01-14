@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsQuantum memory stores information in a similar fashion to the way traditional computer memory does, but on individual quantum particles ...Contributed Author:&nbsp;California Institute of TechnologyTopics:&nbsp;Consumer Electronics
+>NewsQuantum memory stores information in a similar fashion to the way traditional computer memory does, but on individual quantum particles ...Contributed Author:&nbsp;California Institute of TechnologyTopics:&nbsp;Consumer Electronics...
 
 #### Factsheet
 >factsheet unavailable

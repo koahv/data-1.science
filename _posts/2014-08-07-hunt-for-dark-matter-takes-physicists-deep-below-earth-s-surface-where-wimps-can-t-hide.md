@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->Dark matter makes up much of the universe, and surrounds us all like an invisible soup. Physicists have hunted dark matter particles for decades, but they continue to elude observation.
+>Dark matter makes up much of the universe, and surrounds us all like an invisible soup. Physicists have hunted dark matter particles for decades, but they continue to elude observation....
 
 #### Factsheet
 >factsheet unavailable

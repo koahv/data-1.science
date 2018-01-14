@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Becoming a Linux Foundation Certified Engineer is a challenging achievement and a good indicator of your sysadmin and network admin skills.&nbsp;The exam, normally priced at $300, will be 50% off ($150) for a limited time.
+>Becoming a Linux Foundation Certified Engineer is a challenging achievement and a good indicator of your sysadmin and network admin skills.&nbsp;The exam, normally priced at $300, will be 50% off ($150) for a limited time....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [environment]
 
 
 #### Extract
->In August last year, a third of the residents of the North Island township Havelock North fell acutely ill with gastroenteritis after their water was contaminated with campylobacter.
+>In August last year, a third of the residents of the North Island township Havelock North fell acutely ill with gastroenteritis after their water was contaminated with campylobacter....
 
 #### Factsheet
 >factsheet unavailable

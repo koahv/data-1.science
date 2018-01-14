@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Vanderbilt University) Vanderbilt researchers have identified the role that a key protein associated with autism and the co-occurrence of alcohol dependency and depression plays in forming the spines that create new connections in the brain.
+>(Vanderbilt University) Vanderbilt researchers have identified the role that a key protein associated with autism and the co-occurrence of alcohol dependency and depression plays in forming the spines that create new connections in the brain....
 
 #### Factsheet
 >factsheet unavailable

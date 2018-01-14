@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Colorado at Boulder) Solar wind and radiation are responsible for stripping the Martian atmosphere, transforming Mars from a planet that could have supported life billions of years ago into a frigid desert world, according to new results from NASA's MAVEN (Mars Atmosphere and Volatile Evolution Mission) spacecraft led by the University of Colorado Boulder.
+>(University of Colorado at Boulder) Solar wind and radiation are responsible for stripping the Martian atmosphere, transforming Mars from a planet that could have supported life billions of years ago into a frigid desert world, according to new results from NASA's MAVEN (Mars Atmosphere and Volatile Evolution Mission) spacecraft led by the University of Colorado Boulder....
 
 #### Factsheet
 >factsheet unavailable

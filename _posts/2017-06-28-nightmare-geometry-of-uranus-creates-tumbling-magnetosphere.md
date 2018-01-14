@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The ice-giant's magnetosphere opens and closes on a daily basis
+>The ice-giant's magnetosphere opens and closes on a daily basis...
 
 #### Factsheet
 >factsheet unavailable

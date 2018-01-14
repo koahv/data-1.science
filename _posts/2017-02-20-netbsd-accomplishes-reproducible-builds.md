@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A lot of Linux distributions have been focusing on reproducible builds support in the past few years -- ensuring individuals can rebuild a bit-for-bit replica of the original source code. NetBSD has now accomplished their operating system can be built in a reproducible build fashion...
+>A lot of Linux distributions have been focusing on reproducible builds support in the past few years -- ensuring individuals can rebuild a bit-for-bit replica of the original source code. NetBSD has now accomplished their operating system can be built in a reproducible build fashion......
 
 #### Factsheet
 >factsheet unavailable

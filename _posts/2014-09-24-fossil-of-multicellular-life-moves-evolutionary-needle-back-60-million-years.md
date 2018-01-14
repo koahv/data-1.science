@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Virginia Tech) Virginia Tech geobiologist Shuhai Xiao and collaborators from the Chinese Academy of Sciences shed new light on multicellular fossils from a time 60 million years before a vast growth spurt of life known as the Cambrian Explosion occurred on Earth.
+>(Virginia Tech) Virginia Tech geobiologist Shuhai Xiao and collaborators from the Chinese Academy of Sciences shed new light on multicellular fossils from a time 60 million years before a vast growth spurt of life known as the Cambrian Explosion occurred on Earth....
 
 #### Factsheet
 >factsheet unavailable

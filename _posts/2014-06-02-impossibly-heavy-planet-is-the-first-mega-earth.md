@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Twice the size of Earth and with 17 times our planet's mass, Kepler-10c is so unusual that it has been placed in a brand new class of exoplanet
+>Twice the size of Earth and with 17 times our planet's mass, Kepler-10c is so unusual that it has been placed in a brand new class of exoplanet...
 
 #### Factsheet
 >factsheet unavailable

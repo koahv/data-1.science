@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Rapid Eye Movement (REM) sleep, the period in which we experience vivid dreams, was discovered by scientists in the 1950s. A new study based on rare neuronal data offers the first scientific evidence of the link between rapid eye movement, dream images, and accelerated brain activity. 
+>Rapid Eye Movement (REM) sleep, the period in which we experience vivid dreams, was discovered by scientists in the 1950s. A new study based on rare neuronal data offers the first scientific evidence of the link between rapid eye movement, dream images, and accelerated brain activity....
 
 #### Factsheet
 >factsheet unavailable

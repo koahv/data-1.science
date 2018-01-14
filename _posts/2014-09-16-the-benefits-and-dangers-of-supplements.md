@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->From multivitamins to supplements that pledge to help with everything from depression to treating athlete’s foot, whole stores are filled with these alternative medications. With so many options out there it can be difficult for patients to know what is beneficial or even where to start.
+>From multivitamins to supplements that pledge to help with everything from depression to treating athlete’s foot, whole stores are filled with these alternative medications. With so many options out there it can be difficult for patients to know what is beneficial or even where to start....
 
 #### Factsheet
 >factsheet unavailable

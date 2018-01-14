@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Red Hat Government Symposium leads the discussion on how open source can help government agencies. Event offers a forum for agency and industry leaders to come together to discuss innovation and how to create more secure, efficient solutions to the government's biggest challenges.
+>Red Hat Government Symposium leads the discussion on how open source can help government agencies. Event offers a forum for agency and industry leaders to come together to discuss innovation and how to create more secure, efficient solutions to the government's biggest challenges....
 
 #### Factsheet
 >factsheet unavailable

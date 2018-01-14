@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->NASA's newest spacecraft, the Orion, won't be flying astronauts as soon as anticipated.
+>NASA's newest spacecraft, the Orion, won't be flying astronauts as soon as anticipated....
 
 #### Factsheet
 >factsheet unavailable

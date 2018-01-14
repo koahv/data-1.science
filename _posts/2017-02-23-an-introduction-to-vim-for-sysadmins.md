@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;An Introduction to Vim for Sysadmins 23 FebLearn more
+>Title:&nbsp;An Introduction to Vim for Sysadmins 23 FebLearn more...
 
 #### Factsheet
 >factsheet unavailable

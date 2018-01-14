@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->After a lifetime spent orbiting the planet Venus, a spacecraft's final mission promises to be its most daring.
+>After a lifetime spent orbiting the planet Venus, a spacecraft's final mission promises to be its most daring....
 
 #### Factsheet
 >factsheet unavailable

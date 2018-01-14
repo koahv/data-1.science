@@ -9,7 +9,7 @@ tags: [online gallery, sun & moon pictures]
 
 
 #### Extract
->The post Moon panorama with extreme details appeared first on Sky &amp; Telescope.
+>The post Moon panorama with extreme details appeared first on Sky &amp; Telescope....
 
 #### Factsheet
 >factsheet unavailable

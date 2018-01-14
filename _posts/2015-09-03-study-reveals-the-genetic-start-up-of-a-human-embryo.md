@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->For the first time, an international team of scientists has mapped all the genes that are activated in the first few days of a fertilized human egg. 
+>For the first time, an international team of scientists has mapped all the genes that are activated in the first few days of a fertilized human egg....
 
 #### Factsheet
 >factsheet unavailable

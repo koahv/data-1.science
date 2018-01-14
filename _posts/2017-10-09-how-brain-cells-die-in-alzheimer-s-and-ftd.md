@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Removal of a regulatory gene called LSD1 in adult mice induces changes in gene activity that that look unexpectedly like Alzheimer's. Another surprise: LSD1 is tangled up in brain samples from humans with Alzheimer's and frontotemporal dementia (FTD), suggesting LSD1 as a central downstream player in these diseases and a drug target. 
+>Removal of a regulatory gene called LSD1 in adult mice induces changes in gene activity that that look unexpectedly like Alzheimer's. Another surprise: LSD1 is tangled up in brain samples from humans with Alzheimer's and frontotemporal dementia (FTD), suggesting LSD1 as a central downstream player in these diseases and a drug target....
 
 #### Factsheet
 >factsheet unavailable

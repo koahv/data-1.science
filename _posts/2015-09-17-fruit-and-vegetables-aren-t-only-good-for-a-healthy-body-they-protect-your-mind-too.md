@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Eating a Mediterranean diet or other healthy dietary pattern, comprising of fruit, vegetables, legumes, and nuts and low in processed meats, is associated with preventing the onset of depression, according to research. A large study of 15,093 people suggests depression could be linked with nutrient deficits. 
+>Eating a Mediterranean diet or other healthy dietary pattern, comprising of fruit, vegetables, legumes, and nuts and low in processed meats, is associated with preventing the onset of depression, according to research. A large study of 15,093 people suggests depression could be linked with nutrient deficits....
 
 #### Factsheet
 >factsheet unavailable

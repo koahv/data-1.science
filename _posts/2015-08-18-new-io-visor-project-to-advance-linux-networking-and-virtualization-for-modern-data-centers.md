@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Linux Foundation, the nonprofit organization dedicated to accelerating the growth of Linux and collaborative development, today announced the IO Visor Project. Founding members of IO Visor include Barefoot Networks, Broadcom, Canonical, Cavium, Cisco, Huawei, Intel, PLUMgrid and SUSE.
+>The Linux Foundation, the nonprofit organization dedicated to accelerating the growth of Linux and collaborative development, today announced the IO Visor Project. Founding members of IO Visor include Barefoot Networks, Broadcom, Canonical, Cavium, Cisco, Huawei, Intel, PLUMgrid and SUSE....
 
 #### Factsheet
 >factsheet unavailable

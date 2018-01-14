@@ -9,7 +9,7 @@ tags: [environment]
 
 
 #### Extract
->New research suggests that the boundary between South American tropical rainforests and savannas is influenced by the depth to which plants can root. Shallow rooting depth promotes the establishment of savannas. Previous research has shown that precipitation and fire mediate tropical forest and savanna distributions. The study shows that below ground conditions need to be considered to understand the distribution of terrestrial vegetation both historically and in the face of future climate change. The study by researchers of the Senckenberg Biodiversity and Climate Research Centre and Goethe University is based on computer vegetation models and was published in Journal of Biogeography.
+>New research suggests that the boundary between South American tropical rainforests and savannas is influenced by the depth to which plants can root. Shallow rooting depth promotes the establishment of savannas. Previous research has shown that precipitation and fire mediate tropical forest and savanna distributions. The study shows that below ground conditions need to be considered to understand the distribution of terrestrial vegetation both historically and in the face of future climate change. The study by researchers of the Senckenberg Biodiversity and Climate Research Centre and Goethe University is based on computer vegetation models and was published in Journal of Biogeography....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A possibly rocky world snared from another galaxy is thought to be 11.5 billion years old and may still be warm enough to be friendly to life
+>A possibly rocky world snared from another galaxy is thought to be 11.5 billion years old and may still be warm enough to be friendly to life...
 
 #### Factsheet
 >factsheet unavailable

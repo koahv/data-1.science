@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Airbus Defence &amp; Space in France has been selected as the prime industrial contractor for ESA’s Juice mission to Jupiter and its icy moons.
-
-	
+>Airbus Defence &amp; Space in France has been selected as the prime industrial contractor for ESA’s Juice mission to Jupiter and its icy moons....
 
 #### Factsheet
 >factsheet unavailable

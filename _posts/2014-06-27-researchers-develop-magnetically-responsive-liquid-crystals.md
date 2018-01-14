@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Read more about Researchers Develop Magnetically Responsive Liquid CrystalsComments
+>Read more about Researchers Develop Magnetically Responsive Liquid CrystalsComments...
 
 #### Factsheet
 >factsheet unavailable

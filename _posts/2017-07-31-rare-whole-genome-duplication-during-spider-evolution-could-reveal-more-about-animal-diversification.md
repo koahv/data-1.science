@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->In collaboration with scientists from the U.K., Europe, Japan and the United States, researchers at the Human Genome Sequencing Center at Baylor College of Medicine have discovered a whole genome duplication during the evolution of spiders and scorpions. The study appears in BMC Biology.
+>In collaboration with scientists from the U.K., Europe, Japan and the United States, researchers at the Human Genome Sequencing Center at Baylor College of Medicine have discovered a whole genome duplication during the evolution of spiders and scorpions. The study appears in BMC Biology....
 
 #### Factsheet
 >factsheet unavailable

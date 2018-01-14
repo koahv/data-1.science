@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Ludwig-Maximilians-Universität München) A team led by Ferenc Krausz of LMU Munich and the MPI for Quantum Optics, together with theorists from Tsukuba University, has optimized the interaction of light with glass, thus improving the prospects for optically driven electronics.
+>(Ludwig-Maximilians-Universität München) A team led by Ferenc Krausz of LMU Munich and the MPI for Quantum Optics, together with theorists from Tsukuba University, has optimized the interaction of light with glass, thus improving the prospects for optically driven electronics....
 
 #### Factsheet
 >factsheet unavailable

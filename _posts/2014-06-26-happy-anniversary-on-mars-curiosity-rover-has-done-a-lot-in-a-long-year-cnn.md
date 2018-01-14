@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->CNNHappy anniversary! On Mars, Curiosity rover has done a lot in a long yearCNN(CNN) -- A year is a very long time on Mars -- 687 days. NASA&#39;s Curiosity rover can attest that it&#39;s enough time for some unexpected life changes. On Tuesday, the rover celebrated the Martian one-year anniversary of its touchdown on August 6, 2012 ...Mars Curiosity rover celebrates its first Martian year [Video]Los Angeles TimesThe Curiosity rover has been on Mars for one Martian year. It celebrated by ...Washington PostNASA&#39;s Mars Curiosity Rover Marks First Martian YearJet Propulsion LaboratoryChron.com&nbsp;-TIME&nbsp;-RTall 213 news articles&nbsp;&raquo;
+>CNNHappy anniversary! On Mars, Curiosity rover has done a lot in a long yearCNN(CNN) -- A year is a very long time on Mars -- 687 days. NASA&#39;s Curiosity rover can attest that it&#39;s enough time for some unexpected life changes. On Tuesday, the rover celebrated the Martian one-year anniversary of its touchdown on August 6, 2012 ...Mars Curiosity rover celebrates its first Martian year [Video]Los Angeles TimesThe Curiosity rover has been on Mars for one Martian year. It celebrated by ...Washington PostNASA&#39;s Mars Curiosity Rover Marks First Martian YearJet Propulsion LaboratoryChron.com&nbsp;-TIME&nbsp;-RTall 213 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

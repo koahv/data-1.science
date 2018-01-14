@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;Stageless Deployment Pipelines: How Containers Change the Way We Build and Test Software7 MarLearn more
+>Title:&nbsp;Stageless Deployment Pipelines: How Containers Change the Way We Build and Test Software7 MarLearn more...
 
 #### Factsheet
 >factsheet unavailable

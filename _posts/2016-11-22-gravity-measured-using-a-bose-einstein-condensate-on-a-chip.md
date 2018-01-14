@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New high-precision gravimeter could be deployed in a backpack
+>New high-precision gravimeter could be deployed in a backpack...
 
 #### Factsheet
 >factsheet unavailable

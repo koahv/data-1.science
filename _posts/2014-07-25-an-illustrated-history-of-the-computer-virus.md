@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Computer viruses have come a long way, starting as the practical jokes of computing's early days and ending up as modern military weapons. A site called Computer Virus Catalog is walking through the history one virus at a time, pairing each one with a fitting illustration. The list leans heavily...
+>Computer viruses have come a long way, starting as the practical jokes of computing's early days and ending up as modern military weapons. A site called Computer Virus Catalog is walking through the history one virus at a time, pairing each one with a fitting illustration. The list leans heavily......
 
 #### Factsheet
 >factsheet unavailable

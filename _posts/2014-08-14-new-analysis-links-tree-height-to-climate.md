@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->What limits the height of trees? Is it the fraction of their photosynthetic energy they devote to productive new leaves? Or is it their ability to hoist water hundreds of feet into the air, supplying the green, solar-powered sugar factories in those leaves?
+>What limits the height of trees? Is it the fraction of their photosynthetic energy they devote to productive new leaves? Or is it their ability to hoist water hundreds of feet into the air, supplying the green, solar-powered sugar factories in those leaves?...
 
 #### Factsheet
 >factsheet unavailable

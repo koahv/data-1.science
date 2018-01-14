@@ -9,8 +9,7 @@ tags: [science]
 
 
 #### Extract
->
-On August 16, China said it had launched a quantum satellite into space that could be the future of wireless communication and set new standards in Internet security. “The project tests a technology...
+>On August 16, China said it had launched a quantum satellite into space that could be the future of wireless communication and set new standards in Internet security. “The project tests a technology......
 
 #### Factsheet
 >factsheet unavailable

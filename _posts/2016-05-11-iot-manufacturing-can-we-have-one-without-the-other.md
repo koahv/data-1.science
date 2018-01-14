@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->ArticleThe marriage of Manufacturing and IoT: It has been called Industrial Internet, Digitization of Manufacturing, and Manufacturing 4.0. It has been hailed as a revolution and declared as win-win. With all this talk of...Contributed Author:&nbsp;Yaniv Vardi, General Manager, Panoramic PowerTopics:&nbsp;IoT
+>ArticleThe marriage of Manufacturing and IoT: It has been called Industrial Internet, Digitization of Manufacturing, and Manufacturing 4.0. It has been hailed as a revolution and declared as win-win. With all this talk of...Contributed Author:&nbsp;Yaniv Vardi, General Manager, Panoramic PowerTopics:&nbsp;IoT...
 
 #### Factsheet
 >factsheet unavailable

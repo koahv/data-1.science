@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->RedOrbitResearchers Propose New Architecture For Quantum Computing Based On ...RedOrbitA new kind of quantum computer is being proposed by scientists from the TU Wien (Vienna) and Japan (National Institute of Informatics and NTT Basic Research Labs). The Quantum Computer is the Holy Grail of quantum technology. Its computing power&nbsp;...
+>RedOrbitResearchers Propose New Architecture For Quantum Computing Based On ...RedOrbitA new kind of quantum computer is being proposed by scientists from the TU Wien (Vienna) and Japan (National Institute of Informatics and NTT Basic Research Labs). The Quantum Computer is the Holy Grail of quantum technology. Its computing power&nbsp;......
 
 #### Factsheet
 >factsheet unavailable

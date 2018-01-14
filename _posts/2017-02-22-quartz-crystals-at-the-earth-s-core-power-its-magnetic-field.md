@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Tokyo Institute of Technology) Scientists at the Earth-Life Science Institute at the Tokyo Institute of Technology report in Nature (Fen. 22, 2017) unexpected discoveries about the Earth's core. The findings include insights into the source of energy driving the Earth's magnetic field, factors governing the cooling of the core and its chemical composition, and conditions that existed during the formation of the Earth.
+>(Tokyo Institute of Technology) Scientists at the Earth-Life Science Institute at the Tokyo Institute of Technology report in Nature (Fen. 22, 2017) unexpected discoveries about the Earth's core. The findings include insights into the source of energy driving the Earth's magnetic field, factors governing the cooling of the core and its chemical composition, and conditions that existed during the formation of the Earth....
 
 #### Factsheet
 >factsheet unavailable

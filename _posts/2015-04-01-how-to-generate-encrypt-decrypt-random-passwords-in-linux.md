@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;tecmint: In this article, we will share some interesting Linux tips and tricks to generate random passwords and also how to encrypt and decrypt passwords with or without slat method.
+>&nbsp;tecmint: In this article, we will share some interesting Linux tips and tricks to generate random passwords and also how to encrypt and decrypt passwords with or without slat method....
 
 #### Factsheet
 >factsheet unavailable

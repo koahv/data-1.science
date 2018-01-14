@@ -9,7 +9,7 @@ tags: [hardware]
 
 
 #### Extract
->NVIDIA today unveiled the world's first artificial intelligence computer designed to drive fully autonomous robotaxis.
+>NVIDIA today unveiled the world's first artificial intelligence computer designed to drive fully autonomous robotaxis....
 
 #### Factsheet
 >factsheet unavailable

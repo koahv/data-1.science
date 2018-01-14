@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Space Telescope Gazes Deep Inside Powerful Solar EruptionDiscovery NewsCMEs — coronal mass ejections — are some of the most energetic and powerful events that can regularly occur on our sun. Created by huge looping magnetic fields that rise up from deep inside our nearest star, carrying solar plasma along for the ride,&nbsp;...and more&nbsp;&raquo;
+>Space Telescope Gazes Deep Inside Powerful Solar EruptionDiscovery NewsCMEs — coronal mass ejections — are some of the most energetic and powerful events that can regularly occur on our sun. Created by huge looping magnetic fields that rise up from deep inside our nearest star, carrying solar plasma along for the ride,&nbsp;...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

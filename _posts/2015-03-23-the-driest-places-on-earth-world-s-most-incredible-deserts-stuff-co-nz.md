@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Stuff.co.nzThe driest places on earth: World&#39;s most incredible desertsStuff.co.nzVast, mostly uninhabited and with scenery that ranges from stony plains ringed by towering mountains, to seas of rippling sand and some of the largest and most spectacular dunes in the world, it&#39;s a far greater treasure than all the diamonds that lie ...and more&nbsp;&raquo;
+>Stuff.co.nzThe driest places on earth: World&#39;s most incredible desertsStuff.co.nzVast, mostly uninhabited and with scenery that ranges from stony plains ringed by towering mountains, to seas of rippling sand and some of the largest and most spectacular dunes in the world, it&#39;s a far greater treasure than all the diamonds that lie ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

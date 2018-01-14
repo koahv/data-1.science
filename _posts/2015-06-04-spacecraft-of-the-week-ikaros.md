@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Spacecraft of the Week is a feature showing the engineering and design that went into creating the vehicles that explore our universe. Illustration by Larry Corby.Read more about Spacecraft of the Week: IKAROS Comments
+>Spacecraft of the Week is a feature showing the engineering and design that went into creating the vehicles that explore our universe. Illustration by Larry Corby.Read more about Spacecraft of the Week: IKAROS Comments...
 
 #### Factsheet
 >factsheet unavailable

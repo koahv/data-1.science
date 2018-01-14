@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Massachusetts Institute of Technology) MIT researchers have developed a technique to integrate both analogue and digital computation in living cells, allowing them to form gene circuits capable of carrying out complex processing operations.
+>(Massachusetts Institute of Technology) MIT researchers have developed a technique to integrate both analogue and digital computation in living cells, allowing them to form gene circuits capable of carrying out complex processing operations....
 
 #### Factsheet
 >factsheet unavailable

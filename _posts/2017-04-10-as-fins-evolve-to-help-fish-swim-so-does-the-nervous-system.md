@@ -9,7 +9,7 @@ tags: [evolution]
 
 
 #### Extract
->The sensory system in fish fins evolves in parallel to fin shape and mechanics, and is specifically tuned to work with the fish's swimming behavior, according to new research from the University of Chicago. The researchers found these parallels across a wide range of fish species, suggesting that it may occur in other animals as well.
+>The sensory system in fish fins evolves in parallel to fin shape and mechanics, and is specifically tuned to work with the fish's swimming behavior, according to new research from the University of Chicago. The researchers found these parallels across a wide range of fish species, suggesting that it may occur in other animals as well....
 
 #### Factsheet
 >factsheet unavailable

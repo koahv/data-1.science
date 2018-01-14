@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Evolution may have optimized fluctuations in cryptochrome proteins, say scientists
+>Evolution may have optimized fluctuations in cryptochrome proteins, say scientists...
 
 #### Factsheet
 >factsheet unavailable

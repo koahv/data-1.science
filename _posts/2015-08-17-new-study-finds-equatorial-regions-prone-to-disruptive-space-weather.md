@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Boston College) A new study finds disruptive space weather sweeps across the globe's equatorial regions, bearing currents that can disrupt power grids in locations where electricity distribution systems were previously considered safe.
+>(Boston College) A new study finds disruptive space weather sweeps across the globe's equatorial regions, bearing currents that can disrupt power grids in locations where electricity distribution systems were previously considered safe....
 
 #### Factsheet
 >factsheet unavailable

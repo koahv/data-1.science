@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Lungfish and salamanders can hear, despite not having an outer ear or tympanic middle ear. These early terrestrial vertebrates were probably also able to hear 300 million years ago, as shown in a new study.
+>Lungfish and salamanders can hear, despite not having an outer ear or tympanic middle ear. These early terrestrial vertebrates were probably also able to hear 300 million years ago, as shown in a new study....
 
 #### Factsheet
 >factsheet unavailable

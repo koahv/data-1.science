@@ -9,10 +9,7 @@ tags: []
 
 
 #### Extract
->Ladies and gentlemen, boys and girls, welcome to another gripping installment of my Six Degrees column. As usual, thanks for the support. So far you folks have helped Slashdot three out of four of these columns, and every one has hit the Top 5 list on Opensource.com, so let's keep this train on rolling.
-
-
-read more
+>Ladies and gentlemen, boys and girls, welcome to another gripping installment of my Six Degrees column. As usual, thanks for the support. So far you folks have helped Slashdot three out of four of these columns, and every one has hit the Top 5 list on Opensource.com, so let's keep this train on rolling. read more...
 
 #### Factsheet
 >factsheet unavailable

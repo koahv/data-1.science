@@ -9,25 +9,7 @@ tags: [architecture, carousel showcase, gallery, renewable energy, sustainable e
 
 
 #### Extract
->
-
-
-
-
-
-
-
-
-
-Read the rest of Japanese Firm Plans World&#8217;s First Underwater City Powered by Sustainable Energy
-
-
-Permalink |
-Add to
-del.icio.us | 
-digg
-
-Post tags: "sustainable energy", Atlantis, hydraulic pressure, Masataka Noguch, modern day atlantis, Ocean Spiral, sea level rise, shimizu corporation, underwater city, underwater housing, university of tokyo
+>Read the rest of Japanese Firm Plans World&#8217;s First Underwater City Powered by Sustainable Energy Permalink | Add to del.icio.us | digg Post tags: "sustainable energy", Atlantis, hydraulic pressure, Masataka Noguch, modern day atlantis, Ocean Spiral, sea level rise, shimizu corporation, underwater city, underwater housing, university of tokyo...
 
 #### Factsheet
 >factsheet unavailable

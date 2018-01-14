@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(National Institute of Standards and Technology (NIST)) By researching deadly cone snail venom, NIST researchers hope to find solutions to tough medical problems and diseases.
+>(National Institute of Standards and Technology (NIST)) By researching deadly cone snail venom, NIST researchers hope to find solutions to tough medical problems and diseases....
 
 #### Factsheet
 >factsheet unavailable

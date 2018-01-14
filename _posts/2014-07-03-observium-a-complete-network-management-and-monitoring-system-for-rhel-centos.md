@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;tecmint: Observium is a PHP/MySQL driven Network Observation and Monitoring application
+>&nbsp;tecmint: Observium is a PHP/MySQL driven Network Observation and Monitoring application...
 
 #### Factsheet
 >factsheet unavailable

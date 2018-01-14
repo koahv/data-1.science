@@ -9,13 +9,7 @@ tags: []
 
 
 #### Extract
->
-Sydney, Australia (SPX) Apr 21, 2015
-
-
-A UNSW-led research team has encoded quantum information in silicon using simple electrical pulses for the first time, bringing the construction of affordable large-scale quantum computers one step closer to reality. 
-
-Lead researcher, UNSW Associate Professor Andrea Morello from the School of Electrical Engineering and Telecommunications, said his team had successfully realised a new contro
+>Sydney, Australia (SPX) Apr 21, 2015 A UNSW-led research team has encoded quantum information in silicon using simple electrical pulses for the first time, bringing the construction of affordable large-scale quantum computers one step closer to reality. Lead researcher, UNSW Associate Professor Andrea Morello from the School of Electrical Engineering and Telecommunications, said his team had successfully realised a new contro...
 
 #### Factsheet
 >factsheet unavailable

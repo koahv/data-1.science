@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;Top 10 Open Source Linux Robots13 OctLearn more
+>Title:&nbsp;Top 10 Open Source Linux Robots13 OctLearn more...
 
 #### Factsheet
 >factsheet unavailable

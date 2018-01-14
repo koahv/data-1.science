@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-ESA’s new ExoMars orbiter has tested its suite of instruments in orbit for the first time, hinting at a great potential for future observations.
-
-	
+>ESA’s new ExoMars orbiter has tested its suite of instruments in orbit for the first time, hinting at a great potential for future observations....
 
 #### Factsheet
 >factsheet unavailable

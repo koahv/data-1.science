@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A new genetic analysis suggests that the recently discovered Denisovans lived in Eurasia for millennia.
+>A new genetic analysis suggests that the recently discovered Denisovans lived in Eurasia for millennia....
 
 #### Factsheet
 >factsheet unavailable

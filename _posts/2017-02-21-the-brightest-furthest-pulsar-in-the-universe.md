@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-ESA’s XMM-Newton has found a pulsar – the spinning remains of a once-massive star – that is a thousand times brighter than previously thought possible.
-
-	
+>ESA’s XMM-Newton has found a pulsar – the spinning remains of a once-massive star – that is a thousand times brighter than previously thought possible....
 
 #### Factsheet
 >factsheet unavailable

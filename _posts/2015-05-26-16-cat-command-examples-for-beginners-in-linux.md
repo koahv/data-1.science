@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;Linuxtechi: cat stands for Concatenate.
+>&nbsp;Linuxtechi: cat stands for Concatenate....
 
 #### Factsheet
 >factsheet unavailable

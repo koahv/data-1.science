@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Sonic tubular travel might sound like geeky sci-fi, but a company plans to break ground next year on a five-mile California project.
+>Sonic tubular travel might sound like geeky sci-fi, but a company plans to break ground next year on a five-mile California project....
 
 #### Factsheet
 >factsheet unavailable

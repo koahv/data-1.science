@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->Evolution takes eons, but it leaves marks on the genomes of organisms that can be detected with DNA sequencing and analysis.
+>Evolution takes eons, but it leaves marks on the genomes of organisms that can be detected with DNA sequencing and analysis....
 
 #### Factsheet
 >factsheet unavailable

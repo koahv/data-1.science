@@ -9,7 +9,7 @@ tags: [ecology]
 
 
 #### Extract
->More gradual environmental change slows down evolution, but does not lead to a higher degree of adaptation of organisms to their environment, conclude Wageningen University scientists in their study published in The American Naturalist.
+>More gradual environmental change slows down evolution, but does not lead to a higher degree of adaptation of organisms to their environment, conclude Wageningen University scientists in their study published in The American Naturalist....
 
 #### Factsheet
 >factsheet unavailable

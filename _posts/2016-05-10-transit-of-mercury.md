@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		As the smallest planet in the Solar System crossed the fiery face of the Sun on Monday 9 May, one of ESA’s smallest satellites was watching
-	
+>As the smallest planet in the Solar System crossed the fiery face of the Sun on Monday 9 May, one of ESA’s smallest satellites was watching...
 
 #### Factsheet
 >factsheet unavailable

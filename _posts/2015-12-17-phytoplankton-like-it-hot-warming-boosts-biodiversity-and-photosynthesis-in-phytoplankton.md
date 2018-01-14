@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Globally, phytoplankton -- microscopic water-borne plants -- absorb as much carbon dioxide as tropical rainforests, and so understanding the way they respond to a warming climate is crucial. 
+>Globally, phytoplankton -- microscopic water-borne plants -- absorb as much carbon dioxide as tropical rainforests, and so understanding the way they respond to a warming climate is crucial....
 
 #### Factsheet
 >factsheet unavailable

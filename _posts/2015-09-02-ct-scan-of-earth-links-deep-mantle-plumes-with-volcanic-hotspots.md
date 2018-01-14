@@ -9,7 +9,7 @@ tags: [earth sciences]
 
 
 #### Extract
->University of California, Berkeley, seismologists have produced for the first time a sharp, three-dimensional scan of Earth's interior that conclusively connects plumes of hot rock rising through the mantle with surface hotspots that generate volcanic island chains like Hawaii, Samoa and Iceland.
+>University of California, Berkeley, seismologists have produced for the first time a sharp, three-dimensional scan of Earth's interior that conclusively connects plumes of hot rock rising through the mantle with surface hotspots that generate volcanic island chains like Hawaii, Samoa and Iceland....
 
 #### Factsheet
 >factsheet unavailable

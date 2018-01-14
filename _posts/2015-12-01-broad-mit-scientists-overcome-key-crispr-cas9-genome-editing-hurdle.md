@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Broad Institute of MIT and Harvard) Researchers at the Broad Institute of MIT and Harvard and the McGovern Institute for Brain Research at MIT have engineered changes to the revolutionary CRISPR-Cas9 genome editing system that significantly cut down on 'off-target' editing errors. The refined technique addresses one of the major technical issues in the use of genome editing.
+>(Broad Institute of MIT and Harvard) Researchers at the Broad Institute of MIT and Harvard and the McGovern Institute for Brain Research at MIT have engineered changes to the revolutionary CRISPR-Cas9 genome editing system that significantly cut down on 'off-target' editing errors. The refined technique addresses one of the major technical issues in the use of genome editing....
 
 #### Factsheet
 >factsheet unavailable

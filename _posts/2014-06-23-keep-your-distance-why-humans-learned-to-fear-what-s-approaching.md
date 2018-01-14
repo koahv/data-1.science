@@ -9,7 +9,7 @@ tags: [health & medicine]
 
 
 #### Extract
->These days, taking stock of approaching predators doesn't typically apply. Yet as humans evolved, they learned that something moving closer posed more of a danger than something linking farther back. Now, a recent study published in the Journal of Personality and Social Psychology, shows how even in modern times, negative feelings about things that "approach" us still may linger, though they're not typically a danger.
+>These days, taking stock of approaching predators doesn't typically apply. Yet as humans evolved, they learned that something moving closer posed more of a danger than something linking farther back. Now, a recent study published in the Journal of Personality and Social Psychology, shows how even in modern times, negative feelings about things that "approach" us still may linger, though they're not typically a danger....
 
 #### Factsheet
 >factsheet unavailable

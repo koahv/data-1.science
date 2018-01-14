@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) New images obtained on May 16, 2016, by NASA's Hubble Space Telescope confirm the presence of a dark vortex in the atmosphere of Neptune.
+>(NASA/Goddard Space Flight Center) New images obtained on May 16, 2016, by NASA's Hubble Space Telescope confirm the presence of a dark vortex in the atmosphere of Neptune....
 
 #### Factsheet
 >factsheet unavailable

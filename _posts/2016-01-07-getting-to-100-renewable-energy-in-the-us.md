@@ -9,9 +9,7 @@ tags: [biomass, clean power, concentrating solar power, consumer technology, geo
 
 
 #### Extract
->Getting to 100% renewable energy in the US by 2050 is a goal that is gaining traction among the US public. Reports&#160;from many environmental organizations have been written on how to get to this target, including from&#160;Greenpeace and the World Wildlife Foundation. After last year&#8217;s COP21 conference, the momentum has gotten stronger&#160;in order to keep [&#038;hellip
-Getting To 100% Renewable Energy In the US was originally published on CleanTechnica. 
-To read more from CleanTechnica, join over 50,000 other subscribers: Google+ | Email | Facebook | RSS | Twitter.
+>Getting to 100% renewable energy in the US by 2050 is a goal that is gaining traction among the US public. Reports&#160;from many environmental organizations have been written on how to get to this target, including from&#160;Greenpeace and the World Wildlife Foundation. After last year&#8217;s COP21 conference, the momentum has gotten stronger&#160;in order to keep [&#038;hellip Getting To 100% Renewable Energy In the US was originally published on CleanTechnica. To read more from CleanTechnica, join over 50,000 other subscribers: Google+ | Email | Facebook | RSS | Twitter....
 
 #### Factsheet
 >factsheet unavailable

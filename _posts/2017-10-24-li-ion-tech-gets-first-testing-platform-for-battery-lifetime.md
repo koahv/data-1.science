@@ -9,7 +9,7 @@ tags: [storage, news]
 
 
 #### Extract
->DNV GL yesterday said that it has created the first testing-based verification of battery lifetime for lithium-ion batteries.
+>DNV GL yesterday said that it has created the first testing-based verification of battery lifetime for lithium-ion batteries....
 
 #### Factsheet
 >factsheet unavailable

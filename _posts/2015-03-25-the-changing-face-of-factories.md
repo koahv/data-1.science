@@ -9,8 +9,7 @@ tags: []
 
 
 #### Extract
->
-Read more about The Changing Face of FactoriesComments
+>Read more about The Changing Face of FactoriesComments...
 
 #### Factsheet
 >factsheet unavailable

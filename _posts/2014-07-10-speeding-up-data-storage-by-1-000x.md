@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Read more about Speeding Up Data Storage By 1,000xComments
+>Read more about Speeding Up Data Storage By 1,000xComments...
 
 #### Factsheet
 >factsheet unavailable

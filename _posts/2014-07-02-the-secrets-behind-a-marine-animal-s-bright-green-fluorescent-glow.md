@@ -9,7 +9,7 @@ tags: [nature & environment]
 
 
 #### Extract
->Scientists have taken a closer look at marine fluorescence and have managed to decipher the structural components related to fluorescence brightness, revealing how animals manage to glow.
+>Scientists have taken a closer look at marine fluorescence and have managed to decipher the structural components related to fluorescence brightness, revealing how animals manage to glow....
 
 #### Factsheet
 >factsheet unavailable

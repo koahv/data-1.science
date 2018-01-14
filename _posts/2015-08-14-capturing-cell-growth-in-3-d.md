@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->Replicating how cancer and other cells interact in the body is somewhat difficult in the lab. Biologists generally culture one cell type in plastic plates, which doesn't represent the dynamic cell interactions within living organisms.
+>Replicating how cancer and other cells interact in the body is somewhat difficult in the lab. Biologists generally culture one cell type in plastic plates, which doesn't represent the dynamic cell interactions within living organisms....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Mars Rover Curiosity Watches Mercury Transit the SunDiscovery News&#39;Selfies&#39; are all the rage these days. Every smartphone is attached with a camera and to the Internet, so it was inevitable that our vain species would take full advantage of the technology, snapping endless photos of cats and, of course, ourselves ...and more&nbsp;&raquo;
+>Mars Rover Curiosity Watches Mercury Transit the SunDiscovery News&#39;Selfies&#39; are all the rage these days. Every smartphone is attached with a camera and to the Internet, so it was inevitable that our vain species would take full advantage of the technology, snapping endless photos of cats and, of course, ourselves ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

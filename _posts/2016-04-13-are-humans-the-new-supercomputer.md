@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Aarhus University) Online computer games allow gamers to solve a class of problems in quantum physics that cannot be easily solved by algorithms alone. Citizen science games have already proved successful in advancing scientific endeavours, but had not previously been applied to quantum physics. A Danish team of scientists find, that players succeed where purely numerical optimization fails, and they present a new optimization method based on the observed player strategies that outperforms prominent, established numerical methods.
+>(Aarhus University) Online computer games allow gamers to solve a class of problems in quantum physics that cannot be easily solved by algorithms alone. Citizen science games have already proved successful in advancing scientific endeavours, but had not previously been applied to quantum physics. A Danish team of scientists find, that players succeed where purely numerical optimization fails, and they present a new optimization method based on the observed player strategies that outperforms prominent, established numerical methods....
 
 #### Factsheet
 >factsheet unavailable

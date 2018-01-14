@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Even rats can imagine: A new study finds that rats have the ability to link cause and effect such that they can expect, or imagine, something happening even if it isn't. The findings are important to understanding human reasoning, especially in older adults, as aging degrades the ability to maintain information about unobserved events.
+>Even rats can imagine: A new study finds that rats have the ability to link cause and effect such that they can expect, or imagine, something happening even if it isn't. The findings are important to understanding human reasoning, especially in older adults, as aging degrades the ability to maintain information about unobserved events....
 
 #### Factsheet
 >factsheet unavailable

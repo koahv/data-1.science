@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Helsinki) New research indicates that the impact of climate change on biodiversity depends on how much human beings have already affected the environment.
+>(University of Helsinki) New research indicates that the impact of climate change on biodiversity depends on how much human beings have already affected the environment....
 
 #### Factsheet
 >factsheet unavailable

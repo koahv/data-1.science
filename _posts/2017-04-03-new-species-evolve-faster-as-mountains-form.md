@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Field Museum) Mountains, like rainforests, are hotbeds of biodiversity. But scientists aren't sure why. For years, they've thought that it might be related to the new environments that arise when mountains form -- as plants and animals adapt to the new micro-habitats forming along mountainsides, they divide into new species at a faster rate than usual. But there was little hard proof supporting this hypothesis -- until now.
+>(Field Museum) Mountains, like rainforests, are hotbeds of biodiversity. But scientists aren't sure why. For years, they've thought that it might be related to the new environments that arise when mountains form -- as plants and animals adapt to the new micro-habitats forming along mountainsides, they divide into new species at a faster rate than usual. But there was little hard proof supporting this hypothesis -- until now....
 
 #### Factsheet
 >factsheet unavailable

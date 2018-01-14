@@ -9,7 +9,7 @@ tags: [linux commands, linux tricks]
 
 
 #### Extract
->When making backups, coping/moving large files on your Linux system, you may want to monitor the progress of an on going operation. Many terminal tools do not have the functionality to allow you to&#46;&#46;&#46;
+>When making backups, coping/moving large files on your Linux system, you may want to monitor the progress of an on going operation. Many terminal tools do not have the functionality to allow you to&#46;&#46;&#46;...
 
 #### Factsheet
 >factsheet unavailable

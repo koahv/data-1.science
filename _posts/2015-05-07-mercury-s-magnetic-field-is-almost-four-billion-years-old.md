@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New data from MESSENGER, the spacecraft that orbited Mercury for four years before crashing into the planet a week ago, reveals Mercury's magnetic field is almost four billion years old.
+>New data from MESSENGER, the spacecraft that orbited Mercury for four years before crashing into the planet a week ago, reveals Mercury's magnetic field is almost four billion years old....
 
 #### Factsheet
 >factsheet unavailable

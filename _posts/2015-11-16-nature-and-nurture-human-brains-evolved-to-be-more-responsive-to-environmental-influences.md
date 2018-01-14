@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientists have discovered that human brains exhibit more plasticity, propensity to be modeled by the environment, than chimpanzee brains and that this may have accounted for part of human evolution. 
+>Scientists have discovered that human brains exhibit more plasticity, propensity to be modeled by the environment, than chimpanzee brains and that this may have accounted for part of human evolution....
 
 #### Factsheet
 >factsheet unavailable

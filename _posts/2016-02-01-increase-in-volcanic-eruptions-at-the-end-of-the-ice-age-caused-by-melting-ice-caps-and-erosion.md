@@ -9,7 +9,7 @@ tags: [earth sciences]
 
 
 #### Extract
->The combination of erosion and melting ice caps led to a massive increase in volcanic activity at the end of the last ice age, according to new research. As the climate warmed, the ice caps melted, decreasing the pressure on the Earth's mantle, leading to an increase in both magma production and volcanic eruptions. The researchers, led by the University of Cambridge, have found that erosion also played a major role in the process, and may have contributed to an increase in atmospheric carbon dioxide levels.
+>The combination of erosion and melting ice caps led to a massive increase in volcanic activity at the end of the last ice age, according to new research. As the climate warmed, the ice caps melted, decreasing the pressure on the Earth's mantle, leading to an increase in both magma production and volcanic eruptions. The researchers, led by the University of Cambridge, have found that erosion also played a major role in the process, and may have contributed to an increase in atmospheric carbon dioxide levels....
 
 #### Factsheet
 >factsheet unavailable

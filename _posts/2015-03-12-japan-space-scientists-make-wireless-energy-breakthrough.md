@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
-> Japanese scientists have succeeded in transmitting energy wirelessly, in a key step that could one day make solar power generation in space a possibility, an official said Thursday.
+>Japanese scientists have succeeded in transmitting energy wirelessly, in a key step that could one day make solar power generation in space a possibility, an official said Thursday....
 
 #### Factsheet
 >factsheet unavailable

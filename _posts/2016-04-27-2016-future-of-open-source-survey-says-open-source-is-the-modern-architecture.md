@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Open source improves efficiency, interoperability, and innovation according to the latest open source survey from North Bridge and Black Duck.
+>Open source improves efficiency, interoperability, and innovation according to the latest open source survey from North Bridge and Black Duck....
 
 #### Factsheet
 >factsheet unavailable

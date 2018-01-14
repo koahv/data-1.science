@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;10 Lessons from 10 Years of Amazon10 JanLearn more
+>Title:&nbsp;10 Lessons from 10 Years of Amazon10 JanLearn more...
 
 #### Factsheet
 >factsheet unavailable

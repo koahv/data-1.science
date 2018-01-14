@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The latest TOP500 list of the world's fastest supercomputers was released this morning at the ISC 2015 conference in Frankfurt, Germany. And while there was little change in the upper ranks of the list, the TOP500 continues to offer insight into the latest HPC trends. The post 10 Fastest Machines...
+>The latest TOP500 list of the world's fastest supercomputers was released this morning at the ISC 2015 conference in Frankfurt, Germany. And while there was little change in the upper ranks of the list, the TOP500 continues to offer insight into the latest HPC trends. The post 10 Fastest Machines......
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Result is best evidence yet for bound states of five quarks
+>Result is best evidence yet for bound states of five quarks...
 
 #### Factsheet
 >factsheet unavailable

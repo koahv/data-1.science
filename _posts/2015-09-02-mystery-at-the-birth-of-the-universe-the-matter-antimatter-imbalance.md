@@ -9,29 +9,7 @@ tags: []
 
 
 #### Extract
-> 
- 
-
- 
- 
-What did the universe look like shortly after it came into being? The ALICE experiment (A Large Ion Collider Experiment) at CERN in Switzerland concerns itself with this question. At the largest particle accelerator in the world, the Large Hadron Collider (LHC), researchers let lead nuclei and protons collide at the highest beam energies to date. The temperatures thereby created are 100,000 times higher than those in the center of the Sun.
-"A state is created that is very similar to the one after the Big Bang," explains Laura Fabbietti, Professor in the Physics Department. She and Dr. Torsten Dahms head the two experimental ALICE groups at the TU Munich.
-The so-called quark-gluon-plasma (QGP) probably formed one microsecond after the Big Bang, a point in time when the universe was expanding at great speed. The QGP produced in the laboratory is stable only for a fraction of a second, but, during this very short time, the researchers have the opportunity to look back into the past of the universe.
-Furthermore, the ALICE experiment makes it possible to get to the bottom of one of mankind's biggest mysteries. According to the CPT theorem (charge, parity, time), there is a fundamental symmetry between particles and antiparticles in our Universe. Specifically, there should be no difference between our Universe and one where all particles are exchanged with antiparticles (and vice versa), if the Universe is also inverted in time and space.
-There must be a difference nevertheless, because the theory says that equal quantities of matter and antimatter should have been produced during the Big Bang. When particles and antiparticles meet, they annihilate each another. However, nowadays we almost only observe particles - there must therefore have been an imbalance.
-Physicists are looking for a violation of the CPT theorem which would help to explain the existing matter-antimatter asymmetry. "ALICE is attempting to find a difference by means of high-precision measurements of the properties of particles and their antiparticles which are produced in particle collisions at the LHC," explains Dahms.
-In the current study, the researchers investigated the mass-to-charge ratio of helium-3 nuclei and deuterium nuclei and their respective antiparticles. Charge and mass are determined by measuring the particle traces and the particle's specific energy loss within a gas detector called the TPC (Time Projection Chamber). The TCP is thus the heart of the ALICE detector system. The results published in "Nature Physics" are the most accurate measurements to date in this field and at the moment confirm the CPT theorem.
-The researchers are currently working on improvements to the ALICE detectors with the aim of making the investigations even more precise. "At the moment we are able to record 500 collisions per second," explains Fabbietti. "Soon it should be 50,000 collisions per second." The TUM groups are working on an upgrade of the TPC read out. The existing multi-wire chambers are being replaced by state of the art GEM foils that provide better spatial resolution as well. The TUM group heads the GEM-TPC upgrade project for ALICE as part of an international collaboration. The installation of the new detectors is planned for 2018.
-ALICE Collaboration: Precision measurement of the mass difference between light nuclei and anti-nuclei; Nature Physics, doi: 10.1038/nphys3432.
-The image at the top of the page shows the cosmic microwave background (CMB), discovered accidentally in 1964 by Penzias and Wilson (Nobel Prize, 1978), the CMB is a remnant of the hot, dense phase of the universe that followed the Big Bang. For several hundred thousand years after the Big Bang, the universe was hot enough for its matter (predominantly hydrogen) to remain ionized, and therefore opaque (like the bulk of the sun) to radiation. During this period, matter and light were in thermal equilibrium and the radiation is therefore expected to obey the classic blackbody laws (Planck, Wien, Stefan).
-The existence of the CMB is regarded as one of three experimental pillars that point to a Big Bang start to the universe. (The other two pieces of evidence that indicate that our universe began with a Bang are the linearity of the Hubble expansion law and the universal cosmic abundances of the light element isotopes, such as helium, deuterium, and lithium.)
-The Daily Galaxy via Technical University of Munich
-Related articles
-
-"Our Early Solar System Harbored SuperEarths" (Weekend Feature)
-NASA's Virtual Planetary Laboratory --A New "Systems" Approach to the Search for Alien Life
-Rocky Planet with a 3-Day Orbit --"Only 21 Light-Years Away"
-
+>         What did the universe look like shortly after it came into being? The ALICE experiment (A Large Ion Collider Experiment) at CERN in Switzerland concerns itself with this question. At the largest particle accelerator in the world, the Large Hadron Collider (LHC), researchers let lead nuclei and protons collide at the highest beam energies to date. The temperatures thereby created are 100,000 times higher than those in the center of the Sun. "A state is created that is very similar to the one after the Big Bang," explains Laura Fabbietti, Professor in the Physics Department. She and Dr. Torsten Dahms head the two experimental ALICE groups at the TU Munich. The so-called quark-gluon-plasma (QGP) probably formed one microsecond after the Big Bang, a point in time when the universe was expanding at great speed. The QGP produced in the laboratory is stable only for a fraction of a second, but, during this very short time, the researchers have the opportunity to look back into...
 
 #### Factsheet
 >factsheet unavailable

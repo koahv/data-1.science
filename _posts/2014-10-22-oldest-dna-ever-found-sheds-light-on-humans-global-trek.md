@@ -9,7 +9,7 @@ tags: [other sciences]
 
 
 #### Extract
->Scientists said Wednesday they had unravelled the oldest DNA ever retrieved from a Homo sapiens bone, a feat that sheds light on modern humans' colonisation of the planet.
+>Scientists said Wednesday they had unravelled the oldest DNA ever retrieved from a Homo sapiens bone, a feat that sheds light on modern humans' colonisation of the planet....
 
 #### Factsheet
 >factsheet unavailable

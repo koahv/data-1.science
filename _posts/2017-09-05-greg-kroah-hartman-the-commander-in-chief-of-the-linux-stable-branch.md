@@ -9,8 +9,7 @@ tags: []
 
 
 #### Extract
->In the sometimes-contentious Linux Kernel developer community, the gentle giant of a man Greg Kroah-Hartman is the friendliest face. When you plug a device into a Linux system and it works out of the box, the credit goes to Kroah-Hartman. He travels around the globe, talking to hardware vendors to get Linux to work on their devices.
-But Kroah-Hartman was not a Linux user from the beginning: He evolved over time into one of the most influential kernel developers.
+>In the sometimes-contentious Linux Kernel developer community, the gentle giant of a man Greg Kroah-Hartman is the friendliest face. When you plug a device into a Linux system and it works out of the box, the credit goes to Kroah-Hartman. He travels around the globe, talking to hardware vendors to get Linux to work on their devices. But Kroah-Hartman was not a Linux user from the beginning: He evolved over time into one of the most influential kernel developers....
 
 #### Factsheet
 >factsheet unavailable

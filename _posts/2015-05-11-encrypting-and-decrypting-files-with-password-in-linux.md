@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;blackmoreops: Sometimes you need to send a file containing sensitive information across to someone over internet and you started thinking
+>&nbsp;blackmoreops: Sometimes you need to send a file containing sensitive information across to someone over internet and you started thinking...
 
 #### Factsheet
 >factsheet unavailable

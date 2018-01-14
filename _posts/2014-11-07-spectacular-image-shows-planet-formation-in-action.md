@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New ALMA observation is like a very early snapshot of our solar system
+>New ALMA observation is like a very early snapshot of our solar system...
 
 #### Factsheet
 >factsheet unavailable

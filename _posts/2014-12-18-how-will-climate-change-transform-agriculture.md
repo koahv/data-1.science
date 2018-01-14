@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Climate change impacts will require major but very uncertain transformations of global agriculture systems by mid-century, according to new research.
+>Climate change impacts will require major but very uncertain transformations of global agriculture systems by mid-century, according to new research....
 
 #### Factsheet
 >factsheet unavailable

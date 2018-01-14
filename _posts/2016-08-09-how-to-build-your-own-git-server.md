@@ -9,9 +9,7 @@ tags: []
 
 
 #### Extract
->Read:
-
-read more
+>Read: read more...
 
 #### Factsheet
 >factsheet unavailable

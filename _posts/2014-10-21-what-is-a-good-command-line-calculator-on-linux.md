@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Xmodulo: Every modern Linux desktop distribution comes with a default GUI-based calculator app.&nbsp;
+>Xmodulo: Every modern Linux desktop distribution comes with a default GUI-based calculator app.&nbsp;...
 
 #### Factsheet
 >factsheet unavailable

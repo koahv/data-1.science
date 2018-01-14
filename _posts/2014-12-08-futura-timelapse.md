@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		From rollout to liftoff: the Soyuz launch with astronauts Samantha, Terry and Anton in 90 seconds
-	
+>From rollout to liftoff: the Soyuz launch with astronauts Samantha, Terry and Anton in 90 seconds...
 
 #### Factsheet
 >factsheet unavailable

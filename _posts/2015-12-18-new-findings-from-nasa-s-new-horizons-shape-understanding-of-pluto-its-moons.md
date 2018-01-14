@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsFive months after NASA’s New Horizons spacecraft flew past Pluto to take the first images and measurements of this icy world and its system of satellites, knowledge about this distant... Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace
+>NewsFive months after NASA’s New Horizons spacecraft flew past Pluto to take the first images and measurements of this icy world and its system of satellites, knowledge about this distant... Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

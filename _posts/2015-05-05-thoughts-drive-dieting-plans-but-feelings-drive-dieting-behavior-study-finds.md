@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Dieting is a process that involves a plan to change eating behavior and behaving according to that plan. But the factors that guide diet planning differ from those that guide actual diet behavior, according to the results of a new study.
+>Dieting is a process that involves a plan to change eating behavior and behaving according to that plan. But the factors that guide diet planning differ from those that guide actual diet behavior, according to the results of a new study....
 
 #### Factsheet
 >factsheet unavailable

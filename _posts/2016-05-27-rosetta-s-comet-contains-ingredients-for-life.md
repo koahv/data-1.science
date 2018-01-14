@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Ingredients regarded as crucial for the origin of life on Earth have been discovered at the comet that ESA’s Rosetta spacecraft has been probing for almost two years.
-
-	
+>Ingredients regarded as crucial for the origin of life on Earth have been discovered at the comet that ESA’s Rosetta spacecraft has been probing for almost two years....
 
 #### Factsheet
 >factsheet unavailable

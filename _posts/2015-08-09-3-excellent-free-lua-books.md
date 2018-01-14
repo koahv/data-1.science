@@ -9,7 +9,7 @@ tags: [linux]
 
 
 #### Extract
->Lua is a lightweight, compact, and fast programming language designed as an embeddable scripting language. It is cross-platform, and has a simple syntax with powerful data description constructs. Lua aims for simplicity, small size, performance and portability. Lua has automatic memory management and incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping. 
+>Lua is a lightweight, compact, and fast programming language designed as an embeddable scripting language. It is cross-platform, and has a simple syntax with powerful data description constructs. Lua aims for simplicity, small size, performance and portability. Lua has automatic memory management and incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping....
 
 #### Factsheet
 >factsheet unavailable

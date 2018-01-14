@@ -28,13 +28,14 @@
 </head>
   <body>
 
-    <header class="site-header" role="banner">
+    
+<header class="site-header" role="banner">
 
   <div class="wrapper">
     
     
-    <a class="site-title" href="/">data-1.science</a>
-  
+    <a class="site-title" rel="author" href="/">data-1.science</a>
+
     
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -52,17 +53,17 @@
           
             
             
-            <a class="page-link" href="/search/">Search</a>
-            
-          
-            
-            
             <a class="page-link" href="/grid/">Grid View</a>
             
           
             
             
             <a class="page-link" href="/tags.html">Tags</a>
+            
+          
+            
+            
+            <a class="page-link" href="/search/">Search</a>
             
           
         </div>
@@ -84,1126 +85,1126 @@
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2017-06-09-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies.html"></a>
+          <a class="post-link" href="/2018/01/14/2017-06-09-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-11-11-google-s-deepmind-ai-grasps-basic-laws-of-physics.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-11-11-google-s-deepmind-ai-grasps-basic-laws-of-physics.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-11-08-radical-new-theory-of-gravity-an-emergent-phenomenon-not-a-fundamental-force-of-the-universe.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-11-08-radical-new-theory-of-gravity-an-emergent-phenomenon-not-a-fundamental-force-of-the-universe.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-09-10-china-to-launch-spacelab-next-week-1st-step-toward-being-the-world-s-de-facto-space-station.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-09-10-china-to-launch-spacelab-next-week-1st-step-toward-being-the-world-s-de-facto-space-station.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-09-06-new-cern-lhc-experiments-predict-a-boson-beyond-the-higgs-that-could-unlock-clues-to-existence-of-dark-matter.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-09-06-new-cern-lhc-experiments-predict-a-boson-beyond-the-higgs-that-could-unlock-clues-to-existence-of-dark-matter.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-08-24-china-unveils-plans-for-a-manned-radar-station-on-the-moon-leading-space-scientists-have-joined-the-project.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-08-24-china-unveils-plans-for-a-manned-radar-station-on-the-moon-leading-space-scientists-have-joined-the-project.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-07-12-earth-is-leaking-its-atmosphere-weakness-found-in-our-magnetic-field-european-space-agency.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-07-12-earth-is-leaking-its-atmosphere-weakness-found-in-our-magnetic-field-european-space-agency.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-07-02-listen-jupiter-s-eerie-roar-as-juno-spacecraft-enters-gas-giant-s-magnetic-field-strongest-in-solar-system.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-07-02-listen-jupiter-s-eerie-roar-as-juno-spacecraft-enters-gas-giant-s-magnetic-field-strongest-in-solar-system.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-06-30-create-your-own-neural-paintings-using-deep-learning.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-06-30-create-your-own-neural-paintings-using-deep-learning.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-06-22-extreme-physics-nebula-observed-around-a-neutron-star-for-first-time.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-06-22-extreme-physics-nebula-observed-around-a-neutron-star-for-first-time.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-06-15-caltech-if-there-s-life-elsewhere-in-the-cosmos-is-it-based-on-the-biochemistry-we-know.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-06-15-caltech-if-there-s-life-elsewhere-in-the-cosmos-is-it-based-on-the-biochemistry-we-know.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-06-11-an-astonishing-simplicity-underlies-the-universe-weekend-feature-video.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-06-11-an-astonishing-simplicity-underlies-the-universe-weekend-feature-video.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-06-07-hubble-spitzer-the-oldest-galaxy-in-the-observable-universe-tuesday-s-most-popular.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-06-07-hubble-spitzer-the-oldest-galaxy-in-the-observable-universe-tuesday-s-most-popular.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-06-02-quantum-entanglement-in-space-a-new-global-satellite-based-quantum-network.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-06-02-quantum-entanglement-in-space-a-new-global-satellite-based-quantum-network.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-06-02-esa-hubble-the-universe-may-be-expanding-faster-than-expected.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-06-02-esa-hubble-the-universe-may-be-expanding-faster-than-expected.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-05-23-cosmic-leapfrog-will-china-s-enormous-super-collider-reveal-unknowns-of-the-universe-a-galaxy-insight.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-05-23-cosmic-leapfrog-will-china-s-enormous-super-collider-reveal-unknowns-of-the-universe-a-galaxy-insight.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-05-16-before-dna-the-search-heats-up-for-possible-ancestors-to-life-on-earth.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-05-16-before-dna-the-search-heats-up-for-possible-ancestors-to-life-on-earth.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-03-03-nasa-hubble-observes-the-most-remote-galaxy-in-the-universe.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-03-03-nasa-hubble-observes-the-most-remote-galaxy-in-the-universe.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-01-25-the-cosmic-misfits-25-of-all-galaxies-have-an-indefinable-irregular-shape-nasa-esa-hubble.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-01-25-the-cosmic-misfits-25-of-all-galaxies-have-an-indefinable-irregular-shape-nasa-esa-hubble.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2016-01-19-large-hadron-collider-measurements-point-to-fundamental-symmetry-of-the-universe-today-s-most-popular.html"></a>
+          <a class="post-link" href="/2018/01/14/2016-01-19-large-hadron-collider-measurements-point-to-fundamental-symmetry-of-the-universe-today-s-most-popular.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-12-19-china-launches-dampe-satellite-to-search-for-evidence-of-dark-matter-annihilation.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-12-19-china-launches-dampe-satellite-to-search-for-evidence-of-dark-matter-annihilation.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-12-11-gravity-alters-the-quantum-nature-of-particles-on-earth-what-does-it-imply-at-cosmological-scales-today-s-most-popular.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-12-11-gravity-alters-the-quantum-nature-of-particles-on-earth-what-does-it-imply-at-cosmological-scales-today-s-most-popular.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-12-09-quantum-time-travel-can-we-receive-messages-from-the-future.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-12-09-quantum-time-travel-can-we-receive-messages-from-the-future.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-12-01-mystery-of-magnetic-fields-powering-gamma-ray-bursts-a-million-billion-times-stronger-than-earth-s.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-12-01-mystery-of-magnetic-fields-powering-gamma-ray-bursts-a-million-billion-times-stronger-than-earth-s.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-11-25-cern-replicates-post-big-bang-universe-quarks-antiquarks-and-gluons-over-4000-billion-degrees-temperature.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-11-25-cern-replicates-post-big-bang-universe-quarks-antiquarks-and-gluons-over-4000-billion-degrees-temperature.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-11-20-new-insights-into-subatomic-particles-could-change-how-we-understand-the-formation-of-the-universe.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-11-20-new-insights-into-subatomic-particles-could-change-how-we-understand-the-formation-of-the-universe.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-11-14-cern-accelerating-the-search-for-supersymmetry-a-new-physics-beyond-the-standard-model.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-11-14-cern-accelerating-the-search-for-supersymmetry-a-new-physics-beyond-the-standard-model.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-11-10-nasa-pluto-s-active-ice-volcanoes-tens-of-kilometers-across-and-several-kilometers-high.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-11-10-nasa-pluto-s-active-ice-volcanoes-tens-of-kilometers-across-and-several-kilometers-high.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-10-29-q-continuum-project-reveals-how-gravity-acts-on-dark-matter-of-the-universe.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-10-29-q-continuum-project-reveals-how-gravity-acts-on-dark-matter-of-the-universe.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-10-26-image-of-the-day-scars-of-violent-events-at-the-heart-of-the-milky-way.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-10-26-image-of-the-day-scars-of-violent-events-at-the-heart-of-the-milky-way.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-10-23-stars-reveal-magnetic-greenhouse-effect-caltech.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-10-23-stars-reveal-magnetic-greenhouse-effect-caltech.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-10-22-nasa-hubble-faintest-oldest-galaxies-in-universe-observed.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-10-22-nasa-hubble-faintest-oldest-galaxies-in-universe-observed.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-09-29-top-candidates-for-alien-life-rocky-planets-with-magnetic-fields-orbiting-small-stars.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-09-29-top-candidates-for-alien-life-rocky-planets-with-magnetic-fields-orbiting-small-stars.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-09-23-anthropocene-global-warming-tipping-point-early-warning-signals-observed.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-09-23-anthropocene-global-warming-tipping-point-early-warning-signals-observed.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-09-22-cern-confirms-the-fundamental-symmetry-of-the-universe.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-09-22-cern-confirms-the-fundamental-symmetry-of-the-universe.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-09-17-flickering-quasars-signal-the-collision-of-supermassive-black-holes.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-09-17-flickering-quasars-signal-the-collision-of-supermassive-black-holes.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-09-16-what-caused-the-great-dying-70-percent-of-earth-s-land-species-disappeared-in-a-geological-instant-mit.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-09-16-what-caused-the-great-dying-70-percent-of-earth-s-land-species-disappeared-in-a-geological-instant-mit.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-09-15-nasa-earth-s-gravitational-tidal-forces-shaping-the-moon.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-09-15-nasa-earth-s-gravitational-tidal-forces-shaping-the-moon.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-09-10-new-species-of-human-discovered-in-the-cradle-of-humankind.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-09-10-new-species-of-human-discovered-in-the-cradle-of-humankind.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-09-02-mystery-at-the-birth-of-the-universe-the-matter-antimatter-imbalance.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-09-02-mystery-at-the-birth-of-the-universe-the-matter-antimatter-imbalance.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-08-29-a-billion-miles-beyond-pluto-nasa-new-horizons-to-probe-unexplored-kuiper-belt-objects.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-08-29-a-billion-miles-beyond-pluto-nasa-new-horizons-to-probe-unexplored-kuiper-belt-objects.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-08-27-metamorphosis-the-evolution-of-galaxies-the-basic-building-block-of-the-observable-universe.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-08-27-metamorphosis-the-evolution-of-galaxies-the-basic-building-block-of-the-observable-universe.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-08-19-meteorite-impacts-on-ancient-oceans-may-have-created-the-genetic-molecules-that-led-to-life.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-08-19-meteorite-impacts-on-ancient-oceans-may-have-created-the-genetic-molecules-that-led-to-life.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-08-07-a-distant-pulsar-reveals-gravity-as-constant-throughout-the-universe.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-08-07-a-distant-pulsar-reveals-gravity-as-constant-throughout-the-universe.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-08-05-earth-s-voyage-through-the-interstellar-cloud-20-000-years-left-to-go.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-08-05-earth-s-voyage-through-the-interstellar-cloud-20-000-years-left-to-go.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-08-04-neutron-star-jets-near-speed-of-light-rival-those-of-black-holes.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-08-04-neutron-star-jets-near-speed-of-light-rival-those-of-black-holes.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-08-04-early-earth-evidence-discovered-of-first-reproduction-in-complex-organisms.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-08-04-early-earth-evidence-discovered-of-first-reproduction-in-complex-organisms.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-08-04-colossal-ring-of-galaxies-largest-object-in-the-universe-spans-5-billion-light-years.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-08-04-colossal-ring-of-galaxies-largest-object-in-the-universe-spans-5-billion-light-years.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-08-03-rocky-planet-with-a-3-day-orbit-only-21-light-years-away.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-08-03-rocky-planet-with-a-3-day-orbit-only-21-light-years-away.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-07-31-nasa-s-amazing-comet-hunter-nobody-dreamed-we-d-approach-200-a-year.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-07-31-nasa-s-amazing-comet-hunter-nobody-dreamed-we-d-approach-200-a-year.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-07-30-mit-an-interior-ocean-may-be-driving-geologic-activity-on-pluto.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-07-30-mit-an-interior-ocean-may-be-driving-geologic-activity-on-pluto.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-07-04-hubble-largest-moon-in-our-solar-system-harbors-a-buried-ocean-100-kilometers-deep-weekend-feature.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-07-04-hubble-largest-moon-in-our-solar-system-harbors-a-buried-ocean-100-kilometers-deep-weekend-feature.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-06-21-samsung-continues-working-on-waycheck-for-wayland-testing.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-06-21-samsung-continues-working-on-waycheck-for-wayland-testing.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-06-08-g7-commit-to-decarbornise-global-economy-in-the-course-of-this-century.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-06-08-g7-commit-to-decarbornise-global-economy-in-the-course-of-this-century.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-06-04-betanews-new-linux-foundation-edx-course-a-steal.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-06-04-betanews-new-linux-foundation-edx-course-a-steal.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-05-11-nasa-s-first-encounter-with-the-last-planet-a-new-class-of-worlds.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-05-11-nasa-s-first-encounter-with-the-last-planet-a-new-class-of-worlds.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-05-07-saturn-s-enceladus-does-it-have-a-deep-biosphere.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-05-07-saturn-s-enceladus-does-it-have-a-deep-biosphere.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-04-13-the-dark-side-of-the-universe-mapping-an-invisible-force.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-04-13-the-dark-side-of-the-universe-mapping-an-invisible-force.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-04-13-an-alien-venus-exoplanet-hell-1-000-kph-winds-and-3-000-degree-atmosphere.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-04-13-an-alien-venus-exoplanet-hell-1-000-kph-winds-and-3-000-degree-atmosphere.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-03-14-the-great-attractor-exists-within-an-immense-supercluster-of-100-000-galaxies-weekend-feature.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-03-14-the-great-attractor-exists-within-an-immense-supercluster-of-100-000-galaxies-weekend-feature.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-03-06-nasa-ancient-mars-had-a-vast-ocean-covering-half-its-northern-hemisphere.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-03-06-nasa-ancient-mars-had-a-vast-ocean-covering-half-its-northern-hemisphere.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-02-17-your-inner-jellyfish-origin-of-electrical-communication-in-human-brain-traced-back-600-million-years.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-02-17-your-inner-jellyfish-origin-of-electrical-communication-in-human-brain-traced-back-600-million-years.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-02-06-ceres-the-dwarf-water-planet-reveals-intriguing-white-spots.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-02-06-ceres-the-dwarf-water-planet-reveals-intriguing-white-spots.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-02-05-message-from-the-big-bang-confirms-quantum-origin-of-the-universe.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-02-05-message-from-the-big-bang-confirms-quantum-origin-of-the-universe.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-01-31-life-may-exist-in-the-milky-way-that-dates-back-11-billion-years-weekend-feature.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-01-31-life-may-exist-in-the-milky-way-that-dates-back-11-billion-years-weekend-feature.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-01-28-dwarf-planet-ceres-a-game-changer-in-the-solar-system.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-01-28-dwarf-planet-ceres-a-game-changer-in-the-solar-system.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-01-23-the-universe-is-a-complexity-machine-intelligent-life-and-technology-may-be-common-in-the-cosmos.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-01-23-the-universe-is-a-complexity-machine-intelligent-life-and-technology-may-be-common-in-the-cosmos.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-01-16-finding-farmland-new-maps-offer-a-clearer-view-of-global-agriculture.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-01-16-finding-farmland-new-maps-offer-a-clearer-view-of-global-agriculture.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-01-15-humans-at-risk-from-planetary-scale-activities.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-01-15-humans-at-risk-from-planetary-scale-activities.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-01-12-up-to-50-of-earth-s-water-is-older-than-our-solar-system-today-s-most-popular.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-01-12-up-to-50-of-earth-s-water-is-older-than-our-solar-system-today-s-most-popular.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-01-08-quantum-optical-hard-drive-breakthrough.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-01-08-quantum-optical-hard-drive-breakthrough.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2015-01-07-noaa-s-dscovr-to-provide-epic-views-of-earth.html"></a>
+          <a class="post-link" href="/2018/01/14/2015-01-07-noaa-s-dscovr-to-provide-epic-views-of-earth.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-12-22-russian-scientists-map-water-vapor-in-martian-atmosphere.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-12-22-russian-scientists-map-water-vapor-in-martian-atmosphere.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-12-17-search-for-earth-s-deep-life-ancient-hydrogen-rich-waters-discovered-deep-underground.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-12-17-search-for-earth-s-deep-life-ancient-hydrogen-rich-waters-discovered-deep-underground.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-12-16-one-in-five-houses-in-australia-is-using-solar-energy.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-12-16-one-in-five-houses-in-australia-is-using-solar-energy.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-12-16-deep-sea-divers-dwarfed-by-alien-like-jellyfish-off-coast-of-japan-daily-mail.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-12-16-deep-sea-divers-dwarfed-by-alien-like-jellyfish-off-coast-of-japan-daily-mail.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-12-15-the-deep-carbon-observatory-quantities-movements-forms-and-origins-of-earth-s-carbon.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-12-15-the-deep-carbon-observatory-quantities-movements-forms-and-origins-of-earth-s-carbon.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-12-15-nasa-s-fermi-mission-brings-deeper-focus-to-thunderstorm-gamma-rays.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-12-15-nasa-s-fermi-mission-brings-deeper-focus-to-thunderstorm-gamma-rays.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-12-15-linux-ls-command-examples-for-beginners.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-12-15-linux-ls-command-examples-for-beginners.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-12-10-exotic-deep-sea-canyon-life-at-risk-live-science.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-12-10-exotic-deep-sea-canyon-life-at-risk-live-science.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-11-14-nasa-spacecraft-at-pluto-s-doorstep-3-billion-miles-from-earth-poised-for-six-month-encounter.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-11-14-nasa-spacecraft-at-pluto-s-doorstep-3-billion-miles-from-earth-poised-for-six-month-encounter.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-11-13-mars-too-has-macroweather.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-11-13-mars-too-has-macroweather.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-11-13-lightning-expected-to-increase-by-50-percent-with-global-warming.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-11-13-lightning-expected-to-increase-by-50-percent-with-global-warming.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-11-03-time-is-slowly-disappearing-from-our-universe-or-is-it-timeless.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-11-03-time-is-slowly-disappearing-from-our-universe-or-is-it-timeless.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-10-30-one-third-of-scotland-could-soon-be-powered-by-the-world-s-biggest-underwater-windmill-tidal-plant.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-10-30-one-third-of-scotland-could-soon-be-powered-by-the-world-s-biggest-underwater-windmill-tidal-plant.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-10-16-the-cosmic-web-astronomers-create-3-d-map-of-the-universe-as-it-was-11-billion-years-ago.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-10-16-the-cosmic-web-astronomers-create-3-d-map-of-the-universe-as-it-was-11-billion-years-ago.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-10-14-nasa-moon-s-volcanoes-were-active-during-earth-s-cretaceous-period-the-age-of-dinosaurs.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-10-14-nasa-moon-s-volcanoes-were-active-during-earth-s-cretaceous-period-the-age-of-dinosaurs.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-09-25-clear-skies-and-water-vapor-discovered-on-a-distant-planet-a-significant-milepost-says-nasa.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-09-25-clear-skies-and-water-vapor-discovered-on-a-distant-planet-a-significant-milepost-says-nasa.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-08-27-spooky-quantum-entanglement-reveals-invisible-objects.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-08-27-spooky-quantum-entanglement-reveals-invisible-objects.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-08-27-quasars-are-they-the-origin-of-light-in-our-universe.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-08-27-quasars-are-they-the-origin-of-light-in-our-universe.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-08-26-when-the-visible-universe-was-less-than-one-microsecond-old-researchers-simulate-birth-of-the-cosmos.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-08-26-when-the-visible-universe-was-less-than-one-microsecond-old-researchers-simulate-birth-of-the-cosmos.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-08-10-the-black-hole-at-the-beginning-of-time-we-may-have-emerged-from-a-black-hole-in-a-higher-dimensional-universe.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-08-10-the-black-hole-at-the-beginning-of-time-we-may-have-emerged-from-a-black-hole-in-a-higher-dimensional-universe.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-07-19-jamaica-unveils-world-s-largest-wind-solar-hybrid-installation.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-07-19-jamaica-unveils-world-s-largest-wind-solar-hybrid-installation.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-07-17-the-deer-god-leaps-into-being-a-successful-kickstarter.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-07-17-the-deer-god-leaps-into-being-a-successful-kickstarter.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-07-16-mapping-dark-energy-s-impact-on-the-universe-the-sloan-digital-sky-survey-phase-4.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-07-16-mapping-dark-energy-s-impact-on-the-universe-the-sloan-digital-sky-survey-phase-4.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-07-14-something-is-amiss-with-light-in-the-universe-may-be-coming-from-some-exotic-unknown-source-today-s-most-popular.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-07-14-something-is-amiss-with-light-in-the-universe-may-be-coming-from-some-exotic-unknown-source-today-s-most-popular.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-07-10-more-mega-driver-work-merged-for-mesa.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-07-10-more-mega-driver-work-merged-for-mesa.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-07-02-the-higgs-paradox-quantum-level-discovery-fails-to-solve-large-scale-cosmic-mysteries.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-07-02-the-higgs-paradox-quantum-level-discovery-fails-to-solve-large-scale-cosmic-mysteries.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-07-01-will-earth-appear-habitable-to-alien-astronomers-nasa-ocean-glint-may-be-a-clue-today-s-most-popular.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-07-01-will-earth-appear-habitable-to-alien-astronomers-nasa-ocean-glint-may-be-a-clue-today-s-most-popular.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-30-unknown-force-may-alter-gravity-at-cosmologically-large-scales-today-s-most-popular.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-30-unknown-force-may-alter-gravity-at-cosmologically-large-scales-today-s-most-popular.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-29-gravity-is-driving-growth-of-the-universe-astronomers-confirm-via-600-000-galaxies.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-29-gravity-is-driving-growth-of-the-universe-astronomers-confirm-via-600-000-galaxies.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-27-force-needed-to-measure-gravitational-waves-detected-for-1st-time-small-as-one-thousandth-the-diameter-of-a-proton.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-27-force-needed-to-measure-gravitational-waves-detected-for-1st-time-small-as-one-thousandth-the-diameter-of-a-proton.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-26-galaxy-halos-hold-clues-to-solving-the-mystery-of-dark-matter.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-26-galaxy-halos-hold-clues-to-solving-the-mystery-of-dark-matter.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-25-tuesday-comment-of-the-day-why-isn-t-the-milky-way-crawling-with-mechanical-or-biological-life.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-25-tuesday-comment-of-the-day-why-isn-t-the-milky-way-crawling-with-mechanical-or-biological-life.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-25-rare-superluminous-supernova-observed-origins-are-a-mystery.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-25-rare-superluminous-supernova-observed-origins-are-a-mystery.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-25-nasa-targets-asteroid-2011-md-for-capture-exploration-dailytech.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-25-nasa-targets-asteroid-2011-md-for-capture-exploration-dailytech.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-24-god-particle-collider-rebooting-to-be-most-powerful-yet.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-24-god-particle-collider-rebooting-to-be-most-powerful-yet.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-24-fabien-cousteau-leads-aquanauts-in-record-breaking-undersea-expedition.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-24-fabien-cousteau-leads-aquanauts-in-record-breaking-undersea-expedition.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-24-earth-sized-diamond-a-white-dwarf-fossil-same-age-as-the-milky-way-found-orbiting-a-neutron-star.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-24-earth-sized-diamond-a-white-dwarf-fossil-same-age-as-the-milky-way-found-orbiting-a-neutron-star.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-23-higgs-boson-discovery-the-starting-point-for-a-new-model-of-the-universe.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-23-higgs-boson-discovery-the-starting-point-for-a-new-model-of-the-universe.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-23-god-particle-collider-rebooting-to-be-most-powerful-yet.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-23-god-particle-collider-rebooting-to-be-most-powerful-yet.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-21-richard-dawkins-on-the-origin-of-life-in-the-universe-weekend-feature.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-21-richard-dawkins-on-the-origin-of-life-in-the-universe-weekend-feature.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-21-faint-tremors-of-the-big-bang-gravitational-waves-team-concede-possible-error-video.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-21-faint-tremors-of-the-big-bang-gravitational-waves-team-concede-possible-error-video.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-20-emergence-of-the-human-super-brain-today-s-most-popular.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-20-emergence-of-the-human-super-brain-today-s-most-popular.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-17-kepler-mission-finds-a-new-world-that-s-not-supposed-to-exist.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-17-kepler-mission-finds-a-new-world-that-s-not-supposed-to-exist.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-17-astronomers-develop-new-spectrum-for-methane-to-identify-signs-of-extraterrestrial-life.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-17-astronomers-develop-new-spectrum-for-methane-to-identify-signs-of-extraterrestrial-life.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-16-vast-oceans-of-water-may-be-trapped-in-earth-s-interior.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-16-vast-oceans-of-water-may-be-trapped-in-earth-s-interior.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-16-red-dwarf-stars-may-answer-the-question-are-we-alone.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-16-red-dwarf-stars-may-answer-the-question-are-we-alone.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-16-observation-of-big-bang-gravity-waves-challenged-serious-flaws-found.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-16-observation-of-big-bang-gravity-waves-challenged-serious-flaws-found.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-16-gigantic-ring-of-dwarf-galaxies-orbit-andromeda-galaxy-in-an-immense-disk-today-s-most-popular.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-16-gigantic-ring-of-dwarf-galaxies-orbit-andromeda-galaxy-in-an-immense-disk-today-s-most-popular.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-14-laser-light-may-reveal-presence-of-an-alien-technological-civilization-weekend-feature.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-14-laser-light-may-reveal-presence-of-an-alien-technological-civilization-weekend-feature.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-13-is-spacetime-a-fluid-leading-physicists-query-today-s-most-popular.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-13-is-spacetime-a-fluid-leading-physicists-query-today-s-most-popular.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-12-earth-s-moon-made-the-emergence-of-complex-multi-cellular-life-possible.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-12-earth-s-moon-made-the-emergence-of-complex-multi-cellular-life-possible.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-11-nasa-as-long-as-alien-life-uses-chemistry-we-ll-have-the-capability-to-find-it-today-s-most-popular.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-11-nasa-as-long-as-alien-life-uses-chemistry-we-ll-have-the-capability-to-find-it-today-s-most-popular.html"></a>
         </h2>
       </li>
     
       <li>
         
-        <span class="post-meta">Jan 7, 2018</span>
+        <span class="post-meta">Jan 14, 2018</span>
 
         <h2>
-          <a class="post-link" href="/2018/01/07/2014-06-10-100-million-planets-could-harbor-complex-life-in-the-milky-way.html"></a>
+          <a class="post-link" href="/2018/01/14/2014-06-10-100-million-planets-could-harbor-complex-life-in-the-milky-way.html"></a>
         </h2>
       </li>
     

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NBCNews.comNewly-discovered alien world tops the list of closest, most Earth-like exoplanetsThe Weather NetworkWednesday, June 25, 2014, 4:31 PM - Astronomers have added yet another potentially-habitable exoplanet to their catalogues, and this one - a super-Earth planet named Gliese 832 c - now ranks as the closest of the most Earth-like planets that have been&nbsp;...Nearby Super-Earth is Best Habitable Candidate So Far, Astronomers SayUniverse TodayIs this the most Earth-like planet ever found? Alien exoplanet just a &#39;stone&#39;s ...Daily MailThis Potentially Habitable Super-Earth Is Just 16 Light Years Awayio9NBCNews.comall 11 news articles&nbsp;&raquo;
+>NBCNews.comNewly-discovered alien world tops the list of closest, most Earth-like exoplanetsThe Weather NetworkWednesday, June 25, 2014, 4:31 PM - Astronomers have added yet another potentially-habitable exoplanet to their catalogues, and this one - a super-Earth planet named Gliese 832 c - now ranks as the closest of the most Earth-like planets that have been&nbsp;...Nearby Super-Earth is Best Habitable Candidate So Far, Astronomers SayUniverse TodayIs this the most Earth-like planet ever found? Alien exoplanet just a &#39;stone&#39;s ...Daily MailThis Potentially Habitable Super-Earth Is Just 16 Light Years Awayio9NBCNews.comall 11 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

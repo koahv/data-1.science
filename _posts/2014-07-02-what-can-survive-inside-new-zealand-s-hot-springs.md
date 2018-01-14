@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientists are searching New Zealand’s picturesque hot springs for the next big breakthroughs in science.
+>Scientists are searching New Zealand’s picturesque hot springs for the next big breakthroughs in science....
 
 #### Factsheet
 >factsheet unavailable

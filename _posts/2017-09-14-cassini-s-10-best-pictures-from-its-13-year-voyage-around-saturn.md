@@ -9,7 +9,7 @@ tags: [solar system, space, space flight]
 
 
 #### Extract
->On 15 September, NASA’s Cassini spacecraft will crash into Saturn, ending its mission with a bang. New Scientist looks back at 10 of its best images
+>On 15 September, NASA’s Cassini spacecraft will crash into Saturn, ending its mission with a bang. New Scientist looks back at 10 of its best images...
 
 #### Factsheet
 >factsheet unavailable

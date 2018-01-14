@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Device could lead to better quantum accelerometers
+>Device could lead to better quantum accelerometers...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Greg Kroah-Hartman, Linux kernel developer and Linux Foundation Fellow, answered questions in a Reddit AMA last week. Here are some of the best responses.
+>Greg Kroah-Hartman, Linux kernel developer and Linux Foundation Fellow, answered questions in a Reddit AMA last week. Here are some of the best responses....
 
 #### Factsheet
 >factsheet unavailable

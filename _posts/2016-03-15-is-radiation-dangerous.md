@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->VideosWhen we hear the word radiation, it’s tempting to picture huge explosions and frightening mutations. But that’s not the full story — radiation also applies to rainbows and a doctor...Contributed Author:&nbsp;TED-EdTopics:&nbsp;Energy
+>VideosWhen we hear the word radiation, it’s tempting to picture huge explosions and frightening mutations. But that’s not the full story — radiation also applies to rainbows and a doctor...Contributed Author:&nbsp;TED-EdTopics:&nbsp;Energy...
 
 #### Factsheet
 >factsheet unavailable

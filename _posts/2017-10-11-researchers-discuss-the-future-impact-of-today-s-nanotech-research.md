@@ -9,7 +9,7 @@ tags: [nanophysics]
 
 
 #### Extract
->World-renowned nanoscientists and chemists Chad Mirkin, the Director of the International Institute for Nanotechnology (IIN) at Northwestern University, and Teri Odom, the IIN's Associate Director, sit down to discuss the golden age of miniaturization and how the "science of small things" is fostering major advances.
+>World-renowned nanoscientists and chemists Chad Mirkin, the Director of the International Institute for Nanotechnology (IIN) at Northwestern University, and Teri Odom, the IIN's Associate Director, sit down to discuss the golden age of miniaturization and how the "science of small things" is fostering major advances....
 
 #### Factsheet
 >factsheet unavailable

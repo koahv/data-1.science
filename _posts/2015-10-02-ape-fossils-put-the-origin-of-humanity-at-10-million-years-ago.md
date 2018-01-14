@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New fossil evidence suggests human ancestors may have split from chimps as early as 10 million years ago, bringing fossil evidence in line with data from molecular clocks
+>New fossil evidence suggests human ancestors may have split from chimps as early as 10 million years ago, bringing fossil evidence in line with data from molecular clocks...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,22 +9,7 @@ tags: [news, renewable energy, solar power, wind power, & gordon, island nation,
 
 
 #### Extract
->
-The world’s largest wind and solar hybrid renewable energy project was recently put into operation in Kingston, Jamaica. The WindStream Technologies array was commissioned for the rooftop of the prominent local law firm, Myers, Fletcher, &amp; Gordon. Expected to generate approximately 106,000kWh annually with a return on investment in less than four years, the plant should save the firm approximately $2 million in energy costs over the course of its 25-year lifetime.
-
-
-
-
-
-Read the rest of Jamaica Unveils World’s Largest Wind-Solar Hybrid Installation
-
-
-Permalink |
-Add to
-del.icio.us | 
-digg
-
-Post tags: "wind power", &amp; Gordon, island nation, Jamaica, Jamaica Public Service, JPS, Kingston, Myers Fletcher, renewable energy, Solar Power, solar wind hybrid, SolarMills, WindStream Technologies, world's largest wind solar hybrid
+>The world’s largest wind and solar hybrid renewable energy project was recently put into operation in Kingston, Jamaica. The WindStream Technologies array was commissioned for the rooftop of the prominent local law firm, Myers, Fletcher, &amp; Gordon. Expected to generate approximately 106,000kWh annually with a return on investment in less than four years, the plant should save the firm approximately $2 million in energy costs over the course of its 25-year lifetime. Read the rest of Jamaica Unveils World’s Largest Wind-Solar Hybrid Installation Permalink | Add to del.icio.us | digg Post tags: "wind power", &amp; Gordon, island nation, Jamaica, Jamaica Public Service, JPS, Kingston, Myers Fletcher, renewable energy, Solar Power, solar wind hybrid, SolarMills, WindStream Technologies, world's largest wind solar hybrid...
 
 #### Factsheet
 >factsheet unavailable

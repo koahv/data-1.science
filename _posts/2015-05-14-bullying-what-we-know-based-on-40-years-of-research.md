@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Psychologists have reviewed over 40 years of research on bullying among school age youth, documented the current understanding of the complexity of the issue and suggested directions for future research.
+>Psychologists have reviewed over 40 years of research on bullying among school age youth, documented the current understanding of the complexity of the issue and suggested directions for future research....
 
 #### Factsheet
 >factsheet unavailable

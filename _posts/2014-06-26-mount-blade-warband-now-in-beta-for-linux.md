@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->While not yet officially announced Mount &amp; Blade: Warband is out for Linux, downloadable and might even be playable for you.
+>While not yet officially announced Mount &amp; Blade: Warband is out for Linux, downloadable and might even be playable for you....
 
 #### Factsheet
 >factsheet unavailable

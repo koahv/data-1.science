@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Elsevier) The demise of Neanderthals may have nothing to do with innovative hunting weapons carried by humans from west Asia, according to a new study published in the Journal of Human Evolution.
+>(Elsevier) The demise of Neanderthals may have nothing to do with innovative hunting weapons carried by humans from west Asia, according to a new study published in the Journal of Human Evolution....
 
 #### Factsheet
 >factsheet unavailable

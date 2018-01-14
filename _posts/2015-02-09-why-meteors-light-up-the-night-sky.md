@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->Meteors have been seen since people first looked at the night sky. They are comprised of small pieces of debris, typically no larger than a grain of dust or sand, which continually crash into the Earth's atmosphere.
+>Meteors have been seen since people first looked at the night sky. They are comprised of small pieces of debris, typically no larger than a grain of dust or sand, which continually crash into the Earth's atmosphere....
 
 #### Factsheet
 >factsheet unavailable

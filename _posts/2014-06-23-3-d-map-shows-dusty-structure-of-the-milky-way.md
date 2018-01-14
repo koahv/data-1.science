@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Astronomers have created a detailed three-dimensional map of the dusty structure of the Milky Way – the star-studded bright disc of our own galaxy – as seen from Earth’s northern hemisphere.
+>Astronomers have created a detailed three-dimensional map of the dusty structure of the Milky Way – the star-studded bright disc of our own galaxy – as seen from Earth’s northern hemisphere....
 
 #### Factsheet
 >factsheet unavailable

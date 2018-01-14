@@ -9,13 +9,7 @@ tags: []
 
 
 #### Extract
->
-Saitama, Japan (SPX) Feb 15, 2015
-
-
-Traditional computational tools are simply not powerful enough to solve some complex optimisation problems, like, for example, protein folding. Quantum annealing, a potentially successful implementation of analogue quantum computing, would bring about an ultra-performant computational method. 
-
-A series of reviews in this topical issue of EPJ ST, guest-edited by Sei Suzuki from Saitama Medic
+>Saitama, Japan (SPX) Feb 15, 2015 Traditional computational tools are simply not powerful enough to solve some complex optimisation problems, like, for example, protein folding. Quantum annealing, a potentially successful implementation of analogue quantum computing, would bring about an ultra-performant computational method. A series of reviews in this topical issue of EPJ ST, guest-edited by Sei Suzuki from Saitama Medic...
 
 #### Factsheet
 >factsheet unavailable

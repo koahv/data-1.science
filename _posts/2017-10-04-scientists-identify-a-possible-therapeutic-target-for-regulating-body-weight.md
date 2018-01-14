@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Federation of American Societies for Experimental Biology) A new study published online in The FASEB Journal (http://www.fasebj.org) reveals a novel gene involved in maintaining body weight.
+>(Federation of American Societies for Experimental Biology) A new study published online in The FASEB Journal (http://www.fasebj.org) reveals a novel gene involved in maintaining body weight....
 
 #### Factsheet
 >factsheet unavailable

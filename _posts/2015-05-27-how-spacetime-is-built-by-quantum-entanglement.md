@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Tokyo) A collaboration of physicists and a mathematician has made a significant step toward unifying general relativity and quantum mechanics by explaining how spacetime emerges from quantum entanglement in a more fundamental theory.
+>(University of Tokyo) A collaboration of physicists and a mathematician has made a significant step toward unifying general relativity and quantum mechanics by explaining how spacetime emerges from quantum entanglement in a more fundamental theory....
 
 #### Factsheet
 >factsheet unavailable

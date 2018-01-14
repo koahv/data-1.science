@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Bees can be blown off course by applying a magnetic field
+>Bees can be blown off course by applying a magnetic field...
 
 #### Factsheet
 >factsheet unavailable

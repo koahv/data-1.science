@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->EarthSkyOldest stone tools found in KenyaEarthSkyThe Earth Institute at Columbia University announced today (May 20, 2015) that scientists working in the desert badlands of northwestern Kenya have found stone tools dating back 3.3 million years, long before the advent of modern humans. They are by ...Oldest-known stone tools pre-date HomoPhys.OrgArchaeologists Find Earliest Stone Tools in KenyaWall Street Journalall 330 news articles&nbsp;&raquo;
+>EarthSkyOldest stone tools found in KenyaEarthSkyThe Earth Institute at Columbia University announced today (May 20, 2015) that scientists working in the desert badlands of northwestern Kenya have found stone tools dating back 3.3 million years, long before the advent of modern humans. They are by ...Oldest-known stone tools pre-date HomoPhys.OrgArchaeologists Find Earliest Stone Tools in KenyaWall Street Journalall 330 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

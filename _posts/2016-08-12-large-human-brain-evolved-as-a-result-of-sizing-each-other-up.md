@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Cardiff University) Humans have evolved a disproportionately large brain as a result of sizing each other up in large cooperative social groups, researchers have proposed.
+>(Cardiff University) Humans have evolved a disproportionately large brain as a result of sizing each other up in large cooperative social groups, researchers have proposed....
 
 #### Factsheet
 >factsheet unavailable

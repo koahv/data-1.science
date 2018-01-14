@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Plymouth) Electrical signals transmitted at high frequencies lose none of their energy when passed through the 'wonder material' graphene, a study led by Plymouth University has shown.
+>(University of Plymouth) Electrical signals transmitted at high frequencies lose none of their energy when passed through the 'wonder material' graphene, a study led by Plymouth University has shown....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of York) A subtle change occurred in our evolutionary history 100,000 years ago which allowed people who thought and behaved differently -- such as individuals with autism -- to be integrated into society, academics from the University of York have concluded.
+>(University of York) A subtle change occurred in our evolutionary history 100,000 years ago which allowed people who thought and behaved differently -- such as individuals with autism -- to be integrated into society, academics from the University of York have concluded....
 
 #### Factsheet
 >factsheet unavailable

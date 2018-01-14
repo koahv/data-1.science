@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Biophysics researchers have used short pulses of light to peer into the mechanics of photosynthesis and illuminate the role that molecule vibrations play in the energy conversion process that powers life on our planet.
+>Biophysics researchers have used short pulses of light to peer into the mechanics of photosynthesis and illuminate the role that molecule vibrations play in the energy conversion process that powers life on our planet....
 
 #### Factsheet
 >factsheet unavailable

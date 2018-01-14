@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->When New Horizons phoned home this morning (Australian time) after its close encounter with Pluto, there was jubilation and excitement.
+>When New Horizons phoned home this morning (Australian time) after its close encounter with Pluto, there was jubilation and excitement....
 
 #### Factsheet
 >factsheet unavailable

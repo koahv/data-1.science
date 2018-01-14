@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of California - Irvine) Recent findings indicating the possible discovery of a previously unknown subatomic particle may be evidence of a fifth fundamental force of nature, according to a paper published in the journal Physical Review Letters by theoretical physicists at the University of California, Irvine.
+>(University of California - Irvine) Recent findings indicating the possible discovery of a previously unknown subatomic particle may be evidence of a fifth fundamental force of nature, according to a paper published in the journal Physical Review Letters by theoretical physicists at the University of California, Irvine....
 
 #### Factsheet
 >factsheet unavailable

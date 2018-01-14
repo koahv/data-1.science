@@ -9,8 +9,7 @@ tags: [sci-tech]
 
 
 #### Extract
->
-Tears’ tasteWhy do tears taste salty?Janani, Chennai Body fluids like sweat and tears are salty to taste and this has physiological, immunological and evolutionar...
+>Tears’ tasteWhy do tears taste salty?Janani, Chennai Body fluids like sweat and tears are salty to taste and this has physiological, immunological and evolutionar......
 
 #### Factsheet
 >factsheet unavailable

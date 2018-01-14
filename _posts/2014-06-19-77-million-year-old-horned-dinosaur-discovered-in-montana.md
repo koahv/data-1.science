@@ -9,7 +9,7 @@ tags: [nature & environment]
 
 
 #### Extract
->Scientists have unearthed fossilized remains of a horned dinosaur in Montana from the late Cretaceous Period.
+>Scientists have unearthed fossilized remains of a horned dinosaur in Montana from the late Cretaceous Period....
 
 #### Factsheet
 >factsheet unavailable

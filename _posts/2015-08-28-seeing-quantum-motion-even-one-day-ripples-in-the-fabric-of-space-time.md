@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Even large objects obey quantum physics, meaning they are never quite at rest. Researchers have developed a way to detect -- and manipulate -- this underlying quantum motion. 
+>Even large objects obey quantum physics, meaning they are never quite at rest. Researchers have developed a way to detect -- and manipulate -- this underlying quantum motion....
 
 #### Factsheet
 >factsheet unavailable

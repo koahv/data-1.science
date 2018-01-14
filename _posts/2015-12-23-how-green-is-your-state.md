@@ -9,7 +9,7 @@ tags: [solar, bioenergy, distributed energy, news, hydropower, wind power, geoth
 
 
 #### Extract
->Sustainable business practices and environmental impact via engineering renewable energy are keys to naming 10 of the greenest states in America, according to Olivet Nazarene University’s engineering department.
+>Sustainable business practices and environmental impact via engineering renewable energy are keys to naming 10 of the greenest states in America, according to Olivet Nazarene University’s engineering department....
 
 #### Factsheet
 >factsheet unavailable

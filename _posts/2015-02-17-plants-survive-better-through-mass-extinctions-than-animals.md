@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Gothenburg) At least five mass extinction events have profoundly changed the history of life on Earth. But a new study led by researchers at the University of Gothenburg shows that plants have been very resilient to those events.
+>(University of Gothenburg) At least five mass extinction events have profoundly changed the history of life on Earth. But a new study led by researchers at the University of Gothenburg shows that plants have been very resilient to those events....
 
 #### Factsheet
 >factsheet unavailable

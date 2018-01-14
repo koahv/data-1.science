@@ -9,8 +9,7 @@ tags: [sci-tech]
 
 
 #### Extract
->
-Just as waves spread out when a boat moves in water or a stone is thrown in a pond, gravitational waves are distortions in the curvature of space-time caused by motions of matter that propagate with ...
+>Just as waves spread out when a boat moves in water or a stone is thrown in a pond, gravitational waves are distortions in the curvature of space-time caused by motions of matter that propagate with ......
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Springer) A team of Chinese physicists has now developed a way to confine light. This is significant because the approach allows quantum memories stored within photons to be retained. These findings stem from a study by Nan Sun from Nanjing University of Posts & Telecommunications, China, and colleagues, which has just been published in EPJ D.
+>(Springer) A team of Chinese physicists has now developed a way to confine light. This is significant because the approach allows quantum memories stored within photons to be retained. These findings stem from a study by Nan Sun from Nanjing University of Posts & Telecommunications, China, and colleagues, which has just been published in EPJ D....
 
 #### Factsheet
 >factsheet unavailable

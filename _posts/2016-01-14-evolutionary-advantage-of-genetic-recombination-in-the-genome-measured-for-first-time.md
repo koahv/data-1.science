@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Universitat Autonoma de Barcelona) Researchers from the Universitat Autònoma de Barcelona, in collaboration with researchers in the universities of Sussex and Edinburgh, have quantified one of the most important and hard-to-measure phenomena in molecular evolution: the effect of genetic recombination on a species' capacity of adaptation.
+>(Universitat Autonoma de Barcelona) Researchers from the Universitat Autònoma de Barcelona, in collaboration with researchers in the universities of Sussex and Edinburgh, have quantified one of the most important and hard-to-measure phenomena in molecular evolution: the effect of genetic recombination on a species' capacity of adaptation....
 
 #### Factsheet
 >factsheet unavailable

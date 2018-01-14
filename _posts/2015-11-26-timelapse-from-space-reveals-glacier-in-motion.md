@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Animations that compress 25 years of satellite images into just one second reveal the complex behaviour and flow of glaciers in the Karakoram mountain range in Asia.
-
-	
+>Animations that compress 25 years of satellite images into just one second reveal the complex behaviour and flow of glaciers in the Karakoram mountain range in Asia....
 
 #### Factsheet
 >factsheet unavailable

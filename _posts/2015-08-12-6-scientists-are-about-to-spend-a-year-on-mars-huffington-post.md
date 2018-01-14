@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Huffington Post6 Scientists Are About To Spend A Year On &#39;Mars&#39;Huffington PostOn Aug. 28, the fourth Hawaii Space Exploration and Analog and Simulation mission will begin, with six scientists spending a full year inside an isolated, solar-powered dome atop the Mauna Loa volcano. Their goal: Prepare humans for life on Mars.and more&nbsp;&raquo;
+>Huffington Post6 Scientists Are About To Spend A Year On &#39;Mars&#39;Huffington PostOn Aug. 28, the fourth Hawaii Space Exploration and Analog and Simulation mission will begin, with six scientists spending a full year inside an isolated, solar-powered dome atop the Mauna Loa volcano. Their goal: Prepare humans for life on Mars.and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

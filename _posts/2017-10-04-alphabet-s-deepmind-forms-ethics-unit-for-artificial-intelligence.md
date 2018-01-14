@@ -9,7 +9,7 @@ tags: [computer sciences]
 
 
 #### Extract
->DeepMind, the Google sibling focusing on artificial intelligence, has announced the launch of an "ethics and society" unit to study the impact of new technologies on society.
+>DeepMind, the Google sibling focusing on artificial intelligence, has announced the launch of an "ethics and society" unit to study the impact of new technologies on society....
 
 #### Factsheet
 >factsheet unavailable

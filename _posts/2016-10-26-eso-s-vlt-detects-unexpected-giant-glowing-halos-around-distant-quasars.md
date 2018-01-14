@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(ESO) An international team of astronomers has discovered glowing gas clouds surrounding distant quasars. This new survey by the MUSE instrument on ESO's Very Large Telescope indicates that halos around quasars are far more common than expected. The properties of the halos in this surprising find are also in striking disagreement with currently accepted theories of galaxy formation in the early universe.
+>(ESO) An international team of astronomers has discovered glowing gas clouds surrounding distant quasars. This new survey by the MUSE instrument on ESO's Very Large Telescope indicates that halos around quasars are far more common than expected. The properties of the halos in this surprising find are also in striking disagreement with currently accepted theories of galaxy formation in the early universe....
 
 #### Factsheet
 >factsheet unavailable

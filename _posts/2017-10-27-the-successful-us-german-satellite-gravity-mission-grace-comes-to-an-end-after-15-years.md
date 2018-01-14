@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(GFZ GeoForschungsZentrum Potsdam, Helmholtz Centre) On March 17, 2002, the twin satellites of the NASA/German Gravity Recovery and Climate Experiment (GRACE) were launched in order to make precise measurements of the Earth´s gravity field. GRACE has lasted three times as long as originally planned for more than 15 years. Now it has ended science operations.
+>(GFZ GeoForschungsZentrum Potsdam, Helmholtz Centre) On March 17, 2002, the twin satellites of the NASA/German Gravity Recovery and Climate Experiment (GRACE) were launched in order to make precise measurements of the Earth´s gravity field. GRACE has lasted three times as long as originally planned for more than 15 years. Now it has ended science operations....
 
 #### Factsheet
 >factsheet unavailable

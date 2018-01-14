@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->Scientists at the High Energy Physics Group (HEP) of the University of the Witwatersrand in Johannesburg predict the existence of a new boson that might aid in the understanding of Dark Matter in the Universe.
+>Scientists at the High Energy Physics Group (HEP) of the University of the Witwatersrand in Johannesburg predict the existence of a new boson that might aid in the understanding of Dark Matter in the Universe....
 
 #### Factsheet
 >factsheet unavailable

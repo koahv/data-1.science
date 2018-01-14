@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->Scientists on the Dark Energy Survey have released the first in a series of dark matter maps of the cosmos. These maps, created with one of the world's most powerful digital cameras, are the largest contiguous maps created at this level of detail and will improve our understanding of dark matter's role in the formation of galaxies. Analysis of the clumpiness of the dark matter in the maps will also allow scientists to probe the nature of the mysterious dark energy, believed to be causing the expansion of the universe to speed up.
+>Scientists on the Dark Energy Survey have released the first in a series of dark matter maps of the cosmos. These maps, created with one of the world's most powerful digital cameras, are the largest contiguous maps created at this level of detail and will improve our understanding of dark matter's role in the formation of galaxies. Analysis of the clumpiness of the dark matter in the maps will also allow scientists to probe the nature of the mysterious dark energy, believed to be causing the expansion of the universe to speed up....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Stanford University) New genetic evidence suggesting that early mammals had good night-time vision adds to fossil and behavioral studies indicating that early mammals were nocturnal.
+>(Stanford University) New genetic evidence suggesting that early mammals had good night-time vision adds to fossil and behavioral studies indicating that early mammals were nocturnal....
 
 #### Factsheet
 >factsheet unavailable

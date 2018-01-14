@@ -9,7 +9,7 @@ tags: [earth]
 
 
 #### Extract
->(Phys.org) —Researchers are struggling to solve the challenge of predicting climate change impacts on marine environments.
+>(Phys.org) —Researchers are struggling to solve the challenge of predicting climate change impacts on marine environments....
 
 #### Factsheet
 >factsheet unavailable

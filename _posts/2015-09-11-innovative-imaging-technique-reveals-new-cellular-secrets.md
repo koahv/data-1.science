@@ -9,7 +9,7 @@ tags: [cell & microbiology]
 
 
 #### Extract
->Cellular mitosis depends in part on small organelles that extend spindles to pull apart chromosome pairs. Before they can perform this and other essential tasks, these tiny cylindrical structures—known as centrioles in animals and spindle pole bodies (SPBs) in yeast—must themselves duplicate.
+>Cellular mitosis depends in part on small organelles that extend spindles to pull apart chromosome pairs. Before they can perform this and other essential tasks, these tiny cylindrical structures—known as centrioles in animals and spindle pole bodies (SPBs) in yeast—must themselves duplicate....
 
 #### Factsheet
 >factsheet unavailable

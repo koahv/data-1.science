@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->For months we have been talking about Intel XenGT as mediated graphics pass-through support so virtual machines can access Intel Haswell HD Graphics GPUs from the host under Linux and the GPU shared directly with the VMs running on the system. This work is finally closer to being realized to end-users with the code working towards being mainlined...
+>For months we have been talking about Intel XenGT as mediated graphics pass-through support so virtual machines can access Intel Haswell HD Graphics GPUs from the host under Linux and the GPU shared directly with the VMs running on the system. This work is finally closer to being realized to end-users with the code working towards being mainlined......
 
 #### Factsheet
 >factsheet unavailable

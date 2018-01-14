@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(DOE/Fermi National Accelerator Laboratory) Two experiments at the Large Hadron Collider at the European Organization for Nuclear Research (CERN) in Geneva, Switzerland, have combined their results and observed a previously unseen subatomic process.
+>(DOE/Fermi National Accelerator Laboratory) Two experiments at the Large Hadron Collider at the European Organization for Nuclear Research (CERN) in Geneva, Switzerland, have combined their results and observed a previously unseen subatomic process....
 
 #### Factsheet
 >factsheet unavailable

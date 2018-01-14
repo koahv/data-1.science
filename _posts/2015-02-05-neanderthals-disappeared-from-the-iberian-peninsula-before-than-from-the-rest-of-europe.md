@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(FECYT - Spanish Foundation for Science and Technology) Until a few months ago different scientific articles, including those published in Nature, dated the disappearance of the Neanderthals (Homo neanderthalensis) from Europe at around 40,000 years ago. However, a new study shows that these hominids could have disappeared before then in the Iberian Peninsula, closer to 45,000 years ago.
+>(FECYT - Spanish Foundation for Science and Technology) Until a few months ago different scientific articles, including those published in Nature, dated the disappearance of the Neanderthals (Homo neanderthalensis) from Europe at around 40,000 years ago. However, a new study shows that these hominids could have disappeared before then in the Iberian Peninsula, closer to 45,000 years ago....
 
 #### Factsheet
 >factsheet unavailable

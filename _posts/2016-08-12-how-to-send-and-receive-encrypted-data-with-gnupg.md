@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;How to Send and Receive Encrypted Data with GnuPG12 AugLearn more
+>Title:&nbsp;How to Send and Receive Encrypted Data with GnuPG12 AugLearn more...
 
 #### Factsheet
 >factsheet unavailable

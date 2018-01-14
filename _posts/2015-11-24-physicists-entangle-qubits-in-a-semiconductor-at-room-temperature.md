@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->In addition to quantum-computing applications, the system could be used as an in vivo biological sensor
+>In addition to quantum-computing applications, the system could be used as an in vivo biological sensor...
 
 #### Factsheet
 >factsheet unavailable

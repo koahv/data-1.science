@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->NASA's Cassini spacecraft will make its final close approach to Saturn's large, irregularly shaped moon Hyperion on Sunday, May 31.
+>NASA's Cassini spacecraft will make its final close approach to Saturn's large, irregularly shaped moon Hyperion on Sunday, May 31....
 
 #### Factsheet
 >factsheet unavailable

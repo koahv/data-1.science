@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Patterns created by the brain's grid cells, which are believed to guide navigation, are modified by the shape of the environment, according to new research. This means grid patterns aren't a universal metric for the brain's GPS system to measure distance, as previously thought.
+>Patterns created by the brain's grid cells, which are believed to guide navigation, are modified by the shape of the environment, according to new research. This means grid patterns aren't a universal metric for the brain's GPS system to measure distance, as previously thought....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [cell & microbiology]
 
 
 #### Extract
->Researchers at the Institute of Molecular Biotechnology in Vienna have unravelled how a tiny microRNA molecule controls growth and differentiation of brain cells.
+>Researchers at the Institute of Molecular Biotechnology in Vienna have unravelled how a tiny microRNA molecule controls growth and differentiation of brain cells....
 
 #### Factsheet
 >factsheet unavailable

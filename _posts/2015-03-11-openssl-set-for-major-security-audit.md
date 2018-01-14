@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Infosecurity Magazine:&nbsp;A team of security consultants is set to undertake a major independent audit of OpenSSL as part of a multi-million dollar initiative by the Linux Foundation to improve the security and stability of core open source projects.
+>Infosecurity Magazine:&nbsp;A team of security consultants is set to undertake a major independent audit of OpenSSL as part of a multi-million dollar initiative by the Linux Foundation to improve the security and stability of core open source projects....
 
 #### Factsheet
 >factsheet unavailable

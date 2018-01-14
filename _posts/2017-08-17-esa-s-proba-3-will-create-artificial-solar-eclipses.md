@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Astrophysicists are joining sightseers in watching Monday’s total solar eclipse across North America but, in the decade to come, they will be viewing eclipses that last for hours instead of a few minutes – thanks to a pioneering ESA space mission.
-
-	
+>Astrophysicists are joining sightseers in watching Monday’s total solar eclipse across North America but, in the decade to come, they will be viewing eclipses that last for hours instead of a few minutes – thanks to a pioneering ESA space mission....
 
 #### Factsheet
 >factsheet unavailable

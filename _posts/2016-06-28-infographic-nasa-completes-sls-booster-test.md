@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsToday, NASA fired the Space Launch System in its last full-scale ground test. The SLS solid rocket booster, designed by Orbital ATK, is intended to launch in 2018 and enable the flight of Orbital ATK’s Orion capsule. Eventually...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace
+>NewsToday, NASA fired the Space Launch System in its last full-scale ground test. The SLS solid rocket booster, designed by Orbital ATK, is intended to launch in 2018 and enable the flight of Orbital ATK’s Orion capsule. Eventually...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

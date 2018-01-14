@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Hummingbirds' ability to detect sweetness evolved from an ancestral savory taste receptor that is mostly tuned to flavors in amino acids. Feasting on nectar and the occasional insect, the tiny birds expanded throughout North and South America, numbering more than 300 species over the 40 to 72 million years since they branched off from their closest relative, the swift.
+>Hummingbirds' ability to detect sweetness evolved from an ancestral savory taste receptor that is mostly tuned to flavors in amino acids. Feasting on nectar and the occasional insect, the tiny birds expanded throughout North and South America, numbering more than 300 species over the 40 to 72 million years since they branched off from their closest relative, the swift....
 
 #### Factsheet
 >factsheet unavailable

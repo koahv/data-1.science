@@ -9,7 +9,7 @@ tags: [technology]
 
 
 #### Extract
->Computers were the size of refrigerators when an engineer named Gordon Moore laid the foundations of Silicon Valley with a vision that became known as "Moore's Law."
+>Computers were the size of refrigerators when an engineer named Gordon Moore laid the foundations of Silicon Valley with a vision that became known as "Moore's Law."...
 
 #### Factsheet
 >factsheet unavailable

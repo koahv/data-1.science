@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientists have created global-scale maps of Mercury's surface chemistry that reveal previously unrecognized geochemical terranes -- large regions that have compositions distinct from their surroundings. The presence of these large terranes has important implications for the history of the planet
+>Scientists have created global-scale maps of Mercury's surface chemistry that reveal previously unrecognized geochemical terranes -- large regions that have compositions distinct from their surroundings. The presence of these large terranes has important implications for the history of the planet...
 
 #### Factsheet
 >factsheet unavailable

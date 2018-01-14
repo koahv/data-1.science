@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->Europe's physics lab CERN said Thursday it had begun tests in preparation for rebooting the world's biggest particle collider and trying to uncover new particles that could alter our understanding of the Universe.
+>Europe's physics lab CERN said Thursday it had begun tests in preparation for rebooting the world's biggest particle collider and trying to uncover new particles that could alter our understanding of the Universe....
 
 #### Factsheet
 >factsheet unavailable

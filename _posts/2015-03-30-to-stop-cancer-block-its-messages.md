@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Weizmann Institute of Science) Weizmann Institute scientists identify a potential drug molecule that stops cancer cells, but not healthy ones, from getting their 'mail.'
+>(Weizmann Institute of Science) Weizmann Institute scientists identify a potential drug molecule that stops cancer cells, but not healthy ones, from getting their 'mail.'...
 
 #### Factsheet
 >factsheet unavailable

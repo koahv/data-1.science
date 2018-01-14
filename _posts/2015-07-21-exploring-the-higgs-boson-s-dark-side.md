@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->In 2012 CERN's Large Hadron Collider (LHC) discovered the Higgs boson, the 'missing piece' in the jigsaw of particles predicted by the Standard Model.
+>In 2012 CERN's Large Hadron Collider (LHC) discovered the Higgs boson, the 'missing piece' in the jigsaw of particles predicted by the Standard Model....
 
 #### Factsheet
 >factsheet unavailable

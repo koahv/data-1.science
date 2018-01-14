@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsEight Cyclone Global Navigation Satellite System (CYGNSS) satellites will undergo vibration testing at the Southwest Research Institute in San Antonio, Texas in the next two weeks. The NASA satellites are anticipated ...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace
+>NewsEight Cyclone Global Navigation Satellite System (CYGNSS) satellites will undergo vibration testing at the Southwest Research Institute in San Antonio, Texas in the next two weeks. The NASA satellites are anticipated ...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

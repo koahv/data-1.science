@@ -9,7 +9,7 @@ tags: [earth sciences]
 
 
 #### Extract
->Somewhere between Earth's creation and where we are today, scientists have demonstrated that some early life forms existed just fine without any oxygen.
+>Somewhere between Earth's creation and where we are today, scientists have demonstrated that some early life forms existed just fine without any oxygen....
 
 #### Factsheet
 >factsheet unavailable

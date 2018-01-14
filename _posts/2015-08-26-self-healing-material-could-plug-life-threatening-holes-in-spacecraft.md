@@ -9,7 +9,7 @@ tags: [materials science]
 
 
 #### Extract
->For astronauts living in space with objects zooming around them at 22,000 miles per hour like rogue super-bullets, it's good to have a backup plan. Although shields and fancy maneuvers could help protect space structures, scientists have to prepare for the possibility that debris could pierce a vessel. In the journal ACS Macro Letters, one team reports on a new material that heals itself within seconds and could prevent structural penetration from being catastrophic.
+>For astronauts living in space with objects zooming around them at 22,000 miles per hour like rogue super-bullets, it's good to have a backup plan. Although shields and fancy maneuvers could help protect space structures, scientists have to prepare for the possibility that debris could pierce a vessel. In the journal ACS Macro Letters, one team reports on a new material that heals itself within seconds and could prevent structural penetration from being catastrophic....
 
 #### Factsheet
 >factsheet unavailable

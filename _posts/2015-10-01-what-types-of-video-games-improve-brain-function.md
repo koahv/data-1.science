@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(SAGE Publications) From 'brain games' designed to enhance mental fitness, to games used to improve real-world problems, to games created purely to entertain, today's video games can have a variety of potential impacts on the brain. A new article argues that it is the specific content, dynamics, and mechanics of individual games that determine their effects on the brain and that action video games might have particularly positive benefits.
+>(SAGE Publications) From 'brain games' designed to enhance mental fitness, to games used to improve real-world problems, to games created purely to entertain, today's video games can have a variety of potential impacts on the brain. A new article argues that it is the specific content, dynamics, and mechanics of individual games that determine their effects on the brain and that action video games might have particularly positive benefits....
 
 #### Factsheet
 >factsheet unavailable

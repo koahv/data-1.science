@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-The international Cassini mission has concluded its remarkable exploration of the Saturnian system in spectacular style, by plunging into the gas planet’s atmosphere.
-
-	
+>The international Cassini mission has concluded its remarkable exploration of the Saturnian system in spectacular style, by plunging into the gas planet’s atmosphere....
 
 #### Factsheet
 >factsheet unavailable

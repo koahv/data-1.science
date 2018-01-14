@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A new breakthrough has been reported in countering the deadly effects of radiation exposure. A single injection of a regenerative peptide was shown to significantly increase survival in mice when given 24 hours after nuclear radiation exposure. 
+>A new breakthrough has been reported in countering the deadly effects of radiation exposure. A single injection of a regenerative peptide was shown to significantly increase survival in mice when given 24 hours after nuclear radiation exposure....
 
 #### Factsheet
 >factsheet unavailable

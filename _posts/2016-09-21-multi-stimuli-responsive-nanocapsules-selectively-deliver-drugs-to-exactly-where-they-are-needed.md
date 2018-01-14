@@ -9,7 +9,7 @@ tags: [bio & medicine]
 
 
 #### Extract
->A nanoparticle-based drug delivery system that can sense and respond to different conditions in the body, as well as to an externally applied magnetic field, could enhance doctors' ability to target drugs to specific sites of disease.
+>A nanoparticle-based drug delivery system that can sense and respond to different conditions in the body, as well as to an externally applied magnetic field, could enhance doctors' ability to target drugs to specific sites of disease....
 
 #### Factsheet
 >factsheet unavailable

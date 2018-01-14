@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Trapped ions model the creation and annihilation of electron&ndash;positron pairs
+>Trapped ions model the creation and annihilation of electron&ndash;positron pairs...
 
 #### Factsheet
 >factsheet unavailable

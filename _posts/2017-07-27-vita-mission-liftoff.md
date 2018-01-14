@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Watch a replay of the Vita mission liftoff on 28 July
-	
+>Watch a replay of the Vita mission liftoff on 28 July...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-This new video from ESA’s Herschel space observatory reveals in stunning detail the intricate pattern of gas, dust and star-forming hubs along the plane of our Galaxy, the Milky Way.
-
-	
+>This new video from ESA’s Herschel space observatory reveals in stunning detail the intricate pattern of gas, dust and star-forming hubs along the plane of our Galaxy, the Milky Way....
 
 #### Factsheet
 >factsheet unavailable

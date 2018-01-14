@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Contracts were signed today to build three pairs of MetOp Second Generation satellites, ensuring the continuity of essential information for global weather forecasting and climate monitoring for decades to come.
-
-	
+>Contracts were signed today to build three pairs of MetOp Second Generation satellites, ensuring the continuity of essential information for global weather forecasting and climate monitoring for decades to come....
 
 #### Factsheet
 >factsheet unavailable

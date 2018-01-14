@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A submarine on Titan, a greenhouse on the Red Planet, and a space cowboy hitching a ride to Pluto on a comet top NASA's wild wish list
+>A submarine on Titan, a greenhouse on the Red Planet, and a space cowboy hitching a ride to Pluto on a comet top NASA's wild wish list...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->The shining face of the Mercury Magnetosphere Orbiter, Japan's contribution to the BepiColombo mission to the Solar System's innermost planet.
+>The shining face of the Mercury Magnetosphere Orbiter, Japan's contribution to the BepiColombo mission to the Solar System's innermost planet....
 
 #### Factsheet
 >factsheet unavailable

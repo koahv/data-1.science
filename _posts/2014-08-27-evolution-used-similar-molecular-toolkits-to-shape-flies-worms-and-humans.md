@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Although separated by hundreds of millions of years of evolution, flies, worms, and humans share ancient patterns of gene expression, according to a massive analysis of genomic data. Two related studies tell a similar story: even though humans, worms, and flies bear little obvious similarity to each other, evolution used remarkably similar molecular toolkits to shape them.
+>Although separated by hundreds of millions of years of evolution, flies, worms, and humans share ancient patterns of gene expression, according to a massive analysis of genomic data. Two related studies tell a similar story: even though humans, worms, and flies bear little obvious similarity to each other, evolution used remarkably similar molecular toolkits to shape them....
 
 #### Factsheet
 >factsheet unavailable

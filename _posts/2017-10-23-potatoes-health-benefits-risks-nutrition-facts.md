@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Potatoes are often thought of as a comfort food — richly mashed or crisply fried — but when prepared the right ways, these vegetables are actually quite nutritious.
+>Potatoes are often thought of as a comfort food — richly mashed or crisply fried — but when prepared the right ways, these vegetables are actually quite nutritious....
 
 #### Factsheet
 >factsheet unavailable

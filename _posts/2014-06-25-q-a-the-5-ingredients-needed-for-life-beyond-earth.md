@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Liquid water and an energy source top list for what's needed for life to exist on other planets.
+>Liquid water and an energy source top list for what's needed for life to exist on other planets....
 
 #### Factsheet
 >factsheet unavailable

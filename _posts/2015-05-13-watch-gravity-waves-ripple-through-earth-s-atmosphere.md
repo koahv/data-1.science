@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->You might think of gravity as an invisible force here on Earth, but that's not entirely true... if you have the right computer simulation, that is. Researchers at the National Center for Atmospheric Research have developed a climate model that shows ...
+>You might think of gravity as an invisible force here on Earth, but that's not entirely true... if you have the right computer simulation, that is. Researchers at the National Center for Atmospheric Research have developed a climate model that shows ......
 
 #### Factsheet
 >factsheet unavailable

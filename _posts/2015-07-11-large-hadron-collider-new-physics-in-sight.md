@@ -9,8 +9,7 @@ tags: [science]
 
 
 #### Extract
->
-The LHC is looking for signs of physics beyond the standard model, such as supersymmetry, dark matter and new particles. And the pointers are that it is on the right track.
+>The LHC is looking for signs of physics beyond the standard model, such as supersymmetry, dark matter and new particles. And the pointers are that it is on the right track....
 
 #### Factsheet
 >factsheet unavailable

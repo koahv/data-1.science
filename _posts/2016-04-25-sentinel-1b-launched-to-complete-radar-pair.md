@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-The second Sentinel-1 satellite – Sentinel-1B – was launched today to provide more ‘radar vision’ for Europe’s environmental Copernicus programme.
-
-	
+>The second Sentinel-1 satellite – Sentinel-1B – was launched today to provide more ‘radar vision’ for Europe’s environmental Copernicus programme....
 
 #### Factsheet
 >factsheet unavailable

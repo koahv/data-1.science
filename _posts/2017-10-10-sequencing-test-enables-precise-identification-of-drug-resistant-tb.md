@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Two studies document how a new advanced genetic sequencing approach can help thwart the growing worldwide threat posed by drug-resistant mutations of tuberculosis (TB). The threat of TB is increasing in some places as mutant versions of the disease become more and more resistant to current drug treatments. 
+>Two studies document how a new advanced genetic sequencing approach can help thwart the growing worldwide threat posed by drug-resistant mutations of tuberculosis (TB). The threat of TB is increasing in some places as mutant versions of the disease become more and more resistant to current drug treatments....
 
 #### Factsheet
 >factsheet unavailable

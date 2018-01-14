@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->Researchers from The University of Western Australia and Humboldt University of Berlin have completed testing that has effectively measured the spatial consistency of the speed of light with a precision ten times greater than ever before.
+>Researchers from The University of Western Australia and Humboldt University of Berlin have completed testing that has effectively measured the spatial consistency of the speed of light with a precision ten times greater than ever before....
 
 #### Factsheet
 >factsheet unavailable

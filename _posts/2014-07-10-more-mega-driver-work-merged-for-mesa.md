@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->More code by Emil Velikov was merged yesterday to push along the Gallium3D Mega Drivers model...
+>More code by Emil Velikov was merged yesterday to push along the Gallium3D Mega Drivers model......
 
 #### Factsheet
 >factsheet unavailable

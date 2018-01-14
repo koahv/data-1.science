@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Copenhagen - Niels Bohr Institute) We humans are affecting nature to a greater and greater degree and this is contributing to the reduction of biodiversity globally. To better assess the consequences requires a better understanding of the environmental conditions that the species in an ecosystem live under. Biophysicists from the Niels Bohr Institute have therefore analysed data and calculated how the species in an area affect each other and how an ecosystem can be in balance or out of balance.
+>(University of Copenhagen - Niels Bohr Institute) We humans are affecting nature to a greater and greater degree and this is contributing to the reduction of biodiversity globally. To better assess the consequences requires a better understanding of the environmental conditions that the species in an ecosystem live under. Biophysicists from the Niels Bohr Institute have therefore analysed data and calculated how the species in an area affect each other and how an ecosystem can be in balance or out of balance....
 
 #### Factsheet
 >factsheet unavailable

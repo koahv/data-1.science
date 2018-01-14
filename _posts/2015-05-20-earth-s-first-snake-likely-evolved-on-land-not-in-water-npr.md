@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Yibada (English Edition)Earth&#39;s First Snake Likely Evolved On Land, Not In WaterNPRSome scientists have speculated that snakes first evolved in water and that their long, slithery bodies were streamlined for swimming. But a new analysis suggests that the most recent common ancestor of all snakes actually lived on land. Next time you ...The Earth&#39;s First Snakes had Small Hind Legs; Didn&#39;t Crush Prey to DeathYibada (English Edition)Dinosaur Snakes With Feet Once Roamed The EarthCapital Wired128 million years ago Snakes evolved on earth not in sea: StudyDaily Pakistanall 110 news articles&nbsp;&raquo;
+>Yibada (English Edition)Earth&#39;s First Snake Likely Evolved On Land, Not In WaterNPRSome scientists have speculated that snakes first evolved in water and that their long, slithery bodies were streamlined for swimming. But a new analysis suggests that the most recent common ancestor of all snakes actually lived on land. Next time you ...The Earth&#39;s First Snakes had Small Hind Legs; Didn&#39;t Crush Prey to DeathYibada (English Edition)Dinosaur Snakes With Feet Once Roamed The EarthCapital Wired128 million years ago Snakes evolved on earth not in sea: StudyDaily Pakistanall 110 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

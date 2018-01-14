@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(ICFO-The Institute of Photonic Sciences) Science News reports on detection of particle entanglement in a beam of squeezed light. ICFO researchers were able to observe effects of entanglement monogamy, where particles can be strongly entangled only if they have few entanglement partners.
+>(ICFO-The Institute of Photonic Sciences) Science News reports on detection of particle entanglement in a beam of squeezed light. ICFO researchers were able to observe effects of entanglement monogamy, where particles can be strongly entangled only if they have few entanglement partners....
 
 #### Factsheet
 >factsheet unavailable

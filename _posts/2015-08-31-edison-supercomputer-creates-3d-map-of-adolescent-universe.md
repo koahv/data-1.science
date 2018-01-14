@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientists from the NERSC and Berkeley National Laboratory are using a supercomputer to create one of the most complete, three-dimensional maps of the adolescent universe — using extremely faint light from galaxies 10.8 billion light years away.&nbsp;
+>Scientists from the NERSC and Berkeley National Laboratory are using a supercomputer to create one of the most complete, three-dimensional maps of the adolescent universe — using extremely faint light from galaxies 10.8 billion light years away.&nbsp;...
 
 #### Factsheet
 >factsheet unavailable

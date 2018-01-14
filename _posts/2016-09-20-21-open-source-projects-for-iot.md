@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Internet of Things market is fragmented, amorphous, and continually changing, and its very nature requires more than the usual attention to interoperability. It’s not surprising then, that open source has done quite well here -- customers are hesitant to bet their IoT future on a proprietary platform that may fade or become difficult to customize and interconnect. 
+>The Internet of Things market is fragmented, amorphous, and continually changing, and its very nature requires more than the usual attention to interoperability. It’s not surprising then, that open source has done quite well here -- customers are hesitant to bet their IoT future on a proprietary platform that may fade or become difficult to customize and interconnect....
 
 #### Factsheet
 >factsheet unavailable

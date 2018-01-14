@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Watch the replay of the Sentinel-3A launch on a Rockot from the Plesetsk Cosmodrome in Russia
-	
+>Watch the replay of the Sentinel-3A launch on a Rockot from the Plesetsk Cosmodrome in Russia...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Massachusetts Institute of Technology) New language lets MIT researchers design novel biological circuits.
+>(Massachusetts Institute of Technology) New language lets MIT researchers design novel biological circuits....
 
 #### Factsheet
 >factsheet unavailable

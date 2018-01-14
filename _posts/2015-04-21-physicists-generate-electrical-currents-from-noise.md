@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Quantum dots put voltage fluctuations to work
+>Quantum dots put voltage fluctuations to work...
 
 #### Factsheet
 >factsheet unavailable

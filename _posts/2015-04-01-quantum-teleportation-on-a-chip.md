@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Bristol) The core circuits of quantum teleportation, which generate and detect quantum entanglement, have been successfully integrated into a photonic chip by an international team of scientists from the universities of Bristol, Tokyo, Southampton and NTT Device Technology Laboratories. These results pave the way to developing ultra-high-speed quantum computers and strengthening the security of communication.
+>(University of Bristol) The core circuits of quantum teleportation, which generate and detect quantum entanglement, have been successfully integrated into a photonic chip by an international team of scientists from the universities of Bristol, Tokyo, Southampton and NTT Device Technology Laboratories. These results pave the way to developing ultra-high-speed quantum computers and strengthening the security of communication....
 
 #### Factsheet
 >factsheet unavailable

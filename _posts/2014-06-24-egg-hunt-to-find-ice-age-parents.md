@@ -9,7 +9,7 @@ tags: [other sciences]
 
 
 #### Extract
->(Phys.org) —The hunt is on to find the rightful parents of a fossil egg that reputedly belongs to an extinct ancient bird from the Australian Ice Age.
+>(Phys.org) —The hunt is on to find the rightful parents of a fossil egg that reputedly belongs to an extinct ancient bird from the Australian Ice Age....
 
 #### Factsheet
 >factsheet unavailable

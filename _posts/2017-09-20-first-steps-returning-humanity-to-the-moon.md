@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-In the first act of lunar exploration, Neil Armstrong and Buzz Aldrin were major characters. In setting its sights on the Moon, ESA hopes to bring many more actors to this off-world stage.&nbsp;&nbsp;
-
-	
+>In the first act of lunar exploration, Neil Armstrong and Buzz Aldrin were major characters. In setting its sights on the Moon, ESA hopes to bring many more actors to this off-world stage.&nbsp;&nbsp;...
 
 #### Factsheet
 >factsheet unavailable

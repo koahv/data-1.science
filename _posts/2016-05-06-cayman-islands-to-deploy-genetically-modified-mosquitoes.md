@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->British biotech company Oxitec and the Cayman Islands government announced plans Thursday to release millions of genetically modified mosquitoes in the fight against a species that spreads Zika and other diseases.
+>British biotech company Oxitec and the Cayman Islands government announced plans Thursday to release millions of genetically modified mosquitoes in the fight against a species that spreads Zika and other diseases....
 
 #### Factsheet
 >factsheet unavailable

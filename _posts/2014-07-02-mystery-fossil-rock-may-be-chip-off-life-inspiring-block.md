@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The strange space rock is unlike anything seen before and seems to be the first known piece of the "bullet" that sparked an explosion of life on early Earth
+>The strange space rock is unlike anything seen before and seems to be the first known piece of the "bullet" that sparked an explosion of life on early Earth...
 
 #### Factsheet
 >factsheet unavailable

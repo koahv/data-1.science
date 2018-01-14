@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Government pledges &#36;236m towards underground lab
+>Government pledges &#36;236m towards underground lab...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(RIKEN) Using reprogrammed iPS cells, scientists from the RIKEN Center for Developmental Biology in Japan have, along with collaborators from Tokyo University of Science and other Japanese institutions, successfully grown complex skin tissue -- complete with hair follicles and sebaceous glands -- in the laboratory.
+>(RIKEN) Using reprogrammed iPS cells, scientists from the RIKEN Center for Developmental Biology in Japan have, along with collaborators from Tokyo University of Science and other Japanese institutions, successfully grown complex skin tissue -- complete with hair follicles and sebaceous glands -- in the laboratory....
 
 #### Factsheet
 >factsheet unavailable

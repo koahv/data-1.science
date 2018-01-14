@@ -9,7 +9,7 @@ tags: [computer sciences]
 
 
 #### Extract
->"Siri, will it rain today?", "Facebook, tag my friend in this photo." These are just two examples of the incredible things that we ask computers to do for us. But, have you ever asked yourself how computers know how to do these things?
+>"Siri, will it rain today?", "Facebook, tag my friend in this photo." These are just two examples of the incredible things that we ask computers to do for us. But, have you ever asked yourself how computers know how to do these things?...
 
 #### Factsheet
 >factsheet unavailable

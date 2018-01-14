@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Worms Clan Wars a reasonably high rated Worms game looks like it will come to Linux thanks to info taken from the excellent SteamDB.
+>Worms Clan Wars a reasonably high rated Worms game looks like it will come to Linux thanks to info taken from the excellent SteamDB....
 
 #### Factsheet
 >factsheet unavailable

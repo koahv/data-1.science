@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Pelagornis sandersi was twice the width of a wandering albatross &ndash; the largest living bird &ndash; but was nevertheless dwarfed by the biggest pterosaurs
+>Pelagornis sandersi was twice the width of a wandering albatross &ndash; the largest living bird &ndash; but was nevertheless dwarfed by the biggest pterosaurs...
 
 #### Factsheet
 >factsheet unavailable

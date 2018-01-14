@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->IBM unveiled today an experimental platform that allows developers to embed Watson functions and cognitive technology into various devices. The platform, dubbed Project Intu, can be accessed through the Watson Developer Cloud, Intu Gateway, and GitHub.
+>IBM unveiled today an experimental platform that allows developers to embed Watson functions and cognitive technology into various devices. The platform, dubbed Project Intu, can be accessed through the Watson Developer Cloud, Intu Gateway, and GitHub....
 
 #### Factsheet
 >factsheet unavailable

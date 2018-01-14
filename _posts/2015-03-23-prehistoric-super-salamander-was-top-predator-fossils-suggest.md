@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Edinburgh) A previously undiscovered species of crocodile-like amphibian that lived during the rise of dinosaurs was among Earth's top predators more than 200 million years ago, a study shows.
+>(University of Edinburgh) A previously undiscovered species of crocodile-like amphibian that lived during the rise of dinosaurs was among Earth's top predators more than 200 million years ago, a study shows....
 
 #### Factsheet
 >factsheet unavailable

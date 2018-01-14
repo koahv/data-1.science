@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->(Phys.org) —Just over a month after launch, the Orbiting Carbon Observatory-2 (OCO-2)—NASA's first spacecraft dedicated to studying atmospheric carbon dioxide—has maneuvered into its final operating orbit and produced its first science data, confirming the health of its science instrument.
+>(Phys.org) —Just over a month after launch, the Orbiting Carbon Observatory-2 (OCO-2)—NASA's first spacecraft dedicated to studying atmospheric carbon dioxide—has maneuvered into its final operating orbit and produced its first science data, confirming the health of its science instrument....
 
 #### Factsheet
 >factsheet unavailable

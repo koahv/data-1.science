@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Why does an orange smell like an orange? The answer may have a quantum connection
+>Why does an orange smell like an orange? The answer may have a quantum connection...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A few days ago Amazon revealed a project that they had been working on over the last few months: s2n. s2n is a new, open source, implementation of the TLS protocol...
+>A few days ago Amazon revealed a project that they had been working on over the last few months: s2n. s2n is a new, open source, implementation of the TLS protocol......
 
 #### Factsheet
 >factsheet unavailable

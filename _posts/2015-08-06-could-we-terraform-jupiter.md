@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->So just what would it take to terraform Jupiter, the largest planet in our solar system?
+>So just what would it take to terraform Jupiter, the largest planet in our solar system?...
 
 #### Factsheet
 >factsheet unavailable

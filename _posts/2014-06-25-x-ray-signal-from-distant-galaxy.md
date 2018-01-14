@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->An X-ray signal has been discovered in a giant collection of galaxies 250 million light years from Earth.
+>An X-ray signal has been discovered in a giant collection of galaxies 250 million light years from Earth....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;Basic Rules to Streamline Open Source Compliance For Software Development22 FebLearn more
+>Title:&nbsp;Basic Rules to Streamline Open Source Compliance For Software Development22 FebLearn more...
 
 #### Factsheet
 >factsheet unavailable

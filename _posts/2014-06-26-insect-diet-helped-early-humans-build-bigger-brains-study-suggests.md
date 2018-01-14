@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->(Phys.org) —Figuring out how to survive on a lean-season diet of hard-to-reach ants, slugs and other bugs may have spurred the development of bigger brains and higher-level cognitive functions in the ancestors of humans and other primates, suggests research from Washington University in St. Louis.
+>(Phys.org) —Figuring out how to survive on a lean-season diet of hard-to-reach ants, slugs and other bugs may have spurred the development of bigger brains and higher-level cognitive functions in the ancestors of humans and other primates, suggests research from Washington University in St. Louis....
 
 #### Factsheet
 >factsheet unavailable

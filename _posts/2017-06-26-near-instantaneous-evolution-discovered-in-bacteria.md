@@ -9,7 +9,7 @@ tags: [evolution]
 
 
 #### Extract
->How fast does evolution occur? In certain bacteria, it can occur almost instantaneously, a University at Buffalo molecular biologist has discovered.
+>How fast does evolution occur? In certain bacteria, it can occur almost instantaneously, a University at Buffalo molecular biologist has discovered....
 
 #### Factsheet
 >factsheet unavailable

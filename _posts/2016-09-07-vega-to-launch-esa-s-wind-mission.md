@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Today, ESA and Arianespace signed a contract to secure the launch of the Aeolus satellite. With this milestone, a better understanding of Earth’s winds is another step closer.
-
-	
+>Today, ESA and Arianespace signed a contract to secure the launch of the Aeolus satellite. With this milestone, a better understanding of Earth’s winds is another step closer....
 
 #### Factsheet
 >factsheet unavailable

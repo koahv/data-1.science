@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Ocean&#39;s Beautiful Hidden Monsters (PHOTOS) | The Weather ChannelThe Weather ChannelWhy are so many deep sea animals vibrant and colorful? According to the National Oceanic and Atmospheric Administration (NOAA), it has to do with the water&#39;s penetration by light&#39;s wavelengths. Many sea creatures that look red to us are actually ...
+>The Ocean&#39;s Beautiful Hidden Monsters (PHOTOS) | The Weather ChannelThe Weather ChannelWhy are so many deep sea animals vibrant and colorful? According to the National Oceanic and Atmospheric Administration (NOAA), it has to do with the water&#39;s penetration by light&#39;s wavelengths. Many sea creatures that look red to us are actually ......
 
 #### Factsheet
 >factsheet unavailable

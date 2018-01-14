@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(DOE/Lawrence Livermore National Laboratory) The Defense Advanced Research Projects Agency recently selected Lawrence Livermore National Laboratory to join a collaborative research team that intends to build the world's first neural system to enable naturalistic feeling and movements in prosthetic hands.
+>(DOE/Lawrence Livermore National Laboratory) The Defense Advanced Research Projects Agency recently selected Lawrence Livermore National Laboratory to join a collaborative research team that intends to build the world's first neural system to enable naturalistic feeling and movements in prosthetic hands....
 
 #### Factsheet
 >factsheet unavailable

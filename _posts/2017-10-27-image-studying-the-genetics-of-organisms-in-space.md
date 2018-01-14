@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->At NASA's Kennedy Space Center, organisms in a Petri plate are exposed to blue excitation lighting in a Spectrum prototype unit. Scientists and engineers working on the Spectrum project are developing new hardware for the International Space Station, to support experiments demonstrating how different organisms, such as plants, microbes or worms, develop under conditions of microgravity.
+>At NASA's Kennedy Space Center, organisms in a Petri plate are exposed to blue excitation lighting in a Spectrum prototype unit. Scientists and engineers working on the Spectrum project are developing new hardware for the International Space Station, to support experiments demonstrating how different organisms, such as plants, microbes or worms, develop under conditions of microgravity....
 
 #### Factsheet
 >factsheet unavailable

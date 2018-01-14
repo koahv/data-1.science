@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Many Linux gamers have written in today with excitement that XCOM: Enemy Unknown is now available via Steam on Linux...
+>Many Linux gamers have written in today with excitement that XCOM: Enemy Unknown is now available via Steam on Linux......
 
 #### Factsheet
 >factsheet unavailable

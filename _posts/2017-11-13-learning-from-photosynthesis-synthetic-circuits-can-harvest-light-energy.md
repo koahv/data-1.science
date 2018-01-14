@@ -9,7 +9,7 @@ tags: [dna, materials science, nanotechnology, photosynthesis, plant sciences, q
 
 
 #### Extract
->The green sulfur bacterium makes its home in the chilly waters of the Black Sea. To eke out its lonely existence, this life form scavenges energy from the feeble sunlight available to it at a depth of over 250 feet.
+>The green sulfur bacterium makes its home in the chilly waters of the Black Sea. To eke out its lonely existence, this life form scavenges energy from the feeble sunlight available to it at a depth of over 250 feet....
 
 #### Factsheet
 >Plants carry out photosynthesis by converting photons of light striking their chromophores into another form of energy known as an exciton. An exciton is an energetic state of a molecule, or closely coupled group of molecules after they are excited by light absorption. Quantum coherence is light excitation that can be shared between molecules which can enhance energy transfer efficiency.

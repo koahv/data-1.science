@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-												
-				
-		
-		Celebrating the 10th anniversary of the pioneering Huygens mission to Saturn's moon Titan, the first successful landing on an outer Solar System world
-	
+>Celebrating the 10th anniversary of the pioneering Huygens mission to Saturn's moon Titan, the first successful landing on an outer Solar System world...
 
 #### Factsheet
 >factsheet unavailable

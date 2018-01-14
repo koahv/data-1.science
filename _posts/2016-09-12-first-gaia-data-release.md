@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Gaia’s first star catalogue was unveiled on Wednesday, 14 September. Watch the replay of the press conference
-	
+>Gaia’s first star catalogue was unveiled on Wednesday, 14 September. Watch the replay of the press conference...
 
 #### Factsheet
 >factsheet unavailable

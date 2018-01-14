@@ -9,7 +9,7 @@ tags: [human]
 
 
 #### Extract
->Are you left-handed or right-handed? Whether or not you favor one hand or the other may just depend on when you were born.
+>Are you left-handed or right-handed? Whether or not you favor one hand or the other may just depend on when you were born....
 
 #### Factsheet
 >factsheet unavailable

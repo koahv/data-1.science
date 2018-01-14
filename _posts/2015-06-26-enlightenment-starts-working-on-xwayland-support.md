@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->For those closely following the work on Enlightenment, there's now work finally materializing in supporting XWayland...
+>For those closely following the work on Enlightenment, there's now work finally materializing in supporting XWayland......
 
 #### Factsheet
 >factsheet unavailable

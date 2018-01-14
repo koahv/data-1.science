@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) NASA's Van Allen Probes revealed that the shape of the radiation belts is actually quite different depending on what type of electron you're looking at,
+>(NASA/Goddard Space Flight Center) NASA's Van Allen Probes revealed that the shape of the radiation belts is actually quite different depending on what type of electron you're looking at,...
 
 #### Factsheet
 >factsheet unavailable

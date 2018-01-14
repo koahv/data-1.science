@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Aerojet Rocketdyne, a GenCorp (NYSE:GY) company, recently completed its final J-2X test series at NASA's StenniRead more about Aerojet Rocketdyne Completes J-2X TestingComments
+>Aerojet Rocketdyne, a GenCorp (NYSE:GY) company, recently completed its final J-2X test series at NASA's StenniRead more about Aerojet Rocketdyne Completes J-2X TestingComments...
 
 #### Factsheet
 >factsheet unavailable

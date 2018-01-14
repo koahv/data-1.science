@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Protocol could break quantum-encryption systems
+>Protocol could break quantum-encryption systems...
 
 #### Factsheet
 >factsheet unavailable

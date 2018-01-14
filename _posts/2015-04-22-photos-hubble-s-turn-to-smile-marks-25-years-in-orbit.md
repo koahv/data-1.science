@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->Hubble, it's your turn to smile for the cameras!
+>Hubble, it's your turn to smile for the cameras!...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Life on Earth is impossible without photosynthesis. It provides food and oxygen to all higher life forms and plays an important role in the climate system, since this process regulates the uptake of carbon dioxide from the Earth's atmosphere and its fixation in biomass. However, quantification of photosynthesis at the ecosystem-to-global scale remains uncertain. Now an international team of scientists have made a major step forward. 
+>Life on Earth is impossible without photosynthesis. It provides food and oxygen to all higher life forms and plays an important role in the climate system, since this process regulates the uptake of carbon dioxide from the Earth's atmosphere and its fixation in biomass. However, quantification of photosynthesis at the ecosystem-to-global scale remains uncertain. Now an international team of scientists have made a major step forward....
 
 #### Factsheet
 >factsheet unavailable

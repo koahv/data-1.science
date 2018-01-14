@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Epigenetic changes are implicated in a host of neural conditions, from Alzheimer's-related memory loss to depression. Now, a revolutionary set of molecular editing tools is allowing scientists to alter the epigenome like never before.
+>Epigenetic changes are implicated in a host of neural conditions, from Alzheimer's-related memory loss to depression. Now, a revolutionary set of molecular editing tools is allowing scientists to alter the epigenome like never before....
 
 #### Factsheet
 >factsheet unavailable

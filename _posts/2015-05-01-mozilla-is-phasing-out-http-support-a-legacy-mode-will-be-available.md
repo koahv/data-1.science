@@ -9,11 +9,7 @@ tags: [linux]
 
 
 #### Extract
->Mozilla has announced that it will finally deprecate the support for non-secure HTTP, and they are currently putting a plan in motion. Unfortunately, there is no timetable for this action, but it's likely that will take a long time.
-
-
-
-Mozilla can't just stop providing support for HTTP links all of a sudden, and it needs the help of the developers and the community to do so. This is more of an awareness effort to ensure that the developers make this move on their own in due ti... (read more)
+>Mozilla has announced that it will finally deprecate the support for non-secure HTTP, and they are currently putting a plan in motion. Unfortunately, there is no timetable for this action, but it's likely that will take a long time. Mozilla can't just stop providing support for HTTP links all of a sudden, and it needs the help of the developers and the community to do so. This is more of an awareness effort to ensure that the developers make this move on their own in due ti... (read more)...
 
 #### Factsheet
 >factsheet unavailable

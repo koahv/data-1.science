@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New framework analyses the importance of quantum coherence in biological processes
+>New framework analyses the importance of quantum coherence in biological processes...
 
 #### Factsheet
 >factsheet unavailable

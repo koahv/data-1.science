@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Georgia) Researchers at the University of Georgia and at Ben-Gurion University in Israel have demonstrated for the first time that nanoscale electronic components can be made from single DNA molecules. Their study, published in the journal Nature Chemistry, represents a promising advance in the search for a replacement for the silicon chip.The finding may eventually lead to smaller, more powerful and more advanced electronic devices, according to the study's lead author, Bingqian Xu.
+>(University of Georgia) Researchers at the University of Georgia and at Ben-Gurion University in Israel have demonstrated for the first time that nanoscale electronic components can be made from single DNA molecules. Their study, published in the journal Nature Chemistry, represents a promising advance in the search for a replacement for the silicon chip.The finding may eventually lead to smaller, more powerful and more advanced electronic devices, according to the study's lead author, Bingqian Xu....
 
 #### Factsheet
 >factsheet unavailable

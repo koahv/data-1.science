@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->An unusual observation by Mars Express shows a sweeping view over the planet's south polar ice cap and across its ancient, cratered highlands.
+>An unusual observation by Mars Express shows a sweeping view over the planet's south polar ice cap and across its ancient, cratered highlands....
 
 #### Factsheet
 >factsheet unavailable

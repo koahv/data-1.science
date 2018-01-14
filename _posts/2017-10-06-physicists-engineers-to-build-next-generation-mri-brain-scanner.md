@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->Functional magnetic resonance imaging, or fMRI, has transformed our view of the brain, allowing researchers to pinpoint areas associated with everything from depression and dementia to playing chess and engaging in sex.
+>Functional magnetic resonance imaging, or fMRI, has transformed our view of the brain, allowing researchers to pinpoint areas associated with everything from depression and dementia to playing chess and engaging in sex....
 
 #### Factsheet
 >factsheet unavailable

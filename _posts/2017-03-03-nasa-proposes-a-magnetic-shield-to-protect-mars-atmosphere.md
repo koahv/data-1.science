@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->NASA proposes a magnetic shield to protect Mars' atmosphere
+>NASA proposes a magnetic shield to protect Mars' atmosphere...
 
 #### Factsheet
 >factsheet unavailable

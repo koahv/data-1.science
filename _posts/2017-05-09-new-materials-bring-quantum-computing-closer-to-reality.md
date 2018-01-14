@@ -9,7 +9,7 @@ tags: [nanophysics]
 
 
 #### Extract
->For 60 years computers have become smaller, faster and cheaper. But engineers are approaching the limits of how small they can make silicon transistors and how quickly they can push electricity through devices to create digital ones and zeros.
+>For 60 years computers have become smaller, faster and cheaper. But engineers are approaching the limits of how small they can make silicon transistors and how quickly they can push electricity through devices to create digital ones and zeros....
 
 #### Factsheet
 >factsheet unavailable

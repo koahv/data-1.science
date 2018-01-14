@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Science 2.0Rydberg Atoms, Qubits And Magic Wavelengths In Quantum ComputingScience 2.0Rydberg atoms, atoms whose outermost electrons are highly excited but not ionized, might be just the thing for processing quantum information. These outsized atoms can be sustained for a long time in a quantum superposition condition (a good thing for&nbsp;...and more&nbsp;&raquo;
+>Science 2.0Rydberg Atoms, Qubits And Magic Wavelengths In Quantum ComputingScience 2.0Rydberg atoms, atoms whose outermost electrons are highly excited but not ionized, might be just the thing for processing quantum information. These outsized atoms can be sustained for a long time in a quantum superposition condition (a good thing for&nbsp;...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

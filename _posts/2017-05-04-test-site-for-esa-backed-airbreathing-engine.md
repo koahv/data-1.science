@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Work began today on building the UK’s latest rocket engine test facility, designed for firing the engine core of the ESA-backed SABRE propulsion system within three years.
-
-	
+>Work began today on building the UK’s latest rocket engine test facility, designed for firing the engine core of the ESA-backed SABRE propulsion system within three years....
 
 #### Factsheet
 >factsheet unavailable

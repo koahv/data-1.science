@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsLike sending sensors up into a hurricane, NASA has flown four spacecraft through an invisible maelstrom in space, called magnetic reconnection. Magnetic reconnection is one of the...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace
+>NewsLike sending sensors up into a hurricane, NASA has flown four spacecraft through an invisible maelstrom in space, called magnetic reconnection. Magnetic reconnection is one of the...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

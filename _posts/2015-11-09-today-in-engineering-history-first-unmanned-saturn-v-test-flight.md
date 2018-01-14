@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->BlogOn this day in history, November 9, 1967, the first unmanned test flight of the Saturn V launch vehicle took place during the Apollo 4 mission. The mission (AS-501) was designed to test all aspects of... Staff Author:&nbsp;Kaylie DuffyTopics:&nbsp;Aerospace
+>BlogOn this day in history, November 9, 1967, the first unmanned test flight of the Saturn V launch vehicle took place during the Apollo 4 mission. The mission (AS-501) was designed to test all aspects of... Staff Author:&nbsp;Kaylie DuffyTopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

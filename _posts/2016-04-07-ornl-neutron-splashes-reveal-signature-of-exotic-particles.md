@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(DOE/Oak Ridge National Laboratory) Researchers used neutrons to uncover novel behavior in materials that holds promise for quantum computing. The findings provide evidence for long-sought phenomena in a two-dimensional magnet.
+>(DOE/Oak Ridge National Laboratory) Researchers used neutrons to uncover novel behavior in materials that holds promise for quantum computing. The findings provide evidence for long-sought phenomena in a two-dimensional magnet....
 
 #### Factsheet
 >factsheet unavailable

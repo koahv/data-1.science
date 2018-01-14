@@ -9,10 +9,7 @@ tags: []
 
 
 #### Extract
->Data visualization is the mechanism of taking tabular or spatial data and conveying it in a human-friendly and visual way. There are several open source tools that can help you create useful, informative graphs. In this post we will take a look at eight open source, data visualization tools.
-
-
-read more
+>Data visualization is the mechanism of taking tabular or spatial data and conveying it in a human-friendly and visual way. There are several open source tools that can help you create useful, informative graphs. In this post we will take a look at eight open source, data visualization tools. read more...
 
 #### Factsheet
 >factsheet unavailable

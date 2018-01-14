@@ -9,7 +9,7 @@ tags: [plants & animals]
 
 
 #### Extract
->The magnetic compass that birds use for orientation is affected by polarised light. This previously unknown phenomenon was discovered by researchers at Lund University in Sweden.
+>The magnetic compass that birds use for orientation is affected by polarised light. This previously unknown phenomenon was discovered by researchers at Lund University in Sweden....
 
 #### Factsheet
 >factsheet unavailable

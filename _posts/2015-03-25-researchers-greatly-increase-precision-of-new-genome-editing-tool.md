@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->CRISPR-Cas9 is a powerful new tool for editing the genome. For researchers around the world, the CRISPR-Cas9 technique is an exciting innovation because it is faster and cheaper than previous methods. Now, using a molecular trick, Dr. Van Trung Chu and Professor Klaus Rajewsky of the Max Delbrück Center for Molecular Medicine (MDC) Berlin-Buch and Dr. Ralf Kühn, MDC and Berlin Institute of Health (BIH), have found a solution to considerably increase the efficiency of precise genetic modifications by up to eightfold.
+>CRISPR-Cas9 is a powerful new tool for editing the genome. For researchers around the world, the CRISPR-Cas9 technique is an exciting innovation because it is faster and cheaper than previous methods. Now, using a molecular trick, Dr. Van Trung Chu and Professor Klaus Rajewsky of the Max Delbrück Center for Molecular Medicine (MDC) Berlin-Buch and Dr. Ralf Kühn, MDC and Berlin Institute of Health (BIH), have found a solution to considerably increase the efficiency of precise genetic modifications by up to eightfold....
 
 #### Factsheet
 >factsheet unavailable

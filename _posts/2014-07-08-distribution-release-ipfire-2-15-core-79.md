@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Michael Tremer has announced the release of IPFire 2.15 Core 79, the latest stable release of the project's specialist Linux distribution for firewalls.
+>Michael Tremer has announced the release of IPFire 2.15 Core 79, the latest stable release of the project's specialist Linux distribution for firewalls....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->To make the most of today's containers, servers, virtual machines, and clouds, you need to deploy DevOps in your enterprise. Or, you can let your rivals put you out of business. It's your choice.
+>To make the most of today's containers, servers, virtual machines, and clouds, you need to deploy DevOps in your enterprise. Or, you can let your rivals put you out of business. It's your choice....
 
 #### Factsheet
 >factsheet unavailable

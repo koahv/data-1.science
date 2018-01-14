@@ -9,10 +9,7 @@ tags: []
 
 
 #### Extract
->Last July, after a full week at OKFestival, I managed to find enough energy to attend the Write the Docs EU Berlin Unconference. I only managed to attend one day of the event, but it was worth it because Paul Adams, a free software advocate and Director of Engineering at KDAB, led a discussion in which we came up with rules for helping documentation teams be more productive:
-
-
-read more
+>Last July, after a full week at OKFestival, I managed to find enough energy to attend the Write the Docs EU Berlin Unconference. I only managed to attend one day of the event, but it was worth it because Paul Adams, a free software advocate and Director of Engineering at KDAB, led a discussion in which we came up with rules for helping documentation teams be more productive: read more...
 
 #### Factsheet
 >factsheet unavailable

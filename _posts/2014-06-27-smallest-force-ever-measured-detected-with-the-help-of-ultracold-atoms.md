@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->Scientists have managed to detect the smallest force ever to be measured with a groundbreaking technique.
+>Scientists have managed to detect the smallest force ever to be measured with a groundbreaking technique....
 
 #### Factsheet
 >factsheet unavailable

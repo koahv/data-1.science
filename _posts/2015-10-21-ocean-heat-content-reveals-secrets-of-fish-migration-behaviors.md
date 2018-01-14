@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A new method has been developed to estimate fish movements using ocean heat content images, a dataset commonly used in hurricane intensity forecasting. With Atlantic tarpon as the messenger, this is the first study to quantitatively show that large migratory fishes, such as yellowfin and bluefin tunas, blue and white marlin, and sailfish have affinities for ocean fronts and eddies. 
+>A new method has been developed to estimate fish movements using ocean heat content images, a dataset commonly used in hurricane intensity forecasting. With Atlantic tarpon as the messenger, this is the first study to quantitatively show that large migratory fishes, such as yellowfin and bluefin tunas, blue and white marlin, and sailfish have affinities for ocean fronts and eddies....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Oceans might not be thought of as magnetic, but they make a tiny contribution to our planet’s protective magnetic shield. Remarkably, ESA’s Swarm satellites have not only measured this extremely faint field, but have also led to new discoveries about the electrical nature of inner Earth.
-
-	
+>Oceans might not be thought of as magnetic, but they make a tiny contribution to our planet’s protective magnetic shield. Remarkably, ESA’s Swarm satellites have not only measured this extremely faint field, but have also led to new discoveries about the electrical nature of inner Earth....
 
 #### Factsheet
 >factsheet unavailable

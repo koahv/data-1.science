@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Dunes are prominent indicators of prevailing winds, as can be seen on this crater floor on Mars, imaged by ESA’s Mars Express on 16 May.
-
-	
+>Dunes are prominent indicators of prevailing winds, as can be seen on this crater floor on Mars, imaged by ESA’s Mars Express on 16 May....
 
 #### Factsheet
 >factsheet unavailable

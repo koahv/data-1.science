@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->"Direct confirmation" supports the standard solar model
+>"Direct confirmation" supports the standard solar model...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,10 +9,7 @@ tags: []
 
 
 #### Extract
->Open source is awesome, and there are many reasons why you might consider consuming, publishing, collaborating on, or supporting open source.1 Here are a few of them:
-
-
-read more
+>Open source is awesome, and there are many reasons why you might consider consuming, publishing, collaborating on, or supporting open source.1 Here are a few of them: read more...
 
 #### Factsheet
 >factsheet unavailable

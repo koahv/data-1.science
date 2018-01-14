@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NIH/National Institute of Biomedical Imaging & Bioengineering) A new, open-source software that can help track the embryonic development and movement of neuronal cells throughout the body of the worm, is now available to scientists.
+>(NIH/National Institute of Biomedical Imaging & Bioengineering) A new, open-source software that can help track the embryonic development and movement of neuronal cells throughout the body of the worm, is now available to scientists....
 
 #### Factsheet
 >factsheet unavailable

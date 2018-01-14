@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;tecmint: chattr (Change Attribute) is a command line Linux utilit
+>&nbsp;tecmint: chattr (Change Attribute) is a command line Linux utilit...
 
 #### Factsheet
 >factsheet unavailable

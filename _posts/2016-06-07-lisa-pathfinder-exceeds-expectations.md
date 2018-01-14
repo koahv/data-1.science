@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-ESA’s LISA Pathfinder mission has demonstrated the technology needed to build a space-based gravitational wave observatory.
-
-	
+>ESA’s LISA Pathfinder mission has demonstrated the technology needed to build a space-based gravitational wave observatory....
 
 #### Factsheet
 >factsheet unavailable

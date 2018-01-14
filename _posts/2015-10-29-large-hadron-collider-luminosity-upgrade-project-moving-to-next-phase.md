@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->This week more than 230 scientists and engineers from around the world met at CERN to discuss the High-Luminosity LHC – a major upgrade to the Large Hadron Collider (LHC) that will increase the accelerator's discovery potential from 2025.
+>This week more than 230 scientists and engineers from around the world met at CERN to discuss the High-Luminosity LHC – a major upgrade to the Large Hadron Collider (LHC) that will increase the accelerator's discovery potential from 2025....
 
 #### Factsheet
 >factsheet unavailable

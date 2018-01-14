@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Biotechnology and Biological Sciences Research Council) Two insect species from Latin America, the dinosaur ant and the red paper wasp, have been used to uncover the molecular mechanisms underpinning queen and worker roles in social insects. The research by an international team of scientists brings us closer to understanding how genomes are used to generate castes in social evolution.
+>(Biotechnology and Biological Sciences Research Council) Two insect species from Latin America, the dinosaur ant and the red paper wasp, have been used to uncover the molecular mechanisms underpinning queen and worker roles in social insects. The research by an international team of scientists brings us closer to understanding how genomes are used to generate castes in social evolution....
 
 #### Factsheet
 >factsheet unavailable

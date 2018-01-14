@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Pilots at the US air force test pilot school flew this T-38C jet to the right place at the right time so that NASA could capture this photo of its shock waves
+>Pilots at the US air force test pilot school flew this T-38C jet to the right place at the right time so that NASA could capture this photo of its shock waves...
 
 #### Factsheet
 >factsheet unavailable

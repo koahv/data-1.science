@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Photosynthesis is the process used by plants, algae and certain bacteria to harness energy from sunlight into chemical energy.
+>Photosynthesis is the process used by plants, algae and certain bacteria to harness energy from sunlight into chemical energy....
 
 #### Factsheet
 >factsheet unavailable

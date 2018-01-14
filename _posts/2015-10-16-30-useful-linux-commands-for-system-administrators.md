@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;tecmint: A compact list of commands to refer when needed.
+>&nbsp;tecmint: A compact list of commands to refer when needed....
 
 #### Factsheet
 >factsheet unavailable

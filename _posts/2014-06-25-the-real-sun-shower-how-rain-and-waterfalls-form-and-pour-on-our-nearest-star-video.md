@@ -9,7 +9,7 @@ tags: [space]
 
 
 #### Extract
->We all know that Earth can have a spell of bad weather, but did you know that our sun can have the same? Now, scientists have taken a closer look at this bad weather, revealing a bit more about the processes that shape our nearest star.
+>We all know that Earth can have a spell of bad weather, but did you know that our sun can have the same? Now, scientists have taken a closer look at this bad weather, revealing a bit more about the processes that shape our nearest star....
 
 #### Factsheet
 >factsheet unavailable

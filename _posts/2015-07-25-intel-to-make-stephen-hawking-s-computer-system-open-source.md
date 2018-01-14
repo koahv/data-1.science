@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->CruxialCIO: Intel has decided to make this proprietary code free for everyone.
+>CruxialCIO: Intel has decided to make this proprietary code free for everyone....
 
 #### Factsheet
 >factsheet unavailable

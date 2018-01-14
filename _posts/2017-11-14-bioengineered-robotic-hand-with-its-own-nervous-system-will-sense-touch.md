@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Florida Atlantic University) Researchers are developing a first-of-its-kind bioengineered robotic hand that will actually feel and adapt to its environment. This 'living' robot will have its own peripheral nervous system directly linking robotic sensors and actuators.
+>(Florida Atlantic University) Researchers are developing a first-of-its-kind bioengineered robotic hand that will actually feel and adapt to its environment. This 'living' robot will have its own peripheral nervous system directly linking robotic sensors and actuators....
 
 #### Factsheet
 >factsheet unavailable

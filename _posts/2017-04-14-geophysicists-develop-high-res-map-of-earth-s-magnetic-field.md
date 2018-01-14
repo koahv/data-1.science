@@ -9,7 +9,7 @@ tags: [earth sciences]
 
 
 #### Extract
->A University of Kentucky geophysicist is helping an international team of scientists reveal dramatic new information about the Earth's magnetic field.
+>A University of Kentucky geophysicist is helping an international team of scientists reveal dramatic new information about the Earth's magnetic field....
 
 #### Factsheet
 >factsheet unavailable

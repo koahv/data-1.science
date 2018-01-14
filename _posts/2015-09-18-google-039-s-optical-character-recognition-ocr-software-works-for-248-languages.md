@@ -9,10 +9,7 @@ tags: []
 
 
 #### Extract
->Google's Optical Character Recognition (OCR) software now works for over 248 world languages (including all the major South Asian languages). It's quite simple and easy to use, and can detect most languages with over 90% accuracy.
-
-
-read more
+>Google's Optical Character Recognition (OCR) software now works for over 248 world languages (including all the major South Asian languages). It's quite simple and easy to use, and can detect most languages with over 90% accuracy. read more...
 
 #### Factsheet
 >factsheet unavailable

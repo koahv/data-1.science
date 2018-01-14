@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->There's a lot of buzz lately about learning to program.
+>There's a lot of buzz lately about learning to program....
 
 #### Factsheet
 >factsheet unavailable

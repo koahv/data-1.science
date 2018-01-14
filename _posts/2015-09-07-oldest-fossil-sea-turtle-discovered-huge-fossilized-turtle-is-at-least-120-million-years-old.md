@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The world's oldest fossil sea turtle known to date has been found by scientists. The fossilized reptile is at least 120 million years old -- which makes it about 25 million years older than the previously known oldest specimen. The almost completely preserved skeleton from the Cretaceous, with a length of nearly 2 meters, shows all of the characteristic traits of modern marine turtles. 
+>The world's oldest fossil sea turtle known to date has been found by scientists. The fossilized reptile is at least 120 million years old -- which makes it about 25 million years older than the previously known oldest specimen. The almost completely preserved skeleton from the Cretaceous, with a length of nearly 2 meters, shows all of the characteristic traits of modern marine turtles....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [data centers, linux, open source]
 
 
 #### Extract
->The latest list of the fastest supercomputers in the world is out -- and not only does Linux rule, it's almost eliminated all of its competition.
+>The latest list of the fastest supercomputers in the world is out -- and not only does Linux rule, it's almost eliminated all of its competition....
 
 #### Factsheet
 >factsheet unavailable

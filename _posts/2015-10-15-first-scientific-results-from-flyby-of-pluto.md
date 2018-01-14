@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(American Association for the Advancement of Science) The surface of Pluto is marked by plains, troughs and peaks that appear to have been carved out by geological processes that have been active for a very long period and continue to the present, a new study says.
+>(American Association for the Advancement of Science) The surface of Pluto is marked by plains, troughs and peaks that appear to have been carved out by geological processes that have been active for a very long period and continue to the present, a new study says....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Ecole Polytechnique Fédérale de Lausanne) Light behaves both as a particle and as a wave. Since the days of Einstein, scientists have been trying to directly observe both of these aspects of light at the same time. Now, scientists at EPFL have succeeded in capturing the first-ever snapshot of this dual behavior.
+>(Ecole Polytechnique Fédérale de Lausanne) Light behaves both as a particle and as a wave. Since the days of Einstein, scientists have been trying to directly observe both of these aspects of light at the same time. Now, scientists at EPFL have succeeded in capturing the first-ever snapshot of this dual behavior....
 
 #### Factsheet
 >factsheet unavailable

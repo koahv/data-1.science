@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Geek Stuff: pidstat stands for PID Statistics.
+>The Geek Stuff: pidstat stands for PID Statistics....
 
 #### Factsheet
 >factsheet unavailable

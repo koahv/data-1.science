@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->April 12 2015 marks the 60th anniversary of the publication of Jonas Salk's landmark polio vaccine trial results, which confirmed that the first vaccine against polio was safe and effective. A new review provides a comprehensive overview of current polio vaccines, and highlights new and future research initiatives, such as new vaccine formulations, that could help ensure that polio is eradicated and eradication is maintained.
+>April 12 2015 marks the 60th anniversary of the publication of Jonas Salk's landmark polio vaccine trial results, which confirmed that the first vaccine against polio was safe and effective. A new review provides a comprehensive overview of current polio vaccines, and highlights new and future research initiatives, such as new vaccine formulations, that could help ensure that polio is eradicated and eradication is maintained....
 
 #### Factsheet
 >factsheet unavailable

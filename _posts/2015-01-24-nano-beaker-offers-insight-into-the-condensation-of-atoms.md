@@ -9,13 +9,7 @@ tags: []
 
 
 #### Extract
->
-Basel, Switzerland (SPX) Jan 23, 2015
-
-
-An international team of physicists has succeeded in mapping the condensation of individual atoms, or rather their transition from a gaseous state to another state, using a new method. 
-
-Led by the Swiss Nanoscience Institute and the Department of Physics at the University of Basel, the team was able to monitor for the first time how xenon atoms condensate in microscopic measuring beakers, o
+>Basel, Switzerland (SPX) Jan 23, 2015 An international team of physicists has succeeded in mapping the condensation of individual atoms, or rather their transition from a gaseous state to another state, using a new method. Led by the Swiss Nanoscience Institute and the Department of Physics at the University of Basel, the team was able to monitor for the first time how xenon atoms condensate in microscopic measuring beakers, o...
 
 #### Factsheet
 >factsheet unavailable

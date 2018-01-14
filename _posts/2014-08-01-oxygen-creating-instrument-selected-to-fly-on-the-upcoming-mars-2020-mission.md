@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->Whenever the first NASA astronauts arrive on Mars, they will likely have MIT to thank for the oxygen they breathe—and for the oxygen needed to burn rocket fuel that will launch them back home to Earth.
+>Whenever the first NASA astronauts arrive on Mars, they will likely have MIT to thank for the oxygen they breathe—and for the oxygen needed to burn rocket fuel that will launch them back home to Earth....
 
 #### Factsheet
 >factsheet unavailable

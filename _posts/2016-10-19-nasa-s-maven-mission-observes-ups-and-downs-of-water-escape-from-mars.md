@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) MAVEN has determined that Mars's escaping water does not always go gently into space.
+>(NASA/Goddard Space Flight Center) MAVEN has determined that Mars's escaping water does not always go gently into space....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-As ESA’s Proba-V works quietly on its main task of monitoring vegetation growth across Earth, the minisatellite is also picking up something from a little higher: signals from thousands of aircraft.
-
-	
+>As ESA’s Proba-V works quietly on its main task of monitoring vegetation growth across Earth, the minisatellite is also picking up something from a little higher: signals from thousands of aircraft....
 
 #### Factsheet
 >factsheet unavailable

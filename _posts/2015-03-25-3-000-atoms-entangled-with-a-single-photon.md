@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->Physicists from MIT and the University of Belgrade have developed a new technique that can successfully entangle 3,000 atoms using only a single photon. The results, published today in the journal Nature, represent the largest number of particles that have ever been mutually entangled experimentally.
+>Physicists from MIT and the University of Belgrade have developed a new technique that can successfully entangle 3,000 atoms using only a single photon. The results, published today in the journal Nature, represent the largest number of particles that have ever been mutually entangled experimentally....
 
 #### Factsheet
 >factsheet unavailable

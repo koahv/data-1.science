@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Bristol) A breakthrough in the transformation of human cells by an international team led by researchers at the University of Bristol could open the door to a new range of treatments for a variety of medical conditions.
+>(University of Bristol) A breakthrough in the transformation of human cells by an international team led by researchers at the University of Bristol could open the door to a new range of treatments for a variety of medical conditions....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Max Planck Florida Institute for Neuroscience) Synapses transmit information from one neuron to another in the form of synaptic vesicles containing neurotransmitters. Continuous release of neurotransmitters is essential to maintain communication between neurons. To better understand a number of neurological disorders, we need a better understanding of how synapses continuously relay information between neurons. A new study has discovered a key factor in regulating this continual communication is the proximity of synaptic vesicles next to voltage gated calcium channels within synapses.
+>(Max Planck Florida Institute for Neuroscience) Synapses transmit information from one neuron to another in the form of synaptic vesicles containing neurotransmitters. Continuous release of neurotransmitters is essential to maintain communication between neurons. To better understand a number of neurological disorders, we need a better understanding of how synapses continuously relay information between neurons. A new study has discovered a key factor in regulating this continual communication is the proximity of synaptic vesicles next to voltage gated calcium channels within synapses....
 
 #### Factsheet
 >factsheet unavailable

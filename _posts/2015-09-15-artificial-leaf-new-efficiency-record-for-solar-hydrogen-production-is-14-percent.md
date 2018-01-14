@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->An international team has succeeded in considerably increasing the efficiency for direct solar water splitting with a tandem solar cell whose surfaces have been selectively modified. The new record value is 14 percent and thus tops the previous record of 12.4 percent, broken now for the first time in 17 years. 
+>An international team has succeeded in considerably increasing the efficiency for direct solar water splitting with a tandem solar cell whose surfaces have been selectively modified. The new record value is 14 percent and thus tops the previous record of 12.4 percent, broken now for the first time in 17 years....
 
 #### Factsheet
 >factsheet unavailable

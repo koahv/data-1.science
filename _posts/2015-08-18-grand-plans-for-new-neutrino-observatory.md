@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Vast radio array would observe universe via high-energy neutrinos
+>Vast radio array would observe universe via high-energy neutrinos...
 
 #### Factsheet
 >factsheet unavailable

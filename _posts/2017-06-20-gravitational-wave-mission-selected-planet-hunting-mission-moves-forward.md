@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-The LISA trio of satellites to detect gravitational waves from space has been selected as the third large-class mission in ESA’s Science programme, while the Plato exoplanet hunter moves into development.
-
-	
+>The LISA trio of satellites to detect gravitational waves from space has been selected as the third large-class mission in ESA’s Science programme, while the Plato exoplanet hunter moves into development....
 
 #### Factsheet
 >factsheet unavailable

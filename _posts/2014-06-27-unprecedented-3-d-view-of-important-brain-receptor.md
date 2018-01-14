@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers have given science a new and unprecedented 3-D view of one of the most important receptors in the brain -- a receptor that allows us to learn and remember, and whose dysfunction is involved in a wide range of neurological diseases and conditions, including Alzheimer's, Parkinson's, schizophrenia and depression.
+>Researchers have given science a new and unprecedented 3-D view of one of the most important receptors in the brain -- a receptor that allows us to learn and remember, and whose dysfunction is involved in a wide range of neurological diseases and conditions, including Alzheimer's, Parkinson's, schizophrenia and depression....
 
 #### Factsheet
 >factsheet unavailable

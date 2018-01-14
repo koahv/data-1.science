@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->New research from UCL and the Universities of Gdansk, Singapore, and Delft has uncovered additional second laws of thermodynamics which complement the ordinary second law of thermodynamics, one of the most fundamental laws of nature. These new second laws are generally not noticeable except on very small scales, at which point, they become increasingly important.
+>New research from UCL and the Universities of Gdansk, Singapore, and Delft has uncovered additional second laws of thermodynamics which complement the ordinary second law of thermodynamics, one of the most fundamental laws of nature. These new second laws are generally not noticeable except on very small scales, at which point, they become increasingly important....
 
 #### Factsheet
 >factsheet unavailable

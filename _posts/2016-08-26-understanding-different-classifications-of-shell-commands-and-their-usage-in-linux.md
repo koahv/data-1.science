@@ -9,7 +9,7 @@ tags: [linux commands, linux tricks]
 
 
 #### Extract
->When it comes to gaining absolute control over your Linux system, then nothing comes close to the command line interface (CLI). In order to become a Linux power user, one must understand the different&#46;&#46;&#46;
+>When it comes to gaining absolute control over your Linux system, then nothing comes close to the command line interface (CLI). In order to become a Linux power user, one must understand the different&#46;&#46;&#46;...
 
 #### Factsheet
 >factsheet unavailable

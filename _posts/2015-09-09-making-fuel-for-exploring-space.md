@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->Since its 1977 launch, NASA's Voyager 1 spacecraft has travelled farther than any other piece of human technology. It is also the only human-made object to have entered interstellar space.
+>Since its 1977 launch, NASA's Voyager 1 spacecraft has travelled farther than any other piece of human technology. It is also the only human-made object to have entered interstellar space....
 
 #### Factsheet
 >factsheet unavailable

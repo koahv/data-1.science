@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(DOE/Oak Ridge National Laboratory) SimPath has licensed a novel cloning system developed by the Department of Energy's Oak Ridge National Laboratory that generates and assembles the biological building blocks necessary to synthetically bioengineer new medicines and fuels.
+>(DOE/Oak Ridge National Laboratory) SimPath has licensed a novel cloning system developed by the Department of Energy's Oak Ridge National Laboratory that generates and assembles the biological building blocks necessary to synthetically bioengineer new medicines and fuels....
 
 #### Factsheet
 >factsheet unavailable

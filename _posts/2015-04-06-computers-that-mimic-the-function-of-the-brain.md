@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Northwestern University) A team of Northwestern University researchers used a promising new material to build more functional memristors, bringing us closer to brain-like computing.
+>(Northwestern University) A team of Northwestern University researchers used a promising new material to build more functional memristors, bringing us closer to brain-like computing....
 
 #### Factsheet
 >factsheet unavailable

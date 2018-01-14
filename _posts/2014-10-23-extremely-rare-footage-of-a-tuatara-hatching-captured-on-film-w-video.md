@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Last to hatch, the egg was one of 23 being incubated in captivity this year as part of a joint initiative that has helped to save a threatened population of tuatara from extinction.
+>Last to hatch, the egg was one of 23 being incubated in captivity this year as part of a joint initiative that has helped to save a threatened population of tuatara from extinction....
 
 #### Factsheet
 >factsheet unavailable

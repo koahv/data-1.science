@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Space Science Image of the Week: The geysers on Enceladus come from a region where the crust might be paper-thin
-	
+>Space Science Image of the Week: The geysers on Enceladus come from a region where the crust might be paper-thin...
 
 #### Factsheet
 >factsheet unavailable

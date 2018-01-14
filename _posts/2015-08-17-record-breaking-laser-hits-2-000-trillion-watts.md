@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The most powerful laser beam ever created has been recently fired at Osaka University in Japan, where the Laser for Fast Ignition Experiments (LFEX) has been boosted to produce a beam with a peak power of 2,000 trillion watts.
+>The most powerful laser beam ever created has been recently fired at Osaka University in Japan, where the Laser for Fast Ignition Experiments (LFEX) has been boosted to produce a beam with a peak power of 2,000 trillion watts....
 
 #### Factsheet
 >factsheet unavailable

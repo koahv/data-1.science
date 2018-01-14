@@ -9,8 +9,7 @@ tags: [science]
 
 
 #### Extract
->
-China’s first dark matter detection satellite has completed three months of in-orbit testing and found 460 million high energy particles in a 92-day flight, officials said on Friday. The satellite’s ...
+>China’s first dark matter detection satellite has completed three months of in-orbit testing and found 460 million high energy particles in a 92-day flight, officials said on Friday. The satellite’s ......
 
 #### Factsheet
 >factsheet unavailable

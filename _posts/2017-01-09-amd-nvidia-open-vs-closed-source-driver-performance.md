@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Continuing on from this weekend's open-source Nouveau vs. closed-source NVIDIA Linux driver performance are results now added in with showing AMD's open-source vs. closed-source driver performance with the same tests.
+>Continuing on from this weekend's open-source Nouveau vs. closed-source NVIDIA Linux driver performance are results now added in with showing AMD's open-source vs. closed-source driver performance with the same tests....
 
 #### Factsheet
 >factsheet unavailable

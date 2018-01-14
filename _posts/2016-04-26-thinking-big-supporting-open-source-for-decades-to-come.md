@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;Thinking Big: Supporting Open Source for Decades to Come26 AprLearn more
+>Title:&nbsp;Thinking Big: Supporting Open Source for Decades to Come26 AprLearn more...
 
 #### Factsheet
 >factsheet unavailable

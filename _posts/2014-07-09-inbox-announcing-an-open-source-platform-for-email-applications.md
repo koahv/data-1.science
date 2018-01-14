@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->For most of us, email remains a primary way to communicate and stay organized. In fact, it's so central to most of our work and play that it is surprising that there aren't more applications designed to work with email. That's the thinking behind a new startup called Inbox, which is developing email platform to compete with old protocols like IMAP and SMTP.&nbsp;
+>For most of us, email remains a primary way to communicate and stay organized. In fact, it's so central to most of our work and play that it is surprising that there aren't more applications designed to work with email. That's the thinking behind a new startup called Inbox, which is developing email platform to compete with old protocols like IMAP and SMTP.&nbsp;...
 
 #### Factsheet
 >factsheet unavailable

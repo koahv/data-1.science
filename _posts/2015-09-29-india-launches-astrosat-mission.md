@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Country's first dedicated astronomy satellite will survey the skies in a range of wavelengths
+>Country's first dedicated astronomy satellite will survey the skies in a range of wavelengths...
 
 #### Factsheet
 >factsheet unavailable

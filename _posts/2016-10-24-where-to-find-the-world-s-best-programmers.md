@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->So which countries produce the best coders is an interesting question to ask. Perhaps more importantly why do some countries lead the way?
+>So which countries produce the best coders is an interesting question to ask. Perhaps more importantly why do some countries lead the way?...
 
 #### Factsheet
 >factsheet unavailable

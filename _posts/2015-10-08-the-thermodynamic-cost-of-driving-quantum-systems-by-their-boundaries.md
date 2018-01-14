@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The thermodynamic cost of driving quantum systems by their boundariesScientific Reports, Published online: 8 October 2015; doi:10.1038/srep14873
+>The thermodynamic cost of driving quantum systems by their boundariesScientific Reports, Published online: 8 October 2015; doi:10.1038/srep14873...
 
 #### Factsheet
 >factsheet unavailable

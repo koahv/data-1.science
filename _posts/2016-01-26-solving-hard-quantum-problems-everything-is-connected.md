@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Vienna University of Technology) Quantum objects cannot just be understood as the sum of their parts. This is what makes quantum calculations so complicated. Scientists at TU Wien have now calculated Bose-Einstein-condensates, revealing the secrets of the particles' collective behavior.
+>(Vienna University of Technology) Quantum objects cannot just be understood as the sum of their parts. This is what makes quantum calculations so complicated. Scientists at TU Wien have now calculated Bose-Einstein-condensates, revealing the secrets of the particles' collective behavior....
 
 #### Factsheet
 >factsheet unavailable

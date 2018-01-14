@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Filed under: Energy News
+>Filed under: Energy News...
 
 #### Factsheet
 >factsheet unavailable

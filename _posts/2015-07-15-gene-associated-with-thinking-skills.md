@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers have identified a gene that underlies healthy information processing -- a first step on a complicated road to understand cognitive aging and age-related diseases, such as Alzheimer's disease.
+>Researchers have identified a gene that underlies healthy information processing -- a first step on a complicated road to understand cognitive aging and age-related diseases, such as Alzheimer's disease....
 
 #### Factsheet
 >factsheet unavailable

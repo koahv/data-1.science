@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-NASA’s Mars Reconnaissance Orbiter has identified new markings on the surface of the Red Planet that are believed to be related to ESA’s ExoMars Schiaparelli entry, descent and landing technology demonstrator module.
-
-	
+>NASA’s Mars Reconnaissance Orbiter has identified new markings on the surface of the Red Planet that are believed to be related to ESA’s ExoMars Schiaparelli entry, descent and landing technology demonstrator module....
 
 #### Factsheet
 >factsheet unavailable

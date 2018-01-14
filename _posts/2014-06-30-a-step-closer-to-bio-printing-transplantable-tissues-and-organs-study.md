@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Sydney) Researchers have made a giant leap towards the goal of 'bio-printing' transplantable tissues and organs for people affected by major diseases and trauma injuries, a new study reports.Scientists from the Universities of Sydney, Harvard, Stanford and MIT have bio-printed artificial vascular networks mimicking the body's circulatory system that are necessary for growing large complex tissues.
+>(University of Sydney) Researchers have made a giant leap towards the goal of 'bio-printing' transplantable tissues and organs for people affected by major diseases and trauma injuries, a new study reports.Scientists from the Universities of Sydney, Harvard, Stanford and MIT have bio-printed artificial vascular networks mimicking the body's circulatory system that are necessary for growing large complex tissues....
 
 #### Factsheet
 >factsheet unavailable

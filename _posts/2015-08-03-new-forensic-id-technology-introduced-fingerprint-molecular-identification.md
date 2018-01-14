@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Barry Teater, Self-employed PR consultant) Fingerprint Molecular Identification, a new category in forensic science, will enable law enforcement agents, district attorneys and government agencies to build a molecular profile of criminal suspects by analyzing residues on fingerprints with patented technology.
+>(Barry Teater, Self-employed PR consultant) Fingerprint Molecular Identification, a new category in forensic science, will enable law enforcement agents, district attorneys and government agencies to build a molecular profile of criminal suspects by analyzing residues on fingerprints with patented technology....
 
 #### Factsheet
 >factsheet unavailable

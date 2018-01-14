@@ -9,7 +9,7 @@ tags: [technology]
 
 
 #### Extract
->For a glimpse of an evolving technology that promises to shake video gaming to its foundation, check out "Throw Trucks With Your Mind."
+>For a glimpse of an evolving technology that promises to shake video gaming to its foundation, check out "Throw Trucks With Your Mind."...
 
 #### Factsheet
 >factsheet unavailable

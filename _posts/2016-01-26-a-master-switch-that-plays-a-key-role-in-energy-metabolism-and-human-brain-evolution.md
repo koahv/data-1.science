@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Molecular Biology and Evolution (Oxford University Press)) In a new study appearing in the advanced online edition of Molecular Biology and Evolution, corresponding authors Katja Nowick and Robert Querfurth et al. have explored the global gene regulator GABPa to better understand its influence as a master switch. Their work honed in on human specific DNA regions potentially contributing to human evolution in key functions including cell energy, division and death, and diseases ranging from brain disorders to diabetes.
+>(Molecular Biology and Evolution (Oxford University Press)) In a new study appearing in the advanced online edition of Molecular Biology and Evolution, corresponding authors Katja Nowick and Robert Querfurth et al. have explored the global gene regulator GABPa to better understand its influence as a master switch. Their work honed in on human specific DNA regions potentially contributing to human evolution in key functions including cell energy, division and death, and diseases ranging from brain disorders to diabetes....
 
 #### Factsheet
 >factsheet unavailable

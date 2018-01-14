@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A group of leading soil scientists points out the precarious state of the world's soil resources and the possible ramifications for human security.
+>A group of leading soil scientists points out the precarious state of the world's soil resources and the possible ramifications for human security....
 
 #### Factsheet
 >factsheet unavailable

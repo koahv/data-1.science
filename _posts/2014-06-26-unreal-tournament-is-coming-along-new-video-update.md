@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The developers of Unreal Tournament have another update in store for us and it sounds like it&#039;s all coming together very nicely.
+>The developers of Unreal Tournament have another update in store for us and it sounds like it&#039;s all coming together very nicely....
 
 #### Factsheet
 >factsheet unavailable

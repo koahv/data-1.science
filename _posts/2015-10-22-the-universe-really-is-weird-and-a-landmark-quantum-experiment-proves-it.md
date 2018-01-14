@@ -9,7 +9,7 @@ tags: [quantum physics]
 
 
 #### Extract
->Only last year the world of physics celebrated the 50th anniversary of Bell's theorem, a mathematical proof that certain predictions of quantum mechanics are incompatible with local causality. Local causality is a very natural scientific assumption and it holds in all modern scientific theories, except quantum mechanics.
+>Only last year the world of physics celebrated the 50th anniversary of Bell's theorem, a mathematical proof that certain predictions of quantum mechanics are incompatible with local causality. Local causality is a very natural scientific assumption and it holds in all modern scientific theories, except quantum mechanics....
 
 #### Factsheet
 >factsheet unavailable

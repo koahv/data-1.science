@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		The European Data Relay System’s first laser terminal has reached space aboard its host satellite and is now under way to its final operating position
-	
+>The European Data Relay System’s first laser terminal has reached space aboard its host satellite and is now under way to its final operating position...
 
 #### Factsheet
 >factsheet unavailable

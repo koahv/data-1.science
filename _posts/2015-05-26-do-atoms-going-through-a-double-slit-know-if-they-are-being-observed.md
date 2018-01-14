@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Wheeler's "delayed choice" gedanken done with single helium atom
+>Wheeler's "delayed choice" gedanken done with single helium atom...
 
 #### Factsheet
 >factsheet unavailable

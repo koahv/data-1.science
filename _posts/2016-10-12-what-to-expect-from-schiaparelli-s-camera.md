@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-As the ExoMars Schiaparelli module descends onto Mars on 19 October it will capture 15 images of the approaching surface. Scientists have simulated the view we can expect to see from the descent camera.
-
-	
+>As the ExoMars Schiaparelli module descends onto Mars on 19 October it will capture 15 images of the approaching surface. Scientists have simulated the view we can expect to see from the descent camera....
 
 #### Factsheet
 >factsheet unavailable

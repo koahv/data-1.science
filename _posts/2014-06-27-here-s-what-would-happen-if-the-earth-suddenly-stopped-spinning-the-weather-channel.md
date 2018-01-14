@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Here&#39;s What Would Happen If the Earth Suddenly Stopped SpinningThe Weather ChannelHave you ever wondered what would happen if one day the Earth suddenly stopped spinning? That&#39;s what Michael Stevens, also known as Vsauce on YouTube, set out to answer in his latest video. Stevens explains that the resulting destruction and&nbsp;...
+>Here&#39;s What Would Happen If the Earth Suddenly Stopped SpinningThe Weather ChannelHave you ever wondered what would happen if one day the Earth suddenly stopped spinning? That&#39;s what Michael Stevens, also known as Vsauce on YouTube, set out to answer in his latest video. Stevens explains that the resulting destruction and&nbsp;......
 
 #### Factsheet
 >factsheet unavailable

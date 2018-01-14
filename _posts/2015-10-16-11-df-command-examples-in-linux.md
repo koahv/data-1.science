@@ -9,7 +9,7 @@ tags: [linux]
 
 
 #### Extract
->df (disk filesystem) command is used to display disk usage of the file system. By default df command shows the file system usage in 1K blocks for all the current mounted file system.
+>df (disk filesystem) command is used to display disk usage of the file system. By default df command shows the file system usage in 1K blocks for all the current mounted file system....
 
 #### Factsheet
 >factsheet unavailable

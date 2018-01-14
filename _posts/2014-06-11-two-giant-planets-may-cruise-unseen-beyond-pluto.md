@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Planet X could have company &ndash; rocky bodies orbiting in weird clusters suggest that two monster planets hide in the outer reaches of the solar system
+>Planet X could have company &ndash; rocky bodies orbiting in weird clusters suggest that two monster planets hide in the outer reaches of the solar system...
 
 #### Factsheet
 >factsheet unavailable

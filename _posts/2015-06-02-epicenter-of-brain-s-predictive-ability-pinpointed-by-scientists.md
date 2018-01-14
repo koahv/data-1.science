@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->In recent years, scientists have discovered that the human brain works on predictions, contrary to the previously accepted theory that it reacts to outside sensations. Now, researchers have reported finding the epicenter of those predictions.
+>In recent years, scientists have discovered that the human brain works on predictions, contrary to the previously accepted theory that it reacts to outside sensations. Now, researchers have reported finding the epicenter of those predictions....
 
 #### Factsheet
 >factsheet unavailable

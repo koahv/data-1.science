@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) Scientists will use NASA's James Webb Space Telescope to study sections of the sky previously observed by NASA's Great Observatories, including the Hubble Space Telescope and the Spitzer Space Telescope, to understand the creation of the universe's first galaxies and stars.
+>(NASA/Goddard Space Flight Center) Scientists will use NASA's James Webb Space Telescope to study sections of the sky previously observed by NASA's Great Observatories, including the Hubble Space Telescope and the Spitzer Space Telescope, to understand the creation of the universe's first galaxies and stars....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [plasma physics]
 
 
 #### Extract
->The universe is made up of plasma, which is easily influenced by magnetic fields and forces, leading to complex behavior. Plasmas are found throughout the solar system in places such as the planetary magnetosphere, solar wind and in the tails of comets.
+>The universe is made up of plasma, which is easily influenced by magnetic fields and forces, leading to complex behavior. Plasmas are found throughout the solar system in places such as the planetary magnetosphere, solar wind and in the tails of comets....
 
 #### Factsheet
 >factsheet unavailable

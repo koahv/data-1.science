@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Massachusetts Institute of Technology) MIT biological engineers have developed a modular system of proteins that can detect a particular DNA sequence in a cell and then trigger a specific response, such as cell death.
+>(Massachusetts Institute of Technology) MIT biological engineers have developed a modular system of proteins that can detect a particular DNA sequence in a cell and then trigger a specific response, such as cell death....
 
 #### Factsheet
 >factsheet unavailable

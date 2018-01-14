@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Watch the launch of ESA's last Automated Transfer Vehicle – now enroute to the International Space Station
-	
+>Watch the launch of ESA's last Automated Transfer Vehicle – now enroute to the International Space Station...
 
 #### Factsheet
 >factsheet unavailable

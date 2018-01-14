@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Read more about Magnetospheric Multiscale Spacecraft Poised for Launch Comments
+>Read more about Magnetospheric Multiscale Spacecraft Poised for Launch Comments...
 
 #### Factsheet
 >factsheet unavailable

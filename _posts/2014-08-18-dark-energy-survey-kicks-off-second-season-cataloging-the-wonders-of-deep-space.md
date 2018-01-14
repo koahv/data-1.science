@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(DOE/Fermi National Accelerator Laboratory) On Aug. 15, with its successful first season behind it, the Dark Energy Survey collaboration began its second year of mapping the southern sky in unprecedented detail. Using the Dark Energy Camera, a 570-megapixel imaging device built by the collaboration and mounted on the Victor M. Blanco Telescope in Chile, the survey's five-year mission is to unravel the fundamental mystery of dark energy and its impact on our universe.
+>(DOE/Fermi National Accelerator Laboratory) On Aug. 15, with its successful first season behind it, the Dark Energy Survey collaboration began its second year of mapping the southern sky in unprecedented detail. Using the Dark Energy Camera, a 570-megapixel imaging device built by the collaboration and mounted on the Victor M. Blanco Telescope in Chile, the survey's five-year mission is to unravel the fundamental mystery of dark energy and its impact on our universe....
 
 #### Factsheet
 >factsheet unavailable

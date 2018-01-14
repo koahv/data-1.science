@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The exact way hummingbird tongues work has long eluded scientists — until now.
+>The exact way hummingbird tongues work has long eluded scientists — until now....
 
 #### Factsheet
 >factsheet unavailable

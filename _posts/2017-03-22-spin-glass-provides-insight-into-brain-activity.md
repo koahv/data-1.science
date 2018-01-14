@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Model reveals functional role of spin-glass-like states in neurological networks
+>Model reveals functional role of spin-glass-like states in neurological networks...
 
 #### Factsheet
 >factsheet unavailable

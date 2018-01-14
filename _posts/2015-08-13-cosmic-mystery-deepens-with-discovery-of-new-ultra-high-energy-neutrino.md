@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->Evidence of a fourth ultra-high energy neutrino—the highest-energy neutrino yet—has been detected by the South Pole-based IceCube experiment, a project that Berkeley Lab researchers helped build and to which they currently contribute analysis.
+>Evidence of a fourth ultra-high energy neutrino—the highest-energy neutrino yet—has been detected by the South Pole-based IceCube experiment, a project that Berkeley Lab researchers helped build and to which they currently contribute analysis....
 
 #### Factsheet
 >factsheet unavailable

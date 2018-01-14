@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->The Earth, planets, stars, and galaxies form only the visible portion of the matter in the universe. Greater by far is the share accounted for by invisible "dark matter". Scientists have searched for the particles of dark matter in numerous experiments - so far, in vain. With the CRESST experiment, now the search radius can be considerably expanded: The CRESST detectors are being overhauled and are then able to detect particles whose mass lies below the current measurement range. As a consequence, the chance of tracking dark matter down goes up.
+>The Earth, planets, stars, and galaxies form only the visible portion of the matter in the universe. Greater by far is the share accounted for by invisible "dark matter". Scientists have searched for the particles of dark matter in numerous experiments - so far, in vain. With the CRESST experiment, now the search radius can be considerably expanded: The CRESST detectors are being overhauled and are then able to detect particles whose mass lies below the current measurement range. As a consequence, the chance of tracking dark matter down goes up....
 
 #### Factsheet
 >factsheet unavailable

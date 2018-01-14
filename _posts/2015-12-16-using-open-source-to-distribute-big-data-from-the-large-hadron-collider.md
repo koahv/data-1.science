@@ -9,11 +9,7 @@ tags: [linux, oss]
 
 
 #### Extract
-> 
-
-The high energy physics team at California Institute of Technology (Caltech) are part of a vast global network of researchers who are performing experiments with the Large Hadron Collider (LHC) at CERN in Switzerland and France - the world's biggest machine - to make new discoveries about how our universe evolves, and they're using Linux and open source software. This includes a search for the Higgs Boson, extra dimensions, supersymmetry, and particles that could make up dark matter.
-
- read more
+>The high energy physics team at California Institute of Technology (Caltech) are part of a vast global network of researchers who are performing experiments with the Large Hadron Collider (LHC) at CERN in Switzerland and France - the world's biggest machine - to make new discoveries about how our universe evolves, and they're using Linux and open source software. This includes a search for the Higgs Boson, extra dimensions, supersymmetry, and particles that could make up dark matter. read more...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(American Association for the Advancement of Science) Modern Melanesians harbor genetic components passed on from Denisovans, a new study suggests. In the past, ancestors of many modern human populations interbred with other hominin species that have since become extinct, such as the Neandertals and Denisovans.
+>(American Association for the Advancement of Science) Modern Melanesians harbor genetic components passed on from Denisovans, a new study suggests. In the past, ancestors of many modern human populations interbred with other hominin species that have since become extinct, such as the Neandertals and Denisovans....
 
 #### Factsheet
 >factsheet unavailable

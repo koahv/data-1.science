@@ -9,9 +9,7 @@ tags: []
 
 
 #### Extract
->NewsDNA was successfully sequenced in microgravity for the first time this weekend as part of the Biomolecule Sequencer experiment aboard the International Space Station. The experiment, performed by NASA astronaut Kate Rubins, could open up new ways to diagnose illnesses or identify ...
-
-Staff Author:&nbsp;Sheri KasprzakTopics:&nbsp;Aerospace
+>NewsDNA was successfully sequenced in microgravity for the first time this weekend as part of the Biomolecule Sequencer experiment aboard the International Space Station. The experiment, performed by NASA astronaut Kate Rubins, could open up new ways to diagnose illnesses or identify ... Staff Author:&nbsp;Sheri KasprzakTopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

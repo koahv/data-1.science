@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->NASA's Jupiter-bound Juno spacecraft has entered the planet's magnetosphere, where the movement of particles in space is controlled by what's going on inside Jupiter.
+>NASA's Jupiter-bound Juno spacecraft has entered the planet's magnetosphere, where the movement of particles in space is controlled by what's going on inside Jupiter....
 
 #### Factsheet
 >factsheet unavailable

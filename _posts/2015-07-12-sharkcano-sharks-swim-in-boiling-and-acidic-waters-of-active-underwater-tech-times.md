@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Tech Times&#39;Sharkcano&#39;: Sharks Swim In Boiling And Acidic Waters Of Active Underwater ...Tech TimesWhen it does erupt, there is no way such creatures can survive. Questions arise, such as what ... Phillips is looking forward to setting up a seismic observatory and the long-term deployment of cameras in the deep sea along Kavachi. The team&#39;s ...Shark-CANO! Sharks are filmed swimming inside the crater of... - Daily MailDaily MailSharkano? Sharks Living Inside Underwater Volcano Shock Scientists (VIDEO ...Sputnik Internationalall 35 news articles&nbsp;&raquo;
+>Tech Times&#39;Sharkcano&#39;: Sharks Swim In Boiling And Acidic Waters Of Active Underwater ...Tech TimesWhen it does erupt, there is no way such creatures can survive. Questions arise, such as what ... Phillips is looking forward to setting up a seismic observatory and the long-term deployment of cameras in the deep sea along Kavachi. The team&#39;s ...Shark-CANO! Sharks are filmed swimming inside the crater of... - Daily MailDaily MailSharkano? Sharks Living Inside Underwater Volcano Shock Scientists (VIDEO ...Sputnik Internationalall 35 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

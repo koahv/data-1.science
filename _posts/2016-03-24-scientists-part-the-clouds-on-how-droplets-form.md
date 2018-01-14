@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A new study reveals that much more is happening at the microscopic level of cloud formation than previously thought. The findings could help improve the accuracy of climate change models. 
+>A new study reveals that much more is happening at the microscopic level of cloud formation than previously thought. The findings could help improve the accuracy of climate change models....
 
 #### Factsheet
 >factsheet unavailable

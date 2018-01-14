@@ -9,31 +9,7 @@ tags: [carousel showcase, green transportation, news, renewable energy, abu dhab
 
 
 #### Extract
->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Read the rest of Solar Impulse 2 takes off on first round-the-world flight powered entirely by sunlight
-
-
-Permalink |
-Add to
-del.icio.us | 
-digg
-
-Post tags: abu dhabi, Andre Borschberg, bertrand piccard, Muscat, round the world trip, solar impulse, Solar Impulse 2, solar panels, Solar Power, Solar Powered Flight, zero fuel plane
+>Read the rest of Solar Impulse 2 takes off on first round-the-world flight powered entirely by sunlight Permalink | Add to del.icio.us | digg Post tags: abu dhabi, Andre Borschberg, bertrand piccard, Muscat, round the world trip, solar impulse, Solar Impulse 2, solar panels, Solar Power, Solar Powered Flight, zero fuel plane...
 
 #### Factsheet
 >factsheet unavailable

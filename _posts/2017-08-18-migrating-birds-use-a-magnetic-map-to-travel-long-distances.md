@@ -9,7 +9,7 @@ tags: [plants & animals]
 
 
 #### Extract
->Birds have an impressive ability to navigate. They can fly long distances, to places that they may never have visited before, sometimes returning home after months away.
+>Birds have an impressive ability to navigate. They can fly long distances, to places that they may never have visited before, sometimes returning home after months away....
 
 #### Factsheet
 >factsheet unavailable

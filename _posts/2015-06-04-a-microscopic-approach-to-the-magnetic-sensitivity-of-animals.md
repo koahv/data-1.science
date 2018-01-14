@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Tokyo) Researchers at the University of Tokyo have developed a new instrument for imaging the magnetosensitivity of photochemical reactions on a submicron scale. This instrument may allow scientists to directly observe processes believed to be responsible for animal magnetoreception inside living cells.
+>(University of Tokyo) Researchers at the University of Tokyo have developed a new instrument for imaging the magnetosensitivity of photochemical reactions on a submicron scale. This instrument may allow scientists to directly observe processes believed to be responsible for animal magnetoreception inside living cells....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,13 +9,7 @@ tags: []
 
 
 #### Extract
->
-
-On this day in history, August 10, 1966, NASA’s Lunar Orbiter 1 robotic spacecraft was launched from Cape Canaveral, Florida, on a mission to select and verify a safe landing site for the Surveyor and Apollo missions.
-
- 
-
-Read more about Today in Engineering History: Lunar Orbiter 1 Launched to Select Safe Lunar Landing SiteComments
+>On this day in history, August 10, 1966, NASA’s Lunar Orbiter 1 robotic spacecraft was launched from Cape Canaveral, Florida, on a mission to select and verify a safe landing site for the Surveyor and Apollo missions.   Read more about Today in Engineering History: Lunar Orbiter 1 Launched to Select Safe Lunar Landing SiteComments...
 
 #### Factsheet
 >factsheet unavailable

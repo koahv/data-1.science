@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Read more about Near-Frictionless Material DesignedComments
+>Read more about Near-Frictionless Material DesignedComments...
 
 #### Factsheet
 >factsheet unavailable

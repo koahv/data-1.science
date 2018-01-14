@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->First produced in 1940, plutonium is one of the most electronically complicated elements on Earth—and because of its complexities, scientists have been struggling to prove the existence of its magnetic properties ever since.
+>First produced in 1940, plutonium is one of the most electronically complicated elements on Earth—and because of its complexities, scientists have been struggling to prove the existence of its magnetic properties ever since....
 
 #### Factsheet
 >factsheet unavailable

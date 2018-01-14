@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A new study of young people experiencing a first episode of psychosis reports elevations in the brain chemicals glutamate and glycine. 
+>A new study of young people experiencing a first episode of psychosis reports elevations in the brain chemicals glutamate and glycine....
 
 #### Factsheet
 >factsheet unavailable

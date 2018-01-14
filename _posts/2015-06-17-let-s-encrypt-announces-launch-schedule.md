@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Let's Encrypt Blog: The Linux Foundation Collaborative Project Let's Encrypt&nbsp;is ready to announce its launch schedule.
+>Let's Encrypt Blog: The Linux Foundation Collaborative Project Let's Encrypt&nbsp;is ready to announce its launch schedule....
 
 #### Factsheet
 >factsheet unavailable

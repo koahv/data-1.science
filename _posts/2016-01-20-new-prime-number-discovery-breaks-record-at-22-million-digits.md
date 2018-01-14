@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A new highest known prime number has been calculated, clocking in at nearly 5 million digits more than the previous record holder.
+>A new highest known prime number has been calculated, clocking in at nearly 5 million digits more than the previous record holder....
 
 #### Factsheet
 >factsheet unavailable

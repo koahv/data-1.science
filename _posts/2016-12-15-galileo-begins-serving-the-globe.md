@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Europe’s own Galileo satellite navigation system has begun operating, with the satellites in space delivering positioning, navigation and timing information to users around the globe.
-
-	
+>Europe’s own Galileo satellite navigation system has begun operating, with the satellites in space delivering positioning, navigation and timing information to users around the globe....
 
 #### Factsheet
 >factsheet unavailable

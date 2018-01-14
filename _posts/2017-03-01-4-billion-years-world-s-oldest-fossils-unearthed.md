@@ -9,7 +9,7 @@ tags: [archaeology & fossils]
 
 
 #### Extract
->Remains of microorganisms at least 3,770 million years old have been discovered by an international team led by UCL scientists, providing direct evidence of one of the oldest life forms on Earth.
+>Remains of microorganisms at least 3,770 million years old have been discovered by an international team led by UCL scientists, providing direct evidence of one of the oldest life forms on Earth....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Pornography triggers brain activity in people with compulsive sexual behavior -- known commonly as sex addiction -- similar to that triggered by drugs in the brains of drug addicts, according to a a new study. However, the researchers caution that this does not necessarily mean that pornography itself is addictive.
+>Pornography triggers brain activity in people with compulsive sexual behavior -- known commonly as sex addiction -- similar to that triggered by drugs in the brains of drug addicts, according to a a new study. However, the researchers caution that this does not necessarily mean that pornography itself is addictive....
 
 #### Factsheet
 >factsheet unavailable

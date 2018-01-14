@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Vitamin B6 is important to maintaining a healthy body and developing a healthy brain.
+>Vitamin B6 is important to maintaining a healthy body and developing a healthy brain....
 
 #### Factsheet
 >factsheet unavailable

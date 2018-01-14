@@ -38,6 +38,11 @@ custom_extract=$(psql -X -A -U postgres -d ttrssdb2 --single-transaction --set O
 
 # strip html tags
 mod_extract="$(echo -e "${extract}" | sed -e 's/<[^>]*>//g')"
+mod_extract2="$(echo -e ${mod_extract:0:1000}
+)"
+
+
+# truncate
 # create url friendly post name
 mod_title1="$(echo -e "${title}" | iconv -t ascii//TRANSLIT | sed -r s/[^a-zA-Z0-9]+/-/g | sed -r s/^-+\|-+$//g | tr A-Z a-z)"
 
@@ -69,7 +74,7 @@ mod_tags="$(echo -e "${tags}" | sed -e 's/,/, /g')"
 rm post_data/${split_date[0]}-$mod_title1.md
 	
 	# write post
-echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: $date\\ncategories: $category\\nauthor: $author\\ntags: [$mod_tags]\\n---\\n\\n\\n#### Extract\\n>$mod_extract\\n\\n#### Factsheet\\n>$custom_extract\\n\\n[Visit Link]($link)\\n\\nid: $line_data" >> post_data/${split_date[0]}-$mod_title1.md
+echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: $date\\ncategories: $category\\nauthor: $author\\ntags: [$mod_tags]\\n---\\n\\n\\n#### Extract\\n>$mod_extract2...\\n\\n#### Factsheet\\n>$custom_extract\\n\\n[Visit Link]($link)\\n\\nid: $line_data" >> post_data/${split_date[0]}-$mod_title1.md
 
 
 

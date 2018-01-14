@@ -9,7 +9,7 @@ tags: [quantum physics]
 
 
 #### Extract
->(Phys.org)—Physicists have applied the ability of machine learning algorithms to learn from experience to one of the biggest challenges currently facing quantum computing: quantum error correction, which is used to design noise-tolerant quantum computing protocols. In a new study, they have demonstrated that a type of neural network called a Boltzmann machine can be trained to model the errors in a quantum computing protocol and then devise and implement the best method for correcting the errors.
+>(Phys.org)—Physicists have applied the ability of machine learning algorithms to learn from experience to one of the biggest challenges currently facing quantum computing: quantum error correction, which is used to design noise-tolerant quantum computing protocols. In a new study, they have demonstrated that a type of neural network called a Boltzmann machine can be trained to model the errors in a quantum computing protocol and then devise and implement the best method for correcting the errors....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->An atmospheric scientist has flown on planes outfitted with high tech equipment through wildfire plumes and over the ocean, and has visited stations all over the globe to observe aerosols and understand the potentially big impact these suspensions of tiny particles can have on climate. 
+>An atmospheric scientist has flown on planes outfitted with high tech equipment through wildfire plumes and over the ocean, and has visited stations all over the globe to observe aerosols and understand the potentially big impact these suspensions of tiny particles can have on climate....
 
 #### Factsheet
 >factsheet unavailable

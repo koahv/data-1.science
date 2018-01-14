@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Stroud Water Research Center) Scientists at Stroud Water Research Center, studying how the biological composition of a stream affects its form and function, will present a special session, calling for more research on this topic, during the Society of Freshwater Sciences 2015 annual meeting. The session, Advancing Biophysical Research: Integrating Species Interactions into Ecohydrology and Ecogeomorphology, will be held at 10:30 a.m., May 18, 2015, in room 101 CD, Wisconsin Center, 400 W. Wisconsin Avenue, Milwaukee, Wis.
+>(Stroud Water Research Center) Scientists at Stroud Water Research Center, studying how the biological composition of a stream affects its form and function, will present a special session, calling for more research on this topic, during the Society of Freshwater Sciences 2015 annual meeting. The session, Advancing Biophysical Research: Integrating Species Interactions into Ecohydrology and Ecogeomorphology, will be held at 10:30 a.m., May 18, 2015, in room 101 CD, Wisconsin Center, 400 W. Wisconsin Avenue, Milwaukee, Wis....
 
 #### Factsheet
 >factsheet unavailable

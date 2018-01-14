@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Ultraviolet light is a type of electromagnetic radiation. These high-frequency waves can damage living tissue.
+>Ultraviolet light is a type of electromagnetic radiation. These high-frequency waves can damage living tissue....
 
 #### Factsheet
 >factsheet unavailable

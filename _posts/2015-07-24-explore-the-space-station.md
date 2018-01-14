@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Explore the International Space Station with ESA astronaut Samantha Cristoforetti as your guide in this 360° interactive view 
-	
+>Explore the International Space Station with ESA astronaut Samantha Cristoforetti as your guide in this 360° interactive view...
 
 #### Factsheet
 >factsheet unavailable

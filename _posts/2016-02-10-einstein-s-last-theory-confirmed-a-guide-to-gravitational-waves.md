@@ -9,8 +9,7 @@ tags: []
 
 
 #### Extract
->
-                        In huge physics news, the LIGO experiment has seen ripples in space-time. Get ahead of the crowd with our answers to the big questions about gravitational waves                    
+>In huge physics news, the LIGO experiment has seen ripples in space-time. Get ahead of the crowd with our answers to the big questions about gravitational waves...
 
 #### Factsheet
 >factsheet unavailable

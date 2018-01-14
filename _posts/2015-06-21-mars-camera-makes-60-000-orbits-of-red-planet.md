@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->Next week, a visual and infrared camera designed at Arizona State University will pass 60,000 orbits of the Red Planet.
+>Next week, a visual and infrared camera designed at Arizona State University will pass 60,000 orbits of the Red Planet....
 
 #### Factsheet
 >factsheet unavailable

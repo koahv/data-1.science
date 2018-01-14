@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Cardiff University) The first trees to have ever grown on Earth were also the most complex, new research has revealed.
+>(Cardiff University) The first trees to have ever grown on Earth were also the most complex, new research has revealed....
 
 #### Factsheet
 >factsheet unavailable

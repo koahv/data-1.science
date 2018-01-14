@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers have, for the first time, identified neural signatures of explicit and implicit learning. 
+>Researchers have, for the first time, identified neural signatures of explicit and implicit learning....
 
 #### Factsheet
 >factsheet unavailable

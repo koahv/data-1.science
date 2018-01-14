@@ -9,7 +9,7 @@ tags: [cell & microbiology]
 
 
 #### Extract
->Ancient DNA traces from the family of viruses that cause a rare type of leukaemia have been found in the genomes of bats, filling the "last major gap" in retrovirus fossil record.
+>Ancient DNA traces from the family of viruses that cause a rare type of leukaemia have been found in the genomes of bats, filling the "last major gap" in retrovirus fossil record....
 
 #### Factsheet
 >factsheet unavailable

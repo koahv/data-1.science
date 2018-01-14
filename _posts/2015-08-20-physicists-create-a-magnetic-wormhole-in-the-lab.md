@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Spherical device might have very down-to-Earth applications
+>Spherical device might have very down-to-Earth applications...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Research into human fossils dating back to approximately two million years ago reveals that the hearing pattern resembles chimpanzees, but with some slight differences in the direction of humans. 
+>Research into human fossils dating back to approximately two million years ago reveals that the hearing pattern resembles chimpanzees, but with some slight differences in the direction of humans....
 
 #### Factsheet
 >factsheet unavailable

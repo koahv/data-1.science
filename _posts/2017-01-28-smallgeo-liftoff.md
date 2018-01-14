@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Watch the replay of the first launch of ESA's SmallGEO platform at 01:03 GMT on 28 January from Europe's Spaceport in French Guiana
-	
+>Watch the replay of the first launch of ESA's SmallGEO platform at 01:03 GMT on 28 January from Europe's Spaceport in French Guiana...
 
 #### Factsheet
 >factsheet unavailable

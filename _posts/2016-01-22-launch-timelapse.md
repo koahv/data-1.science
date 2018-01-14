@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		A timelapse of last month's Principia launch to the International Space Station with ESA astronaut Tim Peake, in 4K ultra-high definition
-	
+>A timelapse of last month's Principia launch to the International Space Station with ESA astronaut Tim Peake, in 4K ultra-high definition...
 
 #### Factsheet
 >factsheet unavailable

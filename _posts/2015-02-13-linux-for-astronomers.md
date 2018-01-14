@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->LinuxJournal: in this article, I introduce a distribution created specifically for astronomers, called Distro Astro.
+>LinuxJournal: in this article, I introduce a distribution created specifically for astronomers, called Distro Astro....
 
 #### Factsheet
 >factsheet unavailable

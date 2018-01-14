@@ -9,7 +9,7 @@ tags: [nature & environment]
 
 
 #### Extract
->Researchers have uncovered a massive new species of marine reptile called an elasmosaur that once lived within Alaska.
+>Researchers have uncovered a massive new species of marine reptile called an elasmosaur that once lived within Alaska....
 
 #### Factsheet
 >factsheet unavailable

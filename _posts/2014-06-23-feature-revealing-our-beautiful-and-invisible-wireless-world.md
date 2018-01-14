@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A researcher has invented a device that lets us see wireless networks.
+>A researcher has invented a device that lets us see wireless networks....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A strange new behavior of water molecules has been observed inside crystals of beryl, a type of emerald, caused by bizarre quantum-mechanical effects that let the water molecules face six different directions at the same time.
+>A strange new behavior of water molecules has been observed inside crystals of beryl, a type of emerald, caused by bizarre quantum-mechanical effects that let the water molecules face six different directions at the same time....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [online gallery, sun & moon pictures]
 
 
 #### Extract
->The post The moon in High Resolution appeared first on Sky &amp; Telescope.
+>The post The moon in High Resolution appeared first on Sky &amp; Telescope....
 
 #### Factsheet
 >factsheet unavailable

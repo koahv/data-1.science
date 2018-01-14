@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A new fossil find, named Coronodon havensteini, helps explain the unusual eating habits of the blue whale.
+>A new fossil find, named Coronodon havensteini, helps explain the unusual eating habits of the blue whale....
 
 #### Factsheet
 >factsheet unavailable

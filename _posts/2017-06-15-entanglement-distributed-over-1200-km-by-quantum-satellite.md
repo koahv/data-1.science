@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Orbiting photon source shatters distance record
+>Orbiting photon source shatters distance record...
 
 #### Factsheet
 >factsheet unavailable

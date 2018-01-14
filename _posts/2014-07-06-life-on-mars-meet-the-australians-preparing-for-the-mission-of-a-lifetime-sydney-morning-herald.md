@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NBC Southern CaliforniaLife on Mars: Meet the Australians preparing for the mission of a lifetimeSydney Morning HeraldThey are just two Australians among 705 international applicants being considered for inclusion in Mars One, a privately run Dutch expedition, the goal of which is to begin populating Mars from the year 2024. In that year, a first ship of four ...Mars One Soliciting Your Research Ideas for 2018 Robotic Red Planet LanderUniverse TodayUAE academic hopes invention will land on Mars in four years&#39; timeThe NationalVisit Mars Via DowneyNBC Southern CaliforniaFrench Tribuneall 8 news articles&nbsp;&raquo;
+>NBC Southern CaliforniaLife on Mars: Meet the Australians preparing for the mission of a lifetimeSydney Morning HeraldThey are just two Australians among 705 international applicants being considered for inclusion in Mars One, a privately run Dutch expedition, the goal of which is to begin populating Mars from the year 2024. In that year, a first ship of four ...Mars One Soliciting Your Research Ideas for 2018 Robotic Red Planet LanderUniverse TodayUAE academic hopes invention will land on Mars in four years&#39; timeThe NationalVisit Mars Via DowneyNBC Southern CaliforniaFrench Tribuneall 8 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Explore the Space Station’s second module on your mobile phone or virtual reality headset
-	
+>Explore the Space Station’s second module on your mobile phone or virtual reality headset...
 
 #### Factsheet
 >factsheet unavailable

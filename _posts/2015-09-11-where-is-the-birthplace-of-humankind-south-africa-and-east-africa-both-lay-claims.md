@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The new human fossils from South Africa have added fuel to a long-standing debate over the geographical origins of our species.
+>The new human fossils from South Africa have added fuel to a long-standing debate over the geographical origins of our species....
 
 #### Factsheet
 >factsheet unavailable

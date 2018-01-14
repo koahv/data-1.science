@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(American Chemical Society) To help address the global obesity epidemic, scientists are developing a new class of compounds called 'micelle sequestrant polymers,' or MSPs, that could prevent fat particles from getting absorbed in the body and thus potentially reduce weight gain. They report on their novel agents, which they tested on mice, in the ACS journal Biomacromolecules.
+>(American Chemical Society) To help address the global obesity epidemic, scientists are developing a new class of compounds called 'micelle sequestrant polymers,' or MSPs, that could prevent fat particles from getting absorbed in the body and thus potentially reduce weight gain. They report on their novel agents, which they tested on mice, in the ACS journal Biomacromolecules....
 
 #### Factsheet
 >factsheet unavailable

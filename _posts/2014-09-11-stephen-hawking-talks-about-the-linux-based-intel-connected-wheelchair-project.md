@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Intel has revealed a new, interesting concept called the Connected Wheelchair, which takes data from users and allows people to share that info with the community and is powered by Linux.
+>Intel has revealed a new, interesting concept called the Connected Wheelchair, which takes data from users and allows people to share that info with the community and is powered by Linux....
 
 #### Factsheet
 >factsheet unavailable

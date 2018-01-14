@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->When we think about pollination, the image that comes first to our mind is a bee or a butterfly covered by pollen. However, in the Cretaceous —about 105 million years ago— bees and butterflies did not exist, and most terrestrial ecosystems were dominated by non-flowering plants (gymnosperms).
+>When we think about pollination, the image that comes first to our mind is a bee or a butterfly covered by pollen. However, in the Cretaceous —about 105 million years ago— bees and butterflies did not exist, and most terrestrial ecosystems were dominated by non-flowering plants (gymnosperms)....
 
 #### Factsheet
 >factsheet unavailable

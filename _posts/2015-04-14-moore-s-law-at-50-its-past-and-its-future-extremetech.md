@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->ExtremeTechMoore&#39;s Law at 50: Its past and its futureExtremeTechBeyond that lies the weird world of quantum computing, which is slowly starting to take practical shape. Or perhaps new kinds of physical computer architectures, like those using light or perhaps graphene. Many children are familiar with the fable ...and more&nbsp;&raquo;
+>ExtremeTechMoore&#39;s Law at 50: Its past and its futureExtremeTechBeyond that lies the weird world of quantum computing, which is slowly starting to take practical shape. Or perhaps new kinds of physical computer architectures, like those using light or perhaps graphene. Many children are familiar with the fable ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

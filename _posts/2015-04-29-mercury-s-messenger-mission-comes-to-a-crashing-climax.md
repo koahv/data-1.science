@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->More than a decade after it left Earth, the space probe MESSENGER is in the dying days of its exploration of the planet Mercury.
+>More than a decade after it left Earth, the space probe MESSENGER is in the dying days of its exploration of the planet Mercury....
 
 #### Factsheet
 >factsheet unavailable

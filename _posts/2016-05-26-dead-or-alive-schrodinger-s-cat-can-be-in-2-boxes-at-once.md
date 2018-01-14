@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Schrodinger's Cat thought experiment is even weirder than people thought, with the quantum cat trapped in a box able to be alive and dead in two places at once.
+>The Schrodinger's Cat thought experiment is even weirder than people thought, with the quantum cat trapped in a box able to be alive and dead in two places at once....
 
 #### Factsheet
 >factsheet unavailable

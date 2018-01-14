@@ -9,7 +9,7 @@ tags: [meteor,  comet & asteroid pictures, online gallery]
 
 
 #### Extract
->The post Comet C/2013 X1 PanSTARRS meets the Helix Nebula appeared first on Sky &amp; Telescope.
+>The post Comet C/2013 X1 PanSTARRS meets the Helix Nebula appeared first on Sky &amp; Telescope....
 
 #### Factsheet
 >factsheet unavailable

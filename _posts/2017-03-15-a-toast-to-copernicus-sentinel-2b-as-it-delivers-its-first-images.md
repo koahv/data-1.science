@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Just over a week after being lofted into orbit,&nbsp;the European Union’s Sentinel-2B satellite delivered its first images of Earth, offering a glimpse of the ‘colour vision’ it will provide for the Copernicus environmental monitoring programme.
-
-	
+>Just over a week after being lofted into orbit,&nbsp;the European Union’s Sentinel-2B satellite delivered its first images of Earth, offering a glimpse of the ‘colour vision’ it will provide for the Copernicus environmental monitoring programme....
 
 #### Factsheet
 >factsheet unavailable

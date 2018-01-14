@@ -9,7 +9,7 @@ tags: [earth sciences]
 
 
 #### Extract
->A new study shows that iron-bearing rocks that formed at the ocean floor 3.2 billion years ago carry unmistakable evidence of oxygen. The only logical source for that oxygen is the earliest known example of photosynthesis by living organisms, say University of Wisconsin-Madison geoscientists.
+>A new study shows that iron-bearing rocks that formed at the ocean floor 3.2 billion years ago carry unmistakable evidence of oxygen. The only logical source for that oxygen is the earliest known example of photosynthesis by living organisms, say University of Wisconsin-Madison geoscientists....
 
 #### Factsheet
 >factsheet unavailable

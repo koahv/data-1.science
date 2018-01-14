@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(The Mount Sinai Hospital / Mount Sinai School of Medicine) Regulation of a single, specific gene in a brain region related to drug addiction and depression is sufficient to reduce drug and stress responses, according to a study conducted at the Icahn School of Medicine at Mount Sinai and published October 27 online in the journal Nature Neuroscience.
+>(The Mount Sinai Hospital / Mount Sinai School of Medicine) Regulation of a single, specific gene in a brain region related to drug addiction and depression is sufficient to reduce drug and stress responses, according to a study conducted at the Icahn School of Medicine at Mount Sinai and published October 27 online in the journal Nature Neuroscience....
 
 #### Factsheet
 >factsheet unavailable

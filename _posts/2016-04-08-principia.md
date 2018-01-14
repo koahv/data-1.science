@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		ESA astronaut Tim Peake shares the views from space and highlights of his Principia mission so far
-	
+>ESA astronaut Tim Peake shares the views from space and highlights of his Principia mission so far...
 
 #### Factsheet
 >factsheet unavailable

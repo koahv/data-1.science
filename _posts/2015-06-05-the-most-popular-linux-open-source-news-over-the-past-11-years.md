@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->With Phoronix turning eleven years old today, here's a look back at the most popular open-source and Linux news since 2004!..
+>With Phoronix turning eleven years old today, here's a look back at the most popular open-source and Linux news since 2004!.....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [earth]
 
 
 #### Extract
->Human forays deep underground, such as boreholes, mines and nuclear bomb tests, are leaving a mark on the planet's geology that will last for hundreds of millions of years, say scientists.
+>Human forays deep underground, such as boreholes, mines and nuclear bomb tests, are leaving a mark on the planet's geology that will last for hundreds of millions of years, say scientists....
 
 #### Factsheet
 >factsheet unavailable

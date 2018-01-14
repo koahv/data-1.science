@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->How can we preserve our knowledge today for the next millennia? Researchers have found a way to store information in the form of DNA, presumably preserving it for nearly an eternity.
+>How can we preserve our knowledge today for the next millennia? Researchers have found a way to store information in the form of DNA, presumably preserving it for nearly an eternity....
 
 #### Factsheet
 >factsheet unavailable

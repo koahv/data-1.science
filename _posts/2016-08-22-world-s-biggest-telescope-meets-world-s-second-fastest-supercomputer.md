@@ -9,7 +9,7 @@ tags: [astronomy]
 
 
 #### Extract
->A prototype part of the software system to manage data from the Square Kilometre Array (SKA) telescope has run on the world's second fastest supercomputer in China.
+>A prototype part of the software system to manage data from the Square Kilometre Array (SKA) telescope has run on the world's second fastest supercomputer in China....
 
 #### Factsheet
 >factsheet unavailable

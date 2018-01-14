@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsOn this day in history, December 17, 1958, Project Mercury was publicly announced. Running from 1958 through 1963, the program’s goal was to put a human into Earth’s orbit and return... Staff Author:&nbsp;Kaylie DuffyTopics:&nbsp;Aerospace
+>NewsOn this day in history, December 17, 1958, Project Mercury was publicly announced. Running from 1958 through 1963, the program’s goal was to put a human into Earth’s orbit and return... Staff Author:&nbsp;Kaylie DuffyTopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

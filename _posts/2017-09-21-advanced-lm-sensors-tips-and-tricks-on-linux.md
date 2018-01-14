@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;Advanced lm-sensors Tips and Tricks on Linux21 SepLearn more
+>Title:&nbsp;Advanced lm-sensors Tips and Tricks on Linux21 SepLearn more...
 
 #### Factsheet
 >factsheet unavailable

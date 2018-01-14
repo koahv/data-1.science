@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Guardian520-Million-Year-Old Sea Monster Unearthed in ChinaDiscovery NewsCultures with seafaring traditions are especially ripe in what seem like the tallest sea monster tales of all: hydra, kraken, sirens, scylla, leviathans, assorted serpents and mermaids. Usually the stories are never confirmed and usually baseless. Then ...520-million-year-old fossil with brain intact found in ChinaCBS Newsall 67 news articles&nbsp;&raquo;
+>The Guardian520-Million-Year-Old Sea Monster Unearthed in ChinaDiscovery NewsCultures with seafaring traditions are especially ripe in what seem like the tallest sea monster tales of all: hydra, kraken, sirens, scylla, leviathans, assorted serpents and mermaids. Usually the stories are never confirmed and usually baseless. Then ...520-million-year-old fossil with brain intact found in ChinaCBS Newsall 67 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

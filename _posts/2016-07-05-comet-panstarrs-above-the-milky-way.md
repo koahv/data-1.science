@@ -9,7 +9,7 @@ tags: [meteor,  comet & asteroid pictures, online gallery]
 
 
 #### Extract
->The post Comet PanSTARRS above the Milky Way‏ appeared first on Sky &amp; Telescope.
+>The post Comet PanSTARRS above the Milky Way‏ appeared first on Sky &amp; Telescope....
 
 #### Factsheet
 >factsheet unavailable

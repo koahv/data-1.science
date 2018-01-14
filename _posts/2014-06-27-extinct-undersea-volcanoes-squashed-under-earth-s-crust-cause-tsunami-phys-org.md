@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Extinct undersea volcanoes squashed under Earth&#39;s crust cause tsunami ...Phys.OrgThe new study, published in the journal Earth and Planetary Science Letters, reveals that tsunami earthquakes may be caused by extinct undersea volcanoes causing a &quot;sticking point&quot; between two sections of the Earth&#39;s crust called tectonic plates, where ...and more&nbsp;&raquo;
+>Extinct undersea volcanoes squashed under Earth&#39;s crust cause tsunami ...Phys.OrgThe new study, published in the journal Earth and Planetary Science Letters, reveals that tsunami earthquakes may be caused by extinct undersea volcanoes causing a &quot;sticking point&quot; between two sections of the Earth&#39;s crust called tectonic plates, where ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

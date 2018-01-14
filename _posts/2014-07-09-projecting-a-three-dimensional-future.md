@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Since the 1960s, theatergoers have shelled out for crude 3-D glasses, polarized glasses, and shutter glasses to enhance their viewing experience.Read more about Projecting a Three-Dimensional FutureComments
+>Since the 1960s, theatergoers have shelled out for crude 3-D glasses, polarized glasses, and shutter glasses to enhance their viewing experience.Read more about Projecting a Three-Dimensional FutureComments...
 
 #### Factsheet
 >factsheet unavailable

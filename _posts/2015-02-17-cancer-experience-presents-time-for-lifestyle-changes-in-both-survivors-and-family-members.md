@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->After studying cancer survivors and their family caregivers, researchers conclude that the period between the final cancer treatment and first post-treatment checkup may be an ideal time for the entire household to jumpstart a healthy lifestyle.
+>After studying cancer survivors and their family caregivers, researchers conclude that the period between the final cancer treatment and first post-treatment checkup may be an ideal time for the entire household to jumpstart a healthy lifestyle....
 
 #### Factsheet
 >factsheet unavailable

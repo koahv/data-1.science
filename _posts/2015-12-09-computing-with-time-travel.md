@@ -9,7 +9,7 @@ tags: [quantum physics]
 
 
 #### Extract
->Why send a message back in time, but lock it so that no one can ever read the contents? Because it may be the key to solving currently intractable problems. That's the claim of an international collaboration who have just published a paper in npj Quantum Information.
+>Why send a message back in time, but lock it so that no one can ever read the contents? Because it may be the key to solving currently intractable problems. That's the claim of an international collaboration who have just published a paper in npj Quantum Information....
 
 #### Factsheet
 >factsheet unavailable

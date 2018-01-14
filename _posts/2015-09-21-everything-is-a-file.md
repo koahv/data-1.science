@@ -9,10 +9,7 @@ tags: []
 
 
 #### Extract
->Here's a trick question for you: Which of the following are files?
-
-
-read more
+>Here's a trick question for you: Which of the following are files? read more...
 
 #### Factsheet
 >factsheet unavailable

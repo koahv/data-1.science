@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Replay: ESA astronaut Andreas Mogensen, commander Sergei Volkov and Aidyn Aimbetov launched into space 2 September at 04:37 GMT (06:37 CEST) from Baikonur cosmodrome, Kazakhstan. 
-	
+>Replay: ESA astronaut Andreas Mogensen, commander Sergei Volkov and Aidyn Aimbetov launched into space 2 September at 04:37 GMT (06:37 CEST) from Baikonur cosmodrome, Kazakhstan....
 
 #### Factsheet
 >factsheet unavailable

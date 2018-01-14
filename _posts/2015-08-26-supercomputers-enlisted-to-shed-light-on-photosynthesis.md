@@ -9,7 +9,7 @@ tags: [computer sciences]
 
 
 #### Extract
->Researchers at the UPV/EHU-University of the Basque Country are using high-performance computing to simulate the processes that take place during the first moments of photosynthesis
+>Researchers at the UPV/EHU-University of the Basque Country are using high-performance computing to simulate the processes that take place during the first moments of photosynthesis...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-ESA astronaut Paolo Nespoli, NASA astronaut Randy Bresnik and Roscosmos commander Sergei Ryazansky were launched into space yesterday from the Baikonur cosmodrome in Kazakhstan at 15:41 GMT (17:41 CEST). Their Soyuz MS-05 spacecraft circled Earth four times to catch up with the International Space Station six hours later and the crew are now settling into their new home and place of work for five months.
-
-	
+>ESA astronaut Paolo Nespoli, NASA astronaut Randy Bresnik and Roscosmos commander Sergei Ryazansky were launched into space yesterday from the Baikonur cosmodrome in Kazakhstan at 15:41 GMT (17:41 CEST). Their Soyuz MS-05 spacecraft circled Earth four times to catch up with the International Space Station six hours later and the crew are now settling into their new home and place of work for five months....
 
 #### Factsheet
 >factsheet unavailable

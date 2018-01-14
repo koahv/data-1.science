@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A strange Swedish meteorite is unlike any rock seen before and is seemingly the first piece of a "bullet" that sparked an explosion of life on early Earth
+>A strange Swedish meteorite is unlike any rock seen before and is seemingly the first piece of a "bullet" that sparked an explosion of life on early Earth...
 
 #### Factsheet
 >factsheet unavailable

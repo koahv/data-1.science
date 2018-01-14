@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Recent research contributes to the effort to determine the nature of dark matter, one of the most important mysteries in physics. As indirect evidence provided by its gravitational effects, dark matter amounts to more than 80% of the universe.
+>Recent research contributes to the effort to determine the nature of dark matter, one of the most important mysteries in physics. As indirect evidence provided by its gravitational effects, dark matter amounts to more than 80% of the universe....
 
 #### Factsheet
 >factsheet unavailable

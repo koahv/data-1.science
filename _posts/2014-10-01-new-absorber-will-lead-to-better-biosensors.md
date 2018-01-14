@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Northwestern University) Northwestern University's Koray Aydin designed a new nanostructure that absorbs ultranarrow bands of light spectrum and can be used in a number of applications, including the creation of more sensitive biosensors.
+>(Northwestern University) Northwestern University's Koray Aydin designed a new nanostructure that absorbs ultranarrow bands of light spectrum and can be used in a number of applications, including the creation of more sensitive biosensors....
 
 #### Factsheet
 >factsheet unavailable

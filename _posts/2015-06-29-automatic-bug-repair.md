@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Massachusetts Institute of Technology) At the Association for Computing Machinery's Programming Language Design and Implementation this month, MIT researchers presented a new system that repairs dangerous software bugs by automatically importing functionality from other, more secure applications.
+>(Massachusetts Institute of Technology) At the Association for Computing Machinery's Programming Language Design and Implementation this month, MIT researchers presented a new system that repairs dangerous software bugs by automatically importing functionality from other, more secure applications....
 
 #### Factsheet
 >factsheet unavailable

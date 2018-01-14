@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsSwitzerland on Wednesday was inaugurating the 57-kilometer (35.4 mile) Gotthard Railway Tunnel, a major engineering achievement deep under snow-capped peaks carried out over 17 years at a cost of...Contributed Author:&nbsp;Jamey Keaten, Associated PressTopics:&nbsp;Civil Engineering
+>NewsSwitzerland on Wednesday was inaugurating the 57-kilometer (35.4 mile) Gotthard Railway Tunnel, a major engineering achievement deep under snow-capped peaks carried out over 17 years at a cost of...Contributed Author:&nbsp;Jamey Keaten, Associated PressTopics:&nbsp;Civil Engineering...
 
 #### Factsheet
 >factsheet unavailable

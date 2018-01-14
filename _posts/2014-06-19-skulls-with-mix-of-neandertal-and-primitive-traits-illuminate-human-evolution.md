@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(American Association for the Advancement of Science) Researchers have analyzed the largest collection of ancient fossil hominin species ever recovered from a single excavation site, shedding light on the origin and evolution of Neandertals.
+>(American Association for the Advancement of Science) Researchers have analyzed the largest collection of ancient fossil hominin species ever recovered from a single excavation site, shedding light on the origin and evolution of Neandertals....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Cenozoic Era began about 65 million years ago and continues into the present.
+>The Cenozoic Era began about 65 million years ago and continues into the present....
 
 #### Factsheet
 >factsheet unavailable

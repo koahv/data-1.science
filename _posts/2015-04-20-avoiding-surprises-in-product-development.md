@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Everyone hates non-recurring engineering (NRE) charges and it may seem like a pleasant surprise when a contractor with design engineering capabilities offers a discount that eliminates some or all of these charges. If the work stays at the contractor, there may be no downside.Read more about Avoiding Surprises in Product DevelopmentComments
+>Everyone hates non-recurring engineering (NRE) charges and it may seem like a pleasant surprise when a contractor with design engineering capabilities offers a discount that eliminates some or all of these charges. If the work stays at the contractor, there may be no downside.Read more about Avoiding Surprises in Product DevelopmentComments...
 
 #### Factsheet
 >factsheet unavailable

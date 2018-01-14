@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Ancient rock record remains unaltered by vast temperature fluctuations
+>Ancient rock record remains unaltered by vast temperature fluctuations...
 
 #### Factsheet
 >factsheet unavailable

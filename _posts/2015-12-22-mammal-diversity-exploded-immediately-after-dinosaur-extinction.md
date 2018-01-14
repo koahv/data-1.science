@@ -9,7 +9,7 @@ tags: [archaeology & fossils]
 
 
 #### Extract
->The diversity of mammals on Earth exploded straight after the dinosaur extinction event, according to UCL researchers. New analysis of the fossil record shows that placental mammals, the group that today includes nearly 5000 species including humans, became more varied in anatomy during the Paleocene epoch - the 10 million years immediately following the event.
+>The diversity of mammals on Earth exploded straight after the dinosaur extinction event, according to UCL researchers. New analysis of the fossil record shows that placental mammals, the group that today includes nearly 5000 species including humans, became more varied in anatomy during the Paleocene epoch - the 10 million years immediately following the event....
 
 #### Factsheet
 >factsheet unavailable

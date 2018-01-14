@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Physicists have solved the seemingly intractable puzzle of how to control the quantum properties of individual charged molecules, or molecular ions. The solution is to use the same kind of 'quantum logic' that drives an experimental NIST atomic clock. 
+>Physicists have solved the seemingly intractable puzzle of how to control the quantum properties of individual charged molecules, or molecular ions. The solution is to use the same kind of 'quantum logic' that drives an experimental NIST atomic clock....
 
 #### Factsheet
 >factsheet unavailable

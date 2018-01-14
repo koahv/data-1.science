@@ -9,7 +9,7 @@ tags: [quantum physics]
 
 
 #### Extract
->(Phys.org)—Inspired by natural selection and the concept of "survival of the fittest," genetic algorithms are flexible optimization techniques that can find the best solution to a problem by repeatedly selecting for and breeding ever "fitter" generations of solutions.
+>(Phys.org)—Inspired by natural selection and the concept of "survival of the fittest," genetic algorithms are flexible optimization techniques that can find the best solution to a problem by repeatedly selecting for and breeding ever "fitter" generations of solutions....
 
 #### Factsheet
 >factsheet unavailable

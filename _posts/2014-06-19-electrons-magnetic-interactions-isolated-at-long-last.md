@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Quantum-information method helps make exquisite measurement
+>Quantum-information method helps make exquisite measurement...
 
 #### Factsheet
 >factsheet unavailable

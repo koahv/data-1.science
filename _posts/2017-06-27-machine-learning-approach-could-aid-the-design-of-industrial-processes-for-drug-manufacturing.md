@@ -9,7 +9,7 @@ tags: [materials science]
 
 
 #### Extract
->When organic chemists identify a useful chemical compound—a new drug, for instance—it's up to chemical engineers to determine how to mass-produce it.
+>When organic chemists identify a useful chemical compound—a new drug, for instance—it's up to chemical engineers to determine how to mass-produce it....
 
 #### Factsheet
 >factsheet unavailable

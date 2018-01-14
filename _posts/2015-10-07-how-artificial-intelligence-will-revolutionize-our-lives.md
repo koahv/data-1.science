@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->On one hand, it may help cure cancer and let robots rather than humans fight wars; on the other, doctors and lawyers may be out of a job.
+>On one hand, it may help cure cancer and let robots rather than humans fight wars; on the other, doctors and lawyers may be out of a job....
 
 #### Factsheet
 >factsheet unavailable

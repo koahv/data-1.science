@@ -9,7 +9,7 @@ tags: [environment]
 
 
 #### Extract
->Soon, the world will gather in Paris to forge a global pact to reduce greenhouse gas emissions blamed for dangerous levels of global warming.
+>Soon, the world will gather in Paris to forge a global pact to reduce greenhouse gas emissions blamed for dangerous levels of global warming....
 
 #### Factsheet
 >factsheet unavailable

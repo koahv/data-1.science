@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Harnessing the shared wave nature of light and matter, researchers have used light to explore some of the most intriguing questions in the quantum mechanics of materials. 
+>Harnessing the shared wave nature of light and matter, researchers have used light to explore some of the most intriguing questions in the quantum mechanics of materials....
 
 #### Factsheet
 >factsheet unavailable

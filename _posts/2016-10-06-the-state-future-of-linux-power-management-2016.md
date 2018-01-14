@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Linux's power management and ACPI subsystems maintainer Rafael Wysocki presented at this week's LinuxCon Europe event in Berlin about the state and future of power management in the Linux kernel...
+>Linux's power management and ACPI subsystems maintainer Rafael Wysocki presented at this week's LinuxCon Europe event in Berlin about the state and future of power management in the Linux kernel......
 
 #### Factsheet
 >factsheet unavailable

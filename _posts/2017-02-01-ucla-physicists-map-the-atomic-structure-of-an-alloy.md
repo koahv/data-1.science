@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of California - Los Angeles) UCLA physicists and collaborators have mapped the coordinates of more than 23,000 individual atoms in a tiny iron-platinum nanoparticle to reveal the material's innate defects. These results demonstrate that the positions of tens of thousands of atoms can be precisely identified and then fed into quantum mechanics calculations to correlate imperfections and defects with material properties at the single-atom level.
+>(University of California - Los Angeles) UCLA physicists and collaborators have mapped the coordinates of more than 23,000 individual atoms in a tiny iron-platinum nanoparticle to reveal the material's innate defects. These results demonstrate that the positions of tens of thousands of atoms can be precisely identified and then fed into quantum mechanics calculations to correlate imperfections and defects with material properties at the single-atom level....
 
 #### Factsheet
 >factsheet unavailable

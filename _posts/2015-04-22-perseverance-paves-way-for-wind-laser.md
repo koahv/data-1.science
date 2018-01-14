@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Developing new satellite instruments is always challenging, but at times more head-scratching is needed to create something truly cutting-edge. ESA’s Aeolus mission may have caused a few headaches along the way, but its wind lasers are now ready and the task of putting the rest of the instrument together can begin so that it can be ready for launch in 2016.
-
-	
+>Developing new satellite instruments is always challenging, but at times more head-scratching is needed to create something truly cutting-edge. ESA’s Aeolus mission may have caused a few headaches along the way, but its wind lasers are now ready and the task of putting the rest of the instrument together can begin so that it can be ready for launch in 2016....
 
 #### Factsheet
 >factsheet unavailable

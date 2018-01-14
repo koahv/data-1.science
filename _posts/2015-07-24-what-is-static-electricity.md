@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Static electricity results from an imbalance between negative and positive charges in objects.
+>Static electricity results from an imbalance between negative and positive charges in objects....
 
 #### Factsheet
 >factsheet unavailable

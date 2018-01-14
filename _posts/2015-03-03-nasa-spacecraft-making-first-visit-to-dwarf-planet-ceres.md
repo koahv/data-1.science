@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A NASA spacecraft is about to reach the end of a nearly eight-year journey and make the first rendezvous with a dwarf planet.Read more about NASA Spacecraft Making First Visit to Dwarf Planet Ceres Comments
+>A NASA spacecraft is about to reach the end of a nearly eight-year journey and make the first rendezvous with a dwarf planet.Read more about NASA Spacecraft Making First Visit to Dwarf Planet Ceres Comments...
 
 #### Factsheet
 >factsheet unavailable

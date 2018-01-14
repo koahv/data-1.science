@@ -9,7 +9,7 @@ tags: [computer sciences]
 
 
 #### Extract
-> Professor Stephen Hawking on Wednesday opened a new artificial intelligence research centre at Britain's Cambridge University.
+>Professor Stephen Hawking on Wednesday opened a new artificial intelligence research centre at Britain's Cambridge University....
 
 #### Factsheet
 >factsheet unavailable

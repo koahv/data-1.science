@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Space Science Image of the Week: ESA’s Venus Express spacecraft snapped this image in 2007 of a rapidly shape-shifting vortex at Venus’ south pole
-	
+>Space Science Image of the Week: ESA’s Venus Express spacecraft snapped this image in 2007 of a rapidly shape-shifting vortex at Venus’ south pole...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->An international team of scientists has found some of the best evidence yet that Venus, Earth's nearest neighbor, is volcanically active.
+>An international team of scientists has found some of the best evidence yet that Venus, Earth's nearest neighbor, is volcanically active....
 
 #### Factsheet
 >factsheet unavailable

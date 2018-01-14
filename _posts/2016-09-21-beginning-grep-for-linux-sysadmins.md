@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;Beginning Grep for Linux SysAdmins21 SepLearn more
+>Title:&nbsp;Beginning Grep for Linux SysAdmins21 SepLearn more...
 
 #### Factsheet
 >factsheet unavailable

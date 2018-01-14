@@ -9,7 +9,7 @@ tags: [materials science]
 
 
 #### Extract
->Using ultrafast imaging of moving energy in photosynthesis, scientists have determined the speed of crucial processes for the first time.
+>Using ultrafast imaging of moving energy in photosynthesis, scientists have determined the speed of crucial processes for the first time....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A longstanding question among scientists is whether evolution is predictable. A team of researchers from University of California Santa Barbara may have found a preliminary answer. The genetic underpinnings of complex traits in cephalopods may in fact be predictable because they evolved in the same way in two distinct species of squid.
+>A longstanding question among scientists is whether evolution is predictable. A team of researchers from University of California Santa Barbara may have found a preliminary answer. The genetic underpinnings of complex traits in cephalopods may in fact be predictable because they evolved in the same way in two distinct species of squid....
 
 #### Factsheet
 >factsheet unavailable

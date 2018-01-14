@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Linux terminal can be a complex beast, and it would be handy to have something like Siri to help make things easier.
+>The Linux terminal can be a complex beast, and it would be handy to have something like Siri to help make things easier....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->When University of California, Berkeley, bioengineers say they are holding their hearts in the palms of their hands, they are not talking about emotional vulnerability.
+>When University of California, Berkeley, bioengineers say they are holding their hearts in the palms of their hands, they are not talking about emotional vulnerability....
 
 #### Factsheet
 >factsheet unavailable

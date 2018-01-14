@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsEngineers at NASA's Glenn Research Center in Cleveland, Ohio and Orbital ATK in Dulles, Virginia successfully conducted the first remote Spacecraft Fire Experiment, or Saffire I, carried inside an...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace
+>NewsEngineers at NASA's Glenn Research Center in Cleveland, Ohio and Orbital ATK in Dulles, Virginia successfully conducted the first remote Spacecraft Fire Experiment, or Saffire I, carried inside an...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

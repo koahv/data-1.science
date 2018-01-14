@@ -9,7 +9,7 @@ tags: [quantum physics]
 
 
 #### Extract
->Researchers from Stanford have advanced a long-standing problem in quantum physics – how to send "entangled" particles over long distances.
+>Researchers from Stanford have advanced a long-standing problem in quantum physics – how to send "entangled" particles over long distances....
 
 #### Factsheet
 >factsheet unavailable

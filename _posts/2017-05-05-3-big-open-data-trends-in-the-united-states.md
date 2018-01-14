@@ -9,9 +9,7 @@ tags: []
 
 
 #### Extract
->The open data community got a surprising piece of news when the Trump Administration recently announced that it would no longer be supporting the Open.whitehouse.gov's Open Data portal.
-
-read more
+>The open data community got a surprising piece of news when the Trump Administration recently announced that it would no longer be supporting the Open.whitehouse.gov's Open Data portal. read more...
 
 #### Factsheet
 >factsheet unavailable

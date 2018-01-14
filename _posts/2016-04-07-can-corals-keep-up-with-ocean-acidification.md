@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Delaware) An interdisciplinary team of researchers led by University of Delaware professors Wei-Jun Cai and Mark Warner has successfully measured both pH and carbonate ion concentration directly inside the calcifying fluid found in coral, an important development in the study of how ocean acidification will affect marine calcifying organisms such as corals and shellfish.
+>(University of Delaware) An interdisciplinary team of researchers led by University of Delaware professors Wei-Jun Cai and Mark Warner has successfully measured both pH and carbonate ion concentration directly inside the calcifying fluid found in coral, an important development in the study of how ocean acidification will affect marine calcifying organisms such as corals and shellfish....
 
 #### Factsheet
 >factsheet unavailable

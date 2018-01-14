@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Pittsburgh Post GazetteBattery technology grows to meet demands of renewable energyPittsburgh Post GazetteThose skeptical of renewable energy as a viable power source often note that the wind doesn&#39;t always blow nor does the sun always shine. But advancements in battery technology are helping keep energy flowing on those dark, windless days. “It&#39;s ...
+>Pittsburgh Post GazetteBattery technology grows to meet demands of renewable energyPittsburgh Post GazetteThose skeptical of renewable energy as a viable power source often note that the wind doesn&#39;t always blow nor does the sun always shine. But advancements in battery technology are helping keep energy flowing on those dark, windless days. “It&#39;s ......
 
 #### Factsheet
 >factsheet unavailable

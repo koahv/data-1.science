@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->The Andromeda galaxy is one of the most distant objects that we can see in the night sky with the naked eye. The light that we see now left there 2.5 million years ago. While this might seem a lot, in practice it is in our cosmic 'backyard', because Andromeda is one of our closest galactic neighbours.
+>The Andromeda galaxy is one of the most distant objects that we can see in the night sky with the naked eye. The light that we see now left there 2.5 million years ago. While this might seem a lot, in practice it is in our cosmic 'backyard', because Andromeda is one of our closest galactic neighbours....
 
 #### Factsheet
 >factsheet unavailable

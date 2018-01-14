@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Red Hat brings its public cloud offering, OpenShift Online, to the same Linux containers- and Kubernetes-based foundation as OpenShift Container Platform.
+>Red Hat brings its public cloud offering, OpenShift Online, to the same Linux containers- and Kubernetes-based foundation as OpenShift Container Platform....
 
 #### Factsheet
 >factsheet unavailable

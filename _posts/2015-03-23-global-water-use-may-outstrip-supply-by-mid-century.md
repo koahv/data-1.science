@@ -9,7 +9,7 @@ tags: [earth]
 
 
 #### Extract
->Population growth could cause global demand for water to outpace supply by mid-century if current levels of consumption continue. But it wouldn't be the first time this has happened, a Duke University study finds.
+>Population growth could cause global demand for water to outpace supply by mid-century if current levels of consumption continue. But it wouldn't be the first time this has happened, a Duke University study finds....
 
 #### Factsheet
 >factsheet unavailable

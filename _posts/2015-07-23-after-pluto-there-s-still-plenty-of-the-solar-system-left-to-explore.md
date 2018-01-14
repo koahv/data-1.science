@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->The past couple of years have been very exciting for space exploration. We've watched as spacecraft made visits to Mars, comet 67P and, just last week, Pluto, which for decades marked the edge of our solar system.
+>The past couple of years have been very exciting for space exploration. We've watched as spacecraft made visits to Mars, comet 67P and, just last week, Pluto, which for decades marked the edge of our solar system....
 
 #### Factsheet
 >factsheet unavailable

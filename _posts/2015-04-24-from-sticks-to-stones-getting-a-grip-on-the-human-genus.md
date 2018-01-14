@@ -9,7 +9,7 @@ tags: [other sciences]
 
 
 #### Extract
->2015 has already been an amazing year for human evolution science.
+>2015 has already been an amazing year for human evolution science....
 
 #### Factsheet
 >factsheet unavailable

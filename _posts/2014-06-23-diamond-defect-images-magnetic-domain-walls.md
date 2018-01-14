@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Method could help develop sophisticated spintronic memories
+>Method could help develop sophisticated spintronic memories...
 
 #### Factsheet
 >factsheet unavailable

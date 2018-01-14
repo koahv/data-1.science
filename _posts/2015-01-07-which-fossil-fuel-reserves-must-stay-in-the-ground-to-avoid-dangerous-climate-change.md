@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University College London) A third of oil reserves, half of gas reserves and over 80-percent of current coal reserves globally should remain in the ground and not be used before 2050 if global warming is to stay below the 2°C target agreed by policy makers, according to new research by the University College London Institute for Sustainable Resources.
+>(University College London) A third of oil reserves, half of gas reserves and over 80-percent of current coal reserves globally should remain in the ground and not be used before 2050 if global warming is to stay below the 2°C target agreed by policy makers, according to new research by the University College London Institute for Sustainable Resources....
 
 #### Factsheet
 >factsheet unavailable

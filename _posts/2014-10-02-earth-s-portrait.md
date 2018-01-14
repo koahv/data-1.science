@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		The latest land-cover map for studying the effects of climate change, conserving biodiversity and managing natural resources has been released
-	
+>The latest land-cover map for studying the effects of climate change, conserving biodiversity and managing natural resources has been released...
 
 #### Factsheet
 >factsheet unavailable

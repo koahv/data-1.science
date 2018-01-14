@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The HinduHow deep-water sharks seeThe HinduDr. Claes said that it is not yet understood how this region works but its position suggests that it is a way for sharks to ensure efficient counter-illumination, a camouflage technique used by many mid-water animals. “Counter-illuminating ...and more&nbsp;&raquo;
+>The HinduHow deep-water sharks seeThe HinduDr. Claes said that it is not yet understood how this region works but its position suggests that it is a way for sharks to ensure efficient counter-illumination, a camouflage technique used by many mid-water animals. “Counter-illuminating ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

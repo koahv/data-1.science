@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->Neptune, that icy gas giant that is the eight planet from our Sun, was discovered in 1846 by two astronomers  – Urbain Le Verrier and Johann Galle. In keeping with the convention of planetary nomenclature, Neptune was named after the Roman god of the sea (the equivalent to the Greek Poseidon). And just seventeen days after it was discovered, astronomers began to notice that it too had a system of moons.
+>Neptune, that icy gas giant that is the eight planet from our Sun, was discovered in 1846 by two astronomers – Urbain Le Verrier and Johann Galle. In keeping with the convention of planetary nomenclature, Neptune was named after the Roman god of the sea (the equivalent to the Greek Poseidon). And just seventeen days after it was discovered, astronomers began to notice that it too had a system of moons....
 
 #### Factsheet
 >factsheet unavailable

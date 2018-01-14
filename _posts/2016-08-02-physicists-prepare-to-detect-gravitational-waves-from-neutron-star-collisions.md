@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->(Phys.org)—Last February, scientists made the groundbreaking discovery of gravitational waves produced by two colliding black holes. Now researchers are expecting to detect similar gravitational wave signals in the near future from collisions involving neutron stars—for example, the merging of two neutron stars to form a black hole, or the merging of a neutron star and a black hole.
+>(Phys.org)—Last February, scientists made the groundbreaking discovery of gravitational waves produced by two colliding black holes. Now researchers are expecting to detect similar gravitational wave signals in the near future from collisions involving neutron stars—for example, the merging of two neutron stars to form a black hole, or the merging of a neutron star and a black hole....
 
 #### Factsheet
 >factsheet unavailable

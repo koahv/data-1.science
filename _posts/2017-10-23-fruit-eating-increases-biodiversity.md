@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->By dispersing the seeds of plants, fruit-eating animals contribute to the possibility of increased plant speciation and thus biodiversity, investigators have discovered. 
+>By dispersing the seeds of plants, fruit-eating animals contribute to the possibility of increased plant speciation and thus biodiversity, investigators have discovered....
 
 #### Factsheet
 >factsheet unavailable

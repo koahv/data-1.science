@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Analysis of ancient cadavers recovered at a famous archaeological site confirm the existence of a sophisticated culture of butchering and carving human remains, according to a team of scientists.
+>Analysis of ancient cadavers recovered at a famous archaeological site confirm the existence of a sophisticated culture of butchering and carving human remains, according to a team of scientists....
 
 #### Factsheet
 >factsheet unavailable

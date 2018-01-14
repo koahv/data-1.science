@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Allen Institute) Researchers at the Allen Institute for Brain Science have published an in-depth analysis of a comprehensive molecular atlas of brain development in the non-human primate. This analysis uncovers features of the genetic code underlying brain development in our close evolutionary relative, while revealing distinct features of human brain development by comparison.
+>(Allen Institute) Researchers at the Allen Institute for Brain Science have published an in-depth analysis of a comprehensive molecular atlas of brain development in the non-human primate. This analysis uncovers features of the genetic code underlying brain development in our close evolutionary relative, while revealing distinct features of human brain development by comparison....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Southern California) Scientists explore the strange properties of 'superfluids' -- a new state of matter.
+>(University of Southern California) Scientists explore the strange properties of 'superfluids' -- a new state of matter....
 
 #### Factsheet
 >factsheet unavailable

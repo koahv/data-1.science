@@ -9,29 +9,7 @@ tags: []
 
 
 #### Extract
-> 
- 
-
- 
- 
-Observations by the NASA/ESA Hubble Space Telescope have taken advantage of gravitational lensing to reveal the largest sample of the faintest and earliest known galaxies in the Universe. Some of these galaxies formed just 600 million years after the Big Bang and are fainter than any other galaxy yet uncovered by Hubble. The team has determined, for the first time with some confidence, that these small galaxies were vital to creating the Universe that we see today.
-An international team of astronomers, led by Hakim Atek of the Ecole Polytechnique Fédérale de Lausanne, Switzerland, has discovered over 250 tiny galaxies that existed only 600-900 million years after the Big Bang -- one of the largest samples of dwarf galaxies yet to be discovered at these epochs. The light from these galaxies took over 12 billion years to reach the telescope, allowing the astronomers to look back in time when the universe was still very young.
-Although impressive, the number of galaxies found at this early epoch is not the team's only remarkable breakthrough, as Johan Richard from the Observatoire de Lyon, France, points out, "The faintest galaxies detected in these Hubble observations are fainter than any other yet uncovered in the deepest Hubble observations."
-By looking at the light coming from the galaxies the team discovered that the accumulated light emitted by these galaxies could have played a major role in one of the most mysterious periods of the Universe's early history -- the epoch of reionisation. Reionisation started when the thick fog of hydrogen gas that cloaked the early Universe began to clear. Ultraviolet light was now able to travel over larger distances without being blocked and the Universe became transparent to ultraviolet light [2].
-By observing the ultraviolet light from the galaxies found in this study the astronomers were able to calculate whether these were in fact some of the galaxies involved in the process. The team determined, for the first time with some confidence, that the smallest and most abundant of the galaxies in the study could be the major actors in keeping the Universe transparent. By doing so, they have established that the epoch of reionisation -- which ends at the point when the Universe is fully transparent -- came to a close about 700 million years after the Big Bang [3].
-Lead author Atek explained, "If we took into account only the contributions from bright and massive galaxies, we found that these were insufficient to reionise the Universe. We also needed to add in the contribution of a more abundant population of faint dwarf galaxies."
-To make these discoveries, the team utilised the deepest images of gravitational lensing made so far in three galaxy clusters, which were taken as part of the Hubble Frontier Fields (http://frontierfields.org/) programme [4]. These clusters generate immense gravitational fields capable of magnifying the light from the faint galaxies that lie far behind the clusters themselves. This makes it possible to search for, and study, the first generation of galaxies in the Universe.
-Jean-Paul Kneib, co-author of the study from the Ecole Polytechnique Fédérale de Lausanne, Switzerland, explains, "Clusters in the Frontier Fields act as powerful natural telescopes and unveil these faint dwarf galaxies that would otherwise be invisible."
-These results highlight the impressive possibilities of the Frontier Fields programme with more galaxies, at even earlier time, likely to be revealed when Hubble peers at three more of these galaxy clusters in the near future.
-The image at the top of the page is from the NASA/ESA Hubble Space Telescope showing the galaxy cluster MACS J0416.1 2403. This is one of six being studied by the Hubble Frontier Fields program.
-The Daily Galaxy via ESA/Hubble Information Center
-Image credit: NASA, ESA and the HST Frontier Fields team (STScI)
-Related articles
-
-Rocky Planet with a 3-Day Orbit --"Only 21 Light-Years Away"
-NASA's Virtual Planetary Laboratory --A New "Systems" Approach to the Search for Alien Life
-"Our Early Solar System Harbored SuperEarths" (Weekend Feature)
-
+>         Observations by the NASA/ESA Hubble Space Telescope have taken advantage of gravitational lensing to reveal the largest sample of the faintest and earliest known galaxies in the Universe. Some of these galaxies formed just 600 million years after the Big Bang and are fainter than any other galaxy yet uncovered by Hubble. The team has determined, for the first time with some confidence, that these small galaxies were vital to creating the Universe that we see today. An international team of astronomers, led by Hakim Atek of the Ecole Polytechnique Fédérale de Lausanne, Switzerland, has discovered over 250 tiny galaxies that existed only 600-900 million years after the Big Bang -- one of the largest samples of dwarf galaxies yet to be discovered at these epochs. The light from these galaxies took over 12 billion years to reach the telescope, allowing the astronomers to look back in time when the universe was still very young. Although impressive, the number of galaxies fo...
 
 #### Factsheet
 >factsheet unavailable

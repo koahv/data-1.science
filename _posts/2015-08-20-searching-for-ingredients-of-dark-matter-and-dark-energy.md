@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(American Association for the Advancement of Science) Two new reports advance efforts to identify components of dark matter and energy, which together comprise about 95 percent of the universe yet leave much to scientists' imaginations.
+>(American Association for the Advancement of Science) Two new reports advance efforts to identify components of dark matter and energy, which together comprise about 95 percent of the universe yet leave much to scientists' imaginations....
 
 #### Factsheet
 >factsheet unavailable

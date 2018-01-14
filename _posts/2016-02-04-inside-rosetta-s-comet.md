@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-There are no large caverns inside Comet 67P/Churyumov-Gerasimenko. ESA’s Rosetta mission has made measurements that clearly demonstrate this, solving a long-standing mystery.
-
-	
+>There are no large caverns inside Comet 67P/Churyumov-Gerasimenko. ESA’s Rosetta mission has made measurements that clearly demonstrate this, solving a long-standing mystery....
 
 #### Factsheet
 >factsheet unavailable

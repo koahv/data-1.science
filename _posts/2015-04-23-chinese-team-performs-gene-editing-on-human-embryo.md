@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->(Phys.org)—A team of researchers in China has announced that they have performed gene editing on human embryos. In their paper uploaded to the open access site Protein & Cell (after being rejected by Nature and Science) the researchers defended their research by pointing out that the embryos used in their research were non-viable.
+>(Phys.org)—A team of researchers in China has announced that they have performed gene editing on human embryos. In their paper uploaded to the open access site Protein & Cell (after being rejected by Nature and Science) the researchers defended their research by pointing out that the embryos used in their research were non-viable....
 
 #### Factsheet
 >factsheet unavailable

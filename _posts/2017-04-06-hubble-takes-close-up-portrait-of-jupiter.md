@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(ESA/Hubble Information Centre) During April 2017 Jupiter is in opposition: it is at its closest to Earth and the hemisphere facing Earth is fully illuminated by the Sun. The NASA/ESA Hubble Space Telescope used this special configuration to capture an image of what is by far the largest planet in the Solar System. This image adds to many others made in the past, and together they allow astronomers to study changes in the atmosphere of the gas giant.
+>(ESA/Hubble Information Centre) During April 2017 Jupiter is in opposition: it is at its closest to Earth and the hemisphere facing Earth is fully illuminated by the Sun. The NASA/ESA Hubble Space Telescope used this special configuration to capture an image of what is by far the largest planet in the Solar System. This image adds to many others made in the past, and together they allow astronomers to study changes in the atmosphere of the gas giant....
 
 #### Factsheet
 >factsheet unavailable

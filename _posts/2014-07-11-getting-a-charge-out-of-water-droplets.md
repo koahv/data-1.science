@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Last year, MIT researchers discovered that when water droplets spontaneously jump away from superhydrophobic surfaces during condensation, they can gaRead more about Getting a Charge Out of Water DropletsComments
+>Last year, MIT researchers discovered that when water droplets spontaneously jump away from superhydrophobic surfaces during condensation, they can gaRead more about Getting a Charge Out of Water DropletsComments...
 
 #### Factsheet
 >factsheet unavailable

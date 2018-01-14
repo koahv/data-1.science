@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->The OPERA (Oscillation Project with Emulsion-tRacking Apparatus) experiment at the Italian National Institute for Nuclear Physics (INFN) at Gran Sasso in Italy has detected the fifth occurrence of a tau neutrino in the muon-neutrino beam from CERN. A particle that left CERN as a muon neutrino underwent "oscillation" during its 730-kilometre journey to Gran Sasso, arriving as a tau neutrino.
+>The OPERA (Oscillation Project with Emulsion-tRacking Apparatus) experiment at the Italian National Institute for Nuclear Physics (INFN) at Gran Sasso in Italy has detected the fifth occurrence of a tau neutrino in the muon-neutrino beam from CERN. A particle that left CERN as a muon neutrino underwent "oscillation" during its 730-kilometre journey to Gran Sasso, arriving as a tau neutrino....
 
 #### Factsheet
 >factsheet unavailable

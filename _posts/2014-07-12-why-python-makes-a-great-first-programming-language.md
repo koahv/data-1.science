@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->readWrite: If you understand English, you already understand Python.
+>readWrite: If you understand English, you already understand Python....
 
 #### Factsheet
 >factsheet unavailable

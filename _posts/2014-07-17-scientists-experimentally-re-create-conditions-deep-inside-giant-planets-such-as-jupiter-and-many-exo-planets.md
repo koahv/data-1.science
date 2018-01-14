@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Using the largest laser in the world, scientists for the first time have experimentally re-created the conditions that exist deep inside giant planets, such as Jupiter, Uranus and many of the planets recently discovered outside our solar system.
+>Using the largest laser in the world, scientists for the first time have experimentally re-created the conditions that exist deep inside giant planets, such as Jupiter, Uranus and many of the planets recently discovered outside our solar system....
 
 #### Factsheet
 >factsheet unavailable

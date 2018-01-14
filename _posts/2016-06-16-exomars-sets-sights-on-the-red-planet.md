@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-ExoMars captured its first images of Mars this week as part of its preparations for arriving at the Red Planet in October.
-
-	
+>ExoMars captured its first images of Mars this week as part of its preparations for arriving at the Red Planet in October....
 
 #### Factsheet
 >factsheet unavailable

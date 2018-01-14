@@ -9,7 +9,7 @@ tags: [quantum physics]
 
 
 #### Extract
->(Phys.org)—Physicists have reported some of the strongest evidence yet that that the quantum world does not obey local realism by demonstrating new evidence for the existence of quantum entanglement. By performing an essentially loophole-free Bell test, they have shown that two atoms separated by a distance of a quarter of a mile share correlations that should be impossible under the hypothesis of local realism, and are most likely explained by quantum entanglement.
+>(Phys.org)—Physicists have reported some of the strongest evidence yet that that the quantum world does not obey local realism by demonstrating new evidence for the existence of quantum entanglement. By performing an essentially loophole-free Bell test, they have shown that two atoms separated by a distance of a quarter of a mile share correlations that should be impossible under the hypothesis of local realism, and are most likely explained by quantum entanglement....
 
 #### Factsheet
 >factsheet unavailable

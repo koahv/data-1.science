@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		The 32 best images taken by ESA astronaut Alexander Gerst from the International Space Station as voted by his Facebook followers
-	
+>The 32 best images taken by ESA astronaut Alexander Gerst from the International Space Station as voted by his Facebook followers...
 
 #### Factsheet
 >factsheet unavailable

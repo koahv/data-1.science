@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Explore the International Space Station's Tranquility module from all angles on your mobile phone or headset
-	
+>Explore the International Space Station's Tranquility module from all angles on your mobile phone or headset...
 
 #### Factsheet
 >factsheet unavailable

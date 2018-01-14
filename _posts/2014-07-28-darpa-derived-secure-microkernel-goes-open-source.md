@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A nippy microkernel mathematically proven to be bug free*, and used to protect drones from hacking, will be released as open source tomorrow.…...
+>A nippy microkernel mathematically proven to be bug free*, and used to protect drones from hacking, will be released as open source tomorrow.…......
 
 #### Factsheet
 >factsheet unavailable

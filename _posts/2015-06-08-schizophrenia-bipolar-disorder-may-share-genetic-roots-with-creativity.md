@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Genes linked to creativity could increase the risk of developing schizophrenia and bipolar disorder, according to new research. Genetic risk scores were examined in a sample of 86,292 individuals from the general population of Iceland. Creative individuals were defined as those belonging to the national artistic societies of actors, dancers, musicians, visual artists and writers.
+>Genes linked to creativity could increase the risk of developing schizophrenia and bipolar disorder, according to new research. Genetic risk scores were examined in a sample of 86,292 individuals from the general population of Iceland. Creative individuals were defined as those belonging to the national artistic societies of actors, dancers, musicians, visual artists and writers....
 
 #### Factsheet
 >factsheet unavailable

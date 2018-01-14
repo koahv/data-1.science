@@ -9,9 +9,7 @@ tags: [linux]
 
 
 #### Extract
->When it comes to stability and performance, nothing can really beat Linux. This is why the U.S. Marine Corps leaders have decided to ask Northrop Grumman Corp. Electronic Systems to change the operating system of the newly delivered Ground/Air Task-Oriented Radar (G/ATOR) from Windows XP to Linux.
-
-The Ground/Air Task-Oriented Radar (G/ATOR) system has been in the works for many years and it's very likely that when the project was started, Windows XP could have been considered the logical choi... (read more)
+>When it comes to stability and performance, nothing can really beat Linux. This is why the U.S. Marine Corps leaders have decided to ask Northrop Grumman Corp. Electronic Systems to change the operating system of the newly delivered Ground/Air Task-Oriented Radar (G/ATOR) from Windows XP to Linux. The Ground/Air Task-Oriented Radar (G/ATOR) system has been in the works for many years and it's very likely that when the project was started, Windows XP could have been considered the logical choi... (read more)...
 
 #### Factsheet
 >factsheet unavailable

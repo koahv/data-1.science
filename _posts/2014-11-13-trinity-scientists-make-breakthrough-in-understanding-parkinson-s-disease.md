@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Trinity College Dublin) The scientists showed that the Parkin protein functions to repair or destroy damaged nerve cells, depending on the degree to which they are damaged. People living with Parkinson's disease often have a mutated form of the Parkin gene, which may explain why damaged, dysfunctional nerve cells accumulate.
+>(Trinity College Dublin) The scientists showed that the Parkin protein functions to repair or destroy damaged nerve cells, depending on the degree to which they are damaged. People living with Parkinson's disease often have a mutated form of the Parkin gene, which may explain why damaged, dysfunctional nerve cells accumulate....
 
 #### Factsheet
 >factsheet unavailable

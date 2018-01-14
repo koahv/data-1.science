@@ -9,7 +9,7 @@ tags: [higher education]
 
 
 #### Extract
->Hidden truths permeate our world; they're inaccessible to our senses, but math allows us to go beyond our intuition to uncover their mysteries. In this survey of mathematical breakthroughs, Fields Medal winner Cédric Villani speaks to the thrill of discovery and details the sometimes perplexing life of a mathematician. "Beautiful mathematical explanations are not only for our pleasure," he says. "They change our vision of the world."
+>Hidden truths permeate our world; they're inaccessible to our senses, but math allows us to go beyond our intuition to uncover their mysteries. In this survey of mathematical breakthroughs, Fields Medal winner Cédric Villani speaks to the thrill of discovery and details the sometimes perplexing life of a mathematician. "Beautiful mathematical explanations are not only for our pleasure," he says. "They change our vision of the world."...
 
 #### Factsheet
 >factsheet unavailable

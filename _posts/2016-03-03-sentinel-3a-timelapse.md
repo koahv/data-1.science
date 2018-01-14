@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Relive the final stages of the launch campaign of the latest Copernicus Sentinel satellite with this three-minute timelapse video
-	
+>Relive the final stages of the launch campaign of the latest Copernicus Sentinel satellite with this three-minute timelapse video...
 
 #### Factsheet
 >factsheet unavailable

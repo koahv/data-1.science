@@ -9,7 +9,7 @@ tags: [earth sciences]
 
 
 #### Extract
->Knowing how the weather will behave in the near future is indispensable for countless human endeavors.
+>Knowing how the weather will behave in the near future is indispensable for countless human endeavors....
 
 #### Factsheet
 >factsheet unavailable

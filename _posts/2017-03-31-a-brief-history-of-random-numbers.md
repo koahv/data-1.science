@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->“As an instrument for selecting at random, I have found nothing superior to dice,” wrote statistician Francis Galton in an 1890 issue of Nature.
+>“As an instrument for selecting at random, I have found nothing superior to dice,” wrote statistician Francis Galton in an 1890 issue of Nature....
 
 #### Factsheet
 >factsheet unavailable

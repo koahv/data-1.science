@@ -9,8 +9,7 @@ tags: []
 
 
 #### Extract
->
-                        A forgotten tablet has cracked a long-standing mystery about strange notations on other tablets - and shown ancient Babylonians used precursors to calculus                    
+>A forgotten tablet has cracked a long-standing mystery about strange notations on other tablets - and shown ancient Babylonians used precursors to calculus...
 
 #### Factsheet
 >factsheet unavailable

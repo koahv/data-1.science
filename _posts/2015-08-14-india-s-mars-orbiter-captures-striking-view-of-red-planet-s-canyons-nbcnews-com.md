@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NBCNews.comIndia&#39;s Mars Orbiter Captures Striking View of Red Planet&#39;s CanyonsNBCNews.comIndia&#39;s Mars Orbiter, which arrived at the Red Planet late last year, has just sent back a beautiful shot of the Ophir Chasma, a system of deep valleys and scalloped terrain in the Valles Marineris region. Areas with major geological features like this ...Mangalyaan celebrates I-Day, sends stunning pics of Mars canyonHindustan TimesIndia&#39;s Mangalyaan Mars Orbiter Returns Stunning Images of Red Planet&#39;s Rocky ...Outer PlacesMars Orbiter sends astonishing 3D images of Mars Canyon System, Watch here!The TeCakePc-Tablet Media&nbsp;-Xinhua&nbsp;-NDTVall 13 news articles&nbsp;&raquo;
+>NBCNews.comIndia&#39;s Mars Orbiter Captures Striking View of Red Planet&#39;s CanyonsNBCNews.comIndia&#39;s Mars Orbiter, which arrived at the Red Planet late last year, has just sent back a beautiful shot of the Ophir Chasma, a system of deep valleys and scalloped terrain in the Valles Marineris region. Areas with major geological features like this ...Mangalyaan celebrates I-Day, sends stunning pics of Mars canyonHindustan TimesIndia&#39;s Mangalyaan Mars Orbiter Returns Stunning Images of Red Planet&#39;s Rocky ...Outer PlacesMars Orbiter sends astonishing 3D images of Mars Canyon System, Watch here!The TeCakePc-Tablet Media&nbsp;-Xinhua&nbsp;-NDTVall 13 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

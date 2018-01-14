@@ -9,7 +9,7 @@ tags: [higher education]
 
 
 #### Extract
->A forest planted by humans, then left to nature’s own devices, typically takes at least 100 years to mature. But what if we could make the process happen ten times faster? In this short talk, eco-entrepreneur (and TED Fellow) Shubhendu Sharma explains how to create a mini-forest ecosystem anywhere.
+>A forest planted by humans, then left to nature’s own devices, typically takes at least 100 years to mature. But what if we could make the process happen ten times faster? In this short talk, eco-entrepreneur (and TED Fellow) Shubhendu Sharma explains how to create a mini-forest ecosystem anywhere....
 
 #### Factsheet
 >factsheet unavailable

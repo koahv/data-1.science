@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Lithium is a metal used in manufacturing, electronics and mental health.
+>Lithium is a metal used in manufacturing, electronics and mental health....
 
 #### Factsheet
 >factsheet unavailable

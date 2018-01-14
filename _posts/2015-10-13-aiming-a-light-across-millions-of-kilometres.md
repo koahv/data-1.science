@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Imagine beaming a light across millions of kilometres of empty space, all the way back to Earth. ESA’s proposed Asteroid Impact Mission is intended to do just that: demonstrate laser communications across an unprecedented void.
-
-	
+>Imagine beaming a light across millions of kilometres of empty space, all the way back to Earth. ESA’s proposed Asteroid Impact Mission is intended to do just that: demonstrate laser communications across an unprecedented void....
 
 #### Factsheet
 >factsheet unavailable

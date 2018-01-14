@@ -9,8 +9,7 @@ tags: [geek, news, linux, linux foundation, linux kernel, linux kernel contribut
 
 
 #### Extract
->ny discussion involving the open source software cannot be completed without the mention of Linux kernel. This collaborative effort has become one of the most popular and successful open source development projects. If we talk about the current state, the Linux operating system runs 90% of the public cloud, has 62% embedded market share, and [&#8230;]
-The post Who Contributes To Linux Kernel? How Has Its Development Evolved In Past 26 Years? appeared first on Fossbytes.
+>ny discussion involving the open source software cannot be completed without the mention of Linux kernel. This collaborative effort has become one of the most popular and successful open source development projects. If we talk about the current state, the Linux operating system runs 90% of the public cloud, has 62% embedded market share, and [&#8230;] The post Who Contributes To Linux Kernel? How Has Its Development Evolved In Past 26 Years? appeared first on Fossbytes....
 
 #### Factsheet
 >factsheet unavailable

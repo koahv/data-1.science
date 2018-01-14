@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Horizontal pupils keep grazers safe, vertical pupils help predators to ambush prey
+>Horizontal pupils keep grazers safe, vertical pupils help predators to ambush prey...
 
 #### Factsheet
 >factsheet unavailable

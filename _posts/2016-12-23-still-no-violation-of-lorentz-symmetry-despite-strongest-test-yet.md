@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->(Phys.org)—Physicists have found the strongest evidence yet for no violation of Lorentz symmetry, one of the fundamental symmetries of relativity. Lorentz symmetry states that the outcome of an experiment does not depend on certain aspects of its surroundings, namely the velocity and the direction of its moving reference frame—properties that become relevant when studying astronomical objects and launching satellites, for instance, as well as for unifying quantum mechanics and general relativity.
+>(Phys.org)—Physicists have found the strongest evidence yet for no violation of Lorentz symmetry, one of the fundamental symmetries of relativity. Lorentz symmetry states that the outcome of an experiment does not depend on certain aspects of its surroundings, namely the velocity and the direction of its moving reference frame—properties that become relevant when studying astronomical objects and launching satellites, for instance, as well as for unifying quantum mechanics and general relativity....
 
 #### Factsheet
 >factsheet unavailable

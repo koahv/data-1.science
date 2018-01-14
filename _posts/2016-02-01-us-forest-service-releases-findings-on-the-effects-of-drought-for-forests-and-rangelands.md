@@ -9,7 +9,7 @@ tags: [environment]
 
 
 #### Extract
->The U.S. Forest Service today released a new report, Effects of Drought on Forests and Rangelands in the United States: A Comprehensive Science Synthesis, that provides a national assessment of peer-reviewed scientific research on the impacts of drought on U.S. forests and rangelands. This report will help the Forest Service better manage forests and grasslands impacted by climate change.
+>The U.S. Forest Service today released a new report, Effects of Drought on Forests and Rangelands in the United States: A Comprehensive Science Synthesis, that provides a national assessment of peer-reviewed scientific research on the impacts of drought on U.S. forests and rangelands. This report will help the Forest Service better manage forests and grasslands impacted by climate change....
 
 #### Factsheet
 >factsheet unavailable

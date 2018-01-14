@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp; Video: Linus Torvalds On Fun, the Linux Kernel, and the Future15 SepLearn more
+>Title:&nbsp; Video: Linus Torvalds On Fun, the Linux Kernel, and the Future15 SepLearn more...
 
 #### Factsheet
 >factsheet unavailable

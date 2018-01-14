@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Bricks have been 3D printed out of simulated moondust using concentrated sunlight – proving in principle that future lunar colonists could one day use the same approach to build settlements on the Moon.
-
-	
+>Bricks have been 3D printed out of simulated moondust using concentrated sunlight – proving in principle that future lunar colonists could one day use the same approach to build settlements on the Moon....
 
 #### Factsheet
 >factsheet unavailable

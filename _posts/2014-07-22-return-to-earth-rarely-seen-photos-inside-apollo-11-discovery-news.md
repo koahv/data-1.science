@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Return to Earth: Rarely Seen Photos Inside Apollo 11Discovery NewsOn July 21, 1969, after only 22 hours on the lunar surface, Neil Armstrong and Buzz Aldrin left the moon, launching inside the Lunar Module&#39;s ascent stage to rendezvous with Command Module pilot Michael Collins, who had remained in lunar orbit for the&nbsp;...and more&nbsp;&raquo;
+>Return to Earth: Rarely Seen Photos Inside Apollo 11Discovery NewsOn July 21, 1969, after only 22 hours on the lunar surface, Neil Armstrong and Buzz Aldrin left the moon, launching inside the Lunar Module&#39;s ascent stage to rendezvous with Command Module pilot Michael Collins, who had remained in lunar orbit for the&nbsp;...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

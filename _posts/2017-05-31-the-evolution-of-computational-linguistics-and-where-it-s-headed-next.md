@@ -9,7 +9,7 @@ tags: [computer sciences]
 
 
 #### Extract
->Earlier this year, Christopher Manning, a Stanford professor of computer science and of linguistics, was named the Thomas M. Siebel Professor in Machine Learning, thanks to a gift from the Thomas and Stacey Siebel Foundation.
+>Earlier this year, Christopher Manning, a Stanford professor of computer science and of linguistics, was named the Thomas M. Siebel Professor in Machine Learning, thanks to a gift from the Thomas and Stacey Siebel Foundation....
 
 #### Factsheet
 >factsheet unavailable

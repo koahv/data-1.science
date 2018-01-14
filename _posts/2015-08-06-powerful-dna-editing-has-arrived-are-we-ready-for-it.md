@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->CRISPR/Cas is a new technology that allows unprecedented control over the DNA code. The gene editing technique also raises concerns.
+>CRISPR/Cas is a new technology that allows unprecedented control over the DNA code. The gene editing technique also raises concerns....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Technology image of the week: this ice drill has been designed to penetrate 1–2 m into the surface of the Moon
-	
+>Technology image of the week: this ice drill has been designed to penetrate 1–2 m into the surface of the Moon...
 
 #### Factsheet
 >factsheet unavailable

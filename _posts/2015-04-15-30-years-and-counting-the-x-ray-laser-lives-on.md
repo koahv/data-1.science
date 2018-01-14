@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->More than 50 years ago, when the laser was a mere 5 years old, laser physicists dreamed of the development of an X-ray laser to expand the frontier of knowledge.
+>More than 50 years ago, when the laser was a mere 5 years old, laser physicists dreamed of the development of an X-ray laser to expand the frontier of knowledge....
 
 #### Factsheet
 >factsheet unavailable

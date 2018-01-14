@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Physicists explain how to bring a famous thought experiment to life
+>Physicists explain how to bring a famous thought experiment to life...
 
 #### Factsheet
 >factsheet unavailable

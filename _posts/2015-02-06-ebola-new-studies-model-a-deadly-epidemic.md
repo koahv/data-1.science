@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers are trying to better understand the epidemiology and control of Ebola Virus Disease in order to alleviate suffering and prevent future disease outbreaks from reaching the catastrophic proportions of the current crisis.
+>Researchers are trying to better understand the epidemiology and control of Ebola Virus Disease in order to alleviate suffering and prevent future disease outbreaks from reaching the catastrophic proportions of the current crisis....
 
 #### Factsheet
 >factsheet unavailable

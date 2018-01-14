@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->In some rare cases, a planet in a binary system may spiral around the axis that connects its two stars – although how such planets come to be is unclear
+>In some rare cases, a planet in a binary system may spiral around the axis that connects its two stars – although how such planets come to be is unclear...
 
 #### Factsheet
 >factsheet unavailable

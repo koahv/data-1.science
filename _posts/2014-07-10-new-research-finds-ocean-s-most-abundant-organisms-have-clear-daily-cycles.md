@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Hawaii at Manoa) Researchers working at Station ALOHA, a deep ocean study site 100 km north of Oahu, observed different species of free-living, heterotrophic bacteria turning on diel cycling genes at slightly different times -- suggesting a wave of transcriptional activity that passes through the ocean microbial community each day.
+>(University of Hawaii at Manoa) Researchers working at Station ALOHA, a deep ocean study site 100 km north of Oahu, observed different species of free-living, heterotrophic bacteria turning on diel cycling genes at slightly different times -- suggesting a wave of transcriptional activity that passes through the ocean microbial community each day....
 
 #### Factsheet
 >factsheet unavailable

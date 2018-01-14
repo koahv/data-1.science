@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Red Hat Enterprise Linux 7.1 has received Red Hat’s 16th Common Criteria certification and becomes the first operating system to be certified with support for Linux container technology.
+>Red Hat Enterprise Linux 7.1 has received Red Hat’s 16th Common Criteria certification and becomes the first operating system to be certified with support for Linux container technology....
 
 #### Factsheet
 >factsheet unavailable

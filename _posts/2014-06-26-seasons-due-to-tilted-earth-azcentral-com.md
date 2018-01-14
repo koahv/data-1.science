@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->azcentral.comSeasons due to tilted Earthazcentral.comSo, what causes seasons on Earth? It has to do with the tilt of the Earth. If one ran a straight line from the South Pole to the North Pole, it would be tilted at 23.5 degrees. Because of this tilt and our revolution around the sun, during part of the ...
+>azcentral.comSeasons due to tilted Earthazcentral.comSo, what causes seasons on Earth? It has to do with the tilt of the Earth. If one ran a straight line from the South Pole to the North Pole, it would be tilted at 23.5 degrees. Because of this tilt and our revolution around the sun, during part of the ......
 
 #### Factsheet
 >factsheet unavailable

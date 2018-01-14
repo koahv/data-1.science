@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Looking into Jupiter’s turbulent atmosphere and its famous Great Red Spot with the Hubble telescope
-	
+>Looking into Jupiter’s turbulent atmosphere and its famous Great Red Spot with the Hubble telescope...
 
 #### Factsheet
 >factsheet unavailable

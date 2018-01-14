@@ -9,7 +9,7 @@ tags: [ecology]
 
 
 #### Extract
->Despite global efforts to increase the area of the ocean that is protected, only four per cent of it lies within marine protected areas (MPAs), according to a University of British Columbia study.
+>Despite global efforts to increase the area of the ocean that is protected, only four per cent of it lies within marine protected areas (MPAs), according to a University of British Columbia study....
 
 #### Factsheet
 >factsheet unavailable

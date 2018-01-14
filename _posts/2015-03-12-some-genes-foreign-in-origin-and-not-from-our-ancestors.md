@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Many animals, including humans, acquired essential 'foreign' genes from microorganisms co-habiting their environment in ancient times, according to research published in the open access journal Genome Biology. The study challenges conventional views that animal evolution relies solely on genes passed down through ancestral lines, suggesting that, at least in some lineages, the process is still ongoing.
+>Many animals, including humans, acquired essential 'foreign' genes from microorganisms co-habiting their environment in ancient times, according to research published in the open access journal Genome Biology. The study challenges conventional views that animal evolution relies solely on genes passed down through ancestral lines, suggesting that, at least in some lineages, the process is still ongoing....
 
 #### Factsheet
 >factsheet unavailable

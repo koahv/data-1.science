@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Phys.OrgPhysicists find way to boot up quantum computers 72 times faster than ...Phys.OrgPress the start button, switch on the monitor, grab a cup of coffee and off you go. That is pretty much how most us experience booting up a computer. But with a quantum computer the situation is very different. So far, researchers have had to spend ...and more&nbsp;&raquo;
+>Phys.OrgPhysicists find way to boot up quantum computers 72 times faster than ...Phys.OrgPress the start button, switch on the monitor, grab a cup of coffee and off you go. That is pretty much how most us experience booting up a computer. But with a quantum computer the situation is very different. So far, researchers have had to spend ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Princeton  University) Scientists from Princeton University and NASA have confirmed that 1,284 objects observed outside Earth's solar system by NASA's Kepler spacecraft are indeed planets. The researchers used an automated technique developed at Princeton that allows scientists to efficiently determine if a Kepler signal is caused by a planet. It is the largest single announcement of new planets to date and more than doubles the number of confirmed planets discovered by Kepler so far.
+>(Princeton University) Scientists from Princeton University and NASA have confirmed that 1,284 objects observed outside Earth's solar system by NASA's Kepler spacecraft are indeed planets. The researchers used an automated technique developed at Princeton that allows scientists to efficiently determine if a Kepler signal is caused by a planet. It is the largest single announcement of new planets to date and more than doubles the number of confirmed planets discovered by Kepler so far....
 
 #### Factsheet
 >factsheet unavailable

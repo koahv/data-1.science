@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A new spectroscopy method is bringing researchers closer to understanding -- and artificially replicating -- the solar water-splitting reaction at the heart of photosynthetic energy production. 
+>A new spectroscopy method is bringing researchers closer to understanding -- and artificially replicating -- the solar water-splitting reaction at the heart of photosynthetic energy production....
 
 #### Factsheet
 >factsheet unavailable

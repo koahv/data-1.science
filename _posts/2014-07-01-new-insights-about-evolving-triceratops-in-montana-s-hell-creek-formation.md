@@ -9,7 +9,7 @@ tags: [other sciences]
 
 
 #### Extract
->Researchers at the Museum of the Rockies have spent the last 15 summers exploring the badlands of Eastern Montana and excavating dinosaur bones from the Hell Creek Formation. Over that time, they've made several new discoveries regarding some of the last dinosaurs to walk the Earth.
+>Researchers at the Museum of the Rockies have spent the last 15 summers exploring the badlands of Eastern Montana and excavating dinosaur bones from the Hell Creek Formation. Over that time, they've made several new discoveries regarding some of the last dinosaurs to walk the Earth....
 
 #### Factsheet
 >factsheet unavailable

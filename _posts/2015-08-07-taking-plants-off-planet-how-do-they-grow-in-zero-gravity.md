@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->Gravity is a constant for all organisms on Earth. It acts on every aspect of our physiology, behavior and development – no matter what you are, you evolved in an environment where gravity roots us firmly to the ground.
+>Gravity is a constant for all organisms on Earth. It acts on every aspect of our physiology, behavior and development – no matter what you are, you evolved in an environment where gravity roots us firmly to the ground....
 
 #### Factsheet
 >factsheet unavailable

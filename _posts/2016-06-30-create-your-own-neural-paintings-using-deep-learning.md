@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;Create Your Own &quot;Neural Paintings&quot; using Deep Learning30 JunLearn more
+>Title:&nbsp;Create Your Own &quot;Neural Paintings&quot; using Deep Learning30 JunLearn more...
 
 #### Factsheet
 >factsheet unavailable

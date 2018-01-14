@@ -9,7 +9,7 @@ tags: [archaeology & fossils]
 
 
 #### Extract
->Fresh analysis of a reptile fossil is helping scientists solve an evolutionary puzzle - how snakes lost their limbs.
+>Fresh analysis of a reptile fossil is helping scientists solve an evolutionary puzzle - how snakes lost their limbs....
 
 #### Factsheet
 >factsheet unavailable

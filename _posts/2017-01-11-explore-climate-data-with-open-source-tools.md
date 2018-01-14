@@ -9,9 +9,7 @@ tags: []
 
 
 #### Extract
->You can't look anywhere these days without seeing evidence of the changing weather patterns on the earth. Monthly, we are confronted with facts and figures that point to a warming planet.
-
-read more
+>You can't look anywhere these days without seeing evidence of the changing weather patterns on the earth. Monthly, we are confronted with facts and figures that point to a warming planet. read more...
 
 #### Factsheet
 >factsheet unavailable

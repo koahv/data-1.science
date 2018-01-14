@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(California Institute of Technology) Using computational and experimental methods, researchers at Caltech have developed a technique for creating so-called protein-DNA nanowires -- a hybrid biomaterial that could have important applications.
+>(California Institute of Technology) Using computational and experimental methods, researchers at Caltech have developed a technique for creating so-called protein-DNA nanowires -- a hybrid biomaterial that could have important applications....
 
 #### Factsheet
 >factsheet unavailable

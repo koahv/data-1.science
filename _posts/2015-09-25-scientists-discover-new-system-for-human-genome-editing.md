@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Broad Institute of MIT and Harvard) A team including the scientist who first harnessed the revolutionary CRISPR-Cas9 system for mammalian genome editing has now identified a different CRISPR system with the potential for even simpler and more precise genome engineering.
+>(Broad Institute of MIT and Harvard) A team including the scientist who first harnessed the revolutionary CRISPR-Cas9 system for mammalian genome editing has now identified a different CRISPR system with the potential for even simpler and more precise genome engineering....
 
 #### Factsheet
 >factsheet unavailable

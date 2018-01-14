@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Space science image of the week: The record-breaking solar flare that blasted SOHO in 2003
-	
+>Space science image of the week: The record-breaking solar flare that blasted SOHO in 2003...
 
 #### Factsheet
 >factsheet unavailable

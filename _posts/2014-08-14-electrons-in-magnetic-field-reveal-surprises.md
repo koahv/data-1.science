@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Quantum properties dictate electrons' rotational frequency
+>Quantum properties dictate electrons' rotational frequency...
 
 #### Factsheet
 >factsheet unavailable

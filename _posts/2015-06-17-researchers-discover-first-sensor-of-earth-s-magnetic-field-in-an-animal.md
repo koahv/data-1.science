@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Texas at Austin) Scientists have identified the first sensor of the Earth's magnetic field in an animal, finding in the brain of a tiny worm (C. elegans) a big clue to a long-held mystery about how animals' internal compasses work.
+>(University of Texas at Austin) Scientists have identified the first sensor of the Earth's magnetic field in an animal, finding in the brain of a tiny worm (C. elegans) a big clue to a long-held mystery about how animals' internal compasses work....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-All eyes are on ESA’s spaceplane to showcase reentry technologies after its unconventional launch on a Vega rocket this November.&nbsp;
-
-	
+>All eyes are on ESA’s spaceplane to showcase reentry technologies after its unconventional launch on a Vega rocket this November.&nbsp;...
 
 #### Factsheet
 >factsheet unavailable

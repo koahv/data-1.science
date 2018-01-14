@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(PLOS) Three-hundred-and-sixty-million-year-old tetrapods may have been more like modern crocodiles than previously thought, according to 3-D skull reconstruction.
+>(PLOS) Three-hundred-and-sixty-million-year-old tetrapods may have been more like modern crocodiles than previously thought, according to 3-D skull reconstruction....
 
 #### Factsheet
 >factsheet unavailable

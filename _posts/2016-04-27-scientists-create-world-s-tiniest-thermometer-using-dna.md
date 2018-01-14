@@ -9,8 +9,7 @@ tags: [health]
 
 
 #### Extract
->
-Scientists have created the world’s tiniest thermometer that is 20,000 times smaller than a human hair, using DNA structures that can fold and unfold at specifically defined temperatures. The adva...
+>Scientists have created the world’s tiniest thermometer that is 20,000 times smaller than a human hair, using DNA structures that can fold and unfold at specifically defined temperatures. The adva......
 
 #### Factsheet
 >factsheet unavailable

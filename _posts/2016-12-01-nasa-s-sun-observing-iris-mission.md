@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->While it seems static from our vantage point on Earth 93 million miles away, the sun is constantly changing. Under the influence of complex magnetic forces, material moves throughout the solar atmosphere and can burst forth in massive eruptions.
+>While it seems static from our vantage point on Earth 93 million miles away, the sun is constantly changing. Under the influence of complex magnetic forces, material moves throughout the solar atmosphere and can burst forth in massive eruptions....
 
 #### Factsheet
 >factsheet unavailable

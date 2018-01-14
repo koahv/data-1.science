@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Phys.OrgPhysicists find quantum coherence and quantum entanglement are two sides of ...Phys.OrgCoherence also lies at the heart of quantum computing, in which a qubit is in a superposition of the &quot;0&quot; and &quot;1&quot; states, resulting in a speed-up over various classical algorithms. When such a state experiences decoherence, however, all of its ...
+>Phys.OrgPhysicists find quantum coherence and quantum entanglement are two sides of ...Phys.OrgCoherence also lies at the heart of quantum computing, in which a qubit is in a superposition of the &quot;0&quot; and &quot;1&quot; states, resulting in a speed-up over various classical algorithms. When such a state experiences decoherence, however, all of its ......
 
 #### Factsheet
 >factsheet unavailable

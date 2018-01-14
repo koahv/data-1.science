@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->Insect pests that are rapidly adapting to genetically engineered crops threaten agriculture worldwide. A new study published in the Proceedings of the National Academy of Sciences reveals the success of a surprising strategy for countering this problem: Hybridizing genetically engineered cotton with conventional cotton reduced resistance in the pink bollworm, a voracious global pest.
+>Insect pests that are rapidly adapting to genetically engineered crops threaten agriculture worldwide. A new study published in the Proceedings of the National Academy of Sciences reveals the success of a surprising strategy for countering this problem: Hybridizing genetically engineered cotton with conventional cotton reduced resistance in the pink bollworm, a voracious global pest....
 
 #### Factsheet
 >factsheet unavailable

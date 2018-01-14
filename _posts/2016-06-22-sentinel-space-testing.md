@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Technology image of the week: Sentinel-2B being lowered into Europe's largest vacuum chamber for testing
-	
+>Technology image of the week: Sentinel-2B being lowered into Europe's largest vacuum chamber for testing...
 
 #### Factsheet
 >factsheet unavailable

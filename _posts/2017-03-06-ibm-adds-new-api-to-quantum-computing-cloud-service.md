@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->IBM announced today that it was updating its Quantum Experience cloud with a new API that it hopes will increase the abilities of researchers and other interested parties to build more sophisticated applications with its experimental quantum computing system.
+>IBM announced today that it was updating its Quantum Experience cloud with a new API that it hopes will increase the abilities of researchers and other interested parties to build more sophisticated applications with its experimental quantum computing system....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-ESA’s Rosetta mission has soft-landed its Philae probe on a comet, the first time in history that such an extraordinary feat has been achieved.
-
-	
+>ESA’s Rosetta mission has soft-landed its Philae probe on a comet, the first time in history that such an extraordinary feat has been achieved....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [earth]
 
 
 #### Extract
->Sharks were a tolerant bunch some 50 million years ago, cruising an Arctic Ocean that contained about the same percentage of freshwater as Louisiana's Lake Ponchatrain does today, says a new study involving the University of Colorado Boulder and the University of Chicago.
+>Sharks were a tolerant bunch some 50 million years ago, cruising an Arctic Ocean that contained about the same percentage of freshwater as Louisiana's Lake Ponchatrain does today, says a new study involving the University of Colorado Boulder and the University of Chicago....
 
 #### Factsheet
 >factsheet unavailable

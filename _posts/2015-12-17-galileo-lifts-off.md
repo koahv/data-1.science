@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Replay of liftoff of Soyuz carrying Galileo satellites 11 and 12, at 11:51 GMT, from Europe’s Spaceport in French Guiana
-	
+>Replay of liftoff of Soyuz carrying Galileo satellites 11 and 12, at 11:51 GMT, from Europe’s Spaceport in French Guiana...
 
 #### Factsheet
 >factsheet unavailable

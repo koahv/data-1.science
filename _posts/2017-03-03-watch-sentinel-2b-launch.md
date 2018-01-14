@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Follow the Sentinel-2B launch live from Europe’s Spaceport in French Guiana on 7 March. Streaming begins at 01:30 GMT (02:30 CET), with liftoff scheduled at 01:49 GMT (02:49 CET)
-	
+>Follow the Sentinel-2B launch live from Europe’s Spaceport in French Guiana on 7 March. Streaming begins at 01:30 GMT (02:30 CET), with liftoff scheduled at 01:49 GMT (02:49 CET)...
 
 #### Factsheet
 >factsheet unavailable

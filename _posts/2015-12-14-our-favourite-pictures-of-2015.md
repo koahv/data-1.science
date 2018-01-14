@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->From bursting balloons and fossils under a laser to visions of Pluto and gravitationally lensed supernovae
+>From bursting balloons and fossils under a laser to visions of Pluto and gravitationally lensed supernovae...
 
 #### Factsheet
 >factsheet unavailable

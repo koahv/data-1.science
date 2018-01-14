@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Missed MSG-4 liftoff? Watch the replay of the launch from Europe’s Spaceport in French Guiana on 15 July
-	
+>Missed MSG-4 liftoff? Watch the replay of the launch from Europe’s Spaceport in French Guiana on 15 July...
 
 #### Factsheet
 >factsheet unavailable

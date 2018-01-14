@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New research shows we will soon uncover the origin of the ultraviolet light that bathes the cosmos, helping scientists understand how galaxies were built. The study by cosmologists shows how forthcoming astronomical surveys will reveal what lit up the cosmos.
+>New research shows we will soon uncover the origin of the ultraviolet light that bathes the cosmos, helping scientists understand how galaxies were built. The study by cosmologists shows how forthcoming astronomical surveys will reveal what lit up the cosmos....
 
 #### Factsheet
 >factsheet unavailable

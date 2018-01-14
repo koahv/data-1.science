@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Cretaceous flower seeds, recently discovered by scientists, represent the oldest known seeds of flowering plants, dating back 110 to 125 million years. 
+>Cretaceous flower seeds, recently discovered by scientists, represent the oldest known seeds of flowering plants, dating back 110 to 125 million years....
 
 #### Factsheet
 >factsheet unavailable

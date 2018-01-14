@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;An Introduction to Regular Expressions for New Linux Users17 FebLearn more
+>Title:&nbsp;An Introduction to Regular Expressions for New Linux Users17 FebLearn more...
 
 #### Factsheet
 >factsheet unavailable

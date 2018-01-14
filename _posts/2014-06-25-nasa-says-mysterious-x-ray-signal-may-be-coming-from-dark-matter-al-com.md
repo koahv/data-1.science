@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Christian Science MonitorNASA says mysterious X-ray signal may be coming from dark matteral.comNASA says a mysterious X-ray signal from distant galaxies may be coming from dark matter, the mysterious form of matter thought to make up 85 percent of all matter in the Universe, but unobservable directly because it neither absorbs nor emits light ...NASA detects mysterious signal ​240 million light years away from EarthGizmodoNASA: Mysterious signal is enigmatic, perplexingChristian Science MonitorNASA Discovers Mysterious X-Ray Signal from Deep SpaceInternational Business Times AUInternational Business Times UK&nbsp;-Yahoo!7 News&nbsp;-Tech Timesall 82 news articles&nbsp;&raquo;
+>Christian Science MonitorNASA says mysterious X-ray signal may be coming from dark matteral.comNASA says a mysterious X-ray signal from distant galaxies may be coming from dark matter, the mysterious form of matter thought to make up 85 percent of all matter in the Universe, but unobservable directly because it neither absorbs nor emits light ...NASA detects mysterious signal ​240 million light years away from EarthGizmodoNASA: Mysterious signal is enigmatic, perplexingChristian Science MonitorNASA Discovers Mysterious X-Ray Signal from Deep SpaceInternational Business Times AUInternational Business Times UK&nbsp;-Yahoo!7 News&nbsp;-Tech Timesall 82 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

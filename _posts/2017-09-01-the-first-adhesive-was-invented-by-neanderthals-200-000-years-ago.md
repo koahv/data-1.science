@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The early hominids were the first to invent an adhesive, and scientists now understand how.
+>The early hominids were the first to invent an adhesive, and scientists now understand how....
 
 #### Factsheet
 >factsheet unavailable

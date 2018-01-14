@@ -9,8 +9,7 @@ tags: [science]
 
 
 #### Extract
->
-A study of rooted fossil soils in China’s Yunnan region, published in Proceedings of National Academy of Sciences on August 8, has established the time of colonisation of land regions by the earliest ...
+>A study of rooted fossil soils in China’s Yunnan region, published in Proceedings of National Academy of Sciences on August 8, has established the time of colonisation of land regions by the earliest ......
 
 #### Factsheet
 >factsheet unavailable

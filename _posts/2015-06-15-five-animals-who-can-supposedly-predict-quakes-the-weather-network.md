@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Weather NetworkFive animals who can (supposedly) predict quakesThe Weather NetworkMonday, June 15, 2015, 3:02 - The biggest earthquake news from recent days was the two Canadians who were among several foreigners arrested in Malaysia. It seems the group posed naked atop a mountain held sacred by local peoples, and many in the&nbsp;...and more&nbsp;&raquo;
+>The Weather NetworkFive animals who can (supposedly) predict quakesThe Weather NetworkMonday, June 15, 2015, 3:02 - The biggest earthquake news from recent days was the two Canadians who were among several foreigners arrested in Malaysia. It seems the group posed naked atop a mountain held sacred by local peoples, and many in the&nbsp;...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Space Science Image of the Week: Planck paints the magnetic field along the plane of the Milky Way
-	
+>Space Science Image of the Week: Planck paints the magnetic field along the plane of the Milky Way...
 
 #### Factsheet
 >factsheet unavailable

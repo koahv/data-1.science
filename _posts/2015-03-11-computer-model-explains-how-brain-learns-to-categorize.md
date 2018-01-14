@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A computer model has been devised to explain how a neural circuit learns to classify sensory stimuli into discrete categories, such as "car vs. motorcycle." Their findings shed new light on the brain processes underpinning judgments we make on a daily basis.
+>A computer model has been devised to explain how a neural circuit learns to classify sensory stimuli into discrete categories, such as "car vs. motorcycle." Their findings shed new light on the brain processes underpinning judgments we make on a daily basis....
 
 #### Factsheet
 >factsheet unavailable

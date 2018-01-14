@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Oregon State University) Myriad regulations and certification requirements around the world are making it virtually impossible to use genetically engineered trees to combat catastrophic forest threats, according to a new policy analysis published this week in the journal Science.
+>(Oregon State University) Myriad regulations and certification requirements around the world are making it virtually impossible to use genetically engineered trees to combat catastrophic forest threats, according to a new policy analysis published this week in the journal Science....
 
 #### Factsheet
 >factsheet unavailable

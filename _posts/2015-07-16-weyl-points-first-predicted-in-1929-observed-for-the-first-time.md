@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Part of a 1929 prediction by physicist Hermann Weyl -- of a kind of massless particle that features a singular point in its energy spectrum called the "Weyl point" -- has finally been confirmed by direct observation for the first time, says an international team of physicists. The finding could lead to new kinds of high-power single-mode lasers and other optical devices, the team says.
+>Part of a 1929 prediction by physicist Hermann Weyl -- of a kind of massless particle that features a singular point in its energy spectrum called the "Weyl point" -- has finally been confirmed by direct observation for the first time, says an international team of physicists. The finding could lead to new kinds of high-power single-mode lasers and other optical devices, the team says....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Schiaparelli, the Entry, Descent and Landing Demonstrator Module of the joint ESA/Roscosmos ExoMars 2016 mission, will target the Meridiani Planum region for its October landing, as seen in this mosaic created from Mars Express images.
-
-	
+>Schiaparelli, the Entry, Descent and Landing Demonstrator Module of the joint ESA/Roscosmos ExoMars 2016 mission, will target the Meridiani Planum region for its October landing, as seen in this mosaic created from Mars Express images....
 
 #### Factsheet
 >factsheet unavailable

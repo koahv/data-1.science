@@ -9,7 +9,7 @@ tags: [condensed matter]
 
 
 #### Extract
->The quantitative characterisation of the magnetic ordering realised in magnetic phases is an essential part of research into the magnetic properties of solids.
+>The quantitative characterisation of the magnetic ordering realised in magnetic phases is an essential part of research into the magnetic properties of solids....
 
 #### Factsheet
 >factsheet unavailable

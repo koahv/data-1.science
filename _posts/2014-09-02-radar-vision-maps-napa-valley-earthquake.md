@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Sentinel-1A has added yet another string to its bow. Radar images from this fledgling satellite have been used to map the rupture caused by the biggest earthquake that has shaken northern California in 25 years.
-
-	
+>Sentinel-1A has added yet another string to its bow. Radar images from this fledgling satellite have been used to map the rupture caused by the biggest earthquake that has shaken northern California in 25 years....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		ESA astronaut Tim Peake, NASA astronaut Tim Kopra and commander Yuri Malenchenko were launched into space at 11:03 GMT (12:03 CET)
-	
+>ESA astronaut Tim Peake, NASA astronaut Tim Kopra and commander Yuri Malenchenko were launched into space at 11:03 GMT (12:03 CET)...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Operations image of the week: ESA is using quasars – some of the Universe’s most enigmatic objects – to perform ultraprecise navigation for ExoMars
-	
+>Operations image of the week: ESA is using quasars – some of the Universe’s most enigmatic objects – to perform ultraprecise navigation for ExoMars...
 
 #### Factsheet
 >factsheet unavailable

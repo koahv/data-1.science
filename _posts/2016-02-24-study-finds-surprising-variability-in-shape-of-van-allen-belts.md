@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(DOE/Los Alamos National Laboratory) The shape of the two electron swarms 600 miles to more than 25,000 miles from the Earth's surface, known as the Van Allen Belts, could be quite different than has been believed for decades, according to a new study of data from NASA's Van Allen Probes that was released Friday in the Journal of Geophysical Research.
+>(DOE/Los Alamos National Laboratory) The shape of the two electron swarms 600 miles to more than 25,000 miles from the Earth's surface, known as the Van Allen Belts, could be quite different than has been believed for decades, according to a new study of data from NASA's Van Allen Probes that was released Friday in the Journal of Geophysical Research....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Long-awaited direct detection of Einstein's gravitational waves tops our list of the 10 key breakthroughs in physics this year
+>Long-awaited direct detection of Einstein's gravitational waves tops our list of the 10 key breakthroughs in physics this year...
 
 #### Factsheet
 >factsheet unavailable

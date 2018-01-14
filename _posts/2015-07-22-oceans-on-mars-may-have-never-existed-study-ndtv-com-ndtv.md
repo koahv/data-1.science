@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Daily News & AnalysisOceans on Mars May Have Never Existed: Study - NDTV.comNDTVThe high seas of Mars may never have existed, the study that looked at two opposite climate scenarios of early Mars has found and suggests that a cold and icy planet billions of years ago better explains water drainage and erosion features seen on the ...Oceans on Mars may have never existed: Study | Latest News &amp; Updates at Daily ...Daily News & Analysisall 5 news articles&nbsp;&raquo;
+>Daily News & AnalysisOceans on Mars May Have Never Existed: Study - NDTV.comNDTVThe high seas of Mars may never have existed, the study that looked at two opposite climate scenarios of early Mars has found and suggests that a cold and icy planet billions of years ago better explains water drainage and erosion features seen on the ...Oceans on Mars may have never existed: Study | Latest News &amp; Updates at Daily ...Daily News & Analysisall 5 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

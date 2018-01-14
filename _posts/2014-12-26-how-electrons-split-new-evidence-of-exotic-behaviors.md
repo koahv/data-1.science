@@ -9,13 +9,7 @@ tags: []
 
 
 #### Extract
->
-Lausanne, Switzerland (SPX) Dec 26, 2014
-
-
-Electrons may be seen as small magnets that also carry a negative electrical charge. On a fundamental level, these two properties are indivisible. However, in certain materials where the electrons are constrained in a quasi one-dimensional world, they appear to split into a magnet and an electrical charge, which can move freely and independently of each other. 
-
-A longstanding question has b
+>Lausanne, Switzerland (SPX) Dec 26, 2014 Electrons may be seen as small magnets that also carry a negative electrical charge. On a fundamental level, these two properties are indivisible. However, in certain materials where the electrons are constrained in a quasi one-dimensional world, they appear to split into a magnet and an electrical charge, which can move freely and independently of each other. A longstanding question has b...
 
 #### Factsheet
 >factsheet unavailable

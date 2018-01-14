@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Charité - Universitätsmedizin Berlin) Researchers from Charité - Universitätsmedizin Berlin have found that human ALOX15 appears to have developed a much higher capacity to stimulate the production of these lipid mediators than the enzyme variant found in lower primates.
+>(Charité - Universitätsmedizin Berlin) Researchers from Charité - Universitätsmedizin Berlin have found that human ALOX15 appears to have developed a much higher capacity to stimulate the production of these lipid mediators than the enzyme variant found in lower primates....
 
 #### Factsheet
 >factsheet unavailable

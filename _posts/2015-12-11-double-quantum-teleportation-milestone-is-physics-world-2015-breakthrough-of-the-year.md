@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Jian-Wei Pan and Chaoyang Lu of the University of Science and Technology of China bag this year's award
+>Jian-Wei Pan and Chaoyang Lu of the University of Science and Technology of China bag this year's award...
 
 #### Factsheet
 >factsheet unavailable

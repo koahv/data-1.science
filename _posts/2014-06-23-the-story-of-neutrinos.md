@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Astronomer Ray Jayawardhana explains what these "pathologically shy" particles could tell us about the universe
+>Astronomer Ray Jayawardhana explains what these "pathologically shy" particles could tell us about the universe...
 
 #### Factsheet
 >factsheet unavailable

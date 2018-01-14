@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Massachusetts Institute of Technology) MIT researchers explain mystery of India's rapid move toward Eurasia 80 million years ago.
+>(Massachusetts Institute of Technology) MIT researchers explain mystery of India's rapid move toward Eurasia 80 million years ago....
 
 #### Factsheet
 >factsheet unavailable

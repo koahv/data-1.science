@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Flash Physics: need-to-know updates from the world of physics
+>Flash Physics: need-to-know updates from the world of physics...
 
 #### Factsheet
 >factsheet unavailable

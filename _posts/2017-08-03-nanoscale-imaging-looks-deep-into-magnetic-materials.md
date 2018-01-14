@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New technique bags Bloch points
+>New technique bags Bloch points...
 
 #### Factsheet
 >factsheet unavailable

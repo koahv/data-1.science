@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Space Science Image of the Week: Strong winds whip dust and sand from the martian surface into a frenzy, shaping and smoothing the planet’s surface features
-	
+>Space Science Image of the Week: Strong winds whip dust and sand from the martian surface into a frenzy, shaping and smoothing the planet’s surface features...
 
 #### Factsheet
 >factsheet unavailable

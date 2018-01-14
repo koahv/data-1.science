@@ -9,8 +9,7 @@ tags: [data]
 
 
 #### Extract
->
-India seeks to become a member of the Nuclear Suppliers Group as its uranium requirements are not matched by its production capacity. The graphic shows countrywise dependence on nuclear energy. Japan...
+>India seeks to become a member of the Nuclear Suppliers Group as its uranium requirements are not matched by its production capacity. The graphic shows countrywise dependence on nuclear energy. Japan......
 
 #### Factsheet
 >factsheet unavailable

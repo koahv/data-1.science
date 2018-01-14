@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Flying reptiles ruled the skies for millions of years.
+>Flying reptiles ruled the skies for millions of years....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Hares are less social than bunnies, and their lively courtship and skittish behavior likely inspired the term "harebrained."
+>Hares are less social than bunnies, and their lively courtship and skittish behavior likely inspired the term "harebrained."...
 
 #### Factsheet
 >factsheet unavailable

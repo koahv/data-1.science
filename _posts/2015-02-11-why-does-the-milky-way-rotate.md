@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->We live in a galaxy that is called the Milky Way. It's called a barred spiral galaxy, which means that it has a spiral shape with a bar of stars across its middle. The galaxy is rather huge—at least 100,000 light-years in diameter, making it the second-biggest in our Local Group of galaxies.
+>We live in a galaxy that is called the Milky Way. It's called a barred spiral galaxy, which means that it has a spiral shape with a bar of stars across its middle. The galaxy is rather huge—at least 100,000 light-years in diameter, making it the second-biggest in our Local Group of galaxies....
 
 #### Factsheet
 >factsheet unavailable

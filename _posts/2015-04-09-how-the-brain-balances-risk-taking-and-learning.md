@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Salk Institute) Salk scientists discover a learning circuit in worms that gives clues to human behavior.
+>(Salk Institute) Salk scientists discover a learning circuit in worms that gives clues to human behavior....
 
 #### Factsheet
 >factsheet unavailable

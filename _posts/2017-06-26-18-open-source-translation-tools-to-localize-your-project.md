@@ -9,10 +9,7 @@ tags: []
 
 
 #### Extract
->Localization plays a central role in the ability to customize an open source project to suit the needs of users around the world. Besides coding, language translation is one of the main ways people around the world contribute to and engage with open source projects.
-There are tools specific to the language services industry (surprised to hear that's a thing?) that enable a smooth localization process with a high level of quality. Categories that localization tools fall into include:
-
-read more
+>Localization plays a central role in the ability to customize an open source project to suit the needs of users around the world. Besides coding, language translation is one of the main ways people around the world contribute to and engage with open source projects. There are tools specific to the language services industry (surprised to hear that's a thing?) that enable a smooth localization process with a high level of quality. Categories that localization tools fall into include: read more...
 
 #### Factsheet
 >factsheet unavailable

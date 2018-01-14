@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Washington) Satellite data shows that the moon's gravity puts a slight damper on rainfall on Earth.
+>(University of Washington) Satellite data shows that the moon's gravity puts a slight damper on rainfall on Earth....
 
 #### Factsheet
 >factsheet unavailable

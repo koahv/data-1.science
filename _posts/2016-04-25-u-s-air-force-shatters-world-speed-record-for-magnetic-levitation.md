@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->VideosWith the flick of a spark the 846th Test Squadron's magnetically levitated sled system, or MagLev, broke a world record. Followed by a plume of smoke, the rocket propelled sled zipped down...Contributed Author:&nbsp;Holloman Air Force BaseTopics:&nbsp;Military
+>VideosWith the flick of a spark the 846th Test Squadron's magnetically levitated sled system, or MagLev, broke a world record. Followed by a plume of smoke, the rocket propelled sled zipped down...Contributed Author:&nbsp;Holloman Air Force BaseTopics:&nbsp;Military...
 
 #### Factsheet
 >factsheet unavailable

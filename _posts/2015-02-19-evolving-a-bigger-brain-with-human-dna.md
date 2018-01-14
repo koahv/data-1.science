@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->The size of the human brain expanded dramatically during the course of evolution, imparting us with unique capabilities to use abstract language and do complex math. But how did the human brain get larger than that of our closest living relative, the chimpanzee, if almost all of our genes are the same?
+>The size of the human brain expanded dramatically during the course of evolution, imparting us with unique capabilities to use abstract language and do complex math. But how did the human brain get larger than that of our closest living relative, the chimpanzee, if almost all of our genes are the same?...
 
 #### Factsheet
 >factsheet unavailable

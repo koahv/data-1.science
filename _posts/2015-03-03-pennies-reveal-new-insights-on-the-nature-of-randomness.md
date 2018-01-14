@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Princeton  University) Researchers at Princeton University have developed an algorithm that creates truly disordered packings of pennies for the first time.
+>(Princeton University) Researchers at Princeton University have developed an algorithm that creates truly disordered packings of pennies for the first time....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Hitting the end of the year as well as yesterday's Linux 4.10-rc1 kernel marking the end of the merge window, here is a look at some kernel development statistics...
+>Hitting the end of the year as well as yesterday's Linux 4.10-rc1 kernel marking the end of the merge window, here is a look at some kernel development statistics......
 
 #### Factsheet
 >factsheet unavailable

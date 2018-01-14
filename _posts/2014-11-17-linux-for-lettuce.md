@@ -9,10 +9,7 @@ tags: []
 
 
 #### Extract
->Revolutionizing American agribusiness from the ground up, one seed at a time.
-
-
-read more
+>Revolutionizing American agribusiness from the ground up, one seed at a time. read more...
 
 #### Factsheet
 >factsheet unavailable

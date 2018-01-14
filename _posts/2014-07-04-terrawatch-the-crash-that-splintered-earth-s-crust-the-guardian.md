@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The GuardianTerrawatch: The crash that splintered Earth&#39;s crustThe GuardianOne of the things that distinguishes Earth from other planets is its plate tectonics. But how did this moving jigsaw surface begin? New research suggests that a 3.26 billion-year-old asteroid impact may have kick-started the process. The impact crater ...
+>The GuardianTerrawatch: The crash that splintered Earth&#39;s crustThe GuardianOne of the things that distinguishes Earth from other planets is its plate tectonics. But how did this moving jigsaw surface begin? New research suggests that a 3.26 billion-year-old asteroid impact may have kick-started the process. The impact crater ......
 
 #### Factsheet
 >factsheet unavailable

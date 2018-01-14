@@ -9,7 +9,7 @@ tags: [miscellaneous scenes & skies, online gallery, sun & moon pictures]
 
 
 #### Extract
->The post Lunar Halo with Jupiter inside appeared first on Sky &amp; Telescope.
+>The post Lunar Halo with Jupiter inside appeared first on Sky &amp; Telescope....
 
 #### Factsheet
 >factsheet unavailable

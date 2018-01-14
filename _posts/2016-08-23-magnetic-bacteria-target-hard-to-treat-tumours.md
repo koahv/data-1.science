@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New technique transports drugs into solid cancers
+>New technique transports drugs into solid cancers...
 
 #### Factsheet
 >factsheet unavailable

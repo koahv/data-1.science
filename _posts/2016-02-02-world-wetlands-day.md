@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-												
-				
-		
-		2 February marks World Wetlands Day. Discover some of Earth’s most important wetlands seen from 800 km high
-	
+>2 February marks World Wetlands Day. Discover some of Earth’s most important wetlands seen from 800 km high...
 
 #### Factsheet
 >factsheet unavailable

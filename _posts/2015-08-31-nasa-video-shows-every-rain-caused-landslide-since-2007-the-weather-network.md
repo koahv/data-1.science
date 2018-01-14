@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NASA video shows every rain-caused landslide since 2007The Weather NetworkMonday, August 31, 2015, 6:12 - Hilly or mountainous areas are at risk of landslides when the rainy season rolls around, and a new video from NASA shows where these disasters are most common. We say &quot;disaster&quot; due to the sheer number of deaths, which&nbsp;...and more&nbsp;&raquo;
+>NASA video shows every rain-caused landslide since 2007The Weather NetworkMonday, August 31, 2015, 6:12 - Hilly or mountainous areas are at risk of landslides when the rainy season rolls around, and a new video from NASA shows where these disasters are most common. We say &quot;disaster&quot; due to the sheer number of deaths, which&nbsp;...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Hurricane season is over, but El Niño isn’t. Watch to learn what else is in store.
+>Hurricane season is over, but El Niño isn’t. Watch to learn what else is in store....
 
 #### Factsheet
 >factsheet unavailable

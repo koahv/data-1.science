@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Hawking and two colleagues propose that information isn't destroyed at the heart of a black hole; it's stored at the black hole's boundary in holographic form.
+>Hawking and two colleagues propose that information isn't destroyed at the heart of a black hole; it's stored at the black hole's boundary in holographic form....
 
 #### Factsheet
 >factsheet unavailable

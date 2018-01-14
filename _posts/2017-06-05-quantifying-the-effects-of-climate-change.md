@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Last year was the hottest on record, Arctic sea ice is on the decline and sea levels continue to rise. In this context, satellites are providing us with an unbiased view of how our climate is changing and the effects it is having on our planet.
-
-	
+>Last year was the hottest on record, Arctic sea ice is on the decline and sea levels continue to rise. In this context, satellites are providing us with an unbiased view of how our climate is changing and the effects it is having on our planet....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->Recently physicists at Chapman University's Institute for Quantum Studies introduced the Quantum Cheshire Cat. Now they have introduced another quantum animal: the Quantum Pigeon.
+>Recently physicists at Chapman University's Institute for Quantum Studies introduced the Quantum Cheshire Cat. Now they have introduced another quantum animal: the Quantum Pigeon....
 
 #### Factsheet
 >factsheet unavailable

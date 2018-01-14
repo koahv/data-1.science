@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->euronewsFelix Baumgartner: The man who fell to EartheuronewsFelix Baumgartner is the world&#39;s most famous skydiver, a daring athlete and explorer of the extreme who jumped to Earth from the edge of space in 2012. He became the first person to break the sound barrier in freefall, reaching a speed of 1,357 km/h.and more&nbsp;&raquo;
+>euronewsFelix Baumgartner: The man who fell to EartheuronewsFelix Baumgartner is the world&#39;s most famous skydiver, a daring athlete and explorer of the extreme who jumped to Earth from the edge of space in 2012. He became the first person to break the sound barrier in freefall, reaching a speed of 1,357 km/h.and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

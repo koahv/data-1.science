@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->An important link between the human body clock and the immune system has relevance for better understanding inflammatory and infectious diseases. Researchers report how a critical white blood cell called the macrophage, when exposed to bacteria, makes the biological clock inside the macrophage stop, allowing it to become inflamed.
+>An important link between the human body clock and the immune system has relevance for better understanding inflammatory and infectious diseases. Researchers report how a critical white blood cell called the macrophage, when exposed to bacteria, makes the biological clock inside the macrophage stop, allowing it to become inflamed....
 
 #### Factsheet
 >factsheet unavailable

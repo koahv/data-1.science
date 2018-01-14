@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Southern California) Software developed to rate therapists on empathy using automatic speech recognition, natural language processing and machine learning.
+>(University of Southern California) Software developed to rate therapists on empathy using automatic speech recognition, natural language processing and machine learning....
 
 #### Factsheet
 >factsheet unavailable

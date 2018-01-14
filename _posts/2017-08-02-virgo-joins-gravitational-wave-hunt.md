@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Detector could help locate sources of gravitational waves
+>Detector could help locate sources of gravitational waves...
 
 #### Factsheet
 >factsheet unavailable

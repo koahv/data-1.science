@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Red Hat's OpenShift Commons invites open-source programmers and users to join us in working on its OpenShift Platform-as-a-Service cloud.
+>Red Hat's OpenShift Commons invites open-source programmers and users to join us in working on its OpenShift Platform-as-a-Service cloud....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Discovery NewsEcuador Breaks Guinness Reforestation RecordDiscovery NewsEcuador broke a world record for reforestation Saturday, as thousands of people pitched in to plant 647,250 trees of more than 200 species, President Rafael Correa said. &quot;I have just been informed that we have broken the Guinness record for ...and more&nbsp;&raquo;
+>Discovery NewsEcuador Breaks Guinness Reforestation RecordDiscovery NewsEcuador broke a world record for reforestation Saturday, as thousands of people pitched in to plant 647,250 trees of more than 200 species, President Rafael Correa said. &quot;I have just been informed that we have broken the Guinness record for ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

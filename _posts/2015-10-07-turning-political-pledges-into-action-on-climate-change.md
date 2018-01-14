@@ -9,7 +9,7 @@ tags: [environment]
 
 
 #### Extract
->In a previous life, Jo-Kristian Røttereng walked the rainforests of the Congo Basin, as a part of the Norwegian government's NOK 3 billion effort to curb tropical deforestation. He's seen the towering trees, heard the grunting of gorillas from deep in the jungle, watched brightly coloured birds flit through sunlight filtered through the thick forest canopy.
+>In a previous life, Jo-Kristian Røttereng walked the rainforests of the Congo Basin, as a part of the Norwegian government's NOK 3 billion effort to curb tropical deforestation. He's seen the towering trees, heard the grunting of gorillas from deep in the jungle, watched brightly coloured birds flit through sunlight filtered through the thick forest canopy....
 
 #### Factsheet
 >factsheet unavailable

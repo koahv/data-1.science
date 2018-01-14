@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Linux creator Linus Torvalds took the stage at Open Source Leadership Summit this week to share some of his secrets to success in building one of the world’s largest and most successful open source projects. 
+>Linux creator Linus Torvalds took the stage at Open Source Leadership Summit this week to share some of his secrets to success in building one of the world’s largest and most successful open source projects....
 
 #### Factsheet
 >factsheet unavailable

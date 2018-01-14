@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Tape storage and distributed computing are at the core of the latest discoveries in the field of physics.
+>Tape storage and distributed computing are at the core of the latest discoveries in the field of physics....
 
 #### Factsheet
 >factsheet unavailable

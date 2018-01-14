@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->National GeographicQ&amp;A: The 5 Ingredients Needed for Life Beyond EarthNational GeographicThese so-called exoplanets now number nearly 1,800, with one of the most Earth-like, the planet Kepler 186-f that orbits a red dwarf star known as Kepler 186, announced just this past April. In a recent issue of the Proceedings of the National Academy ...
+>National GeographicQ&amp;A: The 5 Ingredients Needed for Life Beyond EarthNational GeographicThese so-called exoplanets now number nearly 1,800, with one of the most Earth-like, the planet Kepler 186-f that orbits a red dwarf star known as Kepler 186, announced just this past April. In a recent issue of the Proceedings of the National Academy ......
 
 #### Factsheet
 >factsheet unavailable

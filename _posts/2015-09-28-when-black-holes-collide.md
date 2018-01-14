@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Space science image of the week: A simulation of gravitational radiation rippling away from a pair of colliding black holes
-	
+>Space science image of the week: A simulation of gravitational radiation rippling away from a pair of colliding black holes...
 
 #### Factsheet
 >factsheet unavailable

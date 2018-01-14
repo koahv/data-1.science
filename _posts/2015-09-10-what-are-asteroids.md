@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->4.6 billion years ago, our solar system formed from a collection of gas and dust surrounding our nascent sun. While much of the gas and dust in this protoplanetary disk coalesced to form the planets, some of the debris was left over.
+>4.6 billion years ago, our solar system formed from a collection of gas and dust surrounding our nascent sun. While much of the gas and dust in this protoplanetary disk coalesced to form the planets, some of the debris was left over....
 
 #### Factsheet
 >factsheet unavailable

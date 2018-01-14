@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Watch the replay of the Sentinel-5P launch from the Plesetsk Cosmodrome in northern Russia
-	
+>Watch the replay of the Sentinel-5P launch from the Plesetsk Cosmodrome in northern Russia...
 
 #### Factsheet
 >factsheet unavailable

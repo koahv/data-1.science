@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) New findings based on a year's worth of observations from NASA's Van Allen Probes have revealed that the ring current -- an electrical current carried by energetic ions that encircles our planet -- behaves in a much different way than previously understood.
+>(NASA/Goddard Space Flight Center) New findings based on a year's worth of observations from NASA's Van Allen Probes have revealed that the ring current -- an electrical current carried by energetic ions that encircles our planet -- behaves in a much different way than previously understood....
 
 #### Factsheet
 >factsheet unavailable

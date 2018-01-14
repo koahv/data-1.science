@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) Hubble captured the tiny moon Phobos during its orbital trek around Mars: so small, it appears star-like in the Hubble pictures.
+>(NASA/Goddard Space Flight Center) Hubble captured the tiny moon Phobos during its orbital trek around Mars: so small, it appears star-like in the Hubble pictures....
 
 #### Factsheet
 >factsheet unavailable

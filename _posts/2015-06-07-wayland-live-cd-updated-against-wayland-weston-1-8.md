@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The reference Wayland Live CD with various Wayland software components enabled has been updated against Wayland/Weston 1.8 and other new code...
+>The reference Wayland Live CD with various Wayland software components enabled has been updated against Wayland/Weston 1.8 and other new code......
 
 #### Factsheet
 >factsheet unavailable

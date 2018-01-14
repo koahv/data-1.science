@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(InSilico Medicine, Inc.) Insilico Medicine is adapting best neural network architectures. These advances are usually integrated into a comprehensive drug discovery pipeline with the goal to enable the deep neural networks to produce perfect molecules for the specific set of diseases. DruGAN allows the generation of new formulations for a wide range of diseases: different cancers, neurodegenerative diseases such as Alzheimer's disease, virus infections, and more.
+>(InSilico Medicine, Inc.) Insilico Medicine is adapting best neural network architectures. These advances are usually integrated into a comprehensive drug discovery pipeline with the goal to enable the deep neural networks to produce perfect molecules for the specific set of diseases. DruGAN allows the generation of new formulations for a wide range of diseases: different cancers, neurodegenerative diseases such as Alzheimer's disease, virus infections, and more....
 
 #### Factsheet
 >factsheet unavailable

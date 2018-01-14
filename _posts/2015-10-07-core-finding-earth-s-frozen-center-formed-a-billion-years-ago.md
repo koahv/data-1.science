@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Earth's inner core formed between 1 billion and 1.5 billion years ago, when it powered the huge rise in Earth's magnetic field, new research suggests.
+>Earth's inner core formed between 1 billion and 1.5 billion years ago, when it powered the huge rise in Earth's magnetic field, new research suggests....
 
 #### Factsheet
 >factsheet unavailable

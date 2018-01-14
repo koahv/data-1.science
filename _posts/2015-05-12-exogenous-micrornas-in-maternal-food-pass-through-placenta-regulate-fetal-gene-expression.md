@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->In a new study published in the Protein & Cell, Chen-Yu Zhang's group at Nanjing University reports that small non-coding RNAs in maternal food can transfer through placenta to regulate fetal gene expression.
+>In a new study published in the Protein & Cell, Chen-Yu Zhang's group at Nanjing University reports that small non-coding RNAs in maternal food can transfer through placenta to regulate fetal gene expression....
 
 #### Factsheet
 >factsheet unavailable

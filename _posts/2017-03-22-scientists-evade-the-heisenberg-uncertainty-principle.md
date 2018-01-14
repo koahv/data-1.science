@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(ICFO-The Institute of Photonic Sciences)   ICFO Researchers report the discovery of a new technique that could drastically improve the sensitivity of instruments such as magnetic resonance imagers (MRIs) and atomic clocks.  The study, published in Nature, reports a technique to bypass the Heisenberg uncertainty principle. This technique hides quantum uncertainty in atomic features not seen by the instrument, allowing the scientists to make very high precision measurements.
+>(ICFO-The Institute of Photonic Sciences) ICFO Researchers report the discovery of a new technique that could drastically improve the sensitivity of instruments such as magnetic resonance imagers (MRIs) and atomic clocks. The study, published in Nature, reports a technique to bypass the Heisenberg uncertainty principle. This technique hides quantum uncertainty in atomic features not seen by the instrument, allowing the scientists to make very high precision measurements....
 
 #### Factsheet
 >factsheet unavailable

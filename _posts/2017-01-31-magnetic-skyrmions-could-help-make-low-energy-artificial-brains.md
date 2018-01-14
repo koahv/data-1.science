@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Calculations suggest memory and learning could be mimicked by quasiparticles
+>Calculations suggest memory and learning could be mimicked by quasiparticles...
 
 #### Factsheet
 >factsheet unavailable

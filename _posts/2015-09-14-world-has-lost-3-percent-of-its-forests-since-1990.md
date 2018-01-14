@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Melbourne) The globe's forests have shrunk by three per cent since 1990 -- an area equivalent to the size of South Africa -- despite significant improvements in conservation over the past decade.
+>(University of Melbourne) The globe's forests have shrunk by three per cent since 1990 -- an area equivalent to the size of South Africa -- despite significant improvements in conservation over the past decade....
 
 #### Factsheet
 >factsheet unavailable

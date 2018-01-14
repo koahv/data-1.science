@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->LinuxSecurity.com: The number of phishing attacks reach a record rate in 2017, but the majority of the phishing sites remain active for just four- to eight hours. 
+>LinuxSecurity.com: The number of phishing attacks reach a record rate in 2017, but the majority of the phishing sites remain active for just four- to eight hours....
 
 #### Factsheet
 >factsheet unavailable

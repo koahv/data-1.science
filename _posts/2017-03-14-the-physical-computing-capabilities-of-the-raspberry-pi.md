@@ -9,11 +9,7 @@ tags: []
 
 
 #### Extract
->While the Raspberry Pi is an excellent and affordable mini Linux computer with a stylish and functional desktop user interface, it has plenty of scope beyond that of a regular PC. Here's an overview of the physical computing capabilities of the Pi.
-GPIO pins
-Since 2014, with the release of the Model B+, the Raspberry Pi's form factor has stayed the same, including the uniform 40-pin GPIO (General Purpose Input/Output) pin header.
-
-read more
+>While the Raspberry Pi is an excellent and affordable mini Linux computer with a stylish and functional desktop user interface, it has plenty of scope beyond that of a regular PC. Here's an overview of the physical computing capabilities of the Pi. GPIO pins Since 2014, with the release of the Model B+, the Raspberry Pi's form factor has stayed the same, including the uniform 40-pin GPIO (General Purpose Input/Output) pin header. read more...
 
 #### Factsheet
 >factsheet unavailable

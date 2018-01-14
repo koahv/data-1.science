@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Australian National University) An Australian National University team has successfully replicated one of the crucial steps in photosynthesis, opening the way for biological systems powered by sunlight which could manufacture hydrogen as a fuel.
+>(Australian National University) An Australian National University team has successfully replicated one of the crucial steps in photosynthesis, opening the way for biological systems powered by sunlight which could manufacture hydrogen as a fuel....
 
 #### Factsheet
 >factsheet unavailable

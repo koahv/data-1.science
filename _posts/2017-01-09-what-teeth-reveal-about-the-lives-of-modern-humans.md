@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Ohio State University) When anthropologists of the future find our fossilized teeth, what will they be able to conclude about our lives? Debbie Guatelli-Steinberg has an idea.
+>(Ohio State University) When anthropologists of the future find our fossilized teeth, what will they be able to conclude about our lives? Debbie Guatelli-Steinberg has an idea....
 
 #### Factsheet
 >factsheet unavailable

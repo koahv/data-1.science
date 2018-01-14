@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientists have managed to slow photons in free space for the first time. They have demonstrated that applying a mask to an optical beam to give photons a spatial structure can reduce their speed.
+>Scientists have managed to slow photons in free space for the first time. They have demonstrated that applying a mask to an optical beam to give photons a spatial structure can reduce their speed....
 
 #### Factsheet
 >factsheet unavailable

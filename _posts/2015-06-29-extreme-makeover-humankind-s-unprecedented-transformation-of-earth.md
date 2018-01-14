@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Human beings are pushing the planet in an entirely new direction with revolutionary implications for its life, a new study says, and in a new article, researchers suggest a turning point for the planet and its resources.
+>Human beings are pushing the planet in an entirely new direction with revolutionary implications for its life, a new study says, and in a new article, researchers suggest a turning point for the planet and its resources....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) During the Antarctic summer of 2013-2014, a team of researchers released a series of translucent scientific balloons, one by one. The miniature membranous balloons -- part of the Balloon Array for Radiation-belt Relativistic Electron Losses, or BARREL, campaign -- floated above the icy terrain for several weeks each, diligently documenting the rain of electrons falling into the atmosphere from Earth's magnetic field.
+>(NASA/Goddard Space Flight Center) During the Antarctic summer of 2013-2014, a team of researchers released a series of translucent scientific balloons, one by one. The miniature membranous balloons -- part of the Balloon Array for Radiation-belt Relativistic Electron Losses, or BARREL, campaign -- floated above the icy terrain for several weeks each, diligently documenting the rain of electrons falling into the atmosphere from Earth's magnetic field....
 
 #### Factsheet
 >factsheet unavailable

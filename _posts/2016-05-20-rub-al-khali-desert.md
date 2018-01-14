@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Earth observation image of the week: A Sentinel-2A image of the Rub’ al Khali desert
-	
+>Earth observation image of the week: A Sentinel-2A image of the Rub’ al Khali desert...
 
 #### Factsheet
 >factsheet unavailable

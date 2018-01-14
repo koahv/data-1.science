@@ -9,7 +9,7 @@ tags: [earth sciences]
 
 
 #### Extract
->Scientists have long been puzzled about why complex life forms began to appear some 550 million years ago – three billion years after life on the planet comprised nothing more complex than algae.
+>Scientists have long been puzzled about why complex life forms began to appear some 550 million years ago – three billion years after life on the planet comprised nothing more complex than algae....
 
 #### Factsheet
 >factsheet unavailable

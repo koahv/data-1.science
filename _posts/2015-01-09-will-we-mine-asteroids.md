@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->It's been said that a single asteroid might be worth trillions of dollars in precious rare metals. Will we ever reach out and mine these space rocks? How hard could it be?
+>It's been said that a single asteroid might be worth trillions of dollars in precious rare metals. Will we ever reach out and mine these space rocks? How hard could it be?...
 
 #### Factsheet
 >factsheet unavailable

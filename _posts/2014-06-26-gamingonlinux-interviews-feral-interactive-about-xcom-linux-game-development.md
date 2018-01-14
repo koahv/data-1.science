@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Today is a good day. I had the pleasure of speaking to Feral Interactive on their porting work for the Linux version of XCOM and games in general and here it is in all its glory.
+>Today is a good day. I had the pleasure of speaking to Feral Interactive on their porting work for the Linux version of XCOM and games in general and here it is in all its glory....
 
 #### Factsheet
 >factsheet unavailable

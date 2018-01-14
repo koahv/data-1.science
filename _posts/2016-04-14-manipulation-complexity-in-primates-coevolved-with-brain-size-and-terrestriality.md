@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Manipulation complexity in primates coevolved with brain size and terrestrialityScientific Reports, Published online: 14 April 2016; doi:10.1038/srep24528
+>Manipulation complexity in primates coevolved with brain size and terrestrialityScientific Reports, Published online: 14 April 2016; doi:10.1038/srep24528...
 
 #### Factsheet
 >factsheet unavailable

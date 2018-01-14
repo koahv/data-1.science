@@ -9,7 +9,7 @@ tags: [online gallery, sun & moon pictures]
 
 
 #### Extract
->The post Solar Chromosphere #1 appeared first on Sky &amp; Telescope.
+>The post Solar Chromosphere #1 appeared first on Sky &amp; Telescope....
 
 #### Factsheet
 >factsheet unavailable

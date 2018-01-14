@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Massachusetts Institute of Technology) MIT researchers have developed a system of modular proteins can be used to track or manipulate RNA inside living cells.
+>(Massachusetts Institute of Technology) MIT researchers have developed a system of modular proteins can be used to track or manipulate RNA inside living cells....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [astronomy]
 
 
 #### Extract
->NASA's Wide Field Infrared Survey Telescope (WFIRST) could be a space observatory of the future, destined for great discoveries in the field of astrophysics. With a view about 100 times larger than that of the venerable Hubble Space Telescope, WFIRST is expected to yield crucial results about the elusive dark matter and dark energy.
+>NASA's Wide Field Infrared Survey Telescope (WFIRST) could be a space observatory of the future, destined for great discoveries in the field of astrophysics. With a view about 100 times larger than that of the venerable Hubble Space Telescope, WFIRST is expected to yield crucial results about the elusive dark matter and dark energy....
 
 #### Factsheet
 >factsheet unavailable

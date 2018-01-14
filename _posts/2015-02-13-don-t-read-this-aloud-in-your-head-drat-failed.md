@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->External triggers can interrupt your stream of consciousness and make you think a sequence unwanted thoughts, even when you try hard to block them out
+>External triggers can interrupt your stream of consciousness and make you think a sequence unwanted thoughts, even when you try hard to block them out...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [materials science]
 
 
 #### Extract
->While hydrogen is often talked about as a pollution-free fuel of the future, especially for use in fuel cell electric vehicles, hydrogen can be used for much more than zero-emission cars. In fact, from enhancing the flexibility of the grid to greening agriculture, hydrogen could play a major role in a clean and resilient energy system.
+>While hydrogen is often talked about as a pollution-free fuel of the future, especially for use in fuel cell electric vehicles, hydrogen can be used for much more than zero-emission cars. In fact, from enhancing the flexibility of the grid to greening agriculture, hydrogen could play a major role in a clean and resilient energy system....
 
 #### Factsheet
 >factsheet unavailable

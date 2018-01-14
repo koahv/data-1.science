@@ -9,7 +9,7 @@ tags: [nature & environment]
 
 
 #### Extract
->Can evolution be repeated? That's a good question, and it's one that scientists wanted to find out.
+>Can evolution be repeated? That's a good question, and it's one that scientists wanted to find out....
 
 #### Factsheet
 >factsheet unavailable

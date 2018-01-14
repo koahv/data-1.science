@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Weizmann Institute of Science) Growing corals in the lab reveals their complex lives.
+>(Weizmann Institute of Science) Growing corals in the lab reveals their complex lives....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Salk Institute) Data from the Salk Institute shows brain's memory capacity is in the petabyte range, as much as entire Web.
+>(Salk Institute) Data from the Salk Institute shows brain's memory capacity is in the petabyte range, as much as entire Web....
 
 #### Factsheet
 >factsheet unavailable

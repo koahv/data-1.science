@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(DOE/Lawrence Berkeley National Laboratory) Berkeley Lab researchers using a bioinorganic hybrid approach to artificial photosynthesis have combined semiconducting nanowires with select microbes to create a system that produces renewable molecular hydrogen and uses it to synthesize carbon dioxide into methane, the primary constituent of natural gas.
+>(DOE/Lawrence Berkeley National Laboratory) Berkeley Lab researchers using a bioinorganic hybrid approach to artificial photosynthesis have combined semiconducting nanowires with select microbes to create a system that produces renewable molecular hydrogen and uses it to synthesize carbon dioxide into methane, the primary constituent of natural gas....
 
 #### Factsheet
 >factsheet unavailable

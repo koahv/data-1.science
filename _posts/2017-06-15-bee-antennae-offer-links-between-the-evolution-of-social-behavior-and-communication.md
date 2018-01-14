@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->As bees' social behavior evolved, their complex chemical communication systems evolved in concert, according to a new study. 
+>As bees' social behavior evolved, their complex chemical communication systems evolved in concert, according to a new study....
 
 #### Factsheet
 >factsheet unavailable

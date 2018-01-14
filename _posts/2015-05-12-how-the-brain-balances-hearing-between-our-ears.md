@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers have answered the longstanding question of how the brain balances hearing between our ears, which is essential for localizing sound, hearing in noisy conditions and for protection from noise damage.
+>Researchers have answered the longstanding question of how the brain balances hearing between our ears, which is essential for localizing sound, hearing in noisy conditions and for protection from noise damage....
 
 #### Factsheet
 >factsheet unavailable

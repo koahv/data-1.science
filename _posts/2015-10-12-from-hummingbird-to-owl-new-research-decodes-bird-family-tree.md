@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The rapid extinction of dinosaurs 65 million years ago gave rise to a stunning variety of bird species over the next few million years, according to new research. 
+>The rapid extinction of dinosaurs 65 million years ago gave rise to a stunning variety of bird species over the next few million years, according to new research....
 
 #### Factsheet
 >factsheet unavailable

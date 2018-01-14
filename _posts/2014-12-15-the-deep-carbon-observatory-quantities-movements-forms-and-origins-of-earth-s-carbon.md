@@ -11,7 +11,7 @@ tags: []
 
 
 #### Extract
->(Deep Carbon Observatory) The carbon in the atmosphere, ocean, surface life, and other shallow, near surface reservoirs accounts for only about 10 percent of Earth's carbon. Where is the other 90 percent? What is it doing? Does it matter? The Midterm Scientific Report of the Deep Carbon Observatory addresses progress towards answering these questions, as do more than 100 presentations at the 2014 AGU Fall Meeting.
+>(Deep Carbon Observatory) The carbon in the atmosphere, ocean, surface life, and other shallow, near surface reservoirs accounts for only about 10 percent of Earth's carbon. Where is the other 90 percent? What is it doing? Does it matter? The Midterm Scientific Report of the Deep Carbon Observatory addresses progress towards answering these questions, as do more than 100 presentations at the 2014 AGU Fall Meeting....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A little over a decade ago, prestin was found to be a key gene responsible for hearing in mammals. A new study has shown that prestin has also independently evolved to play a critical role in the ultrasonic hearing range of animal sonar, or echolocation, to help dolphins navigate through murky waters or bats find food in the dark.
+>A little over a decade ago, prestin was found to be a key gene responsible for hearing in mammals. A new study has shown that prestin has also independently evolved to play a critical role in the ultrasonic hearing range of animal sonar, or echolocation, to help dolphins navigate through murky waters or bats find food in the dark....
 
 #### Factsheet
 >factsheet unavailable

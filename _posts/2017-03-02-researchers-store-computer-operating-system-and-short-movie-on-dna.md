@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->Humanity may soon generate more data than hard drives or magnetic tape can handle, a problem that has scientists turning to nature's age-old solution for information-storage—DNA.
+>Humanity may soon generate more data than hard drives or magnetic tape can handle, a problem that has scientists turning to nature's age-old solution for information-storage—DNA....
 
 #### Factsheet
 >factsheet unavailable

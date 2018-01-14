@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Scientists from the University of Southampton have discovered the genetic basis which allows corals to produce their stunning range of colours.
+>Scientists from the University of Southampton have discovered the genetic basis which allows corals to produce their stunning range of colours....
 
 #### Factsheet
 >factsheet unavailable

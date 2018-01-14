@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(RIKEN) A group at the RIKEN Center for Sustainable Resource Science in Japan has identified a chemical compound that prevents plants from taking up cesium, thus protecting them -- and us -- from the harmful effects of soil contaminated with radiocesium.
+>(RIKEN) A group at the RIKEN Center for Sustainable Resource Science in Japan has identified a chemical compound that prevents plants from taking up cesium, thus protecting them -- and us -- from the harmful effects of soil contaminated with radiocesium....
 
 #### Factsheet
 >factsheet unavailable

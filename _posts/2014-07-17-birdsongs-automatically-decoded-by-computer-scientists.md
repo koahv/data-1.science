@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientists have found a successful way of identifying bird sounds from large audio collections, which could be useful for expert and amateur bird-watchers alike.
+>Scientists have found a successful way of identifying bird sounds from large audio collections, which could be useful for expert and amateur bird-watchers alike....
 
 #### Factsheet
 >factsheet unavailable

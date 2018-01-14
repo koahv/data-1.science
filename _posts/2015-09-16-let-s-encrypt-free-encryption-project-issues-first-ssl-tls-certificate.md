@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A project that aims to increase the use of encryption by giving away free SSL/TLS certificates has issued its first one, marking the start of its beta program.
+>A project that aims to increase the use of encryption by giving away free SSL/TLS certificates has issued its first one, marking the start of its beta program....
 
 #### Factsheet
 >factsheet unavailable

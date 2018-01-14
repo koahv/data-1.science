@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Human Frontier Science Program) Svante Pääbo of the Max Planck Institute for Evolutionary Anthropology in Leipzig (Germany) was the 2018 HFSP Nakasone Award awarded for his discovery of the extent to which hybridization with Neanderthals and Denisovans has shaped the evolution of modern humans, and his development of techniques for sequencing DNA from fossils.
+>(Human Frontier Science Program) Svante Pääbo of the Max Planck Institute for Evolutionary Anthropology in Leipzig (Germany) was the 2018 HFSP Nakasone Award awarded for his discovery of the extent to which hybridization with Neanderthals and Denisovans has shaped the evolution of modern humans, and his development of techniques for sequencing DNA from fossils....
 
 #### Factsheet
 >factsheet unavailable

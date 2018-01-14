@@ -9,7 +9,7 @@ tags: [data centers, linux, open source]
 
 
 #### Extract
->From CDC's 40MHz "supercomputer" to 2014's Tianhe-2's 33.86 PetaFlops per second, supercomputers are continuing to push computing to its ultimate limits.
+>From CDC's 40MHz "supercomputer" to 2014's Tianhe-2's 33.86 PetaFlops per second, supercomputers are continuing to push computing to its ultimate limits....
 
 #### Factsheet
 >factsheet unavailable

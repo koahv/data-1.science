@@ -9,8 +9,7 @@ tags: []
 
 
 #### Extract
->Cray has always been associated with speed and power and its latest computing beast called the Cray Urika-GX system has been designed specifically for big data workloads.
-What’s more, it runs on OpenStack, the open source cloud platform and supports open source big data processing tools like Hadoop and Spark.
+>Cray has always been associated with speed and power and its latest computing beast called the Cray Urika-GX system has been designed specifically for big data workloads. What’s more, it runs on OpenStack, the open source cloud platform and supports open source big data processing tools like Hadoop and Spark....
 
 #### Factsheet
 >factsheet unavailable

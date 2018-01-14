@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers have found evidence that genetic factors may contribute to the development of language during infancy. Scientists discovered a significant link between genetic changes near the ROBO2 gene and the number of words spoken by children in the early stages of language development.
+>Researchers have found evidence that genetic factors may contribute to the development of language during infancy. Scientists discovered a significant link between genetic changes near the ROBO2 gene and the number of words spoken by children in the early stages of language development....
 
 #### Factsheet
 >factsheet unavailable

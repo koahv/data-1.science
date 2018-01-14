@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->In an increasingly globalised world, there are many practical benefits to speaking two languages rather than one. Even in the US, which is largely monolingual, more than 20 percent of the population is now thought to speak a second language. 
+>In an increasingly globalised world, there are many practical benefits to speaking two languages rather than one. Even in the US, which is largely monolingual, more than 20 percent of the population is now thought to speak a second language....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Red Hat today announced that NASA’s Jet Propulsion Laboratory (JPL) has built a private cloud based on Red Hat OpenStack Platform, saving significant time and resources spent on datacenters by retooling and consolidating their in-house hardware.
+>Red Hat today announced that NASA’s Jet Propulsion Laboratory (JPL) has built a private cloud based on Red Hat OpenStack Platform, saving significant time and resources spent on datacenters by retooling and consolidating their in-house hardware....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Radar images from the Sentinel-1A satellite are helping to monitor ground movements of the recently erupted Fogo volcano.
-
-	
+>Radar images from the Sentinel-1A satellite are helping to monitor ground movements of the recently erupted Fogo volcano....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [space]
 
 
 #### Extract
->Astronomers have discovered new clues when it comes to the hunt for dark matter. They've created supercomputer simulations that show the evolution of our "local universe" from the Big Bang to the present day.
+>Astronomers have discovered new clues when it comes to the hunt for dark matter. They've created supercomputer simulations that show the evolution of our "local universe" from the Big Bang to the present day....
 
 #### Factsheet
 >factsheet unavailable

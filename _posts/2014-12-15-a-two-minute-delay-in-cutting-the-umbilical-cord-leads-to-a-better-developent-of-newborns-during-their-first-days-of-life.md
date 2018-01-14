@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Delaying the cutting of the umbilical cord in newborns by two minutes leads to a better development of the baby during the first days of life, research shows. The study reveals that the time in cutting the umbilical cord (also called umbilical cord clampling) influences the resistance to oxidative stress in newborns.
+>Delaying the cutting of the umbilical cord in newborns by two minutes leads to a better development of the baby during the first days of life, research shows. The study reveals that the time in cutting the umbilical cord (also called umbilical cord clampling) influences the resistance to oxidative stress in newborns....
 
 #### Factsheet
 >factsheet unavailable

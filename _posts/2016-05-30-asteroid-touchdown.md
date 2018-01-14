@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		In the run up to Asteroid Day on 30 June, this video details the micro-lander envisaged as part of ESA's proposed Asteroid Impact Mission 
-	
+>In the run up to Asteroid Day on 30 June, this video details the micro-lander envisaged as part of ESA's proposed Asteroid Impact Mission...
 
 #### Factsheet
 >factsheet unavailable

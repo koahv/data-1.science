@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Using a new twist on a technique for imaging atomic structures, researchers have detected a unique quantum property of the Majorana fermion, an elusive particle with the potential for use in quantum information systems. 
+>Using a new twist on a technique for imaging atomic structures, researchers have detected a unique quantum property of the Majorana fermion, an elusive particle with the potential for use in quantum information systems....
 
 #### Factsheet
 >factsheet unavailable

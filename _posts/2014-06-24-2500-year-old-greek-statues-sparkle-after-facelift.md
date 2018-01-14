@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Stripping decades of grime from five marble statues in Athens has restored their beauty.
+>Stripping decades of grime from five marble statues in Athens has restored their beauty....
 
 #### Factsheet
 >factsheet unavailable

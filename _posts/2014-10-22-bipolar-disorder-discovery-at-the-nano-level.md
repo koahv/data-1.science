@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A nano-sized discovery helps explain how bipolar disorder affects the brain and could one day lead to new drug therapies to treat the mental illness, researchers report.
+>A nano-sized discovery helps explain how bipolar disorder affects the brain and could one day lead to new drug therapies to treat the mental illness, researchers report....
 
 #### Factsheet
 >factsheet unavailable

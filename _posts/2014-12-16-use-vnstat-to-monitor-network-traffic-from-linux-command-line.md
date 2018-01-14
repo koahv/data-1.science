@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->MakeTechEasier: vnStat is a command line-based network traffic monitoring tool available for Linux as well as BSD.
+>MakeTechEasier: vnStat is a command line-based network traffic monitoring tool available for Linux as well as BSD....
 
 #### Factsheet
 >factsheet unavailable

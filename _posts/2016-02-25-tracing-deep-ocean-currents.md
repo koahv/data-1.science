@@ -9,7 +9,7 @@ tags: [earth sciences]
 
 
 #### Extract
->Radioactive isotopes typically take four years to reach the Norwegian coast from Sellafield on the north-eastern coast of England. Researchers like Yongqi Gao follow the radioactive waste to understand how ocean currents are formed and to see where they flow.
+>Radioactive isotopes typically take four years to reach the Norwegian coast from Sellafield on the north-eastern coast of England. Researchers like Yongqi Gao follow the radioactive waste to understand how ocean currents are formed and to see where they flow....
 
 #### Factsheet
 >factsheet unavailable

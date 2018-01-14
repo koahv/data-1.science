@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->An artificial intelligence system has used "deep learning" to defeat a professional Go player, solving one of the landmark challenges in AI.
+>An artificial intelligence system has used "deep learning" to defeat a professional Go player, solving one of the landmark challenges in AI....
 
 #### Factsheet
 >factsheet unavailable

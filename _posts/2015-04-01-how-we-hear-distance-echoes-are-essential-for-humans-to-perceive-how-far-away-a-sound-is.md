@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Mammals are good at figuring out which direction a sound is coming from, whether it's a predator breathing down our necks or a baby crying for its mother. But how we judge how far away that sound is was a mystery until now. Researchers report that echoes and fluctuations in volume are the cues we use to figure the distance between us and the source of a noise.
+>Mammals are good at figuring out which direction a sound is coming from, whether it's a predator breathing down our necks or a baby crying for its mother. But how we judge how far away that sound is was a mystery until now. Researchers report that echoes and fluctuations in volume are the cues we use to figure the distance between us and the source of a noise....
 
 #### Factsheet
 >factsheet unavailable

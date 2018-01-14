@@ -9,7 +9,7 @@ tags: [technology]
 
 
 #### Extract
->Renewable energy is becoming an increasingly important issue in today's world. In addition to the rising cost of fossil fuels and the threat of Climate Change, there has also been positive developments in this field which include improvements in efficiency as well as diminishing prices.
+>Renewable energy is becoming an increasingly important issue in today's world. In addition to the rising cost of fossil fuels and the threat of Climate Change, there has also been positive developments in this field which include improvements in efficiency as well as diminishing prices....
 
 #### Factsheet
 >factsheet unavailable

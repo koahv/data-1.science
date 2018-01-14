@@ -9,8 +9,7 @@ tags: []
 
 
 #### Extract
->This is a tutorial aimed at showing how to get hardware and general system information on Linux. There are also a few examples which normally work on Debian and its derivatives, like Ubuntu or Linux Mint.
-Read more
+>This is a tutorial aimed at showing how to get hardware and general system information on Linux. There are also a few examples which normally work on Debian and its derivatives, like Ubuntu or Linux Mint. Read more...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [biochemistry]
 
 
 #### Extract
->Most drugs work by tinkering with the behavior of proteins. Like meddlesome coworkers, these molecules are designed to latch onto their target proteins and keep them from doing what they need to do.
+>Most drugs work by tinkering with the behavior of proteins. Like meddlesome coworkers, these molecules are designed to latch onto their target proteins and keep them from doing what they need to do....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->The D-Wave computer is currently the latest link of a long chain of computers designed for the solution of optimization problems. In what sense does it realize quantum computation? We describe the evolution of such computers and confront the different views concerning the quantum properties of the D-wave computer.
+>The D-Wave computer is currently the latest link of a long chain of computers designed for the solution of optimization problems. In what sense does it realize quantum computation? We describe the evolution of such computers and confront the different views concerning the quantum properties of the D-wave computer....
 
 #### Factsheet
 >factsheet unavailable

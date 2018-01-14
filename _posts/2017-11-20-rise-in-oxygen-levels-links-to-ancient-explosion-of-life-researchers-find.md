@@ -9,7 +9,7 @@ tags: [biodiversity, climate change, climate science, earth science, ecology, en
 
 
 #### Extract
->(Washington University in St. Louis) A team of researchers, including a faculty member and postdoctoral fellow from Washington University in St. Louis, found that oxygen levels appear to increase by roughly 80 percent at about the same time as a three-fold increase in biodiversity during the Ordovician Period, between 445 and 485 million years ago, according to a study published Nov. 20 in Nature Geoscience.
+>(Washington University in St. Louis) A team of researchers, including a faculty member and postdoctoral fellow from Washington University in St. Louis, found that oxygen levels appear to increase by roughly 80 percent at about the same time as a three-fold increase in biodiversity during the Ordovician Period, between 445 and 485 million years ago, according to a study published Nov. 20 in Nature Geoscience....
 
 #### Factsheet
 >factsheet unavailable

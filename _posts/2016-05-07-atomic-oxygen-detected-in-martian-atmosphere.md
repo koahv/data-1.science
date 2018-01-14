@@ -9,8 +9,7 @@ tags: [science]
 
 
 #### Extract
->
-Scientists have detected atomic oxygen in the atmosphere of Mars for the first time since the last observation 40 years ago.These atoms were found in the upper layers of the Martian atmosphere known ...
+>Scientists have detected atomic oxygen in the atmosphere of Mars for the first time since the last observation 40 years ago.These atoms were found in the upper layers of the Martian atmosphere known ......
 
 #### Factsheet
 >factsheet unavailable

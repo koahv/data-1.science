@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Read more about How to Inspect a KC-135 StratotankerComments
+>Read more about How to Inspect a KC-135 StratotankerComments...
 
 #### Factsheet
 >factsheet unavailable

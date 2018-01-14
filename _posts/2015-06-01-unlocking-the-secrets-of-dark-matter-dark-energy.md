@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->At a traditional stone-laying ceremony outside La Serena, Chile on April 14th, construction officially began of the Large Synoptic Survey Telescope (LSST).Read more about Unlocking the Secrets of Dark Matter &amp; Dark Energy Comments
+>At a traditional stone-laying ceremony outside La Serena, Chile on April 14th, construction officially began of the Large Synoptic Survey Telescope (LSST).Read more about Unlocking the Secrets of Dark Matter &amp; Dark Energy Comments...
 
 #### Factsheet
 >factsheet unavailable

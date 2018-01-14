@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The cooling of the Nordic Seas towards modern temperatures started in the early Pliocene, half a million years before the global oceans cooled. A new study of fossil marine plankton demonstrates this. 
+>The cooling of the Nordic Seas towards modern temperatures started in the early Pliocene, half a million years before the global oceans cooled. A new study of fossil marine plankton demonstrates this....
 
 #### Factsheet
 >factsheet unavailable

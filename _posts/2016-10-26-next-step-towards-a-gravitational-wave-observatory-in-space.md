@@ -9,7 +9,7 @@ tags: [astronomy]
 
 
 #### Extract
->Today, ESA has invited European scientists to propose concepts for the third large mission in its science programme, to study the gravitational Universe.
+>Today, ESA has invited European scientists to propose concepts for the third large mission in its science programme, to study the gravitational Universe....
 
 #### Factsheet
 >factsheet unavailable

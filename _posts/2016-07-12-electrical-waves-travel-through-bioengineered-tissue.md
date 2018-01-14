@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Genetically modified cells could provide insights into heart disease and lead to biological computers
+>Genetically modified cells could provide insights into heart disease and lead to biological computers...
 
 #### Factsheet
 >factsheet unavailable

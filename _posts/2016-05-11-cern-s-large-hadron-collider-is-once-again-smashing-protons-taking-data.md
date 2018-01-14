@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->Following its annual winter break, the most powerful collider in the world has been switched back on.
+>Following its annual winter break, the most powerful collider in the world has been switched back on....
 
 #### Factsheet
 >factsheet unavailable

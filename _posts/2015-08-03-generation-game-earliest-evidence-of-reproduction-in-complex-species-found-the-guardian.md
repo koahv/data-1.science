@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The GuardianGeneration game: earliest evidence of reproduction in complex species foundThe GuardianThey looked like plants butwere almost certainly animals; they drifted back and forth in in the deep ocean currents 565 million years ago; and by 540 million years ago, they were gone. And yet, in one of palaeontology&#39;s triumphs, researchers at ...
+>The GuardianGeneration game: earliest evidence of reproduction in complex species foundThe GuardianThey looked like plants butwere almost certainly animals; they drifted back and forth in in the deep ocean currents 565 million years ago; and by 540 million years ago, they were gone. And yet, in one of palaeontology&#39;s triumphs, researchers at ......
 
 #### Factsheet
 >factsheet unavailable

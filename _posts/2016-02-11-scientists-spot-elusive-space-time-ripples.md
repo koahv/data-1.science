@@ -9,8 +9,7 @@ tags: [science]
 
 
 #### Extract
->
-Gravitational waves from two black holes reach Earth.
+>Gravitational waves from two black holes reach Earth....
 
 #### Factsheet
 >factsheet unavailable

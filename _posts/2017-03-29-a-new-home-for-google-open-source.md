@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Free and open source software has been part of our technical and organizational foundation since Google’s early beginnings. From servers running the Linux kernel to an internal culture of being able to patch any other team's code, open source is part of everything we do.
+>Free and open source software has been part of our technical and organizational foundation since Google’s early beginnings. From servers running the Linux kernel to an internal culture of being able to patch any other team's code, open source is part of everything we do....
 
 #### Factsheet
 >factsheet unavailable

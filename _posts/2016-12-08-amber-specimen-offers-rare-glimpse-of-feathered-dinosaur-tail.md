@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers have discovered a dinosaur tail complete with its feathers trapped in a piece of amber. The finding helps fill in details of the dinosaurs' feather structure and evolution. 
+>Researchers have discovered a dinosaur tail complete with its feathers trapped in a piece of amber. The finding helps fill in details of the dinosaurs' feather structure and evolution....
 
 #### Factsheet
 >factsheet unavailable

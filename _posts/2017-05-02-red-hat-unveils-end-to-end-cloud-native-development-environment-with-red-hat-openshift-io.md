@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Red Hat OpenShift.io enables digital transformation with a powerful application environment to address all development phases without requiring local resources.
+>Red Hat OpenShift.io enables digital transformation with a powerful application environment to address all development phases without requiring local resources....
 
 #### Factsheet
 >factsheet unavailable

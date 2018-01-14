@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Space science image of the week: A young star in the final stages of birth offers a glimpse at the way our Sun formed 4.6 billion years ago
-	
+>Space science image of the week: A young star in the final stages of birth offers a glimpse at the way our Sun formed 4.6 billion years ago...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientists have found evidence that Mars' crust is not as dense as previously thought, a clue that could help researchers better understand the Red Planet's interior structure and evolution. 
+>Scientists have found evidence that Mars' crust is not as dense as previously thought, a clue that could help researchers better understand the Red Planet's interior structure and evolution....
 
 #### Factsheet
 >factsheet unavailable

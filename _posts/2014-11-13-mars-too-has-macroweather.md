@@ -11,7 +11,7 @@ tags: []
 
 
 #### Extract
->(McGill University) Weather, which changes day-to-day due to constant fluctuations in the atmosphere, and climate, which varies over decades, are familiar. More recently, a third regime, called 'macroweather,' has been used to describe the relatively stable regime between weather and climate. A new study by researchers at McGill University and UCL finds that this same three-part pattern applies to atmospheric conditions on Mars.
+>(McGill University) Weather, which changes day-to-day due to constant fluctuations in the atmosphere, and climate, which varies over decades, are familiar. More recently, a third regime, called 'macroweather,' has been used to describe the relatively stable regime between weather and climate. A new study by researchers at McGill University and UCL finds that this same three-part pattern applies to atmospheric conditions on Mars....
 
 #### Factsheet
 >factsheet unavailable

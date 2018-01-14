@@ -9,7 +9,7 @@ tags: [archaeology & fossils]
 
 
 #### Extract
->New research reveals that the limbs of the earliest four-legged vertebrates, dating back more than 360 million years ago, were no more structurally diverse than the fins of their aquatic ancestors.
+>New research reveals that the limbs of the earliest four-legged vertebrates, dating back more than 360 million years ago, were no more structurally diverse than the fins of their aquatic ancestors....
 
 #### Factsheet
 >factsheet unavailable

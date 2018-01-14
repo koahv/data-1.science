@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Tech TimesCuriosity rover celebrates first anniversary on Red Planet with a selfieTech TimesThe age of a rock on Mars was measured for the first time. This assists astronomers in learning how radiation affected the surface. Researchers will also gain a better understanding of how long ago water disappeared from the surface of Mars, and the ...Curiosity update: One Mars Year! Sols 662-670The Planetary Society (blog)Science Scanner: Curiosity&#39;s Mars Selfie, Jurassic Caterpillar &amp; an X-ray of ...Voice of America (blog)Curiosity travels through ancient glaciers on MarsThe HinduSci-Tech Today&nbsp;-The Space Reporterall 16 news articles&nbsp;&raquo;
+>Tech TimesCuriosity rover celebrates first anniversary on Red Planet with a selfieTech TimesThe age of a rock on Mars was measured for the first time. This assists astronomers in learning how radiation affected the surface. Researchers will also gain a better understanding of how long ago water disappeared from the surface of Mars, and the ...Curiosity update: One Mars Year! Sols 662-670The Planetary Society (blog)Science Scanner: Curiosity&#39;s Mars Selfie, Jurassic Caterpillar &amp; an X-ray of ...Voice of America (blog)Curiosity travels through ancient glaciers on MarsThe HinduSci-Tech Today&nbsp;-The Space Reporterall 16 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

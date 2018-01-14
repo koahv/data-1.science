@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) Inside a massive clean room at NASA's Goddard Space Flight Center in Greenbelt, Maryland the James Webb Space Telescope team is steadily installing the largest space telescope mirror ever. Unlike other space telescope mirrors, this one must be pieced together from segments using a high-precision robotic arm.
+>(NASA/Goddard Space Flight Center) Inside a massive clean room at NASA's Goddard Space Flight Center in Greenbelt, Maryland the James Webb Space Telescope team is steadily installing the largest space telescope mirror ever. Unlike other space telescope mirrors, this one must be pieced together from segments using a high-precision robotic arm....
 
 #### Factsheet
 >factsheet unavailable

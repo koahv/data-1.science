@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Although closely related to the notorious carnivore Tyrannosaurus rex, a new lineage of dinosaur discovered in Chile is proving to be an evolutionary jigsaw puzzle, as it preferred to graze upon plants. Chilesaurus boasted a proportionally small skull, hands with two fingers like Tyrannosaurus rex and feet more akin to primitive long-neck dinosaurs.
+>Although closely related to the notorious carnivore Tyrannosaurus rex, a new lineage of dinosaur discovered in Chile is proving to be an evolutionary jigsaw puzzle, as it preferred to graze upon plants. Chilesaurus boasted a proportionally small skull, hands with two fingers like Tyrannosaurus rex and feet more akin to primitive long-neck dinosaurs....
 
 #### Factsheet
 >factsheet unavailable

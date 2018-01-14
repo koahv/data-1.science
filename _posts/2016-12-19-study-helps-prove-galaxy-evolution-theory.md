@@ -9,7 +9,7 @@ tags: [astronomy]
 
 
 #### Extract
->Everyone has a backstory, even our own Milky Way galaxy. And much like social media, the picture is not always as pretty as it appears on the current surface, says Texas A&M University astronomer Casey Papovich.
+>Everyone has a backstory, even our own Milky Way galaxy. And much like social media, the picture is not always as pretty as it appears on the current surface, says Texas A&M University astronomer Casey Papovich....
 
 #### Factsheet
 >factsheet unavailable

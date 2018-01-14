@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Thanks to accelerator advances, the Relativistic Heavy Ion Collider, a powerful nuclear physics research facility has just shattered its own record for producing polarized proton collisions at 200-giga-electron-volt collision energy. The improvement will generate high volumes of data rapidly, giving physicists time to achieve several high-priority science goals in a single run at Relativistic Heavy Ion Collider.
+>Thanks to accelerator advances, the Relativistic Heavy Ion Collider, a powerful nuclear physics research facility has just shattered its own record for producing polarized proton collisions at 200-giga-electron-volt collision energy. The improvement will generate high volumes of data rapidly, giving physicists time to achieve several high-priority science goals in a single run at Relativistic Heavy Ion Collider....
 
 #### Factsheet
 >factsheet unavailable

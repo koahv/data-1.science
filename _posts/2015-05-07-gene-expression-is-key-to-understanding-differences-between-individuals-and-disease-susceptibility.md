@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Genotype-Tissue Expression (GTEx) project consortia has now published its results from their first pilot study contributing to a better understanding of genomic variation and give us new clues about disease susceptibility.
+>The Genotype-Tissue Expression (GTEx) project consortia has now published its results from their first pilot study contributing to a better understanding of genomic variation and give us new clues about disease susceptibility....
 
 #### Factsheet
 >factsheet unavailable

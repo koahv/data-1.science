@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Kansas) A KU study has shown that the brains of endurance trainers communicate with muscles differently than those of strength trainers or sedentary individuals.
+>(University of Kansas) A KU study has shown that the brains of endurance trainers communicate with muscles differently than those of strength trainers or sedentary individuals....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->NASA's new Soil Moisture Active Passive (SMAP) mission to map global soil moisture and detect whether soils are frozen or thawed has begun science operations.
+>NASA's new Soil Moisture Active Passive (SMAP) mission to map global soil moisture and detect whether soils are frozen or thawed has begun science operations....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		A look back on the preparations for the 25 April liftoff of Sentinel-1B
-	
+>A look back on the preparations for the 25 April liftoff of Sentinel-1B...
 
 #### Factsheet
 >factsheet unavailable

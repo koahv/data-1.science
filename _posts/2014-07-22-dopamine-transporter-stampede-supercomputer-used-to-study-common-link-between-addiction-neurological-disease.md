@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The XSEDE-allocated Stampede supercomputer has been used to study the dopamine transporter. Stampede is ranked seventh on the Top 500 list of supercomputers. Its research links altered dopamine signaling and dopamine transporter function to neurological and psychiatric diseases including early-onset Parkinsonism, ADHD, and cocaine addiction.
+>The XSEDE-allocated Stampede supercomputer has been used to study the dopamine transporter. Stampede is ranked seventh on the Top 500 list of supercomputers. Its research links altered dopamine signaling and dopamine transporter function to neurological and psychiatric diseases including early-onset Parkinsonism, ADHD, and cocaine addiction....
 
 #### Factsheet
 >factsheet unavailable

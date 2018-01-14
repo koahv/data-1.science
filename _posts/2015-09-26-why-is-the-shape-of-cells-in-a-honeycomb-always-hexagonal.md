@@ -9,9 +9,7 @@ tags: [science]
 
 
 #### Extract
->
-C.R. Sinivasa, Bengaluru
-In fact the bees simply make cells made of wax that are circular in cross-section. These circular cells are packed together like a layer of bubbles...
+>C.R. Sinivasa, Bengaluru In fact the bees simply make cells made of wax that are circular in cross-section. These circular cells are packed together like a layer of bubbles......
 
 #### Factsheet
 >factsheet unavailable

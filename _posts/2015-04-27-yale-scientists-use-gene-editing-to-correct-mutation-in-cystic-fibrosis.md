@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Yale University) Yale researchers successfully corrected the most common mutation in the gene that causes cystic fibrosis, a lethal genetic disorder.
+>(Yale University) Yale researchers successfully corrected the most common mutation in the gene that causes cystic fibrosis, a lethal genetic disorder....
 
 #### Factsheet
 >factsheet unavailable

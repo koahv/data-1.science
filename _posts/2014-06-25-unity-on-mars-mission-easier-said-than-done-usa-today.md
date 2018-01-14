@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->USA TODAYUnity on Mars mission easier said than doneUSA TODAYWASHINGTON — It will take unprecedented unity, funding and international teamwork to land astronauts on Mars within the next 30 years, the co-chairmen of an independent government panel advocating such a mission told a congressional committee&nbsp;...Lunine says send humans to &#39;walk the red soil of Mars&#39;Cornell ChronicleTo Mars! (But Not the Way We&#39;re Going)Air & Space MagazineDaniels Says Money Should Not Deter NASA From MarsIndiana Public MediaWashington Post (blog)&nbsp;-WBIW.comall 45 news articles&nbsp;&raquo;
+>USA TODAYUnity on Mars mission easier said than doneUSA TODAYWASHINGTON — It will take unprecedented unity, funding and international teamwork to land astronauts on Mars within the next 30 years, the co-chairmen of an independent government panel advocating such a mission told a congressional committee&nbsp;...Lunine says send humans to &#39;walk the red soil of Mars&#39;Cornell ChronicleTo Mars! (But Not the Way We&#39;re Going)Air & Space MagazineDaniels Says Money Should Not Deter NASA From MarsIndiana Public MediaWashington Post (blog)&nbsp;-WBIW.comall 45 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

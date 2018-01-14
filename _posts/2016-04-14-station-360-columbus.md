@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Explore Europe’s Columbus space laboratory with your mobile phone or VR headset in this panorama
-	
+>Explore Europe’s Columbus space laboratory with your mobile phone or VR headset in this panorama...
 
 #### Factsheet
 >factsheet unavailable

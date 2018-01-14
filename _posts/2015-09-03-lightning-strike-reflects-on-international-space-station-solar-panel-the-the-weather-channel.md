@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Weather ChannelLightning Strike Reflects on International Space Station Solar Panel | The ...The Weather ChannelEver seen a thunderstorm from space? Meteorologist Alex Wilson shows us some incredible images of lightning on Earth taken from the International Space Station. Ever seen a thunderstorm from space? Meteorologist Alex Wilson shows us some incredible&nbsp;...and more&nbsp;&raquo;
+>The Weather ChannelLightning Strike Reflects on International Space Station Solar Panel | The ...The Weather ChannelEver seen a thunderstorm from space? Meteorologist Alex Wilson shows us some incredible images of lightning on Earth taken from the International Space Station. Ever seen a thunderstorm from space? Meteorologist Alex Wilson shows us some incredible&nbsp;...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(McGill University) Green-chemistry researchers at McGill University have discovered a way to use water as a solvent in one of the reactions most widely used to synthesize chemical products and pharmaceuticals.
+>(McGill University) Green-chemistry researchers at McGill University have discovered a way to use water as a solvent in one of the reactions most widely used to synthesize chemical products and pharmaceuticals....
 
 #### Factsheet
 >factsheet unavailable

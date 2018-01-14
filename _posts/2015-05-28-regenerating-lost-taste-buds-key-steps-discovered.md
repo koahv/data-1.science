@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers have discovered a key molecular pathway that aids in the renewal of taste buds, a finding that may help cancer patients suffering from an altered sense of taste during treatment.
+>Researchers have discovered a key molecular pathway that aids in the renewal of taste buds, a finding that may help cancer patients suffering from an altered sense of taste during treatment....
 
 #### Factsheet
 >factsheet unavailable

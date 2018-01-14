@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Ecole Polytechnique Fédérale de Lausanne) EPFL scientists from the Center for Neuroprosthetics have used functional MRI to show how the brain re-maps motor and sensory pathways following targeted motor and sensory reinnervation (TMSR), a neuroprosthetic approach where residual limb nerves are rerouted towards intact muscles and skin regions to control a robotic limb.
+>(Ecole Polytechnique Fédérale de Lausanne) EPFL scientists from the Center for Neuroprosthetics have used functional MRI to show how the brain re-maps motor and sensory pathways following targeted motor and sensory reinnervation (TMSR), a neuroprosthetic approach where residual limb nerves are rerouted towards intact muscles and skin regions to control a robotic limb....
 
 #### Factsheet
 >factsheet unavailable

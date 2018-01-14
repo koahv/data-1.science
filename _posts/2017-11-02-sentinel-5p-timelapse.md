@@ -9,12 +9,7 @@ tags: [rocket, rocket launch, space, timelapse]
 
 
 #### Extract
->
-							
-				
-		
-		A look back on the preparations for the 13 October liftoff of Sentinel-5P
-	
+>A look back on the preparations for the 13 October liftoff of Sentinel-5P...
 
 #### Factsheet
 >factsheet unavailable

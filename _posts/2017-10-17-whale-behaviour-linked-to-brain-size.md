@@ -9,8 +9,7 @@ tags: [science]
 
 
 #### Extract
->
-Sperm whale has the largest brain on Earth
+>Sperm whale has the largest brain on Earth...
 
 #### Factsheet
 >factsheet unavailable

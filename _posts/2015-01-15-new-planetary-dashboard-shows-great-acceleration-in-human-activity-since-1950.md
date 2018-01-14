@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(SAGE Publications) A planetary dashboard of 24 indicators visualises the Great Acceleration of human activity and its impact on the Earth. The greatest change has occurred since 1950 -- within a single human lifetime.
+>(SAGE Publications) A planetary dashboard of 24 indicators visualises the Great Acceleration of human activity and its impact on the Earth. The greatest change has occurred since 1950 -- within a single human lifetime....
 
 #### Factsheet
 >factsheet unavailable

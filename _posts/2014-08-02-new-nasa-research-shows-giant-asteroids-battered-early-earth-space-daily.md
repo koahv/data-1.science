@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New NASA Research Shows Giant Asteroids Battered Early EarthSpace DailyNew research shows that more than four billion years ago the surface of Earth was heavily reprocessed - or melted, mixed, and buried - as a result of giant asteroid impacts. A new terrestrial bombardment model, calibrated using existing lunar and ...
+>New NASA Research Shows Giant Asteroids Battered Early EarthSpace DailyNew research shows that more than four billion years ago the surface of Earth was heavily reprocessed - or melted, mixed, and buried - as a result of giant asteroid impacts. A new terrestrial bombardment model, calibrated using existing lunar and ......
 
 #### Factsheet
 >factsheet unavailable

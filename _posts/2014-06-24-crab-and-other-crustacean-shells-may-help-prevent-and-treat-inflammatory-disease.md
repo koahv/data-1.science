@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Florida Atlantic University) Microparticles in crab, shrimp and lobster shells have anti-inflammatory mechanisims that could lead to the development of novel preventive and therapeutic strategies for those who suffer from IBD. Since these shells are abundant and a major waste in the seafood industry, they may provide an alternative to costly drugs that don't always work.
+>(Florida Atlantic University) Microparticles in crab, shrimp and lobster shells have anti-inflammatory mechanisims that could lead to the development of novel preventive and therapeutic strategies for those who suffer from IBD. Since these shells are abundant and a major waste in the seafood industry, they may provide an alternative to costly drugs that don't always work....
 
 #### Factsheet
 >factsheet unavailable

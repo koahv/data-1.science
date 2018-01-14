@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A team of researchers has devised a mathematical equation that can explain how our self-esteem is shaped by what other people think of us. 
+>A team of researchers has devised a mathematical equation that can explain how our self-esteem is shaped by what other people think of us....
 
 #### Factsheet
 >factsheet unavailable

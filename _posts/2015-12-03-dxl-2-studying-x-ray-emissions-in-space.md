@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) On Dec. 4, 2015, NASA will launch the DXL-2 payload at 11:45 p.m. EST, from the White Sands Missile Range in New Mexico to continue the study of Diffuse x-ray emissions.
+>(NASA/Goddard Space Flight Center) On Dec. 4, 2015, NASA will launch the DXL-2 payload at 11:45 p.m. EST, from the White Sands Missile Range in New Mexico to continue the study of Diffuse x-ray emissions....
 
 #### Factsheet
 >factsheet unavailable

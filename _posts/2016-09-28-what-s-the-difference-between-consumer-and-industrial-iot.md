@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Internet of Things is invading everything from consumer to industrial products, but all platforms are not created equal.
+>The Internet of Things is invading everything from consumer to industrial products, but all platforms are not created equal....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [nature & environment]
 
 
 #### Extract
->The electric eel is an unusual creature with the ability to create a potent electric field that it uses to hunt its prey. Now, scientists have uncovered the evolutionary origins of this electric field and have found that the eel's charge actually evolved from a muscle.
+>The electric eel is an unusual creature with the ability to create a potent electric field that it uses to hunt its prey. Now, scientists have uncovered the evolutionary origins of this electric field and have found that the eel's charge actually evolved from a muscle....
 
 #### Factsheet
 >factsheet unavailable

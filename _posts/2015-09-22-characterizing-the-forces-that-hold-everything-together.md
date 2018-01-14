@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Massachusetts at Amherst) In the cover story in today's issue of Langmuir, physicists at the University of Massachusetts Amherst, with colleagues elsewhere unveil a project known as Gecko Hamaker, a new computational and modeling software tool plus an open science database to aid those who design nano-scale materials.
+>(University of Massachusetts at Amherst) In the cover story in today's issue of Langmuir, physicists at the University of Massachusetts Amherst, with colleagues elsewhere unveil a project known as Gecko Hamaker, a new computational and modeling software tool plus an open science database to aid those who design nano-scale materials....
 
 #### Factsheet
 >factsheet unavailable

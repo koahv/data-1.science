@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Genetically modified organisms may usually be thought of as human creations, but scientists now find that monarch butterflies, silkworms, and many other butterflies and moths naturally possess genes from parasitic wasps.
+>Genetically modified organisms may usually be thought of as human creations, but scientists now find that monarch butterflies, silkworms, and many other butterflies and moths naturally possess genes from parasitic wasps....
 
 #### Factsheet
 >factsheet unavailable

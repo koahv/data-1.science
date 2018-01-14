@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Science has learned a great deal about complex social behavior by studying nonhuman mammals and primates, but parrots might have something to teach too. A new study -- the first to quantify the social lives of parrots using social network analysis -- provides intriguing new insights into parrot sociality revealing a sophisticated social structure with layers of relationships and complex interactions.
+>Science has learned a great deal about complex social behavior by studying nonhuman mammals and primates, but parrots might have something to teach too. A new study -- the first to quantify the social lives of parrots using social network analysis -- provides intriguing new insights into parrot sociality revealing a sophisticated social structure with layers of relationships and complex interactions....
 
 #### Factsheet
 >factsheet unavailable

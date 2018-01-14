@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Bananas are packed with nutrients and are good for your heart, your eyes, your diet and your mood.
+>Bananas are packed with nutrients and are good for your heart, your eyes, your diet and your mood....
 
 #### Factsheet
 >factsheet unavailable

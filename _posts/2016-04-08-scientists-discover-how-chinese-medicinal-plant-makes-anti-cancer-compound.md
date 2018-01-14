@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(John Innes Centre) New research reveals how a plant used in traditional Chinese medicine produces compounds which may help to treat cancer and liver diseases.
+>(John Innes Centre) New research reveals how a plant used in traditional Chinese medicine produces compounds which may help to treat cancer and liver diseases....
 
 #### Factsheet
 >factsheet unavailable

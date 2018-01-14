@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;6 Operational Challenges to Using Open Source Software15 MarLearn more
+>Title:&nbsp;6 Operational Challenges to Using Open Source Software15 MarLearn more...
 
 #### Factsheet
 >factsheet unavailable

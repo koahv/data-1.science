@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The same species of monkeys located in separate geographic regions use their alarm calls differently to warn of approaching predators, a linguistic analysis by a team of scientists reveals. The study reveals that monkey calls have a more sophisticated structure than was commonly thought.
+>The same species of monkeys located in separate geographic regions use their alarm calls differently to warn of approaching predators, a linguistic analysis by a team of scientists reveals. The study reveals that monkey calls have a more sophisticated structure than was commonly thought....
 
 #### Factsheet
 >factsheet unavailable

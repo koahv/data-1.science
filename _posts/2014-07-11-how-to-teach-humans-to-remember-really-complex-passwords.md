@@ -9,7 +9,7 @@ tags: [threat level]
 
 
 #### Extract
->If passwords are considered the bane of the data security industry, it&#8217;s partly because humans are awful at choosing them: By some counts, we still pick &#8220;password&#8221; a facepalm-inducing one in 20 times. But a study from two researchers at Microsoft and Princeton suggests there&#8217;s hope for those much-maligned secret strings of charters. Randomly generate [&#8230;]
+>If passwords are considered the bane of the data security industry, it&#8217;s partly because humans are awful at choosing them: By some counts, we still pick &#8220;password&#8221; a facepalm-inducing one in 20 times. But a study from two researchers at Microsoft and Princeton suggests there&#8217;s hope for those much-maligned secret strings of charters. Randomly generate [&#8230;]...
 
 #### Factsheet
 >factsheet unavailable

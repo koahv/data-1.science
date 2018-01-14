@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Soyuz Flight VS09, carrying Europe's fifth and sixth Galileo satellites, lifted off from Europe's Spaceport in Kourou, French Guiana, on 22 August 2014 on 12:27:11 UTC/14:27:11 CEST.
-	
+>Soyuz Flight VS09, carrying Europe's fifth and sixth Galileo satellites, lifted off from Europe's Spaceport in Kourou, French Guiana, on 22 August 2014 on 12:27:11 UTC/14:27:11 CEST....
 
 #### Factsheet
 >factsheet unavailable

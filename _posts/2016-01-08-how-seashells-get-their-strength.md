@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(DOE/Pacific Northwest National Laboratory) Seashells and lobster claws are hard to break, but chalk is soft enough to draw on sidewalks. Though all three are made of calcium carbonate crystals, the hard materials include clumps of soft biological matter that make them much stronger. A study today in Nature Communications reveals how soft clumps get into crystals and endow them with remarkable strength.
+>(DOE/Pacific Northwest National Laboratory) Seashells and lobster claws are hard to break, but chalk is soft enough to draw on sidewalks. Though all three are made of calcium carbonate crystals, the hard materials include clumps of soft biological matter that make them much stronger. A study today in Nature Communications reveals how soft clumps get into crystals and endow them with remarkable strength....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->New close-up images of Pluto from NASA's New Horizons spacecraft reveal a bewildering variety of surface features that have scientists reeling because of their range and complexity.
+>New close-up images of Pluto from NASA's New Horizons spacecraft reveal a bewildering variety of surface features that have scientists reeling because of their range and complexity....
 
 #### Factsheet
 >factsheet unavailable

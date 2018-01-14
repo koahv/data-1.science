@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A study conducted with experienced scholars of Zen-Meditation shows that mental focusing can induce learning mechanisms, similar to physical training. Researchers discovered this phenomenon during a scientifically monitored meditation retreat. 
+>A study conducted with experienced scholars of Zen-Meditation shows that mental focusing can induce learning mechanisms, similar to physical training. Researchers discovered this phenomenon during a scientifically monitored meditation retreat....
 
 #### Factsheet
 >factsheet unavailable

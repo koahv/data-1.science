@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A new study has shown the recently approved breast cancer drug neratinib can block the function of Ras as well as several other oncogenes through an unexpected process. 
+>A new study has shown the recently approved breast cancer drug neratinib can block the function of Ras as well as several other oncogenes through an unexpected process....
 
 #### Factsheet
 >factsheet unavailable

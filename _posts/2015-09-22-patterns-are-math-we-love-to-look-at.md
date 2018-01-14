@@ -9,7 +9,7 @@ tags: [mathematics]
 
 
 #### Extract
->Why do humans love to look at patterns? I can only guess, but I've written a whole book about new mathematical ways to make them. In Creating Symmetry, The Artful Mathematics of Wallpaper Patterns, I include a comprehensive set of recipes for turning photographs into patterns. The official definition of "pattern" is cumbersome; but you can think of a pattern as an image that repeats in some way, perhaps when we rotate, perhaps when we jump one unit along.
+>Why do humans love to look at patterns? I can only guess, but I've written a whole book about new mathematical ways to make them. In Creating Symmetry, The Artful Mathematics of Wallpaper Patterns, I include a comprehensive set of recipes for turning photographs into patterns. The official definition of "pattern" is cumbersome; but you can think of a pattern as an image that repeats in some way, perhaps when we rotate, perhaps when we jump one unit along....
 
 #### Factsheet
 >factsheet unavailable

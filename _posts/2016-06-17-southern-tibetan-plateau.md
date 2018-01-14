@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Earth observation image of the week: A Sentinel-2A image of the Tibetan Plateau
-	
+>Earth observation image of the week: A Sentinel-2A image of the Tibetan Plateau...
 
 #### Factsheet
 >factsheet unavailable

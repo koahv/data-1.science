@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The language used in the switches that turn genes on and off has remained the same across millions of years of evolution, according to a new study. The findings indicate that the differences between animals reside in the content and length of the instructions that are written using this conserved language.
+>The language used in the switches that turn genes on and off has remained the same across millions of years of evolution, according to a new study. The findings indicate that the differences between animals reside in the content and length of the instructions that are written using this conserved language....
 
 #### Factsheet
 >factsheet unavailable

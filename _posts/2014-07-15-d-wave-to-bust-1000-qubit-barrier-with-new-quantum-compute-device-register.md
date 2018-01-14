@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->D-Wave to bust 1000-qubit barrier with new quantum compute deviceRegisterD-Wave is planning a big expansion into quantum computing hardware and their software, helped in part by $30m in extra funding from venture capitalists. Vern Brownell, CEO of D-Wave, told The Register that his firm will use the bulk of the cash ...and more&nbsp;&raquo;
+>D-Wave to bust 1000-qubit barrier with new quantum compute deviceRegisterD-Wave is planning a big expansion into quantum computing hardware and their software, helped in part by $30m in extra funding from venture capitalists. Vern Brownell, CEO of D-Wave, told The Register that his firm will use the bulk of the cash ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

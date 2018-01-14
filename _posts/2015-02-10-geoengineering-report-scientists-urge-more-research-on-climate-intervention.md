@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Deep cuts in greenhouse gas emissions, while necessary, may not happen soon enough to stave off climate catastrophe. So, in addition, the world may need to resort to so-called geoengineering approaches that aim to deliberately control the planet's climate.
+>Deep cuts in greenhouse gas emissions, while necessary, may not happen soon enough to stave off climate catastrophe. So, in addition, the world may need to resort to so-called geoengineering approaches that aim to deliberately control the planet's climate....
 
 #### Factsheet
 >factsheet unavailable

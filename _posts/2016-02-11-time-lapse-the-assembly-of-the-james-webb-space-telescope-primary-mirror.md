@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->VideosThis time-lapse shows the assembly of the primary mirror of NASA's James Webb Space Telescope. Assembly was completed on February 3, 2016. JWST is the scientific successor to NASA's Hubble Space...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace
+>VideosThis time-lapse shows the assembly of the primary mirror of NASA's James Webb Space Telescope. Assembly was completed on February 3, 2016. JWST is the scientific successor to NASA's Hubble Space...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

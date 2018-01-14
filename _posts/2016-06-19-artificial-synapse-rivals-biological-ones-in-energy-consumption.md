@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Pohang University of Science & Technology (POSTECH)) POSTECH researchers have succeeded in fabricating an organic nanofiber electronic device that emulates not only the important working principles and energy consumption of biological synapses but also the morphology. They recently published their findings in Science Advances, a new sister journal of Science.
+>(Pohang University of Science & Technology (POSTECH)) POSTECH researchers have succeeded in fabricating an organic nanofiber electronic device that emulates not only the important working principles and energy consumption of biological synapses but also the morphology. They recently published their findings in Science Advances, a new sister journal of Science....
 
 #### Factsheet
 >factsheet unavailable

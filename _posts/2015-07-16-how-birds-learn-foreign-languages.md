@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Biologists have succeeded in teaching wild birds to understand a new language. After only two days of training, fairy wrens learned to flee when they heard an alarm call that was foreign to them, showing that birds can learn to eavesdrop on the calls of other species.
+>Biologists have succeeded in teaching wild birds to understand a new language. After only two days of training, fairy wrens learned to flee when they heard an alarm call that was foreign to them, showing that birds can learn to eavesdrop on the calls of other species....
 
 #### Factsheet
 >factsheet unavailable

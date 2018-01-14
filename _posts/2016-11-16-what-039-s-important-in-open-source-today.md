@@ -9,9 +9,7 @@ tags: []
 
 
 #### Extract
->Opensource.com community moderator Jono Bacon kicked off keynotes at All Things Open this year to talk about open source communities
-
-read more
+>Opensource.com community moderator Jono Bacon kicked off keynotes at All Things Open this year to talk about open source communities read more...
 
 #### Factsheet
 >factsheet unavailable

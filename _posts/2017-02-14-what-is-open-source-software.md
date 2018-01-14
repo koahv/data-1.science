@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;What Is Open Source Software? 14 FebLearn more
+>Title:&nbsp;What Is Open Source Software? 14 FebLearn more...
 
 #### Factsheet
 >factsheet unavailable

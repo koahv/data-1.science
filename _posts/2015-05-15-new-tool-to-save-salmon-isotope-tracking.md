@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Salmon carry a strontium chemical signature in their "ear bones" that lets scientists identify specific streams where the fish hatched and lived before they were caught at sea. The new tool may help pinpoint critical habitats for fish threatened by climate change, industrial development and overfishing.
+>Salmon carry a strontium chemical signature in their "ear bones" that lets scientists identify specific streams where the fish hatched and lived before they were caught at sea. The new tool may help pinpoint critical habitats for fish threatened by climate change, industrial development and overfishing....
 
 #### Factsheet
 >factsheet unavailable

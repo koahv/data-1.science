@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(BioMed Central) A former adviser to the US Secretary of State says that genetic modification is the most critical technology in agriculture for meeting the challenges of feeding a growing global population, writing in the open access journal Agriculture & Food Security.
+>(BioMed Central) A former adviser to the US Secretary of State says that genetic modification is the most critical technology in agriculture for meeting the challenges of feeding a growing global population, writing in the open access journal Agriculture & Food Security....
 
 #### Factsheet
 >factsheet unavailable

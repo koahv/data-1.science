@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->NASA's Kepler spacecraft began hunting for planets outside our solar system on May 12, 2009. From the trove of data collected, we have learned that planets are common, that most sun-like stars have at least one planet and that nature makes planets with unimaginable diversity.
+>NASA's Kepler spacecraft began hunting for planets outside our solar system on May 12, 2009. From the trove of data collected, we have learned that planets are common, that most sun-like stars have at least one planet and that nature makes planets with unimaginable diversity....
 
 #### Factsheet
 >factsheet unavailable

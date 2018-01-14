@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers who study how genes are expressed across a given tissue can now examine thousands of genes at once at cellular resolution, thanks to new methods. The new techniques can be applied to a broad range of organisms, and expand the resources available for evolution-and-development research.
+>Researchers who study how genes are expressed across a given tissue can now examine thousands of genes at once at cellular resolution, thanks to new methods. The new techniques can be applied to a broad range of organisms, and expand the resources available for evolution-and-development research....
 
 #### Factsheet
 >factsheet unavailable

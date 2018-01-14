@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NBCNews.comFossil of Ancient &#39;Sea Monster&#39; Sheds Light on Evolution of ArthropodsNBCNews.comThe deep-water version of Cyclops (the one pictured is a prototype) will use a thick carbon composite shell that will eventually allow it to dive to 6,000 meters, or nearly 20,000 feet. Fiber optics embedded in the shell will provide constant pressure ...and more&nbsp;&raquo;
+>NBCNews.comFossil of Ancient &#39;Sea Monster&#39; Sheds Light on Evolution of ArthropodsNBCNews.comThe deep-water version of Cyclops (the one pictured is a prototype) will use a thick carbon composite shell that will eventually allow it to dive to 6,000 meters, or nearly 20,000 feet. Fiber optics embedded in the shell will provide constant pressure ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

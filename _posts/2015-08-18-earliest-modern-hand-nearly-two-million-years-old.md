@@ -9,7 +9,7 @@ tags: [archaeology & fossils]
 
 
 #### Extract
->A tiny, 1.85 million-year-old bone from the little finger of a human ancestor unearthed in East Africa has revealed the oldest "modern" hand ever found, scientists reported Tuesday.
+>A tiny, 1.85 million-year-old bone from the little finger of a human ancestor unearthed in East Africa has revealed the oldest "modern" hand ever found, scientists reported Tuesday....
 
 #### Factsheet
 >factsheet unavailable

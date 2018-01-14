@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New research has found an increasing trend in the number of people in the UK reaching age 100 over the past two decades. The study also found that, whilst women were far more likely to reach 100 than men, males tended to be healthier and had fewer diagnosed chronic illnesses compared to women.
+>New research has found an increasing trend in the number of people in the UK reaching age 100 over the past two decades. The study also found that, whilst women were far more likely to reach 100 than men, males tended to be healthier and had fewer diagnosed chronic illnesses compared to women....
 
 #### Factsheet
 >factsheet unavailable

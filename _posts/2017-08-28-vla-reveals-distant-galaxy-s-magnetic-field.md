@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(National Radio Astronomy Observatory) A chance combination of a gravitational lens and polarized waves coming from a distant quasar gave astronomers the tool needed to make a measurement important to understanding the origin of magnetic fields in galaxies.
+>(National Radio Astronomy Observatory) A chance combination of a gravitational lens and polarized waves coming from a distant quasar gave astronomers the tool needed to make a measurement important to understanding the origin of magnetic fields in galaxies....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [online gallery, skyscape & constellation pictures]
 
 
 #### Extract
->The post The Great Alignment of the Five Planets appeared first on Sky &amp; Telescope.
+>The post The Great Alignment of the Five Planets appeared first on Sky &amp; Telescope....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Prior to the advent of human-caused global warming in the 19th century, the surface layer of Earth's oceans had undergone 1,800 years of a steady cooling trend, according to a new study. The results also indicate that the coolest temperatures occurred during the Little Ice Age -- a period that spanned the 16th through 18th centuries and was known for cooler average temperatures over land. 
+>Prior to the advent of human-caused global warming in the 19th century, the surface layer of Earth's oceans had undergone 1,800 years of a steady cooling trend, according to a new study. The results also indicate that the coolest temperatures occurred during the Little Ice Age -- a period that spanned the 16th through 18th centuries and was known for cooler average temperatures over land....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Read more about Building Spacecrafts in Space Comments
+>Read more about Building Spacecrafts in Space Comments...
 
 #### Factsheet
 >factsheet unavailable

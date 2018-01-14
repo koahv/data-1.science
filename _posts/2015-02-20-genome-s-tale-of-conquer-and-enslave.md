@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Toronto scientists uncovered how viral remnants helped shape control of our genes.
+>Toronto scientists uncovered how viral remnants helped shape control of our genes....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The new research shows that dysfunctional brain blood vessels may be associated with the development of schizophrenia. There is potential for new treatments of schizophrenia by developing new drugs to target these abnormal blood vessels. 
+>The new research shows that dysfunctional brain blood vessels may be associated with the development of schizophrenia. There is potential for new treatments of schizophrenia by developing new drugs to target these abnormal blood vessels....
 
 #### Factsheet
 >factsheet unavailable

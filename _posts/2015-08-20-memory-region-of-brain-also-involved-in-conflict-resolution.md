@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The hippocampus in the brain's temporal lobe is responsible for more than just long-term memory. Researchers have for the first time demonstrated that it is also involved in quick and successful conflict resolution. 
+>The hippocampus in the brain's temporal lobe is responsible for more than just long-term memory. Researchers have for the first time demonstrated that it is also involved in quick and successful conflict resolution....
 
 #### Factsheet
 >factsheet unavailable

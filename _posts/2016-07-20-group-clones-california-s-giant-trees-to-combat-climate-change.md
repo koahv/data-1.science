@@ -9,8 +9,7 @@ tags: [environment]
 
 
 #### Extract
->
-Sequoias and coastal redwoods are blessed with some of the heartiest genetics of any trees on Earth, says Archangel Ancient Tree Archive
+>Sequoias and coastal redwoods are blessed with some of the heartiest genetics of any trees on Earth, says Archangel Ancient Tree Archive...
 
 #### Factsheet
 >factsheet unavailable

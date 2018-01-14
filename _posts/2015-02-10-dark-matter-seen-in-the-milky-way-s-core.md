@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Astronomers provide the first direct evidence that dark matter abounds in the inner part of our galaxy
+>Astronomers provide the first direct evidence that dark matter abounds in the inner part of our galaxy...
 
 #### Factsheet
 >factsheet unavailable

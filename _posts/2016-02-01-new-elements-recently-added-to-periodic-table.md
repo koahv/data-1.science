@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsA UT physicist has been instrumental in the discovery of four new super-heavy chemical elements -- atomic numbers 113, 115, 117, and 118 -- recently added to the periodic table. Robert Grzywacz, along with collaborators...Contributed Author:&nbsp;University of TennesseeTopics:&nbsp;Materials
+>NewsA UT physicist has been instrumental in the discovery of four new super-heavy chemical elements -- atomic numbers 113, 115, 117, and 118 -- recently added to the periodic table. Robert Grzywacz, along with collaborators...Contributed Author:&nbsp;University of TennesseeTopics:&nbsp;Materials...
 
 #### Factsheet
 >factsheet unavailable

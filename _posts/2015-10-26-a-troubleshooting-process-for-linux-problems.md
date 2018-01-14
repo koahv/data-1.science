@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;OpenSource.com: how do you troubleshoot?
+>&nbsp;OpenSource.com: how do you troubleshoot?...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->Ancient hunter-gatherers began to systemically affect the evolution of crops up to thirty thousand years ago – around ten millennia before experts previously thought – according to new research by the University of Warwick.
+>Ancient hunter-gatherers began to systemically affect the evolution of crops up to thirty thousand years ago – around ten millennia before experts previously thought – according to new research by the University of Warwick....
 
 #### Factsheet
 >factsheet unavailable

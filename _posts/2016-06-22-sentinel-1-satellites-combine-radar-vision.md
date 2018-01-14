@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-The twin Sentinel-1 satellites have – for the first time – combined to show their capability for revealing even small deformations in Earth’s surface.
-
-	
+>The twin Sentinel-1 satellites have – for the first time – combined to show their capability for revealing even small deformations in Earth’s surface....
 
 #### Factsheet
 >factsheet unavailable

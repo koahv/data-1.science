@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientists have revealed how taste is encoded in patterns of neural activity in the human brain.
+>Scientists have revealed how taste is encoded in patterns of neural activity in the human brain....
 
 #### Factsheet
 >factsheet unavailable

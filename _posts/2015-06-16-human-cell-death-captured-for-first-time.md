@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Scientists based at the La Trobe Institute of Molecular Science have discovered that some molecules which are central to the body's defence and immune system are ejected from inside the decomposing cell to form long beaded strings that can break off and are distributed through the body.
+>Scientists based at the La Trobe Institute of Molecular Science have discovered that some molecules which are central to the body's defence and immune system are ejected from inside the decomposing cell to form long beaded strings that can break off and are distributed through the body....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->High above the crowded streets of Addis Ababa, among fields where farmers lead oxen dragging wooden ploughs, sits Ethiopia's space programme.
+>High above the crowded streets of Addis Ababa, among fields where farmers lead oxen dragging wooden ploughs, sits Ethiopia's space programme....
 
 #### Factsheet
 >factsheet unavailable

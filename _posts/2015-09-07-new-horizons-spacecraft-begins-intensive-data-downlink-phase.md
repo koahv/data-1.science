@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->If you liked the first historic images of Pluto from NASA's New Horizons spacecraft, you'll love what's to come.
+>If you liked the first historic images of Pluto from NASA's New Horizons spacecraft, you'll love what's to come....
 
 #### Factsheet
 >factsheet unavailable

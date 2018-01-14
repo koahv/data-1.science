@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Just as waves ripple across a pond when a tossed stone disturbs the water's surface, gravity waves ripple toward space from disturbances in the lower atmosphere.
+>Just as waves ripple across a pond when a tossed stone disturbs the water's surface, gravity waves ripple toward space from disturbances in the lower atmosphere....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Jet Propulsion LaboratoryNASA&#39;s OCO-2 Will Track Our Impact on Airborne CarbonJet Propulsion LaboratoryNASA&#39;s OCO-2 Will Track Our Impact on Airborne Carbon. Fossil fuel burning and other human activities are the primary source for the rise in atmospheric carbon dioxide. NASA&#39;s OCO-2 mission will help sort out the gas&#39;s sources and reservoirs. Image ...NASA to launch Carbon Observatorywtvr.comUtah scientist on NASA team to assess groundbreaking satellite dataKUTV 2NewsNASA to launch Gilbert-built satelliteazcentral.comWSU Newsall 13 news articles&nbsp;&raquo;
+>Jet Propulsion LaboratoryNASA&#39;s OCO-2 Will Track Our Impact on Airborne CarbonJet Propulsion LaboratoryNASA&#39;s OCO-2 Will Track Our Impact on Airborne Carbon. Fossil fuel burning and other human activities are the primary source for the rise in atmospheric carbon dioxide. NASA&#39;s OCO-2 mission will help sort out the gas&#39;s sources and reservoirs. Image ...NASA to launch Carbon Observatorywtvr.comUtah scientist on NASA team to assess groundbreaking satellite dataKUTV 2NewsNASA to launch Gilbert-built satelliteazcentral.comWSU Newsall 13 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

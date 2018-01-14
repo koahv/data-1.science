@@ -9,7 +9,7 @@ tags: [nanotechnology]
 
 
 #### Extract
->(Phys.org)—Individual electrons in graphene are massless, but when they move together, it's a different story. Graphene, a one-atom-thick carbon sheet, has taken the world of physics by storm—in part, because its electrons behave as massless particles. Yet these electrons seem to have dual personalities. Phenomena observed in the field of graphene plasmonics suggest that when the electrons move collectively, they must exhibit mass.
+>(Phys.org)—Individual electrons in graphene are massless, but when they move together, it's a different story. Graphene, a one-atom-thick carbon sheet, has taken the world of physics by storm—in part, because its electrons behave as massless particles. Yet these electrons seem to have dual personalities. Phenomena observed in the field of graphene plasmonics suggest that when the electrons move collectively, they must exhibit mass....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,11 +9,7 @@ tags: [linux]
 
 
 #### Extract
->The Linux Foundation partnership with edX platform is expanding, and users will now get the Essentials of Linux Systems Administration (LFS201) online course, which should help prepare the SysAdmins of tomorrow.
-
-
-
-The Linux Foundation is so much more than just a nonprofit organization that is tasked with the development and promotion of the Linux kernel. In fact, The Linux Foundation also organizes various courses that help people make a career out of Linux. Recent reports an... (read more)
+>The Linux Foundation partnership with edX platform is expanding, and users will now get the Essentials of Linux Systems Administration (LFS201) online course, which should help prepare the SysAdmins of tomorrow. The Linux Foundation is so much more than just a nonprofit organization that is tasked with the development and promotion of the Linux kernel. In fact, The Linux Foundation also organizes various courses that help people make a career out of Linux. Recent reports an... (read more)...
 
 #### Factsheet
 >factsheet unavailable

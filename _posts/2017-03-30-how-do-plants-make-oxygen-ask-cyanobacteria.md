@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(California Institute of Technology) A new study adds 41 new types of cyanobacteria, and helps pin down when in history they 'invented' oxygen-producing photosynthesis.
+>(California Institute of Technology) A new study adds 41 new types of cyanobacteria, and helps pin down when in history they 'invented' oxygen-producing photosynthesis....
 
 #### Factsheet
 >factsheet unavailable

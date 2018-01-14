@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Ted Ts'o at Google has implemented EXT4 encryption support that will likely be baked into the next Android "M" release and is being worked toward for mainline inclusion in the upstream Linux kernel...
+>Ted Ts'o at Google has implemented EXT4 encryption support that will likely be baked into the next Android "M" release and is being worked toward for mainline inclusion in the upstream Linux kernel......
 
 #### Factsheet
 >factsheet unavailable

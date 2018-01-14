@@ -9,7 +9,7 @@ tags: [plants & animals]
 
 
 #### Extract
->How can a bee fly straight home in the middle of the night after a complicated route through thick vegetation in search of food? For the first time, researchers have been able to show what happens in the brain of the bee.
+>How can a bee fly straight home in the middle of the night after a complicated route through thick vegetation in search of food? For the first time, researchers have been able to show what happens in the brain of the bee....
 
 #### Factsheet
 >factsheet unavailable

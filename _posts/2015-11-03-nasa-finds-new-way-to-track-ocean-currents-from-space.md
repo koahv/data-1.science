@@ -9,7 +9,7 @@ tags: [earth sciences]
 
 
 #### Extract
->A team of NASA and university scientists has developed a new way to use satellite measurements to track changes in Atlantic Ocean currents, which are a driving force in global climate. The finding opens a path to better monitoring and understanding of how ocean circulation is changing and what the changes may mean for future climate.
+>A team of NASA and university scientists has developed a new way to use satellite measurements to track changes in Atlantic Ocean currents, which are a driving force in global climate. The finding opens a path to better monitoring and understanding of how ocean circulation is changing and what the changes may mean for future climate....
 
 #### Factsheet
 >factsheet unavailable

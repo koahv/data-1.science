@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Astronomers have discovered a new dwarf planet orbiting in the disk of small icy worlds beyond Neptune. The new object is about 700 km in diameter and has one of the largest orbits for a dwarf planet. Designated 2015 RR245 by the International Astronomical Union's Minor Planet Center, it was found using the Canada-France-Hawaii Telescope on Maunakea, Hawaii, as part of the ongoing Outer Solar System Origins Survey (OSSOS). 
+>Astronomers have discovered a new dwarf planet orbiting in the disk of small icy worlds beyond Neptune. The new object is about 700 km in diameter and has one of the largest orbits for a dwarf planet. Designated 2015 RR245 by the International Astronomical Union's Minor Planet Center, it was found using the Canada-France-Hawaii Telescope on Maunakea, Hawaii, as part of the ongoing Outer Solar System Origins Survey (OSSOS)....
 
 #### Factsheet
 >factsheet unavailable

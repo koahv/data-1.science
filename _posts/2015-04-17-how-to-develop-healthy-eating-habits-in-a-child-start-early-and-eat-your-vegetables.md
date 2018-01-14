@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A healthy diet promotes success in life -- better concentration and alertness, better physical health that translates into good mental and emotional health.
+>A healthy diet promotes success in life -- better concentration and alertness, better physical health that translates into good mental and emotional health....
 
 #### Factsheet
 >factsheet unavailable

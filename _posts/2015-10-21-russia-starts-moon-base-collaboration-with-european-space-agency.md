@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The ESA has announced intentions to collaborate with Russia in making a settlement on the moon, modelled after the International Space Station
+>The ESA has announced intentions to collaborate with Russia in making a settlement on the moon, modelled after the International Space Station...
 
 #### Factsheet
 >factsheet unavailable

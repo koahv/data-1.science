@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Imperial College London) For the first time, spacecraft have flown through the heart of a magnetic process that controls Earth's space weather and geomagnetic storms.
+>(Imperial College London) For the first time, spacecraft have flown through the heart of a magnetic process that controls Earth's space weather and geomagnetic storms....
 
 #### Factsheet
 >factsheet unavailable

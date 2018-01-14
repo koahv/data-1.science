@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers decode the molecular mechanism of collective cell migration important for wound healing in a new article.
+>Researchers decode the molecular mechanism of collective cell migration important for wound healing in a new article....
 
 #### Factsheet
 >factsheet unavailable

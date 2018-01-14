@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
-> The world's largest particle smasher resumed colliding protons Tuesday as it gradually reboots following a two-year upgrade, Europe's physics lab CERN said.
+>The world's largest particle smasher resumed colliding protons Tuesday as it gradually reboots following a two-year upgrade, Europe's physics lab CERN said....
 
 #### Factsheet
 >factsheet unavailable

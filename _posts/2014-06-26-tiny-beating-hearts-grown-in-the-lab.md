@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Miniature human hearts that beat of their own accord have been grown in the lab.
+>Miniature human hearts that beat of their own accord have been grown in the lab....
 
 #### Factsheet
 >factsheet unavailable

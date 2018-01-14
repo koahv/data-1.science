@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->With the first detailed observations through imaging interferometry of a lava lake on a moon of Jupiter, the Large Binocular Telescope Observatory places itself as the forerunner of the next generation of Extremely Large Telescopes.
+>With the first detailed observations through imaging interferometry of a lava lake on a moon of Jupiter, the Large Binocular Telescope Observatory places itself as the forerunner of the next generation of Extremely Large Telescopes....
 
 #### Factsheet
 >factsheet unavailable

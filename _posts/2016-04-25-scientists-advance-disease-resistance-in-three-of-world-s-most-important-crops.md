@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->Today's advanced online publication of the journal Nature Biotechnology carries three important papers on crop disease resistance. They report the isolation of novel disease resistance genes and the successful transfer of resistance into wheat, soybean, and potato. The 2Blades Foundation supported the development of these efforts as part of the organization's mission to discover, advance, and deliver genetic improvements in crop disease resistance.
+>Today's advanced online publication of the journal Nature Biotechnology carries three important papers on crop disease resistance. They report the isolation of novel disease resistance genes and the successful transfer of resistance into wheat, soybean, and potato. The 2Blades Foundation supported the development of these efforts as part of the organization's mission to discover, advance, and deliver genetic improvements in crop disease resistance....
 
 #### Factsheet
 >factsheet unavailable

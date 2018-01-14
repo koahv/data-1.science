@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->New findings from NASA's Mars Reconnaissance Orbiter (MRO) provide the strongest evidence yet that liquid water flows intermittently on present-day Mars.
+>New findings from NASA's Mars Reconnaissance Orbiter (MRO) provide the strongest evidence yet that liquid water flows intermittently on present-day Mars....
 
 #### Factsheet
 >factsheet unavailable

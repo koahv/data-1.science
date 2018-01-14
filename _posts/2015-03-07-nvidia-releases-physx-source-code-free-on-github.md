@@ -9,11 +9,7 @@ tags: [linux]
 
 
 #### Extract
->NVIDIA has announced that the PhysX source code is now freely available on Github to any developer interested in this technology.
-
-
-
-Offering the PhysX source code freely is a very big shift in NVIDIA's policy, but it shows that the company is now very much aware that this is one of the ways to improve the Linux integration of its software solutions. NVIDIA already made the SDK free for the Windows platform, but now the hardware company is extending that policy to Windows, Lin... (read more)
+>NVIDIA has announced that the PhysX source code is now freely available on Github to any developer interested in this technology. Offering the PhysX source code freely is a very big shift in NVIDIA's policy, but it shows that the company is now very much aware that this is one of the ways to improve the Linux integration of its software solutions. NVIDIA already made the SDK free for the Windows platform, but now the hardware company is extending that policy to Windows, Lin... (read more)...
 
 #### Factsheet
 >factsheet unavailable

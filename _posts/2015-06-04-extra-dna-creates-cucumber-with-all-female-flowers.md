@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Cornell University) A new study identifies the gene duplication that causes cucumber varieties produce only female flowers -- a high-yeild variety.
+>(Cornell University) A new study identifies the gene duplication that causes cucumber varieties produce only female flowers -- a high-yeild variety....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Queen Mary University of London) Scientists at Queen Mary University of London (QMUL) are bringing us closer to understanding the musical experience through a novel approach to analysing a common musical effect known as vibrato.
+>(Queen Mary University of London) Scientists at Queen Mary University of London (QMUL) are bringing us closer to understanding the musical experience through a novel approach to analysing a common musical effect known as vibrato....
 
 #### Factsheet
 >factsheet unavailable

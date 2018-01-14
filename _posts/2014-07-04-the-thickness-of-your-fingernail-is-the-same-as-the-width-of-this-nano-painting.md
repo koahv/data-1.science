@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->This isn’t just some cheap knock-off of Claude Monet’s 1872 impressionist painting, Impression, Sunrise. It’s 300 micrometres wide, which makes it the smallest recreated masterpiece in the world.
+>This isn’t just some cheap knock-off of Claude Monet’s 1872 impressionist painting, Impression, Sunrise. It’s 300 micrometres wide, which makes it the smallest recreated masterpiece in the world....
 
 #### Factsheet
 >factsheet unavailable

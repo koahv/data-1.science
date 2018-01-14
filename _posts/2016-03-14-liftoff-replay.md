@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Watch ExoMars 2016 liftoff from Baikonur, Kazakhstan on a Proton rocket
-	
+>Watch ExoMars 2016 liftoff from Baikonur, Kazakhstan on a Proton rocket...
 
 #### Factsheet
 >factsheet unavailable

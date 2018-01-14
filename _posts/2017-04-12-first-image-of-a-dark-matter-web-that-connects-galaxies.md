@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers have been able to capture the first composite image of a dark matter bridge that connects galaxies together. 
+>Researchers have been able to capture the first composite image of a dark matter bridge that connects galaxies together....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [chemistry]
 
 
 #### Extract
->The DNA encoding all life on Earth is made of four building blocks called nucleotides, commonly known as "letters," that line up in pairs and twist into a double helix. Now, two groups of scientists are reporting for the first time that two new nucleotides can do the same thing—raising the possibility that entirely new proteins could be created for medical uses. Their two studies appear in ACS' Journal of the American Chemical Society.
+>The DNA encoding all life on Earth is made of four building blocks called nucleotides, commonly known as "letters," that line up in pairs and twist into a double helix. Now, two groups of scientists are reporting for the first time that two new nucleotides can do the same thing—raising the possibility that entirely new proteins could be created for medical uses. Their two studies appear in ACS' Journal of the American Chemical Society....
 
 #### Factsheet
 >factsheet unavailable

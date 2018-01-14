@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->VideosToday, glasses help millions of people with poor vision be able to see clearly. But how? Andrew Bastawrous and Clare Gilbert help unravel the answer by explaining refraction — the ability of a transparent...Contributed Author:&nbsp;TED-EdTopics:&nbsp;R&amp;D
+>VideosToday, glasses help millions of people with poor vision be able to see clearly. But how? Andrew Bastawrous and Clare Gilbert help unravel the answer by explaining refraction — the ability of a transparent...Contributed Author:&nbsp;TED-EdTopics:&nbsp;R&amp;D...
 
 #### Factsheet
 >factsheet unavailable

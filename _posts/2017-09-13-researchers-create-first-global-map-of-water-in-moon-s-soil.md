@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Brown University) A new study maps the trace concentrations of water implanted in the lunar soil by the solar wind, a water source that could be used as resource in future lunar exploration.
+>(Brown University) A new study maps the trace concentrations of water implanted in the lunar soil by the solar wind, a water source that could be used as resource in future lunar exploration....
 
 #### Factsheet
 >factsheet unavailable

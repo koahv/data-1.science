@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Ecole Polytechnique Fédérale de Lausanne) A new generation of biological infection-fighting bandages could reduce the death rate among victims of serious burns. This technology, which EPFL helped develop, is the result of close collaboration among Swiss burn specialists.
+>(Ecole Polytechnique Fédérale de Lausanne) A new generation of biological infection-fighting bandages could reduce the death rate among victims of serious burns. This technology, which EPFL helped develop, is the result of close collaboration among Swiss burn specialists....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;tuxarena: This is a tutorial aimed at showing how to get hardware and general system information on Linux.
+>&nbsp;tuxarena: This is a tutorial aimed at showing how to get hardware and general system information on Linux....
 
 #### Factsheet
 >factsheet unavailable

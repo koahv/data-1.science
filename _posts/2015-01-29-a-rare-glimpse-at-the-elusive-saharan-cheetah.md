@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Research by scientists and conservationists from the Wildlife Conservation Society, the Zoological Society of London, and other groups published today in PLOS ONE shows that critically endangered Saharan cheetahs exist at incredibly low densities and require vast areas for their conservation. The research also offers some of the world's only photographs of this elusive big cat.
+>Research by scientists and conservationists from the Wildlife Conservation Society, the Zoological Society of London, and other groups published today in PLOS ONE shows that critically endangered Saharan cheetahs exist at incredibly low densities and require vast areas for their conservation. The research also offers some of the world's only photographs of this elusive big cat....
 
 #### Factsheet
 >factsheet unavailable

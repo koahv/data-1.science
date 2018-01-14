@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->It's taken millions of years for humans to perfect the art of walking.Read more about Unpowered Exoskeleton Increases Walking Efficiency Comments
+>It's taken millions of years for humans to perfect the art of walking.Read more about Unpowered Exoskeleton Increases Walking Efficiency Comments...
 
 #### Factsheet
 >factsheet unavailable

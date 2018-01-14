@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Oxia Planum has been recommended as the primary candidate for the landing site of the ExoMars 2018 mission.
-
-	
+>Oxia Planum has been recommended as the primary candidate for the landing site of the ExoMars 2018 mission....
 
 #### Factsheet
 >factsheet unavailable

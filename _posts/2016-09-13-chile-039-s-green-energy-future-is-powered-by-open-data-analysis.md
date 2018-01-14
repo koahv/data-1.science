@@ -9,9 +9,7 @@ tags: []
 
 
 #### Extract
->Open source software and open data play key roles in implementing Chile's long-term energy planning, identifying ways to get the maximum value from development, minimizing its impact, and requiring less development overall.
-
-read more
+>Open source software and open data play key roles in implementing Chile's long-term energy planning, identifying ways to get the maximum value from development, minimizing its impact, and requiring less development overall. read more...
 
 #### Factsheet
 >factsheet unavailable

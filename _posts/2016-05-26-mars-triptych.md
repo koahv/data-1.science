@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Operations image of the week: Three images of Mars acquired by two cameras in space and one in Australia
-	
+>Operations image of the week: Three images of Mars acquired by two cameras in space and one in Australia...
 
 #### Factsheet
 >factsheet unavailable

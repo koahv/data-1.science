@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->When beams with trillions of particles go zipping around at near light speed, there's bound to be some chaos. Limiting that chaos in particle colliders is crucial for the groundbreaking results such experiments are designed to deliver.
+>When beams with trillions of particles go zipping around at near light speed, there's bound to be some chaos. Limiting that chaos in particle colliders is crucial for the groundbreaking results such experiments are designed to deliver....
 
 #### Factsheet
 >factsheet unavailable

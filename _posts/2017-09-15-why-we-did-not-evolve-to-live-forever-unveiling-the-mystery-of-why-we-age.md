@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers have made a breakthrough in understanding the origin of the ageing process. They have identified that genes belonging to a process called autophagy -- one of the cells most critical survival processes -- promote health and fitness in young worms but drive the process of ageing later in life. 
+>Researchers have made a breakthrough in understanding the origin of the ageing process. They have identified that genes belonging to a process called autophagy -- one of the cells most critical survival processes -- promote health and fitness in young worms but drive the process of ageing later in life....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Lund University) Viruses can convert their DNA from solid to fluid form, which explains how viruses manage to eject DNA into the cells of their victims. This has been shown in two new studies carried out by Lund University in Sweden.
+>(Lund University) Viruses can convert their DNA from solid to fluid form, which explains how viruses manage to eject DNA into the cells of their victims. This has been shown in two new studies carried out by Lund University in Sweden....
 
 #### Factsheet
 >factsheet unavailable

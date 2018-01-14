@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Conference: 29 May 2017 - 2 Jun 2017, Florence, Italy.
+>Conference: 29 May 2017 - 2 Jun 2017, Florence, Italy....
 
 #### Factsheet
 >factsheet unavailable

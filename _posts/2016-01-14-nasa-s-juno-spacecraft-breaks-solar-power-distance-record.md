@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsNASA's Juno mission to Jupiter has broken the record to become humanity's most distant solar-powered emissary. The milestone occurred at...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace
+>NewsNASA's Juno mission to Jupiter has broken the record to become humanity's most distant solar-powered emissary. The milestone occurred at...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

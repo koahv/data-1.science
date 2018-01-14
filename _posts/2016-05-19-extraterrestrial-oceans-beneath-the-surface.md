@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->Icy objects in our solar system have large oceans under their surfaces and here life could evolve and flourish. So says a new thesis by Jesper Lindkvist, PhD student at the Swedish Institute of Space Physics and Umeå University. The thesis will be defended on Tuesday 31 May at the Swedish Institute of Space Physics in Kiruna, Sweden.
+>Icy objects in our solar system have large oceans under their surfaces and here life could evolve and flourish. So says a new thesis by Jesper Lindkvist, PhD student at the Swedish Institute of Space Physics and Umeå University. The thesis will be defended on Tuesday 31 May at the Swedish Institute of Space Physics in Kiruna, Sweden....
 
 #### Factsheet
 >factsheet unavailable

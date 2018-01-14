@@ -9,7 +9,7 @@ tags: [plasma physics]
 
 
 #### Extract
->Plasma technology could hold the key to creating a sustainable oxygen supply on Mars, a new study has found.
+>Plasma technology could hold the key to creating a sustainable oxygen supply on Mars, a new study has found....
 
 #### Factsheet
 >factsheet unavailable

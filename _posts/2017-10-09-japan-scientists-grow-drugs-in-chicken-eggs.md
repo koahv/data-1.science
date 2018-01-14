@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->Japanese researchers have genetically engineered hens whose eggs contain drugs that can fight serious diseases including cancer, in a bid to dramatically reduce the cost of treatment, a report said Monday.
+>Japanese researchers have genetically engineered hens whose eggs contain drugs that can fight serious diseases including cancer, in a bid to dramatically reduce the cost of treatment, a report said Monday....
 
 #### Factsheet
 >factsheet unavailable

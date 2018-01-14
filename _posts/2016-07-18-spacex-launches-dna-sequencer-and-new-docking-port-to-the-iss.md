@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A Falcon 9 rocket has just blasted off NASA's Kennedy Space Center in Florida, launching a Dragon capsule to the ISS before landing back on the ground
+>A Falcon 9 rocket has just blasted off NASA's Kennedy Space Center in Florida, launching a Dragon capsule to the ISS before landing back on the ground...
 
 #### Factsheet
 >factsheet unavailable

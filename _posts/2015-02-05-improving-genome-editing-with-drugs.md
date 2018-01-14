@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Gladstone Institutes) Scientists at the Gladstone Institutes and Stanford University have discovered a way to enhance the efficiency of CRISPR genome editing with the introduction of a few key chemical compounds. This has important potential implications for correcting disease-causing genetic mutations.
+>(Gladstone Institutes) Scientists at the Gladstone Institutes and Stanford University have discovered a way to enhance the efficiency of CRISPR genome editing with the introduction of a few key chemical compounds. This has important potential implications for correcting disease-causing genetic mutations....
 
 #### Factsheet
 >factsheet unavailable

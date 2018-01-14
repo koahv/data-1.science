@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Record seven-qubit quantum register built
+>Record seven-qubit quantum register built...
 
 #### Factsheet
 >factsheet unavailable

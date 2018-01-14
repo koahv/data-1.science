@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Cambridge) Researchers have built the first biologically realistic mathematical model of how the brain plans and learns when faced with a complex decision-making process.
+>(University of Cambridge) Researchers have built the first biologically realistic mathematical model of how the brain plans and learns when faced with a complex decision-making process....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-The teams that will fly Sentinel-5P are training intensively for launch, ensuring that everyone knows their job and can react to any emergency.
-
-	
+>The teams that will fly Sentinel-5P are training intensively for launch, ensuring that everyone knows their job and can react to any emergency....
 
 #### Factsheet
 >factsheet unavailable

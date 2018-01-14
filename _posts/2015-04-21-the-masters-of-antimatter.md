@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A look inside CERN's Antimatter Factory and a day in the life of an antimatter tamer
+>A look inside CERN's Antimatter Factory and a day in the life of an antimatter tamer...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Massachusetts Institute of Technology) With MIT-developed algorithms, robots plan underwater missions autonomously.
+>(Massachusetts Institute of Technology) With MIT-developed algorithms, robots plan underwater missions autonomously....
 
 #### Factsheet
 >factsheet unavailable

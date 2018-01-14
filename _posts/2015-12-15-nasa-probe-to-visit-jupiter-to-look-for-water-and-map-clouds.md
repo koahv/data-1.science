@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Juno spacecraft will arrive at Jupiter next July with plans to probe the gas giant's core, search for water and find clues to solar system formation
+>The Juno spacecraft will arrive at Jupiter next July with plans to probe the gas giant's core, search for water and find clues to solar system formation...
 
 #### Factsheet
 >factsheet unavailable

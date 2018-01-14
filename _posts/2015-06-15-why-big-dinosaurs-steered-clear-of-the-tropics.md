@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Utah) A remarkably detailed picture of the climate and ecology during the Triassic Period explains why dinosaurs failed to establish dominance near the equator for 30 million years.
+>(University of Utah) A remarkably detailed picture of the climate and ecology during the Triassic Period explains why dinosaurs failed to establish dominance near the equator for 30 million years....
 
 #### Factsheet
 >factsheet unavailable

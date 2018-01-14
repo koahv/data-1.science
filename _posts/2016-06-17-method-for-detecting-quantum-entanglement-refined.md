@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->In the future when quantum computers become available, this method can potentially serve as a tool in certifying whether the system has enough entanglement between the qubits. 
+>In the future when quantum computers become available, this method can potentially serve as a tool in certifying whether the system has enough entanglement between the qubits....
 
 #### Factsheet
 >factsheet unavailable

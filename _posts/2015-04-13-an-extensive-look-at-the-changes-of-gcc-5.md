@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->GCC developer Honza Hubička has written a lengthy blog post about the features coming up for GCC 5, what will be initially released as GCC 5.1 in the next two weeks...
+>GCC developer Honza Hubička has written a lengthy blog post about the features coming up for GCC 5, what will be initially released as GCC 5.1 in the next two weeks......
 
 #### Factsheet
 >factsheet unavailable

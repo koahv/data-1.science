@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsWith surgical precision, two dozen engineers and technicians successfully installed the package of science instruments of the James Webb Space Telescope into the telescope structure. The package...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace
+>NewsWith surgical precision, two dozen engineers and technicians successfully installed the package of science instruments of the James Webb Space Telescope into the telescope structure. The package...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->NASA says the Opportunity rover has passed the marathon mark for driving on Mars.
+>NASA says the Opportunity rover has passed the marathon mark for driving on Mars....
 
 #### Factsheet
 >factsheet unavailable

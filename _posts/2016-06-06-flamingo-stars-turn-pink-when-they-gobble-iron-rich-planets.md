@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Consuming a metal-rich planet or two early in its life can change a star’s colour – making them the flamingos of space
+>Consuming a metal-rich planet or two early in its life can change a star’s colour – making them the flamingos of space...
 
 #### Factsheet
 >factsheet unavailable

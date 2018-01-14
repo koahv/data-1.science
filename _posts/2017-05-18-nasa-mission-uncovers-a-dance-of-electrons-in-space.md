@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) NASA's MMS mission studies how electrons spiral and dive around the planet in a complex dance dictated by the magnetic and electric fields, and a new study revealed a bizarre new type of motion exhibited by these electrons.
+>(NASA/Goddard Space Flight Center) NASA's MMS mission studies how electrons spiral and dive around the planet in a complex dance dictated by the magnetic and electric fields, and a new study revealed a bizarre new type of motion exhibited by these electrons....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Robust new data added to the Ivy Glioblastoma Atlas Project changes the scope and impact of this publicly available resource for researchers and clinicians searching for treatments for this most deadly and aggressive of brain cancers, glioblastoma multiforme.
+>Robust new data added to the Ivy Glioblastoma Atlas Project changes the scope and impact of this publicly available resource for researchers and clinicians searching for treatments for this most deadly and aggressive of brain cancers, glioblastoma multiforme....
 
 #### Factsheet
 >factsheet unavailable

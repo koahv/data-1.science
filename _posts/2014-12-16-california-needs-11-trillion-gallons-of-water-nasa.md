@@ -9,7 +9,7 @@ tags: [earth]
 
 
 #### Extract
->California needs 11 trillion gallons of water to recover from its three-year drought, the US space agency said Tuesday after studying water resources by using satellite data.
+>California needs 11 trillion gallons of water to recover from its three-year drought, the US space agency said Tuesday after studying water resources by using satellite data....
 
 #### Factsheet
 >factsheet unavailable

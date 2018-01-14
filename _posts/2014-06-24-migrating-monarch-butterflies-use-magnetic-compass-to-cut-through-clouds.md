@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->On cloudy days, monarch butterflies can use a magnetic compass to fly south.
+>On cloudy days, monarch butterflies can use a magnetic compass to fly south....
 
 #### Factsheet
 >factsheet unavailable

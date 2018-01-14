@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Life science researchers at Virginia Tech have accelerated a game-changing technology that's being used to study one of the planet's most lethal disease-carrying animals.
+>Life science researchers at Virginia Tech have accelerated a game-changing technology that's being used to study one of the planet's most lethal disease-carrying animals....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Florida Atlantic University) We all do it; we all need it -- humans and animals alike. Neuroscientists have been studying Mexican cavefish to provide insight into the evolutionary mechanisms regulating sleep loss and the relationship between sensory processing and sleep. They are investigating how sleep evolves and using this species as a model to understand how human brains could evolve to require very little sleep, just like the cavefish.
+>(Florida Atlantic University) We all do it; we all need it -- humans and animals alike. Neuroscientists have been studying Mexican cavefish to provide insight into the evolutionary mechanisms regulating sleep loss and the relationship between sensory processing and sleep. They are investigating how sleep evolves and using this species as a model to understand how human brains could evolve to require very little sleep, just like the cavefish....
 
 #### Factsheet
 >factsheet unavailable

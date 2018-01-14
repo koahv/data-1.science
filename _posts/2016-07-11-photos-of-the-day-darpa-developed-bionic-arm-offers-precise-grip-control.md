@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsA prosthetic arm made by DARPA will soon be available to the public. The LUKE arm, which was spun out of DARPA’s Revolutionizing Prosthetics program as the DEKA arm, will be brought to market by Mobius Bionics and offers...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;R&amp;D
+>NewsA prosthetic arm made by DARPA will soon be available to the public. The LUKE arm, which was spun out of DARPA’s Revolutionizing Prosthetics program as the DEKA arm, will be brought to market by Mobius Bionics and offers...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;R&amp;D...
 
 #### Factsheet
 >factsheet unavailable

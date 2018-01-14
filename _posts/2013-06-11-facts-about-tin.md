@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Properties, sources and uses of the element tin.
+>Properties, sources and uses of the element tin....
 
 #### Factsheet
 >factsheet unavailable

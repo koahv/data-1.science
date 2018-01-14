@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-												
-				
-		
-		Postcards from space as Rosetta draws closer to its destination comet
-	
+>Postcards from space as Rosetta draws closer to its destination comet...
 
 #### Factsheet
 >factsheet unavailable

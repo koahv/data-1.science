@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;tecmint: We often use the 'mv' command to rename a single file in Linux.
+>&nbsp;tecmint: We often use the 'mv' command to rename a single file in Linux....
 
 #### Factsheet
 >factsheet unavailable

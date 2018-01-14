@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Timelapse video showing the Galileo satellites 15–18, from final preparations to liftoff on an Ariane 5 launcher
-	
+>Timelapse video showing the Galileo satellites 15–18, from final preparations to liftoff on an Ariane 5 launcher...
 
 #### Factsheet
 >factsheet unavailable

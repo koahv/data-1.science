@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-In the excitement of watching Tim Peake, Yuri Malenchenko and Tim Kopra land on Earth on 18 June after 186 days in space, all attention was focused on the astronauts and their bumpy ride.&nbsp;
-
-	
+>In the excitement of watching Tim Peake, Yuri Malenchenko and Tim Kopra land on Earth on 18 June after 186 days in space, all attention was focused on the astronauts and their bumpy ride.&nbsp;...
 
 #### Factsheet
 >factsheet unavailable

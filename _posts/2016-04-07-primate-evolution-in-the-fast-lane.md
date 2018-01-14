@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Cornell University) The pace of evolution is typically measured in millions of years, as random, individual mutations accumulate over generations, but researchers at Cornell and Bar-Ilan Universities have uncovered a new mechanism for mutation in primates that is rapid, coordinated, and aggressive. The discovery raises questions about the accuracy of using the more typical mutation process as an estimate to date when two species diverged, as well as the extent to which this and related enzymes played a role in primate evolution.
+>(Cornell University) The pace of evolution is typically measured in millions of years, as random, individual mutations accumulate over generations, but researchers at Cornell and Bar-Ilan Universities have uncovered a new mechanism for mutation in primates that is rapid, coordinated, and aggressive. The discovery raises questions about the accuracy of using the more typical mutation process as an estimate to date when two species diverged, as well as the extent to which this and related enzymes played a role in primate evolution....
 
 #### Factsheet
 >factsheet unavailable

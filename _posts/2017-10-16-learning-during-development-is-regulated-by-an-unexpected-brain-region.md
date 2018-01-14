@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Half a century of research on how the brain learns to integrate visual inputs from the two eyes has provided important insights in critical period regulation, leading to the conclusion that it occurs within the cortex. Scientists have now made the surprising discovery that a brain region that passes on input from the eyes to the cortex also plays a crucial role in opening the critical period of binocular vision. 
+>Half a century of research on how the brain learns to integrate visual inputs from the two eyes has provided important insights in critical period regulation, leading to the conclusion that it occurs within the cortex. Scientists have now made the surprising discovery that a brain region that passes on input from the eyes to the cortex also plays a crucial role in opening the critical period of binocular vision....
 
 #### Factsheet
 >factsheet unavailable

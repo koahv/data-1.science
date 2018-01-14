@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(ARC Centre of Excellence for Electromaterials Science) In a landmark proof-of-concept experiment, Australian researchers have used a handheld 3-D printing pen to 'draw' human stem cells in free-form patterns with extremely high survival rates.
+>(ARC Centre of Excellence for Electromaterials Science) In a landmark proof-of-concept experiment, Australian researchers have used a handheld 3-D printing pen to 'draw' human stem cells in free-form patterns with extremely high survival rates....
 
 #### Factsheet
 >factsheet unavailable

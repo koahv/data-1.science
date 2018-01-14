@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Society for Neuroscience) A neuroimaging study of two monkeys published in JNeurosci identifies a brain network that tracks the location of an object approaching the face and anticipates its potential consequences upon making contact with the body.
+>(Society for Neuroscience) A neuroimaging study of two monkeys published in JNeurosci identifies a brain network that tracks the location of an object approaching the face and anticipates its potential consequences upon making contact with the body....
 
 #### Factsheet
 >factsheet unavailable

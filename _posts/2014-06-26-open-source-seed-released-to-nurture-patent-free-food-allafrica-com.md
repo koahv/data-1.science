@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&#39;Open-Source&#39; Seed Released to Nurture Patent-Free FoodAllAfrica.comLima — An &#39;open-source&#39; seed initiative has released 36 varieties of 14 food crops, which the project&#39;s leaders say could help poor farmers get access to better quality seeds. The new seed varieties have been available for delivery globally from mid ...
+>&#39;Open-Source&#39; Seed Released to Nurture Patent-Free FoodAllAfrica.comLima — An &#39;open-source&#39; seed initiative has released 36 varieties of 14 food crops, which the project&#39;s leaders say could help poor farmers get access to better quality seeds. The new seed varieties have been available for delivery globally from mid ......
 
 #### Factsheet
 >factsheet unavailable

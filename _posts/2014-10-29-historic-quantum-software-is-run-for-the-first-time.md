@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Written 20 years ago, the first algorithm to tap into the ultra-fast potential of quantum computing has been run on a real machine at long last
+>Written 20 years ago, the first algorithm to tap into the ultra-fast potential of quantum computing has been run on a real machine at long last...
 
 #### Factsheet
 >factsheet unavailable

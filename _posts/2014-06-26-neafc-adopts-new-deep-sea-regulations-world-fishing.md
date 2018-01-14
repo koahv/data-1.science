@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NEAFC adopts new deep-sea regulationsWorld FishingThe North East Atlantic Fisheries Commission (NEAFC) has adopted stronger regulations for the management of deep-sea fisheries and the conservation of deep-sea species and habitats in the North East Atlantic. This follows the NEAFC&#39;s work over the past&nbsp;...New NEAFC regulations to protect vulnerable deep-sea speciesFish Updateall 2 news articles&nbsp;&raquo;
+>NEAFC adopts new deep-sea regulationsWorld FishingThe North East Atlantic Fisheries Commission (NEAFC) has adopted stronger regulations for the management of deep-sea fisheries and the conservation of deep-sea species and habitats in the North East Atlantic. This follows the NEAFC&#39;s work over the past&nbsp;...New NEAFC regulations to protect vulnerable deep-sea speciesFish Updateall 2 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

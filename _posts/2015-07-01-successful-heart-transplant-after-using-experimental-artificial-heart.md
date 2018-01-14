@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A 44-year-old woman has received a successful heart transplant, thanks to an experimental Total Artificial Heart designed for smaller patients. The patient is the first person in California to receive the smaller Total Artificial Heart, and the first patient in the world with the device to be bridged to a successful heart transplant.
+>A 44-year-old woman has received a successful heart transplant, thanks to an experimental Total Artificial Heart designed for smaller patients. The patient is the first person in California to receive the smaller Total Artificial Heart, and the first patient in the world with the device to be bridged to a successful heart transplant....
 
 #### Factsheet
 >factsheet unavailable

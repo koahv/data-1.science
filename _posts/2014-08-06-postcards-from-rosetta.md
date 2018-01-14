@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Latest images from Rosetta’s comet
-	
+>Latest images from Rosetta’s comet...
 
 #### Factsheet
 >factsheet unavailable

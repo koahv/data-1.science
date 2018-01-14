@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(California Institute of Technology) A cellular gatekeeper for water molecules finds new use in magnetic resonance imaging.
+>(California Institute of Technology) A cellular gatekeeper for water molecules finds new use in magnetic resonance imaging....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [quantum physics]
 
 
 #### Extract
->The very first experimental observations of knots in quantum matter have just been reported in Nature Physics.
+>The very first experimental observations of knots in quantum matter have just been reported in Nature Physics....
 
 #### Factsheet
 >factsheet unavailable

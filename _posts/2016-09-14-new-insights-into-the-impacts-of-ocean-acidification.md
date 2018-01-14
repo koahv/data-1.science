@@ -9,7 +9,7 @@ tags: [environment]
 
 
 #### Extract
->A new study recently published in the journal Global Biogeochemical Cycles offers clues to the potential impact of ocean acidification deep-sea, shell-forming organisms.
+>A new study recently published in the journal Global Biogeochemical Cycles offers clues to the potential impact of ocean acidification deep-sea, shell-forming organisms....
 
 #### Factsheet
 >factsheet unavailable

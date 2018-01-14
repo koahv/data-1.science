@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The human skeleton has 206 bones and performs several vital functions.
+>The human skeleton has 206 bones and performs several vital functions....
 
 #### Factsheet
 >factsheet unavailable

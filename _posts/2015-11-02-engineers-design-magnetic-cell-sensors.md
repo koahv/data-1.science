@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Engineers have designed magnetic protein nanoparticles that can be used to track cells or to monitor interactions within cells. The new "hypermagnetic" protein nanoparticles can be produced within cells, allowing the cells to be imaged or sorted using magnetic techniques. This eliminates the need to tag cells with synthetic particles and allows the particles to sense other molecules inside cells, say the researchers. 
+>Engineers have designed magnetic protein nanoparticles that can be used to track cells or to monitor interactions within cells. The new "hypermagnetic" protein nanoparticles can be produced within cells, allowing the cells to be imaged or sorted using magnetic techniques. This eliminates the need to tag cells with synthetic particles and allows the particles to sense other molecules inside cells, say the researchers....
 
 #### Factsheet
 >factsheet unavailable

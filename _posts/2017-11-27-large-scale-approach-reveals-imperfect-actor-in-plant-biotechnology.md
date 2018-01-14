@@ -9,7 +9,7 @@ tags: [agriculture, biology, biotech, genetics, molecular biology, plant science
 
 
 #### Extract
->(Whitehead Institute for Biomedical Research) A research team led by Whitehead Institute has unraveled the molecular activities of a key protein that can enable plants to withstand a common herbicide. Their findings reveal how the protein can sometimes act imprecisely, and how it can be successfully re-engineered to be more precise.
+>(Whitehead Institute for Biomedical Research) A research team led by Whitehead Institute has unraveled the molecular activities of a key protein that can enable plants to withstand a common herbicide. Their findings reveal how the protein can sometimes act imprecisely, and how it can be successfully re-engineered to be more precise....
 
 #### Factsheet
 >factsheet unavailable

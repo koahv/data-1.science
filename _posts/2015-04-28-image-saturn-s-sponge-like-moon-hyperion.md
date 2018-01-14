@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->The subject of this image bears a remarkable resemblance to a porous sea sponge, floating in the inky black surroundings of the deep sea.
+>The subject of this image bears a remarkable resemblance to a porous sea sponge, floating in the inky black surroundings of the deep sea....
 
 #### Factsheet
 >factsheet unavailable

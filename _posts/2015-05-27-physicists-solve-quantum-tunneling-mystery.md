@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientists studying ultrafast physics have solved a mystery of quantum mechanics, and found that quantum tunneling is an instantaneous process.
+>Scientists studying ultrafast physics have solved a mystery of quantum mechanics, and found that quantum tunneling is an instantaneous process....
 
 #### Factsheet
 >factsheet unavailable

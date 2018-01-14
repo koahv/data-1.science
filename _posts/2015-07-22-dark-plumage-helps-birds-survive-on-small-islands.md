@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Central Ornithology Publication Office) Animal populations on islands tend to develop weird traits over time, becoming big or small or losing the ability to fly. One less-studied pattern of evolution on islands is the tendency for animal populations to develop 'melanism' (dark coloration), and researchers have now confirmed that bird populations on smaller islands include more dark individuals, for a surprising reason: melanic birds are more aggressive, making them better competitors when space is limited.
+>(Central Ornithology Publication Office) Animal populations on islands tend to develop weird traits over time, becoming big or small or losing the ability to fly. One less-studied pattern of evolution on islands is the tendency for animal populations to develop 'melanism' (dark coloration), and researchers have now confirmed that bird populations on smaller islands include more dark individuals, for a surprising reason: melanic birds are more aggressive, making them better competitors when space is limited....
 
 #### Factsheet
 >factsheet unavailable

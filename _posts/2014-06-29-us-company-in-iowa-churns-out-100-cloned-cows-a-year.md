@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->In the meadow, four white-haired Shorthorn heifers peel off from the others, raising their heads at the same time in the same direction. Unsettling, when you know they are clones.
+>In the meadow, four white-haired Shorthorn heifers peel off from the others, raising their heads at the same time in the same direction. Unsettling, when you know they are clones....
 
 #### Factsheet
 >factsheet unavailable

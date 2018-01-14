@@ -9,7 +9,7 @@ tags: [mathematics]
 
 
 #### Extract
->37 million people around the world today live with Human Immunodeficiency Virus (HIV), which is responsible for roughly 1.1 million deaths caused by AIDS-related conditions.
+>37 million people around the world today live with Human Immunodeficiency Virus (HIV), which is responsible for roughly 1.1 million deaths caused by AIDS-related conditions....
 
 #### Factsheet
 >factsheet unavailable

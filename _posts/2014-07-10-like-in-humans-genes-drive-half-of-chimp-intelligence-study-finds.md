@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A large study of chimps finds certain aspects of intelligence are more heritable than others.
+>A large study of chimps finds certain aspects of intelligence are more heritable than others....
 
 #### Factsheet
 >factsheet unavailable

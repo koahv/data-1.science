@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The genetic sequencing of 16 mosquitoes (Anopheles genus) -- the sole carriers of human malaria -- has been determined by an international team of researchers, providing new insight into how they adapt to humans as primary hosts of the disease.
+>The genetic sequencing of 16 mosquitoes (Anopheles genus) -- the sole carriers of human malaria -- has been determined by an international team of researchers, providing new insight into how they adapt to humans as primary hosts of the disease....
 
 #### Factsheet
 >factsheet unavailable

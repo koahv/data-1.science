@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Copenhagen) A new DNA study unravels the settlement history of the New World Arctic.
+>(University of Copenhagen) A new DNA study unravels the settlement history of the New World Arctic....
 
 #### Factsheet
 >factsheet unavailable

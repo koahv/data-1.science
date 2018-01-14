@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The creation of the world's first digital map of the seafloor's geology is underway. It is the first time the composition of the seafloor, covering 70 percent of Earth's surface, has been mapped in 40 years; the most recent map was hand drawn in the 1970s. 
+>The creation of the world's first digital map of the seafloor's geology is underway. It is the first time the composition of the seafloor, covering 70 percent of Earth's surface, has been mapped in 40 years; the most recent map was hand drawn in the 1970s....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Space agency expected to make the probe an official project next month
+>Space agency expected to make the probe an official project next month...
 
 #### Factsheet
 >factsheet unavailable

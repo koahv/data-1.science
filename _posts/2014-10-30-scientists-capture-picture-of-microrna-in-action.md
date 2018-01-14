@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Biologists have described the atomic-level workings of “microRNA” molecules, which control the expression of genes in all animals and plants. The findings add greatly to the understanding of a fundamental system of regulation in biology.
+>Biologists have described the atomic-level workings of “microRNA” molecules, which control the expression of genes in all animals and plants. The findings add greatly to the understanding of a fundamental system of regulation in biology....
 
 #### Factsheet
 >factsheet unavailable

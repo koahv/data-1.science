@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;FOSSforce: They are looking for a Diversity Advisor, and they're seeking your help.
+>&nbsp;FOSSforce: They are looking for a Diversity Advisor, and they're seeking your help....
 
 #### Factsheet
 >factsheet unavailable

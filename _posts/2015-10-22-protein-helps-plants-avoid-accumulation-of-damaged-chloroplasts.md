@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(American Association for the Advancement of Science) The identification of a protein that selectively clears damaged chloroplasts from plant cells reveals how plants maintain a 'clean workshop' during the process of photosynthesis.
+>(American Association for the Advancement of Science) The identification of a protein that selectively clears damaged chloroplasts from plant cells reveals how plants maintain a 'clean workshop' during the process of photosynthesis....
 
 #### Factsheet
 >factsheet unavailable

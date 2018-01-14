@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(California Institute of Technology) Researchers from Caltech and the University of Southern California (USC) report the first application of quantum computing to a physics problem.
+>(California Institute of Technology) Researchers from Caltech and the University of Southern California (USC) report the first application of quantum computing to a physics problem....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,10 +9,7 @@ tags: []
 
 
 #### Extract
->Making money from open source. To many in the corporate world, that seems like a contradiction in terms. How are you supposed to make money from something that you give away? they ask. It can be done. A number of companies, large and small, have done quite well in the open source space over the years.
-
-
-read more
+>Making money from open source. To many in the corporate world, that seems like a contradiction in terms. How are you supposed to make money from something that you give away? they ask. It can be done. A number of companies, large and small, have done quite well in the open source space over the years. read more...
 
 #### Factsheet
 >factsheet unavailable

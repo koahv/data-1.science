@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Biologists have identified the driving force behind the evolution of a leg novelty first found in spiders: knees. 
+>Biologists have identified the driving force behind the evolution of a leg novelty first found in spiders: knees....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NIH/National Institute of Mental Health) Researchers have produced the first direct evidence that parts of our brains implicated in mental disorders may be shaped by a 'residual echo' from Neanderthal DNA in our genomes. Evidence from MRI scans suggests that such ancient genetic variation may affect the way our brains work today -- and may hold clues to understanding deficits seen in schizophrenia and autism-related disorders.
+>(NIH/National Institute of Mental Health) Researchers have produced the first direct evidence that parts of our brains implicated in mental disorders may be shaped by a 'residual echo' from Neanderthal DNA in our genomes. Evidence from MRI scans suggests that such ancient genetic variation may affect the way our brains work today -- and may hold clues to understanding deficits seen in schizophrenia and autism-related disorders....
 
 #### Factsheet
 >factsheet unavailable

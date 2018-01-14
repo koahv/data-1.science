@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsTuesday's test was conducted by Orbital ATK, the NASA contractor that also made the smaller shuttle boosters for NASA. This 154-foot-long booster was horizontal and pointing toward a mountain near...Contributed Author:&nbsp;Marcia Dunn, AP Aerospace WriterTopics:&nbsp;Aerospace
+>NewsTuesday's test was conducted by Orbital ATK, the NASA contractor that also made the smaller shuttle boosters for NASA. This 154-foot-long booster was horizontal and pointing toward a mountain near...Contributed Author:&nbsp;Marcia Dunn, AP Aerospace WriterTopics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

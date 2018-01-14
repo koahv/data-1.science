@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Daily MailThe world&#39;s rarest and creepiest sea creatures revealedDaily MailThe goblin shark is a deep-sea dwelling animal with a whole lot of very sharp teeth. Thankfully, it poses no threat to humans as it mostly eats bottom-feeding fish. While very little is known about the elusive creature, it is believed to have a wide ...and more&nbsp;&raquo;
+>Daily MailThe world&#39;s rarest and creepiest sea creatures revealedDaily MailThe goblin shark is a deep-sea dwelling animal with a whole lot of very sharp teeth. Thankfully, it poses no threat to humans as it mostly eats bottom-feeding fish. While very little is known about the elusive creature, it is believed to have a wide ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

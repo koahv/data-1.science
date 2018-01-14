@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Linköping University) A research team at Linköping University, together with colleagues in Europe and the United States, has shown that at extremely high pressure even the innermost electrons in the atomic nuclei of the metal osmium begin to interact with each other, a phenomenon never witnessed before. The findings have been published in Nature.
+>(Linköping University) A research team at Linköping University, together with colleagues in Europe and the United States, has shown that at extremely high pressure even the innermost electrons in the atomic nuclei of the metal osmium begin to interact with each other, a phenomenon never witnessed before. The findings have been published in Nature....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Herald ScotlandLife found on huge underwater mountainHerald ScotlandThe corals support rich communities of other species and play a critical role in the life history of species that range far beyond the UK&#39;s shores, such as threatened deep-sea skates - related to sharks - which lay their eggs on them. But the ...Voyage to bottom of the sea unearths mountains of marine life treasuresThe Times (subscription)all 11 news articles&nbsp;&raquo;
+>Herald ScotlandLife found on huge underwater mountainHerald ScotlandThe corals support rich communities of other species and play a critical role in the life history of species that range far beyond the UK&#39;s shores, such as threatened deep-sea skates - related to sharks - which lay their eggs on them. But the ...Voyage to bottom of the sea unearths mountains of marine life treasuresThe Times (subscription)all 11 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

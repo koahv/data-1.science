@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Washington State University) The largest study of its kind has found that organic foods and crops have a suite of advantages over their conventional counterparts, including more antioxidants and fewer, less frequent pesticide residues.The study looked at an unprecedented 343 peer-reviewed publications comparing the nutritional quality and safety of organic and conventional plant-based foods, including fruits, vegetables, and grains. The study team applied sophisticated meta-analysis techniques to quantify differences between organic and non-organic foods.
+>(Washington State University) The largest study of its kind has found that organic foods and crops have a suite of advantages over their conventional counterparts, including more antioxidants and fewer, less frequent pesticide residues.The study looked at an unprecedented 343 peer-reviewed publications comparing the nutritional quality and safety of organic and conventional plant-based foods, including fruits, vegetables, and grains. The study team applied sophisticated meta-analysis techniques to quantify differences between organic and non-organic foods....
 
 #### Factsheet
 >factsheet unavailable

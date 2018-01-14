@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->State ColumnTo Mars! (But Not the Way We&#39;re Going)Air & Space MagazineThe agency is currently pursuing a “flexible path” for human spaceflight, developing a suite of technologies that would apply to either an asteroid mission, lunar mission, or Mars mission, while leaving undecided (for now) the ultimate destination for ...Daniels To Congress: Do You Want To Go To Mars Or Don&#39;t You?WBAAAhead of Congressional Hearing, NASA Floats Phobos Pit Stop on Road to MarsSpace NewsMitch Daniels to Congress: It&#39;s time to put a man on MarsState ColumnWashington Post (blog)all 36 news articles&nbsp;&raquo;
+>State ColumnTo Mars! (But Not the Way We&#39;re Going)Air & Space MagazineThe agency is currently pursuing a “flexible path” for human spaceflight, developing a suite of technologies that would apply to either an asteroid mission, lunar mission, or Mars mission, while leaving undecided (for now) the ultimate destination for ...Daniels To Congress: Do You Want To Go To Mars Or Don&#39;t You?WBAAAhead of Congressional Hearing, NASA Floats Phobos Pit Stop on Road to MarsSpace NewsMitch Daniels to Congress: It&#39;s time to put a man on MarsState ColumnWashington Post (blog)all 36 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

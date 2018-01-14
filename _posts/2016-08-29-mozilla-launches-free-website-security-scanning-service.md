@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->LinuxSecurity.com:  In order to help webmasters better protect their websites and users, Mozilla has built an online scanner that can check if web servers have the best security settings in place. 
+>LinuxSecurity.com: In order to help webmasters better protect their websites and users, Mozilla has built an online scanner that can check if web servers have the best security settings in place....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [nanophysics]
 
 
 #### Extract
->Scientists can now detect magnetic behavior at the atomic level with a new electron microscopy technique developed by a team from the Department of Energy's Oak Ridge National Laboratory and Uppsala University, Sweden. The researchers took a counterintuitive approach by taking advantage of optical distortions that they typically try to eliminate.
+>Scientists can now detect magnetic behavior at the atomic level with a new electron microscopy technique developed by a team from the Department of Energy's Oak Ridge National Laboratory and Uppsala University, Sweden. The researchers took a counterintuitive approach by taking advantage of optical distortions that they typically try to eliminate....
 
 #### Factsheet
 >factsheet unavailable

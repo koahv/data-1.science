@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->When we want to listen carefully to someone, the first thing we do is stop talking. The second thing we do is stop moving altogether. The interplay between movement and hearing has a counterpart deep in the brain. A new study used optogenetics to reveal exactly how the motor cortex, which controls movement, can tweak the volume control in the auditory cortex, which interprets sound.
+>When we want to listen carefully to someone, the first thing we do is stop talking. The second thing we do is stop moving altogether. The interplay between movement and hearing has a counterpart deep in the brain. A new study used optogenetics to reveal exactly how the motor cortex, which controls movement, can tweak the volume control in the auditory cortex, which interprets sound....
 
 #### Factsheet
 >factsheet unavailable

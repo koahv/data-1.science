@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;LinuxTechi: As the name suggests, the passwd command is used to change the password of system users.
+>&nbsp;LinuxTechi: As the name suggests, the passwd command is used to change the password of system users....
 
 #### Factsheet
 >factsheet unavailable

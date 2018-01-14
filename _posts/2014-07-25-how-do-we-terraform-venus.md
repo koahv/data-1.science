@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->It might be possible to terraform Venus some day, when our technology gets good enough. The challenges for Venus are totally different than for Mars. How will we need to fix Venus?
+>It might be possible to terraform Venus some day, when our technology gets good enough. The challenges for Venus are totally different than for Mars. How will we need to fix Venus?...
 
 #### Factsheet
 >factsheet unavailable

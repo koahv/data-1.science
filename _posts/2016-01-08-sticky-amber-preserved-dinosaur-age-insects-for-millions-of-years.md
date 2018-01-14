@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->During the age of the dinosaurs, three tiny mantises became engulfed in glops of sticky amber and stayed there, preserved, until researchers discovered the entombed critters millions of years later. 
+>During the age of the dinosaurs, three tiny mantises became engulfed in glops of sticky amber and stayed there, preserved, until researchers discovered the entombed critters millions of years later....
 
 #### Factsheet
 >factsheet unavailable

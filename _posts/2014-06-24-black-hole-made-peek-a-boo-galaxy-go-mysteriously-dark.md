@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A bright galaxy that suddenly went dark was obscured by wind spurting from its central black hole – enhancing our understanding of these distant objects
+>A bright galaxy that suddenly went dark was obscured by wind spurting from its central black hole – enhancing our understanding of these distant objects...
 
 #### Factsheet
 >factsheet unavailable

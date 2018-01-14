@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Japanese scientists say they have found a way to slow down the ageing process in flowers by up to a half, meaning bouquets could remain fresh for much longer.
+>Japanese scientists say they have found a way to slow down the ageing process in flowers by up to a half, meaning bouquets could remain fresh for much longer....
 
 #### Factsheet
 >factsheet unavailable

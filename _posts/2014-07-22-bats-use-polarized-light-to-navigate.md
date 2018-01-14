@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Scientists have discovered that greater mouse-eared bats use polarisation patterns in the sky to navigate – the first mammal that's known to do this.
+>Scientists have discovered that greater mouse-eared bats use polarisation patterns in the sky to navigate – the first mammal that's known to do this....
 
 #### Factsheet
 >factsheet unavailable

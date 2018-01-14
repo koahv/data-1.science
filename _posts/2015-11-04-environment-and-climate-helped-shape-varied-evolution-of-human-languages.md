@@ -9,7 +9,7 @@ tags: [social sciences]
 
 
 #### Extract
->It's well known that gradual adaptation to the environment shaped the development of human bodies and brains, but recent work by an international group of researchers suggests that the variations in human linguistic evolution also reflect adaptations to the local ecological conditions.
+>It's well known that gradual adaptation to the environment shaped the development of human bodies and brains, but recent work by an international group of researchers suggests that the variations in human linguistic evolution also reflect adaptations to the local ecological conditions....
 
 #### Factsheet
 >factsheet unavailable

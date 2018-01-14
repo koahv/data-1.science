@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Entangled photons survived transmission to locations 1200 kilometres apart on Earth, a feat that could kick off the use of quantum satellites for secure communications
+>Entangled photons survived transmission to locations 1200 kilometres apart on Earth, a feat that could kick off the use of quantum satellites for secure communications...
 
 #### Factsheet
 >factsheet unavailable

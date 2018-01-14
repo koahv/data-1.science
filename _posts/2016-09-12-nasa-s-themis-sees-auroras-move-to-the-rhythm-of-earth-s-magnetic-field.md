@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->For the first time, scientists have directly mapped Earth's fluctuating magnetic field and resulting electrical currents to aurora, thanks to northern lights observations from NASA's THEMIS mission. 
+>For the first time, scientists have directly mapped Earth's fluctuating magnetic field and resulting electrical currents to aurora, thanks to northern lights observations from NASA's THEMIS mission....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Judging by the nature and topics of their information seeking, cancer patients' information needs appear to differ depending on the type of cancer they have and where they are in their survivorship.
+>Judging by the nature and topics of their information seeking, cancer patients' information needs appear to differ depending on the type of cancer they have and where they are in their survivorship....
 
 #### Factsheet
 >factsheet unavailable

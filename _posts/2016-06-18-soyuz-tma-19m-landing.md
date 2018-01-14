@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Watch replay of ESA astronaut Tim Peake, NASA astronaut Tim Kopra and commander Yuri Malenchenko fall back to Earth
-	
+>Watch replay of ESA astronaut Tim Peake, NASA astronaut Tim Kopra and commander Yuri Malenchenko fall back to Earth...
 
 #### Factsheet
 >factsheet unavailable

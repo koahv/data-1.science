@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Unlike Derek Zoolander, ants don't have any difficulty turning left. New research has found that the majority of rock ants instinctively go left when entering unknown spaces. Around ten percent of people are left-handed and brain lateralization is widespread in other vertebrates.
+>Unlike Derek Zoolander, ants don't have any difficulty turning left. New research has found that the majority of rock ants instinctively go left when entering unknown spaces. Around ten percent of people are left-handed and brain lateralization is widespread in other vertebrates....
 
 #### Factsheet
 >factsheet unavailable

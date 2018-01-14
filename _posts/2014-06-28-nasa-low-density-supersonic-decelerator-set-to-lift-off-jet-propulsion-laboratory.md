@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Jet Propulsion LaboratoryNASA Low-Density Supersonic Decelerator Set to Lift OffJet Propulsion LaboratoryNASA Low-Density Supersonic Decelerator Set to Lift Off. This artist&#39;s concept shows the test vehicle for NASA&#39;s Low-Density Supersonic Decelerator (LDSD), designed to test landing technologies for future Mars missions. Image credit: NASA/JPL-CaltechRoad to Mars: JPL scientists prepare for a supersonic test over HawaiiLos Angeles TimesNASA to Launch &#39;Flying Saucer&#39; From KauaiHonolulu Civil BeatNASA sets new dates for saucer-shaped test vehicle flightPhys.OrgROCKETNEWS24&nbsp;-Huffington Post UKall 15 news articles&nbsp;&raquo;
+>Jet Propulsion LaboratoryNASA Low-Density Supersonic Decelerator Set to Lift OffJet Propulsion LaboratoryNASA Low-Density Supersonic Decelerator Set to Lift Off. This artist&#39;s concept shows the test vehicle for NASA&#39;s Low-Density Supersonic Decelerator (LDSD), designed to test landing technologies for future Mars missions. Image credit: NASA/JPL-CaltechRoad to Mars: JPL scientists prepare for a supersonic test over HawaiiLos Angeles TimesNASA to Launch &#39;Flying Saucer&#39; From KauaiHonolulu Civil BeatNASA sets new dates for saucer-shaped test vehicle flightPhys.OrgROCKETNEWS24&nbsp;-Huffington Post UKall 15 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

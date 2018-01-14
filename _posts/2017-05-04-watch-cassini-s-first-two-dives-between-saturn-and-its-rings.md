@@ -9,7 +9,7 @@ tags: [solar system, space]
 
 
 #### Extract
->New video puts those stunning first images from the Cassini spacecraft's Grand Finale into context in Saturn's cloud tops
+>New video puts those stunning first images from the Cassini spacecraft's Grand Finale into context in Saturn's cloud tops...
 
 #### Factsheet
 >factsheet unavailable

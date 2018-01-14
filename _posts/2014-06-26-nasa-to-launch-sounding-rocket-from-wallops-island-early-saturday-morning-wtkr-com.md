@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NASA to launch sounding rocket from Wallops Island early Saturday morningwtkr.comWallops Island, Va. – NASA will test several new suborbital rocket technologies with the launch of a Terrier-Improved Malemute sounding rocket between 4 and 5 a.m. Saturday morning from the Wallops Flight Facility in Virginia. The backup launch days ...NASA rocket launch, colored cloud test may be visible in Mid-Atlantic regionThe Express-TimesNASA Launches Two Tulsa Union Student Experiments Into SpaceNews On 6Wallops Island Launches RockOn Sounding Rocket SuccessfullyWBOC TV 16WAVY-TVall 7 news articles&nbsp;&raquo;
+>NASA to launch sounding rocket from Wallops Island early Saturday morningwtkr.comWallops Island, Va. – NASA will test several new suborbital rocket technologies with the launch of a Terrier-Improved Malemute sounding rocket between 4 and 5 a.m. Saturday morning from the Wallops Flight Facility in Virginia. The backup launch days ...NASA rocket launch, colored cloud test may be visible in Mid-Atlantic regionThe Express-TimesNASA Launches Two Tulsa Union Student Experiments Into SpaceNews On 6Wallops Island Launches RockOn Sounding Rocket SuccessfullyWBOC TV 16WAVY-TVall 7 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

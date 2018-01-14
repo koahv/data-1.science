@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New model proposes muons and neutrinos produce neutron signal
+>New model proposes muons and neutrinos produce neutron signal...
 
 #### Factsheet
 >factsheet unavailable

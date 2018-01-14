@@ -9,7 +9,7 @@ tags: [archaeopteryx, fossils, animal evolution, animals, evolution, bird, birds
 
 
 #### Extract
->The ultimate early bird pushes back the evolutionary record of modern birds by around 6 million years.
+>The ultimate early bird pushes back the evolutionary record of modern birds by around 6 million years....
 
 #### Factsheet
 >factsheet unavailable

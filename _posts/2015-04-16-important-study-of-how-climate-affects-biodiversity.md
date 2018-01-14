@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->How does climate change affect the occurrence and distribution of species? This is a key question in the climate debate, and one that is hard to answer without information about natural variation in species abundance. Now researchers from Uppsala University can, for the first time, give us a detailed picture of natural variation through a major study published today in the leading scientific journal Current Biology.
+>How does climate change affect the occurrence and distribution of species? This is a key question in the climate debate, and one that is hard to answer without information about natural variation in species abundance. Now researchers from Uppsala University can, for the first time, give us a detailed picture of natural variation through a major study published today in the leading scientific journal Current Biology....
 
 #### Factsheet
 >factsheet unavailable

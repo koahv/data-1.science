@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(American Geosciences Institute) It now appears that, of the many moons of Jupiter and Saturn, two of them may have oceans beneath their icy exteriors.
+>(American Geosciences Institute) It now appears that, of the many moons of Jupiter and Saturn, two of them may have oceans beneath their icy exteriors....
 
 #### Factsheet
 >factsheet unavailable

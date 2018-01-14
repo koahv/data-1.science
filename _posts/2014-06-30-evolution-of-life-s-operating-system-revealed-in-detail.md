@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->The evolution of the ribosome, a large molecular structure found in the cells of all species, has been revealed in unprecedented detail in a new study.
+>The evolution of the ribosome, a large molecular structure found in the cells of all species, has been revealed in unprecedented detail in a new study....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) On April 3, 2017, as Jupiter made its nearest approach to Earth in a year, NASA's Hubble Space Telescope viewed the solar system's largest planet in all of its up-close glory.
+>(NASA/Goddard Space Flight Center) On April 3, 2017, as Jupiter made its nearest approach to Earth in a year, NASA's Hubble Space Telescope viewed the solar system's largest planet in all of its up-close glory....
 
 #### Factsheet
 >factsheet unavailable

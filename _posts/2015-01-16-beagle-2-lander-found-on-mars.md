@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-The UK-led Beagle-2 Mars lander, which hitched a ride on ESA’s Mars Express mission and was lost on Mars since 2003, has been found in images taken by a NASA orbiter at the Red Planet.
-
-	
+>The UK-led Beagle-2 Mars lander, which hitched a ride on ESA’s Mars Express mission and was lost on Mars since 2003, has been found in images taken by a NASA orbiter at the Red Planet....
 
 #### Factsheet
 >factsheet unavailable

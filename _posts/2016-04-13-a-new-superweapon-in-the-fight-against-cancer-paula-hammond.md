@@ -9,7 +9,7 @@ tags: [higher education]
 
 
 #### Extract
->Cancer is a very clever, adaptable disease. To defeat it, says medical researcher and educator Paula Hammond, we need a new and powerful mode of attack. With her colleagues at MIT, Hammond engineered a nanoparticle one-hundredth the size of a human hair that can treat the most aggressive, drug-resistant cancers. Learn more about this molecular superweapon and join Hammond's quest to fight a disease that affects us all.
+>Cancer is a very clever, adaptable disease. To defeat it, says medical researcher and educator Paula Hammond, we need a new and powerful mode of attack. With her colleagues at MIT, Hammond engineered a nanoparticle one-hundredth the size of a human hair that can treat the most aggressive, drug-resistant cancers. Learn more about this molecular superweapon and join Hammond's quest to fight a disease that affects us all....
 
 #### Factsheet
 >factsheet unavailable

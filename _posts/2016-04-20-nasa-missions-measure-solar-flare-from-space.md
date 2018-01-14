@@ -9,8 +9,7 @@ tags: [sci-tech]
 
 
 #### Extract
->
-Solar flares are intense bursts of light from the Sun, created when complicated magnetic fields suddenly rearrange themselve
+>Solar flares are intense bursts of light from the Sun, created when complicated magnetic fields suddenly rearrange themselve...
 
 #### Factsheet
 >factsheet unavailable

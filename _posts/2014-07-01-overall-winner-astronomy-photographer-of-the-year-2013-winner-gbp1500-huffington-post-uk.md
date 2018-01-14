@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Huffington Post UKOverall winner – Astronomy Photographer of the Year 2013 (Winner £1500)Huffington Post UKEarth and Space: Photos that include landscape, people and other &#39;earthly&#39; things. Pictures should also include an astronomical subject – for example the stars, the moon, or near-earth phenomena such as aurora (winner £500, runner-up £250, highly&nbsp;...and more&nbsp;&raquo;
+>Huffington Post UKOverall winner – Astronomy Photographer of the Year 2013 (Winner £1500)Huffington Post UKEarth and Space: Photos that include landscape, people and other &#39;earthly&#39; things. Pictures should also include an astronomical subject – for example the stars, the moon, or near-earth phenomena such as aurora (winner £500, runner-up £250, highly&nbsp;...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

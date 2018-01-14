@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Wayland 1.8 along with the adjoining Weston compositor update were released over the night by Bryce Harrington of Samsung...
+>Wayland 1.8 along with the adjoining Weston compositor update were released over the night by Bryce Harrington of Samsung......
 
 #### Factsheet
 >factsheet unavailable

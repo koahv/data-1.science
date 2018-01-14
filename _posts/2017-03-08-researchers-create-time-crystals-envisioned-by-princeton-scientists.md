@@ -9,7 +9,7 @@ tags: [quantum physics]
 
 
 #### Extract
->Time crystals may sound like something from science fiction, having more to do with time travel or Dr. Who. These strange materials—in which atoms and molecules are arranged across space and time—are in fact quite real, and are opening up entirely new ways to think about the nature of matter. They also eventually may help protect information in futuristic devices known as quantum computers.
+>Time crystals may sound like something from science fiction, having more to do with time travel or Dr. Who. These strange materials—in which atoms and molecules are arranged across space and time—are in fact quite real, and are opening up entirely new ways to think about the nature of matter. They also eventually may help protect information in futuristic devices known as quantum computers....
 
 #### Factsheet
 >factsheet unavailable

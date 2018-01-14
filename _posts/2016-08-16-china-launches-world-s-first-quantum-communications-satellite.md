@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Quantum Science Satellite will test quantum entanglement over record distances and could lead to a global network for secure quantum communications
+>The Quantum Science Satellite will test quantum entanglement over record distances and could lead to a global network for secure quantum communications...
 
 #### Factsheet
 >factsheet unavailable

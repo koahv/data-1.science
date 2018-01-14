@@ -9,37 +9,7 @@ tags: []
 
 
 #### Extract
-> 
- 
-
- 
- 
-“The Higgs mass that we measure is consistent with the Standard Model if the parameters of the model are carefully tuned to something like 30 decimal places,” said Joe Incandela, a UC Santa Barbara physics professor and scientist in CERN's Compact Muon Solenoid (CMS) experiment, one of four detectors located along the LHC 16-mile collider tunnel. “This seems very unnatural to us. When you introduce new physics, like supersymmetry, things come into balance and you do not have to tune anymore. We’re trying to find the evidence for supersymmetry for this reason, and because we know there’s dark matter, which is also predicted in supersymmetry models. So all in all, we’re looking for the bridge to the next chapter of the story.”
-New physics beyond the Standard Model and the Brout-Englert-Higgs mechanism may be discovered as a result of the upgrades to the accelerator and its detectors, as well as clues to understanding dark matter and supersymmetry. Among the mysteries the scientists at CERN are trying to solve is how the Brout-Englert-Higgs boson, discovered in 2012, could exist at the low mass it was found to have.
-CERN scientists and engineers are meeting to kicking off the plans for upgrades to parts of the Large Hadron Collider and its detectors. The High Luminosity LHC project has resulted in plans for new technologies and innovations to elements such as the accelerator’s magnets, optics and superconducting links.
-“The LHC already delivers proton collisions at the highest energy (13 TeV) and the highest luminosity ever achieved by an accelerator,” said CERN Director General Rolf Heuer. “Yet the LHC has only delivered 1 percent of the total planned number of collisions.” The upgrade to what will become the HL-LHC he said, is expected to produce 10 times more collisions than the current LHC will have created in its first decade, and will extend the potential to make discoveries.
- 
-
- 
- 
-“Basically, we’re quite happy,” said Incandela. “At this meeting we basically agreed that the plans are solid, the costs are reasonable, and so we can move forward now to get them done and ready to install in roughly eight years from now.”
-To make the most of of the more intense beams and the higher probability of collisions Incandela and colleagues, have been working on additions and improvements to the detector that are aimed at increasing its sensitivity.
-Among the improvements already in play at CMS is the installation of an additional muon detecting layer, and improved electronics for the muon system. The new electronics involve a substantial contribution from UCSB. Muons are often found in events of keen interest to the scientists and it is important to detect them efficiently and to reconstruct them accurately, said the reserachers. The recently completed upgrades represent significant improvements in these areas
-Meanwhile, Incandela and his team are working on the High Granularity Calorimeter, an upgrade to the existing calorimeter on the CMS detector that would enable continued operation in regions where the density of particles produced in each beam crossing is enormous. Thanks to new superconducting quadrupole magnets that focus the proton beams as they whip around the accelerator tunnel, radiofrequency “crab cavities” that will tilt these more intense beams to increase the area where they overlap and other improvements to the LHC accelerator complex, the LHC will vastly increase the number of collisions that will occur and with it, the likelihood of generating particles of interest and rare processes.
-“Each time the beams cross — which happens about 33 million times each second — there will be as many as 200 pairs of protons colliding,” Incandela said.
-But with more collisions comes more debris to sift through. In any beam crossing event, at most one pair of proton-proton collisions will be interesting, said Incandela, and the rest will produce more than a thousand high-energy particles that create noise all over the apparatus, especially in the regions near the beam line itself.
-“For some of the most important physics that we do, we have to be able to pull out important information from these regions,” he said. “Not only does the HGC have to withstand a huge amount of radiation over 10 years of operation, it must also provide the scientists the information needed to recognize important processes that are key to the search for new physics.”
-To help separate the particles of interest from the background of debris created by hundreds of other simultaneous proton-proton collisions, the new calorimeter will exchange a system with roughly 10,000 sensing elements for one with roughly 10 million sensing elements. It would be the first time a calorimeter of this basic type has ever been operated in the intense environment of a proton collider, said Incandela, and it will be by far the most complex and largest of its type ever built. Assuming it works as expected, he added, it is likely to be the design of choice for calorimeters in many future high-energy physics experiments.
-And there will be a huge amount of information to sift through: It is estimated that the High Granularity Calorimeter alone will produce around 1,000 trillion bits of data per second, about 10 percent of which are used in real time to help select beam crossing events of interest. Only one in 3,000 events will be recorded for offline analysis.
-The image at the top of the page shows elliptical galaxy NGC 1132 combining an image from NASA's /Chandra X-Ray Observatory/ obtained in 2004 with images from the /Hubble Space Telescope/ made in 2005 and 2006 in green and near-infrared light. (Photo : NASA, ESA, M. West (ESO, Chile), and CXC/Penn State University/G. Garmire, et al.)
-The Daily Galaxy via http://www.news.ucsb.edu/
-Related articles
-
-CERN: "Will This Summer's LHC Photon Collisions Reveal a New Theory of Space and Time?"
-The Higgs Boson --"A Clue to Why There's More Matter than Antimatter in the Universe?"
-The Higgs Particle --"It Can Disintegrate Into Dark Matter"
-China Building World's Most Massive Particle Accelerator --"Capable of Producing Millions of Higgs Bosons"
-
+>         “The Higgs mass that we measure is consistent with the Standard Model if the parameters of the model are carefully tuned to something like 30 decimal places,” said Joe Incandela, a UC Santa Barbara physics professor and scientist in CERN's Compact Muon Solenoid (CMS) experiment, one of four detectors located along the LHC 16-mile collider tunnel. “This seems very unnatural to us. When you introduce new physics, like supersymmetry, things come into balance and you do not have to tune anymore. We’re trying to find the evidence for supersymmetry for this reason, and because we know there’s dark matter, which is also predicted in supersymmetry models. So all in all, we’re looking for the bridge to the next chapter of the story.” New physics beyond the Standard Model and the Brout-Englert-Higgs mechanism may be discovered as a result of the upgrades to the accelerator and its detectors, as well as clues to understanding dark matter and supersymmetry. Among the mysteries the s...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsBy September, the world’s largest radio telescope will be complete and can start searching space for signs of extraterrestrial life billions of light-years away. Located in China’s Guizhou Province, the telescope...Staff Author:&nbsp;Katie Mohr Topics:&nbsp;Aerospace
+>NewsBy September, the world’s largest radio telescope will be complete and can start searching space for signs of extraterrestrial life billions of light-years away. Located in China’s Guizhou Province, the telescope...Staff Author:&nbsp;Katie Mohr Topics:&nbsp;Aerospace...
 
 #### Factsheet
 >factsheet unavailable

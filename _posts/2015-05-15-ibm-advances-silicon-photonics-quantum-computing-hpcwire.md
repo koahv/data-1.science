@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->IBM Advances Silicon Photonics, Quantum ComputingHPCwire“Quantum computers promise to open up new capabilities in the fields of optimization and simulation simply not possible using today&#39;s computers,” remarked a company press release. “If a quantum computer could be built with just 50 quantum bits (qubits ...and more&nbsp;&raquo;
+>IBM Advances Silicon Photonics, Quantum ComputingHPCwire“Quantum computers promise to open up new capabilities in the fields of optimization and simulation simply not possible using today&#39;s computers,” remarked a company press release. “If a quantum computer could be built with just 50 quantum bits (qubits ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

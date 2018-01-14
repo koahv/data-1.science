@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Creating clouds in the sky or redirecting sunlight to bring down the Earth's temperature could have an effect on astronomy.
+>Creating clouds in the sky or redirecting sunlight to bring down the Earth's temperature could have an effect on astronomy....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,10 +9,7 @@ tags: []
 
 
 #### Extract
->This post was written by FSF board member and co-founder of CivicActions Henry Poole.
-But, as we imagine into the future, it is clear that operating systems are becoming embedded in everything. Our homes, our automobiles, and even our bodies. While a stand for free software was impersonal thirty years ago, in another thirty years it will be very personal. Operating systems will likely be embedded in our bodies, and the rights to use, study, modify, and share that software to stay alive and connect with others should be a fundamental human right. The last thirty years wasn't easy -- maintaining a state of integrity is often difficult and lonely. The next thirty years are likely to be just as difficult (or more). 
-Don't retire so young -- make a personal commitment today to become a lifetime FSF supporter. Stand with us for another thirty years. In the years ahead, people around the world will celebrate that stand.
-And if you are fortunate enough to have a job at a company that uses free software, ask your company to increase patronage of free software by supporting the FSF.  The FSF has a patron program for businesses that support and use free software. Of the 18,000 new US businesses that start every day, it would be great to see a new patron each day support the FSF.
+>This post was written by FSF board member and co-founder of CivicActions Henry Poole. But, as we imagine into the future, it is clear that operating systems are becoming embedded in everything. Our homes, our automobiles, and even our bodies. While a stand for free software was impersonal thirty years ago, in another thirty years it will be very personal. Operating systems will likely be embedded in our bodies, and the rights to use, study, modify, and share that software to stay alive and connect with others should be a fundamental human right. The last thirty years wasn't easy -- maintaining a state of integrity is often difficult and lonely. The next thirty years are likely to be just as difficult (or more). Don't retire so young -- make a personal commitment today to become a lifetime FSF supporter. Stand with us for another thirty years. In the years ahead, people around the world will celebrate that stand. And if you are fortunate enough to have a job at a company that uses free...
 
 #### Factsheet
 >factsheet unavailable

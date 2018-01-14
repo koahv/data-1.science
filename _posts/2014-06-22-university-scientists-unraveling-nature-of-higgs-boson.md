@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Kansas State University) Physics research finds that Higgs bosons decay into fermions, which gives elementary particles mass.
+>(Kansas State University) Physics research finds that Higgs bosons decay into fermions, which gives elementary particles mass....
 
 #### Factsheet
 >factsheet unavailable

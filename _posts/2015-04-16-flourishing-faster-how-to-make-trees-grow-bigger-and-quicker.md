@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientists have discovered a way to make trees grow bigger and faster, which could increase supplies of renewable resources and help trees cope with the effects of climate change.
+>Scientists have discovered a way to make trees grow bigger and faster, which could increase supplies of renewable resources and help trees cope with the effects of climate change....
 
 #### Factsheet
 >factsheet unavailable

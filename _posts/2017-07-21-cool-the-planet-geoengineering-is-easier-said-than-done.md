@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Scientists are exploring ways to re-engineer the planet to counter the effects of global warming.
+>Scientists are exploring ways to re-engineer the planet to counter the effects of global warming....
 
 #### Factsheet
 >factsheet unavailable

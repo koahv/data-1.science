@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Pretty (Partial) Picture: LightSail Catches a Glimpse of EarthThe Planetary Society (blog)The team would very much like to get a complete, 360-degree view of the sails if possible, before LightSail tumbles back into Earth&#39;s atmosphere. Now that the sails are out, the spacecraft&#39;s orbit has started to decay quickly. Early estimates show a ...
+>Pretty (Partial) Picture: LightSail Catches a Glimpse of EarthThe Planetary Society (blog)The team would very much like to get a complete, 360-degree view of the sails if possible, before LightSail tumbles back into Earth&#39;s atmosphere. Now that the sails are out, the spacecraft&#39;s orbit has started to decay quickly. Early estimates show a ......
 
 #### Factsheet
 >factsheet unavailable

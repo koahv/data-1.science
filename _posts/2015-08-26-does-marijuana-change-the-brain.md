@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Some people who smoke pot do show changes in brain development, but those changes seem to be dependent on genes and other factors.
+>Some people who smoke pot do show changes in brain development, but those changes seem to be dependent on genes and other factors....
 
 #### Factsheet
 >factsheet unavailable

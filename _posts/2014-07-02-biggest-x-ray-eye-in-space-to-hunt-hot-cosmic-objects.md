@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The Athena space telescope will launch in 2028 to gather hot, energetic light from monster black holes and interstellar gas storms
+>The Athena space telescope will launch in 2028 to gather hot, energetic light from monster black holes and interstellar gas storms...
 
 #### Factsheet
 >factsheet unavailable

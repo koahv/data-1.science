@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The first data-driven estimate of the Earth's total supply of groundwater shows that less than six per cent of groundwater in the upper two kilometers of the Earth's landmass is renewable within a human lifetime. 
+>The first data-driven estimate of the Earth's total supply of groundwater shows that less than six per cent of groundwater in the upper two kilometers of the Earth's landmass is renewable within a human lifetime....
 
 #### Factsheet
 >factsheet unavailable

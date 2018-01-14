@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Five-year-long construction of giant US neutrino experiment complete
+>Five-year-long construction of giant US neutrino experiment complete...
 
 #### Factsheet
 >factsheet unavailable

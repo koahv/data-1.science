@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Is open source software inherently less secure than closed-source code? Which special security precautions should you take with open source? Keep reading for a primer on open source software security...
+>Is open source software inherently less secure than closed-source code? Which special security precautions should you take with open source? Keep reading for a primer on open source software security......
 
 #### Factsheet
 >factsheet unavailable

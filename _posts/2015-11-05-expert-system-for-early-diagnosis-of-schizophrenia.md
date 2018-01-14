@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Inderscience Publishers) The opinion of a qualified professional is unlikely to be replaced by a computer algorithm for the diagnosis of schizophrenia. However, additional medical evidence based on such an algorithm might be useful in early diagnosis, according to work published in the International Journal of Intelligent Systems Technologies and Applications.
+>(Inderscience Publishers) The opinion of a qualified professional is unlikely to be replaced by a computer algorithm for the diagnosis of schizophrenia. However, additional medical evidence based on such an algorithm might be useful in early diagnosis, according to work published in the International Journal of Intelligent Systems Technologies and Applications....
 
 #### Factsheet
 >factsheet unavailable

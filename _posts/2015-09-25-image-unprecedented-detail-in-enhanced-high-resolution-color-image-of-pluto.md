@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->NASA's New Horizons spacecraft captured this high-resolution enhanced color view of Pluto on July 14, 2015. The image combines blue, red and infrared images taken by the Ralph/Multispectral Visual Imaging Camera (MVIC).
+>NASA's New Horizons spacecraft captured this high-resolution enhanced color view of Pluto on July 14, 2015. The image combines blue, red and infrared images taken by the Ralph/Multispectral Visual Imaging Camera (MVIC)....
 
 #### Factsheet
 >factsheet unavailable

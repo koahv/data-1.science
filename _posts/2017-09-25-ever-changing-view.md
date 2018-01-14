@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Highlighting Rosetta’s ever-changing view of the comet, a year since the mission concluded
-	
+>Highlighting Rosetta’s ever-changing view of the comet, a year since the mission concluded...
 
 #### Factsheet
 >factsheet unavailable

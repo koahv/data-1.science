@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-This week, the commands that will govern the Schiaparelli lander’s descent and touchdown on Mars were uploaded to ESA’s ExoMars spacecraft, enroute to the Red Planet.
-
-	
+>This week, the commands that will govern the Schiaparelli lander’s descent and touchdown on Mars were uploaded to ESA’s ExoMars spacecraft, enroute to the Red Planet....
 
 #### Factsheet
 >factsheet unavailable

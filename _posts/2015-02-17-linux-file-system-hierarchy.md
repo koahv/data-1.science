@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;blackmoreops: Is there really a filesystem standard structure in Linux?
+>&nbsp;blackmoreops: Is there really a filesystem standard structure in Linux?...
 
 #### Factsheet
 >factsheet unavailable

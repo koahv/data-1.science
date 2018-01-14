@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->Duke researchers have developed a new method to precisely control when genes are turned on and active.
+>Duke researchers have developed a new method to precisely control when genes are turned on and active....
 
 #### Factsheet
 >factsheet unavailable

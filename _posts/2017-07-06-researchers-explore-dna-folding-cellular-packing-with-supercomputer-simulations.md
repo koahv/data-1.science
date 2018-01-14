@@ -9,7 +9,7 @@ tags: [biochemistry]
 
 
 #### Extract
->A biological mystery lies at the center of each of our cells, namely: how one meter of DNA can be wadded up into the space of a micron (or one millionth of a meter) within each nucleus of our body.
+>A biological mystery lies at the center of each of our cells, namely: how one meter of DNA can be wadded up into the space of a micron (or one millionth of a meter) within each nucleus of our body....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Sydney) Professor Patrice Rey, from the University of Sydney's School of Geoscience, and his colleagues have a new explanation for the origin of plate tectonics.
+>(University of Sydney) Professor Patrice Rey, from the University of Sydney's School of Geoscience, and his colleagues have a new explanation for the origin of plate tectonics....
 
 #### Factsheet
 >factsheet unavailable

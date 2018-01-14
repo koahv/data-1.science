@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->An end to poaching will benefit ocean conservation and fishing communities worldwide, an Australian-led scientific study shows.
+>An end to poaching will benefit ocean conservation and fishing communities worldwide, an Australian-led scientific study shows....
 
 #### Factsheet
 >factsheet unavailable

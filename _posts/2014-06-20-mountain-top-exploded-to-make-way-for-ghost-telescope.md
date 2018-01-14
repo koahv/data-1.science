@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The telescope that will live on the now-flat summit of Cerro Amazones in the Atacama desert will be the largest of its kind in the world &ndash; and a ghost
+>The telescope that will live on the now-flat summit of Cerro Amazones in the Atacama desert will be the largest of its kind in the world &ndash; and a ghost...
 
 #### Factsheet
 >factsheet unavailable

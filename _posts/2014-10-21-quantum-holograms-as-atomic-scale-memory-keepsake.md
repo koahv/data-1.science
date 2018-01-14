@@ -9,8 +9,7 @@ tags: []
 
 
 #### Extract
->
-Study demonstrates that quantum holograms could be a candidate for becoming quantum information memory.Read more about Quantum Holograms as Atomic Scale Memory Keepsake Comments
+>Study demonstrates that quantum holograms could be a candidate for becoming quantum information memory.Read more about Quantum Holograms as Atomic Scale Memory Keepsake Comments...
 
 #### Factsheet
 >factsheet unavailable

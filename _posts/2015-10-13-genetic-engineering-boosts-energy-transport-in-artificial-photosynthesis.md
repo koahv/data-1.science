@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Viral scaffolding allows excitons to travel faster and further
+>Viral scaffolding allows excitons to travel faster and further...
 
 #### Factsheet
 >factsheet unavailable

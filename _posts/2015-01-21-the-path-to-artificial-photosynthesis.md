@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Helmholtz-Zentrum Berlin für Materialien und Energie) Scientists at the Helmholtz Center for Materials and Energy in collaboration with the School of Chemistry and ARC Centre of Excellence for Electromaterials Science at Monash University, Australia, have precisely characterized a manganese catalyst's electronic states. The catalyst is capable of converting light to chemical energy.
+>(Helmholtz-Zentrum Berlin für Materialien und Energie) Scientists at the Helmholtz Center for Materials and Energy in collaboration with the School of Chemistry and ARC Centre of Excellence for Electromaterials Science at Monash University, Australia, have precisely characterized a manganese catalyst's electronic states. The catalyst is capable of converting light to chemical energy....
 
 #### Factsheet
 >factsheet unavailable

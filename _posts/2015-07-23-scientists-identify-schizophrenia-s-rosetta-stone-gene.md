@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Cardiff University) A breakthrough reveals gene's influence in a vulnerable period of the brain's development. Researchers hope it could offer a therapeutic target for reversing the disease. There is 'strong evidence' that subtle changes early on in life can lead to 'much bigger' effects in adulthood.
+>(Cardiff University) A breakthrough reveals gene's influence in a vulnerable period of the brain's development. Researchers hope it could offer a therapeutic target for reversing the disease. There is 'strong evidence' that subtle changes early on in life can lead to 'much bigger' effects in adulthood....
 
 #### Factsheet
 >factsheet unavailable

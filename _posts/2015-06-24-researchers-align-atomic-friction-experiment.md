@@ -9,7 +9,7 @@ tags: [nanotechnology]
 
 
 #### Extract
->Working together to study friction on the atomic scale, researchers at UC Merced and the University of Pennsylvania have conducted the first atomic-scale experiments and simulations of friction at overlapping speeds.
+>Working together to study friction on the atomic scale, researchers at UC Merced and the University of Pennsylvania have conducted the first atomic-scale experiments and simulations of friction at overlapping speeds....
 
 #### Factsheet
 >factsheet unavailable

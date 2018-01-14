@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Read more about World&#039;s Largest Petawatt Laser CompletedComments
+>Read more about World&#039;s Largest Petawatt Laser CompletedComments...
 
 #### Factsheet
 >factsheet unavailable

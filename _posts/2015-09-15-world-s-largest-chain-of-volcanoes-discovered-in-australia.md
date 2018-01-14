@@ -9,8 +9,7 @@ tags: [environment]
 
 
 #### Extract
->
-The world’s longest chain of continental volcanoes stretching for over 2,000 kms and formed over the past 33 million years has been found in Eastern Australia.The ancient volcanic chain rep...
+>The world’s longest chain of continental volcanoes stretching for over 2,000 kms and formed over the past 33 million years has been found in Eastern Australia.The ancient volcanic chain rep......
 
 #### Factsheet
 >factsheet unavailable

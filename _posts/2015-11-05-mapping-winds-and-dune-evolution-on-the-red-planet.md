@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->Three Irish scientists have discovered how winds shape sand dunes on Mars by using image data from the HiRISE camera on the Mars Reconnaissance Orbiter and then comparing patterns with wind models that were tested on dunes seen on Northern Ireland's peninsula of Magilligan.
+>Three Irish scientists have discovered how winds shape sand dunes on Mars by using image data from the HiRISE camera on the Mars Reconnaissance Orbiter and then comparing patterns with wind models that were tested on dunes seen on Northern Ireland's peninsula of Magilligan....
 
 #### Factsheet
 >factsheet unavailable

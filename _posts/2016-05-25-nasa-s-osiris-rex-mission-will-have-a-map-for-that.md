@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) On Sept. 8, NASA's OSIRIS-REx spacecraft is scheduled to launch for terra incognita: the unknown surface of the near-Earth asteroid Bennu. Like expeditions of old, OSIRIS-REx's mission includes mapping the exotic terrain it explores.
+>(NASA/Goddard Space Flight Center) On Sept. 8, NASA's OSIRIS-REx spacecraft is scheduled to launch for terra incognita: the unknown surface of the near-Earth asteroid Bennu. Like expeditions of old, OSIRIS-REx's mission includes mapping the exotic terrain it explores....
 
 #### Factsheet
 >factsheet unavailable

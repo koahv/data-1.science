@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL6 AugLearn more
+>Title:&nbsp;How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL6 AugLearn more...
 
 #### Factsheet
 >factsheet unavailable

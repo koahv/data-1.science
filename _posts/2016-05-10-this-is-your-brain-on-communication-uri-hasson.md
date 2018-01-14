@@ -9,7 +9,7 @@ tags: [higher education]
 
 
 #### Extract
->Neuroscientist Uri Hasson researches the basis of human communication, and experiments from his lab reveal that even across different languages, our brains show similar activity, or become "aligned," when we hear the same idea or story. This amazing neural mechanism allows us to transmit brain patterns, sharing memories and knowledge. "We can communicate because we have a common code that presents meaning," Hasson says.
+>Neuroscientist Uri Hasson researches the basis of human communication, and experiments from his lab reveal that even across different languages, our brains show similar activity, or become "aligned," when we hear the same idea or story. This amazing neural mechanism allows us to transmit brain patterns, sharing memories and knowledge. "We can communicate because we have a common code that presents meaning," Hasson says....
 
 #### Factsheet
 >factsheet unavailable

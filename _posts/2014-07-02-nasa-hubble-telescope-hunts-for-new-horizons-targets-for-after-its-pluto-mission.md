@@ -9,7 +9,7 @@ tags: [space]
 
 
 #### Extract
->The New Horizons (NH) spacecraft is currently set to streak past the Pluto system in July 2015.  Now, NASA's Hubble Space Telescope is conducting an intensive search to find a suitable outer solar system object for New Horizons to visit after its Pluto mission.
+>The New Horizons (NH) spacecraft is currently set to streak past the Pluto system in July 2015. Now, NASA's Hubble Space Telescope is conducting an intensive search to find a suitable outer solar system object for New Horizons to visit after its Pluto mission....
 
 #### Factsheet
 >factsheet unavailable

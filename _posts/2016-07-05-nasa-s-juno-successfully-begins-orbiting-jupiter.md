@@ -9,8 +9,7 @@ tags: [science]
 
 
 #### Extract
->
-Launched five years ago from Cape Canaveral, it has travelled 2.7 billion kilometres so far.
+>Launched five years ago from Cape Canaveral, it has travelled 2.7 billion kilometres so far....
 
 #### Factsheet
 >factsheet unavailable

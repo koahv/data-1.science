@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Solution to the Dirac equation detected 85&nbsp;years after it was predicted
+>Solution to the Dirac equation detected 85&nbsp;years after it was predicted...
 
 #### Factsheet
 >factsheet unavailable

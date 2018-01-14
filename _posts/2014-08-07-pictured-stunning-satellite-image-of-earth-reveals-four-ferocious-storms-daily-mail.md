@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Daily MailPictured: Stunning satellite image of Earth reveals four ferocious storms ...Daily MailA procession of ferocious storms has been lining up across the Pacific Ocean, with three of the most deadly set to hit land. A spectacular satellite image this morning revealed an unsettled Earth with Typhoon Halong, Hurricane Genevieve, Hurricane ...and more&nbsp;&raquo;
+>Daily MailPictured: Stunning satellite image of Earth reveals four ferocious storms ...Daily MailA procession of ferocious storms has been lining up across the Pacific Ocean, with three of the most deadly set to hit land. A spectacular satellite image this morning revealed an unsettled Earth with Typhoon Halong, Hurricane Genevieve, Hurricane ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

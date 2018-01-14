@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Intel's answer to the popular $25 Raspberry Pi credit-card sized PC, the Galileo Gen2, is set to be available in August for around $60.
+>Intel's answer to the popular $25 Raspberry Pi credit-card sized PC, the Galileo Gen2, is set to be available in August for around $60....
 
 #### Factsheet
 >factsheet unavailable

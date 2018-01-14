@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->Halley's Comet, also known as 1P/Halley, is the most well known comet in the Solar System. As a periodic (or short-term comet) it has orbital period that is less than 200 years, and has therefore been observed more than once by people here on Earth over the centuries.
+>Halley's Comet, also known as 1P/Halley, is the most well known comet in the Solar System. As a periodic (or short-term comet) it has orbital period that is less than 200 years, and has therefore been observed more than once by people here on Earth over the centuries....
 
 #### Factsheet
 >factsheet unavailable

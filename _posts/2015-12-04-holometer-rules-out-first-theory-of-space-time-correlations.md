@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->The extremely sensitive quantum-spacetime-measuring tool will serve as a template for scientific exploration in the years to come.
+>The extremely sensitive quantum-spacetime-measuring tool will serve as a template for scientific exploration in the years to come....
 
 #### Factsheet
 >factsheet unavailable

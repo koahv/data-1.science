@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->Each of us goes through a daily cycle. We wake up, spend the day eating, working and playing, and then we sleep. Messing with this cycle by not sleeping, doing shift work, travelling to a different time zone or living where there is 24 hours of light or dark can really interfere with our wellbeing and our long-term health.
+>Each of us goes through a daily cycle. We wake up, spend the day eating, working and playing, and then we sleep. Messing with this cycle by not sleeping, doing shift work, travelling to a different time zone or living where there is 24 hours of light or dark can really interfere with our wellbeing and our long-term health....
 
 #### Factsheet
 >factsheet unavailable

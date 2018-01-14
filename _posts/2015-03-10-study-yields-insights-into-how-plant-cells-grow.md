@@ -9,7 +9,7 @@ tags: [biology]
 
 
 #### Extract
->A study by Purdue University plant scientists and University of Nebraska-Lincoln engineers advances our understanding of how plants control their shape and development at the cellular level.
+>A study by Purdue University plant scientists and University of Nebraska-Lincoln engineers advances our understanding of how plants control their shape and development at the cellular level....
 
 #### Factsheet
 >factsheet unavailable

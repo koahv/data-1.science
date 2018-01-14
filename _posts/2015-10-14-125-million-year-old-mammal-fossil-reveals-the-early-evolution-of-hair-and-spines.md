@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Discovered in Spain, the fossil of the newly described, 125-million-year old Spinolestes xenarthrosus is remarkably well-preserved, containing fur, hair follicles, hedgehog-like spines, organs and even a fungal skin infection. It pushes back the record of preserved mammalian hair and soft tissue by more than 60 million years. 
+>Discovered in Spain, the fossil of the newly described, 125-million-year old Spinolestes xenarthrosus is remarkably well-preserved, containing fur, hair follicles, hedgehog-like spines, organs and even a fungal skin infection. It pushes back the record of preserved mammalian hair and soft tissue by more than 60 million years....
 
 #### Factsheet
 >factsheet unavailable

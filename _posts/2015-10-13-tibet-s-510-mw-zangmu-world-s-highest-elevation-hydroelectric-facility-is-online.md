@@ -9,7 +9,7 @@ tags: [hydropower, asia]
 
 
 #### Extract
->At more than 10,800 ft above sea level, the 510-MW Zangmu Hydropower Station -- the largest in Tibet and one of the highest elevation hydroelectric facilities in the world -- is fully operational. Constructed at a cost of US$1.5 billion, the facility is located in Gyaca County, Shannan Prefecture on the Yarlung Zangbo River (Brahmaputra River), that flows through Tibet downstream into India and Bangladesh.
+>At more than 10,800 ft above sea level, the 510-MW Zangmu Hydropower Station -- the largest in Tibet and one of the highest elevation hydroelectric facilities in the world -- is fully operational. Constructed at a cost of US$1.5 billion, the facility is located in Gyaca County, Shannan Prefecture on the Yarlung Zangbo River (Brahmaputra River), that flows through Tibet downstream into India and Bangladesh....
 
 #### Factsheet
 >factsheet unavailable

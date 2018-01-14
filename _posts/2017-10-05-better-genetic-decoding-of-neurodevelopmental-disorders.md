@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->New research into improving the genetic decoding of neurodevelopmental disorders promises to help future diagnosis of children with such conditions, including intellectual disability, autism or schizophrenia. 
+>New research into improving the genetic decoding of neurodevelopmental disorders promises to help future diagnosis of children with such conditions, including intellectual disability, autism or schizophrenia....
 
 #### Factsheet
 >factsheet unavailable

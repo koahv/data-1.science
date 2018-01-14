@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) A new map of Mars' gravity made with three NASA spacecraft is the most detailed to date, providing a revealing glimpse into the hidden interior of the Red Planet.
+>(NASA/Goddard Space Flight Center) A new map of Mars' gravity made with three NASA spacecraft is the most detailed to date, providing a revealing glimpse into the hidden interior of the Red Planet....
 
 #### Factsheet
 >factsheet unavailable

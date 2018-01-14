@@ -9,32 +9,7 @@ tags: []
 
 
 #### Extract
-> 
- 
-
- 
- 
-A team of international scientists has shown for the first time that galaxies can change their structure over the course of their lifetime. By observing the sky as it is today, and peering back in time using the Hubble and Herschel telescopes, the team have shown that a large proportion of galaxies have undergone a major 'metamorphosis' since they were initially formed after the Big Bang.
-By providing the first direct evidence of the extent of this transformation, the team hope to shed light on the processes that caused these dramatic changes, and therefore gain a greater understanding of the appearance and properties of the Universe as we know it today.
-In their study, led by astronomers from Cardiff University's School of Physics and Astronomy, which has been published in the Monthly Notices of the Royal Astronomical Society¸ the researchers observed around 10,000 galaxies currently present in the Universe using a survey of the sky created by the Herschel ATLAS and GAMA projects.
-The researchers then classified the galaxies into the two main types: flat, rotating, disc-shaped galaxies (much like our own galaxy, the Milky Way); and large, oval-shaped galaxies with a swarm of disordered stars.
-Using the Hubble and Herschel telescopes, the researchers then looked further out into the Universe, and thus further back in time, to observe the galaxies that formed shortly after the Big Bang.
-The researchers showed that 83 per cent of all the stars formed since the Big Bang were initially located in a disc-shaped galaxy. However, only 49 per cent of stars that exist in the Universe today are located in these disc-shaped galaxies--the remainder are located in oval-shaped galaxies.
-The results suggest a massive transformation in which disc-shaped galaxies became oval-shaped galaxies.
-A popular theory is that this transformation was caused by many cosmic catastrophes, in which two disk-dominated galaxies, straying too close to each other, were forced by gravity to merge into a single galaxy, with the merger destroying the disks and producing a huge pileup of stars. An opposing theory is that the transformation was a more gentle process, with stars formed in a disk gradually moving to the centre of a disk and producing a central pile-up of stars.
-Lead author of the study Professor Steve Eales, from Cardiff University's School of Physics and Astronomy, said: "Many people have claimed before that this metamorphosis has occurred, but by combining Herschel and Hubble, we have for the first time been able to accurately measure the extent of this transformation.
-"Galaxies are the basic building blocks of the Universe, so this metamorphosis really does represent one of the most significant changes in its appearance and properties in the last 8 billion years."
-"This study is important as it establishes statistics showing that almost all stars formed in spiral galaxies in the past, but a large fraction of these now appear as large, dead, elliptical galaxies today," saidAsantha Cooray, a co-author of the study from the University of California. "This study will require us to refine the models and computer simulations that attempt to explain how galaxies formed and behaved over the last 13 billion years."
-Dr David Clements, a co-author of the study from Imperial College London, said: "Up to now we've seen individual cases in the local universe where galaxy collisions convert spirals into ellipticals. This study shows that this kind of transformation is not exceptional, but is part of the normal history of galaxy evolution."
-Matthew Allen, a Ph.D. student at Cardiff University and a member of the team, said: "This is a huge step in understanding how the galactic population has evolved over billions of years. Using some of the most cutting edge data and techniques, we are finally beginning to understand the processes that have shaped our Universe."
-The image at the top of the page is the Hubble Deep Field image of the early universe.
-The Daily Galaxy via Cardiff University
-Related articles
-
-ALMA Observatory "Pierces Cosmic Fog of the Early Universe"
-Found! "The Missing Piece in a Long-Standing Milky Way Puzzle"
-Unexplained Red Arcs Observed on Saturn's Moon Tethys
-
+>         A team of international scientists has shown for the first time that galaxies can change their structure over the course of their lifetime. By observing the sky as it is today, and peering back in time using the Hubble and Herschel telescopes, the team have shown that a large proportion of galaxies have undergone a major 'metamorphosis' since they were initially formed after the Big Bang. By providing the first direct evidence of the extent of this transformation, the team hope to shed light on the processes that caused these dramatic changes, and therefore gain a greater understanding of the appearance and properties of the Universe as we know it today. In their study, led by astronomers from Cardiff University's School of Physics and Astronomy, which has been published in the Monthly Notices of the Royal Astronomical Society¸ the researchers observed around 10,000 galaxies currently present in the Universe using a survey of the sky created by the Herschel ATLAS and GA...
 
 #### Factsheet
 >factsheet unavailable

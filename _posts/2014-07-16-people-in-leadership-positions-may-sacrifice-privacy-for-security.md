@@ -9,7 +9,7 @@ tags: [technology]
 
 
 #### Extract
->People with higher job status may be more willing to compromise privacy for security reasons and also be more determined to carry out those decisions, according to researchers.
+>People with higher job status may be more willing to compromise privacy for security reasons and also be more determined to carry out those decisions, according to researchers....
 
 #### Factsheet
 >factsheet unavailable

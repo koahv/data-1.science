@@ -9,8 +9,7 @@ tags: [science]
 
 
 #### Extract
->
-Some of the noise filtering and mathematical methods were developed by Indian scientists
+>Some of the noise filtering and mathematical methods were developed by Indian scientists...
 
 #### Factsheet
 >factsheet unavailable

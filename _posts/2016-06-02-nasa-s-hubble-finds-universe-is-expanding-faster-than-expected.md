@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) Astronomers using NASA's Hubble Space Telescope have discovered that the universe is expanding 5 percent to 9 percent faster than expected.
+>(NASA/Goddard Space Flight Center) Astronomers using NASA's Hubble Space Telescope have discovered that the universe is expanding 5 percent to 9 percent faster than expected....
 
 #### Factsheet
 >factsheet unavailable

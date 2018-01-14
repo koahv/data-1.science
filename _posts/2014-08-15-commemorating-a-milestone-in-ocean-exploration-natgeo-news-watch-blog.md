@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NatGeo News Watch (blog)Commemorating A Milestone in Ocean ExplorationNatGeo News Watch (blog)More technologically-advanced vessels have been created since Beebe and Barton&#39;s expedition, but Beebe and Barton&#39;s exploration in the Bathysphere was the first time ocean researchers were able to observe deep-sea creatures in their natural habitat.
+>NatGeo News Watch (blog)Commemorating A Milestone in Ocean ExplorationNatGeo News Watch (blog)More technologically-advanced vessels have been created since Beebe and Barton&#39;s expedition, but Beebe and Barton&#39;s exploration in the Bathysphere was the first time ocean researchers were able to observe deep-sea creatures in their natural habitat....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [condensed matter]
 
 
 #### Extract
->On a balmy evening in early June, Space X launched the Falcon 9 rocket, which ferried the Dragon spacecraft toward the International Space Station (ISS). As the Dragon broke the tethers of Earth's gravity three small, black boxes were safely nestled in its cargo hold. These innocuous boxes house an experiment that may help researchers develop new antidotes for nerve agents used in conflict zones.
+>On a balmy evening in early June, Space X launched the Falcon 9 rocket, which ferried the Dragon spacecraft toward the International Space Station (ISS). As the Dragon broke the tethers of Earth's gravity three small, black boxes were safely nestled in its cargo hold. These innocuous boxes house an experiment that may help researchers develop new antidotes for nerve agents used in conflict zones....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,34 +9,7 @@ tags: []
 
 
 #### Extract
-> 
- 
-
- 
-“We’ve taken a major step back in time, beyond what we’d ever expected to be able to do with Hubble. We managed to look back in time to measure the distance to a galaxy when the Universe was only three percent of its current age,” says Pascal Oesch of Yale University.
-By pushing the NASA/ESA Hubble Space Telescope to its limits astronomers have shattered the cosmic distance record by measuring the distance to the most remote galaxy ever seen in the Universe. This galaxy existed just 400 million years after the Big Bang and provides new insights into the first generation of galaxies. This is the first time that the distance of an object so far away has been measured from its spectrum, which makes the measurement extremely reliable. The results will be published in the Astrophysical Journal.
-The illustration above shows a timeline of the Universe, stretching from the present day (left) back to the Big Bang, 13.8 billion years ago (right). The newly discovered galaxy GN-z11 is the most distant galaxy discovered so far, at a redshift of 11.1, which corresponds to 400 million years after the Big Bang. The previous record holder’s position is also identified.
-Using the NASA/ESA Hubble Space Telescope an international team of astronomers has measured the distance to this new galaxy, named GN-z11. Although extremely faint, the galaxy is unusually bright considering its distance from Earth. The distance measurement of GN-z11 provides additional strong evidence that other unusually bright galaxies found in earlier Hubble images are really at extraordinary distances, showing that we are closing in on the first galaxies that formed in the Universe.
- 
-
- 
-Previously, astronomers had estimated GN-z11’s distance by analysing its colour in images taken with both Hubble and the NASA Spitzer Space Telescope. Now, for the first time for a galaxy at such an extreme distance, the team has used Hubble’s Wide Field Camera 3 (WFC3) to precisely measure the distance to GN-z11 spectroscopically by splitting the light into its component colours.
-“Our spectroscopic observations reveal the galaxy to be even further away than we had originally thought, right at the distance limit of what Hubble can observe,” explains Gabriel Brammer of the Space Telescope Science Institute and second author of the study.
-This puts GN-z11 at a distance that was once thought only to be reachable with the upcoming NASA/ESA/CSA James Webb Space Telescope (JWST).
-To determine large distances, like the one to GN-z11, astronomers measure the redshift of the observed object. This phenomenon is a result of the expansion of the Universe; every distant object in the Universe appears to be receding from us and as a result its light is stretched to longer, redder wavelengths.
-Before astronomers determined the distance to GN-z11, the most distant measured galaxy, EGSY8p7, had a redshift of 8.68. Now, the team has confirmed GN-z11’s distance to be at a redshift of 11.1, which corresponds to 400 million years after the Big Bang.
-“The previous record-holder was seen in the middle of the epoch when starlight from primordial galaxies was beginning to heat and lift a fog of cold, hydrogen gas,” explains co-author Rychard Bouwens from the University of Leiden, the Netherlands. “This transitional period is known as the reionisation era. GN-z11 is observed 150 million years earlier, near the very beginning of this transition in the evolution of the Universe.”
-The combination of observations taken by Hubble and Spitzer revealed that the infant galaxy is 25 times smaller than the Milky Way and has just one percent of our galaxy’s mass in stars. However, the number of stars in the newborn GN-z11 is growing fast: The galaxy is forming stars at a rate about 20 times greater than the Milky Way does today. This high star formation rate makes the remote galaxy bright enough for Hubble to see and to perform detailed observations.
-However, the discovery also raises many new questions as the existence of such a bright and large galaxy is not predicted by theory. “It’s amazing that a galaxy so massive existed only 200 million to 300 million years after the very first stars started to form. It takes really fast growth, producing stars at a huge rate, to have formed a galaxy that is a billion solar masses so soon,” explains Garth Illingworth of the University of California, Santa Cruz.
-Marijn Franx, a member of the team from the University of Leiden highlights: “The discovery of GN-z11 was a great surprise to us, as our earlier work had suggested that such bright galaxies should not exist so early in the Universe.” His colleague Ivo Labbe adds: “The discovery of GN-z11 showed us that our knowledge about the early Universe is still very restricted. How GN-z11 was created remains somewhat of a mystery for now. Probably we are seeing the first generations of stars forming around black holes?”
-These findings provide a tantalising preview of the observations that the James Webb Space Telescope will perform. “This new discovery shows that JWST will surely find many such young galaxies reaching back to when the first galaxies were forming,” concludes Illingworth.
-The Daily Galaxy via http://www.spacetelescope.org
-Related articles
-
-Star Streams of the Milky Way --"Trace of the Orbits of Ancient Globular Clusters"
-Enormous Structure at Milky Way Center --Aftermath of an Explosion 2 Million Years Ago Speeding Out at 2 Million MPH
-Immense Halo Discovered Enveloping the Andromeda Galaxy --1,000 Times Greater Than Anticipated
-
+>       “We’ve taken a major step back in time, beyond what we’d ever expected to be able to do with Hubble. We managed to look back in time to measure the distance to a galaxy when the Universe was only three percent of its current age,” says Pascal Oesch of Yale University. By pushing the NASA/ESA Hubble Space Telescope to its limits astronomers have shattered the cosmic distance record by measuring the distance to the most remote galaxy ever seen in the Universe. This galaxy existed just 400 million years after the Big Bang and provides new insights into the first generation of galaxies. This is the first time that the distance of an object so far away has been measured from its spectrum, which makes the measurement extremely reliable. The results will be published in the Astrophysical Journal. The illustration above shows a timeline of the Universe, stretching from the present day (left) back to the Big Bang, 13.8 billion years ago (right). The newly discovered galaxy GN-z11 i...
 
 #### Factsheet
 >factsheet unavailable

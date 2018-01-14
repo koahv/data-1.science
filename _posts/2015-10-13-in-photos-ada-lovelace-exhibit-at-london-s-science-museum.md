@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Calculating machines and notes that predict the future of computing are among the items on display at the new exhibit. 
+>Calculating machines and notes that predict the future of computing are among the items on display at the new exhibit....
 
 #### Factsheet
 >factsheet unavailable

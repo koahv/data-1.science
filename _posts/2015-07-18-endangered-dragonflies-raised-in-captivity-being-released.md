@@ -9,7 +9,7 @@ tags: [ecology]
 
 
 #### Extract
->Federally endangered dragonflies that have been raised in a laboratory over the past several years are being released at a forest preserve this week in Illinois, where scientists believe they'll be a good match with the small population still there.
+>Federally endangered dragonflies that have been raised in a laboratory over the past several years are being released at a forest preserve this week in Illinois, where scientists believe they'll be a good match with the small population still there....
 
 #### Factsheet
 >factsheet unavailable

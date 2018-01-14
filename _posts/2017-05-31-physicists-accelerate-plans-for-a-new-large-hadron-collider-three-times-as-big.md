@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->An international league of scientists is kicking off the decades-long process of developing the successor to the Large Hadron Collider, the world's largest and most powerful particle accelerator.
+>An international league of scientists is kicking off the decades-long process of developing the successor to the Large Hadron Collider, the world's largest and most powerful particle accelerator....
 
 #### Factsheet
 >factsheet unavailable

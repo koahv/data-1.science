@@ -9,7 +9,7 @@ tags: [space]
 
 
 #### Extract
->Astronomers have spotted an unusual series of eruptions form the sun, thanks to a suite of spacecraft.
+>Astronomers have spotted an unusual series of eruptions form the sun, thanks to a suite of spacecraft....
 
 #### Factsheet
 >factsheet unavailable

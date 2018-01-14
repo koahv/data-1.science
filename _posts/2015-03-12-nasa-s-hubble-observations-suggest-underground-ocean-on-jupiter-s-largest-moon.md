@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) NASA's Hubble Space Telescope has the best evidence yet for an underground saltwater ocean on Ganymede, Jupiter's largest moon. The subterranean ocean is thought to have more water than all the water on Earth's surface.
+>(NASA/Goddard Space Flight Center) NASA's Hubble Space Telescope has the best evidence yet for an underground saltwater ocean on Ganymede, Jupiter's largest moon. The subterranean ocean is thought to have more water than all the water on Earth's surface....
 
 #### Factsheet
 >factsheet unavailable

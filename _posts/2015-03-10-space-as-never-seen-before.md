@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Space centres seen through the eyes of photographer Edgar Martins thanks to a partnership with ESA
-	
+>Space centres seen through the eyes of photographer Edgar Martins thanks to a partnership with ESA...
 
 #### Factsheet
 >factsheet unavailable

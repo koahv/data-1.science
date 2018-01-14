@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Rochester Institute of Technology) Research being done at Rochester Institute of Technology to refine lab-on-chip devices -- highly sophisticated laboratories on microchips -- will provide more detailed and timely information to detect diseases such as cancer.
+>(Rochester Institute of Technology) Research being done at Rochester Institute of Technology to refine lab-on-chip devices -- highly sophisticated laboratories on microchips -- will provide more detailed and timely information to detect diseases such as cancer....
 
 #### Factsheet
 >factsheet unavailable

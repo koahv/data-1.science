@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Human spaceflight and robotic exploration image of the week: A lentil root grown on the International Space Station
-	
+>Human spaceflight and robotic exploration image of the week: A lentil root grown on the International Space Station...
 
 #### Factsheet
 >factsheet unavailable

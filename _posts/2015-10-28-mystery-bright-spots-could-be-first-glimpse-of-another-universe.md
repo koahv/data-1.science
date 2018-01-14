@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Light given off by hydrogen shortly after the big bang has left some unexplained bright patches in space. Are they evidence of bumping into another universe?
+>Light given off by hydrogen shortly after the big bang has left some unexplained bright patches in space. Are they evidence of bumping into another universe?...
 
 #### Factsheet
 >factsheet unavailable

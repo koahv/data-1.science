@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The dawn of the Animal Kingdom began with a collagen scaffold that enabled the organization of cells into tissues, scientists report in a new article. 
+>The dawn of the Animal Kingdom began with a collagen scaffold that enabled the organization of cells into tissues, scientists report in a new article....
 
 #### Factsheet
 >factsheet unavailable

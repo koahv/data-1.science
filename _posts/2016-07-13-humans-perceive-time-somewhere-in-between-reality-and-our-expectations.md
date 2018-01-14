@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(University of Birmingham) New research, using a Bayesian inference model of audio and visual stimuli, has shown how our perception of time lies mid-way between reality and our expectations.
+>(University of Birmingham) New research, using a Bayesian inference model of audio and visual stimuli, has shown how our perception of time lies mid-way between reality and our expectations....
 
 #### Factsheet
 >factsheet unavailable

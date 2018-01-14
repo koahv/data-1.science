@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Amazon Web Services has seemingly found open source religion over the past several months, including in the field of artificial intelligence.
+>Amazon Web Services has seemingly found open source religion over the past several months, including in the field of artificial intelligence....
 
 #### Factsheet
 >factsheet unavailable

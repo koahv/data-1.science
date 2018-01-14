@@ -9,7 +9,7 @@ tags: [earth sciences]
 
 
 #### Extract
->Covering 70% of the planet, the oceans are directly linked to our weather and climate. They are also essential for global transport and provide a wealth of resources.
+>Covering 70% of the planet, the oceans are directly linked to our weather and climate. They are also essential for global transport and provide a wealth of resources....
 
 #### Factsheet
 >factsheet unavailable

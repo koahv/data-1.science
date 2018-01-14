@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Earth observation image of the week: A Sentinel-2A image of Salar de Atacama, Chile
-	
+>Earth observation image of the week: A Sentinel-2A image of Salar de Atacama, Chile...
 
 #### Factsheet
 >factsheet unavailable

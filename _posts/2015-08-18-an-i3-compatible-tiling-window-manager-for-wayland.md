@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Sway is an open-source tiling window manager that supports Wayland and is fully-compatible with the i3 configuration files...
+>Sway is an open-source tiling window manager that supports Wayland and is fully-compatible with the i3 configuration files......
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [quantum physics]
 
 
 #### Extract
->Scientists from the Russian Quantum Center (Moscow), lead by Prof. Alexander Lvovsky, have developed a method to restore quantum entanglement and have tested this method in an experiment. This research significantly broadens the possibilities of quantum communication and quantum cryptography. The results are published in Nature Photonics.
+>Scientists from the Russian Quantum Center (Moscow), lead by Prof. Alexander Lvovsky, have developed a method to restore quantum entanglement and have tested this method in an experiment. This research significantly broadens the possibilities of quantum communication and quantum cryptography. The results are published in Nature Photonics....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Christian Science MonitorCuriosity update: One Mars Year! Sols 662-670The Planetary Society (blog)On Monday JPL put out a press release marking one year since Curiosity landed -- one Mars year, that is! A Mars year has 669 Mars days (687 Earth days). Curiosity landed on sol 0. So the end of sol 668 marked one trip around the Sun for Curiosity&#39;s ...Was Mars once cold and wet? Scientists see evidence of Mt. Sharp glaciers.Christian Science MonitorZoom Around Curiosity&#39;s View on Mars with a New Interactive PanoramaUniverse TodayNASA&#39;s Mars Rover Opportunity explores aluminum mineral rich area on MarsClarksville OnlineAir & Space Magazine&nbsp;-HITCall 47 news articles&nbsp;&raquo;
+>Christian Science MonitorCuriosity update: One Mars Year! Sols 662-670The Planetary Society (blog)On Monday JPL put out a press release marking one year since Curiosity landed -- one Mars year, that is! A Mars year has 669 Mars days (687 Earth days). Curiosity landed on sol 0. So the end of sol 668 marked one trip around the Sun for Curiosity&#39;s ...Was Mars once cold and wet? Scientists see evidence of Mt. Sharp glaciers.Christian Science MonitorZoom Around Curiosity&#39;s View on Mars with a New Interactive PanoramaUniverse TodayNASA&#39;s Mars Rover Opportunity explores aluminum mineral rich area on MarsClarksville OnlineAir & Space Magazine&nbsp;-HITCall 47 news articles&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->It’s truly small-scale work. But researchers in nanomedicine – the study, development and application of materials under 100 nanometers in size to diagnose and treat disease – are making some big-time advances. 
+>It’s truly small-scale work. But researchers in nanomedicine – the study, development and application of materials under 100 nanometers in size to diagnose and treat disease – are making some big-time advances....
 
 #### Factsheet
 >factsheet unavailable

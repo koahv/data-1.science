@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->A new kind of spacecraft that sails on sunlight has just been successfully deployed above Earth. The LightSail satellite yesterday overcame a series of glitches to unfurl its solar sails, a propulsion system that's entirely different to traditional rockets, thrusters or even solar panels.
+>A new kind of spacecraft that sails on sunlight has just been successfully deployed above Earth. The LightSail satellite yesterday overcame a series of glitches to unfurl its solar sails, a propulsion system that's entirely different to traditional rockets, thrusters or even solar panels....
 
 #### Factsheet
 >factsheet unavailable

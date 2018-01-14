@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;ZDnet: s2n, with its mere 6,000 lines of code, focuses only on encryption.
+>&nbsp;ZDnet: s2n, with its mere 6,000 lines of code, focuses only on encryption....
 
 #### Factsheet
 >factsheet unavailable

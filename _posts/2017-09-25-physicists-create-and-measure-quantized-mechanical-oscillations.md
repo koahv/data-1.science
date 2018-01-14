@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Techniques could lead to better quantum-information networks
+>Techniques could lead to better quantum-information networks...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The bats use the way the sun's light is scattered in the atmosphere at sunset to calibrate their internal magnetic compass, which helps them to fly in the right direction, a new study has shown.
+>The bats use the way the sun's light is scattered in the atmosphere at sunset to calibrate their internal magnetic compass, which helps them to fly in the right direction, a new study has shown....
 
 #### Factsheet
 >factsheet unavailable

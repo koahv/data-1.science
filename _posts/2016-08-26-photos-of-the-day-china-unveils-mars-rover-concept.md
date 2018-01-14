@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsChina released conceptual renderings of its Mars rover this week. The country hopes to send the rover to Mars in mid-2020 for a three-month exploration and research project. State news agency Xinhua said the 441 pound ...Staff Author:&nbsp;Sheri Kasprzak
+>NewsChina released conceptual renderings of its Mars rover this week. The country hopes to send the rover to Mars in mid-2020 for a three-month exploration and research project. State news agency Xinhua said the 441 pound ...Staff Author:&nbsp;Sheri Kasprzak...
 
 #### Factsheet
 >factsheet unavailable

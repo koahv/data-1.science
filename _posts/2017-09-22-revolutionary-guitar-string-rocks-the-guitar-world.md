@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->A revolutionary guitar string developed at the University of St Andrews has struck a chord with some of the greats of the music world.
+>A revolutionary guitar string developed at the University of St Andrews has struck a chord with some of the greats of the music world....
 
 #### Factsheet
 >factsheet unavailable

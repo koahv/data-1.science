@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Named for the astronomer who pinpointed Earth’s true position in the Solar System, the Galileo satellite navigation system that will help Europe find its way in the 21st century now has 14 satellites in orbit after today’s double launch.
-
-	
+>Named for the astronomer who pinpointed Earth’s true position in the Solar System, the Galileo satellite navigation system that will help Europe find its way in the 21st century now has 14 satellites in orbit after today’s double launch....
 
 #### Factsheet
 >factsheet unavailable

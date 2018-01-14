@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->(Phys.org) —Last week, the U.S. Department of Energy's Office of Science and the National Science Foundation announced support for a suite of upcoming experiments to search for dark matter that will be many times more sensitive than those currently deployed.
+>(Phys.org) —Last week, the U.S. Department of Energy's Office of Science and the National Science Foundation announced support for a suite of upcoming experiments to search for dark matter that will be many times more sensitive than those currently deployed....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Physicists have used a new quantum model to reveal the molecular structure of water's liquid surface.
+>Physicists have used a new quantum model to reveal the molecular structure of water's liquid surface....
 
 #### Factsheet
 >factsheet unavailable

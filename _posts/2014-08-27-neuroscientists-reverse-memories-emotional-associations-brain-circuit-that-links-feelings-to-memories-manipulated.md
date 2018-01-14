@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Most memories have some kind of emotion associated with them: Recalling the week you just spent at the beach probably makes you feel happy, while reflecting on being bullied provokes more negative feelings. A new study from neuroscientists reveals the brain circuit that controls how memories become linked with positive or negative emotions.
+>Most memories have some kind of emotion associated with them: Recalling the week you just spent at the beach probably makes you feel happy, while reflecting on being bullied provokes more negative feelings. A new study from neuroscientists reveals the brain circuit that controls how memories become linked with positive or negative emotions....
 
 #### Factsheet
 >factsheet unavailable

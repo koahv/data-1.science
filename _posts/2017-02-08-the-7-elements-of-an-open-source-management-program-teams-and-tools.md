@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;The 7 Elements of an Open Source Management Program: Teams and Tools8 FebLearn more
+>Title:&nbsp;The 7 Elements of an Open Source Management Program: Teams and Tools8 FebLearn more...
 
 #### Factsheet
 >factsheet unavailable

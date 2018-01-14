@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Using ultracold atoms trapped in light crystals, scientists have observed a novel state of matter that never thermalizes.
+>Using ultracold atoms trapped in light crystals, scientists have observed a novel state of matter that never thermalizes....
 
 #### Factsheet
 >factsheet unavailable

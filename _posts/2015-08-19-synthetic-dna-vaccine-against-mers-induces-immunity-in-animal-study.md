@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A novel synthetic DNA vaccine can, for the first time, induce protective immunity against the Middle East Respiratory Syndrome (MERS) coronavirus in animal species. The experimental, preventive vaccine, given six weeks before exposure to the MERS virus, was found to fully protect rhesus macaques from disease. 
+>A novel synthetic DNA vaccine can, for the first time, induce protective immunity against the Middle East Respiratory Syndrome (MERS) coronavirus in animal species. The experimental, preventive vaccine, given six weeks before exposure to the MERS virus, was found to fully protect rhesus macaques from disease....
 
 #### Factsheet
 >factsheet unavailable

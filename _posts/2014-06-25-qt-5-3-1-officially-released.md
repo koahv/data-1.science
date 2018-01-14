@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The first point release to Qt 5.3 has been released by Digia...
+>The first point release to Qt 5.3 has been released by Digia......
 
 #### Factsheet
 >factsheet unavailable

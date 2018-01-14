@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A half-decade ago the Debian project switched from GLIBC to EGLIBC as their standard C library. Debian is now reverting course and switching back to GLIBC...
+>A half-decade ago the Debian project switched from GLIBC to EGLIBC as their standard C library. Debian is now reverting course and switching back to GLIBC......
 
 #### Factsheet
 >factsheet unavailable

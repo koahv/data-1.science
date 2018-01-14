@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Austrian Research Centre of Industrial Biotechnology (ACIB)) New method allows production of expensive grapefruit aroma Nootkatone biotechnologically from cheap sugar using a 'turbo-yeast.' The versatile, healthy and tasty substance is used in soft drinks, pharmaceutical products or even as an insect repellent.
+>(Austrian Research Centre of Industrial Biotechnology (ACIB)) New method allows production of expensive grapefruit aroma Nootkatone biotechnologically from cheap sugar using a 'turbo-yeast.' The versatile, healthy and tasty substance is used in soft drinks, pharmaceutical products or even as an insect repellent....
 
 #### Factsheet
 >factsheet unavailable

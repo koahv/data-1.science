@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Princeton  University) An international team led by Princeton University scientists has discovered Weyl fermions, elusive massless particles theorized 85 years ago that could give rise to faster and more efficient electronics because of their unusual ability to behave as matter and antimatter inside a crystal.
+>(Princeton University) An international team led by Princeton University scientists has discovered Weyl fermions, elusive massless particles theorized 85 years ago that could give rise to faster and more efficient electronics because of their unusual ability to behave as matter and antimatter inside a crystal....
 
 #### Factsheet
 >factsheet unavailable

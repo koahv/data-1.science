@@ -9,7 +9,7 @@ tags: [nature & environment]
 
 
 #### Extract
->Researchers have uncovered a collection of ancient skulls in a cave that have both Neanderthal-derived features and features associated with more primitive humans. The findings shed a bit more light on the history of Neanderthal evolution.
+>Researchers have uncovered a collection of ancient skulls in a cave that have both Neanderthal-derived features and features associated with more primitive humans. The findings shed a bit more light on the history of Neanderthal evolution....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,11 +9,7 @@ tags: [software]
 
 
 #### Extract
->
-			
-			AWS and Microsoft have announced the availability of Gluon, an open source deep learning library for building AI neural networks. Gluon will make it easier for researchers to define machine learning models using a collection of prebuilt, optimized neural network components. The interface will enable software developers and enterprise users to manipulate machine learning models like any other data structures. Gluon also will enable data scientists and researchers to build prototypes quickly.
-			
-			
+>AWS and Microsoft have announced the availability of Gluon, an open source deep learning library for building AI neural networks. Gluon will make it easier for researchers to define machine learning models using a collection of prebuilt, optimized neural network components. The interface will enable software developers and enterprise users to manipulate machine learning models like any other data structures. Gluon also will enable data scientists and researchers to build prototypes quickly....
 
 #### Factsheet
 >factsheet unavailable

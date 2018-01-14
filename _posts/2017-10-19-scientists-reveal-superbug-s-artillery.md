@@ -9,7 +9,7 @@ tags: [cell & microbiology]
 
 
 #### Extract
->Monash University's Biomedicine Discovery Institute (BDI) researchers have created the first high-resolution structure depicting a crucial part of the 'superbug' Pseudomonas aeruginosa, classified by the WHO as having the highest level threat to human health. The image identifies the 'nanomachine' used by the highly virulent bacteria to secrete toxins, pointing the way for drug design targeting this.
+>Monash University's Biomedicine Discovery Institute (BDI) researchers have created the first high-resolution structure depicting a crucial part of the 'superbug' Pseudomonas aeruginosa, classified by the WHO as having the highest level threat to human health. The image identifies the 'nanomachine' used by the highly virulent bacteria to secrete toxins, pointing the way for drug design targeting this....
 
 #### Factsheet
 >factsheet unavailable

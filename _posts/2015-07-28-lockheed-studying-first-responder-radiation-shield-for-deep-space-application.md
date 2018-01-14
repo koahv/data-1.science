@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->StemRad and Lockheed Martin have initiated a joint research and development effort to determine if StemRad’s radiation shielding technology – originally designed for first-responders – could help to keep astronauts safe on deep-space exploration missions.Read more about Lockheed Studying First-Responder Radiation Shield for Deep-Space ApplicationComments
+>StemRad and Lockheed Martin have initiated a joint research and development effort to determine if StemRad’s radiation shielding technology – originally designed for first-responders – could help to keep astronauts safe on deep-space exploration missions.Read more about Lockheed Studying First-Responder Radiation Shield for Deep-Space ApplicationComments...
 
 #### Factsheet
 >factsheet unavailable

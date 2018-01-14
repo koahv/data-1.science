@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Carl R. Woese Institute for Genomic Biology, University of Illinois at Urbana-Champaign) A study by multi-institutional, international collaboration of researchers, published this week in Science presents strong evidence, gleaned from ancient and modern DNA samples, that the ancestry of all Native Americans can be traced back to a single migration event, with subsequent gene flow between some groups and populations that are currently located in East Asia and Australia.
+>(Carl R. Woese Institute for Genomic Biology, University of Illinois at Urbana-Champaign) A study by multi-institutional, international collaboration of researchers, published this week in Science presents strong evidence, gleaned from ancient and modern DNA samples, that the ancestry of all Native Americans can be traced back to a single migration event, with subsequent gene flow between some groups and populations that are currently located in East Asia and Australia....
 
 #### Factsheet
 >factsheet unavailable

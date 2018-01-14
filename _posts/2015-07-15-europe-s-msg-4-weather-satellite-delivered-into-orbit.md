@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-The last weather satellite in Europe’s highly successful Meteosat Second Generation series lifted off on an Ariane 5 launcher at&nbsp;21:42 GMT (23:42 CEST) on 15 July from Europe’s Spaceport in Kourou, French Guiana.
-
-	
+>The last weather satellite in Europe’s highly successful Meteosat Second Generation series lifted off on an Ariane 5 launcher at&nbsp;21:42 GMT (23:42 CEST) on 15 July from Europe’s Spaceport in Kourou, French Guiana....
 
 #### Factsheet
 >factsheet unavailable

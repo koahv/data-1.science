@@ -9,31 +9,7 @@ tags: []
 
 
 #### Extract
-> 
-  
-Astrophysicists are casting doubt on what just recently was deemed a breakthrough in confirming how the universe was born: the observation of gravitational waves that apparently rippled through space right after the Big Bang. If proven to be correctly identified, these waves -- predicted in Albert Einstein's theory of relativity -- would confirm the rapid and violent growth spurt of the universe in the first fraction of a second marking its existence, 13.8 billion years ago.
-The apparent first direct evidence of such so-called cosmic inflation -- a theory that the universe expanded by 100 trillion trillion times in barely the blink of an eye -- made with the help of a telescope called BICEP2, stationed at the South Pole, was announced in March by experts at the Harvard-Smithsonian Center for Astrophysics. The telescope targeted a specific area known as the "Southern Hole" outside the galaxy where there is little dust or extra galactic material to interfere with what humans could see.
-"Detecting this signal is one of the most important goals in cosmology today," John Kovac, leader of the BICEP2 collaboration at the Harvard-Smithsonian Center for Astrophysics, said at the time. By observing the cosmic microwave background, or a faint glow left over from the Big Bang, the scientists said small fluctuations gave them new clues about the conditions in the early universe.
-The gravitational waves rippled through the universe 380,000 years after the Big Bang, and these images were captured by the telescope, they claimed. If confirmed by other experts, some said the work could be a contender for the Nobel Prize.
-But not everyone is convinced of the findings, with skepticism surfacing recently on blogs and scientific US journals such as Science and New Scientist.
-Paul Steinhardt, director of Princeton University's Center for Theoretical Science, addressed the issue in the prestigious British journal Nature in early June. "Serious flaws in the analysis have been revealed that transform the sure detection into no detection," Steinhardt wrote, citing an independent analysis of the BICEP2 findings.
-That analysis was carried out by David Spergel, a theoretical astrophysicist who is also at Princeton. Spergel queried whether what the BICEP2 telescope picked up really came from the first moments of the universe's existence. "What I think, it is not certain whether polarized emissions come from galactic dust or from the early universe," he told AFP.
-"We know that galactic dust emits polarized radiations, we see that in many areas of the sky, and what we pointed out in our paper is that pattern they have seen is just as consistent with the galactic dust radiations as with gravitational waves."
-When using just one frequency, as these scientists did, it is impossible to distinguish between gravitational waves and galactic emissions, Spergel added.
-The question will likely be settled in the coming months when another, competing group, working with the European Space Agency's Planck telescope, publishes its results. The Planck telescope observes a large part of the sky -- versus the BICEP2's two percent -- and carries out measurements in six frequencies, according to Spergel.
-"They should revise their claim," he said of the BICEP2 team. "I think in retrospect, they should have been more careful about making a big announcement." He went on to say that, contrary to normal procedure, there was no external check of the data before it was made public.
-Philipp Mertsch of the Kavli Institute for Particle Astrophysics and Cosmology at Stanford University said data from Planck and another team should be able to "shed more light on whether it is primordial gravitational waves or dust in the Milky Way. Let me stress, however, that what is leaving me (and many of my colleagues) unsatisfied with the state of affairs: If it is polarized dust emission, where is it coming from?" he said in an email to AFP.
-Kovac, an associate professor of astronomy and physics at Harvard, declined to respond to requests for comment. Another member of the team, Jamie Bock of the California Institute of Technology, also declined to be interviewed. At the time of their announcement in March, the scientists said they spent three years analyzing their data to rule out any errors.
-The Daily Galaxy via AFP
-Related articles
-
-Supermassive Black Holes --Are They "Exit Doors from Our Universe"? (Weekend Feature)
-Doubt Grows about Gravitational Waves Detection
-Big Bang blunder bursts the multiverse bubble
-BICEP2: The Dust Thickens...
-"Other Universes are Pulling on Our Universe" -- New Planck Data Triggers Controversy (Today's Most Popular)
-"Farside of the World" --South Pole's Role in the Epic Discovery of Gravitational Waves
-
+>     Astrophysicists are casting doubt on what just recently was deemed a breakthrough in confirming how the universe was born: the observation of gravitational waves that apparently rippled through space right after the Big Bang. If proven to be correctly identified, these waves -- predicted in Albert Einstein's theory of relativity -- would confirm the rapid and violent growth spurt of the universe in the first fraction of a second marking its existence, 13.8 billion years ago. The apparent first direct evidence of such so-called cosmic inflation -- a theory that the universe expanded by 100 trillion trillion times in barely the blink of an eye -- made with the help of a telescope called BICEP2, stationed at the South Pole, was announced in March by experts at the Harvard-Smithsonian Center for Astrophysics. The telescope targeted a specific area known as the "Southern Hole" outside the galaxy where there is little dust or extra galactic material to interfere with what humans coul...
 
 #### Factsheet
 >factsheet unavailable

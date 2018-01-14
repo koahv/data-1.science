@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Europe's 13th and 14th Galileo satellites lifted off by Soyuz on 08:48 GMT - watch replay here
-	
+>Europe's 13th and 14th Galileo satellites lifted off by Soyuz on 08:48 GMT - watch replay here...
 
 #### Factsheet
 >factsheet unavailable

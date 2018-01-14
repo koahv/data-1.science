@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Eight hard-core Git users told us how and why they use the tool for open source software development, along with their favorite tips for using it like a pro. Below are their answers, combined into a handy list of hacks.&nbsp;
+>Eight hard-core Git users told us how and why they use the tool for open source software development, along with their favorite tips for using it like a pro. Below are their answers, combined into a handy list of hacks.&nbsp;...
 
 #### Factsheet
 >factsheet unavailable

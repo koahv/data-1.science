@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(ESO) A European team of astronomers have used the new GRAVITY instrument at ESO's Very Large Telescope to obtain exciting observations of the center of the Milky Way by combining light from all four of the 8.2-meter Unit Telescopes for the first time. These results provide a taste of the groundbreaking science that GRAVITY will produce as it probes the extremely strong gravitational fields close to the central supermassive black hole and tests Einstein's general relativity.
+>(ESO) A European team of astronomers have used the new GRAVITY instrument at ESO's Very Large Telescope to obtain exciting observations of the center of the Milky Way by combining light from all four of the 8.2-meter Unit Telescopes for the first time. These results provide a taste of the groundbreaking science that GRAVITY will produce as it probes the extremely strong gravitational fields close to the central supermassive black hole and tests Einstein's general relativity....
 
 #### Factsheet
 >factsheet unavailable

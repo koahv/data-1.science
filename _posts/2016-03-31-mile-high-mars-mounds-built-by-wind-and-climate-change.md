@@ -9,7 +9,7 @@ tags: [space exploration]
 
 
 #### Extract
->New research has found that wind carved massive mounds of more than a mile high on Mars over billions of years. Their location helps pin down when water on the Red Planet dried up during a global climate change event.
+>New research has found that wind carved massive mounds of more than a mile high on Mars over billions of years. Their location helps pin down when water on the Red Planet dried up during a global climate change event....
 
 #### Factsheet
 >factsheet unavailable

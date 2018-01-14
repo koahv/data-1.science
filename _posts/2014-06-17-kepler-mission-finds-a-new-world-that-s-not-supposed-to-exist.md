@@ -9,42 +9,7 @@ tags: []
 
 
 #### Extract
-> 
-
- 
-Much has changed since Kepler-10b, the so-called lava-Earth, was first discovered. In the last three years our ability to seek, find and identify exoplants has increased exponentially. In the last week of May 2014 alone thirteen exoplanets were added to the NASA archive. Almost a dozen rocky bodies have also been to the dossier and many probably rocky planets have been found, including the 4.8 Earth-mass Kapteyn b, which surprised the scientific community by being ancient, enormous-relative to other rocky bodies known at the time-and in the habitable zone of a star only 13 light years away.
-In Draco the Dragon-the 8th largest constellation in our sky-there exists a solid planet weighing close to 17 times as much as Earth. This announcement rocked the scientific world.
-“We were very surprised when we realized what we had found,” said Dr. Xavier Dumusque of the Harvard-Smithsonian Center for Astrophysics (CfA), who led the analysis that lead to the discovery.
- 
-       
- 
-This is the second time the Kepler-10 system has made space history. The first was in 2011, when Kepler-10b was discovered by the Kepler space telescope. That marked the first certain discovery of a rocky exoplanet in the history of planet-hunting. At that time, astronomers were 99.998% certain that there was another planet nearby. The only estimate at that time for the size of the second planet, Kepler-10c, was 2.2 times the radius of the Earth.
-The properties of Kepler-10, which has at least two inner planets: b and c. Kepler-10b was the first rocky exoplanet ever discovered. 10c is now estimated to be a rocky planet with 17.2 times the mass of the Earth. Credit: NASA/Kepler Mission/Wendy Stenzel
-       
- 
-At 560 light-years away, Kepler-10 is much further than Kapteyn, but is like our Sun in more ways than one.
-“Kepler-10 is a star very much like our own Sun (a G-type Main Sequence star),” said Dr. Natalie Batalha, a Kepler spacecraft Mission Scientist at NASA Ames, “Therefore, the Habitable Zone is going to be beyond 240 day orbital periods (0.75 AU). Kepler-10c orbits interior to what would be Mercury in our own solar system.”
-With a period of 45 days and a close-in orbit, this newly-discovered super-Earth is not within a habitable zone. Neither is the other rocky planet in the system, 10-b, which orbits even closer to Kepler-10, whipping around the star every 20 hours. For the moment, rocky planets with close-in orbits like Kepler-10b and -c are often the best we can find.
-“We currently do not have the technology to see a Doppler signal from an Earth-mass rocky planet orbiting with periods of hundreds of days,” said Batalha, “Even the Kepler-10c signal is on the hairy edge of what’s currently technologically feasible.”
-The discovery of Kepler-10c’s true mass was only possible, in fact, with a significant amount of teamwork.
-The Kepler mission finds planets using something call the transit method. In the transit method, astronomers look for dimming in a star’s brightness caused by the passage of a planet. Astronomers can then calculate the planet’s physical size by measuring the amount of that dimming.
-However, just knowing the physical volume of something-a planet or anything else-isn’t enough to know its mass. Both mass and the volume are needed to determine what kind of exoplanet is being observed: rocky or gassy.
-“We did not know the mass of Kepler-10c before this study,” said Batalha, “All we could say was that the mass had to be smaller than 20 Me.”
-Then along came a helping hand from the HARPS-N instrument in Spain. HARPS-N measures the wobbling of a star due to its planetary companion. As long as the mass of the star is known, the velocity at which it is wobbling can be used to get the mass of the exoplanet.
-“The transit gives you the size (radius) of the planet, but you still need to measure the mass,” said Dimitar Sasselov, Director of the Harvard Origins of Life Initiative at the Harvard-Smithsonian Center for Astrophysics, “HARPS-N allows us to do that by observing the star and its reflex motion (which is very tiny!) due to the pull of Kepler-10c. With both mass and radius (of the planetary sphere, hence its volume) one derives average density.”
-After the HARPS-N was aimed at Kepler-10c, the mass was discovered. With the mass and volume of the exoplanet known, it was determined that Kepler-10c must have a dense composition, including rocks and other solids.
-Prior to discovering that Kepler-10c weighed in at 17.2+/-1.9 Earth masses, the general consensus was that heavy planets necessarily evolve into gas giants. It was believed that once a planet reached a certain mass it would attract gas from the surrounding solar system, much like our own outer planets must have done. Developing a gaseous envelope was therefore the inevitable fate of a planet weighing as much as Kepler-10c-or-so we thought, until we looked again.
-“This is the Godzilla of Earths!” said Sasselov.
-The unique tag-team effort of the Kepler satellite and the HARPS-N instrument was critical to unmasking Kepler-10c’s colossal nature. Very few other exoplanets have had the benefit of sort of study.
-“It is very rare,” said Sasselov, “only 3 exoplanets among the super-Earths and mini-Neptunes have similar high precision in mass determination.”
-As more and more planets are being discovered, and more and more planets are being re-observed, we are discovering that our models may not account for the true nature of the Universe. Kepler-10c is far from the first example of this phenomenon.
-When asked if there any theories that can explain this Mega-Earth, Dumusque said, “No, not at the moment.”
-The Daily Galaxy via http://www.astrobio.net
-Related articles
-
-Image of the Day: Kepler Mission Confirms Existence of 41 New Alien Planets
-Kepler Mission Takes a Step Closer to Finding Habitable Alien Planets
-
+>     Much has changed since Kepler-10b, the so-called lava-Earth, was first discovered. In the last three years our ability to seek, find and identify exoplants has increased exponentially. In the last week of May 2014 alone thirteen exoplanets were added to the NASA archive. Almost a dozen rocky bodies have also been to the dossier and many probably rocky planets have been found, including the 4.8 Earth-mass Kapteyn b, which surprised the scientific community by being ancient, enormous-relative to other rocky bodies known at the time-and in the habitable zone of a star only 13 light years away. In Draco the Dragon-the 8th largest constellation in our sky-there exists a solid planet weighing close to 17 times as much as Earth. This announcement rocked the scientific world. “We were very surprised when we realized what we had found,” said Dr. Xavier Dumusque of the Harvard-Smithsonian Center for Astrophysics (CfA), who led the analysis that lead to the discovery.             Th...
 
 #### Factsheet
 >factsheet unavailable

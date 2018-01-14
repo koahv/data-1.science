@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->International trade with agricultural and wood products is an increasingly important driver of tropical deforestation. More than a third of recent deforestation can be tied to production of beef, soy, palm oil and timber. 'The trend is clear: the drivers of deforestation have been globalized and commercialized,' says one expert.
+>International trade with agricultural and wood products is an increasingly important driver of tropical deforestation. More than a third of recent deforestation can be tied to production of beef, soy, palm oil and timber. 'The trend is clear: the drivers of deforestation have been globalized and commercialized,' says one expert....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [condensed matter]
 
 
 #### Extract
->The observation in a ferroelectric material of "polar vortices" that appear to be the electrical cousins of magnetic skyrmions holds intriguing possibilities for advanced electronic devices. These polar vortices, which were theoretically predicted more than a decade ago, could also "rewrite our basic understanding of ferroelectrics" according to the researchers who observed them.
+>The observation in a ferroelectric material of "polar vortices" that appear to be the electrical cousins of magnetic skyrmions holds intriguing possibilities for advanced electronic devices. These polar vortices, which were theoretically predicted more than a decade ago, could also "rewrite our basic understanding of ferroelectrics" according to the researchers who observed them....
 
 #### Factsheet
 >factsheet unavailable

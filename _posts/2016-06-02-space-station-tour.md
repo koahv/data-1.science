@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Take a narrated tour of the International Space Station in six languages in this video – also available in 3D
-	
+>Take a narrated tour of the International Space Station in six languages in this video – also available in 3D...
 
 #### Factsheet
 >factsheet unavailable

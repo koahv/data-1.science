@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Here's some new GCC compiler benchmarks on Linux x86_64 for your viewing pleasure this weekend...
+>Here's some new GCC compiler benchmarks on Linux x86_64 for your viewing pleasure this weekend......
 
 #### Factsheet
 >factsheet unavailable

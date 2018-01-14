@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->&nbsp;xmodulo: As a command line adventurer, you probably found yourself repeating the same lengthy commands over and over. 
+>&nbsp;xmodulo: As a command line adventurer, you probably found yourself repeating the same lengthy commands over and over....
 
 #### Factsheet
 >factsheet unavailable

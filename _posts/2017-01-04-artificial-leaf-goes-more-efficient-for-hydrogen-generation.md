@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Ulsan National Institute of Science and Technology(UNIST)) A new study, affiliated with Ulsan National Institute of Science and Technology has introduced a new artificial leaf that generates hydrogen, using the power of the Sun to mimic underwater photosynthesis.
+>(Ulsan National Institute of Science and Technology(UNIST)) A new study, affiliated with Ulsan National Institute of Science and Technology has introduced a new artificial leaf that generates hydrogen, using the power of the Sun to mimic underwater photosynthesis....
 
 #### Factsheet
 >factsheet unavailable

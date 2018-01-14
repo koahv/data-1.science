@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Researchers have discovered how two important proofreader proteins know where to look for errors during DNA replication and how they work together to signal the body's repair mechanism. 
+>Researchers have discovered how two important proofreader proteins know where to look for errors during DNA replication and how they work together to signal the body's repair mechanism....
 
 #### Factsheet
 >factsheet unavailable

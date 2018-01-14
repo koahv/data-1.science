@@ -9,7 +9,7 @@ tags: [astronomy & space]
 
 
 #### Extract
->Here on Earth, we are used to the wind shaping our environment over time, forming smooth, sculpted rocks and rippling dunes. In this way, Mars is more similar to Earth than you might expect.
+>Here on Earth, we are used to the wind shaping our environment over time, forming smooth, sculpted rocks and rippling dunes. In this way, Mars is more similar to Earth than you might expect....
 
 #### Factsheet
 >factsheet unavailable

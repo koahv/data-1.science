@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-The first Copernicus mission dedicated to monitoring our atmosphere, Sentinel‑5P, has been launched from the Plesetsk Cosmodrome in northern Russia.
-
-	
+>The first Copernicus mission dedicated to monitoring our atmosphere, Sentinel‑5P, has been launched from the Plesetsk Cosmodrome in northern Russia....
 
 #### Factsheet
 >factsheet unavailable

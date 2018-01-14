@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->World's largest direct-detection experiment will be more than 10&nbsp;times more sensitive than current detectors
+>World's largest direct-detection experiment will be more than 10&nbsp;times more sensitive than current detectors...
 
 #### Factsheet
 >factsheet unavailable

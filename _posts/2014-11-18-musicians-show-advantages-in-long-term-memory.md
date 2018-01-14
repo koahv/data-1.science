@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Psychologists have demonstrated a link between musical training and long-term memory advantages.
+>Psychologists have demonstrated a link between musical training and long-term memory advantages....
 
 #### Factsheet
 >factsheet unavailable

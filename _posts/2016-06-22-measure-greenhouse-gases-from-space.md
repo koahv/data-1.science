@@ -9,7 +9,7 @@ tags: [environment]
 
 
 #### Extract
->Space agencies examine the extent of greenhouse gases in the air via prisms and gratings in satellites. New technology now makes it possible to connect both components with each other so that they are suitable for space thus achieving a new level of quality for spectral resolution.
+>Space agencies examine the extent of greenhouse gases in the air via prisms and gratings in satellites. New technology now makes it possible to connect both components with each other so that they are suitable for space thus achieving a new level of quality for spectral resolution....
 
 #### Factsheet
 >factsheet unavailable

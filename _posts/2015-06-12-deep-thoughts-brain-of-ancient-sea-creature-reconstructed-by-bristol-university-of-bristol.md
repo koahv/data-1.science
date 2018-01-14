@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->University of BristolDeep thoughts: brain of ancient sea creature reconstructed by Bristol ...University of BristolThe world&#39;s first study into the brain anatomy of an ichthyosaur, a marine reptile that lived at the same time as the dinosaurs, has shed light on how the reptilian brain adapted to life in the oceans. The work, led by University of Bristol ...and more&nbsp;&raquo;
+>University of BristolDeep thoughts: brain of ancient sea creature reconstructed by Bristol ...University of BristolThe world&#39;s first study into the brain anatomy of an ichthyosaur, a marine reptile that lived at the same time as the dinosaurs, has shed light on how the reptilian brain adapted to life in the oceans. The work, led by University of Bristol ...and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,8 +9,7 @@ tags: []
 
 
 #### Extract
->
-                        We knew the dwarf planet had weather systems, but here's the first evidence from the New Horizons probe of clouds in Pluto's atmosphere                    
+>We knew the dwarf planet had weather systems, but here's the first evidence from the New Horizons probe of clouds in Pluto's atmosphere...
 
 #### Factsheet
 >factsheet unavailable

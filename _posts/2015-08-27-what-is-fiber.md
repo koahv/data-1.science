@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Dietary fiber is a plant-based nutrient that is sometimes called roughage or bulk. Fiber is important to digestion and regularity, weight management, blood sugar regulation, cholesterol maintenance and more.
+>Dietary fiber is a plant-based nutrient that is sometimes called roughage or bulk. Fiber is important to digestion and regularity, weight management, blood sugar regulation, cholesterol maintenance and more....
 
 #### Factsheet
 >factsheet unavailable

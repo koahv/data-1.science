@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->In November of 2014, in a first, unexpected move for the field of particle physics, the Compact Muon Solenoid (CMS) experiment—one of the main detectors in the world's largest particle accelerator, the Large Hadron Collider—released to the public an immense amount of data, through a website called the CERN Open Data Portal.
+>In November of 2014, in a first, unexpected move for the field of particle physics, the Compact Muon Solenoid (CMS) experiment—one of the main detectors in the world's largest particle accelerator, the Large Hadron Collider—released to the public an immense amount of data, through a website called the CERN Open Data Portal....
 
 #### Factsheet
 >factsheet unavailable

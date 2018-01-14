@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-Ten spacecraft, from ESA’s Venus Express to NASA’s Voyager-2, felt the effect of a solar eruption as it washed through the Solar System while three other satellites watched, providing a unique perspective on this space weather event.
-
-	
+>Ten spacecraft, from ESA’s Venus Express to NASA’s Voyager-2, felt the effect of a solar eruption as it washed through the Solar System while three other satellites watched, providing a unique perspective on this space weather event....
 
 #### Factsheet
 >factsheet unavailable

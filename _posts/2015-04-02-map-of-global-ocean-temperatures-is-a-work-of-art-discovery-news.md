@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Discovery NewsMap of Global Ocean Temperatures Is a Work of ArtDiscovery NewsA new global map of the world&#39;s oceans is so visually stunning that it could be mistaken for art. The paintlike swirls of the visualization, which was released earlier this month by Los Alamos National Laboratory, depict global water surface temperatures.and more&nbsp;&raquo;
+>Discovery NewsMap of Global Ocean Temperatures Is a Work of ArtDiscovery NewsA new global map of the world&#39;s oceans is so visually stunning that it could be mistaken for art. The paintlike swirls of the visualization, which was released earlier this month by Los Alamos National Laboratory, depict global water surface temperatures.and more&nbsp;&raquo;...
 
 #### Factsheet
 >factsheet unavailable

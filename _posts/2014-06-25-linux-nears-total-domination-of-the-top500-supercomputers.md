@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->It's always been fun watching&nbsp;Linux claim a bit more of the Top500&nbsp;with each successive ranking of the world's most powerful supercomputers, but with this week's release of the Top500 list's&nbsp;43rd&nbsp;edition, it's beginning to look like the free and open source operating system is getting pretty close to complete domination.
+>It's always been fun watching&nbsp;Linux claim a bit more of the Top500&nbsp;with each successive ranking of the world's most powerful supercomputers, but with this week's release of the Top500 list's&nbsp;43rd&nbsp;edition, it's beginning to look like the free and open source operating system is getting pretty close to complete domination....
 
 #### Factsheet
 >factsheet unavailable

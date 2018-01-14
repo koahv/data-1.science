@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The advent of super-resolved microscopy with visible light won this year's chemistry Nobel. Scientists have now discovered how to make nanoscale images even sharper.
+>The advent of super-resolved microscopy with visible light won this year's chemistry Nobel. Scientists have now discovered how to make nanoscale images even sharper....
 
 #### Factsheet
 >factsheet unavailable

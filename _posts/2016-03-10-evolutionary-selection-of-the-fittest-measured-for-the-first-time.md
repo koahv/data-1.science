@@ -9,7 +9,7 @@ tags: [evolution]
 
 
 #### Extract
->A difference of one hundredth of a percent in fitness is sufficient to select between winners and losers in evolution. For the first time researchers have quantified the tiny selective forces that shape bacterial genomes. The story is published today in the prestigious journal PLoS Genetics.
+>A difference of one hundredth of a percent in fitness is sufficient to select between winners and losers in evolution. For the first time researchers have quantified the tiny selective forces that shape bacterial genomes. The story is published today in the prestigious journal PLoS Genetics....
 
 #### Factsheet
 >factsheet unavailable

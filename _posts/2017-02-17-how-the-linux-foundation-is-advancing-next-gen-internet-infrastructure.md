@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;How The Linux Foundation is Advancing Next-Gen Internet Infrastructure17 FebLearn more
+>Title:&nbsp;How The Linux Foundation is Advancing Next-Gen Internet Infrastructure17 FebLearn more...
 
 #### Factsheet
 >factsheet unavailable

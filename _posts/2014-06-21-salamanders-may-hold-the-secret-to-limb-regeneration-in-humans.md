@@ -9,7 +9,7 @@ tags: [health & medicine]
 
 
 #### Extract
->Scientists have taken a closer look at a salamander's secret of regrowing body parts in order to potentially apply it to humans.
+>Scientists have taken a closer look at a salamander's secret of regrowing body parts in order to potentially apply it to humans....
 
 #### Factsheet
 >factsheet unavailable

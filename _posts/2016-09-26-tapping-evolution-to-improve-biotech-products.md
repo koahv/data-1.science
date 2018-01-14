@@ -9,7 +9,7 @@ tags: [biotechnology]
 
 
 #### Extract
->Scientists can improve protein-based drugs by reaching into the evolutionary past, a paper published in Nature Biotechnology proposes.
+>Scientists can improve protein-based drugs by reaching into the evolutionary past, a paper published in Nature Biotechnology proposes....
 
 #### Factsheet
 >factsheet unavailable

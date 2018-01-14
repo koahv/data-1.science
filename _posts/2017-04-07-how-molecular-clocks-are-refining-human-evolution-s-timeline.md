@@ -9,7 +9,7 @@ tags: [evolution]
 
 
 #### Extract
->DNA holds the story of our ancestry – how we're related to the familiar faces at family reunions as well as more ancient affairs: how we're related to our closest nonhuman relatives, chimpanzees; how Homo sapiens mated with Neanderthals; and how people migrated out of Africa, adapting to new environments and lifestyles along the way. And our DNA  also holds clues about the timing of these key events in human evolution.
+>DNA holds the story of our ancestry – how we're related to the familiar faces at family reunions as well as more ancient affairs: how we're related to our closest nonhuman relatives, chimpanzees; how Homo sapiens mated with Neanderthals; and how people migrated out of Africa, adapting to new environments and lifestyles along the way. And our DNA also holds clues about the timing of these key events in human evolution....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [physics]
 
 
 #### Extract
->Vacuum fluctuations may be among the most counter-intuitive phenomena of quantum physics. Theorists from the Weizmann Institute (Rehovot, Israel) and the Vienna University of Technology propose a way to amplify their force.
+>Vacuum fluctuations may be among the most counter-intuitive phenomena of quantum physics. Theorists from the Weizmann Institute (Rehovot, Israel) and the Vienna University of Technology propose a way to amplify their force....
 
 #### Factsheet
 >factsheet unavailable

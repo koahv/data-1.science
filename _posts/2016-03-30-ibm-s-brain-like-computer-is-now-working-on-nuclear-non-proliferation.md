@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->NewsAn IBM computer modeled after the human nervous system has been sold to the Lawrence Livermore National Laboratories (LLNL) in order to work on nuclear deterrence and digital security issues around nuclear weapons...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;R&amp;D
+>NewsAn IBM computer modeled after the human nervous system has been sold to the Lawrence Livermore National Laboratories (LLNL) in order to work on nuclear deterrence and digital security issues around nuclear weapons...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;R&amp;D...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-								
-		
-ESA’s ice mission has become the first satellite to provide information on Arctic sea-ice thickness in near-real time to aid maritime activities in the polar region.
-
-	
+>ESA’s ice mission has become the first satellite to provide information on Arctic sea-ice thickness in near-real time to aid maritime activities in the polar region....
 
 #### Factsheet
 >factsheet unavailable

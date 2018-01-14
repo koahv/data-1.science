@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->The private space firm owned by Amazon boss Jeff Bezos is the first to launch and land the same rocket – beating rival SpaceX to the punch
+>The private space firm owned by Amazon boss Jeff Bezos is the first to launch and land the same rocket – beating rival SpaceX to the punch...
 
 #### Factsheet
 >factsheet unavailable

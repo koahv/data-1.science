@@ -9,8 +9,7 @@ tags: []
 
 
 #### Extract
->eWeek shares a slideshow of notable data from the recent Linux Development Report
-Read More
+>eWeek shares a slideshow of notable data from the recent Linux Development Report Read More...
 
 #### Factsheet
 >factsheet unavailable

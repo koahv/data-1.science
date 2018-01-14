@@ -9,9 +9,7 @@ tags: []
 
 
 #### Extract
->AWS has launched a new Linux Container Image in response to customer demand, designed for use with cloud and on-premise workloads.
-Linux AMI is a secure environment for firing up applications running on EC2, but due to customer demand, AWS has now made the image available for on-premise as well as cloud infrastructures, addressing more businesses' needs.
-"Many of our customers have asked us to make this Linux image available for use on-premises, often as part of their development and testing workloads," Jeff Barr, chief evangelist for AWS, said.
+>AWS has launched a new Linux Container Image in response to customer demand, designed for use with cloud and on-premise workloads. Linux AMI is a secure environment for firing up applications running on EC2, but due to customer demand, AWS has now made the image available for on-premise as well as cloud infrastructures, addressing more businesses' needs. "Many of our customers have asked us to make this Linux image available for use on-premises, often as part of their development and testing workloads," Jeff Barr, chief evangelist for AWS, said....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NOAA Fisheries West Coast Region) As the largest animals to have ever lived on Earth, blue whales maintain their enormous body size through efficient foraging strategies that optimize the energy they gain from the krill they eat, while also conserving oxygen when diving and holding their breath, a new study has found.
+>(NOAA Fisheries West Coast Region) As the largest animals to have ever lived on Earth, blue whales maintain their enormous body size through efficient foraging strategies that optimize the energy they gain from the krill they eat, while also conserving oxygen when diving and holding their breath, a new study has found....
 
 #### Factsheet
 >factsheet unavailable

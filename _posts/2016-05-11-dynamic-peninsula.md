@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Presented at the Living Planet Symposium, this map uses radar images from Sentinel-1A to show that Antarctic Peninsula ice flows up to a metre per day
-	
+>Presented at the Living Planet Symposium, this map uses radar images from Sentinel-1A to show that Antarctic Peninsula ice flows up to a metre per day...
 
 #### Factsheet
 >factsheet unavailable

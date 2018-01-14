@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A scientific plan to measure the ocean's carbon cycle has been developed, including a way to predict its future conditions, which have implications for climate change. 
+>A scientific plan to measure the ocean's carbon cycle has been developed, including a way to predict its future conditions, which have implications for climate change....
 
 #### Factsheet
 >factsheet unavailable

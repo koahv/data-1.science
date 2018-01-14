@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->A new nanochip prototype can detect explosives in the air at concentrations of few molecules per 1,000 trillion.
+>A new nanochip prototype can detect explosives in the air at concentrations of few molecules per 1,000 trillion....
 
 #### Factsheet
 >factsheet unavailable

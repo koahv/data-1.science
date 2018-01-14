@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Harvard University) Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences have designed the first on-chip metamaterial with a refractive index of zero, meaning that the phase of light can travel infinitely fast.
+>(Harvard University) Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences have designed the first on-chip metamaterial with a refractive index of zero, meaning that the phase of light can travel infinitely fast....
 
 #### Factsheet
 >factsheet unavailable

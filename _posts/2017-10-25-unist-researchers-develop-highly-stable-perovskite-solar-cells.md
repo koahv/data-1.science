@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Ulsan National Institute of Science and Technology(UNIST)) South Korea's Ulsan Nationl Institute of Science and Technology has recently introduced a highly stable perovskite solar cells (PSCs).
+>(Ulsan National Institute of Science and Technology(UNIST)) South Korea's Ulsan Nationl Institute of Science and Technology has recently introduced a highly stable perovskite solar cells (PSCs)....
 
 #### Factsheet
 >factsheet unavailable

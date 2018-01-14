@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Hiroshima University) Researchers in Japan and China identified the requirements for the development of new types of extremely low power consumption electric devices by studying thin films made of Cr-doped (Sb, Bi)2Te3. At extremely low temperatures, an electric current flows around the edge of the film without energy loss owing to ferromagnetism. The research group proved that the atoms of non-magnetic elements such as Sb atoms and Te atoms are key to the material's ferromagnetism.
+>(Hiroshima University) Researchers in Japan and China identified the requirements for the development of new types of extremely low power consumption electric devices by studying thin films made of Cr-doped (Sb, Bi)2Te3. At extremely low temperatures, an electric current flows around the edge of the film without energy loss owing to ferromagnetism. The research group proved that the atoms of non-magnetic elements such as Sb atoms and Te atoms are key to the material's ferromagnetism....
 
 #### Factsheet
 >factsheet unavailable

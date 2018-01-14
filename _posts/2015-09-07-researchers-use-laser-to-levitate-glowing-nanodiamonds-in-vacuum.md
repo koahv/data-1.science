@@ -9,7 +9,7 @@ tags: [optics & photonics]
 
 
 #### Extract
->Researchers have, for the first time, levitated individual nanodiamonds in vacuum. The research team is led by Nick Vamivakas at the University of Rochester who thinks their work will make extremely sensitive instruments for sensing tiny forces and torques possible, as well as a way to physically create larger-scale quantum systems known as macroscopic Schrödinger Cat states.
+>Researchers have, for the first time, levitated individual nanodiamonds in vacuum. The research team is led by Nick Vamivakas at the University of Rochester who thinks their work will make extremely sensitive instruments for sensing tiny forces and torques possible, as well as a way to physically create larger-scale quantum systems known as macroscopic Schrödinger Cat states....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->An astronomer has published the results of the comparison of his model of Titan's atmosphere with the latest data.
+>An astronomer has published the results of the comparison of his model of Titan's atmosphere with the latest data....
 
 #### Factsheet
 >factsheet unavailable

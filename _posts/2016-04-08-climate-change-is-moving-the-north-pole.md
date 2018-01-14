@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->As ice melts and aquifers are drained, Earth's distribution of mass is changing—and with it the position of the planet's spin axis.
+>As ice melts and aquifers are drained, Earth's distribution of mass is changing—and with it the position of the planet's spin axis....
 
 #### Factsheet
 >factsheet unavailable

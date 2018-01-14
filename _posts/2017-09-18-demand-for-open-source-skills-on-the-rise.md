@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Title:&nbsp;Demand for Open Source Skills on the Rise18 SepLearn more
+>Title:&nbsp;Demand for Open Source Skills on the Rise18 SepLearn more...
 
 #### Factsheet
 >factsheet unavailable

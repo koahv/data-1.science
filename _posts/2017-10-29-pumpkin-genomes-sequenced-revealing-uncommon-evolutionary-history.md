@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Boyce Thompson Institute) For some, pumpkins conjure carved Halloween decorations, but for many people around the world, these gourds provide nutrition. Scientists at Boyce Thompson Institute (BTI) and the National Engineering Research Center for Vegetables in Beijing have sequenced the genomes of two important pumpkin species, Cucurbita maxima and Cucurbita moschata.
+>(Boyce Thompson Institute) For some, pumpkins conjure carved Halloween decorations, but for many people around the world, these gourds provide nutrition. Scientists at Boyce Thompson Institute (BTI) and the National Engineering Research Center for Vegetables in Beijing have sequenced the genomes of two important pumpkin species, Cucurbita maxima and Cucurbita moschata....
 
 #### Factsheet
 >factsheet unavailable

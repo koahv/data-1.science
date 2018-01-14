@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(Wellcome Trust Sanger Institute) For the first time, researchers at the Wellcome Trust Sanger Institute have been able to directly estimate the Anglo-Saxon ancestry of the British population, using ancient skeletons. Human remains excavated from burial sites near Cambridge provided the material for the first whole-genome sequences of ancient British DNA. The study estimated that approximately a third of British ancestors were Anglo-Saxon immigrants, showing how Anglo-Saxon immigrants mixed with the native population.
+>(Wellcome Trust Sanger Institute) For the first time, researchers at the Wellcome Trust Sanger Institute have been able to directly estimate the Anglo-Saxon ancestry of the British population, using ancient skeletons. Human remains excavated from burial sites near Cambridge provided the material for the first whole-genome sequences of ancient British DNA. The study estimated that approximately a third of British ancestors were Anglo-Saxon immigrants, showing how Anglo-Saxon immigrants mixed with the native population....
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [general physics]
 
 
 #### Extract
->Today, CERN Control Centre operators announced good news, the Large Hadron Collider (LHC) has successfully met its production target for 2017, delivering more than 45 inverse femtobarns to the experiments.
+>Today, CERN Control Centre operators announced good news, the Large Hadron Collider (LHC) has successfully met its production target for 2017, delivering more than 45 inverse femtobarns to the experiments....
 
 #### Factsheet
 >factsheet unavailable

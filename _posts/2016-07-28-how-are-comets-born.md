@@ -9,12 +9,7 @@ tags: []
 
 
 #### Extract
->
-							
-				
-		
-		Rosetta paints comets as ancient leftovers of the early Solar System, not young fragments born from collisions
-	
+>Rosetta paints comets as ancient leftovers of the early Solar System, not young fragments born from collisions...
 
 #### Factsheet
 >factsheet unavailable

@@ -9,7 +9,7 @@ tags: [earth]
 
 
 #### Extract
->The fossils of marine species that went extinct millions of years ago are offering insight into species that may be at risk for extinction today, as well as "hotspots" where that extinction risk may be even greater.
+>The fossils of marine species that went extinct millions of years ago are offering insight into species that may be at risk for extinction today, as well as "hotspots" where that extinction risk may be even greater....
 
 #### Factsheet
 >factsheet unavailable

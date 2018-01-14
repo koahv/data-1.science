@@ -9,7 +9,7 @@ tags: [quantum physics]
 
 
 #### Extract
->Caltech applied scientists have developed a new way to simulate large-scale motion numerically using the mathematics that govern the universe at the quantum level.
+>Caltech applied scientists have developed a new way to simulate large-scale motion numerically using the mathematics that govern the universe at the quantum level....
 
 #### Factsheet
 >factsheet unavailable

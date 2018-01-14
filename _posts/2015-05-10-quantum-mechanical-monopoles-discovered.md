@@ -9,13 +9,7 @@ tags: []
 
 
 #### Extract
->
-Espoo, Finland (SPX) May 09, 2015
-
-
-Researchers at Aalto University (Finland) and Amherst College (USA) have observed a point-like monopole in a quantum field itself for the first time. This discovery connects to important characteristics of the elusive monopole magnet. The results were just published in Science magazine. 
-
-The researchers performed an experiment in which they manipulated a gas of rubidium atoms prepared in a 
+>Espoo, Finland (SPX) May 09, 2015 Researchers at Aalto University (Finland) and Amherst College (USA) have observed a point-like monopole in a quantum field itself for the first time. This discovery connects to important characteristics of the elusive monopole magnet. The results were just published in Science magazine. The researchers performed an experiment in which they manipulated a gas of rubidium atoms prepared in a...
 
 #### Factsheet
 >factsheet unavailable

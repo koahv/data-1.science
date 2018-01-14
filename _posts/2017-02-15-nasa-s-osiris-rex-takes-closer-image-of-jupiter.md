@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) During Earth-Trojan asteroid search operations, the PolyCam imager aboard NASA's OSIRIS-REx spacecraft captured this image of Jupiter (center) and three of its moons, Callisto (left), Io, and Ganymede.
+>(NASA/Goddard Space Flight Center) During Earth-Trojan asteroid search operations, the PolyCam imager aboard NASA's OSIRIS-REx spacecraft captured this image of Jupiter (center) and three of its moons, Callisto (left), Io, and Ganymede....
 
 #### Factsheet
 >factsheet unavailable
