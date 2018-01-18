@@ -32,17 +32,18 @@ tags=$(psql -X -A -U postgres -d ttrssdb2 --single-transaction --set ON_ERROR_ST
 extract=$(psql -X -A -U postgres -d ttrssdb2 --single-transaction --set ON_ERROR_STOP=on --no-align -t --quiet -c "SELECT f.content FROM ttrss_entries f WHERE f.id = $line_data")
 #echo $extract
 
-custom_extract=$(psql -X -A -U postgres -d ttrssdb2 --single-transaction --set ON_ERROR_STOP=on --no-align -t --quiet -c "SELECT f.custom_extract FROM ttrss_entries f WHERE f.id = $line_data")
+#custom_extract=$(psql -X -A -U postgres -d ttrssdb2 --single-transaction --set ON_ERROR_STOP=on --no-align -t --quiet -c "SELECT f.custom_extract FROM ttrss_entries f WHERE f.id = $line_data")
 #echo $custom_extract
+
+custom_extract=$(psql -X -A -U postgres -d ttrssdb2 --single-transaction --set ON_ERROR_STOP=on --no-align -t --quiet -c "SELECT e.note FROM ttrss_user_entries e INNER JOIN ttrss_feeds d ON d.id = e.feed_id INNER JOIN ttrss_entries f ON f.id = e.ref_id INNER JOIN ttrss_feed_categories g ON d.cat_id = g.id WHERE f.id = $line_data")
 
 
 # strip html tags
 mod_extract="$(echo -e "${extract}" | sed -e 's/<[^>]*>//g')"
-mod_extract2="$(echo -e ${mod_extract:0:1000}
-)"
-
-
 # truncate
+mod_extract2="$(echo -e ${mod_extract:0:1000})"
+
+
 # create url friendly post name
 mod_title1="$(echo -e "${title}" | iconv -t ascii//TRANSLIT | sed -r s/[^a-zA-Z0-9]+/-/g | sed -r s/^-+\|-+$//g | tr A-Z a-z)"
 
