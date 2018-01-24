@@ -1,0 +1,7 @@
+HOWTO
+
+extract all the ids and tags from the db
+
+if !null then append new tags and insert (formatted)
+if null  then just insert new tags
+write to a file for completed articles (check this file before)

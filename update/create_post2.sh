@@ -69,6 +69,53 @@ split_date=($date)
 mod_tags="$(echo -e "${tags}" | sed -e 's/,/, /g')"
 #echo $mod_tags
 
+
+
+
+
+
+
+
+# store json api response to var
+response=$(curl -X POST \
+    -H "x-textrazor-key: $api_key_value" \
+    -d "extractors=topics" \
+    -d "url=$link" \
+    https://api.textrazor.com/ | jq -r '.response.topics')
+
+rm response.txt
+
+echo -e "$response" >> response.txt
+
+rm extracted_tags.txt
+
+
+for output in $(echo "${response}" | jq -r '.[] | @base64'); do  
+
+	request() {
+	
+		echo ${output} | base64 --decode | jq -r ${1}
+
+	}
+
+	label=$(request '.label')
+	score=$(request '.score')
+
+	if [[ "$score" > 0.7 ]]; then
+	
+		echo -e "$label" >> extracted_tags.txt
+
+	fi
+
+done  
+
+
+
+
+
+
+
+
 	
 
 # clear files
