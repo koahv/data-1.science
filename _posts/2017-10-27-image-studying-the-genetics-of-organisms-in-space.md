@@ -4,7 +4,7 @@ title: "Image: Studying the genetics of organisms in space"
 date: 2017-10-27 11:50:03
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [space exploration, NASA, Planet, International Space Station, Space exploration, Flight, Space technology, Outer space, Astronautics, Physical sciences, Space colonization, Astronomy, Space science, Spaceflight, Kepler (spacecraft), Mars, Science, Planetary science, Exoplanet]
 ---
 
 

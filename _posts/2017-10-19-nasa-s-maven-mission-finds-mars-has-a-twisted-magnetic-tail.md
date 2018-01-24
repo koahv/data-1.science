@@ -4,7 +4,7 @@ title: "NASA's MAVEN mission finds Mars has a twisted magnetic tail"
 date: 2017-10-19 22:18:55
 categories: Science
 author: unknown author
-tags: []
+tags: [MAVEN, Mars, Solar wind, Goddard Space Flight Center, Magnetosphere, Sun, Outer space, Physical sciences, Space science, Astronomy, Bodies of the Solar System, Spaceflight, Solar System, Planetary science, Space exploration, Nature, NASA, Magnetic field]
 ---
 
 

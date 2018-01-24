@@ -4,7 +4,7 @@ title: "Italy seeks to phase out coal power plants by 2025"
 date: 2017-10-25 17:10:25
 categories: Technology
 author: Amanda Froelich
-tags: [energy, policy, wind power, solar power, energy efficiency, uk, sustainability, environment, renewable energy, electric, europe, italy, coal, politics, news, climate change, alternative energy]
+tags: [energy, policy, wind power, solar power, energy efficiency, uk, sustainability, environment, renewable energy, electric, europe, italy, coal, politics, news, climate change, alternative energy, Renewable energy, Power station, Italy, Alternative energy, Power (physics), Sustainable energy, Natural resources, Physical universe, Sustainable technologies, Energy sources, Energy, Energy production, Electric power, Nature, Sustainable development, Wind power, Coal, Artificial objects, Energy development, Electricity, Fossil fuel power station, Renewable resources, Electricity generation]
 ---
 
 

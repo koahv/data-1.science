@@ -4,7 +4,7 @@ title: "A way to measure and control phonons"
 date: 2017-09-22 12:50:02
 categories: Science
 author: unknown author
-tags: [quantum physics]
+tags: [quantum physics, Photon, Quantum mechanics, Physics, Laser, Light, Mechanics, Theoretical physics, Electromagnetic radiation, Science, Nature, Optics, Natural philosophy, Electrodynamics, Solid state engineering, Chemistry, Atomic,  molecular,  and optical physics, Condensed matter, Physical chemistry, Particle physics, Modern physics, Materials science, Physical sciences, Applied and interdisciplinary physics, Condensed matter physics, Phonon]
 ---
 
 

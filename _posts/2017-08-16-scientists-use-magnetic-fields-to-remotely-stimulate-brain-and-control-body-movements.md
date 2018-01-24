@@ -4,7 +4,7 @@ title: "Scientists use magnetic fields to remotely stimulate brain -- and contro
 date: 2017-08-16 17:46:58
 categories: Science
 author: unknown author
-tags: []
+tags: [Optogenetics, Brain, Neuron, Medicine, Nervous system, Neuroscience, Biology, Cognitive science]
 ---
 
 

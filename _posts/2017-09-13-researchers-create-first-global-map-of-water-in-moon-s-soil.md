@@ -4,7 +4,7 @@ title: "Researchers create first global map of water in moon's soil"
 date: 2017-09-13 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Moon, Lunar water, Nature, Earth sciences, Solar System, Space science, Outer space, Physical sciences, Planetary science, Astronomy, Bodies of the Solar System, Water]
 ---
 
 

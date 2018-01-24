@@ -4,7 +4,7 @@ title: "Improve your bash/sh shell script with ShellCheck lint script analysis t
 date: 2017-11-06 09:47:05
 categories: Linux
 author: Vivek Gite
-tags: [command line hacks, howto, programming, debian linux, freebsd, linux, macos, os x, sysadmin, ubuntu, unix]
+tags: [command line hacks, howto, programming, debian linux, freebsd, linux, macos, os x, sysadmin, ubuntu, unix, Fedora (operating system), Software, Computing, System software, Operating system technology, Unix, Linux, Software distribution, Utility software, Unix software, Free software, Package manager, Linus Torvalds, Computer architecture, Operating system families, APT (Debian), Computer engineering]
 ---
 
 

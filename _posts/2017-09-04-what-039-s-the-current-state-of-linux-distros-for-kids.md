@@ -4,7 +4,7 @@ title: "What&#039;s the current state of Linux distros for kids?"
 date: 2017-09-04 07:01:00
 categories: Open Source
 author: jimmysjolund
-tags: []
+tags: [Sugar (software), Linux distribution, Ubuntu (operating system), Operating system, Android (operating system), Linux, Digital media, Computing, Digital technology, System software, Software, Computers, Computer engineering, Technology, Application software, Debian, Computer architecture, Edubuntu]
 ---
 
 

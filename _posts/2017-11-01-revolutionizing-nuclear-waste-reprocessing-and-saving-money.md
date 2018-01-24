@@ -4,7 +4,7 @@ title: "Revolutionizing nuclear waste reprocessing and saving money"
 date: 2017-11-01 13:20:19
 categories: Science
 author: unknown author
-tags: [nuclear fusion, plutonium, radioactive waste, uranium]
+tags: [nuclear fusion, plutonium, radioactive waste, uranium, Nuclear power, Metal-organic framework, Nuclear reprocessing, Adsorption, Nuclear fuel, Recycling, Radioactive waste, Spent nuclear fuel, Fuel, Nuclear energy, Nuclear physics, Energy, Nature, Energy technology, Nuclear technology, Artificial objects, Manufacturing, Physical sciences, Chemistry, Materials, Forms of energy, Porosity, Chemical substances, Waste, Sustainable technologies, Zeolite]
 ---
 
 

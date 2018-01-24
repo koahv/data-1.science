@@ -4,7 +4,7 @@ title: "Harnessing rich satellite data to estimate crop yield"
 date: 2017-08-16 17:20:06
 categories: Science
 author: unknown author
-tags: [environment]
+tags: [environment, Electromagnetic spectrum, Earth, Infrared, Volcano, Climate change, Global warming, Microwave, Electromagnetic radiation, Natural environment, Earth sciences, Nature, Physical geography, Agriculture, Physical sciences]
 ---
 
 

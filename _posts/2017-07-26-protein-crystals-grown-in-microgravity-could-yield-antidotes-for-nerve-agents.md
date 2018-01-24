@@ -4,7 +4,7 @@ title: "Protein crystals grown in microgravity could yield antidotes for nerve a
 date: 2017-07-26 11:33:33
 categories: Science
 author: unknown author
-tags: [condensed matter]
+tags: [condensed matter, X-ray crystallography, Crystallography, Laser, Protein, International Space Station, Chemistry, Physical sciences, Crystal, Enzyme, Neutron diffraction, Applied and interdisciplinary physics]
 ---
 
 

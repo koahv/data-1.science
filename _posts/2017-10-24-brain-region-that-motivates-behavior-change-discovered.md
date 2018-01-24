@@ -4,7 +4,7 @@ title: "Brain region that motivates behavior change discovered"
 date: 2017-10-24 14:56:56
 categories: Science
 author: unknown author
-tags: []
+tags: [Brain, Reward system, Creativity, Posterior cingulate, Cingulate cortex, Cerebral cortex, Cognitive science, Emergence, Action (philosophy), Neuropsychological assessment, Neuropsychology, Behavioural sciences, Psychology, Nervous system, Neuroscience, Psychological concepts, Cognition, Foraging, Neuron, Behavior, Phenomenology]
 ---
 
 

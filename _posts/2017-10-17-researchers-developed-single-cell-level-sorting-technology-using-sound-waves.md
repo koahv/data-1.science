@@ -4,7 +4,7 @@ title: "Researchers developed single cell level sorting technology using sound w
 date: 2017-10-17 13:43:56
 categories: Science
 author: unknown author
-tags: [analytical chemistry]
+tags: [analytical chemistry, Flow cytometry, Sound, Microfluidics, Biology, Life sciences, Chemistry, Single-cell analysis, Hearing, Medicine]
 ---
 
 

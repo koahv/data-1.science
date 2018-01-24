@@ -4,7 +4,7 @@ title: "VIRGO joins gravitational-wave hunt"
 date: 2017-08-02 14:04:04
 categories: Science
 author: Michael Banks
-tags: []
+tags: [Virgo interferometer, Gravitational wave, Gravitational-wave observatory, Gravitation, Outer space, Mechanics, Physical phenomena, Physical cosmology, Gravitational-wave astronomy, Physical sciences, Applied and interdisciplinary physics, Astronomy, Natural philosophy, Physics, Optics, Scientific observation, General relativity, Electromagnetic radiation, Theory of relativity, Observational astronomy]
 ---
 
 

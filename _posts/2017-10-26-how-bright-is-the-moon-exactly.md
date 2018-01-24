@@ -4,7 +4,7 @@ title: "How Bright is the Moon . . . Exactly?"
 date: 2017-10-26 13:00:10
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy blogs, astronomy in space with david dickinson, astronomy news, solar system, moon]
+tags: [astronomy blogs, astronomy in space with david dickinson, astronomy news, solar system, moon, Moon, Light, Observatory, Optics, Electromagnetic radiation, Scientific observation, Planetary science, Physical sciences, Outer space, Astronomy, Earth, Full moon, Sun, Physical phenomena, Applied and interdisciplinary physics, Color]
 ---
 
 

@@ -4,7 +4,7 @@ title: "The EPA Just Approved the Release of Mosquito-Killing Insects Grown in t
 date: 2017-11-09 19:06:07
 categories: Science
 author: Claudia Geib
-tags: [health & medicine, epa, gmo, mosquito]
+tags: [health & medicine, epa, gmo, mosquito, Aedes aegypti, Mosquito, Aedes albopictus, Organisms, Animal diseases, Biology, Veterinary medicine, Animals and humans, Insect-borne diseases, Infectious diseases, Zoonoses, Microbiology, Wolbachia, Diseases and disorders, Medical specialties, Zika fever, Immunology, Animal health]
 ---
 
 

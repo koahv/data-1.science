@@ -4,7 +4,7 @@ title: "UTA bioengineer to collaborate with UTSW to improve neonatal brain monit
 date: 2017-10-09 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [University of Texas Southwestern Medical Center, Medical imaging, American Association for the Advancement of Science, Infant, Neuroimaging, Brain, Monitoring (medicine), Biology, Medicine, Health, Health sciences, Clinical medicine, Health care, Medical specialties, Biological engineering]
 ---
 
 

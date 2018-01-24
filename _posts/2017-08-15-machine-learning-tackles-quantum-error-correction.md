@@ -4,7 +4,7 @@ title: "Machine learning tackles quantum error correction"
 date: 2017-08-15 14:00:02
 categories: Science
 author: unknown author
-tags: [quantum physics]
+tags: [quantum physics, Artificial neural network, Quantum computing, Machine learning, Laser, Computing, Algorithm, Cognitive science, Areas of computer science, Physics, Technology, Applied mathematics, Quantum machine learning, Boltzmann machine, Data, Computer]
 ---
 
 

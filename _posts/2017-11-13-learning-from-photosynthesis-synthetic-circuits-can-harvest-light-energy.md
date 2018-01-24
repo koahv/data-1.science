@@ -4,7 +4,7 @@ title: "Learning from photosynthesis: Synthetic circuits can harvest light energ
 date: 2017-11-13 16:22:30
 categories: Science
 author: unknown author
-tags: [dna, materials science, nanotechnology, photosynthesis, plant sciences, quantum]
+tags: [dna, materials science, nanotechnology, photosynthesis, plant sciences, quantum, Photosynthesis, Energy, DNA, Exciton, Solar energy, Physical sciences, Applied and interdisciplinary physics, Biology, Artificial objects, Nature, Chemistry, Plant, Light, Nanotechnology, Base pair, Life, Molecule, Bacteria, Chromophore, Physical universe]
 ---
 
 

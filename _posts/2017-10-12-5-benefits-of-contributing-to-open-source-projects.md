@@ -4,7 +4,7 @@ title: "5 benefits of contributing to open source projects"
 date: 2017-10-12 07:00:00
 categories: Open Source
 author: Edgar Magana
-tags: []
+tags: [OpenStack, Open-source software, Cloud computing, Computing, Technology, Business, Open-source software movement, Digital technology]
 ---
 
 

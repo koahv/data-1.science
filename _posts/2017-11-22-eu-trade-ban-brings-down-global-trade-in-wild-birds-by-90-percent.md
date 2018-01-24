@@ -4,7 +4,7 @@ title: "EU trade ban brings down global trade in wild birds by 90 percent"
 date: 2017-11-22 05:00:00
 categories: Science
 author: unknown author
-tags: [biodiversity, ecology, environment, nature]
+tags: [biodiversity, ecology, environment, nature, Biodiversity, Parrot, Bird, American Association for the Advancement of Science, Natural environment, Ecology, Biology, European Union, Organisms, Environmental social science, Biogeochemistry, CITES]
 ---
 
 

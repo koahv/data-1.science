@@ -4,7 +4,7 @@ title: "Geoengineering is an essential bridge to true sustainability"
 date: 2017-07-10 08:35:28
 categories: Energy
 author: Ben Debski
-tags: [energy, climate change, geoengineering, paris agreement, science, weather]
+tags: [energy, climate change, geoengineering, paris agreement, science, weather, Climate engineering, Global warming, Marine cloud brightening, Copenhagen Consensus, Climatology, Future problems, Change, Climate change, Global environmental issues, Atmospheric sciences, Natural environment, Meteorology, Physical geography, Nature, Energy]
 ---
 
 

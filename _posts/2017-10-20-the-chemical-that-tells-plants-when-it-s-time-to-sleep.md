@@ -4,7 +4,7 @@ title: "The chemical that tells plants when it's time to sleep"
 date: 2017-10-20 13:00:01
 categories: Science
 author: unknown author
-tags: [biotechnology]
+tags: [biotechnology, Circadian rhythm, Ethylene, Circadian clock, Biology, Life sciences, Organisms, Plant, Physiology, Sleep, Neuroscience]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Icarus lifts off"
 date: 2017-10-17 13:50:03
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [space exploration, International Space Station, NASA, Soyuz (spacecraft), Space technology, Spacecraft, Astronomy, Space exploration, Spaceflight, Outer space, Space colonization, Astronautics, Flight, Spaceflight technologies, Aerospace engineering, Space science, Planet, Aerospace]
 ---
 
 

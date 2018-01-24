@@ -4,7 +4,7 @@ title: "A new brain-computer interface for music composition"
 date: 2017-10-04 12:50:01
 categories: Science
 author: unknown author
-tags: [engineering]
+tags: [engineering, Brain–computer interface, Nervous system, Technology, Neuroscience, Cognition, Artificial objects, Cognitive science]
 ---
 
 

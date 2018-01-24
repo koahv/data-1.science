@@ -4,7 +4,7 @@ title: "U.S. ocean observation critical to understanding climate change, but lac
 date: 2017-10-20 18:07:21
 categories: Science
 author: unknown author
-tags: [earth sciences]
+tags: [earth sciences, Climate, Ocean, Climate change, National Oceanic and Atmospheric Administration, Glacier, Environmental science, Physical geography, Earth sciences, Natural environment, Nature, Atmospheric sciences, Oceanography, Meteorology, Climatology, Global warming, Weather forecasting, Global natural environment, Applied and interdisciplinary physics, Global environmental issues]
 ---
 
 

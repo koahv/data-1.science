@@ -4,7 +4,7 @@ title: "Pest resistance to biotech crops surging"
 date: 2017-10-10 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Bacillus thuringiensis, Genetically modified crops, Agriculture, Biotechnology, Evolution, Biology, Organisms, Life sciences, Agronomy, Artificial objects, Genetic engineering, Plant breeding, Genetically modified food, Bt cotton]
 ---
 
 

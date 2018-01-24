@@ -4,7 +4,7 @@ title: "Scientists Used Genetic Modification to Create Low-Fat Pigs"
 date: 2017-10-25 21:50:21
 categories: Science
 author: Brad Jones
-tags: [hard science, crispr, food, genetically modified food, pigs]
+tags: [hard science, crispr, food, genetically modified food, pigs, Genetic engineering, Pig, Health, CRISPR, Genetics, Life sciences, Biology, Organisms, Food and drink, Biotechnology]
 ---
 
 

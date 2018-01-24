@@ -4,7 +4,7 @@ title: "NASA's Webb Telescope to witness galactic infancy"
 date: 2017-10-04 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Hubble Space Telescope, James Webb Space Telescope, Spitzer Space Telescope, Galaxy, NIRCam, Great Observatories program, Telescope, Astronomical observatories, Observational astronomy, Scientific observation, Optics, Astronomical imaging, Outer space, Physical sciences, Astronomy, Telescopes, Electromagnetic radiation, Natural philosophy, Science, Space telescope, Very Large Telescope, Applied and interdisciplinary physics, Astronomical instruments]
 ---
 
 

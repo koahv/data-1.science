@@ -4,7 +4,7 @@ title: "Researchers take a step toward quantum mechanical analysis of plant meta
 date: 2017-10-17 10:22:19
 categories: Science
 author: unknown author
-tags: [quantum physics]
+tags: [quantum physics, Quantum mechanics, Physics, Quantum computing, Laser, Computer, Quantum simulator, Solid state engineering, Applied and interdisciplinary physics, Modern physics, Particle physics, Science, Physical sciences, Mechanics, Theoretical physics, Condensed matter physics, Chemistry, Photon, Light, Simulation, Materials science]
 ---
 
 

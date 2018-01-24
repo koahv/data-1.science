@@ -4,7 +4,7 @@ title: "The Science of Quantum Computers Explained in Under Two Minutes"
 date: 2017-10-27 18:04:25
 categories: Science
 author: Jolene Creighton
-tags: [hard science, encryption, quantum computers, qubits]
+tags: [hard science, encryption, quantum computers, qubits, Quantum mechanics, Solid state engineering, Modern physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Luck plays a role in how language evolves, Penn team finds"
 date: 2017-11-01 04:00:00
 categories: Science
 author: unknown author
-tags: [evolution, language/linguistics/speech, social/behavioral science]
+tags: [evolution, language/linguistics/speech, social/behavioral science, Linguistics, Language, Regular and irregular verbs, Evolution, Natural selection, English language, Text corpus, Parsing, American Association for the Advancement of Science, Verb, Biology, Past tense, Science, Culture, Epistemology, Cognitive science, Cognition, Semiotics, Human communication, Randomness, University of Pennsylvania, Psychological concepts]
 ---
 
 

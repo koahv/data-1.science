@@ -4,7 +4,7 @@ title: "Study: 1 in 6 Deaths Worldwide Caused by Pollution in 2015"
 date: 2017-10-21 21:54:08
 categories: Science
 author: Chelsea Gohd
-tags: [earth & energy, air pollution, mortality, pollution]
+tags: [earth & energy, air pollution, mortality, pollution, Pollution, Health, Violence, Disease burden, Natural environment, Institute for Health Metrics and Evaluation, Toxicity]
 ---
 
 

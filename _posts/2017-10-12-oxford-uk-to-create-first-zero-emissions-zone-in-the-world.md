@@ -4,7 +4,7 @@ title: "Oxford, UK to create first zero-emissions zone in the world"
 date: 2017-10-12 13:15:38
 categories: Technology
 author: Greg Beach
-tags: [urban design, automotive, air quality, clean energy, conservation, climate change, green energy, air pollution, united kingdom, electric vehicles, electric cars, greenhouse gases, england, fossil fuels, news, london, oxford, environment, sustainable design, resilient design, renewable energy, green policies, zero emissions zone]
+tags: [urban design, automotive, air quality, clean energy, conservation, climate change, green energy, air pollution, united kingdom, electric vehicles, electric cars, greenhouse gases, england, fossil fuels, news, london, oxford, environment, sustainable design, resilient design, renewable energy, green policies, zero emissions zone, Air pollution, Artificial objects, Pollution, Human activities with impact on the environment, Atmosphere of Earth, Natural environment, Exhaust gas, Global environmental issues]
 ---
 
 

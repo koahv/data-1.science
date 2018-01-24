@@ -4,7 +4,7 @@ title: "Stem cell advance brings bioengineered arteries closer to reality"
 date: 2017-07-10 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Cellular differentiation, Artery, Research, Cardiovascular disease, Cell (biology), CRISPR, Biotechnology, Medicine, Medical specialties, Clinical medicine, Health sciences, Life sciences, Biology, Organisms, National Institutes of Health, Cell biology, Gene, Stem cell, Regeneration (biology), Science]
 ---
 
 

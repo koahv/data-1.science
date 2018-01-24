@@ -4,7 +4,7 @@ title: "Team determines first high-resolution structure of dopamine receptor"
 date: 2017-10-19 18:00:08
 categories: Science
 author: unknown author
-tags: [biochemistry]
+tags: [biochemistry, Dopamine, Receptor (biochemistry), Neurotransmitter, Dopamine receptor, Brain, X-ray crystallography, Lysergic acid diethylamide, Schizophrenia, Pharmaceutical drug, G protein–coupled receptor, Protein, Attention deficit hyperactivity disorder, Neuroscience, Biology, Medicine, Antipsychotic, Dopamine receptor D4, Serotonin]
 ---
 
 

@@ -4,7 +4,7 @@ title: "For the First Time, Scientists Used Gene Editing Inside a Living Patient
 date: 2017-11-15 18:22:19
 categories: Science
 author: Brad Jones
-tags: [health & medicine, hunter syndrome, sangamo therapeutics, zfns]
+tags: [health & medicine, hunter syndrome, sangamo therapeutics, zfns, Hunter syndrome, Health sciences, Organisms, Diseases and disorders, Medical specialties, Biology, Life sciences, Medicine, Clinical medicine, Genetics, Biotechnology, Health, Genome editing, CRISPR]
 ---
 
 

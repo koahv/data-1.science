@@ -4,7 +4,7 @@ title: "NASA's Hubble sees martian moon orbiting the Red Planet"
 date: 2017-07-20 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Phobos (moon), Deimos (moon), Mars, Moons of Mars, Moon, Moons, Outer space, Solar System, Astronomy, Planetary science, Space science, Bodies of the Solar System, Physical sciences, Planets of the Solar System, Planets, Spaceflight, Space exploration]
 ---
 
 

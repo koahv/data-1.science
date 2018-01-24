@@ -4,7 +4,7 @@ title: "SimPath licenses novel ORNL system for enhanced synthetic biology"
 date: 2017-10-16 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Oak Ridge National Laboratory, Office of Science, United States Department of Energy, Synthetic biology, Biology, Life sciences, Artificial objects, Science and technology, Genetics, Technology, Organisms, Biotechnology, Cloning, Science, Nature]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Stem cell platform sheds new light on beginnings of human development"
 date: 2017-10-19 13:20:41
 categories: Science
 author: unknown author
-tags: [biotechnology]
+tags: [biotechnology, Embryo, Stem cell, Developmental biology, Regenerative medicine, Embryonic stem cell, Gastrulation, Fertilisation, Reproduction, Zoology, Biological processes, Organisms, Life sciences, Biology, Engineering, Biotechnology, Science,  technology,  engineering,  and mathematics, Biological engineering, Somatic cell nuclear transfer]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Top 4 reasons I use dwm for my Linux window manager"
 date: 2017-07-18 07:01:00
 categories: Open Source
 author: jimmysjolund
-tags: []
+tags: [Desktop environment, Xfce, Window manager, Dwm, Digital media, Computers, User interfaces, Graphical user interfaces, Computing, System software, Software]
 ---
 
 

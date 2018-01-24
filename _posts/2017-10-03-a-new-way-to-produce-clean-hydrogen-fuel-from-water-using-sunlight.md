@@ -4,7 +4,7 @@ title: "A new way to produce clean hydrogen fuel from water using sunlight"
 date: 2017-10-03 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Hydrogen, Carbon, Water, Energy, Metal, Fuel, Photocatalysis, Allotropes of phosphorus, Hydrogen production, Molecule, Lead, Infrared, Nature, Chemistry, Physical sciences, Materials, Physical universe, Chemical elements, Artificial objects, Chemical substances, Manufacturing, Artificial materials, Atoms, Light, Chemical element, Nitride, Graphite, Physical chemistry]
 ---
 
 

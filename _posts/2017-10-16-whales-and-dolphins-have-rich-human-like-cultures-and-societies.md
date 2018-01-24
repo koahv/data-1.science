@@ -4,7 +4,7 @@ title: "Whales and dolphins have rich 'human-like' cultures and societies"
 date: 2017-10-16 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Cetacea, Dolphin, Brain, Evolution, Species, American Association for the Advancement of Science, Marine mammal, Hypothesis, Ecology, Society, Primate, Cognition, Biology, Psychological concepts, Behavioural sciences, Science, Cognitive science, Psychology, Mammal, Culture]
 ---
 
 

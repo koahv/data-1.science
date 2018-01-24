@@ -4,7 +4,7 @@ title: "Bacteria self-organize to build working sensors"
 date: 2017-10-09 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Bacteria, Cell (biology), Protein, Life sciences, Biology, Chemistry, Artificial objects, Organisms, Biotechnology, Light-emitting diode, Physical sciences, Cell membrane, Cell growth, Nanoparticle]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Habitat loss is the top threat to Australia's species"
 date: 2017-10-17 12:40:04
 categories: Science
 author: unknown author
-tags: [ecology]
+tags: [ecology, Habitat destruction, Extinction, Biodiversity, Deforestation, Habitat, Conservation biology, Feral animal, Wildlife, Australia, Systems ecology, Ecology, Biogeochemistry, Natural environment, Environmental conservation, Biology, Conservation, Organisms, Natural resource management, Invasive species, Ecological restoration, Environmental ethics, Environmental science, Mammal, International Union for Conservation of Nature]
 ---
 
 

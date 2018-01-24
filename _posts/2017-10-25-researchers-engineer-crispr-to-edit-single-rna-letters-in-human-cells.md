@@ -4,7 +4,7 @@ title: "Researchers engineer CRISPR to edit single RNA letters in human cells"
 date: 2017-10-25 18:00:00
 categories: Science
 author: Broad Institute
-tags: []
+tags: [RNA, Genome editing, Mutation, CRISPR, Biology, Life sciences, Genetics, Biotechnology, Molecular biology, Biochemistry, Organisms, Nucleic acids, Cas9, Macromolecules, Cell biology]
 ---
 
 

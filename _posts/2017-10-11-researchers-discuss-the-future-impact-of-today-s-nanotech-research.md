@@ -4,7 +4,7 @@ title: "Researchers discuss the future impact of today's nanotech research"
 date: 2017-10-11 13:03:44
 categories: Science
 author: unknown author
-tags: [nanophysics]
+tags: [nanophysics, Nanotechnology, Quantum dot, Artificial objects, Materials science, Science, Physical sciences, Science and technology, Technology, Materials, Emerging technologies, Applied and interdisciplinary physics, Chemistry, Nanobiotechnology, Innovation, Biology]
 ---
 
 

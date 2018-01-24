@@ -4,7 +4,7 @@ title: "First practical building blocks for a global quantum internet"
 date: 2017-09-11 15:00:06
 categories: Science
 author: unknown author
-tags: [quantum physics]
+tags: [quantum physics, Laser, Quantum teleportation, Quantum computing, Optics, Internet, Optical fiber, Superconductivity, Computer, Physics, Applied and interdisciplinary physics, Physical sciences, Chemistry, Mechanics, Condensed matter physics, Liquid crystal, Telecommunication, Australian National University, Materials science, Technology, Solid state engineering]
 ---
 
 

@@ -4,7 +4,7 @@ title: "73 million trees to be planted in largest reforestation project ever"
 date: 2017-10-31 13:47:21
 categories: Technology
 author: Greg Beach
-tags: [environment, conservation, climate change, carbon emissions, trees, forests, deforestation, rainforests, ecology, greenhouse gas emissions, science, reforestation, news, amazon rainforest, tropical rainforests, tropical forests, conservation international]
+tags: [environment, conservation, climate change, carbon emissions, trees, forests, deforestation, rainforests, ecology, greenhouse gas emissions, science, reforestation, news, amazon rainforest, tropical rainforests, tropical forests, conservation international, Deforestation, Reforestation, Climatology, Change, Sustainability, Global environmental issues, Natural resources, Natural resource management, Natural environment, Climate change, Sustainable development, Environmental issues, Future problems, Climate forcing agents, Amazon rainforest, Physical geography]
 ---
 
 

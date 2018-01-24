@@ -4,7 +4,7 @@ title: "CRISPR Can Now Be Used to Edit Individual Bases"
 date: 2017-10-26 18:12:11
 categories: Science
 author: Brad Jones
-tags: [health & medicine, crispr, dna, human genome, rna]
+tags: [health & medicine, crispr, dna, human genome, rna, CRISPR, DNA, Base pair, Macromolecules, Molecular biology, Biochemistry, Biotechnology, Organisms, Life sciences, Nucleic acids, Nucleotides, Medicine, Biology, Genetics, Mutation, Human genome, Chemistry]
 ---
 
 

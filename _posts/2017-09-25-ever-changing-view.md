@@ -4,7 +4,7 @@ title: "Ever-changing view"
 date: 2017-09-25 07:30:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Rosetta (spacecraft), Philae (spacecraft), Comet, Planetary science, Outer space, Solar System, Astronomy, Bodies of the Solar System, Spaceflight, Space exploration, Spaceflight technologies, Space science, Spacecraft, Space colonization, Discovery and exploration of the Solar System, Astronautics, Space probes, Space technology, Local Interstellar Cloud, Unmanned spacecraft, Comets, Flight, Space missions, 67P/Churyumov–Gerasimenko, Scientific exploration]
 ---
 
 

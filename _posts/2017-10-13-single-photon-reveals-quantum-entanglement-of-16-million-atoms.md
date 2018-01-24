@@ -4,7 +4,7 @@ title: "Single photon reveals quantum entanglement of 16 million atoms"
 date: 2017-10-13 13:10:23
 categories: Science
 author: unknown author
-tags: []
+tags: [Quantum mechanics, Quantum entanglement, Photon, Physics, Atom, Light, Quantum network, Solid state engineering, Theoretical physics, Modern physics, Science, Particle physics, Mechanics, Physical sciences, Scientific theories, Cognitive science, Applied and interdisciplinary physics, Condensed matter physics]
 ---
 
 

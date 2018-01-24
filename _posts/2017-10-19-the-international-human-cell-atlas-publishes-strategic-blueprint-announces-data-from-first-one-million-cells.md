@@ -4,7 +4,7 @@ title: "The international Human Cell Atlas publishes strategic blueprint, announ
 date: 2017-10-19 13:19:55
 categories: Science
 author: unknown author
-tags: [cell & microbiology]
+tags: [cell & microbiology, Wellcome Trust Sanger Institute, Gene, Biology, Gene expression, Cell (biology), Genome, Science, Sequencing, Genetics, Biotechnology, Organisms, Life sciences, RNA-Seq, Scientist]
 ---
 
 

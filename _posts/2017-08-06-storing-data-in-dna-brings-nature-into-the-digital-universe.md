@@ -4,7 +4,7 @@ title: "Storing Data In DNA Brings Nature Into The Digital Universe"
 date: 2017-08-06 11:00:16
 categories: Technology
 author: unknown author
-tags: []
+tags: [DNA, Computer data storage, Hard disk drive, Nucleotide, Computer file, Life sciences, Computing, Biology, Technology, Biotechnology, Genetics, Computer data, Artificial objects, Nucleic acid sequence, Information, DNA sequencing, DNA sequencer, Information science, Bit, Digital technology]
 ---
 
 

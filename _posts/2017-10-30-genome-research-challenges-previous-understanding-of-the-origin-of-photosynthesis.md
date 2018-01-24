@@ -4,7 +4,7 @@ title: "Genome research challenges previous understanding of the origin of photo
 date: 2017-10-30 11:08:20
 categories: Science
 author: unknown author
-tags: [biotechnology]
+tags: [biotechnology, Evolution, Photosynthesis, Life, Chloroflexi (phylum), Biology, Molecular clock, Phototroph, Organisms, Life sciences, Nature, Geobiology, Metabolism, Biological evolution, Chemistry, Bacteria]
 ---
 
 

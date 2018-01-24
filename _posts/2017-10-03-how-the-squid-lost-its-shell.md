@@ -4,7 +4,7 @@ title: "How the Squid Lost Its Shell"
 date: 2017-10-03 17:54:49
 categories: Earth
 author: RR Helm
-tags: [abyss, benthic, biology, cephalopods, ecology, evolution, paleobiology, pelagic, pictures and movies]
+tags: [abyss, benthic, biology, cephalopods, ecology, evolution, paleobiology, pelagic, pictures and movies, Cephalopod, Giant squid, Organisms, Nautiloid, Cephalopods]
 ---
 
 

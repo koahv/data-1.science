@@ -4,7 +4,7 @@ title: "Study finds pollution is more deadly than war, natural disasters, and di
 date: 2017-10-23 10:38:13
 categories: Technology
 author: Amanda Froelich
-tags: [africa, poverty, environment, air quality, india, climate change, global warming, pollution, green transportation, air pollution, bangladesh, water issues, economy, war, science, news, environmental destruction, disease, malnutrition]
+tags: [africa, poverty, environment, air quality, india, climate change, global warming, pollution, green transportation, air pollution, bangladesh, water issues, economy, war, science, news, environmental destruction, disease, malnutrition, Water pollution, Pollution, Richard Fuller (environmentalist), Natural environment, Health, Death, Environment]
 ---
 
 

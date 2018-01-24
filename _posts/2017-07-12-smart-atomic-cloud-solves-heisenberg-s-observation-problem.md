@@ -4,7 +4,7 @@ title: "Smart atomic cloud solves Heisenberg's observation problem"
 date: 2017-07-12 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Quantum mechanics, Uncertainty principle, Niels Bohr, Uncertainty, Niels Bohr Institute, Physics, Light, Atom, American Association for the Advancement of Science, Science, Modern physics, Scientific method, Scientific theories, Particle physics, Physical sciences, Solid state engineering, Mechanics, Theoretical physics, Applied and interdisciplinary physics, Optics, Laser, Quantum optics, Measurement, Gravity, Chemistry, Experiment]
 ---
 
 

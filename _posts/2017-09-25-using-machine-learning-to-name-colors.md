@@ -4,7 +4,7 @@ title: "Using machine learning to name colors"
 date: 2017-09-25 07:02:00
 categories: Open Source
 author: malcorn
-tags: []
+tags: [Language, Word embedding, Artificial neural network, Word, Word2vec, Machine learning, RGB color model, Cognition, Cognitive science, Technology, Computing, Areas of computer science, Cybernetics, Applied mathematics, Language model, Systems science, Artificial objects, Artificial intelligence, Color]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Bill Gates: “Humanity Will See Its Last Case of Polio This Year”"
 date: 2017-10-25 22:01:42
 categories: Science
 author: Dom Galeon
-tags: [health & medicine, bill gates, polio, vaccines, world polio day]
+tags: [health & medicine, bill gates, polio, vaccines, world polio day, Poliomyelitis, Eradication of infectious diseases, Poliomyelitis eradication, Vaccine, Animal viral diseases, Public health, Epidemiology, Health sciences, Infectious diseases, Medical specialties, Health, Microbiology, Enterovirus-associated diseases, Vaccination, Animal diseases, Viral respiratory tract infections, Animal virology, Viral infections of the central nervous system, Medical humanities, Medicine, Immunology, Preventive medicine, Jonas Salk, Viral diseases, Pediatrics, Diseases and disorders]
 ---
 
 

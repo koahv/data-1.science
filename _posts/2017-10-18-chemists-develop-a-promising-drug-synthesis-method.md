@@ -4,7 +4,7 @@ title: "Chemists develop a promising drug synthesis method"
 date: 2017-10-18 09:57:36
 categories: Science
 author: unknown author
-tags: [materials science]
+tags: [materials science, Chemical reaction, Sodium hydroxide, Organic synthesis, Chemical substance, Pharmaceutical drug, Materials, Chemical substances, Physical sciences, Chemistry, Toxin, Catalysis, Manufacturing]
 ---
 
 

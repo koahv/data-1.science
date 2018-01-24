@@ -4,7 +4,7 @@ title: "MIT neuroscientists build case for new theory of memory formation"
 date: 2017-10-23 18:59:59
 categories: Science
 author: Anne Trafton | MIT News Office
-tags: []
+tags: [Memory, Engram (neuropsychology), Susumu Tonegawa, Encoding (memory), Hippocampus, Recall (memory), Synapse, Storage (memory), Cerebrum, Cognitive science, Neuroscience, Mental processes, Neuropsychological assessment, Behavioral neuroscience, Nervous system, Cognitive neuroscience, Neuropsychology, Limbic system, Cognition, Biology, Psychological concepts, neuropsychology, Brain, Epistemology, Long-term memory, Memory consolidation, Biological processes]
 ---
 
 

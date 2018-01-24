@@ -4,7 +4,7 @@ title: "Linux / Unix cat Command Examples"
 date: 2018-01-05 13:47:00
 categories: Linux
 author: Vivek Gite
-tags: []
+tags: [Cat (Unix), Filename, Text file, Computer file, Wget, Operating system, Software, Areas of computer science, Computer data, Computing, System software, Unix, Computers, Digital media, Computer architecture, Digital technology, Computer engineering, Operating system technology, Utility software]
 ---
 
 

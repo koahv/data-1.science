@@ -4,7 +4,7 @@ title: "The Next Most Powerful Supercomputer in the U.S. Is Almost Complete"
 date: 2017-10-24 21:15:51
 categories: Science
 author: Dom Galeon
-tags: [robots & machines, computing, ornl, summit, supercomputer]
+tags: [robots & machines, computing, ornl, summit, supercomputer, FLOPS, Computers, Computer architecture, Office equipment, Areas of computer science, Computer engineering, Computer hardware, Technology, Computing, Digital electronics, Supercomputer, Oak Ridge National Laboratory]
 ---
 
 

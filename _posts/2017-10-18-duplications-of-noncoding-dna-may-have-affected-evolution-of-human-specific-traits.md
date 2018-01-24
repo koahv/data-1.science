@@ -4,7 +4,7 @@ title: "Duplications of noncoding DNA may have affected evolution of human-speci
 date: 2017-10-18 17:32:30
 categories: Science
 author: unknown author
-tags: []
+tags: [Gene duplication, Gene, Genetics, Genome, Human genome, Human, Brain, Enhancer (genetics), Evolution, Noncoding DNA, DNA, Human genetics, Molecular biology, Organisms, Biotechnology, Biochemistry, Life sciences, Biology, Gene expression]
 ---
 
 

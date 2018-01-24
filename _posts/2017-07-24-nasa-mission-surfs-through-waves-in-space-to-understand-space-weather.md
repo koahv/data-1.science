@@ -4,7 +4,7 @@ title: "NASA mission surfs through waves in space to understand space weather"
 date: 2017-07-24 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Van Allen radiation belt, Particle physics, Goddard Space Flight Center, Space environment, Radiation, Wave, Physics, Outer space, Nature, Space science, Physical sciences, Applied and interdisciplinary physics, Plasma (physics), NASA, Van Allen Probes, Electron]
 ---
 
 

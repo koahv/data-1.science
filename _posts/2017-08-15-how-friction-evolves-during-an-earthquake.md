@@ -4,7 +4,7 @@ title: "How friction evolves during an earthquake"
 date: 2017-08-15 21:29:34
 categories: Science
 author: unknown author
-tags: [earth sciences]
+tags: [earth sciences, Earthquake, Friction, Simulation, Fault (geology), Earth, Experiment, California Institute of Technology, Applied and interdisciplinary physics, Earth sciences, Physical sciences, Nature, Geology, Mechanics, Evolution, Mantle plume]
 ---
 
 

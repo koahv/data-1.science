@@ -4,7 +4,7 @@ title: "Sentinel-5P timelapse"
 date: 2017-11-02 09:30:00
 categories: Astronomy
 author: unknown author
-tags: [rocket, rocket launch, space, timelapse]
+tags: [rocket, rocket launch, space, timelapse, Copernicus Programme, Atmosphere of Earth, Meteorology, Atmospheric sciences, Earth sciences, Nature, MetOp, Physical sciences, Physical geography, Outer space]
 ---
 
 

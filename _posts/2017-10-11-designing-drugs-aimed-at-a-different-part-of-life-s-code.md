@@ -4,7 +4,7 @@ title: "Designing drugs aimed at a different part of life's code"
 date: 2017-10-11 12:12:35
 categories: Science
 author: unknown author
-tags: [biochemistry]
+tags: [biochemistry, RNA, Protein, Protein–protein interaction, Biotechnology, Biochemistry, Molecular biology, Organisms, Chemistry, Life sciences, Biology, Molecule, Pharmaceutical drug, Nucleic acid sequence]
 ---
 
 

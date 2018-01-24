@@ -4,7 +4,7 @@ title: "Quantum twisted Loong confirms the physical reality of wavefunctions"
 date: 2017-09-21 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Double-slit experiment, Photon, Quantum mechanics, Wave function, Scientific theories, Philosophy, Epistemology of science, Scientific method, Mechanical engineering, Applied and interdisciplinary physics, Condensed matter physics, Science, Physics, Physical sciences, Solid state engineering, Particle physics, Theoretical physics, Modern physics, Mechanics, Metaphysics, Determinism, Cognitive science, Condensed matter, Interpretations of quantum mechanics, Academic discipline interactions]
 ---
 
 

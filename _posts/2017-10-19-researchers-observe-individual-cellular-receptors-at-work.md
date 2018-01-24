@@ -4,7 +4,7 @@ title: "Researchers observe individual cellular receptors at work"
 date: 2017-10-19 09:29:53
 categories: Science
 author: unknown author
-tags: [biochemistry]
+tags: [biochemistry, G protein, Receptor (biochemistry), Protein, G protein–coupled receptor, Cell (biology), Cell membrane, Hormone, Brain, Biology, Cell biology, Life sciences, Biochemistry, Biotechnology, Molecular biology, Chemistry, Medicine, Neuroscience]
 ---
 
 

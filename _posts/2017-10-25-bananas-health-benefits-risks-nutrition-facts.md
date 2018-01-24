@@ -4,7 +4,7 @@ title: "Bananas: Health Benefits, Risks & Nutrition Facts"
 date: 2017-10-25 13:33:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Banana, Dietary fiber, Weight loss, Vitamin, Cardiovascular disease, Nutrition, Heart, Food, Artery, Gros Michel banana, Tryptophan, Potassium, Health, Cavendish banana, Diabetes mellitus, Food and drink, Vitamin A, Antioxidant, Serotonin, Nutrition facts label, Pectin, Determinants of health]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Jupiter: Atmosphere and aurora in unprecedented detail"
 date: 2017-07-03 12:32:31
 categories: Science
 author: unknown author
-tags: []
+tags: [Jupiter, Juno (spacecraft), Atmosphere of Jupiter, Atmosphere of Earth, Infrared, Cloud, Great Red Spot, Planets, Space science, Solar System, Physical sciences, Planetary science, Outer space, Astronomy, Bodies of the Solar System, Applied and interdisciplinary physics, Observatory, Planet, Telescope, Troposphere, Planets of the Solar System, Nature]
 ---
 
 

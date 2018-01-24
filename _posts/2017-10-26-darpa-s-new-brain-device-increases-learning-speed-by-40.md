@@ -4,7 +4,7 @@ title: "DARPA’s New Brain Device Increases Learning Speed by 40%"
 date: 2017-10-26 18:27:31
 categories: Science
 author: Dom Galeon
-tags: [hard science, brain stimulation, memory, mental health, neurobiology]
+tags: [hard science, brain stimulation, memory, mental health, neurobiology, Transcranial direct-current stimulation, Executive functions, Brain, Mental processes, Cognitive science, Nervous system, Neuropsychology, Cognition, Neuroscience, Neuropsychological assessment, Psychological concepts, Cognitive neuroscience, neuropsychology, Behavioral neuroscience, Phenomenology, Epistemology, Psychology, Clinical psychology, Biology, Emergence, Behavioural sciences, Memory, Prefrontal cortex, Limbic system, Action (philosophy), Cerebral cortex]
 ---
 
 

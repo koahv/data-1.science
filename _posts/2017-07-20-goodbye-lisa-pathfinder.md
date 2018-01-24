@@ -4,7 +4,7 @@ title: "Goodbye, LISA Pathfinder"
 date: 2017-07-20 18:03:20
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy blogs, astronomy in space with david dickinson, astronomy news, spacecraft and space missions, elisa, esa lisa pathfinder, gravitational wave astronomy, gravitational waves, lisa, lisa pathfinder end]
+tags: [astronomy blogs, astronomy in space with david dickinson, astronomy news, spacecraft and space missions, elisa, esa lisa pathfinder, gravitational wave astronomy, gravitational waves, lisa, lisa pathfinder end, Laser Interferometer Space Antenna, LISA Pathfinder, Outer space, Unmanned spacecraft, Aerospace engineering, Aerospace, Spaceflight technologies, Flight, Space science, Space colonization, Physical sciences, Astronautics, Space technology, Spacecraft, Space exploration, Spaceflight, Astronomy, Space agencies, Space probes]
 ---
 
 

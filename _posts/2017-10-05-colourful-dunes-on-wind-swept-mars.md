@@ -4,7 +4,7 @@ title: "Colourful dunes on wind-swept Mars"
 date: 2017-10-05 09:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Dune, Impact crater, Wind, Barchan, Mars, Tharsis, Olympus Mons, Geology, Earth sciences, Physical geography, Geomorphology, Planetary science, Planetary geology, Surface features of planets]
 ---
 
 

@@ -4,7 +4,7 @@ title: "First molecules discovered by next-generation artificial intelligence to
 date: 2017-07-27 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Insilico Medicine, Pharmaceutical drug, Artificial intelligence, Drug development, Drug discovery, Medicine, Ageing, Clinical trial, Clinical medicine, Medical research, Biology, Life sciences, Health, Health sciences, Health care, Biotechnology, Technology, Artificial objects, Healthcare industry, Pharmacology, Medical treatments]
 ---
 
 

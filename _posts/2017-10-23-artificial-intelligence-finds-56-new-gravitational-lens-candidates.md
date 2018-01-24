@@ -4,7 +4,7 @@ title: "Artificial intelligence finds 56 new gravitational lens candidates"
 date: 2017-10-23 20:08:58
 categories: Science
 author: unknown author
-tags: [astronomy]
+tags: [astronomy, Gravitational lens, Astronomy, Gravity, General relativity, Lens (optics), Dark matter, Science, Physics, Outer space, Physical sciences, Light, Black hole, Kepler (spacecraft)]
 ---
 
 

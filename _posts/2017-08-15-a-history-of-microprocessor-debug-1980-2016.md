@@ -4,7 +4,7 @@ title: "A History of Microprocessor Debug, 1980–2016"
 date: 2017-08-15 08:30:56
 categories: Linux
 author: Embedded.com
-tags: []
+tags: [Debugging, Software bug, Embedded system, Digital technology, Computer hardware, Computers, Computer engineering, Computing, Computer architecture, Digital electronics, Electronic engineering, Electronics, Technology, Office equipment, Areas of computer science, Manufactured goods, Electrical engineering, Artificial objects, Classes of computers, Electronic design]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Study reveals key molecular link in major cell growth pathway"
 date: 2017-10-19 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Protein, Lysosome, Cell (biology), Mechanistic target of rapamycin, National Cancer Institute, Amino acid, Cell growth, National Institutes of Health, Life sciences, Cell biology, Biochemistry, Molecular biology, Biotechnology, Biology, Chemistry, Metabolic pathway, Organisms, Metabolism]
 ---
 
 

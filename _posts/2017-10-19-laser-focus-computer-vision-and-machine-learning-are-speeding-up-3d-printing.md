@@ -4,7 +4,7 @@ title: "Laser Focus: Computer Vision and Machine Learning Are Speeding Up 3D Pri
 date: 2017-10-19 20:50:16
 categories: Technology
 author: unknown author
-tags: []
+tags: [3D printing, Printer (computing), Computer vision, Artificial intelligence, Computer, Artificial objects, Cognitive science, Technology, Machine learning, Areas of computer science, Manufacturing]
 ---
 
 

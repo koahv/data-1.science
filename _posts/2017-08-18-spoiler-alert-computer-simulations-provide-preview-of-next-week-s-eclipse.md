@@ -4,7 +4,7 @@ title: "Spoiler alert: Computer simulations provide preview of next week's eclip
 date: 2017-08-18 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Corona, Sun, Weather, Space weather, Solar Dynamics Observatory, Prediction, Solar flare, Magnetohydrodynamics, Plasma (physics), Solar physics, Science, Solar System, Applied and interdisciplinary physics, Space science, Physical sciences, Outer space, Nature, Astronomy, Solar storm of 1859, Weather forecasting, Solar eclipse, Bodies of the Solar System]
 ---
 
 

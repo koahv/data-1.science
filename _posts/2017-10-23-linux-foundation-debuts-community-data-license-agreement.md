@@ -4,7 +4,7 @@ title: "Linux Foundation Debuts Community Data License Agreement "
 date: 2017-10-23 06:00:09
 categories: Linux
 author: Linux Foundation
-tags: [press release]
+tags: [press release, Open-source software, Software, Artificial intelligence, Business, Computing, Technology, Big data, Machine learning, Open data, Information technology, License]
 ---
 
 

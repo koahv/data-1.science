@@ -4,7 +4,7 @@ title: "Researchers demonstrate quantum teleportation of patterns of light"
 date: 2017-09-21 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Quantum entanglement, Quantum teleportation, Photon, Orbital angular momentum of light, Quantum network, Repeater, Theoretical physics, Quantum mechanics, Particle physics, Solid state engineering, Applied and interdisciplinary physics, Modern physics, Physical sciences, Mechanics, Science, Physics, Condensed matter physics, Scientific theories, Natural philosophy, Scientific method, Information, Electromagnetic radiation, Optics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Gene editing in the brain gets a major upgrade"
 date: 2017-10-19 16:00:06
 categories: Science
 author: unknown author
-tags: [biotechnology]
+tags: [biotechnology, Genome editing, CRISPR, Virus, Adeno-associated virus, Brain, Gene, Biology, Biochemistry, Molecular biology, Organisms, Biotechnology, Genetics, Life sciences, Cas9, Cell biology]
 ---
 
 

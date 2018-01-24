@@ -4,7 +4,7 @@ title: "LHC reaches 2017 targets ahead of schedule"
 date: 2017-10-31 14:20:02
 categories: Science
 author: unknown author
-tags: [general physics]
+tags: [general physics, Large Hadron Collider, CERN, Particle accelerator, Laser, Collider, CERN Hadron LINACs, Particle physics, Physical sciences, Applied and interdisciplinary physics, Physics, Experimental physics, Linear particle accelerator]
 ---
 
 

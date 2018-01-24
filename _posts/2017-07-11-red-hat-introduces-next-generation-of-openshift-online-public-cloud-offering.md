@@ -4,7 +4,7 @@ title: "Red Hat Introduces Next Generation of OpenShift Online Public Cloud Offe
 date: 2017-07-11 04:00:00
 categories: Linux
 author: unknown author
-tags: []
+tags: [Red Hat, OpenShift, Cloud computing, JBoss Developer Studio, Open-source software, Integrated development environment, Software development, Computing, Software, Computer engineering, Digital technology, Computers, Technology, Areas of computer science, Digital media, Software engineering, Information technology management, Application software, Linux, Multitenancy, Provisioning, Docker (software), Information technology]
 ---
 
 

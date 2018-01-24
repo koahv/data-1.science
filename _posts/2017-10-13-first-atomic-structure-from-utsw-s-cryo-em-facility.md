@@ -4,7 +4,7 @@ title: "First atomic structure from UTSW's cryo-EM facility"
 date: 2017-10-13 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [University of Texas Southwestern Medical Center, Cryo-electron microscopy, Ion channel, Chemistry, Biology, Life sciences, Biochemistry, Molecular biology, Cell biology, Biotechnology, Biophysics, Lysosome]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Watch out! Brain network calculates impact of approaching object"
 date: 2017-10-09 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Neuroscience, American Association for the Advancement of Science, Science, Psychology, Cognition, Psychological concepts, Cognitive science, Neuropsychology, Nervous system, Behavioural sciences, Emergence, Epistemology, Brain, Neuropsychological assessment]
 ---
 
 

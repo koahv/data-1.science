@@ -4,7 +4,7 @@ title: "Singapore Will Stop Adding New Cars to Its Roads in 2018"
 date: 2017-10-23 18:45:52
 categories: Science
 author: Patrick Caughill
-tags: [future society, climate change, environmental regulation, singapore, transportation]
+tags: [future society, climate change, environmental regulation, singapore, transportation, Vehicle, Car, Transport, Artificial objects, Technology, Certificate of Entitlement, Industries]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Evolution: The beneficiaries of mass extinction"
 date: 2017-10-10 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Extinction event, Extinction, Biodiversity, Dinosaur, Ecology, Biology theories, Environmental social science, Earth sciences, Organisms, Nature, Biology, Evolutionary biology, Biological evolution, Evolution, Natural environment, Paleontological concepts and hypotheses, Science, Biogeochemistry, Biological concepts]
 ---
 
 

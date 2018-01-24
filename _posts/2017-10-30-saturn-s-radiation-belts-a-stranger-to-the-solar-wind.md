@@ -4,7 +4,7 @@ title: "Saturn's radiation belts: A stranger to the solar wind"
 date: 2017-10-30 21:59:52
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [space exploration, Van Allen radiation belt, Saturn, Solar wind, Sun, Magnetosphere, Radiation, Cassini–Huygens, Planet, Cosmic ray, Earth, Tethys (moon), Natural satellite, NASA, Physics, Astronomical objects, Nature, Solar System, Planetary science, Astronomy, Space science, Physical sciences, Outer space, Exoplanet, Wind, Bodies of the Solar System, Applied and interdisciplinary physics, Rings of Saturn]
 ---
 
 

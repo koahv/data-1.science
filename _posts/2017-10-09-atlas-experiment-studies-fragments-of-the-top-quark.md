@@ -4,7 +4,7 @@ title: "ATLAS experiment studies fragments of the top quark"
 date: 2017-10-09 10:39:42
 categories: Science
 author: unknown author
-tags: [general physics]
+tags: [general physics, Top quark, Quark, ATLAS experiment, Particle physics, Standard Model, Modern physics, Subatomic particles, Physical universe, Physical bodies, Mechanics, Nuclear physics, Quantum field theory, Quantum mechanics, Theoretical physics, Physical sciences, Physics, Quantum chromodynamics, Science, Solid state engineering, Large Hadron Collider, Supersymmetry, Gluon, Applied and interdisciplinary physics]
 ---
 
 

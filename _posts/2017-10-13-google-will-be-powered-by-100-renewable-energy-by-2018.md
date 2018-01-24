@@ -4,7 +4,7 @@ title: "Google will be powered by 100% renewable energy by 2018"
 date: 2017-10-13 14:23:35
 categories: Technology
 author: Greg Beach
-tags: [energy, wind power, sustainable design, clean energy, solar energy, wind energy, zero-emissions, renewable energy, green design, innovation, san jose, google, googleplex, corporate responsibility, green technology, news, clean tech, 100% renewable energy, alternative energy, google san jose, architecture]
+tags: [energy, wind power, sustainable design, clean energy, solar energy, wind energy, zero-emissions, renewable energy, green design, innovation, san jose, google, googleplex, corporate responsibility, green technology, news, clean tech, 100% renewable energy, alternative energy, google san jose, architecture, Sustainable energy, Sustainability, Sustainable development, Energy, Natural resources, Sustainable building, Economy and the environment, Nature, Sustainable technologies, Natural environment, Physical universe, Environmental technology, Environmental social science concepts, Economic development, Economy, Environment, Sustainable architecture, Environmental social science]
 ---
 
 

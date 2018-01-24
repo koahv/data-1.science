@@ -4,7 +4,7 @@ title: "27-Year Study Finds the Amount of Insects Flying in the Air Has Declined
 date: 2017-11-19 13:00:23
 categories: Science
 author: Business Insider
-tags: [sci-fi visions, bugs, environment, extinction, insects]
+tags: [sci-fi visions, bugs, environment, extinction, insects, Insect, Agriculture, Global warming, Pollination, Natural environment, Ecology, Food security, Earth sciences, Environmental science, Earth, Physical geography, Bird, Germany]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Hows & Whys of Eclipses"
 date: 2017-06-28 14:36:36
 categories: Astronomy
 author: Alan MacRobert
-tags: [sky & telescope magazine, the 2017 total solar eclipse, solar eclipse 2017, spc]
+tags: [sky & telescope magazine, the 2017 total solar eclipse, solar eclipse 2017, spc, Solar eclipse, Moon, Sun, Lunar eclipse, Shadow, Orbit of the Moon, Eclipse, Space science, Celestial mechanics, Planetary science, Bodies of the Solar System, Solar System, Physical sciences, Outer space, Astronomy, Earth, Astrological aspects, Astrometry]
 ---
 
 
