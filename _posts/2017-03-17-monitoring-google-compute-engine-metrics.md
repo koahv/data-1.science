@@ -4,7 +4,7 @@ title: "Monitoring Google Compute Engine Metrics"
 date: 2017-03-17 11:30:00
 categories: Linux
 author: Datadog
-tags: []
+tags: [Cloud computing, Google Compute Engine, Amazon Elastic Compute Cloud, Online services, Distributed computing architecture, Computer architecture, Software, Areas of computer science, Computing infrastructure, Centralized computing, Computers, Computing, Computer engineering, Computer networking, Digital technology, Technology, Information technology management, Cloud infrastructure, Digital media, Distributed computing, Service industries, Software architecture, Cyberspace]
 ---
 
 

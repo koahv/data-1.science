@@ -4,7 +4,7 @@ title: "Waves on Sun give NASA new insight into space weather forecasting"
 date: 2017-03-30 18:11:40
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [space exploration, Sun, STEREO, Solar flare, Weather, Space weather, Coronal mass ejection, Earth, Solar Dynamics Observatory, Corona, Planetary science, Physical phenomena, Astronomical objects, Applied and interdisciplinary physics, Solar System, Space science, Physical sciences, Astronomy, Outer space, Nature, Solar cycle, Spaceflight, Bodies of the Solar System, Stellar astronomy, NASA]
 ---
 
 

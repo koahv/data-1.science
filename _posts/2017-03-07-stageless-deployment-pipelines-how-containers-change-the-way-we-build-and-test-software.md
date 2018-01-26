@@ -4,7 +4,7 @@ title: "Stageless Deployment Pipelines: How Containers Change the Way We Build a
 date: 2017-03-07 04:13:01
 categories: Linux
 author: DanGarfield
-tags: []
+tags: [Deployment environment, Software testing, Microservices, Systems engineering, Digital technology, Software development, Digital media, Information technology management, Areas of computer science, Technology, Computer engineering, Software engineering, Software, Computing, Computers, Information technology, Cloud computing]
 ---
 
 

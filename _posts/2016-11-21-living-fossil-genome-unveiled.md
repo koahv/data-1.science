@@ -4,7 +4,7 @@ title: "Living fossil genome unveiled"
 date: 2016-11-21 05:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Evolution, Genome, Ginkgo biloba, Phylogenetic tree, Biology, Ginkgo, Genetics, Species, American Association for the Advancement of Science, Beijing Genomics Institute, Gene duplication, Organisms, Life sciences, Biotechnology, Transposable element, Chinese nobility, Sequencing, Whole genome sequencing, Embryophyte, Evolutionary biology]
 ---
 
 

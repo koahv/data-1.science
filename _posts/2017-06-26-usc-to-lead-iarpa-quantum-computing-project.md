@@ -4,7 +4,7 @@ title: "USC to lead IARPA quantum computing project"
 date: 2017-06-26 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Quantum computing, Quantum annealing, Information Sciences Institute, University of Southern California, Intelligence Advanced Research Projects Activity, Science, Computer science, Computing, Technology, Areas of computer science, Science and technology, Applied mathematics, Theoretical computer science]
 ---
 
 

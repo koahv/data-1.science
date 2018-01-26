@@ -4,7 +4,7 @@ title: "10 Lessons from 10 Years of Amazon"
 date: 2017-01-10 15:00:37
 categories: Linux
 author: geekygirldawn
-tags: []
+tags: [Encryption, Computer network, Digital media, Areas of computer science, Computing, Information Age, Technology, Information technology management, Digital technology, Software, Computer networking, Computer engineering, Computers, Information technology]
 ---
 
 

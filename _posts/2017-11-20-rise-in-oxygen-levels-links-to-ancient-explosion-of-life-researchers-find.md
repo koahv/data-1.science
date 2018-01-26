@@ -4,7 +4,7 @@ title: "Rise in oxygen levels links to ancient explosion of life, researchers fi
 date: 2017-11-20 05:00:00
 categories: Science
 author: unknown author
-tags: [biodiversity, climate change, climate science, earth science, ecology, environment, evolution, paleontology, Ordovician, American Association for the Advancement of Science, Earth sciences, Nature, Physical geography, Geology, Physical sciences, Oceanography, Global natural environment, Natural environment, Environmental science]
+tags: [american association for the advancement of science, biodiversity, climate change, climate science, earth science, earth sciences, ecology, environment, environmental science, evolution, geology, global natural environment, natural environment, nature, oceanography, ordovician, paleontology, physical geography, physical sciences]
 ---
 
 

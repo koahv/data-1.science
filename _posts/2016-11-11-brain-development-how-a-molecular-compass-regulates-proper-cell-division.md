@@ -4,7 +4,7 @@ title: "Brain development: How a 'molecular compass' regulates proper cell divis
 date: 2016-11-11 16:41:35
 categories: Science
 author: unknown author
-tags: [cell & microbiology]
+tags: [cell & microbiology, Brain, MicroRNA, Cell (biology), Cellular differentiation, Neural development, Stem cell, Genetics, Gene, Mitosis, Spindle apparatus, Evolution, Life sciences, Organisms, Biology, Cell biology, Biotechnology, Biological processes, Neuroscience, Zoology, Gene expression, Cell potency, Neuron, Cell growth]
 ---
 
 

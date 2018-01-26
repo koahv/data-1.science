@@ -4,7 +4,7 @@ title: "4 stages of open leadership development"
 date: 2017-02-28 08:00:00
 categories: Open Source
 author: DeLisa
-tags: []
+tags: [Leadership, Leadership development, Business, Community, Cognition, Psychology, Behavioural sciences, Psychological concepts, Applied psychology, Cognitive science, Emergence, Action (philosophy), Social psychology, Communication]
 ---
 
 

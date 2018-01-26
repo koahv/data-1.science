@@ -4,7 +4,7 @@ title: "Genetic evidence points to nocturnal early mammals"
 date: 2017-04-20 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Evolution, Mammal, Reptile, Nocturnality, American Association for the Advancement of Science, Nature, Biology, Biological evolution, Evolutionary biology, Organisms, Common descent, Natural selection, Night vision]
 ---
 
 

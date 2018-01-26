@@ -4,7 +4,7 @@ title: "Hubble takes close-up portrait of Jupiter"
 date: 2017-04-06 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Jupiter, Hubble Space Telescope, Sun, Planet, Earth, Great Red Spot, Planetary science, Outer space, Astronomy, Physical sciences, Space science, Solar System, Planets, Bodies of the Solar System, Astronomical objects, Sky, Atmosphere, Planemos]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Basic Rules to Streamline Open Source Compliance For Software Developmen
 date: 2017-02-22 14:00:30
 categories: Linux
 author: ibrahim
-tags: []
+tags: [Open-source software, Software, Software development, Regulatory compliance, Linux Foundation, Computing, Technology, Business, Management, Linux, Information technology, Computer engineering, Intellectual works]
 ---
 
 

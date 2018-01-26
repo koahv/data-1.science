@@ -4,7 +4,7 @@ title: "Google DeepMind Makes AI Training Platform Publicly Available"
 date: 2016-12-06 10:00:41
 categories: Linux
 author: Bloomberg
-tags: []
+tags: [DeepMind, Artificial intelligence, Computing, Areas of computer science, Software, Technology, Computer science, Digital media]
 ---
 
 

@@ -4,7 +4,7 @@ title: "A Closer Look at the ‘Learning’ Aspect of Machine Learning"
 date: 2017-05-01 08:37:56
 categories: Linux
 author: The New Stack
-tags: []
+tags: [Python (programming language), Cloud computing, Machine learning, Technology, Software, Areas of computer science, Computing, Learning, Computer programming, Computer engineering, Information technology management, IPython, Software engineering]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Bridging the advances in AI and quantum computing for drug discovery and
 date: 2016-11-22 05:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Photonics, Deep learning, Insilico Medicine, Computing, Artificial intelligence, Medicine, Technology, Research, Drug discovery, Science and technology, Cognitive science, Science, Artificial objects, South Korea, Learning]
 ---
 
 

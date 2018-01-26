@@ -4,7 +4,7 @@ title: "Magnetic stem cells for gene engineering"
 date: 2016-12-28 05:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Mesenchymal stem cell, Cancer, Stem cell, Mesenchyme, Dose (biochemistry), Medicine, Tissue engineering, Clinical medicine, Health, Medical specialties, Biology, Biotechnology, Medical research, Health sciences, Life sciences, American Association for the Advancement of Science, Cell (biology), Cell biology, Cartilage]
 ---
 
 

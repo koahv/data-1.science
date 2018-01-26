@@ -4,7 +4,7 @@ title: "The Internet of Things: 10 Types of Enterprise Deployments"
 date: 2017-02-07 09:00:00
 categories: Linux
 author: ZDNet
-tags: []
+tags: [Internet of things, Technology, Business, Areas of computer science, Cyberspace, Computing, Information technology, Digital technology, Information science, Telecommunications, Information technology management, Computer networking, Information Age]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Verlinde's new theory of gravity passes first test"
 date: 2016-12-16 11:46:47
 categories: Science
 author: unknown author
-tags: [astronomy]
+tags: [astronomy, Gravity, Erik Verlinde, Black hole, General relativity, Dark matter, Photon, Universe, Spacetime, Matter, Force, Mass, Graviton, Milky Way, Physics, Light, Astronomy, Outer space, Galaxy rotation curve, Big Bang, Standard Model, Entropic gravity, Energy, Dark energy, Speed of light, Elementary particle, Galaxy, Albert Einstein, Quantum entanglement, Orbit, Star, Hubbles law, Physical cosmology, Spiral galaxy, Boson, Electron, Subatomic particle, Antimatter, Atom, Elliptical galaxy, Entropy, Bose–Einstein condensate, Quantum mechanics, Gravitational wave, Baryogenesis, Modified Newtonian dynamics, Theoretical physics, Physical universe, Nature, Applied and interdisciplinary physics, Physical quantities, Mechanics, Physical sciences, Theory, Space, Electromagnetism, Cosmic microwave background, Gravitational lens, Science, Scientific theories, Classical mechanics, Weak interaction, Natural philosophy, Astrophysics, Modern physics, Quantum gravity, Superfluidity, Quantum state, Motion (physics), Metric expansion of space, Centripetal force, Particle physics]
 ---
 
 

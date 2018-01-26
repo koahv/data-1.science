@@ -4,7 +4,7 @@ title: "An introduction to the Linux boot and startup processes"
 date: 2017-02-20 08:02:00
 categories: Open Source
 author: dboth
-tags: []
+tags: [GNU GRUB, Booting, Systemd, Master boot record, File system, Boot sector, BIOS, System software, Classes of computers, Microcomputers, Computer hardware, Computer engineering, Operating system technology, Software, Computers, Computing, Computer architecture, Areas of computer science, Disk partitioning, Runlevel, Office equipment, Utility software, Digital media, IBM PC compatibles]
 ---
 
 

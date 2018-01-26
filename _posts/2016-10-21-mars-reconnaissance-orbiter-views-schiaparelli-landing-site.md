@@ -4,7 +4,7 @@ title: "Mars Reconnaissance Orbiter views Schiaparelli landing site"
 date: 2016-10-21 17:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Schiaparelli EDM lander, ExoMars, Mars Reconnaissance Orbiter, Mars, Aerospace, Astronomy, Exploration of Mars, Space probes, Missions to the planets, Aerospace engineering, Space science, Solar System, Discovery and exploration of the Solar System, Spaceflight technologies, Flight, Spacecraft, Space technology, Astronautics, Space colonization, Space exploration, Spaceflight, Outer space, Missions to Mars, Planetary science, Unmanned spacecraft, Space robots, Space missions, Space-based economy]
 ---
 
 

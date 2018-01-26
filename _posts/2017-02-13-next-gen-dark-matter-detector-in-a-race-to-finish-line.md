@@ -4,7 +4,7 @@ title: "Next-gen dark matter detector in a race to finish line"
 date: 2017-02-13 14:20:38
 categories: Science
 author: unknown author
-tags: [general physics]
+tags: [general physics, Dark matter, XENON, Weakly interacting massive particles, Large Underground Xenon experiment, Matter, SLAC National Accelerator Laboratory, Laser, Physical sciences, Physics, Particle physics, Nature, Physical universe, Applied and interdisciplinary physics]
 ---
 
 

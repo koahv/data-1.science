@@ -4,7 +4,7 @@ title: "Space-traveling flatworms help scientists enhance understanding of regen
 date: 2017-06-09 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Experiment, Regeneration (biology), Tufts University, Science, Biology, International Space Station, Planarian]
 ---
 
 

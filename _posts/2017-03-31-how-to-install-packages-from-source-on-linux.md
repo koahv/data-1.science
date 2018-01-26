@@ -4,7 +4,7 @@ title: "How to Install Packages from Source on Linux"
 date: 2017-03-31 14:00:10
 categories: Linux
 author: jlwallen
-tags: []
+tags: [Package manager, Free software, Computing, System software, Operating system technology, Digital media, Computer engineering, Utility software, Digital technology, Software, Linux, Computer architecture, Software distribution, Git, Operating system families, Software repository]
 ---
 
 

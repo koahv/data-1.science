@@ -4,7 +4,7 @@ title: "What you need to know about open source forking"
 date: 2016-10-04 17:07:00
 categories: Open Source
 author: Paul Rubens
-tags: [open source, applications, application development, open source subnet]
+tags: [open source, applications, application development, open source subnet, Nextcloud, Fork (software development), LibreOffice, OpenOffice.org, Open-source software, Computing, Business]
 ---
 
 

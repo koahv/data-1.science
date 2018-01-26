@@ -4,7 +4,7 @@ title: "SmallGEO liftoff"
 date: 2017-01-28 08:51:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [European Space Agency, Space exploration, Technology, Outer space, Astronautics, Space technology, Space colonization, Telecommunications, Aerospace engineering, Spacecraft, Spaceflight technologies, Flight, Space programs, Spaceflight, Soyuz at the Guiana Space Centre, Aerospace]
 ---
 
 

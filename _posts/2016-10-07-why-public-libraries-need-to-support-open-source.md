@@ -4,7 +4,7 @@ title: "Why public libraries need to support open source"
 date: 2016-10-07 07:00:00
 categories: Open Source
 author: pshapiro
-tags: []
+tags: [Open-source software, Linux, TED (conference), Library, Computing, Raspberry Pi, Red Hat, Educational technology]
 ---
 
 

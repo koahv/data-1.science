@@ -4,7 +4,7 @@ title: "6 Operational Challenges to Using Open Source Software"
 date: 2017-03-15 14:30:13
 categories: Linux
 author: bweinberg
-tags: []
+tags: [Open-source software, Software development, Software, Computer engineering, Management, Computing, Technology, Business, Information technology]
 ---
 
 

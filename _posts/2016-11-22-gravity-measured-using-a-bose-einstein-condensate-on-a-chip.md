@@ -4,7 +4,7 @@ title: "Gravity measured using a Bose–Einstein condensate on a chip"
 date: 2016-11-22 16:23:27
 categories: Science
 author: unknown author
-tags: []
+tags: [Bose–Einstein condensate, Gravimeter, Gravity, Theoretical physics, Quantum mechanics, Force, Condensed matter physics, Chemistry, Mechanical engineering, Modern physics, Physical quantities, Physics, Physical sciences, Mechanics, Particle physics, Applied and interdisciplinary physics, Atom, Physical chemistry, Science, Ultracold atom, Natural philosophy, Materials science, Solid state engineering]
 ---
 
 

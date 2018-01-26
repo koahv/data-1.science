@@ -4,7 +4,7 @@ title: "The Super-Kamiokande detector awaits neutrinos from a supernova"
 date: 2016-11-10 05:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Super-Kamiokande, Neutrino, Kamioka Observatory, Applied and interdisciplinary physics, Physical sciences, Physics, Astronomy, Nature, Astrophysics, Science, Physical cosmology, Physical universe, Supernova, Astronomical objects, Outer space]
 ---
 
 

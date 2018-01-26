@@ -4,7 +4,7 @@ title: "Brain's alertness circuitry conserved through evolution"
 date: 2017-11-03 04:00:00
 categories: Science
 author: unknown author
-tags: [behavior, biotechnology, cell biology, genetics, health, medicine, mental health, molecular biology, neurobiology, neurochemistry, physiology, National Institute of Mental Health, Brain, Psychology, Psychological concepts, Cognition, Medicine, Clinical psychology, Behavioural sciences, Health, Biology, Nervous system, Neuroscience, Mental health, Zebrafish, Psychiatry-related fields]
+tags: [behavior, behavioural sciences, biology, biotechnology, brain, cell biology, clinical psychology, cognition, genetics, health, health, medicine, medicine, mental health, mental health, molecular biology, national institute of mental health, nervous system, neurobiology, neurochemistry, neuroscience, physiology, psychiatry-related fields, psychological concepts, psychology, zebrafish]
 ---
 
 

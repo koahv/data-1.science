@@ -4,7 +4,7 @@ title: "Temperature drives biodiversity"
 date: 2016-12-22 05:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Biodiversity, Ecology, Hypothesis, Species, Science, Natural environment, Biology, Nature, Earth sciences, Biogeochemistry, Organisms, Earth, American Association for the Advancement of Science, Environmental science]
 ---
 
 

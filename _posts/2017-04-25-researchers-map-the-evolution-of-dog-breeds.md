@@ -4,7 +4,7 @@ title: "Researchers map the evolution of dog breeds"
 date: 2017-04-25 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Dog, Dog breed, Biology, Organisms, Dogs, Life sciences, Genetics, Subspecies of Canis lupus, Domesticated animals]
 ---
 
 

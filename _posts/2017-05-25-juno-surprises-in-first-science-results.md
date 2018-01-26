@@ -4,7 +4,7 @@ title: "Juno: Surprises in First Science Results"
 date: 2017-05-25 20:09:26
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy in space with david dickinson, astronomy news, solar system, spacecraft and space missions, juno, juno mission, juno science, jupiter aurora, jupiter interior, jupiter magnetosphere, jupiter rings]
+tags: [astronomy in space with david dickinson, astronomy news, solar system, spacecraft and space missions, juno, juno mission, juno science, jupiter aurora, jupiter interior, jupiter magnetosphere, jupiter rings, Juno (spacecraft), Jupiter, Planetary core, Astronomy, Outer space, Planetary science, Solar System, Physical sciences, Space science, Planets, Aurora, JunoCam, Bodies of the Solar System, Astronomical objects, Planet]
 ---
 
 

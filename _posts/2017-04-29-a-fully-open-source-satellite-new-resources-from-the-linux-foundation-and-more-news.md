@@ -4,7 +4,7 @@ title: "A fully open source satellite, new resources from the Linux Foundation, 
 date: 2017-04-29 07:00:00
 categories: Open Source
 author: robinmuilwijk
-tags: []
+tags: [Open-source software, Linux Foundation, Linux, Internet of things, Free and open-source software, Digital media, Information technology, Free software, Computer engineering, Digital technology, Computing, Software, Technology, Open-source movement, Red Hat, Free content, Computers, Public commons, Intellectual works]
 ---
 
 

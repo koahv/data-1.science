@@ -4,7 +4,7 @@ title: "Dawn Result: Water is Everywhere on Ceres"
 date: 2016-12-16 16:39:52
 categories: Astronomy
 author: Kelly Beatty
-tags: [news, solar system, spacecraft and space missions]
+tags: [news, solar system, spacecraft and space missions, Ceres (dwarf planet), Dawn (spacecraft), Asteroid, Lunar water, Neutron, Gamma ray, 4 Vesta, Physical sciences, Bodies of the Solar System, Nature, Solar System, Space science, Astronomy, Outer space, Planetary science, Cosmic ray, Atom, Water]
 ---
 
 

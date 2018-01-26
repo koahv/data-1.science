@@ -4,7 +4,7 @@ title: "Curiosity captures gravity wave shaped clouds on Mars"
 date: 2017-03-24 13:00:01
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [space exploration, Mars, MAVEN, Water on Mars, Planetary science, Cloud, Atmosphere, Curiosity (rover), Astronomy, Solar System, Space science, Outer space, Physical sciences, Planets, Nature, Atmosphere of Mars, Bodies of the Solar System, Planet]
 ---
 
 

@@ -4,7 +4,7 @@ title: "X-rays capture unprecedented images of photosynthesis in action"
 date: 2016-11-21 18:09:53
 categories: Science
 author: unknown author
-tags: []
+tags: [Photosystem II, Thylakoid, Photosystem, Photosynthesis, Chemistry, Physical sciences, Applied and interdisciplinary physics, Biochemistry, Oxygen, Nature, Physical chemistry, SLAC National Accelerator Laboratory, Chemical reaction]
 ---
 
 

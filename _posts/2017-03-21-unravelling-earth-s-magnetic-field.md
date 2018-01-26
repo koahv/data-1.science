@@ -4,7 +4,7 @@ title: "Unravelling Earth’s magnetic field"
 date: 2017-03-21 09:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Plate tectonics, Earth, Crust (geology), Geomagnetic reversal, Planetary science, Earth sciences, Geology, Physical sciences, Nature, Space science, Applied and interdisciplinary physics, Geophysics, North Magnetic Pole, Swarm (spacecraft), Structure of the Earth, Lithosphere]
 ---
 
 

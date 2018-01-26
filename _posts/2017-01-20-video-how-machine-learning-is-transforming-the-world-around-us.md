@@ -4,7 +4,7 @@ title: "Video: How machine learning is transforming the world around us"
 date: 2017-01-20 15:19:26
 categories: Science
 author: unknown author
-tags: [computer sciences]
+tags: [computer sciences, Artificial intelligence, Computer, Intelligence, Cognitive science, Technology, Science and technology, Artificial objects, Cognition, Science, Areas of computer science, Algorithm, Cybernetics, Robot]
 ---
 
 

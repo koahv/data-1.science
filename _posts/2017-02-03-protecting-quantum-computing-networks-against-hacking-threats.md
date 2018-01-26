@@ -4,7 +4,7 @@ title: "Protecting quantum computing networks against hacking threats"
 date: 2017-02-03 05:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Computing, Security hacker, Quantum computing, University of Ottawa, Information, Quantum mechanics, Technology, Cognitive science, Areas of computer science, Science, Research, Applied mathematics, Information Age]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Biased bots: Human prejudices sneak into artificial intelligence systems
 date: 2017-04-13 18:10:55
 categories: Science
 author: unknown author
-tags: []
+tags: [Bias, Machine learning, Implicit-association test, Artificial intelligence, Intelligence, Language, Science, Learning, Cognitive science, Psychological concepts, Cognition, Concept, Gender, Psychology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Amazon Turns To Wind To Power Its Business"
 date: 2017-01-20 23:14:17
 categories: Technology
 author: unknown author
-tags: []
+tags: [Wind power, Renewable energy, Sustainable energy, Wind turbine, Amazon.com, Physical universe, Energy and the environment, Natural resources, Sustainable technologies, Energy, Electric power, Nature, Renewable resources, Sustainable development, Power (physics), Alternative energy, Electricity, Amazon Web Services, Energy production, Energy sources]
 ---
 
 

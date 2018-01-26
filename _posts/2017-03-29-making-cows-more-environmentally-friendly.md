@@ -4,7 +4,7 @@ title: "Making cows more environmentally friendly"
 date: 2017-03-29 16:08:01
 categories: Science
 author: unknown author
-tags: [environment]
+tags: [environment, Greenhouse gas, Global warming, Livestock, Cattle, Agriculture, Earth sciences, Global environmental issues, Climate change, Climatology, Physical geography, Natural environment, Future problems, Human impact on the environment, Volcano, Meat]
 ---
 
 

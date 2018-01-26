@@ -4,7 +4,7 @@ title: "What&#039;s important in open source today"
 date: 2016-11-16 08:00:00
 categories: Open Source
 author: nengard
-tags: []
+tags: [Open-source software, Open-source software movement, Linux, Computing, Culture, Red Hat, Technology, Software, Communication]
 ---
 
 

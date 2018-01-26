@@ -4,7 +4,7 @@ title: "Examining the Technological Overlap Between Oil, Gas and Geothermal"
 date: 2016-10-05 13:01:00
 categories: Energy
 author: unknown author
-tags: [geothermal, opinion & commentary]
+tags: [geothermal, opinion & commentary, Geothermal energy, Fossil fuel, Petroleum, Geothermal power, United States Department of Energy, Water heating, Renewable energy, Economics, Sustainable energy, Electricity generation, Technology, Water, Artificial objects, Physical universe, Nature, Energy, Energy production, Natural resources, Energy sources, Sustainable technologies, Coal, Fossil fuel power station, Fuel, Gas, Sustainable development]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Proxima liftoff"
 date: 2016-11-17 20:40:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [European Space Agency, Human spaceflight, Aerospace agencies, Spaceflight, Space exploration, Outer space, Space technology, Astronautics, Space colonization, Flight, Space traffic management, Spacecraft, Space-based economy, Scientific exploration, Space programs, Spaceflight technologies, Space industry, Aerospace engineering, Space agencies, Aerospace, Space science, Government programs, European space programmes, NASA, Thomas Pesquet, Space organizations]
 ---
 
 

@@ -4,7 +4,7 @@ title: "MIT engineers just unveiled living, glowing plants"
 date: 2017-12-13 20:31:26
 categories: Technology
 author: Lacy Cooke
-tags: [nature / environment, plants, mit, massachusetts institute of technology, nanoparticles, science, news, firefly, fireflies, glowing plant, luciferase, glowing plants, glowing, Chemistry, Artificial objects, Luciferase, Technology]
+tags: [artificial objects, chemistry, fireflies, firefly, glowing, glowing plant, glowing plants, luciferase, luciferase, massachusetts institute of technology, mit, nanoparticles, nature / environment, news, plants, science, technology]
 ---
 
 

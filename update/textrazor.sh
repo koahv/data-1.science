@@ -83,7 +83,7 @@ while IFS=$'\n' read -r line_data; do
 			comma=","
 		fi
 
-		append_tags="$(echo -e "${tags}${comma}${extracted_tags}")"
+		append_tags="$(echo -e "${tags}${comma}${extracted_tags}" | sed -e "s/'//g" )"
 	
 		#echo $append_tags
 

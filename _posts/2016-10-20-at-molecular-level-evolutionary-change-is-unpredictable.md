@@ -4,7 +4,7 @@ title: "At molecular level, evolutionary change is unpredictable"
 date: 2016-10-20 20:44:30
 categories: Science
 author: unknown author
-tags: [evolution]
+tags: [evolution, Evolution, Genetics, Species, Mutation, Hemoglobin, Biology, Natural selection, Adaptation, Biological evolution, Biology theories, Biological concepts, Organisms, Life sciences, Evolutionary biology, Nature, Protein, Phenotypic trait]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Using encrypted documents with vim"
 date: 2016-10-17 14:07:43
 categories: Linux
 author: Michael Boelen
-tags: [crypto, cryptography, encryption, vi, vim]
+tags: [crypto, cryptography, encryption, vi, vim, Cryptography, Encryption, Lynis, Blowfish (cipher), Computer file, Security technology, Information Age, Cybercrime, Data management, Technology, Crime prevention, Digital technology, Cyberspace, Computing, Computer security, Cyberwarfare, Areas of computer science, Secure communication, Information technology management, Security engineering, Information governance, Digital media, Software, Espionage techniques, Computer data, National security, Secrecy]
 ---
 
 

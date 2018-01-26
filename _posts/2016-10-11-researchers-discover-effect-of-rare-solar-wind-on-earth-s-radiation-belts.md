@@ -4,7 +4,7 @@ title: "Researchers discover effect of rare solar wind on Earth's radiation belt
 date: 2016-10-11 19:28:08
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [space exploration, Van Allen radiation belt, Solar wind, Sun, Planet, Earth, Earth analog, Physical sciences, Astronomical objects, Solar System, Nature, Planetary science, Space science, Astronomy, Outer space, Magnetosphere, Wind, Applied and interdisciplinary physics, Spaceflight, Van Allen Probes, NASA]
 ---
 
 

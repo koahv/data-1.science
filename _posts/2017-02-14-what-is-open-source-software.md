@@ -4,7 +4,7 @@ title: "What Is Open Source Software?"
 date: 2017-02-14 17:30:42
 categories: Linux
 author: bweinberg
-tags: []
+tags: [Open-source software, Free software, Shareware, Public commons, Open-source movement, Digital media, Free content, Software distribution, Intellectual works, Information technology, Copyright licenses, Computing, Business, Computer engineering, Open content, Sharing, Software licenses, Computer law, Technology, Software, Copyright law, Digital technology, Intellectual property activism, Cyberspace, Intellectual property law, Communication, Applied ethics, Regulation of technologies, Computer science, Free goods and services, Electronic publishing]
 ---
 
 

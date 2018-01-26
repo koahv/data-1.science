@@ -4,7 +4,7 @@ title: "Dawn spacecraft explores dwarf planet Ceres' interior evolution"
 date: 2017-11-09 18:57:03
 categories: Science
 author: unknown author
-tags: [ceres, dawn spacecraft, dwarf planet, jupiter, mars, Dawn (spacecraft), Ceres (dwarf planet), Secondary crater, Impact crater, NASA, Jet Propulsion Laboratory, Outer space, Planets, Space exploration, Bodies of the Solar System, Spaceflight, Solar System, Astronomy, Space science, Planetary science, Planet, Dwarf planet, Mars]
+tags: [astronomy, bodies of the solar system, ceres, ceres (dwarf planet), dawn (spacecraft), dawn spacecraft, dwarf planet, impact crater, jet propulsion laboratory, jupiter, mars, nasa, outer space, planet, planetary science, planets, secondary crater, solar system, space exploration, space science, spaceflight]
 ---
 
 

@@ -40,7 +40,7 @@ paginate_path: "/page/:num/"
 
 header_pages: 
   - Grid.md
-  - tags.md
+  - tags.html
   - search.md
 # - about.md
 #  - categories.html
@@ -53,6 +53,7 @@ exclude:
    - Gemfile.lock
    - update
    - categories.html
+   - tags.md
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/

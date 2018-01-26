@@ -4,7 +4,7 @@ title: "Strong interaction between herbivores and plants"
 date: 2017-03-23 15:43:14
 categories: Science
 author: unknown author
-tags: [ecology]
+tags: [ecology, Biodiversity, Ecosystem, Food web, Evolution, Biogeochemistry, Environmental social science, Nature, Environmental science, Ecology, Systems ecology, Organisms, Biology, Natural environment, Algae, Earth sciences, Herbivore, Species, Science]
 ---
 
 

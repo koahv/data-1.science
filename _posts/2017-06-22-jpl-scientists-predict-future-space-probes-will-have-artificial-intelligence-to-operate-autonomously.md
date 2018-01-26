@@ -4,7 +4,7 @@ title: "JPL scientists predict future space probes will have artificial intellig
 date: 2017-06-22 12:50:03
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [space exploration, Curiosity (rover), NASA, Rover (space exploration), Space probe, Flight, Space colonization, Space science, Space exploration, Astronomy, Astronautics, Solar System, Planetary science, Space technology, Outer space, Spaceflight, Physical sciences, Mars, Spacecraft, Autonomous robot]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Cells sense and explore their environments"
 date: 2017-12-14 11:36:27
 categories: Science
 author: unknown author
-tags: [cell & microbiology, Cell (biology), Protein, Cancer, Planarian, Genetics, Extracellular matrix, Biotechnology, Molecular biology, Biochemistry, Organisms, Cell biology, Life sciences, Biology, Ligand (biochemistry), Cell growth]
+tags: [biochemistry, biology, biotechnology, cancer, cell & microbiology, cell (biology), cell biology, cell growth, extracellular matrix, genetics, life sciences, ligand (biochemistry), molecular biology, organisms, planarian, protein]
 ---
 
 

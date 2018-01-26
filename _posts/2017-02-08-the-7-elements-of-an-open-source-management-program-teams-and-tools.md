@@ -4,7 +4,7 @@ title: "The 7 Elements of an Open Source Management Program: Teams and Tools"
 date: 2017-02-08 15:44:39
 categories: Linux
 author: ibrahim
-tags: []
+tags: [Open-source software, Source code, Software, Regulatory compliance, Project management, Management, Computing, Technology, Business, Audit, Accountability, Leadership, Artificial objects]
 ---
 
 

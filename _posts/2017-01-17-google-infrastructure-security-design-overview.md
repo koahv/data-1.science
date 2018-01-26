@@ -4,7 +4,7 @@ title: "Google Infrastructure Security Design Overview"
 date: 2017-01-17 09:00:00
 categories: Linux
 author: Google Cloud Platform
-tags: []
+tags: [Digital media, Technology, Computing, Information technology, Digital technology, Cyberspace, Information technology management, Online services, Service industries, Information Age, Centralized computing, World Wide Web, G Suite, Software, Areas of computer science, Cloud computing, Information retrieval]
 ---
 
 

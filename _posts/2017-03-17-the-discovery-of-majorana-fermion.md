@@ -4,7 +4,7 @@ title: "The discovery of Majorana fermion"
 date: 2017-03-17 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Majorana fermion, Superconductivity, Fermion, Condensed matter physics, Quantum field theory, Phases of matter, Applied and interdisciplinary physics, Materials science, Modern physics, Theoretical physics, Condensed matter, Mechanics, Physical sciences, Quantum mechanics, Solid state engineering, Physics, Particle physics, Chemistry, Materials, Nature, Electromagnetism, Scientific theories, Chemical product engineering, Topological insulator, Physical chemistry]
 ---
 
 

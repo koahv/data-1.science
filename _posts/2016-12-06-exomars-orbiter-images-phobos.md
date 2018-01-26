@@ -4,7 +4,7 @@ title: "ExoMars orbiter images Phobos"
 date: 2016-12-06 14:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [ExoMars, Mars, ExoMars Trace Gas Orbiter, Phobos (moon), Spaceflight, Astronomy, Flight, Bodies of the Solar System, Solar System, Space science, Planetary science, Space technology, Spacecraft, Space exploration, Outer space, Astronautics, Space colonization, Discovery and exploration of the Solar System, Spaceflight technologies, Space probes]
 ---
 
 

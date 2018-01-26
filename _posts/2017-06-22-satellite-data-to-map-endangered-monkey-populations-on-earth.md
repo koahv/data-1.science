@@ -4,7 +4,7 @@ title: "Satellite data to map endangered monkey populations on Earth"
 date: 2017-06-22 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Biodiversity, Ecology, Species, DNA, Biology, Organisms, Science, Natural environment, Life sciences, Nature, DNA sequencing, American Association for the Advancement of Science, DNA profiling]
 ---
 
 

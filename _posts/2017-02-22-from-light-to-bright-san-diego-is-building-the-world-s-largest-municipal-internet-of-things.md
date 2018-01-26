@@ -4,7 +4,7 @@ title: "From Light To Bright: San Diego Is Building The World’s Largest Munici
 date: 2017-02-22 22:37:18
 categories: Technology
 author: unknown author
-tags: []
+tags: [Street light, Light-emitting diode, Lighting, Technology, Artificial objects, Computing, Gunfire locator]
 ---
 
 

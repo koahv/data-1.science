@@ -4,7 +4,7 @@ title: "What teeth reveal about the lives of modern humans"
 date: 2017-01-09 05:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Tooth, Fossil, Evolution, Anthropology, Wisdom tooth, Human evolution, Food, American Association for the Advancement of Science, Tooth decay]
 ---
 
 

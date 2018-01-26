@@ -4,7 +4,7 @@ title: "One step closer to crops with twice the yield"
 date: 2017-11-10 14:48:12
 categories: Science
 author: unknown author
-tags: [biotechnology, environment, genetics, photosynthesis, plant sciences, Photosynthesis, Plant breeding, Genetics, Water, Gene, Genetic variation, Arabidopsis thaliana, Nature, Organisms, Biology, Life sciences, Soil, Natural environment]
+tags: [arabidopsis thaliana, biology, biotechnology, environment, gene, genetic variation, genetics, genetics, life sciences, natural environment, nature, organisms, photosynthesis, photosynthesis, plant breeding, plant sciences, soil, water]
 ---
 
 

@@ -4,7 +4,7 @@ title: "A Brief History of Random Numbers"
 date: 2017-03-31 11:00:56
 categories: Linux
 author: freeCodeCamp
-tags: []
+tags: [Mathematics, Statistical randomness, Science, Randomness, Probability theory, Statistics, Probability and statistics, Applied mathematics, Statistical theory, Scientific method, Probability, Scientific theories]
 ---
 
 

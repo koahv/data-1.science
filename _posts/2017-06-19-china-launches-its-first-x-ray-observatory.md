@@ -4,7 +4,7 @@ title: "China Launches Its First X-ray Observatory"
 date: 2017-06-19 19:44:21
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy blogs, astronomy in space with david dickinson, astronomy news, spacecraft and space missions, 2017 space missions, hxmt, x-ray astronomy]
+tags: [astronomy blogs, astronomy in space with david dickinson, astronomy news, spacecraft and space missions, 2017 space missions, hxmt, x-ray astronomy, X-ray astronomy, Astrophysical X-ray source, Astronomy, NuSTAR, Telescope, Observatory, Space exploration, Nature, Space science, Observational astronomy, Scientific observation, Spaceflight, Physical sciences, Outer space, Hitomi (satellite), Gamma ray, Astronomical imaging, Spacecraft, Electromagnetic spectrum]
 ---
 
 

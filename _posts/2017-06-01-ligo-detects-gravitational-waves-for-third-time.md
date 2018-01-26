@@ -4,7 +4,7 @@ title: "LIGO detects gravitational waves for third time"
 date: 2017-06-01 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [LIGO, Black hole, Virgo interferometer, First observation of gravitational waves, Binary black hole, Applied and interdisciplinary physics, General relativity, Gravitation, Mechanics, Science, Outer space, Physical phenomena, Theory of relativity, Physical quantities, Natural philosophy, Astronomical objects, Physical cosmology, Spacetime, Physics, Astronomy, Physical sciences, Gravitational wave]
 ---
 
 

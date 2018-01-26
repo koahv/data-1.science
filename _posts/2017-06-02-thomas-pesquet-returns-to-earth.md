@@ -4,7 +4,7 @@ title: "Thomas Pesquet returns to Earth"
 date: 2017-06-02 12:48:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Thomas Pesquet, Astronaut, International Space Station, European Space Agency, Spacecraft, Aerospace, Government programs, Human spaceflight programs, Space agencies, Spaceflight, Space exploration, Outer space, Human spaceflight, Astronautics, Space technology, Flight, Space colonization, Space industry, Space-based economy, Spaceflight technologies, Space programs, Scientific exploration, Aerospace engineering, Peggy Whitson, Fyodor Yurchikhin, Manned spacecraft]
 ---
 
 

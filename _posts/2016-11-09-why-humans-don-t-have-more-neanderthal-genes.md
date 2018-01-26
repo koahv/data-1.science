@@ -4,7 +4,7 @@ title: "Why Humans Don't Have More Neanderthal Genes"
 date: 2016-11-09 15:02:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Neanderthal, Evolution, Anatomically modern human, Hybrid (biology), Gene, Mutation, Genetics, Genome, Biological concepts, Life sciences, Statistical genetics, Evolutionary biology, Organisms, Biology, Biology theories, Biotechnology, Population genetics, Biological evolution, Archaic human admixture with modern humans, Paleontological concepts and hypotheses, Natural selection]
 ---
 
 

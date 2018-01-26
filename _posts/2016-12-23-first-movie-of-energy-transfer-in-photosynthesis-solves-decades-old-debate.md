@@ -4,7 +4,7 @@ title: "First movie of energy transfer in photosynthesis solves decades-old deba
 date: 2016-12-23 10:00:01
 categories: Science
 author: unknown author
-tags: [materials science]
+tags: [materials science, Photosynthesis, Photosynthetic reaction centre, Artificial photosynthesis, Photosystem II, Energy, Chemical reaction, Physical sciences, Nature, Chemistry, Photosystem]
 ---
 
 

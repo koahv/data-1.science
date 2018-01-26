@@ -4,7 +4,7 @@ title: "NASA's MAVEN mission observes ups and downs of water escape from Mars"
 date: 2016-10-19 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [MAVEN, Mars, Atmosphere of Earth, Atmosphere, Sun, Nature, Bodies of the Solar System, Spaceflight, Outer space, Space science, Physical sciences, Astronomy, Planetary science, Solar System, Space exploration, Planets]
 ---
 
 

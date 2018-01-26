@@ -4,7 +4,7 @@ title: "More than the sum of its parts: the ATLAS Experiment looks inside the pr
 date: 2017-06-13 14:04:10
 categories: Science
 author: unknown author
-tags: [general physics]
+tags: [general physics, Particle physics, Proton, Gluon, ATLAS experiment, Large Hadron Collider, Quark, Quantum chromodynamics, Jet (particle physics), Hadron, Physics, Higgs boson, Theoretical physics, Physical sciences, Quantum mechanics, Mechanics, Quantum field theory, Nuclear physics, Modern physics, Physical bodies, Standard Model, Physical universe, Solid state engineering, Applied and interdisciplinary physics, Subatomic particles, Chemistry, Condensed matter physics, Nature, ALICE experiment, Science, Strong interaction]
 ---
 
 

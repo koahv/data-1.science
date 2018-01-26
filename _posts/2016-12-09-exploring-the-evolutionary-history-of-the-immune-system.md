@@ -4,7 +4,7 @@ title: "Exploring the evolutionary history of the immune system"
 date: 2016-12-09 05:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [ALOX15, Inflammation, Evolution, Primate, Enzyme, Biochemistry, Life sciences, Biotechnology, Cell biology, Molecular biology, Macromolecules, Biology, Organisms, American Association for the Advancement of Science, Nutrients, Biomolecules, Structural biology]
 ---
 
 

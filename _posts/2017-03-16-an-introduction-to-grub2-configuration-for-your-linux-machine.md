@@ -4,7 +4,7 @@ title: "An Introduction to GRUB2 Configuration for your Linux Machine"
 date: 2017-03-16 08:30:56
 categories: Linux
 author: OpenSource.com
-tags: []
+tags: [GNU GRUB, Free software, Microcomputers, Booting, Operating system families, Areas of computer science, Computer engineering, Computers, System software, Computing, Software, Operating system technology, Computer architecture, IBM PC compatibles, Classes of computers, Unix, Digital media, x86 architecture]
 ---
 
 

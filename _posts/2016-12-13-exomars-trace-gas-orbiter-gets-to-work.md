@@ -4,7 +4,7 @@ title: "ExoMars Trace Gas Orbiter Gets to Work"
 date: 2016-12-13 19:45:37
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy blogs, astronomy in space with david dickinson, news, solar system, spacecraft and space missions, exomars, mars]
+tags: [astronomy blogs, astronomy in space with david dickinson, news, solar system, spacecraft and space missions, exomars, mars, Mars, ExoMars, Mars Reconnaissance Orbiter, Phobos (moon), ExoMars Trace Gas Orbiter, Schiaparelli EDM lander, MAVEN, Atmosphere of Mars, Bodies of the Solar System, Aerospace engineering, Unmanned spacecraft, Spaceflight technologies, Planets, Missions to Mars, Space probes, Outer space, Spaceflight, Space exploration, Solar System, Space technology, Missions to the planets, Exploration of Mars, Planetary science, Astronomy, Spacecraft, Discovery and exploration of the Solar System, Flight, Space science, Astronautics, Space colonization, Aerospace, Space robots, Space-based economy, Space missions]
 ---
 
 

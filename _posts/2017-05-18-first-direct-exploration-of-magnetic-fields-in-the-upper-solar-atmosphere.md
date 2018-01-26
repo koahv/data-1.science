@@ -4,7 +4,7 @@ title: "First direct exploration of magnetic fields in the upper solar atmospher
 date: 2017-05-18 01:00:01
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [space exploration, Sun, Ultraviolet, Light, Polarization (waves), Solar Dynamics Observatory, Electromagnetic spectrum, Star, Hydrogen, Astronomy, Physical phenomena, Physics, Physical sciences, Applied and interdisciplinary physics, Nature, Electromagnetic radiation, Outer space, Atmosphere, Galaxy, Astronomical objects, Chromosphere, Natural philosophy]
 ---
 
 

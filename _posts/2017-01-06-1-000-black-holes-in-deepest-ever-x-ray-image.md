@@ -4,7 +4,7 @@ title: "1,000 Black Holes in Deepest-Ever X-ray Image"
 date: 2017-01-06 20:12:47
 categories: Astronomy
 author: Monica Young
-tags: [black holes, galaxies, news, spacecraft and space missions]
+tags: [black holes, galaxies, news, spacecraft and space missions, Chandra X-ray Observatory, Galaxy, Black hole, Astronomy, Star formation, Hubble Ultra-Deep Field, Hubble Space Telescope, Supermassive black hole, Star, Telescope, X-ray, Observatory, Astronomical objects, Applied and interdisciplinary physics, Nature, Physics, Outer space, Physical sciences, Physical cosmology, Astrophysical X-ray source, Scientific observation, Observational astronomy]
 ---
 
 

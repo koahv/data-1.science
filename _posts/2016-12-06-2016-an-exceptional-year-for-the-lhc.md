@@ -4,7 +4,7 @@ title: "2016—an exceptional year for the LHC"
 date: 2016-12-06 14:00:21
 categories: Science
 author: unknown author
-tags: [general physics]
+tags: [general physics, Large Hadron Collider, ATLAS experiment, Particle accelerator, Compact Muon Solenoid, CERN, Collider, Particle physics, Physics, Physical sciences, Applied and interdisciplinary physics, Experimental physics, Chemistry, Physical universe, ALICE experiment]
 ---
 
 

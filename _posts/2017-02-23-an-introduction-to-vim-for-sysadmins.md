@@ -4,7 +4,7 @@ title: "An Introduction to Vim for Sysadmins"
 date: 2017-02-23 14:30:53
 categories: Linux
 author: cschroder
-tags: []
+tags: [Vim (text editor), Computer keyboard, Arrow keys, Text editor, Undo, Linux distribution, Software, System software, Computing, Computers, Computer architecture, Esc key]
 ---
 
 

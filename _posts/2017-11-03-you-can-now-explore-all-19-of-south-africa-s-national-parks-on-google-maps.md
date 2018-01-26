@@ -4,7 +4,7 @@ title: "You can now explore all 19 of South Africa's National Parks on Google Ma
 date: 2017-11-03 17:59:29
 categories: Technology
 author: Amanda Froelich
-tags: [south africa, conservation, green technology, innovation, earth, google, cape town, national parks, google maps, science, biodiversity, news, hiking, volunteering, things to do, South Africa]
+tags: [biodiversity, cape town, conservation, earth, google, google maps, green technology, hiking, innovation, national parks, news, science, south africa, south africa, things to do, volunteering]
 ---
 
 

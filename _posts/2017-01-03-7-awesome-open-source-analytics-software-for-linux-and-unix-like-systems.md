@@ -4,7 +4,7 @@ title: "7 Awesome Open Source Analytics Software For Linux and Unix-like Systems
 date: 2017-01-03 12:07:19
 categories: Linux
 author: Vivek Gite
-tags: [open source, devops, downloads, freebsd, linux, sysadmin, unix]
+tags: [open source, devops, downloads, freebsd, linux, sysadmin, unix, Web analytics, Website, World Wide Web, Operating system, AWStats, Webalizer, Cross-platform, System software, Computing, Computers, Web development, Information technology management, Hypertext, Cyberspace, Technology, Digital technology, Computer engineering, Software, Digital media, W3Perl, Google Analytics, Areas of computer science, Web server, Web traffic, Information Age, Software engineering]
 ---
 
 

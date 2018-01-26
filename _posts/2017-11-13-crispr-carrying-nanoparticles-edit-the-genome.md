@@ -4,7 +4,7 @@ title: "CRISPR-carrying nanoparticles edit the genome"
 date: 2017-11-13 15:59:59
 categories: Science
 author: Anne Trafton | MIT News Office
-tags: [Cas9, RNA, CRISPR, PCSK9, Virus, Gene, Messenger RNA, Life sciences, Biotechnology, Genetics, Biology, Organisms, Biochemistry, Molecular biology, Medicine, Nucleic acids]
+tags: [biochemistry, biology, biotechnology, cas9, crispr, gene, genetics, life sciences, medicine, messenger rna, molecular biology, nucleic acids, organisms, pcsk9, rna, virus]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Next step towards a gravitational-wave observatory in space"
 date: 2016-10-26 10:18:57
 categories: Science
 author: unknown author
-tags: [astronomy]
+tags: [astronomy, Gravitational wave, Gravity, Black hole, Astronomy, Physical sciences, Outer space, Physics, Science, Physical cosmology, Spacetime, Astronomical objects, Laser Interferometer Space Antenna, General relativity, LISA Pathfinder]
 ---
 
 

@@ -4,7 +4,7 @@ title: "AWS Launches Linux Container Image for On-Premise"
 date: 2016-11-03 08:00:00
 categories: Linux
 author: Cloud Pro
-tags: []
+tags: [Cloud computing, Information technology management, Centralized computing, Computing, Software, Computers, Computer architecture, Computer engineering, Technology, Areas of computer science, Digital technology, Distributed computing architecture, Computing infrastructure, Amazon Elastic Compute Cloud, Computer networking, Digital media]
 ---
 
 

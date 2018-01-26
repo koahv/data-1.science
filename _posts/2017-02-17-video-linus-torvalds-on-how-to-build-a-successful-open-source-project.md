@@ -4,7 +4,7 @@ title: "Video: Linus Torvalds on How to Build a Successful Open Source Project"
 date: 2017-02-17 15:23:05
 categories: Linux
 author: LibbyClark
-tags: []
+tags: [Linux kernel, Linus Torvalds, Open-source model, Computing, Finnish computer programmers, Technology, Software, Computer engineering, Linux kernel programmers, Finnish computer scientists, Linux people, Linux Foundation, Digital media, Linux]
 ---
 
 

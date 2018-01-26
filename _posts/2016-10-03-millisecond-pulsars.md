@@ -4,7 +4,7 @@ title: "Millisecond pulsars"
 date: 2016-10-03 12:00:01
 categories: Science
 author: unknown author
-tags: [astronomy]
+tags: [astronomy, Pulsar, Star, 47 Tucanae, Neutron star, Astronomy, Binary star, Millisecond pulsar, Star cluster, Globular cluster, Physical sciences, Astronomical objects, Stellar astronomy, Stars, Outer space, Fermi Gamma-ray Space Telescope, Supernova, Nature]
 ---
 
 

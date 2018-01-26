@@ -4,7 +4,7 @@ title: "Red Hat Unveils End-to-End Cloud-Native Development Environment with Red
 date: 2017-05-02 04:00:00
 categories: Linux
 author: unknown author
-tags: []
+tags: [Red Hat, Software development, Cloud computing, Software, Linux, Application software, Open-source software, OpenShift, Computing, Technology, Computer engineering, Digital technology, Areas of computer science, Digital media, Information technology management, Containerization, Business, Software engineering, Deployment environment]
 ---
 
 

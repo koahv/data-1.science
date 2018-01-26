@@ -4,7 +4,7 @@ title: "Programming human cells to follow sets of logical instructions"
 date: 2017-03-29 13:00:04
 categories: Science
 author: unknown author
-tags: [biotechnology]
+tags: [biotechnology, DNA, Stem cell, Genetics, Cell (biology), Protein, Gene, Cancer, CRISPR, Life sciences, Organisms, Biology, Biotechnology, Biochemistry, Cell biology, Cellular differentiation, Synthetic biology, Somatic cell nuclear transfer, Cloning, Organism]
 ---
 
 

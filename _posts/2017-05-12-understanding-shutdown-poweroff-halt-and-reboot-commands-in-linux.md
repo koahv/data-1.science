@@ -4,7 +4,7 @@ title: "Understanding Shutdown, Poweroff, Halt and Reboot Commands in Linux"
 date: 2017-05-12 08:32:17
 categories: Linux
 author: Aaron Kili
-tags: [linux commands, linux tricks]
+tags: [linux commands, linux tricks, Booting, Cyberspace, Digital technology, Digital media, Computer engineering, Technology, Computer architecture, System software, Areas of computer science, Computers, Software, Computing, Server (computing)]
 ---
 
 

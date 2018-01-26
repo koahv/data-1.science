@@ -4,7 +4,7 @@ title: "Soon, The Only Tech Jobs Will Be Design Or Data"
 date: 2017-01-04 10:00:08
 categories: Technology
 author: unknown author
-tags: []
+tags: [Application software, Cloud computing, Application programming interface, Computer programming, Web application, Digital technology, Systems engineering, Computers, Software development, Information technology management, Digital media, Software engineering, Areas of computer science, Computer engineering, Technology, Software, Computing, Amazon Web Services, Computer science, World Wide Web, Information technology, Component-based software engineering, Software framework, Communication]
 ---
 
 

@@ -4,7 +4,7 @@ title: "New species evolve faster as mountains form"
 date: 2017-04-03 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Biodiversity, Species, Mountain, Fossil, Alps, American Association for the Advancement of Science, Himalayas, Natural environment, Science, Organisms, Nature, Biology, Earth sciences, Habitat, Plate tectonics, Scientist]
 ---
 
 
