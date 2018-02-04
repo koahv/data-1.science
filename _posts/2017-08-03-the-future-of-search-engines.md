@@ -4,7 +4,7 @@ title: "The future of search engines"
 date: 2017-08-03 04:00:00
 categories: Technology
 author: unknown author
-tags: [Artificial intelligence, Deep learning, Artificial neural network, Machine learning, Crowdsourcing, Information, American Association for the Advancement of Science, Natural language processing, Graphics processing unit, Cognitive science, Information science, Cognition, Technology, Computing, Areas of computer science, Cybernetics, Information extraction, Language, Ontology (information science)]
+tags: [Artificial intelligence, Deep learning, Artificial neural network, Machine learning, Crowdsourcing, Information, American Association for the Advancement of Science, Natural language processing, Graphics processing unit, Cognition, Information science, Cognitive science, Areas of computer science, Technology, Computing]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Artificial intelligence, Deep learning, Artificial neural network, Machin
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/uota-tfo080217.php)
 
 id:  416092
+
+

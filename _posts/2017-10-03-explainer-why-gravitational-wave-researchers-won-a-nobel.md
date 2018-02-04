@@ -4,7 +4,7 @@ title: "Explainer: Why gravitational wave researchers won a Nobel"
 date: 2017-10-03 19:40:02
 categories: Science
 author: unknown author
-tags: [general physics, Gravity, Gravitational wave, Barry Barish, LIGO, Physics, Laser, Spacetime, Physical sciences, Mechanics, Science, Astronomy, Physical cosmology, Applied and interdisciplinary physics, Physical universe, Theoretical physics, General relativity, Universe, Nature, Black hole, Natural philosophy, Gravitation]
+tags: [Gravity, Gravitational wave, Barry Barish, LIGO, Physics, Spacetime, Physical sciences, Mechanics, Astronomy, Science, Physical cosmology, Physical universe, Theoretical physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [general physics, Gravity, Gravitational wave, Barry Barish, LIGO, Physics
 [Visit Link](https://phys.org/news/2017-10-gravitational-won-nobel.html)
 
 id:  434781
+
+

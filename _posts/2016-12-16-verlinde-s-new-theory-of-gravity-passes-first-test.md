@@ -17,3 +17,5 @@ tags: [astronomy, Gravity, Erik Verlinde, Black hole, General relativity, Dark m
 [Visit Link](http://phys.org/news/2016-12-verlinde-theory-gravity.html)
 
 id:  350140
+
+

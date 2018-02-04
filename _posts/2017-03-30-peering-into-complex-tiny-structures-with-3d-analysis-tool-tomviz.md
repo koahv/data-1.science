@@ -4,7 +4,7 @@ title: "Peering into complex, tiny structures with 3D analysis tool tomviz"
 date: 2017-03-30 07:01:00
 categories: Open Source
 author: hovden
-tags: [Nanotechnology, Science, Nanomaterials, Tomography, 3D computer graphics, Software, VTK, Technology, Computing, Artificial objects, Science and technology, Scientific visualization, Materials science, Open-source model, Open science, Python (programming language)]
+tags: [Nanotechnology, Nanomaterials, Science, Tomography, Scientific visualization, 3D computer graphics, Open science, Open-source model, Software, Science and technology, Technology, Computing, Artificial objects]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Nanotechnology, Science, Nanomaterials, Tomography, 3D computer graphics,
 [Visit Link](https://opensource.com/article/17/3/tomviz-large-3D-datasets)
 
 id:  378993
+
+

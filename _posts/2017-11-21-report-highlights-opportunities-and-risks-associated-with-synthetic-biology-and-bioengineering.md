@@ -4,7 +4,7 @@ title: "Report highlights opportunities and risks associated with synthetic biol
 date: 2017-11-21 05:00:00
 categories: Science
 author: unknown author
-tags: [agriculture, agriculture, artificial objects, biological engineering, biology, biology, biotech, biotechnology, disease, engineering, genetic engineering, genome editing, health, human microbiota, life sciences, medicine, microbiota, organisms, pharmaceutical drug, plant sciences, risk, science, science and technology, sustainability, synthetic biology, technology]
+tags: [Microbiota, Technology, Disease, Human microbiota, Synthetic biology, Engineering, Biological engineering, Genome editing, Sustainability, Agriculture, Pharmaceutical drug, Health, Artificial objects, Organisms, Life sciences, Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [agriculture, agriculture, artificial objects, biological engineering, bio
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/uoc-rho112117.php)
 
 id:  456939
+
+

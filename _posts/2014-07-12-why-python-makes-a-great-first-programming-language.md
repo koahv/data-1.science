@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.linuxtoday.com/developer/why-python-makes-a-great-first-programming-language.html)
 
 id:   19053
+
+

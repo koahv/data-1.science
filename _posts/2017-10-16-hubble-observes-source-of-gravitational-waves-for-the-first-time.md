@@ -4,7 +4,7 @@ title: "Hubble observes source of gravitational waves for the first time"
 date: 2017-10-16 04:00:00
 categories: Science
 author: unknown author
-tags: [Gravitational wave, Astronomy, LIGO, Neutron star, Star, Gamma-ray burst, Telescope, Fermi Gamma-ray Space Telescope, Hubble Space Telescope, NGC 4993, Gravity, Gravitational-wave observatory, Virgo interferometer, Applied and interdisciplinary physics, Physical universe, Physical phenomena, Astronomical objects, Nature, Physics, Physical sciences, Outer space, Neutron, Stars, Stellar astronomy, Physical cosmology]
+tags: [Gravitational wave, Astronomy, LIGO, Neutron star, Star, Gamma-ray burst, Telescope, Fermi Gamma-ray Space Telescope, NGC 4993, Hubble Space Telescope, Gravity, Gravitational-wave observatory, Virgo interferometer, Nature, Physical sciences, Physical phenomena, Astronomical objects, Applied and interdisciplinary physics, Physical universe, Physics, Outer space]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Gravitational wave, Astronomy, LIGO, Neutron star, Star, Gamma-ray burst,
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/eic-hos101617.php)
 
 id:  439678
+
+

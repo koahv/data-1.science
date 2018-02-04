@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.zdnet.com/article/what-is-devops-an-executive-guide-to-agile-development-and-it-operations/#ftag=RSSbaffb68)
 
 id:  437393
+
+

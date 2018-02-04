@@ -4,7 +4,7 @@ title: "Team unveils dual-channel biological function generator"
 date: 2017-05-08 14:50:01
 categories: Science
 author: unknown author
-tags: [cell & microbiology, Oscilloscope, Signal, Synthetic biology, Biology, Optogenetics, Electronic circuit, Genetics, Organisms, Life sciences, Artificial objects, Technology, Gene, Bacteria, Biological engineering, Electronics]
+tags: [Oscilloscope, Signal, Synthetic biology, Biology, Optogenetics, Gene, Organisms, Life sciences, Artificial objects, Technology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [cell & microbiology, Oscilloscope, Signal, Synthetic biology, Biology, Op
 [Visit Link](https://phys.org/news/2017-05-team-unveils-dual-channel-biological-function.html)
 
 id:  390639
+
+

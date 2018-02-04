@@ -17,3 +17,5 @@ tags: [linux commands, linux tricks]
 [Visit Link](http://www.tecmint.com/record-and-replay-linux-terminal-session-commands-using-script/)
 
 id:  186759
+
+

@@ -17,3 +17,5 @@ tags: [eco travel, solar powered airport, solar plant, solar power, news, clean 
 [Visit Link](http://inhabitat.com/india-just-unveiled-the-worlds-first-100-solar-powered-airport/)
 
 id:  178254
+
+

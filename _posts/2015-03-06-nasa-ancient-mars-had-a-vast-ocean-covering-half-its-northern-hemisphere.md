@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->       A primitive ocean on Mars held more water than Earth’s Arctic Ocean, according to NASA scientists who, using ground-based observatories, measured water signatures in the Red Planet’s atmosphere. Scientists have been searching for answers to why this vast water supply left the surface. “Our study provides a solid estimate of how much water Mars once had, by determining how much water was lost to space,” said Geronimo Villanueva, a scientist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and lead author of the new paper. “With this work, we can better understand the history of water on Mars.” Perhaps about 4.3 billion years ago, Mars would have had enough water to cover its entire surface in a liquid layer about 450 feet (137 meters) deep. More likely, the water would have formed an ocean occupying almost half of Mars’ northern hemisphere, in some regions reaching depths greater than a mile (1.6 kilometers). The new estimate is based on detailed observations...
+>       A primitive ocean on Mars held more water than Earth’s Arctic Ocean, according to NASA scientists who, using ground-based observatories, measured water signatures in the Red Planet’s atmosphere. Scientists have been searching for answers to why this vast water supply left the surface. “Our study provides a solid estimate of how much water Mars once had, by determining how much water was lost to space,” said Geronimo Villanueva, a scientist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and lead author of the new paper. “With this work, we can better understand the history of water on Mars.” Perhaps about 4.3 billion years ago, Mars would have had enough water to cover its entire surface in a liquid layer about 45...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/vAr16tXjnjI/nasa-4-billion-years-ago-mars-had-a-vast-ocean-covering-half-of-northern-hemisphere.html)
 
 id:   91967
+
+

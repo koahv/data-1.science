@@ -4,7 +4,7 @@ title: "Achieving high-value chemical diversity for the pharmaceutical artificia
 date: 2017-10-13 04:00:00
 categories: Science
 author: unknown author
-tags: [Artificial neural network, Drug discovery, Artificial intelligence, Insilico Medicine, Autoencoder, Medicine, Biology, Cognitive science, Science, Technology, Life sciences, Molecule, Pharmaceutical drug, Artificial objects, Cognition]
+tags: [Artificial neural network, Drug discovery, Artificial intelligence, Insilico Medicine, Autoencoder, Medicine, Science, Technology, Cognitive science, Life sciences, Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Artificial neural network, Drug discovery, Artificial intelligence, Insil
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/imi-ahc101217.php)
 
 id:  438834
+
+

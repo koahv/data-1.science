@@ -4,7 +4,7 @@ title: "Researchers store computer operating system and short movie on DNA"
 date: 2017-03-02 19:00:05
 categories: Science
 author: unknown author
-tags: [biotechnology, DNA, DNA sequencing, Genetics, Computer data storage, Biology, Life sciences, Biotechnology, Organisms, Molecular biology, Biochemistry, Microsatellite, Genome, Polymerase chain reaction]
+tags: [DNA, DNA sequencing, Computer data storage, Life sciences, Genetics, Biochemistry, Biology, Molecular biology, Organisms, Biotechnology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [biotechnology, DNA, DNA sequencing, Genetics, Computer data storage, Biol
 [Visit Link](https://phys.org/news/2017-03-short-movie-dna.html)
 
 id:  370673
+
+

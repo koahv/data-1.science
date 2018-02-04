@@ -17,3 +17,5 @@ tags: [clean power, concentrating solar power, solar energy, solar records, sola
 [Visit Link](http://cleantechnica.com/2016/08/25/anu-team-achieves-record-solar-thermal-efficiency-97/)
 
 id:  317752
+
+

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->Emily Whitehead was just 5 years old when she fell ill with acute lymphoblastic leukemia, the most common type of childhood cancer. Most kids beat the disease within two years, but Emily relapsed twice after several rounds of chemotherapy. Desperate to find a treatment, her parents enrolled her in an experimental trial at The Children’s Hospital of Philadelphia (CHOP) in early 2012. CHOP’s doctors drew her blood and collected some of Emily’s T lymphocytes — white blood cells that form the backbone of the human immune system. The team then reprogrammed the cells by altering their DNA so they would recognize and kill Emily’s cancer. Doctors injected them back into Emily’s bloodstream, where the cells multiplied and wiped out the disease. Emily has remained cancer-free since. She’s become the poster child for a new type of personalized medicine called cellular immunotherapy, a type of regenerative medicine that seeks to fix faulty cells and tissues by reengineering their DNA and restoring...
+>Emily Whitehead was just 5 years old when she fell ill with acute lymphoblastic leukemia, the most common type of childhood cancer. Most kids beat the disease within two years, but Emily relapsed twice after several rounds of chemotherapy. Desperate to find a treatment, her parents enrolled her in an experimental trial at The Children’s Hospital of Philadelphia (CHOP) in early 2012. CHOP’s doctors drew her blood and collected some of Emily’s T lymphocytes — white blood cells that form the backbone of the human immune system. The team then reprogrammed the cells by altering their DNA so they would recognize and kill Emily’s cancer. Doctors injected them back into Emily’s bloodstream, where the cells multiplied and wiped out the disease. Emil...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.gereports.com/from-bloodstream-to-mainstream-new-cell-therapy-center-seeks-to-revolutionize-personalized-medicine/)
 
 id:  235783
+
+

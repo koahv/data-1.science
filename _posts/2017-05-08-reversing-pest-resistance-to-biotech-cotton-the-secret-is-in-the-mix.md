@@ -4,7 +4,7 @@ title: "Reversing pest resistance to biotech cotton: The secret is in the mix"
 date: 2017-05-08 19:00:07
 categories: Science
 author: unknown author
-tags: [biotechnology, Bacillus thuringiensis, Bt cotton, Cotton, Plant breeding, Agriculture, Biotechnology, Life sciences, Agronomy, Organisms, Biology, Genetically modified crops, Hybrid (biology), Food and drink, Maize]
+tags: [Bacillus thuringiensis, Bt cotton, Cotton, Plant breeding, Agriculture, Genetically modified crops, Life sciences, Organisms, Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [biotechnology, Bacillus thuringiensis, Bt cotton, Cotton, Plant breeding,
 [Visit Link](https://phys.org/news/2017-05-reversing-pest-resistance-biotech-cotton.html)
 
 id:  390726
+
+

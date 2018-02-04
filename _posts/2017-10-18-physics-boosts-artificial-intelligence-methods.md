@@ -4,7 +4,7 @@ title: "Physics boosts artificial intelligence methods"
 date: 2017-10-18 04:00:00
 categories: Technology
 author: unknown author
-tags: [Particle physics, Physics, Higgs boson, Large Hadron Collider, Machine learning, Artificial neural network, California Institute of Technology, Science, Applied mathematics, Cognitive science, Physical sciences, Areas of computer science, Technology]
+tags: [Particle physics, Physics, Higgs boson, Large Hadron Collider, Machine learning, Artificial neural network, California Institute of Technology, Cognitive science, Applied mathematics, Science]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Particle physics, Physics, Higgs boson, Large Hadron Collider, Machine le
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/ciot-pba101817.php)
 
 id:  440981
+
+

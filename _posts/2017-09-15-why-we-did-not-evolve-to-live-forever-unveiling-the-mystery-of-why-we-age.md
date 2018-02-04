@@ -4,7 +4,7 @@ title: "Why we did not evolve to live forever: Unveiling the mystery of why we a
 date: 2017-09-15 18:41:51
 categories: Science
 author: unknown author
-tags: [Evolution, Ageing, Natural selection, Gene, Autophagy, Mutation, Evolutionary biology, Genetics, Biological evolution, Biology, Life sciences, Organisms, Antagonistic pleiotropy hypothesis, Pleiotropy]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Evolution, Ageing, Natural selection, Gene, Autophagy, Mutation, Evolutio
 [Visit Link](https://www.sciencedaily.com/releases/2017/09/170915144151.htm)
 
 id:  429386
+
+

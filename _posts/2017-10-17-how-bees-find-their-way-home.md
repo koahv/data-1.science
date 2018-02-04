@@ -4,7 +4,7 @@ title: "How bees find their way home"
 date: 2017-10-17 12:37:09
 categories: Science
 author: unknown author
-tags: [plants & animals, Honey bee, Brain, Bee, Pollination, Neuron, Neuroscience, Biology, Bumblebee, Beehive, Robot, Western honey bee, Zoology, Organisms]
+tags: [Honey bee, Brain, Western honey bee, Bee, Neuroscience, Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [plants & animals, Honey bee, Brain, Bee, Pollination, Neuron, Neuroscienc
 [Visit Link](https://phys.org/news/2017-10-bees-home.html)
 
 id:  440083
+
+

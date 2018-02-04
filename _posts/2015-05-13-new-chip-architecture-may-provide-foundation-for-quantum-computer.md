@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.spacedaily.com/reports/New_chip_architecture_may_provide_foundation_for_quantum_computer_999.html)
 
 id:  122414
+
+

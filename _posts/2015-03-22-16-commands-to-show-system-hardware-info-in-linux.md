@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.linux.com/community/blogs/133-general-linux/818223-16-commands-to-show-systemhardware-info-in-linux/)
 
 id:   99855
+
+

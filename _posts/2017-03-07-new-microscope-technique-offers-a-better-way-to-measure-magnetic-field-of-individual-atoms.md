@@ -4,7 +4,7 @@ title: "New microscope technique offers a better way to measure magnetic field o
 date: 2017-03-07 14:00:02
 categories: Science
 author: unknown author
-tags: [general physics, Laser, Atom, Microscope, Magnetic field, Sensor, Optics, Applied and interdisciplinary physics, Chemistry, Physical sciences, Physics, Materials science, Atomic,  molecular,  and optical physics, Natural philosophy, Physical chemistry, Artificial objects, Technology, Electromagnetic radiation, Liquid crystal, Electromagnetism, Quantum tunnelling]
+tags: [Physics, Atom, Microscope, Magnetic field, Electromagnetism, Natural philosophy, Optics, Atomic,  molecular,  and optical physics, Electromagnetic radiation, Materials science, Applied and interdisciplinary physics, Technology, Physical sciences, Chemistry]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [general physics, Laser, Atom, Microscope, Magnetic field, Sensor, Optics,
 [Visit Link](https://phys.org/news/2017-03-microscope-technique-magnetic-field-individual.html)
 
 id:  371804
+
+

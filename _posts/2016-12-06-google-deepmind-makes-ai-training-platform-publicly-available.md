@@ -17,3 +17,5 @@ tags: [DeepMind, Artificial intelligence, Computing, Areas of computer science, 
 [Visit Link](https://www.linux.com/news/google-deepmind-makes-ai-training-platform-publicly-available)
 
 id:  346780
+
+

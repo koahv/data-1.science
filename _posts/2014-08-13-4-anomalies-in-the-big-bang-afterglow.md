@@ -9,7 +9,7 @@ tags: [astrophysics, quantum mechanics, big bang, cmbr, concentric circles, cosm
 
 
 #### Extract
->The CMBR data referenced in the study (Credit: European Space Agency) As the theory goes; some 14 billion years ago, there was &#8220;nothing&#8221; focalized in a single, highly-dense point. Then, that &#8220;nothing&#8221; exploded, hurling the ingredients for everything we see in the universe into existence. On paper, it sounds insane. Heck, it kind of IS insane, but we have several pieces of solid (but not irrefutable) evidence that show not only could it have happened this way, but that it probably did. One such proof comes in the form of the &#8220;Cosmic Microwave Background Radiation,&#8221; (CMB or CMBR) the after-glow of the big bang, if you will. It gives us an opportunity to understand the very first moments following the creation of the universe, yet it also poses many tantalizing mysteries that threaten to unhinge the very fabric on which we believe the universe was formed. Before we go into those, let&#8217;s first explore what the CMBR is. Amazingly, this story has a...
+>The CMBR data referenced in the study (Credit: European Space Agency) As the theory goes; some 14 billion years ago, there was &#8220;nothing&#8221; focalized in a single, highly-dense point. Then, that &#8220;nothing&#8221; exploded, hurling the ingredients for everything we see in the universe into existence. On paper, it sounds insane. Heck, it kind of IS insane, but we have several pieces of solid (but not irrefutable) evidence that show not only could it have happened this way, but that it probably did. One such proof comes in the form of the &#8220;Cosmic Microwave Background Radiation,&#8221; (CMB or CMBR) the after-glow of the big bang, if you will. It gives us an opportunity to understand the very first moments following the cre...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [astrophysics, quantum mechanics, big bang, cmbr, concentric circles, cosm
 [Visit Link](http://www.fromquarkstoquasars.com/4-anomalies-in-the-big-bang-afterglow/)
 
 id:   37932
+
+

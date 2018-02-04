@@ -4,7 +4,7 @@ title: "Tibetan people have multiple adaptations for life at high altitudes"
 date: 2017-04-27 18:17:46
 categories: Science
 author: unknown author
-tags: []
+tags: [Denisovan, Adaptation, Gene, Genetics, Tibetan people, Whole genome sequencing, EPAS1, Organisms, Life sciences, Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.sciencedaily.com/releases/2017/04/170427141746.htm)
 
 id:  387793
+
+

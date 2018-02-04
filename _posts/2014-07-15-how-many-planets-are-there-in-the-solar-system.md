@@ -9,7 +9,7 @@ tags: [questions & answers, resources and education, science-based q&a, planets,
 
 
 #### Extract
->There are eight planets in the solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. The four inner planets (Mercury, Venus, Earth, and Mars) fall under the category of terrestrial planets, while the outer four (Jupiter, Saturn, Uranus, and Neptune) are the gas and ice giants.<div id="attachment_9492" style="width: 310px" class="wp-caption alignright"><a href="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/solar_system_Photojournal_428px.jpg"><img class="size-medium wp-image-9492" src="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/solar_system_Photojournal_428px-300x159.jpg" alt="NASA's solar system" width="300" height="159" /><p class="wp-caption-text">As portrayed on the home page for the NASA/JPL <a href="http://photojournal.jpl.nasa.gov" target="new_window">Photojournal, our solar system is an orderly arrangement of planets orbiting the Sun.Pluto, a dwarf planet, was once classified among the aforementioned eight; however, it is now con...
+>There are eight planets in the solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. The four inner planets (Mercury, Venus, Earth, and Mars) fall under the category of terrestrial planets, while the outer four (Jupiter, Saturn, Uranus, and Neptune) are the gas and ice giants.<div id="attachment_9492" style="width: 310px" class="wp-caption alignright"><a href="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/solar_system_Photojournal_428px.jpg"><img class="size-medium wp-image-9492" src="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/solar_system_Photojournal_428px-300x159.jpg" alt="NASA's solar system" width="300" height="159" /><p class="wp-caption-text">As portrayed on the home page for the NASA...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [questions & answers, resources and education, science-based q&a, planets,
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/many-planets-solar-system/)
 
 id:   20570
+
+

@@ -4,7 +4,7 @@ title: "VLA reveals distant galaxy's magnetic field"
 date: 2017-08-28 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Astronomy, Galaxy, Quasar, Radio astronomy, Karl G. Jansky Very Large Array, Universe, Natural philosophy, Physics, Outer space, Physical sciences, Science, Physical cosmology, Astronomical objects, Spacetime, Cosmology]
+tags: [Astronomy, Galaxy, Quasar, Radio astronomy, Karl G. Jansky Very Large Array, Universe, Natural philosophy, Physical cosmology, Science, Physics, Outer space, Physical sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Astronomy, Galaxy, Quasar, Radio astronomy, Karl G. Jansky Very Large Arr
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/nrao-vrd082517.php)
 
 id:  423382
+
+

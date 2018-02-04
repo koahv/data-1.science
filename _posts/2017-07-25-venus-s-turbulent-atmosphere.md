@@ -4,7 +4,7 @@ title: "Venus's turbulent atmosphere"
 date: 2017-07-25 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Venus Express, JAXA, Atmosphere, Venus, Astronomy, Space science, Planetary science, Physical sciences, Spaceflight, Space exploration, Solar System, Outer space, Planets, Nature, Planet]
+tags: [Venus Express, JAXA, Venus, Atmosphere, Space exploration, Spaceflight, Physical sciences, Planetary science, Space science, Astronomy, Outer space]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Venus Express, JAXA, Atmosphere, Venus, Astronomy, Space science, Planeta
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/uoc-vta072517.php)
 
 id:  413143
+
+

@@ -17,3 +17,5 @@ tags: [Common Criteria, Red Hat, IBM zEnterprise System, Evaluation Assurance Le
 [Visit Link](https://www.redhat.com/en/about/press-releases/red-hat-achieves-common-criteria-security-certification-red-hat-enterprise-linux-7)
 
 id:  335480
+
+

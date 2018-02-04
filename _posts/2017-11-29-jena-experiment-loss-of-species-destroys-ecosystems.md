@@ -4,7 +4,7 @@ title: "Jena Experiment: Loss of species destroys ecosystems"
 date: 2017-11-29 05:00:00
 categories: Science
 author: unknown author
-tags: [agriculture, agriculture, american association for the advancement of science, biodiversity, biodiversity, biogeochemistry, biology, biology, earth sciences, ecology, ecology, ecosystem, environment, environmental science, environmental social science, experiment, extinction, habitat, natural environment, natural materials, natural resource management, natural resources, nature, organisms, plant sciences, soil, systems ecology, water]
+tags: [Biodiversity, Ecosystem, Ecology, Soil, Experiment, Biology, Natural environment, Nature, Earth sciences, Organisms, Natural resource management, Environmental science, Environmental social science, Systems ecology, Biogeochemistry]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [agriculture, agriculture, american association for the advancement of sci
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/tuom-jel112817.php)
 
 id:  460397
+
+

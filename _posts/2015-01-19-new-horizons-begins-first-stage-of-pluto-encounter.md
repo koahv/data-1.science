@@ -9,7 +9,7 @@ tags: [missions, nasa, new horizons, pluto, space, universe]
 
 
 #### Extract
->Image credit: NASA It has been a long, long ride. New Horizons was launched in January of 2006, which is just about 9 years ago (so happy birthday-ish, New Horizons!). It was sent into space courtesy of a Lockheed Martin Atlas V rocket, and the little craft will approach Pluto at the end of a 9 and a half year journey in July of 2015 (so it still has a little ways to go). It will pass by the dwarf planet and its moons (Charon, Nix, Hydra, Kerberos, and Styx) travelling at a staggering speed of 26,700 mph (43,000 km/h). It will then continue its path into the Kuiper belt, a disc-shaped region of volatile icy compounds such as methane, ammonia ,and water located past Neptune’s orbit (it is obviously also located past Pluto&#8217;s orbit, but Pluto is widely considered to be a Kuiper Belt object. Hence the phrasing with emphasis on Neptune). And notably, New Horizons has just started its first stages of its encounter with Pluto. “NASA first mission to distant Pluto will also be humankind’...
+>Image credit: NASA It has been a long, long ride. New Horizons was launched in January of 2006, which is just about 9 years ago (so happy birthday-ish, New Horizons!). It was sent into space courtesy of a Lockheed Martin Atlas V rocket, and the little craft will approach Pluto at the end of a 9 and a half year journey in July of 2015 (so it still has a little ways to go). It will pass by the dwarf planet and its moons (Charon, Nix, Hydra, Kerberos, and Styx) travelling at a staggering speed of 26,700 mph (43,000 km/h). It will then continue its path into the Kuiper belt, a disc-shaped region of volatile icy compounds such as methane, ammonia ,and water located past Neptune’s orbit (it is obviously also located past Pluto&#8217;s orbit, but...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [missions, nasa, new horizons, pluto, space, universe]
 [Visit Link](http://www.fromquarkstoquasars.com/new-horizons-begins-first-stage-pluto-encounter/)
 
 id:   73156
+
+

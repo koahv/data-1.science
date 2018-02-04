@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->                  Astronomers have found a huge black hole which was powering the brightest object in the early universe. The black hole's mass is 12 billion solar masses, and the surrounding quasar pumped out 10^15 times the sun's energy. An international team of astronomers have found a huge and ancient black hole which was powering the brightest object early in the universe. "Forming such a large black hole so quickly is hard to interpret with current theories," said Fuyan Bian, from the Research School of Astronomy and Astrophysics at the Australian National University. Bian said the discovery challenges theories of how black holes form and grow in the early universe. The black hole's mass is 12 billion times that of the Sun, and it lives at the centre of a quasar that pumped out a million billion times the energy of our Sun. A quasar is an extremely bright cloud of material in the process of being sucked into a black hole. As the material accelerates towards the black hole it...
+>                  Astronomers have found a huge black hole which was powering the brightest object in the early universe. The black hole's mass is 12 billion solar masses, and the surrounding quasar pumped out 10^15 times the sun's energy. An international team of astronomers have found a huge and ancient black hole which was powering the brightest object early in the universe. "Forming such a large black hole so quickly is hard to interpret with current theories," said Fuyan Bian, from the Research School of Astronomy and Astrophysics at the Australian National University. Bian said the discovery challenges theories of how black holes form and grow in the early universe. The black hole's mass is 12 billion times that of the Sun, and i...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/Tq1U4rkE-5g/ancient-black-hole-discovered-12-billion-times-mass-of-the-sun.html)
 
 id:   87800
+
+

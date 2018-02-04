@@ -17,3 +17,5 @@ tags: [Neanderthal, Evolution, Anatomically modern human, Hybrid (biology), Gene
 [Visit Link](http://www.livescience.com/56800-why-humans-dont-have-more-neanderthal-genes.html)
 
 id:  339431
+
+

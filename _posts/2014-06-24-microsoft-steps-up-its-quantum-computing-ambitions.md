@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.theverge.com/2014/6/23/5836208/microsoft-steps-up-its-quantum-computing-ambitions)
 
 id:    3801
+
+

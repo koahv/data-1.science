@@ -4,7 +4,7 @@ title: "How climate change alters plant growth"
 date: 2018-01-12 05:00:00
 categories: Science
 author: unknown author
-tags: [agriculture, arabidopsis thaliana, biology, biology, cell biology, climate change, developmental/reproductive biology, ecology/environment, genes, genetics, life sciences, organisms, plant, plant sciences]
+tags: [Arabidopsis thaliana, Biology, Organisms, Life sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [agriculture, arabidopsis thaliana, biology, biology, cell biology, climat
 [Visit Link](https://www.eurekalert.org/pub_releases/2018-01/mh-hc011218.php)
 
 id:  477087
+
+

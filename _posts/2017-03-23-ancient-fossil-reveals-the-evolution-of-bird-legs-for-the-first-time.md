@@ -4,7 +4,7 @@ title: "Ancient fossil reveals the evolution of bird legs for the first time"
 date: 2017-03-23 12:42:31
 categories: Science
 author: unknown author
-tags: [archaeology & fossils, Dinosaur, Bird, Fossil, Biology, Organisms, Nature, Enantiornithes, Anatomy, Archaeopteryx, Confuciusornis, Protein]
+tags: [Dinosaur, Bird, Fossil, Paleontology, Organisms, Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [archaeology & fossils, Dinosaur, Bird, Fossil, Biology, Organisms, Nature
 [Visit Link](https://phys.org/news/2017-03-ancient-fossil-reveals-evolution-bird.html)
 
 id:  376856
+
+

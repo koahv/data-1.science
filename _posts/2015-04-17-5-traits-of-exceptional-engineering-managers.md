@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.pddnet.com/blogs/2015/04/5-traits-exceptional-engineering-managers)
 
 id:  110828
+
+

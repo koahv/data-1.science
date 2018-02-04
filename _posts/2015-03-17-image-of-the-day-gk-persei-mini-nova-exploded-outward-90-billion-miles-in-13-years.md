@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->       In Hollywood blockbusters, explosions are often among the stars of the show. In space, explosions of actual stars are a focus for scientists who hope to better understand their births, lives, and deaths and how they interact with their surroundings. Using NASA's Chandra X-ray Observatory, astronomers have studied one particular explosion that may provide clues to the dynamics of other, much larger stellar eruptions. A team of researchers pointed the telescope at GK Persei, an object that became a sensation in the astronomical world in 1901 when it suddenly appeared as one of the brightest stars in the sky for a few days, before gradually fading away in brightness. Today, astronomers cite GK Persei as an example of a "classical nova," an outburst produced by a thermonuclear explosion on the surface of a white dwarf star, the dense remnant of a Sun-like star. A nova can occur if the strong gravity of a white dwarf pulls material from its orbiting companion star. If enough ma...
+>       In Hollywood blockbusters, explosions are often among the stars of the show. In space, explosions of actual stars are a focus for scientists who hope to better understand their births, lives, and deaths and how they interact with their surroundings. Using NASA's Chandra X-ray Observatory, astronomers have studied one particular explosion that may provide clues to the dynamics of other, much larger stellar eruptions. A team of researchers pointed the telescope at GK Persei, an object that became a sensation in the astronomical world in 1901 when it suddenly appeared as one of the brightest stars in the sky for a few days, before gradually fading away in brightness. Today, astronomers cite GK Persei as an example of a "classical n...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/ALs8RJ8j2Co/image-of-the-day-gk-persei-mini-nova-exploded-outward-90-billion-miles-in-13-years.html)
 
 id:   96626
+
+

@@ -4,7 +4,7 @@ title: "Entanglement distributed over 1200 km by quantum satellite"
 date: 2017-06-15 23:00:00
 categories: Science
 author: Hamish Johnston
-tags: [Quantum entanglement, Quantum key distribution, Condensed matter physics, Mechanics, Modern physics, Physical sciences, Theoretical physics, Quantum mechanics, Particle physics, Solid state engineering, Applied and interdisciplinary physics, Scientific theories, Science, Applied mathematics, Physics, Photon]
+tags: [Quantum entanglement, Quantum key distribution, Physics, Applied mathematics, Condensed matter physics, Science, Scientific theories, Applied and interdisciplinary physics, Particle physics, Modern physics, Solid state engineering, Physical sciences, Mechanics, Theoretical physics, Quantum mechanics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Quantum entanglement, Quantum key distribution, Condensed matter physics,
 [Visit Link](http://physicsworld.com/cws/article/news/2017/jun/16/entanglement-distributed-over-1200-km-by-quantum-satellite)
 
 id:  401666
+
+

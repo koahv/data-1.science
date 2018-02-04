@@ -4,7 +4,7 @@ title: "An introduction to machine learning today"
 date: 2017-09-20 07:02:00
 categories: Open Source
 author: Ulrich Drepper
-tags: [Artificial intelligence, Algorithm, Statistical classification, Machine learning, Mathematical optimization, Artificial neural network, Test set, Statistics, Regression analysis, Unsupervised learning, Cognitive science, Cybernetics, Mathematics, Areas of computer science, Cognition, Applied mathematics, Computational complexity theory, K-nearest neighbors algorithm, Learning, Supervised learning, Function (mathematics), Scientific method, Systems science]
+tags: [Artificial intelligence, Algorithm, Statistical classification, Machine learning, Mathematical optimization, Artificial neural network, Test set, Statistics, Regression analysis, Unsupervised learning, Cognitive science, Applied mathematics, Cognition, Areas of computer science, Mathematics, Cybernetics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Artificial intelligence, Algorithm, Statistical classification, Machine l
 [Visit Link](https://opensource.com/article/17/9/introduction-machine-learning)
 
 id:  430724
+
+

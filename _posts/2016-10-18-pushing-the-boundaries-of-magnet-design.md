@@ -17,3 +17,5 @@ tags: [Samarium, Magnet, Rare-earth element, Magnetization, Atom, American Assoc
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/s-ptb101816.php)
 
 id:  333231
+
+

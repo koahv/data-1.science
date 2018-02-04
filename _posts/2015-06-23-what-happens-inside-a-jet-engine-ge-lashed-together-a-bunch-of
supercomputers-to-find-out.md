@@ -10,7 +10,7 @@ tags: [ge aviation, supercomputers, supercomputing]
 
 
 #### Extract
->By Tim Weber Vittorio Michelassi is patient man, but even he doesn’t have enough time. As the chief engineer for aerodynamics at a GE Aviation research center, his job is to figure out “what’s really happening inside the jet engine,” and make engines more efficient. The traditional approach, called computational fluid dynamics (CFD), “may take 10 million hours of computer time, and involve many terabytes of data,” Michelassi says. “The number of unknowns in the simulation is in excess of billions.” That&rsquo;s why Michelassi and his team at GE Aviation’s Advanced Aviation Technology Center of Excellence (ATT) in Munich, Germany, recently started using a new approach called “high-fidelity CFD.” It allows them to get close to the “real physics” happening inside the burning guts of an engine by pooling the power of several supercomputers spread out across Europe and the U.S. Some of their simulations involve as many as 50,000 computer cores running in parallel.These supercomputer simu...
+>By Tim Weber Vittorio Michelassi is patient man, but even he doesn’t have enough time. As the chief engineer for aerodynamics at a GE Aviation research center, his job is to figure out “what’s really happening inside the jet engine,” and make engines more efficient. The traditional approach, called computational fluid dynamics (CFD), “may take 10 million hours of computer time, and involve many terabytes of data,” Michelassi says. “The number of unknowns in the simulation is in excess of billions.” That&rsquo;s why Michelassi and his team at GE Aviation’s Advanced Aviation Technology Center of Excellence (ATT) in Munich, Germany, recently started using a new approach called “high-fidelity CFD.” It allows them to get close to the “real ph...
 
 #### Factsheet
 >factsheet unavailable
@@ -18,3 +18,5 @@ tags: [ge aviation, supercomputers, supercomputing]
 [Visit Link](http://www.gereports.com/post/122261129200)
 
 id:  144235
+
+

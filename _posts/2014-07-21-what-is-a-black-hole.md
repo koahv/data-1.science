@@ -9,7 +9,7 @@ tags: [questions & answers, resources and education, science-based q&a, black ho
 
 
 #### Extract
-><div id="attachment_255426287" style="width: 247px" class="wp-caption alignright"><a href="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/black-hole.jpg"><img class="size-medium wp-image-255426287" src="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/black-hole-237x190.jpg" alt="Computer generated image of a black hole causing distortions in the surrounding light. Alain Riazuelo" width="237" height="190" /><p class="wp-caption-text">Computer generated image of a black hole causing distortions in the surrounding light.<br />Alain RiazueloWe've all seen portrayals of black holes in popular media, but since we know <a href="/astronomy-resources/are-black-holes-real/">there actually are black holes in space, just what is a black hole?A <a title="Black Holes eBook" href="/black-holes-free-ebook/" target="_blank">black hole is a region of space where the force of gravity is so strong that the escape velocity exceeds the speed of light. Nothing, not even light, can escape its...
+><div id="attachment_255426287" style="width: 247px" class="wp-caption alignright"><a href="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/black-hole.jpg"><img class="size-medium wp-image-255426287" src="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/black-hole-237x190.jpg" alt="Computer generated image of a black hole causing distortions in the surrounding light. Alain Riazuelo" width="237" height="190" /><p class="wp-caption-text">Computer generated image of a black hole causing distortions in the surrounding light.<br />Alain RiazueloWe've all seen portrayals of black holes in popular media, but since we know <a href="/astronomy-resources/are-black-holes-real/">there actually are black holes in space, just what is a blac...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [questions & answers, resources and education, science-based q&a, black ho
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/black-hole/)
 
 id:   24740
+
+

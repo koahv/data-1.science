@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.linux.com/news/smallest-hard-disk-date-writes-information-atom-atom)
 
 id:  305997
+
+

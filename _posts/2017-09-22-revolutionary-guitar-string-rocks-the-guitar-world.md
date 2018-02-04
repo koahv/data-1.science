@@ -4,7 +4,7 @@ title: "Revolutionary guitar string rocks the guitar world"
 date: 2017-09-22 10:36:35
 categories: Science
 author: unknown author
-tags: [general physics, Vibrato systems for guitar, Electric guitar, Guitars, Musical instruments, String instruments, Guitar family instruments, Irish musical instruments, Celtic musical instruments, Guitar, Music technology, String (music), Chordophones, Laser]
+tags: [Vibrato systems for guitar, Electric guitar, Celtic musical instruments, Irish musical instruments, Musical instruments, Guitars, String instruments, Guitar family instruments]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [general physics, Vibrato systems for guitar, Electric guitar, Guitars, Mu
 [Visit Link](https://phys.org/news/2017-09-revolutionary-guitar-world.html)
 
 id:  431610
+
+

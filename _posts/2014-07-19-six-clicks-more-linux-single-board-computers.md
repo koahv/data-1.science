@@ -17,3 +17,5 @@ tags: [hardware, linux]
 [Visit Link](http://www.zdnet.com/six-clicks-more-linux-single-board-computers-7000031776/#ftag=RSS510d04f)
 
 id:   23647
+
+

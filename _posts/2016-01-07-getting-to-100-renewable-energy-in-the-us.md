@@ -17,3 +17,5 @@ tags: [biomass, clean power, concentrating solar power, consumer technology, geo
 [Visit Link](http://cleantechnica.com/2016/01/07/getting-100-renewable-energy-us/)
 
 id:  233294
+
+

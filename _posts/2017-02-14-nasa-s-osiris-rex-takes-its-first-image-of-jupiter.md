@@ -4,7 +4,7 @@ title: "NASA's OSIRIS-REx takes its first image of Jupiter"
 date: 2017-02-14 05:00:00
 categories: Astronomy
 author: unknown author
-tags: [Jupiter, Spacecraft, Astronautics, Planetary science, Astronomy, Space science, Space exploration, Spaceflight, Solar System, Outer space, Bodies of the Solar System, Space colonization, Space technology, Flight, Spaceflight technologies, OSIRIS-REx, Natural satellite, Scientific exploration, Aerospace]
+tags: [Jupiter, Space science, Spacecraft, Spaceflight technologies, Flight, Outer space, Solar System, Spaceflight, Space exploration, Astronomy, Planetary science, Astronautics, Bodies of the Solar System, Space colonization, Space technology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Jupiter, Spacecraft, Astronautics, Planetary science, Astronomy, Space sc
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/nsfc-not021417.php)
 
 id:  365715
+
+

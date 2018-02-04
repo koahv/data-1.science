@@ -9,7 +9,7 @@ tags: [culture, psychology, books, dalai lama, philosophy, pico iyer]
 
 
 #### Extract
->&#8220;To understand the Dalai Lama &#8230; perhaps it’s most useful to see him as a doctor of the soul.&#8221; I think a great deal about the difference between routine and ritual as a special case of our more general and generally trying quest for balance &#8212; ripped asunder by the contrary longings for control and whimsy, we routinize daily life in order to make its inherent chaos more manageable, then ritualize it in order to imbue its mundanity with magic, which by definition violates the predictable laws of the universe. I suspect that our voracious appetite for the daily routines of cultural icons is fueled by a deep yearning to glean some insight on and practical help with this impossible balancing act, from people who seem to have mastered it well enough to lead happy, productive, creatively fruitful, and altogether remarkable lives. Perhaps the most unexpected yet brilliant master of this elusive modern equilibrium is the Dalai Lama. The Dalai Lama by Manuel Bauer In the...
+>&#8220;To understand the Dalai Lama &#8230; perhaps it’s most useful to see him as a doctor of the soul.&#8221; I think a great deal about the difference between routine and ritual as a special case of our more general and generally trying quest for balance &#8212; ripped asunder by the contrary longings for control and whimsy, we routinize daily life in order to make its inherent chaos more manageable, then ritualize it in order to imbue its mundanity with magic, which by definition violates the predictable laws of the universe. I suspect that our voracious appetite for the daily routines of cultural icons is fueled by a deep yearning to glean some insight on and practical help with this impossible balancing act, from people who seem to ha...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [culture, psychology, books, dalai lama, philosophy, pico iyer]
 [Visit Link](http://www.brainpickings.org/2015/06/09/pico-iyer-the-open-road-dalai-lama/)
 
 id:  136012
+
+

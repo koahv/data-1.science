@@ -62,7 +62,7 @@ while IFS=$'\n' read -r line_data; do
 			label=$(request '.label')
 			score=$(request '.score')
 	
-			if [[ "$score" > 0.9 ]]; then
+			if [[ "$score" = 1 ]]; then
 		
 				echo -e "$label" >> extracted_tags.txt
 	
@@ -72,23 +72,30 @@ while IFS=$'\n' read -r line_data; do
 		done 
 	
 		# replace new lines with commas
-		sed -i ':a;N;$!ba;s/\n/,/g' extracted_tags.txt
+		#sed -i ':a;N;$!ba;s/\n/,/g' extracted_tags.txt
+
+
 
 		extracted_tags=`cat extracted_tags.txt`
 
-		# check if existing tags are null
-		if [[ -z "${tags// }" ]]; then
-			comma=""
-		else
-			comma=","
-		fi
+		mod_extracted_tags="$(echo -e "${extracted_tags}" | sed -e ':a;N;$!ba;s/\n/,/g')"
 
-		append_tags="$(echo -e "${tags}${comma}${extracted_tags}" | sed -e "s/'//g" )"
+
+		echo $mod_extracted_tags
+
+		# check if existing tags are null
+		#if [[ -z "${tags// }" ]]; then
+		#	comma=""
+		#else
+		#	comma=","
+		# fi
+
+		#append_tags="$(echo -e "${tags}${comma}${extracted_tags}" | sed -e "s/'//g" )"
 	
 		#echo $append_tags
 
 		
-		psql -U postgres -d ttrssdb2 -c "UPDATE ttrss_user_entries SET tag_cache = '$append_tags' WHERE ref_id = $line_data RETURNING ref_id, tag_cache;";
+		psql -U postgres -d ttrssdb2 -c "UPDATE ttrss_user_entries SET tag_cache = '$mod_extracted_tags' WHERE ref_id = $line_data RETURNING ref_id, tag_cache;";
 
 
 		psql -U postgres -d ttrssdb2 -c "UPDATE ttrss_user_entries SET has_imported_tags = true WHERE ref_id = $line_data RETURNING ref_id, has_imported_tags;";

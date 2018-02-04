@@ -4,7 +4,7 @@ title: "Learning from photosynthesis: Synthetic circuits can harvest light energ
 date: 2017-11-13 16:22:30
 categories: Science
 author: unknown author
-tags: [applied and interdisciplinary physics, artificial objects, bacteria, base pair, biology, chemistry, chromophore, dna, dna, energy, exciton, life, light, materials science, molecule, nanotechnology, nanotechnology, nature, photosynthesis, photosynthesis, physical sciences, physical universe, plant, plant sciences, quantum, solar energy]
+tags: [Photosynthesis, Energy, DNA, Applied and interdisciplinary physics, Chemistry, Physical sciences, Nature, Biology, Physical chemistry, Artificial objects]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [applied and interdisciplinary physics, artificial objects, bacteria, base
 [Visit Link](https://phys.org/news/2017-11-photosynthesis.html)
 
 id:  453083
+
+

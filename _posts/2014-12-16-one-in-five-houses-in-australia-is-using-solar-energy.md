@@ -11,7 +11,7 @@ green technology, news, renewable energy, solar power, solar energy, australia s
 
 
 #### Extract
->An astonishing one out of every five households in Australia is now relying on solar energy, a new report from the Australian Bureau of Statistic (ABS) reveals. Just 3 years ago only 5 percent of homes used rooftop solar panels or solar water heating, but today a full 19 percent do. To put that into perspective, by most accounts, fewer than .4 percent of homes in the US rely on solar. Read the rest of One in five houses in Australia is using solar energy Permalink | Add to del.icio.us | digg Post tags: "solar energy", Australia Solar, percent of homes solar powered, Queensland solar, renewable energy, renewable power, rooftop solar, solar energy Australia, solar energy US, solar panels, Solar Power, solar power use, solar water heater, South Australia solar, us solar power, using solar...
+>An astonishing one out of every five households in Australia is now relying on solar energy, a new report from the Australian Bureau of Statistic (ABS) reveals. Just 3 years ago only 5 percent of homes used rooftop solar panels or solar water heating, but today a full 19 percent do. To put that into perspective, by most accounts, fewer than .4 percent of homes in the US rely on solar. Read the rest of One in five houses in Australia is using solar energy Permalink | Add to del.icio.us | digg Post tags: "solar energy", Australia Solar, percent of homes solar powered, Queensland solar, renewable energy, renewable power, rooftop solar, solar energy Australia, solar energy US, solar panels, Solar Power, solar power use, solar water hea...
 
 #### Factsheet
 >factsheet unavailable
@@ -19,3 +19,5 @@ green technology, news, renewable energy, solar power, solar energy, australia s
 [Visit Link](http://inhabitat.com/one-in-five-houses-in-australia-is-using-solar-energy/)
 
 id:   67462
+
+

@@ -4,7 +4,7 @@ title: "For one day only, LHC collides xenon beams"
 date: 2017-10-13 12:30:03
 categories: Science
 author: unknown author
-tags: [general physics, Large Hadron Collider, Quark–gluon plasma, Particle accelerator, Proton, High energy nuclear physics, CERN, Atomic nucleus, Particle physics, Chemistry, Physical sciences, Physical universe, Nuclear physics, Nature, Physical chemistry, Applied and interdisciplinary physics, Physics, Super Proton Synchrotron, Gluon, Atom, Mechanics, Collider]
+tags: [Large Hadron Collider, Quark–gluon plasma, Particle accelerator, Proton, High energy nuclear physics, CERN, Gluon, Chemistry, Nature, Physical universe, Nuclear physics, Particle physics, Physics, Physical sciences, Applied and interdisciplinary physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [general physics, Large Hadron Collider, Quark–gluon plasma, Particle ac
 [Visit Link](https://phys.org/news/2017-10-day-lhc-collides-xenon.html)
 
 id:  438777
+
+

@@ -17,3 +17,5 @@ tags: [nature & environment]
 [Visit Link](http://www.scienceworldreport.com/articles/28202/20150727/elasmosaur-fossil-discovered-alaska-mountain-range-reveals-new-marine-reptile.htm)
 
 id:  161123
+
+

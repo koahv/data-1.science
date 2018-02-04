@@ -4,7 +4,7 @@ title: "3.3-million-year-old fossil reveals origins of the human spine"
 date: 2017-05-22 04:00:00
 categories: Science
 author: unknown author
-tags: [Zeresenay Alemseged]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Zeresenay Alemseged]
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-05/uocm-3mf051717.php)
 
 id:  394664
+
+

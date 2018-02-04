@@ -17,3 +17,5 @@ tags: [Plate tectonics, Lithosphere, Earth, Swarm (spacecraft), Structure of the
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Swarm/Magnetic_oceans_and_electric_Earth)
 
 id:  328778
+
+

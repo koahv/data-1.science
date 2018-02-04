@@ -4,7 +4,7 @@ title: "As fins evolve to help fish swim, so does the nervous system"
 date: 2017-04-10 19:00:09
 categories: Science
 author: unknown author
-tags: [evolution, Fish fin, Evolution, Fish, Wrasse, Biology, Nervous system, Organisms, Cognitive science]
+tags: [Fish fin, Evolution, Biology, Fish, Wrasse, Organism, Organisms, Life sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [evolution, Fish fin, Evolution, Fish, Wrasse, Biology, Nervous system, Or
 [Visit Link](https://phys.org/news/2017-04-fins-evolve-fish-nervous.html)
 
 id:  382154
+
+

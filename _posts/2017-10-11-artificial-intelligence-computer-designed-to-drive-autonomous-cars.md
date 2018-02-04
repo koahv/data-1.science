@@ -4,7 +4,7 @@ title: "Artificial intelligence computer designed to drive autonomous cars"
 date: 2017-10-11 10:49:44
 categories: Science
 author: unknown author
-tags: [hardware, Nvidia, Graphics processing unit, Autonomous car, Artificial objects, Computer engineering, Computers, Computer hardware, Technology, Computing, Supercomputer, Artificial intelligence]
+tags: [Nvidia, Graphics processing unit, Artificial objects, Computers, Computer hardware, Computing, Technology, Computer engineering]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [hardware, Nvidia, Graphics processing unit, Autonomous car, Artificial ob
 [Visit Link](https://phys.org/news/2017-10-artificial-intelligence-autonomous-cars.html)
 
 id:  437516
+
+

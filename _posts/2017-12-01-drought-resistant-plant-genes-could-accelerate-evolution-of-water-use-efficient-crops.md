@@ -4,7 +4,7 @@ title: "Drought-resistant plant genes could accelerate evolution of water-use ef
 date: 2017-12-01 05:00:00
 categories: Science
 author: unknown author
-tags: [biology, biology, crassulacean acid metabolism, ecology/environment, energy sources, evolution, genes, genetics, hydrology/water resources, life sciences, molecular biology, oak ridge national laboratory, office of science, organisms, plant sciences, population biology, science and technology]
+tags: [Office of Science, Oak Ridge National Laboratory, Crassulacean acid metabolism, Biology]
 ---
 
 
@@ -19,3 +19,5 @@ Crop production is the world's largest consumer of freshwater. Availability of c
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-12/drnl-dpg120117.php)
 
 id:  461586
+
+

@@ -4,7 +4,7 @@ title: "Researchers take a step toward quantum mechanical analysis of plant meta
 date: 2017-10-17 10:22:19
 categories: Science
 author: unknown author
-tags: [quantum physics, Quantum mechanics, Physics, Quantum computing, Laser, Computer, Quantum simulator, Solid state engineering, Applied and interdisciplinary physics, Modern physics, Particle physics, Science, Physical sciences, Mechanics, Theoretical physics, Condensed matter physics, Chemistry, Photon, Light, Simulation, Materials science]
+tags: [Quantum mechanics, Quantum computing, Physics, Computer, Quantum simulator, Mechanics, Physical sciences, Applied and interdisciplinary physics, Theoretical physics, Modern physics, Solid state engineering, Science, Particle physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [quantum physics, Quantum mechanics, Physics, Quantum computing, Laser, Co
 [Visit Link](https://phys.org/news/2017-10-quantum-mechanical-analysis-metabolism.html)
 
 id:  440024
+
+

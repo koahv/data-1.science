@@ -4,7 +4,7 @@ title: "3-D quantum gas atomic clock offers new dimensions in measurement"
 date: 2017-10-05 18:00:05
 categories: Science
 author: unknown author
-tags: [quantum physics, Atom, Atomic clock, Laser, Quantum mechanics, Gas, Clock, Optical lattice, Physics, Crystal structure, Coherence (physics), Physical sciences, Applied and interdisciplinary physics, Mechanics, Physical chemistry, Chemistry, Materials science, Condensed matter physics, Deborah S. Jin, Particle physics, Theoretical physics, Solid state engineering, Nature, Matter]
+tags: [Atom, Atomic clock, Quantum mechanics, Gas, Clock, Optical lattice, Laser, Crystal structure, Coherence (physics), Physics, Physical sciences, Applied and interdisciplinary physics, Mechanics, Chemistry, Physical chemistry, Condensed matter physics, Materials science]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [quantum physics, Atom, Atomic clock, Laser, Quantum mechanics, Gas, Clock
 [Visit Link](https://phys.org/news/2017-10-d-quantum-gas-atomic-clock.html)
 
 id:  435683
+
+

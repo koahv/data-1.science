@@ -17,3 +17,5 @@ tags: [news, renewable energy, wind power, africas largest wind farm, eco design
 [Visit Link](http://inhabitat.com/africas-largest-wind-farm-will-power-1-5-million-homes/)
 
 id:   70064
+
+

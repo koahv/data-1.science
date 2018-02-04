@@ -4,7 +4,7 @@ title: "Rare whole genome duplication during spider evolution could reveal more 
 date: 2017-07-31 14:37:15
 categories: Science
 author: unknown author
-tags: [biotechnology, Evolution, Gene duplication, Genome, Spider, Gene, Biology, Paleopolyploidy, Whole genome sequencing, Human genome, Species, Human, Genetics, Organisms, Life sciences, Planarian, Animal, Biotechnology, Hox gene, Organism]
+tags: [Evolution, Gene duplication, Gene, Spider, Genome, Biology, Paleopolyploidy, Human genome, Whole genome sequencing, Species, Human, Animal, DNA, Genetics, Organisms, Nature, Life sciences, Evolutionary biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [biotechnology, Evolution, Gene duplication, Genome, Spider, Gene, Biology
 [Visit Link](https://phys.org/news/2017-07-rare-genome-duplication-spider-evolution.html)
 
 id:  414814
+
+

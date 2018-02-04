@@ -17,3 +17,5 @@ tags: [aviation, biomass, boats, cars, clean power, clean transport, consumer te
 [Visit Link](http://cleantechnica.com/2016/03/01/100-renewable-energy-fact-fantasy/)
 
 id:  257066
+
+

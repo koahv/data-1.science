@@ -4,7 +4,7 @@ title: "In Neptune, it's raining diamonds"
 date: 2017-08-21 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [SLAC National Accelerator Laboratory, Planet, Helmholtz-Zentrum Dresden-Rossendorf, Physical sciences, Physics, Applied and interdisciplinary physics, Chemistry, Astronomy, Nature, Uranus]
+tags: [SLAC National Accelerator Laboratory, Planet, Helmholtz-Zentrum Dresden-Rossendorf, Applied and interdisciplinary physics, Chemistry, Physical sciences, Astronomy, Nature, Physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [SLAC National Accelerator Laboratory, Planet, Helmholtz-Zentrum Dresden-R
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/hd-ini082117.php)
 
 id:  421177
+
+

@@ -17,3 +17,5 @@ tags: [clean power, green economy, market research, policy & politics, research,
 [Visit Link](http://cleantechnica.com/2016/06/01/global-renewable-energy-industry-adds-147-gw-2015-invests-328-billion/)
 
 id:  290462
+
+

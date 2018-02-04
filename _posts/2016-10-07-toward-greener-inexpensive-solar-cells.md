@@ -17,3 +17,5 @@ tags: [American Chemical Society, Perovskite (structure), American Association f
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/acs-ti100716.php)
 
 id:  330365
+
+

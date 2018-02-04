@@ -4,7 +4,7 @@ title: "NASA spacecraft investigate clues in radiation belts"
 date: 2017-03-27 15:57:43
 categories: Science
 author: unknown author
-tags: [space exploration, Van Allen radiation belt, Sun, Van Allen Probes, Earth, Solar wind, Space probe, Planet, Solar System, Astronomy, Physical sciences, Space science, Planetary science, Outer space, Nature, Astronomical objects, Spaceflight, Applied and interdisciplinary physics, Space exploration]
+tags: [Van Allen radiation belt, Sun, Van Allen Probes, Earth, Solar wind, Galaxy, Space probe, Planet, Outer space, Nature, Planetary science, Astronomical objects, Solar System, Space science, Physical sciences, Astronomy]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [space exploration, Van Allen radiation belt, Sun, Van Allen Probes, Earth
 [Visit Link](https://phys.org/news/2017-03-nasa-spacecraft-clues-belts.html)
 
 id:  377860
+
+

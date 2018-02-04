@@ -4,12 +4,12 @@ title: "CERN Scientist on What Physicists Have Left to Discover After Higgs Boso
 date: 2017-10-24 16:25:55
 categories: Science
 author: Chelsea Gohd
-tags: [hard science, cern, discovery, higgs boson, particle physics, physics, Physics, Higgs boson, Particle physics, CERN, Standard Model, Mechanics, Physical sciences, Science, Theoretical physics, Quantum mechanics, Modern physics, Quantum field theory, Boson]
+tags: [Physics, Higgs boson, Particle physics, CERN, Standard Model, Modern physics, Quantum mechanics, Mechanics, Theoretical physics, Science, Physical sciences]
 ---
 
 
 #### Extract
->A Tiny, Huge Discovery On July 4th, 2012, researchers from the European Organization for Nuclear Research (CERN) made a big announcement. They had observed the Higgs boson, an elementary particle predicted by one of the best models for physics in the universe. &#8220;&#8216;We discovered the particle that makes it possible for atoms to form in the first place.’ That’s much sexier,” James Beacham, a particle physicist at CERN, said of the discovery in an interview at Brain Bar Budapest, a future-oriented science festival in Hungary held in June. Those in the know might have been anticipating this observation for decades, but that didn&#8217;t dampen the excitement. The discovery marked the culmination of a 40-year scientific effort, as Beacham noted, and it garnered the Nobel Prize in physics in 2013. Most discoveries in physics remain far from the public eye, esoteric and uninviting to the masses. But this discovery of a new particle, predicted by many and finally observed after so muc...
+>A Tiny, Huge Discovery On July 4th, 2012, researchers from the European Organization for Nuclear Research (CERN) made a big announcement. They had observed the Higgs boson, an elementary particle predicted by one of the best models for physics in the universe. &#8220;&#8216;We discovered the particle that makes it possible for atoms to form in the first place.’ That’s much sexier,” James Beacham, a particle physicist at CERN, said of the discovery in an interview at Brain Bar Budapest, a future-oriented science festival in Hungary held in June. Those in the know might have been anticipating this observation for decades, but that didn&#8217;t dampen the excitement. The discovery marked the culmination of a 40-year scientific effort, as Beach...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [hard science, cern, discovery, higgs boson, particle physics, physics, Ph
 [Visit Link](https://futurism.com/cern-scientist-on-life-after-the-higgs-boson/)
 
 id:  444080
+
+

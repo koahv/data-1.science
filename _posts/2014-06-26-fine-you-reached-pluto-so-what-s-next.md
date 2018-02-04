@@ -9,7 +9,7 @@ tags: [uncategorized, hubble, kuiper belt object, nasa, new horizons, pluto, spa
 
 
 #### Extract
->It will be a very big deal when NASA&#8217;s New Horizons spacecraft finally arrives at Pluto next July, after a nine-year, four-billion-mile-plus journey. Sure, the tiny, icy world was demoted from &#8220;planet&#8221; to &#8220;dwarf planet&#8221; a few months after launch, but being shuffled ignominiously into a lesser category doesn&#8217;t make Pluto any less interesting. Once considered to be a weird little world orbiting alone at the edges of the Solar System, it&#8217;s now recognized as just the biggest member (more or less) of a huge swarm of frozen objects known collectively as the Kuiper Belt. A close look and a barrage of scientific measurements of Pluto and its moons could give astronomers all sorts of information about a totally unexplored part of the Sun&#8217;s immediate neighborhood. MoreHalle Berry Admits She Believes in AliensWhy the Planet Mercury is So Utterly PeculiarLife After the 'Burn Pit': Iraq Vets Struggle to Cope NBC NewsRaju The Elephant Cries After Being...
+>It will be a very big deal when NASA&#8217;s New Horizons spacecraft finally arrives at Pluto next July, after a nine-year, four-billion-mile-plus journey. Sure, the tiny, icy world was demoted from &#8220;planet&#8221; to &#8220;dwarf planet&#8221; a few months after launch, but being shuffled ignominiously into a lesser category doesn&#8217;t make Pluto any less interesting. Once considered to be a weird little world orbiting alone at the edges of the Solar System, it&#8217;s now recognized as just the biggest member (more or less) of a huge swarm of frozen objects known collectively as the Kuiper Belt. A close look and a barrage of scientific measurements of Pluto and its moons could give astronomers all sorts of information about a tota...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [uncategorized, hubble, kuiper belt object, nasa, new horizons, pluto, spa
 [Visit Link](http://time.com/2921174/pluto-spacecraft-whats-next/)
 
 id:    7503
+
+

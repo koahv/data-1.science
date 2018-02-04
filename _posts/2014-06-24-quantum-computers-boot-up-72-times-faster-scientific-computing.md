@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFJB5M95CQ1s7mA_EpBdRggE_hXYg&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=pIWpU9D9BcW0gwf-kYGYCg&url=http://www.scientificcomputing.com/news/2014/06/quantum-computers-boot-72-times-faster)
 
 id:    4718
+
+

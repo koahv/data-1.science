@@ -4,7 +4,7 @@ title: "Quantum twisted Loong confirms the physical reality of wavefunctions"
 date: 2017-09-21 04:00:00
 categories: Science
 author: unknown author
-tags: [Double-slit experiment, Photon, Quantum mechanics, Wave function, Scientific theories, Philosophy, Epistemology of science, Scientific method, Mechanical engineering, Applied and interdisciplinary physics, Condensed matter physics, Science, Physics, Physical sciences, Solid state engineering, Particle physics, Theoretical physics, Modern physics, Mechanics, Metaphysics, Determinism, Cognitive science, Condensed matter, Interpretations of quantum mechanics, Academic discipline interactions]
+tags: [Double-slit experiment, Photon, Quantum mechanics, Wave function, Applied and interdisciplinary physics, Metaphysics, Cognitive science, Philosophy, Epistemology of science, Mechanical engineering, Scientific method, Physics, Mechanics, Theoretical physics, Modern physics, Particle physics, Solid state engineering, Physical sciences, Scientific theories, Science, Condensed matter physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Double-slit experiment, Photon, Quantum mechanics, Wave function, Scienti
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/scp-qtl091917.php)
 
 id:  431137
+
+

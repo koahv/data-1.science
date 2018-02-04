@@ -17,3 +17,5 @@ tags: [plasma physics, Magnetic reconnection, Plasma (physics), Physics, Aurora,
 [Visit Link](http://phys.org/news/2016-12-magnetic-reconnection-explosive-phenomena-astrophysics.html)
 
 id:  347881
+
+

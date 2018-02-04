@@ -17,3 +17,5 @@ tags: [Reversible inhibition of sperm under guidance, Birth control, Psychology,
 [Visit Link](https://www.sciencedaily.com/releases/2016/11/161102080117.htm)
 
 id:  337553
+
+

@@ -9,7 +9,7 @@ tags: [astrophysics, infographics, future, hypervelocity stars, jaime, red-giant
 
 
 #### Extract
->Pointing telescopes into the heavens is not merely an arbitrary practice used to study our surroundings. It is much more than that. Not only does it give us the ability to study the very laws of physics that keep the Earth in rotation around the Sun, ultimately giving way to the development of multicellular life-forms, but it also serves as some sort of a time machine, allowing us to look back at  some of the very first celestial objects created after the dawn of time. In addition to that, we are able to determine the rate at which the universe is expanding, see stars be born and die in equal proportions, detect changes in the atmosphere of distant exoplanets and so much more, making it somewhat difficult to determine which portions are the most important. &#8216; However, it has been said that due to the accelerating  expansion of the universe, the very sky we&#8217;re observing today will look radically different from the one that&#8217;ll exist in a few billions or trillions of year...
+>Pointing telescopes into the heavens is not merely an arbitrary practice used to study our surroundings. It is much more than that. Not only does it give us the ability to study the very laws of physics that keep the Earth in rotation around the Sun, ultimately giving way to the development of multicellular life-forms, but it also serves as some sort of a time machine, allowing us to look back at  some of the very first celestial objects created after the dawn of time. In addition to that, we are able to determine the rate at which the universe is expanding, see stars be born and die in equal proportions, detect changes in the atmosphere of distant exoplanets and so much more, making it somewhat difficult to determine which portions are the...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [astrophysics, infographics, future, hypervelocity stars, jaime, red-giant
 [Visit Link](http://www.fromquarkstoquasars.com/the-future-of-the-universe/)
 
 id:    9064
+
+

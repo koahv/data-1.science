@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://physicsworld.com/cws/article/news/2015/aug/19/imaging-the-polarity-of-individual-chemical-bonds)
 
 id:  171908
+
+

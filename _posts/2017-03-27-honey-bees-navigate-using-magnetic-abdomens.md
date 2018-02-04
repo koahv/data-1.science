@@ -4,7 +4,7 @@ title: "Honey bees navigate using magnetic abdomens"
 date: 2017-03-27 15:47:08
 categories: Science
 author: unknown author
-tags: [Magnetoreception, SQUID, Magnetic field, Magnetism, Bee, Honey bee, Ferromagnetism, Force, Physics, Electromagnetism, Sense, Magnetite, Magnetization]
+tags: [Magnetoreception, SQUID, Magnetic field, Magnetism, Bee, Honey bee, Ferromagnetism, Force, Physics, Electromagnetism]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Magnetoreception, SQUID, Magnetic field, Magnetism, Bee, Honey bee, Ferro
 [Visit Link](http://physicsworld.com/cws/article/news/2017/mar/27/honey-bees-navigate-using-magnetic-abdomens)
 
 id:  378013
+
+

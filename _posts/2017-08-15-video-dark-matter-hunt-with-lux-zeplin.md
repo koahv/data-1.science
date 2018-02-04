@@ -4,7 +4,7 @@ title: "Video: Dark matter hunt with LUX-ZEPLIN"
 date: 2017-08-15 14:40:04
 categories: Science
 author: unknown author
-tags: [general physics, Weakly interacting massive particles, Dark matter, Matter, Physics, Universe, Particle physics, Laser, Science, Physical sciences, Physical universe, Physical cosmology, Nature, Applied and interdisciplinary physics, Mechanics, Cosmology, Astronomy, Natural philosophy, Dark energy, SLAC National Accelerator Laboratory, Natural sciences, Theoretical physics]
+tags: [Weakly interacting massive particles, Dark matter, Matter, Universe, Physics, Particle physics, Physical sciences, Science, Physical cosmology, Physical universe, Nature, Mechanics, Cosmology, Applied and interdisciplinary physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [general physics, Weakly interacting massive particles, Dark matter, Matte
 [Visit Link](https://phys.org/news/2017-08-video-dark-lux-zeplin.html)
 
 id:  419362
+
+

@@ -4,7 +4,7 @@ title: "“Spaceborne” Linux Supercomputer Starts Running In Space, Achieves 1
 date: 2017-09-23 08:44:17
 categories: Linux
 author: Adarsh Verma
-tags: [geek, news, hpe, linux, linux supercomputer, linux supercomputer in space, nasa, spaceborne, supercomputer, Supercomputer, SpaceX Dragon, FLOPS, Hewlett Packard Enterprise, International Space Station, Space technology, Computing, Space colonization, Spacecraft, Outer space, Space exploration, Technology, Spaceflight, Astronautics, Flight, Aerospace engineering, Space-based economy, Spaceflight technologies]
+tags: [Supercomputer, SpaceX Dragon, FLOPS, Hewlett Packard Enterprise, International Space Station, Computing, Spaceflight, Technology, Space exploration, Outer space, Spacecraft, Space colonization, Space technology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [geek, news, hpe, linux, linux supercomputer, linux supercomputer in space
 [Visit Link](https://fossbytes.com/spaceborne/)
 
 id:  431925
+
+

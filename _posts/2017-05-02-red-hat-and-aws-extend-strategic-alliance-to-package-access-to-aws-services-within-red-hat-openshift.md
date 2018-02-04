@@ -4,7 +4,7 @@ title: "Red Hat and AWS Extend Strategic Alliance to Package Access to AWS Servi
 date: 2017-05-02 04:00:00
 categories: Linux
 author: unknown author
-tags: [Red Hat, Cloud computing, Amazon Web Services, Amazon.com, OpenShift, Computing, Technology, Forward-looking statement, Business, Software as a service]
+tags: [Red Hat, Cloud computing, Amazon Web Services, Amazon.com, OpenShift, Computing, Technology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Red Hat, Cloud computing, Amazon Web Services, Amazon.com, OpenShift, Com
 [Visit Link](https://www.redhat.com/en/about/press-releases/red-hat-and-aws-extend-strategic-alliance-package-access-aws-services-within-red-hat-openshift)
 
 id:  389102
+
+

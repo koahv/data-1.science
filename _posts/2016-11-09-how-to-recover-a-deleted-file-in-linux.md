@@ -17,3 +17,5 @@ tags: [linux commands, linux tricks, Computer file, Trash (computing), System so
 [Visit Link](http://www.tecmint.com/recover-deleted-file-in-linux/)
 
 id:  339292
+
+

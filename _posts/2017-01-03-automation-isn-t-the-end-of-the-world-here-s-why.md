@@ -9,7 +9,7 @@ tags: [Unemployment, Entrepreneurship, Sustainability, Economy, Poverty, Politic
 
 
 #### Extract
->Robots probably will take our jobs. That doesn’t have to be bad news, writes Leonardo Quattrucci, policy assistant to the Head of the European Commission&#8217;s European Political Strategy Centre. The future of work is about more than just automation. Machines push us to specialize in our competitive advantages, which would ideally push us toward a more connected and equitable economy. &nbsp; &nbsp; &nbsp; What keeps you up at night? For many people worldwide, the answer is unemployment. Work is not just what allows us to sustain ourselves and our families: it expands our possibilities to be and do what we aspire to; it gives meaning and rhythm to our endeavors as part of a broader social contract. This is why in times of “polycrisis” and broader economic transformations, we dread losing what we hold so dear to a presumed automation apocalypse. What are people most worried about? Note: Representative sample of adults aged 16-64. September 2016: 18,014; August 2016: 18,042. It is t...
+>Robots probably will take our jobs. That doesn’t have to be bad news, writes Leonardo Quattrucci, policy assistant to the Head of the European Commission&#8217;s European Political Strategy Centre. The future of work is about more than just automation. Machines push us to specialize in our competitive advantages, which would ideally push us toward a more connected and equitable economy. &nbsp; &nbsp; &nbsp; What keeps you up at night? For many people worldwide, the answer is unemployment. Work is not just what allows us to sustain ourselves and our families: it expands our possibilities to be and do what we aspire to; it gives meaning and rhythm to our endeavors as part of a broader social contract. This is why in times of “polycrisis” a...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [Unemployment, Entrepreneurship, Sustainability, Economy, Poverty, Politic
 [Visit Link](http://www.gereports.com/automation-isnt-end-world-heres/)
 
 id:  353547
+
+

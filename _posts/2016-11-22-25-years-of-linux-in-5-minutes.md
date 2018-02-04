@@ -17,3 +17,5 @@ tags: [Linux kernel, Linus Torvalds, System software, Public commons, Free syste
 [Visit Link](https://opensource.com/article/16/11/25-years-linux-5-minutes)
 
 id:  343011
+
+

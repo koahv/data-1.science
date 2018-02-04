@@ -17,3 +17,5 @@ tags: [linux commands, linux tricks, Redirection (computing), Standard streams, 
 [Visit Link](http://www.tecmint.com/linux-io-input-output-redirection-operators/)
 
 id:  356595
+
+

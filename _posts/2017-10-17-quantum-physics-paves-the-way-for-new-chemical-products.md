@@ -4,7 +4,7 @@ title: "Quantum physics paves the way for new chemical products"
 date: 2017-10-17 12:37:44
 categories: Science
 author: unknown author
-tags: [condensed matter, Laser, Physics, Electron, Chemistry, Molecule, Chemical substance, Chemical reaction, Hydrogen, Physical sciences, Science, Physical chemistry, Nature, Applied and interdisciplinary physics, Quantum mechanics, Materials science, Solar cell, Atomic,  molecular,  and optical physics, Liquid crystal, Light]
+tags: [Physics, Electron, Molecule, Chemistry, Chemical substance, Laser, Hydrogen, Quantum mechanics, Atom, Energy, Physical sciences, Applied and interdisciplinary physics, Nature, Physical chemistry]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [condensed matter, Laser, Physics, Electron, Chemistry, Molecule, Chemical
 [Visit Link](https://phys.org/news/2017-10-quantum-physics-paves-chemical-products.html)
 
 id:  440082
+
+

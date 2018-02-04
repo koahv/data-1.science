@@ -4,7 +4,7 @@ title: "New study shows that three quarters of deep-sea animals make their own l
 date: 2017-04-10 04:00:00
 categories: Science
 author: unknown author
-tags: [Monterey Bay Aquarium Research Institute, Bioluminescence, Oceanography, Deep sea, Jellyfish]
+tags: [Monterey Bay Aquarium Research Institute, Bioluminescence]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Monterey Bay Aquarium Research Institute, Bioluminescence, Oceanography, 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/mbar-nss041017.php)
 
 id:  382252
+
+

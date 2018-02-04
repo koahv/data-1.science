@@ -4,7 +4,7 @@ title: "Top 10 Challenges to DevOps Implementation"
 date: 2017-03-16 10:30:56
 categories: Linux
 author: TechCrunch
-tags: [Digital technology, Computer engineering, Business, Computing, Technology, Software, Areas of computer science, DevOps]
+tags: [Digital technology, Computer engineering, Business, Software, Technology, Computing]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Digital technology, Computer engineering, Business, Computing, Technology
 [Visit Link](https://www.linux.com/news/top-10-challenges-devops-implementation)
 
 id:  375018
+
+

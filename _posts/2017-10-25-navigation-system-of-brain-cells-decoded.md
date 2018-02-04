@@ -4,7 +4,7 @@ title: "Navigation system of brain cells decoded"
 date: 2017-10-25 04:00:00
 categories: Technology
 author: unknown author
-tags: [Nerve, Axon, Brain, Nervous system, Science, Neuroscience, Biology, Cognitive science, Technology]
+tags: [Nerve, Axon, Brain, Nervous system, Neuroscience, Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Nerve, Axon, Brain, Nervous system, Science, Neuroscience, Biology, Cogni
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/kift-nso102517.php)
 
 id:  444664
+
+

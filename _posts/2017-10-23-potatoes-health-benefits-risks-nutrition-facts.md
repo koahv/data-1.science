@@ -4,7 +4,7 @@ title: "Potatoes: Health Benefits, Risks & Nutrition Facts"
 date: 2017-10-23 13:49:00
 categories: Science
 author: unknown author
-tags: [Potato, Glycemic index, Dietary fiber, Nutrition, Vitamin, Vegetable, Food, Eating, Carbohydrate, Dieting, Hypertension, Sugar, Attention deficit hyperactivity disorder, Health, Phytochemical, French fries, Food and drink, Obesity, Vitamin C, Solanine]
+tags: [Potato, Glycemic index, Dietary fiber, Nutrition, Vitamin, Vegetable, Food, Eating, Carbohydrate, Dieting, Hypertension, Sugar, Attention deficit hyperactivity disorder, Health, Phytochemical, French fries, Food and drink]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Potato, Glycemic index, Dietary fiber, Nutrition, Vitamin, Vegetable, Foo
 [Visit Link](https://www.livescience.com/45838-potato-nutrition.html)
 
 id:  443712
+
+

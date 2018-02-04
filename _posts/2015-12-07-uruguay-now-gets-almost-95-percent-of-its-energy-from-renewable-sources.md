@@ -17,3 +17,5 @@ tags: [biomass, energy, paris climate talks, solar power, news, global warming, 
 [Visit Link](http://inhabitat.com/uruguay-now-gets-almost-95-percent-of-its-energy-from-renewable-sources/)
 
 id:  221336
+
+

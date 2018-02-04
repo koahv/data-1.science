@@ -4,7 +4,7 @@ title: "Cells sense and explore their environments"
 date: 2017-12-14 11:36:27
 categories: Science
 author: unknown author
-tags: [biochemistry, biology, biotechnology, cancer, cell & microbiology, cell (biology), cell biology, cell growth, extracellular matrix, genetics, life sciences, ligand (biochemistry), molecular biology, organisms, planarian, protein]
+tags: [Cell (biology), Protein, Cancer, Extracellular matrix, Biology, Life sciences, Cell biology, Organisms, Biotechnology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [biochemistry, biology, biotechnology, cancer, cell & microbiology, cell (
 [Visit Link](https://phys.org/news/2017-12-cells-explore-environments.html)
 
 id:  467173
+
+

@@ -4,12 +4,12 @@ title: "The Next Most Powerful Supercomputer in the U.S. Is Almost Complete"
 date: 2017-10-24 21:15:51
 categories: Science
 author: Dom Galeon
-tags: [robots & machines, computing, ornl, summit, supercomputer, FLOPS, Computers, Computer architecture, Office equipment, Areas of computer science, Computer engineering, Computer hardware, Technology, Computing, Digital electronics, Supercomputer, Oak Ridge National Laboratory]
+tags: [FLOPS, Computing, Technology, Areas of computer science, Office equipment, Computer architecture, Computers, Computer engineering, Computer hardware]
 ---
 
 
 #### Extract
->Computing for Science Inside one of the rooms of the Oak Ridge National Laboratory (ORNL) at Tennessee, the next fastest and most powerful supercomputer in the U.S. is getting ready to solve some of science&#8217;s biggest questions. Meet the Summit supercomputer, which is designed to be the predecessor to ORNL&#8217;s current high-performance supercomputer called Titan. Supercomputers have been around for some time now. The high-performance computing these devices are capable of make them ideal for running larger and more complex computational problems, such as those that deal with questions of science. For Oak Ridge Leadership Computing Facility project director Buddy Bland, these type of big problems would make a good test for Summit&#8217;s capabilities. &#8220;We will try to run some big problems,&#8221; he told the Knoxville News Sentinel, referring to the period of &#8220;early science&#8221; Summit will be busy with as soon as it becomes operational in 2018. The remaining part...
+>Computing for Science Inside one of the rooms of the Oak Ridge National Laboratory (ORNL) at Tennessee, the next fastest and most powerful supercomputer in the U.S. is getting ready to solve some of science&#8217;s biggest questions. Meet the Summit supercomputer, which is designed to be the predecessor to ORNL&#8217;s current high-performance supercomputer called Titan. Supercomputers have been around for some time now. The high-performance computing these devices are capable of make them ideal for running larger and more complex computational problems, such as those that deal with questions of science. For Oak Ridge Leadership Computing Facility project director Buddy Bland, these type of big problems would make a good test for Summit&#82...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [robots & machines, computing, ornl, summit, supercomputer, FLOPS, Compute
 [Visit Link](https://futurism.com/the-next-most-powerful-supercomputer-in-the-u-s-is-almost-complete/)
 
 id:  444248
+
+

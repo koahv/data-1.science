@@ -4,7 +4,7 @@ title: "Fossils from the world's oldest trees reveal complex anatomy never seen 
 date: 2017-10-23 04:00:00
 categories: Science
 author: unknown author
-tags: [Tree, Biology, Science, Xylem, Fossil]
+tags: [Tree, Xylem, Science, Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Tree, Biology, Science, Xylem, Fossil]
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/cu-fft101917.php)
 
 id:  443561
+
+

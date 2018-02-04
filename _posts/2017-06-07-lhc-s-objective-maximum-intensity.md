@@ -4,7 +4,7 @@ title: "LHC's objective—maximum intensity"
 date: 2017-06-07 12:02:27
 categories: Science
 author: unknown author
-tags: [general physics, Large Hadron Collider, Particle accelerator, Electron, Collider, Proton, CERN, Physics, Experimental physics, Nature, Physical chemistry, Chemistry, Particle physics, Physical sciences, Applied and interdisciplinary physics, Vacuum]
+tags: [Large Hadron Collider, Particle accelerator, Electron, Collider, CERN, Proton, Physical chemistry, Experimental physics, Mechanics, Chemistry, Particle physics, Physical sciences, Applied and interdisciplinary physics, Physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [general physics, Large Hadron Collider, Particle accelerator, Electron, C
 [Visit Link](https://phys.org/news/2017-06-lhc-objectivemaximum-intensity.html)
 
 id:  398923
+
+

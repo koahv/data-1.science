@@ -4,7 +4,7 @@ title: "Flowers' secret signal to bees and other amazing nanotechnologies hidden
 date: 2017-10-19 12:10:01
 categories: Science
 author: unknown author
-tags: [plants & animals, Flower, Color, Petal, Iridescence, Applied and interdisciplinary physics, Lotus effect, Chemistry, Light, Nanotechnology]
+tags: [Flower, Color, Petal, Iridescence, Chemistry, Applied and interdisciplinary physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [plants & animals, Flower, Color, Petal, Iridescence, Applied and interdis
 [Visit Link](https://phys.org/news/2017-10-secret-bees-amazing-nanotechnologies-hidden.html)
 
 id:  441283
+
+

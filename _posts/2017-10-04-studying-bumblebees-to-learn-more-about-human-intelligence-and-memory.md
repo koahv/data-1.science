@@ -4,7 +4,7 @@ title: "Studying bumblebees to learn more about human intelligence and memory"
 date: 2017-10-04 12:30:02
 categories: Science
 author: unknown author
-tags: [plants & animals, Bumblebee, Brain, Memory, Neuroscience, Cognitive science, Nervous system, Cognition, Psychological concepts, Biology, Zoology, Organisms, Planarian, Neuropsychology, Neuropsychological assessment]
+tags: [Bumblebee, Brain, Memory, Nervous system, Neuroscience, Cognitive science, Cognition, Psychological concepts, Biology, Neuropsychological assessment, Neuropsychology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [plants & animals, Bumblebee, Brain, Memory, Neuroscience, Cognitive scien
 [Visit Link](https://phys.org/news/2017-10-bumblebees-human-intelligence-memory.html)
 
 id:  435029
+
+

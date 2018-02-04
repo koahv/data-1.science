@@ -4,7 +4,7 @@ title: "Geoengineering Earth's Atmosphere: How It Could Affect Astronomy"
 date: 2017-01-20 12:18:00
 categories: Science
 author: unknown author
-tags: [Climate engineering, Global warming, Effects of global warming, Atmosphere of Earth, Carbon dioxide, Atmospheric sciences, Global natural environment, Natural environment, Nature, Change, Physical geography, Global environmental issues, Future problems, Climatology, Climate change, Meteorology, Astronomy, Climate, Physical sciences, Earth sciences, Environmental science]
+tags: [Climate engineering, Global warming, Effects of global warming, Atmosphere of Earth, Carbon dioxide, Natural environment, Global natural environment, Climate change, Climatology, Atmospheric sciences, Meteorology, Nature, Change, Future problems, Physical geography, Global environmental issues]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Climate engineering, Global warming, Effects of global warming, Atmospher
 [Visit Link](http://www.livescience.com/57567-geoengineering-earth-atmosphere-could-affect-astronomy.html)
 
 id:  358726
+
+

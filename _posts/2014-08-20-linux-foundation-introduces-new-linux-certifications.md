@@ -17,3 +17,5 @@ tags: [cxo, linux]
 [Visit Link](http://www.zdnet.com/linux-foundation-introduces-new-linux-certifications-7000032791/#ftag=RSS510d04f)
 
 id:   43019
+
+

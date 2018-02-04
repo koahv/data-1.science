@@ -4,7 +4,7 @@ title: "Here's what open-heart surgery at the LHC looks like"
 date: 2017-03-15 11:50:01
 categories: Science
 author: unknown author
-tags: [general physics, Compact Muon Solenoid, Large Hadron Collider, CERN, Physics, Nuclear physics, Chemistry, Applied and interdisciplinary physics, Physical sciences, Particle physics, Particle accelerator, Physical universe]
+tags: [Compact Muon Solenoid, Large Hadron Collider, CERN, Particle accelerator, Subatomic particle, Applied and interdisciplinary physics, Chemistry, Particle physics, Physical sciences, Physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [general physics, Compact Muon Solenoid, Large Hadron Collider, CERN, Phys
 [Visit Link](https://phys.org/news/2017-03-open-heart-surgery-lhc.html)
 
 id:  374290
+
+

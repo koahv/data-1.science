@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFdRyRt7iTegdgLsZcoDWpG1D8VSw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778623315515&ei=vpsyVMjfAqPvwAGetoGICg&url=http://phys.org/news/2014-10-approach-on-chip-quantum.html)
 
 id:   51926
+
+

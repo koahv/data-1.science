@@ -4,7 +4,7 @@ title: "Increasing the sensitivity of next-generation gravitational wave detecto
 date: 2017-02-10 05:00:00
 categories: Technology
 author: unknown author
-tags: [LIGO, Optics, Gravitational wave, Gravitational-wave observatory, Gravitational-wave astronomy, Applied and interdisciplinary physics, Natural philosophy, Electromagnetic radiation, Physical sciences, Physics, Atomic,  molecular,  and optical physics, Mechanics, Science, Physical phenomena, Laser, Electrodynamics, Scientific observation, Astronomy]
+tags: [LIGO, Optics, Gravitational wave, Gravitational-wave observatory, Gravitational-wave astronomy, Natural philosophy, Mechanics, Atomic,  molecular,  and optical physics, Physics, Physical sciences, Electromagnetic radiation, Science, Physical phenomena, Applied and interdisciplinary physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [LIGO, Optics, Gravitational wave, Gravitational-wave observatory, Gravita
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/tos-its020917.php)
 
 id:  364672
+
+

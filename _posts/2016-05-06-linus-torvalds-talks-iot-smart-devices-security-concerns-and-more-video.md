@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.linux.com/news/linus-torvalds-talks-iot-smart-devices-security-concerns-and-more-video)
 
 id:  281984
+
+

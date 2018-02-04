@@ -4,7 +4,7 @@ title: "LIGO announces detection of gravitational waves from colliding neutron s
 date: 2017-10-16 04:00:00
 categories: Science
 author: unknown author
-tags: [LIGO, Gravitational wave, First observation of gravitational waves, Physical cosmology, Astronomical objects, Physical quantities, Physical sciences, Astronomy, Physics, Outer space, Science, Applied and interdisciplinary physics, Spacetime, Natural philosophy, Nature, Physical phenomena, Cosmology, Scientific observation, Gravitational-wave astronomy, Gravity, Physical universe, Natural sciences]
+tags: [LIGO, Gravitational wave, First observation of gravitational waves, Natural philosophy, Nature, Physical phenomena, Cosmology, Scientific observation, Physical quantities, Spacetime, Applied and interdisciplinary physics, Science, Physical cosmology, Physical sciences, Astronomy, Physics, Outer space]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [LIGO, Gravitational wave, First observation of gravitational waves, Physi
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoc-lad101617.php)
 
 id:  439676
+
+

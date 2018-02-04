@@ -4,12 +4,12 @@ title: "How Bright is the Moon . . . Exactly?"
 date: 2017-10-26 13:00:10
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy blogs, astronomy in space with david dickinson, astronomy news, solar system, moon, Moon, Light, Observatory, Optics, Electromagnetic radiation, Scientific observation, Planetary science, Physical sciences, Outer space, Astronomy, Earth, Full moon, Sun, Physical phenomena, Applied and interdisciplinary physics, Color]
+tags: [Moon, Light, Observatory, Optics, Electromagnetic radiation, Scientific observation, Planetary science, Physical sciences, Outer space, Astronomy]
 ---
 
 
 #### Extract
->A new study will take the old standard of Moon brightness to a new level of precision. A full Easter Moon risingDave Dickinson For many a deep-sky astrophotographer, the Moon is something to be avoided. But for Earth-observing satellites, the Moon serves as a crucial calibration source — and it's about to get an overhaul. The Moon doesn't produce its own light, of course: Its surface reflects the light of the Sun. But even though the Moon is airless and practically unchanging, not every lunar reflection is the same. The brightness of the Moon depends on the exact angle between the Earth, Moon, and Sun. For example, the brightness of a full Moon is usually quoted at magnitude around –13, about 14 magnitudes or 400,000 times fainter than the Sun. (With a mean albedo, or reflectivity, of just 13%, the Moon is actually as dark as worn asphalt.) Yet the full Moon is about six times brighter than a first- or last-quarter (half-illuminated) Moon. That's because, during the full Moon, sunlight...
+>A new study will take the old standard of Moon brightness to a new level of precision. A full Easter Moon risingDave Dickinson For many a deep-sky astrophotographer, the Moon is something to be avoided. But for Earth-observing satellites, the Moon serves as a crucial calibration source — and it's about to get an overhaul. The Moon doesn't produce its own light, of course: Its surface reflects the light of the Sun. But even though the Moon is airless and practically unchanging, not every lunar reflection is the same. The brightness of the Moon depends on the exact angle between the Earth, Moon, and Sun. For example, the brightness of a full Moon is usually quoted at magnitude around –13, about 14 magnitudes or 400,000 times fainter than the...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [astronomy blogs, astronomy in space with david dickinson, astronomy news,
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/how-bright-moon-exactly/)
 
 id:  445207
+
+

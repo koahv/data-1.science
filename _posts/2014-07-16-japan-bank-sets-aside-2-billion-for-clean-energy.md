@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.renewableenergyworld.com/rea/news/article/2014/07/japan-bank-sets-aside-2-billion-for-clean-energy?cmpid=rss)
 
 id:   21436
+
+

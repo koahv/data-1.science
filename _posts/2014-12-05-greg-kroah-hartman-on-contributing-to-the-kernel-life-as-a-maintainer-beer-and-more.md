@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.linux.com/news/featured-blogs/200-libby-clark/797964-greg-kroah-hartman-on-contributing-to-the-kernel-life-as-a-maintainer-beer-and-more/)
 
 id:   65989
+
+

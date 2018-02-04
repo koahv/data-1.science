@@ -4,7 +4,7 @@ title: "High-speed locomotion neurons found in the brainstem"
 date: 2017-10-24 04:00:00
 categories: Technology
 author: unknown author
-tags: [Neuron, Nerve, Brain, Motor neuron, Brainstem, Inhibitory postsynaptic potential, American Association for the Advancement of Science, Spinal cord, Nervous system, Neuroscience, Biology, Physiology, Neuroanatomy, Human anatomy, Neurotransmitter, Organs (anatomy), Excitatory postsynaptic potential]
+tags: [Neuron, Nerve, Brain, Motor neuron, Brainstem, Inhibitory postsynaptic potential, Spinal cord, American Association for the Advancement of Science, Nervous system, Neuroscience, Neuroanatomy, Biology, Physiology, Human anatomy]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Neuron, Nerve, Brain, Motor neuron, Brainstem, Inhibitory postsynaptic po
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uob-hln102417.php)
 
 id:  443993
+
+

@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNG3fGU2vw7wYmtHo6Zp1UNOSkfpUw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778531039867&ei=3r2tU9joGcnrgQfI6YGwBw&url=http://news.discovery.com/space/astronomy/curiosity-watches-mercury-transit-the-sun-from-mars-140610.htm)
 
 id:    8733
+
+

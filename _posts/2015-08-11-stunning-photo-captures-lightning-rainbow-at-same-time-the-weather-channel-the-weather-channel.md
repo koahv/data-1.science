@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNH9WQ8EYgDEFZ01ukio1BlnUV4fsg&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778923193622&ei=NeHKVZjQNsTJ3gHm9JqwDw&url=http://www.weather.com/science/nature/news/stunning-photo-captures-lightning-rainbow-arizona)
 
 id:  168268
+
+

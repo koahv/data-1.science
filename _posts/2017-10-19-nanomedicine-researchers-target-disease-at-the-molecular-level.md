@@ -4,7 +4,7 @@ title: "Nanomedicine researchers target disease at the molecular level"
 date: 2017-10-19 15:57:47
 categories: Science
 author: unknown author
-tags: [Nanopore, Nanomedicine, Chemistry, Health sciences, Biotechnology, Medicine, Life sciences, Biology, Cancer, Nanotechnology, MicroRNA, Artificial objects, Organisms, Nucleic acid]
+tags: [Nanopore, Nanomedicine, Chemistry, Biotechnology, Biology, Life sciences, Health sciences, Medicine]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Nanopore, Nanomedicine, Chemistry, Health sciences, Biotechnology, Medici
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171019115747.htm)
 
 id:  442092
+
+

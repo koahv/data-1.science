@@ -4,7 +4,7 @@ title: "LIGO and Virgo observatories detect gravitational wave signals from blac
 date: 2017-09-27 16:30:01
 categories: Science
 author: unknown author
-tags: [astronomy, LIGO, Gravitational wave, Gravity, Virgo interferometer, Black hole, Gravitational-wave observatory, Elementary particle, General relativity, Graviton, First observation of gravitational waves, Gravitational-wave astronomy, Physics, Spacetime, Mass, Event horizon, Field (physics), Photon, Astronomy, Physical quantities, Physical sciences, Mechanics, Theoretical physics, Applied and interdisciplinary physics, Science, Physical cosmology, Higgs boson, Four-momentum, Energy, Nature, Light, Boson]
+tags: [LIGO, Gravitational wave, Gravity, Virgo interferometer, Black hole, Gravitational-wave observatory, Elementary particle, General relativity, Graviton, First observation of gravitational waves, Gravitational-wave astronomy, Physics, Spacetime, Mass, Event horizon, Photon, Physical quantities, Science, Physical sciences, Mechanics, Physical cosmology, Theoretical physics, Applied and interdisciplinary physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [astronomy, LIGO, Gravitational wave, Gravity, Virgo interferometer, Black
 [Visit Link](https://phys.org/news/2017-09-ligo-virgo-observatories-black-hole.html)
 
 id:  433106
+
+

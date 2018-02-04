@@ -4,7 +4,7 @@ title: "Top 32 Nmap Command Examples For Sys/Network Admins"
 date: 2018-01-05 13:47:00
 categories: Linux
 author: Vivek Gite
-tags: [areas of computer science, communications protocols, computer architecture, computer network, computer networking, computer security, computing, cyberspace, data transmission, digital technology, firewall (computing), information age, information technology management, internet, internet architecture, internet protocol, internet protocols, internet standards, ip address, network architecture, network layer protocols, network protocols, networking standards, nmap, operating system, ping (networking utility), port (computer networking), protocols, software, system software, technology, telecommunications, telnet, transmission control protocol, user datagram protocol, zero-configuration networking]
+tags: [Port (computer networking), Nmap, Transmission Control Protocol, Firewall (computing), Computer network, User Datagram Protocol, Operating system, Computer security, Ping (networking utility), Zero-configuration networking, IP address, Internet Protocol, System software, Internet, Technology, Cyberspace, Information Age, Data transmission, Software, Networking standards, Computer architecture, Digital technology, Telecommunications, Internet Standards, Protocols, Network architecture, Internet architecture, Computing, Communications protocols, Network protocols, Internet protocols, Computer networking]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [areas of computer science, communications protocols, computer architectur
 [Visit Link](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/)
 
 id:  474491
+
+

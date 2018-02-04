@@ -17,3 +17,5 @@ tags: [command line hacks, freebsd, linux, openbsd, os x, unix]
 [Visit Link](http://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/)
 
 id:  210403
+
+

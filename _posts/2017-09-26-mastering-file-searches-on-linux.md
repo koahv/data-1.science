@@ -4,7 +4,7 @@ title: "Mastering File Searches on Linux"
 date: 2017-09-26 09:07:40
 categories: Linux
 author: Network World
-tags: [Operating system technology, Computing, System software, Software, Digital media, Computer architecture]
+tags: [Computing, Software, System software, Operating system technology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Operating system technology, Computing, System software, Software, Digita
 [Visit Link](https://www.linux.com/news/mastering-file-searches-linux)
 
 id:  432731
+
+

@@ -9,7 +9,7 @@ tags: [scientific method, locality, quantum state, reality, superposition, wavef
 
 
 #### Extract
->At the very heart of quantum mechanics lies a monster waiting to consume unwary minds. This monster goes by the name The Nature of Reality™. The greatest of physicists have taken one look into its mouth, saw the size of its teeth, and were consumed. Niels Bohr denied the existence of the monster after he nonchalantly (and very quietly) exited the monster's lair muttering "shut up and calculate." Einstein caught a glimpse of the teeth and fainted. He was reportedly rescued by Erwin Schrödinger at great personal risk, but neither really recovered from their encounter with the beast. The upshot is that we had a group of physicists and philosophers who didn't believe that quantum mechanics represents reality but that it was all we could see of some deeper, more fundamental theory. A subclass of these scientists believed that the randomness of quantum mechanics would eventually be explained by some non-random, deterministic property that we simply couldn't directly observe (other...
+>At the very heart of quantum mechanics lies a monster waiting to consume unwary minds. This monster goes by the name The Nature of Reality™. The greatest of physicists have taken one look into its mouth, saw the size of its teeth, and were consumed. Niels Bohr denied the existence of the monster after he nonchalantly (and very quietly) exited the monster's lair muttering "shut up and calculate." Einstein caught a glimpse of the teeth and fainted. He was reportedly rescued by Erwin Schrödinger at great personal risk, but neither really recovered from their encounter with the beast. The upshot is that we had a group of physicists and philosophers who didn't believe that quantum mechanics represents reality but that it was all we co...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [scientific method, locality, quantum state, reality, superposition, wavef
 [Visit Link](http://feeds.arstechnica.com/~r/arstechnica/index/~3/aLbpiku39GM/)
 
 id:   11877
+
+

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->       "We now know that Earth-sized planets have formed throughout most of the Universe's 13.8-billion-year history, which could provide scope for the existence of ancient life in the Galaxy," said Tiago Campante, research leader from the University of Birmingham. "It is extraordinary that such an ancient system of terrestrial-sized planets formed when the universe was just starting out, at a fifth its current age. Kepler-444 is two and a half times older than our solar system, which is only a youthful 4.5 billion years old. This tells us that planets this size have formed for most of the history of the universe and we are much better placed to understand exactly when this began happening." The  Sun-like star with orbiting planets, dating back to the dawn of the Galaxy, was discovered by an international team of astronomers. At 11.2 billion years old it is the oldest star with earth-sized planets ever found and proves that such planets have formed throughout the history of the Un...
+>       "We now know that Earth-sized planets have formed throughout most of the Universe's 13.8-billion-year history, which could provide scope for the existence of ancient life in the Galaxy," said Tiago Campante, research leader from the University of Birmingham. "It is extraordinary that such an ancient system of terrestrial-sized planets formed when the universe was just starting out, at a fifth its current age. Kepler-444 is two and a half times older than our solar system, which is only a youthful 4.5 billion years old. This tells us that planets this size have formed for most of the history of the universe and we are much better placed to understand exactly when this began happening." The  Sun-like star with orbiting planets, da...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/0Nfzs3FVWJQ/life-may-exist-in-the-milky-way-that-dates-back-11-billion-years.html)
 
 id:   77850
+
+

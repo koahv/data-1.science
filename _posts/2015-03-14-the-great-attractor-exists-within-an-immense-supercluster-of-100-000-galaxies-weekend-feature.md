@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->     Astronomers have determined that our own Milky Way galaxy is part of a newly identified ginormous supercluster of galaxies, which they have dubbed "Laniakea," which means "immense heaven" in Hawaiian. This discovery clarifies the boundaries of our galactic neighborhood and establishes previously unrecognized linkages among various galaxy clusters in the local Universe.The Milky Way resides in the outskirts of the supercluster, whose extent has for the first time been carefully mapped using these new techniques. This so-called Laniakea Supercluster is 500 million light-years in diameter and contains the mass of one hundred million billion Suns spread across 100,000 galaxies. This new study also clarifies the role of the Great Attractor, a gravitational focal point in intergalactic space that influences the motion of our Local Group of galaxies and other galaxy clusters. Within the boundaries of the Laniakea Supercluster, galaxy motions are directed inward, in the same way that...
+>     Astronomers have determined that our own Milky Way galaxy is part of a newly identified ginormous supercluster of galaxies, which they have dubbed "Laniakea," which means "immense heaven" in Hawaiian. This discovery clarifies the boundaries of our galactic neighborhood and establishes previously unrecognized linkages among various galaxy clusters in the local Universe.The Milky Way resides in the outskirts of the supercluster, whose extent has for the first time been carefully mapped using these new techniques. This so-called Laniakea Supercluster is 500 million light-years in diameter and contains the mass of one hundred million billion Suns spread across 100,000 galaxies. This new study also clarifies the role of the Great Attrac...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/-ye7wSYGBTo/the-great-attractor-exists-within-an-immense-supercluster-of-100000-galaxies.html)
 
 id:   95342
+
+

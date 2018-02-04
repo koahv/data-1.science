@@ -17,3 +17,5 @@ tags: [earth sciences, Atom, Planetary core, Earth, Iron, Metal, Crystal structu
 [Visit Link](https://phys.org/news/2017-07-quantum-mechanics-earth-core.html)
 
 id:  409054
+
+

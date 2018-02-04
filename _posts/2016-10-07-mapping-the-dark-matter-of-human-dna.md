@@ -17,3 +17,5 @@ tags: [Gene, Genetics, DNA, Human genome, Genome, Structural variation, Disease,
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/su-mt100716.php)
 
 id:  330274
+
+

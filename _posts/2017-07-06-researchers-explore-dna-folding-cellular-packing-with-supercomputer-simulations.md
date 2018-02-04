@@ -4,7 +4,7 @@ title: "Researchers explore DNA folding, cellular packing with supercomputer sim
 date: 2017-07-06 14:51:43
 categories: Science
 author: unknown author
-tags: [biochemistry, Protein, DNA, Intrinsically disordered proteins, Cell nucleus, Cell (biology), Protein domain, Biology, Cancer, Molecule, Protein folding, Nucleic acid, Biomolecule, Cell signaling, Hydrogen bond, Life sciences, Chemistry, Molecular biology, Biochemistry, Transcription factor, Supercomputer, Physical sciences, Pharmaceutical drug, Science, Molecular dynamics, Enterobacteria phage P22]
+tags: [Protein, DNA, Intrinsically disordered proteins, Cell (biology), Cell nucleus, Biology, Protein domain, Cancer, Molecule, Protein folding, Nucleic acid, Biomolecule, Cell signaling, Chemistry, Hydrogen bond, Molecular biology, Biochemistry, Physical sciences, Life sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [biochemistry, Protein, DNA, Intrinsically disordered proteins, Cell nucle
 [Visit Link](https://phys.org/news/2017-07-explore-dna-cellular-supercomputer-simulations.html)
 
 id:  407347
+
+

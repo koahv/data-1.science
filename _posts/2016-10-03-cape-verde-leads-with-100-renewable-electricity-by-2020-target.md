@@ -17,3 +17,5 @@ tags: [clean power, consumer technology, green economy, green jobs, policy & pol
 [Visit Link](http://cleantechnica.com/2016/10/03/cape-verde-leads-100-renewable-electricity-2020-target/)
 
 id:  328612
+
+

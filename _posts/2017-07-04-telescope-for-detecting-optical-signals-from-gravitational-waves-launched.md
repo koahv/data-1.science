@@ -4,7 +4,7 @@ title: "Telescope for detecting optical signals from gravitational waves launche
 date: 2017-07-04 12:30:01
 categories: Science
 author: unknown author
-tags: [astronomy, Gravitational wave, LIGO, Gravitational-wave observatory, Black hole, Gravity, Astronomy, Physics, Science, Physical cosmology, Spacetime, Outer space, Physical sciences, Applied and interdisciplinary physics, Nature, Mechanics, First observation of gravitational waves, Astronomical objects, Natural sciences, Physical phenomena, Natural philosophy, Gravitational-wave astronomy]
+tags: [Gravitational wave, LIGO, Astronomy, Gravity, Gravitational-wave observatory, Black hole, Galaxy, Physical cosmology, Spacetime, Astronomical objects, Applied and interdisciplinary physics, Nature, Science, Physical sciences, Outer space, Physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [astronomy, Gravitational wave, LIGO, Gravitational-wave observatory, Blac
 [Visit Link](https://phys.org/news/2017-07-telescope-optical-gravitational.html)
 
 id:  406706
+
+

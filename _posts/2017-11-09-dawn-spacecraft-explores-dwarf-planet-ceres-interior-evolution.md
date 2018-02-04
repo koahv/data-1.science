@@ -4,7 +4,7 @@ title: "Dawn spacecraft explores dwarf planet Ceres' interior evolution"
 date: 2017-11-09 18:57:03
 categories: Science
 author: unknown author
-tags: [astronomy, bodies of the solar system, ceres, ceres (dwarf planet), dawn (spacecraft), dawn spacecraft, dwarf planet, impact crater, jet propulsion laboratory, jupiter, mars, nasa, outer space, planet, planetary science, planets, secondary crater, solar system, space exploration, space science, spaceflight]
+tags: [Dawn (spacecraft), Ceres (dwarf planet), Secondary crater, Impact crater, NASA, Jet Propulsion Laboratory, Bodies of the Solar System, Planets, Planetary science, Space exploration, Solar System, Outer space, Spaceflight, Astronomy, Space science]
 ---
 
 
@@ -21,3 +21,5 @@ Secondary craters are comparatively rounder than pit chains, which are more irre
 [Visit Link](https://www.sciencedaily.com/releases/2017/11/171109135703.htm)
 
 id:  451669
+
+

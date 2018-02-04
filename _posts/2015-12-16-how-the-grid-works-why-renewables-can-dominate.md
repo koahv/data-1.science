@@ -17,3 +17,5 @@ tags: [batteries, biomass, clean power, clean transport, cleantechnica, cleantec
 [Visit Link](http://cleantechnica.com/2015/12/16/how-the-grid-works-why-renewables-can-dominate/)
 
 id:  225972
+
+

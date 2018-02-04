@@ -4,7 +4,7 @@ title: "Nanoparticles that stick wounds together"
 date: 2017-10-09 12:40:06
 categories: Science
 author: unknown author
-tags: [bio & medicine, Nanotechnology, Adhesive, Quantum dot, Bioglass, Swiss Federal Laboratories for Materials Science and Technology, Minimally invasive procedures, Wound, Surgery, Surgical suture, Materials science, Manufacturing, Artificial objects, Chemistry, Materials, Physical sciences, Artificial materials, Nanowire]
+tags: [Adhesive, Bioglass, Swiss Federal Laboratories for Materials Science and Technology, Wound, Surgery, Minimally invasive procedures, Surgical suture, Manufacturing, Artificial objects, Materials, Chemistry]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [bio & medicine, Nanotechnology, Adhesive, Quantum dot, Bioglass, Swiss Fe
 [Visit Link](https://phys.org/news/2017-10-nanoparticles-wounds.html)
 
 id:  436694
+
+

@@ -17,3 +17,5 @@ tags: [clean power, green economy, green jobs, investment, adelaide, australia, 
 [Visit Link](http://cleantechnica.com/2015/09/11/adelaide-joins-global-race-become-first-carbon-neutral-city/)
 
 id:  183379
+
+

@@ -4,7 +4,7 @@ title: "Scientists identify a possible therapeutic target for regulating body we
 date: 2017-10-04 04:00:00
 categories: Science
 author: unknown author
-tags: [Obesity, Eating, Insulin, Leptin, Biology, Health, Medicine, Medical specialties, Clinical medicine, Life sciences, Disorders of endocrine pancreas, Biochemistry, Insulin resistance, Endocrine system, Endocrine,  nutritional and metabolic diseases, Diabetes mellitus]
+tags: [Obesity, Eating, Insulin, Leptin, Medicine, Disorders of endocrine pancreas, Life sciences, Clinical medicine, Medical specialties, Biology, Health]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Obesity, Eating, Insulin, Leptin, Biology, Health, Medicine, Medical spec
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/foas-sia100417.php)
 
 id:  434984
+
+

@@ -4,7 +4,7 @@ title: "Introduction to the Domain Name System (DNS)"
 date: 2017-04-06 07:02:00
 categories: Open Source
 author: dboth
-tags: [Name server, Domain Name System, Hostname, Root name server, Domain name, MX record, Zone file, Reverse DNS lookup, World Wide Web, Network addressing, Network protocols, Internet protocols, Computer architecture, OSI protocols, Computer networking, Internet architecture, Domain name system, Computing, Internet Standards, Protocols, Networking standards, Directories, Network layer protocols, Communications protocols, Information Age, Cyberspace, Internet, Application layer protocols, Telecommunications, Network architecture, Internet governance, Information technology management, Wide area networks, Digital infrastructure, Digital technology, Computer data, CNAME record, Computers, Localhost, Data transmission, Web server]
+tags: [Name server, Domain Name System, Hostname, Root name server, Domain name, MX record, Zone file, Reverse DNS lookup, World Wide Web, Digital infrastructure, Wide area networks, Information technology management, Telecommunications, Information Age, Networking standards, Directories, Network layer protocols, Computer architecture, Computing, Internet governance, OSI protocols, Domain name system, Network protocols, Communications protocols, Cyberspace, Internet, Application layer protocols, Network architecture, Protocols, Network addressing, Internet protocols, Computer networking, Internet architecture, Internet Standards]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Name server, Domain Name System, Hostname, Root name server, Domain name,
 [Visit Link](https://opensource.com/article/17/4/introduction-domain-name-system-dns)
 
 id:  381088
+
+

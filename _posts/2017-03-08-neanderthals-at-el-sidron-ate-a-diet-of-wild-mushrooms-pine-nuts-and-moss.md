@@ -4,7 +4,7 @@ title: "Neanderthals at El Sidrón ate a diet of wild mushrooms, pine nuts and m
 date: 2017-03-08 05:00:00
 categories: Science
 author: unknown author
-tags: [Neanderthal, Sidrón Cave, Organisms, Biology]
+tags: [Neanderthal, Sidrón Cave, Biology, Organisms]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Neanderthal, Sidrón Cave, Organisms, Biology]
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/snrc-nae030617.php)
 
 id:  372416
+
+

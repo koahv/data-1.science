@@ -4,7 +4,7 @@ title: "UH research finds evidence of 2 billion years of volcanic activity on Ma
 date: 2017-02-01 05:00:00
 categories: Astronomy
 author: unknown author
-tags: [Mars, Volcano, Martian meteorite, Volcanology, Space science, Solar System, Geology, Outer space, Physical sciences, Planets, Planetary science, Volcanology of Mars, Astronomy, Meteorite, Olympus Mons, Bodies of the Solar System]
+tags: [Mars, Volcano, Martian meteorite, Planetary science, Planets, Physical sciences, Volcanology, Space science, Outer space, Geology, Solar System]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Mars, Volcano, Martian meteorite, Volcanology, Space science, Solar Syste
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/uoh-urf012617.php)
 
 id:  362104
+
+

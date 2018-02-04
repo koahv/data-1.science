@@ -4,7 +4,7 @@ title: "'Residual echo' of ancient humans in scans may hold clues to mental diso
 date: 2017-07-25 04:00:00
 categories: Science
 author: unknown author
-tags: [Neanderthal, National Institute of Mental Health, Evolution, Anatomically modern human, Neuroimaging, Brain, Biology, Nervous system, Neuroscience, Psychological concepts, Psychology, Cognition, Cognitive science, Magnetic resonance imaging]
+tags: [Neanderthal, National Institute of Mental Health, Evolution, Anatomically modern human, Neuroimaging, Brain, Biology, Neuroscience, Nervous system]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Neanderthal, National Institute of Mental Health, Evolution, Anatomically
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/niom-eo072517.php)
 
 id:  413396
+
+

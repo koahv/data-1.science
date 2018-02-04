@@ -4,7 +4,7 @@ title: "Sentinel-5P launch preparations in full swing"
 date: 2017-09-14 09:15:00
 categories: Astronomy
 author: unknown author
-tags: [Satellite, Atmosphere, Atmosphere of Earth, Rocket, Space technology, Spacecraft, Astronautics, Space colonization, Space exploration, Outer space, Aerospace engineering, Spaceflight technologies, Flight, Spaceflight, Air pollution, European Union]
+tags: [Satellite, Atmosphere, Atmosphere of Earth, Rocket, Spacecraft, Flight, Spaceflight technologies, Aerospace engineering, Space colonization, Astronautics, Space technology, Spaceflight, Outer space, Space exploration]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Satellite, Atmosphere, Atmosphere of Earth, Rocket, Space technology, Spa
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-5P/Sentinel-5P_launch_preparations_in_full_swing)
 
 id:  428793
+
+

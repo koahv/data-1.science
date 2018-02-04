@@ -17,3 +17,5 @@ tags: [clean power, cleantech news, climate change, uncategorized, bonaire, fran
 [Visit Link](http://cleantechnica.com/2015/09/15/aspen-stands-tall-third-us-city-achieves-100-renewable-energy/)
 
 id:  184600
+
+

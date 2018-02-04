@@ -17,3 +17,5 @@ tags: [bioenergy, solar, hydropower, geothermal, wind power, featured blog]
 [Visit Link](http://www.renewableenergyworld.com/articles/2016/08/renewable-energy-was-16-9-percent-of-u-s-electric-generation-in-the-first-half-of-2016.html)
 
 id:  317769
+
+

@@ -4,7 +4,7 @@ title: "Open Source Software and Security: What You Need to Know"
 date: 2017-03-16 21:01:20
 categories: Linux
 author: unknown author
-tags: [Patch (computing), Open-source software, Technology, Computer engineering, Software, Computing, Digital media, Areas of computer science, Digital technology, Computer science, Cyberspace, Information technology management, Information technology, Binary blob, Proprietary software, Software engineering, Computers, Systems engineering, Information Age]
+tags: [Patch (computing), Open-source software, Computing, Software, Computer engineering, Technology, Digital media, Areas of computer science, Digital technology, Cyberspace, Computer science, Information technology management, Information technology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Patch (computing), Open-source software, Technology, Computer engineering
 [Visit Link](http://thevarguy.com/ubuntu/open-source-software-and-security-what-you-need-know)
 
 id:  374908
+
+

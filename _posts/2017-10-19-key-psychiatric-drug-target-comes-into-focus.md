@@ -4,7 +4,7 @@ title: "Key psychiatric drug target comes into focus"
 date: 2017-10-19 04:00:00
 categories: Science
 author: unknown author
-tags: [Dopamine, University of California,  San Francisco, Receptor (biochemistry), Medicine, Biology, Health, Neuroscience, Dopamine receptor, Life sciences]
+tags: [Dopamine, University of California,  San Francisco, Receptor (biochemistry), Medicine, Biology, Neuroscience, Health]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Dopamine, University of California,  San Francisco, Receptor (biochemistr
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoc--kpd101817.php)
 
 id:  441532
+
+

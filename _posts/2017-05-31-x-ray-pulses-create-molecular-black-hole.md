@@ -4,7 +4,7 @@ title: "X-ray pulses create 'molecular black hole'"
 date: 2017-05-31 17:33:23
 categories: Science
 author: unknown author
-tags: []
+tags: [DESY, Electron, SLAC National Accelerator Laboratory, Molecule, Free-electron laser, Ionization, Mechanics, Science, Nature, Physical sciences, Physics, Applied and interdisciplinary physics, Chemistry]
 ---
 
 
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.sciencedaily.com/releases/2017/05/170531133323.htm)
 
 id:  397123
+
+

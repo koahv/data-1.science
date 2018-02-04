@@ -4,7 +4,7 @@ title: "Webcam on Mars Express surveys high-altitude clouds"
 date: 2017-10-17 09:00:00
 categories: Astronomy
 author: unknown author
-tags: [Cloud, Mars, Outer space, Planetary science, Space science, Solar System, Physical sciences, Astronomy, Meteorology, Nature, Climate of Mars, Planets, Applied and interdisciplinary physics]
+tags: [Cloud, Mars, Astronomy, Nature, Meteorology, Physical sciences, Solar System, Space science, Outer space, Planetary science]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Cloud, Mars, Outer space, Planetary science, Space science, Solar System,
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Webcam_on_Mars_Express_surveys_high-altitude_clouds)
 
 id:  439995
+
+

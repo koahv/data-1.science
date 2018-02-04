@@ -4,7 +4,7 @@ title: "Amazon’s Deep Learning Engine Is Now an Apache Project"
 date: 2017-02-01 10:00:00
 categories: Linux
 author: Architecht
-tags: [Areas of computer science, Technology, Software, Computing, Apache HTTP Server, Digital media]
+tags: [Areas of computer science, Technology, Software, Computing]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Areas of computer science, Technology, Software, Computing, Apache HTTP S
 [Visit Link](https://www.linux.com/news/amazons-deep-learning-engine-now-apache-project)
 
 id:  361908
+
+

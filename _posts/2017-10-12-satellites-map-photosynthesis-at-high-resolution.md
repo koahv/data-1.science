@@ -4,7 +4,7 @@ title: "Satellites map photosynthesis at high resolution"
 date: 2017-10-12 18:34:07
 categories: Science
 author: unknown author
-tags: [Photosynthesis, Primary production, Orbiting Carbon Observatory 2, Physical sciences, Earth sciences, Nature, Orbiting Carbon Observatory]
+tags: [Photosynthesis, Primary production, Orbiting Carbon Observatory 2, Nature, Earth sciences, Physical sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Photosynthesis, Primary production, Orbiting Carbon Observatory 2, Physic
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171012143407.htm)
 
 id:  438513
+
+

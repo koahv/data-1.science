@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.newscientist.com/article/2092531-flamingo-stars-turn-pink-when-they-gobble-iron-rich-planets/)
 
 id:  292257
+
+

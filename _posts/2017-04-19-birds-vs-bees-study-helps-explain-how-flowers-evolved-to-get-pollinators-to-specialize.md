@@ -4,7 +4,7 @@ title: "Birds vs. bees: Study helps explain how flowers evolved to get pollinato
 date: 2017-04-19 04:00:00
 categories: Science
 author: unknown author
-tags: [Flower, Pollinator, Bee, Foraging, Nectar, Bumblebee, Hummingbird, Worcester Polytechnic Institute, Erythranthe, Pollination, Cognitive science, Bird, Ecology]
+tags: [Flower, Pollinator, Bee, Foraging, Nectar, Bumblebee, Hummingbird, Worcester Polytechnic Institute, Erythranthe, Pollination]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Flower, Pollinator, Bee, Foraging, Nectar, Bumblebee, Hummingbird, Worces
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/wpi-bvb041917.php)
 
 id:  385020
+
+

@@ -17,3 +17,5 @@ tags: [European Space Agency, Galileo (satellite navigation), Space policy of th
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2016/12/Galileo_satellites_15_18_prepares_for_litoff)
 
 id:  347112
+
+

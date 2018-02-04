@@ -4,7 +4,7 @@ title: "Liftoff replay"
 date: 2017-10-13 09:30:00
 categories: Astronomy
 author: unknown author
-tags: [Atmosphere of Earth, Physical sciences, Meteorology, Gases, Chemistry, Atmospheric sciences, Earth sciences, Nature, Environmental science, Physical geography]
+tags: [Atmosphere of Earth, Physical sciences, Meteorology, Gases, Chemistry, Atmospheric sciences, Earth sciences, Nature]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Atmosphere of Earth, Physical sciences, Meteorology, Gases, Chemistry, At
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2017/10/Sentinel-5P_liftoff)
 
 id:  438714
+
+

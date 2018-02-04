@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.pddnet.com/news/2014/08/infographic-which-4-unknown-geeks-secretly-rule-tech-world)
 
 id:   47671
+
+

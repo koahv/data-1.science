@@ -4,7 +4,7 @@ title: "What the Data Says About How Linux Kernel Developers Collaborate"
 date: 2017-10-09 12:59:40
 categories: Linux
 author: OpenSource.com
-tags: [Employment, Kernel (operating system), Social psychology, Psychology, Behavioural sciences, Psychological concepts, Communication]
+tags: [Employment, Kernel (operating system), Social psychology, Psychological concepts, Behavioural sciences, Psychology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Employment, Kernel (operating system), Social psychology, Psychology, Beh
 [Visit Link](https://www.linux.com/news/what-data-says-about-how-linux-kernel-developers-collaborate)
 
 id:  436676
+
+

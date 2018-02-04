@@ -4,7 +4,7 @@ title: "Red Hat Sets New Standard for Trusted, Enterprise-Grade Containers with 
 date: 2017-05-02 04:00:00
 categories: Linux
 author: unknown author
-tags: [Red Hat, Linux, Technology, Computing, Software, Digital technology, Computer engineering, Information technology, Business, Digital media, Open-source software]
+tags: [Red Hat, Linux, Computing, Software, Technology, Digital technology, Computer engineering]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Red Hat, Linux, Technology, Computing, Software, Digital technology, Comp
 [Visit Link](https://www.redhat.com/en/about/press-releases/red-hat-sets-new-standard-trusted-enterprise-grade-containers-industry%E2%80%99s-first-container-health-index)
 
 id:  389100
+
+

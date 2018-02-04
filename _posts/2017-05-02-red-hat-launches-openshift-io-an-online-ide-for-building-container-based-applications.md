@@ -4,7 +4,7 @@ title: "Red Hat Launches OpenShift.io, an Online IDE for Building Container-Base
 date: 2017-05-02 12:00:56
 categories: Linux
 author: TechCrunch
-tags: [Application software, Software engineering, Computer engineering, Computers, Software development, Computing, Software, Digital media, Eclipse Che, Computer programming]
+tags: [Software engineering, Application software, Computing, Software, Digital media, Computers, Software development, Computer engineering]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Application software, Software engineering, Computer engineering, Compute
 [Visit Link](https://www.linux.com/news/red-hat-launches-openshiftio-online-ide-building-container-based-applications)
 
 id:  388998
+
+

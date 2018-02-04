@@ -4,7 +4,7 @@ title: "3-D atomic structure of TRPML1 ion channel published"
 date: 2017-10-13 15:02:52
 categories: Science
 author: unknown author
-tags: [biochemistry, Cryo-electron microscopy, Ion channel, Life sciences, Biochemistry, Biology, Chemistry, Cell biology, Protein, Molecular biology, Lysosome]
+tags: [Cryo-electron microscopy, Ion channel, Chemistry, Physical sciences, Applied and interdisciplinary physics, Molecular biology, Biochemistry, Life sciences, Cell biology, Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [biochemistry, Cryo-electron microscopy, Ion channel, Life sciences, Bioch
 [Visit Link](https://phys.org/news/2017-10-d-atomic-trpml1-ion-channel.html)
 
 id:  438845
+
+

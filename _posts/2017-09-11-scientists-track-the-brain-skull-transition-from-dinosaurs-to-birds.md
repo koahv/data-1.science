@@ -4,7 +4,7 @@ title: "Scientists track the brain-skull transition from dinosaurs to birds"
 date: 2017-09-11 16:27:01
 categories: Science
 author: unknown author
-tags: [Skull, Brain, Dinosaur, Reptile, Origin of birds, Skull roof, Bird, Peabody Museum of Natural History, Vertebrate]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Skull, Brain, Dinosaur, Reptile, Origin of birds, Skull roof, Bird, Peabo
 [Visit Link](https://www.sciencedaily.com/releases/2017/09/170911122701.htm)
 
 id:  427655
+
+

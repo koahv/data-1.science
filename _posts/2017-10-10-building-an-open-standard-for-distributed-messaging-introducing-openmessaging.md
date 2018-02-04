@@ -4,7 +4,7 @@ title: "Building an Open Standard for Distributed Messaging: Introducing OpenMes
 date: 2017-10-10 10:20:36
 categories: Linux
 author: lfadmin
-tags: []
+tags: [Cloud computing, Linux Foundation, Computing, Information technology, Technology, Software]
 ---
 
 
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.linux.com/news/building-open-standard-distributed-messaging-introducing-openmessaging)
 
 id:  437121
+
+

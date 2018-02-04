@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->     Were the molecules in comet ices and terrestrial oceans born with the system itself—in the planet-forming disk of dust and gas that circled the young sun 4.6 billion years ago? Or did the water originate even earlier—in the cold, ancient molecular cloud that spawned the sun and that planet-forming disk? Up to half of the water on Earth is likely older than the solar system itself, University of Michigan astronomers theorize. The researchers' work helps to settle a debate about just how far back in galactic history our planet and our solar system's water formed. Between 30 and 50 percent came from the molecular cloud, says Ilse Cleeves, a doctoral student in astronomy at University of Michigan. That would make it roughly a million years older than the solar system. To arrive at that estimate, Cleeves and Ted Bergin, a professor of astronomy, simulated the chemistry that went on as our solar system formed. They focused on the ratio of two slightly different varieties of water—...
+>     Were the molecules in comet ices and terrestrial oceans born with the system itself—in the planet-forming disk of dust and gas that circled the young sun 4.6 billion years ago? Or did the water originate even earlier—in the cold, ancient molecular cloud that spawned the sun and that planet-forming disk? Up to half of the water on Earth is likely older than the solar system itself, University of Michigan astronomers theorize. The researchers' work helps to settle a debate about just how far back in galactic history our planet and our solar system's water formed. Between 30 and 50 percent came from the molecular cloud, says Ilse Cleeves, a doctoral student in astronomy at University of Michigan. That would make it roughly a million...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/xALHOMyN0MU/up-to-50-of-earths-water-is-older-than-the-solar-system-itself-todays-most-popular-2.html)
 
 id:   72454
+
+

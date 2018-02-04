@@ -17,3 +17,5 @@ tags: [quantum physics, Learning, Quantum mechanics, Machine learning, Quantum m
 [Visit Link](http://phys.org/news/2016-10-quantum-effects-artificial-intelligence.html)
 
 id:  332723
+
+

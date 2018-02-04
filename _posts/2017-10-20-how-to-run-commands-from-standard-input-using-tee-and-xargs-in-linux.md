@@ -4,7 +4,7 @@ title: "How to Run Commands from Standard Input Using Tee and Xargs in Linux"
 date: 2017-10-20 06:00:15
 categories: Linux
 author: Aaron Kili
-tags: [linux commands, linux tricks, Pipeline (Unix), Xargs, Computer file, Software, Computing, Unix, Computers, System software, Computer architecture, Computer engineering, Operating system technology, Areas of computer science, Digital technology, Computer data, Computer programming, Digital media, Unix software, Standard streams]
+tags: [Pipeline (Unix), Xargs, Computer file, System software, Computer engineering, Computer architecture, Operating system technology, Areas of computer science, Digital technology, Computer data, Computers, Unix, Software, Computing]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [linux commands, linux tricks, Pipeline (Unix), Xargs, Computer file, Soft
 [Visit Link](https://www.tecmint.com/run-commands-from-standard-input-using-tee-and-xargs-in-linux/)
 
 id:  444412
+
+

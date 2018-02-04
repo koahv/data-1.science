@@ -4,7 +4,7 @@ title: "Quantum computing—breaking through the 49 qubit simulation barrier"
 date: 2017-10-18 12:10:03
 categories: Science
 author: unknown author
-tags: [quantum physics, Quantum computing, Computer, Simulation, Computing, Qubit, Quantum circuit, Supercomputer, Quantum mechanics, Laser, Quantum supremacy, Parallel computing, Physics, Computer engineering, Areas of computer science, Technology, Lawrence Livermore National Laboratory]
+tags: [Quantum computing, Quantum mechanics, Computer, Computing, Simulation, Qubit, Quantum circuit, Supercomputer, Quantum supremacy, Technology, Areas of computer science, Computer engineering, Physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [quantum physics, Quantum computing, Computer, Simulation, Computing, Qubi
 [Visit Link](https://phys.org/news/2017-10-quantum-computingbreaking-qubit-simulation-barrier.html)
 
 id:  440673
+
+

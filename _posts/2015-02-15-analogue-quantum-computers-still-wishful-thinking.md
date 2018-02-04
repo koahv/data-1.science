@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.spacedaily.com/reports/Analogue_quantum_computers_Still_wishful_thinking_999.html)
 
 id:   82778
+
+

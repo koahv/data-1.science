@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.newscientist.com/article/2100985-black-hole-made-in-the-lab-shows-signs-of-quantum-entanglement/)
 
 id:  314323
+
+

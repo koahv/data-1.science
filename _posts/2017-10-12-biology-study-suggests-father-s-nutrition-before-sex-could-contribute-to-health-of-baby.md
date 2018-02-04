@@ -4,7 +4,7 @@ title: "Biology study suggests father's nutrition before sex could contribute to
 date: 2017-10-12 16:52:41
 categories: Science
 author: unknown author
-tags: [Genetics, Gene, Heredity, Drosophila melanogaster, Mutation, Epigenetics, Life sciences, Organisms, Biology, Circadian rhythm, Health]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Genetics, Gene, Heredity, Drosophila melanogaster, Mutation, Epigenetics,
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171012125241.htm)
 
 id:  438560
+
+

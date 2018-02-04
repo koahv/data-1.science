@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.linux.com/news/embedded-mobile/mobile-linux/780351-new-raspberry-pi-adds-more-usb-ports-still-just-35/)
 
 id:   19665
+
+

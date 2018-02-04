@@ -4,7 +4,7 @@ title: "New materials bring quantum computing closer to reality"
 date: 2017-05-09 11:15:59
 categories: Science
 author: unknown author
-tags: [nanophysics, Indium, Quantum dot, Electron, Quantum computing, Integrated circuit, Computer, Silicon carbide, Nanotechnology, Computing, Nanowire, Optics, Silicon, Semiconductor, Atom, Technology, Diamond, Light, Electronics, Physical sciences, Materials science, Materials, Applied and interdisciplinary physics, Artificial objects, Chemistry, Laser, Condensed matter physics, Manufacturing, Transistor, Physics, Crystal structure, Gallium arsenide, Quantum, Spin (physics)]
+tags: [Indium, Electron, Quantum dot, Quantum computing, Computer, Silicon carbide, Integrated circuit, Computing, Silicon, Diamond, Atom, Light, Semiconductor, Optics, Laser, Condensed matter physics, Chemistry, Applied and interdisciplinary physics, Materials science, Materials, Artificial objects, Physics, Physical sciences, Technology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [nanophysics, Indium, Quantum dot, Electron, Quantum computing, Integrated
 [Visit Link](https://phys.org/news/2017-05-materials-quantum-closer-reality.html)
 
 id:  390903
+
+

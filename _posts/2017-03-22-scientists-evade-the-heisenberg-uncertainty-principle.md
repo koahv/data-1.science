@@ -4,7 +4,7 @@ title: "Scientists evade the Heisenberg uncertainty principle"
 date: 2017-03-22 04:00:00
 categories: Science
 author: unknown author
-tags: [ICFO – The Institute of Photonic Sciences, Spin (physics), Uncertainty, Physical sciences, Mechanics, Particle physics, Modern physics, Science, Applied and interdisciplinary physics, Quantum mechanics, Scientific method, Solid state engineering, Science and technology, Theoretical physics, Physics, Uncertainty principle]
+tags: [ICFO – The Institute of Photonic Sciences, Spin (physics), Uncertainty, Modern physics, Theoretical physics, Science and technology, Solid state engineering, Scientific method, Quantum mechanics, Applied and interdisciplinary physics, Particle physics, Physics, Mechanics, Science, Physical sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [ICFO – The Institute of Photonic Sciences, Spin (physics), Uncertainty,
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/iiop-set032017.php)
 
 id:  376587
+
+

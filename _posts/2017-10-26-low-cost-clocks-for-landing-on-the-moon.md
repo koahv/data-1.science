@@ -4,7 +4,7 @@ title: "Low-cost clocks for landing on the Moon"
 date: 2017-10-26 09:17:00
 categories: Astronomy
 author: unknown author
-tags: [Lidar, Moon, Laser, Spacecraft, Outer space, Flight, Technology, Spaceflight, Space technology, Space exploration, Astronautics, Space colonization, Space science, Aerospace engineering]
+tags: [Lidar, Moon, Laser, Flight, Space technology, Space exploration, Astronautics, Space colonization, Space science, Spaceflight, Technology, Spacecraft, Outer space]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Lidar, Moon, Laser, Spacecraft, Outer space, Flight, Technology, Spacefli
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/Low-cost_clocks_for_landing_on_the_Moon)
 
 id:  445108
+
+

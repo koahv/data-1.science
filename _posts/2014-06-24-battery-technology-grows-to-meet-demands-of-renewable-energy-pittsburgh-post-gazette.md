@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHCcuzrI1gs3RNt5qc29htqMC0alg&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=832pU-D9H8LwgQfjlICgBQ&url=http://powersource.post-gazette.com/business/2014/06/24/Battery-technology-grows-to-meed-demands-of-renewable-energy/stories/201406240021)
 
 id:    4531
+
+

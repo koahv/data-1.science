@@ -4,7 +4,7 @@ title: "New Neandertal and archaic human genomes advance our understanding of hu
 date: 2017-10-05 04:00:00
 categories: Science
 author: unknown author
-tags: [American Association for the Advancement of Science, Life sciences, Biotechnology, Biological evolution, Evolutionary biology, Genetics, Science, Organisms, Biology, Bioinformatics, Evolution, Science and technology]
+tags: [American Association for the Advancement of Science, Life sciences, Biology, Science, Genetics, Science and technology, Organisms]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [American Association for the Advancement of Science, Life sciences, Biote
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/aaft-nna100217.php)
 
 id:  435769
+
+

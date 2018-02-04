@@ -4,7 +4,7 @@ title: "The physical computing capabilities of the Raspberry Pi"
 date: 2017-03-14 07:03:00
 categories: Open Source
 author: ben_nuttall
-tags: [Raspberry Pi, Serial Peripheral Interface Bus, Universal asynchronous receiver-transmitter, Input/output, Light-emitting diode, Camera, Digital electronics, Artificial objects, Manufactured goods, Computing, Computer engineering, Computer hardware, Computers, Electronics, Technology, Electrical engineering, Electronic engineering, Digital technology, Personal computer, General-purpose input/output, Embedded system, Python (programming language), Raspberry Pi Foundation, Computer architecture]
+tags: [Raspberry Pi, Serial Peripheral Interface Bus, Universal asynchronous receiver-transmitter, Light-emitting diode, Camera, Input/output, Artificial objects, Computing, Computer engineering, Computer hardware, Electronics, Manufactured goods, Digital electronics, Electrical engineering, Digital technology, Electronic engineering, Technology, Computers]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Raspberry Pi, Serial Peripheral Interface Bus, Universal asynchronous rec
 [Visit Link](https://opensource.com/article/17/3/physical-computing-raspberry-pi)
 
 id:  373918
+
+

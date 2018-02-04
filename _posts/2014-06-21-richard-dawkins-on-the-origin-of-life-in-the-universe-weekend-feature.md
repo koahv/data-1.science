@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->    Richard Dawkins -famed Oxford evolutionary biologist reflecting on the emergence of life on Earth and the evolutionary process in his classic The Ancestor's Tale: "The universe could so easily have remained lifeless and simple -just physics and chemistry, just the scattered dust of the cosmic explosion that gave birth to time and space. The fact that it did not -the fact that life evolved out of literally nothing, some 10 billion years after the universe evolved literally out of nothing -is a fact so staggering that I would be mad to attempt words to do it justice. And even that is not the end of the matter. Not only did evolution happen: it eventually led to beings capable of comprehending the process by which they comprehend it." It's no accident that we see stars in the sky, says Dawkins: they are a vital part of any universe capable of generating us. But, as Dawkins emphasizes, that does not mean that stars exists in order to make us."It is just that without stars there wou...
+>    Richard Dawkins -famed Oxford evolutionary biologist reflecting on the emergence of life on Earth and the evolutionary process in his classic The Ancestor's Tale: "The universe could so easily have remained lifeless and simple -just physics and chemistry, just the scattered dust of the cosmic explosion that gave birth to time and space. The fact that it did not -the fact that life evolved out of literally nothing, some 10 billion years after the universe evolved literally out of nothing -is a fact so staggering that I would be mad to attempt words to do it justice. And even that is not the end of the matter. Not only did evolution happen: it eventually led to beings capable of comprehending the process by which they comprehend it."...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/DKSdhhatoAA/richard-dawkins-on-the-origin-of-life-in-the-universe.html)
 
 id:     504
+
+

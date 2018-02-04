@@ -17,3 +17,5 @@ tags: [general physics]
 [Visit Link](http://phys.org/news/2015-07-expansion-entropy-litmus-chaos.html)
 
 id:  161498
+
+

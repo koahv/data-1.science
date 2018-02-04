@@ -4,7 +4,7 @@ title: "Caterpillar found to eat shopping bags, suggesting biodegradable solutio
 date: 2017-04-24 04:00:00
 categories: Technology
 author: unknown author
-tags: [Plastic, Polyethylene, Waxworm, Polymer, Beehive, Chemical substance, American Association for the Advancement of Science, Chemistry, Materials, Galleria mellonella, Manufacturing, Beeswax]
+tags: [Plastic, Polyethylene, Waxworm, Polymer, Beehive, Chemical substance, American Association for the Advancement of Science, Materials, Chemistry]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Plastic, Polyethylene, Waxworm, Polymer, Beehive, Chemical substance, Ame
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/uoc-cft042117.php)
 
 id:  386426
+
+

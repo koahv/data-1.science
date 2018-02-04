@@ -17,3 +17,5 @@ tags: [linux commands, linux tricks, Disk sector, S.M.A.R.T., Badblocks, Bad sec
 [Visit Link](http://www.tecmint.com/check-linux-hard-disk-bad-sectors-bad-blocks/)
 
 id:  335372
+
+

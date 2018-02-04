@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEa33MTLTqKJeUvLDD_a3hKtuNfgQ&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=JIWpU6DjE4jtgAe5koDoBg&url=http://www.nbcnews.com/feature/art-of-the-startup/windfall-will-battery-change-renewable-energy-forever-n138706)
 
 id:    4717
+
+

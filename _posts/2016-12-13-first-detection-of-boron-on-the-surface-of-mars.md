@@ -17,3 +17,5 @@ tags: [Curiosity (rover), Mars, Los Alamos National Laboratory, Rock (geology), 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-12/danl-fdo121316.php)
 
 id:  349057
+
+

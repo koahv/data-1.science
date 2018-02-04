@@ -17,3 +17,5 @@ tags: [architecture, energy efficiency, news, renewable energy, urban design, vi
 [Visit Link](http://inhabitat.com/plans-for-worlds-first-self-sufficient-floating-city-advance-to-next-phase/)
 
 id:  150289
+
+

@@ -4,7 +4,7 @@ title: "Relativistic electrons uncovered with NASA's Van Allen Probes"
 date: 2017-03-15 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Van Allen radiation belt, Van Allen Probes, Physics, Outer space, Space science, Physical sciences, Spaceflight, Astronomy, Space exploration, Nature, Solar System, Planetary science, Astronautics, Space colonization, Space technology, Applied and interdisciplinary physics, Spacecraft, Flight]
+tags: [Van Allen radiation belt, Van Allen Probes, Outer space, Space science, Physical sciences, Spaceflight, Astronomy, Space exploration, Nature, Physics, Solar System, Planetary science, Astronautics, Space colonization]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Van Allen radiation belt, Van Allen Probes, Physics, Outer space, Space s
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/nsfc-reu031517.php)
 
 id:  374445
+
+

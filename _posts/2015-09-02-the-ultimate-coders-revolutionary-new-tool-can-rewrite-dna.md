@@ -9,7 +9,7 @@ tags: [ge healthcare, ge healthcare life sciences, dna, genomics, crispr]
 
 
 #### Extract
->By Mike Keller At the most fundamental level, we are all code. The typical human body is an assembly of some 37 trillion cells, and each holds all the information needed to make a complete human being. Our DNA, the double-stranded helix responsible for heredity, contains 3 billion letters that dictate everything from hair and skin color to blood type. In fact, DNA is the most important identity document we will ever carry. Besides random mutations and damage, it doesn’t change from the day we’re born. But that paradigm may soon start to shift. Scientists around the world have been experimenting with a powerful new tool called the CRISPR-Cas9 system, which has begun to open up the possibility of rewriting faulty or unwanted human, animal and plant DNA. “We now have a way of easily making changes directly to the genome,” says Anja Smith, the research and development director at Dharmacon, a unit of GE Healthcare Life Sciences developing technologies for gene expression and editing, i...
+>By Mike Keller At the most fundamental level, we are all code. The typical human body is an assembly of some 37 trillion cells, and each holds all the information needed to make a complete human being. Our DNA, the double-stranded helix responsible for heredity, contains 3 billion letters that dictate everything from hair and skin color to blood type. In fact, DNA is the most important identity document we will ever carry. Besides random mutations and damage, it doesn’t change from the day we’re born. But that paradigm may soon start to shift. Scientists around the world have been experimenting with a powerful new tool called the CRISPR-Cas9 system, which has begun to open up the possibility of rewriting faulty or unwanted human, animal...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [ge healthcare, ge healthcare life sciences, dna, genomics, crispr]
 [Visit Link](http://www.gereports.com/post/120470764515)
 
 id:  133675
+
+

@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->     The team of astrophysicists led by John Kovac of Harvard who announced just months ago what they acheived a breakthrough in confirming how the universe was born when they identified gravitational waves that rippled through space right after the Big Bang now admit they may be wrong. The detection was made with the help of a telescope called BICEP2, stationed at the South Pole. BICEP2 stands for Background Imaging of Cosmic Extragalactic Polarization. If proven to be correctly identified, these waves -- predicted in Albert Einstein's theory of relativity -- would confirm the rapid and violent growth spurt of the universe in the first fraction of a second marking its existence, 13.8 billion years ago. The apparent first direct evidence of such so-called cosmic inflation -- a theory that the universe expanded by 100 trillion trillion times in barely the blink of an eye -- was announced in March by experts at the Harvard-Smithsonian Center for Astrophysics. "Detecting this signal...
+>     The team of astrophysicists led by John Kovac of Harvard who announced just months ago what they acheived a breakthrough in confirming how the universe was born when they identified gravitational waves that rippled through space right after the Big Bang now admit they may be wrong. The detection was made with the help of a telescope called BICEP2, stationed at the South Pole. BICEP2 stands for Background Imaging of Cosmic Extragalactic Polarization. If proven to be correctly identified, these waves -- predicted in Albert Einstein's theory of relativity -- would confirm the rapid and violent growth spurt of the universe in the first fraction of a second marking its existence, 13.8 billion years ago. The apparent first direct evidenc...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/pZNUJli-rMg/gravitational-waves-discovers-concede-possible-error.html)
 
 id:     503
+
+

@@ -9,7 +9,7 @@ tags: [news, solar system]
 
 
 #### Extract
->A pair of poster-size lunar maps, produced by the U.S. Geological Survey, let you roam around the Moon's surface and explore the lunar landscape. The editors of Sky &amp; Telescope have a close, decades-long friendship with the talented planetary scientists and cartographers at the U.S. Geological Survey's Astrogeology Science Center in Flagstaff, Arizona. Over the years the "Flag" team has been instrumental in preparing the base maps used for our planetary globes, and the Gazetteer of Planetary Nomenclature it maintains for the International Astronomical Union is the unrivaled, go-to source for information about named solar-system features. This relationship recently paid yet another dividend when USGS staff scientist Trent Hare alerted me to a pair of lunar maps that he and other researchers had created from NASA's Lunar Reconnaissance Orbiter data amassed from 2009 to 2013. Made available to Sky &amp; Telescope by special arrangement, these large wall maps measure a generous 46 by 4...
+>A pair of poster-size lunar maps, produced by the U.S. Geological Survey, let you roam around the Moon's surface and explore the lunar landscape. The editors of Sky &amp; Telescope have a close, decades-long friendship with the talented planetary scientists and cartographers at the U.S. Geological Survey's Astrogeology Science Center in Flagstaff, Arizona. Over the years the "Flag" team has been instrumental in preparing the base maps used for our planetary globes, and the Gazetteer of Planetary Nomenclature it maintains for the International Astronomical Union is the unrivaled, go-to source for information about named solar-system features. This relationship recently paid yet another dividend when USGS staff scientist Trent Hare alerted me...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [news, solar system]
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/beautiful-maps-of-the-moon-092420155/)
 
 id:  188913
+
+

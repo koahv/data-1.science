@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->     "These young stars are likely the signature of this predicted galaxy," said Chakrabarti, assistant professor in RIT's School of Physics and Astronomy. "They can't be part of our galaxy because the disk of the Milky Way terminates at 48,000 light years" referring to a cluster of young, pulsating stars discovered in the far side of the Milky Way may mark the location of a previously unseen dark-matter dominated dwarf galaxy hidden behind clouds of dust. A team, led by Sukanya Chakrabarti from Rochester Institute of Technology, analyzed near-infrared data collected by the European Southern Observatory's survey VISTA to find four young stars approximately 300,000 light years away. These young stars are Cepheid variables-"standard candles" that astronomers use to measure distances. According to Chakrabarti, these are the most distant Cepheid variables found close to the plane of the Milky Way. The paper announcing the discovery appears in Astrophysical Journal Letters and is availa...
+>     "These young stars are likely the signature of this predicted galaxy," said Chakrabarti, assistant professor in RIT's School of Physics and Astronomy. "They can't be part of our galaxy because the disk of the Milky Way terminates at 48,000 light years" referring to a cluster of young, pulsating stars discovered in the far side of the Milky Way may mark the location of a previously unseen dark-matter dominated dwarf galaxy hidden behind clouds of dust. A team, led by Sukanya Chakrabarti from Rochester Institute of Technology, analyzed near-infrared data collected by the European Southern Observatory's survey VISTA to find four young stars approximately 300,000 light years away. These young stars are Cepheid variables-"standard candl...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/1AunXLB0Fmk/dark-matter-galaxy-detected-in-the-far-side-of-the-milky-way.html)
 
 id:   79013
+
+

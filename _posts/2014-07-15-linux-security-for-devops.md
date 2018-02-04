@@ -9,7 +9,7 @@ tags: [development, linux, system administration, devops]
 
 
 #### Extract
->Linux Security for DevOps During the last years the role of DevOps evolved. This person could be described as the hybrid: a system administrator with development skills, or the developer which is also infrastructure savvy. With Linux and so many available tooling, it is becoming easier for people to learn both development and managing infrastructures. We are especially interested in Linux security for DevOps and what they can apply. Automation is key Repeating work is not only boring, but also a waste of time. Every step which is repeated, might be a great candidate for automation. With solutions like Puppet, is has become easy to automate installations, software installation and configuration. Security from the start Whenever possible, tighten up your defenses. For example, roll-out iptables on each machines by default, with a standard strict template. When a particular system has to become a web server, let Puppet open up the related web ports. Software patching Most system administr...
+>Linux Security for DevOps During the last years the role of DevOps evolved. This person could be described as the hybrid: a system administrator with development skills, or the developer which is also infrastructure savvy. With Linux and so many available tooling, it is becoming easier for people to learn both development and managing infrastructures. We are especially interested in Linux security for DevOps and what they can apply. Automation is key Repeating work is not only boring, but also a waste of time. Every step which is repeated, might be a great candidate for automation. With solutions like Puppet, is has become easy to automate installations, software installation and configuration. Security from the start Whenever possible, tig...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [development, linux, system administration, devops]
 [Visit Link](http://linux-audit.com/linux-security-for-devops/)
 
 id:  191539
+
+

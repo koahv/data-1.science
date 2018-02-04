@@ -4,7 +4,7 @@ title: "Supercomputers help scientists improve seismic forecasts for California"
 date: 2017-10-24 17:37:33
 categories: Science
 author: unknown author
-tags: [Earthquake, UCERF3, Seismology, Earthquakes, Geophysics, Geotechnical engineering, Geological hazards, Solid mechanics, Natural disasters, Geology, Earth sciences]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Earthquake, UCERF3, Seismology, Earthquakes, Geophysics, Geotechnical eng
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171024133733.htm)
 
 id:  444142
+
+

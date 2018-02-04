@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->         A new study shown that meteorite impacts on ancient oceans may have created nucleobases and amino acids. Researchers from Tohoku University, National Institute for Materials Science and Hiroshima University discovered this after conducting impact experiments simulating a meteorite hitting an ancient ocean.  With precise analysis of the products recovered after impacts, the team found the formation of nucleobases and amino acids from inorganic compounds. The research is reported this week in the journal Earth and Planetary Science Letters. All the genetic information of modern life is stored in DNA as sequences of nucleobases. However, formation of nucleobases from inorganic compounds available on prebiotic Earth had been considered to be difficult. In 2009, this team reported the formation of the simplest amino acid, glycine, by simulating meteorite impacts. This time, they replaced the carbon source with bicarbonate and conducted hypervelocity impact experiments at 1...
+>         A new study shown that meteorite impacts on ancient oceans may have created nucleobases and amino acids. Researchers from Tohoku University, National Institute for Materials Science and Hiroshima University discovered this after conducting impact experiments simulating a meteorite hitting an ancient ocean.  With precise analysis of the products recovered after impacts, the team found the formation of nucleobases and amino acids from inorganic compounds. The research is reported this week in the journal Earth and Planetary Science Letters. All the genetic information of modern life is stored in DNA as sequences of nucleobases. However, formation of nucleobases from inorganic compounds available on prebiotic Earth had been co...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/meteorite-impacts-on-ancient-oceans-may-have-created-the-genetic-molecules-that-led-to-life.html)
 
 id:  171544
+
+

@@ -4,7 +4,7 @@ title: "Vita mission liftoff"
 date: 2017-07-27 14:43:00
 categories: Astronomy
 author: unknown author
-tags: [Space-based economy, Outer space, Space technology, Astronautics, Space colonization, Spacecraft, Flight, Spaceflight technologies, Space programs, Human spaceflight, Aerospace engineering, Scientific exploration, Space industry, Human spaceflight programs, Government programs, Space agencies, Aerospace, NASA, Space exploration, Space missions, Space program of Russia, Manned spacecraft, Space traffic management, Aerospace agencies, Spaceflight, Paolo Nespoli, NASA programs, International Space Station, Spaceflight timelines]
+tags: [Space industry, Astronautics, Space colonization, Spacecraft, Flight, Spaceflight technologies, Space programs, Space-based economy, Aerospace engineering, Scientific exploration, Space technology, Human spaceflight programs, Government programs, Space agencies, Aerospace, NASA, Aerospace agencies, Space traffic management, Manned spacecraft, Outer space, Human spaceflight, Space exploration, Spaceflight, Space program of Russia, Space missions]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Space-based economy, Outer space, Space technology, Astronautics, Space c
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2017/07/Vita_liftoff_replay)
 
 id:  414246
+
+

@@ -4,7 +4,7 @@ title: "Growing human brain cells in the lab"
 date: 2017-10-10 17:39:12
 categories: Science
 author: unknown author
-tags: [Gladstone Institutes, Brain, Neuron, News aggregator, Biology, Life sciences, Medicine, Experiment, Health sciences]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Gladstone Institutes, Brain, Neuron, News aggregator, Biology, Life scien
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171010133912.htm)
 
 id:  437333
+
+

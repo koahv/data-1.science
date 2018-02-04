@@ -9,7 +9,7 @@ tags: [culture, ada lovelace, books, creativity, letters, science]
 
 
 #### Extract
->&#8220;It seizes points in common, between subjects having no very apparent connexion, &amp; hence seldom or never brought into juxtaposition.&#8221; The human imagination is the seedbed of everything we know to be beautiful and true &#8212; it created the Mona Lisa&#8217;s smile and recreates its mystery anew with each viewing; it envisioned the existence of a strange particle and sparked the myriad scientific breakthroughs that made its discovery possible half a century later in the Higgs boson; it allows us to perform the psychoemotional acrobatics at the heart of compassion as we imagine ourselves in another&#8217;s shoes. And yet the essence of the imagination remains elusive and opaque even to those most endowed with this miraculous human faculty. Perhaps the finest definition of what it is and how it works comes from Augusta Ada King, Countess of Lovelace, better known as Ada Lovelace (December 10, 1815&ndash;November 27, 1852), who is commonly considered the world’s first com...
+>&#8220;It seizes points in common, between subjects having no very apparent connexion, &amp; hence seldom or never brought into juxtaposition.&#8221; The human imagination is the seedbed of everything we know to be beautiful and true &#8212; it created the Mona Lisa&#8217;s smile and recreates its mystery anew with each viewing; it envisioned the existence of a strange particle and sparked the myriad scientific breakthroughs that made its discovery possible half a century later in the Higgs boson; it allows us to perform the psychoemotional acrobatics at the heart of compassion as we imagine ourselves in another&#8217;s shoes. And yet the essence of the imagination remains elusive and opaque even to those most endowed with this miraculous...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [culture, ada lovelace, books, creativity, letters, science]
 [Visit Link](https://www.brainpickings.org/2015/12/10/ada-lovelace-imagination/)
 
 id:  222824
+
+

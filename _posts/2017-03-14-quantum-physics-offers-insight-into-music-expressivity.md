@@ -4,7 +4,7 @@ title: "Quantum physics offers insight into music expressivity"
 date: 2017-03-14 04:00:00
 categories: Technology
 author: unknown author
-tags: [Music, Vibrato, Violin, Resonance, Erhu, Signal, Science, Molecule, American Association for the Advancement of Science, Computer science, Technology, Nuclear magnetic resonance, Electronic engineering, Physics, Science and technology, Computer engineering, Engineering]
+tags: [Music, Vibrato, Violin, Resonance, Erhu, Signal, Science, Molecule, American Association for the Advancement of Science]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Music, Vibrato, Violin, Resonance, Erhu, Signal, Science, Molecule, Ameri
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/qmuo-qpo031317.php)
 
 id:  374233
+
+

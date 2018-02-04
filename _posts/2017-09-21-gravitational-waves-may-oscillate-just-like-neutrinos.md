@@ -4,7 +4,7 @@ title: "Gravitational waves may oscillate, just like neutrinos"
 date: 2017-09-21 13:30:01
 categories: Science
 author: unknown author
-tags: [general physics, ]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [general physics, ]
 [Visit Link](https://phys.org/news/2017-09-gravitational-oscillate-neutrinos.html)
 
 id:  431284
+
+

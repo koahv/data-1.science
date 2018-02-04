@@ -4,7 +4,7 @@ title: "The science of carbon dioxide and climate"
 date: 2017-03-13 13:21:58
 categories: Science
 author: unknown author
-tags: [environment, Global warming, Greenhouse gas, Greenhouse effect, Earth, Climate change, Atmosphere of Earth, Fuel, Volcano, Future problems, Global environmental issues, Environmental science, Global natural environment, Physical sciences, Applied and interdisciplinary physics, Meteorology, Atmospheric sciences, Climatology, Nature, Physical geography, Earth sciences, Carbon dioxide, Fossil fuel, Oceanography, Climate, Sea level rise]
+tags: [Greenhouse gas, Global warming, Greenhouse effect, Earth, Climate change, Atmosphere of Earth, Fossil fuel, Fuel, Global environmental issues, Environmental science, Natural environment, Global natural environment, Future problems, Applied and interdisciplinary physics, Meteorology, Atmospheric sciences, Climatology, Nature, Earth sciences, Physical geography]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [environment, Global warming, Greenhouse gas, Greenhouse effect, Earth, Cl
 [Visit Link](https://phys.org/news/2017-03-science-carbon-dioxide-climate.html)
 
 id:  373501
+
+

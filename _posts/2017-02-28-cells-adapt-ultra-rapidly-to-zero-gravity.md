@@ -4,7 +4,7 @@ title: "Cells adapt ultra-rapidly to zero gravity"
 date: 2017-02-28 11:56:29
 categories: Science
 author: unknown author
-tags: [space exploration, Weightlessness, International Space Station, NASA, Gravity, Experiment, Life, Planet, Galaxy, Astronomy, Space technology, Outer space, Astronautics, Science, Space science, Space colonization, Physical sciences, Space exploration, Spaceflight, Flight, Black hole, Jupiter, Astronaut, Moon, Evolution, European Space Agency, Extraterrestrial life, Spacecraft]
+tags: [Weightlessness, Galaxy, International Space Station, Titan (moon), Gravity, NASA, Astronomy, Experiment, Life, Mars, Astronautics, Space technology, Outer space, Physical sciences, Spaceflight, Space exploration, Space science, Space colonization]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [space exploration, Weightlessness, International Space Station, NASA, Gra
 [Visit Link](https://phys.org/news/2017-02-cells-ultra-rapidly-gravity.html)
 
 id:  369713
+
+

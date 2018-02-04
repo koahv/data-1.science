@@ -4,7 +4,7 @@ title: "New way to prevent genetically engineered and unaltered organisms from p
 date: 2017-10-12 09:00:03
 categories: Science
 author: unknown author
-tags: [biotechnology, Genetic engineering, Gene, Genetics, Gene drive, Organism, Species, Invasive species, Hybrid (biology), CRISPR, Biotechnology, Biology, Organisms, Life sciences, Yeast, Reproduction, Sexual reproduction]
+tags: [Genetic engineering, Gene, Genetics, Gene drive, Organism, Hybrid (biology), CRISPR, Invasive species, Species, Biotechnology, Biology, Organisms, Life sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [biotechnology, Genetic engineering, Gene, Genetics, Gene drive, Organism,
 [Visit Link](https://phys.org/news/2017-10-genetically-unaltered-offspring.html)
 
 id:  438028
+
+

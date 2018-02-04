@@ -4,7 +4,7 @@ title: "Virtual humans work better than current ways to identify post-traumatic 
 date: 2017-10-12 13:10:20
 categories: Science
 author: unknown author
-tags: [Posttraumatic stress disorder, Mental disorder, Veteran, Health, Psychology, Behavioural sciences, Cognition, Psychological concepts, Medicine, Psychiatry-related fields, Clinical psychology]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Posttraumatic stress disorder, Mental disorder, Veteran, Health, Psycholo
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171012091020.htm)
 
 id:  438272
+
+

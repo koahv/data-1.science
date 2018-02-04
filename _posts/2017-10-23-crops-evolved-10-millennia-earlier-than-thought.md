@@ -4,7 +4,7 @@ title: "Crops evolved 10 millennia earlier than thought"
 date: 2017-10-23 12:53:58
 categories: Science
 author: unknown author
-tags: [biotechnology, Domestication, Agriculture, Cereal, Wheat, Evolution, Rice, Barley, Einkorn wheat, History of agriculture, Biology]
+tags: [Domestication, Agriculture, Cereal, Wheat, Evolution, Rice, Barley]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [biotechnology, Domestication, Agriculture, Cereal, Wheat, Evolution, Rice
 [Visit Link](https://phys.org/news/2017-10-crops-evolved-millennia-earlier-thought.html)
 
 id:  443238
+
+

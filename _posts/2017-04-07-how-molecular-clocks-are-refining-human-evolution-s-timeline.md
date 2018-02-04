@@ -4,7 +4,7 @@ title: "How molecular clocks are refining human evolution's timeline"
 date: 2017-04-07 12:20:02
 categories: Science
 author: unknown author
-tags: [evolution, Neanderthal, Mutation, Human, Evolution, Homo sapiens, Human evolution, Genetics, Archaic human admixture with modern humans, Molecular clock, Genetic recombination, DNA, Anatomically modern human, Human genome, Organisms, Life sciences, Biology, Evolutionary biology, Biotechnology, Biological evolution, Gene, Genome]
+tags: [Neanderthal, Mutation, Human, Evolution, Homo sapiens, Human evolution, Genetics, Molecular clock, Genetic recombination, DNA, Anatomically modern human, Human genome, Archaic human admixture with modern humans, Gene, Life sciences, Biology, Biological evolution, Biotechnology, Evolutionary biology, Organisms]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [evolution, Neanderthal, Mutation, Human, Evolution, Homo sapiens, Human e
 [Visit Link](https://phys.org/news/2017-04-molecular-clocks-refining-human-evolution.html)
 
 id:  381520
+
+

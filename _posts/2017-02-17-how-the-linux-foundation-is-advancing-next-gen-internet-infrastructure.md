@@ -4,7 +4,7 @@ title: "How The Linux Foundation is Advancing Next-Gen Internet Infrastructure"
 date: 2017-02-17 19:24:10
 categories: Linux
 author: mhinkle
-tags: [Cloud computing, Linux Foundation, Open-source software, Technology, Digital technology, Computer engineering, Digital media, Software, Computing, Kubernetes, Free software, Blockchain, Information technology, Areas of computer science, Intellectual works]
+tags: [Cloud computing, Linux Foundation, Open-source software, Computing, Software, Technology, Digital technology, Computer engineering, Digital media]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Cloud computing, Linux Foundation, Open-source software, Technology, Digi
 [Visit Link](https://www.linux.com/blog/event/open-source-leadership-summit/2017/2/how-linux-foundation-advancing-next-gen-internet-infrastructure)
 
 id:  366864
+
+

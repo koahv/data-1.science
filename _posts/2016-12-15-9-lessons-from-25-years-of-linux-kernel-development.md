@@ -17,3 +17,5 @@ tags: [Computing]
 [Visit Link](https://www.linux.com/news/9-lessons-25-years-linux-kernel-development)
 
 id:  349769
+
+

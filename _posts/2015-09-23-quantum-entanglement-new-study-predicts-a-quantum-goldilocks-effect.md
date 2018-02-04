@@ -17,3 +17,5 @@ tags: [quantum physics]
 [Visit Link](http://phys.org/news/2015-09-quantum-entanglement-goldilocks-effect.html)
 
 id:  188609
+
+

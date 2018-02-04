@@ -4,7 +4,7 @@ title: "First open-access data from large collider confirm subatomic particle pa
 date: 2017-09-30 10:16:04
 categories: Science
 author: unknown author
-tags: [general physics, Compact Muon Solenoid, Particle physics, Large Hadron Collider, Proton, Gluon, ATLAS experiment, Physics, Standard Model, Strong interaction, Nuclear physics, Relativistic Heavy Ion Collider, Neutron, Collider, Quark, Physical sciences, Mechanics, Theoretical physics, Atomic nucleus, Matter, Physical universe, Science, General relativity]
+tags: [Compact Muon Solenoid, Particle physics, Large Hadron Collider, Physics, Standard Model, Proton, Gluon, ATLAS experiment, Strong interaction, Relativistic Heavy Ion Collider, Nuclear physics, Neutron, Collider, Quark, Physical sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [general physics, Compact Muon Solenoid, Particle physics, Large Hadron Co
 [Visit Link](https://phys.org/news/2017-09-open-access-large-collider-subatomic-particle.html)
 
 id:  434088
+
+

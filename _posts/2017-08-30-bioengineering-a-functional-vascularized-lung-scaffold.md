@@ -4,7 +4,7 @@ title: "Bioengineering a functional vascularized lung scaffold"
 date: 2017-08-30 18:12:59
 categories: Science
 author: unknown author
-tags: [Tissue engineering, Organ transplantation, Lung, Decellularization, Organ donation, Clinical medicine, Medical specialties, Medicine, Biology, Health, Life sciences, Zoology, Health sciences, Therapy, Health care]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Tissue engineering, Organ transplantation, Lung, Decellularization, Organ
 [Visit Link](https://www.sciencedaily.com/releases/2017/08/170830141259.htm)
 
 id:  424305
+
+

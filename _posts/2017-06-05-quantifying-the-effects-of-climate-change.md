@@ -4,7 +4,7 @@ title: "Quantifying the effects of climate change"
 date: 2017-06-05 15:05:00
 categories: Astronomy
 author: unknown author
-tags: [Global warming, Scientific opinion on climate change, Sea level, Climate, Greenhouse gas, Oceanography, Earth sciences, Applied and interdisciplinary physics, Nature, Natural environment, Change, Global natural environment, Global environmental issues, Meteorology, Atmospheric sciences, Climate change, Future problems, Climatology, Physical geography, Environmental science, Earth, Sea level rise]
+tags: [Meteorology, Applied and interdisciplinary physics, Nature, Natural environment, Climate, Change, Global natural environment, Oceanography, Global environmental issues, Physical geography, Earth sciences, Climatology, Future problems, Climate change, Atmospheric sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Global warming, Scientific opinion on climate change, Sea level, Climate,
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Space_for_our_climate/Quantifying_the_effects_of_climate_change)
 
 id:  398267
+
+

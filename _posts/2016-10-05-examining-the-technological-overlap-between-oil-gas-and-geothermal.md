@@ -17,3 +17,5 @@ tags: [geothermal, opinion & commentary, Geothermal energy, Fossil fuel, Petrole
 [Visit Link](http://www.renewableenergyworld.com/articles/2016/10/examining-the-technological-overlap-between-oil-gas-and-geothermal.html)
 
 id:  329451
+
+

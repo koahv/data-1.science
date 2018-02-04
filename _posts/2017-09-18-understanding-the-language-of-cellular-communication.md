@@ -4,7 +4,7 @@ title: "Understanding the language of cellular communication"
 date: 2017-09-18 11:10:03
 categories: Science
 author: unknown author
-tags: [cell & microbiology, Ligand (biochemistry), Cell (biology), Cell signaling, Cellular communication (biology), Receptor (biochemistry), Cellular differentiation, Biology, Biochemistry, Organisms, Biotechnology, Cell biology, Life sciences, Communication, Molecular biology, Protein]
+tags: [Ligand (biochemistry), Cell (biology), Cell signaling, Cellular communication (biology), Receptor (biochemistry), Cellular differentiation, Life sciences, Organisms, Biotechnology, Cell biology, Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [cell & microbiology, Ligand (biochemistry), Cell (biology), Cell signalin
 [Visit Link](https://phys.org/news/2017-09-language-cellular.html)
 
 id:  429850
+
+

@@ -4,7 +4,7 @@ title: "SmallGEO liftoff"
 date: 2017-01-28 08:51:00
 categories: Astronomy
 author: unknown author
-tags: [European Space Agency, Space exploration, Technology, Outer space, Astronautics, Space technology, Space colonization, Telecommunications, Aerospace engineering, Spacecraft, Spaceflight technologies, Flight, Space programs, Spaceflight, Soyuz at the Guiana Space Centre, Aerospace]
+tags: [European Space Agency, Flight, Astronautics, Outer space, Technology, Space technology, Spacecraft, Space exploration, Spaceflight, Space colonization, Telecommunications, Aerospace engineering, Spaceflight technologies, Space programs]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [European Space Agency, Space exploration, Technology, Outer space, Astron
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2017/01/SmallGEO_H36W-1_liftoff_replay)
 
 id:  360888
+
+

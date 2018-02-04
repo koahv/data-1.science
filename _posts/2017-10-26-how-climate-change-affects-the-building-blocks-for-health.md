@@ -4,7 +4,7 @@ title: "How climate change affects the building blocks for health"
 date: 2017-10-26 13:40:05
 categories: Science
 author: unknown author
-tags: [environment, Climate change, Food security, Food, Risk, Drought, Glacier, Air pollution, Health, Global warming, Poverty, Agriculture, Flood, Climate, Earth sciences, Natural environment, Physical geography, Nature, Natural resources, Environmental science]
+tags: [Climate change, Weather, Food security, Agriculture, Food, Risk, Drought, Air pollution, Health, Climate, Poverty, Flood, Earth sciences, Natural resources, Nature, Physical geography, Natural environment]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [environment, Climate change, Food security, Food, Risk, Drought, Glacier,
 [Visit Link](https://phys.org/news/2017-10-climate-affects-blocks-health.html)
 
 id:  445196
+
+

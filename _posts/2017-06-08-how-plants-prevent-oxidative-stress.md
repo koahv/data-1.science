@@ -4,7 +4,7 @@ title: "How plants prevent oxidative stress"
 date: 2017-06-08 04:00:00
 categories: Science
 author: unknown author
-tags: [Photosynthesis, Reactive oxygen species, Plant, Oxygen, Chloroplast, Organisms, Chemistry, Biology, Biochemistry, Physical sciences, Photochemistry, Metabolism, Plant metabolism, Plants, Underwater diving physiology, Nature, Branches of botany, Redox, Life sciences, Photosynthetic reaction centre]
+tags: [Photosynthesis, Reactive oxygen species, Plant, Oxygen, Chloroplast, Metabolism, Nature, Underwater diving physiology, Plants, Plant metabolism, Photochemistry, Chemistry, Biology, Biochemistry, Organisms, Physical sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Photosynthesis, Reactive oxygen species, Plant, Oxygen, Chloroplast, Orga
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-06/ku-hpp060817.php)
 
 id:  399348
+
+

@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.linux.com/news/software/linux-kernel/838167-interview-with-linus-torvalds-on-slashdot/)
 
 id:  148929
+
+

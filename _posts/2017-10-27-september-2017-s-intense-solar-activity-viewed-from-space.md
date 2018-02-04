@@ -4,7 +4,7 @@ title: "September 2017's intense solar activity viewed from space"
 date: 2017-10-27 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Coronal mass ejection, Solar flare, Sun, Solar phenomena, Solar and Heliospheric Observatory, Solar Dynamics Observatory, Corona, Space weather, Solar System, Applied and interdisciplinary physics, Stellar astronomy, Bodies of the Solar System, G-type main-sequence stars, Space science, Physical sciences, Physical phenomena, Astronomy, Nature, Outer space, STEREO, Astronomical objects, Scientific phenomena, Physics]
+tags: [Coronal mass ejection, Solar flare, Sun, Solar phenomena, Solar and Heliospheric Observatory, Solar Dynamics Observatory, Corona, Space weather, Astronomy, Physical sciences, G-type main-sequence stars, Bodies of the Solar System, Stellar astronomy, Applied and interdisciplinary physics, Space science, Solar System, Outer space, Physical phenomena, Nature]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Coronal mass ejection, Solar flare, Sun, Solar phenomena, Solar and Helio
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/nsfc-s2i102717.php)
 
 id:  446048
+
+

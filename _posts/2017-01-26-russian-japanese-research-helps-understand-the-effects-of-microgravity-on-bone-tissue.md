@@ -4,7 +4,7 @@ title: "Russian-Japanese research helps understand the effects of microgravity o
 date: 2017-01-26 05:00:00
 categories: Science
 author: unknown author
-tags: [Bone, Osteoblast, Osteoclast, Glucocorticoid, International Space Station, Stress (biology), Biology, Life sciences, Japanese rice fish, Biochemistry, Bone tissue, Biotechnology, Cell biology, Molecular biology]
+tags: [Bone, Osteoblast, Osteoclast, Glucocorticoid, International Space Station, Life sciences, Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Bone, Osteoblast, Osteoclast, Glucocorticoid, International Space Station
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/kfu-rrh012617.php)
 
 id:  360234
+
+

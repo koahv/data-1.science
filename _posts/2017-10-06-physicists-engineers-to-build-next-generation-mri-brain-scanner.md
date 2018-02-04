@@ -4,7 +4,7 @@ title: "Physicists, engineers to build next-generation MRI brain scanner"
 date: 2017-10-06 20:00:55
 categories: Science
 author: unknown author
-tags: [general physics, Functional magnetic resonance imaging, Magnetic resonance imaging, Medical imaging, Laser, Brain, Cerebral cortex, Human brain, Neuroscience, Cognitive science, Biology, Nervous system, Medicine, Perception]
+tags: [Functional magnetic resonance imaging, Magnetic resonance imaging, Medical imaging, Brain, Cerebral cortex, Human brain, Neuroscience, Biology, Cognitive science, Nervous system]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [general physics, Functional magnetic resonance imaging, Magnetic resonanc
 [Visit Link](https://phys.org/news/2017-10-physicists-next-generation-mri-brain-scanner.html)
 
 id:  436217
+
+

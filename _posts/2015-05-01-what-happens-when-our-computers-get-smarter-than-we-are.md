@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.pddnet.com/videos/2015/05/what-happens-when-our-computers-get-smarter-we-are)
 
 id:  117371
+
+

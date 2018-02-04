@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.linuxfoundation.org/news-media/news/2014/08/register-storage-chip-slingers-pledge-allegiance-linux-open-source)
 
 id:   44877
+
+

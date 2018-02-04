@@ -4,7 +4,7 @@ title: "NASA's Fermi discovers the most extreme blazars yet"
 date: 2017-01-30 05:00:00
 categories: Astronomy
 author: unknown author
-tags: [Fermi Gamma-ray Space Telescope, Blazar, Gamma ray, Astronomy, Black hole, Applied and interdisciplinary physics, Physical phenomena, Astronomical objects, Physical cosmology, Astrophysics, Nature, Physical sciences, Outer space, Physics, Quasar, Redshift, Physical universe, Luminosity]
+tags: [Fermi Gamma-ray Space Telescope, Blazar, Gamma ray, Astronomy, Black hole, Astronomical objects, Physical phenomena, Physical cosmology, Applied and interdisciplinary physics, Astrophysics, Physical sciences, Outer space, Physics, Nature]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Fermi Gamma-ray Space Telescope, Blazar, Gamma ray, Astronomy, Black hole
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/nsfc-nfd013017.php)
 
 id:  361341
+
+

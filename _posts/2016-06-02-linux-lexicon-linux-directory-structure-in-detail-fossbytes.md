@@ -17,3 +17,5 @@ tags: [geek, /-root directory, /bin, /boot, /etc, /home, /lib, /opt, /proc, /tmp
 [Visit Link](http://fossbytes.com/linux-lexicon-linux-directory-structure/)
 
 id:  291046
+
+

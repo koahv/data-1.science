@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.linuxtoday.com/upload/what-are-useful-bash-aliases-and-functions-141021231011.html)
 
 id:   56473
+
+

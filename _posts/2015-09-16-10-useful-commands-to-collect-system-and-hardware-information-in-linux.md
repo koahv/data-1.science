@@ -17,3 +17,5 @@ tags: [linux commands, linux tricks]
 [Visit Link](http://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/)
 
 id:  185290
+
+

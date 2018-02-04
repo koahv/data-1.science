@@ -4,7 +4,7 @@ title: "Programming human cells to follow sets of logical instructions"
 date: 2017-03-29 13:00:04
 categories: Science
 author: unknown author
-tags: [biotechnology, DNA, Stem cell, Genetics, Cell (biology), Protein, Gene, Cancer, CRISPR, Life sciences, Organisms, Biology, Biotechnology, Biochemistry, Cell biology, Cellular differentiation, Synthetic biology, Somatic cell nuclear transfer, Cloning, Organism]
+tags: [DNA, Stem cell, Gene, Cancer, Cell (biology), Protein, Organism, Evolution, Genetics, Biology, Cellular differentiation, Molecular biology, Life sciences, Organisms, Biotechnology, Biochemistry]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [biotechnology, DNA, Stem cell, Genetics, Cell (biology), Protein, Gene, C
 [Visit Link](https://phys.org/news/2017-03-human-cells-logical.html)
 
 id:  378656
+
+

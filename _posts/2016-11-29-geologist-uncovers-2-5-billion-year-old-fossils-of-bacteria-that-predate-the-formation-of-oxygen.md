@@ -17,3 +17,5 @@ tags: [earth sciences, Global warming, Vaalbara, Fossil, Earth, Geology, Volcano
 [Visit Link](http://phys.org/news/2016-11-geologist-uncovers-billion-year-old-fossils-bacteria.html)
 
 id:  344855
+
+

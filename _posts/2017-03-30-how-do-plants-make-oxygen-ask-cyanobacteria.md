@@ -4,7 +4,7 @@ title: "How do plants make oxygen? Ask cyanobacteria"
 date: 2017-03-30 04:00:00
 categories: Science
 author: unknown author
-tags: [Cyanobacteria, Evolution, Algae, Photosynthesis, Organism, Organisms, Biology, Life sciences, Nature, Microorganism, Biological evolution]
+tags: [Cyanobacteria, Evolution, Algae, Photosynthesis, Organism, Nature, Biology, Organisms, Life sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Cyanobacteria, Evolution, Algae, Photosynthesis, Organism, Organisms, Bio
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/ciot-hdp033017.php)
 
 id:  379252
+
+

@@ -9,7 +9,7 @@ tags: [tutorials, bash, cli, command ine]
 
 
 #### Extract
->Follow @LinuxUserMag So computing is clouding over, but you have half a lifetime’s ‘stuff’ randomly saved across hard drives and thumb drives. Family photos; downloaded eBooks; text files helpfully named ’Notes’ and ’Misc’; PDFs of instruction manuals, brochures and cartoons; HOWTOs in HTML form; music and video files; lots of old source code; and even files you don’t even know how to open. Spring has come and gone and still your disordered archive sits quietly but accusingly. It’s time to do something about it – but drag- and-drop sorting through everything will take ages. Instead, let’s brush up on some command line shortcuts and combine a tidying exercise with a learning opportunity. Why do this from the command line? There are times when drag-and-drop is a convenient way to move files around but &#8211; for most operations involving several files in multiple directories &#8211; the command line can be a lot quicker. Not only that, but repetitive operations can be automated with scr...
+>Follow @LinuxUserMag So computing is clouding over, but you have half a lifetime’s ‘stuff’ randomly saved across hard drives and thumb drives. Family photos; downloaded eBooks; text files helpfully named ’Notes’ and ’Misc’; PDFs of instruction manuals, brochures and cartoons; HOWTOs in HTML form; music and video files; lots of old source code; and even files you don’t even know how to open. Spring has come and gone and still your disordered archive sits quietly but accusingly. It’s time to do something about it – but drag- and-drop sorting through everything will take ages. Instead, let’s brush up on some command line shortcuts and combine a tidying exercise with a learning opportunity. Why do this from the command line? There are times whe...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [tutorials, bash, cli, command ine]
 [Visit Link](http://www.linuxuser.co.uk/tutorials/use-the-command-line-to-organise-files)
 
 id:   42506
+
+

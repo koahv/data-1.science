@@ -17,3 +17,5 @@ tags: [quantum physics]
 [Visit Link](http://phys.org/news/2016-06-genetic-algorithms-quantum-simulations.html)
 
 id:  297931
+
+

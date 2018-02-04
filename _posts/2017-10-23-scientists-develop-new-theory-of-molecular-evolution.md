@@ -4,7 +4,7 @@ title: "Scientists develop new theory of molecular evolution"
 date: 2017-10-23 04:00:00
 categories: Science
 author: unknown author
-tags: [Evolution, Protein, Molecular evolution, Genetics, Mutation, Protein folding, Molecular biology, Biochemistry, Biotechnology, Biology, Life sciences, Organisms, Biological evolution, Evolutionary biology, Nature, Biology theories]
+tags: [Evolution, Protein, Molecular evolution, Genetics, Mutation, Biotechnology, Biology, Life sciences, Organisms, Evolutionary biology, Biological evolution, Biochemistry, Molecular biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Evolution, Protein, Molecular evolution, Genetics, Mutation, Protein fold
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoca-sdn101917.php)
 
 id:  443341
+
+

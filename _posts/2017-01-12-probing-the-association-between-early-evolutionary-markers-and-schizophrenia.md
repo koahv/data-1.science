@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->by Saurabh Srinivasan, Francesco Bettella, Sahar Hassani, Yunpeng Wang, Aree Witoelar, Andrew J. Schork, Wesley K. Thompson, David A. Collier, Rahul S. Desikan, Ingrid Melle, Anders M. Dale, Srdjan Djurovic, Ole A. Andreassen Schizophrenia is suggested to be a by-product of the evolution in humans, a compromise for our language, creative thinking and cognitive abilities, and thus, essentially, a human disorder. The time of its origin during the course of human evolution remains unclear. Here we investigate several markers of early human evolution and their relationship to the genetic risk of schizophrenia. We tested the schizophrenia evolutionary hypothesis by analyzing genome-wide association studies of schizophrenia and other human phenotypes in a statistical framework suited for polygenic architectures. We analyzed evolutionary proxy measures: human accelerated regions, segmental duplications, and ohnologs, representing various time periods of human evolution for overlap with the h...
+>by Saurabh Srinivasan, Francesco Bettella, Sahar Hassani, Yunpeng Wang, Aree Witoelar, Andrew J. Schork, Wesley K. Thompson, David A. Collier, Rahul S. Desikan, Ingrid Melle, Anders M. Dale, Srdjan Djurovic, Ole A. Andreassen Schizophrenia is suggested to be a by-product of the evolution in humans, a compromise for our language, creative thinking and cognitive abilities, and thus, essentially, a human disorder. The time of its origin during the course of human evolution remains unclear. Here we investigate several markers of early human evolution and their relationship to the genetic risk of schizophrenia. We tested the schizophrenia evolutionary hypothesis by analyzing genome-wide association studies of schizophrenia and other human pheno...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169227)
 
 id:  356572
+
+

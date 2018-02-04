@@ -17,3 +17,5 @@ tags: [Open-source model, Free software movement, Technology, Computing, Communi
 [Visit Link](https://www.linux.com/news/open-source-diversity-efforts-gain-momentum-2016)
 
 id:  350650
+
+

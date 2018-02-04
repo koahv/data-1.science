@@ -17,3 +17,5 @@ tags: [linux game news, amd, api, developers, gaming news, huddy, intel, linux, 
 [Visit Link](http://linuxgamenews.biz/2014/06/25/intel-takes-interest-in-mantle-requesting-access-to-the-amd-api/)
 
 id:    6991
+
+

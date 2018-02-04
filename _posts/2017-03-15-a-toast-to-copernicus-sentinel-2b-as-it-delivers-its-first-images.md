@@ -4,7 +4,7 @@ title: "A ‘toast’ to Copernicus Sentinel-2B as it delivers its first images"
 date: 2017-03-15 14:36:00
 categories: Astronomy
 author: unknown author
-tags: [Copernicus Programme, Sentinel-2, Outer space, Space technology, Spaceflight, Earth sciences, Space colonization, Spacecraft, Space exploration, Astronautics, Flight, European Union, Satellites, Space agencies]
+tags: [Copernicus Programme, Sentinel-2, Flight, Spacecraft, Earth sciences, Space colonization, Astronautics, Space technology, Space exploration, Outer space, Spaceflight]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Copernicus Programme, Sentinel-2, Outer space, Space technology, Spacefli
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2/A_toast_to_Copernicus_Sentinel-2B_as_it_delivers_its_first_images)
 
 id:  374544
+
+

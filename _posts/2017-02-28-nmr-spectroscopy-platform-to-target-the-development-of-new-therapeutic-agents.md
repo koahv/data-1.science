@@ -4,7 +4,7 @@ title: "NMR spectroscopy platform to target the development of new therapeutic a
 date: 2017-02-28 05:00:00
 categories: Science
 author: unknown author
-tags: [Drug discovery, Pharmaceutical drug, American Association for the Advancement of Science, Research, Chemistry, Physical sciences, Molecular biology, Medicinal chemistry, Science, Biology, Biochemistry, Biotechnology, Life sciences, Medical research]
+tags: [Drug discovery, Pharmaceutical drug, American Association for the Advancement of Science, Research, Life sciences, Biology, Chemistry, Biotechnology, Biochemistry, Molecular biology, Science, Physical sciences, Medicinal chemistry]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Drug discovery, Pharmaceutical drug, American Association for the Advance
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/indl-nsp022817.php)
 
 id:  369922
+
+

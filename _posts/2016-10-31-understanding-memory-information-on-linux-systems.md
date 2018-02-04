@@ -17,3 +17,5 @@ tags: [linux, guide, memory, ram, Paging, Computer data storage, Computer file, 
 [Visit Link](https://linux-audit.com/understanding-memory-information-on-linux-systems/)
 
 id:  337021
+
+

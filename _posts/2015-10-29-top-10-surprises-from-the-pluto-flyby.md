@@ -9,7 +9,7 @@ tags: [news, solar system, spacecraft and space missions]
 
 
 #### Extract
->New Horizons' principal investigator describes the most amazing discoveries made when NASA's New Horizons spacecraft flew past Pluto last July. It sounds like science fiction, but it's not: NASA's New Horizons mission explored the Pluto system last summer — and here's my "top 10" list of what's surprised me the most about the results so far. (By the way, I didn't order this list below in terms of my "surprise factor.") Pluto's five moons are shown to scale. Charon, 1,212 km (751 miles) across, is by far the largest. The others have irregular shapes. NASA / JHU-APL / SWRI No New Moons. I don't know about you, but I sure expected that we'd find more satellites circling Pluto. After finding four moons with successively deeper searches by the Hubble Space Telescope, I'm still amazed that our spacecraft searched with 20 to 30 times better sensitivity than Hubble and found nothing. Nada. Zip. Pluto is Bigger Than Eris. Before the flyby, Pluto's diameter was somewhat uncertain, with most esti...
+>New Horizons' principal investigator describes the most amazing discoveries made when NASA's New Horizons spacecraft flew past Pluto last July. It sounds like science fiction, but it's not: NASA's New Horizons mission explored the Pluto system last summer — and here's my "top 10" list of what's surprised me the most about the results so far. (By the way, I didn't order this list below in terms of my "surprise factor.") Pluto's five moons are shown to scale. Charon, 1,212 km (751 miles) across, is by far the largest. The others have irregular shapes. NASA / JHU-APL / SWRI No New Moons. I don't know about you, but I sure expected that we'd find more satellites circling Pluto. After finding four moons with successively deeper searches by the H...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [news, solar system, spacecraft and space missions]
 [Visit Link](http://www.skyandtelescope.com/uncategorized/top-10-surprises-from-the-pluto-flyby/)
 
 id:  204285
+
+

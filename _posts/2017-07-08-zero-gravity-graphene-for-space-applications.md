@@ -4,7 +4,7 @@ title: "Zero gravity: Graphene for space applications"
 date: 2017-07-08 01:11:34
 categories: Science
 author: unknown author
-tags: [Weightlessness, Graphene, Solar sail, Micro-g environment, Graphene Flagship, Spaceflight, European Space Agency, Heat pipe, Artificial objects, Outer space]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Weightlessness, Graphene, Solar sail, Micro-g environment, Graphene Flags
 [Visit Link](https://www.sciencedaily.com/releases/2017/07/170707211134.htm)
 
 id:  408029
+
+

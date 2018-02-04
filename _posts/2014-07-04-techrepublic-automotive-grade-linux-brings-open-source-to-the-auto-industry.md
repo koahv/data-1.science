@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.linuxfoundation.org/news-media/news/2014/07/techrepublic-automotive-grade-linux-brings-open-source-auto-industry)
 
 id:   28606
+
+

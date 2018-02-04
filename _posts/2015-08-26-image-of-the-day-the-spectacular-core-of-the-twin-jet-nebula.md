@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->         The shimmering colors visible in this NASA/ESA Hubble Space Telescope image show off the remarkable complexity of the Twin Jet Nebula. The new image highlights the nebula's shells and its knots of expanding gas in striking detail. Two iridescent lobes of material stretch outwards from a central star system. Within these lobes two huge jets of gas are streaming from the star system at speeds in excess of one million kilometers per hour. The cosmic butterfly pictured in this NASA/ESA Hubble Space Telescope image goes by many names. It is called the Twin Jet Nebula as well as answering to the slightly less poetic name of PN M2-9. The M in this name refers to Rudolph Minkowski, a German-American astronomer who discovered the nebula in 1947. The PN, meanwhile, refers to the fact that M2-9 is a planetary nebula. The glowing and expanding shells of gas clearly visible in this image represent the final stages of life for an old star of low to intermediate mass. The star has not...
+>         The shimmering colors visible in this NASA/ESA Hubble Space Telescope image show off the remarkable complexity of the Twin Jet Nebula. The new image highlights the nebula's shells and its knots of expanding gas in striking detail. Two iridescent lobes of material stretch outwards from a central star system. Within these lobes two huge jets of gas are streaming from the star system at speeds in excess of one million kilometers per hour. The cosmic butterfly pictured in this NASA/ESA Hubble Space Telescope image goes by many names. It is called the Twin Jet Nebula as well as answering to the slightly less poetic name of PN M2-9. The M in this name refers to Rudolph Minkowski, a German-American astronomer who discovered the neb...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/the-binary-core-of-the-twin-jet-nebula.html)
 
 id:  174827
+
+

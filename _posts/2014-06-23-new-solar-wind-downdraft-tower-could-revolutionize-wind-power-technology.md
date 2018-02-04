@@ -17,3 +17,5 @@ tags: [green technology, news, renewable energy, wind power, downdraft, power, r
 [Visit Link](http://inhabitat.com/new-solar-wind-downdraft-tower-could-revolutionize-wind-power-technology/)
 
 id:    4724
+
+

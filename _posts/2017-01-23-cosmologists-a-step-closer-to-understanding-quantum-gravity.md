@@ -4,7 +4,7 @@ title: "Cosmologists a step closer to understanding quantum gravity"
 date: 2017-01-23 12:55:33
 categories: Science
 author: unknown author
-tags: [quantum physics, Physical cosmology, Big Bang, Universe, Inflation (cosmology), Cosmological constant, Gravity, Quantum mechanics, Physics, Quantum gravity, Dark energy, Metric expansion of space, Chronology of the universe, Scientific method, Physical universe, Epistemology of science, Particle physics, Modern physics, Astronomy, Metaphysics, Spacetime, Natural philosophy, Applied and interdisciplinary physics, Scientific theories, Physical quantities, Theoretical physics, Science, Cosmology, Mechanics, Physical sciences, Black hole, Academic discipline interactions, Nature, Einstein field equations, Mathematical physics, Matter, Philosophy]
+tags: [Physical cosmology, Big Bang, Universe, Inflation (cosmology), Cosmological constant, Gravity, Quantum mechanics, Physics, Quantum gravity, Dark energy, Metric expansion of space, Chronology of the universe, Natural philosophy, Cosmology, Spacetime, Theoretical physics, Physical quantities, Science, Scientific theories, Mechanics, Applied and interdisciplinary physics, Modern physics, Physical sciences, Metaphysics, Scientific method, Particle physics, Epistemology of science, Physical universe]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [quantum physics, Physical cosmology, Big Bang, Universe, Inflation (cosmo
 [Visit Link](https://phys.org/news/2017-01-cosmologists-closer-quantum-gravity.html)
 
 id:  359072
+
+

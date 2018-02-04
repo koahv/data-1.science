@@ -9,7 +9,7 @@ tags: [news, stellar science]
 
 
 #### Extract
->A new computer simulation provides a brief glimpse at what makes stellar bombs tick. A visualization of the amped-up magnetic field that forms around the core of a rapidly spinning, collapsed star. Moesta et al. / Nature It’s hard to make a star explode. Within Blue Waters, one of the most powerful supercomputers in the world, 130,000 computer processors worked around the clock for 18 days to simulate the supernova of a star six times the Sun’s mass. The result? 10 milliseconds of swirling gas that gives an all-too-brief window into the magnetic mechanics of stellar blasts. But even in that glimpse, Philipp Mösta (now at University of California, Berkeley) and colleagues managed to replicate not only the explosion itself but also the enormous magnification of the star’s magnetic fields that happens in the process ¾ the fuel behind some of nature’s most violent blasts. The team reported the successful supernova simulation on November 30th in Nature. Modeling the Rarest Supernovae This...
+>A new computer simulation provides a brief glimpse at what makes stellar bombs tick. A visualization of the amped-up magnetic field that forms around the core of a rapidly spinning, collapsed star. Moesta et al. / Nature It’s hard to make a star explode. Within Blue Waters, one of the most powerful supercomputers in the world, 130,000 computer processors worked around the clock for 18 days to simulate the supernova of a star six times the Sun’s mass. The result? 10 milliseconds of swirling gas that gives an all-too-brief window into the magnetic mechanics of stellar blasts. But even in that glimpse, Philipp Mösta (now at University of California, Berkeley) and colleagues managed to replicate not only the explosion itself but also the enormo...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [news, stellar science]
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/simulation-sees-supernova-innards-1208201543/)
 
 id:  221805
+
+

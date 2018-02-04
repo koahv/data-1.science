@@ -4,7 +4,7 @@ title: "IBM Adds New API to Quantum Computing Cloud Service"
 date: 2017-03-06 08:00:56
 categories: Linux
 author: TechCrunch
-tags: [Quantum computing, Cloud computing, IBM Quantum Experience, Areas of computer science, Computer architecture, Computers, Computing, Software, Computer engineering, Technology, Digital technology]
+tags: [Quantum computing, Cloud computing, IBM Quantum Experience, Computers, Technology, Computer engineering, Software, Areas of computer science, Computer architecture, Computing]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Quantum computing, Cloud computing, IBM Quantum Experience, Areas of comp
 [Visit Link](https://www.linux.com/news/ibm-adds-new-api-quantum-computing-cloud-service)
 
 id:  371545
+
+

@@ -4,7 +4,7 @@ title: "DNA of early Neanderthal gives timeline for new modern human-related dis
 date: 2017-07-04 04:00:00
 categories: Science
 author: unknown author
-tags: [Neanderthal, Denisovan, Anatomically modern human, Recent African origin of modern humans, Biology, Genetics, Evolutionary biology, Organisms, Life sciences, Pleistocene, Evolution of primates, Pliocene, Population genetics, Human evolution, Mitochondrial DNA]
+tags: [Neanderthal, Denisovan, Anatomically modern human, Recent African origin of modern humans, Biology, Genetics, Organisms, Evolutionary biology, Life sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Neanderthal, Denisovan, Anatomically modern human, Recent African origin 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/mpif-doe062917.php)
 
 id:  406632
+
+

@@ -4,7 +4,7 @@ title: "Biochemists discover mechanism that helps flu viruses evolve"
 date: 2017-09-26 15:20:12
 categories: Science
 author: unknown author
-tags: [Virus, Influenza, Antiviral drug, Orthomyxoviridae, Evolution, Organisms, Biology, Life sciences, Biotechnology, Biochemistry, Molecular biology, Viruses, Microbiology, Virology, Protein]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Virus, Influenza, Antiviral drug, Orthomyxoviridae, Evolution, Organisms,
 [Visit Link](https://www.sciencedaily.com/releases/2017/09/170926112012.htm)
 
 id:  432817
+
+

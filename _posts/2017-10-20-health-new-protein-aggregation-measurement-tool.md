@@ -4,7 +4,7 @@ title: "Health: New protein aggregation measurement tool"
 date: 2017-10-20 20:00:18
 categories: Science
 author: unknown author
-tags: [Prion, Protein aggregation, Protein, News aggregator, Disease, Genetics, Biology, Life sciences, Biochemistry, Molecular biology, Organisms, Cell biology, Biotechnology, Neurodegeneration, Gene, Epigenetics]
+tags: [Prion, Protein aggregation, Protein, Disease, Genetics, Neurodegeneration, Gene, Epigenetics, Life sciences, Biochemistry, Biology, Molecular biology, Organisms, Biotechnology, Cell biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Prion, Protein aggregation, Protein, News aggregator, Disease, Genetics, 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171020160018.htm)
 
 id:  442838
+
+

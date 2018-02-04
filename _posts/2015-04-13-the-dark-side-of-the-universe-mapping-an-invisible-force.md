@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->     Scientists on the Dark Energy Survey have released the first in a series of dark matter maps of the cosmos. These maps, created with one of the world's most powerful digital cameras, are the largest contiguous maps created at this level of detail and will improve our understanding of dark matter's role in the formation of galaxies. Analysis of the clumpiness of the dark matter in the maps will also allow scientists to probe the nature of the mysterious dark energy, believed to be causing the expansion of the universe to speed up. The new maps were released today at the April meeting of the American Physical Society in Baltimore, Maryland. They were created using data captured by the Dark Energy Camera, a 570-megapixel imaging device that is the primary instrument for the Dark Energy Survey (DES). Dark matter, the mysterious substance that makes up roughly a quarter of the universe, is invisible to even the most sensitive astronomical instruments because it does not emit or bl...
+>     Scientists on the Dark Energy Survey have released the first in a series of dark matter maps of the cosmos. These maps, created with one of the world's most powerful digital cameras, are the largest contiguous maps created at this level of detail and will improve our understanding of dark matter's role in the formation of galaxies. Analysis of the clumpiness of the dark matter in the maps will also allow scientists to probe the nature of the mysterious dark energy, believed to be causing the expansion of the universe to speed up. The new maps were released today at the April meeting of the American Physical Society in Baltimore, Maryland. They were created using data captured by the Dark Energy Camera, a 570-megapixel imaging devic...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/uVyhyXdZFHQ/the-dark-side-of-the-universe-mapping-the-invisible-force.html)
 
 id:  108734
+
+

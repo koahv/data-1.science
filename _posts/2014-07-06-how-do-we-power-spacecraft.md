@@ -9,7 +9,7 @@ tags: [science, generate, power, rtg, solar, solar power, spacecraft]
 
 
 #### Extract
->Photo Credit: ‘Shadow of the Sun’ artist illustration Take a second and look around you. I’m willing to bet that you have at least half a dozen objects in your immediate vicinity use electricity in some way to power its systems. Maybe you’re using a battery or you’re plugged directly into an outlet, but either way, this energy came to you via coal/wind/solar/geothermal or a host of other methods we use to generate power here on earth. Well, what about our spacecrafts? How do they get the power they need? It depends on where they are in the solar system. For spacecraft operating inside the inner solar system (including earth orbit), the traditional power source is solar. Solar panels (also called photovoltaics) convert light energy into usable electrical energy. They accomplish this feat because each solar panel is made up of individual solar cells. Each cell has a semiconductor, which in turn is wired to a circuit. As light hits the semiconductors, the light in converted into electri...
+>Photo Credit: ‘Shadow of the Sun’ artist illustration Take a second and look around you. I’m willing to bet that you have at least half a dozen objects in your immediate vicinity use electricity in some way to power its systems. Maybe you’re using a battery or you’re plugged directly into an outlet, but either way, this energy came to you via coal/wind/solar/geothermal or a host of other methods we use to generate power here on earth. Well, what about our spacecrafts? How do they get the power they need? It depends on where they are in the solar system. For spacecraft operating inside the inner solar system (including earth orbit), the traditional power source is solar. Solar panels (also called photovoltaics) convert light energy into us...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [science, generate, power, rtg, solar, solar power, spacecraft]
 [Visit Link](http://www.fromquarkstoquasars.com/how-do-we-power-spacecraft/)
 
 id:   14017
+
+

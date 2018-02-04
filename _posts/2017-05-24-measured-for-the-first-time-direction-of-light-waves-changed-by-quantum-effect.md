@@ -4,7 +4,7 @@ title: "Measured for the first time: Direction of light waves changed by quantum
 date: 2017-05-24 04:00:00
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Electricity, Quantum Hall effect, Measurement, Light, Time, Electromagnetic radiation, Particle physics, Materials science, Physical sciences, Modern physics, Physical quantities, Solid state engineering, Chemistry, Natural philosophy, Physics, Science, Theoretical physics, Mechanics, Applied and interdisciplinary physics, Force, Electromagnetism, Condensed matter physics, Electrical resistance and conductance, Quantum, Wave]
+tags: [Quantum mechanics, Electricity, Quantum Hall effect, Measurement, Light, Time, Electromagnetic radiation, Materials science, Physical sciences, Science, Electromagnetism, Mechanics, Theoretical physics, Force, Natural philosophy, Chemistry, Solid state engineering, Physical quantities, Modern physics, Applied and interdisciplinary physics, Physics, Particle physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Quantum mechanics, Electricity, Quantum Hall effect, Measurement, Light, 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-05/vuot-mft052417.php)
 
 id:  395197
+
+

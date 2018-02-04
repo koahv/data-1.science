@@ -4,7 +4,7 @@ title: "Okinawan pit viper genome reveals evolution of snake venom"
 date: 2017-10-04 12:30:01
 categories: Science
 author: unknown author
-tags: [evolution, Venom, Evolution, Snake, Snakebite, Snake venom, Okinawa Prefecture, Planarian, Predation, Species, Trimeresurus flavoviridis, Regeneration (biology), Biology, Organisms, Life sciences, Natural selection, Lizard, Invasive species, Cell (biology)]
+tags: [Venom, Evolution, Snake, Snake venom, Snakebite, Okinawa Prefecture, Predation, Species, Biology, Life sciences, Organisms]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [evolution, Venom, Evolution, Snake, Snakebite, Snake venom, Okinawa Prefe
 [Visit Link](https://phys.org/news/2017-10-okinawan-pit-viper-genome-reveals.html)
 
 id:  435030
+
+

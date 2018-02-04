@@ -17,3 +17,5 @@ tags: [condensed matter, Crystallography, Magnetic structure, Laser, Magnetism, 
 [Visit Link](http://phys.org/news/2016-11-magndata-database-magnetic.html)
 
 id:  337500
+
+

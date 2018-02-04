@@ -4,7 +4,7 @@ title: "New plant research leads to discovery of a gene that increases seed yiel
 date: 2017-03-16 04:00:00
 categories: Science
 author: unknown author
-tags: [Maize, Agriculture, Primary sector of the economy, Natural environment, Land management, Food and drink, Artificial objects, Agronomy]
+tags: [Maize, Agriculture, Primary sector of the economy, Natural environment, Land management]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Maize, Agriculture, Primary sector of the economy, Natural environment, L
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/vfi-npr031617.php)
 
 id:  376142
+
+

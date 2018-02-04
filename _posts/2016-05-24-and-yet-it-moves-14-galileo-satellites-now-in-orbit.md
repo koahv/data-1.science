@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.esa.int/Our_Activities/Navigation/Galileo/Launching_Galileo/And_yet_it_moves_14_Galileo_satellites_now_in_orbit)
 
 id:  288021
+
+

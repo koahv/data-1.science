@@ -4,7 +4,7 @@ title: "Life on Earth is used to gravity – so what happens to our cells and ti
 date: 2017-03-10 13:50:01
 categories: Science
 author: unknown author
-tags: [space exploration, Gravity, Weightlessness, Ion channel, Immune system, Cell (biology), Biology, Stimulus (physiology), Neuron, Infection, Physical exercise, Brain]
+tags: [Gravity, Weightlessness, Galaxy, Ion channel, Immune system, Cell (biology), Biology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [space exploration, Gravity, Weightlessness, Ion channel, Immune system, C
 [Visit Link](https://phys.org/news/2017-03-life-earth-gravity-cells-tissues.html)
 
 id:  373026
+
+

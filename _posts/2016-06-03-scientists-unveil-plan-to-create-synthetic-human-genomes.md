@@ -17,3 +17,5 @@ tags: [biotechnology]
 [Visit Link](http://phys.org/news/2016-06-scientists-unveil-synthetic-human-genomes.html)
 
 id:  291454
+
+

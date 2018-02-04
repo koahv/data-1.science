@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->     An international team of scientists have discovered that winds blowing from a supermassive black hole in a nearby galaxy work to obscure observations and x-rays. The discovery sheds light on the unexpected behavior of black holes, which emit large amounts of matter through powerful, galactic winds. Using a large array of satellites and space observatories, the team spent more than a year training their instruments on the brightest and most studied of the "local" black holes — the one situated at the core of Type I Seyfert Galaxy NGC 5548. "Shadowing" of light from a black hole had not been seen before. With the discovery, scientists were able to decipher the outflow. "These outflows are thought to be a major player in the structure formation of the universe," said Nahum Arav, an associate professor of physics with Virginia Tech. "This particular outflow is comparatively small but because it's so close we can study it very well and then create a better understanding of how the...
+>     An international team of scientists have discovered that winds blowing from a supermassive black hole in a nearby galaxy work to obscure observations and x-rays. The discovery sheds light on the unexpected behavior of black holes, which emit large amounts of matter through powerful, galactic winds. Using a large array of satellites and space observatories, the team spent more than a year training their instruments on the brightest and most studied of the "local" black holes — the one situated at the core of Type I Seyfert Galaxy NGC 5548. "Shadowing" of light from a black hole had not been seen before. With the discovery, scientists were able to decipher the outflow. "These outflows are thought to be a major player in the structure...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/7a6d8yQo58s/outflow-of-matter-from-supermassive-black-holes-found-shaping-structure-of-the-universe.html)
 
 id:     505
+
+

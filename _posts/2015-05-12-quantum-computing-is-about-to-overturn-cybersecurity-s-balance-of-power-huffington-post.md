@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHLKvPZnFfcXRavz2k9w1lghbFZeA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778836861265&ei=-wFUVZizFoKT3gGry4GIDA&url=http://www.huffingtonpost.com/vivek-wadhwa/quantum-computing-is-abou_b_7257354.html)
 
 id:  122962
+
+

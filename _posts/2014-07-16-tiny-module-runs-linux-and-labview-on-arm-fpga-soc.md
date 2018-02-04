@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.linux.com/news/embedded-mobile/mobile-linux/780626-tiny-module-runs-linux-and-labview-on-armfpga-soc/)
 
 id:   21446
+
+

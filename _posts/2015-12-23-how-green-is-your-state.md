@@ -17,3 +17,5 @@ tags: [solar, bioenergy, distributed energy, news, hydropower, wind power, geoth
 [Visit Link](http://www.renewableenergyworld.com/articles/2015/12/energy-news-how-green-is-your-state.html)
 
 id:  228651
+
+

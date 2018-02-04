@@ -4,7 +4,7 @@ title: "Sentinel satellite captures birth of behemoth iceberg"
 date: 2017-07-12 10:50:00
 categories: Astronomy
 author: unknown author
-tags: [Larsen Ice Shelf, Ice shelf, Hydrography, Oceanography, Physical geography, Earth sciences, Iceberg, Bodies of water, Applied and interdisciplinary physics, Copernicus Programme, Water ice]
+tags: [Larsen Ice Shelf, Ice shelf, Hydrography, Oceanography, Physical geography, Earth sciences]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Larsen Ice Shelf, Ice shelf, Hydrography, Oceanography, Physical geograph
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel_satellite_captures_birth_of_behemoth_iceberg)
 
 id:  409104
+
+

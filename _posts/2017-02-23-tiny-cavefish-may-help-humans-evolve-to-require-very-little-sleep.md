@@ -4,7 +4,7 @@ title: "Tiny cavefish may help humans evolve to require very little sleep"
 date: 2017-02-23 05:00:00
 categories: Science
 author: unknown author
-tags: [Evolution, Sleep, Florida Atlantic University, Brain, Perception, Sensory nervous system, Convergent evolution, Nervous system, Biology, Neuroscience, Neuropsychology, Neuropsychological assessment, Behavioural sciences, Psychology, Cognition, Psychological concepts, Cognitive science, Emergence, Science, Sensory processing, Phenomenology, Attention]
+tags: [Evolution, Sleep, Florida Atlantic University, Brain, Perception, Sensory nervous system, Convergent evolution, Nervous system, Neuropsychological assessment, Behavioural sciences, Biology, Psychology, Cognition, Psychological concepts, Cognitive science, Neuroscience, Neuropsychology]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Evolution, Sleep, Florida Atlantic University, Brain, Perception, Sensory
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/fau-tcm022217.php)
 
 id:  368449
+
+

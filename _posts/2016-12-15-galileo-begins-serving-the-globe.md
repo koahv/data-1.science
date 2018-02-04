@@ -17,3 +17,5 @@ tags: [Galileo (satellite navigation), International Cospas-Sarsat Programme, Sa
 [Visit Link](http://www.esa.int/Our_Activities/Navigation/Galileo_begins_serving_the_globe)
 
 id:  349694
+
+

@@ -4,7 +4,7 @@ title: "OSHA, Others Create New Industrial Robotics Standards Body"
 date: 2017-10-06 14:05:34
 categories: Technology
 author: mcrouse
-tags: [Occupational Safety and Health Administration, Occupational safety and health, National Institute for Occupational Safety and Health, Safety, Labour relations, Working conditions, Technology, Health, Public health, Prevention]
+tags: [Occupational Safety and Health Administration, Occupational safety and health, National Institute for Occupational Safety and Health, Safety, Labour relations, Working conditions, Technology, Health]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Occupational Safety and Health Administration, Occupational safety and he
 [Visit Link](https://www.pddnet.com/news/2017/10/osha-others-create-new-industrial-robotics-standards-body)
 
 id:  436709
+
+

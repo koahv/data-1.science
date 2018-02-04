@@ -4,7 +4,7 @@ title: "Engineers invent breakthrough millimeter-wave circulator IC"
 date: 2017-10-06 12:59:19
 categories: Science
 author: unknown author
-tags: [Duplex (telecommunications), Circulator, Integrated circuit, Extremely high frequency, Wireless, 5G, Electronic engineering, Electrical engineering, Telecommunications engineering, Computer engineering, Radio, Telecommunications, Electromagnetism, Electricity, Technology, Artificial objects, Electronics, Engineering, Manufactured goods, Radio receiver, Semiconductor, Computing]
+tags: []
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Duplex (telecommunications), Circulator, Integrated circuit, Extremely hi
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171006085919.htm)
 
 id:  436076
+
+

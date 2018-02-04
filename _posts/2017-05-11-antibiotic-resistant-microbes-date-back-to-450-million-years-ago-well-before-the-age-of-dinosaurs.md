@@ -4,7 +4,7 @@ title: "Antibiotic-resistant microbes date back to 450 million years ago, well b
 date: 2017-05-11 18:20:12
 categories: Science
 author: unknown author
-tags: []
+tags: [Antimicrobial resistance, Antibiotics, Medical specialties, Biology, Organisms, Microbiology, Life sciences, Nature]
 ---
 
 
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.sciencedaily.com/releases/2017/05/170511142012.htm)
 
 id:  391800
+
+

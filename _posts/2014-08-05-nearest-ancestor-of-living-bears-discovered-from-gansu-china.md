@@ -9,7 +9,7 @@ tags: [other sciences]
 
 
 #### Extract
->In the last ten years or so, a number of skulls of Indarctos, Agriotherium and Ursavus have been collected from the Late Miocene deposits in the Linxia Basin. Since so far no complete Ursavus skull has ever been found and reported, and a number of questions pertaining to the origin, phylogeny and classification of the Ursinae are quite dependent on a better understanding of ancestral ursid members, especially the genus Ursavus, a well preserved skull of Ursavus was chosen as the subject of the first of a series of papers dealing with these ursid skulls by Professor Qiu Zhanxiang and his colleagues from Institute of Vertebrate Paleontology and Paleoanthropology (IVPP), Chinese Academy of Sciences. The latest issue of Vertebrata PalAsiatica (Volume 52, Issue 3) published their research in the cover article....
+>In the last ten years or so, a number of skulls of Indarctos, Agriotherium and Ursavus have been collected from the Late Miocene deposits in the Linxia Basin. Since so far no complete Ursavus skull has ever been found and reported, and a number of questions pertaining to the origin, phylogeny and classification of the Ursinae are quite dependent on a better understanding of ancestral ursid members, especially the genus Ursavus, a well preserved skull of Ursavus was chosen as the subject of the first of a series of papers dealing with these ursid skulls by Professor Qiu Zhanxiang and his colleagues from Institute of Vertebrate Paleontology and Paleoanthropology (IVPP), Chinese Academy of Sciences. The latest issue of Vertebrata PalAsiatica (...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [other sciences]
 [Visit Link](http://phys.org/news326447899.html)
 
 id:   32289
+
+

@@ -4,7 +4,7 @@ title: "Researchers explore how chewing affects teeth on the nanoscale"
 date: 2017-10-25 06:28:37
 categories: Science
 author: unknown author
-tags: [nanomaterials, Tooth enamel, Tooth, Quantum dot, Nanotechnology, Applied and interdisciplinary physics, Chemistry, Manufacturing, Materials science, Materials, Evolution, Artificial objects, Laser, Sheep, Physical sciences, Nanowire, Molar (tooth)]
+tags: [Tooth enamel, Tooth, Evolution, Sheep, Molar (tooth), Electron, Chemistry, Materials, Materials science, Applied and interdisciplinary physics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [nanomaterials, Tooth enamel, Tooth, Quantum dot, Nanotechnology, Applied 
 [Visit Link](https://phys.org/news/2017-10-explore-affects-teeth-nanoscale.html)
 
 id:  444391
+
+

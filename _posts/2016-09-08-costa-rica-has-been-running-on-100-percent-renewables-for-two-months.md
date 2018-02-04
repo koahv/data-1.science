@@ -17,3 +17,5 @@ tags: [solar, hydropower, imported, wind power, geothermal]
 [Visit Link](http://www.renewableenergyworld.com/articles/pt/2016/09/costa-rica-has-been-running-on-100-percent-renewables-for-two-months.html)
 
 id:  321973
+
+

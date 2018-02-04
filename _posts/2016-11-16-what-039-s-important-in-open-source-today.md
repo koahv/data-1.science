@@ -17,3 +17,5 @@ tags: [Open-source software, Open-source software movement, Linux, Computing, Cu
 [Visit Link](https://opensource.com/16/11/all-things-open-keynotes-day-1-summary)
 
 id:  341509
+
+

@@ -4,7 +4,7 @@ title: "Dinosaur evolution: Lumbering giants had agile ancestors"
 date: 2017-09-20 04:00:00
 categories: Science
 author: unknown author
-tags: [Sauropoda, Dinosaur, Sauropodomorpha, Organisms, Fossil, Paleontology]
+tags: [Sauropoda, Dinosaur, Sauropodomorpha, Organisms]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Sauropoda, Dinosaur, Sauropodomorpha, Organisms, Fossil, Paleontology]
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/lm-del092017.php)
 
 id:  430882
+
+

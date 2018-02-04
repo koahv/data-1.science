@@ -4,7 +4,7 @@ title: "International team observes first radio counterpart to gravitational wav
 date: 2017-10-16 04:00:00
 categories: Science
 author: unknown author
-tags: [Radio astronomy, LIGO, Astronomy, Karl G. Jansky Very Large Array, Radio telescope, Gravitational wave, Interferometry, Radio, United States Naval Research Laboratory, Outer space, Science, Electromagnetic radiation, Scientific observation, Physical sciences, Applied and interdisciplinary physics, Gravitational-wave observatory, Observational astronomy, Physical phenomena, Astrophysics]
+tags: [Radio astronomy, LIGO, Astronomy, Karl G. Jansky Very Large Array, Radio telescope, Gravitational wave, Interferometry, Radio, United States Naval Research Laboratory, Science, Applied and interdisciplinary physics, Electromagnetic radiation, Scientific observation, Physical sciences, Outer space]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Radio astronomy, LIGO, Astronomy, Karl G. Jansky Very Large Array, Radio 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/nrl-ito101617.php)
 
 id:  439671
+
+

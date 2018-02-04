@@ -4,7 +4,7 @@ title: "Waterside lighting drastically disrupts wildlife in the surrounding ecos
 date: 2017-10-20 04:00:00
 categories: Science
 author: unknown author
-tags: [Ecology, Biodiversity, Ecosystem, Natural environment, Insect, Biogeochemistry, Earth sciences, Natural resource management, Organisms, Conservation, Biology, Environmental social science, Habitat, Environmental science, Systems ecology, Lighting]
+tags: [Ecology, Biodiversity, Ecosystem, Natural environment, Conservation, Natural resource management, Earth sciences, Biology, Biogeochemistry, Systems ecology, Environmental science, Environmental social science, Habitat]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Ecology, Biodiversity, Ecosystem, Natural environment, Insect, Biogeochem
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/f-wld101317.php)
 
 id:  441954
+
+

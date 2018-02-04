@@ -9,7 +9,7 @@ tags: []
 
 
 #### Extract
->         When certain massive stars use up all of their fuel and collapse onto their cores, explosions 10 to 100 times brighter than the average supernova occur. Exactly how this happens is not well understood. Astrophysicists from Caltech, UC Berkeley, the Albert Einstein Institute, and the Perimeter Institute for Theoretical Physics have used the National Science Foundation's Blue Waters supercomputer to perform three-dimensional computer simulations to fill in an important missing piece of our understanding of what drives these blasts. The researchers report their findings online on November 30 in advance of publication in the journal Nature. The lead author on the paper is Philipp Mösta, who started the work while a postdoctoral scholar at Caltech and is now a NASA Einstein Fellow at UC Berkeley. The extremely bright explosions come in two varieties--some are a type of energetic supernovae called hypernovae (image above), while others are gamma-ray bursts (GRBs). Both are dr...
+>         When certain massive stars use up all of their fuel and collapse onto their cores, explosions 10 to 100 times brighter than the average supernova occur. Exactly how this happens is not well understood. Astrophysicists from Caltech, UC Berkeley, the Albert Einstein Institute, and the Perimeter Institute for Theoretical Physics have used the National Science Foundation's Blue Waters supercomputer to perform three-dimensional computer simulations to fill in an important missing piece of our understanding of what drives these blasts. The researchers report their findings online on November 30 in advance of publication in the journal Nature. The lead author on the paper is Philipp Mösta, who started the work while a postdoctoral s...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/12/-mystery-of-magnetic-fields-powering-gamma-ray-bursts-a-million-billion-times-stronger-than-earths.html)
 
 id:  218332
+
+

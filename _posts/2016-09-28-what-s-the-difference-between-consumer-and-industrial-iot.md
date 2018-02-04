@@ -17,3 +17,5 @@ tags: []
 [Visit Link](https://www.linux.com/news/whats-difference-between-consumer-and-industrial-iot)
 
 id:  327372
+
+

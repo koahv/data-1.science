@@ -9,7 +9,7 @@ tags: [questions & answers, resources and education, science-based q&a, stars fa
 
 
 #### Extract
-><div id="attachment_255426004" style="width: 304px" class="wp-caption alignright"><a href="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/milky-way1.jpg"><img class="size-medium wp-image-255426004" src="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/milky-way1-294x190.jpg" alt="The band of the Milky Way, across the night sky. Our Sun is only one of a 100 billion stars in our galaxy. Serge Brunier" width="294" height="190" /><p class="wp-caption-text">The band of the Milky Way across the night sky. Our Sun is only one of a 100 billion stars in our galaxy.<br />Serge BrunierIn talking about the universe, it is important to distinguish between the universe as a whole and the observable universe. Because the universe was born 13.8 billion years ago, we can only observe objects up to a certain distance from Earth — light from more distant objects hasn’t had time to reach us yet. To answer “how many stars are there,” we must limit the discussion to what we can observe. Astr...
+><div id="attachment_255426004" style="width: 304px" class="wp-caption alignright"><a href="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/milky-way1.jpg"><img class="size-medium wp-image-255426004" src="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/milky-way1-294x190.jpg" alt="The band of the Milky Way, across the night sky. Our Sun is only one of a 100 billion stars in our galaxy. Serge Brunier" width="294" height="190" /><p class="wp-caption-text">The band of the Milky Way across the night sky. Our Sun is only one of a 100 billion stars in our galaxy.<br />Serge BrunierIn talking about the universe, it is important to distinguish between the universe as a whole and the observable universe. Because the universe was born...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [questions & answers, resources and education, science-based q&a, stars fa
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/many-stars-universe/)
 
 id:   20731
+
+

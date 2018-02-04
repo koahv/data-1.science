@@ -4,7 +4,7 @@ title: "Quantum entanglement between a single photon and a trillion of atoms"
 date: 2017-03-01 05:00:00
 categories: Science
 author: unknown author
-tags: [Photon, Physics, Uncertainty principle, Quantum entanglement, EPR paradox, Atom, Quantum mechanics, Light, Scientific method, Epistemology of science, Physical sciences, Mechanics, Modern physics, Particle physics, Theoretical physics, Solid state engineering, Science, Scientific theories, Applied and interdisciplinary physics, Condensed matter physics, Albert Einstein, Chemistry]
+tags: [Photon, Physics, Uncertainty principle, Quantum entanglement, EPR paradox, Atom, Quantum mechanics, Light, Modern physics, Scientific theories, Condensed matter physics, Applied and interdisciplinary physics, Scientific method, Epistemology of science, Science, Solid state engineering, Theoretical physics, Particle physics, Physical sciences, Mechanics]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [Photon, Physics, Uncertainty principle, Quantum entanglement, EPR paradox
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/fopu-qeb030117.php)
 
 id:  370224
+
+

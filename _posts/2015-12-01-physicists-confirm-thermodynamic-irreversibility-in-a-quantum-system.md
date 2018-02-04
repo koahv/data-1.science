@@ -17,3 +17,5 @@ tags: [quantum physics]
 [Visit Link](http://phys.org/news/2015-12-physicists-thermodynamic-irreversibility-quantum.html)
 
 id:  218358
+
+

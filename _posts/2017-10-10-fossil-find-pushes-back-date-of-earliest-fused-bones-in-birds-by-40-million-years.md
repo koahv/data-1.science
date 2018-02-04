@@ -4,7 +4,7 @@ title: "Fossil find pushes back date of earliest fused bones in birds by 40 mill
 date: 2017-10-10 12:45:55
 categories: Science
 author: unknown author
-tags: [archaeology & fossils, Dinosaur, Bird, Enantiornithes, Evolution, Fossil, Skeleton, Origin of birds, Paraves, Organisms, Evolution of birds]
+tags: [Dinosaur, Bird, Enantiornithes, Evolution, Fossil, Skeleton]
 ---
 
 
@@ -17,3 +17,5 @@ tags: [archaeology & fossils, Dinosaur, Bird, Enantiornithes, Evolution, Fossil,
 [Visit Link](https://phys.org/news/2017-10-fossil-date-earliest-fused-bones.html)
 
 id:  437052
+
+

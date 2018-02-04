@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHHEEErozbfU8eZLvlmG7UkEjOknQ&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=zzmvU4DkMsWdgQff0oDIDw&url=http://www.weather.com/news/heres-what-would-happen-if-earth-suddenly-stopped-spinning-20140627)
 
 id:    9208
+
+

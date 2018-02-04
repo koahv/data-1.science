@@ -17,3 +17,5 @@ tags: []
 [Visit Link](http://www.spacemart.com/reports/Strange_physics_turns_off_laser_999.html)
 
 id:    3832
+
+

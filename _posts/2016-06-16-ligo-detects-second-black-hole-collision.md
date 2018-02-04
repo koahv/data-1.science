@@ -9,7 +9,7 @@ tags: [black holes, news, black hole mergers, gravitational waves, ligo, neutron
 
 
 #### Extract
->The gravitational wave observatory has detected a second event, heralding a new era in astrophysics. This image depicts two black holes in the moments before a catastrophic collision.S. Ossokine / A. Buonanno /  T. Dietrich / R. Haas / Max Planck Institute for Gravitational Physics / the Simulating eXtreme Spacetime (SXS) project  The day after Christmas last year, the cosmos quietly gifted scientists with gravitational waves — ripples in the fabric of spacetime – produced in a collision between two stellar-mass black holes. It’s the second event detected by physicists working with the Laser Interferometer Gravitational-Wave Observatory (LIGO), and it suggests that after some fine-tuning LIGO will be spotting dozens of these events each year. The first discovery, detected last September and announced this February, was an astounding achievement for science, another piece of evidence proving Einstein’s general theory of relativity correct and, moreover, throwing open a new window on th...
+>The gravitational wave observatory has detected a second event, heralding a new era in astrophysics. This image depicts two black holes in the moments before a catastrophic collision.S. Ossokine / A. Buonanno /  T. Dietrich / R. Haas / Max Planck Institute for Gravitational Physics / the Simulating eXtreme Spacetime (SXS) project  The day after Christmas last year, the cosmos quietly gifted scientists with gravitational waves — ripples in the fabric of spacetime – produced in a collision between two stellar-mass black holes. It’s the second event detected by physicists working with the Laser Interferometer Gravitational-Wave Observatory (LIGO), and it suggests that after some fine-tuning LIGO will be spotting dozens of these events each ye...
 
 #### Factsheet
 >factsheet unavailable
@@ -17,3 +17,5 @@ tags: [black holes, news, black hole mergers, gravitational waves, ligo, neutron
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/ligo-detects-second-black-hole-collision-06162016/)
 
 id:  295864
+
+
