@@ -16,6 +16,4 @@ tags: [implementation, linux, project, security program]
 
 [Visit Link](http://linux-audit.com/security-program-implementing-linux-security/)
 
-id:  191534
-
 

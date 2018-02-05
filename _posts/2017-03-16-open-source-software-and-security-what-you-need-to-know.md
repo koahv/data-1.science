@@ -16,6 +16,4 @@ tags: [Patch (computing), Open-source software, Computing, Software, Computer en
 
 [Visit Link](http://thevarguy.com/ubuntu/open-source-software-and-security-what-you-need-know)
 
-id:  374908
-
 

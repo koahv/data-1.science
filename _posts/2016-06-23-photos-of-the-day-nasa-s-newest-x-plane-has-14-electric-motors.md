@@ -4,7 +4,7 @@ title: "Photos of the Day: NASA's Newest X-Plane Has 14 Electric Motors"
 date: 2016-06-23 19:22:14
 categories: Technology
 author: mcrouse
-tags: []
+tags: [Airplane, NASA X-57 Maxwell, Aerospace engineering, Aeronautics, Aircraft, Aviation, Vehicles, Aerospace, Artificial objects, Industries, Spaceflight technologies, Manufactured goods, Aircraft configurations, Transport, Technology, Flight, Vehicle design]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.pddnet.com/news/2016/06/photos-day-nasas-newest-x-plane-has-14-electric-motors)
-
-id:  298284
 
 

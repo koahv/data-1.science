@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/10/our-solar-system-mirrors-the-chemical-makeup-of-the-universe.html)
 
-id:  201854
-
 

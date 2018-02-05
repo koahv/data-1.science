@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGtbUT9p3Zcl4v-fV6Yl4Rv6pZPEg&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778557909700&ei=3OTDU9jfHJSUwAGpm4D4Bg&url=http://phys.org/news/2014-07-scientists-track-quantum-errors-real.html)
 
-id:   19510
-
 

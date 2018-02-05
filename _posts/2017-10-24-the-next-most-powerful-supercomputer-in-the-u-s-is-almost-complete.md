@@ -16,6 +16,4 @@ tags: [FLOPS, Computing, Technology, Areas of computer science, Office equipment
 
 [Visit Link](https://futurism.com/the-next-most-powerful-supercomputer-in-the-u-s-is-almost-complete/)
 
-id:  444248
-
 

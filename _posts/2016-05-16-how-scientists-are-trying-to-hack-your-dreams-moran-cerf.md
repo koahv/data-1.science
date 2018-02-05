@@ -4,7 +4,7 @@ title: "How scientists are trying to hack your dreams | Moran Cerf"
 date: 2016-05-16 14:48:24
 categories: Interest
 author: Moran Cerf
-tags: [higher education]
+tags: [TED (conference), Computing, Technology, Cyberspace, Communication]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [higher education]
 >factsheet unavailable
 
 [Visit Link](http://www.ted.com/talks/moran_cerf_this_scientist_can_hack_your_dreams)
-
-id:  285006
 
 

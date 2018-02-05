@@ -16,6 +16,4 @@ tags: [Neutrino, Oak Ridge National Laboratory, Weakly interacting massive parti
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/drnl-wsn072817.php)
 
-id:  416055
-
 

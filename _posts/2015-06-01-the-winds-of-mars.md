@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/spaceinimages/Images/2015/06/The_effect_of_the_winds_of_Mars)
 
-id:  131784
-
 

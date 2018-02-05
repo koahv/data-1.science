@@ -16,6 +16,4 @@ tags: [energy & green tech]
 
 [Visit Link](http://phys.org/news/2015-12-costa-rica-renewable-energy.html)
 
-id:  227088
-
 

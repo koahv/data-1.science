@@ -16,6 +16,4 @@ tags: [Matter, Baryon, Meson, Quark, Antimatter, Annihilation, Particle physics,
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/thni-fto022217.php)
 
-id:  368028
-
 

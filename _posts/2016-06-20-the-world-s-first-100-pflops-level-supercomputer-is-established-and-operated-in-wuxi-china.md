@@ -4,7 +4,7 @@ title: "The world's first 100-PFlops-level Supercomputer is established and oper
 date: 2016-06-20 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Supercomputer, FLOPS, Performance per watt, Science, Sunway TaihuLight, Computational science, Science and technology, Technology, Computer engineering, Computing, Computers]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/scp-twf061816.php)
-
-id:  296617
 
 

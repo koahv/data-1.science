@@ -4,7 +4,7 @@ title: "Difference between CentOS, Fedora, and RHEL"
 date: 2016-08-09 15:44:05
 categories: Linux
 author: Michael Boelen
-tags: [linux, centos, comparison, fedora, rhel]
+tags: [Red Hat Enterprise Linux, CentOS, Fedora (operating system), Linux kernel, Free software, Linux, Linus Torvalds, Computing, Software, System software, Finnish computer programmers, Unix variants, Linux people, Linux Foundation, Linux kernel programmers, Finnish computer scientists, Unix, Operating system technology, Free software distributions, Linux distributions, Free software projects, Operating system families, Software distribution, Free system software]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [linux, centos, comparison, fedora, rhel]
 >factsheet unavailable
 
 [Visit Link](https://linux-audit.com/difference-between-centos-fedora-rhel/)
-
-id:  312832
 
 

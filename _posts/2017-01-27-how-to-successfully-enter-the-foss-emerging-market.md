@@ -16,6 +16,4 @@ tags: [Free and open-source software, Open-source software, Liminality, Innovati
 
 [Visit Link](https://opensource.com/article/17/1/cultivating-business-foss-market)
 
-id:  360546
-
 

@@ -16,6 +16,4 @@ tags: [biology]
 
 [Visit Link](http://phys.org/news324711903.html)
 
-id:   21139
-
 

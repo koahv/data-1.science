@@ -4,7 +4,7 @@ title: "The Beginning of the End for Cassini"
 date: 2016-12-02 16:01:25
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy blogs, astronomy in space with david dickinson, news, solar system, spacecraft and space missions, cassini, Cassini–Huygens, Saturn, Rings of Saturn, Titan (moon), Outer planets, Physical sciences, Space exploration, Moons, Planetary science, Outer space, Gas giants, Solar System, Astronomy, Space science, Planets of the Solar System, Bodies of the Solar System, Planets, Spaceflight, Astronomical objects known since antiquity, Ring system, Space colonization, Space technology, Astronautics, Astronomical objects, Substellar objects]
+tags: [Cassini–Huygens, Saturn, Rings of Saturn, Titan (moon), Spaceflight, Space science, Planets of the Solar System, Astronomy, Bodies of the Solar System, Solar System, Planets, Outer space, Planetary science, Gas giants, Astronomical objects known since antiquity, Outer planets, Moons, Space exploration, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [astronomy blogs, astronomy in space with david dickinson, news, solar sys
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/nasa-cassini-ring-grazing-orbits/)
-
-id:  345982
 
 

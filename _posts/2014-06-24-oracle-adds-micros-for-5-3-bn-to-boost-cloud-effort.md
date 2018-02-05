@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.spacemart.com/reports/Oracle_adds_Micros_for_53_bn_to_boost_cloud_effort_999.html)
 
-id:    3840
-
 

@@ -4,7 +4,7 @@ title: "Black Hole Facts"
 date: 2016-12-28 20:35:44
 categories: Astronomy
 author: Camille M. Carlisle
-tags: [questions & answers, resources and education, science-based q&a, Black hole, Ergosphere, Spacetime, Gravity, Event horizon, Spin (physics), Physical cosmology, Physical sciences, Physics, Mechanics, Astronomy, Physical quantities, Theory of relativity, Nature, Cosmology, Astronomical objects, Science, Gravitation, Mathematical physics, Physical phenomena, Scientific theories, Outer space, Modern physics, Applied and interdisciplinary physics, Theoretical physics, General relativity, Force, Speed of light, Mechanical engineering, Natural philosophy, Classical mechanics]
+tags: [Black hole, Ergosphere, Spacetime, Gravity, Event horizon, Spin (physics), Physical phenomena, Nature, Cosmology, Astronomical objects, Science, Gravitation, Mathematical physics, Outer space, Scientific theories, Physical sciences, Physics, Mechanics, Astronomy, Physical cosmology, Physical quantities, Theoretical physics, Theory of relativity, Applied and interdisciplinary physics, Modern physics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [questions & answers, resources and education, science-based q&a, Black ho
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/black-hole-facts/)
-
-id:  352850
 
 

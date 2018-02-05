@@ -16,6 +16,4 @@ tags: [Dark matter, XENON, Weakly interacting massive particles, Large Undergrou
 
 [Visit Link](https://phys.org/news/2017-02-next-gen-dark-detector-finish-line.html)
 
-id:  365183
-
 

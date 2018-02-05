@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.newscientist.com/article/2138076-esa-approves-gravitational-wave-hunting-spacecraft-for-2034/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space&campaign_id=RSS%7CNSNS-space)
 
-id:  402823
-
 

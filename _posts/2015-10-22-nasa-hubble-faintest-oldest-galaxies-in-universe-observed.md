@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/10/-nasahubble-faintest-oldest-galaxies-in-universe-observed.html)
 
-id:  201308
-
 

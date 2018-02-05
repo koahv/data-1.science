@@ -4,7 +4,7 @@ title: "Russian physicists create a high-precision 'quantum ruler'"
 date: 2016-06-23 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Interferometry, Quantum entanglement, Light, Interference (wave propagation), Mechanics, Science, Modern physics, Scientific method, Materials science, Atomic,  molecular,  and optical physics, Physical sciences, Electromagnetic radiation, Quantum mechanics, Particle physics, Natural philosophy, Optics, Applied and interdisciplinary physics, Physics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/miop-rpc062316.php)
-
-id:  298051
 
 

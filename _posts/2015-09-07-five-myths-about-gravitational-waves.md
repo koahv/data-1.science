@@ -16,6 +16,4 @@ tags: [astronomy]
 
 [Visit Link](http://phys.org/news/2015-09-myths-gravitational.html)
 
-id:  180506
-
 

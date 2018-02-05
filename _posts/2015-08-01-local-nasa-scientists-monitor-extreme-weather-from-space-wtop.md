@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEnBu79HdZ-WNEqfJi6tgGdJNmZ3w&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778915155171&ei=Bae8VdCpIYXT3gGPu4r4DA&url=http://wtop.com/science/2015/08/local-nasa-scientists-monitor-extreme-weather-space/)
 
-id:  163489
-
 

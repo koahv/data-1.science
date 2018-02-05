@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.spacedaily.com/reports/Researchers_unveil_contact_lenses_with_zoom_capabilities_999.html)
 
-id:   82787
-
 

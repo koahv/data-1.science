@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/miop-sfw072314.php)
 
-id:   26262
-
 

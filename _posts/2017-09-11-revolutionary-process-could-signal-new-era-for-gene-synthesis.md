@@ -16,6 +16,4 @@ tags: [DNA, Gene, Epigenetics, Biology, Life sciences, Genetics, Biotechnology, 
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/uos-rpc091117.php)
 
-id:  427510
-
 

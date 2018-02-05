@@ -16,6 +16,4 @@ tags: [astrophysics, video, black holes, einstein, einstein-rosen bridges, scien
 
 [Visit Link](http://www.fromquarkstoquasars.com/what-would-you-see-if-you-traveled-into-a-wormhole-and-survived/)
 
-id:   34190
-
 

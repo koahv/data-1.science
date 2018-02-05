@@ -16,6 +16,4 @@ tags: [clean power, 100% renewable electricity, philippines]
 
 [Visit Link](http://cleantechnica.com/2015/11/23/100-renewable-electricity-is-it-possible-right-now/)
 
-id:  215269
-
 

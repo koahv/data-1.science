@@ -16,6 +16,4 @@ tags: [news, renewable energy, solar power, wind power, coal, cost of solar powe
 
 [Visit Link](http://inhabitat.com/solar-and-wind-energy-are-finally-cheaper-than-fossil-fuels-in-the-united-states/)
 
-id:   64695
-
 

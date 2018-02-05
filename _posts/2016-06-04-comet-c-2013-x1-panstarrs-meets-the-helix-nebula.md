@@ -4,7 +4,7 @@ title: "Comet C/2013 X1 PanSTARRS meets the Helix Nebula"
 date: 2016-06-04 15:54:48
 categories: Astronomy
 author: Piotr Dzikowski
-tags: [meteor,  comet & asteroid pictures, online gallery]
+tags: [Pan-STARRS, Astronomy, Astronomical objects, Outer space, Physical sciences, Bodies of the Solar System, Solar System, Planetary science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [meteor,  comet & asteroid pictures, online gallery]
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/comet-c2013-x1-panstarrs-meets-helix-nebula/)
-
-id:  291816
 
 

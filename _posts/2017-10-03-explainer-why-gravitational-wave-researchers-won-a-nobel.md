@@ -16,6 +16,4 @@ tags: [Gravity, Gravitational wave, Barry Barish, LIGO, Physics, Spacetime, Phys
 
 [Visit Link](https://phys.org/news/2017-10-gravitational-won-nobel.html)
 
-id:  434781
-
 

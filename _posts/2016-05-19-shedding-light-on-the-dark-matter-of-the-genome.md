@@ -4,7 +4,7 @@ title: "Shedding light on the 'dark matter' of the genome"
 date: 2016-05-19 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Non-coding RNA, RNA, Small nucleolar RNA, Noncoding DNA, Messenger RNA, Gene, Transcription (biology), Cell (biology), Nucleic acids, Chemistry, Molecular biophysics, Cell biology, Biomolecules, Structural biology, Molecular genetics, Nucleotides, Biology, Genetics, Molecular biology, Biotechnology, Organisms, Life sciences, Biochemistry]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/uot-slo051916.php)
-
-id:  286467
 
 

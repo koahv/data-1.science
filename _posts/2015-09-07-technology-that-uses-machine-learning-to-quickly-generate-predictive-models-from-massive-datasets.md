@@ -16,6 +16,4 @@ tags: [computer sciences]
 
 [Visit Link](http://phys.org/news/2015-09-technology-machine-quickly-massive-datasets.html)
 
-id:  180497
-
 

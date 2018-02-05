@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2015-12-mammal-diversity-immediately-dinosaur-extinction.html)
 
-id:  227941
-
 

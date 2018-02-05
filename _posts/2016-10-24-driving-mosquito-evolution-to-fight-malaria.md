@@ -4,7 +4,7 @@ title: "Driving mosquito evolution to fight malaria"
 date: 2016-10-24 04:00:00
 categories: Science
 author: unknown author
-tags: [Malaria, Dichlorodiphenyltrichloroethane, Insecticide, Mosquito net, Insect repellent, Pesticide resistance, Mosquito, Evolution, Biology, Organisms, Biological evolution]
+tags: [Malaria, Dichlorodiphenyltrichloroethane, Insecticide, Mosquito net, Insect repellent, Pesticide resistance, Mosquito, Evolution, Organisms, Biology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Malaria, Dichlorodiphenyltrichloroethane, Insecticide, Mosquito net, Inse
 >factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/uoc--dme102416.php)
-
-id:  334931
 
 

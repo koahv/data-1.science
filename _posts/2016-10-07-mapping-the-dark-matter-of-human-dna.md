@@ -4,7 +4,7 @@ title: "Mapping the 'dark matter' of human DNA"
 date: 2016-10-07 04:00:00
 categories: Technology
 author: unknown author
-tags: [Gene, Genetics, DNA, Human genome, Genome, Structural variation, Disease, Personalized medicine, Biochemistry, Molecular biology, Organisms, Biotechnology, Life sciences, Biology, Protein, Health, Bioinformatics]
+tags: [Gene, Genetics, DNA, Human genome, Genome, Structural variation, Disease, Personalized medicine, Life sciences, Biology, Biotechnology, Organisms, Molecular biology, Biochemistry]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Gene, Genetics, DNA, Human genome, Genome, Structural variation, Disease,
 >factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/su-mt100716.php)
-
-id:  330274
 
 

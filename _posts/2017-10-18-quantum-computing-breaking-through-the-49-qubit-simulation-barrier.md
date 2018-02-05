@@ -16,6 +16,4 @@ tags: [Quantum computing, Quantum mechanics, Computer, Computing, Simulation, Qu
 
 [Visit Link](https://phys.org/news/2017-10-quantum-computingbreaking-qubit-simulation-barrier.html)
 
-id:  440673
-
 

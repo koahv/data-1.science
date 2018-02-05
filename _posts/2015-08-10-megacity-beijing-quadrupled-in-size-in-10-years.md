@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/51799-beijing-quadrupled-in-decade.html)
 
-id:  167253
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/decoding-the-genome-of-an-alien-todays-feature.html)
 
-id:  169191
-
 

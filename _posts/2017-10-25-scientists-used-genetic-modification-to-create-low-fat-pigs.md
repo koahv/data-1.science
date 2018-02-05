@@ -16,6 +16,4 @@ tags: [Genetic engineering, Pig, Health, CRISPR, Genetics, Food and drink, Biolo
 
 [Visit Link](https://futurism.com/scientists-used-genetic-modification-to-create-low-fat-pigs/)
 
-id:  444932
-
 

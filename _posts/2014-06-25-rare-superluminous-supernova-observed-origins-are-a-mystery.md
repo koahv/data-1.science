@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/7Fgqmx2Cce4/rare-superluminous-supernova-observed-origins-are-a-mystery.html)
 
-id:    6305
-
 

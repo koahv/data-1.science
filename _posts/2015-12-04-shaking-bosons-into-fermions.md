@@ -16,6 +16,4 @@ tags: [general physics]
 
 [Visit Link](http://phys.org/news/2015-12-bosons-fermions.html)
 
-id:  220061
-
 

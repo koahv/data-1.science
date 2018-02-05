@@ -16,6 +16,4 @@ tags: [Cephalopod, Giant squid, Organisms]
 
 [Visit Link](http://www.deepseanews.com/2017/10/how-the-squid-lost-its-shell/)
 
-id:  444218
-
 

@@ -16,6 +16,4 @@ tags: [linux commands, linux tricks]
 
 [Visit Link](http://www.tecmint.com/monitor-copy-backup-tar-progress-in-linux-using-pv-command/)
 
-id:  192656
-
 

@@ -16,6 +16,4 @@ tags: [SLAC National Accelerator Laboratory, Planet, Helmholtz-Zentrum Dresden-R
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/hd-ini082117.php)
 
-id:  421177
-
 

@@ -16,6 +16,4 @@ tags: [Cloud computing, DevOps, Big data, Open-source model, Business, Technolog
 
 [Visit Link](https://www.linux.com/blog/os-jobs-report/2017/9/demand-open-source-skills-rise)
 
-id:  429892
-
 

@@ -16,6 +16,4 @@ tags: [Sugar (software), Linux distribution, Ubuntu (operating system), Operatin
 
 [Visit Link](https://opensource.com/article/17/9/linux-kids)
 
-id:  425502
-
 

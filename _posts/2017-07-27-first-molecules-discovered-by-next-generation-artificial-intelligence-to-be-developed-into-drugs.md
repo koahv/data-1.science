@@ -16,6 +16,4 @@ tags: [Insilico Medicine, Pharmaceutical drug, Artificial intelligence, Drug dev
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/imi-fmd072617.php)
 
-id:  413724
-
 

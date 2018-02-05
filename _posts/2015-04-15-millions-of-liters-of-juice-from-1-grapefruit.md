@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/arco-mol041415.php)
 
-id:  109387
-
 

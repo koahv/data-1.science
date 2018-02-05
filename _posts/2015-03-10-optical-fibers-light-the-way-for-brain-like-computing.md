@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/03/optical-fibers-light-way-brain-computing)
 
-id:   93447
-
 

@@ -4,7 +4,7 @@ title: "ExoMars sets sights on the Red Planet"
 date: 2016-06-16 08:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [ExoMars Trace Gas Orbiter, ExoMars, Schiaparelli EDM lander, Spaceflight, Mars, Unmanned spacecraft, Space probes, Planetary science, Spaceflight technologies, Discovery and exploration of the Solar System, Outer space, Aerospace engineering, Space exploration, Astronomy, Space colonization, Astronautics, Space technology, Spacecraft, Space science, Solar System, Flight, Missions to the planets]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/ExoMars/ExoMars_sets_sights_on_the_Red_Planet)
-
-id:  295543
 
 

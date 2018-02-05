@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.nature.com/news/hawking-s-latest-black-hole-paper-splits-physicists-1.19236)
 
-id:  241828
-
 

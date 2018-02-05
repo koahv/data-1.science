@@ -16,6 +16,4 @@ tags: [astronomy & space]
 
 [Visit Link](http://phys.org/news327039998.html)
 
-id:   36905
-
 

@@ -16,6 +16,4 @@ tags: [higher education]
 
 [Visit Link](http://www.ted.com/talks/parag_khanna_how_megacities_are_changing_the_map_of_the_world)
 
-id:  270694
-
 

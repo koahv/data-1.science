@@ -16,6 +16,4 @@ tags: [Bacteria, Secretion, Pseudomonas aeruginosa, Antimicrobial resistance, Na
 
 [Visit Link](https://phys.org/news/2017-10-scientists-reveal-superbug-artillery.html)
 
-id:  441290
-
 

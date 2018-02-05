@@ -16,6 +16,4 @@ tags: [blogs, explore the night with bob king, observing, airglow, aurora]
 
 [Visit Link](http://www.skyandtelescope.com/observing/why-we-can-see-in-the-dark/)
 
-id:  158826
-
 

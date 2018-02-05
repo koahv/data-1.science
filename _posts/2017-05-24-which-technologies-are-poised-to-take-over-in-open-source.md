@@ -16,6 +16,4 @@ tags: [Apache Spark, AngularJS, Computing, Software, Information technology mana
 
 [Visit Link](https://opensource.com/article/17/5/what-technologies-are-poised-take-over)
 
-id:  395165
-
 

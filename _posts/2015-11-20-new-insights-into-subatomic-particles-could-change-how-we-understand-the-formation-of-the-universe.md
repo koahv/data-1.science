@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/11/new-insights-into-subatomic-particles-could-change-how-we-understand-the-formation-of-the-universe.html)
 
-id:  214614
-
 

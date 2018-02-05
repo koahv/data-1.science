@@ -16,6 +16,4 @@ tags: [our amazing planet, question everything, doomsday scenarios, earth, natur
 
 [Visit Link](http://www.fromquarkstoquasars.com/how-long-do-we-have-until-we-exhaust-all-of-our-resources/)
 
-id:   27210
-
 

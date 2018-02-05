@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/infrastructure/10-amazing-and-mysterious-uses-of-symbol-or-operator-in-linux-commands-150515032508.html)
 
-id:  124158
-
 

@@ -16,6 +16,4 @@ tags: [bio & medicine]
 
 [Visit Link](http://phys.org/news/2015-07-rare-built-dna-emerge.html)
 
-id:  157728
-
 

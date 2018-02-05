@@ -16,6 +16,4 @@ tags: [Raspberry Pi, Serial Peripheral Interface Bus, Universal asynchronous rec
 
 [Visit Link](https://opensource.com/article/17/3/physical-computing-raspberry-pi)
 
-id:  373918
-
 

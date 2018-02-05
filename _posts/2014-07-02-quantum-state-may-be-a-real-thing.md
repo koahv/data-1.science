@@ -16,6 +16,4 @@ tags: [scientific method, locality, quantum state, reality, superposition, wavef
 
 [Visit Link](http://feeds.arstechnica.com/~r/arstechnica/index/~3/aLbpiku39GM/)
 
-id:   11877
-
 

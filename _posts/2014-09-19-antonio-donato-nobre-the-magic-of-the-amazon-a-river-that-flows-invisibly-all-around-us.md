@@ -16,6 +16,4 @@ tags: [higher education]
 
 [Visit Link](http://feedproxy.google.com/~r/TEDTalks_video/~3/q6NUOhi8DB8/antonio_donato_nobre_the_magic_of_the_amazon_a_river_that_flows_invisibly_all_around_us)
 
-id:   52384
-
 

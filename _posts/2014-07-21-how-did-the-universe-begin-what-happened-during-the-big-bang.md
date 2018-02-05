@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a, cosmolog
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/universe-begin-happened-big-bang/)
 
-id:   24582
-
 

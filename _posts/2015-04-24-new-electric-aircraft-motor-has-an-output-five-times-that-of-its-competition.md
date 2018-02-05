@@ -16,6 +16,4 @@ tags: [green transportation, news, renewable energy, aviation, electric aircraft
 
 [Visit Link](http://inhabitat.com/new-electric-aircraft-motor-has-an-output-five-times-that-of-its-competition/)
 
-id:  114222
-
 

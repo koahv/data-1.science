@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/njio-nns042915.php)
 
-id:  116167
-
 

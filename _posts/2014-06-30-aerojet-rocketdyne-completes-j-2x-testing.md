@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2014/06/aerojet-rocketdyne-completes-j-2x-testing)
 
-id:   10148
-
 

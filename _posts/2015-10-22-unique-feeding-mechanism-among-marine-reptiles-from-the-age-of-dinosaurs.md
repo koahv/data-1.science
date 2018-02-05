@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2015-10-unique-mechanism-marine-reptiles-age.html)
 
-id:  201206
-
 

@@ -16,6 +16,4 @@ tags: [Cellular differentiation, Artery, Research, Cardiovascular disease, Cell 
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/mifr-sca070617.php)
 
-id:  408466
-
 

@@ -4,7 +4,7 @@ title: "Mapping coal's decline and the renewables' rise"
 date: 2016-06-23 11:02:26
 categories: Science
 author: unknown author
-tags: [energy & green tech]
+tags: [Wind power, Cost of electricity by source, Renewable energy, Fossil fuel, Fossil fuel power station, Subsidy, Coal, Externality, Electricity generation, Photovoltaics, Carbon tax, Pollution, Nuclear power, Electrical grid, Low-carbon economy, Carbon pricing in Australia, Energy development, Fuel, Tax, Energy, Physical universe, Nature, Artificial objects]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [energy & green tech]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-06-coal-decline-renewables.html)
-
-id:  297961
 
 

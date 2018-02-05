@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/cfgr-npt012715.php)
 
-id:   75997
-
 

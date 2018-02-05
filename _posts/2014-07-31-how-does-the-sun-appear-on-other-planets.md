@@ -16,6 +16,4 @@ tags: [astrophysics, astronomy, space, sun]
 
 [Visit Link](http://www.fromquarkstoquasars.com/how-does-the-sun-appear-on-other-planets/)
 
-id:   29193
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/mbar-mrd060215.php)
 
-id:  132835
-
 

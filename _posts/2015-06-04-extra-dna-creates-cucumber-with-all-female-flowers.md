@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/cu-edc060415.php)
 
-id:  133915
-
 

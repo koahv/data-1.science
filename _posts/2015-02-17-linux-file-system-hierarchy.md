@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/upload/linux-file-system-hierarchy-150216170510.html)
 
-id:   83674
-
 

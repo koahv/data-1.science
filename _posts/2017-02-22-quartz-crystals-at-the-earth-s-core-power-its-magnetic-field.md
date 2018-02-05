@@ -16,6 +16,4 @@ tags: [Planetary core, Structure of the Earth, Earth, Silicon, Mantle (geology),
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/tiot-ca022017.php)
 
-id:  368155
-
 

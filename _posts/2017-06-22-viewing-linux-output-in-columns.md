@@ -16,6 +16,4 @@ tags: [Operating system technology, Areas of computer science, Computer engineer
 
 [Visit Link](https://www.linux.com/news/viewing-linux-output-columns)
 
-id:  403520
-
 

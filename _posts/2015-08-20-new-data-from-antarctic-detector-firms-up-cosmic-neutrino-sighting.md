@@ -16,6 +16,4 @@ tags: [general physics]
 
 [Visit Link](http://phys.org/news/2015-08-antarctic-detector-firms-cosmic-neutrino.html)
 
-id:  172221
-
 

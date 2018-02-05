@@ -16,6 +16,4 @@ tags: [clean power, solar energy, wind energy, clean energy, cop21, department o
 
 [Visit Link](http://cleantechnica.com/2015/11/16/clean-energy-revolution-three-four-charts/)
 
-id:  211913
-
 

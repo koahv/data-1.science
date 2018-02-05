@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Amazon-Launches-s2n)
 
-id:  149775
-
 

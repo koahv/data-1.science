@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2015-10-million-year-old-supershark-fossils-texas.html)
 
-id:  201204
-
 

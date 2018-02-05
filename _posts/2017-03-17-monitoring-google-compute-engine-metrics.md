@@ -16,6 +16,4 @@ tags: [Cloud computing, Distributed computing, Centralized computing, Computer e
 
 [Visit Link](https://www.linux.com/news/monitoring-google-compute-engine-metrics)
 
-id:  375175
-
 

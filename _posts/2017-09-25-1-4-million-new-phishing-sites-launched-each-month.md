@@ -16,6 +16,4 @@ tags: [Security technology, Applications of cryptography, World Wide Web, Inform
 
 [Visit Link](http://www.linuxsecurity.com/content/view/175948?rdf)
 
-id:  432242
-
 

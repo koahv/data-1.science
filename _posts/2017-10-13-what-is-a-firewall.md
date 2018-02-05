@@ -16,6 +16,4 @@ tags: [System software, Computer network security, Computer networking, Secure c
 
 [Visit Link](http://www.linuxsecurity.com/content/view/194538?rdf)
 
-id:  438798
-
 

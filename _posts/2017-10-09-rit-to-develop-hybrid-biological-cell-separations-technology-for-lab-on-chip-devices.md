@@ -16,6 +16,4 @@ tags: [Lab-on-a-chip, Chromatography, Dielectrophoresis, Physical sciences, Appl
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/riot-rtd100917.php)
 
-id:  437137
-
 

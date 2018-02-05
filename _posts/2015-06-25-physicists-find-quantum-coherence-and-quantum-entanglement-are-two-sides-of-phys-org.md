@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGkhjI1gsfEEB09xtI8FJoYdRvfPQ&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=n9yMVYC1GOq_3AGk26OYDw&url=http://phys.org/news/2015-06-physicists-quantum-coherence-entanglement-sides.html)
 
-id:  145670
-
 

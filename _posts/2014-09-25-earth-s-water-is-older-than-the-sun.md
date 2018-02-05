@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/ci-ewi092214.php)
 
-id:   51741
-
 

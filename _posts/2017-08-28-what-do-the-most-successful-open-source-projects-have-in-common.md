@@ -16,6 +16,4 @@ tags: [Open-source model, Computing, Software, Technology]
 
 [Visit Link](https://www.linux.com/news/what-do-most-successful-open-source-projects-have-common)
 
-id:  423551
-
 

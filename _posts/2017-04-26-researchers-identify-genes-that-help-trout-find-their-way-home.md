@@ -16,6 +16,4 @@ tags: [Brain, Magnetite, Fish, Magnetoreception, Organisms, Life sciences, Biolo
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/du-rig042617.php)
 
-id:  387470
-
 

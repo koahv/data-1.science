@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/)
 
-id:  184579
-
 

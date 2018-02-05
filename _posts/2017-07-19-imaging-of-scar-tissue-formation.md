@@ -16,6 +16,4 @@ tags: [Medical imaging, Magnetic resonance imaging, Fibrosis, Healing, MRI contr
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/07/170719173710.htm)
 
-id:  411486
-
 

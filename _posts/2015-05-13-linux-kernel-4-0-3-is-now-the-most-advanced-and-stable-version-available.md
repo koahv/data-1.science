@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/software/linux-kernel/830356-linux-kernel-403-is-now-the-most-advanced-and-stable-version-available/)
 
-id:  122693
-
 

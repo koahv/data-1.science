@@ -16,6 +16,4 @@ tags: [wind power, news]
 
 [Visit Link](http://www.renewableenergyworld.com/articles/2015/08/uk-to-build-world-s-largest-offshore-wind-farm.html)
 
-id:  183501
-
 

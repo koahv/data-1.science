@@ -4,7 +4,7 @@ title: "Physicists prepare to detect gravitational waves from neutron star colli
 date: 2016-08-02 12:30:02
 categories: Science
 author: unknown author
-tags: [general physics]
+tags: [QCD matter, Gravity, Matter, Quark, Gravitational wave, Electron, Strong interaction, Neutron, Black hole, Quark–gluon plasma, LIGO, Neutron star, Atom, Particle physics, General relativity, Force, Physics, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [general physics]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-08-physicists-gravitational-neutron-star-collisions.html)
-
-id:  310450
 
 

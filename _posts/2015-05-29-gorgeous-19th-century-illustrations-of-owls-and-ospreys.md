@@ -16,6 +16,4 @@ tags: [art, science, history, illustration, public domain]
 
 [Visit Link](http://feedproxy.google.com/~r/brainpickings/rss/~3/lh9GHuVkr0Q/)
 
-id:  130563
-
 

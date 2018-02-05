@@ -16,6 +16,4 @@ tags: [TensorFlow, PowerPC, Technology, Areas of computer science, Computer arch
 
 [Visit Link](https://www.linux.com/news/ibm-adds-tensorflow-support-powerai-deep-learning-0)
 
-id:  360686
-
 

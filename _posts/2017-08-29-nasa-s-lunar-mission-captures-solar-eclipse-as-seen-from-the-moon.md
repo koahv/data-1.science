@@ -16,6 +16,4 @@ tags: [Lunar Reconnaissance Orbiter, Moon, NASA, Goddard Space Flight Center, So
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/nsfc-nlm082917.php)
 
-id:  423982
-
 

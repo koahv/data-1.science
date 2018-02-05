@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2015-12-virtual-fossil-reveals-common-ancestor.html)
 
-id:  226547
-
 

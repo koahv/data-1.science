@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.cnn.com/2015/07/15/us/nasa-new-horizons-pluto-flyby/index.html)
 
-id:  155139
-
 

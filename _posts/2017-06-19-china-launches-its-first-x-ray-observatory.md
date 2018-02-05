@@ -16,6 +16,4 @@ tags: [X-ray astronomy, Astrophysical X-ray source, Astronomy, NuSTAR, Telescope
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/china-launches-first-observatory-hxmt/)
 
-id:  402307
-
 

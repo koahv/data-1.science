@@ -4,7 +4,7 @@ title: "African subterranean animal exhibits 'extraordinary' cancer resistance"
 date: 2016-06-16 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Stem cell, Induced pluripotent stem cell, Cell potency, Embryonic stem cell, Naked mole-rat, Life sciences, Zoology, Medicine, Cells, Biology, Cell biology, Biotechnology, Organisms, Medical specialties, Biological processes]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/hu-asa061616.php)
-
-id:  295639
 
 

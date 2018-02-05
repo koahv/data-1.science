@@ -16,6 +16,4 @@ tags: [Odor, Electronic nose, Olfaction, Artificial intelligence, Technology, Ar
 
 [Visit Link](https://phys.org/news/2017-08-neural-networks-odor-recognition.html)
 
-id:  418365
-
 

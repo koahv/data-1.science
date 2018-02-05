@@ -16,6 +16,4 @@ tags: [condensed matter]
 
 [Visit Link](http://phys.org/news/2016-01-uncover-unusual-properties.html)
 
-id:  235211
-
 

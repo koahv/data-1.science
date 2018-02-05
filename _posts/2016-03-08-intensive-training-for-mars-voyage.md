@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Operations/Intensive_training_for_Mars_voyage)
 
-id:  259909
-
 

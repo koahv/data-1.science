@@ -4,7 +4,7 @@ title: "What's the Future of Data Storage?"
 date: 2017-01-06 08:00:00
 categories: Linux
 author: HPE
-tags: [Information science, Computer engineering, Areas of computer science, Computer architecture, Digital technology, Data management, Computing, Computer data, Data, Information technology, Technology, Computers, Information technology management, Information retrieval, Information management]
+tags: [Data, Areas of computer science, Computer architecture, Digital technology, Data management, Information technology management, Computers, Technology, Information technology, Computer data, Computing, Computer engineering, Information science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Information science, Computer engineering, Areas of computer science, Com
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/whats-future-data-storage)
-
-id:  354685
 
 

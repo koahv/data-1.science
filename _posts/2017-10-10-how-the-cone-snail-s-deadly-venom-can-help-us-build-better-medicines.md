@@ -16,6 +16,4 @@ tags: [Cone snail, Nervous system, Venom, Biology]
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/nios-htc101017.php)
 
-id:  437341
-
 

@@ -16,6 +16,4 @@ tags: [Richard Feynman]
 
 [Visit Link](https://www.brainpickings.org/2017/10/17/richard-feynman-arline-letter/)
 
-id:  440266
-
 

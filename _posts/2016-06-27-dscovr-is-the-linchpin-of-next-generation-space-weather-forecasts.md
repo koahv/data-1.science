@@ -4,7 +4,7 @@ title: "DSCOVR is the linchpin of next-generation space weather forecasts"
 date: 2016-06-27 13:10:04
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [Deep Space Climate Observatory, Space weather, Outer space, Sun, Advanced Composition Explorer, Geomagnetic storm, Astronomy, Space exploration, Applied and interdisciplinary physics, Nature, Spaceflight, Planetary science, Space science, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [space exploration]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-06-dscovr-linchpin-next-generation-space-weather.html)
-
-id:  298987
 
 

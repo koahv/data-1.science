@@ -4,7 +4,7 @@ title: "Nuclear energy: a global factsheet"
 date: 2016-06-07 15:08:46
 categories: Science
 author: unknown author
-tags: [data]
+tags: []
 ---
 
 
@@ -15,7 +15,5 @@ tags: [data]
 >factsheet unavailable
 
 [Visit Link](http://www.thehindu.com/data/nuclear-energy-a-global-factsheet/article8701264.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-
-id:  292283
 
 

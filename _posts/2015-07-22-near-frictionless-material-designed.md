@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/07/near-frictionless-material-designed)
 
-id:  158878
-
 

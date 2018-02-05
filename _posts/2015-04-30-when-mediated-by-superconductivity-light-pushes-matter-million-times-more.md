@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.solardaily.com/reports/When_mediated_by_superconductivity_light_pushes_matter_million_times_more_999.html)
 
-id:  116645
-
 

@@ -16,6 +16,4 @@ tags: [Moon, Lunar water, Physical sciences, Space science, Outer space, Nature,
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/bu-rcf091317.php)
 
-id:  428595
-
 

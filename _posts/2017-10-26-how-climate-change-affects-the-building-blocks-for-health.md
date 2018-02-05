@@ -16,6 +16,4 @@ tags: [Climate change, Weather, Food security, Agriculture, Food, Risk, Drought,
 
 [Visit Link](https://phys.org/news/2017-10-climate-affects-blocks-health.html)
 
-id:  445196
-
 

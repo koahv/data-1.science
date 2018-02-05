@@ -4,7 +4,7 @@ title: "Where to Find the World's Best Programmers"
 date: 2016-10-24 09:20:00
 categories: Linux
 author: Network World
-tags: [Programmer, Information technology management, Technology, Software development, Computer engineering, Computers, Computer science, Software engineering, Computer programming, Areas of computer science, Computing, Software, Cognitive science, Systems engineering, HackerRank, Digital technology]
+tags: [Programmer, Computer science, Software engineering, Systems engineering, Cognitive science, Information technology management, Software, Technology, Computer programming, Software development, Computer engineering, Computers, Computing, Areas of computer science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Programmer, Information technology management, Technology, Software devel
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/where-find-worlds-best-programmers)
-
-id:  334883
 
 

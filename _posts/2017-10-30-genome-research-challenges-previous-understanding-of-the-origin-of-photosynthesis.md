@@ -16,6 +16,4 @@ tags: [Evolution, Photosynthesis, Life, Chloroflexi (phylum), Molecular clock, P
 
 [Visit Link](https://phys.org/news/2017-10-genome-previous-photosynthesis.html)
 
-id:  446473
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/07/hubble-largest-moon-in-our-solar-system-harbors-a-buried-ocean-100-kilometers-deep-weekend-feature.html)
 
-id:  149696
-
 

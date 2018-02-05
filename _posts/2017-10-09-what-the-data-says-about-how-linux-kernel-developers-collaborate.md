@@ -16,6 +16,4 @@ tags: [Employment, Kernel (operating system), Social psychology, Psychological c
 
 [Visit Link](https://www.linux.com/news/what-data-says-about-how-linux-kernel-developers-collaborate)
 
-id:  436676
-
 

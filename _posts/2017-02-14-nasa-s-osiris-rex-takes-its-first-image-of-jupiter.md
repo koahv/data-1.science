@@ -16,6 +16,4 @@ tags: [Jupiter, Space science, Spacecraft, Spaceflight technologies, Flight, Out
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/nsfc-not021417.php)
 
-id:  365715
-
 

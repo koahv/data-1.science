@@ -16,6 +16,4 @@ tags: [Potato, Glycemic index, Dietary fiber, Nutrition, Vitamin, Vegetable, Foo
 
 [Visit Link](https://www.livescience.com/45838-potato-nutrition.html)
 
-id:  443712
-
 

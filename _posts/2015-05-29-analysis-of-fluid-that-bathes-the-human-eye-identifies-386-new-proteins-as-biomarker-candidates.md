@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/mali-aof052915.php)
 
-id:  130859
-
 

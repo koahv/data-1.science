@@ -16,6 +16,4 @@ tags: [Adhesive, Bioglass, Swiss Federal Laboratories for Materials Science and 
 
 [Visit Link](https://phys.org/news/2017-10-nanoparticles-wounds.html)
 
-id:  436694
-
 

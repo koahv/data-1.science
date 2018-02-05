@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a, comets &
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/asteroids-come/)
 
-id:   20602
-
 

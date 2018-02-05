@@ -16,6 +16,4 @@ tags: [culture, out of print, philosophy, religion]
 
 [Visit Link](http://www.brainpickings.org/2015/06/11/the-spiritual-uses-of-fruit-trees-relationship-advice-and-wisdom-on-human-nature-from-a-17th-century-gardener/)
 
-id:  137402
-
 

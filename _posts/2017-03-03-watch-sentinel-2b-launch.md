@@ -16,6 +16,4 @@ tags: [Sentinel-2, Sentinel-2B, European Space Agency, Space agencies, European 
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2/Watch_live_Sentinel-2B_launch)
 
-id:  371086
-
 

@@ -16,6 +16,4 @@ tags: [Pollution, Health, Violence, Disease burden, Natural environment]
 
 [Visit Link](https://futurism.com/pollution-deaths-worldwide/)
 
-id:  443306
-
 

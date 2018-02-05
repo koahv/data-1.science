@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/51975-vitamin-a.html)
 
-id:  174535
-
 

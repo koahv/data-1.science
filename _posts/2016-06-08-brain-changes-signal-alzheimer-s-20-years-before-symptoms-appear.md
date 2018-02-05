@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gereports.com/brain-changes-signal-alzheimers-20-years-before-symptoms-appear/)
 
-id:  266507
-
 

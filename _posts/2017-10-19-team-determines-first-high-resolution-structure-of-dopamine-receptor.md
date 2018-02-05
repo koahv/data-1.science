@@ -16,6 +16,4 @@ tags: [Dopamine, Receptor (biochemistry), Neurotransmitter, Dopamine receptor, B
 
 [Visit Link](https://phys.org/news/2017-10-team-high-resolution-dopamine-receptor.html)
 
-id:  441548
-
 

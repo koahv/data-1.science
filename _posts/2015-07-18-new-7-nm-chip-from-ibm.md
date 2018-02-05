@@ -16,6 +16,4 @@ tags: [sci-tech]
 
 [Visit Link](http://www.thehindu.com/sci-tech/new-7-nm-chip-from-ibm/article7438235.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-id:  157084
-
 

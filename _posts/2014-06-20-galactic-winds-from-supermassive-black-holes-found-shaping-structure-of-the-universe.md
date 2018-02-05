@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/7a6d8yQo58s/outflow-of-matter-from-supermassive-black-holes-found-shaping-structure-of-the-universe.html)
 
-id:     505
-
 

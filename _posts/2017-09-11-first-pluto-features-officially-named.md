@@ -16,6 +16,4 @@ tags: [New Horizons, Pluto, Solar System, Space science, Astronomy, Planetary sc
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/first-pluto-features-officially-named/)
 
-id:  427698
-
 

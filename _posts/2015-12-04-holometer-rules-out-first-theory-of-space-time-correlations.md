@@ -16,6 +16,4 @@ tags: [general physics]
 
 [Visit Link](http://phys.org/news/2015-12-holometer-theory-space-time.html)
 
-id:  219995
-
 

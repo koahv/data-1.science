@@ -16,6 +16,4 @@ tags: [biotechnology]
 
 [Visit Link](http://phys.org/news/2016-01-crispr-cas9-tool-production-biofuel-precursors.html)
 
-id:  241665
-
 

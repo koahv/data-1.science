@@ -16,6 +16,4 @@ tags: [culture, psychology, alain de botton, film, philosophy, school of life]
 
 [Visit Link](https://www.brainpickings.org/2015/11/16/school-of-life-higher-consciousness/)
 
-id:  211801
-
 

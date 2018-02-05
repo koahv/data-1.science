@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/high_performance/intel-to-make-stephen-hawkings-computer-system-open-source.html)
 
-id:  160524
-
 

@@ -16,6 +16,4 @@ tags: [Dark matter, Universe, Hubble Space Telescope, Matter, Galaxy, Gravitatio
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/03/170301105603.htm)
 
-id:  370274
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/uow-pot012916.php)
 
-id:  243289
-
 

@@ -16,6 +16,4 @@ tags: [Cassini–Huygens, Saturn, Titan (moon), Gravity assist, Rings of Saturn,
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/cassinis-final-orbits/)
 
-id:  380789
-
 

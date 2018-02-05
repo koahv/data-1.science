@@ -4,7 +4,7 @@ title: "New radio map of Jupiter reveals what's beneath colorful clouds"
 date: 2016-06-02 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Astronomy, Atmosphere of Jupiter, Jupiter, Cloud, Atmosphere of Earth, Karl G. Jansky Very Large Array, Juno (spacecraft), Atmosphere, Physical sciences, Outer space, Planetary science, Applied and interdisciplinary physics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/uoc--nrm052516.php)
-
-id:  291058
 
 

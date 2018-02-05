@@ -16,6 +16,4 @@ tags: [quantum physics]
 
 [Visit Link](http://phys.org/news/2015-11-physicists-quantum-photons-messages-electrons.html)
 
-id:  216270
-
 

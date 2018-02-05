@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/blog/2015/11/today-engineering-history-first-unmanned-saturn-v-test-flight)
 
-id:  208783
-
 

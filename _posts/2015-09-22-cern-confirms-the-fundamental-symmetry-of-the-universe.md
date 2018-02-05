@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/09/cern-confirms-the-fundamental-symmetry-of-the-universe.html)
 
-id:  187841
-
 

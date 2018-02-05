@@ -16,6 +16,4 @@ tags: [data visualization, global warming, green technology, news, carbon dioxid
 
 [Visit Link](http://inhabitat.com/nasa-charts-real-time-carbon-emissions-in-ultra-high-resolution-climate-model-video/)
 
-id:   64707
-
 

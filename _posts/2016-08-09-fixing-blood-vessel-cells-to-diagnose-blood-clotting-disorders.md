@@ -4,7 +4,7 @@ title: "'Fixing' blood vessel cells to diagnose blood clotting disorders"
 date: 2016-08-09 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Hemostasis, Coagulation, Biology, Medicine, Clinical medicine, Medical specialties, Health sciences, Health]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/wifb-bv080916.php)
-
-id:  312716
 
 

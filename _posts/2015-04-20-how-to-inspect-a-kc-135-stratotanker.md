@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/04/how-inspect-kc-135-stratotanker)
 
-id:  111794
-
 

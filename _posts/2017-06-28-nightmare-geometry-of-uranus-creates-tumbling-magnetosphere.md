@@ -16,6 +16,4 @@ tags: [Magnetosphere, Uranus, Solar wind, Planet, Exoplanet, Magnetic reconnecti
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/jun/28/nightmare-geometry-of-uranus-creates-tumbling-magnetosphere)
 
-id:  405018
-
 

@@ -16,6 +16,4 @@ tags: [oxygen, oceans, hagifsh, gills, fish, evolution, animals]
 
 [Visit Link](http://news.discovery.com/animals/ancient-fish-evolved-gills-to-survive-acidic-oceans-150706.htm#mkcpgn=rssnws1)
 
-id:  150075
-
 

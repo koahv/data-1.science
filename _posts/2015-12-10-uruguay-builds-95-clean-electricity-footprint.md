@@ -16,6 +16,4 @@ tags: [clean power, solar energy, wind energy, uruguay]
 
 [Visit Link](http://cleantechnica.com/2015/12/10/uruguay-builds-clean-electricity-footprint/)
 
-id:  223140
-
 

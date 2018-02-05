@@ -16,6 +16,4 @@ tags: [general physics]
 
 [Visit Link](http://phys.org/news/2016-03-evolution-interval-frequency-antiquity.html)
 
-id:  264946
-
 

@@ -16,6 +16,4 @@ tags: [Software engineering, Application software, Computing, Software, Digital 
 
 [Visit Link](https://www.linux.com/news/red-hat-launches-openshiftio-online-ide-building-container-based-applications)
 
-id:  388998
-
 

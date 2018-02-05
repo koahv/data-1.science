@@ -4,7 +4,7 @@ title: "Atomic clocks in space could detect gravitational waves"
 date: 2016-06-20 16:08:03
 categories: Science
 author: unknown author
-tags: []
+tags: [Gravitational wave, Gravitational-wave observatory, LIGO, Atomic clock, Frequency, Electromagnetic radiation, Physics, Applied and interdisciplinary physics, Physical phenomena, Spacetime, Optics, Physical sciences, Mechanics, Natural philosophy]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/jun/20/atomic-clocks-in-space-could-detect-gravitational-waves)
-
-id:  296909
 
 

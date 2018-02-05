@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/07/nasas-future-niac-swimming-titans-seas)
 
-id:  152994
-
 

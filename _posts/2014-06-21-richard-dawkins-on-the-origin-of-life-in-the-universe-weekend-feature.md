@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/DKSdhhatoAA/richard-dawkins-on-the-origin-of-life-in-the-universe.html)
 
-id:     504
-
 

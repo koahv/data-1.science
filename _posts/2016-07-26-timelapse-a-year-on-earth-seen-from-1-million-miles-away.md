@@ -4,7 +4,7 @@ title: "Timelapse: A Year on Earth Seen from 1 Million Miles Away"
 date: 2016-07-26 13:19:52
 categories: Technology
 author: kduffy
-tags: []
+tags: [Deep Space Climate Observatory, Astronomy, Physical sciences, Space science, Planetary science, Outer space, Meteorology, Spaceflight, Space exploration, Earth sciences, Nature, Solar System]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.pddnet.com/news/2016/07/timelapse-year-earth-seen-1-million-miles-away)
-
-id:  308197
 
 

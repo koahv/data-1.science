@@ -16,6 +16,4 @@ tags: [Humble Bundle]
 
 [Visit Link](https://www.gamingonlinux.com/articles/7-years-later-humble-bundle-has-now-raised-over-100-million-for-charity.10374)
 
-id:  429914
-
 

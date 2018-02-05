@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gereports.com/how-magnetic-resonance-is-helping-doctors-diagnose-autism/)
 
-id:  269928
-
 

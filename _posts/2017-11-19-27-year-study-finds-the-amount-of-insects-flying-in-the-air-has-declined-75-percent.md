@@ -16,6 +16,4 @@ tags: [Insect, Agriculture, Global warming, Pollination, Natural environment, Ec
 
 [Visit Link](https://futurism.com/insects-flying-declined-75-percent/)
 
-id:  455931
-
 

@@ -16,6 +16,4 @@ tags: [analyze]
 
 [Visit Link](http://www.theplatform.net/2015/08/24/the-theoretical-underbelly-of-optimizing-machine-learning-systems/)
 
-id:  173827
-
 

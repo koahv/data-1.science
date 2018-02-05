@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/enterprise/systems-management/816144-inside-the-large-hadron-collider-how-it-powers-the-greatest-experiment-in-history/)
 
-id:   94536
-
 

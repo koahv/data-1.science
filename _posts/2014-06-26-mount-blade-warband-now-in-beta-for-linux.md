@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gamingonlinux.com/articles/mount-blade-warband-now-in-beta-for-linux.3948/)
 
-id:    7854
-
 

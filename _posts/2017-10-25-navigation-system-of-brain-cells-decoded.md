@@ -16,6 +16,4 @@ tags: [Nerve, Axon, Brain, Nervous system, Neuroscience, Biology]
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/kift-nso102517.php)
 
-id:  444664
-
 

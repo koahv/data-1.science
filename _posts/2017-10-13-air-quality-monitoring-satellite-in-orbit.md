@@ -16,6 +16,4 @@ tags: [Copernicus Programme, Sentinel-5 Precursor, Satellite, Astronautics, Spac
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-5P/Air_quality-monitoring_satellite_in_orbit)
 
-id:  438731
-
 

@@ -16,6 +16,4 @@ tags: [technology, computer, information, quantum bit, quantum computing, quantu
 
 [Visit Link](http://www.fromquarkstoquasars.com/first-ever-quantum-device-detects-corrects-errors/)
 
-id:   92383
-
 

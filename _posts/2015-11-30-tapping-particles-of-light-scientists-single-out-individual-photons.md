@@ -16,6 +16,4 @@ tags: [optics & photonics]
 
 [Visit Link](http://phys.org/news/2015-11-particles-scientists-individual-photons.html)
 
-id:  217766
-
 

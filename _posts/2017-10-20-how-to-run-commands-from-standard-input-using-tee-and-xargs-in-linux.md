@@ -16,6 +16,4 @@ tags: [Pipeline (Unix), Xargs, Computer file, System software, Computer engineer
 
 [Visit Link](https://www.tecmint.com/run-commands-from-standard-input-using-tee-and-xargs-in-linux/)
 
-id:  444412
-
 

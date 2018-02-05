@@ -16,6 +16,4 @@ tags: [news, physics, atom, light, particle, photon, quantum mechanics, science,
 
 [Visit Link](http://www.fromquarkstoquasars.com/scientists-capure-first-image-of-the-fingerprint-of-light-that-shows-it-as-both-a-particle-and-wave/)
 
-id:   89814
-
 

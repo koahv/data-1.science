@@ -16,6 +16,4 @@ tags: [Larsen Ice Shelf, Ice shelf, Hydrography, Oceanography, Physical geograph
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel_satellite_captures_birth_of_behemoth_iceberg)
 
-id:  409104
-
 

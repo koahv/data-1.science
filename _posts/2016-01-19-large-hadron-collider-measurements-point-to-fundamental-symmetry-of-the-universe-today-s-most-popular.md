@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/01/cern-large-hadron-collider-measurements-suggest-fundamental-symmetry-of-the-universe-todays-most-pop.html)
 
-id:  238469
-
 

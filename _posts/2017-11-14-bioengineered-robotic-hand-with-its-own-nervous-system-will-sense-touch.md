@@ -18,6 +18,4 @@ A neuroprosthesis platform will enable them to explore how neurons and behavior 
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/fau-brh111317.php)
 
-id:  453601
-
 

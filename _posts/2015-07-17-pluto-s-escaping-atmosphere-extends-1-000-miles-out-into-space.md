@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.theverge.com/2015/7/17/8994661/plutos-escaping-atmosphere-extends-1000-miles-out-into-space)
 
-id:  156893
-
 

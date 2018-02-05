@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/fsu-pns060115.php)
 
-id:  134880
-
 

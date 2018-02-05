@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=GCC-5.1-6.0-June-SVN)
 
-id:  135141
-
 

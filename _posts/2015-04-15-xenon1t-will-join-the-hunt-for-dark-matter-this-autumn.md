@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/owJxIsUzOFU/xenon1t-will-join-the-hunt-for-dark-matter-this-autumn)
 
-id:  109983
-
 

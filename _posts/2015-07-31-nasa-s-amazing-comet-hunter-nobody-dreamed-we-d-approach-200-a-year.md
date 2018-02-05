@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/07/nasas-amazing-comet-hunter-nobody-dreamed-wed-approach-200-a-year.html)
 
-id:  163210
-
 

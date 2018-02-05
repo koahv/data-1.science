@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.spacedaily.com/reports/Electrical_control_of_quantum_bits_in_silicon_paves_the_way_to_large_quantum_computers_999.html)
 
-id:  112045
-
 

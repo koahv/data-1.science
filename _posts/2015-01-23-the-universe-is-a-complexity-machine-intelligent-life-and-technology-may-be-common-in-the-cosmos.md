@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/WRm8hfJZrCE/the-universe-is-a-complexity-machine-intelligent-life-and-technology-may-be-common-in-the-cosmos.html)
 
-id:   74634
-
 

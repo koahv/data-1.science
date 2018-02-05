@@ -16,6 +16,4 @@ tags: [astronomy photos, hubble, hubble deep field, hubble ultra deep field, hud
 
 [Visit Link](http://www.fromquarkstoquasars.com/understanding-the-famous-hubble-ultra-deep-field/)
 
-id:    8930
-
 

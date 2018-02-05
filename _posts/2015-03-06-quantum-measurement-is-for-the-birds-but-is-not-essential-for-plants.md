@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/mehhzswUxgE/quantum-measurement-is-for-the-birds-but-is-not-essential-for-plants)
 
-id:   92050
-
 

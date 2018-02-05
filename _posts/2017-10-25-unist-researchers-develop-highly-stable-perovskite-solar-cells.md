@@ -16,6 +16,4 @@ tags: [Fluorine, Perovskite (structure), Perovskite solar cell, Solar cell, Fluo
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/unio-urd102517.php)
 
-id:  444573
-
 

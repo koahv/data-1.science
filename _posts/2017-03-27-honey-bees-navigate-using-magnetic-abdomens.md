@@ -16,6 +16,4 @@ tags: [Magnetoreception, SQUID, Magnetic field, Magnetism, Bee, Honey bee, Ferro
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/mar/27/honey-bees-navigate-using-magnetic-abdomens)
 
-id:  378013
-
 

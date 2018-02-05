@@ -16,6 +16,4 @@ tags: [clean power, solar energy, wind energy, grid economics, renewable energy 
 
 [Visit Link](http://cleantechnica.com/2015/12/04/3-factors-that-can-accelerate-wind-solar-adoption/)
 
-id:  220365
-
 

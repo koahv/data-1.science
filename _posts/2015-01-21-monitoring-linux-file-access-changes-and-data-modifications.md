@@ -16,6 +16,4 @@ tags: [auditing, intrusion detection, linux, change management, data, evm, file 
 
 [Visit Link](http://linux-audit.com/monitoring-linux-file-access-changes-and-modifications/)
 
-id:  191487
-
 

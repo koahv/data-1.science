@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFktusMYC6LIn5kpdXA1EIZVhKjvg&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=eiyrU5H6G8nrgQfI6YGwBw&url=http://news.discovery.com/space/astronomy/trio-of-monster-black-holes-rumble-spacetime-140625.htm)
 
-id:    6768
-
 

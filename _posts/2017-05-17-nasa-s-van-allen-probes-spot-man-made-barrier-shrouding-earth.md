@@ -16,6 +16,4 @@ tags: [Very low frequency, Van Allen radiation belt, Radiation, Physical science
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-05/nsfc-nva051717.php)
 
-id:  393287
-
 

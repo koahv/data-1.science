@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/PftAEMc7gIo/ancient-earth-sized-diamond-a-white-dwarf-fossil-same-age-as-the-milky-way-found-orbiting-a-neutron-.html)
 
-id:    4915
-
 

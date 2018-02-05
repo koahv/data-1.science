@@ -16,6 +16,4 @@ tags: [Functional magnetic resonance imaging, Magnetic resonance imaging, Medica
 
 [Visit Link](https://phys.org/news/2017-10-physicists-next-generation-mri-brain-scanner.html)
 
-id:  436217
-
 

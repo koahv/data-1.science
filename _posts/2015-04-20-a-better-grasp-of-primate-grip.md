@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/yu-abg042015.php)
 
-id:  111639
-
 

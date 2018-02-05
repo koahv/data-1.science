@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/enterprise/systems-management/846935-new-io-visor-project-to-advance-linux-networking-and-virtualization-for-modern-data-centers/)
 
-id:  170778
-
 

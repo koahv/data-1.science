@@ -16,6 +16,4 @@ tags: [Software-defined networking, Computer network, Areas of computer science,
 
 [Visit Link](https://www.linux.com/news/software-defined-networking-sdn-explained-beginners)
 
-id:  420729
-
 

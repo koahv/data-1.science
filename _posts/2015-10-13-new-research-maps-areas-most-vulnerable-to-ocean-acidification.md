@@ -16,6 +16,4 @@ tags: [environment]
 
 [Visit Link](http://phys.org/news/2015-10-areas-vulnerable-ocean-acidification.html)
 
-id:  197464
-
 

@@ -16,6 +16,4 @@ tags: [Fedora (operating system), Software, Computing, System software, Operatin
 
 [Visit Link](https://www.cyberciti.biz/programming/improve-your-bashsh-shell-script-with-shellcheck-lint-script-analysis-tool/)
 
-id:  449608
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/community/blogs/133-general-linux/852786-display-awesome-linux-logo-with-basic-hardware-info-using-screenfetch-and-linuxlogo-tools/)
 
-id:  184438
-
 

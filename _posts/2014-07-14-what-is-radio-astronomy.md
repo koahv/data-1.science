@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a, radio as
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/radio-astronomy/)
 
-id:   19846
-
 

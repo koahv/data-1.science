@@ -16,6 +16,4 @@ tags: [Mars, MAVEN, Water on Mars, Planetary science, Cloud, Curiosity (rover), 
 
 [Visit Link](https://phys.org/news/2017-03-curiosity-captures-gravity-clouds-mars.html)
 
-id:  377294
-
 

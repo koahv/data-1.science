@@ -16,6 +16,4 @@ tags: [Life, Hydrothermal vent, Fossil, Earliest known life forms, Earth, Geolog
 
 [Visit Link](https://phys.org/news/2017-03-world-oldest-fossils-unearthed.html)
 
-id:  370349
-
 

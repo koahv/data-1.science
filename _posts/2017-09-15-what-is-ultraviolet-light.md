@@ -16,6 +16,4 @@ tags: [Ultraviolet, Electromagnetic radiation, Electromagnetic spectrum, Fluores
 
 [Visit Link](https://www.livescience.com/50326-what-is-ultraviolet-light.html)
 
-id:  429334
-
 

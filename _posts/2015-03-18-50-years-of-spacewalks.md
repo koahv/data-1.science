@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/Highlights/50_years_of_spacewalks)
 
-id:   97137
-
 

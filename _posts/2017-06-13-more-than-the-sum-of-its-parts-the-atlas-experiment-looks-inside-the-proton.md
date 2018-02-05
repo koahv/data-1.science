@@ -16,6 +16,4 @@ tags: [Particle physics, Proton, Gluon, ATLAS experiment, Quark, Large Hadron Co
 
 [Visit Link](https://phys.org/news/2017-06-sum-atlas-proton.html)
 
-id:  400554
-
 

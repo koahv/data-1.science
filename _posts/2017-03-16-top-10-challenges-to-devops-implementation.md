@@ -16,6 +16,4 @@ tags: [Digital technology, Computer engineering, Business, Software, Technology,
 
 [Visit Link](https://www.linux.com/news/top-10-challenges-devops-implementation)
 
-id:  375018
-
 

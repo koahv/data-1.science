@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2016/03/Sentinel-3A_prepares_for_liftoff)
 
-id:  258113
-
 

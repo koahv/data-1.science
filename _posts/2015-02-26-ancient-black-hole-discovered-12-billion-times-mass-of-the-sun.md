@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/Tq1U4rkE-5g/ancient-black-hole-discovered-12-billion-times-mass-of-the-sun.html)
 
-id:   87800
-
 

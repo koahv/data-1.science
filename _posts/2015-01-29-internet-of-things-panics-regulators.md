@@ -16,6 +16,4 @@ tags: [featured, home, technology]
 
 [Visit Link](http://www.theneweconomy.com/home/internet-of-things-panics-regulators)
 
-id:   77377
-
 

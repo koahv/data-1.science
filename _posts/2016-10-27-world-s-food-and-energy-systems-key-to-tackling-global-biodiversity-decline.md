@@ -4,7 +4,7 @@ title: "World's food and energy systems key to tackling global biodiversity decl
 date: 2016-10-27 10:48:43
 categories: Science
 author: unknown author
-tags: [environment, Sustainability, Living Planet Index, Planetary boundaries, World Wide Fund for Nature, Sustainable development, Natural environment, Earth sciences, Nature, Ecology, Environmental social science, Environmental science, Biology, Earth, Biogeochemistry, Biodiversity, Systems ecology]
+tags: [Sustainability, Living Planet Index, Planetary boundaries, World Wide Fund for Nature, Sustainable development, Earth sciences, Natural environment, Ecology, Nature, Environmental science, Environmental social science, Biology, Biogeochemistry]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [environment, Sustainability, Living Planet Index, Planetary boundaries, W
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-10-world-food-energy-key-tackling.html)
-
-id:  335871
 
 

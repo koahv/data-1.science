@@ -16,6 +16,4 @@ tags: [Open-source software, Software development, Software, Technology, Computi
 
 [Visit Link](https://www.linux.com/blog/learn/chapter/open-source-management/2017/3/6-operational-challenges-using-open-source-software)
 
-id:  374436
-
 

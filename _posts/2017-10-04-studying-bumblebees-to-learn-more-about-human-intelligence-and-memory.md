@@ -16,6 +16,4 @@ tags: [Bumblebee, Brain, Memory, Nervous system, Neuroscience, Cognitive science
 
 [Visit Link](https://phys.org/news/2017-10-bumblebees-human-intelligence-memory.html)
 
-id:  435029
-
 

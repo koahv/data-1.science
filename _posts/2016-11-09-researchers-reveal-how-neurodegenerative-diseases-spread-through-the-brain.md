@@ -16,6 +16,4 @@ tags: [Brain, Alzheimers disease, Medicine, Life sciences, Biology, Neuroscience
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/vfi-rrh110916.php)
 
-id:  339445
-
 

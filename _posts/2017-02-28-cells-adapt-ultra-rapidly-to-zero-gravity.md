@@ -16,6 +16,4 @@ tags: [Weightlessness, Galaxy, International Space Station, Titan (moon), Gravit
 
 [Visit Link](https://phys.org/news/2017-02-cells-ultra-rapidly-gravity.html)
 
-id:  369713
-
 

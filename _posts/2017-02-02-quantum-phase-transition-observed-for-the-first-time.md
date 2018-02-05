@@ -16,6 +16,4 @@ tags: [Phase transition, Quantum mechanics, Photon, Superconductivity, Temperatu
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/iosa-qpt020117.php)
 
-id:  362238
-
 

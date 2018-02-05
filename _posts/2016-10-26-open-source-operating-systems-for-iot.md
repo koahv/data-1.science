@@ -4,7 +4,7 @@ title: "Open Source Operating Systems for IoT"
 date: 2016-10-26 15:00:24
 categories: Linux
 author: ericstephenbrown
-tags: [Internet of things, Tizen, Operating system, Linux, Linux distribution, Contiki, Embedded system, FreeRTOS, Ubuntu (operating system), OpenWrt, Apache Mynewt, Computers, Computing, Electronics, Areas of computer science, Computer hardware, System software, Computer architecture, Computer engineering, Technology, Software, Classes of computers, Digital technology, Cloud computing, Raspberry Pi, Linux Foundation, ARM architecture, Adobe Flash, Real-time operating system, ARM Cortex-M]
+tags: [Internet of things, Tizen, Operating system, Linux, Linux distribution, Contiki, Embedded system, FreeRTOS, Ubuntu (operating system), OpenWrt, Apache Mynewt, Technology, Electronics, Classes of computers, System software, Digital technology, Areas of computer science, Computer hardware, Software, Computer engineering, Computer architecture, Computers, Computing]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Internet of things, Tizen, Operating system, Linux, Linux distribution, C
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/open-source-operating-systems-iot)
-
-id:  335504
 
 

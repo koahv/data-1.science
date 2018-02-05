@@ -4,7 +4,7 @@ title: "Mozilla launches free website security scanning service"
 date: 2016-08-29 09:16:36
 categories: Linux
 author: unknown author
-tags: []
+tags: [Software, Web development, Cyberwarfare, Areas of computer science, Information technology management, Technology, Computer security, Digital technology, Information Age, World Wide Web, Digital media, Cyberspace, Computing, Multimedia, Cybercrime]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.linuxsecurity.com/content/view/168450?rdf)
-
-id:  318656
 
 

@@ -16,6 +16,4 @@ tags: [linux & opensource blog]
 
 [Visit Link](http://news.softpedia.com/news/Git-2-0-1-Version-Control-System-Available-for-Download-448534.shtml)
 
-id:    7737
-
 

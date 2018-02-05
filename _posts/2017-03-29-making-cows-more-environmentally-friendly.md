@@ -16,6 +16,4 @@ tags: [Greenhouse gas, Livestock, Global warming, Cattle, Human impact on the en
 
 [Visit Link](https://phys.org/news/2017-03-cows-environmentally-friendly.html)
 
-id:  378831
-
 

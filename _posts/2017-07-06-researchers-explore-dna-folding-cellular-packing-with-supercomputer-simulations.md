@@ -16,6 +16,4 @@ tags: [Protein, DNA, Intrinsically disordered proteins, Cell (biology), Cell nuc
 
 [Visit Link](https://phys.org/news/2017-07-explore-dna-cellular-supercomputer-simulations.html)
 
-id:  407347
-
 

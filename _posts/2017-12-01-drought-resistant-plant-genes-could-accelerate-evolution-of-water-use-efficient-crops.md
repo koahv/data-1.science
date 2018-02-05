@@ -18,6 +18,4 @@ Crop production is the world's largest consumer of freshwater. Availability of c
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-12/drnl-dpg120117.php)
 
-id:  461586
-
 

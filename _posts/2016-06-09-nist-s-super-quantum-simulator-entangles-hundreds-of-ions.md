@@ -4,7 +4,7 @@ title: "NIST's super quantum simulator 'entangles' hundreds of ions"
 date: 2016-06-09 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Quantum simulator, Quantum mechanics, Theoretical physics, Science, Condensed matter, Scientific method, Materials science, Modern physics, Chemistry, Solid state engineering, Condensed matter physics, Mechanics, Physics, Physical sciences, Particle physics, Applied and interdisciplinary physics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/nios-nsq060116.php)
-
-id:  293344
 
 

@@ -16,6 +16,4 @@ tags: [International Space Station, Moon, Rover (space exploration), Soyuz (spac
 
 [Visit Link](https://phys.org/news/2017-10-icarus.html)
 
-id:  440111
-
 

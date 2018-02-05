@@ -16,6 +16,4 @@ tags: [development, linux, system administration, devops]
 
 [Visit Link](http://linux-audit.com/linux-security-for-devops/)
 
-id:  191539
-
 

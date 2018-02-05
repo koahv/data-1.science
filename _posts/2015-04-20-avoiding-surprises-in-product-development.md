@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/articles/2015/04/avoiding-surprises-product-development)
 
-id:  111559
-
 

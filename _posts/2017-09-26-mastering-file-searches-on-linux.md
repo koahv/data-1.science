@@ -16,6 +16,4 @@ tags: [Computing, Software, System software, Operating system technology]
 
 [Visit Link](https://www.linux.com/news/mastering-file-searches-linux)
 
-id:  432731
-
 

@@ -16,6 +16,4 @@ tags: [Red Hat, Cloud computing, Amazon Web Services, Amazon.com, OpenShift, Com
 
 [Visit Link](https://www.redhat.com/en/about/press-releases/red-hat-and-aws-extend-strategic-alliance-package-access-aws-services-within-red-hat-openshift)
 
-id:  389102
-
 

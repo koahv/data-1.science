@@ -4,7 +4,7 @@ title: "Humans artificially drive evolution of new species"
 date: 2016-06-28 23:00:03
 categories: Science
 author: unknown author
-tags: [evolution]
+tags: [Extinction, Evolution, Species, Biodiversity, Domestication, Conservation biology, Speciation, Hybrid (biology), Organisms, Biology, Nature, Evolutionary biology, Biological evolution, Life sciences, Biological concepts]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [evolution]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-06-humans-artificially-evolution-species.html)
-
-id:  299804
 
 

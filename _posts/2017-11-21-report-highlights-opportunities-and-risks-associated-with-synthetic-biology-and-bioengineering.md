@@ -16,6 +16,4 @@ tags: [Microbiota, Technology, Disease, Human microbiota, Synthetic biology, Eng
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/uoc-rho112117.php)
 
-id:  456939
-
 

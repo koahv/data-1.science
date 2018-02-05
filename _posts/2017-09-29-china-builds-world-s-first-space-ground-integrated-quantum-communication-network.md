@@ -16,6 +16,4 @@ tags: [Quantum key distribution, Satellite, Technology, Quantum mechanics, Moder
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/caos-cbw092717.php)
 
-id:  433850
-
 

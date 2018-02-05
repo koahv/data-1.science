@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/neutron-star-jets-near-speed-of-light-rival-those-of-black-holes.html)
 
-id:  164537
-
 

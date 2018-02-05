@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/blogs/2015/07/today-engineering-history-open-source-os-revolution)
 
-id:  154658
-
 

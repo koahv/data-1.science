@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.spacedaily.com/reports/Researchers_glimpse_distortions_in_atomic_structure_of_materials_999.html)
 
-id:   83345
-
 

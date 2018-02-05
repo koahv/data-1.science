@@ -16,6 +16,4 @@ tags: [Dog, Dog breed, Biology, Organisms, Dogs]
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/cp-rmt042017.php)
 
-id:  386880
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/4EWZ9sdAAOU/recent-violent-volcanic-found-on-mercury-clues-to-geology-of-exoplanets.html)
 
-id:   55496
-
 

@@ -16,6 +16,4 @@ tags: [Wellcome Trust Sanger Institute, Gene, Biology, Cell (biology), Gene expr
 
 [Visit Link](https://phys.org/news/2017-10-international-human-cell-atlas-publishes.html)
 
-id:  441313
-
 

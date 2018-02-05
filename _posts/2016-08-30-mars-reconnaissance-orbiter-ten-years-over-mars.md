@@ -4,7 +4,7 @@ title: "Mars Reconnaissance Orbiter: Ten Years Over Mars"
 date: 2016-08-30 15:15:51
 categories: Astronomy
 author: David Grinspoon
-tags: [astronomy blogs, cosmic relief with david grinspoon, mars reconnaissance orbiter]
+tags: [Mars, HiRISE, David Grinspoon, Mars Reconnaissance Orbiter, Bodies of the Solar System, Planetary science, Outer space, Astronomy, Solar System, Space science, Planets, Spaceflight, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [astronomy blogs, cosmic relief with david grinspoon, mars reconnaissance 
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-blogs/mars-reconnaissance-orbiter-ten-years-mars/)
-
-id:  319165
 
 

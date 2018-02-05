@@ -16,6 +16,4 @@ tags: [Aedes aegypti, Mosquito, Aedes albopictus, Animals and humans, Zoonoses, 
 
 [Visit Link](https://futurism.com/epa-approved-release-mosquito-killing-insects-grown-lab/)
 
-id:  451640
-
 

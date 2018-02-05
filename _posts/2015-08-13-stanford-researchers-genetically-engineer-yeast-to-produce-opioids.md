@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/ssoe-srg080715.php)
 
-id:  169219
-
 

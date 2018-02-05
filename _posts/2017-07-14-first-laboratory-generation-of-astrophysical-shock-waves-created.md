@@ -16,6 +16,4 @@ tags: [Plasma (physics), Physics, Shock wave, Astrophysics, Wave, Nature, Physic
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/07/170714140243.htm)
 
-id:  410062
-
 

@@ -16,6 +16,4 @@ tags: [architecture, carousel showcase, gallery, renewable energy, sustainable e
 
 [Visit Link](http://inhabitat.com/japanese-firm-plans-worlds-first-underwater-city-powered-by-sustainable-energy/)
 
-id:   64692
-
 

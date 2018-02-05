@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/enterprise/high-performance/147-high-performance/839480-10-fastest-machines-look-familiar-on-new-top500-list/)
 
-id:  154151
-
 

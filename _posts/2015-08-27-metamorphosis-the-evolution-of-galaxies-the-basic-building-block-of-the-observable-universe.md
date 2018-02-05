@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/metamorphosis-the-evolution-of-galaxies-the-basic-building-block-of-the-observable-universe.html)
 
-id:  175611
-
 

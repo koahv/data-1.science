@@ -16,6 +16,4 @@ tags: [environment]
 
 [Visit Link](http://phys.org/news/2015-12-sustainable-vertical-farming.html)
 
-id:  223585
-
 

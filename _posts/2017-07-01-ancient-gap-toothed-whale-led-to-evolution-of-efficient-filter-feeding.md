@@ -16,6 +16,4 @@ tags: [Baleen, Whale, Filter feeder, Tooth]
 
 [Visit Link](https://www.livescience.com/59672-ancient-gap-toothed-whale-discovered.html)
 
-id:  406104
-
 

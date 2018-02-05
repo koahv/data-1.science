@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/ESA_congratulations_on_gravitational_wave_discovery)
 
-id:  249083
-
 

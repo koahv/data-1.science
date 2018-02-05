@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.eff.org/deeplinks/2015/05/eff-joins-nearly-150-organizations-security-experts-and-companies-urge-president)
 
-id:  125768
-
 

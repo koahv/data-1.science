@@ -16,6 +16,4 @@ tags: [Climate engineering, Solar radiation management, Greenhouse gas, Greenhou
 
 [Visit Link](https://phys.org/news/2017-10-involved-geoengineering-debate.html)
 
-id:  441370
-
 

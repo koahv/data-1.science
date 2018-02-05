@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://thevarguy.com/open-source-application-software-companies/021815/whos-writing-linux-kernel-code-mo)
 
-id:   84279
-
 

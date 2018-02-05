@@ -16,6 +16,4 @@ tags: [Unit testing, Software bug, Application programming interface, Dependency
 
 [Visit Link](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
 
-id:  395163
-
 

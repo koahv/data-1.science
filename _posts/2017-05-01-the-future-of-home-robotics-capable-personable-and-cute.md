@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gereports.com/future-home-robotics-capable-personable-cute/)
 
-id:  388649
-
 

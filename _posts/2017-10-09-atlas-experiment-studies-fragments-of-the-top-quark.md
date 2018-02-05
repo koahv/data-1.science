@@ -16,6 +16,4 @@ tags: [Top quark, Quark, ATLAS experiment, Particle physics, Standard Model, Qua
 
 [Visit Link](https://phys.org/news/2017-10-atlas-fragments-quark.html)
 
-id:  436646
-
 

@@ -16,6 +16,4 @@ tags: [Cucurbita, Pumpkin, Polyploid, Plant breeding, Biology, Genetics, Organis
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/bti-pgs102917.php)
 
-id:  446549
-
 

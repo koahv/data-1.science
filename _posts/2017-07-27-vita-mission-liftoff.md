@@ -16,6 +16,4 @@ tags: [Space industry, Astronautics, Space colonization, Spacecraft, Flight, Spa
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2017/07/Vita_liftoff_replay)
 
-id:  414246
-
 

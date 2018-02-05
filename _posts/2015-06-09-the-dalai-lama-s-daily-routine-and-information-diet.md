@@ -16,6 +16,4 @@ tags: [culture, psychology, books, dalai lama, philosophy, pico iyer]
 
 [Visit Link](http://www.brainpickings.org/2015/06/09/pico-iyer-the-open-road-dalai-lama/)
 
-id:  136012
-
 

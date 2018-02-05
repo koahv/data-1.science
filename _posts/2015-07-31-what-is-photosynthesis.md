@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/51720-photosynthesis.html)
 
-id:  163377
-
 

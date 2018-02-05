@@ -4,7 +4,7 @@ title: "IRIS releases new imagery of Mercury transit"
 date: 2016-05-18 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Solar Dynamics Observatory, Mercury (planet), Goddard Space Flight Center, Solar System, Observational astronomy, Bodies of the Solar System, Spacecraft, Scientific observation, Outer space, Astronomy, Physical sciences, Space science, Spaceflight, Space exploration]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/nsfc-irn051816.php)
-
-id:  286447
 
 

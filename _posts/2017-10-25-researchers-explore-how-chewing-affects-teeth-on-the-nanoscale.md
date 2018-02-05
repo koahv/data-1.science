@@ -16,6 +16,4 @@ tags: [Tooth enamel, Tooth, Evolution, Sheep, Molar (tooth), Electron, Chemistry
 
 [Visit Link](https://phys.org/news/2017-10-explore-affects-teeth-nanoscale.html)
 
-id:  444391
-
 

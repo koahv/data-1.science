@@ -16,6 +16,4 @@ tags: [space exploration]
 
 [Visit Link](http://phys.org/news/2015-09-moons-saturn.html)
 
-id:  184120
-
 

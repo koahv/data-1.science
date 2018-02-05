@@ -16,6 +16,4 @@ tags: [space]
 
 [Visit Link](http://www.scienceworldreport.com/articles/15787/20140702/nasa-hubble-telescope-hunts-new-horizons-targets-pluto-mission.htm)
 
-id:   11739
-
 

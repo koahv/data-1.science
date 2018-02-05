@@ -16,6 +16,4 @@ tags: [graphics]
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdotLinux/~3/VC6bi1vjM4o/story01.htm)
 
-id:     975
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-11/ip-esf110515.php)
 
-id:  207288
-
 

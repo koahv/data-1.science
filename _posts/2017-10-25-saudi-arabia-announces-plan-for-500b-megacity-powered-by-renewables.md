@@ -16,6 +16,4 @@ tags: [Saudi Arabia, Renewable energy, Technology]
 
 [Visit Link](https://inhabitat.com/saudi-arabia-announces-plan-for-500b-megacity-powered-by-renewables)
 
-id:  444678
-
 

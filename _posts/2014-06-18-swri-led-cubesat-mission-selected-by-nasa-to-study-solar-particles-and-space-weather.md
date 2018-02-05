@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/sri-scm061814.php)
 
-id:    2727
-
 

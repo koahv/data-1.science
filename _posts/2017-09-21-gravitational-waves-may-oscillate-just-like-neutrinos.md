@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://phys.org/news/2017-09-gravitational-oscillate-neutrinos.html)
 
-id:  431284
-
 

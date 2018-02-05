@@ -16,6 +16,4 @@ tags: [earth science, engineering, germany, norway, renewables, wind]
 
 [Visit Link](https://www.siliconrepublic.com/earth-science/2015/08/11/come-take-a-look-at-the-worlds-largest-offshore-wind-energy-converter)
 
-id:  168065
-
 

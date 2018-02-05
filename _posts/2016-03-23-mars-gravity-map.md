@@ -16,6 +16,4 @@ tags: [news, solar system, spacecraft and space missions, mars]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/mars-gravity-map-2303201623/)
 
-id:  265538
-
 

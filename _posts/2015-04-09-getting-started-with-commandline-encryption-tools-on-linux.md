@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/upload/getting-started-with-commandline-encryption-tools-on-linux-150407060512.html)
 
-id:  107139
-
 

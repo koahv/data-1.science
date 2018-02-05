@@ -16,6 +16,4 @@ tags: [LIGO, Gravitational wave, Physical sciences, Scientific observation, Phys
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-blogs/kagra-japans-underground-einstein-wave-detector/)
 
-id:  410404
-
 

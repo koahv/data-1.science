@@ -4,7 +4,7 @@ title: "Photos of the Day: Scientific Instruments Installed on James Webb Space 
 date: 2016-05-25 13:48:32
 categories: Technology
 author: kduffy
-tags: []
+tags: [Astronomy, Works about astronomy, Scientific observation, Astronomy organizations, Observational astronomy, Space exploration, Spaceflight, Optical devices, Astronomical instruments, Astronomical imaging, Astronomical observatories, Outer space, Telescopes, Optics, Spacecraft, Scientific instruments, Unmanned spacecraft, NASA]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2016/05/photos-day-scientific-instruments-installed-james-webb-space-telescope)
-
-id:  288474
 
 

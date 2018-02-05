@@ -18,6 +18,4 @@ zinc finger nucleuses (ZFNs) are a more unwieldy method of performing gene editi
 
 [Visit Link](https://futurism.com/first-time-scientists-used-gene-editing-inside-living-patient/)
 
-id:  454336
-
 

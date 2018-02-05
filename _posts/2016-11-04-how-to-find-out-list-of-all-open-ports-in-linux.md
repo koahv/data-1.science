@@ -4,7 +4,7 @@ title: "How to Find Out List of All Open Ports in Linux"
 date: 2016-11-04 04:56:13
 categories: Linux
 author: Aaron Kili
-tags: [linux commands, linux tricks, Port (computer networking), User Datagram Protocol, Transmission Control Protocol, Internet architecture, Telecommunications, Protocols, Internet, Internet Standards, Data transmission, Information technology, Networking standards, Network architecture, Communications protocols, Computer networking, Internet protocols, Network protocols, Computing, Computer architecture, Information Age, Computer standards, Cyberspace, Digital infrastructure, Media technology, Data, Computer data, Digital technology, Wide area networks, Telecommunications standards, Technology, Network socket]
+tags: [Port (computer networking), User Datagram Protocol, Transmission Control Protocol, Internet protocols, Computer networking, Communications protocols, Network architecture, Networking standards, Internet architecture, Computer architecture, Data transmission, Internet Standards, Internet, Protocols, Network protocols, Telecommunications, Digital technology, Information Age, Computing, Cyberspace, Digital infrastructure, Computer standards, Media technology, Data, Computer data, Wide area networks, Information technology, Technology, Telecommunications standards]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [linux commands, linux tricks, Port (computer networking), User Datagram P
 >factsheet unavailable
 
 [Visit Link](http://www.tecmint.com/find-open-ports-in-linux/)
-
-id:  338098
 
 

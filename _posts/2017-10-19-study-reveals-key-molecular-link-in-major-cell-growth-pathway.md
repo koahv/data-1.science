@@ -16,6 +16,4 @@ tags: [Protein, Lysosome, Cell (biology), Mechanistic target of rapamycin, Natio
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/wifb-srk101917.php)
 
-id:  441516
-
 

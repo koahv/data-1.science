@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/odUe3qMJFKk/nasas-first-encounter-with-the-last-planet-a-new-class-of-worlds.html)
 
-id:  121315
-
 

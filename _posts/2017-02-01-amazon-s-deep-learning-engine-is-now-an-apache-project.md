@@ -16,6 +16,4 @@ tags: [Areas of computer science, Technology, Software, Computing]
 
 [Visit Link](https://www.linux.com/news/amazons-deep-learning-engine-now-apache-project)
 
-id:  361908
-
 

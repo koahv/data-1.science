@@ -4,7 +4,7 @@ title: "Why genetic research must be more diverse | Keolu Fox"
 date: 2016-06-21 15:07:40
 categories: Interest
 author: Keolu Fox
-tags: [higher education]
+tags: [TED (conference)]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [higher education]
 >factsheet unavailable
 
 [Visit Link](http://www.ted.com/talks/keolu_fox_why_genetic_research_must_be_more_diverse)
-
-id:  297169
 
 

@@ -16,6 +16,4 @@ tags: [Cell nucleus, Cell (biology), Gene, Cellular differentiation, Development
 
 [Visit Link](https://phys.org/news/2017-10-d-packaging-dna-cell-identity.html)
 
-id:  438510
-
 

@@ -16,6 +16,4 @@ tags: [CRISPR, Genome editing, Cas9, Molecular biology, Medicine, Biochemistry, 
 
 [Visit Link](https://phys.org/news/2017-10-disruptive-bioengineering-cells-interact.html)
 
-id:  447165
-
 

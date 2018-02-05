@@ -16,6 +16,4 @@ tags: [Quark–gluon plasma, ATLAS experiment, Top quark, Jet (particle physics)
 
 [Visit Link](https://phys.org/news/2017-10-atlas-photon-tagged-jet-quenching-quark-gluon.html)
 
-id:  444479
-
 

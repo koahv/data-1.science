@@ -16,6 +16,4 @@ tags: [astronomy blogs, astronomy in space with david dickinson, news, professio
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/nasa-unveils-wfirst-next-decade-space-telescope-02222016/)
 
-id:  253809
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/x9MfBcQSqm0/a-new-spectrum-for-methane-developed-to-identify-signs-of-extraterrestrial-life.html)
 
-id:     513
-
 

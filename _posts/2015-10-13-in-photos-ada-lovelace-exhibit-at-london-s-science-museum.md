@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/52463-ada-lovelace-museum-exhibit-photos.html)
 
-id:  197518
-
 

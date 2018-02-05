@@ -16,6 +16,4 @@ tags: [general physics]
 
 [Visit Link](http://phys.org/news/2015-08-century-exotic-pentaquark-particle.html)
 
-id:  173621
-
 

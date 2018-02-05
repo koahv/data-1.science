@@ -16,6 +16,4 @@ tags: [Federal Emergency Management Agency, Geographic information system, Open 
 
 [Visit Link](https://opensource.com/article/17/10/open-government-hurricane-relief)
 
-id:  443053
-
 

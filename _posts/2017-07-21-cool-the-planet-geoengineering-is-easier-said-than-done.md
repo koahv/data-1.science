@@ -16,6 +16,4 @@ tags: [Global warming, Cloud, Climate engineering, Cirrus cloud, Atmosphere of E
 
 [Visit Link](https://www.livescience.com/59901-geoengineering-methods-to-cool-planet.html)
 
-id:  412273
-
 

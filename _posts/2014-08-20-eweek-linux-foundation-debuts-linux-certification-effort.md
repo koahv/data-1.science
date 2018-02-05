@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxfoundation.org/news-media/news/2014/08/eweek-linux-foundation-debuts-linux-certification-effort)
 
-id:   44860
-
 

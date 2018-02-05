@@ -16,6 +16,4 @@ tags: [LIGO, Black hole, Virgo interferometer, First observation of gravitationa
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-06/miot-ldg052617.php)
 
-id:  397373
-
 

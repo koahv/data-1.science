@@ -16,6 +16,4 @@ tags: [DNA, DNA sequencing, Computer data storage, Life sciences, Genetics, Bioc
 
 [Visit Link](https://phys.org/news/2017-03-short-movie-dna.html)
 
-id:  370673
-
 

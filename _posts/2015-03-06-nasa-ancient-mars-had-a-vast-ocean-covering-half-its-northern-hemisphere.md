@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/vAr16tXjnjI/nasa-4-billion-years-ago-mars-had-a-vast-ocean-covering-half-of-northern-hemisphere.html)
 
-id:   91967
-
 

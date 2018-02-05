@@ -16,6 +16,4 @@ tags: [Mathematics, Statistical randomness, Science, Randomness, Statistics, Pro
 
 [Visit Link](https://www.linux.com/news/brief-history-random-numbers)
 
-id:  379500
-
 

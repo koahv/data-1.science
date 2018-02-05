@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/meteorite-impacts-on-ancient-oceans-may-have-created-the-genetic-molecules-that-led-to-life.html)
 
-id:  171544
-
 

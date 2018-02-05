@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/msu-hct091515.php)
 
-id:  186364
-
 

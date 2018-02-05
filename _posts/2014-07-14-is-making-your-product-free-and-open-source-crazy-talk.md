@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://opensource.com/business/14/7/making-your-product-free-and-open-source-crazy-talk)
 
-id:   19879
-
 

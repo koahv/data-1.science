@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/52225-parasites-viruses-genetically-modify-butterflies.html)
 
-id:  186488
-
 

@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a, planets,
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/many-planets-solar-system/)
 
-id:   20570
-
 

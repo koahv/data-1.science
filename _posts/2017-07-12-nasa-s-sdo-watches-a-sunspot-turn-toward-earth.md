@@ -16,6 +16,4 @@ tags: [Sun, Sunspot, Solar Dynamics Observatory, Solar cycle, Galaxy, Astronomy,
 
 [Visit Link](https://phys.org/news/2017-07-nasa-sdo-sunspot-earth.html)
 
-id:  409115
-
 

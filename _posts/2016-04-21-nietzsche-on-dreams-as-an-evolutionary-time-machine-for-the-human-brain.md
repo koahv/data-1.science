@@ -16,6 +16,4 @@ tags: [culture, psychology, books, nietzsche, philosophy]
 
 [Visit Link](https://www.brainpickings.org/2016/04/21/nietzsche-on-dreams/)
 
-id:  276638
-
 

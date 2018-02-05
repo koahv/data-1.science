@@ -16,6 +16,4 @@ tags: [Sentinel-2, Satellites, Earth observation satellites, Earth sciences]
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2017/03/Sentinel-2B_liftoff)
 
-id:  371733
-
 

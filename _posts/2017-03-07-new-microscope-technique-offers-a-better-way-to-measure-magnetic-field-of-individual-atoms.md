@@ -16,6 +16,4 @@ tags: [Physics, Atom, Microscope, Magnetic field, Electromagnetism, Natural phil
 
 [Visit Link](https://phys.org/news/2017-03-microscope-technique-magnetic-field-individual.html)
 
-id:  371804
-
 

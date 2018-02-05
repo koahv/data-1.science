@@ -16,6 +16,4 @@ tags: [space exploration]
 
 [Visit Link](http://phys.org/news/2015-08-nasa-series-next-gen-rocket.html)
 
-id:  175979
-
 

@@ -16,6 +16,4 @@ tags: [Sauropoda, Dinosaur, Sauropodomorpha, Organisms]
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/lm-del092017.php)
 
-id:  430882
-
 

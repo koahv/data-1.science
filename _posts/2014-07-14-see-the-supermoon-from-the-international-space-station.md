@@ -16,6 +16,4 @@ tags: [uncategorized, alexander gerst, astronaut, astronomy, esa, international 
 
 [Visit Link](http://time.com/2981417/supermoon-photo-international-space-station/)
 
-id:   19465
-
 

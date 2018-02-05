@@ -16,6 +16,4 @@ tags: [compute, hpc, cray, gpu, nvidia, weather]
 
 [Visit Link](http://www.theplatform.net/2015/09/15/forecast-calls-for-gpu-packed-supercomputer-nodes/)
 
-id:  184929
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFEqUBDVXQC1FKoWbQSr8RoLvUbcg&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778541927243&ei=rX2pU4ivJ9HzggeWpYHoDg&url=http://phys.org/news/2014-06-physicists-boot-quantum-faster-previously.html)
 
-id:    4521
-
 

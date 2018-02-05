@@ -16,6 +16,4 @@ tags: [Evolution, Sleep, Florida Atlantic University, Brain, Perception, Sensory
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/fau-tcm022217.php)
 
-id:  368449
-
 

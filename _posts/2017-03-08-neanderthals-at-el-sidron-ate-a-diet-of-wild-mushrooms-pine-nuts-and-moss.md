@@ -16,6 +16,4 @@ tags: [Neanderthal, Sidrón Cave, Biology, Organisms]
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/snrc-nae030617.php)
 
-id:  372416
-
 

@@ -16,6 +16,4 @@ tags: [Open-source software, Linux Foundation, Internet of things, Red Hat, Free
 
 [Visit Link](https://opensource.com/article/17/4/news-april-29)
 
-id:  388331
-
 

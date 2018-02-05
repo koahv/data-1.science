@@ -16,6 +16,4 @@ tags: [Van Allen radiation belt, Sun, Van Allen Probes, Earth, Solar wind, Galax
 
 [Visit Link](https://phys.org/news/2017-03-nasa-spacecraft-clues-belts.html)
 
-id:  377860
-
 

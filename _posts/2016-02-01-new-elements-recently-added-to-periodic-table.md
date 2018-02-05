@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2016/02/new-elements-recently-added-periodic-table)
 
-id:  244253
-
 

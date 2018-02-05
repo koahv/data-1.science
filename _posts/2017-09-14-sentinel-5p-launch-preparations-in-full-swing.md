@@ -16,6 +16,4 @@ tags: [Satellite, Atmosphere, Atmosphere of Earth, Rocket, Spacecraft, Flight, S
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-5P/Sentinel-5P_launch_preparations_in_full_swing)
 
-id:  428793
-
 

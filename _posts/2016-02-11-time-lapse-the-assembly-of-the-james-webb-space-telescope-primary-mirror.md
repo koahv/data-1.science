@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/videos/2016/02/time-lapse-assembly-james-webb-space-telescope-primary-mirror)
 
-id:  249160
-
 

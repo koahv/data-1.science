@@ -16,6 +16,4 @@ tags: [Jupiter, Juno (spacecraft), Atmosphere of Jupiter, Atmosphere of Earth, I
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/07/170703083231.htm)
 
-id:  406460
-
 

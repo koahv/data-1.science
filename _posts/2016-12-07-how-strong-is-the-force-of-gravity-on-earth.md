@@ -4,7 +4,7 @@ title: "How strong is the force of gravity on Earth?"
 date: 2016-12-07 14:20:01
 categories: Science
 author: unknown author
-tags: [space exploration, Gravity, General relativity, Star, Force, Gravity of Earth, Weightlessness, Black hole, Physical sciences, Nature, Gravitation, Classical mechanics, Mass, Science, Spacetime, Physical quantities, Mechanics, Astronomy, Outer space, Physics, Physical universe, Physical cosmology, Natural philosophy, Galaxy, Celestial mechanics, Planet, Newtons law of universal gravitation, Acceleration, Space]
+tags: [Gravity, General relativity, Star, Force, Gravity of Earth, Black hole, Weightlessness, Natural philosophy, Science, Physical universe, Nature, Physical cosmology, Mass, Gravitation, Classical mechanics, Spacetime, Outer space, Physical quantities, Mechanics, Astronomy, Physics, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [space exploration, Gravity, General relativity, Star, Force, Gravity of E
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-12-strong-gravity-earth.html)
-
-id:  347261
 
 

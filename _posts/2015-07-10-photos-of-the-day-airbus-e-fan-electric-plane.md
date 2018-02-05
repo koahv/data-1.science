@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/07/photos-day-airbus-e-fan-electric-plane)
 
-id:  152769
-
 

@@ -16,6 +16,4 @@ tags: [Coronagraph, Sun, Corona, Solar eclipse, Satellite, Proba-3, Space techno
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Engineering_Technology/Proba_Missions/ESA_s_Proba-3_will_create_artificial_solar_eclipses)
 
-id:  420156
-
 

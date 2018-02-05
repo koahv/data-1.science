@@ -16,6 +16,4 @@ tags: [Photosynthesis, Reactive oxygen species, Plant, Oxygen, Chloroplast, Meta
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-06/ku-hpp060817.php)
 
-id:  399348
-
 

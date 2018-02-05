@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.nature.com/news/quantum-computer-makes-first-high-energy-physics-simulation-1.20136?WT.feed_name=subjects_quantum-physics)
 
-id:  297768
-
 

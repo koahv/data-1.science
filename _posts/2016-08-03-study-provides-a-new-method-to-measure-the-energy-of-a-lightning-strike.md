@@ -4,7 +4,7 @@ title: "Study provides a new method to measure the energy of a lightning strike"
 date: 2016-08-03 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Lightning, University of South Florida, Energy, Fulgurite, Heat, Nature, Physical sciences, Physics, Applied and interdisciplinary physics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/uosf-spa080216.php)
-
-id:  310799
 
 

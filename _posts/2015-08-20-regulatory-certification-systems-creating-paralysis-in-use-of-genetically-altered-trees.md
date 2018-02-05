@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/osu-rcs081715.php)
 
-id:  172285
-
 

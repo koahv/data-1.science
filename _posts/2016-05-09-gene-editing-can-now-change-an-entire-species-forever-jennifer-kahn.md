@@ -4,7 +4,7 @@ title: "Gene editing can now change an entire species -- forever | Jennifer Kahn
 date: 2016-05-09 14:52:08
 categories: Interest
 author: Jennifer Kahn
-tags: [higher education]
+tags: [TED (conference), Computing, Technology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [higher education]
 >factsheet unavailable
 
 [Visit Link](http://www.ted.com/talks/jennifer_kahn_gene_editing_can_now_change_an_entire_species_forever)
-
-id:  282575
 
 

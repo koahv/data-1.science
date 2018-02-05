@@ -16,6 +16,4 @@ tags: [news, physics, binary system, black holes, green bank observatory, neutro
 
 [Visit Link](http://www.fromquarkstoquasars.com/one-of-the-strangest-pulsars-weve-ever-discovered/)
 
-id:  118174
-
 

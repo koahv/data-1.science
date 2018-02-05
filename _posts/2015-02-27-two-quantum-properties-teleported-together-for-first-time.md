@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/JO-KA8145-0/two-quantum-properties-teleported-together-for-first-time)
 
-id:   88752
-
 

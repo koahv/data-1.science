@@ -16,6 +16,4 @@ tags: [Red Hat, OpenShift, Cloud computing, JBoss Developer Studio, Open-source 
 
 [Visit Link](https://www.redhat.com/en/about/press-releases/red-hat-introduces-next-generation-openshift-online-public-cloud-offering)
 
-id:  408672
-
 

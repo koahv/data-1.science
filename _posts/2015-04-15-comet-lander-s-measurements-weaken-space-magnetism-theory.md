@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/04/comet-landers-measurements-weaken-space-magnetism-theory)
 
-id:  109647
-
 

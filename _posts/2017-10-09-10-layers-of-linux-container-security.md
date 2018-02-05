@@ -16,6 +16,4 @@ tags: [Cloud computing, System software, Computer architecture, Technology, Comp
 
 [Visit Link](https://www.linux.com/news/10-layers-linux-container-security)
 
-id:  436677
-
 

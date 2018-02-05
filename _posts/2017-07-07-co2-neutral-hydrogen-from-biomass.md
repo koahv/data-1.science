@@ -16,6 +16,4 @@ tags: [Natural gas, Biomass, Iron, Carbon dioxide, Energy development, Fuel, Ren
 
 [Visit Link](https://phys.org/news/2017-07-co2-neutral-hydrogen-biomass.html)
 
-id:  407585
-
 

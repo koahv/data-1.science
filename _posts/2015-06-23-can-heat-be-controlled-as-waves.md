@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/06/can-heat-be-controlled-waves-0)
 
-id:  143930
-
 

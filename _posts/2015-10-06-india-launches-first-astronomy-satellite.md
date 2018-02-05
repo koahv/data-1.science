@@ -16,6 +16,4 @@ tags: [astronomy in space with david dickinson, blogs, news, spacecraft and spac
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/india-launches-first-astronomy-satellite-10062015/)
 
-id:  194361
-
 

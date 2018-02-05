@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/blogs/2015/07/today-engineering-history-voyager-2-flies-past-jupiter)
 
-id:  152333
-
 

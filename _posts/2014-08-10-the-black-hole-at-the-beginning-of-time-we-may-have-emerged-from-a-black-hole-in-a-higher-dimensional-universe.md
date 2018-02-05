@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/8253glIeek8/the-black-hole-at-the-beginning-of-time-we-may-have-emerged-from-a-black-hole-in-a-higher-dimensiona.html)
 
-id:   35727
-
 

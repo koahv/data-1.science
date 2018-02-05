@@ -4,7 +4,7 @@ title: "Physicists enable one-dimensional atom chains to grow"
 date: 2016-08-03 13:52:59
 categories: Science
 author: unknown author
-tags: [condensed matter]
+tags: [Magnetism, Antiferromagnetism, Ferromagnetism, Atom, Physics, Metal, Manufacturing, Physical chemistry, Chemistry, Materials science, Physical sciences, Applied and interdisciplinary physics, Materials]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [condensed matter]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-08-physicists-enable-one-dimensional-atom-chains.html)
-
-id:  310896
 
 

@@ -16,6 +16,4 @@ tags: [Indian subcontinent, Amber, Species, Nature, Organisms]
 
 [Visit Link](https://phys.org/news/2017-05-flies-insect-fossils-amber-india.html)
 
-id:  393216
-
 

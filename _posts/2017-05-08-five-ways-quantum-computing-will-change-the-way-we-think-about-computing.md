@@ -16,6 +16,4 @@ tags: [Quantum computing, IBM Quantum Experience, Cloud computing, Computing, Qu
 
 [Visit Link](https://phys.org/news/2017-05-ways-quantum.html)
 
-id:  390527
-
 

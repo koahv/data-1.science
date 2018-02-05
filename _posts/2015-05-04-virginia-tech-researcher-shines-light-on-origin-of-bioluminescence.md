@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/vt-vtr050115.php)
 
-id:  118358
-
 

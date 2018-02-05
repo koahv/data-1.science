@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.ancient-origins.net/news-evolution-human-origins/scientists-atapuerca-revolutionizing-human-evolution-003737)
 
-id:  179225
-
 

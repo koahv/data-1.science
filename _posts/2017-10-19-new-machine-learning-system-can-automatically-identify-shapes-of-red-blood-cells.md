@@ -16,6 +16,4 @@ tags: [Sickle-cell disease, Red blood cell, Disease, Blood cell, Genetics, Blood
 
 [Visit Link](https://phys.org/news/2017-10-machine-automatically-red-blood-cells.html)
 
-id:  441551
-
 

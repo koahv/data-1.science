@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/03/nasa-hubble-observes-the-most-remote-galaxy-in-the-universe.html)
 
-id:  258457
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHrxxohH42y2Guq3g4iUBAIkFRgEw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778885833791&ei=T0OkVYj5OMW63gHKxYDoCw&url=http://www.weather.com/science/news/enchanting-views-of-the-northern-lights)
 
-id:  154057
-
 

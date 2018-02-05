@@ -16,6 +16,4 @@ tags: [Physics, Quantum mechanics, Atom, Spin (physics), Quantum entanglement, M
 
 [Visit Link](https://phys.org/news/2017-10-revealing-quantum-statistics-pair-distant.html)
 
-id:  440130
-
 

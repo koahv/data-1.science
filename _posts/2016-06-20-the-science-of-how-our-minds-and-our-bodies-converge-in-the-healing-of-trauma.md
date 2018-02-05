@@ -4,7 +4,7 @@ title: "The Science of How Our Minds and Our Bodies Converge in the Healing of T
 date: 2016-06-20 06:00:32
 categories: Philosophy
 author: Maria Popova
-tags: [culture, psychology, bessel van der kolk, books, health]
+tags: [Psychological trauma, Emotion, Mind, Attachment theory, Feeling, Psychology, Fear, Sense, Caregiver, Self, Stress (biology), Cognitive science, Emergence, Metaphysics of mind, Clinical psychology, Mental health, Psychiatry-related fields, Cognition, Neuroscience, Behavioural sciences, Psychological concepts]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [culture, psychology, bessel van der kolk, books, health]
 >factsheet unavailable
 
 [Visit Link](https://www.brainpickings.org/2016/06/20/the-body-keeps-the-score-van-der-kolk/)
-
-id:  296554
 
 

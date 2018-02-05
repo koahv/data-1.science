@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/uoic-nlt041715.php)
 
-id:  110970
-
 

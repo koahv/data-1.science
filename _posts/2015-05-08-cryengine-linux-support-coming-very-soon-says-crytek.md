@@ -16,6 +16,4 @@ tags: [linux & opensource blog]
 
 [Visit Link](http://spd.rss.ac/aHR0cDovL2xpbnV4LnNvZnRwZWRpYS5jb20vYmxvZy9DcnlFbmdpbmUtTGludXgtU3VwcG9ydC1Db21pbmctVmVyeS1Tb29uLVNheXMtQ3J5dGVrLTQ4MDYzMi5zaHRtbA==)
 
-id:  120673
-
 

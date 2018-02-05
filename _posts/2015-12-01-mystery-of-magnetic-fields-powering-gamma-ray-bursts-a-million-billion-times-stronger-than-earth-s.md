@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/12/-mystery-of-magnetic-fields-powering-gamma-ray-bursts-a-million-billion-times-stronger-than-earths.html)
 
-id:  218332
-
 

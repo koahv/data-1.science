@@ -16,6 +16,4 @@ tags: [earth sciences]
 
 [Visit Link](http://phys.org/news/2016-03-picture-ice-age.html)
 
-id:  263417
-
 

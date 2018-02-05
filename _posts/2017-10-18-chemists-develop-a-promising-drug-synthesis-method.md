@@ -16,6 +16,4 @@ tags: [Chemical reaction, Sodium hydroxide, Organic synthesis, Chemical substanc
 
 [Visit Link](https://phys.org/news/2017-10-chemists-drug-synthesis-method.html)
 
-id:  440609
-
 

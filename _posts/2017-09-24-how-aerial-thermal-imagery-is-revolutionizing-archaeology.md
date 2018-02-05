@@ -16,6 +16,4 @@ tags: [Archaeology, Survey (archaeology), Thermography]
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/dc-hat092117.php)
 
-id:  432018
-
 

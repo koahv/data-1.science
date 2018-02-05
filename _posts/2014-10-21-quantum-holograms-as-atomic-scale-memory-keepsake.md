@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2014/10/quantum-holograms-atomic-scale-memory-keepsake)
 
-id:   54373
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/enterprise/cloud-computing/831806-intel-takes-on-coreos-with-its-own-container-based-linux/)
 
-id:  127101
-
 

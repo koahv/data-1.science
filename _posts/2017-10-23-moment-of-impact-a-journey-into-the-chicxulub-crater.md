@@ -16,6 +16,4 @@ tags: [Impact event, Chicxulub crater, Impact crater, International Ocean Discov
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/gsoa-moi102317.php)
 
-id:  443545
-
 

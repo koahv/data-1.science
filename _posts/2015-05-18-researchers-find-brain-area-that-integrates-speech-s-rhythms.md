@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/du-rfb051815.php)
 
-id:  124929
-
 

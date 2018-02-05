@@ -16,6 +16,4 @@ tags: [general physics]
 
 [Visit Link](http://phys.org/news/2015-08-fermilab-neutrinos-miles.html)
 
-id:  166340
-
 

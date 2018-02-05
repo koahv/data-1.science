@@ -4,7 +4,7 @@ title: "Exactly What Is OpenStack? Red Hat's Rich Bowen Explains"
 date: 2016-09-26 15:07:55
 categories: Linux
 author: cschroder
-tags: []
+tags: [OpenStack, Virtual machine, Digital technology, Computer engineering, Technology, Software, Computing, Areas of computer science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/exactly-what-openstack-red-hats-rich-bowen-explains)
-
-id:  326782
 
 

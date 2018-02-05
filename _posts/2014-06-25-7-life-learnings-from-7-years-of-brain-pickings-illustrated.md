@@ -16,6 +16,4 @@ tags: [art, psychology, artist series, design]
 
 [Visit Link](http://feedproxy.google.com/~r/brainpickings/rss/~3/EHPshO8x5Aw/)
 
-id:    5874
-
 

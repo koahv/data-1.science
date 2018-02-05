@@ -16,6 +16,4 @@ tags: [Light, Laser, Photon, Ortwin Hess, Electrodynamics, Nature, Mechanics, Ma
 
 [Visit Link](https://phys.org/news/2017-10-years-rainbowthe-revolution.html)
 
-id:  441932
-
 

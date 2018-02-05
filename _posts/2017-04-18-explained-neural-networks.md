@@ -16,6 +16,4 @@ tags: [Artificial intelligence, Cognitive neuroscience, Cybernetics, Computation
 
 [Visit Link](https://www.linux.com/news/explained-neural-networks)
 
-id:  384549
-
 

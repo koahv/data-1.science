@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.fsf.org/blogs/community/support-the-fsf-for-30-more-years)
 
-id:  243536
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/the-binary-core-of-the-twin-jet-nebula.html)
 
-id:  174827
-
 

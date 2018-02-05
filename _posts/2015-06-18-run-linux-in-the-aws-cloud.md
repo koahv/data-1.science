@@ -16,6 +16,4 @@ tags: [tutorials, amazon, aws, cloud]
 
 [Visit Link](http://www.linuxuser.co.uk/tutorials/run-linux-in-the-aws-cloud)
 
-id:  141905
-
 

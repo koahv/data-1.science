@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/a-billion-miles-beyond-pluto-nasa-new-horizons-to-probe-unexplored-kuiper-belt-objects.html)
 
-id:  176510
-
 

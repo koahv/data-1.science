@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNErvdG4-_CaQ6XEDkQKsVaAq_Msiw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778574411972&ei=MbTfU7D4JubNwQGD3IGQBw&url=http://www.dailymail.co.uk/sciencetech/article-2715695/Japan-launch-military-space-force-2019-Fleet-protect-Earth-cosmic-junk-prevent-satellites-destroyed.html)
 
-id:   31529
-
 

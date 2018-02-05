@@ -16,6 +16,4 @@ tags: [news, science and space policy, solar system, spacecraft and space missio
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/nasa-lays-groundwork-for-sending-humans-to-mars-2112201523/)
 
-id:  227595
-
 

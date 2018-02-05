@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/51776-powerful-dna-editing-has-arrived-are-we-ready-for-it.html)
 
-id:  165788
-
 

@@ -16,6 +16,4 @@ tags: [Enceladus, Cassini–Huygens, Hydrothermal vent, Ocean, Astronomy, Planet
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/sri-ssd041317.php)
 
-id:  383614
-
 

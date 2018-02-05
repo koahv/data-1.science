@@ -18,6 +18,4 @@ green technology, news, renewable energy, largest tidal power plant, meygen, mey
 
 [Visit Link](http://inhabitat.com/one-third-of-scotland-could-soon-be-powered-by-the-worlds-biggest-underwater-windmill-tidal-plant/)
 
-id:   57791
-
 

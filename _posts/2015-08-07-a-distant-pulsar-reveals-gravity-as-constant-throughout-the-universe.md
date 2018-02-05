@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/a-distant-pulsar-reveals-gravity-as-constant-throughout-the-universe.html)
 
-id:  166355
-
 

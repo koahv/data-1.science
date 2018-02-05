@@ -16,6 +16,4 @@ tags: [Compact Muon Solenoid, Large Hadron Collider, ATLAS experiment, CERN, Par
 
 [Visit Link](https://phys.org/news/2017-03-cern-lhc-cms-detector.html)
 
-id:  377173
-
 

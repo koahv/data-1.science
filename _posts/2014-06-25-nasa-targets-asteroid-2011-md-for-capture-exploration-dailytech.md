@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFJTO9jp9JJZv7IoKpC6hUIlZDIQA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778540942012&ei=iIKpU4H0A4jkggfVxoHQCg&url=http://www.dailytech.com/NASA%2BTargets%2BAsteroid%2B2011%2BMD%2Bfor%2BCapture%2BExploration/article36092c.htm)
 
-id:    4680
-
 

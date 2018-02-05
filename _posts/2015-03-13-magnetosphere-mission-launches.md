@@ -16,6 +16,4 @@ tags: [news, solar system, spacecraft and space missions]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/magnetosphere-mission-launches-0313201523/)
 
-id:   95090
-
 

@@ -16,6 +16,4 @@ tags: [news, solar system, spacecraft and space missions]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/new-horizons-a-billion-miles-to-2014-mu69-10012015/)
 
-id:  192213
-
 

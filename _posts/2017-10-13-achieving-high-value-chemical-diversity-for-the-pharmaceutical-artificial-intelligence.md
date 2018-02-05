@@ -16,6 +16,4 @@ tags: [Artificial neural network, Drug discovery, Artificial intelligence, Insil
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/imi-ahc101217.php)
 
-id:  438834
-
 

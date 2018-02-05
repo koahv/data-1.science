@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Forces_of_martian_nature)
 
-id:   17168
-
 

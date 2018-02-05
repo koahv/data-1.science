@@ -4,7 +4,7 @@ title: "Mars triptych"
 date: 2016-05-26 10:10:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Mars, Hubble Space Telescope, Earth, Outer space, Astronomy, Planetary science, Space science, Spaceflight, Planets, Bodies of the Solar System, Solar System, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Images/2016/05/Mars_Triptych)
-
-id:  288896
 
 

@@ -16,6 +16,4 @@ tags: [development, gdb]
 
 [Visit Link](http://xmodulo.com/gdb-command-line-debugger.html)
 
-id:   51880
-
 

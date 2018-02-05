@@ -4,7 +4,7 @@ title: "Celebrating open standards around the world"
 date: 2016-10-14 19:04:13
 categories: Linux
 author: ris
-tags: [Computing, Software, Digital media, Technology, Computers, Linux, Free software, Cyberspace, Digital technology, Linus Torvalds, Open-source movement, System software, Finnish computer programmers, Unix variants]
+tags: [Computing, Software, Digital media, Technology, Computers, Linux, Free software]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Computing, Software, Digital media, Technology, Computers, Linux, Free so
 >factsheet unavailable
 
 [Visit Link](http://lwn.net/Articles/703630/rss)
-
-id:  332422
 
 

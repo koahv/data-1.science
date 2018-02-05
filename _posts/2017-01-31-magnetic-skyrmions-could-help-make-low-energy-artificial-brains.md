@@ -16,6 +16,4 @@ tags: [Chemical synapse, Synapse, Skyrmion, Long-term potentiation, Neuroscience
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/jan/31/magnetic-skyrmions-could-help-make-low-energy-artificial-brains)
 
-id:  361664
-
 

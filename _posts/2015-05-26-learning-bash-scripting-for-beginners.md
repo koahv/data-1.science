@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/developer/learning-bash-scripting-for-beginners-150520005015.html)
 
-id:  128658
-
 

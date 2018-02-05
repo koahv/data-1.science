@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uotw-sfi090315.php)
 
-id:  179051
-
 

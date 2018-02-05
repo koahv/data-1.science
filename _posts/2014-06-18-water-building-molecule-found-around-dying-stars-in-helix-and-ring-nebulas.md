@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/RHAy8puUrtw/-water-building-molecule-found-in-helix-and-ring-nebulas.html)
 
-id:     510
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.renewableenergyworld.com/rea/news/article/2015/05/uk-conservative-victory-sparks-climate-and-renewable-energy-concerns?cmpid=rss)
 
-id:  121429
-
 

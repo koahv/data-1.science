@@ -4,7 +4,7 @@ title: "Men welcome revolutionary male contraceptive"
 date: 2016-11-02 12:01:17
 categories: Science
 author: unknown author
-tags: [Reversible inhibition of sperm under guidance, Birth control, Psychology, Human reproduction, Sexual health, Health, Fertility, Family planning, Reproductive health, Public health]
+tags: []
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Reversible inhibition of sperm under guidance, Birth control, Psychology,
 >factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2016/11/161102080117.htm)
-
-id:  337553
 
 

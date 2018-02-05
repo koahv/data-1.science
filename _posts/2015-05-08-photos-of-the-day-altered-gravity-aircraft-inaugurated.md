@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/05/photos-day-altered-gravity-aircraft-inaugurated)
 
-id:  120582
-
 

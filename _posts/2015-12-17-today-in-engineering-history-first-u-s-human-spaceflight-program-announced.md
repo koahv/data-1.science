@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/12/today-engineering-history-first-us-human-spaceflight-program-announced)
 
-id:  226593
-
 

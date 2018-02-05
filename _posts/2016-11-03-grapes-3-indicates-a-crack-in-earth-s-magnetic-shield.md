@@ -4,7 +4,7 @@ title: "GRAPES-3 indicates a crack in Earth's magnetic shield"
 date: 2016-11-03 04:00:00
 categories: Science
 author: unknown author
-tags: [Cosmic ray, Magnetosphere, Geomagnetic storm, Astronomy, Physical phenomena, Astrophysics, Applied and interdisciplinary physics, Outer space, Physics, Space science, Nature, Physical sciences, Physical universe, Phases of matter, Plasma physics, Planetary science, Aurora, Electromagnetism]
+tags: [Cosmic ray, Magnetosphere, Geomagnetic storm, Nature, Physical sciences, Applied and interdisciplinary physics, Astronomy, Astrophysics, Outer space, Physics, Physical phenomena, Space science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Cosmic ray, Magnetosphere, Geomagnetic storm, Astronomy, Physical phenome
 >factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/tiof-gia110216.php)
-
-id:  337759
 
 

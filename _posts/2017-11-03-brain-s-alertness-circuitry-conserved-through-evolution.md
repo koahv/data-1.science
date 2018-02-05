@@ -16,6 +16,4 @@ tags: [National Institute of Mental Health, Brain, Nervous system, Cognition, Me
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/niom-bac110317.php)
 
-id:  449039
-
 

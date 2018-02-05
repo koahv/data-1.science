@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Navigation/The_future_-_Galileo/Launching_Galileo/Highlights/Galileo_liftoff)
 
-id:   44415
-
 

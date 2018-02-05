@@ -16,6 +16,4 @@ tags: [Superconductivity, BCS theory, Electron, Cooper pair, Physics, Physical s
 
 [Visit Link](https://phys.org/news/2017-03-small-superconductors.html)
 
-id:  375573
-
 

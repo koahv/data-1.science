@@ -16,6 +16,4 @@ tags: [linux]
 
 [Visit Link](http://spd.rss.ac/aHR0cDovL25ld3Muc29mdHBlZGlhLmNvbS9uZXdzL0R1dGNoLVBhcmxpYW1lbnQtVXJnZXMtR292ZXJubWVudC10by1HZXQtTW9yZS1PcGVuLVNvdXJjZS1hbmQtU3BlbmQtTGVzcy1Nb25leS00NjI0NzYuc2h0bWw=)
 
-id:   55229
-
 

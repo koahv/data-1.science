@@ -4,7 +4,7 @@ title: "What&#039;s important in open source today"
 date: 2016-11-16 08:00:00
 categories: Open Source
 author: nengard
-tags: [Open-source software, Open-source software movement, Linux, Computing, Culture, Red Hat, Technology, Software, Communication]
+tags: [Open-source software, Open-source software movement, Linux, Computing]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Open-source software, Open-source software movement, Linux, Computing, Cu
 >factsheet unavailable
 
 [Visit Link](https://opensource.com/16/11/all-things-open-keynotes-day-1-summary)
-
-id:  341509
 
 

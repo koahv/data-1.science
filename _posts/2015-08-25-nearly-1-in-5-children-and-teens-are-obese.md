@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/51973-childhood-obesity-united-states.html)
 
-id:  174537
-
 

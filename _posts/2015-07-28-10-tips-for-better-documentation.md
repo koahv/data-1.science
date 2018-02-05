@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://opensource.com/business/15/7/10-tips-better-documentation)
 
-id:  161429
-
 

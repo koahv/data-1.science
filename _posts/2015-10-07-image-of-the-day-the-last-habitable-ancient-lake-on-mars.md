@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/10/image-of-the-day-the-last-habitable-ancient-lake-on-mars.html)
 
-id:  195014
-
 

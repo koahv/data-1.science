@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/community/blogs/131-business-or-qenterprise/799587-vim-tutorial-for-beginners/)
 
-id:   69366
-
 

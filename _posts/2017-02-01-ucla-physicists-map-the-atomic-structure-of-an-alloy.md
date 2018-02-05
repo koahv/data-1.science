@@ -16,6 +16,4 @@ tags: [Physics, Atom, Crystallite, Materials science, Grain boundary, Chemistry,
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/uoc--upm012617.php)
 
-id:  362152
-
 

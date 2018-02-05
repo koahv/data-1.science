@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/53309-cretaceous-flower-seeds-found.html)
 
-id:  233691
-
 

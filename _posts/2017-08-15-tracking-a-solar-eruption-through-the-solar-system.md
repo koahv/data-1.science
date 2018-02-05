@@ -16,6 +16,4 @@ tags: [Coronal mass ejection, Sun, Mars, NASA, Rosetta (spacecraft), Venus, Phys
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Tracking_a_solar_eruption_through_the_Solar_System)
 
-id:  419227
-
 

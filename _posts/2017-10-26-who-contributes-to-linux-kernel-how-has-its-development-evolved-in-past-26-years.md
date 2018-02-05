@@ -16,6 +16,4 @@ tags: [Linux kernel, Linux, Open-source software, Computer engineering, Areas of
 
 [Visit Link](https://fossbytes.com/linux-kernel-development-contributer/)
 
-id:  445095
-
 

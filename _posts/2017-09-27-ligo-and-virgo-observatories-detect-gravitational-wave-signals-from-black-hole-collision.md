@@ -16,6 +16,4 @@ tags: [LIGO, Gravitational wave, Gravity, Virgo interferometer, Black hole, Grav
 
 [Visit Link](https://phys.org/news/2017-09-ligo-virgo-observatories-black-hole.html)
 
-id:  433106
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.spacemart.com/reports/Move_Over_Silicon_Theres_a_New_Circuit_in_Town_999.html)
 
-id:    3836
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/software/applications/780517-next-gen-opengl-to-be-announced-next-month/)
 
-id:   20475
-
 

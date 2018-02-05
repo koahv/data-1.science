@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Images/2016/05/Rub_al_Khali)
 
-id:  286806
-
 

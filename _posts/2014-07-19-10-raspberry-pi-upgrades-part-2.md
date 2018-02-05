@@ -16,6 +16,4 @@ tags: [features, raspberry pi, baraometric pressure, picoborg, pitft, stereo, we
 
 [Visit Link](http://www.linuxuser.co.uk/features/10-raspberry-pi-upgrades-part-2)
 
-id:   24277
-
 

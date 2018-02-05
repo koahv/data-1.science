@@ -16,6 +16,4 @@ tags: [Quantum computing, Integrated circuit, Semiconductor device fabrication, 
 
 [Visit Link](https://phys.org/news/2017-10-intel-qubit-superconducting-chip-advanced.html)
 
-id:  437517
-
 

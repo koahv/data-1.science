@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gamingonlinux.com/articles/gamingonlinux-interviews-feral-interactive-about-xcom-linux-game-development.3946/)
 
-id:    7323
-
 

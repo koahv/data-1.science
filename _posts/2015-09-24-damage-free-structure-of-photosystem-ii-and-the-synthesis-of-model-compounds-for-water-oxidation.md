@@ -16,6 +16,4 @@ tags: [materials science]
 
 [Visit Link](http://phys.org/news/2015-09-damage-free-photosystem-ii-synthesis-compounds.html)
 
-id:  188850
-
 

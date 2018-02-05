@@ -16,6 +16,4 @@ tags: [quantum mechanics, a universe from nothing, are atoms empty, quantum phys
 
 [Visit Link](http://www.fromquarkstoquasars.com/what-is-nothing/)
 
-id:   45428
-
 

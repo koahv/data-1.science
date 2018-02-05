@@ -16,6 +16,4 @@ tags: [linux, oss]
 
 [Visit Link](http://www.tuxmachines.org/node/83689)
 
-id:  225809
-
 

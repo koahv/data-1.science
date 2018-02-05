@@ -16,6 +16,4 @@ tags: [GNU GRUB, Booting, Systemd, Master boot record, Boot sector, File system,
 
 [Visit Link](https://opensource.com/article/17/2/linux-boot-and-startup)
 
-id:  367204
-
 

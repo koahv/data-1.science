@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.nature.com/news/magnetic-mystery-of-earth-s-early-core-explained-1.19058)
 
-id:  226607
-
 

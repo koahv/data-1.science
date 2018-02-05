@@ -16,6 +16,4 @@ tags: [Battery (electricity), Lithium-ion battery, Technology]
 
 [Visit Link](http://www.renewableenergyworld.com/articles/2017/10/li-ion-tech-get-first-testing-platform-for-battery-lifetime.html)
 
-id:  444107
-
 

@@ -16,6 +16,4 @@ tags: [art, culture, science, books, history, space]
 
 [Visit Link](http://feedproxy.google.com/~r/brainpickings/rss/~3/R7xjZtj7Fvk/)
 
-id:   57809
-
 

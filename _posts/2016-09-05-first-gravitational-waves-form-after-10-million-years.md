@@ -4,7 +4,7 @@ title: "First gravitational waves form after 10 million years"
 date: 2016-09-05 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Laser Interferometer Space Antenna, Gravity, Gravitational wave, Black hole, Mechanics, General relativity, Science, Spacetime, Physical cosmology, Physics, Outer space, Astronomy, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-09/uoz-fgw090516.php)
-
-id:  320933
 
 

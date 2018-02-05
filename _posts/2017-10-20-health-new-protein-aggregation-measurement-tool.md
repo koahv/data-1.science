@@ -16,6 +16,4 @@ tags: [Prion, Protein aggregation, Protein, Disease, Genetics, Neurodegeneration
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171020160018.htm)
 
-id:  442838
-
 

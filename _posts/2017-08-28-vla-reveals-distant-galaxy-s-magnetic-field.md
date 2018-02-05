@@ -16,6 +16,4 @@ tags: [Astronomy, Galaxy, Quasar, Radio astronomy, Karl G. Jansky Very Large Arr
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/nrao-vrd082517.php)
 
-id:  423382
-
 

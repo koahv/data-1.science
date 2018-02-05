@@ -16,6 +16,4 @@ tags: [Genetic engineering, Gene, Genetics, Gene drive, Organism, Hybrid (biolog
 
 [Visit Link](https://phys.org/news/2017-10-genetically-unaltered-offspring.html)
 
-id:  438028
-
 

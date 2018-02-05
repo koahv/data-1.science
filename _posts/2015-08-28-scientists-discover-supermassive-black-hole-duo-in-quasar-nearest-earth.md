@@ -16,6 +16,4 @@ tags: [physics, accretion disk, galaxy merger, mrk 231, quasars, quasi-stellar r
 
 [Visit Link](http://www.fromquarkstoquasars.com/scientists-discover-supermassive-black-hole-duo-in-quasar-nearest-earth/)
 
-id:  176389
-
 

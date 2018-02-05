@@ -4,7 +4,7 @@ title: "De-icing agent remains stable at more than a million atmospheres of pres
 date: 2016-08-12 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Lawrence Livermore National Laboratory, Chemistry, Physical sciences, Science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/dlnl-dar081216.php)
-
-id:  313936
 
 

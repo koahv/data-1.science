@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a, cosmolog
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/dark-energy/)
 
-id:   24500
-
 

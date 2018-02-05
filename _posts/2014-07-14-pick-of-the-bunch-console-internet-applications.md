@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/upload/pick-of-the-bunch-console-internet-applications-140713091010.html)
 
-id:   19577
-
 

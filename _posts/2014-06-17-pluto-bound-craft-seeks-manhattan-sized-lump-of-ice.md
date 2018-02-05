@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feeds.newscientist.com/c/749/f/10898/s/3b96f0b2/sc/32/l/0L0Snewscientist0N0Carticle0Cdn25740A0Eplutobound0Ecraft0Eseeks0Emanhattansized0Elump0Eof0Eice0Bhtml0Dcmpid0FRSS0QNSNS0Q20A120EGLOBAL0Qspace/story01.htm)
 
-id:     631
-
 

@@ -16,6 +16,4 @@ tags: [Quantum mechanics, Quantum computing, Light, Qubit, Electron, Chemistry, 
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/05/170526084521.htm)
 
-id:  396262
-
 

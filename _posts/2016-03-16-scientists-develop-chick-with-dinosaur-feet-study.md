@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2016-03-scientists-chick-dinosaur-feet.html)
 
-id:  262876
-
 

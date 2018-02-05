@@ -16,6 +16,4 @@ tags: [solar system, alien life, ganymede, space, universe]
 
 [Visit Link](http://www.fromquarkstoquasars.com/water-on-alien-worlds-ganymede/)
 
-id:  121019
-
 

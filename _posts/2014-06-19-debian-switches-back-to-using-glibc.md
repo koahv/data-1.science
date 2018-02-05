@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/software/applications/777445-debian-switches-back-to-using-glibc/)
 
-id:    1177
-
 

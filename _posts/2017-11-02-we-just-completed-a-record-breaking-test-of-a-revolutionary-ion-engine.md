@@ -16,6 +16,4 @@ tags: [Hall-effect thruster, Spacecraft propulsion, Rocket engine, Artificial ob
 
 [Visit Link](https://futurism.com/we-just-completed-a-record-breaking-test-of-a-revolutionary-ion-engine/)
 
-id:  448548
-
 

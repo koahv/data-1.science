@@ -16,6 +16,4 @@ tags: [Evolution, Organism, Genetics, Genome, Allele, Gene, Diatom, Climate chan
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/uoea-gso011117.php)
 
-id:  357223
-
 

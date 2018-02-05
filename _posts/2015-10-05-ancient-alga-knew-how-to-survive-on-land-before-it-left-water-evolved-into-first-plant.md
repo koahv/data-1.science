@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/jic-aak100215.php)
 
-id:  193843
-
 

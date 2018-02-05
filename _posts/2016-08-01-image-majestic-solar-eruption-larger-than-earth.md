@@ -4,7 +4,7 @@ title: "Image: Majestic solar eruption larger than Earth"
 date: 2016-08-01 12:50:09
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [Sun, Coronal mass ejection, Solar and Heliospheric Observatory, Plasma (physics), Star, Solar flare, Heliosphere, Solar System, Astrophysics, Stars, Physical universe, Space science, Applied and interdisciplinary physics, Stellar astronomy, Outer space, Astronomy, Physical sciences, Physics, Nature, Astronomical objects]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [space exploration]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-08-image-majestic-solar-eruption-larger.html)
-
-id:  310100
 
 

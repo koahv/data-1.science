@@ -16,6 +16,4 @@ tags: [art, culture, design, alice in wonderland, books, illustration, out of pr
 
 [Visit Link](http://feedproxy.google.com/~r/brainpickings/rss/~3/uOqaxGxVtW8/)
 
-id:   14447
-
 

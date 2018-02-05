@@ -16,6 +16,4 @@ tags: [Quantum mechanics, Uncertainty principle, Niels Bohr, Uncertainty, Niels 
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/fos--s071217.php)
 
-id:  409244
-
 

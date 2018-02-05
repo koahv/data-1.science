@@ -16,6 +16,4 @@ tags: [nasa, rtg, new horizons, pluto, solar system, space, voyager, lockheed ma
 
 [Visit Link](http://www.gereports.com/post/126446178145)
 
-id:  171265
-
 

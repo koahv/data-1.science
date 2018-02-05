@@ -16,6 +16,4 @@ tags: [earth science, earth, research, science]
 
 [Visit Link](https://www.siliconrepublic.com/earth-science/2015/09/07/3d-map-of-earths-core-shows-how-volcanoes-are-formed)
 
-id:  180525
-
 

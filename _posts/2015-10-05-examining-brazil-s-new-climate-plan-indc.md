@@ -16,6 +16,4 @@ tags: [clean power, climate change, brazil, climate plan, ghg emissions, indc]
 
 [Visit Link](http://cleantechnica.com/2015/10/05/examining-brazils-new-climate-plan-indc/)
 
-id:  193772
-
 

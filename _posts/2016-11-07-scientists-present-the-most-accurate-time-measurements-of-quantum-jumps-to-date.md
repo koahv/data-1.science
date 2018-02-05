@@ -4,7 +4,7 @@ title: "Scientists present the most accurate time measurements of quantum jumps 
 date: 2016-11-07 16:24:16
 categories: Science
 author: unknown author
-tags: [quantum physics, Electron, Quantum mechanics, Atom, Laser, Ionization, Physics, Particle physics, Ultrashort pulse, Energy, Experiment, Photon, Optics, Mechanics, Condensed matter physics, Physical chemistry, Theoretical physics, Condensed matter, Modern physics, Nature, Solid state engineering, Materials science, Atomic,  molecular,  and optical physics, Chemistry, Physical sciences, Applied and interdisciplinary physics, Science, Quantum optics, Physical universe, Helium atom, Liquid crystal]
+tags: [Electron, Quantum mechanics, Atom, Ionization, Physics, Laser, Particle physics, Ultrashort pulse, Energy, Experiment, Modern physics, Materials science, Solid state engineering, Condensed matter physics, Physical chemistry, Atomic,  molecular,  and optical physics, Chemistry, Mechanics, Applied and interdisciplinary physics, Physical sciences, Theoretical physics, Science, Optics, Nature]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [quantum physics, Electron, Quantum mechanics, Atom, Laser, Ionization, Ph
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-11-scientists-accurate-quantum-date.html)
-
-id:  338893
 
 

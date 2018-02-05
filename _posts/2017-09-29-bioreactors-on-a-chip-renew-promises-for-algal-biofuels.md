@@ -16,6 +16,4 @@ tags: [Algae fuel, Biofuel, Artificial objects, Nature, Chemistry, Life sciences
 
 [Visit Link](https://phys.org/news/2017-09-bioreactors-chip-renew-algal-biofuels.html)
 
-id:  433961
-
 

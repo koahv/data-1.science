@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/51998-dietary-fiber.html)
 
-id:  175318
-
 

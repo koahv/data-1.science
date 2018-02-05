@@ -16,6 +16,4 @@ tags: [XENON, Dark matter, Weakly interacting massive particles, Physics, Scienc
 
 [Visit Link](https://phys.org/news/2017-05-xenon1t-sensitive-detector-earth-wimp.html)
 
-id:  394012
-
 

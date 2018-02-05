@@ -16,6 +16,4 @@ tags: [Venus Express, JAXA, Venus, Atmosphere, Space exploration, Spaceflight, P
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/uoc-vta072517.php)
 
-id:  413143
-
 

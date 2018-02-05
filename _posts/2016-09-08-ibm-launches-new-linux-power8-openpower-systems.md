@@ -4,7 +4,7 @@ title: "IBM Launches New Linux, Power8, OpenPower Systems"
 date: 2016-09-08 14:18:18
 categories: Linux
 author: ZDNet
-tags: []
+tags: [OpenPOWER Foundation, POWER8, Instruction set architectures, Software, Areas of computer science, IBM, Computer hardware, Technology, Computer engineering, Computer architecture, Computers, Computing]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/ibm-launches-new-linux-power8-openpower-systems-0)
-
-id:  321894
 
 

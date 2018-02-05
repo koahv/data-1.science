@@ -16,6 +16,4 @@ tags: [biotechnology]
 
 [Visit Link](http://phys.org/news/2015-10-scientists-molecular-mechanism-early.html)
 
-id:  201835
-
 

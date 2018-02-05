@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/tuom-rrt041216.php)
 
-id:  273329
-
 

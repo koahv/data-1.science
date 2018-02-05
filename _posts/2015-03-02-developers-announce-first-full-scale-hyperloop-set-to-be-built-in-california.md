@@ -16,6 +16,4 @@ tags: [news, technology, elon musk, hyperloop, quay valley, science, travel]
 
 [Visit Link](http://www.fromquarkstoquasars.com/developers-announce-first-full-scale-hyperloop-set-to-be-built-in-california/)
 
-id:   89811
-
 

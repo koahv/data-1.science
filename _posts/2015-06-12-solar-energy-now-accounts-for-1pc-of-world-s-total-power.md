@@ -16,6 +16,4 @@ tags: [earth science, renewables, reports, solar]
 
 [Visit Link](https://www.siliconrepublic.com/earth-science/2015/06/12/solar-energy-now-accounts-for-1pc-of-worlds-total-power)
 
-id:  138599
-
 

@@ -4,7 +4,7 @@ title: "How Computer Memory Works"
 date: 2016-05-10 21:14:42
 categories: Technology
 author: kduffy
-tags: []
+tags: [Cognition, Behavioral neuroscience, Clinical psychology, Psychology, Nervous system, Action (philosophy), Phenomenology, Epistemology, neuropsychology, Psychological concepts, Cognitive neuroscience, Neuroscience, Neuropsychology, Mental processes, Neuropsychological assessment, Cognitive science, Limbic system]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2016/05/how-computer-memory-works)
-
-id:  283327
 
 

@@ -16,6 +16,4 @@ tags: [Mars, MAVEN, Magnetosphere, Earth, Outer space, Astronomy, Nature, Planet
 
 [Visit Link](https://phys.org/news/2017-03-nasa-magnetic-shield-mars-atmosphere.html)
 
-id:  370981
-
 

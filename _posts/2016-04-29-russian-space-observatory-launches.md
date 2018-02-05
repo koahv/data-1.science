@@ -4,7 +4,7 @@ title: "Russian Space Observatory Launches"
 date: 2016-04-29 13:48:57
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy blogs, astronomy in space with david dickinson, news, spacecraft and space missions, lomonosov]
+tags: [Swift Gamma-Ray Burst Mission, Vostochny Cosmodrome, Telescope, Gamma ray, Cosmic ray, Satellite, Gamma-ray burst, Space exploration, Space colonization, Nature, Astronautics, Space science, Space technology, Astronomy, Physical sciences, Outer space, Spaceflight]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [astronomy blogs, astronomy in space with david dickinson, news, spacecraf
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/russian-space-observatory-lomonosov-launches/)
-
-id:  279571
 
 

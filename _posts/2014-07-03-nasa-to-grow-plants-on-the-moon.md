@@ -16,6 +16,4 @@ tags: [missions, news, grow, moon, nasa, nasa growing plants, plants, space]
 
 [Visit Link](http://www.fromquarkstoquasars.com/nasa-to-grow-plants-on-the-moon/)
 
-id:   12465
-
 

@@ -4,7 +4,7 @@ title: "First EDRS laser image"
 date: 2016-06-01 10:20:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Aerospace engineering, Spaceflight technologies, Astronautics, Outer space, Spacecraft, Space exploration, Telecommunications, Satellites, Space technology, Flight, Space colonization, Spaceflight, Technology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/EDRS/Europe_s_SpaceDataHighway_relays_first_Sentinel-1_images_via_laser)
-
-id:  290642
 
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFB-Oe6oMGYHmKL_3pGgvwe8j3ZNA&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=7wPJU4DPOYiDgwfQkYHgBw&url=http://news.discovery.com/tech/alternative-power-sources/sand-based-batteries-to-power-your-castle-140711.htm)
 
-id:   23103
-
 

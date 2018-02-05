@@ -4,7 +4,7 @@ title: "Engineering Newswire 192: Autonomous Sikorsky Helicopter Completes 30-Mi
 date: 2016-06-10 15:26:14
 categories: Technology
 author: kduffy
-tags: []
+tags: [Aerospace engineering, Vehicles, Industries, Artificial objects, Aeronautics, Aircraft, Aviation]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/videos/2016/06/engineering-newswire-192-autonomous-sikorsky-helicopter-completes-30-mile-flight)
-
-id:  294266
 
 

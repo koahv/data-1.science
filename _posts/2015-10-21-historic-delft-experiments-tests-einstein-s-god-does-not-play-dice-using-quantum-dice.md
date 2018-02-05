@@ -16,6 +16,4 @@ tags: [quantum physics]
 
 [Visit Link](http://phys.org/news/2015-10-historic-delft-einstein-god-dice.html)
 
-id:  200946
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/RWnRklFhpfg/organic-molecules-in-milky-ways-satellite-galaxy-found-richer-in-carbon.html)
 
-id:    3157
-
 

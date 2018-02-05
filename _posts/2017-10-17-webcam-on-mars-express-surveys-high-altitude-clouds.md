@@ -16,6 +16,4 @@ tags: [Cloud, Mars, Astronomy, Nature, Meteorology, Physical sciences, Solar Sys
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Webcam_on_Mars_Express_surveys_high-altitude_clouds)
 
-id:  439995
-
 

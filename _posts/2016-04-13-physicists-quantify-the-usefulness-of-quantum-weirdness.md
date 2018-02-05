@@ -16,6 +16,4 @@ tags: [quantum physics]
 
 [Visit Link](http://phys.org/news/2016-04-physicists-quantify-quantum-weirdness.html)
 
-id:  273613
-
 

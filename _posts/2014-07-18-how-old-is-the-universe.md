@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a, universe
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/how-old-is-the-universe/)
 
-id:   23399
-
 

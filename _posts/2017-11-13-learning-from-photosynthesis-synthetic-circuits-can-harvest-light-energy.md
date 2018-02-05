@@ -16,6 +16,4 @@ tags: [Photosynthesis, Energy, DNA, Applied and interdisciplinary physics, Chemi
 
 [Visit Link](https://phys.org/news/2017-11-photosynthesis.html)
 
-id:  453083
-
 

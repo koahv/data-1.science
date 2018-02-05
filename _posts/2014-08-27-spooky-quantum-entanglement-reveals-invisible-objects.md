@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/L_dHj_zLnto/)
 
-id:   46808
-
 

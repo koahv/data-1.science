@@ -16,6 +16,4 @@ tags: [Quantum entanglement, Quantum teleportation, Photon, Orbital angular mome
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/uotw-rdq092117.php)
 
-id:  431299
-
 

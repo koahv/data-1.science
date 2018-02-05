@@ -16,6 +16,4 @@ tags: [news, policy, renewable energy, wind power, clean energy, 100% clean ener
 
 [Visit Link](http://inhabitat.com/german-state-to-reach-100-renewable-power-this-year/)
 
-id:    6181
-
 

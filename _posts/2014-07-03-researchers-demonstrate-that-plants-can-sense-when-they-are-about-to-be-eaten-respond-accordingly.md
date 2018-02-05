@@ -16,6 +16,4 @@ tags: [evolution and biology, news, arabidopsis, biology, caterpillars, division
 
 [Visit Link](http://www.fromquarkstoquasars.com/researchers-demonstrate-that-plants-can-sense-when-they-are-about-to-be-eaten-respond-accordingly/)
 
-id:   13024
-
 

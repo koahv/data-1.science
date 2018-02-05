@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2016-03-microwhip-scorpion-mesozoic-period-burmese.html)
 
-id:  260462
-
 

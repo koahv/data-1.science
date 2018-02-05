@@ -16,6 +16,4 @@ tags: [Glufosinate, Biological engineering, Biotechnology, Chemistry, Biology, L
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/wifb-lar112717.php)
 
-id:  459191
-
 

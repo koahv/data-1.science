@@ -16,6 +16,4 @@ tags: [space exploration]
 
 [Visit Link](http://phys.org/news/2015-07-image-stereo-a-spacecraft-side-sun.html)
 
-id:  156562
-
 

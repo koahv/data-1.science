@@ -16,6 +16,4 @@ tags: [earth]
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6i47HdNuxbg/story01.htm)
 
-id:   12557
-
 

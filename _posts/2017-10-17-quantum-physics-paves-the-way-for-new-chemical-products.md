@@ -16,6 +16,4 @@ tags: [Physics, Electron, Molecule, Chemistry, Chemical substance, Laser, Hydrog
 
 [Visit Link](https://phys.org/news/2017-10-quantum-physics-paves-chemical-products.html)
 
-id:  440082
-
 

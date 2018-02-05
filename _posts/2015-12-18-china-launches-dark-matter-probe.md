@@ -16,6 +16,4 @@ tags: [astronomy blogs, astronomy in space with david dickinson, news, spacecraf
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/china-launches-dark-matter-probe-1218201543/)
 
-id:  226970
-
 

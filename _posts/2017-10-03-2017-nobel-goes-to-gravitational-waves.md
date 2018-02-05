@@ -16,6 +16,4 @@ tags: [LIGO, Special relativity, Gravitational wave, General relativity, Barry B
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/2017-nobel-goes-gravitational-waves/)
 
-id:  434727
-
 

@@ -16,6 +16,4 @@ tags: [Neuron, Nerve, Brain, Motor neuron, Brainstem, Inhibitory postsynaptic po
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uob-hln102417.php)
 
-id:  443993
-
 

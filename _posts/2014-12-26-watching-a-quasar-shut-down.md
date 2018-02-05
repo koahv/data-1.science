@@ -16,6 +16,4 @@ tags: [black holes, news, active galactic nuclei, quasars]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/watching-a-quasar-shut-down-122614/)
 
-id:   69882
-
 

@@ -20,6 +20,4 @@ Secondary craters are comparatively rounder than pit chains, which are more irre
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/11/171109135703.htm)
 
-id:  451669
-
 

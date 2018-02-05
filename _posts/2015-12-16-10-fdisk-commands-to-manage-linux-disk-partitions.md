@@ -16,6 +16,4 @@ tags: [linux commands]
 
 [Visit Link](http://www.tecmint.com/fdisk-commands-to-manage-linux-disk-partitions/)
 
-id:  225531
-
 

@@ -16,6 +16,4 @@ tags: [Nanoelectronics, Plasmon, Surface plasmon, Nanotechnology, Photonics, Opt
 
 [Visit Link](https://phys.org/news/2017-10-breakthrough-ultra-fast-nanoscale.html)
 
-id:  442008
-
 

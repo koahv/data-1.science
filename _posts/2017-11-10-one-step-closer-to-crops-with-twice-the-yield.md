@@ -16,6 +16,4 @@ tags: [Photosynthesis, Plant breeding, Genetics, Water, Gene, Genetic variation,
 
 [Visit Link](https://phys.org/news/2017-11-closer-crops-yield.html)
 
-id:  452062
-
 

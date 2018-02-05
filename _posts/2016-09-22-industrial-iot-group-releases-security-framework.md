@@ -4,7 +4,7 @@ title: "Industrial IoT Group Releases Security Framework"
 date: 2016-09-22 07:55:38
 categories: Linux
 author: SDx Central
-tags: []
+tags: [Internet of things, Industrial Internet Consortium, Technology, Computing]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/industrial-iot-group-releases-security-framework)
-
-id:  325966
 
 

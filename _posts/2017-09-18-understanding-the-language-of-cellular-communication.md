@@ -16,6 +16,4 @@ tags: [Ligand (biochemistry), Cell (biology), Cell signaling, Cellular communica
 
 [Visit Link](https://phys.org/news/2017-09-language-cellular.html)
 
-id:  429850
-
 

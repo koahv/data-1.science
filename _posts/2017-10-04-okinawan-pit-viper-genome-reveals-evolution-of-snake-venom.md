@@ -16,6 +16,4 @@ tags: [Venom, Evolution, Snake, Snake venom, Snakebite, Okinawa Prefecture, Pred
 
 [Visit Link](https://phys.org/news/2017-10-okinawan-pit-viper-genome-reveals.html)
 
-id:  435030
-
 

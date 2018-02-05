@@ -16,6 +16,4 @@ tags: [earth sciences]
 
 [Visit Link](http://phys.org/news/2016-04-million-years-ice-free-summers-north.html)
 
-id:  271577
-
 

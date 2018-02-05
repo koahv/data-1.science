@@ -16,6 +16,4 @@ tags: [Gravitational wave, LIGO, Astronomy, Gravity, Gravitational-wave observat
 
 [Visit Link](https://phys.org/news/2017-07-telescope-optical-gravitational.html)
 
-id:  406706
-
 

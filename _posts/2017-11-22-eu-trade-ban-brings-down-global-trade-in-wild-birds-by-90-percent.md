@@ -16,6 +16,4 @@ tags: [Biodiversity, Parrot, Bird, American Association for the Advancement of S
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/fos--etb112017.php)
 
-id:  457581
-
 

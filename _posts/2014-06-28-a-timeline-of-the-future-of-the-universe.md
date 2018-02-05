@@ -16,6 +16,4 @@ tags: [astrophysics, infographics, future, hypervelocity stars, jaime, red-giant
 
 [Visit Link](http://www.fromquarkstoquasars.com/the-future-of-the-universe/)
 
-id:    9064
-
 

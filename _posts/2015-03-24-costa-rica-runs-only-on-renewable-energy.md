@@ -16,6 +16,4 @@ tags: [energy, featured, home, renewables]
 
 [Visit Link](http://www.theneweconomy.com/home/costa-rica-runs-only-on-renewable-energy)
 
-id:   99534
-
 

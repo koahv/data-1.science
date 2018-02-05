@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/dWTO-_wN40Y/emergence-of-the-human-super-brain-75000-years-ago-todays-most-popular.html)
 
-id:     506
-
 

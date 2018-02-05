@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/tum-gct091714.php)
 
-id:   48633
-
 

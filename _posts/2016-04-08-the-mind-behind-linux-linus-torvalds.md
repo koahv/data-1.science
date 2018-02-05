@@ -16,6 +16,4 @@ tags: [higher education]
 
 [Visit Link](http://www.ted.com/talks/linus_torvalds_the_mind_behind_linux)
 
-id:  272101
-
 

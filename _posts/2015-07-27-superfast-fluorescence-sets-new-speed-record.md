@@ -16,6 +16,4 @@ tags: [nanophysics]
 
 [Visit Link](http://phys.org/news/2015-07-superfast-fluorescence.html)
 
-id:  160838
-
 

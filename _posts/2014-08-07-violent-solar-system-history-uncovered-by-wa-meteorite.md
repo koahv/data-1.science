@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/cu-vss080714.php)
 
-id:   34975
-
 

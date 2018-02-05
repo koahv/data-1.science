@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/51907-photos-hummingbird-tongues.html)
 
-id:  171481
-
 

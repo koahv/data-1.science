@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/uVyhyXdZFHQ/the-dark-side-of-the-universe-mapping-the-invisible-force.html)
 
-id:  108734
-
 

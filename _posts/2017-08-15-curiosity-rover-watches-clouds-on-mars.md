@@ -16,6 +16,4 @@ tags: [Curiosity (rover), Mars, Phoenix (spacecraft), Astronautics, Exploration 
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/curiosity-rover-watches-clouds-mars/)
 
-id:  419580
-
 

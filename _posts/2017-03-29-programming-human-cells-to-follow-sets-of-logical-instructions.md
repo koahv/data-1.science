@@ -16,6 +16,4 @@ tags: [DNA, Stem cell, Gene, Cancer, Cell (biology), Protein, Organism, Evolutio
 
 [Visit Link](https://phys.org/news/2017-03-human-cells-logical.html)
 
-id:  378656
-
 

@@ -4,7 +4,7 @@ title: "Snake eats lizard eats beetle: Fossil food chain from the Messel Pit exa
 date: 2016-09-07 12:20:52
 categories: Science
 author: unknown author
-tags: []
+tags: [Messel pit, Geiseltaliellus, Snake, Lizard, Fossil, Reptile]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2016/09/160907082052.htm)
-
-id:  321620
 
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/enterprise/cloud-computing/813105-red-hat-invites-all-to-work-on-its-openshift-paas-cloud/)
 
-id:   88688
-
 

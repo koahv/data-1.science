@@ -16,6 +16,4 @@ tags: [Van Allen radiation belt, Particle physics, Goddard Space Flight Center, 
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/nsfc-nms072417.php)
 
-id:  412605
-
 

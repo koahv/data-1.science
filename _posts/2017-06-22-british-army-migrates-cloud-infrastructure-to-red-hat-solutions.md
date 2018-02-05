@@ -16,6 +16,4 @@ tags: [Red Hat, Ansible (software), Patch (computing), Cloud computing, DevOps, 
 
 [Visit Link](https://www.redhat.com/en/about/press-releases/british-army-migrates-cloud-infrastructure-red-hat-solutions)
 
-id:  403511
-
 

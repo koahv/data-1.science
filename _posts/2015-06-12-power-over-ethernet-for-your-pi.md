@@ -16,6 +16,4 @@ tags: [raspberry pi, add-on, ethernet, hat, module, pi, pi supply, poe, power, p
 
 [Visit Link](http://www.linuxuser.co.uk/raspberry-pi/power-over-ethernet-for-your-pi)
 
-id:  138122
-
 

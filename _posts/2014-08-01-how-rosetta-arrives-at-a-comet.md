@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Operations/How_Rosetta_arrives_at_a_comet)
 
-id:   29096
-
 

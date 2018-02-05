@@ -16,6 +16,4 @@ tags: [Regular expression, Grep, Computing, Computer programming, Areas of compu
 
 [Visit Link](https://www.linux.com/learn/intro-to-linux-/2017/2/introduction-regular-expressions-new-linux-users)
 
-id:  366744
-
 

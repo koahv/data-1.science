@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEy42aj2uwsTJTcleoUfaa5s78oUA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778893447138&ei=ut6aVf22NMrM3QGf36iACw&url=http://www.astronomy.com/news/2015/07/nasas-new-horizons-to-return-to-normal-science-operations-after-spacecraft-anomaly)
 
-id:  150393
-
 

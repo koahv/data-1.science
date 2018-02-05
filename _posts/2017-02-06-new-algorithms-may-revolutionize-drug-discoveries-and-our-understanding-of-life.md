@@ -16,6 +16,4 @@ tags: [Protein, Cryo-electron microscopy, University of Toronto, Molecule, Alzhe
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/uot-nam020317.php)
 
-id:  363235
-
 

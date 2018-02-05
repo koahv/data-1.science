@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.ancient-origins.net/news-science-space/russian-scientists-make-progress-secret-eternal-life-003917)
 
-id:  186968
-
 

@@ -16,6 +16,4 @@ tags: [Bacteria, Cell (biology), Protein, Artificial objects, Organisms, Biology
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/du-bst100517.php)
 
-id:  436747
-
 

@@ -16,6 +16,4 @@ tags: [Savanna, Tropical rainforest, Amazon rainforest, Climate, Soil, Forest, V
 
 [Visit Link](https://phys.org/news/2017-10-shallow-soils-savannas-south-america.html)
 
-id:  442007
-
 

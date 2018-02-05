@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Highlights/Space_as_never_seen_before)
 
-id:   93228
-
 

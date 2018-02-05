@@ -16,6 +16,4 @@ tags: [Antarctica, Scott Base, Ross Ice Shelf, Underwater diving, McMurdo Statio
 
 [Visit Link](https://www.livescience.com/60802-explorers-dive-beneath-antarctic-ice.html)
 
-id:  446225
-
 

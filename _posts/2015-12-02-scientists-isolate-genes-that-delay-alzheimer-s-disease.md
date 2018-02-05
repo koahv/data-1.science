@@ -16,6 +16,4 @@ tags: [technology]
 
 [Visit Link](http://www.thehindu.com/sci-tech/technology/scientists-isolate-genes-that-delay-alzheimers-disease/article7941215.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-id:  219102
-
 

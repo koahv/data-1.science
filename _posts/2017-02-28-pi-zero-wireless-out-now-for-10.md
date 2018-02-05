@@ -16,6 +16,4 @@ tags: [Raspberry Pi, Personal computing, Media technology, Product introductions
 
 [Visit Link](https://opensource.com/article/17/2/pi-zero-wireless)
 
-id:  369735
-
 

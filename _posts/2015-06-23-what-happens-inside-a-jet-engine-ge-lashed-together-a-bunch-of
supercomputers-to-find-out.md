@@ -17,6 +17,4 @@ tags: [ge aviation, supercomputers, supercomputing]
 
 [Visit Link](http://www.gereports.com/post/122261129200)
 
-id:  144235
-
 

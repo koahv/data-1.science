@@ -4,7 +4,7 @@ title: "Fossil evidence reveals that cancer in humans goes back 1.7 million yea
 date: 2016-09-14 12:20:01
 categories: Science
 author: unknown author
-tags: [archaeology & fossils]
+tags: [Neoplasm, Cancer, Australopithecus sediba, Dinosaur, Bone, Tasmanian devil, Benign tumor, Biology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [archaeology & fossils]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-09-fossil-evidence-reveals-cancer-humans.html)
-
-id:  323680
 
 

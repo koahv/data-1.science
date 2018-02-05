@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/agu-twf080514.php)
 
-id:   32714
-
 

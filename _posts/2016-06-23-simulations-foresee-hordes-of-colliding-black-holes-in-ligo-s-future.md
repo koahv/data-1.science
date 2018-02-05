@@ -4,7 +4,7 @@ title: "Simulations foresee hordes of colliding black holes in LIGO's future"
 date: 2016-06-23 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [LIGO, Black hole, Star, Gravitational wave, Metallicity, Astronomical objects, Stellar astronomy, Stars, Natural sciences, Spacetime, Nature, Science, Applied and interdisciplinary physics, Physical cosmology, Outer space, Physics, Astronomy, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/uoc-sfh062316.php)
-
-id:  298432
 
 

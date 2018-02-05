@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/learn/docs/ldp/883671-an-introduction-to-selinux/)
 
-id:  246295
-
 

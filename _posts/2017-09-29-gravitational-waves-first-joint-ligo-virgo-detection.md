@@ -16,6 +16,4 @@ tags: [Virgo interferometer, LIGO, Gravity, Gravitational wave, Black hole, Oute
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/c-gwf092917.php)
 
-id:  433965
-
 

@@ -16,6 +16,4 @@ tags: [European Space Agency, Flight, Astronautics, Outer space, Technology, Spa
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2017/01/SmallGEO_H36W-1_liftoff_replay)
 
-id:  360888
-
 

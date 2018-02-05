@@ -16,6 +16,4 @@ tags: [ge, ge90, ge aviation, leap, cfm, jet engines, rick kennedy]
 
 [Visit Link](http://www.gereports.com/post/121660487455)
 
-id:  140414
-
 

@@ -4,7 +4,7 @@ title: "Latest ocean warming review reveals extent of impacts on nature and huma
 date: 2016-09-05 04:00:00
 categories: Science
 author: unknown author
-tags: [International Union for Conservation of Nature, Global warming, Conservation biology, Natural environment, Environmental science, Physical geography, Earth sciences, Oceanography, Non-governmental organization, Ecology, Ocean, Systems ecology, Rain, Global natural environment]
+tags: [International Union for Conservation of Nature, Global warming, Conservation biology, Oceanography, Natural environment, Environmental science, Physical geography, Earth sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [International Union for Conservation of Nature, Global warming, Conservat
 >factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-09/iufc-low090216.php)
-
-id:  328313
 
 

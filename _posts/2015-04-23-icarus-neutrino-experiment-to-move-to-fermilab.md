@@ -16,6 +16,4 @@ tags: [physics]
 
 [Visit Link](http://phys.org/news348997906.html)
 
-id:  113477
-
 

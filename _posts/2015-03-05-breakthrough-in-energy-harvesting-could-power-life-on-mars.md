@@ -16,6 +16,4 @@ tags: [technology]
 
 [Visit Link](http://phys.org/news344767948.html)
 
-id:   91185
-
 

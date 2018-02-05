@@ -4,7 +4,7 @@ title: "What a planet needs to sustain life | Dave Brain"
 date: 2016-08-12 14:49:58
 categories: Interest
 author: Dave Brain
-tags: [higher education]
+tags: [TED (conference), Computing]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [higher education]
 >factsheet unavailable
 
 [Visit Link](http://www.ted.com/talks/dave_brain_what_a_planet_needs_to_sustain_life)
-
-id:  313883
 
 

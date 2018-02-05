@@ -16,6 +16,4 @@ tags: [uk]
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/WtNCAzNKZI4/story01.htm)
 
-id:   10029
-
 

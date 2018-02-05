@@ -16,6 +16,4 @@ tags: [Maize, Agriculture, Primary sector of the economy, Natural environment, L
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/vfi-npr031617.php)
 
-id:  376142
-
 

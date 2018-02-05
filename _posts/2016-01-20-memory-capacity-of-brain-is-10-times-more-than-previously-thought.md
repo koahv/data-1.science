@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-01/si-mco012016.php)
 
-id:  238998
-
 

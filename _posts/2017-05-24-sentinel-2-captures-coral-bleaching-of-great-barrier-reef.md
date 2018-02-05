@@ -16,6 +16,4 @@ tags: [Coral bleaching, Coral reef, Coral, Sentinel-2, Satellite imagery, Earth 
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2_captures_coral_bleaching_of_Great_Barrier_Reef)
 
-id:  395212
-
 

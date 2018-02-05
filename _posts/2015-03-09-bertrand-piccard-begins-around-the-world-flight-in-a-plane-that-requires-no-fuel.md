@@ -16,6 +16,4 @@ tags: [news, bertrand piccard, energy, solar impulse 2, solar power, technology]
 
 [Visit Link](http://feedproxy.google.com/~r/TEDBlog/~3/qXSywNDeLQ8/)
 
-id:   93009
-
 

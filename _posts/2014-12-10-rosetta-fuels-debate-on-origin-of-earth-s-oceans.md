@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Rosetta/Rosetta_fuels_debate_on_origin_of_Earth_s_oceans)
 
-id:   65913
-
 

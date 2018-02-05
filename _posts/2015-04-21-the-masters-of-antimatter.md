@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/dVgXjXO0ihY/the-masters-of-antimatter)
 
-id:  112502
-
 

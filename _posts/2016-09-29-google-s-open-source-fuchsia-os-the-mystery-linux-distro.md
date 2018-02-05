@@ -4,7 +4,7 @@ title: "Google’s Open Source Fuchsia OS: The Mystery Linux Distro"
 date: 2016-09-29 13:40:05
 categories: Linux
 author: Sam Dean
-tags: []
+tags: [Operating system, Android (operating system), Linux kernel, Linux, Chrome OS, Embedded system, System software, Computing, Software, Computers, Computer engineering, Computer architecture, Technology, Areas of computer science, Digital media]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/googles-open-source-fuchsia-os-mystery-linux-distro)
-
-id:  327673
 
 

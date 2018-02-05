@@ -4,7 +4,7 @@ title: "Study: 93 percent of advanced leukemia patients in remission after immun
 date: 2016-04-27 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Cancer, Leukemia, Immune system, Fred Hutchinson Cancer Research Center, T cell, Immunotherapy, Medical specialties, Clinical medicine, Medicine, Health sciences, Health, Diseases and disorders, Life sciences, Immunology, Biology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/fhcr-s9p042716.php)
-
-id:  278907
 
 

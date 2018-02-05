@@ -16,6 +16,4 @@ tags: [Open-source software, Open-source software movement, Software development
 
 [Visit Link](https://www.linux.com/blog/learn/chapter/open-source-management/2017/3/why-using-open-source-software-helps-companies-stay-flexible)
 
-id:  372328
-
 

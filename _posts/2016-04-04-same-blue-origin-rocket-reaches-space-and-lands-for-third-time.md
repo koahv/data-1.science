@@ -4,7 +4,7 @@ title: "Same Blue Origin rocket reaches space and lands for third time"
 date: 2016-04-04 11:03:06
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [New Shepard, Blue Origin, Commercial spaceflight, Space advocacy, Private spaceflight, Spaceflight, Space technology, Space exploration, Outer space, Spaceflight technologies, Astronautics, Flight, Aerospace engineering, Spacecraft, Space colonization, Space industry, Aerospace, Human spaceflight, Space-based economy, Rocketry, Aeronautics, Industries, Technology, Vehicles, Transport]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.newscientist.com/article/2082923-same-blue-origin-rocket-reaches-space-and-lands-for-third-time/)
-
-id:  299214
 
 

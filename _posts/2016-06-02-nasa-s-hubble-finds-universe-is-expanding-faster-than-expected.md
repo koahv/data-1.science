@@ -4,7 +4,7 @@ title: "NASA's Hubble finds universe is expanding faster than expected"
 date: 2016-06-02 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Big Bang, Cosmic distance ladder, Universe, Hubble Space Telescope, Dark energy, Wilkinson Microwave Anisotropy Probe, Space Telescope Science Institute, Physical quantities, Physical universe, Natural philosophy, Spacetime, Cosmology, Physical sciences, Astronomy, Physics, Outer space, Physical cosmology, Science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/nsfc-nhf060216.php)
-
-id:  290989
 
 

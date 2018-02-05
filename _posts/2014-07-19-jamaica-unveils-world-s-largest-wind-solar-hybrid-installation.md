@@ -16,6 +16,4 @@ tags: [news, renewable energy, solar power, wind power, & gordon, island nation,
 
 [Visit Link](http://inhabitat.com/jamaica-unveils-worlds-largest-wind-solar-hybrid-installation/)
 
-id:   22205
-
 

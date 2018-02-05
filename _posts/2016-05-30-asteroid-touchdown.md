@@ -4,7 +4,7 @@ title: "Asteroid touchdown"
 date: 2016-05-30 10:50:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Spacecraft, Flight, Spaceflight technologies, Space science, Aerospace engineering, Solar System, Space probes, Space colonization, Discovery and exploration of the Solar System, Scientific exploration, Aerospace, Astronomy, Unmanned spacecraft, Planetary science, Space missions, Bodies of the Solar System, Space technology, Astronautics, Space exploration, Outer space, Spaceflight]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/spaceinvideos/Videos/2016/05/AIM_Asteroid_touchdown)
-
-id:  289799
 
 

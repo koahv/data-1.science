@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2016/03/today-engineering-history-explorer-1s-mission-ends)
 
-id:  268667
-
 

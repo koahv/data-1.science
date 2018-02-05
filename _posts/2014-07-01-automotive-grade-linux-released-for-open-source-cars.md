@@ -16,6 +16,4 @@ tags: [opensource]
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdotLinux/~3/ajMD04E7N7Y/story01.htm)
 
-id:   11270
-
 

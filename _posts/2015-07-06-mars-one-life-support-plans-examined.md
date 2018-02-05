@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/articles/2015/07/mars-one-life-support-plans-examined)
 
-id:  150340
-
 

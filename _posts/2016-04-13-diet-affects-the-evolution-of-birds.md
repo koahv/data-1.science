@@ -16,6 +16,4 @@ tags: [evolution]
 
 [Visit Link](http://phys.org/news/2016-04-diet-affects-evolution-birds.html)
 
-id:  273668
-
 

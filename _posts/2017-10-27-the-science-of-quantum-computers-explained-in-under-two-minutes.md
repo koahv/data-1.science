@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://futurism.com/videos/quantum-computers-explained/)
 
-id:  445919
-
 

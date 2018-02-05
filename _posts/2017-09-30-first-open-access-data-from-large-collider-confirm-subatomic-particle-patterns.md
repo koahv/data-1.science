@@ -16,6 +16,4 @@ tags: [Compact Muon Solenoid, Particle physics, Large Hadron Collider, Physics, 
 
 [Visit Link](https://phys.org/news/2017-09-open-access-large-collider-subatomic-particle.html)
 
-id:  434088
-
 

@@ -16,6 +16,4 @@ tags: [art, culture, psychology, advice, books, creativity]
 
 [Visit Link](http://feedproxy.google.com/~r/brainpickings/rss/~3/h6fbA1BlENg/)
 
-id:   13362
-
 

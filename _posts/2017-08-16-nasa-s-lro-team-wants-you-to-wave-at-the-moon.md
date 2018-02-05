@@ -16,6 +16,4 @@ tags: [Lunar Reconnaissance Orbiter, Moon, Solar eclipse, Flight, Space technolo
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/nsfc-nlt081617.php)
 
-id:  419968
-
 

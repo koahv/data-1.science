@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/the-kavli-foundation-qa-what-ignites-supernova-explosions/)
 
-id:  171877
-
 

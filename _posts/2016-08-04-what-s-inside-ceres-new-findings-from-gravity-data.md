@@ -4,7 +4,7 @@ title: "What's inside Ceres? New findings from gravity data"
 date: 2016-08-04 09:39:18
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [Dawn (spacecraft), Ceres (dwarf planet), 4 Vesta, Planet, Planetary core, Dwarf planet, Asteroid, Solar System, Mantle (geology), Space science, Astronomy, Outer space, Physical sciences, Astronomical objects, Planetary science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [space exploration]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-08-ceres-gravity.html)
-
-id:  311284
 
 

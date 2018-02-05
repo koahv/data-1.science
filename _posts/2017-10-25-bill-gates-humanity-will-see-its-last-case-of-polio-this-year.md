@@ -16,6 +16,4 @@ tags: [Poliomyelitis, Eradication of infectious diseases, Poliomyelitis eradicat
 
 [Visit Link](https://futurism.com/bill-gates-humanity-will-see-its-last-case-of-polio-this-year/)
 
-id:  444927
-
 

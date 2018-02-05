@@ -16,6 +16,4 @@ tags: [Cygnus (spacecraft), International Space Station, NASA, SpaceX, Atmospher
 
 [Visit Link](https://phys.org/news/2017-03-orbital-atk-cygnus-space-station.html)
 
-id:  375887
-
 

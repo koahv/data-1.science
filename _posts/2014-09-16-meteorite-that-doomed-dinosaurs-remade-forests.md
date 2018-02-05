@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/uoa-mtd091114.php)
 
-id:   48666
-
 

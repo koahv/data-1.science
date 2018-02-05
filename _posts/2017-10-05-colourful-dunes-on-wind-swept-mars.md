@@ -16,6 +16,4 @@ tags: [Dune, Impact crater, Wind, Barchan, Mars, Tharsis, Olympus Mons, Geomorph
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Colourful_dunes_on_wind-swept_Mars)
 
-id:  435494
-
 

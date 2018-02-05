@@ -16,6 +16,4 @@ tags: [Booting, Computers, Digital technology, Cyberspace, Computing, Software, 
 
 [Visit Link](https://www.tecmint.com/shutdown-poweroff-halt-and-reboot-commands-in-linux/)
 
-id:  391927
-
 

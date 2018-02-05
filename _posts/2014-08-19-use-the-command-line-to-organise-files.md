@@ -16,6 +16,4 @@ tags: [tutorials, bash, cli, command ine]
 
 [Visit Link](http://www.linuxuser.co.uk/tutorials/use-the-command-line-to-organise-files)
 
-id:   42506
-
 

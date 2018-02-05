@@ -16,6 +16,4 @@ tags: [Open-source software, Software, Artificial intelligence, Technology, Busi
 
 [Visit Link](https://www.linuxfoundation.org/press-release/linux-foundation-debuts-community-data-license-agreement/)
 
-id:  443026
-
 

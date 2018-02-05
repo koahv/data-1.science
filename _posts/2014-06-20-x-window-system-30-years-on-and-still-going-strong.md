@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/software/applications/777607-x-window-system-30-years-on-and-still-going-strong/)
 
-id:    1146
-
 

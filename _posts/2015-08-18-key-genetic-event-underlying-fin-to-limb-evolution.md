@@ -16,6 +16,4 @@ tags: [evolution]
 
 [Visit Link](http://phys.org/news/2015-08-key-genetic-event-underlying-fin-to-limb.html)
 
-id:  170833
-
 

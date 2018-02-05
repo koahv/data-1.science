@@ -16,6 +16,4 @@ tags: [space]
 
 [Visit Link](http://www.scienceworldreport.com/articles/15562/20140620/nasa-spots-supermassive-black-hole-ejecting-stream-super-fast-gas.htm)
 
-id:    1644
-
 

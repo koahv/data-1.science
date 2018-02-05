@@ -16,6 +16,4 @@ tags: [Cyanobacteria, Evolution, Algae, Photosynthesis, Organism, Nature, Biolog
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/ciot-hdp033017.php)
 
-id:  379252
-
 

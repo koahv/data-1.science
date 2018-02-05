@@ -16,6 +16,4 @@ tags: [CRISPR, DNA, Base pair, Life sciences, Biotechnology, Molecular biology, 
 
 [Visit Link](https://futurism.com/crispr-can-now-be-used-to-edit-individual-bases/)
 
-id:  445423
-
 

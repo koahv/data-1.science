@@ -4,7 +4,7 @@ title: "Photos of the Day: China Unveils Mars Rover Concept"
 date: 2016-08-26 13:13:32
 categories: Technology
 author: skasprzak
-tags: []
+tags: [Space technology, Missions to Mars, Space missions, Solar System, Missions to the planets, Space probes, Exploration of Mars, Spaceflight technologies, Aerospace engineering, Mars, Flight, Spacecraft, Astronautics, Discovery and exploration of the Solar System, Space colonization, Outer space, Space exploration, Spaceflight, Space science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.pddnet.com/news/2016/08/photos-day-china-unveils-mars-rover-concept)
-
-id:  318162
 
 

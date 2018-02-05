@@ -4,7 +4,7 @@ title: "Scientists discover the evolutionary link between protein structure and 
 date: 2016-05-18 18:56:09
 categories: Science
 author: unknown author
-tags: [cell & microbiology]
+tags: [Protein, Organism, Protein domain, Evolution, Virus, Biology, Modularity, Cell (biology), Bioinformatics, Biological network, Molecular biology, Organisms, Life sciences, Biochemistry, Biotechnology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [cell & microbiology]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-05-scientists-evolutionary-link-protein-function.html)
-
-id:  286167
 
 

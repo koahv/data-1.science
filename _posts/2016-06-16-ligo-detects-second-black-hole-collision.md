@@ -4,7 +4,7 @@ title: "LIGO Detects Second Black Hole Collision"
 date: 2016-06-16 18:47:52
 categories: Astronomy
 author: Shannon Hall
-tags: [black holes, news, black hole mergers, gravitational waves, ligo, neutron stars]
+tags: [Gravitational wave, LIGO, Black hole, Gravitational-wave observatory, Gravity, Gravitational-wave astronomy, Astronomy, Physics, Mechanics, Spacetime, Science, Applied and interdisciplinary physics, Physical cosmology, Natural philosophy, Physical quantities, Gravitation, General relativity, Theory of relativity, Physical phenomena, Outer space, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [black holes, news, black hole mergers, gravitational waves, ligo, neutron
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/ligo-detects-second-black-hole-collision-06162016/)
-
-id:  295864
 
 

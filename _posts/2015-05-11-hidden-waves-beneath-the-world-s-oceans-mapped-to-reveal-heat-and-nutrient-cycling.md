@@ -16,6 +16,4 @@ tags: [nature & environment]
 
 [Visit Link](http://www.scienceworldreport.com/articles/25329/20150511/hidden-waves-beneath-worlds-oceans-mapped-reveal-heat-nutrient-cycling.htm)
 
-id:  121329
-
 

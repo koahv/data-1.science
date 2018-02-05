@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-10/uom-hai101614.php)
 
-id:   57652
-
 

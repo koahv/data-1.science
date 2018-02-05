@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEM9SBA6xGFtkRP9_lE2AICHu00bQ&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=-6W1U5iYH4rKgAfYtoCwAQ&url=http://wqad.com/2014/07/03/pluto-wont-be-this-close-to-earth-for-another-200-years/)
 
-id:   13096
-
 

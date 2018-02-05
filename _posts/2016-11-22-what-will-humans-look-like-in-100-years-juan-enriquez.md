@@ -4,7 +4,7 @@ title: "What will humans look like in 100 years? | Juan Enriquez"
 date: 2016-11-22 16:19:53
 categories: Interest
 author: Juan Enriquez
-tags: [higher education, Computing, Cyberspace, Technology, Communication, World Wide Web]
+tags: [Computing, Cyberspace, Technology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [higher education, Computing, Cyberspace, Technology, Communication, World
 >factsheet unavailable
 
 [Visit Link](http://www.ted.com/talks/juan_enriquez_what_will_humans_look_like_in_100_years)
-
-id:  343173
 
 

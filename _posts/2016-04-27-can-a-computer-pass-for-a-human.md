@@ -4,7 +4,7 @@ title: "Can a Computer Pass for a Human?"
 date: 2016-04-27 14:43:26
 categories: Technology
 author: kduffy
-tags: []
+tags: [Turing test, Computer science, Theoretical computer science, Epistemology, Computing, Applied mathematics, Futurology, Emergence, Technology, Systems thinking, Cybernetics, Cognition, Artificial intelligence, Areas of computer science, Cognitive science, Neuroscience, Computational neuroscience, Intelligence, Emerging technologies]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/videos/2016/04/can-computer-pass-human)
-
-id:  278731
 
 

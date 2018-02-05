@@ -16,6 +16,4 @@ tags: [online gallery, sun & moon pictures]
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/solar-chromosphere-2/)
 
-id:  220017
-
 

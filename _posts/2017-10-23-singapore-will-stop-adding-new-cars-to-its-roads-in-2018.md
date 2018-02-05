@@ -16,6 +16,4 @@ tags: [Vehicle, Car, Transport, Artificial objects, Technology]
 
 [Visit Link](https://futurism.com/singapore-will-stop-adding-new-cars-to-its-roads-in-2018/)
 
-id:  443552
-
 

@@ -4,7 +4,7 @@ title: "How early mammals evolved night vision to avoid predators"
 date: 2016-06-20 16:00:01
 categories: Science
 author: unknown author
-tags: [evolution]
+tags: [Cone cell, Retina, Photoreceptor cell, Rod cell, Evolution, Eye, Mammal, Visual perception, Biology, Organisms, Life sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [evolution]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-06-early-mammals-evolved-night-vision.html)
-
-id:  296725
 
 

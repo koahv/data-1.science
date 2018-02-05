@@ -16,6 +16,4 @@ tags: [Computer-assisted translation, Internationalization and localization, Tra
 
 [Visit Link](https://opensource.com/article/17/6/open-source-localization-tools)
 
-id:  404138
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/featured-blogs/200-libby-clark/826426-tips-for-pro-git-users-from-8-open-source-project-leaders/)
 
-id:  115404
-
 

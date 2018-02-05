@@ -16,6 +16,4 @@ tags: [Physics, Gauge theory, Ultracold atom, Condensed matter physics, Matter, 
 
 [Visit Link](http://physicsworld.com/cws/event/2017/may/29/quantum-science-approaches-to-strongly-correlated-systems-from-ultracold-atoms-to-high-energy-and-condensed-matter-physics)
 
-id:  376343
-
 

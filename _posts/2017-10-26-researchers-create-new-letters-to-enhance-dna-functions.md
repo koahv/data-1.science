@@ -16,6 +16,4 @@ tags: [Base pair, DNA, Aptamer, Genetics, Molecular biology, Chemistry, Biochemi
 
 [Visit Link](https://phys.org/news/2017-10-letters-dna-functions.html)
 
-id:  445198
-
 

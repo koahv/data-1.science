@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/round-ups/2015/03/nasa-chooses-12-new-commercial-deep-space-partners)
 
-id:  103187
-
 

@@ -16,6 +16,4 @@ tags: [news, renewable energy, solar power, commercial solar, concentrated solar
 
 [Visit Link](http://inhabitat.com/scientists-smash-solar-cell-efficiency-record-by-converting-40-4-of-sunlight-to-energy/)
 
-id:   64680
-
 

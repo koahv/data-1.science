@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/vEFw2RRmkx8/nasa-spacecraft-at-putos-doorstep-3-billion-miles-from-earth-poised-for-six-month-encounter.html)
 
-id:   62066
-
 

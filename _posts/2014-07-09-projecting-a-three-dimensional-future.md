@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2014/07/projecting-three-dimensional-future)
 
-id:   16638
-
 

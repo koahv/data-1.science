@@ -16,6 +16,4 @@ tags: [green technology, bas lansdorp, elon musk, live on mars, mars applicants,
 
 [Visit Link](http://inhabitat.com/over-200000-people-apply-to-become-first-colonizers-of-mars/)
 
-id:   25433
-
 

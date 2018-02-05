@@ -16,6 +16,4 @@ tags: [Cas9, RNA, CRISPR, PCSK9, Virus, Gene, Messenger RNA, Biology, Life scien
 
 [Visit Link](http://news.mit.edu/2017/crispr-carrying-nanoparticles-edit-genome-1113)
 
-id:  453059
-
 

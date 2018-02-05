@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/10/nasa-zooms-in-on-charon-plutos-largest-moon.html)
 
-id:  192884
-
 

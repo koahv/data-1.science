@@ -16,6 +16,4 @@ tags: [reader submitted content, renewable energy, solar power, solar energy, el
 
 [Visit Link](http://inhabitat.com/could-the-entire-world-really-run-on-solar-power/)
 
-id:   59444
-
 

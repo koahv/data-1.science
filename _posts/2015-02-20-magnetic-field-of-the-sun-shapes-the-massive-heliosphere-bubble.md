@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/2yteWE0gzfA/magnetic-field-of-the-sun-shapes-the-heliosphere-bubble.html)
 
-id:   85308
-
 

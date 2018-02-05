@@ -16,6 +16,4 @@ tags: [Van Allen radiation belt, Saturn, Solar wind, Sun, Magnetosphere, Radiati
 
 [Visit Link](https://phys.org/news/2017-10-saturn-belts-stranger-solar.html)
 
-id:  446857
-
 

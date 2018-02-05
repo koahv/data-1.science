@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/esf-rot032916.php)
 
-id:  267630
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.theverge.com/2014/8/1/5958903/watch-2600-years-of-culture-spread)
 
-id:   30074
-
 

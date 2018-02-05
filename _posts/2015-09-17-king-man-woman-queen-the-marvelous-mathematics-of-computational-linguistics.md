@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.technologyreview.com/view/541356/king-man-woman-queen-the-marvelous-mathematics-of-computational-linguistics/)
 
-id:  185971
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gamingonlinux.com/articles/xplane-10-global-64bit-now-on-steam-for-linux.4026/)
 
-id:   19670
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHIH7c0YRvOiRQ9Z_O3Fg3zbg1s8A&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=HULuU9D_Lom-wQHSm4CABw&url=http://newswatch.nationalgeographic.com/2014/08/15/commemorating-a-milestone-in-ocean-exploration/)
 
-id:   39711
-
 

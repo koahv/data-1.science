@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/r-pcf030215.php)
 
-id:   91179
-
 

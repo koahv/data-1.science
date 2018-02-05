@@ -16,6 +16,4 @@ tags: [Neuroscience, American Association for the Advancement of Science, Neurop
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/sfn-wob100517.php)
 
-id:  436820
-
 

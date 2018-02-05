@@ -16,6 +16,4 @@ tags: [plants & animals]
 
 [Visit Link](http://phys.org/news/2015-08-creatures-great-small-london-zoo.html)
 
-id:  174924
-
 

@@ -16,6 +16,4 @@ tags: [Laser Interferometer Space Antenna, LISA Pathfinder, Spacecraft, Unmanned
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/goodbye-lisa-pathfinder/)
 
-id:  411929
-
 

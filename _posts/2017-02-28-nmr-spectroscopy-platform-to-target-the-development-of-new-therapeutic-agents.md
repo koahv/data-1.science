@@ -16,6 +16,4 @@ tags: [Drug discovery, Pharmaceutical drug, American Association for the Advance
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/indl-nsp022817.php)
 
-id:  369922
-
 

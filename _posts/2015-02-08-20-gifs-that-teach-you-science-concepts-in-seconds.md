@@ -16,6 +16,4 @@ tags: [physics, gif, quantum levitation, science gifs]
 
 [Visit Link](http://www.fromquarkstoquasars.com/20-gifs-teach-science-concepts-seconds/)
 
-id:   78558
-
 

@@ -16,6 +16,4 @@ tags: [Shale gas, Hydraulic fracturing, Natural gas, Air pollution, Coal, Fossil
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uom-efs102017.php)
 
-id:  443216
-
 

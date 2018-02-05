@@ -16,6 +16,4 @@ tags: [Gene, RNA, Protein, DNA, RNA polymerase, Regulation of gene expression, C
 
 [Visit Link](https://phys.org/news/2017-10-function-gene-regulatory-protein.html)
 
-id:  442009
-
 

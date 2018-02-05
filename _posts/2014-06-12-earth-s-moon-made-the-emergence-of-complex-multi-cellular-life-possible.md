@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/-QtiAmm9D-0/our-moon-made-the-emergence-of-complex-multi-cellular-life-possible-.html)
 
-id:     525
-
 

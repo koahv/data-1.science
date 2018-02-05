@@ -16,6 +16,4 @@ tags: [Robot, Raspberry Pi, Robotics, Dexter Industries, Technology, Computing, 
 
 [Visit Link](https://www.linux.com/blog/2017/10/top-10-open-source-linux-robots)
 
-id:  438830
-
 

@@ -16,6 +16,4 @@ tags: [evolution]
 
 [Visit Link](http://phys.org/news/2016-02-evolution-whale-vision.html)
 
-id:  253043
-
 

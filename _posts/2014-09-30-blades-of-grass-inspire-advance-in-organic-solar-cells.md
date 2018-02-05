@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/uoma-bog093014.php)
 
-id:   51755
-
 

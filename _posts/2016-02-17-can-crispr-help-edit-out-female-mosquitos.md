@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/cp-cch021016.php)
 
-id:  251674
-
 

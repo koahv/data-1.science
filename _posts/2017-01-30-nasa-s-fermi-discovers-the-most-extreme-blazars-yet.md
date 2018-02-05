@@ -16,6 +16,4 @@ tags: [Fermi Gamma-ray Space Telescope, Blazar, Gamma ray, Astronomy, Black hole
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/nsfc-nfd013017.php)
 
-id:  361341
-
 

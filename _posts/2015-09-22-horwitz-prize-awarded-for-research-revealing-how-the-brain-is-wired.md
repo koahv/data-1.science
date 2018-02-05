@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/cumc-hpa092215.php)
 
-id:  187999
-
 

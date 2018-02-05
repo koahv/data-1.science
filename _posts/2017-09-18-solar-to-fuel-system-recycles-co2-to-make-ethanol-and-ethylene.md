@@ -16,6 +16,4 @@ tags: [Lawrence Berkeley National Laboratory, Artificial photosynthesis, Redox, 
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/dbnl-ssr091817.php)
 
-id:  430099
-
 

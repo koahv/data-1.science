@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://letsencrypt.org//2015/04/09/isrg-lf-collaboration.html)
 
-id:  127286
-
 

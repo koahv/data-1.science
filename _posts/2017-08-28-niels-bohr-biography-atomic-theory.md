@@ -16,6 +16,4 @@ tags: [Niels Bohr, Bohr model, Quantum mechanics, Physics, Atom, Electron, Atomi
 
 [Visit Link](https://www.livescience.com/32016-niels-bohr-atomic-theory.html)
 
-id:  423658
-
 

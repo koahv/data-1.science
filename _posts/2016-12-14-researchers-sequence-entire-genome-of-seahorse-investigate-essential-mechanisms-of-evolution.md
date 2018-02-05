@@ -4,7 +4,7 @@ title: "Researchers sequence entire genome of seahorse, investigate essential me
 date: 2016-12-14 18:00:01
 categories: Science
 author: unknown author
-tags: [biotechnology, Seahorse, Gene, Evolution, Lined seahorse, Genetics, Gene duplication, Zoology, Biology, Organisms, Life sciences, Genome, Creationism, Fish]
+tags: [Seahorse, Gene, Evolution, Lined seahorse, Genetics, Gene duplication, Life sciences, Organisms, Biology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [biotechnology, Seahorse, Gene, Evolution, Lined seahorse, Genetics, Gene 
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-12-sequence-entire-genome-seahorse-essential.html)
-
-id:  349460
 
 

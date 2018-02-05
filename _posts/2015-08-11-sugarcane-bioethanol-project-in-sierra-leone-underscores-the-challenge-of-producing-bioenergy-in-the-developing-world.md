@@ -16,6 +16,4 @@ tags: [bioenergy, news]
 
 [Visit Link](http://www.renewableenergyworld.com/articles/2015/08/sugarcane-bioethanol-project-in-sierra-leone-underscores-the-challenge-of-bringing-energy-to-the-developing-world.html)
 
-id:  183486
-
 

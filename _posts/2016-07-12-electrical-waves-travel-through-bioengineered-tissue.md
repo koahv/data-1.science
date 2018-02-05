@@ -4,7 +4,7 @@ title: "Electrical waves travel through bioengineered tissue"
 date: 2016-07-12 15:17:22
 categories: Science
 author: unknown author
-tags: []
+tags: [Sodium channel, Ion channel, Heart arrhythmia, Heart, Sodium, Light, Voltage, Biology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/jul/12/electrical-waves-travel-through-bioengineered-tissue)
-
-id:  304035
 
 

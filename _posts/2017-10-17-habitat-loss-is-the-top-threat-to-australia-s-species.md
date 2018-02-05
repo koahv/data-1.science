@@ -16,6 +16,4 @@ tags: [Habitat destruction, Extinction, Biodiversity, Deforestation, Conservatio
 
 [Visit Link](https://phys.org/news/2017-10-habitat-loss-threat-australia-species.html)
 
-id:  440079
-
 

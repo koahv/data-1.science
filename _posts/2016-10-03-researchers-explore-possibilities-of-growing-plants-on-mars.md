@@ -4,7 +4,7 @@ title: "Researchers explore possibilities of growing plants on Mars"
 date: 2016-10-03 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Mars, Soil, NASA, Martian soil, Regolith, Space science, Outer space, Planetary surface, Spaceflight, Astrobiology, Perchlorate, Earth, Florida Institute of Technology, Kennedy Space Center, Buzz Aldrin, American Association for the Advancement of Science, Exploration of Mars, Planet]
+tags: [Mars, Soil, NASA, Martian soil, Regolith, Outer space, Space science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Mars, Soil, NASA, Martian soil, Regolith, Space science, Outer space, Pla
 >factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/fiot-rep100316.php)
-
-id:  328725
 
 

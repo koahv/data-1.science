@@ -16,6 +16,4 @@ tags: [Red Hat, Software development, Cloud computing, Software, Linux, Applicat
 
 [Visit Link](https://www.redhat.com/en/about/press-releases/red-hat-unveils-end-end-cloud-native-development-environment-red-hat-openshiftio)
 
-id:  389097
-
 

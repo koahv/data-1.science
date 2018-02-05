@@ -4,7 +4,7 @@ title: "The iconic text editor Vim celebrates 25 years"
 date: 2016-11-04 16:00:00
 categories: Open Source
 author: druthb
-tags: [Vim (text editor), Software, Computing, System software, Computers, Operating system families, Free software, Technology, Digital media, Computer engineering, Unix, Computer-related introductions, Computing platforms, Unix software]
+tags: [Vim (text editor), Computers, System software, Computing, Software, Operating system families, Free software, Unix, Digital media, Technology, Computer engineering]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Vim (text editor), Software, Computing, System software, Computers, Opera
 >factsheet unavailable
 
 [Visit Link](https://opensource.com/life/16/11/happy-birthday-vim-25)
-
-id:  338296
 
 

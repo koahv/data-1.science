@@ -16,6 +16,4 @@ tags: [Photoelectric effect, Light, Photon, Electron, Physics, Chemistry, Partic
 
 [Visit Link](http://www.livescience.com/58816-photoelectric-effect.html)
 
-id:  386630
-
 

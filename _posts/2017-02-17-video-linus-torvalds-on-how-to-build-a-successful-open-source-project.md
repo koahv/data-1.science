@@ -16,6 +16,4 @@ tags: [Linux kernel, Linus Torvalds, Open-source model, Computing, Software, Fin
 
 [Visit Link](https://www.linux.com/news/event/open-source-leadership-summit/2017/2/video-linus-torvalds-how-build-successful-open-source-project)
 
-id:  366743
-
 

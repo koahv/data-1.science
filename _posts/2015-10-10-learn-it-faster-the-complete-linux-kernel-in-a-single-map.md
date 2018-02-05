@@ -16,6 +16,4 @@ tags: [geek, tech, foss, learn it faster, linux, linux kernel, linux kernel map,
 
 [Visit Link](http://fossbytes.com/learn-it-faster-the-complete-linux-kernel-in-a-single-map/)
 
-id:  197651
-
 

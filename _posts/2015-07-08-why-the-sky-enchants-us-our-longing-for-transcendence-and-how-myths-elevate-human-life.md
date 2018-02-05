@@ -16,6 +16,4 @@ tags: [culture, psychology, books, history, karen armstrong, philosophy, religio
 
 [Visit Link](http://www.brainpickings.org/2015/07/08/karen-armstrong-short-history-of-myth/)
 
-id:  151179
-
 

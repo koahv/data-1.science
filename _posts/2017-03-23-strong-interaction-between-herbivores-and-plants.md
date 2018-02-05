@@ -16,6 +16,4 @@ tags: [Biodiversity, Ecosystem, Food web, Organism, Natural environment, Gene, A
 
 [Visit Link](https://phys.org/news/2017-03-strong-interaction-herbivores.html)
 
-id:  376937
-
 

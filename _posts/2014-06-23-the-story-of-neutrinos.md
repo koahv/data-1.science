@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/_OE4_FS0JYg/the-story-of-neutrinos)
 
-id:    3634
-
 

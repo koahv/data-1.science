@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/sJEVFIgFFC0/microbial-life-and-active-ecosystem-found-in-antarctica-lake-that-hasnt-seen-sunlight-for-millions-o.html)
 
-id:   43286
-
 

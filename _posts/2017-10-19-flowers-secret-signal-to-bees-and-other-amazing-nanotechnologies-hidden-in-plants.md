@@ -16,6 +16,4 @@ tags: [Flower, Color, Petal, Iridescence, Chemistry, Applied and interdisciplina
 
 [Visit Link](https://phys.org/news/2017-10-secret-bees-amazing-nanotechnologies-hidden.html)
 
-id:  441283
-
 

@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a, solar wi
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/solar-wind/)
 
-id:   20571
-
 

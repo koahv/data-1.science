@@ -16,6 +16,4 @@ tags: [linux]
 
 [Visit Link](http://www.tuxmachines.org/node/80227)
 
-id:  186671
-
 

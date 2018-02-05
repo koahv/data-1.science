@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://lwn.net/Articles/639857/rss)
 
-id:  107391
-
 

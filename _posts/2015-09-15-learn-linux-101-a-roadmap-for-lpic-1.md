@@ -16,6 +16,4 @@ tags: [linux]
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=219277)
 
-id:  184550
-
 

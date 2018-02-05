@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/spaceinvideos/Sets/Galileo_9_10)
 
-id:  182905
-
 

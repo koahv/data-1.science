@@ -16,6 +16,4 @@ tags: [earth sciences]
 
 [Visit Link](http://phys.org/news/2015-11-nasa-track-ocean-currents-space.html)
 
-id:  206227
-
 

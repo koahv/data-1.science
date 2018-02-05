@@ -16,6 +16,4 @@ tags: [general physics]
 
 [Visit Link](http://phys.org/news/2015-10-quantum-coherent-like-state-biological-protein.html)
 
-id:  197282
-
 

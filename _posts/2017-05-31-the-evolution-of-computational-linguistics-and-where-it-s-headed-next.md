@@ -16,6 +16,4 @@ tags: [Language, Natural language processing, Artificial intelligence, Machine t
 
 [Visit Link](https://phys.org/news/2017-05-evolution-linguistics.html)
 
-id:  396830
-
 

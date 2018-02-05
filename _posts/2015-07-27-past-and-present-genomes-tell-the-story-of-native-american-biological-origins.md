@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/crwi-pap072715.php)
 
-id:  160955
-
 

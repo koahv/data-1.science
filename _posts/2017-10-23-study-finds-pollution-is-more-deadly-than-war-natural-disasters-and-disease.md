@@ -16,6 +16,4 @@ tags: [Water pollution, Pollution, Richard Fuller (environmentalist), Natural en
 
 [Visit Link](https://inhabitat.com/study-finds-pollution-is-more-deadly-than-war-natural-disasters-and-disease)
 
-id:  443137
-
 

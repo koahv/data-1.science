@@ -16,6 +16,4 @@ tags: [Hydrogen, Carbon, Water, Fuel, Metal, Energy, Hydrogen production, Photoc
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/ou-anw100317.php)
 
-id:  434990
-
 

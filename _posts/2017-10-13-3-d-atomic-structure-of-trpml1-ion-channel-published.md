@@ -16,6 +16,4 @@ tags: [Cryo-electron microscopy, Ion channel, Chemistry, Physical sciences, Appl
 
 [Visit Link](https://phys.org/news/2017-10-d-atomic-trpml1-ion-channel.html)
 
-id:  438845
-
 

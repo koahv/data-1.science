@@ -16,6 +16,4 @@ tags: [astronomy]
 
 [Visit Link](http://phys.org/news/2015-11-powerful-jets-non-spinning-black-holes.html)
 
-id:  213125
-
 

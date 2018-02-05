@@ -16,6 +16,4 @@ tags: [Extinction event, Extinction, Biodiversity, Dinosaur, Ecology, Paleontolo
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uob-etb100917.php)
 
-id:  437157
-
 

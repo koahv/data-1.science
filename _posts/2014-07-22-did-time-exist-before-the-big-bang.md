@@ -16,6 +16,4 @@ tags: [astrophysics, big bang, false dimensions, philosophical questions, planck
 
 [Visit Link](http://www.fromquarkstoquasars.com/did-time-exist-before-the-big-bang/)
 
-id:   25286
-
 

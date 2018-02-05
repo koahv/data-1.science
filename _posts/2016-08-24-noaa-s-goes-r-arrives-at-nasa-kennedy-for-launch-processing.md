@@ -4,7 +4,7 @@ title: "NOAA’s GOES-R Arrives at NASA Kennedy for Launch Processing"
 date: 2016-08-24 13:11:10
 categories: Technology
 author: mcrouse
-tags: []
+tags: [GOES-16, Geostationary Operational Environmental Satellite, NASA, Spaceflight, Space exploration, Spacecraft, Outer space, Space technology, Aerospace engineering, Spaceflight technologies, Astronautics, Flight, Space colonization, Aerospace, Space program of the United States, NASA programs, Satellites, Space programs, Space science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.pddnet.com/news/2016/08/noaas-goes-r-arrives-nasa-kennedy-launch-processing)
-
-id:  317262
 
 

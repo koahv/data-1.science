@@ -16,6 +16,4 @@ tags: [Genome editing, CRISPR, Virus, Adeno-associated virus, Brain, Gene, Biolo
 
 [Visit Link](https://phys.org/news/2017-10-gene-brain-major.html)
 
-id:  441485
-
 

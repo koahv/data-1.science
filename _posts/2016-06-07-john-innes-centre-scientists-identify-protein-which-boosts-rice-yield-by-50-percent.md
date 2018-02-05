@@ -4,7 +4,7 @@ title: "John Innes Centre scientists identify protein which boosts rice yield by
 date: 2016-06-07 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Biotechnology, Biotechnology and Biological Sciences Research Council, Rice, Soil, Nitrate, Science, Research, Technology, Agriculture, Sustainability, Biology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/jic-jic060716.php)
-
-id:  292335
 
 

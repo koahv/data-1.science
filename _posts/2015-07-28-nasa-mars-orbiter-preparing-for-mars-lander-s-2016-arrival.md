@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/07/nasa-mars-orbiter-preparing-mars-landers-2016-arrival)
 
-id:  161797
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.engadget.com/2015/05/18/brew-your-own-heroin/?ncid=rss_truncated)
 
-id:  125104
-
 

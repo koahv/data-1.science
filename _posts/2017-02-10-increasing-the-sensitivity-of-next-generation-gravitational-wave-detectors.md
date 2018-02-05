@@ -16,6 +16,4 @@ tags: [LIGO, Optics, Gravitational wave, Gravitational-wave observatory, Gravita
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/tos-its020917.php)
 
-id:  364672
-
 

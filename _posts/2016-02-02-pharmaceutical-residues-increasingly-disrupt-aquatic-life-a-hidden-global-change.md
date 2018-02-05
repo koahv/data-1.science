@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/nioe-pri020216.php)
 
-id:  244603
-
 

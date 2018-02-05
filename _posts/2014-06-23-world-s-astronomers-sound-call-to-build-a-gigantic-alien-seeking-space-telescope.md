@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/qwohv4BuKi8/worlds-astronomers-sound-call-to-build-a-gigantic-alien-seeking-space-telescope.html)
 
-id:    3339
-
 

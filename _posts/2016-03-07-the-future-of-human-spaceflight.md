@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/article/2016/03/future-human-spaceflight)
 
-id:  259290
-
 

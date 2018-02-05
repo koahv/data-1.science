@@ -4,7 +4,7 @@ title: "Mini NASA satellite begins environmental testing"
 date: 2016-08-08 15:53:13
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [CubeSat, Outer space, NASA, Spaceflight, Magnetosphere, Goddard Space Flight Center, Small satellite, Satellite, Earth, Flight, Astronomy, Planetary science, Physical sciences, Space science, Space exploration, Space technology, Astronautics, Space colonization]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [space exploration]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-08-mini-nasa-satellite-environmental.html)
-
-id:  312235
 
 

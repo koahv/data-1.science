@@ -16,6 +16,4 @@ tags: [news, renewable energy, solar power, wind power, wind turbine, world wild
 
 [Visit Link](http://inhabitat.com/wind-power-generated-126-of-scotlands-household-energy-needs-last-month/)
 
-id:   59451
-
 

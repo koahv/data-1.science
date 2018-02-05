@@ -16,6 +16,4 @@ tags: [Neanderthal, Denisovan, Anatomically modern human, Recent African origin 
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/mpif-doe062917.php)
 
-id:  406632
-
 

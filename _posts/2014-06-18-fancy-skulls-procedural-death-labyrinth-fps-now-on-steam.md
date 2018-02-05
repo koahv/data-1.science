@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gamingonlinux.com/articles/fancy-skulls-procedural-death-labyrinth-fps-now-on-steam.3919/)
 
-id:    1340
-
 

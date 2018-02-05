@@ -16,6 +16,4 @@ tags: [space exploration]
 
 [Visit Link](http://phys.org/news/2015-07-japanese-firm-mature-whisky-space.html)
 
-id:  163167
-
 

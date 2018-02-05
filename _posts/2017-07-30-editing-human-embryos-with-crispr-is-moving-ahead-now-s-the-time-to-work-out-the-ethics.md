@@ -16,6 +16,4 @@ tags: [Designer baby, Genetics, CRISPR, Health sciences, Health, Biology, Life s
 
 [Visit Link](http://www.ge.com/reports/editing-human-embryos-crispr-moving-ahead-nows-time-work-ethics/)
 
-id:  414518
-
 

@@ -16,6 +16,4 @@ tags: [carousel showcase, gallery, green technology, renewable energy, sustainab
 
 [Visit Link](http://inhabitat.com/oaxis-project-aims-to-green-the-entire-arabian-peninsula-with-a-solar-powered-hydroponic-food-belt/)
 
-id:   44580
-
 

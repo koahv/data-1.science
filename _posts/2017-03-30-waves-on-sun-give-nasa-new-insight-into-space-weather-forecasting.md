@@ -16,6 +16,4 @@ tags: [Sun, STEREO, Solar flare, Weather, Space weather, Earth, Coronal mass eje
 
 [Visit Link](https://phys.org/news/2017-03-sun-nasa-insight-space-weather.html)
 
-id:  379328
-
 

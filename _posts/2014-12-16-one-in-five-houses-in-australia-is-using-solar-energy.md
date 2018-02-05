@@ -18,6 +18,4 @@ green technology, news, renewable energy, solar power, solar energy, australia s
 
 [Visit Link](http://inhabitat.com/one-in-five-houses-in-australia-is-using-solar-energy/)
 
-id:   67462
-
 

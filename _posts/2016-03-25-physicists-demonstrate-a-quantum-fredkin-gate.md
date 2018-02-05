@@ -16,6 +16,4 @@ tags: [quantum physics]
 
 [Visit Link](http://phys.org/news/2016-03-physicists-quantum-fredkin-gate.html)
 
-id:  266441
-
 

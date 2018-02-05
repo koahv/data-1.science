@@ -4,7 +4,7 @@ title: "2016 Future of Open Source Survey Says Open Source Is The Modern Archite
 date: 2016-04-27 17:29:24
 categories: Linux
 author: aankerholz
-tags: []
+tags: [Open-source software, Software, Business, Computer engineering, Information technology, Technology, Computing, Information technology management, Digital technology, Digital media]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/2016-future-open-source-survey-says-open-source-modern-architecture)
-
-id:  278851
 
 

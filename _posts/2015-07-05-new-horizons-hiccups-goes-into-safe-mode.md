@@ -16,6 +16,4 @@ tags: [news, solar system, spacecraft and space missions]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/new-horizons-safe-mode-07052015/)
 
-id:  149848
-
 

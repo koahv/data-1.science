@@ -4,7 +4,7 @@ title: "New CERN LHC Experiments --"Predict a Boson Beyond the Higgs That Could 
 date: 2016-09-06 15:42:00
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Higgs boson, ATLAS experiment, Particle physics, Large Hadron Collider, Physics, Quantum mechanics, Modern physics, Science, Physical universe, Theoretical physics, Mechanics, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/09/new-cern-lhc-experiments-predict-a-boson-beyond-the-higgs-that-could-unlock-clues-to-dark-matter.html)
-
-id:  320971
 
 

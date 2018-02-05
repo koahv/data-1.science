@@ -16,6 +16,4 @@ tags: [climate change, global warming, news, renewable energy, wind power, china
 
 [Visit Link](http://inhabitat.com/china-increases-wind-power-by-23-percent-in-pursuit-of-clean-energy-goals/)
 
-id:   83616
-
 

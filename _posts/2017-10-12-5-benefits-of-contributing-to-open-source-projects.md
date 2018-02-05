@@ -16,6 +16,4 @@ tags: [OpenStack, Open-source software, Cloud computing, Open-source software mo
 
 [Visit Link](https://opensource.com/article/17/10/openstack-project-contribution-benefits)
 
-id:  437997
-
 

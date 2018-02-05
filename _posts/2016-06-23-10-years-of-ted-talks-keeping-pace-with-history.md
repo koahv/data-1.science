@@ -4,7 +4,7 @@ title: "10 years of TED Talks keeping pace with history"
 date: 2016-06-23 16:56:03
 categories: Interest
 author: Cynthia Betubiza
-tags: [impact of ideas, news, history, ted 10th anniversary]
+tags: [Physics, Edward Snowden, Islamic State of Iraq and the Levant, Arab Spring, Gravitational wave, Syria, Higgs boson, TED (conference), LIGO, Black hole, Politics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [impact of ideas, news, history, ted 10th anniversary]
 >factsheet unavailable
 
 [Visit Link](http://blog.ted.com/10-years-of-ted-talks-keeping-pace-with-history/)
-
-id:  298106
 
 

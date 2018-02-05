@@ -16,6 +16,4 @@ tags: [news, professional telescopes]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/advanced-ligo-switches-on-10142015/)
 
-id:  197998
-
 

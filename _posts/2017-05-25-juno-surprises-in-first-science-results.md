@@ -16,6 +16,4 @@ tags: [Juno (spacecraft), Jupiter, Planetary core, Planetary science, Planets, S
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-blogs/astronomy-space-david-dickinson/juno-first-science-results/)
 
-id:  395810
-
 

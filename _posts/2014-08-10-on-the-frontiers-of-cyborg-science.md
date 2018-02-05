@@ -16,6 +16,4 @@ tags: [nanotechnology]
 
 [Visit Link](http://phys.org/news326867181.html)
 
-id:   35661
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gereports.com/5-infographics-explain-one-year-blockchain-news/)
 
-id:  393186
-
 

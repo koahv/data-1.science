@@ -4,7 +4,7 @@ title: "Graph Databases for Beginners: Graph Search Algorithm Basics"
 date: 2016-08-05 13:30:00
 categories: Linux
 author: DZone
-tags: []
+tags: [Graph theory, Algorithms, Algorithms and data structures, Computer science, Combinatorics, Mathematical concepts, Mathematical relations, Applied mathematics, Areas of computer science, Discrete mathematics, Theoretical computer science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/graph-databases-beginners-graph-search-algorithm-basics)
-
-id:  311835
 
 

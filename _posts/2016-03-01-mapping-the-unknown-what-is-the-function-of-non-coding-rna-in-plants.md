@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/fos--mtu030116.php)
 
-id:  257179
-
 

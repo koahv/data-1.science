@@ -16,6 +16,4 @@ tags: [Open government, Politics, Public sphere]
 
 [Visit Link](https://opensource.com/article/17/5/open-data-trends)
 
-id:  390122
-
 

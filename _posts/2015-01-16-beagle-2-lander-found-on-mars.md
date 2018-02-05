@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Beagle-2_lander_found_on_Mars)
 
-id:   73038
-
 

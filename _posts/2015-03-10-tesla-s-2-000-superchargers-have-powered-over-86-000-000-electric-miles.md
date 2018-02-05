@@ -16,6 +16,4 @@ tags: [green transportation, news, renewable energy, elon musk, elon musk tesla,
 
 [Visit Link](http://inhabitat.com/teslas-2000-superchargers-have-powered-over-86-million-electric-miles/)
 
-id:   93134
-
 

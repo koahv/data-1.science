@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://blog.siphos.be/2015/08/finding-a-good-compression-utility/)
 
-id:  185202
-
 

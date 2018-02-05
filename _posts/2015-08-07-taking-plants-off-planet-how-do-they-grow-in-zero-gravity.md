@@ -16,6 +16,4 @@ tags: [space exploration]
 
 [Visit Link](http://phys.org/news/2015-08-off-planet-gravity.html)
 
-id:  166341
-
 

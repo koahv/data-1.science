@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/infrastructure/30-useful-linux-commands-for-system-administrators-151015221020.html)
 
-id:  199116
-
 

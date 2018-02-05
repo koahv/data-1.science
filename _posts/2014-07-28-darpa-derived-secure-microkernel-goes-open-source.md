@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/software/applications/782017-darpa-derived-secure-microkernel-goes-open-source/)
 
-id:   29166
-
 

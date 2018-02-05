@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2014/10/photos-day-space-telescope-survives-deep-freeze-test)
 
-id:   57166
-
 

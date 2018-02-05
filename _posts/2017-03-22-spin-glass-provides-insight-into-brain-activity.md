@@ -16,6 +16,4 @@ tags: [Memory, Neurotransmitter, Brain, Synapse, Inhibitory postsynaptic potenti
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/mar/22/spin-glass-provides-insight-into-brain-activity)
 
-id:  376654
-
 

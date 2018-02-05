@@ -4,7 +4,7 @@ title: "NASA's OSIRIS-REx mission will have a map for that"
 date: 2016-05-25 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [OSIRIS-REx, 101955 Bennu, Space exploration, Space science, Astronautics, Space colonization, Planetary science, Space technology, Flight, Solar System, Spaceflight, Astronomy, Spacecraft, Outer space, Spaceflight technologies]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/nsfc-nom052516.php)
-
-id:  288713
 
 

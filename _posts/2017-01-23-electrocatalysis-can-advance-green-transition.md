@@ -16,6 +16,4 @@ tags: [Catalysis, Renewable energy, Fuel, Water, Hydrogen, Solar energy, Energy 
 
 [Visit Link](https://phys.org/news/2017-01-electrocatalysis-advance-green-transition.html)
 
-id:  359061
-
 

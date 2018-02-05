@@ -16,6 +16,4 @@ tags: [Copernicus Programme, Atmosphere of Earth, Meteorology, Nature, Earth sci
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2017/10/Sentinel-5P_prepared_for_liftoff)
 
-id:  448149
-
 

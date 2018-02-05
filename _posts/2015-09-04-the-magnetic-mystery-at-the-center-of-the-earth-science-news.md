@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEgZvWrYZ5sDPwrwi-0KtSYKmKXOg&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=90zqVeiBAsvH3gGm1qJY&url=https://www.sciencenews.org/article/magnetic-mystery-center-earth)
 
-id:  179919
-
 

@@ -16,6 +16,4 @@ tags: [Ageing, Artificial intelligence, Senescence, Insilico Medicine, Deep lear
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/imi-aif080117.php)
 
-id:  415140
-
 

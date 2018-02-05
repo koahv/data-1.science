@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/-ye7wSYGBTo/the-great-attractor-exists-within-an-immense-supercluster-of-100000-galaxies.html)
 
-id:   95342
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/articles/2015/06/spacecraft-week-odyssey)
 
-id:  145441
-
 

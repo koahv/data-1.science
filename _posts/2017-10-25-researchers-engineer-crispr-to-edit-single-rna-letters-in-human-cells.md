@@ -16,6 +16,4 @@ tags: [RNA, Genome editing, Mutation, CRISPR, Biology, Life sciences, Genetics, 
 
 [Visit Link](http://news.mit.edu/2017/researchers-engineer-crispr-edit-single-rna-letters-human-cells-1015)
 
-id:  444820
-
 

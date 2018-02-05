@@ -16,6 +16,4 @@ tags: [Nanotechnology, Chemistry, Applied and interdisciplinary physics, Science
 
 [Visit Link](https://phys.org/news/2017-10-discuss-future-impact-today-nanotech.html)
 
-id:  437613
-
 

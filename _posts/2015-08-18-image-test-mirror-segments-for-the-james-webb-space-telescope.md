@@ -16,6 +16,4 @@ tags: [space exploration]
 
 [Visit Link](http://phys.org/news/2015-08-image-mirror-segments-james-webb.html)
 
-id:  170831
-
 

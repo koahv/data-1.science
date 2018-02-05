@@ -16,6 +16,4 @@ tags: [earth science, environment, research]
 
 [Visit Link](https://www.siliconrepublic.com/earth-science/2015/09/03/how-many-trees-are-in-the-world)
 
-id:  179037
-
 

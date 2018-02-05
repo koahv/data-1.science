@@ -16,6 +16,4 @@ tags: [Cetacea, Dolphin, Brain, Evolution, Species, Primate, American Associatio
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uom-wad101217.php)
 
-id:  439625
-
 

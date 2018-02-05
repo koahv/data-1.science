@@ -16,6 +16,4 @@ tags: [Quantum computing, Quantum annealing, Information Sciences Institute, Uni
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-06/uosc-utl062617.php)
 
-id:  404354
-
 

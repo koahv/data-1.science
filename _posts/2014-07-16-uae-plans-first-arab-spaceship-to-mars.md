@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2014/07/uae-plans-first-arab-spaceship-mars)
 
-id:   21699
-
 

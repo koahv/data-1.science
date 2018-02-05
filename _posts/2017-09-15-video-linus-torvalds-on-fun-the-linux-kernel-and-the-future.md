@@ -16,6 +16,4 @@ tags: [Linux kernel, Linus Torvalds, Linux, Computing, Finnish computer programm
 
 [Visit Link](https://www.linux.com/blog/event/os-summit-la/2017/7/linus-torvalds-fun-linux-kernel-and-future)
 
-id:  427907
-
 

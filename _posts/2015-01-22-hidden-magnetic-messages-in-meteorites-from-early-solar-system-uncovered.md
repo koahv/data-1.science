@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/EzwatCOQg4c/hidden-magnetic-messages-in-meteorites-from-early-solar-system-uncovered.html)
 
-id:   73791
-
 

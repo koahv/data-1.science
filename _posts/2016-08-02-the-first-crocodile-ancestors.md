@@ -4,7 +4,7 @@ title: "The first crocodile ancestors"
 date: 2016-08-02 12:50:02
 categories: Science
 author: unknown author
-tags: [archaeology & fossils]
+tags: [Archosaur, Dinosaur, Crocodilia, Crocodylomorpha, Organisms]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [archaeology & fossils]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-08-crocodile-ancestors.html)
-
-id:  310445
 
 

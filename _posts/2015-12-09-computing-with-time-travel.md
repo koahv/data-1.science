@@ -16,6 +16,4 @@ tags: [quantum physics]
 
 [Visit Link](http://phys.org/news/2015-12-computing-with-time-travel.html)
 
-id:  222315
-
 

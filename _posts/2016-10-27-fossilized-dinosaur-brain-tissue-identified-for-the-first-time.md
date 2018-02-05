@@ -4,7 +4,7 @@ title: "Fossilized dinosaur brain tissue identified for the first time"
 date: 2016-10-27 17:00:01
 categories: Science
 author: unknown author
-tags: [archaeology & fossils, Dinosaur, Fossil, Paleontology, Brain, Meninges, Skull, Blood vessel, Biology]
+tags: [Dinosaur, Fossil, Paleontology, Brain, Meninges, Skull, Blood vessel, Biology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [archaeology & fossils, Dinosaur, Fossil, Paleontology, Brain, Meninges, S
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-10-fossilized-dinosaur-brain-tissue.html)
-
-id:  335950
 
 

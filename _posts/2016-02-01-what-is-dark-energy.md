@@ -16,6 +16,4 @@ tags: [astronomy]
 
 [Visit Link](http://phys.org/news/2016-02-dark-energy.html)
 
-id:  243943
-
 

@@ -16,6 +16,4 @@ tags: [Moon, Apollo program, Exploration of the Moon, European Space Agency, Lan
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/First_steps_returning_humanity_to_the_Moon)
 
-id:  430893
-
 

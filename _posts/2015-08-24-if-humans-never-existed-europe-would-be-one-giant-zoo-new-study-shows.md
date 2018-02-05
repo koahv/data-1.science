@@ -16,6 +16,4 @@ tags: [earth science, biodiversity, denmark, research]
 
 [Visit Link](https://www.siliconrepublic.com/earth-science/2015/08/24/if-humans-never-existed-europe)
 
-id:  174341
-
 

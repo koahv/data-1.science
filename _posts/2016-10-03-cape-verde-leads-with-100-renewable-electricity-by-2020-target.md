@@ -4,7 +4,7 @@ title: "Cape Verde Leads With 100% Renewable Electricity By 2020 Target"
 date: 2016-10-03 13:45:13
 categories: Energy
 author: Steve Hanley
-tags: [clean power, consumer technology, green economy, green jobs, policy & politics, renewable energy standards, solar energy, wind energy, 100% renewable energy, africa, africa solar energy, cape verde, Renewable energy, Wind power, Physical universe, Nature, Sustainable development, Sustainable energy, Alternative energy, Renewable resources, Energy, Sustainable technologies, Natural resources, Artificial objects, Energy sources, Economic development]
+tags: [Renewable energy, Wind power, Physical universe, Nature, Sustainable development, Energy, Sustainable energy, Alternative energy, Renewable resources, Sustainable technologies, Natural resources]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [clean power, consumer technology, green economy, green jobs, policy & pol
 >factsheet unavailable
 
 [Visit Link](http://cleantechnica.com/2016/10/03/cape-verde-leads-100-renewable-electricity-2020-target/)
-
-id:  328612
 
 

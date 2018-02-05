@@ -16,6 +16,4 @@ tags: [Artificial intelligence, Deep learning, Artificial neural network, Machin
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/uota-tfo080217.php)
 
-id:  416092
-
 

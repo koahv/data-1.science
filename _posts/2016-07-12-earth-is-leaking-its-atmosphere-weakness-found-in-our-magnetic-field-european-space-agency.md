@@ -4,7 +4,7 @@ title: "Earth is Leaking Its Atmosphere --"Weakness Found in Our Magnetic Field"
 date: 2016-07-12 12:26:08
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Magnetosphere, Solar wind, Earth, Sun, Magnetopause, Magnetic reconnection, Planet, Atmosphere of Earth, Plasma (physics), Mars, Wind, Space science, Astronomy, Physics, Applied and interdisciplinary physics, Planetary science, Phases of matter, Transparent materials, Solar System, Nature, Outer space, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/07/-earth-is-losing-its-atmosphere-weakness-found-in-our-magnetic-field-european-space-agency.html)
-
-id:  303340
 
 

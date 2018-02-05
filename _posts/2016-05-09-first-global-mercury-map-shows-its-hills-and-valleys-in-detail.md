@@ -4,7 +4,7 @@ title: "First global Mercury map shows its hills and valleys in detail"
 date: 2016-05-09 11:51:17
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Mercury (planet), Planetary science, Outer space, Solar System, Space science, Spaceflight, Astronomy, Bodies of the Solar System, Space exploration, Geography, Planets, Earth sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.newscientist.com/article/2087347-first-global-mercury-map-shows-its-hills-and-valleys-in-detail/)
-
-id:  282540
 
 

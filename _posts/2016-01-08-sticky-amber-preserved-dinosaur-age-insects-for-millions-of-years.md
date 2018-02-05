@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/53311-cretaceous-mantis-amber.html)
 
-id:  233689
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/fqZCz0vLTPQ/jupiters-ganymede-hubble-reveals-an-ocean-100-kilometers-thick-buried-under-a-150-kilometer-crust-of.html)
 
-id:   94676
-
 

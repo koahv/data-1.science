@@ -16,6 +16,4 @@ tags: [news, solar system]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/extreme-volcanoes-on-io-08122014/)
 
-id:   37230
-
 

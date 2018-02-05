@@ -16,6 +16,4 @@ tags: [Laser Interferometer Space Antenna, Gravity, Spaceflight, Planetary scien
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Gravitational_wave_mission_selected_planet-hunting_mission_moves_forward)
 
-id:  402568
-
 

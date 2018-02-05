@@ -16,6 +16,4 @@ tags: [sci-tech]
 
 [Visit Link](http://www.thehindu.com/sci-tech/jurassic-period-saw-fastest-mammal-evolution/article7443906.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-id:  157528
-
 

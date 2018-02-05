@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEQxBIh-huCiVOGjM_hH3fmVcsILg&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778832321000&ei=KeZOVaDgFIKT3gGcwYGQBg&url=http://www.designntrend.com/articles/50443/20150509/magnetic-field-mercury-formed-4-billion-years-ago-same-time.htm)
 
-id:  121013
-
 

@@ -16,6 +16,4 @@ tags: [Oak Ridge National Laboratory, Office of Science, United States Departmen
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/drnl-sln101617.php)
 
-id:  439833
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/FnQiMu_FP2I/laser-light-may-reveal-presence-of-an-alien-technological-civilization-weekend-feature.html)
 
-id:     517
-
 

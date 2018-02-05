@@ -16,6 +16,4 @@ tags: [Virus, Retrovirus, Organism, Evolution, Nature, Life sciences, Organisms,
 
 [Visit Link](https://phys.org/news/2017-03-prehistoric-ancestor-leukaemia-virus.html)
 
-id:  371758
-
 

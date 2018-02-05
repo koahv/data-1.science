@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Cassini-Huygens/Hot_water_activity_on_icy_moon_s_seafloor)
 
-id:   94178
-
 

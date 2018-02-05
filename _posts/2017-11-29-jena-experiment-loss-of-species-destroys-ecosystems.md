@@ -16,6 +16,4 @@ tags: [Biodiversity, Ecosystem, Ecology, Soil, Experiment, Biology, Natural envi
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/tuom-jel112817.php)
 
-id:  460397
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.engadget.com/2015/06/16/lightsail-mission-ends/?ncid=rss_truncated)
 
-id:  140037
-
 

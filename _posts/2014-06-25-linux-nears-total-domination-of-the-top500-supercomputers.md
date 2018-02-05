@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/enterprise/high-performance/147-high-performance/778179--linux-nears-total-domination-of-the-top500-supercomputers/)
 
-id:    6474
-
 

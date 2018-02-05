@@ -16,6 +16,4 @@ tags: [Large Hadron Collider, Quark–gluon plasma, Particle accelerator, Proton
 
 [Visit Link](https://phys.org/news/2017-10-day-lhc-collides-xenon.html)
 
-id:  438777
-
 

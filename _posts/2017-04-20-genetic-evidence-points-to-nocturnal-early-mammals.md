@@ -16,6 +16,4 @@ tags: [Evolution, Mammal, Reptile, Nocturnality, American Association for the Ad
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/su-gep042017.php)
 
-id:  385491
-
 

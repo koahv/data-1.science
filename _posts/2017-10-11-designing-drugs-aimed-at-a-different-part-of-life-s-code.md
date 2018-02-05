@@ -16,6 +16,4 @@ tags: [RNA, Protein, Protein–protein interaction, Biology, Chemistry, Life sci
 
 [Visit Link](https://phys.org/news/2017-10-drugs-aimed-life-code.html)
 
-id:  437579
-
 

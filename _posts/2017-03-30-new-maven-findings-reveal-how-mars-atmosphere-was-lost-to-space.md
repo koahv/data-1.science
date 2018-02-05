@@ -16,6 +16,4 @@ tags: [MAVEN, Atmosphere, Mars, Sun, Outer space, Planetary science, Nature, Spa
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/uoca-nmf032917.php)
 
-id:  379262
-
 

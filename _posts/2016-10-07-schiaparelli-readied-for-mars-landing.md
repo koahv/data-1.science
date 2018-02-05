@@ -4,7 +4,7 @@ title: "Schiaparelli readied for Mars landing"
 date: 2016-10-07 07:50:00
 categories: Astronomy
 author: unknown author
-tags: [Schiaparelli EDM lander, Aerospace engineering, Unmanned spacecraft, Scientific exploration, Solar System, Space-based economy, Space missions, Space science, Space probes, Aerospace, Discovery and exploration of the Solar System, Missions to the planets, Spaceflight, Space exploration, Outer space, Spacecraft, Space colonization, Astronautics, Space technology, Flight, Spaceflight technologies, Space agencies, Space robots, Mars, Space industry, Exploration of Mars, Astronomy, Aerospace agencies, Missions to Mars, Space programs, NASA]
+tags: [Schiaparelli EDM lander, Space agencies, Mars, Missions to the planets, Unmanned spacecraft, Scientific exploration, Solar System, Space-based economy, Space missions, Space science, Space probes, Spaceflight, Space exploration, Outer space, Spacecraft, Space colonization, Astronautics, Space technology, Flight, Spaceflight technologies, Aerospace engineering, Discovery and exploration of the Solar System, Aerospace, Space industry, Exploration of Mars, Astronomy, Space robots]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Schiaparelli EDM lander, Aerospace engineering, Unmanned spacecraft, Scie
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/Our_Activities/Operations/Schiaparelli_readied_for_Mars_landing)
-
-id:  330175
 
 

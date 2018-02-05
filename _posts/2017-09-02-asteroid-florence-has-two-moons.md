@@ -16,6 +16,4 @@ tags: [Asteroid, Moon, Near-Earth object, Natural satellite, 3122 Florence, Bodi
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/asteroid-florence-has-two-moons/)
 
-id:  425201
-
 

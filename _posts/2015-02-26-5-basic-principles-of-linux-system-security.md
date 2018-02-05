@@ -16,6 +16,4 @@ tags: [hardening, secure, basics, principles, security]
 
 [Visit Link](http://linux-audit.com/5-basic-principles-of-linux-system-security/)
 
-id:  205852
-
 

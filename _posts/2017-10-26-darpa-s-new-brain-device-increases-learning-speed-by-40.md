@@ -16,6 +16,4 @@ tags: [Transcranial direct-current stimulation, Executive functions, Brain, neur
 
 [Visit Link](https://futurism.com/darpas-new-brain-device-increases-learning-speed-by-40/)
 
-id:  445420
-
 

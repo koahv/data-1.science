@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/d71Y8SB-0do/something-is-amiss-with-light-in-the-universe-photons-may-be-coming-from-some-exotic-unknown-source-1.html)
 
-id:   15901
-
 

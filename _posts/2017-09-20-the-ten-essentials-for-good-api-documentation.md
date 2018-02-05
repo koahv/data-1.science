@@ -16,6 +16,4 @@ tags: [Application programming interface, Software, Computers, Technology, Softw
 
 [Visit Link](https://www.linux.com/news/ten-essentials-good-api-documentation)
 
-id:  430786
-
 

@@ -16,6 +16,4 @@ tags: [Chemical reaction, Chemical substance, Catalysis, Molecule, Organic chemi
 
 [Visit Link](https://phys.org/news/2017-06-machine-approach-aid-industrial-drug.html)
 
-id:  404545
-
 

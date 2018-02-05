@@ -16,6 +16,4 @@ tags: [Swarm (spacecraft), Earth, Geophysics, Satellite, Physical sciences, Oute
 
 [Visit Link](https://phys.org/news/2017-04-geophysicists-high-res-earth-magnetic-field.html)
 
-id:  383673
-
 

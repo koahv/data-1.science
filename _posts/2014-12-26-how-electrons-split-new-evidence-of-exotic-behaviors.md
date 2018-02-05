@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.spacedaily.com/reports/How_electrons_split_New_evidence_of_exotic_behaviors_999.html)
 
-id:   69699
-
 

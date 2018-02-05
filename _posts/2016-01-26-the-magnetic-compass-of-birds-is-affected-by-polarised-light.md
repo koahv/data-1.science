@@ -16,6 +16,4 @@ tags: [plants & animals]
 
 [Visit Link](http://phys.org/news/2016-01-magnetic-compass-birds-affected-polarised.html)
 
-id:  241309
-
 

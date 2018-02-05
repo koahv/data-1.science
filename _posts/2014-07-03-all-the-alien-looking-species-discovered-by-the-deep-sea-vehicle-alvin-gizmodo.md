@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGty22upJwQaq0yNs0SoChxpJsByg&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=D8q1U-HcKsiXgQfWkICgCA&url=http://gizmodo.com/check-out-all-the-alien-species-deap-sea-vehicle-alvin-1599806486)
 
-id:   13179
-
 

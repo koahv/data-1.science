@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/bu-cfg042216.php)
 
-id:  277861
-
 

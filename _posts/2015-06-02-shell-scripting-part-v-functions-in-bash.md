@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/learn/tutorials/833418-shell-scripting-part-v-functions-in-bash/)
 
-id:  132590
-
 

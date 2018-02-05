@@ -16,6 +16,4 @@ tags: [Human Frontier Science Program, Neanderthal, Denisovan, Biology, Life sci
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/hfsp-spt101917.php)
 
-id:  441397
-
 

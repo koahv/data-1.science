@@ -16,6 +16,4 @@ tags: [Evolution, Protein, Molecular evolution, Genetics, Mutation, Biotechnolog
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoca-sdn101917.php)
 
-id:  443341
-
 

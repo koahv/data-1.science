@@ -4,7 +4,7 @@ title: "What's so sexy about math? | Cédric Villani"
 date: 2016-06-06 15:15:26
 categories: Interest
 author: Cédric Villani
-tags: [higher education]
+tags: [Computing, Cyberspace, Technology, Communication]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [higher education]
 >factsheet unavailable
 
 [Visit Link](http://www.ted.com/talks/cedric_villani_what_s_so_sexy_about_math)
-
-id:  291921
 
 

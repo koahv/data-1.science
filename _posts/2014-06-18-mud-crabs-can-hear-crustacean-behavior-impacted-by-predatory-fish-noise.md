@@ -16,6 +16,4 @@ tags: [nature & environment]
 
 [Visit Link](http://www.scienceworldreport.com/articles/15509/20140618/mud-crabs-hear-crustacean-behavior-impacted-predatory-fish-noise.htm)
 
-id:    1695
-
 

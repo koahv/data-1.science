@@ -16,6 +16,4 @@ tags: [American Association for the Advancement of Science, Life sciences, Biolo
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/aaft-nna100217.php)
 
-id:  435769
-
 

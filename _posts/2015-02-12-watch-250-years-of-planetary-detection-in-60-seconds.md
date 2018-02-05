@@ -16,6 +16,4 @@ tags: [alien stars and exoplanets, missions, alien life, alien planets, exoplane
 
 [Visit Link](http://www.fromquarkstoquasars.com/watch-250-years-planetary-detection-60-seconds/)
 
-id:   81889
-
 

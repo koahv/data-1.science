@@ -4,7 +4,7 @@ title: "10 open source task management and time tracking applications for Androi
 date: 2017-01-05 08:03:00
 categories: Open Source
 author: holmja
-tags: [Mobile app, Time management, F-Droid, Communication, Software, Digital media, Computing, Technology, Cyberspace, Digital technology]
+tags: [Time management, Mobile app, F-Droid, Digital media, Software, Technology, Computing, Communication, Cyberspace]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Mobile app, Time management, F-Droid, Communication, Software, Digital me
 >factsheet unavailable
 
 [Visit Link](https://opensource.com/article/17/1/task-management-time-tracking-android)
-
-id:  354295
 
 

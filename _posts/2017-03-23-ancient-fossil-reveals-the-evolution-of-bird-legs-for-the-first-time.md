@@ -16,6 +16,4 @@ tags: [Dinosaur, Bird, Fossil, Paleontology, Organisms, Biology]
 
 [Visit Link](https://phys.org/news/2017-03-ancient-fossil-reveals-evolution-bird.html)
 
-id:  376856
-
 

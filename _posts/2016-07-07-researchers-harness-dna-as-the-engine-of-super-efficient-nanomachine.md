@@ -4,7 +4,7 @@ title: "Researchers harness DNA as the engine of super-efficient nanomachine"
 date: 2016-07-07 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [DNA, Virus, Bacteria, Artificial objects, Biology, Life sciences, Organisms, Chemistry, Biotechnology, Genetics, Molecular biology, Biochemistry]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/mu-rhd070616.php)
-
-id:  302300
 
 

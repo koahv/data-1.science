@@ -16,6 +16,4 @@ tags: [Dark matter, Universe, Milky Way, Astrophysics, Dark energy, Matter, Obse
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2017/06/-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies.html)
 
-id:  399823
-
 

@@ -16,6 +16,4 @@ tags: [earth sciences]
 
 [Visit Link](http://phys.org/news/2015-09-ct-scan-earth-links-deep.html)
 
-id:  178508
-
 

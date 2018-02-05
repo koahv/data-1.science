@@ -4,7 +4,7 @@ title: "The Current State of Machine Intelligence 3.0"
 date: 2017-01-09 09:00:00
 categories: Linux
 author: O''Reilly
-tags: [Artificial intelligence, Computing, Technology, Areas of computer science, Software, Computer science, Cognition, Cognitive science]
+tags: [Artificial intelligence, Computing, Technology, Areas of computer science, Software]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Artificial intelligence, Computing, Technology, Areas of computer science
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/current-state-machine-intelligence-30)
-
-id:  355125
 
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.engadget.com/2015/05/13/gravity-wave-atmospheric-model/?ncid=rss_truncated)
 
-id:  122595
-
 

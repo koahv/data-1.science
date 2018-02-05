@@ -4,7 +4,7 @@ title: "Light-matter interplay probed: Physicists achieve quantum Hall state wit
 date: 2016-06-13 18:47:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Quantum mechanics, Electron, Light, Photon, Physics, Matter, Wave–particle duality, Quantum Hall effect, Superconductivity, Laser, Mechanics, Particle physics, Theoretical physics, Physical sciences, Solid state engineering, Applied and interdisciplinary physics, Condensed matter physics, Modern physics, Materials science, Scientific theories, Chemistry, Science, Force, Condensed matter, Natural philosophy]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2016/06/160613144700.htm)
-
-id:  294355
 
 

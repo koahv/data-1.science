@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/12/the-catalyst-that-triggered-the-evolution-of-complex-life-on-earth.html)
 
-id:  218486
-
 

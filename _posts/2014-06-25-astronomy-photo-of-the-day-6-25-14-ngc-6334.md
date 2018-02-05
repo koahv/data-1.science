@@ -16,6 +16,4 @@ tags: [astronomy photos, apod, apotd, cats paw nebula, extremely wide-field infr
 
 [Visit Link](http://www.fromquarkstoquasars.com/apotd-ngc-6334/)
 
-id:    7485
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Linux-4.10-EOY2016-Stats)
 
-id:  352365
-
 

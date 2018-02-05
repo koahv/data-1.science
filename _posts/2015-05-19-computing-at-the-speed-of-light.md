@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.spacedaily.com/reports/Computing_at_the_speed_of_light_999.html)
 
-id:  125154
-
 

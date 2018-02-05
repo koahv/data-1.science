@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/spaceinvideos/Videos/2015/06/Sentinel-2A_liftoff)
 
-id:  143592
-
 

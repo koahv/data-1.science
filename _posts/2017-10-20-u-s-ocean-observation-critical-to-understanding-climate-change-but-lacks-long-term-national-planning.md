@@ -16,6 +16,4 @@ tags: [Climate, Climate change, Ocean, Weather forecasting, National Oceanic and
 
 [Visit Link](https://phys.org/news/2017-10-ocean-critical-climate-lacks-long-term.html)
 
-id:  442225
-
 

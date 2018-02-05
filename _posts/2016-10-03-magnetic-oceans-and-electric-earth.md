@@ -4,7 +4,7 @@ title: "Magnetic oceans and electric Earth"
 date: 2016-10-03 16:30:00
 categories: Astronomy
 author: unknown author
-tags: [Plate tectonics, Lithosphere, Earth, Swarm (spacecraft), Structure of the Earth, Geology, Physical sciences, Planetary science, Nature, Space science, Outer space, Earth sciences, Astronomy, Applied and interdisciplinary physics, Magnetic field, Mantle (geology), Asthenosphere, Ocean, Sun]
+tags: [Plate tectonics, Lithosphere, Earth, Swarm (spacecraft), Structure of the Earth, Physical sciences, Geology, Earth sciences, Applied and interdisciplinary physics, Astronomy, Outer space, Space science, Planetary science, Nature]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Plate tectonics, Lithosphere, Earth, Swarm (spacecraft), Structure of the
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Swarm/Magnetic_oceans_and_electric_Earth)
-
-id:  328778
 
 

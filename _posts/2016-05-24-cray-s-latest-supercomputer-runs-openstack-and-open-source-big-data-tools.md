@@ -4,7 +4,7 @@ title: "Cray’s Latest Supercomputer Runs OpenStack and Open Source Big Data To
 date: 2016-05-24 13:48:19
 categories: Linux
 author: TechCrunch
-tags: []
+tags: [Cray, Computing, Supercomputer, Cloud computing, Software, Areas of computer science, Digital technology, Computer engineering, Computer architecture, Technology, Computers]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/crays-latest-supercomputer-runs-openstack-and-open-source-big-data-tools)
-
-id:  287999
 
 

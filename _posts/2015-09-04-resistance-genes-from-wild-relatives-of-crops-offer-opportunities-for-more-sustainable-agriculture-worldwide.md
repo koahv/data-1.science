@@ -16,6 +16,4 @@ tags: [biotechnology]
 
 [Visit Link](http://phys.org/news/2015-09-resistance-genes-wild-relatives-crops.html)
 
-id:  179534
-
 

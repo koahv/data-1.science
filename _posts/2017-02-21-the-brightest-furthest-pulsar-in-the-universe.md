@@ -16,6 +16,4 @@ tags: [Neutron star, Star, Pulsar, Physics, Stellar astronomy, Nature, Applied a
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/The_brightest_furthest_pulsar_in_the_Universe)
 
-id:  367455
-
 

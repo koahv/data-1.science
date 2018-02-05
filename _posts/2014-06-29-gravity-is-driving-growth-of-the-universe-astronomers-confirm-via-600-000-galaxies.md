@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/nByanUUk9ZU/observation-of-600000-galaxies-confirms-gravity-as-driving-growth-of-the-universe.html)
 
-id:    9523
-
 

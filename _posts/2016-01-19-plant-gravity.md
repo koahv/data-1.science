@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Images/2016/01/Plant_gravity)
 
-id:  238551
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/12/scientists-identify-fragments-of-proteins-that-existed-35-billion-years-ago.html)
 
-id:  230367
-
 

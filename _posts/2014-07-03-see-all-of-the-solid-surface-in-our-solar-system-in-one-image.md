@@ -16,6 +16,4 @@ tags: [infographics, solar system, how planets form, illustration, map, randall 
 
 [Visit Link](http://www.fromquarkstoquasars.com/see-all-of-the-solid-surface-in-our-solar-system-in-one-image/)
 
-id:   12741
-
 

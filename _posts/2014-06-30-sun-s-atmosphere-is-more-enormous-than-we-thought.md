@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feeds.sciencealert.com.au/~r/sciencealert-latestnews/~3/UIY_bXCuRZc/20143006-25777.html)
 
-id:    9700
-
 

@@ -16,6 +16,4 @@ tags: [Flower, Pollinator, Bee, Foraging, Nectar, Bumblebee, Hummingbird, Worces
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/wpi-bvb041917.php)
 
-id:  385020
-
 

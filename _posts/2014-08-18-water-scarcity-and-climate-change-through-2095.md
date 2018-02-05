@@ -16,6 +16,4 @@ tags: [earth]
 
 [Visit Link](http://phys.org/news327560165.html)
 
-id:   40547
-
 

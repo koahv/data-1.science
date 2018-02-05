@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2014/10/nanoparticles-break-symmetry-light)
 
-id:   53225
-
 

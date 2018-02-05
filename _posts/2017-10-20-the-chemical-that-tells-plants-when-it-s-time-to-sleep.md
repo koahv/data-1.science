@@ -16,6 +16,4 @@ tags: [Circadian rhythm, Ethylene, Circadian clock, Biology, Organisms]
 
 [Visit Link](https://phys.org/news/2017-10-chemical.html)
 
-id:  441992
-
 

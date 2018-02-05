@@ -16,6 +16,4 @@ tags: [Light, Quantum mechanics, Photon, Physics, Wave–particle duality, Wave,
 
 [Visit Link](https://www.livescience.com/60777-testing-quantum-mechanics-in-space.html)
 
-id:  444984
-
 

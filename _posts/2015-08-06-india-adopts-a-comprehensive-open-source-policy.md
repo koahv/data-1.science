@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://opensource.com/government/15/8/india-adopts-open-source-policy)
 
-id:  165504
-
 

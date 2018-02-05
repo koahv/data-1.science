@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2016/03/nasa-telescope-delivers-first-temperature-readings-super-earth)
 
-id:  268666
-
 

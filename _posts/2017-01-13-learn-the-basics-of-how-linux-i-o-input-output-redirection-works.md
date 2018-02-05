@@ -4,7 +4,7 @@ title: "Learn The Basics of How Linux I/O (Input/Output) Redirection Works"
 date: 2017-01-13 07:01:33
 categories: Linux
 author: Aaron Kili
-tags: [linux commands, linux tricks, Redirection (computing), Standard streams, Pipeline (Unix), Computer engineering, Information technology management, Utility software, Digital media, Digital technology, Operating system technology, Computing, Software, System software, Computer architecture, Areas of computer science, Unix, Computers]
+tags: [Redirection (computing), Standard streams, Pipeline (Unix), Operating system technology, Computing, Software, System software, Computer architecture, Areas of computer science, Computers, Unix, Computer engineering, Digital technology, Digital media, Information technology management, Utility software]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [linux commands, linux tricks, Redirection (computing), Standard streams, 
 >factsheet unavailable
 
 [Visit Link](http://www.tecmint.com/linux-io-input-output-redirection-operators/)
-
-id:  356595
 
 

@@ -16,6 +16,4 @@ tags: [Music, Vibrato, Violin, Resonance, Erhu, Signal, Science, Molecule, Ameri
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/qmuo-qpo031317.php)
 
-id:  374233
-
 

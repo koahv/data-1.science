@@ -16,6 +16,4 @@ tags: [Embedded system, Internet of things, Gateway (telecommunications), Linux,
 
 [Visit Link](https://opensource.com/article/17/3/embedded-linux-iot-ecosystem)
 
-id:  370230
-
 

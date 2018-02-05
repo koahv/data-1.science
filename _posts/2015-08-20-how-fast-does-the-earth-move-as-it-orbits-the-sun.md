@@ -16,6 +16,4 @@ tags: [science, geometry, math, moon, space, sun]
 
 [Visit Link](http://www.fromquarkstoquasars.com/how-fast-does-the-earth-move-as-it-orbits-the-sun/)
 
-id:  171934
-
 

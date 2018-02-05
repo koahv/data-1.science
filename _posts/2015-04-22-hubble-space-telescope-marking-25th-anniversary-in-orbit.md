@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/04/hubble-space-telescope-marking-25th-anniversary-orbit)
 
-id:  112791
-
 

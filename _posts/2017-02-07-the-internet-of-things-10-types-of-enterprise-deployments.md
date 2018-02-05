@@ -16,6 +16,4 @@ tags: [Internet of things, Areas of computer science, Business, Cyberspace, Comp
 
 [Visit Link](https://www.linux.com/news/internet-things-10-types-enterprise-deployments)
 
-id:  363633
-
 

@@ -4,7 +4,7 @@ title: "Ocean oxygen is key to animal evolution"
 date: 2016-09-23 12:57:54
 categories: Science
 author: unknown author
-tags: [earth sciences]
+tags: [Ice age, Earth, Oxygen, Climate change, Natural environment, Physical geography, Nature, Earth sciences, Physical sciences, Global natural environment]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [earth sciences]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-09-ocean-oxygen-key-animal-evolution.html)
-
-id:  326257
 
 

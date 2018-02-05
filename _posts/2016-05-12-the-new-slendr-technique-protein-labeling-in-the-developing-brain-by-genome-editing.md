@@ -4,7 +4,7 @@ title: "The new SLENDR technique: Protein labeling in the developing brain by ge
 date: 2016-05-12 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [CRISPR, Gene, Cas9, DNA, Homology directed repair, Cell (biology), Non-homologous end joining, Life sciences, Biochemistry, Molecular biology, Genetics, Organisms, Biotechnology, Biology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/mpfi-tns051116.php)
-
-id:  284123
 
 

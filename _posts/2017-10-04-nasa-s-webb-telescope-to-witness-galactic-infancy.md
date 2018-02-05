@@ -16,6 +16,4 @@ tags: [Hubble Space Telescope, James Webb Space Telescope, Spitzer Space Telesco
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/nsfc-nwt100417.php)
 
-id:  434981
-
 

@@ -16,6 +16,4 @@ tags: [Phobos (moon), Deimos (moon), Mars, Moons of Mars, Moon, Spaceflight, Pla
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/nsfc-nhs072017.php)
 
-id:  411830
-
 

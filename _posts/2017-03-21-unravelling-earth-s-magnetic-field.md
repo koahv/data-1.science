@@ -16,6 +16,4 @@ tags: [Plate tectonics, Earth, Crust (geology), Geomagnetic reversal, Space scie
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Swarm/Unravelling_Earth_s_magnetic_field)
 
-id:  376014
-
 

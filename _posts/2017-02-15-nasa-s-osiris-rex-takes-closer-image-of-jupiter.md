@@ -16,6 +16,4 @@ tags: [OSIRIS-REx, Spacecraft, Space technology, Bodies of the Solar System, Ast
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/nsfc-not021517.php)
 
-id:  365981
-
 

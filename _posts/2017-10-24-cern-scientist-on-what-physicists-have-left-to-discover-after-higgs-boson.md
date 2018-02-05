@@ -16,6 +16,4 @@ tags: [Physics, Higgs boson, Particle physics, CERN, Standard Model, Modern phys
 
 [Visit Link](https://futurism.com/cern-scientist-on-life-after-the-higgs-boson/)
 
-id:  444080
-
 

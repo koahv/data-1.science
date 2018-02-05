@@ -16,6 +16,4 @@ tags: [Tree, Xylem, Science, Biology]
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/cu-fft101917.php)
 
-id:  443561
-
 

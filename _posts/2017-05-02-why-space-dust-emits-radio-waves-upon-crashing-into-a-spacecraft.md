@@ -16,6 +16,4 @@ tags: [Plasma (physics), Electromagnetic radiation, Physics, Electron, Particle-
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-05/aiop-wsd042717.php)
 
-id:  389042
-
 

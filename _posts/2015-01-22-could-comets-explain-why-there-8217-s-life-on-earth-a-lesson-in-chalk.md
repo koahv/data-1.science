@@ -16,6 +16,4 @@ tags: [inside the animators studio, animation, astronomy, comets, justin dowd, l
 
 [Visit Link](http://feedproxy.google.com/~r/TEDBlog/~3/5a24zPWL8Yw/)
 
-id:   75509
-
 

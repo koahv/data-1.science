@@ -16,6 +16,4 @@ tags: [Bacteria, Evolution, Mutation, Antibiotics, Gene, Organism, Antimicrobial
 
 [Visit Link](https://phys.org/news/2017-06-instantaneous-evolution-bacteria.html)
 
-id:  404167
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHITIOOmA2VTK56bTY11HMs47zotA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778786778251&ei=C5sVVfiuDY-K3AH3oIGgBA&url=http://nextbigfuture.com/2015/03/quantum-compuer-resistant-version-of.html)
 
-id:  101616
-
 

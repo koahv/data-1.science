@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/developer/command-line-arguments-in-linux-shell-scripting-150604214011.html)
 
-id:  134716
-
 

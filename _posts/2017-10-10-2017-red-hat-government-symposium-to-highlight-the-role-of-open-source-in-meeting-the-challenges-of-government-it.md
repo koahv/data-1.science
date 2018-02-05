@@ -16,6 +16,4 @@ tags: [Red Hat, Innovation, Cloud computing, Risk, Open-source software, Intelle
 
 [Visit Link](https://www.redhat.com/en/about/press-releases/2017-red-hat-government-symposium-highlight-role-open-source-meeting-challenges-government-it)
 
-id:  437015
-
 

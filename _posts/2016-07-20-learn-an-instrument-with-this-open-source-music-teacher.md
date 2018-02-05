@@ -4,7 +4,7 @@ title: "Learn an instrument with this open source music teacher"
 date: 2016-07-20 07:01:00
 categories: Open Source
 author: SeeLook
-tags: []
+tags: [Music, Test (assessment)]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://opensource.com/life/16/7/introducing-nootka)
-
-id:  306318
 
 

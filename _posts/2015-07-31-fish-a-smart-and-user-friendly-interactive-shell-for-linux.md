@@ -16,6 +16,4 @@ tags: [linux commands, fish shell]
 
 [Visit Link](http://www.tecmint.com/fish-a-smart-and-user-friendly-interactive-shell-for-linux/)
 
-id:  163063
-
 

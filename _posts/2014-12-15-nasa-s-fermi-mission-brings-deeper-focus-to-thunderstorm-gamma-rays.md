@@ -20,6 +20,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-12/nsfc-nfm121514.php)
 
-id:   64566
-
 

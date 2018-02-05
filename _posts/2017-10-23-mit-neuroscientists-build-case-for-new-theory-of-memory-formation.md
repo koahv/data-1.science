@@ -16,6 +16,4 @@ tags: [Memory, Engram (neuropsychology), Susumu Tonegawa, Encoding (memory), Hip
 
 [Visit Link](http://news.mit.edu/2017/neuroscientists-build-case-new-theory-memory-formation-1023)
 
-id:  443554
-
 

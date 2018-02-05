@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/wsu-wsr060815.php)
 
-id:  136117
-
 

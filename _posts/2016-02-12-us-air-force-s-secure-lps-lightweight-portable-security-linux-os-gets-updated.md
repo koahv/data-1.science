@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/software/applications/885271-us-air-forces-secure-lps-lightweight-portable-security-linux-os-gets-updated/)
 
-id:  249527
-
 

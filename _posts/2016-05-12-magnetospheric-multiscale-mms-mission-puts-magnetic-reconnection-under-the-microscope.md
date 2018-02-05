@@ -4,7 +4,7 @@ title: "Magnetospheric Multiscale (MMS) mission puts magnetic reconnection under
 date: 2016-05-12 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Magnetic reconnection, Plasma (physics), Magnetosphere, Solar wind, Sun, Electron, Outer space, Applied and interdisciplinary physics, Astronomy, Phases of matter, Astrophysics, Plasma physics, Physical universe, Transparent materials, Nature, Space science, Physical sciences, Physics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/sri-mm050916.php)
-
-id:  284148
 
 

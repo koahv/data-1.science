@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTcyNTM)
 
-id:    1501
-
 

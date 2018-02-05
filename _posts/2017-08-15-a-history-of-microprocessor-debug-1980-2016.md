@@ -16,6 +16,4 @@ tags: [Debugging, Software bug, Embedded system, Manufactured goods, Digital tec
 
 [Visit Link](https://www.linux.com/news/history-microprocessor-debug-1980-2016)
 
-id:  419376
-
 

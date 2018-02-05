@@ -4,7 +4,7 @@ title: "NASA moon data provides more accurate 2017 eclipse path"
 date: 2017-01-05 05:00:00
 categories: Astronomy
 author: unknown author
-tags: [Moon, Lunar Reconnaissance Orbiter, Solar eclipse, Eclipse, Shadow, Earth, STS-99, Map, Physical sciences, Geography, Outer space, Astronomy, Earth sciences, Planetary science, Solar System, Space science, Digital elevation model, NASA, Spaceflight, Topography, Bodies of the Solar System, Geodetic datum]
+tags: [Moon, Lunar Reconnaissance Orbiter, Solar eclipse, Eclipse, Shadow, Earth, STS-99, Map, Planetary science, Astronomy, Space science, Physical sciences, Solar System, Earth sciences, Geography, Outer space]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Moon, Lunar Reconnaissance Orbiter, Solar eclipse, Eclipse, Shadow, Earth
 >factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/nsfc-nmd010517.php)
-
-id:  354360
 
 

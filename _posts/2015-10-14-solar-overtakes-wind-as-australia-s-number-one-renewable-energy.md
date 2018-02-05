@@ -16,6 +16,4 @@ tags: [clean power, market research, research, solar energy, australia, globalda
 
 [Visit Link](http://cleantechnica.com/2015/10/14/solar-overtakes-wind-as-australias-number-one-renewable-energy/)
 
-id:  197720
-
 

@@ -16,6 +16,4 @@ tags: [Cas9, Gene, CRISPR, RNA, Protein, Genetics, Alpha-synuclein, Cell (biolog
 
 [Visit Link](https://phys.org/news/2017-10-technique-scours-genome-genes-combat.html)
 
-id:  438067
-
 

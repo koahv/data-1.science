@@ -16,6 +16,4 @@ tags: [Fusion power, Plasma (physics), Tokamak, Electron, Energy, Physics, Physi
 
 [Visit Link](https://phys.org/news/2017-10-machine-disruptions-reactors.html)
 
-id:  437557
-
 

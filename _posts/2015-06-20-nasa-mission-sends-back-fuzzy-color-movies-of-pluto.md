@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.engadget.com/2015/06/20/new-horizons-pluto-movie/?ncid=rss_truncated)
 
-id:  142422
-
 

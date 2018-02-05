@@ -16,6 +16,4 @@ tags: [astronomy]
 
 [Visit Link](http://phys.org/news/2015-07-ariel-mission-reveal-brave-worlds.html)
 
-id:  155879
-
 

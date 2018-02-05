@@ -16,6 +16,4 @@ tags: [astrophysics, quantum mechanics, big bang, cmbr, concentric circles, cosm
 
 [Visit Link](http://www.fromquarkstoquasars.com/4-anomalies-in-the-big-bang-afterglow/)
 
-id:   37932
-
 

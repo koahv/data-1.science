@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/ccvX1z03Uj0/the-higgs-paradox-quantum-level-discovery-fails-to-solve-large-scale-cosmic-mysteries.html)
 
-id:   12027
-
 

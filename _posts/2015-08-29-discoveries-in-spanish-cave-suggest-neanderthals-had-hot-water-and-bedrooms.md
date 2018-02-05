@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.ancient-origins.net/news-evolution-human-origins/discoveries-spanish-cave-suggest-neanderthals-had-hot-water-020505)
 
-id:  178213
-
 

@@ -16,6 +16,4 @@ tags: [Biology, Biological evolution, Evolutionary biology, Earth sciences, Natu
 
 [Visit Link](http://www.livescience.com/58808-earliest-fungus-like-fossils-found.html)
 
-id:  386565
-
 

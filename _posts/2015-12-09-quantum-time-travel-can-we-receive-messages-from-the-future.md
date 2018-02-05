@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/12/quantum-time-travel-can-we-receive-messages-from-the-future.html)
 
-id:  222348
-
 

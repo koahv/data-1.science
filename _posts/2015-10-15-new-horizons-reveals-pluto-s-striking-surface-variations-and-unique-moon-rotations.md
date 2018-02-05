@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/uom-nhr101415.php)
 
-id:  198601
-
 

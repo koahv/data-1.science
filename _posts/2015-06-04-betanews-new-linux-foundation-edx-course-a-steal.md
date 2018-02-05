@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxfoundation.org/news-media/news/2015/06/betanews-new-linux-foundation-edx-course-steal)
 
-id:  133951
-
 

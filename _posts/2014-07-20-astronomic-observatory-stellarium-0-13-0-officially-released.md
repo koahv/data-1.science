@@ -16,6 +16,4 @@ tags: [linux]
 
 [Visit Link](http://news.softpedia.com/news/Astronomic-Observatory-Stellarium-0-13-0-Officially-Released-451389.shtml)
 
-id:   23964
-
 

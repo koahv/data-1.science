@@ -16,6 +16,4 @@ tags: [ecology]
 
 [Visit Link](http://phys.org/news/2015-07-endangered-dragonflies-captivity.html)
 
-id:  156953
-
 

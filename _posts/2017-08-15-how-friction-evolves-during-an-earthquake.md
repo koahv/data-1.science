@@ -16,6 +16,4 @@ tags: [Earthquake, Friction, Simulation, Fault (geology), Experiment, Climate ch
 
 [Visit Link](https://phys.org/news/2017-08-friction-evolves-earthquake.html)
 
-id:  419520
-
 

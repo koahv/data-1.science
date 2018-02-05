@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Navigation/Galileo_satellites_set_for_year-long_Einstein_experiment)
 
-id:  208617
-
 

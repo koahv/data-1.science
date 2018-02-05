@@ -16,6 +16,4 @@ tags: [Particle physics, Physics, Higgs boson, Large Hadron Collider, Machine le
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/ciot-pba101817.php)
 
-id:  440981
-
 

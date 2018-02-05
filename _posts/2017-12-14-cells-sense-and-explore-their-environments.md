@@ -16,6 +16,4 @@ tags: [Cell (biology), Protein, Cancer, Extracellular matrix, Biology, Life scie
 
 [Visit Link](https://phys.org/news/2017-12-cells-explore-environments.html)
 
-id:  467173
-
 

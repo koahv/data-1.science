@@ -16,6 +16,4 @@ tags: [Magnetic reconnection, Magnetosphere, Sun, Goddard Space Flight Center, E
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-05/nsfc-nmu051817.php)
 
-id:  393738
-
 

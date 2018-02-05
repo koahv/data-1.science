@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/09/flickering-quasars-signal-colliding-supermassive-black-holes.html)
 
-id:  186000
-
 

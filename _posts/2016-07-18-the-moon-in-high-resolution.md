@@ -4,7 +4,7 @@ title: "The moon in High Resolution"
 date: 2016-07-18 07:34:37
 categories: Astronomy
 author: Houssem Ksontini
-tags: [online gallery, sun & moon pictures]
+tags: [Nikon, Astronomy, Equipment, Imaging, Optics, Recording devices, Photography, Optical devices, Photography equipment, Digital photography]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [online gallery, sun & moon pictures]
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/moon-high-resolution/)
-
-id:  305843
 
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/blogs/2015/03/today-engineering-history-eiffel-tower-opens-paris)
 
-id:  103185
-
 

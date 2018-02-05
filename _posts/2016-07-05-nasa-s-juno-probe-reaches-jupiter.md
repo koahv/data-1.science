@@ -4,7 +4,7 @@ title: "NASA’s Juno Probe Reaches Jupiter"
 date: 2016-07-05 11:27:58
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy in space with david dickinson, news, solar system, spacecraft and space missions, juno, juno probe]
+tags: [Juno (spacecraft), Jupiter, JunoCam, Sun, Gravity assist, New Horizons, Space probe, Galileo (spacecraft), Outer space, Flight, Space colonization, Spaceflight technologies, Space technology, Astronautics, Physical sciences, Spacecraft, Planetary science, Space exploration, Space science, Spaceflight, Solar System, Astronomy]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [astronomy in space with david dickinson, news, solar system, spacecraft a
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/juno-reaches-jupiter/)
-
-id:  301512
 
 

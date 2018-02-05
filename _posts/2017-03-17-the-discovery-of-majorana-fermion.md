@@ -16,6 +16,4 @@ tags: [Majorana fermion, Superconductivity, Fermion, Condensed matter physics, M
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/scp-tdo031717.php)
 
-id:  375210
-
 

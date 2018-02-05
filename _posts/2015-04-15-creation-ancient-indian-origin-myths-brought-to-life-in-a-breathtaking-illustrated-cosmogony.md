@@ -16,6 +16,4 @@ tags: [art, culture, books, childrens books, tara books]
 
 [Visit Link](http://feedproxy.google.com/~r/brainpickings/rss/~3/I02GRAse97E/)
 
-id:  109467
-
 

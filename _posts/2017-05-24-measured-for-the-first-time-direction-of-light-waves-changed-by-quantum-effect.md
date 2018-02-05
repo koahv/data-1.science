@@ -16,6 +16,4 @@ tags: [Quantum mechanics, Electricity, Quantum Hall effect, Measurement, Light, 
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-05/vuot-mft052417.php)
 
-id:  395197
-
 

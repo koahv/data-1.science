@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/Diu6j19zhNc/-time-is-slowly-disappearing-from-our-universe-or-is-it-timeless.html)
 
-id:   59829
-
 

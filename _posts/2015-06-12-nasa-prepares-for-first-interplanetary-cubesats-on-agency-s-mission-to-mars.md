@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/06/nasa-prepares-first-interplanetary-cubesats-agencys-mission-mars)
 
-id:  138289
-
 

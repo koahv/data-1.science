@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/29231-cretaceous-period.html)
 
-id:  234934
-
 

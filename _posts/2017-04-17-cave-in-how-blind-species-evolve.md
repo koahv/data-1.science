@@ -16,6 +16,4 @@ tags: [Mexican tetra, Evolution, Biology, Evolutionary biology, Biological evolu
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/04/170417085954.htm)
 
-id:  384168
-
 

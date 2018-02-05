@@ -18,6 +18,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-12/dco-tdc121214.php)
 
-id:   66447
-
 

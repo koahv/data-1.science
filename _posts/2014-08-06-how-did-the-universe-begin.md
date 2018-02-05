@@ -16,6 +16,4 @@ tags: [astrophysics, question everything, alternate theories, big bang, big bang
 
 [Visit Link](http://www.fromquarkstoquasars.com/how-did-the-universe-begin/)
 
-id:   32807
-
 

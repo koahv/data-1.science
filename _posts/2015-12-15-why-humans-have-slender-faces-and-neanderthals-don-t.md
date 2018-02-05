@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/53102-neanderthals-protruding-jaws-bone-deposits.html)
 
-id:  225243
-
 

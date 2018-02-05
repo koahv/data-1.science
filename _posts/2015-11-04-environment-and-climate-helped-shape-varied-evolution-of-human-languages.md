@@ -16,6 +16,4 @@ tags: [social sciences]
 
 [Visit Link](http://phys.org/news/2015-11-environment-climate-varied-evolution-human.html)
 
-id:  206787
-
 

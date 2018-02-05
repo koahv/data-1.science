@@ -4,7 +4,7 @@ title: "Dig into DNS: Part 3"
 date: 2016-09-20 13:02:08
 categories: Linux
 author: chrisbinnie
-tags: []
+tags: [Name server, Domain Name System, Domain name, Networking standards, Technology, Network addressing, OSI protocols, Computer data, Computer architecture, Information Age, Protocols, Network protocols, Application layer protocols, Communications protocols, Information technology management, Internet protocols, Computing, Computer networking, Internet Standards, Internet architecture, Internet, Cyberspace, Network architecture]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/dig-dns-part-3)
-
-id:  325167
 
 

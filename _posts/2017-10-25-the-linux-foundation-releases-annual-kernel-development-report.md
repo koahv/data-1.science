@@ -16,6 +16,4 @@ tags: [Linux kernel, Linux, Computing, Finnish computer scientists, Linux Founda
 
 [Visit Link](https://www.linuxfoundation.org/press-release/linux-foundation-releases-annual-kernel-development-report/)
 
-id:  444381
-
 

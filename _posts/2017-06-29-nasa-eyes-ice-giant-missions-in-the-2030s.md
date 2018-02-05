@@ -16,6 +16,4 @@ tags: [Neptune, Gravity assist, Uranus, Voyager 2, Planetary Science Decadal Sur
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-blogs/astronomy-space-david-dickinson/nasa-eyes-ice-giant-missions-in-2030s/)
 
-id:  405696
-
 

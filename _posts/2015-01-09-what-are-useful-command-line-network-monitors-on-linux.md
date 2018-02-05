@@ -16,6 +16,4 @@ tags: [networking, system administration, cli, network monitoring]
 
 [Visit Link](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
 
-id:   69951
-
 

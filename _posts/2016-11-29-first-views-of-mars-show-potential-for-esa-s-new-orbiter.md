@@ -4,7 +4,7 @@ title: "First views of Mars show potential for ESA’s new orbiter"
 date: 2016-11-29 10:30:00
 categories: Astronomy
 author: unknown author
-tags: [Spaceflight, Outer space, Space science, Astronomy, Space exploration, Solar System, Planetary science, Space colonization, Physical sciences, Astronautics, Mars, Space technology, ExoMars Trace Gas Orbiter, Flight, Spacecraft]
+tags: [Outer space, Spaceflight, Space science, Astronomy, Space exploration, Mars, Space technology, Astronautics, Solar System, Physical sciences, Space colonization, Planetary science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Spaceflight, Outer space, Space science, Astronomy, Space exploration, So
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/ExoMars/First_views_of_Mars_show_potential_for_ESA_s_new_orbiter)
-
-id:  344616
 
 

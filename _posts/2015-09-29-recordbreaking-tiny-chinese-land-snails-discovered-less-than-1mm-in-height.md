@@ -16,6 +16,4 @@ tags: [earth science, biology, environment, microbiology]
 
 [Visit Link](https://www.siliconrepublic.com/earth-science/2015/09/29/tiny-chinese-land-snails)
 
-id:  191079
-
 

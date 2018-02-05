@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/enterprise/systems-management/815952-openssl-set-for-major-security-audit/)
 
-id:   94175
-
 

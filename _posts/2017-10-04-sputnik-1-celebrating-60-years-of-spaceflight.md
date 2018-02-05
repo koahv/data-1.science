@@ -16,6 +16,4 @@ tags: [Satellite, Project Vanguard, Sputnik 1, NASA, Explorer 1, Space explorati
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/sputnik-1-60-years-of-spaceflight/)
 
-id:  434884
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/videos/2015/11/can-computer-simulate-consciousness)
 
-id:  211144
-
 

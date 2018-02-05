@@ -16,6 +16,4 @@ tags: [environment]
 
 [Visit Link](http://phys.org/news/2016-03-high-tech-impacts-extreme-weather.html)
 
-id:  262011
-
 

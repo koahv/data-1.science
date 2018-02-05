@@ -16,6 +16,4 @@ tags: [space]
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/r3qiZHAX5KU/story01.htm)
 
-id:   72884
-
 

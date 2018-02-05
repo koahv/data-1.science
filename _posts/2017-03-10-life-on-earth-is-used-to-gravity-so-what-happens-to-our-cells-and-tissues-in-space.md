@@ -16,6 +16,4 @@ tags: [Gravity, Weightlessness, Galaxy, Ion channel, Immune system, Cell (biolog
 
 [Visit Link](https://phys.org/news/2017-03-life-earth-gravity-cells-tissues.html)
 
-id:  373026
-
 

@@ -16,6 +16,4 @@ tags: [auditing, accounting, kernel integrity, system integrity, file integrity,
 
 [Visit Link](http://linux-audit.com/linux-system-integrity-explained-ensure-data-logging-and-kernel-integrity/)
 
-id:  191455
-
 

@@ -16,6 +16,4 @@ tags: [plasma physics]
 
 [Visit Link](http://phys.org/news/2015-08-antimatter-positrons-plasma-smaller-cheaper.html)
 
-id:  174913
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/SleiH-P_Uck/an-unknown-force-may-alter-gravity-at-cosmologically-large-scales-todays-most-popular.html)
 
-id:   10216
-
 

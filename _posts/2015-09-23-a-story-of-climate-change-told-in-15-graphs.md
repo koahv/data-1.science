@@ -16,6 +16,4 @@ tags: [climate change, uncategorized, arctic, blossom, carbon dioxied, cherry tr
 
 [Visit Link](http://www.deepseanews.com/2015/09/a-story-of-climate-change-told-in-15-graphs/)
 
-id:  188336
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNE2WQ0GyUG-_TNOcfmNo4npPf563g&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=hS5dVeBdwfDcAZH2gZAC&url=http://www.alaskapublic.org/2015/05/20/research-sheds-light-on-massive-underwater-deep-sea-churning-waves/)
 
-id:  126422
-
 

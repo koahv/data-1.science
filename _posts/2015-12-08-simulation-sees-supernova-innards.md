@@ -16,6 +16,4 @@ tags: [news, stellar science]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/simulation-sees-supernova-innards-1208201543/)
 
-id:  221805
-
 

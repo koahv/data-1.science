@@ -4,7 +4,7 @@ title: "Automation Isn’t The End Of The World — Here’s Why"
 date: 2017-01-03 10:00:00
 categories: Technology
 author: unknown author
-tags: [Unemployment, Entrepreneurship, Sustainability, Economy, Poverty, Politics, Circular economy]
+tags: []
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Unemployment, Entrepreneurship, Sustainability, Economy, Poverty, Politic
 >factsheet unavailable
 
 [Visit Link](http://www.gereports.com/automation-isnt-end-world-heres/)
-
-id:  353547
 
 

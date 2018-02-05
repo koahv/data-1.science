@@ -16,6 +16,4 @@ tags: [Van Allen radiation belt, Van Allen Probes, Outer space, Space science, P
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/nsfc-reu031517.php)
 
-id:  374445
-
 

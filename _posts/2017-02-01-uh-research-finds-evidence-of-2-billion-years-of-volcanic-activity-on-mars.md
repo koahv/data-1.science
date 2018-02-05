@@ -16,6 +16,4 @@ tags: [Mars, Volcano, Martian meteorite, Planetary science, Planets, Physical sc
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/uoh-urf012617.php)
 
-id:  362104
-
 

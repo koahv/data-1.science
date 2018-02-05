@@ -16,6 +16,4 @@ tags: [Flower, Diffraction grating, Ultraviolet, Color, Petal, Light, Iridescenc
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/oct/24/photonic-nanostructures-bring-bees-to-flowers)
 
-id:  444288
-
 

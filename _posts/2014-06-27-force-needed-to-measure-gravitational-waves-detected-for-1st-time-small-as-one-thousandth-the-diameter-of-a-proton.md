@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/IltQDv3-9P0/force-needed-to-measure-graviational-waves-detected-for-1st-time-small-as-one-thousandth-the-diamete.html)
 
-id:    8502
-
 

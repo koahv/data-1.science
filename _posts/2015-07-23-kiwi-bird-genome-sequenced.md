@@ -16,6 +16,4 @@ tags: [plants & animals]
 
 [Visit Link](http://phys.org/news/2015-07-kiwi-bird-genome-sequenced.html)
 
-id:  159126
-
 

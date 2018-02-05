@@ -16,6 +16,4 @@ tags: [HIV/AIDS, Management of HIV/AIDS, Infection, Virus, Virus latency, Pharma
 
 [Visit Link](https://phys.org/news/2017-10-mathematically-hiv-drug-pharmacodynamics.html)
 
-id:  441373
-
 

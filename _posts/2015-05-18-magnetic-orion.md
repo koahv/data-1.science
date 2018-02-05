@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/spaceinimages/Images/2015/05/Magnetic_Orion)
 
-id:  125715
-
 

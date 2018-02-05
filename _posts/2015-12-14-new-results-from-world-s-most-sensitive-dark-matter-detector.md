@@ -16,6 +16,4 @@ tags: [general physics]
 
 [Visit Link](http://phys.org/news/2015-12-results-world-sensitive-dark-detector.html)
 
-id:  224296
-
 

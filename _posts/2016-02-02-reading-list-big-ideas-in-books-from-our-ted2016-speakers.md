@@ -16,6 +16,4 @@ tags: [live from ted2016, news, books, reading list, ted conferences]
 
 [Visit Link](http://blog.ted.com/books-to-get-you-ready-for-ted2016/)
 
-id:  243467
-
 

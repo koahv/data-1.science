@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/SQ19aILbIXw/astrophysicists-see-serious-flaws-in-big-bang-gravity-wave-observation-1.html)
 
-id:     512
-
 

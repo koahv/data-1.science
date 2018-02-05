@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Ba-dpruqrow/150528142813.htm)
 
-id:  130948
-
 

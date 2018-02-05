@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/09/what-caused-the-great-dying-70-percent-of-earths-land-species-disappeared-in-a-geological-instant.html)
 
-id:  185416
-
 

@@ -16,6 +16,4 @@ tags: [Radio astronomy, LIGO, Astronomy, Karl G. Jansky Very Large Array, Radio 
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/nrl-ito101617.php)
 
-id:  439671
-
 

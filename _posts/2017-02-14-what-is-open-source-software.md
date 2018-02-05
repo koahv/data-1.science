@@ -16,6 +16,4 @@ tags: [Open-source software, Free software, Shareware, Open content, Public comm
 
 [Visit Link](https://www.linux.com/blog/learn/chapter/open-source-management/2017/2/what-open-source-software)
 
-id:  365626
-
 

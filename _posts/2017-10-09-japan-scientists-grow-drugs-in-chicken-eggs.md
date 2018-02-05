@@ -16,6 +16,4 @@ tags: [Chicken, Pharmaceutical drug, Biology, Life sciences]
 
 [Visit Link](https://phys.org/news/2017-10-japan-scientists-drugs-chicken-eggs.html)
 
-id:  436589
-
 

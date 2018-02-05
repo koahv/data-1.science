@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a, black ho
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/black-hole/)
 
-id:   24740
-
 

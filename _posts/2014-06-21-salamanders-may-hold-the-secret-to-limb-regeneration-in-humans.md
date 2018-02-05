@@ -16,6 +16,4 @@ tags: [health & medicine]
 
 [Visit Link](http://www.scienceworldreport.com/articles/15581/20140621/salamanders-hold-secret-limb-regeneration-humans.htm)
 
-id:    1628
-
 

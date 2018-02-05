@@ -4,7 +4,7 @@ title: "Scientists advance disease resistance in three of world's most important
 date: 2016-04-25 15:26:57
 categories: Science
 author: unknown author
-tags: [biotechnology]
+tags: [Plant disease resistance, Wheat, Phytophthora infestans, Potato, Biotechnology, Plant pathology, Soybean, Genetic engineering, Organisms, Artificial objects, Life sciences, Biology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [biotechnology]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-04-scientists-advance-disease-resistance-world.html)
-
-id:  277872
 
 

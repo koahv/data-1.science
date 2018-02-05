@@ -16,6 +16,4 @@ tags: [clean tech, news, renewable energy, urban design, conservation, eco, effi
 
 [Visit Link](http://inhabitat.com/helsinki-builds-9-million-gallon-underground-water-tank-to-cool-local-buildings/)
 
-id:   48884
-
 

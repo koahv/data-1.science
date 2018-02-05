@@ -16,6 +16,4 @@ tags: [news, solar system, spacecraft and space missions]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/rosetta-water-escaping-from-comet-67p-093020155/)
 
-id:  191731
-
 

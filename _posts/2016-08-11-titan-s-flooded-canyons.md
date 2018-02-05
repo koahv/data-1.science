@@ -4,7 +4,7 @@ title: "Titan’s Flooded Canyons"
 date: 2016-08-11 10:00:39
 categories: Astronomy
 author: Camille M. Carlisle
-tags: [news, solar system, titan]
+tags: [Titan (moon), Vid Flumina, Ligeia Mare, Saturn, Planetary science, Solar System, Outer space, Astronomy, Physical sciences, Bodies of the Solar System, Space science, Planets]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [news, solar system, titan]
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/titans-flooded-canyons-1008201623/)
-
-id:  313380
 
 

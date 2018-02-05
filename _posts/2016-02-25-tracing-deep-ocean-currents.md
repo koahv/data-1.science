@@ -16,6 +16,4 @@ tags: [earth sciences]
 
 [Visit Link](http://phys.org/news/2016-02-deep-ocean-currents.html)
 
-id:  255435
-
 

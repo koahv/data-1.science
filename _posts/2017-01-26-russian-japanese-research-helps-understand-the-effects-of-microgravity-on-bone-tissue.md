@@ -16,6 +16,4 @@ tags: [Bone, Osteoblast, Osteoclast, Glucocorticoid, International Space Station
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/kfu-rrh012617.php)
 
-id:  360234
-
 

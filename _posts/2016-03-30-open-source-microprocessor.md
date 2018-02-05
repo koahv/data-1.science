@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/ez-om033016.php)
 
-id:  268126
-
 

@@ -16,6 +16,4 @@ tags: [ubuntu]
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdotLinux/~3/PIHbYtYbwvs/story01.htm)
 
-id:   23966
-
 

@@ -4,7 +4,7 @@ title: "A Look Inside China’s Chart-Topping New Supercomputer"
 date: 2016-06-20 07:00:09
 categories: Technology
 author: Nicole Hemsoth
-tags: [hpc, isc16, china, taihulight, top500]
+tags: [TOP500, FLOPS, Supercomputer, Tianhe-2, Electronics, Digital electronics, Computing, Office equipment, Areas of computer science, Electronic engineering, Technology, Digital technology, Computer engineering, Computer architecture, Computers, Computer hardware]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [hpc, isc16, china, taihulight, top500]
 >factsheet unavailable
 
 [Visit Link](http://www.nextplatform.com/2016/06/20/look-inside-chinas-chart-topping-new-supercomputer/)
-
-id:  296545
 
 

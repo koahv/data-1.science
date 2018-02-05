@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/nsfc-nmm051916.php)
 
-id:  286577
-
 

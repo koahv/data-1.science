@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/sri-sss081115.php)
 
-id:  167896
-
 

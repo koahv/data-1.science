@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://opensource.com/business/15/7/six-continuous-integration-tools)
 
-id:  161968
-
 

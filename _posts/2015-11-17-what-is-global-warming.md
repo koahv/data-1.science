@@ -16,6 +16,4 @@ tags: [environment]
 
 [Visit Link](http://phys.org/news/2015-11-global_1.html)
 
-id:  212462
-
 

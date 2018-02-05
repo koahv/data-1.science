@@ -16,6 +16,4 @@ tags: [food for thought, critical thinking, graphics, infographics, learning com
 
 [Visit Link](http://www.fromquarkstoquasars.com/questions-critical-thinkers-ask/)
 
-id:    8112
-
 

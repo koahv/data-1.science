@@ -16,6 +16,4 @@ tags: [Jupiter Icy Moons Explorer, Ganymede (moon), Jupiter, Gravity assist, Eur
 
 [Visit Link](https://phys.org/news/2017-03-esa-jupiter-mission-board.html)
 
-id:  375065
-
 

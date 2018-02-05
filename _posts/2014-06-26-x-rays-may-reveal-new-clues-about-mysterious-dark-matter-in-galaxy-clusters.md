@@ -16,6 +16,4 @@ tags: [space]
 
 [Visit Link](http://www.scienceworldreport.com/articles/15674/20140626/x-rays-reveal-new-clues-mysterious-dark-matter-galaxy-clusters.htm)
 
-id:    7300
-
 

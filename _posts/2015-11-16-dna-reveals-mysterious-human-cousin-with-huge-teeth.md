@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.nationalgeographic.com/2015/11/151116-denisovan-human-anthropology-ancient-dna/)
 
-id:  212150
-
 

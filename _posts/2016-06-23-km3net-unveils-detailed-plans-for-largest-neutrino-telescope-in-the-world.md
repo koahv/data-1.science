@@ -4,7 +4,7 @@ title: "KM3NeT unveils detailed plans for largest neutrino telescope in the worl
 date: 2016-06-23 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [KM3NeT, Physics, Physical sciences, Applied and interdisciplinary physics, Astronomy, Particle physics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/ip-kud062316.php)
-
-id:  298330
 
 

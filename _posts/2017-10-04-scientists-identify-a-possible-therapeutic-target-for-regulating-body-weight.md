@@ -16,6 +16,4 @@ tags: [Obesity, Eating, Insulin, Leptin, Medicine, Disorders of endocrine pancre
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/foas-sia100417.php)
 
-id:  434984
-
 

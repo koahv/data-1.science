@@ -16,6 +16,4 @@ tags: [ATLAS experiment, Higgs boson, Standard Model, Large Hadron Collider, Par
 
 [Visit Link](https://phys.org/news/2017-07-atlas-explores-higgs-boson-interacts.html)
 
-id:  413274
-
 

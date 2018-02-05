@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/cuso-cet042116.php)
 
-id:  276963
-
 

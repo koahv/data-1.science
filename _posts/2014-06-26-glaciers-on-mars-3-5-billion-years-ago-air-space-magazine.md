@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEDFE-ebT63L5_AUqWnnEsGGWWSiA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778543260054&ei=4HOsU4DiCYjGgQfF44HoCQ&url=http://www.airspacemag.com/daily-planet/glaciers-mars-35-billion-years-ago-180951872/)
 
-id:    7829
-
 

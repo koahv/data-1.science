@@ -16,6 +16,4 @@ tags: [Life, Abiogenesis, Hydrogen peroxide, Hydrogen, Evolution, Catalase, Phys
 
 [Visit Link](https://phys.org/news/2017-11-earliest-life-evolved-earth.html)
 
-id:  451999
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/pu-syi031015.php)
 
-id:   94157
-
 

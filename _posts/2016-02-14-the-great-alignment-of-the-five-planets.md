@@ -16,6 +16,4 @@ tags: [online gallery, skyscape & constellation pictures]
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/the-great-alignment-of-the-five-planets/)
 
-id:  250910
-
 

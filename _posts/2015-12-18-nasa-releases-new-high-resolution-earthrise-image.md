@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/12/nasa-releases-new-high-resolution-earthrise-image)
 
-id:  227150
-
 

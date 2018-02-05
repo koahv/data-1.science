@@ -16,6 +16,4 @@ tags: [Time crystal, Physics, Quantum mechanics, Crystal, Molecule, Atom, Matter
 
 [Visit Link](https://phys.org/news/2017-03-crystals-envisioned-princeton-scientists.html)
 
-id:  372450
-
 

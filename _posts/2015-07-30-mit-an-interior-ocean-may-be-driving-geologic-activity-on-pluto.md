@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/07/mit-an-interior-ocean-may-be-driving-geologic-activity-on-pluto.html)
 
-id:  162579
-
 

@@ -4,7 +4,7 @@ title: "Fossilized rivers suggest warm, wet ancient Mars"
 date: 2016-08-23 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Mars, Mars Reconnaissance Orbiter, Arabia Terra, Earth, Space science, Earth sciences, Planets, Planetary science, Outer space, Solar System]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/ucl-frs082316.php)
-
-id:  316908
 
 

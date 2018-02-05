@@ -18,6 +18,4 @@ An individual happens to hear one variant of a word as opposed to another and th
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/uop-lpa103017.php)
 
-id:  447930
-
 

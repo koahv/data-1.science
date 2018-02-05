@@ -16,6 +16,4 @@ tags: [clean tech, green transportation, news, renewable energy, solar power, ze
 
 [Visit Link](http://inhabitat.com/solar-impulse-2-sets-world-record-for-longest-solar-powered-flight-by-landing-in-india/)
 
-id:   93802
-
 

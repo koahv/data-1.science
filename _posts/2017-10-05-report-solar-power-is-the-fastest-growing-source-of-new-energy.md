@@ -16,6 +16,4 @@ tags: [Renewable energy, International Energy Agency, Photovoltaics, Natural res
 
 [Visit Link](https://inhabitat.com/report-solar-power-is-the-fastest-growing-source-of-new-energy)
 
-id:  438357
-
 

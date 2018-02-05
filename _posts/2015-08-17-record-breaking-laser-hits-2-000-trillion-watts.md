@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/51889-record-breaking-laser-hits-2000-trillion-watts.html)
 
-id:  170648
-
 

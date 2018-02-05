@@ -16,6 +16,4 @@ tags: [Synesthesia, Perception, Neuroscience, Epistemology, Metaphysics of mind,
 
 [Visit Link](https://www.livescience.com/60707-what-is-synesthesia.html)
 
-id:  440488
-
 

@@ -16,6 +16,4 @@ tags: [infographics, chernobyl disaster, death of our solar system, earth, infog
 
 [Visit Link](http://www.fromquarkstoquasars.com/timeline-earths-future-infographic/)
 
-id:  101704
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/embedded-mobile/mobile-linux/780572-intel-to-ship-galileo-gen2-open-source-computer-in-august-for-60/)
 
-id:   20760
-
 

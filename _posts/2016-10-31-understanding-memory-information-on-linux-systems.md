@@ -4,7 +4,7 @@ title: "Understanding memory information on Linux systems"
 date: 2016-10-31 16:54:32
 categories: Linux
 author: Michael Boelen
-tags: [linux, guide, memory, ram, Paging, Computer data storage, Computer file, Cache (computing), Random-access memory, Linux kernel, Operating system technology, Digital technology, Data, Digital media, System software, Computer hardware, Information technology management, Software, Areas of computer science, Computer data, Computers, Computer engineering, Computer architecture, Computing, Systemd, Procfs, Linux, Data management, Kernel (operating system)]
+tags: [Paging, Computer data storage, Computer file, Cache (computing), Random-access memory, Linux kernel, Computing, System software, Digital technology, Data, Digital media, Computer hardware, Software, Information technology management, Operating system technology, Areas of computer science, Computer data, Computers, Computer engineering, Computer architecture]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [linux, guide, memory, ram, Paging, Computer data storage, Computer file, 
 >factsheet unavailable
 
 [Visit Link](https://linux-audit.com/understanding-memory-information-on-linux-systems/)
-
-id:  337021
 
 

@@ -16,6 +16,4 @@ tags: [biochemistry]
 
 [Visit Link](http://phys.org/news/2015-07-illuminate-animal-evolution-protein-function.html)
 
-id:  160880
-
 

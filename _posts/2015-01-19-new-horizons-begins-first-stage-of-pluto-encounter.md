@@ -16,6 +16,4 @@ tags: [missions, nasa, new horizons, pluto, space, universe]
 
 [Visit Link](http://www.fromquarkstoquasars.com/new-horizons-begins-first-stage-pluto-encounter/)
 
-id:   73156
-
 

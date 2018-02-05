@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/software/applications/779853-superclass-14-of-the-worlds-best-living-programmers/)
 
-id:   16706
-
 

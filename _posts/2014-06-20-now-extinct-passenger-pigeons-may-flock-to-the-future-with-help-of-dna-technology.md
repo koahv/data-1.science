@@ -16,6 +16,4 @@ tags: [nature & environment]
 
 [Visit Link](http://www.scienceworldreport.com/articles/15570/20140620/now-extinct-passenger-pigeons-may-flock-to-the-future-with-help-of-dna-technology.htm)
 
-id:    1638
-
 

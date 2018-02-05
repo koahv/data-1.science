@@ -16,6 +16,4 @@ tags: [alien stars and exoplanets, carbon planets, chthonian planet, diamond pla
 
 [Visit Link](http://www.fromquarkstoquasars.com/5-exotic-types-of-alien-worlds/)
 
-id:  139938
-
 

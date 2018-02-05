@@ -16,6 +16,4 @@ tags: [intrusion detection, rootkit]
 
 [Visit Link](http://linux-audit.com/intrusion-detection-linux-rootkits/)
 
-id:  191541
-
 

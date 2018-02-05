@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/11/new-insights-on-ancient-mars-climate.html)
 
-id:  206952
-
 

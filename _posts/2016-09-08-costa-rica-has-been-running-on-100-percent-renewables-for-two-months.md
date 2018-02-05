@@ -4,7 +4,7 @@ title: "Costa Rica Has Been Running on 100 Percent Renewables for Two Months"
 date: 2016-09-08 16:54:00
 categories: Energy
 author: unknown author
-tags: [solar, hydropower, imported, wind power, geothermal]
+tags: [Renewable energy, Sustainable development, Sustainable technologies, Natural resources, Energy and the environment, Energy, Energy production, Power (physics), Physical universe, Nature, Sustainable energy, Alternative energy, Renewable resources, Energy sources]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [solar, hydropower, imported, wind power, geothermal]
 >factsheet unavailable
 
 [Visit Link](http://www.renewableenergyworld.com/articles/pt/2016/09/costa-rica-has-been-running-on-100-percent-renewables-for-two-months.html)
-
-id:  321973
 
 

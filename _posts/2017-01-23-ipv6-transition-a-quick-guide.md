@@ -16,6 +16,4 @@ tags: [IPv6, IPv6 transition mechanism, IPv4, Network address translation, IPv6 
 
 [Visit Link](https://www.linux.com/news/ipv6-transition-quick-guide)
 
-id:  359210
-
 

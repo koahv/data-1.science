@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/nsfc-dsx120315.php)
 
-id:  219745
-
 

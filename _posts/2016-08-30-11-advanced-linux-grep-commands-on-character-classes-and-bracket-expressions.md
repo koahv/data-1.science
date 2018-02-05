@@ -4,7 +4,7 @@ title: "11 Advanced Linux ‘Grep’ Commands on Character Classes and Bracket E
 date: 2016-08-30 07:01:40
 categories: Linux
 author: Jalpan Trivedi
-tags: [linux commands, grep command]
+tags: [Grep, Computing, Software, Computer data]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [linux commands, grep command]
 >factsheet unavailable
 
 [Visit Link](http://www.tecmint.com/linux-grep-commands-character-classes-bracket-expressions/)
-
-id:  318933
 
 

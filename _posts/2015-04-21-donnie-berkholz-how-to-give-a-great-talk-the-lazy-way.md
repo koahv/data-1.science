@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://dberkholz.com/2015/04/20/how-to-give-a-great-talk-the-lazy-way/)
 
-id:  185241
-
 

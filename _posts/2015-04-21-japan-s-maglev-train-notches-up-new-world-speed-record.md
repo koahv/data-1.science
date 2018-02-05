@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.terradaily.com/reports/Japans_maglev_train_notches_up_new_world_speed_record_999.html)
 
-id:  112034
-
 

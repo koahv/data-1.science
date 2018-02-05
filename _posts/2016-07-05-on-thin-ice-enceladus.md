@@ -4,7 +4,7 @@ title: "On thin ice: Enceladus"
 date: 2016-07-05 12:45:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Enceladus, Moon, Saturn, Cassini–Huygens, Europa (moon), Planetary science, Solar System, Astronomy, Bodies of the Solar System, Space science, Outer space, Planets of the Solar System, Planets, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/spaceinimages/Images/2016/07/Enceladus_and_its_paper-thin_crust)
-
-id:  301504
 
 

@@ -16,6 +16,4 @@ tags: [Evolution, Gene, Genetics, Biology, Species, Genome, Speciation, Organism
 
 [Visit Link](https://phys.org/news/2017-06-supercomputers-snake-evolution-unique-traits.html)
 
-id:  403500
-
 

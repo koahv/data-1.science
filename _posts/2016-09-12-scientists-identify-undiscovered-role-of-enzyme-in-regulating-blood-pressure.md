@@ -4,7 +4,7 @@ title: "Scientists identify undiscovered role of enzyme in regulating blood pres
 date: 2016-09-12 15:00:16
 categories: Science
 author: unknown author
-tags: [biotechnology]
+tags: [Karolinska Institute, Medicine, Biology, Health sciences, Medical specialties, Clinical medicine, Health, Life sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [biotechnology]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-09-scientists-undiscovered-role-enzyme-blood.html)
-
-id:  322947
 
 

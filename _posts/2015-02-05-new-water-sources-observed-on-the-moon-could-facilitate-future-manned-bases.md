@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/9vZW6CI9ub8/new-water-sources-observed-on-the-moon-could-facilitate-future-manned-bases.html)
 
-id:   79018
-
 

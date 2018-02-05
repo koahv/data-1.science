@@ -16,6 +16,4 @@ tags: [higher education]
 
 [Visit Link](http://www.ted.com/talks/alan_eustace_i_leapt_from_the_stratosphere_here_s_how_i_did_it)
 
-id:  179802
-
 

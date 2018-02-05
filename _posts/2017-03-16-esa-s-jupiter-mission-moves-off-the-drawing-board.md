@@ -16,6 +16,4 @@ tags: [Jupiter Icy Moons Explorer, Jupiter, Ganymede (moon), Europa (moon), Spac
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/ESA_s_Jupiter_mission_moves_off_the_drawing_board)
 
-id:  374801
-
 

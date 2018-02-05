@@ -16,6 +16,4 @@ tags: [Photosynthesis, Primary production, Orbiting Carbon Observatory 2, Nature
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171012143407.htm)
 
-id:  438513
-
 

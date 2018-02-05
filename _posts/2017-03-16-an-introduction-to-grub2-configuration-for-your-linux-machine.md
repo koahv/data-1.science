@@ -16,6 +16,4 @@ tags: [GNU GRUB, Free software, Microcomputers, Booting, Operating system famili
 
 [Visit Link](https://www.linux.com/news/introduction-grub2-configuration-your-linux-machine-0)
 
-id:  375020
-
 

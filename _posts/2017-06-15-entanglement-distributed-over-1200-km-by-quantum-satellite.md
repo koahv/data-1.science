@@ -16,6 +16,4 @@ tags: [Quantum entanglement, Quantum key distribution, Physics, Applied mathemat
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/jun/16/entanglement-distributed-over-1200-km-by-quantum-satellite)
 
-id:  401666
-
 

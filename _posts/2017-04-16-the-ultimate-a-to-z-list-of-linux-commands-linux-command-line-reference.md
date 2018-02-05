@@ -16,6 +16,4 @@ tags: [Command-line interface, CUPS, Computer terminal, System software, Compute
 
 [Visit Link](https://fossbytes.com/a-z-list-linux-command-line-reference/)
 
-id:  383988
-
 

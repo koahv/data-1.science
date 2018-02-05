@@ -16,6 +16,4 @@ tags: [space]
 
 [Visit Link](http://www.scienceworldreport.com/articles/15631/20140624/spacecraft-witness-puffing-sun-causing-reluctant-eruption.htm)
 
-id:    4893
-
 

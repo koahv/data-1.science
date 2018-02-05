@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=EXT4-Encryption-Support)
 
-id:  108015
-
 

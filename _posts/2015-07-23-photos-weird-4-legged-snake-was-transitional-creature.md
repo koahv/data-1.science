@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/51643-photos-four-legged-snake.html)
 
-id:  159719
-
 

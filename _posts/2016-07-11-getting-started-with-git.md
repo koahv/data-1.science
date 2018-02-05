@@ -4,7 +4,7 @@ title: "Getting started with Git"
 date: 2016-07-11 07:03:00
 categories: Open Source
 author: sethkenlon
-tags: []
+tags: [Git, Computer file, GitHub, Path (computing), World Wide Web, Directory (computing), Computer engineering, Utility software, Digital technology, Areas of computer science, Information technology management, Computers, Computer data, Operating system technology, Computer architecture, Digital media, System software, Software, Computing]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://opensource.com/life/16/7/stumbling-git)
-
-id:  303241
 
 

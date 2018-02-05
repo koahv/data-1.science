@@ -16,6 +16,4 @@ tags: [Neanderthal, National Institute of Mental Health, Evolution, Anatomically
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/niom-eo072517.php)
 
-id:  413396
-
 

@@ -16,6 +16,4 @@ tags: [energy efficiency, news, renewable energy, science, sustainable materials
 
 [Visit Link](http://inhabitat.com/scientists-have-turned-common-fungus-into-jet-fuel/)
 
-id:  122590
-
 

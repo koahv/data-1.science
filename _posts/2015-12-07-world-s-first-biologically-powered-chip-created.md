@@ -16,6 +16,4 @@ tags: [technology]
 
 [Visit Link](http://www.thehindu.com/sci-tech/technology/worlds-first-biologically-powered-chip-created/article7958437.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-id:  220985
-
 

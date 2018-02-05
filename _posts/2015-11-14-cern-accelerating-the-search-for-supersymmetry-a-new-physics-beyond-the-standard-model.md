@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/11/cern-accelerates-the-search-for-supersymmetry-a-new-physics-beyond-the-standard-model.html)
 
-id:  211468
-
 

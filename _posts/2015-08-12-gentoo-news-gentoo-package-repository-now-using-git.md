@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.gentoo.org/news/2015/08/12/git-migration.html)
 
-id:  185203
-
 

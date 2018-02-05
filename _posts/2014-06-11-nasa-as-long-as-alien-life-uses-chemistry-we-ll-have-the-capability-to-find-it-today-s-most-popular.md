@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/WU8FQ7jSiBM/as-long-as-alien-life-uses-chemistry-well-have-the-capability-to-find-it-nasa-scientists-the-james-webb-space-telescope.html)
 
-id:     528
-
 

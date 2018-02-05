@@ -4,7 +4,7 @@ title: "Infographic: NASA Completes SLS Booster Test"
 date: 2016-06-28 15:47:38
 categories: Technology
 author: mcrouse
-tags: []
+tags: [Orion (spacecraft), Space Launch System, Spacecraft, Human spaceflight programs, Space programs, Government programs, Space program of the United States, NASA programs, NASA, Spaceflight, Space exploration, Space agencies, Spaceflight technologies, Outer space, Space technology, Aerospace engineering, Astronautics, Space colonization, Flight, Aerospace, Human spaceflight, Space-based economy, Aerospace agencies, Engineering projects, Vehicles]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2016/06/infographic-nasa-completes-sls-booster-test)
-
-id:  300399
 
 

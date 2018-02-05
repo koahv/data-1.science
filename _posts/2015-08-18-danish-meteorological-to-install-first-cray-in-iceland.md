@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/enterprise/high-performance/147-high-performance/847082-danish-meteorological-to-install-first-cray-in-iceland/)
 
-id:  170986
-
 

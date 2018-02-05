@@ -16,6 +16,4 @@ tags: [nature & environment]
 
 [Visit Link](http://www.scienceworldreport.com/articles/15788/20140702/secrets-behind-marine-animals-bright-green-fluorescent-glow.htm)
 
-id:   11796
-
 

@@ -16,6 +16,4 @@ tags: [news, renewable energy, solar power, biomass, brenmiller energy, energy s
 
 [Visit Link](http://inhabitat.com/israeli-solar-power-plant-to-generate-electricity-around-the-clock/)
 
-id:   83050
-
 

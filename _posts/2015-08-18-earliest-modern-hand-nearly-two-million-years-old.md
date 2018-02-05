@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2015-08-earliest-modern-million-years.html)
 
-id:  171207
-
 

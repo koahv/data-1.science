@@ -16,6 +16,4 @@ tags: [other sciences]
 
 [Visit Link](http://phys.org/news345374563.html)
 
-id:   94612
-
 

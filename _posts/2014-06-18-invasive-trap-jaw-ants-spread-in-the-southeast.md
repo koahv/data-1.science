@@ -16,6 +16,4 @@ tags: [nature & environment]
 
 [Visit Link](http://www.scienceworldreport.com/articles/15515/20140618/invasive-trap-jaw-ants-spread-southeast.htm)
 
-id:    1689
-
 

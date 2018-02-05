@@ -16,6 +16,4 @@ tags: [performance, system administration, web, ssl, sslv2, sslv3, tls, tls1.0, 
 
 [Visit Link](http://linux-audit.com/optimize-ssl-tls-for-maximum-security-and-speed/)
 
-id:  191473
-
 

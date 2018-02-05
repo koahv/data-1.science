@@ -16,6 +16,4 @@ tags: [Lidar, Moon, Laser, Flight, Space technology, Space exploration, Astronau
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/Low-cost_clocks_for_landing_on_the_Moon)
 
-id:  445108
-
 

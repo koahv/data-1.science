@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/03/darpa-shares-its-vision-future)
 
-id:  101508
-
 

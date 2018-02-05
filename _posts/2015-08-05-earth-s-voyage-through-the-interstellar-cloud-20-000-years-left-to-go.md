@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/earths-voyage-through-the-interstellar-cloud-20000-years-left-to-go.html)
 
-id:  165214
-
 

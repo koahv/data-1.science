@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/09/mystery-of-the-birth-of-the-universe-the-matter-antimatter-imbalance.html)
 
-id:  178473
-
 

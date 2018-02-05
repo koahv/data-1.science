@@ -16,6 +16,4 @@ tags: [technology, global defence, neurotechnology]
 
 [Visit Link](http://www.theneweconomy.com/home/darpas-neural-implant-will-make-brain-computer-interfacing-a-practical-reality)
 
-id:  239354
-
 

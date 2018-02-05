@@ -16,6 +16,4 @@ tags: [Artificial objects, Chemistry]
 
 [Visit Link](https://inhabitat.com/mit-engineers-just-unveiled-living-glowing-plants)
 
-id:  466974
-
 

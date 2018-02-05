@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Rosetta/Highlights/Comet_close-ups)
 
-id:   75538
-
 

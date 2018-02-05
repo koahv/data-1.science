@@ -16,6 +16,4 @@ tags: [news, solar system, spacecraft and space missions]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/kuiper-belt-target-picked-for-new-horizons-09032015/)
 
-id:  179000
-
 

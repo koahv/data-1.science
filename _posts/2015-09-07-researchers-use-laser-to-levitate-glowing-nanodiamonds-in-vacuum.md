@@ -16,6 +16,4 @@ tags: [optics & photonics]
 
 [Visit Link](http://phys.org/news/2015-09-laser-levitate-nanodiamonds-vacuum.html)
 
-id:  180621
-
 

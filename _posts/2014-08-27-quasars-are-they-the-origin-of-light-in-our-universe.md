@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/Q7V8NbcqEdY/quasars-are-they-the-origin-of-light-in-the-universe.html)
 
-id:   46457
-
 

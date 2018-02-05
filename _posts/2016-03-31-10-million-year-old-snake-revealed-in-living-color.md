@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/54244-pigment-cells-in-fossil-snakeskin.html)
 
-id:  268861
-
 

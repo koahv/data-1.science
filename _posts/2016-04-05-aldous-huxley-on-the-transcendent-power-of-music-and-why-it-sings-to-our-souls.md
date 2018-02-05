@@ -16,6 +16,4 @@ tags: [art, culture, music, aldous huxley, beethoven, books, out of print, psych
 
 [Visit Link](https://www.brainpickings.org/2016/04/05/aldous-huxley-music-at-night/)
 
-id:  270397
-
 

@@ -16,6 +16,4 @@ tags: [space exploration]
 
 [Visit Link](http://phys.org/news/2016-03-mile-high-mars-mounds-built-climate.html)
 
-id:  268576
-
 

@@ -16,6 +16,4 @@ tags: [news, solar system]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/beautiful-maps-of-the-moon-092420155/)
 
-id:  188913
-
 

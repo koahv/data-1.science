@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2016/01/nasas-juno-spacecraft-breaks-solar-power-distance-record)
 
-id:  236437
-
 

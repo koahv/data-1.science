@@ -16,6 +16,4 @@ tags: [evolution]
 
 [Visit Link](http://phys.org/news/2016-03-bold-evolution.html)
 
-id:  268092
-
 

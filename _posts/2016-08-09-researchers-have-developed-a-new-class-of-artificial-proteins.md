@@ -4,7 +4,7 @@ title: "Researchers have developed a new class of artificial proteins"
 date: 2016-08-09 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Protein, American Association for the Advancement of Science, Denmark, Peptide, Cancer, Biochemistry, Biology, Biotechnology, Life sciences, Chemistry, Molecular biology, Organisms, Medicine]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/uosd-rhd080916.php)
-
-id:  312717
 
 

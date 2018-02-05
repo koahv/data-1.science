@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/LVE_aTL23ms/150129113717.htm)
 
-id:   77229
-
 

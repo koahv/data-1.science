@@ -16,6 +16,4 @@ tags: [World Wide Web, Digital media, Digital technology, Information technology
 
 [Visit Link](https://www.linux.com/news/three-challenges-web-according-its-inventor-0)
 
-id:  374005
-
 

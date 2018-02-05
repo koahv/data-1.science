@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/jan/22/nasas-wfirst-mission-set-for-go-ahead)
 
-id:  240257
-
 

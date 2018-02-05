@@ -16,6 +16,4 @@ tags: [Artificial neural network, SLAC National Accelerator Laboratory, Gravitat
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/dnal-aia082917.php)
 
-id:  424286
-
 

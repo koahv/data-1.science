@@ -16,6 +16,4 @@ tags: [featured, whats new in tech]
 
 [Visit Link](http://www.gereports.com/post/106571318265)
 
-id:   71094
-
 

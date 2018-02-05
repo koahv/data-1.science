@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEwfU33L574tJ_zykcCyrv0KdKsug&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=UoatU4C4F4jkgge_0ICoAQ&url=http://www.independent.co.uk/news/world/australasia/super-predator-that-devoured-great-white-was-probably-a-massive-deep-sea-shark-9568787.html)
 
-id:    8454
-
 

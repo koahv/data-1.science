@@ -4,7 +4,7 @@ title: "Multi stimuli-responsive nanocapsules selectively deliver drugs to exact
 date: 2016-09-21 11:30:01
 categories: Science
 author: unknown author
-tags: [bio & medicine]
+tags: [Cancer, Chemotherapy, Nanocapsule, Manufacturing, Artificial materials, Applied and interdisciplinary physics, Chemistry, Physical chemistry, Artificial objects, Materials, Materials science, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [bio & medicine]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-09-multi-stimuli-responsive-nanocapsules-drugs.html)
-
-id:  325525
 
 

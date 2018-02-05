@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/09/new-species-of-human-discovered-in-the-cradle-of-humankind-bodies-were-deliberately-placed-in-a-cave.html)
 
-id:  182641
-
 

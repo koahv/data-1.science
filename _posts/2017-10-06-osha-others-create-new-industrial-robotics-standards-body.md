@@ -16,6 +16,4 @@ tags: [Occupational Safety and Health Administration, Occupational safety and he
 
 [Visit Link](https://www.pddnet.com/news/2017/10/osha-others-create-new-industrial-robotics-standards-body)
 
-id:  436709
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2016/02/new-clues-hunt-sources-cosmic-neutrinos)
 
-id:  252049
-
 

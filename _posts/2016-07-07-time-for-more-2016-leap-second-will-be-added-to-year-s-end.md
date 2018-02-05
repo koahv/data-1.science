@@ -4,7 +4,7 @@ title: "Time for more 2016: leap second will be added to year’s end"
 date: 2016-07-07 11:40:01
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Leap second, Coordinated Universal Time, Spacetime, Physical quantities, Scientific observation, Physics, Physical sciences, Astronomy]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.newscientist.com/article/2096394-time-for-more-2016-leap-second-will-be-added-to-years-end/)
-
-id:  302360
 
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/mPjsL1YzcxA/do-atoms-going-through-a-double-slit-know-if-they-are-being-observed)
 
-id:  129171
-
 

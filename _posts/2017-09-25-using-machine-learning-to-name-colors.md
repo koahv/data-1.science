@@ -16,6 +16,4 @@ tags: [Language, Word embedding, Artificial neural network, Machine learning, Wo
 
 [Visit Link](https://opensource.com/article/17/9/color-naming-word-embeddings)
 
-id:  432152
-
 

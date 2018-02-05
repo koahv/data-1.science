@@ -16,6 +16,4 @@ tags: [sci-tech]
 
 [Visit Link](http://www.thehindu.com/sci-tech/nasa-missions-measure-solar-flare-from-space/article8499824.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-id:  276480
-
 

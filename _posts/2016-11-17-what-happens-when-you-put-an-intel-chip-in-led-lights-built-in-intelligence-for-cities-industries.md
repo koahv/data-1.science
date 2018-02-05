@@ -4,7 +4,7 @@ title: "What Happens When You Put An Intel Chip In LED Lights? Built-in Intellig
 date: 2016-11-17 10:00:57
 categories: Technology
 author: unknown author
-tags: [Electric light, Light-emitting diode, Internet of things, Street light, Lighting, Artificial objects, Light, Equipment, Electrical engineering, Technology, Manufactured goods, General Electric, Intel, Electrical components]
+tags: []
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Electric light, Light-emitting diode, Internet of things, Street light, L
 >factsheet unavailable
 
 [Visit Link](http://www.gereports.com/happens-put-intel-chip-led-light-built-intelligence/)
-
-id:  341783
 
 

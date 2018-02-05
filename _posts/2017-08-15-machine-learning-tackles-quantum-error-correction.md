@@ -16,6 +16,4 @@ tags: [Artificial neural network, Quantum computing, Machine learning, Computing
 
 [Visit Link](https://phys.org/news/2017-08-machine-tackles-quantum-error.html)
 
-id:  419298
-
 

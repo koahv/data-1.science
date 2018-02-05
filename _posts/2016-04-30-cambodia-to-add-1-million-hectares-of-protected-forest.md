@@ -4,7 +4,7 @@ title: "Cambodia to add 1 million hectares of protected forest"
 date: 2016-04-30 09:42:43
 categories: Science
 author: unknown author
-tags: [environment]
+tags: [Cambodia, Conservation biology, Greenhouse gas, Global warming, Environmental science, Natural resource management, Ecology, Physical geography, Earth sciences, Natural environment]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [environment]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-04-cambodia-million-hectares-forest.html)
-
-id:  279823
 
 

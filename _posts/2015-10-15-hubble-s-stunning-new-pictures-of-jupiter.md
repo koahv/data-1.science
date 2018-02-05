@@ -16,6 +16,4 @@ tags: [news, solar system]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/hubbles-stunning-pictures-of-jupiter-10152015/)
 
-id:  198571
-
 

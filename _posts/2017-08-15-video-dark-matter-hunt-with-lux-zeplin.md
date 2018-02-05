@@ -16,6 +16,4 @@ tags: [Weakly interacting massive particles, Dark matter, Matter, Universe, Phys
 
 [Visit Link](https://phys.org/news/2017-08-video-dark-lux-zeplin.html)
 
-id:  419362
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEPORXaOD6pnGZ3u03yADZDcYDGEA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778923797765&ei=QNDLVbDUMsSy3gGy3rTgAg&url=http://www.huffingtonpost.com/entry/scientists-year-on-mars-hawaii_55ca4093e4b0f73b20bad25c)
 
-id:  168768
-
 

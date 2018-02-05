@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/embedded-mobile/mobile-linux/787631-stephen-hawking-talks-about-the-linux-based-intel-connected-wheelchair-project/)
 
-id:   48085
-
 

@@ -16,6 +16,4 @@ tags: [Thomas Pesquet, Astronaut, International Space Station, European Space Ag
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/Proxima/Thomas_Pesquet_returns_to_Earth)
 
-id:  397759
-
 

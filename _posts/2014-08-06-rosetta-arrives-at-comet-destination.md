@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Rosetta/Rosetta_arrives_at_comet_destination)
 
-id:   32977
-
 

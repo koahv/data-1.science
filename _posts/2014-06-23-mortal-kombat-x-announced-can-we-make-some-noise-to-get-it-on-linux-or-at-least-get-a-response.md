@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.reddit.com/r/linux_gaming/comments/28u66i/mortal_kombat_x_announced_can_we_make_some_noise/)
 
-id:    2187
-
 

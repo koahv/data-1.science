@@ -16,6 +16,4 @@ tags: [Flow cytometry, Sound, Microfluidics, Chemistry, Physical sciences, Biolo
 
 [Visit Link](https://phys.org/news/2017-10-cell-technology.html)
 
-id:  440112
-
 

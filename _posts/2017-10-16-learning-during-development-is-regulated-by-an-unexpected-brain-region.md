@@ -16,6 +16,4 @@ tags: [Critical period, Brain, Thalamus, Cerebral cortex, Visual perception, Neu
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171016122153.htm)
 
-id:  440245
-
 

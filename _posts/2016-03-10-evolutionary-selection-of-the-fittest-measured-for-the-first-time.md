@@ -16,6 +16,4 @@ tags: [evolution]
 
 [Visit Link](http://phys.org/news/2016-03-evolutionary-fittest.html)
 
-id:  260972
-
 

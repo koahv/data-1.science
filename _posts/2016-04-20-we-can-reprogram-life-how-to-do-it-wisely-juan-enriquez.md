@@ -16,6 +16,4 @@ tags: [higher education]
 
 [Visit Link](http://www.ted.com/talks/juan_enriquez_we_can_reprogram_life_how_to_do_it_wisely)
 
-id:  276381
-
 

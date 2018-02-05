@@ -16,6 +16,4 @@ tags: [Cat (Unix), Filename, Text file, Computer file, Wget, Operating system, D
 
 [Visit Link](https://www.cyberciti.biz/faq/linux-unix-appleosx-bsd-cat-command-examples/)
 
-id:  474495
-
 

@@ -16,6 +16,4 @@ tags: [solar system]
 
 [Visit Link](http://www.fromquarkstoquasars.com/the-journey-to-pluto-best-images-from-the-new-horizons-mission/)
 
-id:  132648
-
 

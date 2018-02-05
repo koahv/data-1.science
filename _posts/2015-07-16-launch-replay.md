@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/spaceinvideos/Videos/2015/07/MSG-4_liftoff)
 
-id:  155683
-
 

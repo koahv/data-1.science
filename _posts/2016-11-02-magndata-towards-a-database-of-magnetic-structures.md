@@ -4,7 +4,7 @@ title: "MAGNDATA: Towards a database of magnetic structures"
 date: 2016-11-02 13:45:00
 categories: Science
 author: unknown author
-tags: [condensed matter, Crystallography, Magnetic structure, Laser, Magnetism, Condensed matter, Chemical product engineering, Materials, Physical chemistry, Condensed matter physics, Physics, Physical sciences, Materials science, Chemistry, Applied and interdisciplinary physics, Electromagnetism, Manufacturing, Database, Artificial objects, Natural philosophy]
+tags: [Crystallography, Magnetic structure, Magnetism, Physical chemistry, Condensed matter physics, Science, Materials science, Physics, Applied and interdisciplinary physics, Physical sciences, Chemistry]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [condensed matter, Crystallography, Magnetic structure, Laser, Magnetism, 
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-11-magndata-database-magnetic.html)
-
-id:  337500
 
 

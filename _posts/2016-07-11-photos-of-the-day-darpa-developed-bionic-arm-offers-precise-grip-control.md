@@ -4,7 +4,7 @@ title: "Photos of the Day: DARPA-Developed Bionic Arm Offers Precise Grip Contro
 date: 2016-07-11 21:01:58
 categories: Technology
 author: mcrouse
-tags: []
+tags: [Prosthesis, Electromyography, Artificial objects, Technology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.pddnet.com/news/2016/07/photos-day-darpa-developed-bionic-arm-offers-precise-grip-control)
-
-id:  303568
 
 

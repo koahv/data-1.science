@@ -4,7 +4,7 @@ title: "Asteroseismologists listen to the relics of the Milky Way"
 date: 2016-06-06 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Milky Way, Astronomy, Star, Asteroseismology, Physics, Kepler (spacecraft), Astronomical objects, Outer space, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/uob-alt060216.php)
-
-id:  292189
 
 

@@ -16,6 +16,4 @@ tags: [Python (programming language), Cloud computing, Machine learning, Technol
 
 [Visit Link](https://www.linux.com/news/closer-look-learning-aspect-machine-learning)
 
-id:  388717
-
 

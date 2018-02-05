@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/fos--ebu101915.php)
 
-id:  200455
-
 

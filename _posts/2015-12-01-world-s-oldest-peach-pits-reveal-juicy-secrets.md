@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/52952-oldest-peach-fossils-discovered.html)
 
-id:  218582
-
 

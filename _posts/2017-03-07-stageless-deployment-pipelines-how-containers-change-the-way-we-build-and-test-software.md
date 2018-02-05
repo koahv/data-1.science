@@ -16,6 +16,4 @@ tags: [Deployment environment, Software testing, Microservices, Systems engineer
 
 [Visit Link](https://www.linux.com/blog/stageless-deployment-pipelines-how-containers-change-way-we-build-and-test-software)
 
-id:  372087
-
 

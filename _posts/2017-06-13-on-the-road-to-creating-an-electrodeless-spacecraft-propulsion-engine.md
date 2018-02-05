@@ -16,6 +16,4 @@ tags: [Spacecraft propulsion, Plasma propulsion engine, Physics, Plasma (physics
 
 [Visit Link](https://phys.org/news/2017-06-road-electrodeless-spacecraft-propulsion.html)
 
-id:  400530
-
 

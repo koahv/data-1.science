@@ -16,6 +16,4 @@ tags: [raspberry pi, reviews, b, model b]
 
 [Visit Link](http://www.linuxuser.co.uk/reviews/raspberry-pi-model-b-review-a-new-evolution)
 
-id:   27024
-
 

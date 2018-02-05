@@ -16,6 +16,4 @@ tags: [Lets Encrypt, HTTPS, Digital technology, Hypertext, Security engineering,
 
 [Visit Link](https://letsencrypt.org//2017/01/06/le-2016-in-review.html)
 
-id:  354831
-
 

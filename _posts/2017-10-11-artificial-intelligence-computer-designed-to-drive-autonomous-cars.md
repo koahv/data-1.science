@@ -16,6 +16,4 @@ tags: [Nvidia, Graphics processing unit, Artificial objects, Computers, Computer
 
 [Visit Link](https://phys.org/news/2017-10-artificial-intelligence-autonomous-cars.html)
 
-id:  437516
-
 

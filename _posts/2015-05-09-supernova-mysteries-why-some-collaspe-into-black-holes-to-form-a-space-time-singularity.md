@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/bI3pqMyis50/supernova-mysteries-why-some-collaspe-into-black-holes-to-form-a-space-time-singularity.html)
 
-id:  120982
-
 

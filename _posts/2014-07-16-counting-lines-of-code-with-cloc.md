@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/it_management/counting-lines-of-code-with-cloc.html)
 
-id:   21701
-
 

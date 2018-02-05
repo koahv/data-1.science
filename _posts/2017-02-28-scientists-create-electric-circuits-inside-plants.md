@@ -16,6 +16,4 @@ tags: [Electricity, Plant, Electronics, Xylem, Electronic circuit, Water, Life, 
 
 [Visit Link](https://phys.org/news/2017-02-scientists-electric-circuits.html)
 
-id:  369772
-
 

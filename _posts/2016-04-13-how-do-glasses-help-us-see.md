@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/videos/2016/04/how-do-glasses-help-us-see)
 
-id:  273881
-
 

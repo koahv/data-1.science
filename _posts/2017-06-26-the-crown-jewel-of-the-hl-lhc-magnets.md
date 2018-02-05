@@ -16,6 +16,4 @@ tags: [Large Hadron Collider, CERN, High Luminosity Large Hadron Collider, Parti
 
 [Visit Link](https://phys.org/news/2017-06-crown-jewel-hl-lhc-magnets.html)
 
-id:  404159
-
 

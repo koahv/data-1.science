@@ -16,6 +16,4 @@ tags: [solar, news, hydropower, storage, wind power, geothermal]
 
 [Visit Link](http://www.renewableenergyworld.com/articles/2015/08/global-renewable-energy-roundup-china-kenya-turkey-india-seeking-more-renewables.html)
 
-id:  183484
-
 

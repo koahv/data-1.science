@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGf7_5dl9Di-D98wKpdCEn5PMwpLg&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778940957743&ei=2urkVZCGGKGm3AGX2K7ABA&url=http://www.theweathernetwork.com/us/news/articles/climate-and-environment/nasa-video-shows-every-rain-caused-landslide-since-2007/56535/)
 
-id:  177355
-
 

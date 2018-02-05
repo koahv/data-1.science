@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/muhc-eti051315.php)
 
-id:  123254
-
 

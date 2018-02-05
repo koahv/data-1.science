@@ -16,6 +16,4 @@ tags: [features, scientific method, cosmology, dark matter, dark matter detector
 
 [Visit Link](http://feeds.arstechnica.com/~r/arstechnica/index/~3/94fAyw3U_xk/)
 
-id:   15545
-
 

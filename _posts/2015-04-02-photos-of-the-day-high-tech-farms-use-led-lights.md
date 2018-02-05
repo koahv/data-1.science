@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/04/photos-day-high-tech-farms-use-led-lights)
 
-id:  105051
-
 

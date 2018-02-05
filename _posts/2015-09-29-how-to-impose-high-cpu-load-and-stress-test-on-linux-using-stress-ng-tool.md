@@ -16,6 +16,4 @@ tags: [linux commands, stress, stress-ng]
 
 [Visit Link](http://www.tecmint.com/linux-cpu-load-stress-test-with-stress-ng-tool/)
 
-id:  190897
-
 

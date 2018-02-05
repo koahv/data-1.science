@@ -16,6 +16,4 @@ tags: [European Southern Observatory, LIGO, Astronomy, Gravitational wave, Very 
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/e-eto101617.php)
 
-id:  439677
-
 

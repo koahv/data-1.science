@@ -16,6 +16,4 @@ tags: [Embryo, Stem cell, Developmental biology, Regenerative medicine, Embryoni
 
 [Visit Link](https://phys.org/news/2017-10-stem-cell-platform-human.html)
 
-id:  441312
-
 

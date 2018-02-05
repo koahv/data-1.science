@@ -4,7 +4,7 @@ title: "How sauropods gobbled their way to gigantism"
 date: 2016-12-20 14:10:01
 categories: Science
 author: unknown author
-tags: [archaeology & fossils, Dinosaur, Sauropoda, Plateosaurus, Sauropodomorpha, Camarasaurus, Skull, Mandible, Muscle, Organisms, Paleontology, Evolution]
+tags: [Dinosaur, Sauropoda, Plateosaurus, Sauropodomorpha, Camarasaurus, Paleontology, Skull, Mandible, Muscle, Organisms]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [archaeology & fossils, Dinosaur, Sauropoda, Plateosaurus, Sauropodomorpha
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-12-sauropods-gobbled-gigantism.html)
-
-id:  351071
 
 

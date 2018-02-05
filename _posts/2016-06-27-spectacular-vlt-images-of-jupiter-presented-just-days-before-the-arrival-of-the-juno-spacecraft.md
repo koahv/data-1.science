@@ -4,7 +4,7 @@ title: "Spectacular VLT images of Jupiter presented just days before the arrival
 date: 2016-06-27 10:12:22
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [European Southern Observatory, Juno (spacecraft), Very Large Telescope, Jupiter, Astronomy, Space science, Outer space, Physical sciences, Planetary science, Astronomical objects]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [space exploration]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-06-spectacular-vlt-images-jupiter-days.html)
-
-id:  298944
 
 

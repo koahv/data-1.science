@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a, stars fa
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/many-stars-universe/)
 
-id:   20731
-
 

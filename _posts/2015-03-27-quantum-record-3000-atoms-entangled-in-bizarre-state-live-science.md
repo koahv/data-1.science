@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNH7mkANdnkxeOcu_XzqHzCytCRv6g&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778786525533&ei=EIoWVdC7G9Xo3AGg3YCYBQ&url=http://www.livescience.com/50280-record-3000-atoms-entangled.html)
 
-id:  101825
-
 

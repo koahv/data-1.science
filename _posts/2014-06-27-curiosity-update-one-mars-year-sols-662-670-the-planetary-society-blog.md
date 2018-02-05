@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFGEtBQS-00fh-P4_F3BFnQwIL8SQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778543260054&ei=0n2rU9vlGojkgge_0ICoAQ&url=http://www.planetary.org/blogs/emily-lakdawalla/2014/06251314-curiosity-update-sol-670-first-marsiversary.html)
 
-id:    7013
-
 

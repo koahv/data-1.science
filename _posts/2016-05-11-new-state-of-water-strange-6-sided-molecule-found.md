@@ -4,7 +4,7 @@ title: "New State of Water: Strange 6-Sided Molecule Found"
 date: 2016-05-11 14:30:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Beryl, Properties of water, Atom, Molecule, Proton, Quantum tunnelling, Quantum mechanics, Chemistry, Physical sciences, Physics, Nature, Applied and interdisciplinary physics, Physical chemistry, Mechanics, Materials, Particle physics, Condensed matter physics, Physical universe, Materials science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.livescience.com/54710-strange-six-sided-water-molecule-found.html)
-
-id:  283633
 
 

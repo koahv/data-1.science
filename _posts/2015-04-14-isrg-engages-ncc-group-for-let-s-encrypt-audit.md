@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://letsencrypt.org//2015/04/14/ncc-group-audit.html)
 
-id:  127285
-
 

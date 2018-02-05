@@ -16,6 +16,4 @@ tags: [ICFO – The Institute of Photonic Sciences, Spin (physics), Uncertainty,
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/iiop-set032017.php)
 
-id:  376587
-
 

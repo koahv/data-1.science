@@ -4,7 +4,7 @@ title: "Explainer: What is microgravity?"
 date: 2016-04-27 12:40:07
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [Weightlessness, Micro-g environment, Gravity, Free fall, Outer space, Astronomy, Physical sciences, Space science, Physics, Spaceflight, Science, Space exploration]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [space exploration]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-04-microgravity.html)
-
-id:  278691
 
 

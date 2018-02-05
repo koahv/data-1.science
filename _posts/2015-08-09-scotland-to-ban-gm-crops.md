@@ -16,6 +16,4 @@ tags: [biotechnology]
 
 [Visit Link](http://phys.org/news/2015-08-scotland-gm-crops.html)
 
-id:  166912
-
 

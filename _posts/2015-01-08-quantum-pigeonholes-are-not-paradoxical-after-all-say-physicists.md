@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/D3uC2guvctI/quantum-pigeonholes-are-not-paradoxical-after-all-say-physicists)
 
-id:   70392
-
 

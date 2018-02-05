@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/1AunXLB0Fmk/dark-matter-galaxy-detected-in-the-far-side-of-the-milky-way.html)
 
-id:   79013
-
 

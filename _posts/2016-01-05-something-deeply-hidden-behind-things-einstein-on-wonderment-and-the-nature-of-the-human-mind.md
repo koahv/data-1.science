@@ -16,6 +16,4 @@ tags: [culture, albert einstein, books, philosophy, science]
 
 [Visit Link](https://www.brainpickings.org/2016/01/05/einstein-wonder-autobiographical-notes/)
 
-id:  231872
-
 

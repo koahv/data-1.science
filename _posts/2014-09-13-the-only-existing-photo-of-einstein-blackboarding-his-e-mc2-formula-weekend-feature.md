@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2014/09/image-of-the-day-only-existing-photo-of-einstein-deriving-emc2.html)
 
-id:   49290
-
 

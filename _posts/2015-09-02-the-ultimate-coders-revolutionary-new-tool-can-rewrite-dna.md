@@ -16,6 +16,4 @@ tags: [ge healthcare, ge healthcare life sciences, dna, genomics, crispr]
 
 [Visit Link](http://www.gereports.com/post/120470764515)
 
-id:  133675
-
 

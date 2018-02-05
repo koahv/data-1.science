@@ -16,6 +16,4 @@ tags: [news, policy, renewable energy, solar power, clean energy cost, clean ene
 
 [Visit Link](http://inhabitat.com/hawaii-aims-to-be-the-first-state-to-run-entirely-on-renewable-energy/)
 
-id:  122056
-
 

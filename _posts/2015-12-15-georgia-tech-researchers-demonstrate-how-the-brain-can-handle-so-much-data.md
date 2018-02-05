@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/giot-gtr121515.php)
 
-id:  225479
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/A5LajUM2wLU/higgs-boson-the-starting-point-for-a-new-model-of-the-universe.html)
 
-id:    2994
-
 

@@ -16,6 +16,4 @@ tags: [black holes, galaxies, news]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/most-luminous-galaxy-0527201587/)
 
-id:  129702
-
 

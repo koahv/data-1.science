@@ -16,6 +16,4 @@ tags: [Ferromagnetism, Magnetism, Electron, Laser, Graphene, Physical sciences, 
 
 [Visit Link](https://phys.org/news/2017-06-scientists-d-magnet.html)
 
-id:  399002
-
 

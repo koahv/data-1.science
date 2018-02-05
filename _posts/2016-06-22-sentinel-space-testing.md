@@ -4,7 +4,7 @@ title: "Sentinel space testing"
 date: 2016-06-22 14:55:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Satellite, European Space Agency, Vacuum, Technology, Aerospace engineering, Space colonization, Astronautics, Space technology, Spacecraft, Space exploration, Outer space, Spaceflight, Spaceflight technologies, Flight, Aerospace]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Images/2016/06/Sentinel-2B_entering_LSS)
-
-id:  297637
 
 

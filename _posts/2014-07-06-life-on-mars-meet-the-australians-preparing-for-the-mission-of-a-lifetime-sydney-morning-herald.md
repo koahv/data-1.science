@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEubAJsf14vM1cLwd-5VI5K9wsSLA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778549153640&ei=5b-3U4iUMIeHggfR3YHYCA&url=http://www.smh.com.au/technology/sci-tech/life-on-mars-meet-the-australians-preparing-for-the-mission-of-a-lifetime-20140705-zsxch.html)
 
-id:   13819
-
 

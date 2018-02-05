@@ -16,6 +16,4 @@ tags: [energy]
 
 [Visit Link](http://www.theneweconomy.com/energy/new-highways-to-charge-electric-cars-as-they-drive)
 
-id:  196707
-
 

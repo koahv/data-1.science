@@ -16,6 +16,4 @@ tags: [DESY, Electron, SLAC National Accelerator Laboratory, Molecule, Free-elec
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/05/170531133323.htm)
 
-id:  397123
-
 

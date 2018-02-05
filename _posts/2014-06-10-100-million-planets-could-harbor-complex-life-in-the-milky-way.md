@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/aoQ4ag7xolc/100-million-planets-could-harbor-complex-life-in-the-milky-way.html)
 
-id:     529
-
 

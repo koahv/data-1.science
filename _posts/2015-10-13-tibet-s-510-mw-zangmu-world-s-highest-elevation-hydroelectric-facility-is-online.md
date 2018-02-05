@@ -16,6 +16,4 @@ tags: [hydropower, asia]
 
 [Visit Link](http://www.renewableenergyworld.com/articles/hydro/2015/2015/10/tibet-s-510-mw-zangmu-world-s-highest-elevation-hydroelectric-facility-is-online.html)
 
-id:  197760
-
 

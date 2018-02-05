@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/naos-ohg120315.php)
 
-id:  219751
-
 

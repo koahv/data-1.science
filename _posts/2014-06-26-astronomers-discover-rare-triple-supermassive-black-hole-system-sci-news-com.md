@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGCMnw_wheA9lJE7jTkvUx1mBsjXw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778543217711&ei=2gesU6CeKtHzggeDi4HAAw&url=http://www.sci-news.com/astronomy/science-triple-supermassive-black-hole-system-02022.html)
 
-id:    7276
-
 

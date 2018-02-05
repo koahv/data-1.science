@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/yooNcJs9R-4/-dwarf-planet-ceres-a-game-changer-in-the-solar-system.html)
 
-id:   77068
-
 

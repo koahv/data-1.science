@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/Blue_dot/Highlights/Science_in_space)
 
-id:   49958
-
 

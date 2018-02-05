@@ -16,6 +16,4 @@ tags: [Name server, Domain Name System, Hostname, Root name server, Domain name,
 
 [Visit Link](https://opensource.com/article/17/4/introduction-domain-name-system-dns)
 
-id:  381088
-
 

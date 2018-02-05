@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/au-dnf092415.php)
 
-id:  188920
-
 

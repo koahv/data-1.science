@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/articles/2014/07/cockpit-future-has-holograms-augmented-reality)
 
-id:   17410
-
 

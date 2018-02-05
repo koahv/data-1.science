@@ -4,7 +4,7 @@ title: "Understanding Different Classifications of Shell Commands and Their Usag
 date: 2016-08-26 07:36:18
 categories: Linux
 author: Aaron Kili
-tags: [linux commands, linux tricks]
+tags: [Command-line interface, Alias (command), Bash (Unix shell), Software engineering, Software, Computer programming, Operating system technology, System software, Areas of computer science, Computing]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [linux commands, linux tricks]
 >factsheet unavailable
 
 [Visit Link](http://www.tecmint.com/understanding-different-linux-shell-commands-usage/)
-
-id:  318023
 
 

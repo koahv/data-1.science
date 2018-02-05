@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/epfd-gib040516.php)
 
-id:  270953
-
 

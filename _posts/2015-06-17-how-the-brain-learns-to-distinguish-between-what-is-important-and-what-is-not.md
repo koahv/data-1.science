@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/uob-htb061715.php)
 
-id:  140733
-
 

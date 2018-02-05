@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/teia-aoc062314.php)
 
-id:    7729
-
 

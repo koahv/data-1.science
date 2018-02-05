@@ -4,7 +4,7 @@ title: "Science instruments of NASA's James Webb Space Telescope successfully in
 date: 2016-05-24 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [James Webb Space Telescope, European Space Agency, Aerospace, Scientific exploration, Space-based economy, NASA, Space traffic management, Aerospace engineering, Space programs, Aerospace agencies, Spaceflight technologies, Astronomy, Space agencies, Flight, Space colonization, Astronautics, Spacecraft, Space technology, Space exploration, Spaceflight, Outer space]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/nsfc-sio052416.php)
-
-id:  288401
 
 

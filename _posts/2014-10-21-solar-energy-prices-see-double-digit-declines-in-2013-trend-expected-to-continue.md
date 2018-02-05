@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-10/drel-sep102114.php)
 
-id:   54676
-
 

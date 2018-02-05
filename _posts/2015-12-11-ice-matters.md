@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_for_climate/Ice_matters)
 
-id:  223671
-
 

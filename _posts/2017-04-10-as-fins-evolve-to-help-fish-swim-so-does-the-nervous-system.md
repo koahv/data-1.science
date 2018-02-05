@@ -16,6 +16,4 @@ tags: [Fish fin, Evolution, Biology, Fish, Wrasse, Organism, Organisms, Life sci
 
 [Visit Link](https://phys.org/news/2017-04-fins-evolve-fish-nervous.html)
 
-id:  382154
-
 

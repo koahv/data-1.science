@@ -4,7 +4,7 @@ title: "Mars-bound astronauts face chronic dementia risk from galactic cosmic ra
 date: 2016-10-10 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Health threat from cosmic rays, Neuroscience, Nervous system, Health, Brain, Biology]
+tags: [Health threat from cosmic rays, Neuroscience, Health, Nervous system]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Health threat from cosmic rays, Neuroscience, Nervous system, Health, Bra
 >factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/uoc--maf100716.php)
-
-id:  330672
 
 

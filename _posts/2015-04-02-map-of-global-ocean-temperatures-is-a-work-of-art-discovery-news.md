@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFTtb7ppqh2UwuAAV2CUC3yYJQe6g&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778793889554&ei=wiweVaflL5LR3AH2sIHACw&url=http://news.discovery.com/earth/map-of-global-ocean-temperatures-is-a-work-of-art-150402.htm)
 
-id:  104483
-
 

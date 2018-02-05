@@ -16,6 +16,4 @@ tags: [environment]
 
 [Visit Link](http://phys.org/news/2016-03-island-biodiversity-oceans-rose-years.html)
 
-id:  268600
-
 

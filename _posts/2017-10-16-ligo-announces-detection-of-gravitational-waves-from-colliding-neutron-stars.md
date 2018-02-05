@@ -16,6 +16,4 @@ tags: [LIGO, Gravitational wave, First observation of gravitational waves, Natur
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoc-lad101617.php)
 
-id:  439676
-
 

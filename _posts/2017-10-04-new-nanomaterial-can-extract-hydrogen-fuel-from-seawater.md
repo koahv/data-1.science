@@ -16,6 +16,4 @@ tags: [Solar energy, Fuel, Photocatalysis, Water, Energy, Nano flake, Alternativ
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uocf-nnc100417.php)
 
-id:  435299
-
 

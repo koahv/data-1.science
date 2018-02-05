@@ -4,7 +4,7 @@ title: "Radical New Theory of Gravity --"An Emergent Phenomenon, Not a Fundament
 date: 2016-11-08 15:01:41
 categories: Astronomy
 author: dailygalaxy.com
-tags: [Erik Verlinde, Modified Newtonian dynamics, Gravity, Dark matter, Physics, Matter, Universe, Elementary particle, Big Bang, Dark energy, Natural philosophy, Physical cosmology, Physical quantities, Spacetime, Particle physics, Theoretical physics, Scientific theories, Science, Physical universe, Mechanics, Epistemology of science, Cosmology, Classical mechanics, Applied and interdisciplinary physics, Metaphysics, Scientific method, Physical sciences, Astronomy, Nature, Modern physics, Force, Milky Way, Academic discipline interactions, Mechanical engineering, Philosophy, Quantum entanglement]
+tags: [Erik Verlinde, Modified Newtonian dynamics, Gravity, Dark matter, Physics, Matter, Universe, Elementary particle, Big Bang, Dark energy, Theoretical physics, Particle physics, Metaphysics, Physical sciences, Cosmology, Modern physics, Nature, Astronomy, Scientific method, Applied and interdisciplinary physics, Mechanics, Classical mechanics, Natural philosophy, Epistemology of science, Physical universe, Scientific theories, Spacetime, Science, Physical quantities, Physical cosmology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Erik Verlinde, Modified Newtonian dynamics, Gravity, Dark matter, Physics
 >factsheet unavailable
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/11/radical-new-theory-of-gravity-an-emergent-phenomenon-not-a-fundamental-force-of-the-universe.html)
-
-id:  339217
 
 

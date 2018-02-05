@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHjnmkB3kcSfvdwxQWhYq-85MxKdQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778547764079&ei=Qoy0U6CwJIrKgAfYtoCwAQ&url=http://guardianlv.com/2014/07/nasa-successfully-propels-new-satellite-into-the-earth-atmospheric-space/)
 
-id:   12352
-
 

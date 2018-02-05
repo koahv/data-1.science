@@ -16,6 +16,4 @@ tags: [green graphics & packaging, green technology, humanitarian design, comput
 
 [Visit Link](http://inhabitat.com/infographic-you-wont-believe-how-many-world-changing-inventions-came-from-nasa/)
 
-id:   50929
-
 

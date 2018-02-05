@@ -16,6 +16,4 @@ tags: [Quantum mechanics, Quantum entanglement, Physics, Science, Solid state en
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/uov-whb032117.php)
 
-id:  376010
-
 

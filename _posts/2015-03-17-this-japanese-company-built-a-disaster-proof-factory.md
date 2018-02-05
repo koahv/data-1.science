@@ -16,6 +16,4 @@ tags: [distributed power, ge power & water, japan, waukesha, led]
 
 [Visit Link](http://www.gereports.com/post/113798852100)
 
-id:   96595
-
 

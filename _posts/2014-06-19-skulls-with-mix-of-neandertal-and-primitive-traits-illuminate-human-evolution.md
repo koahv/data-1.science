@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/aaft-swm061314.php)
 
-id:    2777
-
 

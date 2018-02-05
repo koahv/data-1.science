@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/big-sun/)
 
-id:   20569
-
 

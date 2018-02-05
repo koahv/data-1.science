@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.nationalgeographic.com/2015/09/human-evolution-101/)
 
-id:  183967
-
 

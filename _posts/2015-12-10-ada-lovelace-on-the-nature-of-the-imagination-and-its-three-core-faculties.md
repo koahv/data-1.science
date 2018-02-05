@@ -16,6 +16,4 @@ tags: [culture, ada lovelace, books, creativity, letters, science]
 
 [Visit Link](https://www.brainpickings.org/2015/12/10/ada-lovelace-imagination/)
 
-id:  222824
-
 

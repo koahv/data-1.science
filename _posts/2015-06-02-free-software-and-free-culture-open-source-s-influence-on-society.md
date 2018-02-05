@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://thevarguy.com/open-source-application-software-companies/051415/free-software-and-free-culture-open-sources-influence-soc)
 
-id:  123118
-
 

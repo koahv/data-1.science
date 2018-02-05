@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gereports.com/cities-of-2050-data-and-tech-will-fuel-the-megacities-of-the-future/)
 
-id:  388006
-
 

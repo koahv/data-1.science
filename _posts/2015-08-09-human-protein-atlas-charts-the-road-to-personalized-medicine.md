@@ -16,6 +16,4 @@ tags: [dna, personalized medicine, genomics, human protein atlas, proteins, ge h
 
 [Visit Link](http://www.gereports.com/post/121207657260)
 
-id:  137144
-
 

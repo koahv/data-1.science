@@ -16,6 +16,4 @@ tags: [infographics, gravity, max planck, physics, planck temperature, space, un
 
 [Visit Link](http://www.fromquarkstoquasars.com/coldest-hottest-temperatures-known-universe-infographic/)
 
-id:   81892
-
 

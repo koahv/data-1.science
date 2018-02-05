@@ -16,6 +16,4 @@ tags: [Renewable energy, Power station, Italy, Energy sources, Power (physics), 
 
 [Visit Link](https://inhabitat.com/italy-seeks-to-phase-out-coal-power-plants-by-2025)
 
-id:  444771
-
 

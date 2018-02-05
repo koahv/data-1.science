@@ -16,6 +16,4 @@ tags: [physics, absolute zero, coldest temperature, friction]
 
 [Visit Link](http://www.fromquarkstoquasars.com/quest-side-absolute-zero/)
 
-id:   60817
-
 

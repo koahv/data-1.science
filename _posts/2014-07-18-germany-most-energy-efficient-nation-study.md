@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.energy-daily.com/reports/Germany_most_energy_efficient_nation_study_999.html)
 
-id:   23117
-
 

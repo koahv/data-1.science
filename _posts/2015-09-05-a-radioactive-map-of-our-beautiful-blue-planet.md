@@ -16,6 +16,4 @@ tags: [earth science, energy, nature, nuclear energy, science]
 
 [Visit Link](https://www.siliconrepublic.com/earth-science/2015/09/05/a-radioactive-map-of-our-beautiful-blue-planet)
 
-id:  180058
-
 

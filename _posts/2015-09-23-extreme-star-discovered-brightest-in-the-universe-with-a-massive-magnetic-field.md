@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/09/-extreme-star-discovered-brightest-in-the-universe-with-a-massive-magnetic-field.html)
 
-id:  188380
-
 

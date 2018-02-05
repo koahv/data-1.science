@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gamingonlinux.com/articles/gol-survey-results-may.5495)
 
-id:  135875
-
 

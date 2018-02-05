@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/mbae-sif022715.php)
 
-id:   90421
-
 

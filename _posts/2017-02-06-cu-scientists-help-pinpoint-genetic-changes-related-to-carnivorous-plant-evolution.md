@@ -16,6 +16,4 @@ tags: [University of Colorado Denver, Carnivorous plant, Biology, Organisms, Lif
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/uoca-csh020317.php)
 
-id:  363244
-
 

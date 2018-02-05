@@ -16,6 +16,4 @@ tags: [physics, solar system, convection, corona, electromagnetic spectrum, gran
 
 [Visit Link](http://www.fromquarkstoquasars.com/photons-million-year-journey-center-sun/)
 
-id:  175218
-
 

@@ -16,6 +16,4 @@ tags: [Biodiversity, Species, Mountain, Fossil, Alps, American Association for t
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/fm-nse033117.php)
 
-id:  380192
-
 

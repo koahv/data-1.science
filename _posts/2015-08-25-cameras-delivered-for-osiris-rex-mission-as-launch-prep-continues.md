@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/08/cameras-delivered-osiris-rex-mission-launch-prep-continues)
 
-id:  174633
-
 

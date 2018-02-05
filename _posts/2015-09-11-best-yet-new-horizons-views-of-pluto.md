@@ -16,6 +16,4 @@ tags: [news, solar system, spacecraft and space missions]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/dramatic-new-horizons-views-of-pluto-and-charon-091120155/)
 
-id:  183074
-
 

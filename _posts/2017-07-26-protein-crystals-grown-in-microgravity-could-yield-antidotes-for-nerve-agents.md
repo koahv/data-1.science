@@ -16,6 +16,4 @@ tags: [X-ray crystallography, Crystallography, Protein, International Space Stat
 
 [Visit Link](https://phys.org/news/2017-07-protein-crystals-grown-microgravity-yield.html)
 
-id:  413335
-
 

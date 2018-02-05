@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Landing_site_recommended_for_ExoMars_2018)
 
-id:  200954
-
 

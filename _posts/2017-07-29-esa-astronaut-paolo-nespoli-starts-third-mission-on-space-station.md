@@ -16,6 +16,4 @@ tags: [International Space Station, Paolo Nespoli, Aerospace engineering, Space 
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/ESA_astronaut_Paolo_Nespoli_starts_third_mission_on_Space_Station)
 
-id:  414360
-
 

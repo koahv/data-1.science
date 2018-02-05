@@ -16,6 +16,4 @@ tags: [Fordham University, Evolution, Adaptation, University of Toronto Mississa
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/uot-aca103017.php)
 
-id:  448526
-
 

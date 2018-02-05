@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/51917-gmo-herbicides-health.html)
 
-id:  171902
-
 

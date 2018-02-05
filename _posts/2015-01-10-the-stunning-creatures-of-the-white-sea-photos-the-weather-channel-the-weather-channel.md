@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGN9eSa7djydNMkL3pKSdUGaP-YOQ&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=ytSwVLC8OsLxgQeYtIG4CQ&url=http://www.weather.com/science/news/alexander-semenov-white-sea-photos)
 
-id:   71635
-
 

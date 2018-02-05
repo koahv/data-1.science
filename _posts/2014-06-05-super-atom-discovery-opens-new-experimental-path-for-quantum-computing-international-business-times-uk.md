@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNH9FGu-_qKQVO3m47NiquVSSQ_vwQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778527096312&ei=xAa1U_DRHojGgQfF44HoCQ&url=http://www.ibtimes.co.uk/super-atom-discovery-opens-new-experimental-path-quantum-computing-1451381)
 
-id:   12555
-
 

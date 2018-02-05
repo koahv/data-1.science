@@ -16,6 +16,4 @@ tags: [University of Texas Southwestern Medical Center, Cryo-electron microscopy
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/usmc-fas101217.php)
 
-id:  438854
-
 

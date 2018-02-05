@@ -16,6 +16,4 @@ tags: [ssh, system administration, putty, puttygen, ssh-keygen]
 
 [Visit Link](http://linux-audit.com/using-ssh-keys-instead-of-passwords/)
 
-id:  191472
-
 

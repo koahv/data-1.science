@@ -16,6 +16,4 @@ tags: [fossil fuels, green graphics & packaging, solar power, global warming, in
 
 [Visit Link](http://inhabitat.com/infographic-ending-our-fossil-fuel-addiction-by-2050/)
 
-id:  244844
-
 

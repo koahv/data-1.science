@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/bc-nsf081415.php)
 
-id:  170322
-
 

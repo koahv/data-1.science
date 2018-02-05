@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/YG9N9CpxSKk/vast-oceans-of-water-may-be-trapped-in-earths-interior.html)
 
-id:     516
-
 

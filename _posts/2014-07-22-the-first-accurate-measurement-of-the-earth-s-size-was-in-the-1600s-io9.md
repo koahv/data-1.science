@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNH5-CQP1OoD7LCHU9cyS7HVVnk7Yw&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=QjLOU_i2NObNwQH-zYDICA&url=http://space.io9.com/the-first-accurate-measurement-of-the-earths-size-was-i-1608783497/%2Bkatharinetrendacosta)
 
-id:   25093
-
 

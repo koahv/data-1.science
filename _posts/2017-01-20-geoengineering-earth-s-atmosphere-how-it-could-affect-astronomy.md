@@ -16,6 +16,4 @@ tags: [Climate engineering, Global warming, Effects of global warming, Atmospher
 
 [Visit Link](http://www.livescience.com/57567-geoengineering-earth-atmosphere-could-affect-astronomy.html)
 
-id:  358726
-
 

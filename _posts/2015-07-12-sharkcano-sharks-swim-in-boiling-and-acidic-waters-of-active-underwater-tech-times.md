@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFVvKwvK9--mxick6wPEBsLoyjxRQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778898594705&ei=LHOiVbjkEMK33gHyv5fYBA&url=http://www.techtimes.com/articles/68033/20150712/sharkcano-sharks-swim-in-boiling-and-acidic-waters-of-active-underwater-volcano-video.htm)
 
-id:  153375
-
 

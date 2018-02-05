@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/developer/51-useful-lesser-known-commands-for-linux-users-150919233022.html)
 
-id:  187530
-
 

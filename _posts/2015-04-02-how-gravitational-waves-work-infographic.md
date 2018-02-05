@@ -16,6 +16,4 @@ tags: [infographics, einstein, gravitational waves, gravity, physics, space, spa
 
 [Visit Link](http://www.fromquarkstoquasars.com/the-physics-of-gravitational-waves-heres-how-they-work-infographic/)
 
-id:  104312
-
 

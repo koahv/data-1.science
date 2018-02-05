@@ -16,6 +16,4 @@ tags: [Evolution, Gene duplication, Gene, Spider, Genome, Biology, Paleopolyploi
 
 [Visit Link](https://phys.org/news/2017-07-rare-genome-duplication-spider-evolution.html)
 
-id:  414814
-
 

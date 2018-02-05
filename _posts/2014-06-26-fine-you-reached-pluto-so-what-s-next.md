@@ -16,6 +16,4 @@ tags: [uncategorized, hubble, kuiper belt object, nasa, new horizons, pluto, spa
 
 [Visit Link](http://time.com/2921174/pluto-spacecraft-whats-next/)
 
-id:    7503
-
 

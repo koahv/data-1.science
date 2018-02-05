@@ -16,6 +16,4 @@ tags: [Port (computer networking), Nmap, Transmission Control Protocol, Firewall
 
 [Visit Link](https://www.cyberciti.biz/networking/nmap-command-examples-tutorials/)
 
-id:  474491
-
 

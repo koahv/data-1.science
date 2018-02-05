@@ -4,7 +4,7 @@ title: "Largest Ever Space Mirror Revealed by NASA"
 date: 2016-04-28 20:23:04
 categories: Technology
 author: mcrouse
-tags: []
+tags: [James Webb Space Telescope, Hubble Space Telescope, Telescope, Spaceflight technologies, Outer space, Space technology, Spaceflight, Space exploration, Astronomy, Spacecraft, Space science, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2016/04/largest-ever-space-mirror-revealed-nasa)
-
-id:  279451
 
 

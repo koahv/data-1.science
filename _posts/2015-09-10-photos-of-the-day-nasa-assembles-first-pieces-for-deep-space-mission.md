@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/09/photos-day-nasa-assembles-first-pieces-deep-space-mission-0)
 
-id:  182259
-
 

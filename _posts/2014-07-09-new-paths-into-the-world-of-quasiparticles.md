@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/uoi-npi070814.php)
 
-id:   16649
-
 

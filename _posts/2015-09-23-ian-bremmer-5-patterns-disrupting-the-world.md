@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gereports.com/post/129651952243/ian-bremmer-5-political-risks-set-to-disrupt-the-world/)
 
-id:  189903
-
 

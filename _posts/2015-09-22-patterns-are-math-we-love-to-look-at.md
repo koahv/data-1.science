@@ -16,6 +16,4 @@ tags: [mathematics]
 
 [Visit Link](http://phys.org/news/2015-09-patterns-math.html)
 
-id:  187827
-
 

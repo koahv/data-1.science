@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/KfoH0WS60Qg/a-quantum-sense-of-smell)
 
-id:   99695
-
 

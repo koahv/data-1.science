@@ -16,6 +16,4 @@ tags: [Rosetta (spacecraft), Philae (spacecraft), Comet, Astronautics, Space sci
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Images/2017/09/Rosetta_s_ever-changing_view_of_a_comet)
 
-id:  432135
-
 

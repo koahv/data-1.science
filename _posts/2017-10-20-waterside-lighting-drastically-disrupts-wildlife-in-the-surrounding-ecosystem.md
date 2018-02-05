@@ -16,6 +16,4 @@ tags: [Ecology, Biodiversity, Ecosystem, Natural environment, Conservation, Natu
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/f-wld101317.php)
 
-id:  441954
-
 

@@ -4,7 +4,7 @@ title: "First detection of boron on the surface of Mars"
 date: 2016-12-13 05:00:00
 categories: Astronomy
 author: unknown author
-tags: [Curiosity (rover), Mars, Los Alamos National Laboratory, Rock (geology), Nature, Gale (crater), Sediment, Planetary science, Earth sciences]
+tags: [Curiosity (rover), Mars, Los Alamos National Laboratory, Rock (geology), Nature]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Curiosity (rover), Mars, Los Alamos National Laboratory, Rock (geology), 
 >factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-12/danl-fdo121316.php)
-
-id:  349057
 
 

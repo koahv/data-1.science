@@ -4,7 +4,7 @@ title: "Network Time Keeps on Ticking with Long-Running NTP Project"
 date: 2016-04-28 14:48:48
 categories: Linux
 author: aankerholz
-tags: []
+tags: [Network Time Protocol, Computer network, Clock, Computing, Technology, Computer architecture, Computer networking, Computer engineering, Digital technology, Computers]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/network-time-keeps-ticking-long-running-ntp-project)
-
-id:  279169
 
 

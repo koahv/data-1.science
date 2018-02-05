@@ -16,6 +16,4 @@ tags: [beyond the printed page, sky & telescope magazine, gravitational waves]
 
 [Visit Link](http://www.skyandtelescope.com/sky-and-telescope-magazine/beyond-the-printed-page/beyond-the-printed-page-gravitational-waves/)
 
-id:  185916
-
 

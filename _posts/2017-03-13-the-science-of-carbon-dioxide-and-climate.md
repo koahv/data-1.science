@@ -16,6 +16,4 @@ tags: [Greenhouse gas, Global warming, Greenhouse effect, Earth, Climate change,
 
 [Visit Link](https://phys.org/news/2017-03-science-carbon-dioxide-climate.html)
 
-id:  373501
-
 

@@ -16,6 +16,4 @@ tags: [World Wide Web, Information technology management, Digital media, Digital
 
 [Visit Link](https://www.linux.com/news/google-infrastructure-security-design-overview)
 
-id:  357577
-
 

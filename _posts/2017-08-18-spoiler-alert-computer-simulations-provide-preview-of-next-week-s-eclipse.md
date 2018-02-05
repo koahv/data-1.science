@@ -16,6 +16,4 @@ tags: [Corona, Sun, Weather, Space weather, Solar Dynamics Observatory, Predicti
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-08/uota-sac081817.php)
 
-id:  420602
-
 

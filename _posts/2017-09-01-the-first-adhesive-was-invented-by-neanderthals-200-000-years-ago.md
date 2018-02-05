@@ -16,6 +16,4 @@ tags: [Homo sapiens, Neanderthal, Anatomically modern human, Homo]
 
 [Visit Link](https://www.livescience.com/60302-first-adhesive-invented-by-neanderthals.html)
 
-id:  425076
-
 

@@ -4,7 +4,7 @@ title: "Accelerating materials discovery"
 date: 2016-08-15 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [OLED, Technology, Artificial objects, Science and technology, Chemistry]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/hu-amd081416.php)
-
-id:  314287
 
 

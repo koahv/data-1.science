@@ -16,6 +16,4 @@ tags: [Juno (spacecraft), Jupiter, Planet, Outer space, Planetary science, Astro
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-01/uoc--erm012017.php)
 
-id:  359159
-
 

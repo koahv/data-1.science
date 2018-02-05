@@ -16,6 +16,4 @@ tags: [Computing, Security hacker, Quantum computing, University of Ottawa, Info
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/uoo-pqc020317.php)
 
-id:  362864
-
 

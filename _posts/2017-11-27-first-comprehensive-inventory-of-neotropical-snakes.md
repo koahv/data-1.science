@@ -16,6 +16,4 @@ tags: [Biodiversity, Neotropical realm, Species, Taxonomy (biology), Mexico, Evo
 
 [Visit Link](https://phys.org/news/2017-11-comprehensive-neotropical-snakes.html)
 
-id:  458938
-
 

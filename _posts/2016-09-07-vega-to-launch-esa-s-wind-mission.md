@@ -4,7 +4,7 @@ title: "Vega to launch ESA’s wind mission"
 date: 2016-09-07 07:30:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [ADM-Aeolus, Spacecraft, Spaceflight, Outer space, Space exploration, Space technology, Astronautics, Physical sciences, Space colonization, Applied and interdisciplinary physics, Spaceflight technologies, Flight, Aerospace engineering]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/The_Living_Planet_Programme/Earth_Explorers/ADM-Aeolus/Vega_to_launch_ESA_s_wind_mission)
-
-id:  321303
 
 

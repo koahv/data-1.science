@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTgyMTE)
 
-id:   57196
-
 

@@ -16,6 +16,4 @@ tags: [carbon pricing, clean power, co2 emissions, coal, consumer technology, fo
 
 [Visit Link](http://cleantechnica.com/2015/12/03/wind-solar-cheaper-than-fossils-nuclear-now/)
 
-id:  219498
-
 

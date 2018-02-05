@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://opensource.com/life/15/3/pi-day-special-7-raspberry-pi-pieces)
 
-id:   95305
-
 

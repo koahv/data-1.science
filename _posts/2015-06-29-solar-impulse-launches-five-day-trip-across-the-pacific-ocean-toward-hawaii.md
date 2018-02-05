@@ -16,6 +16,4 @@ tags: [clean tech, green technology, green transportation, news, solar power, cl
 
 [Visit Link](http://inhabitat.com/solar-impulse-has-finally-set-off-across-the-pacific-toward-hawaii/)
 
-id:  157893
-
 

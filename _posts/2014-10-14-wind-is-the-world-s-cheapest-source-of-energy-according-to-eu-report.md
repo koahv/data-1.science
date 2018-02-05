@@ -16,6 +16,4 @@ tags: [energy efficiency, news, renewable energy, wind power, cheapest power sou
 
 [Visit Link](http://inhabitat.com/onshore-wind-power-is-cheapest-source-of-energy-says-eu-report/)
 
-id:   54978
-
 

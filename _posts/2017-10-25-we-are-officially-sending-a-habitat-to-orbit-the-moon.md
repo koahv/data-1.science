@@ -16,6 +16,4 @@ tags: [B330, Bigelow Aerospace, Space colonization, Space technology, Space-base
 
 [Visit Link](https://futurism.com/we-are-officially-sending-a-habitat-to-orbit-the-moon/)
 
-id:  444931
-
 

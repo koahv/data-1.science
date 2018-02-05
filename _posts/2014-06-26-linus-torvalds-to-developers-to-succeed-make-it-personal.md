@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/enterprise/biz-enterprise/778373-linus-torvalds-to-developers-to-succeed-make-it-personal/)
 
-id:    7605
-
 

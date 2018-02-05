@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.ted.com/talks/elizabeth_wayne_we_can_hack_our_immune_cells_to_fight_cancer?rss=)
 
-id:  440362
-
 

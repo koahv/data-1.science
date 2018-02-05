@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gereports.com/nasa-saturns-moon-enceladus-basic-ingredients-life/)
 
-id:  383982
-
 

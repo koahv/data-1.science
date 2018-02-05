@@ -16,6 +16,4 @@ tags: [opensource]
 
 [Visit Link](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ugg7HTEgzlk/story01.htm)
 
-id:   11925
-
 

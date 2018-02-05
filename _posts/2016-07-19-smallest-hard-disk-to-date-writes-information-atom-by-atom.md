@@ -4,7 +4,7 @@ title: "Smallest Hard Disk to Date Writes Information Atom by Atom"
 date: 2016-07-19 07:00:00
 categories: Linux
 author: Science Daily
-tags: []
+tags: [Computer engineering, Computer data storage, Computer architecture, Computing, Computer data, Computer hardware, Computers, Data, Areas of computer science, Information storage, Digital technology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.linux.com/news/smallest-hard-disk-date-writes-information-atom-atom)
-
-id:  305997
 
 

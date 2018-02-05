@@ -16,6 +16,4 @@ tags: [Elementary particle, ATLAS experiment, D0 experiment, W and Z bosons, Hig
 
 [Visit Link](https://phys.org/news/2017-04-atlas-symmetries-nature.html)
 
-id:  382385
-
 

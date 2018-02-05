@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2015-08-fossil-skulls-reveal-insights-penguin.html)
 
-id:  175479
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/acs-pas072215.php)
 
-id:  158739
-
 

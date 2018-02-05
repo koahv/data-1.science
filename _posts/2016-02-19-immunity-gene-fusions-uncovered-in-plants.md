@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/tgac-igf021616.php)
 
-id:  252675
-
 

@@ -4,7 +4,7 @@ title: "Engineers develop a new biosensor chip for detecting DNA mutations"
 date: 2016-06-14 10:58:22
 categories: Science
 author: unknown author
-tags: [bio & medicine]
+tags: [Single-nucleotide polymorphism, DNA, Complementarity (molecular biology), Mutation, Biosensor, Integrated circuit, Organisms, Biology, Artificial objects, Chemistry, Molecular biology, Biochemistry, Biotechnology, Genetics, Life sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [bio & medicine]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-06-biosensor-chip-dna-mutations.html)
-
-id:  294611
 
 

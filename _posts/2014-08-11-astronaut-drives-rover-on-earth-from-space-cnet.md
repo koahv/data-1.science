@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGCZKzP5tsWV-vMXkC2f2R9zPtifA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778582134039&ei=JSXpU_r4HobawAHb5oCYAw&url=http://www.cnet.com/news/astronaut-drives-rover-on-earth-from-space/)
 
-id:   36555
-
 

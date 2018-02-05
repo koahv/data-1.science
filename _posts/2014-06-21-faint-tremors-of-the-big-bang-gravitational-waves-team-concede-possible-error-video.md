@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/pZNUJli-rMg/gravitational-waves-discovers-concede-possible-error.html)
 
-id:     503
-
 

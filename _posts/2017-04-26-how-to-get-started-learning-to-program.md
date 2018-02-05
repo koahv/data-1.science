@@ -16,6 +16,4 @@ tags: [Computing, Software]
 
 [Visit Link](https://www.linux.com/news/how-get-started-learning-program-0)
 
-id:  387224
-
 

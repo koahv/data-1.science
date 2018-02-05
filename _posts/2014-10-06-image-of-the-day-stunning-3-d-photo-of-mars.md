@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/qLUDTBMt_6E/-image-of-the-day-stunning-3-d-image-of-mars.html)
 
-id:   53252
-
 

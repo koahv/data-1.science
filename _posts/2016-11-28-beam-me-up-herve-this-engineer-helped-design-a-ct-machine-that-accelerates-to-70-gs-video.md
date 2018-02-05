@@ -4,7 +4,7 @@ title: "Beam Me Up, Herve: This Engineer Helped Design A CT Machine That Acceler
 date: 2016-11-28 11:32:54
 categories: Technology
 author: unknown author
-tags: [CT scan, Medical imaging, G-force, Radiology, Imaging, Applied and interdisciplinary physics, Physics, Technology, Optics, Radiation]
+tags: []
 ---
 
 
@@ -15,7 +15,5 @@ tags: [CT scan, Medical imaging, G-force, Radiology, Imaging, Applied and interd
 >factsheet unavailable
 
 [Visit Link](http://www.gereports.com/picture-worth-70gs-space-physics-medical-imaging-collide-views-can-world/)
-
-id:  335636
 
 

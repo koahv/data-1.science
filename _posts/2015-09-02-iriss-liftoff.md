@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2015/09/iriss_mission_liftoff)
 
-id:  178027
-
 

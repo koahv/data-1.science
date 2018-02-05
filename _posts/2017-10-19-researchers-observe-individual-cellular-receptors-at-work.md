@@ -16,6 +16,4 @@ tags: [G protein, Receptor (biochemistry), Protein, G protein–coupled receptor
 
 [Visit Link](https://phys.org/news/2017-10-individual-cellular-receptors.html)
 
-id:  441230
-
 

@@ -16,6 +16,4 @@ tags: [cosmology, news, dark matter]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/how-slippery-is-dark-matter-0330201534/)
 
-id:  102562
-
 

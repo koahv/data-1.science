@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-10/ps-lsb103014.php)
 
-id:   57549
-
 

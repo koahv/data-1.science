@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/Iynv7HWv-UA/dwarf-starbursting-galaxies-played-a-key-role-in-early-epoch-of-the-universe.html)
 
-id:     508
-
 

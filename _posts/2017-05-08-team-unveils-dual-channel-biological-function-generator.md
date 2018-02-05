@@ -16,6 +16,4 @@ tags: [Oscilloscope, Signal, Synthetic biology, Biology, Optogenetics, Gene, Org
 
 [Visit Link](https://phys.org/news/2017-05-team-unveils-dual-channel-biological-function.html)
 
-id:  390639
-
 

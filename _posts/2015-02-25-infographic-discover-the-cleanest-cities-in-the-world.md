@@ -16,6 +16,4 @@ tags: [green graphics & packaging, green transportation, reader submitted conten
 
 [Visit Link](http://inhabitat.com/infographic-discover-the-cleanest-cities-in-the-world/)
 
-id:   87520
-
 

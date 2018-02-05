@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.spacedaily.com/reports/Quantum_diffraction_at_a_breath_of_nothing_999.html)
 
-id:  175423
-
 

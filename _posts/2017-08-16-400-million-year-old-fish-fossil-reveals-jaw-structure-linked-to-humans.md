@@ -16,6 +16,4 @@ tags: [Placodermi, Fossil, Evolution of fish]
 
 [Visit Link](https://phys.org/news/2017-08-million-year-old-fish-fossil-reveals-jaw.html)
 
-id:  419708
-
 

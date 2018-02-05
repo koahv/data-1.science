@@ -16,6 +16,4 @@ tags: [Gravitational lens, Astronomy, Gravity, General relativity, Lens (optics)
 
 [Visit Link](https://phys.org/news/2017-10-artificial-intelligence-gravitational-lens-candidates.html)
 
-id:  443615
-
 

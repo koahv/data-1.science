@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.ancient-origins.net/history-ancient-traditions/past-teaching-present-ancient-sanskrit-texts-discuss-importance-020527)
 
-id:  184499
-
 

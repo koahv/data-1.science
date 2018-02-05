@@ -16,6 +16,4 @@ tags: [Bacillus thuringiensis, Bt cotton, Cotton, Plant breeding, Agriculture, G
 
 [Visit Link](https://phys.org/news/2017-05-reversing-pest-resistance-biotech-cotton.html)
 
-id:  390726
-
 

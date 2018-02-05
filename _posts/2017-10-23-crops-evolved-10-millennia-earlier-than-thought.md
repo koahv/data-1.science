@@ -16,6 +16,4 @@ tags: [Domestication, Agriculture, Cereal, Wheat, Evolution, Rice, Barley]
 
 [Visit Link](https://phys.org/news/2017-10-crops-evolved-millennia-earlier-thought.html)
 
-id:  443238
-
 

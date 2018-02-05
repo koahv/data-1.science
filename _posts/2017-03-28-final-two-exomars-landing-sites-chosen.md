@@ -16,6 +16,4 @@ tags: [ExoMars, Mawrth Vallis, Mars, Rover (space exploration), Space science, S
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/ExoMars/Final_two_ExoMars_landing_sites_chosen)
 
-id:  378395
-
 

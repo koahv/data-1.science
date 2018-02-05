@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxinsider.com/story/84881.html?rss=1)
 
-id:  438785
-
 

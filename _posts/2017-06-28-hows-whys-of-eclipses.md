@@ -16,6 +16,4 @@ tags: [Solar eclipse, Moon, Sun, Lunar eclipse, Shadow, Orbit of the Moon, Eclip
 
 [Visit Link](http://www.skyandtelescope.com/2017-total-solar-eclipse/hows-whys-of-eclipses/)
 
-id:  405015
-
 

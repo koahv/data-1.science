@@ -16,6 +16,4 @@ tags: [Denisovan, Adaptation, Gene, Genetics, Tibetan people, Whole genome seque
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/04/170427141746.htm)
 
-id:  387793
-
 

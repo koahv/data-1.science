@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/COgRf8mXOJI/three-closely-orbiting-supermassive-black-holes-found-to-emit-gravity-waves-the-elusive-ripples-in-s.html)
 
-id:    7438
-
 

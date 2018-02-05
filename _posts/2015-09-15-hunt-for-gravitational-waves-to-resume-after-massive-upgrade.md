@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.nature.com/news/hunt-for-gravitational-waves-to-resume-after-massive-upgrade-1.18359)
 
-id:  194795
-
 

@@ -16,6 +16,4 @@ tags: [Moon, Light, Observatory, Optics, Electromagnetic radiation, Scientific o
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/how-bright-moon-exactly/)
 
-id:  445207
-
 

@@ -16,6 +16,4 @@ tags: [MAVEN, Solar wind, Sun, Aurora, Mars, Atmosphere, Atmosphere of Mars, God
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-06/nsfc-mt1061617.php)
 
-id:  401809
-
 

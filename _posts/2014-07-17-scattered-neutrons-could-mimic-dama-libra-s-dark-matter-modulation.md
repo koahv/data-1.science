@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/zRX43SRZ_Tw/scattered-neutrons-could-mimic-dama-libras-dark-matter-modulation)
 
-id:   22798
-
 

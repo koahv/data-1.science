@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/10/image-of-the-day-scars-of-violent-events-at-the-heart-of-the-milky-way.html)
 
-id:  202617
-
 

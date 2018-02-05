@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2015-11-rapid-evolution-body-size-dinosaur.html)
 
-id:  206400
-
 

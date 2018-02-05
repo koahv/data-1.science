@@ -16,6 +16,4 @@ tags: [linux]
 
 [Visit Link](http://news.softpedia.com/news/Calibre-1-42-Is-the-Best-eBook-Editing-Tool-on-Linux-448563.shtml)
 
-id:    8133
-
 

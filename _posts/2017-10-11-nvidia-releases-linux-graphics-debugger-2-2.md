@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=NVIDIA-Linux-Debugger-2.2)
 
-id:  437948
-
 

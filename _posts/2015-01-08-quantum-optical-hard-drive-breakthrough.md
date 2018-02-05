@@ -18,6 +18,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/anu-qoh010815.php)
 
-id:   71516
-
 

@@ -16,6 +16,4 @@ tags: [nature & environment]
 
 [Visit Link](http://www.scienceworldreport.com/articles/15612/20140623/fracking-chemicals-disrupt-hormones-impact-health.htm)
 
-id:    3197
-
 

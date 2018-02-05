@@ -16,6 +16,4 @@ tags: [Street light, Light-emitting diode, Lighting, Technology, Artificial obje
 
 [Visit Link](http://www.gereports.com/light-bright-san-diego-leads-way-future-smart-cities/)
 
-id:  369417
-
 

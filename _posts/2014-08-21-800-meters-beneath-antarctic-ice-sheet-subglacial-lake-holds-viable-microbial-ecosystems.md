@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/nsf-8mb082114.php)
 
-id:   44055
-
 

@@ -16,6 +16,4 @@ tags: [Machine learning, Image segmentation, Radiology, Supercomputer, Computing
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uota-ses100517.php)
 
-id:  435669
-
 

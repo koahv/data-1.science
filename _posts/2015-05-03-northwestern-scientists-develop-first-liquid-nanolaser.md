@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.spacedaily.com/reports/Northwestern_scientists_develop_first_liquid_nanolaser_999.html)
 
-id:  117853
-
 

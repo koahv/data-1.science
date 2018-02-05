@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/cKDFC6lx7Dc/nasa-recreated-building-blocks-of-life-on-early-earth.html)
 
-id:   91261
-
 

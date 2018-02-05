@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/upload/fedora-seeks-diversity-advisor-150320111010.html)
 
-id:   98599
-
 

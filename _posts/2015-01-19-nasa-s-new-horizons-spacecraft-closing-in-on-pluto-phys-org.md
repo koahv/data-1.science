@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGPtiBZus2wKg4IPI3nA1h8G5zBQg&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778714054756&ei=U4i9VPCSM-bswQHTzIC4CQ&url=http://phys.org/news/2015-01-nasa-horizons-spacecraft-pluto.html)
 
-id:   73491
-
 

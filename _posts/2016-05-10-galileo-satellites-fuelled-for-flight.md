@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Navigation/The_future_-_Galileo/Launching_Galileo/Galileo_satellites_fuelled_for_flight)
 
-id:  283242
-
 

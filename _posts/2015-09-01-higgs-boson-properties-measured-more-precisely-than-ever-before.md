@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/2015/09/higgs-boson-properties-measured-more-precisely-ever)
 
-id:  177676
-
 

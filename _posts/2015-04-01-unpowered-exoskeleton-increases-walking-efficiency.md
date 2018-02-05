@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/04/unpowered-exoskeleton-increases-walking-efficiency)
 
-id:  103586
-
 

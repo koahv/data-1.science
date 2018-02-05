@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Linux-Power-Management-2016)
 
-id:  330028
-
 

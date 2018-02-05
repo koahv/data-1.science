@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/WtvDpmR1OVs/mercurys-4-billion-year-old-magnetic-field-reveals-planets-past.html)
 
-id:  120608
-
 

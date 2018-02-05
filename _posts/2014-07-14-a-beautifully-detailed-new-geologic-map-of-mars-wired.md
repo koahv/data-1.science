@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEdWkckvbgHoYnaPyOSGUbYZCrzYA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778557977667&ei=pifEU7jsN8TNgAeCi4G4BA&url=http://www.wired.com/2014/07/new-geologic-map-mars-usgs/)
 
-id:   19801
-
 

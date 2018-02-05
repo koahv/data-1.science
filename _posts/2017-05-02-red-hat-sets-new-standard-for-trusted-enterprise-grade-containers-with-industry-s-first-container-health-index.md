@@ -16,6 +16,4 @@ tags: [Red Hat, Linux, Computing, Software, Technology, Digital technology, Comp
 
 [Visit Link](https://www.redhat.com/en/about/press-releases/red-hat-sets-new-standard-trusted-enterprise-grade-containers-industry%E2%80%99s-first-container-health-index)
 
-id:  389100
-
 

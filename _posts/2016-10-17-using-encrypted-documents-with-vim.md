@@ -4,7 +4,7 @@ title: "Using encrypted documents with vim"
 date: 2016-10-17 14:07:43
 categories: Linux
 author: Michael Boelen
-tags: [crypto, cryptography, encryption, vi, vim, Cryptography, Encryption, Lynis, Blowfish (cipher), Computer file, Security technology, Information Age, Cybercrime, Data management, Technology, Crime prevention, Digital technology, Cyberspace, Computing, Computer security, Cyberwarfare, Areas of computer science, Secure communication, Information technology management, Security engineering, Information governance, Digital media, Software, Espionage techniques, Computer data, National security, Secrecy]
+tags: [Cryptography, Encryption, Lynis, Blowfish (cipher), Computer file, Computer security, Cyberwarfare, Areas of computer science, Secure communication, Information technology management, Security engineering, Information governance, Security technology, Digital technology, Crime prevention, Technology, Data management, Cybercrime, Information Age, Digital media, Cyberspace, Software, Espionage techniques, Computing]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [crypto, cryptography, encryption, vi, vim, Cryptography, Encryption, Lyni
 >factsheet unavailable
 
 [Visit Link](https://linux-audit.com/using-encrypted-documents-with-vim/)
-
-id:  332856
 
 

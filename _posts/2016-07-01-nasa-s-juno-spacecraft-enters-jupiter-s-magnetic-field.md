@@ -4,7 +4,7 @@ title: "NASA's Juno spacecraft enters Jupiter's magnetic field"
 date: 2016-07-01 10:20:45
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [Juno (spacecraft), Jupiter, Magnetosphere, Magnetosphere of Jupiter, Solar wind, Solar System, Sun, Planet, NASA, Astronomy, Astrophysics, Bow shocks in astrophysics, Outer space, Physical sciences, Space science, Planetary science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [space exploration]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-07-nasa-juno-spacecraft-jupiter-magnetic.html)
-
-id:  300798
 
 

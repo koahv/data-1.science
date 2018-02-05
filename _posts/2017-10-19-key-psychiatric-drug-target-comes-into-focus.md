@@ -16,6 +16,4 @@ tags: [Dopamine, University of California,  San Francisco, Receptor (biochemistr
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoc--kpd101817.php)
 
-id:  441532
-
 

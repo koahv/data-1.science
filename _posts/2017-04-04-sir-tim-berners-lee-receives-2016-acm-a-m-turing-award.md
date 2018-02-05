@@ -16,6 +16,4 @@ tags: [World Wide Web, Tim Berners-Lee, Science and technology, Computer science
 
 [Visit Link](https://www.linux.com/news/sir-tim-berners-lee-receives-2016-acm-am-turing-award)
 
-id:  380445
-
 

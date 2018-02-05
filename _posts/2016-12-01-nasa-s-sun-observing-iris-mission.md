@@ -4,7 +4,7 @@ title: "NASA's Sun-observing IRIS mission"
 date: 2016-12-01 18:47:30
 categories: Science
 author: unknown author
-tags: [space exploration, Corona, Sun, Solar wind, NASA, Interface Region Imaging Spectrograph, Solar System, Space science, Physical sciences, Astronomy, Outer space, Astronomical objects, Nature, Planetary science, Bodies of the Solar System, Spaceflight]
+tags: [Corona, Sun, Solar wind, Astronomy, NASA, Interface Region Imaging Spectrograph, Star, Outer space, Physical sciences, Space science, Stellar astronomy, Solar System, Applied and interdisciplinary physics, Planetary science, Nature, Astronomical objects]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [space exploration, Corona, Sun, Solar wind, NASA, Interface Region Imagin
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-12-nasa-sun-observing-iris-mission.html)
-
-id:  345577
 
 

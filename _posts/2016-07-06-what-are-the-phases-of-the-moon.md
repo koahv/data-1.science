@@ -4,7 +4,7 @@ title: "What are the Phases of the Moon?"
 date: 2016-07-06 18:21:45
 categories: Astronomy
 author: Ana V. Aceves
-tags: [moon, questions & answers, resources and education, science-based q&a, moon phase]
+tags: [Lunar phase, Moon, Solar System, Planetary science, Outer space, Bodies of the Solar System, Physical sciences, Moons, Planetary-mass satellites, Planets of the Solar System, Scientific observation, Celestial mechanics, Astronomy]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [moon, questions & answers, resources and education, science-based q&a, mo
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/what-are-the-phases-of-the-moon/)
-
-id:  302211
 
 

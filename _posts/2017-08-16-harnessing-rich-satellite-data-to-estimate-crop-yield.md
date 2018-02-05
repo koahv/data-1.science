@@ -16,6 +16,4 @@ tags: [Electromagnetic spectrum, Earth, Climate change, Agriculture, Infrared, C
 
 [Visit Link](https://phys.org/news/2017-08-harnessing-rich-satellite-crop-yield.html)
 
-id:  419878
-
 

@@ -16,6 +16,4 @@ tags: [Photon, Quantum mechanics, Physics, Light, Physical sciences, Nature, Sci
 
 [Visit Link](https://phys.org/news/2017-09-phonons.html)
 
-id:  431686
-
 

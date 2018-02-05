@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/GA-5thpdWh4/journey-to-the-center-of-jupiter.html)
 
-id:   23487
-
 

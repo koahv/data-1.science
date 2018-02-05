@@ -4,7 +4,7 @@ title: "Before DNA --"The Search Heats Up For Possible Ancestors to Life on Eart
 date: 2016-05-16 15:42:08
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [DNA, Life, Nucleic acid double helix, Nucleic acid, RNA, Base pair, Abiogenesis, Macromolecules, Biotechnology, Nucleic acids, Nucleotides, Physical sciences, Nature, Structural biology, Biomolecules, Molecular biophysics, Genetics, Organisms, Biochemistry, Molecular biology, Chemistry, Life sciences, Biology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/05/life-on-earth-before-dna-the-search-heats-up-for-possible-ancestors.html)
-
-id:  285237
 
 

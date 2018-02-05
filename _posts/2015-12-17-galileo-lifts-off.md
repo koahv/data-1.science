@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/spaceinvideos/Videos/2015/12/Galileo_sat_11_12_-_Liftoff)
 
-id:  226119
-
 

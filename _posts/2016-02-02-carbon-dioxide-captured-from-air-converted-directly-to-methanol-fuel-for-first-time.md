@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2016/02/carbon-dioxide-captured-air-converted-directly-methanol-fuel-first-time)
 
-id:  244868
-
 

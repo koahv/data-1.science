@@ -4,7 +4,7 @@ title: ""Extreme Physics" --Nebula Observed Around a Neutron Star for First Time
 date: 2016-06-22 13:21:54
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Magnetar, Pulsar, Astronomy, Neutron star, Star, XMM-Newton, Nebula, Physical sciences, Outer space, Astronomical objects, Nature, Physics, Stars]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/06/extreme-physics-nebula-observed-around-a-neutron-star-for-first-time.html)
-
-id:  297603
 
 

@@ -4,7 +4,7 @@ title: "Galileo liftoff replay"
 date: 2016-11-17 13:13:00
 categories: Astronomy
 author: unknown author
-tags: [Spaceflight, Space colonization, Flight, European space programmes, Outer space, Aerospace engineering, Astronautics, Space exploration, Spacecraft, Space technology, Space programs, Space-based economy, Space traffic management, Space policy of the European Union, Spaceflight technologies, Rocketry, Space agencies, Space launch vehicles, International scientific organizations of Europe, Galileo (satellite navigation)]
+tags: [European space programmes, Outer space, Aerospace engineering, Astronautics, Space exploration, Spacecraft, Space technology, Space programs, Spaceflight, Flight, Space colonization, Space-based economy, Space traffic management, Space policy of the European Union, Spaceflight technologies, Rocketry, Space agencies]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Spaceflight, Space colonization, Flight, European space programmes, Outer
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/spaceinvideos/Videos/2016/11/Galileo_15-18_-_liftoff_replay)
-
-id:  341912
 
 

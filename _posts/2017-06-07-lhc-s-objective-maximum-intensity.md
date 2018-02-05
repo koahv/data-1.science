@@ -16,6 +16,4 @@ tags: [Large Hadron Collider, Particle accelerator, Electron, Collider, CERN, Pr
 
 [Visit Link](https://phys.org/news/2017-06-lhc-objectivemaximum-intensity.html)
 
-id:  398923
-
 

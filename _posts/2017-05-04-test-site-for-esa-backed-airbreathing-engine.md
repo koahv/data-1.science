@@ -16,6 +16,4 @@ tags: [SABRE (rocket engine), Rocket, Spacecraft propulsion, Ballistics, Industr
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Engineering_Technology/Test_site_for_ESA-backed_airbreathing_engine)
 
-id:  389868
-
 

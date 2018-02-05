@@ -4,7 +4,7 @@ title: "New advances in solar cell technology"
 date: 2016-10-05 15:42:05
 categories: Science
 author: unknown author
-tags: [energy & green tech, Solar cell, Solar energy, Perovskite solar cell, Energy development, Perovskite (structure), Renewable energy, National Renewable Energy Laboratory, Physical universe, Manufacturing, Technology, Materials, Chemistry, Nature, Artificial objects, Energy, Chemical vapor deposition, Solar panel, Alternative energy]
+tags: [Solar cell, Solar energy, Perovskite solar cell, Energy development, Perovskite (structure), Renewable energy, Nature, Materials, Manufacturing, Physical universe, Chemistry, Energy, Artificial objects]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [energy & green tech, Solar cell, Solar energy, Perovskite solar cell, Ene
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-10-advances-solar-cell-technology.html)
-
-id:  329508
 
 

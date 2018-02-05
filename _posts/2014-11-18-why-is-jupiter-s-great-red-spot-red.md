@@ -16,6 +16,4 @@ tags: [news, solar system]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/jupiters-great-red-spot-11182014/)
 
-id:   64062
-
 

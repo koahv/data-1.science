@@ -16,6 +16,4 @@ tags: [Tesla,  Inc., Hyperloop, SpaceX, Gigafactory 1, Spaceflight technologies,
 
 [Visit Link](http://blog.ted.com/what-will-the-future-look-like-elon-musk-speaks-at-ted2017/)
 
-id:  388288
-
 

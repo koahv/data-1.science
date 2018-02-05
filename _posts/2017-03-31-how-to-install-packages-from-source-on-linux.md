@@ -16,6 +16,4 @@ tags: [Package manager, Linux, Software distribution, Computer architecture, Sof
 
 [Visit Link](https://www.linux.com/learn/intro-to-linux/2017/3/how-install-packages-source-linux)
 
-id:  379497
-
 

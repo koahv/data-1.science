@@ -4,7 +4,7 @@ title: "Got eczema? It may just be bad evolutionary luck, study finds"
 date: 2016-10-05 16:43:44
 categories: Science
 author: unknown author
-tags: []
+tags: [Mutation, Genetics, Evolution, Gene, Dermatitis, Biology, Life sciences, Organisms, Evolutionary biology, Biological evolution]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2016/10/161005124344.htm)
-
-id:  329993
 
 

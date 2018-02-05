@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/ZCq-rF7LNO8/nasa-moons-volcanos-were-active-during-earths-cretaceous-period-the-age-of-dinosaurs.html)
 
-id:   55494
-
 

@@ -4,7 +4,7 @@ title: "ANU Team Achieves Record Solar Thermal Efficiency Of 97%"
 date: 2016-08-25 15:25:12
 categories: Energy
 author: Guest Contributor
-tags: [clean power, concentrating solar power, solar energy, solar records, solar thermal, australia, australia solar, australian national university]
+tags: [Solar energy, Solar thermal energy, Concentrated solar power, Renewable energy, Thermal power station, Technology, Environmental technology, Natural resources, Energy conversion, Energy sources, Energy, Nature, Physical universe, Sustainable technologies, Energy production, Sustainable development, Sustainable energy, Alternative energy, Artificial objects, Renewable resources, Energy technology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [clean power, concentrating solar power, solar energy, solar records, sola
 >factsheet unavailable
 
 [Visit Link](http://cleantechnica.com/2016/08/25/anu-team-achieves-record-solar-thermal-efficiency-97/)
-
-id:  317752
 
 

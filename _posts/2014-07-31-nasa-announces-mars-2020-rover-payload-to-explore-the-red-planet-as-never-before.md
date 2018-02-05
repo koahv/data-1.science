@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2014/07/nasa-announces-mars-2020-rover-payload-explore-red-planet-never)
 
-id:   29258
-
 

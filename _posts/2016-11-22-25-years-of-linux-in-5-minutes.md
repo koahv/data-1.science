@@ -4,7 +4,7 @@ title: "25 years of Linux in 5 minutes"
 date: 2016-11-22 08:03:00
 categories: Open Source
 author: admin
-tags: [Linux kernel, Linus Torvalds, System software, Public commons, Free system software, Linux Foundation, Free content, Linux, Software, Computing, Free software, Open-source movement, Operating system technology, Unix, Unix variants, Linux kernel programmers, Computers, Finnish computer programmers, Linux people, Computer engineering, Finnish computer scientists, Operating system families, Computer architecture, Open content, Free software projects, Free and open-source software organizations, Technology, Git]
+tags: [Linux kernel, Linus Torvalds, Free system software, Operating system technology, Public commons, Linux Foundation, Free content, Linux, Software, Computing, Free software, Open-source movement, System software, Unix, Unix variants, Linux kernel programmers, Computers, Linux people, Finnish computer programmers, Computer engineering, Finnish computer scientists, Operating system families, Computer architecture, Open content]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Linux kernel, Linus Torvalds, System software, Public commons, Free syste
 >factsheet unavailable
 
 [Visit Link](https://opensource.com/article/16/11/25-years-linux-5-minutes)
-
-id:  343011
 
 

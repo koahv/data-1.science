@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feeds.importantmedia.org/~r/IM-cleantechnica/~3/D2VjN6xYgsU/)
 
-id:   23156
-
 

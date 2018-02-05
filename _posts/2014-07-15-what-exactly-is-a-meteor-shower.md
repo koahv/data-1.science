@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a, meteor s
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/exactly-meteor-shower/)
 
-id:   20573
-
 

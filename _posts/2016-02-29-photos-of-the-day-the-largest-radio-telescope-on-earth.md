@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2016/02/photos-day-largest-radio-telescope-earth)
 
-id:  256606
-
 

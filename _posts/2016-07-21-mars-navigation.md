@@ -4,7 +4,7 @@ title: "Mars navigation"
 date: 2016-07-21 10:15:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Quasar, ExoMars, Delta-DOR, Sun, Schiaparelli EDM lander, Flight, Outer space, Astronomy, Physical sciences, Spaceflight, Space science, Space exploration, Space colonization, Astronautics, Space technology, Solar System, Planetary science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Images/2016/07/Mars_navigation)
-
-id:  306854
 
 

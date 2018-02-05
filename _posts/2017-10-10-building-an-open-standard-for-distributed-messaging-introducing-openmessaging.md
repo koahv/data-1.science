@@ -16,6 +16,4 @@ tags: [Cloud computing, Linux Foundation, Computing, Information technology, Tec
 
 [Visit Link](https://www.linux.com/news/building-open-standard-distributed-messaging-introducing-openmessaging)
 
-id:  437121
-
 

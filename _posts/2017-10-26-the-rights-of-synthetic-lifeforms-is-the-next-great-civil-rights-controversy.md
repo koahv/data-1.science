@@ -16,6 +16,4 @@ tags: [Ethics of artificial intelligence, Artificial intelligence, Robot, Legal 
 
 [Visit Link](https://futurism.com/rights-synthetic-lifeforms-civil-rights-controversy/)
 
-id:  445376
-
 

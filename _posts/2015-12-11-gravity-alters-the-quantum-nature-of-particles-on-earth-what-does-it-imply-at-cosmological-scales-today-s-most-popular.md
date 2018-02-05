@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/12/gravity-alters-the-quantum-nature-of-particles-on-earth-what-does-it-imply-at-cosmological-scales-to.html)
 
-id:  223617
-
 

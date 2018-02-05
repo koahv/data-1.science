@@ -16,6 +16,4 @@ tags: [Wind power, Fossil fuel power station, Coal, Renewable energy, Fuel, Ener
 
 [Visit Link](http://www.theneweconomy.com/home/featured/uk-achieves-first-coal-free-day-since-the-industrial-revolution)
 
-id:  386242
-
 

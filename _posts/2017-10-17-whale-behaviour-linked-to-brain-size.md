@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.thehindu.com/sci-tech/science/whale-behaviour-linked-to-brain-size/article19877612.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-id:  440271
-
 

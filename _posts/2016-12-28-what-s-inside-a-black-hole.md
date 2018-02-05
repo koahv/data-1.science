@@ -4,7 +4,7 @@ title: "What’s Inside a Black Hole?"
 date: 2016-12-28 20:45:34
 categories: Astronomy
 author: Camille M. Carlisle
-tags: [questions & answers, resources and education, science-based q&a, Black hole, Event horizon, Physical quantities, Astronomical objects, Non-Euclidean geometry, Mathematical physics, Outer space, Physics, Physical sciences, Physical cosmology, Spacetime, Astronomy, Mechanics, Cosmology, Theory of relativity, Theoretical physics, General relativity, Science, Theories of gravitation, Gravitation, Scientific theories, Modern physics, Time travel, Density, Astrophysics, Natural philosophy, Metaphysics, Black holes]
+tags: [Black hole, Event horizon, Outer space, Cosmology, Theory of relativity, Theoretical physics, General relativity, Science, Theories of gravitation, Physical quantities, Gravitation, Scientific theories, Modern physics, Mathematical physics, Non-Euclidean geometry, Astronomical objects, Mechanics, Astronomy, Spacetime, Physical cosmology, Physical sciences, Physics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [questions & answers, resources and education, science-based q&a, Black ho
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-resources/whats-inside-a-black-hole/)
-
-id:  352848
 
 

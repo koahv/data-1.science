@@ -16,6 +16,4 @@ tags: [Free and open-source software, Open-source software, Linus Torvalds, Soft
 
 [Visit Link](https://www.linux.com/news/new-home-google-open-source)
 
-id:  378743
-
 

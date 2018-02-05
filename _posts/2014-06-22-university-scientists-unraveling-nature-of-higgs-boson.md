@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/ksu-usu062214.php)
 
-id:    2716
-
 

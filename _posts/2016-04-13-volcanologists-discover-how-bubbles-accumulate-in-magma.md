@@ -16,6 +16,4 @@ tags: [earth sciences]
 
 [Visit Link](http://phys.org/news/2016-04-volcanologists-accumulate-magma.html)
 
-id:  273945
-
 

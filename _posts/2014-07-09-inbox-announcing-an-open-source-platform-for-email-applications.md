@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/software/applications/779835-inbox-announcing-an-open-source-platform-for-email-applications/)
 
-id:   16597
-
 

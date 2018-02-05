@@ -16,6 +16,4 @@ tags: [Vibrato systems for guitar, Electric guitar, Celtic musical instruments, 
 
 [Visit Link](https://phys.org/news/2017-09-revolutionary-guitar-world.html)
 
-id:  431610
-
 

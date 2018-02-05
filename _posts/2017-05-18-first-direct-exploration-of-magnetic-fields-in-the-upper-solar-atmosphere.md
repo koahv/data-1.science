@@ -16,6 +16,4 @@ tags: [Sun, Galaxy, Astronomy, Ultraviolet, Light, Polarization (waves), Solar D
 
 [Visit Link](https://phys.org/news/2017-05-exploration-magnetic-fields-upper-solar.html)
 
-id:  393544
-
 

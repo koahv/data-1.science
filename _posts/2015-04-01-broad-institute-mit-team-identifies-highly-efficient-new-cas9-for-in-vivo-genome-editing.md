@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/biom-bit033015.php)
 
-id:  103737
-
 

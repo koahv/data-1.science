@@ -16,6 +16,4 @@ tags: [Natural selection, Simulation, Memory, Quantum mechanics, Algorithm, Lear
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/uotb-aii030717.php)
 
-id:  371884
-
 

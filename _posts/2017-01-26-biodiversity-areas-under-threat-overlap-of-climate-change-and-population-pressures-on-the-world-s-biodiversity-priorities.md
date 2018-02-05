@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170615)
 
-id:  360367
-
 

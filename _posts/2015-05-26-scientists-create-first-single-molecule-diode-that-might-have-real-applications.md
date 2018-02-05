@@ -16,6 +16,4 @@ tags: [technology]
 
 [Visit Link](http://www.fromquarkstoquasars.com/researchers-first-to-create-a-single-molecule-diode/)
 
-id:  129053
-
 

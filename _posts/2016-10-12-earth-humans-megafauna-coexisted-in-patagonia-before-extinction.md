@@ -4,7 +4,7 @@ title: "EARTH: Humans, megafauna coexisted in Patagonia before extinction"
 date: 2016-10-12 04:00:00
 categories: Science
 author: unknown author
-tags: [Natural environment, American Association for the Advancement of Science, Earth science, Ground sloth, Nature, Earth sciences, Megafauna]
+tags: [Natural environment, American Association for the Advancement of Science, Earth science, Ground sloth, Nature, Earth sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Natural environment, American Association for the Advancement of Science,
 >factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/agi-ehm101216.php)
-
-id:  331634
 
 

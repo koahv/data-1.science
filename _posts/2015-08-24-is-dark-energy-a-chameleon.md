@@ -16,6 +16,4 @@ tags: [cosmology, news, dark energy]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/is-dark-energy-a-chameleon-0824201523/)
 
-id:  173639
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/developer/betty-turn-generic-english-into-linux-terminal-commands.html)
 
-id:    1465
-
 

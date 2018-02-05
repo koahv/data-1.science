@@ -4,7 +4,7 @@ title: "Researchers blur the line between classical and quantum physics by conne
 date: 2016-07-12 17:10:17
 categories: Science
 author: unknown author
-tags: [quantum physics]
+tags: [Quantum mechanics, Quantum computing, Quantum entanglement, Physics, Chaos theory, Quantum teleportation, Qubit, Quantum superposition, Photon, Scientific theories, Solid state engineering, Applied and interdisciplinary physics, Particle physics, Modern physics, Theoretical physics, Science, Mechanics, Physical sciences]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [quantum physics]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-07-blur-line-classical-quantum-physics.html)
-
-id:  303899
 
 

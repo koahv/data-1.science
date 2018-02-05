@@ -16,6 +16,4 @@ tags: [67P/Churyumov–Gerasimenko, Abiogenesis, Rosetta (spacecraft), Comet, Ch
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/fos--aar100417.php)
 
-id:  434987
-
 

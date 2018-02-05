@@ -16,6 +16,4 @@ tags: [software, development, system administration, programming, elf, binary]
 
 [Visit Link](http://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
 
-id:  191444
-
 

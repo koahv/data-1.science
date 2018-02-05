@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2014/08/Galileo_launch_replay)
 
-id:   44491
-
 

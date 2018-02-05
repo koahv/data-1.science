@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/07/lockheed-studying-first-responder-radiation-shield-deep-space-application)
 
-id:  161799
-
 

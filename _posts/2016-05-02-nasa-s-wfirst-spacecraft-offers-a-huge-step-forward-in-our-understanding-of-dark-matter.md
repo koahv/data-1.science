@@ -4,7 +4,7 @@ title: "NASA's WFIRST spacecraft offers a huge step forward in our understanding
 date: 2016-05-02 10:05:13
 categories: Science
 author: unknown author
-tags: [astronomy]
+tags: [Wide Field Infrared Survey Telescope, Milky Way, Cosmic distance ladder, Exoplanet, Dark matter, Coronagraph, Astronomy, Dark energy, Universe, Physical sciences, Outer space, Physical cosmology, Science, Physics, Astronomical objects, Cosmology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [astronomy]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-05-nasa-wfirst-spacecraft-huge-dark.html)
-
-id:  280131
 
 

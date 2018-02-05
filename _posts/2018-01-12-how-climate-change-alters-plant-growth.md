@@ -16,6 +16,4 @@ tags: [Arabidopsis thaliana, Biology, Organisms, Life sciences]
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2018-01/mh-hc011218.php)
 
-id:  477087
-
 

@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2016-02-evolution-tyrannosaurs.html)
 
-id:  252105
-
 

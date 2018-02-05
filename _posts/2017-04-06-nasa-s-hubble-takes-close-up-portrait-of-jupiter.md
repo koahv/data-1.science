@@ -16,6 +16,4 @@ tags: [Jupiter, Great Red Spot, Atmosphere of Jupiter, Hubble Space Telescope, P
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/nsfc-nht040617.php)
 
-id:  381378
-
 

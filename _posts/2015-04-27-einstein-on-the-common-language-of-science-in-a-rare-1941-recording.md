@@ -16,6 +16,4 @@ tags: [culture, science, albert einstein, philosophy, soundcloud]
 
 [Visit Link](http://feedproxy.google.com/~r/brainpickings/rss/~3/_rm05pbokFw/)
 
-id:  114783
-
 

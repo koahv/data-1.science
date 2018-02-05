@@ -16,6 +16,4 @@ tags: [astronomy in space with david dickinson, blogs, news, professional telesc
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/dscovring-earth-1027201533/)
 
-id:  203219
-
 

@@ -16,6 +16,4 @@ tags: [uncategorized, nasa, new horizons, planets, pluto, space]
 
 [Visit Link](http://time.com/3623081/nasa-spacecraft-wakes-up-as-it-approaches-pluto/)
 
-id:   64743
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/19LDDPjB-2Q/mapping-dark-energys-impact-on-the-universe-the-sloan-digital-sky-survey-phase-4.html)
 
-id:   21266
-
 

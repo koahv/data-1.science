@@ -4,7 +4,7 @@ title: "Solar Plane Completes Its Round-the-World Flight in Abu Dhabi"
 date: 2016-07-26 15:56:11
 categories: Technology
 author: mcrouse
-tags: []
+tags: [Masdar, Solar Impulse, Natural resources, Energy, Sustainable energy, Renewable energy, Renewable resources, Alternative energy, Physical universe, Sustainable development, Sustainable technologies, Nature, Energy sources, Energy and the environment]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.pddnet.com/news/2016/07/solar-plane-completes-its-round-world-flight-abu-dhabi)
-
-id:  308443
 
 

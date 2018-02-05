@@ -4,7 +4,7 @@ title: "Accelerating research into dark energy"
 date: 2016-07-06 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Universe, Dark energy, Void (astronomy), Physics, Scientist, Dark matter, Astronomy, Accelerating expansion of the universe, Computer simulation, Physical cosmology, Cosmology, Scientific method, Physical sciences, Science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/ucl-ari070516.php)
-
-id:  302221
 
 

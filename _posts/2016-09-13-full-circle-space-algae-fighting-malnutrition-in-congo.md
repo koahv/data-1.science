@@ -4,7 +4,7 @@ title: "Full circle: space algae fighting malnutrition in Congo"
 date: 2016-09-13 13:52:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Spirulina (dietary supplement), Food and drink, Outer space]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/Research/Full_circle_space_algae_fighting_malnutrition_in_Congo)
-
-id:  323448
 
 

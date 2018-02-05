@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/06/esahubble-the-universe-may-be-expanding-faster-than-expected.html)
 
-id:  291027
-
 

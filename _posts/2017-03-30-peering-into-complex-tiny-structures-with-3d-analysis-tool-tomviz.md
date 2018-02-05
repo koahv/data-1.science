@@ -16,6 +16,4 @@ tags: [Nanotechnology, Nanomaterials, Science, Tomography, Scientific visualizat
 
 [Visit Link](https://opensource.com/article/17/3/tomviz-large-3D-datasets)
 
-id:  378993
-
 

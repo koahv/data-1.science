@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.solardaily.com/reports/Artificial_photosynthesis_New_stable_photocathode_with_great_potential_999.html)
 
-id:  122413
-
 

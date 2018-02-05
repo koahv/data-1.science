@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/iop-sut073014.php)
 
-id:   29561
-
 

@@ -16,6 +16,4 @@ tags: [Electrolysis, Fuel cell, Water splitting, Hydrogen, Renewable energy, Tec
 
 [Visit Link](https://phys.org/news/2017-10-pursue-low-cost-efficient-technologies-hydrogen.html)
 
-id:  438105
-
 

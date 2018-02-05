@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2016/04/today-engineering-history-internal-combustion-engine-patented)
 
-id:  269240
-
 

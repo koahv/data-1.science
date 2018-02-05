@@ -16,6 +16,4 @@ tags: [earth science, climate, environment, research]
 
 [Visit Link](https://www.siliconrepublic.com/earth-science/2015/07/31/7-maps-show-rising-sea-levels)
 
-id:  163331
-
 

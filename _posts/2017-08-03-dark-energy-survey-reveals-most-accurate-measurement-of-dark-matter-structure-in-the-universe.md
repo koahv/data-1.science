@@ -16,6 +16,4 @@ tags: [Universe, Dark matter, Dark energy, Scientific theory, The Dark Energy Su
 
 [Visit Link](https://phys.org/news/2017-08-dark-energy-survey-reveals-accurate.html)
 
-id:  415978
-
 

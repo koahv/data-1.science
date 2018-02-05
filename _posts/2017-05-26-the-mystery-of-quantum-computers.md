@@ -16,6 +16,4 @@ tags: [Quantum computing, Computer, Integer factorization, Laser, Computing, Phy
 
 [Visit Link](https://phys.org/news/2017-05-mystery-quantum.html)
 
-id:  395892
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNF1cIojcER4yuHW849HpYyrLICyZA&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=sA0AVvCbMMvH3gGI0p34Ag&url=http://www.techcentral.co.za/the-thrilling-future-of-quantum-computing/59931/)
 
-id:  187162
-
 

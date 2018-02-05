@@ -16,6 +16,4 @@ tags: [clean tech]
 
 [Visit Link](http://www.siliconrepublic.com/clean-tech/item/40044-ireland-hits-new-record-of)
 
-id:   70409
-
 

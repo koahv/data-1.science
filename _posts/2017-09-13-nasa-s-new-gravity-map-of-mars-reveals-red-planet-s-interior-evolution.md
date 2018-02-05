@@ -16,6 +16,4 @@ tags: [Mars, InSight, Geophysics, Moon, Planetary science, Space science, Physic
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2017/09/nasas-new-gravity-map-of-mars-reveals-red-planets-interior-evolution.html)
 
-id:  428679
-
 

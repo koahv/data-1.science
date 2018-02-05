@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/XC2UF68uC2k/ceres-the-dwarf-water-planet-reveals-intriguing-white-spots.html)
 
-id:   79014
-
 

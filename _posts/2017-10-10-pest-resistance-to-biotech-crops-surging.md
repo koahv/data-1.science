@@ -16,6 +16,4 @@ tags: [Bacillus thuringiensis, Genetically modified crops, Agriculture, Biotechn
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoa-prt100517.php)
 
-id:  437070
-
 

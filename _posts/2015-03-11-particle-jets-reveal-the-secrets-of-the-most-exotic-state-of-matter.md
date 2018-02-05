@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/thni-pjr031115.php)
 
-id:   93900
-
 

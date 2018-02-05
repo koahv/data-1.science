@@ -16,6 +16,4 @@ tags: [University of Texas Southwestern Medical Center, Infant, Neuroimaging, Am
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uota-ubt100917.php)
 
-id:  437139
-
 

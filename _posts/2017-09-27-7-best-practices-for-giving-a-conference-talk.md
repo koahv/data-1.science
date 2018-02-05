@@ -16,6 +16,4 @@ tags: [Internet Archive, Internet, Open-source software]
 
 [Visit Link](https://opensource.com/article/17/9/7-best-practices-giving-conference-talk)
 
-id:  432986
-
 

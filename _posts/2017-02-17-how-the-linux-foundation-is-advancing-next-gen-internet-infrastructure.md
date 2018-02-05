@@ -16,6 +16,4 @@ tags: [Cloud computing, Linux Foundation, Open-source software, Computing, Softw
 
 [Visit Link](https://www.linux.com/blog/event/open-source-leadership-summit/2017/2/how-linux-foundation-advancing-next-gen-internet-infrastructure)
 
-id:  366864
-
 

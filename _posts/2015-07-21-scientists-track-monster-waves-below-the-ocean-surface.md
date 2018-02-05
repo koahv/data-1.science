@@ -16,6 +16,4 @@ tags: [earth sciences]
 
 [Visit Link](http://phys.org/news/2015-07-scientists-track-monster-ocean-surface.html)
 
-id:  158420
-
 

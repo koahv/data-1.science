@@ -16,6 +16,4 @@ tags: [analyze, deep learning, neural networks]
 
 [Visit Link](http://www.theplatform.net/2015/09/07/the-black-box-problem-closes-in-on-neural-networks/)
 
-id:  180671
-
 

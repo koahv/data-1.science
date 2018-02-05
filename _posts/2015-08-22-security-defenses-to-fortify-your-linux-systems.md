@@ -16,6 +16,4 @@ tags: [auditing, hardening, software, file integrity]
 
 [Visit Link](http://linux-audit.com/security-defenses-to-fortify-your-linux-systems/)
 
-id:  191449
-
 

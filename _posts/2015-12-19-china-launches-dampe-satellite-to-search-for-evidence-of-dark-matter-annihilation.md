@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/12/china-launches-dampe-satellite-to-detect-dark-matter-annihilation.html)
 
-id:  227329
-
 

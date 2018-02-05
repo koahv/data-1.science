@@ -4,7 +4,7 @@ title: "NASA Directly Observes Fundamental Process of Nature for 1st Time"
 date: 2016-05-13 13:12:19
 categories: Technology
 author: kduffy
-tags: []
+tags: [Magnetic reconnection, Magnetosphere, Electron, Magnetic field, Sun, Applied and interdisciplinary physics, Physical sciences, Physics, Outer space, Nature, Space science, Astronomy]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2016/05/nasa-directly-observes-fundamental-process-nature-1st-time)
-
-id:  285053
 
 

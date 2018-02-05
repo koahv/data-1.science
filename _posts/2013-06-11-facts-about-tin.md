@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/37355-tin.html)
 
-id:  161311
-
 

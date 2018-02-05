@@ -16,6 +16,4 @@ tags: [Photon, Physics, Uncertainty principle, Quantum entanglement, EPR paradox
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/fopu-qeb030117.php)
 
-id:  370224
-
 

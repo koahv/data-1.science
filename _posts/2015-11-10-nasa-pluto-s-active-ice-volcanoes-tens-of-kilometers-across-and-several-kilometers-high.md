@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/11/plutos-active-ice-volcanoes-tens-of-kilometers-across-and-several-kilometers-high.html)
 
-id:  209493
-
 

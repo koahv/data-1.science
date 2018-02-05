@@ -16,6 +16,4 @@ tags: [quantum physics]
 
 [Visit Link](http://phys.org/news/2016-01-physicists-scheme-teleport-memory.html)
 
-id:  236191
-
 

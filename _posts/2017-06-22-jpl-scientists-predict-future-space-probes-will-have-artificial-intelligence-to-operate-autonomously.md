@@ -16,6 +16,4 @@ tags: [Curiosity (rover), Space probe, Rover (space exploration), NASA, Orbit, S
 
 [Visit Link](https://phys.org/news/2017-06-jpl-scientists-future-space-probes.html)
 
-id:  403310
-
 

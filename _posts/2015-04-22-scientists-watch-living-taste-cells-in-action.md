@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/anu-swl042215.php)
 
-id:  112846
-
 

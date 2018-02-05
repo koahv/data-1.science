@@ -4,7 +4,7 @@ title: "Why don't plants get sunburn?"
 date: 2016-07-12 13:20:01
 categories: Science
 author: unknown author
-tags: [biotechnology]
+tags: [Ultraviolet, Sunscreen, Sun tanning, Sunburn, Ozone depletion, Biology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [biotechnology]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-07-dont-sunburn.html)
-
-id:  303844
 
 

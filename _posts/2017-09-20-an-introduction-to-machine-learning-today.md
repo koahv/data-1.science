@@ -16,6 +16,4 @@ tags: [Artificial intelligence, Algorithm, Statistical classification, Machine l
 
 [Visit Link](https://opensource.com/article/17/9/introduction-machine-learning)
 
-id:  430724
-
 

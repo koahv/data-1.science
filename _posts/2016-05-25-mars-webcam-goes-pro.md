@@ -4,7 +4,7 @@ title: "Mars Webcam goes pro"
 date: 2016-05-25 13:22:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Mars Express, Mars, Outer space, Solar System, Spacecraft, Planetary science, Astronomy, Flight, Space technology, Space science, Astronautics, Space colonization, Space exploration, Spaceflight]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.esa.int/Our_Activities/Operations/Mars_Webcam_goes_pro)
-
-id:  288537
 
 

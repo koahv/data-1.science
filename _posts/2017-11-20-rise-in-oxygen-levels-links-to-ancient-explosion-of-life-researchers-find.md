@@ -16,6 +16,4 @@ tags: [Ordovician, Earth sciences, Geology, Physical sciences, Oceanography, Glo
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/wuis-rio111717.php)
 
-id:  456283
-
 

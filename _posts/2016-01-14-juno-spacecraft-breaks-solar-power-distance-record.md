@@ -16,6 +16,4 @@ tags: [space exploration]
 
 [Visit Link](http://phys.org/news/2016-01-juno-spacecraft-solar-power-distance.html)
 
-id:  236183
-
 

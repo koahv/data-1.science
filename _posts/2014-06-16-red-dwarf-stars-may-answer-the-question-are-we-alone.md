@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/0IdQ1lg3sFY/red-dwarf-stars-may-answer-the-question-are-we-alone.html)
 
-id:     514
-
 

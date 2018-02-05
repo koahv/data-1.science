@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/spaceinimages/Images/2014/12/The_magnetic_field_along_the_Galactic_plane)
 
-id:   65922
-
 

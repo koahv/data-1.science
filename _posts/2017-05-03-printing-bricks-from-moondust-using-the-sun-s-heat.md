@@ -16,6 +16,4 @@ tags: [Moon, Lunar soil, 3D printing, In situ resource utilization, German Aeros
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Engineering_Technology/Printing_bricks_from_moondust_using_the_Sun_s_heat)
 
-id:  389423
-
 

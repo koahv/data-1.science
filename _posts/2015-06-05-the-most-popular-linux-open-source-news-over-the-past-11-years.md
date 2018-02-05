@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Phoronix-11-Popularity)
 
-id:  134349
-
 

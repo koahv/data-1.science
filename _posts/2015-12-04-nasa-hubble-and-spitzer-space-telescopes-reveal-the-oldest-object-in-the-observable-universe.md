@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/12/nasa-hubble-and-spitzer-space-telescopes-reveal-the-oldest-object-in-the-universe.html)
 
-id:  220137
-
 

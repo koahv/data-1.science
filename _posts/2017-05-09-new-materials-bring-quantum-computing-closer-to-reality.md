@@ -16,6 +16,4 @@ tags: [Indium, Electron, Quantum dot, Quantum computing, Computer, Silicon carbi
 
 [Visit Link](https://phys.org/news/2017-05-materials-quantum-closer-reality.html)
 
-id:  390903
-
 

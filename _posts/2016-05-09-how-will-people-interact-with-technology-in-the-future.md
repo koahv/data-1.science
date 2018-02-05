@@ -4,7 +4,7 @@ title: "How will people interact with technology in the future?"
 date: 2016-05-09 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Wearable technology, Electromyography, Technology, Artificial objects, Computing]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/uob-hwp050916.php)
-
-id:  282581
 
 

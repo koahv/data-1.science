@@ -16,6 +16,4 @@ tags: [earth sciences]
 
 [Visit Link](http://phys.org/news/2015-08-self-healing-landscape-landslides-earthquakes.html)
 
-id:  173604
-
 

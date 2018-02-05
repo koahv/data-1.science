@@ -16,6 +16,4 @@ tags: [Air pollution, Natural environment, Pollution, Artificial objects, Human 
 
 [Visit Link](https://inhabitat.com/oxford-uk-to-create-first-zero-emissions-zone-in-the-world)
 
-id:  438291
-
 

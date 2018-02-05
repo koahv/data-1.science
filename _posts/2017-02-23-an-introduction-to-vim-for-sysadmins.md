@@ -16,6 +16,4 @@ tags: [Vim (text editor), Computer keyboard, Arrow keys, Text editor, Undo, Linu
 
 [Visit Link](https://www.linux.com/learn/intro-to-linux/2017/2/vim-sysadmins)
 
-id:  368454
-
 

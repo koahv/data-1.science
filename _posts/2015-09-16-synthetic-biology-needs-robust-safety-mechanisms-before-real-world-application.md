@@ -16,6 +16,4 @@ tags: [biotechnology]
 
 [Visit Link](http://phys.org/news/2015-09-synthetic-biology-robust-safety-mechanisms.html)
 
-id:  185359
-
 

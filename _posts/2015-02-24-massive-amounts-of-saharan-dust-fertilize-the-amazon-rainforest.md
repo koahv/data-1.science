@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-02/uom-mao022315.php)
 
-id:   86602
-
 

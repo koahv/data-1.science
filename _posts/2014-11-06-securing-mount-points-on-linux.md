@@ -16,6 +16,4 @@ tags: [hardening, storage, file system]
 
 [Visit Link](http://linux-audit.com/securing-mount-points-on-linux/)
 
-id:  191511
-
 

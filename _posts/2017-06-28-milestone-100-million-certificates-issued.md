@@ -16,6 +16,4 @@ tags: [Lets Encrypt, HTTPS, Public key certificate, Computer networking, Cyberwa
 
 [Visit Link](https://letsencrypt.org//2017/06/28/hundred-million-certs.html)
 
-id:  405350
-
 

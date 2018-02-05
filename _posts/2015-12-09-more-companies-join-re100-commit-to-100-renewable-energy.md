@@ -16,6 +16,4 @@ tags: [clean power, green economy, investment, bmw group, coca-cola enterprises,
 
 [Visit Link](http://cleantechnica.com/2015/12/09/companies-join-re100-commit-100-renewable-energy/)
 
-id:  222330
-
 

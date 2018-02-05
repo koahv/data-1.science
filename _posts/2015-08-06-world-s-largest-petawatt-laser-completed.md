@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/08/worlds-largest-petawatt-laser-completed)
 
-id:  165807
-
 

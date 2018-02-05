@@ -4,7 +4,7 @@ title: "First Results Show Success for Second NASA SLS Booster Test"
 date: 2016-08-15 13:24:32
 categories: Technology
 author: mcrouse
-tags: []
+tags: [Space Launch System, Space Shuttle main engine, NASA, Government programs, Space launch vehicles, Space science, Space-based economy, Space programs, Engineering projects, Rocketry, Human spaceflight programs, Spaceflight, Space exploration, Spacecraft, Spaceflight technologies, Aerospace engineering, Outer space, Space technology, Flight, Aerospace, Astronautics, Space colonization, NASA programs, Space program of the United States, Human spaceflight]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.pddnet.com/news/2016/08/first-results-show-success-second-nasa-sls-booster-test)
-
-id:  314318
 
 

@@ -16,6 +16,4 @@ tags: [questions & answers, resources and education, science-based q&a, stars fa
 
 [Visit Link](http://www.skyandtelescope.com/uncategorized/long-stars-live-stars-die/)
 
-id:   20690
-
 

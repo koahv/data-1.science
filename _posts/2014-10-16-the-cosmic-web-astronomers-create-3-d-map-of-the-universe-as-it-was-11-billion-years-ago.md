@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/cl0ZF4DLzjc/the-cosmic-web-astronomers-create-3-d-map-of-the-universe-as-it-was-11-billion-years-ago-.html)
 
-id:   55487
-
 

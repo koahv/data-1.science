@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Y-am4eug4YM/150122141802.htm)
 
-id:   74786
-
 

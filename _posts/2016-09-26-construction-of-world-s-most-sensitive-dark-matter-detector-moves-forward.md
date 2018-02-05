@@ -4,7 +4,7 @@ title: "Construction of world's most sensitive dark matter detector moves forwar
 date: 2016-09-26 16:38:52
 categories: Science
 author: unknown author
-tags: [general physics]
+tags: [Large Underground Xenon experiment, ZEPLIN-III, Weakly interacting massive particles, XENON, Dark matter, Physics, Physical sciences, Particle physics, Science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [general physics]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-09-world-sensitive-dark-detector.html)
-
-id:  326792
 
 

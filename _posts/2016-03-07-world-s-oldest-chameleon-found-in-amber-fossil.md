@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2016-03-world-oldest-chameleon-amber-fossil.html)
 
-id:  259266
-
 

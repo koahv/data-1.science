@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGTdcUBGOjnhr1JmjZNDA3JuJlhqg&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=nmPnU4ikAYrFgAev3IHwAw&url=http://www.redorbit.com/news/technology/1113209566/diamond-defects-for-quantum-computing-081014/)
 
-id:   35687
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/bsoa-tsd032715.php)
 
-id:  102165
-
 

@@ -4,7 +4,7 @@ title: "Photos of the Day: Intelligent LEDs Light The Way"
 date: 2016-06-22 20:45:17
 categories: Technology
 author: mcrouse
-tags: []
+tags: [Internet of things, Computing, Artificial objects, Technology]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.pddnet.com/news/2016/06/photos-day-intelligent-leds-light-way)
-
-id:  298189
 
 

@@ -16,6 +16,4 @@ tags: [news, wind power, large scale renewables, windfeatured, bioenergy, solar,
 
 [Visit Link](http://www.renewableenergyworld.com/articles/2015/10/digging-deeper-why-renewables-are-beating-coal-and-gas-in-some-parts-of-the-world.html)
 
-id:  196716
-
 

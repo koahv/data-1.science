@@ -18,6 +18,4 @@ When spent fuel is reprocessed, radioactive molecular iodine and organic iodide 
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/11/171101092019.htm)
 
-id:  447757
-
 

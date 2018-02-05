@@ -4,7 +4,7 @@ title: "Scientists combine satellite data and machine learning to map poverty"
 date: 2016-08-18 18:00:01
 categories: Science
 author: unknown author
-tags: [social sciences]
+tags: [Poverty, Machine learning, Archaeology, Violence, Ethics, Satellite imagery]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [social sciences]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-08-scientists-combine-satellite-machine-poverty.html)
-
-id:  315582
 
 

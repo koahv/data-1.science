@@ -16,6 +16,4 @@ tags: [Experiment, Regeneration (biology), Tufts University, Science, Biology]
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-06/tu-sfh060917.php)
 
-id:  399698
-
 

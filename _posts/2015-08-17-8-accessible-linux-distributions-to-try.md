@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://opensource.com/life/15/8/accessibility-linux-blind-disabled)
 
-id:  170325
-
 

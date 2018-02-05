@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/s-bss020116.php)
 
-id:  243912
-
 

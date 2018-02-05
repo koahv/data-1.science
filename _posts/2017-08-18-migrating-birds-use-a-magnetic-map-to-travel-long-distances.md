@@ -16,6 +16,4 @@ tags: [Bird migration, Compass, Navigation, Longitude, Bird, Magnetic field, Geo
 
 [Visit Link](https://phys.org/news/2017-08-migrating-birds-magnetic-distances.html)
 
-id:  420536
-
 

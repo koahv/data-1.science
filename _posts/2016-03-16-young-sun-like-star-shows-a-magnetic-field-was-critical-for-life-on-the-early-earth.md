@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/hcfa-ys031616.php)
 
-id:  263037
-
 

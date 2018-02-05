@@ -16,6 +16,4 @@ tags: [DNA, Computer data storage, Hard disk drive, Nucleotide, Computer file, A
 
 [Visit Link](http://www.ge.com/reports/storing-data-dna-brings-nature-digital-universe/)
 
-id:  416702
-
 

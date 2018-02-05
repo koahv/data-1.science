@@ -16,6 +16,4 @@ tags: [American Association for the Advancement of Science, Saturn, Outer planet
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/aaft-cdh041017.php)
 
-id:  383615
-
 

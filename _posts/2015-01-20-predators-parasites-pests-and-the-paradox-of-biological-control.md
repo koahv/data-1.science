@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/uom-ppp011415.php)
 
-id:   74566
-
 

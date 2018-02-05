@@ -16,6 +16,4 @@ tags: [culture, psychology, books, william james]
 
 [Visit Link](https://www.brainpickings.org/2016/03/25/william-james-attention/)
 
-id:  266292
-
 

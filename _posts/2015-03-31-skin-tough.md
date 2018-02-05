@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/dbnl-st033115.php)
 
-id:  102961
-
 

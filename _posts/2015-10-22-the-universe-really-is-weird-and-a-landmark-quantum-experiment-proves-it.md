@@ -16,6 +16,4 @@ tags: [quantum physics]
 
 [Visit Link](http://phys.org/news/2015-10-universe-weird-landmark-quantum.html)
 
-id:  201199
-
 

@@ -16,6 +16,4 @@ tags: [general physics]
 
 [Visit Link](http://phys.org/news/2015-09-greater-precision.html)
 
-id:  184057
-
 

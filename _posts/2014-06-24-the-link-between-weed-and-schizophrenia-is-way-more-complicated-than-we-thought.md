@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.theverge.com/2014/6/24/5836762/the-link-between-weed-and-schizophrenia-is-way-more-complicated-than)
 
-id:    4012
-
 

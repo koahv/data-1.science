@@ -4,7 +4,7 @@ title: "Linux Lexicon: Linux Directory Structure In Detail | fossBytes"
 date: 2016-06-02 16:50:32
 categories: Linux
 author: Navanshu Agarwal
-tags: [geek, /-root directory, /bin, /boot, /etc, /home, /lib, /opt, /proc, /tmp, /usr, /var, dev, learn linux, linux, linux directory structure, linux lexicon, media]
+tags: [Computer file, Device file, Booting, Operating system, Passwd, Unix filesystem, Superuser, Procfs, Software, Storage software, Information retrieval, Areas of computer science, Digital technology, Computing, System software, Operating system technology, Computer architecture, Computer data, Information technology management, Utility software, Computer data storage, Data management, Computers, Computer engineering, Data]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [geek, /-root directory, /bin, /boot, /etc, /home, /lib, /opt, /proc, /tmp
 >factsheet unavailable
 
 [Visit Link](http://fossbytes.com/linux-lexicon-linux-directory-structure/)
-
-id:  291046
 
 

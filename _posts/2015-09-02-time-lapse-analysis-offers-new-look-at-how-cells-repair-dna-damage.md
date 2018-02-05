@@ -16,6 +16,4 @@ tags: [cell & microbiology]
 
 [Visit Link](http://phys.org/news/2015-09-time-lapse-analysis-cells-dna.html)
 
-id:  178104
-
 

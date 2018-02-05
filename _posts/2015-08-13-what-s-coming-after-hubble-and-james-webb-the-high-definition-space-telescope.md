@@ -16,6 +16,4 @@ tags: [space exploration]
 
 [Visit Link](http://phys.org/news/2015-08-hubble-james-webb-high-definition-space.html)
 
-id:  169122
-
 

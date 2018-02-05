@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNGNBBs2F4ANLdqMHVUkyb_1JNShjA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778906766640&ei=i_avVdijMMK9pweHhYGICQ&url=http://www.ndtv.com/world-news/oceans-on-mars-may-have-never-existed-study-784250)
 
-id:  158958
-
 

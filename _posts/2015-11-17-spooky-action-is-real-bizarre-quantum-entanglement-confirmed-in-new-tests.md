@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/52811-spooky-action-is-real.html)
 
-id:  212727
-
 

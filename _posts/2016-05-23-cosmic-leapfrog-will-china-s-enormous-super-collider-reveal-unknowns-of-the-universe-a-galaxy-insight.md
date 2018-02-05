@@ -4,7 +4,7 @@ title: ""Cosmic Leapfrog" --Will China's Enormous 'Super Collider' Reveal Unknow
 date: 2016-05-23 16:17:04
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Large Hadron Collider, Particle physics, Higgs boson, Standard Model, Physics, Matter, Physics beyond the Standard Model, CERN, Universe, Science, Physical sciences, Theoretical physics, Mechanics, Physical universe]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/05/cosmic-leapfrog-will-chinas-enormous-super-collider-reveal-unknowns-of-the-universe-so-far-the-standard-model-seems.html)
-
-id:  287672
 
 

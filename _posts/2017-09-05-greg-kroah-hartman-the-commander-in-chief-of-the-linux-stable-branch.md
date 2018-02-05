@@ -16,6 +16,4 @@ tags: [Linux, Linux Foundation, Computer architecture, Unix variants, Linux peop
 
 [Visit Link](https://www.linux.com/news/greg-kroah-hartman-commander-chief-linux-stable-branch)
 
-id:  425712
-
 

@@ -16,6 +16,4 @@ tags: [Artificial intelligence, Computer, Artificial objects, Technology, Scienc
 
 [Visit Link](https://phys.org/news/2017-01-video-machine-world.html)
 
-id:  358673
-
 

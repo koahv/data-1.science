@@ -16,6 +16,4 @@ tags: [Artificial intelligence, DeepMind, Motivation, Cognitive science, Cogniti
 
 [Visit Link](https://phys.org/news/2017-10-alphabet-deepmind-ethics-artificial-intelligence.html)
 
-id:  435115
-
 

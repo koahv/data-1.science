@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/round-ups/2015/03/changing-face-factories)
 
-id:  100434
-
 

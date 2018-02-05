@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.spacedaily.com/reports/Quantum_mechanical_monopoles_discovered_999.html)
 
-id:  121050
-
 

@@ -16,6 +16,4 @@ tags: [Sentinel-2, Outer space, European space programmes, Space agencies, Space
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2017/03/Sentinel-2B_prepared_for_liftoff)
 
-id:  378167
-
 

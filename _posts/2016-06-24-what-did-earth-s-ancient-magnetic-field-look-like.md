@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/cifs-wde062416.php)
 
-id:  298549
-
 

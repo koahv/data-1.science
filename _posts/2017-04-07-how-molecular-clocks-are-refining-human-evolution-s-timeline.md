@@ -16,6 +16,4 @@ tags: [Neanderthal, Mutation, Human, Evolution, Homo sapiens, Human evolution, G
 
 [Visit Link](https://phys.org/news/2017-04-molecular-clocks-refining-human-evolution.html)
 
-id:  381520
-
 

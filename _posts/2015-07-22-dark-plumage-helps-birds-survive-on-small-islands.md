@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-07/copo-dph072215.php)
 
-id:  159070
-
 

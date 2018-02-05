@@ -16,6 +16,4 @@ tags: [Neanderthal, Genetics, Genome, Biology, Evolution, Anatomically modern hu
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uab-hni102417.php)
 
-id:  444109
-
 

@@ -16,6 +16,4 @@ tags: [Amazon rainforest, Deforestation, Brazil, Natural environment]
 
 [Visit Link](https://phys.org/news/2017-08-world-protests-amazon-forests.html)
 
-id:  423733
-
 

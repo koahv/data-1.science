@@ -4,7 +4,7 @@ title: "Decades of discovery: NASA's exploration of Jupiter"
 date: 2016-08-05 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Jupiter, New Horizons, Galileo (spacecraft), Planet, Voyager 1, Space probe, Solar System, Gravity assist, Hubble Space Telescope, Cassini–Huygens, Io (moon), Sun, Ring system, Planemos, Planets of the Solar System, Space colonization, Astronautics, Astronomical objects, Space technology, Astronomical objects known since antiquity, Physical sciences, Outer space, Planetary science, Astronomy, Space science, Spaceflight, Bodies of the Solar System, Planets, Space exploration]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/nsfc-dod080516.php)
-
-id:  311759
 
 

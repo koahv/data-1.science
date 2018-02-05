@@ -16,6 +16,4 @@ tags: [climate change, environmental destruction, news, renewable energy, carbon
 
 [Visit Link](http://inhabitat.com/ozone-layer-heals-while-carbon-dioxide-emissions-reach-desperately-high-levels/)
 
-id:  122936
-
 

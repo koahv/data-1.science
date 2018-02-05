@@ -16,6 +16,4 @@ tags: [air quality, clean power, health, policy & politics, wind energy, wind tu
 
 [Visit Link](http://cleantechnica.com/2016/01/07/united-states-50000-wind-turbines/)
 
-id:  233295
-
 

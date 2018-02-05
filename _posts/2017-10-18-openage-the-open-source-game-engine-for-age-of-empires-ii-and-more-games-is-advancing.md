@@ -16,6 +16,4 @@ tags: [Digital media, Computing, Software, Technology]
 
 [Visit Link](https://www.gamingonlinux.com/articles/openage-the-open-source-game-engine-for-age-of-empires-ii-and-more-games-is-advancing.10568)
 
-id:  441054
-
 

@@ -4,7 +4,7 @@ title: "Artificial photosynthesis: Researchers create the first practical design
 date: 2016-09-12 15:43:12
 categories: Science
 author: unknown author
-tags: [energy & green tech]
+tags: [Solar energy, Water splitting, Solar cell, Photovoltaics, Electrolysis, Energy, Physical universe, Energy production, Technology, Energy technology, Sustainable technologies, Chemistry, Alternative energy, Nature, Artificial objects]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [energy & green tech]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-09-artificial-photosynthesis-photoelectrochemical.html)
-
-id:  322942
 
 

@@ -16,6 +16,4 @@ tags: [green technology, news, comet landing, esa, european space agency, first 
 
 [Visit Link](http://inhabitat.com/european-space-agencys-philae-probe-sends-astounding-first-images-from-comet-landing/)
 
-id:   61872
-
 

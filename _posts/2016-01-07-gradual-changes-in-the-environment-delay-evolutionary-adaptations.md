@@ -16,6 +16,4 @@ tags: [ecology]
 
 [Visit Link](http://phys.org/news/2016-01-gradual-environment-evolutionary.html)
 
-id:  233094
-
 

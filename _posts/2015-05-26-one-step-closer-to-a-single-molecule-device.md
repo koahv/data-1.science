@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/05/one-step-closer-single-molecule-device)
 
-id:  128851
-
 

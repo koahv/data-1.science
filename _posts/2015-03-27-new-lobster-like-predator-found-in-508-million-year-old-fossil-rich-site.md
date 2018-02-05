@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/uot-nlp032415.php)
 
-id:  101571
-
 

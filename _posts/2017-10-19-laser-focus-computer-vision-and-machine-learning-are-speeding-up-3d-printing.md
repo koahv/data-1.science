@@ -16,6 +16,4 @@ tags: [3D printing, Printer (computing), Computer vision, Artificial intelligenc
 
 [Visit Link](https://www.ge.com/reports/laser-focus-computer-vision-machine-learning-speeding-3d-printing/)
 
-id:  441653
-
 

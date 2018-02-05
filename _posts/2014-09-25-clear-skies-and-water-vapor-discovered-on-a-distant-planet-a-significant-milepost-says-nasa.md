@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/_19F0JXwXo0/-clear-skies-and-water-vapor-discovered-on-a-distant-planet-a-significant-milepost-says-nasa.html)
 
-id:   52406
-
 

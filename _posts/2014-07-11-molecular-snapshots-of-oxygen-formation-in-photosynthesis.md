@@ -16,6 +16,4 @@ tags: [chemistry]
 
 [Visit Link](http://phys.org/news324292820.html)
 
-id:   18274
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.gereports.com/from-bloodstream-to-mainstream-new-cell-therapy-center-seeks-to-revolutionize-personalized-medicine/)
 
-id:  235783
-
 

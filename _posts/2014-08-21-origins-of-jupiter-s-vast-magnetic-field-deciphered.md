@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/Zuzr6fDYtf4/origins-of-jupiters-vast-magnetic-field-deciphered.html)
 
-id:   43680
-
 

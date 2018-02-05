@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/06/unlocking-secrets-dark-matter-dark-energy)
 
-id:  131904
-
 

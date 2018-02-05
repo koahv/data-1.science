@@ -16,6 +16,4 @@ tags: [wind power infographic, how wind turbines work, infographic, reader submi
 
 [Visit Link](http://inhabitat.com/infographic-how-wind-turbines-actually-work/)
 
-id:  264769
-
 

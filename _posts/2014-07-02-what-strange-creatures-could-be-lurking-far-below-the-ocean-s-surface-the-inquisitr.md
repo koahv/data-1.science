@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFfOE32ujmYs-TMBFNRkYMr98cKKw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778547378210&ei=_bKzU8CUDoWIgAeHo4GYCw&url=http://www.inquisitr.com/1329973/what-strange-creatures-could-be-lurking-far-below-the-oceans-surface/)
 
-id:   11593
-
 

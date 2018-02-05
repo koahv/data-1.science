@@ -4,7 +4,7 @@ title: "Watch the International Space Station Marathon"
 date: 2016-05-23 14:29:23
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy blogs, astronomy in space with david dickinson, news, observing news & current celestial events, spacecraft and space missions, international space station, iss]
+tags: [International Space Station, Moon, NASA, Sun, Beta angle, Satellite, Earth, Flight, Spacecraft, Aerospace engineering, Astronautics, Spaceflight technologies, Astronomy, Space colonization, Space technology, Space exploration, Spaceflight, Outer space, Space science, Aerospace, Solar System]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [astronomy blogs, astronomy in space with david dickinson, news, observing
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/observing-news/watch-an-international-space-station-marathon/)
-
-id:  287806
 
 

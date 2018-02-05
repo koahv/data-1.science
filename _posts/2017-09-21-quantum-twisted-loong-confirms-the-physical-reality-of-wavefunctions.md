@@ -16,6 +16,4 @@ tags: [Double-slit experiment, Photon, Quantum mechanics, Wave function, Applied
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-09/scp-qtl091917.php)
 
-id:  431137
-
 

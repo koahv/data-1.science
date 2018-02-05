@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEXS_RueTNb6No6oWx-c1SSSsJHjQ&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778886192928&ei=WN2uVdDcEJea3QHSi63ACw&url=http://www.weather.com/science/space/news/geomagnetic-storm-hits-earth-june)
 
-id:  158472
-
 

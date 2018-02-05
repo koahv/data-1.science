@@ -16,6 +16,4 @@ tags: [science, generate, power, rtg, solar, solar power, spacecraft]
 
 [Visit Link](http://www.fromquarkstoquasars.com/how-do-we-power-spacecraft/)
 
-id:   14017
-
 

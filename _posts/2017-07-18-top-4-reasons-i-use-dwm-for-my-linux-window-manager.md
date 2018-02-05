@@ -16,6 +16,4 @@ tags: [Desktop environment, Xfce, Window manager, Dwm, Software, System software
 
 [Visit Link](https://opensource.com/article/17/7/top-4-reasons-i-use-dwm-linux-window-manager)
 
-id:  410688
-
 

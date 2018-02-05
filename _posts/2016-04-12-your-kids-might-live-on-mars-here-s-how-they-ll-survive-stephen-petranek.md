@@ -16,6 +16,4 @@ tags: [higher education]
 
 [Visit Link](http://www.ted.com/talks/stephen_petranek_your_kids_might_live_on_mars_here_s_how_they_ll_survive)
 
-id:  273251
-
 

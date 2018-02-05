@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/miot-anw022916.php)
 
-id:  257046
-
 

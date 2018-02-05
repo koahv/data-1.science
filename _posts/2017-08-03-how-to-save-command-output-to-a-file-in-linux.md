@@ -16,6 +16,4 @@ tags: [Computer file, File system, Input/output, Disk storage, Man page, Compute
 
 [Visit Link](https://www.tecmint.com/save-command-output-to-a-file-in-linux/)
 
-id:  415800
-
 

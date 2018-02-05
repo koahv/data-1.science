@@ -16,6 +16,4 @@ tags: [Physical cosmology, Big Bang, Universe, Inflation (cosmology), Cosmologic
 
 [Visit Link](https://phys.org/news/2017-01-cosmologists-closer-quantum-gravity.html)
 
-id:  359072
-
 

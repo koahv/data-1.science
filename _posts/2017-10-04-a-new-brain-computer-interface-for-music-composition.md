@@ -16,6 +16,4 @@ tags: [Brain–computer interface, Neuroscience, Nervous system, Cognition, Cogn
 
 [Visit Link](https://phys.org/news/2017-10-brain-computer-interface-music-composition.html)
 
-id:  435024
-
 

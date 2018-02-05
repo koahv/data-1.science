@@ -4,7 +4,7 @@ title: "China Unveils Plans for a Manned Radar Station on the Moon --"Leading Sp
 date: 2016-08-24 15:48:28
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Moon, Science, Earth, Satellite, China, Technology, Outer space, Planetary science, Astronomy, Space science, Spaceflight, Space exploration]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/08/china-unveils-plans-for-a-manned-radar-station-on-the-moon-leading-space-scientists-have-joined-the-.html)
-
-id:  317254
 
 

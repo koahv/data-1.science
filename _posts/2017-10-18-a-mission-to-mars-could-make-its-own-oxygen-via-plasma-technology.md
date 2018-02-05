@@ -16,6 +16,4 @@ tags: [In situ resource utilization, Carbon dioxide, Mars, Nature, Outer space, 
 
 [Visit Link](https://phys.org/news/2017-10-mission-mars-oxygen-plasma-technology.html)
 
-id:  440630
-
 

@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/24071-pterodactyl-pteranodon-flying-dinosaurs.html)
 
-id:  264092
-
 

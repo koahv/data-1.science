@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/nov/24/physicists-entangle-qubits-in-a-semiconductor-at-room-temperature)
 
-id:  216170
-
 

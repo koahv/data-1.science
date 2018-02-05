@@ -16,6 +16,4 @@ tags: [astrophysics, quantum mechanics, copenhagen interpretation, decoherence, 
 
 [Visit Link](http://www.fromquarkstoquasars.com/light-particle-or-wave/)
 
-id:   25024
-
 

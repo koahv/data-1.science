@@ -16,6 +16,4 @@ tags: [Agriculture, Ant, Ant–fungus mutualism, Evolution, Species, Biology, Or
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/s-aar040617.php)
 
-id:  382789
-
 

@@ -16,6 +16,4 @@ tags: [news, spacecraft and space missions]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/nasa-amassing-targets-asteroid-mission/)
 
-id:    2647
-
 

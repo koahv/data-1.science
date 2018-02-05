@@ -16,6 +16,4 @@ tags: [space exploration]
 
 [Visit Link](http://phys.org/news/2015-08-rosetta-big-day-sun.html)
 
-id:  169530
-
 

@@ -4,7 +4,7 @@ title: "LHCb unveils new particles"
 date: 2016-07-05 12:56:02
 categories: Science
 author: unknown author
-tags: [general physics]
+tags: [Quark, Particle physics, Color charge, Strong interaction, Hadron, Gluon, Large Hadron Collider, J/psi meson, Scientific theories, Physical universe, Modern physics, Quantum chromodynamics, Solid state engineering, Nuclear physics, Physical bodies, Subatomic particles, Theoretical physics, Mechanics, Quantum mechanics, Standard Model, Quantum field theory, Physical sciences, Physics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [general physics]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-07-lhcb-unveils-particles.html)
-
-id:  301597
 
 

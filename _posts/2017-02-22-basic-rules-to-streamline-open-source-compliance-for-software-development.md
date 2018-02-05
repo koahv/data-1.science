@@ -16,6 +16,4 @@ tags: [Open-source software, Software, Software development, Regulatory complian
 
 [Visit Link](https://www.linux.com/blog/learn/compliance/2017/2/basic-rules-streamline-open-source-compliance-software-development)
 
-id:  368044
-
 

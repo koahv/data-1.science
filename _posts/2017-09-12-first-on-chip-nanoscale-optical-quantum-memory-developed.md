@@ -16,6 +16,4 @@ tags: [Quantum mechanics, Photon, Quantum network, Computer, Physics, Integrated
 
 [Visit Link](https://www.pddnet.com/news/2017/09/first-chip-nanoscale-optical-quantum-memory-developed)
 
-id:  428414
-
 

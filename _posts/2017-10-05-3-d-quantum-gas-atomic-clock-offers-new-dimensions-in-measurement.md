@@ -16,6 +16,4 @@ tags: [Atom, Atomic clock, Quantum mechanics, Gas, Clock, Optical lattice, Laser
 
 [Visit Link](https://phys.org/news/2017-10-d-quantum-gas-atomic-clock.html)
 
-id:  435683
-
 

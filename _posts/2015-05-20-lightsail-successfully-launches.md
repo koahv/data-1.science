@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/05/lightsail-successfully-launches)
 
-id:  126703
-
 

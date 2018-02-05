@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHcBgWL8DLShto__y3_UHnCPuQs7Q&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778782093300&ei=DlUQVbjPF6apwQG1joGwDg&url=http://www.stuff.co.nz/travel/themes/67480489/the-driest-places-on-earth-worlds-most-incredible-deserts)
 
-id:   99176
-
 

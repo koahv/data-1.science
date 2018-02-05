@@ -16,6 +16,4 @@ tags: [Plastic, Polyethylene, Waxworm, Polymer, Beehive, Chemical substance, Ame
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/uoc-cft042117.php)
 
-id:  386426
-
 

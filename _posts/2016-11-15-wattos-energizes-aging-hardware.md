@@ -4,7 +4,7 @@ title: "wattOS Energizes Aging Hardware"
 date: 2016-11-15 15:00:00
 categories: Linux
 author: Jack M. Germain
-tags: [reviews, ]
+tags: []
 ---
 
 
@@ -15,7 +15,5 @@ tags: [reviews, ]
 >factsheet unavailable
 
 [Visit Link](http://www.linuxinsider.com/story/84076.html?rss=1)
-
-id:  341020
 
 

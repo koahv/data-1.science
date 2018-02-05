@@ -16,6 +16,4 @@ tags: [Nanopore, Nanomedicine, Chemistry, Biotechnology, Biology, Life sciences,
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171019115747.htm)
 
-id:  442092
-
 

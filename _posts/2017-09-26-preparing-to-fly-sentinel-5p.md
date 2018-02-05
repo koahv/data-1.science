@@ -16,6 +16,4 @@ tags: [Simulation, Satellite, European Space Agency, Christopher C. Kraft Jr. Mi
 
 [Visit Link](http://www.esa.int/Our_Activities/Operations/Preparing_to_fly_Sentinel-5P)
 
-id:  432622
-
 

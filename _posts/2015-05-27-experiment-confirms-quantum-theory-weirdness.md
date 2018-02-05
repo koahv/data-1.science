@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/05/experiment-confirms-quantum-theory-weirdness)
 
-id:  129598
-
 

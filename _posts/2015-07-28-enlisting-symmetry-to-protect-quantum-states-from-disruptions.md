@@ -16,6 +16,4 @@ tags: [quantum physics]
 
 [Visit Link](http://phys.org/news/2015-07-symmetry-quantum-states-disruptions.html)
 
-id:  161520
-
 

@@ -16,6 +16,4 @@ tags: [environment]
 
 [Visit Link](http://phys.org/news/2015-09-wood-production-european-forests.html)
 
-id:  181640
-
 

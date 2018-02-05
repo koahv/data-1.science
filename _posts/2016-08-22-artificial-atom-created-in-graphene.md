@@ -4,7 +4,7 @@ title: "'Artificial atom' created in graphene"
 date: 2016-08-22 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Quantum dot, Graphene, Electron, Atom, Quantum mechanics, Chemical product engineering, Physical sciences, Particle physics, Applied and interdisciplinary physics, Mechanics, Modern physics, Condensed matter, Solid state engineering, Physical chemistry, Materials, Condensed matter physics, Materials science, Physics, Atomic,  molecular,  and optical physics, Theoretical physics, Manufacturing, Electromagnetism, Chemistry]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/vuot-ac082216.php)
-
-id:  316409
 
 

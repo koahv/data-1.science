@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/wLDJ9UlCwZk/would-earth-appear-habitable-to-an-alien-astronomer-nasa-ocean-glint-may-be-a-clue.html)
 
-id:   10023
-
 

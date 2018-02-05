@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/52038-photos-ancient-sea-scorpion.html)
 
-id:  177600
-
 

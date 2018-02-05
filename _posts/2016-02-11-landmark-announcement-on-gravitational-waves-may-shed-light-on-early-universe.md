@@ -16,6 +16,4 @@ tags: [science]
 
 [Visit Link](http://www.thehindu.com/sci-tech/science/gravitational-waves-landmark-announcement-may-shed-light-on-early-universe/article8223840.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-id:  248917
-
 

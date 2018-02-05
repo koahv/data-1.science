@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.wired.co.uk/news/archive/2014-06/30/supercooling-organs)
 
-id:    9973
-
 

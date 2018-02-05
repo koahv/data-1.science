@@ -16,6 +16,4 @@ tags: [carousel showcase, green transportation, news, renewable energy, abu dhab
 
 [Visit Link](http://inhabitat.com/zero-fuel-solar-impulse-2-takes-off-on-worlds-first-round-the-world-flight-powered-entirely-by-sunlight/)
 
-id:   92899
-
 

@@ -16,6 +16,4 @@ tags: [Electron, Geometric phase, Quantum mechanics, Wave, Physics, Graphene, St
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/05/170525141541.htm)
 
-id:  395761
-
 

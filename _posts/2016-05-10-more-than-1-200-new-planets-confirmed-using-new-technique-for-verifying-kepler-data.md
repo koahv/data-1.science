@@ -4,7 +4,7 @@ title: "More than 1,200 new planets confirmed using new technique for verifying 
 date: 2016-05-10 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Kepler (spacecraft), Methods of detecting exoplanets, Planet, Transiting Exoplanet Survey Satellite, Exoplanet, Physical sciences, Science, Astronomical objects, Space science, Planetary science, Outer space, Astronomy]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/pu-mt1051016.php)
-
-id:  283196
 
 

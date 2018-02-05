@@ -16,6 +16,4 @@ tags: [astrophysics, 100 year star-ship symposium, alcubierre warp drive, helios
 
 [Visit Link](http://www.fromquarkstoquasars.com/sci-fi-warp-drives-a-very-real-possibility/)
 
-id:    7484
-
 

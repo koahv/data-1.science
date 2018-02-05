@@ -4,7 +4,7 @@ title: "Photos of the Day: First Public, Super-Speed Hyperloop Test"
 date: 2016-05-12 20:24:45
 categories: Technology
 author: mcrouse
-tags: []
+tags: [Hyperloop One, Hyperloop, Manufactured goods, High-speed rail, Energy, Sustainable transport, Industries, Artificial objects, Technology, Transportation engineering, Vehicles, Transport, Rail transport]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.pddnet.com/news/2016/05/photos-day-first-public-super-speed-hyperloop-test)
-
-id:  284181
 
 

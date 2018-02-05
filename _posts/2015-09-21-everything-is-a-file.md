@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://opensource.com/life/15/9/everything-is-a-file)
 
-id:  187134
-
 

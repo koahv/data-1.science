@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/ndCoknUvXoM/your-inner-jellyfish-origin-of-electrical-communication-in-human-brain-traced-back-600-million-years.html)
 
-id:   83467
-
 

@@ -4,7 +4,7 @@ title: "First movie of energy transfer in photosynthesis solves decades-old deba
 date: 2016-12-23 10:00:01
 categories: Science
 author: unknown author
-tags: [materials science, Photosynthesis, Photosynthetic reaction centre, Artificial photosynthesis, Photosystem II, Energy, Chemical reaction, Physical sciences, Nature, Chemistry, Photosystem]
+tags: [Photosynthesis, Photosynthetic reaction centre, Artificial photosynthesis, Energy, Photosystem II, Chemical reaction, Chemistry, Physical sciences, Nature, Applied and interdisciplinary physics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [materials science, Photosynthesis, Photosynthetic reaction centre, Artifi
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-12-movie-energy-photosynthesis-decades-old-debate.html)
-
-id:  351969
 
 

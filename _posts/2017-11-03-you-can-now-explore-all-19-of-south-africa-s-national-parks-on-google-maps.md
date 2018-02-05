@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://inhabitat.com/you-can-now-explore-all-19-of-south-africas-national-parks-on-google-maps)
 
-id:  448989
-
 

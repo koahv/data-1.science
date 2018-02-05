@@ -16,6 +16,4 @@ tags: [malware, monitoring, rootkit]
 
 [Visit Link](http://linux-audit.com/monitoring-linux-systems-for-rootkits/)
 
-id:  191490
-
 

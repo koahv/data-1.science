@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/Gaqw3PmQYsU/supernova-25-million-year-old-dust-on-ocean-floor-contradicts-current-theories.html)
 
-id:   73793
-
 

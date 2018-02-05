@@ -16,6 +16,4 @@ tags: [Bell test experiments, Principle of locality, Loopholes in Bell test expe
 
 [Visit Link](https://phys.org/news/2017-07-probability-quantum-world-local-realism.html)
 
-id:  411641
-
 

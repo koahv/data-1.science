@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/uol-tic062614.php)
 
-id:    7465
-
 

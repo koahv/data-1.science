@@ -16,6 +16,4 @@ tags: [science, animation, ted]
 
 [Visit Link](http://www.brainpickings.org/2015/07/16/renee-hlozek-universe-ted-ed/)
 
-id:  155707
-
 

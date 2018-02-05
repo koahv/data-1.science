@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/INTEGRAL_catches_dead_star_exploding_in_a_blaze_of_glory)
 
-id:   46860
-
 

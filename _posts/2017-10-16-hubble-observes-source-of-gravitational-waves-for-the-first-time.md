@@ -16,6 +16,4 @@ tags: [Gravitational wave, Astronomy, LIGO, Neutron star, Star, Gamma-ray burst,
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/eic-hos101617.php)
 
-id:  439678
-
 

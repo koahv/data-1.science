@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2016/03/ibms-brain-computer-now-working-nuclear-non-proliferation)
 
-id:  268187
-
 

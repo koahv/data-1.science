@@ -4,7 +4,7 @@ title: "Artificial intelligence to predict odors"
 date: 2016-12-16 05:00:00
 categories: Technology
 author: unknown author
-tags: [Odor, Olfaction, Cognitive science, Science, Cognition, Neuroscience]
+tags: [Odor, Olfaction, Cognitive science, Science, Cognition]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [Odor, Olfaction, Cognitive science, Science, Cognition, Neuroscience]
 >factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-12/uoe-ait121616.php)
-
-id:  350247
 
 

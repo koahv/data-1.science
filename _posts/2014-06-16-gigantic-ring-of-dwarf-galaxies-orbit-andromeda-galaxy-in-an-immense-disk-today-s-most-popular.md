@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/pVzHKywxSZs/gigantic-ring-of-dwarf-galaxies-orbiting-andromeda-galaxy-in-an-immense-disk-todays-most-popular.html)
 
-id:     515
-
 

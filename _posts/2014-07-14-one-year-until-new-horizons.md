@@ -16,6 +16,4 @@ tags: [news, solar system, spacecraft and space missions, new horizons, pluto]
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/one-year-new-horizons07142014/)
 
-id:   19664
-
 

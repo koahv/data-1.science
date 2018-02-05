@@ -16,6 +16,4 @@ tags: [astronomy]
 
 [Visit Link](http://phys.org/news/2016-01-properties-pre-stellar-cores.html)
 
-id:  237674
-
 

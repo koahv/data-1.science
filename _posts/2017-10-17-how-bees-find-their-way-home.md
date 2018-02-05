@@ -16,6 +16,4 @@ tags: [Honey bee, Brain, Western honey bee, Bee, Neuroscience, Biology]
 
 [Visit Link](https://phys.org/news/2017-10-bees-home.html)
 
-id:  440083
-
 

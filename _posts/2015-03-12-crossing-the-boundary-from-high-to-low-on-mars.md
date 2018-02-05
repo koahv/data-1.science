@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Crossing_the_boundary_from_high_to_low_on_Mars)
 
-id:   94297
-
 

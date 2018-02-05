@@ -16,6 +16,4 @@ tags: [ecology]
 
 [Visit Link](http://phys.org/news/2015-08-danube-fossils-brink-extinction.html)
 
-id:  167638
-
 

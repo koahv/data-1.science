@@ -16,6 +16,4 @@ tags: [Compact Muon Solenoid, Large Hadron Collider, CERN, Particle accelerator,
 
 [Visit Link](https://phys.org/news/2017-03-open-heart-surgery-lhc.html)
 
-id:  374290
-
 

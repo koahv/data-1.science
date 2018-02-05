@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxtoday.com/developer/an-introduction-to-opengl-programming.html)
 
-id:   62522
-
 

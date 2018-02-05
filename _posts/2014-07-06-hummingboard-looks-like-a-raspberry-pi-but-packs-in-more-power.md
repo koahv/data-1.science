@@ -16,6 +16,4 @@ tags: [technology lab, hummingboard, raspberry pi]
 
 [Visit Link](http://feeds.arstechnica.com/~r/arstechnica/index/~3/rR0Y3YYGRB8/)
 
-id:   14280
-
 

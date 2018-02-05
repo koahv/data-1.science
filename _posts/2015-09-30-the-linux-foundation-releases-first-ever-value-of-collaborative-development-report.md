@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.linuxfoundation.org/news-media/announcements/2015/09/linux-foundation-releases-first-ever-value-collaborative)
 
-id:  194119
-
 

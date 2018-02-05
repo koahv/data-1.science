@@ -16,6 +16,4 @@ tags: [Sustainable energy, Sustainability, Energy, Natural environment, Sustaina
 
 [Visit Link](https://inhabitat.com/google-will-be-powered-by-100-renewable-energy-by-2018)
 
-id:  438825
-
 

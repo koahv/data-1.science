@@ -16,6 +16,4 @@ tags: [earth sciences]
 
 [Visit Link](http://phys.org/news/2016-03-variability-major-oceanic-currents-driven.html)
 
-id:  263410
-
 

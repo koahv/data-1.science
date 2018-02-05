@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/isoa-tqd070414.php)
 
-id:   15007
-
 

@@ -16,6 +16,4 @@ tags: [space exploration]
 
 [Visit Link](http://phys.org/news/2016-04-surface-neptune.html)
 
-id:  277160
-
 

@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2016-01-giant-ape-gigantopithecus-extinct-years.html)
 
-id:  231415
-
 

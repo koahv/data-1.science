@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2015/02/Replay_of_Vega_liftoff_VV04_with_IXV)
 
-id:   81533
-
 

@@ -16,6 +16,4 @@ tags: [Quantum mechanics, Quantum computing, Physics, Computer, Quantum simulato
 
 [Visit Link](https://phys.org/news/2017-10-quantum-mechanical-analysis-metabolism.html)
 
-id:  440024
-
 

@@ -4,7 +4,7 @@ title: "Newfound Object 2016 HO3 Shares Earth’s Orbit"
 date: 2016-06-24 15:34:45
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy blogs, astronomy in space with david dickinson, news, solar system, 2016 ho3, minimoon]
+tags: [Asteroid, Space exploration, Physical sciences, Bodies of the Solar System, Space science, Solar System, Planetary science, Astronomy, Outer space, Astronomical objects, Space colonization, Spaceflight]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [astronomy blogs, astronomy in space with david dickinson, news, solar sys
 >factsheet unavailable
 
 [Visit Link](http://www.skyandtelescope.com/astronomy-news/2016-ho3-a-new-minimoon-for-the-earth/)
-
-id:  298509
 
 

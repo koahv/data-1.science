@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.livescience.com/53497-ai-defeats-human-go-player.html)
 
-id:  242126
-
 

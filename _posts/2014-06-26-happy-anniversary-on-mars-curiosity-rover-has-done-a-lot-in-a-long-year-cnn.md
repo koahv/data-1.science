@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFohiwvlvgFkprEG_FUHOPbCWBKGw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52778540850606&ei=h-SxU6GWA4rKgAfYtoCwAQ&url=http://www.cnn.com/2014/06/24/tech/mars-curiosity-anniversary/)
 
-id:   10414
-
 

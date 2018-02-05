@@ -16,6 +16,4 @@ tags: [Open-source software, Source code, Software, Regulatory compliance, Proje
 
 [Visit Link](https://www.linux.com/blog/compliance-ebook/2017/2/7-elements-open-source-management-program-teams-and-tools)
 
-id:  364073
-
 

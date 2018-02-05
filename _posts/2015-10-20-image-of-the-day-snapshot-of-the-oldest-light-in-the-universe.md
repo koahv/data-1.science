@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/10/image-of-the-day-snapshot-of-the-oldest-light-in-the-universe.html)
 
-id:  200149
-
 

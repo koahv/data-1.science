@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2015-08-tail-timeresearchers-ankylosaur-evolution.html)
 
-id:  176986
-
 

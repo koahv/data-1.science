@@ -16,6 +16,4 @@ tags: [Monterey Bay Aquarium Research Institute, Bioluminescence]
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/mbar-nss041017.php)
 
-id:  382252
-
 

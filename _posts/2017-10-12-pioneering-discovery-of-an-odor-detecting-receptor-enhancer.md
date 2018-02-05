@@ -16,6 +16,4 @@ tags: [Gene, Olfactory receptor, Olfaction, Enhancer (genetics), Sensory neuron,
 
 [Visit Link](https://phys.org/news/2017-10-discovery-odor-detecting-receptor.html)
 
-id:  438212
-
 

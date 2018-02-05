@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/01/new-discoveries-on-the-evolution-of-the-eye-our-window-on-the-universe.html)
 
-id:  241468
-
 

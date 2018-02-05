@@ -16,6 +16,4 @@ tags: [Leadership, Business, Leadership development, Community, Psychological co
 
 [Visit Link](https://opensource.com/open-organization/17/2/4-stages-open-leadership-development)
 
-id:  369675
-
 

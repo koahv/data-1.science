@@ -4,7 +4,7 @@ title: "Genetic algorithms can improve quantum simulations"
 date: 2016-06-23 07:50:08
 categories: Science
 author: unknown author
-tags: [quantum physics]
+tags: [Quantum computing, Genetic algorithm, Computing, Algorithm, Areas of computer science, Technology, Applied mathematics]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [quantum physics]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-06-genetic-algorithms-quantum-simulations.html)
-
-id:  297931
 
 

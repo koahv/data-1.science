@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2016/01/the-cosmic-misfits-25-of-all-galaxies-have-an-indefinable-irregular-shape-nasaesa-hubble.html)
 
-id:  240922
-
 

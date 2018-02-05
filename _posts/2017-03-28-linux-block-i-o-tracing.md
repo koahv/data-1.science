@@ -16,6 +16,4 @@ tags: [Dd (Unix), SCSI, Device file, Ioctl, Package manager, File system, Debugg
 
 [Visit Link](https://www.linux.com/blog/linux-block-io-tracing)
 
-id:  378586
-
 

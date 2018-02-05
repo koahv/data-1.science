@@ -16,6 +16,4 @@ tags: [general physics]
 
 [Visit Link](http://phys.org/news/2015-09-precision-neutrino-daya-bay.html)
 
-id:  182993
-
 

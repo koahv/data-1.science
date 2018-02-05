@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2015/08/ring-of-galaxies-largest-object-in-the-universe-spans-5-billion-light-years.html)
 
-id:  164672
-
 

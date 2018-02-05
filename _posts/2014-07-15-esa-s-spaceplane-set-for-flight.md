@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.esa.int/Our_Activities/Launchers/IXV/ESA_s_spaceplane_set_for_flight)
 
-id:   20798
-
 

@@ -4,7 +4,7 @@ title: "ESO's VLT detects unexpected giant glowing halos around distant quasars"
 date: 2016-10-26 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [European Southern Observatory, Paranal Observatory, Quasar, Astronomy, Physical sciences, Outer space, Science, Astronomical objects, Scientific observation, Physical cosmology, Applied and interdisciplinary physics, Nature, Galaxy, Astrophysics, Observational astronomy, Natural sciences]
+tags: [European Southern Observatory, Paranal Observatory, Quasar, Astronomy, Physical sciences, Outer space, Science, Astronomical objects, Scientific observation]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [European Southern Observatory, Paranal Observatory, Quasar, Astronomy, Ph
 >factsheet unavailable
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/e-evd102416.php)
-
-id:  335374
 
 

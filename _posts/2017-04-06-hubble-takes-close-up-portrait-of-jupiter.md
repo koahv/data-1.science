@@ -16,6 +16,4 @@ tags: [Jupiter, Hubble Space Telescope, Sun, Planet, Earth, Great Red Spot, Phys
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-04/eic-htc040617.php)
 
-id:  381379
-
 

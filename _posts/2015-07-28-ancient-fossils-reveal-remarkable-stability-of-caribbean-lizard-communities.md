@@ -16,6 +16,4 @@ tags: [archaeology & fossils]
 
 [Visit Link](http://phys.org/news/2015-07-ancient-fossils-reveal-remarkable-stability.html)
 
-id:  161411
-
 

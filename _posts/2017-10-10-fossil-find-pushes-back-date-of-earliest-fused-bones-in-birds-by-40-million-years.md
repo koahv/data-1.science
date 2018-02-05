@@ -16,6 +16,4 @@ tags: [Dinosaur, Bird, Enantiornithes, Evolution, Fossil, Skeleton]
 
 [Visit Link](https://phys.org/news/2017-10-fossil-date-earliest-fused-bones.html)
 
-id:  437052
-
 

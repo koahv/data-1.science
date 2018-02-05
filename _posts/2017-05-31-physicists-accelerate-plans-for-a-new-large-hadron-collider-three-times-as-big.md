@@ -16,6 +16,4 @@ tags: [Particle physics, Large Hadron Collider, CERN, Physics, Particle accelera
 
 [Visit Link](https://phys.org/news/2017-05-physicists-large-hadron-collider-big.html)
 
-id:  396989
-
 

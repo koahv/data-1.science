@@ -16,6 +16,4 @@ tags: [Quantum mechanics, Quantum teleportation, Quantum computing, Internet, Op
 
 [Visit Link](https://phys.org/news/2017-09-blocks-global-quantum-internet.html)
 
-id:  427528
-
 

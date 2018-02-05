@@ -16,6 +16,4 @@ tags: [Wind power, Renewable energy, Sustainable energy, Wind turbine, Amazon.co
 
 [Visit Link](http://www.gereports.com/amazon-turns-ge-wind-turbines-power-business/)
 
-id:  358784
-
 

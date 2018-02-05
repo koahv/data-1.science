@@ -16,6 +16,4 @@ tags: [data centers, linux, open source]
 
 [Visit Link](http://www.zdnet.com/six-clicks-history-of-supercomputers-fast-faster-fastest-7000031018/#ftag=RSS510d04f)
 
-id:    8794
-
 

@@ -4,7 +4,7 @@ title: "Scientists predict the existence of a new boson: New Madala boson might 
 date: 2016-09-06 16:02:38
 categories: Science
 author: unknown author
-tags: [general physics]
+tags: [Particle physics, Field (physics), Large Hadron Collider, Physics, Standard Model, Higgs boson, CERN, Quantum field theory, Mass, Quantum mechanics, Matter, Photon, Universe, ATLAS experiment, Fundamental interaction, Metaphysics, Physical universe, Physical sciences, Modern physics, Theoretical physics, Mechanics, Scientific theories, Science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [general physics]
 >factsheet unavailable
 
 [Visit Link](http://phys.org/news/2016-09-scientists-boson-madala-dark.html)
-
-id:  321017
 
 

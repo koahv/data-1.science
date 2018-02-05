@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://feedproxy.google.com/~r/TheDailyGalaxyNewsFromPlanetEarthBeyond/~3/0Nfzs3FVWJQ/life-may-exist-in-the-milky-way-that-dates-back-11-billion-years.html)
 
-id:   77850
-
 

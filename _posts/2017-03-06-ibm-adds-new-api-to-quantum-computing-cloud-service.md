@@ -16,6 +16,4 @@ tags: [Quantum computing, Cloud computing, IBM Quantum Experience, Computers, Te
 
 [Visit Link](https://www.linux.com/news/ibm-adds-new-api-quantum-computing-cloud-service)
 
-id:  371545
-
 

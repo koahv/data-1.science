@@ -4,7 +4,7 @@ title: "Swirling ammonia lies below Jupiter's thick clouds"
 date: 2016-06-02 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Gas giants, Outer planets, Planets, Solar System, Substellar objects, Planemos, Astronomy, Astronomical objects known since antiquity, Planetary science, Bodies of the Solar System, Planets of the Solar System, Jupiter]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/aaft-sal053116.php)
-
-id:  291057
 
 

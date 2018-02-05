@@ -4,7 +4,7 @@ title: "How Scientists Detected Earth's Nearest Exoplanet"
 date: 2016-08-24 20:23:22
 categories: Technology
 author: mcrouse
-tags: []
+tags: [Proxima Centauri b, Proxima Centauri, European Southern Observatory, Astronomy, Outer space, Physical sciences, Planetary science, Space science, Astronomical objects, Stars, Stellar astronomy]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](https://www.pddnet.com/article/2016/08/how-scientists-detected-earths-nearest-exoplanet)
-
-id:  317977
 
 

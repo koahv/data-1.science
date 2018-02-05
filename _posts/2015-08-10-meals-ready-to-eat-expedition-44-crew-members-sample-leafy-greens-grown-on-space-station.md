@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/nsc-mrt080715.php)
 
-id:  167060
-
 

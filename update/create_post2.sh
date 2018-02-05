@@ -63,7 +63,7 @@ while IFS=$'\n' read -r line_data; do
 	rm post_data/${split_date[0]}-$mod_title1.md
 
 	# write post
-	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: $date\\ncategories: $category\\nauthor: $author\\ntags: [$mod_tags]\\n---\\n\\n\\n#### Extract\\n>$mod_extract2...\\n\\n#### Factsheet\\n>$custom_extract\\n\\n[Visit Link]($link)\\n\\nid: $line_data\\n\\n" >> post_data/${split_date[0]}-$mod_title1.md
+	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: $date\\ncategories: $category\\nauthor: $author\\ntags: [$mod_tags]\\n---\\n\\n\\n#### Extract\\n>$mod_extract2...\\n\\n#### Factsheet\\n>$custom_extract\\n\\n[Visit Link]($link)\\n\\n" >> post_data/${split_date[0]}-$mod_title1.md
 
 
 

@@ -16,6 +16,4 @@ tags: [Antimicrobial resistance, Antibiotics, Medical specialties, Biology, Orga
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/05/170511142012.htm)
 
-id:  391800
-
 

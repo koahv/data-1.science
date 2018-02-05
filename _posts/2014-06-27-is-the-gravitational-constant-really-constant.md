@@ -16,6 +16,4 @@ tags: [astrophysics, astronomy, black holes, electromagnetism, force carriers, f
 
 [Visit Link](http://www.fromquarkstoquasars.com/the-gravitational-constant-is-it-really-constant/)
 
-id:    8823
-
 

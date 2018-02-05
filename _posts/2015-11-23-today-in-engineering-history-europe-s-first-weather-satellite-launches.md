@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2015/11/today-engineering-history-europes-first-weather-satellite-launches)
 
-id:  215452
-
 

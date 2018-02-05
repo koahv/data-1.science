@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](https://www.linux.com/news/software/applications/781848-an-illustrated-history-of-the-computer-virus/)
 
-id:   28283
-
 

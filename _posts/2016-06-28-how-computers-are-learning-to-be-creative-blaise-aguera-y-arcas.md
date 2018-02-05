@@ -4,7 +4,7 @@ title: "How computers are learning to be creative | Blaise Agüera y Arcas"
 date: 2016-06-28 14:46:01
 categories: Interest
 author: Blaise Agüera y Arcas
-tags: [higher education]
+tags: [TED (conference), Computing, Technology, Communication, Cyberspace]
 ---
 
 
@@ -15,7 +15,5 @@ tags: [higher education]
 >factsheet unavailable
 
 [Visit Link](http://www.ted.com/talks/blaise_aguera_y_arcas_how_computers_are_learning_to_be_creative)
-
-id:  299679
 
 

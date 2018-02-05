@@ -4,7 +4,7 @@ title: "Researchers find most volcanic activity on Mercury stopped about 3.5 bil
 date: 2016-08-05 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Mercury (planet), Volcano, Geology, Mars, Planet, Impact crater, Volcanism, Venus, InSight, Types of volcanic eruptions, Effusive eruption, Earth sciences, Outer space, Planetary science, Physical sciences, Space science]
 ---
 
 
@@ -15,7 +15,5 @@ tags: []
 >factsheet unavailable
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/ncsu-rfm080516.php)
-
-id:  311827
 
 

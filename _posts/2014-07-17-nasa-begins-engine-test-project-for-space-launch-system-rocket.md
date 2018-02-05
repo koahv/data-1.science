@@ -16,6 +16,4 @@ tags: []
 
 [Visit Link](http://www.pddnet.com/news/2014/07/nasa-begins-engine-test-project-space-launch-system-rocket)
 
-id:   22646
-
 

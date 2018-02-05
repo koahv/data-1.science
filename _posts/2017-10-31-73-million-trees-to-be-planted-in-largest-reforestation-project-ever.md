@@ -16,6 +16,4 @@ tags: [Deforestation, Reforestation, Global environmental issues, Natural resour
 
 [Visit Link](https://inhabitat.com/73-million-trees-to-be-planted-in-largest-reforestation-project-ever-undertaken)
 
-id:  447123
-
 
