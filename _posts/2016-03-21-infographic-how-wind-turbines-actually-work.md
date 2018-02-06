@@ -4,7 +4,7 @@ title: "INFOGRAPHIC: How wind turbines actually work"
 date: 2016-03-21 18:00:36
 categories: Energy
 author: carolinegilbert
-tags: [wind power infographic, how wind turbines work, infographic, reader submitted content, wind power, alternative energy, green power, wind turbines, environment, green energy infographic, green energy, renewable energy]
+tags: [Wind power, Wind turbine, Energy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Magnetoreception molecule found in the eyes of dogs and primates"
 date: 2016-02-23 14:55:48
 categories: Science
 author: unknown author
-tags: [plants & animals]
+tags: [Cryptochrome, Sense, Magnetoreception, Cone cell, Organisms, Biology]
 ---
 
 

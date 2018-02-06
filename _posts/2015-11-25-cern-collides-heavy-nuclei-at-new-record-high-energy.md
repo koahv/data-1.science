@@ -4,7 +4,7 @@ title: "CERN collides heavy nuclei at new record high energy"
 date: 2015-11-25 05:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Strong interaction, Large Hadron Collider, Gluon, Quark, Proton, Matter, Quantum chromodynamics, Physical bodies, Applied and interdisciplinary physics, Nature, Quantum field theory, Subatomic particles, Quantum mechanics, Mechanics, Chemistry, Theoretical physics, Physical universe, Nuclear physics, Particle physics, Physical sciences, Physics]
 ---
 
 

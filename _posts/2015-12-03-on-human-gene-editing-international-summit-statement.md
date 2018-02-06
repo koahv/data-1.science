@@ -4,7 +4,7 @@ title: "On human gene editing: International summit statement"
 date: 2015-12-03 05:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Genome editing, Genetics, Mutation, Clinical trial, Gene, Gene therapy, Life sciences, Biology, Organisms, Biotechnology, Medicine]
 ---
 
 

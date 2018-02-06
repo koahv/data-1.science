@@ -4,7 +4,7 @@ title: "Image of the Day: Snapshot of the Oldest Light in the Universe"
 date: 2015-10-20 16:38:26
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Cosmic microwave background, Universe, Big Bang, Physical sciences, Astrophysics, Mechanics, Chemistry, Science, Atomic,  molecular,  and optical physics, Electromagnetic radiation, Physics, Applied and interdisciplinary physics, Astronomy, Physical cosmology, Natural philosophy, Cosmology, Outer space, Nature]
 ---
 
 

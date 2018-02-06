@@ -4,7 +4,7 @@ title: "Exclusive photos: Clouds seen on Pluto for first time"
 date: 2016-03-04 10:59:06
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Zika fever, Science, Tsunami, Cancer, Artificial intelligence, Pregnancy, Black hole, Earth, Microcephaly, Extraterrestrial life, Chimpanzee, Volcano, Planet, Neptune, Brain]
 ---
 
 

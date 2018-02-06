@@ -4,7 +4,7 @@ title: "Study reveals evolution of malaria"
 date: 2016-03-23 14:58:14
 categories: Science
 author: unknown author
-tags: [evolution]
+tags: [Malaria, Evolution, Parasitism, Plasmodium, Species, Bat, Avian malaria, Life sciences, Organisms, Biology]
 ---
 
 

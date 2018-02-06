@@ -4,7 +4,7 @@ title: "Costa Rica boasts 99% renewable energy in 2015"
 date: 2015-12-18 21:12:15
 categories: Science
 author: unknown author
-tags: [energy & green tech]
+tags: [Nuclear power, Renewable energy, Wind power, Sustainable energy, Nuclear reactor, Hydroelectricity, Fossil fuel, Electricity generation, Energy development, Solar energy, Timeline of the Fukushima Daiichi nuclear disaster, Explosion, Fuel, Power station, Nuclear and radiation accidents and incidents, Energy, Artificial objects, Energy production, Physical universe, Nature]
 ---
 
 

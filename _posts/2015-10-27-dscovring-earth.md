@@ -4,7 +4,7 @@ title: "DSCOVRing Earth"
 date: 2015-10-27 14:51:17
 categories: Astronomy
 author: David Dickinson
-tags: [astronomy in space with david dickinson, blogs, news, professional telescopes]
+tags: [Deep Space Climate Observatory, Lagrangian point, Spacecraft, Physical sciences, Space technology, Planetary science, Astronautics, Space colonization, Flight, Solar System, Astronomy, Space science, Space exploration, Spaceflight, Outer space]
 ---
 
 

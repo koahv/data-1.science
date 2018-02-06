@@ -4,7 +4,7 @@ title: "Liftoff replay"
 date: 2016-02-16 18:20:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Sentinel-3, Physical sciences, Space exploration, Outer space, Spaceflight, Earth sciences, Physical geography, Geography, Spacecraft, Planetary science]
 ---
 
 

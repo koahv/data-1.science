@@ -4,7 +4,7 @@ title: "The quantum fridge"
 date: 2016-02-01 13:51:42
 categories: Science
 author: unknown author
-tags: [quantum physics]
+tags: [Quantum mechanics, Gas, Temperature, Energy, Atom, Physics, Wave, Particle physics, Applied and interdisciplinary physics, Mechanics, Chemistry, Physical sciences, Physical chemistry, Materials science, Mechanical engineering, Condensed matter physics, Theoretical physics, Nature, Solid state engineering, Modern physics]
 ---
 
 

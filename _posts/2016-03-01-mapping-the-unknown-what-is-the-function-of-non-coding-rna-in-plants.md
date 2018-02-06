@@ -4,7 +4,7 @@ title: "Mapping the unknown: What is the function of non-coding RNA in plants?"
 date: 2016-03-01 05:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Noncoding DNA, DNA, Plant, Botany, Gene, RNA, Biotechnology, Organisms, Biology, Nucleic acids, Genetics, Biochemistry, Molecular biology, Life sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "1200 years of water balance data challenge climate models"
 date: 2016-04-06 20:55:34
 categories: Science
 author: unknown author
-tags: []
+tags: [Climate, Global warming, Precipitation, Meteorology, Earth sciences, Climatology, Physical geography, Atmospheric sciences, Environmental science]
 ---
 
 

@@ -4,7 +4,7 @@ title: "EDRS launch in short"
 date: 2016-01-30 11:27:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [European Data Relay System, Aerospace engineering, Spaceflight, Space technology, Spacecraft, Space exploration, Outer space, Astronautics, Space colonization, Flight, Spaceflight technologies, Technology, Satellites]
 ---
 
 

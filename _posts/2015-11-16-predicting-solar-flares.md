@@ -4,7 +4,7 @@ title: "Predicting solar flares"
 date: 2015-11-16 16:00:05
 categories: Science
 author: unknown author
-tags: [general physics]
+tags: [Sun, Solar flare, Sunspot, Space weather, Solar Dynamics Observatory, Corona, Earth, Solar System, Physical sciences, Nature, Space science, Outer space, Applied and interdisciplinary physics, Astronomy, Physical phenomena, Physics]
 ---
 
 

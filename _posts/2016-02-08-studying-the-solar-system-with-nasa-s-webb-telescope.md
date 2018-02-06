@@ -4,7 +4,7 @@ title: "Studying the solar system with NASA's Webb Telescope"
 date: 2016-02-08 05:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [James Webb Space Telescope, Planet, Sun, Solar System, Telescope, Asteroid, Planetary science, Astronomy, Mars, Goddard Space Flight Center, Star, Earth, Comet, Outer space, Astronomical objects, Bodies of the Solar System, Physical sciences, Space science]
 ---
 
 

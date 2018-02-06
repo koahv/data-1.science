@@ -4,7 +4,7 @@ title: "New Findings from NASA's New Horizons Shape Understanding of Pluto & Its
 date: 2015-12-18 17:14:30
 categories: Technology
 author: kduffy
-tags: []
+tags: [New Horizons, Pluto, Charon (moon), Sputnik Planitia, Sun, Atmosphere, Geology, Astronomy, Planetary science, Physical sciences, Solar System, Outer space, Bodies of the Solar System, Nature, Space science]
 ---
 
 

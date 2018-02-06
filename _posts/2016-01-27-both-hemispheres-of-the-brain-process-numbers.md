@@ -4,7 +4,7 @@ title: "Both hemispheres of the brain process numbers"
 date: 2016-01-27 13:38:44
 categories: Science
 author: unknown author
-tags: []
+tags: [News aggregator, Neuropsychology, Cognition, Cognitive science, Nervous system, Neuroscience, Psychological concepts, Neuropsychological assessment]
 ---
 
 

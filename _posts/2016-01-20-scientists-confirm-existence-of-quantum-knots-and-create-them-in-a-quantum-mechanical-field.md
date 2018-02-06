@@ -4,7 +4,7 @@ title: "Scientists confirm existence of quantum knots and create them in a quant
 date: 2016-01-20 10:46:20
 categories: Science
 author: unknown author
-tags: [quantum physics]
+tags: [Quantum mechanics, Bose–Einstein condensate, Physics, Knot, Matter, Condensed matter physics, Particle physics, Science, Applied and interdisciplinary physics, Theoretical physics, Mechanics, Physical sciences, Chemistry, Modern physics]
 ---
 
 

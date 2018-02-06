@@ -4,7 +4,7 @@ title: "Study charts changes in island biodiversity as oceans rose over past 20,
 date: 2016-03-31 12:40:01
 categories: Science
 author: unknown author
-tags: [environment]
+tags: [Biodiversity, Ice age, Biogeography, Extinction, Earth, Ecology, Sea level rise, Species, Sea, Last Glacial Maximum, Climate, Climatology, Global natural environment, Oceanography, Environmental science, Natural environment, Nature, Physical geography, Earth sciences]
 ---
 
 

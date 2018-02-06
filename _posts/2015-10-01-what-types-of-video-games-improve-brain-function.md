@@ -4,7 +4,7 @@ title: "What types of video games improve brain function?"
 date: 2015-10-01 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Cognition, Cognitive science, Brain, Video game, Science, Attention, Neuropsychological assessment, Phenomenology, Epistemology, Behavioural sciences, Psychological concepts, Emergence, Neuroscience, Neuropsychology, Psychology]
 ---
 
 

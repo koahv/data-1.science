@@ -4,7 +4,7 @@ title: "Watch 60 Years of Space Junk Amass Around Earth"
 date: 2015-12-23 17:50:37
 categories: Technology
 author: kduffy
-tags: []
+tags: [Space debris, Satellite, Spaceflight technologies, Technology, Scientific exploration, Space-based economy, Space industry, Space science, Aerospace, Aerospace engineering, Satellites, Spaceflight, Space technology, Space exploration, Outer space, Astronautics, Space colonization, Flight, Spacecraft, Space advocacy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Evolutionary advantage of genetic recombination in the genome measured f
 date: 2016-01-14 05:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Genetics, Natural selection, Genetic linkage, Genetic recombination, Mutation, Evolution, Adaptation, Genome, Correlation and dependence, Organisms, Biological evolution, Biotechnology, Evolutionary biology, Life sciences, Biology]
 ---
 
 

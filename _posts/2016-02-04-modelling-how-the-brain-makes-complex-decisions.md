@@ -4,7 +4,7 @@ title: "Modelling how the brain makes complex decisions"
 date: 2016-02-04 05:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Decision-making, Brain, Neuroscience, Psychological concepts, Nervous system, Neuropsychology, Psychology, Emergence, Neuropsychological assessment, Behavioural sciences, Epistemology, Cognitive science, Cognition]
 ---
 
 

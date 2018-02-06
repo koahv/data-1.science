@@ -4,7 +4,7 @@ title: "The Great Alignment of the Five Planets"
 date: 2016-02-14 15:41:31
 categories: Astronomy
 author: Marion Haligowski
-tags: [online gallery, skyscape & constellation pictures]
+tags: [Planets, Astronomy, Physical sciences, Astronomical objects, Outer space, Planetary science, Solar System, Space science]
 ---
 
 

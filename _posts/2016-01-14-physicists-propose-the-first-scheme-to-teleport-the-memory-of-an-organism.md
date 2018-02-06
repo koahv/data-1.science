@@ -4,7 +4,7 @@ title: "Physicists propose the first scheme to teleport the memory of an organis
 date: 2016-01-14 10:37:55
 categories: Science
 author: unknown author
-tags: [quantum physics]
+tags: [Quantum mechanics, Quantum teleportation, Teleportation, Electron, Photon, Quantum entanglement, Applied and interdisciplinary physics, Scientific theories, Science, Chemistry, Condensed matter physics, Theoretical physics, Solid state engineering, Modern physics, Particle physics, Physical sciences, Mechanics, Physics]
 ---
 
 

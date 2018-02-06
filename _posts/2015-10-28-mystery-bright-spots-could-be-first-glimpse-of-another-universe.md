@@ -4,7 +4,7 @@ title: "Mystery bright spots could be first glimpse of another universe"
 date: 2015-10-28 18:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Zika fever, Science, Tsunami, Cancer, Artificial intelligence, Pregnancy, Black hole, Earth, Microcephaly, Extraterrestrial life, Chimpanzee, Volcano, Planet, Neptune, Brain]
 ---
 
 

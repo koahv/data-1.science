@@ -4,7 +4,7 @@ title: "Twists and turns of life: Patterns of DNA supercoiling"
 date: 2016-04-04 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [DNA, Gene, Bacteria, DNA supercoil, Genome, Cell (biology), Genetics, Nucleic acid double helix, Gene expression, Organisms, Biotechnology, Molecular biology, Biology, Biochemistry, Life sciences]
 ---
 
 

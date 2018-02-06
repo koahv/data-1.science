@@ -4,7 +4,7 @@ title: "How The Grid Works, & Why Renewables Can Dominate"
 date: 2015-12-16 21:18:36
 categories: Energy
 author: Christopher Arcus
-tags: [batteries, biomass, clean power, clean transport, cleantechnica, cleantechnica exclusive, coal, compressed air energy storage (caes), concentrating solar power, consumer technology, electric vehicles, energy efficiency, energy storage, fossil fuels, geothermal energy, hydroelectric, lithium-ion batteries, market research, molten salt thermal energy storage, natural gas, nuclear energy, policy & politics, policy research, pumped hydro storage, research, rooftop solar, science, smart grid, solar energy, solar power plants, solar prices, solar thermal, thermal energy storage, wind energy, 100% renewable energy, 100% renewables, amory lovins, caiso, california, california independent system operator, cpuc, energy imbalance markets, ferc, nrel, nyiso, ramez naam, rocky mountain institute, tesla powerwall, us]
+tags: [Wind power, Renewable energy, High-voltage direct current, Electric power transmission, Electrical grid, Wind turbine, Electricity generation, Capacity factor, Hydroelectricity, Alternating current, Power station, Grid energy storage, Electric generator, Electric vehicle, Energy, Technology, Physical universe, Power (physics), Nature, Energy production, Electrical engineering, Artificial objects, Electric power, Electricity]
 ---
 
 

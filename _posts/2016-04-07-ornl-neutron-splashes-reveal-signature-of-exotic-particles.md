@@ -4,7 +4,7 @@ title: "ORNL neutron 'splashes' reveal signature of exotic particles"
 date: 2016-04-07 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Quantum spin liquid, Spin (physics), Majorana fermion, Oak Ridge National Laboratory, Chemistry, Physical sciences, Particle physics, Mechanics, Physics, Condensed matter physics, Quantum mechanics, Solid state engineering, Theoretical physics, Modern physics, Condensed matter, Applied and interdisciplinary physics, Materials science, Physical chemistry]
 ---
 
 

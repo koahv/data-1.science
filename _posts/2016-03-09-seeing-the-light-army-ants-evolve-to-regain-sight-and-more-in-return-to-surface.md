@@ -4,7 +4,7 @@ title: "Seeing the light: Army ants evolve to regain sight and more in return to
 date: 2016-03-09 21:47:59
 categories: Science
 author: unknown author
-tags: [plants & animals]
+tags: [Brain, Ant, Evolution, Ecology, Army ant, Animal, Species, Visual perception, Predation, Zoology, Organisms, Biology, Neuroscience]
 ---
 
 

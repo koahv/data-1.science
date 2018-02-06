@@ -4,7 +4,7 @@ title: "New Horizons reveals Pluto's striking surface variations and unique moon
 date: 2015-10-15 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Pluto, New Horizons, Hydra (moon), Nix (moon), Natural satellite, Lunar water, Tholin, Charon (moon), Solar System, Moons, Physical sciences, Bodies of the Solar System, Space science, Astronomy, Outer space, Planetary science]
 ---
 
 

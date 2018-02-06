@@ -4,7 +4,7 @@ title: "Lunar craters Aristoteles and Eudoxus."
 date: 2016-02-26 16:31:36
 categories: Astronomy
 author: Edison Urdaneta
-tags: [online gallery, sun & moon pictures]
+tags: [Aristoteles (crater), Electromagnetic radiation, Optics, Astronomy, Optical devices, Observational astronomy, Scientific observation, Natural philosophy, Astronomical imaging, Astronomical instruments, Outer space, Telescopes]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Team identifies ancient mutation that contributed to evolution of multic
 date: 2016-01-07 05:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Cell (biology), Evolution, Protein, Genetics, Gene, Life, Biology, Mitosis, Organism, Spindle apparatus, Animal, Enzyme, Multicellular organism, Biotechnology, Molecular biology, Cell biology, Life sciences, Biochemistry, Nature, Organisms]
 ---
 
 

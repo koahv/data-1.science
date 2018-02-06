@@ -4,7 +4,7 @@ title: "100% Renewable Energy: Fact Or Fantasy?"
 date: 2016-03-01 11:59:47
 categories: Energy
 author: John Farrell
-tags: [aviation, biomass, boats, cars, clean power, clean transport, consumer technology, electric cars, electric vehicles, geothermal energy, green economy, hydroelectric, marine energy, mass transit / public transit, policy & politics, shipping, solar energy, tidal energy, trains / rail, wave energy, wind energy, 100% renewable by 2050, 100% renewable energy, 100% renewables, distributed generation, mark z. jacobson, the solutions project]
+tags: [Wind power, Fuel, Renewable energy, Biofuel, Solar energy, Fossil fuel, Energy, Carbon dioxide, Rail transport, Earth, Iron, Portland cement, Ethanol fuel, Hydroelectricity, Coal, Natural gas, Energy returned on energy invested, Nature, Artificial objects, Physical universe]
 ---
 
 

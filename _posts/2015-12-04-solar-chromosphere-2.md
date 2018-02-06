@@ -4,7 +4,7 @@ title: "Solar Chromosphere #2"
 date: 2015-12-04 07:16:40
 categories: Astronomy
 author: Chad Quandt
-tags: [online gallery, sun & moon pictures]
+tags: [Physical sciences, Optics, Astronomical observatories, Telescopes, Works about astronomy, Astronomical imaging, Astronomical instruments, Outer space, Scientific observation, Observational astronomy, Astronomy, Optical devices, Scientific instruments]
 ---
 
 

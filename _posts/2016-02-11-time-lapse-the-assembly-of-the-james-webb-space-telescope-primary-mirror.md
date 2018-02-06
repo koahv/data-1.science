@@ -4,7 +4,7 @@ title: "Time-Lapse: The Assembly of the James Webb Space Telescope Primary Mirro
 date: 2016-02-11 19:00:34
 categories: Technology
 author: kduffy
-tags: []
+tags: [European Space Agency, Astronautics, Aerospace, Outer space, Spaceflight, Space exploration, Astronomy, Space technology, Space colonization, Astronomy organizations, Flight, Spacecraft, Space science, Space agencies, Space-based economy, Aerospace agencies, Space traffic management, Space programs, Scientific exploration, Telescopes, Unmanned spacecraft, Spaceflight technologies, Astronomical observatories, Space organizations, Astronomical imaging, Aerospace engineering, European space programmes, International scientific organizations of Europe, Physical sciences, Space industry, Space observatories]
 ---
 
 

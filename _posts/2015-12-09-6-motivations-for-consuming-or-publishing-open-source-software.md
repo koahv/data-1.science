@@ -4,7 +4,7 @@ title: "6 motivations for consuming or publishing open source software"
 date: 2015-12-09 09:00:00
 categories: Open Source
 author: benbalter
-tags: []
+tags: [Open-source software, Proprietary software, Free software, Software, Software development, Software bug, Technology, Transparency (behavior), Source code, Free software movement, Macroeconomics, Use case, Computing]
 ---
 
 

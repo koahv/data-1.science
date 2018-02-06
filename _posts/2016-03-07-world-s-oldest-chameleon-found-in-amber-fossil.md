@@ -4,7 +4,7 @@ title: "World's oldest chameleon found in amber fossil"
 date: 2016-03-07 11:48:26
 categories: Science
 author: unknown author
-tags: [archaeology & fossils]
+tags: [Fossil, Lizard, Amber, Biodiversity, Chameleon, Universe, Milky Way, Evolution, Paleontology, Archaeology, Radiocarbon dating]
 ---
 
 

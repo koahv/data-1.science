@@ -4,7 +4,7 @@ title: "Shedding light on the evolution of whale vision"
 date: 2016-02-20 10:07:11
 categories: Science
 author: unknown author
-tags: [evolution]
+tags: [Evolution, Mutation, Eye, Biology, Rhodopsin, Protein, Natural selection, Whale, Gene, Visual perception, Genetics, Life sciences, Organisms]
 ---
 
 

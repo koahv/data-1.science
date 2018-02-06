@@ -4,7 +4,7 @@ title: "More Companies Join RE100, Commit To 100% Renewable Energy"
 date: 2015-12-09 14:35:37
 categories: Energy
 author: Joshua S Hill
-tags: [clean power, green economy, investment, bmw group, coca-cola enterprises, international flavors & fragrance, nordea bank ab, pearson, re100, swiss post]
+tags: [The Climate Group, Renewable energy, PepsiCo, Low-carbon economy, Energy, Sustainable development, Physical universe, Nature]
 ---
 
 

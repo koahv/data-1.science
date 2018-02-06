@@ -4,7 +4,7 @@ title: "Computing with time travel"
 date: 2015-12-09 13:54:24
 categories: Science
 author: unknown author
-tags: [quantum physics]
+tags: [Time travel, Quantum mechanics, Quantum entanglement, Physics, Spacetime, Quantum computing, Computational complexity theory, Universe, Science, Solid state engineering, Modern physics, Mechanics, Physical sciences, Metaphysics, Cognitive science, Theoretical physics, Philosophy, Particle physics, Scientific theories]
 ---
 
 

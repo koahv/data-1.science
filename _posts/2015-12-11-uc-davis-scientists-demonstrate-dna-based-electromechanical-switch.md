@@ -4,7 +4,7 @@ title: "UC Davis scientists demonstrate DNA-based electromechanical switch"
 date: 2015-12-11 05:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Nanotechnology, Electronics, DNA, Engineering, Computing, Computer, Electromagnetism, Science and technology, Applied and interdisciplinary physics, Materials, Chemistry, Technology, Manufacturing, Artificial objects]
 ---
 
 

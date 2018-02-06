@@ -4,7 +4,7 @@ title: "The Blombos Cave --Emergence of Human Culture, Technology, and the Neoco
 date: 2016-02-02 20:56:22
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Brain, Mind, Neuroscience, Cognitive science, Cognition]
 ---
 
 

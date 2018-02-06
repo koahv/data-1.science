@@ -4,7 +4,7 @@ title: "Juno spacecraft breaks solar power distance record"
 date: 2016-01-14 11:26:05
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [Juno (spacecraft), Jupiter, Planetary science, Space exploration, Space colonization, Spaceflight, Astronautics, Physical sciences, Space technology, Flight, Spacecraft, Bodies of the Solar System, Solar System, Space science, Astronomy, Outer space]
 ---
 
 

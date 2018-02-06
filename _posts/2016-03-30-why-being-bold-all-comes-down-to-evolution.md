@@ -4,7 +4,7 @@ title: "Why being bold all comes down to evolution"
 date: 2016-03-30 13:50:02
 categories: Science
 author: unknown author
-tags: [evolution]
+tags: [Evolution, Aggression, Ethology, Risk, Charles Blondin, Biology, Animals, Organisms, Zoology]
 ---
 
 

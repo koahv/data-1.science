@@ -4,7 +4,7 @@ title: "Quantum physics problem proved unsolvable"
 date: 2015-12-09 05:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Physics, Undecidable problem, Particle physics, Mathematics, Theory, Standard Model, Quantum mechanics, Theoretical physics, Philosophy, Cognitive science, Scientific theories, Mechanics, Science, Physical sciences, Academic discipline interactions]
 ---
 
 

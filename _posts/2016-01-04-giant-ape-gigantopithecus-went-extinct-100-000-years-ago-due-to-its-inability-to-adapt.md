@@ -4,7 +4,7 @@ title: "Giant ape Gigantopithecus went extinct 100,000 years ago due to its inab
 date: 2016-01-04 13:26:04
 categories: Science
 author: unknown author
-tags: [archaeology & fossils]
+tags: [Gigantopithecus]
 ---
 
 

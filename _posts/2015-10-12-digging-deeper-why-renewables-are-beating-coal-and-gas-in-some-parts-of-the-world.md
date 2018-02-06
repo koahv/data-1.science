@@ -4,7 +4,7 @@ title: "Digging Deeper, Why Renewables are Beating Coal and Gas in Some Parts of
 date: 2015-10-12 08:00:00
 categories: Energy
 author: unknown author
-tags: [news, wind power, large scale renewables, windfeatured, bioenergy, solar, editor’s picks, hydropower, geothermal]
+tags: [Cost of electricity by source, Wind power, Capacity factor, Renewable energy, Fossil fuel power station, Coal, Natural gas, Sustainable technologies, Electric power, Natural resources, Sustainable development, Energy technology, Energy sources, Artificial objects, Energy production, Alternative energy, Nature, Power (physics), Renewable resources, Physical universe, Energy, Sustainable energy]
 ---
 
 

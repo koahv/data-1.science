@@ -4,7 +4,7 @@ title: "Ancient alga knew how to survive on land before it left water & evolved 
 date: 2015-10-05 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Plant, Arbuscular mycorrhiza, Life sciences, Biology, Organisms, Nature, Biological evolution, Botany, Plants]
 ---
 
 

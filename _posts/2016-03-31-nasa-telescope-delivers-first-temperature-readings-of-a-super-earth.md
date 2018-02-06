@@ -4,7 +4,7 @@ title: "NASA Telescope Delivers First Temperature Readings of a Super-Earth"
 date: 2016-03-31 16:19:58
 categories: Technology
 author: jmeister
-tags: []
+tags: [55 Cancri e, Planet, Star, 55 Cancri, Map, Lava, Astronomy, Outer space, Substellar objects, Planemos, Astronomical objects, Planets, Space science, Physical sciences, Planetary science]
 ---
 
 

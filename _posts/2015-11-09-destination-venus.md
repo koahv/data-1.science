@@ -4,7 +4,7 @@ title: "Destination: Venus"
 date: 2015-11-09 13:55:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Atmosphere of Earth, Venus, Atmosphere, Wind, Cloud, Polar vortex, Vortex, Eye (cyclone), Greenhouse effect, Planet, Earth, Space science, Physical sciences, Earth sciences, Solar System, Planets, Meteorology, Nature, Astronomy, Atmospheric sciences, Planetary science, Physical geography, Outer space, Applied and interdisciplinary physics]
 ---
 
 

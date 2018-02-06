@@ -4,7 +4,7 @@ title: "First microwhip scorpion from Mesozoic period found in Burmese amber"
 date: 2016-03-09 17:56:29
 categories: Science
 author: unknown author
-tags: [archaeology & fossils]
+tags: [Fossil, Paleontology, Electrokoenenia, Amber]
 ---
 
 

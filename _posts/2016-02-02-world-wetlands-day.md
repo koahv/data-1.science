@@ -4,7 +4,7 @@ title: "World Wetlands Day"
 date: 2016-02-02 09:30:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Wetland, Gobi Desert, Desert, Contrail, Rain, Lake, Tagus, Mountain, Sustainability, Envisat, Erosion, Mangrove, Ramsar Convention, Lisbon, Persian Gulf, Coast, River, Water, Earth sciences, Physical geography]
 ---
 
 

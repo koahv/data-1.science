@@ -4,7 +4,7 @@ title: "How many dinosaurs were there?"
 date: 2016-03-31 12:20:01
 categories: Science
 author: unknown author
-tags: [archaeology & fossils]
+tags: [Dinosaur, Mesozoic, Fossil, Paleontology, Biodiversity, Evolution, Theropoda, Nature, Organisms, Biology]
 ---
 
 

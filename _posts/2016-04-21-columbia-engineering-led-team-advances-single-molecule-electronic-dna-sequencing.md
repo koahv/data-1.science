@@ -4,7 +4,7 @@ title: "Columbia Engineering-led team advances single molecule electronic DNA se
 date: 2016-04-21 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [DNA sequencing, DNA, Nanopore, Nucleotide, DNA replication, Biosynthesis, Artificial objects, Physical sciences, Organisms, Nucleic acids, Biology, Life sciences, Biotechnology, Chemistry, Molecular biology, Biochemistry, Genetics, Macromolecules]
 ---
 
 

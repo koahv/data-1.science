@@ -4,7 +4,7 @@ title: "Biodiversity brings disease resistance: Novel study"
 date: 2016-03-21 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Biodiversity, Experiment, Environment Institute University of Adelaide, Ecosystem, Species, Biogeochemistry, Environmental science, Natural environment, Biology, Ecology, Systems ecology, Environmental social science, Organisms, Habitat, Earth sciences, Science, Nature]
 ---
 
 

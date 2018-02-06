@@ -4,7 +4,7 @@ title: "INFOGRAPHIC: Ending our fossil fuel addiction by 2050"
 date: 2016-02-02 20:30:23
 categories: Energy
 author: Kristine Lofgren
-tags: [fossil fuels, green graphics & packaging, solar power, global warming, infographic, reader submitted content, climate change, wind power, geothermal power, renewable energy]
+tags: [Cyberspace]
 ---
 
 

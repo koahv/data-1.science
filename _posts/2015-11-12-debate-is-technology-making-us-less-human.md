@@ -4,7 +4,7 @@ title: "Debate: Is Technology Making Us Less Human?"
 date: 2015-11-12 20:57:32
 categories: Technology
 author: unknown author
-tags: []
+tags: [Technology, Adolescence, Emerging technologies, Norm (social), Gene therapy, Behavior, Disinhibition, Mind, Biotechnology, Cancer, Biology]
 ---
 
 

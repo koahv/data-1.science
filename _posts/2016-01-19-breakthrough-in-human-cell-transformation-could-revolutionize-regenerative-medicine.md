@@ -4,7 +4,7 @@ title: "Breakthrough in human cell transformation could revolutionize regenerati
 date: 2016-01-19 05:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Induced pluripotent stem cell, Stem cell, Cell potency, Cell biology, Science, Biology, Health, Medical research, Medical specialties, Clinical medicine, Organisms, Health sciences, Biotechnology, Medicine, Life sciences]
 ---
 
 

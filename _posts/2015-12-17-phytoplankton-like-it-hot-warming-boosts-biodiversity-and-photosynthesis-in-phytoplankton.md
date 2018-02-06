@@ -4,7 +4,7 @@ title: "Phytoplankton like it hot: Warming boosts biodiversity and photosynthesi
 date: 2015-12-17 20:15:33
 categories: Science
 author: unknown author
-tags: []
+tags: [Phytoplankton, Global warming, Plankton, Biodiversity, Ecosystem, Carbon dioxide, Ecology, Biology, Natural environment, Environmental science, Systems ecology, Earth sciences, Nature, Biogeochemistry, Physical geography, Oceanography, Environmental social science, Organisms, Habitat, Environmental technology]
 ---
 
 

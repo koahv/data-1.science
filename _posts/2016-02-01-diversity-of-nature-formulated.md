@@ -4,7 +4,7 @@ title: "Diversity of nature formulated"
 date: 2016-02-01 05:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Predation, Carnivore, Ecosystem, Science, Nature, Natural environment, Environmental science, Environmental social science, Systems ecology, Biology, Biogeochemistry, Organisms, Ecology]
 ---
 
 

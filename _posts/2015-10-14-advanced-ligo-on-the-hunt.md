@@ -4,7 +4,7 @@ title: "Advanced LIGO On the Hunt"
 date: 2015-10-14 17:53:10
 categories: Astronomy
 author: David Dickinson
-tags: [news, professional telescopes]
+tags: [LIGO, Gravitational wave, Gravitational-wave astronomy, Gravitational-wave observatory, Laser Interferometer Space Antenna, Einstein@Home, Applied and interdisciplinary physics, Physical sciences, Astronomy, Scientific observation, Gravitation, Spacetime, Physical phenomena, Physical cosmology, General relativity, Natural philosophy, Physics, Outer space]
 ---
 
 

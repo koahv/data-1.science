@@ -4,7 +4,7 @@ title: "What are aerosols?"
 date: 2016-04-01 18:50:37
 categories: Science
 author: unknown author
-tags: []
+tags: [Global warming, Greenhouse effect, Greenhouse gas, Particulates, Earth, Aerosol, Atmosphere, Cloud, Climate, Applied and interdisciplinary physics, Physical sciences, Climatology, Physical geography, Meteorology, Nature, Atmospheric sciences]
 ---
 
 

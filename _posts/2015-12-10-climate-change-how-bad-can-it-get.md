@@ -4,7 +4,7 @@ title: "Climate change: How bad can it get?"
 date: 2015-12-10 08:42:22
 categories: Science
 author: unknown author
-tags: [environment]
+tags: [Global warming, Climate, Coral reef, Earth, Global natural environment, Meteorology, Climatology, Atmospheric sciences, Earth sciences, Oceanography, Physical geography, Environmental science, Global environmental issues, Applied and interdisciplinary physics, Natural environment, Nature, Future problems, Climate change]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Photos of the Day: The Largest Radio Telescope on Earth"
 date: 2016-02-29 14:54:48
 categories: Technology
 author: kduffy
-tags: []
+tags: [Telescope, Radio telescope, Search for extraterrestrial intelligence, Astronomical instruments, Telescopes, Astronomical imaging, Scientific observation, Observational astronomy, Physical sciences, Outer space, Astronomy, Radio astronomy, Works about astronomy, Astronomical observatories]
 ---
 
 

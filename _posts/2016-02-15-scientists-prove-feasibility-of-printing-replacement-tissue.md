@@ -4,7 +4,7 @@ title: "Scientists prove feasibility of 'printing' replacement tissue"
 date: 2016-02-15 05:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Regenerative medicine, Wake Forest Baptist Medical Center, Wake Forest School of Medicine, American Association for the Advancement of Science, Health, Health care, Life sciences, Biology, Health sciences, Medicine]
 ---
 
 

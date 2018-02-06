@@ -4,7 +4,7 @@ title: "A single ion impacts a million water molecules"
 date: 2016-04-08 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Properties of water, Molecule, Chemical bond, Ion, Atom, Hydrogen bond, Heavy water, American Association for the Advancement of Science, Hydrogen, Applied and interdisciplinary physics, Physics, Materials, Nature, Physical chemistry, Physical sciences, Chemistry, Manufacturing]
 ---
 
 

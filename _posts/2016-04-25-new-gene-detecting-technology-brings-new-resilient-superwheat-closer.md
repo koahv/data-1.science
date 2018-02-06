@@ -4,7 +4,7 @@ title: "New gene-detecting technology brings new, resilient superwheat closer"
 date: 2016-04-25 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Plant disease resistance, Wheat, Biotechnology, Mutation, Agriculture, Biotechnology and Biological Sciences Research Council, Gene, Research, Sainsbury Laboratory, Health, Biology, Life sciences]
 ---
 
 

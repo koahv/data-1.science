@@ -4,7 +4,7 @@ title: "What Higher Consciousness Really Means, How We Attain It, and What It Do
 date: 2015-11-16 07:30:50
 categories: Philosophy
 author: Maria Popova
-tags: [culture, psychology, alain de botton, film, philosophy, school of life]
+tags: [Mind, Consciousness, Cognition, Metaphysics of mind, Cognitive science, Emergence, Psychology, Epistemology, Behavioural sciences, Philosophy, Psychological concepts, Neuroscience, Culture]
 ---
 
 

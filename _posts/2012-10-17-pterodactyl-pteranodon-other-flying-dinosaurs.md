@@ -4,7 +4,7 @@ title: "Pterodactyl, Pteranodon & Other Flying 'Dinosaurs'"
 date: 2012-10-17 21:49:08
 categories: Science
 author: unknown author
-tags: []
+tags: [Pterosaur, Pterodactylus, Quetzalcoatlus, Organisms]
 ---
 
 

@@ -4,7 +4,7 @@ title: "How does my therapist rate?"
 date: 2015-12-02 05:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Psychotherapy, Speech, Psychology, Medicine, Empathy, Machine learning, University of Southern California, Engineering, Cognition, Psychological concepts, Neuroscience, Health, Cognitive science]
 ---
 
 

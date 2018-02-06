@@ -4,7 +4,7 @@ title: "Linux System Integrity Explained: Ensure Data, Logging and Kernel Integr
 date: 2015-06-16 09:47:56
 categories: Linux
 author: Michael Boelen
-tags: [auditing, accounting, kernel integrity, system integrity, file integrity, file integrity monitoring, integrity]
+tags: [Data integrity, File system, Computer data storage, Computer file, Linux kernel, Lynis, Database, Information technology management, Computing, Areas of computer science, Computer data, Software, Data, System software, Technology, Computers, Operating system technology, Digital technology, Computer architecture, Data management, Information technology, Computer engineering]
 ---
 
 

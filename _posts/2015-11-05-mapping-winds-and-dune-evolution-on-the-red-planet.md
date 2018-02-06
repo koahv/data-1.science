@@ -4,7 +4,7 @@ title: "Mapping winds and dune evolution on the Red Planet"
 date: 2015-11-05 13:56:59
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [Mars, HiRISE, Curiosity (rover), Moon, InSight, Planetary science, Outer space, Astronomy, Space science, Physical sciences, Solar System, Planets]
 ---
 
 

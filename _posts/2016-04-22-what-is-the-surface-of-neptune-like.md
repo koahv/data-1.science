@@ -4,7 +4,7 @@ title: "What is the surface of Neptune like?"
 date: 2016-04-22 13:50:02
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [Neptune, Atmosphere, Uranus, Solar System, Planet, Sun, Jupiter, Voyager 2, Ice giant, Astronomy, Space science, Planetary science, Astronomical objects, Substellar objects, Planemos, Planets, Outer space, Physical sciences, Nature, Bodies of the Solar System]
 ---
 
 

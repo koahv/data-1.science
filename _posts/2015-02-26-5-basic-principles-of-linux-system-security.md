@@ -4,7 +4,7 @@ title: "5 Basic Principles of Linux System Security"
 date: 2015-02-26 17:36:03
 categories: Linux
 author: Michael Boelen
-tags: [hardening, secure, basics, principles, security]
+tags: [Lynis, Linux, Vulnerability (computing), Security technology, Computing, Software, Technology, Cyberwarfare, Computer security, Areas of computer science, Information Age, Cyberspace, Security engineering, Digital media, Cybercrime, Digital technology]
 ---
 
 

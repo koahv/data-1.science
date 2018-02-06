@@ -4,7 +4,7 @@ title: "CERN Replicates Post-Big-Bang Universe --"Quarks, Antiquarks and Gluons 
 date: 2015-11-25 17:49:27
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Quark, Matter, Strong interaction, Gluon, Elementary particle, Large Hadron Collider, Proton, Nature, Quantum field theory, Quantum mechanics, Physical bodies, Applied and interdisciplinary physics, Mechanics, Theoretical physics, Subatomic particles, Chemistry, Quantum chromodynamics, Standard Model, Physical cosmology, Physical universe, Nuclear physics, Particle physics, Physics, Physical sciences]
 ---
 
 

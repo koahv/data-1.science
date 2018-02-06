@@ -4,7 +4,7 @@ title: ""Stars Reveal 'Magnetic Greenhouse' Effect" --Caltech"
 date: 2015-10-23 15:32:17
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Star, Astronomy, Sun, Gravitational wave, Physical sciences, Stellar astronomy, Stars, Nature, Physical phenomena, Applied and interdisciplinary physics, Physics, Astronomical objects, Outer space]
 ---
 
 

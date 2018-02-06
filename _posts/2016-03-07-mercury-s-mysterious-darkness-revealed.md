@@ -4,7 +4,7 @@ title: "Mercury's mysterious 'darkness' revealed"
 date: 2016-03-07 05:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Mercury (planet), MESSENGER, Carnegie Institution for Science, Outer space, Planetary science, Astronomy, Space science, Physical sciences, Solar System, Bodies of the Solar System]
 ---
 
 

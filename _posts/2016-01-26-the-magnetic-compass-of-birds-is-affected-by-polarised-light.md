@@ -4,7 +4,7 @@ title: "The magnetic compass of birds is affected by polarised light"
 date: 2016-01-26 13:40:51
 categories: Science
 author: unknown author
-tags: [plants & animals]
+tags: [Polarization (waves), Magnetic field, Bird migration, Proceedings of the National Academy of Sciences of the United States of America]
 ---
 
 

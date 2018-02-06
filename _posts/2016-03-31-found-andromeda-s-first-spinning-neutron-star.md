@@ -4,7 +4,7 @@ title: "Found: Andromeda’s first spinning neutron star"
 date: 2016-03-31 13:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Andromeda Galaxy, Neutron star, Star, Pulsar, Milky Way, Astronomy, XMM-Newton, Astronomical objects, Stars, Outer space, Physical sciences, Stellar astronomy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "A new mechanism for catalyzing the splitting of water"
 date: 2016-03-30 10:04:23
 categories: Science
 author: unknown author
-tags: [materials science]
+tags: [Catalysis, Electrolysis, Chemical reaction, Water splitting, Electrolysis of water, Electrochemistry, Hydrogen, Water, Chemical substances, Physical chemistry, Nature, Materials, Physical sciences, Artificial objects, Chemistry, Manufacturing, Applied and interdisciplinary physics]
 ---
 
 

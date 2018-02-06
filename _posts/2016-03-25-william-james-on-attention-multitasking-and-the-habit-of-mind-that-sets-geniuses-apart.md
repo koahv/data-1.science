@@ -4,7 +4,7 @@ title: "William James on Attention, Multitasking, and the Habit of Mind That Set
 date: 2016-03-25 07:00:36
 categories: Philosophy
 author: Maria Popova
-tags: [culture, psychology, books, william james]
+tags: [Attention, Consciousness, Mind, Psychology, Emergence, Neuropsychology, Neuropsychological assessment, Behavioural sciences, Phenomenology, Epistemology, Metaphysics of mind, Neuroscience, Philosophy, Cognition, Psychological concepts, Cognitive science, Metaphysics, Philosophical movements]
 ---
 
 

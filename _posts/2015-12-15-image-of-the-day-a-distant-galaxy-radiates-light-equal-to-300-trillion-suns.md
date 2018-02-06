@@ -4,7 +4,7 @@ title: "Image of the Day: A Distant Galaxy Radiates Light Equal to 300 Trillion 
 date: 2015-12-15 17:02:38
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Wide-field Infrared Survey Explorer, Black hole, Astronomy, Physical sciences, Astronomical objects, Physical cosmology, Nature, Outer space]
 ---
 
 

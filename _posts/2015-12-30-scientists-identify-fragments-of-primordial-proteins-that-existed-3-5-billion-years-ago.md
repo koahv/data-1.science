@@ -4,7 +4,7 @@ title: "Scientists Identify Fragments of Primordial Proteins that Existed 3.5 Bi
 date: 2015-12-30 16:26:17
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Protein, Biology, Bacteria, Language, Protein domain, Linguistics, Biochemistry, Life sciences, Organisms, Molecular biology, Biotechnology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Half of the Amazonian tree species are endangered"
 date: 2016-02-10 16:17:33
 categories: Science
 author: unknown author
-tags: []
+tags: [Deforestation, Amazon rainforest, Amazon basin, Conservation biology, Biodiversity, Ecological restoration, Environmental social science, Ecology, Biology, Global issues, Sustainable development, Nature, Organisms, Environmental science, Environmental ethics, Conservation, Biogeochemistry, Habitat, Environmental conservation, Natural environment, Systems ecology, Natural resource management]
 ---
 
 

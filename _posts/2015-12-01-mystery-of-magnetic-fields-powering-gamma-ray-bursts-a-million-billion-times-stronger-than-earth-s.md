@@ -4,7 +4,7 @@ title: "Mystery of Magnetic Fields Powering Gamma Ray Bursts --"A Million Billio
 date: 2015-12-01 15:21:26
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Magnetar, Star, Supernova, Applied and interdisciplinary physics, Nature, Astronomy, Physics, Physical sciences]
 ---
 
 

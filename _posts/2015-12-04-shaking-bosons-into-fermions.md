@@ -4,7 +4,7 @@ title: "Shaking bosons into fermions"
 date: 2015-12-04 14:50:49
 categories: Science
 author: unknown author
-tags: [general physics]
+tags: [Boson, Fermion, Bose–Einstein condensate, Physics, Elementary particle, Matter, Quasiparticle, Electronic band structure, Mechanics, Applied and interdisciplinary physics, Condensed matter physics, Materials science, Condensed matter, Quantum mechanics, Chemistry, Physical chemistry, Nature, Particle physics, Theoretical physics, Physical universe, Physical sciences, Modern physics, Solid state engineering]
 ---
 
 

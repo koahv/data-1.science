@@ -4,7 +4,7 @@ title: "We can reprogram life. How to do it wisely | Juan Enriquez"
 date: 2016-04-20 15:04:46
 categories: Interest
 author: Juan Enriquez
-tags: [higher education]
+tags: [Computing, Cyberspace]
 ---
 
 

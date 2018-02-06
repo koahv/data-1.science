@@ -4,7 +4,7 @@ title: "Can a Computer Simulate Consciousness?"
 date: 2015-11-13 16:33:25
 categories: Technology
 author: mfassbender
-tags: []
+tags: [Emergence, Systems theory, Philosophical theories, Psychological concepts, Metaphysics of science, Philosophy, Pattern formation, Metaphysics, Artificial life, Neuroscience, Phenomenology, Epistemology, Metaphysics of mind, Cybernetics, Cognition, Cognitive science]
 ---
 
 

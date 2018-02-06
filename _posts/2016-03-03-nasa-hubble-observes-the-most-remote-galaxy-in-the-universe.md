@@ -4,7 +4,7 @@ title: "NASA: "Hubble Observes the Most Remote Galaxy in the Universe""
 date: 2016-03-03 22:57:52
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Redshift, Hubble Space Telescope, GN-z11, Milky Way, Big Bang, James Webb Space Telescope, Chronology of the universe, Universe, Astronomy, Spitzer Space Telescope, Star, Cosmology, Science, Physical sciences, Outer space, Physical cosmology, Physics, Astronomical objects]
 ---
 
 

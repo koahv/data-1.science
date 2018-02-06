@@ -4,7 +4,7 @@ title: "Space Station 360: Kibo"
 date: 2016-04-21 07:10:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Panorama, International Space Station, Technology, Digital media, Computing]
 ---
 
 

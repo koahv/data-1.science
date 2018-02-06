@@ -4,7 +4,7 @@ title: "Using SSH keys instead of passwords"
 date: 2015-03-16 21:01:20
 categories: Linux
 author: Michael Boelen
-tags: [ssh, system administration, putty, puttygen, ssh-keygen]
+tags: [Secure Shell, Software, Computer security, Cyberwarfare, Secure communication, Information technology management, System software, Areas of computer science, Cryptography, Security engineering, Cyberspace, Computing, Security technology, Cybercrime, Information governance, Computer architecture, Digital media, Information Age]
 ---
 
 

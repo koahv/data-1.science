@@ -4,7 +4,7 @@ title: "NASA's MMS spacecraft achieve tightest flying formation ever"
 date: 2015-10-19 11:49:55
 categories: Science
 author: unknown author
-tags: [space exploration]
+tags: [Magnetospheric Multiscale Mission, NASA, Magnetic reconnection, Planetary science, Nature, Solar System, Space exploration, Spaceflight, Outer space, Astronomy, Physical sciences, Space science]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Discovery of new fossil species reveals unique binocular vision of the f
 date: 2015-12-08 15:31:35
 categories: Science
 author: unknown author
-tags: [archaeology & fossils]
+tags: [Mosasaur, Eye, Phosphorosaurus, Owl, Fossil, Paleontology, Archaeology, Dinosaur, Predation, Organisms]
 ---
 
 

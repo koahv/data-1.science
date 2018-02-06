@@ -4,7 +4,7 @@ title: "Today in Engineering History: Explorer 1's Mission Ends"
 date: 2016-03-31 14:47:19
 categories: Technology
 author: mcrouse
-tags: []
+tags: [Explorer 1, Explorers program, Outer space, Space exploration, Space technology, Spaceflight, Spaceflight technologies, Spacecraft, Aerospace engineering, Flight, Aerospace, Astronautics, Space colonization, Space program of the United States, NASA, Space programs, Aerospace agencies, Space agencies, NASA programs, Rocketry]
 ---
 
 

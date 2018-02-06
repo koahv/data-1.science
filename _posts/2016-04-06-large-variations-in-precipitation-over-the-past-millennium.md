@@ -4,7 +4,7 @@ title: "Large variations in precipitation over the past millennium"
 date: 2016-04-06 17:00:05
 categories: Science
 author: unknown author
-tags: [earth sciences]
+tags: [Climate, Global warming, Precipitation, General circulation model, Climate change, Nature, Change, Future problems, Natural environment, Oceanography, Applied and interdisciplinary physics, Global natural environment, Global environmental issues, Atmosphere of Earth, Environmental science, Meteorology, Climatology, Physical geography, Atmospheric sciences, Earth sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Securing mount points on Linux"
 date: 2014-11-06 10:21:39
 categories: Linux
 author: Michael Boelen
-tags: [hardening, storage, file system]
+tags: [Mount (computing), Computer file, Device file, File system, Setuid, Disk partitioning, Computer engineering, Computer architecture, Software, Digital technology, Computers, Data, Storage software, Areas of computer science, Utility software, Computer data, Data management, Information technology management, Computing, System software, Operating system technology]
 ---
 
 

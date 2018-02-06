@@ -4,7 +4,7 @@ title: "NASA: Hubble and Spitzer Space Telescopes Reveal the  Oldest Object in t
 date: 2015-12-04 15:33:33
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Milky Way, Hubble Space Telescope, Universe, Big Bang, Spitzer Space Telescope, Observable universe, Astronomy, Physics, Cosmology, Physical cosmology, Natural philosophy, Physical sciences, Astronomical objects, Outer space]
 ---
 
 

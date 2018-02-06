@@ -4,7 +4,7 @@ title: "Electricity can flow through graphene at high frequencies without energy
 date: 2016-03-04 05:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Graphene, Electronics, Electricity, Signal, Sensor, American Association for the Advancement of Science, Artificial objects, Technology, Electromagnetism]
 ---
 
 

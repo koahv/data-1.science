@@ -4,7 +4,7 @@ title: "More rain leads to fewer trees in the African savanna"
 date: 2015-10-19 04:00:00
 categories: Science
 author: unknown author
-tags: []
+tags: [Rain, Savanna, Climate, Tree, Ecosystem, Climate change, Poaceae, Precipitation, Biogeochemistry, Natural environment, Earth sciences, Ecology, Environmental science, Systems ecology, Physical geography]
 ---
 
 

@@ -4,7 +4,7 @@ title: "How Green is Your State?"
 date: 2015-12-23 15:01:17
 categories: Energy
 author: unknown author
-tags: [solar, bioenergy, distributed energy, news, hydropower, wind power, geothermal, large scale renewables]
+tags: [Renewable energy, Energy development, Wind power, Energy, Electricity generation, Hydroelectricity, Energy production, Sustainable energy, Energy and the environment, Energy sources, Natural resources, Sustainable technologies, Sustainable development, Alternative energy, Renewable resources, Nature, Artificial objects, Technology, Physical universe]
 ---
 
 

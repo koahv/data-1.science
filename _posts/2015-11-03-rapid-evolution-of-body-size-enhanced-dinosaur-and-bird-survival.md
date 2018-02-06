@@ -4,7 +4,7 @@ title: "Rapid evolution of body size enhanced dinosaur and bird survival"
 date: 2015-11-03 14:20:10
 categories: Science
 author: unknown author
-tags: [archaeology & fossils]
+tags: [Dinosaur, Bird, Evolution, Pterosaur, Allometry, Paleontology, Organism, Extinction, Mass, Nature, Biology, Organisms]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Rivers, lakes impact ability of forests to store carbon"
 date: 2015-12-21 20:00:10
 categories: Science
 author: unknown author
-tags: [environment]
+tags: [Fresh water, Carbon sink, Earth, Forest, Natural environment, Greenhouse gas, Black carbon, Physical geography, Nature, Earth sciences, Environmental science]
 ---
 
 

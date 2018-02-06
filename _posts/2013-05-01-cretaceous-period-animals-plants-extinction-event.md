@@ -4,7 +4,7 @@ title: "Cretaceous Period: Animals, Plants & Extinction Event"
 date: 2013-05-01 21:17:19
 categories: Science
 author: unknown author
-tags: []
+tags: [Cretaceous–Paleogene extinction event, Cretaceous, Pangaea, Flowering plant, Dinosaur, Continent, Nature, Earth sciences]
 ---
 
 

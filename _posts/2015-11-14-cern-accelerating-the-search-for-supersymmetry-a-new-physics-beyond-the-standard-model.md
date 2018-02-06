@@ -4,7 +4,7 @@ title: "CERN: Accelerating the Search for Supersymmetry --"A New Physics Beyond 
 date: 2015-11-14 06:09:04
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [Large Hadron Collider, Compact Muon Solenoid, Physics, Dark matter, Particle physics, Higgs boson, Matter, Gravity, Supersymmetry, Astronomy, Theoretical physics, Applied and interdisciplinary physics, Physical quantities, Physical cosmology, Science, Mechanics, Physical sciences]
 ---
 
 

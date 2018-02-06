@@ -4,7 +4,7 @@ title: "Solar Chromosphere #1"
 date: 2015-12-04 07:13:17
 categories: Astronomy
 author: Chad Quandt
-tags: [online gallery, sun & moon pictures]
+tags: [Optics, G-type main-sequence stars, Astronomy, Physical sciences, Outer space, Observational astronomy, Scientific observation, Sun, Solar System, Stellar astronomy, Bodies of the Solar System, Space science]
 ---
 
 

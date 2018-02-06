@@ -4,7 +4,7 @@ title: "High-tech predictions of the impacts of extreme weather"
 date: 2016-03-14 12:45:17
 categories: Science
 author: unknown author
-tags: [environment]
+tags: [Weather forecasting, Weather, Flood, Rain, Climate, Climate change, Earth, Risk, Infrastructure, Ozone layer, Extreme weather, Science, Simulation, Supercomputer, Physical geography, Atmospheric sciences, Earth sciences, Meteorology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Large Hadron Collider Measurements --"Point to Fundamental Symmetry of t
 date: 2016-01-19 16:54:49
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+tags: [ALICE experiment, High energy nuclear physics, Relativistic Heavy Ion Collider, Particle physics, Neutron, Theoretical physics, Mechanics, Physical universe, Nuclear physics, Physical sciences, Physics]
 ---
 
 

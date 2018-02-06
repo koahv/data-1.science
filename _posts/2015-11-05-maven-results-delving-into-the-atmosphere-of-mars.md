@@ -4,7 +4,7 @@ title: "MAVEN results: Delving into the atmosphere of Mars"
 date: 2015-11-05 05:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Aurora, Mars, Atmosphere, MAVEN, Sun, Solar wind, Magnetosphere, Nature, Applied and interdisciplinary physics, Solar System, Planets, Bodies of the Solar System, Astronomy, Planetary science, Outer space, Space science, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Mammal diversity exploded immediately after dinosaur extinction"
 date: 2015-12-22 00:00:01
 categories: Science
 author: unknown author
-tags: [archaeology & fossils]
+tags: [Mammal, Dinosaur, Evolution, Placentalia, Extinction, Cretaceous–Paleogene extinction event, Paleocene, Biodiversity, Paleontology, Fossil, Species, Biological evolution, Evolutionary biology, Nature, Biology, Organisms]
 ---
 
 

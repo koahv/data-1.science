@@ -4,7 +4,7 @@ title: "Ada Lovelace on the Nature of the Imagination and Its Three Core Faculti
 date: 2015-12-10 08:00:44
 categories: Philosophy
 author: Maria Popova
-tags: [culture, ada lovelace, books, creativity, letters, science]
+tags: [Imagination, Ada Lovelace, Science, Philosophy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "What is global warming?"
 date: 2015-11-17 07:53:53
 categories: Science
 author: unknown author
-tags: [environment]
+tags: [Greenhouse effect, Greenhouse gas, Carbon dioxide, Global warming, Earth, Human impact on the environment, Climate change, Natural environment, Meteorology, Future problems, Atmospheric sciences, Nature, Earth sciences, Environmental science, Atmosphere of Earth, Global environmental issues, Climatology, Change, Physical geography]
 ---
 
 

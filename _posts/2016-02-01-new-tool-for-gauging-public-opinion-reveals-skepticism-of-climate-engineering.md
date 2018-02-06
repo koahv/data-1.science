@@ -4,7 +4,7 @@ title: "New tool for gauging public opinion reveals skepticism of climate engine
 date: 2016-02-01 19:19:15
 categories: Science
 author: unknown author
-tags: []
+tags: [Climate engineering, Global warming, Future problems, Change, Climate change, Climatology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Young sun-like star shows a magnetic field was critical for life on the 
 date: 2016-03-16 04:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Sun, Planet, Star, Earth, Kappa1 Ceti, Atmosphere, Solar System, Circumstellar habitable zone, Astronomical objects, Applied and interdisciplinary physics, Nature, Stars, Stellar astronomy, Astronomy, Physical sciences, Outer space, Space science, Planetary science]
 ---
 
 

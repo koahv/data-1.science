@@ -4,7 +4,7 @@ title: "Scientists discover how Chinese medicinal plant makes anti-cancer compou
 date: 2016-04-08 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Biotechnology, Biotechnology and Biological Sciences Research Council, Science, Sustainability, Research, Biology, Life sciences, Science and technology]
 ---
 
 

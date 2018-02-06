@@ -4,7 +4,7 @@ title: "Hints that ‘Planet Nine’ may exist on edge of our solar system"
 date: 2016-01-20 16:49:34
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Planet, Solar System, Orbit, Pluto, Planet Nine, Kuiper belt, Astronomy, Earth, Planets, Outer space, Planetary science, Physical sciences, Space science, Astronomical objects, Planemos, Substellar objects, Bodies of the Solar System, Local Interstellar Cloud]
 ---
 
 

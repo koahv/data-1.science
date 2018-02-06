@@ -4,7 +4,7 @@ title: "Bright sparks shed new light on the dark matter riddle"
 date: 2016-02-01 05:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [Matter, Dark matter, Weakly interacting massive particles, Physical sciences, Physics, Physical universe, Particle physics, Physical cosmology, Nature, Mechanics, Cosmology, Science, Theoretical physics, Applied and interdisciplinary physics]
 ---
 
 

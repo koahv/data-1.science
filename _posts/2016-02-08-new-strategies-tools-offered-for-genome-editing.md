@@ -4,7 +4,7 @@ title: "New strategies, tools offered for genome editing"
 date: 2016-02-08 18:54:49
 categories: Science
 author: unknown author
-tags: []
+tags: [CRISPR, Cas9, Genome editing, DNA, Organisms, Nucleic acids, Biochemistry, Molecular biology, Biology, Life sciences, Genetics, Biotechnology]
 ---
 
 

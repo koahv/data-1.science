@@ -4,7 +4,7 @@ title: "How El Niño Affects the Weather"
 date: 2015-11-30 17:42:00
 categories: Science
 author: Brian Clark Howard
-tags: []
+tags: [Tropical cyclone, El Niño, Wind, Global warming, Tropics, Climatology, Tropical cyclone seasons, Meteorology, Tropical meteorology, Climate, Tropical cyclones, Earth phenomena, Natural hazards, Atmospheric sciences, Seasons, Windstorms, Physical geography, Earth sciences, Storm, Vortices, Oceanography, Natural disasters]
 ---
 
 

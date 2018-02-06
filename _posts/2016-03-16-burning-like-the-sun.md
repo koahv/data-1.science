@@ -4,7 +4,7 @@ title: "Burning like the Sun"
 date: 2016-03-16 10:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+tags: [ITER, Nuclear fusion, Composite material, Chemistry, Materials, Energy technology, Physical sciences, Physical universe, Artificial objects, Energy, Nature]
 ---
 
 

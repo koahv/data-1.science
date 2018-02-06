@@ -4,7 +4,7 @@ title: "Using Open Source to Distribute Big Data from the Large Hadron Collider"
 date: 2015-12-16 19:52:48
 categories: Linux
 author: Rianne Schestowitz
-tags: [linux, oss]
+tags: [Debian, Open-source software, Package manager, GNOME, Computing, Software, System software, Technology, Digital media]
 ---
 
 

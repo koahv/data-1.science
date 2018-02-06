@@ -4,7 +4,7 @@ title: "CRISPR-Cas9 tool expedites production of biofuel precursors and specialt
 date: 2016-01-26 20:43:41
 categories: Science
 author: unknown author
-tags: [biotechnology]
+tags: [CRISPR, Cas9, Organism, Biology, Artificial objects, Genetics, Biotechnology, Life sciences, Organisms]
 ---
 
 
