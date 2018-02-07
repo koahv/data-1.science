@@ -8,6 +8,9 @@ tags: [Ultraviolet, Electromagnetic radiation, Electromagnetic spectrum, Fluores
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Ultraviolet light is a type of electromagnetic radiation. These high-frequency waves can damage living tissue....
 

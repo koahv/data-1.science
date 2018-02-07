@@ -8,6 +8,9 @@ tags: [CRISPR, Cas9, Organism, Biology, Artificial objects, Genetics, Biotechnol
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A team led by a researcher at the University of California, Riverside has adapted the CRISPR-Cas9 gene editing system for use in a yeast strain that can produce useful lipids and polymers....
 

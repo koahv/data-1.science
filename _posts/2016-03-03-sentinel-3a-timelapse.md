@@ -8,6 +8,9 @@ tags: [Sentinel-3, Ocean, Rokot, Space colonization, Spaceflight, Earth sciences
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Relive the final stages of the launch campaign of the latest Copernicus Sentinel satellite with this three-minute timelapse video...
 

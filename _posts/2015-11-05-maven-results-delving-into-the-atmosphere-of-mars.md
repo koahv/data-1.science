@@ -8,6 +8,9 @@ tags: [Aurora, Mars, Atmosphere, MAVEN, Sun, Solar wind, Magnetosphere, Nature, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(American Association for the Advancement of Science) This issue of Science features four studies highlighting results from the Mars Atmosphere and Volatile Evolution (MAVEN) mission, designed to study Mars' upper atmosphere, ionosphere, and magnetosphere. The novel data reveals some surprises, as well as some adjustments to previous theories and estimates....
 

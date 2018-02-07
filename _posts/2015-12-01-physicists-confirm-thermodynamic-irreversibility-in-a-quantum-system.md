@@ -8,6 +8,9 @@ tags: [Quantum mechanics, Entropy, Irreversible process, Thermodynamics, Physics
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org)—For the first time, physicists have performed an experiment confirming that thermodynamic processes are irreversible in a quantum system—meaning that, even on the quantum level, you can't put a broken egg back into its shell. The results have implications for understanding thermodynamics in quantum systems and, in turn, designing quantum computers and other quantum information technologies....
 

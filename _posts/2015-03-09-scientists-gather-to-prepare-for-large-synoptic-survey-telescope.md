@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >When the Large Synoptic Survey Telescope begins in 2022 to image the entire southern sky from a mountaintop in Chile, it will produce the widest, deepest and fastest views of the night sky ever observed – and a flood of 6 million gigabytes of data per year that are expected to provide new insights into dark matter, dark energy and other cosmic mysteries....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A team of philosophers and plant biotechnologists have turned to cognitive science to explain why opposition to genetically modified organisms (GMOs) has become so widespread, despite positive contributions GM crops have made to sustainable agriculture. They argue that the human mind is highly susceptible to the negative and often emotional representations put out by certain environmental groups and other opponents of GMOs....
 

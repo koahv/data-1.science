@@ -8,6 +8,9 @@ tags: [ALICE experiment, High energy nuclear physics, Relativistic Heavy Ion Col
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >       This past August, scientists working with CERN's ALICE (a Large Ion Collider Experiment), a heavy-ion detector on the Large Hadron Collider (LHC) ring, made precise measurements of particle mass and electric charge that confirm the existence of a fundamental symmetry in nature. "After the Big Bang, for every particle of matter an antiparticle was created. In particle physics, a very important question is whether all the laws of physics display a specific kind of symmetry known as CPT, and these measurements suggest that there is indeed a fundamental symmetry between nuclei and antinuclei," said Marcelo Gameiro Munhoz, a professor at the University of São Paulo (USP).  ALICE is one of the largest experiments in the world devoted...
 

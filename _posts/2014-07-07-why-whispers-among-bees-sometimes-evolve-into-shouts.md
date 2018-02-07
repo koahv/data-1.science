@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Let's say you're a bee and you've spotted a new and particularly lucrative source of nectar and pollen. What's the best way to communicate the location of this prize cache of food to the rest of your nestmates without revealing it to competitors, or "eavesdropping" spies, outside of the colony?...
 

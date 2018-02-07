@@ -8,6 +8,9 @@ tags: [Computing, Security hacker, Quantum computing, University of Ottawa, Info
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Ottawa) As we saw during the 2016 US election, protecting traditional computer systems, which use zeros and ones, from hackers is not a perfect science. Now consider the complex world of quantum computing, where bits of information can simultaneously hold multiple states beyond zero and one, and the potential threats become even trickier to tackle. Researchers at the University of Ottawa have uncovered clues that could help administrators protect quantum computing networks from external attacks....
 

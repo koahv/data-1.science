@@ -8,6 +8,9 @@ tags: [DNA sequencing, DNA, Nanopore, Nucleotide, DNA replication, Biosynthesis,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Columbia University School of Engineering and Applied Science) Columbia Engineering-led team reports achieving real-time single molecule electronic DNA sequencing at single-base resolution using a protein nanopore array. The team includes researchers from Columbia University, Genia Technologies (Roche), Harvard University, and the National Institute of Standards and Technology. The work sets the stage for revolutionary, cost-effective genetic diagnostic platforms with unprecedented potential for precision medicine. (PNAS, 4/18/2016)...
 

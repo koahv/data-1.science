@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(American Chemical Society) Conventional silicon-based computing, which has advanced by leaps and bounds in recent decades, is pushing against its practical limits. DNA computing could help take the digital era to the next level. Scientists are now reporting progress toward that goal with the development of a novel DNA-based GPS. They describe their advance in ACS' The Journal of Physical Chemistry B....
 

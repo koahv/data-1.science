@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Case Western Reserve University) A frog in Ecuador's western Andean cloud forest changes skin texture in minutes, appearing to mimic the texture it sits on. And, the new species, called Pristimantis mutabilis, or mutable rainfrog, has company. A known relative of the P. mutabilis shares the same texture-changing quality -- but the ability was never reported before....
 

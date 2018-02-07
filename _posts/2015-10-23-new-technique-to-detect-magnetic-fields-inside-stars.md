@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Using a technique similar to medical ultrasound, astrophysicists have for the first time developed a way to determine the presence of strong magnetic fields deep inside pulsating giant stars.<......
 

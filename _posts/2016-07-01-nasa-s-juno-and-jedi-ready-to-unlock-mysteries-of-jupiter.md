@@ -8,6 +8,9 @@ tags: [Jupiter, Aurora, Magnetosphere of Jupiter, Magnetosphere, Juno (spacecraf
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The JEDI is one of several instruments aboard NASA's Juno spacecraft -- set to enter Jupiter orbit on July 4 -- that will help scientists answer fundamental questions about the solar system's largest planet, Earth and the universe....
 

@@ -8,6 +8,9 @@ tags: [Synesthesia, Perception, Neuroscience, Epistemology, Metaphysics of mind,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Synesthesia is a neurological condition that causes the brain to process data in the form of several senses at once; for example, hearing sounds while also seeing them as colorful swirls....
 

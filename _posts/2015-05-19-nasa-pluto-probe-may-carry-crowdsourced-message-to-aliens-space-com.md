@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Space.comNASA Pluto Probe May Carry Crowdsourced Message to AliensSpace.comA NASA Pluto probe may end up with one final mission after its work exploring the outer solar system is done — carrying a message to advanced alien civilizations. NASA is considering allowing a team of researchers, teachers, artists and engineers to ...NASA&#39;s New Horizons Probe Might Deliver Earth Selfie to AliensSoftpedia NewsNASA Scientists Warn of Danger of New Horizons Smashing Into Space DebrisPioneer NewsVideo: NASA&#39;s New Horizons spacecraft could make contact with aliens after its ...Belfast Telegraphall 15 news articles&nbsp;&raquo;...
 

@@ -8,6 +8,9 @@ tags: [Ocean, Ocean current, Ice age, Climate change, Sea, Atlantic Ocean, Sea i
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of California - Santa Cruz) An unprecedented analysis of North Pacific ocean circulation over the past 1.2 million years has found that sea ice formation in coastal regions is a key driver of deep ocean circulation, influencing climate on regional and global scales. Coastal sea ice formation takes place on relatively small scales, however, and is not captured well in global climate models....
 

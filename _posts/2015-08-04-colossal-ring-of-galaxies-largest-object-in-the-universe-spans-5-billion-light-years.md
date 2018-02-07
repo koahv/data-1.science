@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >       Gamma-ray bursts (GRBs) are the most luminous events in the universe, releasing as much energy in a few seconds as the Sun does over its 10 billion year lifetime. They are thought to be the result of massive stars collapsing into black holes. Their huge luminosity helps astronomers to map out the location of distant galaxies.  An international team of astronomers have found what appears to be the largest feature in the observable universe: a ring of nine gamma ray bursts – and hence galaxies - 5 billion light years across. The scientists were led by Prof Lajos Balazs of Konkoly Observatory in Budapest. The image of the distribution of GRBs on the sky at a distance of 7 billion light years, centred on the newly discovered ring....
 

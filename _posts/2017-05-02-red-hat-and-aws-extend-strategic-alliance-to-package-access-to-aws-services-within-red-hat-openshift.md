@@ -8,6 +8,9 @@ tags: [Red Hat, Cloud computing, Amazon Web Services, Amazon.com, OpenShift, Com
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Through this unique offering, Red Hat will make AWS services accessible directly within Red Hat OpenShift Container Platform, allowing customers to take advantage of the world’s most comprehensive and broadly adopted cloud whether they’re using Red Hat OpenShift Container Platform on AWS or in an on-premises environment....
 

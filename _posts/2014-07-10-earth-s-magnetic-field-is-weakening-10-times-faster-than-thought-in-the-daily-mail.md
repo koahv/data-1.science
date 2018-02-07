@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Daily MailEarth&#39;s magnetic field is weakening 10 times faster than thought in the ...Daily MailThe Earth&#39;s magnetic field, which protects the planet from solar radiation, has grown weaker over the past six months, according to satellite data. This map shows the filed from January to June. Shades of red represent areas of strengthening, while ...Earth&#39;s magnetic field is weakening 10 times fasterCBS NewsEarth&#39;s magnetic field is weakening, and fastWired.co.ukEarth&#39;s Magnetic Field Is Weakening FastThe Weather ChannelDiscovery Newsall 16 news articles&nbsp;&raquo;...
 

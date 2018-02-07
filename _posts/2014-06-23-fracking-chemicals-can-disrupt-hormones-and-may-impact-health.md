@@ -8,6 +8,9 @@ tags: [nature & environment]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists have found that chemicals used in fracking can disrupt not only the human body's reproductive hormones, but also the glucocorticoid and thyroid hormone receptors, which are necessary to maintain good health....
 

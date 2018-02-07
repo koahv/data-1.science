@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A key part of the brain involved with decision making, the striatum, appears to operate hierarchically – much like a traditional corporation with executives, middle managers and employees, according to researchers....
 

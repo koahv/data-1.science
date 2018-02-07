@@ -8,6 +8,9 @@ tags: [Curiosity (rover), Space probe, Rover (space exploration), NASA, Orbit, S
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org)—A pair of space scientists working at NASA's Jet Propulsion Laboratory at the California Institute of Technology has written a Focus piece for the journal Science Robotics. Steve Chien and Kiri Wagstaff suggest that future space probes will be given enough intelligence to carry out much of their mission without prompts from people back on Earth....
 

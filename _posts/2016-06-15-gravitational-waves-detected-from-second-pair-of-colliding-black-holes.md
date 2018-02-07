@@ -8,6 +8,9 @@ tags: [LIGO, Gravitational wave, First observation of gravitational waves, Virgo
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Massachusetts Institute of Technology) On Dec. 26, 2015, at 03:38:53 UTC, scientists observed gravitational waves -- ripples in the fabric of spacetime -- for the second time....
 

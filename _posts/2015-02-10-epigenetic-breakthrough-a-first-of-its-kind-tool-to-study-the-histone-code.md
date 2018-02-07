@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of North Carolina Health Care) University of North Carolina scientists have created a new research tool, based on the fruit fly, to help crack the histone code. This research tool can be used to better understand the function of histone proteins, which play critical roles in the regulation of gene expression in animals and plants....
 

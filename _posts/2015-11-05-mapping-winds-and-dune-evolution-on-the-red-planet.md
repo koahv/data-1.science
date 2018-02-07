@@ -8,6 +8,9 @@ tags: [Mars, HiRISE, Curiosity (rover), Moon, InSight, Planetary science, Outer 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Three Irish scientists have discovered how winds shape sand dunes on Mars by using image data from the HiRISE camera on the Mars Reconnaissance Orbiter and then comparing patterns with wind models that were tested on dunes seen on Northern Ireland's peninsula of Magilligan....
 

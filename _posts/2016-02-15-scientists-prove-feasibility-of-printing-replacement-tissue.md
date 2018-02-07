@@ -8,6 +8,9 @@ tags: [Regenerative medicine, Wake Forest Baptist Medical Center, Wake Forest Sc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Wake Forest Baptist Medical Center) Using a sophisticated, custom-designed 3-D printer, regenerative medicine scientists at Wake Forest Baptist Medical Center have proved that it is feasible to print living tissue structures to replace injured or diseased tissue in patients....
 

@@ -8,6 +8,9 @@ tags: [Linux kernel, Linus Torvalds, Linux, Computing, Finnish computer programm
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Title:&nbsp; Video: Linus Torvalds On Fun, the Linux Kernel, and the Future15 SepLearn more...
 

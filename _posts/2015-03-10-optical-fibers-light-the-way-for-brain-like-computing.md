@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Computers that function like the human brain could soon become a reality thanks to new research using optical fibers made of specialty glass.Read more about Optical Fibers Light the Way for Brain-Like Computing Comments...
 

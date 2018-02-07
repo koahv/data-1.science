@@ -8,6 +8,9 @@ tags: [Space exploration, Satellites, Space policy of the European Union, Space-
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A look back on the preparations for the 25 April liftoff of Sentinel-1B...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A skull provides direct anatomical evidence that fills a problematic time gap of modern human migration into Europe. It is also the first proof that anatomically modern humans existed at the same time as Neanderthals in the same geographical area....
 

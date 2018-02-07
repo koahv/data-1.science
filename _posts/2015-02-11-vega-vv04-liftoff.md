@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Watch the liftoff of Vega VV04 with ESA’s experimental spaceplane at 13:40 GMT (14:40 CET) on 11 February...
 

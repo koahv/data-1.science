@@ -8,6 +8,9 @@ tags: [Vim (text editor), Computers, System software, Computing, Software, Opera
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Turn back the dial of time a bit. No, keep turning... a little more... there! Over 25 years ago, when some of your professional colleagues were still toddlers, Bram Moolenaar started working on a text editor for his Amiga. He was a user of vi on Unix, but the Amiga didn't have anything quite like it. On November 2, 1991, after three years in development, he released the first version of the "Vi IMitation" editor, or Vim. read more...
 

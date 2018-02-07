@@ -8,6 +8,9 @@ tags: [Cat (Unix), Filename, Text file, Computer file, Wget, Operating system, D
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >cat is one of the most frequently used commands on Unix-like operating systems. Let us see some typical and unusual examples of the cat command.The post Linux / Unix cat Command Examples appeared first on nixCraft....
 

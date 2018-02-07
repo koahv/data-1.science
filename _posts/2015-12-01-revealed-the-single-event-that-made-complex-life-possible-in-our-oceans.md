@@ -8,6 +8,9 @@ tags: [Cyanobacteria, Phytoplankton, Evolution, Earth, Ocean, Oxygen, Photosynth
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The catalyst that allowed the evolution of complex life in Earth's oceans has been identified by a University of Bristol researcher. Up to 800 million years ago, the Earth's oceans were deprived of oxygen. It was only when microorganisms called phytoplankton, capable of performing photosynthesis, colonised the oceans – covering two thirds of our planet – that production of oxygen at a massive scale was made possible....
 

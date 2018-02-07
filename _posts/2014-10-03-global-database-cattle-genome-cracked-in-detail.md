@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >An international consortium of scientists has increased the detailed knowledge of the variation in the cattle genome by several orders of magnitude by creating a global database. The first generation of the new data resource, which will be open access, forms an essential tool for scientists working with cattle genetics and livestock history....
 

@@ -8,6 +8,9 @@ tags: [European Science Foundation, Astrobiology, Research, Science and technolo
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(European Science Foundation) The first scientific Roadmap for European Astrobiology was published on March 21st. This strategic landmark for European astrobiology has been produced through the European Commission-funded AstRoMap project (2013-2015)...
 

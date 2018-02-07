@@ -8,6 +8,9 @@ tags: [Groundwater recharge, Water resources, Groundwater, Aquifer, Climate, Ame
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Arizona) By 2050 climate change will increase the groundwater deficit even more for four economically important aquifers in the western US, reports a University of Arizona-led team of scientists. The new report is the first to integrate scientists' knowledge about groundwater in the US West with scientific models that show how climate change will affect the region....
 

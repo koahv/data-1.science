@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >USA TODAYSecurity experts take aim at the Internet of (unsafe) ThingsUSA TODAYLAS VEGAS — The day is fast approaching when your thermostat, washer, even the light bulbs in your lamps will contain embedded computers so they can talk to you and you to them. Having your fridge order more milk when supplies get low, your house&nbsp;...Hackers sound alarm about Internet of ThingsAl Jazeera America&#39;Internet of Things,&#39; not privacy, to dominate at Black HatCNETall 4 news articles&nbsp;&raquo;...
 

@@ -8,6 +8,9 @@ tags: [Renewable energy, Electricity generation, Wind power, Energy development,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >It’s finally happening. After years of research and development, of policy debates over subsidies and climate change and energy independence; renewable energy is finally starting to replace fossil fuel sources of electric generation across the nation....
 

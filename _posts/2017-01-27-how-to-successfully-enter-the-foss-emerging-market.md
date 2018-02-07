@@ -8,6 +8,9 @@ tags: [Free and open-source software, Open-source software, Liminality, Innovati
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In business speak, an "emerging market" is a market that is not yet well developed but on the rise and shows strong potential to be as robust as other developed markets. The Wikipedia definition focuses purely on countries, but this is a limited view of the meaning of "market." read more...
 

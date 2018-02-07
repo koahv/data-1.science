@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >When the Moon Met MarsSlate Magazine (blog)Last night (July 5, 2014), the geometry of the heavens swept the Moon past Mars in the sky. This happens every month, but last night the fleeting encounter was closer than most. From my location in Boulder, Colorado, they got a mere 10 arcminutes apart ...Backyard Universe: Moon and Mars pair up tonightFayetteville Observer (blog)all 3 news articles&nbsp;&raquo;...
 

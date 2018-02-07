@@ -8,6 +8,9 @@ tags: [Wide Field Infrared Survey Telescope, Physical sciences, Astronomy, Scien
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Space agency expected to make the probe an official project next month...
 

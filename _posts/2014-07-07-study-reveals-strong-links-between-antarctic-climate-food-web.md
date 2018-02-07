@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Virginia Institute of Marine Science) A long-term study of the links between climate and marine life along the rapidly warming West Antarctic Peninsula reveals how changes in physical factors such as wind speed and sea-ice cover send ripples up the food chain, with impacts on everything from single-celled algae to penguins....
 

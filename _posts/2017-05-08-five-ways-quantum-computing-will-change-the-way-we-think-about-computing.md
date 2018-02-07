@@ -8,6 +8,9 @@ tags: [Quantum computing, IBM Quantum Experience, Cloud computing, Computing, Qu
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >While technologies that currently run on classical computers, such as Watson, can help find patterns and insights buried in vast amounts of existing data, quantum computers will deliver solutions to important problems where patterns cannot be seen because the data doesn't exist and the possibilities that you need to explore to get to the answer are too enormous to ever be processed by classical computers....
 

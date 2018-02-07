@@ -8,6 +8,9 @@ tags: [archaeology & fossils]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers have examined one of the smallest parts of the fossil record—theropod teeth—to shed light on the evolution of dinosaurs at the end of the Cretaceous. Findings published in the prestigious journal Acta Palaeontologica Polonica have effectively quadrupled the dinosaur diversity in the area of study, eight localities from Treviño County, Huesca and Lerida—including the exceptional site of Laño. There were previously only two known species in the area....
 

@@ -8,6 +8,9 @@ tags: [Wind, Polynesia, El Niño, Pacific Ocean, Sailing, Oceania, Physical geog
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers ran computer simulations that take into account environmental variability and geographical setting to investigate how early explorers made it to these tiny, remote islands in the Pacific....
 

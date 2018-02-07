@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Fancy Skulls is the good looking procedural death labyrinth FPS I have previewed for you a few times, and luckily the game has managed to get onto Steam....
 

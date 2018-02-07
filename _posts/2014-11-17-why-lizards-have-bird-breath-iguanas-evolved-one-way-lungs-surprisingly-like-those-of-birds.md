@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Biologists long assumed that one-way air flow was a special adaptation in birds driven by the intense energy demands of flight. But now scientists have shown that bird-like breathing also developed in green iguanas – reptiles not known for high-capacity aerobic fitness. The finding bolsters the case that unidirectional bird-like flow evolved long before the first birds....
 

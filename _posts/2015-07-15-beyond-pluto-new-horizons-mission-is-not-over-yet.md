@@ -8,6 +8,9 @@ tags: [space exploration]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >When New Horizons phoned home this morning (Australian time) after its close encounter with Pluto, there was jubilation and excitement....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&nbsp;Nixcraft: If you have always used a graphic user interface like KDE or Gnome or MS-Windows or Apple OS X, you are likely to find bash shell confusing....
 

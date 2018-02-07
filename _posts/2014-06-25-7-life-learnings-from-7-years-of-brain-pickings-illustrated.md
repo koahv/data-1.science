@@ -8,6 +8,9 @@ tags: [art, psychology, artist series, design]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&#8220;Presence is far more intricate and rewarding an art than productivity.&#8221; In the fall of 2013, as Brain Pickings was turning seven, I wrote about the seven most important things I learned in those seven years of reading, writing, and living. Much to my surprise and humbling delight, I began receiving a steady outpour of letters from readers, people for whom these notes to myself had struck a deep chord of resonance in their own lives, on their own journeys. Eventually, my friends at Holstee &#8212; makers of the beloved Holstee Manifesto &#8212; reached out and suggested a creative collaboration that would bring these seven learnings to life in visual form. Having known the Holstee crew for many years, and having long shared an e...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >MSG-4 lifted off on an Ariane 5 launcher from Europe’s Spaceport in French Guiana at 21:24 GMT (23:42 CEST) on 15 July...
 

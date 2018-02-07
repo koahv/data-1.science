@@ -8,6 +8,9 @@ tags: [earth sciences]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A scientific research team spent seven years tracking the movements of skyscraper-high waves in the South China Sea. University of Miami (UM) Rosenstiel School of Marine and Atmospheric Science scientists were part of the collaborative international field study trying to understand how these waves, which rarely break the ocean surface, develop, move and dissipate underwater....
 

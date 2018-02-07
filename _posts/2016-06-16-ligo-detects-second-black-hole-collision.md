@@ -8,6 +8,9 @@ tags: [Gravitational wave, LIGO, Black hole, Gravitational-wave observatory, Gra
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The gravitational wave observatory has detected a second event, heralding a new era in astrophysics. This image depicts two black holes in the moments before a catastrophic collision.S. Ossokine / A. Buonanno /  T. Dietrich / R. Haas / Max Planck Institute for Gravitational Physics / the Simulating eXtreme Spacetime (SXS) project  The day after Christmas last year, the cosmos quietly gifted scientists with gravitational waves — ripples in the fabric of spacetime – produced in a collision between two stellar-mass black holes. It’s the second event detected by physicists working with the Laser Interferometer Gravitational-Wave Observatory (LIGO), and it suggests that after some fine-tuning LIGO will be spotting dozens of these events each ye...
 

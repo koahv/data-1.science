@@ -8,6 +8,9 @@ tags: [Insect, Agriculture, Global warming, Pollination, Natural environment, Ec
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Bug researchers in Germany are puzzled. New data suggests the total population of flying insects there has declined a whopping 75% in the past 27 years. And no one knows why. A study released Wednesday in the journal PLOS ONE details a longitudinal study by German researchers to measure &#8220;flying insect biomass&#8221; — the weight of all flying bugs — in 63 protected spots around the country. The scientists surveyed places like dunes, grasslands, and forests, using trapping tents to collect over 118 pounds of bugs over the 27 year period. They were expecting to find some population decreases, but this extreme decline, they said, is &#8220;alarming&#8221;. The most recent Living Planet Index (which measures biodiversity and population tr...
 

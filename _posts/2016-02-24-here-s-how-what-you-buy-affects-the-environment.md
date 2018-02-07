@@ -8,6 +8,9 @@ tags: [Greenhouse gas, Ecological footprint, Water use, Carbon footprint, Air po
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The world's workshop—China—surpassed the United States as the largest emitter of greenhouse gases on Earth in 2007. But if you consider that nearly all of the products that China produces, from iPhones to tee-shirts, are exported to the rest of the world, the picture looks very different....
 

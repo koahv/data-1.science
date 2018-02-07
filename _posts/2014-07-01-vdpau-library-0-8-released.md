@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NVIDIA's Aaron Plattner has announced the release of libvdpau 0.8 as the library for the VIdeo Decode and Presentation API for Unix......
 

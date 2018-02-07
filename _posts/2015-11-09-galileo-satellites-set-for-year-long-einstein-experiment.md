@@ -8,6 +8,9 @@ tags: [Gravity Probe A, Galileo (satellite navigation), Atomic clock, Gravity, O
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Europe’s fifth and sixth Galileo satellites – subject to complex salvage manoeuvres following their launch last year into incorrect orbits – will help to perform an ambitious year-long test of Einstein’s most famous theory....
 

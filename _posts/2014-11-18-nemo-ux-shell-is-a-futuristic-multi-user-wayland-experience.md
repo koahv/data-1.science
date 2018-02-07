@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Demonstrated at the ACM Interactive Tabletops and Surfaces (ACM ITS) event in Dresden, Germany the past few deays was the "NEMOSHELL" that looks like a futuristic user experience supported by Wayland......
 

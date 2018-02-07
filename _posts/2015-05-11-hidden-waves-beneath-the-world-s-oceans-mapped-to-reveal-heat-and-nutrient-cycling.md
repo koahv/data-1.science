@@ -8,6 +8,9 @@ tags: [nature & environment]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists are taking a closer look at the ocean in order to better understand the rolling, internal waves beneath its surface that displace massive amounts of water and push heat and vital nutrients up from the deep ocean....
 

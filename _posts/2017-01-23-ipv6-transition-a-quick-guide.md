@@ -8,6 +8,9 @@ tags: [IPv6, IPv6 transition mechanism, IPv4, Network address translation, IPv6 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Despite the much-anticipated depletion of public IPv4 addresses, adoption of network address translation (NAT) has led most enterprises to continue using IPv4 both internally and at the internet edge....
 

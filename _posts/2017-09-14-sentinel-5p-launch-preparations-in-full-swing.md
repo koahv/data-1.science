@@ -8,6 +8,9 @@ tags: [Satellite, Atmosphere, Atmosphere of Earth, Rocket, Spacecraft, Flight, S
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >With liftoff set for 13 October, engineers at Russia’s Plesetsk launch site are steaming ahead with the task of getting Europe’s next Copernicus satellite ready for its journey into orbit....
 

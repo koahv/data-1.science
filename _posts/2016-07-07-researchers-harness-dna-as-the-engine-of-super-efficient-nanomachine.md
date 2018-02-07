@@ -8,6 +8,9 @@ tags: [DNA, Virus, Bacteria, Artificial objects, Biology, Life sciences, Organis
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(McMaster University) Researchers at McMaster University have established a way to harness DNA as the engine of a microscopic 'machine' they can turn on to detect trace amounts of substances that range from viruses and bacteria to cocaine and metals....
 

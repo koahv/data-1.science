@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Why are human faces so variable compared to other animals, from lizards and penguins to dogs and monkeys? Scientists analyzed human faces and the genes that code for facial features and found a high variability that could only be explained by selection for variable faces, probably because of the importance of social interactions in human relationships and the need for humans to be recognizable....
 

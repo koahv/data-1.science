@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ExtremeTechThe vacuum tube strikes back: NASA&#39;s tiny 460GHz vacuum transistor that could ...ExtremeTechWhich is why NASA&#39;s Ames Research Center is going back to the future with its new vacuum transistor – a nanometer-scale vacuum tube that, in early testing, has reached speeds of up to 460GHz. Triode vacuum tube operation, diagram The original vacuum&nbsp;......
 

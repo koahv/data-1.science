@@ -8,6 +8,9 @@ tags: [Mesenchymal stem cell, Cancer, Stem cell, Mesenchyme, Dose (biochemistry)
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Tomsk Polytechnic University) Russian and British scientists develop a technology to targeted deliver drugs to inflammation spot by magnet controlled stem cells. Native body cells joined magnetic microcapsules are very promising for cell therapy and gene engineering applications....
 

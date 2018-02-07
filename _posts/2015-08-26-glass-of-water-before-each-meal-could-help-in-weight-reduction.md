@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers have shown that drinking 500ml of water at half an hour before eating main meals may help obese adults to lose weight. They believe that the simple intervention could be hugely beneficial, and be easily promoted by healthcare professionals and through public health campaigns....
 

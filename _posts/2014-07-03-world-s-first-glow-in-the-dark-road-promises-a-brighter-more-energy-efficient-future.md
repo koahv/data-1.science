@@ -8,6 +8,9 @@ tags: [botanical, carousel showcase, clean tech, features, green lighting, green
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Read the rest of World&#8217;s First Glow-in-the-Dark Road Promises a Brighter, More Energy-Efficient Future Permalink | Add to del.icio.us | digg Post tags: Alexander Krichevsky, alternative lighting sources, avatar plant, bioglow, biomimicry, Daan Roosegaarde, glow, glow in the dark lighting, glow in the dark paint, glow in the dark plants, Glow in the dark street marking, Glow-in-the-dark, glow-in-the-dark road, glowing, glowing lines, glowing lines 2.0, glowing road, heijmans, luminescent, smart highway, world’s first glow in the dark road...
 

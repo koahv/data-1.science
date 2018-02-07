@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Today Cray announced that the Danish Meteorological Institute (DMI) has purchased a Cray XC supercomputer and a Cray Sonexion 2000 storage system....
 

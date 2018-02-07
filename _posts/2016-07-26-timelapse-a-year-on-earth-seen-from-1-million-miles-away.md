@@ -8,6 +8,9 @@ tags: [Deep Space Climate Observatory, Astronomy, Physical sciences, Space scien
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsOn July 20, 2015, NASA released to the world the first image of the sunlit side of Earth captured by the space agency's EPIC camera on NOAA's DSCOVR satellite. The camera has now recorded a full year of life on Earth...Contributed Author:&nbsp;NASA GoddardTopics:&nbsp;Aerospace...
 

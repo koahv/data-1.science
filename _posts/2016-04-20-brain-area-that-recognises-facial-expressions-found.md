@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers, including Ramprakash Srinivasan from Ohio State University placed 10 college students into an fMRI machine and showed them more than 1,000 photographs of people making facial expressions....
 

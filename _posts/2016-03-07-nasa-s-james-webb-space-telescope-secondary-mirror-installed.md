@@ -8,6 +8,9 @@ tags: [James Webb Space Telescope, Optics, Outer space, Spaceflight, Observation
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) The sole secondary mirror that will fly aboard NASA's James Webb Space Telescope was installed onto the telescope at NASA's Goddard Space Flight Center in Greenbelt, Maryland, on March 3, 2016....
 

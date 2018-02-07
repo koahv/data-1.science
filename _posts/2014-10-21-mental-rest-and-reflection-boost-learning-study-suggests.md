@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A new study, which may have implications for approaches to education, finds that brain mechanisms engaged when people allow their minds to rest and reflect on things they've learned before may boost later learning....
 

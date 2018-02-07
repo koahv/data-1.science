@@ -8,6 +8,9 @@ tags: [Internet of things, Computing, Artificial objects, Technology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsGE and Intel are working on LED lights that can collect temperature data from assembly lines, making processes such as assembling turbines easier. At GE Power’s plant in Greenville, S.C., one of the difficult...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Manufacturing...
 

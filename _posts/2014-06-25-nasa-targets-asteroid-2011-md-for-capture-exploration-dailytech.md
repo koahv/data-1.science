@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >From Quarks to QuasarsNASA Targets Asteroid &quot;2011 MD&quot; for Capture, ExplorationDailyTechThe NASA report indicated that 2011 MD is about the size of a delivery truck, weighs 100 tons, and is the main focus right now due to its activity above Earth during the year 2011. The Spitzer Space Telescope caught a glimmer of 2011 MD 7,600 miles ...The latest on NASA&#39;s Asteroid Redirect MissionThe Planetary Society (blog)NASA&#39;s Giant Leap to Mars Is One Big JokeBloomberg ViewNASA Plans to Capture Astreroid In Moon&#39;s OrbitFrom Quarks to QuasarsScience Recorder&nbsp;-Space News&nbsp;-The Space Reporterall 52 news articles&nbsp;&raquo;...
 

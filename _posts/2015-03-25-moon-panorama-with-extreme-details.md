@@ -8,6 +8,9 @@ tags: [online gallery, sun & moon pictures]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The post Moon panorama with extreme details appeared first on Sky &amp; Telescope....
 

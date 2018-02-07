@@ -8,6 +8,9 @@ tags: [Particle physics, Proton, Gluon, ATLAS experiment, Quark, Large Hadron Co
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Discovered almost 100 years ago by Ernest Rutherford, the proton was one of the first particles to be studied in depth. Yet there's still much about it that remains a mystery. Where does its mass and spin come from? What is it made of? To answer these questions, physicists at the ATLAS Experiment are using "jets" of particles emitted by the Large Hadron Collider (LHC) as a magnifying glass to examine the inner structure of the proton....
 

@@ -8,6 +8,9 @@ tags: [OSIRIS-REx, Spacecraft, Space technology, Bodies of the Solar System, Ast
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) During Earth-Trojan asteroid search operations, the PolyCam imager aboard NASA's OSIRIS-REx spacecraft captured this image of Jupiter (center) and three of its moons, Callisto (left), Io, and Ganymede....
 

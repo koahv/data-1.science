@@ -8,6 +8,9 @@ tags: [astronomy & space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org) —Astronomers investigating behaviour of the universe shortly after the Big Bang have made a surprising discovery: the properties of the early universe are determined by the smallest galaxies. The team report their findings in a paper published today in the journal Monthly Notices of the Royal Astronomical Society....
 

@@ -8,6 +8,9 @@ tags: [Denisovan, Neanderthal, Archaic human admixture with modern humans, Gene,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Cell Press) When modern humans met Neanderthals in Europe and the two species began interbreeding many thousands of years ago, the exchange left humans with gene variations that have increased the ability of those who carry them to ward off infection. This inheritance from Neanderthals may have also left some people more prone to allergies....
 

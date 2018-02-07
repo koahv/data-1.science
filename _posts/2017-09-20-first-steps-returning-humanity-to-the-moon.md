@@ -8,6 +8,9 @@ tags: [Moon, Apollo program, Exploration of the Moon, European Space Agency, Lan
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In the first act of lunar exploration, Neil Armstrong and Buzz Aldrin were major characters. In setting its sights on the Moon, ESA hopes to bring many more actors to this off-world stage.&nbsp;&nbsp;...
 

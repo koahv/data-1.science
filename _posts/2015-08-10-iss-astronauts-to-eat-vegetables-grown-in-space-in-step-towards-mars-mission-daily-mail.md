@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Daily MailISS astronauts to eat vegetables grown in space in step towards Mars missionDaily Mail&#39;On the way to Mars, and on the way back, we won&#39;t be able to get resupplies. We will have to be completely self-sufficient. &#39;Having the ability to grow our own food is a big step in that direction.&#39; In addition to eating the lettuce as harvested, the ...Need A House On Mars? No Problem. Print It Out.WVXUThis space-grown lettuce could be the key to a future trip to MarsThe Week Magazineall 737 news articles&nbsp;&raquo;...
 

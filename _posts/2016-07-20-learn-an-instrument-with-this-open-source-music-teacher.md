@@ -8,6 +8,9 @@ tags: [Music, Test (assessment)]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Playing musical scores is a heavy kind of art. The Nootka app will help you understand the basics of music notation reading, and help you improve by practicing various kinds of exercises. Nootka gives real-time feedback, has multiple difficulty levels, and is customizable. Long story short You play or sing notes displayed by the app. Nootka tells you in real time if you're playing them correctly. read more...
 

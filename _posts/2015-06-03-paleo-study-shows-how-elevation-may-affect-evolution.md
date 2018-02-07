@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >About 34 million years ago, global temperatures took a dive, causing a sudden wave of extinctions among European mammals. In North America, however, life went on largely unscathed. A new study explains why: The rise of the Rocky Mountains had forced North American mammals to adapt to a colder, drier world....
 

@@ -8,6 +8,9 @@ tags: [Evolution, Mammal, Reptile, Nocturnality, American Association for the Ad
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Stanford University) New genetic evidence suggesting that early mammals had good night-time vision adds to fossil and behavioral studies indicating that early mammals were nocturnal....
 

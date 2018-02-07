@@ -8,6 +8,9 @@ tags: [earth]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Australia's Bureau of Meteorology Tuesday warned the El Nino weather phenomenon, which can spark deadly and costly climate extremes, will pack a punch this year after declaring its onset in the tropical Pacific....
 

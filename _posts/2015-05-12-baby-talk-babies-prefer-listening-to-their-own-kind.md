@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists have discovered that 6-month-old infants appear to be much more interested in listening to other babies than they are in listening to adults. The researchers believe that an attraction to infant speech sounds may help to kick start and support the crucial processes involved in learning how to talk....
 

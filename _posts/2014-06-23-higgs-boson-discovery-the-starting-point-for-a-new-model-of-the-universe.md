@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >     "We know that the Standard Model of physics that we have now does not explain some puzzles in nature," said Ketino "Keti" Kaadze, a research associate at Fermilab. "We know there has to be other models that can explain phenomena like dark matter and dark energy, and why we can have different generations of the same particle that are identical except for their mass. Finding the Higgs particle wasn't the end of the story. It was the starting point on a new horizon." A recently published study in the journal Nature Physics reports scientists have found evidence that the Higgs boson — a fundamental particle proposed in 1964 and discovered in 2012 — is the long sought-after particle responsible for giving mass to elementary particles....
 

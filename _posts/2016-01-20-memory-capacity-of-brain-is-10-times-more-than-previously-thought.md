@@ -8,6 +8,9 @@ tags: [Neuron, Brain, Synapse, Hippocampus, Memory, Dendrite, Neuroscience, Nerv
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Salk Institute) Data from the Salk Institute shows brain's memory capacity is in the petabyte range, as much as entire Web....
 

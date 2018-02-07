@@ -8,6 +8,9 @@ tags: [Physics, Edward Snowden, Islamic State of Iraq and the Levant, Arab Sprin
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >At TED2014, Curator Chris Anderson spoke to whistleblower Edward Snowden through a telepresence robot. Photo: Ryan Lash In 2006, TED started putting talks online for free, a milestone in democratizing ideas worth spreading. Since then, the world has seen monumental shifts in history, including the rise and fall of revolutions, the roar of a deadly epidemic, the largest-ever leak of government secrets, an astronomical discovery predicted by Einstein and the election of the first African-American president in the US, to name a few. To celebrate TED’s 10th anniversary, we’ve collected this playlist of talks that have intersected with history, providing insight on the significant events of their time. Read below for highlights: Inside the Arab...
 

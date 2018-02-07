@@ -8,6 +8,9 @@ tags: [Git, Computer file, GitHub, Path (computing), World Wide Web, Directory (
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In the introduction to this series we learned who should use Git, and what it is for. Today we will learn how to clone public Git repositories, and how to extract individual files without cloning the whole works. read more...
 

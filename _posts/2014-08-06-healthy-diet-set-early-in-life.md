@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Promoting a healthy diet from infancy is important to prevent childhood obesity and the onset of chronic disease, researchers find. The study described quantity and diversity of food and drinks consumed by children aged 12-16 months....
 

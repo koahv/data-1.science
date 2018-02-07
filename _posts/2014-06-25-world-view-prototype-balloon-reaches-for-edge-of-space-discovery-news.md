@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >World View Prototype Balloon Reaches for Edge of SpaceDiscovery NewsThe view from 120,000 feet above Earth, as captured by a camera aboard a World View prototype capsule during a test flight on June 18. World View. Gallery. TakingaBalloonRidetotheEdgeofSpace:Photos. View Caption +. World View, an offshoot of privately&nbsp;...and more&nbsp;&raquo;...
 

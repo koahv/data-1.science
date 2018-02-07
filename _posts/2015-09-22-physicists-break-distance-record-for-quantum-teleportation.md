@@ -8,6 +8,9 @@ tags: [quantum physics]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers at the National Institute of Standards and Technology (NIST) have "teleported" or transferred quantum information carried in light particles over 100 kilometers (km) of optical fiber, four times farther than the previous record....
 

@@ -8,6 +8,9 @@ tags: [Plate tectonics, Earth, Crust (geology), Geomagnetic reversal, Space scie
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA’s Swarm satellites are seeing fine details in one of the most difficult layers of Earth’s magnetic field to unpick – as well as our planet’s magnetic history imprinted on Earth’s crust....
 

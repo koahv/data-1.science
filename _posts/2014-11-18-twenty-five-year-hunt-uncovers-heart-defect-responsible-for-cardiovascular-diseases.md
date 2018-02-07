@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The landmark discovery of a tiny defect in a vital heart protein has for the first time enabled heart specialists to accurately pinpoint a therapeutic target for future efforts in developing a drug-based cure for cardiovascular diseases....
 

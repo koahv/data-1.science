@@ -8,6 +8,9 @@ tags: [Quantum entanglement, Photon, Quantum network, Mechanics, Technology, The
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Centre for Quantum Technologies at the National University of Singapore) Researchers at the National University of Singapore and University of Strathclyde, UK, report first data from a satellite that is testing technology for a global quantum network....
 

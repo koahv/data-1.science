@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Cornell University) A new study identifies the gene duplication that causes cucumber varieties produce only female flowers -- a high-yeild variety....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Netflix open sources its Amazon cloud security enforcerNetwork WorldThe move to release an open source version of Security Monkey follows a long line of Netflix releasing tools to the general public. It has released more than three dozen other features such as a fault tolerance testing mechanism named Chaos Monkey as well....
 

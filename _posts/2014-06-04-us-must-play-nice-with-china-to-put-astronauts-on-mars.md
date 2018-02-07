@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >If NASA wants to help humanity survive in the long term, it needs to send people to Mars &ndash; but how will the space agency afford the trip?...
 

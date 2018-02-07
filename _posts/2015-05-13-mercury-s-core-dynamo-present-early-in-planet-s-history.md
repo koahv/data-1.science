@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(American Association for the Advancement of Science) The Messenger spacecraft, which crash-landed into Mercury just a few days ago, found traces of magnetization in Mercury's crust, a new study reports....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A new twist on an old tool lets scientists use light to study and control matter with 1,000 times better resolution and precision than previously possible. Physicists have demonstrated "ponderomotive spectroscopy," which allows researchers to peer more deeply into the structure of atoms and direct their behavior at a much finer scale. The new technique could have applications in quantum computing....
 

@@ -8,6 +8,9 @@ tags: [Battery (electricity), Lithium-ion battery, Technology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >DNV GL yesterday said that it has created the first testing-based verification of battery lifetime for lithium-ion batteries....
 

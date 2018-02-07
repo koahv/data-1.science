@@ -8,6 +8,9 @@ tags: [Andromeda Galaxy, Neutron star, Star, Pulsar, Milky Way, Astronomy, XMM-N
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Decades of searching in the Milky Way’s nearby ‘twin’ galaxy Andromeda have finally paid off, with the discovery of an elusive breed of stellar corpse, a neutron star, by ESA’s XMM-Newton space telescope....
 

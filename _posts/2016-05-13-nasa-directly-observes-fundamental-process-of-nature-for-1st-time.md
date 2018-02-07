@@ -8,6 +8,9 @@ tags: [Magnetic reconnection, Magnetosphere, Electron, Magnetic field, Sun, Appl
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsLike sending sensors up into a hurricane, NASA has flown four spacecraft through an invisible maelstrom in space, called magnetic reconnection. Magnetic reconnection is one of the...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 

@@ -8,6 +8,9 @@ tags: [Biological pump, Carbon cycle, Ocean, Earth sciences, Oceanography, Physi
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A scientific plan to measure the ocean's carbon cycle has been developed, including a way to predict its future conditions, which have implications for climate change....
 

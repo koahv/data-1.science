@@ -8,6 +8,9 @@ tags: [Bacteria, Infection, Healing, Burn, Pseudomonas aeruginosa, Antimicrobial
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Ecole Polytechnique Fédérale de Lausanne) A new generation of biological infection-fighting bandages could reduce the death rate among victims of serious burns. This technology, which EPFL helped develop, is the result of close collaboration among Swiss burn specialists....
 

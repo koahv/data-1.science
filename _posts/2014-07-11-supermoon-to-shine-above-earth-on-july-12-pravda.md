@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Washington PostSupermoon to shine above Earth on July 12PravdaOn July 12 overnight, one will be able to eyewitness a remarkable astronomical phenomenon known as the Supermoon. The phenomenon occurs when full moon coincides with the moment of closest distance between the Earth and the Moon.Full moon will be &#39;super&#39; on Saturday during close passage to Earth; 2 more ...Minneapolis Star TribuneA trio of Super Moons is gracing our summer skiesThe Weather NetworkSupermoon returns tonightKRCGLivingston Daily&nbsp;-Greek Reporter&nbsp;-DCist.comall 78 news articles&nbsp;&raquo;...
 

@@ -8,6 +8,9 @@ tags: [linux & opensource blog]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >On May 8, the CryEngine team from Crytek published a brief announcement informing game developers about a small, yet very important modification to their EULA (End-User License Agreement). The big news is that Crytek has just confirmed that that are finally planning on supporting the Linux platform, and most probably the highly ant... (read more)...
 

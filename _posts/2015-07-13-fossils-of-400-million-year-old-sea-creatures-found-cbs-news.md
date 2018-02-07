@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >CBS NewsFossils of 400-million-year-old sea creatures foundCBS NewsMorocco&#39;s vast, rocky deserts were once covered with oceans teeming with life during the Ordovician period, about 485 million to 444 million years ago, a new study finds. But these stunning animals, now fossilized in mineralized splotches of violet ......
 

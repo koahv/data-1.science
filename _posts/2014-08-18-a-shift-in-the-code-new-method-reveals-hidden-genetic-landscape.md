@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >With three billion letters in the human genome, it seems hard to believe that adding or removing a base could have much of an effect on our health. Yet, such insertions and deletions can dramatically alter biological function. It is has been difficult to detect these mutations. Scientists have devised a new way to analyze genome sequences that pinpoints insertions and deletions in people with diseases such as autism, obsessive compulsive disorder, and Tourette syndrome....
 

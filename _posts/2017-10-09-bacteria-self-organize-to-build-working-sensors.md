@@ -8,6 +8,9 @@ tags: [Bacteria, Cell (biology), Protein, Artificial objects, Organisms, Biology
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Duke University) By programming bacteria with a synthetic gene circuit that can recruit gold nanoparticles to the surface of their colony, Duke researchers can build functional devices. A proof-of-concept study appearing in Nature Biotechnology uses this technique to build dome-shaped pressure sensors with the help of living bacteria....
 

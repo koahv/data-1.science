@@ -8,6 +8,9 @@ tags: [Magnetosphere, Uranus, Solar wind, Planet, Exoplanet, Magnetic reconnecti
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The ice-giant's magnetosphere opens and closes on a daily basis...
 

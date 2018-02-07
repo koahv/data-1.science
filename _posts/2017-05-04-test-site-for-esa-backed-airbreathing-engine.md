@@ -8,6 +8,9 @@ tags: [SABRE (rocket engine), Rocket, Spacecraft propulsion, Ballistics, Industr
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Work began today on building the UK’s latest rocket engine test facility, designed for firing the engine core of the ESA-backed SABRE propulsion system within three years....
 

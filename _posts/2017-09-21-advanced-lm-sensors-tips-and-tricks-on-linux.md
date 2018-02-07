@@ -8,6 +8,9 @@ tags: [Central processing unit, Device driver, Motherboard, Rpm (software), Linu
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Title:&nbsp;Advanced lm-sensors Tips and Tricks on Linux21 SepLearn more...
 

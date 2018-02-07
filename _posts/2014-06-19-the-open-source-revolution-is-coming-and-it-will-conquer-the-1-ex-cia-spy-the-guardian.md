@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The GuardianThe open source revolution is coming and it will conquer the 1% - ex CIA spyThe GuardianOpen source everything, in this context, offers us the chance to build on what we&#39;ve learned through industrialisation, to learn from our mistakes, and catalyse the re-opening of the commons, in the process breaking the grip of defunct power structures ......
 

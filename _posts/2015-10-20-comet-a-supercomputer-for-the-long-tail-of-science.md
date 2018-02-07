@@ -8,6 +8,9 @@ tags: [Science, National Science Foundation, Research, Computing, Cyberinfrastru
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(National Science Foundation) The San Diego Supercomputer Center (SDSC) at the University of California, San Diego this week formally launched 'Comet,' a new petascale supercomputer designed to transform scientific research by expanding computational access among a larger number of researchers and across a wider range of domains....
 

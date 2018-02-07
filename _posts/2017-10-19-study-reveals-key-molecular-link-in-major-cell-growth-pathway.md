@@ -8,6 +8,9 @@ tags: [Protein, Lysosome, Cell (biology), Mechanistic target of rapamycin, Natio
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Whitehead Institute for Biomedical Research) A team of scientists led by Whitehead Institute has uncovered a surprising molecular link that connects how cells regulate growth with how they sense and make available the nutrients required for growth. The researchers' findings also implicate a new protein, SLC38A9, as a potential drug target in pancreatic cancer....
 

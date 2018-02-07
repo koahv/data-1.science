@@ -8,6 +8,9 @@ tags: [Chemical reaction, Sodium hydroxide, Organic synthesis, Chemical substanc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists from RUDN University with their colleagues from Yaroslavl have developed a new way to synthesize 1,2,4-oxadiazole derivatives used in many drugs. 1,2,4-oxadiazoles include ataluren, the active ingredient of a drug used in a treatment for genetic disorders. The results of the work are published in Tetrahedron Letters....
 

@@ -8,6 +8,9 @@ tags: [Smart city, Artificial objects, Business, Technology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >BlogMany developed countries around the world are striving to establish their own concept of “smart cities,” even though there is not yet a clear-cut, universal definition. According to the Smart Cities Council, a smart city is...Contributed Author:&nbsp;Rosa Trieu, Line/Shape/SpaceTopics:&nbsp;IoT...
 

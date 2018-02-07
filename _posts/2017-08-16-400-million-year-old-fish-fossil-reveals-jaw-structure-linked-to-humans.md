@@ -8,6 +8,9 @@ tags: [Placodermi, Fossil, Evolution of fish]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A new study from ANU on a 400 million year old fish fossil has found a jaw structure that is part of the evolutionary lineage linked to humans....
 

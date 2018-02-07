@@ -8,6 +8,9 @@ tags: [Disease, Machine learning, Hoarse voice, National Institutes of Health, C
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Massachusetts Institute of Technology, CSAIL ) A team from MIT's Computer Science and Artificial Intelligence Laboratory and Massachusetts General Hospital has developed a wearable device that can tell if a user is misusing their voice and potentially someday be used to help detect vocal disorders....
 

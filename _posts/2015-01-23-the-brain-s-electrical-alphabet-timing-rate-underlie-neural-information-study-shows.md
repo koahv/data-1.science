@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The brain’s alphabet is a mix of rate and precise timing of electrical pulses, researchers have revealed. The study shows that the nervous system features a “multichannel” language that makes up the neural code, or the alphabet that processes information in the brain....
 

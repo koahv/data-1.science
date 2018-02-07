@@ -8,6 +8,9 @@ tags: [space exploration]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA's Rosetta today witnessed Comet 67P/Churyumov–Gerasimenko making its closest approach to the sun. The exact moment of perihelion occurred at 02:03 GMT this morning when the comet came within 186 million km of the sun....
 

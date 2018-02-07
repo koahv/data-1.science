@@ -8,6 +8,9 @@ tags: [Microbiota, Technology, Disease, Human microbiota, Synthetic biology, Eng
 ---
 
 
+#### Digest
+>Human genome editing, 3D-printed replacement organs and artificial photosynthesis - the field of bioengineering offers great promise for tackling the major challenges that face our society. But as a new article out today highlights, these developments provide both opportunities and risks in the short and long term. Dr Jenny Molloy comments: "One theme that emerged repeatedly was that of inequality of access to the technology and its benefits. The rise of open source, off-patent tools could enable widespread sharing of knowledge within the biological engineering field and increase access to benefits for those in developing countries."
+
 #### Extract
 >(University of Cambridge) Human genome editing, 3-D-printed replacement organs and artificial photosynthesis - the field of bioengineering offers great promise for tackling the major challenges that face our society. But as a new article out today highlights, these developments provide both opportunities and risks in the short and long term....
 

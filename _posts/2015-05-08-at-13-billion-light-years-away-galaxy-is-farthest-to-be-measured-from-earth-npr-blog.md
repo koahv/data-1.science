@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NPR (blog)At 13 Billion Light-Years Away, Galaxy Is Farthest To Be Measured From EarthNPR (blog)A new glimpse of what the universe looked like in its youth has been captured, thanks to researchers who determined that light from the galaxy known as EGS-zs8-1 has spent more than 13 billion years traveling to reach us here on Earth. The blue galaxy&nbsp;...and more&nbsp;&raquo;...
 

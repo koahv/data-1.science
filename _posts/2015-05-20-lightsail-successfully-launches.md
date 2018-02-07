@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The first of Bill Nye’s two LightSails took off from Cape Canaveral at 11:05 a.m.Read more about LightSail Successfully Launches Comments...
 

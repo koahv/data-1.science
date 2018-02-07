@@ -8,6 +8,9 @@ tags: [earth sciences, Atom, Planetary core, Earth, Iron, Metal, Crystal structu
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Without a magnetic field life on Earth would be rather uncomfortable: Cosmic particles would pass through our atmosphere in large quantities and damage the cells of all living beings. Technical systems would malfunction frequently and electronic components could be destroyed completely in some cases....
 

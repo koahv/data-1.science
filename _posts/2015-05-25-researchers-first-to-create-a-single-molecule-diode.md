@@ -8,6 +8,9 @@ tags: [nanotechnology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Under the direction of Latha Venkataraman, associate professor of applied physics at Columbia Engineering, researchers have designed a new technique to create a single-molecule diode, and, in doing so, they have developed molecular diodes that perform 50 times better than all prior designs. Venkataraman's group is the first to develop a single-molecule diode that may have real-world technological applications for nanoscale devices. Their paper, "Single-Molecule Diodes with High On-Off Ratios through Environmental Control," is published May 25 in Nature Nanotechnology....
 

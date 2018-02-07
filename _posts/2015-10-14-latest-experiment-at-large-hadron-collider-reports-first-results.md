@@ -8,6 +8,9 @@ tags: [Subatomic particle, Compact Muon Solenoid, Large Hadron Collider, Collide
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >After a two-year hiatus, the Large Hadron Collider, the largest and most powerful particle accelerator in the world, began its second run of experiments in June, smashing together subatomic particles at 13 teraelectronvolts (TeV)—the highest energy ever achieved in a laboratory. Physicists hope that such high-energy collisions may produce completely new particles, and potentially simulate the conditions that were seen in the early universe....
 

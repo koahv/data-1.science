@@ -8,6 +8,9 @@ tags: [Plant, Arbuscular mycorrhiza, Life sciences, Biology, Organisms, Nature, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(John Innes Centre) A team of scientists from the John Innes Centre, the University of Wisconsin - Madison and other international collaborators, has discovered how an ancient alga was able to inhabit land, before it went on to evolve into the world's first plant and colonize the earth....
 

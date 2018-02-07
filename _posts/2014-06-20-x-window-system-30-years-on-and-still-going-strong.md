@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >It's been thirty years since the birth of the X Window System. Here's what I remember of those early days....
 

@@ -8,6 +8,9 @@ tags: [Proxima Centauri b, Proxima Centauri, European Southern Observatory, Astr
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ArticleUsing readings from high-precision telescopes, scientists have detected a potentially Earthlike planet in the habitable zone of Proxima Centauri, the nearest star to our sun. The European Southern Observatory (ESO) announced...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace...
 

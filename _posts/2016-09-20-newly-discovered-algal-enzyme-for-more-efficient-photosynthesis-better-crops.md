@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >For plants and algae that carry on photosynthesis, light can be too much of a good thing. On a bright, sunny day, a plant might only be able to utilize 20 percent or less of absorbed sunlight. The plant dissipates the excess light energy to prevent damage and oxidative stress, and a process called the xanthophyll cycle helps to flip the switch between energy dissipation and energy utilization....
 

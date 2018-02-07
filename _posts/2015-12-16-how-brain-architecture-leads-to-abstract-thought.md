@@ -8,6 +8,9 @@ tags: [Deep learning, Brain, Artificial intelligence, Functional magnetic resona
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Massachusetts at Amherst) Using 20 years of functional magnetic resonance imaging (fMRI) data from tens of thousands of brain imaging experiments, computational neuroscientists Hava Siegelmann and a postdoctoral colleague at the University of Massachusetts have created a geometry-based method for massive data analysis to reach a new understanding of how thought arises from brain structure....
 

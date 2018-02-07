@@ -8,6 +8,9 @@ tags: [El Niño, La Niña, Drought, Ice age, Physical geography, Applied and int
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Some 60 million people worldwide need assistance due to havoc wreaked by the El Nino climate phenomenon, but a shortage of funding could threaten the delivery of life-saving aid, the UN warned Tuesday....
 

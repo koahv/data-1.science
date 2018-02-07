@@ -8,11 +8,14 @@ tags: [Antarctica, Scott Base, Ross Ice Shelf, Underwater diving, McMurdo Statio
 ---
 
 
+#### Digest
+>"The objective of this diving expedition is to examine the sensitivity of Antarctic seafloor communities to climate change," Norkko said.
+
 #### Extract
 >Scientists will spend six weeks diving beneath the Ross Ice Shelf, exploring how climate change affects marine biodiversity while documenting their work through social media and in 360-degree video....
 
 #### Factsheet
->"The objective of this diving expedition is to examine the sensitivity of Antarctic seafloor communities to climate change," Norkko said.
+>factsheet unavailable
 
 [Visit Link](https://www.livescience.com/60802-explorers-dive-beneath-antarctic-ice.html)
 

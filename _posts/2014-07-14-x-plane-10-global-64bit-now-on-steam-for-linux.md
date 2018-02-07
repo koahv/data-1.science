@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >X-Plane 10 Global 64bit is now on Steam for Linux and promises a rather expensive flight simulator experience....
 

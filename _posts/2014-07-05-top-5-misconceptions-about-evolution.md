@@ -8,6 +8,9 @@ tags: [evolution and biology, science, creationism, darwin, evolution, natural s
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >There are a number of individuals who refuse to accept the science behind evolution. Although everyone should have a healthy dose of skepticism, unfortunately, a lot of individuals reject evolution because of misunderstandings and misconceptions related to the theory. Fortunately, there are a number of individuals who are working to correct the inaccuracies and help people better understand the theory of evolution. This is where Caleb Trujillo, a Ph.D student at Purdue University, comes in. Trujillo posted this infographic that explains the top five misconceptions about evolution. Check them out and get the real science behind the theory of Evolution. &nbsp; &nbsp; &nbsp;...
 

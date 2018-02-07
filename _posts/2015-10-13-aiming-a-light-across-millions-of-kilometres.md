@@ -8,6 +8,9 @@ tags: [European Space Agency, Free-space optical communication, Laser, Lunar Atm
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Imagine beaming a light across millions of kilometres of empty space, all the way back to Earth. ESA’s proposed Asteroid Impact Mission is intended to do just that: demonstrate laser communications across an unprecedented void....
 

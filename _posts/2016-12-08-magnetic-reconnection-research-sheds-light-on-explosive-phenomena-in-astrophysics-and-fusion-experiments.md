@@ -8,6 +8,9 @@ tags: [Magnetic reconnection, Plasma (physics), Physics, Aurora, Solar flare, En
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists are closer than ever to unraveling a process called magnetic reconnection that triggers explosive phenomena throughout the universe. Solar flares, northern lights and geomagnetic storms that can disrupt cell phone service and black out power grids are all set off by magnetic field lines that converge, break apart and violently reconnect in ways that are not fully understood....
 

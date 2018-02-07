@@ -8,6 +8,9 @@ tags: [University of Texas Southwestern Medical Center, Infant, Neuroimaging, Am
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Texas at Arlington) A University of Texas at Arlington bioengineering professor and her team will integrate a portable brain imaging system with an advanced signal-processing technique for newborns that will better measure the babies' neurophysiology in real time, providing physicians the analysis needed to treat encephalopathy or brain swelling more quickly....
 

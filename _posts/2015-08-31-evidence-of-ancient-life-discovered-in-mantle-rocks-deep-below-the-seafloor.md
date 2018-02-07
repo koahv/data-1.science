@@ -8,6 +8,9 @@ tags: [earth sciences]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Ancient rocks harbored microbial life deep below the seafloor, reports a team of scientists from the Woods Hole Oceanographic Institution (WHOI), Virginia Tech, and the University of Bremen. This new evidence was contained in drilled rock samples of Earth's mantle - thrust by tectonic forces to the seafloor during the Early Cretaceous period. The new study was published today in the Proceedings of the National Academy of Sciences....
 

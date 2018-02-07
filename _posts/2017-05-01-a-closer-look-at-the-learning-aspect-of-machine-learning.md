@@ -8,6 +8,9 @@ tags: [Python (programming language), Cloud computing, Machine learning, Technol
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >This piece is the latest in a series, called “Machine Learning Is Not Magic,” covering how to get started in machine learning, using familiar tools such as Excel, Python, Jupyter Notebooks and cloud services from Azure and Amazon Web Services. Check back here each Friday for future installments. ...
 

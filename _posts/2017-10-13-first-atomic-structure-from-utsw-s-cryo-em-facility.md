@@ -8,6 +8,9 @@ tags: [University of Texas Southwestern Medical Center, Cryo-electron microscopy
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(UT Southwestern Medical Center) UT Southwestern Medical Center researchers today published a 3-D atomic structure of the ion channel found in mammals that is implicated in a rare, inherited neurodegenerative disease in humans....
 

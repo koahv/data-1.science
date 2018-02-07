@@ -8,6 +8,9 @@ tags: [Star, Sun, Cygnus (constellation), Stellar astronomy, Astronomical object
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Space science image of the week: A young star in the final stages of birth offers a glimpse at the way our Sun formed 4.6 billion years ago...
 

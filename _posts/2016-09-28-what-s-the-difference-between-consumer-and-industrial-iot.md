@@ -8,6 +8,9 @@ tags: [Internet of things, Telecommunications, Computing, Technology, Digital te
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Internet of Things is invading everything from consumer to industrial products, but all platforms are not created equal....
 

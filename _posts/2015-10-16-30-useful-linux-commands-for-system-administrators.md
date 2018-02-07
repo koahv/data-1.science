@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&nbsp;tecmint: A compact list of commands to refer when needed....
 

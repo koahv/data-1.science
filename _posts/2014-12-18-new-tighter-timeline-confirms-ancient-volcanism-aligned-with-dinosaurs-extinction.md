@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A definitive geological timeline shows that a series of massive volcanic explosions 66 million years ago played a role in the extinction event that claimed Earth's non-avian dinosaurs, and challenges the dominant theory that a meteorite impact was the sole cause of the extinction....
 

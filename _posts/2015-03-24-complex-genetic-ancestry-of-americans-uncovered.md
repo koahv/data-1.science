@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >By comparing the genes of current-day North and South Americans with African and European populations, an Oxford University study has found the genetic fingerprints of the slave trade and colonisation that shaped migrations to the Americas hundreds of years ago....
 

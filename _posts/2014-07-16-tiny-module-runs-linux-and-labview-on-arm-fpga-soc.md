@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >National Instruments unveiled a 2 x 3-inch module that runs real-time Linux on a Xilinx hybrid ARM/FPGA SoC, and can be programmed graphically with LabView. NI’s new “sbRIO-9651″ system-on-module is aimed at simplifying the design of custom data acquisition and control systems, by offering full compatibility with the NI LabView......
 

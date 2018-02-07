@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsNASA is another small step closer to sending astronauts on a journey to Mars. On Saturday, engineers at the agency’s Michoud Assembly Facility in New Orleans welded together the ... Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 

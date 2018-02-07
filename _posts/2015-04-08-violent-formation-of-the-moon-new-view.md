@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists have reconciled the accepted model of the moon's formation with the unexpectedly similar isotopic fingerprints of both bodies. The results suggest that the impact that formed the moon was so violent, the resulting debris cloud mixed thoroughly before settling down and forming the moon....
 

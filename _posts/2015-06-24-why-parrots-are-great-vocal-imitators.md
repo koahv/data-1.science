@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists have uncovered key structural differences in parrot brains that may help explain why this group of bird species can mimic speech and songs so well. These brain structures went unrecognized in studies published in the past 34 years. The results may lend insight into the neural mechanisms of human speech....
 

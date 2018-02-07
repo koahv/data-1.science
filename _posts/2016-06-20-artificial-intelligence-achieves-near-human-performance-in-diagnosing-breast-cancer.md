@@ -8,6 +8,9 @@ tags: [Artificial intelligence, Pathology, Cancer, Deep learning, Cognition, Cog
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Pathologists have been largely diagnosing disease the same way for the past 100 years, by manually reviewing images under a microscope. But new work suggests that computers can help doctors improve accuracy and significantly change the way cancer and other diseases are diagnosed....
 

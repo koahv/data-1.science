@@ -8,6 +8,9 @@ tags: [Ligand (biochemistry), Cell (biology), Cell signaling, Cellular communica
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A team of Caltech scientists has uncovered a molecular code that cells use to communicate with each other. This "language" is thought to be common to many types of cellular communication and has implications for designing future therapies, according to scientists in the laboratory of Michael Elowitz, professor of biology and bioengineering at Caltech and an investigator with the Howard Hughes Medical Institute....
 

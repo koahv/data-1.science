@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >     The vast reaches of empty space between galaxies are bridged by tendrils of hydrogen and helium, which can be used as a precise "light meter." In a recent study published in The Astrophysical Journal Letters, a team of scientists finds that the light from known populations of galaxies and quasars is not nearly enough to explain observations of intergalactic hydrogen. The difference is a stunning 400 percent. "The most exciting possibility is that the missing photons are coming from some exotic new source, not galaxies or quasars at all," said Neal Katz a co-author from the University of Massachusetts at Amherst. For example, the mysterious dark matter, which holds galaxies together but has never been seen directly, could itself dec...
 

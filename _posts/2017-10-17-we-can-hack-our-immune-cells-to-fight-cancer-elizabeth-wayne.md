@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >After decades of research and billions spent in clinical trials, we still have a problem with cancer drug delivery, says biomedical engineer Elizabeth Wayne. Chemotherapy kills cancer -- but it kills the rest of your body, too. Instead of using human design to fight cancer, why not use nature's? In this quick talk, Wayne explains how her lab is creating nanoparticle treatments that bind to immune cells, your body's first responders, to precisely target cancer cells without damaging healthy ones....
 

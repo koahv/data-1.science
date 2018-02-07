@@ -8,6 +8,9 @@ tags: [space exploration]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The brightest spots on the dwarf planet Ceres gleam with mystery in new views delivered by NASA's Dawn spacecraft. These closest-yet views of Occator crater, with a resolution of 450 feet (140 meters) per pixel, give scientists a deeper perspective on these very unusual features....
 

@@ -8,6 +8,9 @@ tags: [Sodium channel, Ion channel, Heart arrhythmia, Heart, Sodium, Light, Volt
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Genetically modified cells could provide insights into heart disease and lead to biological computers...
 

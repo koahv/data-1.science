@@ -8,6 +8,9 @@ tags: [Optogenetics, Bioluminescence, Neuron, Luciferase, Neuroscience, Biology,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Vanderbilt University) A team of Vanderbilt scientists have genetically modified luciferase, the enzyme that produces bioluminescence, so that it acts as an optical sensor that records activity in brain cells....
 

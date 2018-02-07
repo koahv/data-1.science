@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In an environment where others struggle to survive, Tibetans thrive in the thin air of the Tibetan Plateau, with an average elevation of 14,800 feet. A new study is the first to find a genetic cause for the adaptation and demonstrate how it contributes to the Tibetans’ ability to live in low oxygen conditions....
 

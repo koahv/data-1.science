@@ -8,6 +8,9 @@ tags: [Climate, Climate change, Ocean, Weather forecasting, National Oceanic and
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The ocean plays a critical role in climate and weather, serving as a massive reservoir of heat and water that influences tropical storms, El Nin?o, and climate change. In addition, the ocean has absorbed 30 percent of the carbon dioxide associated with human activities, lessening the climate effects of fossil fuel combustion....
 

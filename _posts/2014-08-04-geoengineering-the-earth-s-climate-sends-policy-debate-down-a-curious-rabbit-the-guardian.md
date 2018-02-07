@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The GuardianGeoengineering the Earth&#39;s climate sends policy debate down a curious rabbit ...The GuardianSolar Radiation Management (SRM) techniques are concepts to try and reduce the amount of solar energy reaching the earth. Think pumping sulphate particles into the atmosphere (this mimics major volcanic eruptions that have a cooling effect on the ......
 

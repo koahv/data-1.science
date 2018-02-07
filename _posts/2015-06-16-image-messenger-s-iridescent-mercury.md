@@ -8,6 +8,9 @@ tags: [astronomy & space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >To the human eye, Mercury may resemble a dull, grey orb but this enhanced-colour image from NASA's Messenger probe, tells a completely different story. Swathes of iridescent blue, sandy-coloured plains and delicate strands of greyish white, create an ethereal and colourful view of our Solar System's innermost planet....
 

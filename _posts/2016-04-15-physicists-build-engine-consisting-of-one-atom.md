@@ -8,6 +8,9 @@ tags: [Engine, Physics, Heat engine, Atom, Heat, Energy, Thermodynamics, Nanotec
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Johannes Gutenberg Universitaet Mainz) An article in the latest edition of the journal Science describes an innovative form of heat engine that operates using only one single atom. The engine is the result of experiments undertaken by the QUANTUM work group at the Institute of Physics of Johannes Gutenberg University Mainz (JGU) in collaboration with theoretical physicists of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)....
 

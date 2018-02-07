@@ -8,6 +8,9 @@ tags: [In situ resource utilization, Carbon dioxide, Mars, Nature, Outer space, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Plasma technology could hold the key to creating a sustainable oxygen supply on Mars, a new study has found....
 

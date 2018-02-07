@@ -8,6 +8,9 @@ tags: [Language, Natural language processing, Artificial intelligence, Machine t
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Earlier this year, Christopher Manning, a Stanford professor of computer science and of linguistics, was named the Thomas M. Siebel Professor in Machine Learning, thanks to a gift from the Thomas and Stacey Siebel Foundation....
 

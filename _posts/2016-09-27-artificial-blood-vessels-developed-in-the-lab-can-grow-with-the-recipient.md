@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Biomedical engineers, artificial blood vessels bioengineered in the lab and implanted in young lambs are capable of growth within the recipient, a groundbreaking new study demonstrates. If confirmed in humans, these new vessel grafts would prevent the need for repeated surgeries in some children with congenital heart defects....
 

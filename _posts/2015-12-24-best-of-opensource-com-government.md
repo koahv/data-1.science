@@ -8,6 +8,9 @@ tags: [Open-source model, Open-source software, European Union, Innovation, Red 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Each year, I reflect on Opensource.com's top government stories of the year. I look for trends among our most popular stories. Stories about new tools and applications generally top the list, as well as, case studies detailing how governments are implementing those tools. read more...
 

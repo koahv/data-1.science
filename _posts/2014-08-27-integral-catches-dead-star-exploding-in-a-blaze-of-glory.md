@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Astronomers using ESA’s&nbsp;Integral gamma-ray observatory have demonstrated beyond doubt that dead stars known as white dwarfs can reignite and explode as supernovae.&nbsp;The finding came after the unique signature of gamma rays from the radioactive elements created in one of these explosions was captured for the first time.&nbsp;...
 

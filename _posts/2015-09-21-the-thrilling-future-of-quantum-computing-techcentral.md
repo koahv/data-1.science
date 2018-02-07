@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >TechCentralThe thrilling future of quantum computingTechCentralAs John von Neumann once said: “You don&#39;t understand quantum mechanics, you just get used to it.” Much of electronics is based on quantum physics, and the application of quantum theory to computing could open up huge possibilities for the complex&nbsp;...and more&nbsp;&raquo;...
 

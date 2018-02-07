@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >VANDENBERG AIR FORCE BASE, Calif. (AP) — A rocket carrying a NASA satellite lit up the pre-dawn skies Wednesday on a mission to track atmospheric carbon dioxide, the chief culprit behind global warming....
 

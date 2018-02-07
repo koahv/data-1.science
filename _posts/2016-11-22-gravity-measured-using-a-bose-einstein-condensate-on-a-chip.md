@@ -8,6 +8,9 @@ tags: [Bose–Einstein condensate, Gravimeter, Gravity, Physical sciences, Mecha
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >New high-precision gravimeter could be deployed in a backpack...
 

@@ -8,6 +8,9 @@ tags: [Majorana fermion, Superconductivity, Fermion, Condensed matter physics, M
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Science China Press) Majorana fermion can serve as the building block of fault tolerant topological quantum computing. As a result, Majorana fermion drew great attention recently in the condensed matter physics. The current state research of Majorana fermion was published in a review article in Science China Physics, Mechanics & Astronomy....
 

@@ -8,6 +8,9 @@ tags: [Scientific method, Employment, Management, Psychological concepts, Episte
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ArticleThe concept of a process is simple. A repeatable set of steps that reliably accomplish a goal. Unfortunately, the term “process” is reviled by many because they perceive processes as burdensome, overbearing... Staff Author:&nbsp;Doug RingerTopics:&nbsp;R&amp;D...
 

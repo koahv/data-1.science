@@ -8,6 +8,9 @@ tags: [Machine learning, Image segmentation, Radiology, Supercomputer, Computing
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Texas at Austin, Texas Advanced Computing Center) Researchers from the University of Texas at Austin developed a brain tumor identification method that combines biophysical models of tumor growth with machine learning algorithms. The researchers scored in the top 25 percent of participants in the Multimodal Brain Tumor Segmentation Challenge 2017 (BRaTS'17) and used supercomputers at the Texas Advanced Computing Center to accelerate the training and analysis process....
 

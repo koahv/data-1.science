@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The 2014 Nobel Prize in Physiology or Medicine has been awarded to John O´Keefe, May-Britt Moser and Edvard I. Moser for their discoveries of cells that constitute a positioning system in the brain. The discoveries have solved a problem that has occupied philosophers and scientists for centuries -- how does the brain create a map of the space surrounding us and how can we navigate our way through a complex environment?...
 

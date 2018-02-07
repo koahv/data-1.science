@@ -8,6 +8,9 @@ tags: [Bit, Computer data storage, Atom, Moores law, Quantum mechanics, Scanning
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Institute for Basic Science) One bit of digital information can now be successfully stored in an individual atom. This result is a breakthrough in the miniaturization of storage media and has the potential to serve as a basis for quantum computing....
 

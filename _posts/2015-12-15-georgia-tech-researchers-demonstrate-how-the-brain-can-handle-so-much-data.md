@@ -8,6 +8,9 @@ tags: [Machine learning, Artificial neural network, Science, Computer vision, Th
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Georgia Institute of Technology) Researchers at Georgia Tech discovered that humans can categorize data using less than 1 percent of the original information, and validated an algorithm to explain human learning -- a method that also can be used for machine learning, data analysis and computer vision....
 

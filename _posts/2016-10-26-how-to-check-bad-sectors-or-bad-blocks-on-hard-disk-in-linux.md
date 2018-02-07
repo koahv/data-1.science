@@ -8,6 +8,9 @@ tags: [Disk sector, S.M.A.R.T., Badblocks, Bad sector, Ext3, Flash memory, File 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Let us start by defining a bad sector/block, it&#8217;s a section on a disk drive or flash memory that can not be read from or written to anymore, as a result of a fixed&#46;&#46;&#46;...
 

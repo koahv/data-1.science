@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The significance of copying and note-taking in the classroom has been studied by researchers including a view on how it affects the learning of Dyslexic children. "Classroom learning is the bedrock of school education, which relies heavily on copying and note-taking. Copying from a board presents serious difficulties to learners with dyslexia," said the main study's author....
 

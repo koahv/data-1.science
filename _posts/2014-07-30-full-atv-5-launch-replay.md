@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Watch the full launch and lead-up to the Ariane 5 launch with ESA's last Automated Transfer Vehicle...
 

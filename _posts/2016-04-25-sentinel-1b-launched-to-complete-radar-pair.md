@@ -8,6 +8,9 @@ tags: [Sentinel-1A, CubeSat, CNES, European Space Agency, Astronautics, Satellit
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The second Sentinel-1 satellite – Sentinel-1B – was launched today to provide more ‘radar vision’ for Europe’s environmental Copernicus programme....
 

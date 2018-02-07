@@ -8,6 +8,9 @@ tags: [earth]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org) —The passageway that links the Pacific Ocean to the Indian Ocean is acting differently because of climate change, and now its new behavior could, in turn, affect climate in both ocean basins in new ways....
 

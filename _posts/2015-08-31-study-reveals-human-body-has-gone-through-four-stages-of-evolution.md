@@ -8,6 +8,9 @@ tags: [archaeology & fossils]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Research into 430,000-year-old fossils collected in northern Spain found that the evolution of the human body's size and shape has gone through four main stages, according to a paper published this week....
 

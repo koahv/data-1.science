@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) Scientists found that the CME contained a rare piece of dense solar filament material. This filament coupled with an unusually fast speed led to the large amount of solar material observed....
 

@@ -8,6 +8,9 @@ tags: [Thomas Pesquet, Astronaut, International Space Station, European Space Ag
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA astronaut Thomas Pesquet landed on the steppe of Kazakhstan today with Russian commander Oleg Novitsky in their Soyuz MS-03 spacecraft after six months in space. Touchdown was at 14:10 GMT after a four-hour flight from the International Space Station....
 

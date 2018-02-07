@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Stunning Creatures of the White Sea (PHOTOS) | The Weather ChannelThe Weather ChannelPhotographer Alexander Semenov dives deep into the freezing waters of Russia&#39;s White Sea to capture thousands of images of stunning Arctic underwater life. At the White Sea winters are long and dark, with temperatures as low as minus 13 degrees&nbsp;......
 

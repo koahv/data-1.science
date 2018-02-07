@@ -8,6 +8,9 @@ tags: [Decision-making, Brain, Neuroscience, Psychological concepts, Nervous sys
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Cambridge) Researchers have built the first biologically realistic mathematical model of how the brain plans and learns when faced with a complex decision-making process....
 

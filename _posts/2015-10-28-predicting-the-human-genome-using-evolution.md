@@ -8,6 +8,9 @@ tags: [Mutation, Evolution, Genome, Human genome, Genome project, Biology, Biost
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Molecular Biology and Evolution (Oxford University Press)) By observing evolution's 'greatest hits' (and misses) and the history of the major themes and patterns of genome conservation (and divergence) across many species, Temple University professor Sudhir Kumar's approach predicts probable mutations that will be found among people and the fate of human variation....
 

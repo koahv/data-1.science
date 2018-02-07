@@ -8,6 +8,9 @@ tags: [Language, Word embedding, Artificial neural network, Machine learning, Wo
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >On a recent trip to Michigan, my friend Tim Sosa mentioned a blog post he read in which the author, Janelle Shane, describes how she built a neural network that generates color names from RGB values. I thought the idea was really neat, but I found the results underwhelming. read more...
 

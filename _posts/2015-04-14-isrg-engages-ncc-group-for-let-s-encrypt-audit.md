@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ISRG has engaged the NCC Group Crypto Services team to perform a security review of Let’s Encrypt’s certificate authority software, boulder, and the ACME protocol. NCC Group’s team was selected due to their strong reputation for cryptography expertise, which brought together Matasano Security, iSEC Partners, and Intrepidus Group. The NCC Group audit will take place prior to the general availability of Let’s Encrypt’s service, and is intended to provide additional assurance that our systems are secure. The NCC Group audit does not replace the WebTrust audit, which will happen after general availability. “I’m very much looking forward to the general availability of Let’s Encrypt - lowering the bar both technically and financially for people...
 

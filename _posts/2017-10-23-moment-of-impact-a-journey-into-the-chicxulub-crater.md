@@ -8,6 +8,9 @@ tags: [Impact event, Chicxulub crater, Impact crater, International Ocean Discov
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Geological Society of America) When the Chicxulub asteroid slammed into Earth about 66 million years ago, it obliterated 80 percent of Earth's species, blasted out a crater 200 kilometers across, and signaled an abrupt end to the Cretaceous Period. The impact, its catastrophic effects, and its aftermath have engrossed scientists and the public alike since it was first discovered....
 

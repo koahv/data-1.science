@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Alaska Public Radio NetworkResearch Sheds Light On Massive, Underwater, Deep Sea-Churning WavesAlaska Public Radio NetworkBy redistributing the deep-sea nutrients closer to the surface, the waves help replenish the shallower parts of the ocean where much of the biological activity takes place. Undersea waves require ocean stratification in order to form – meaning layers ......
 

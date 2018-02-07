@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&nbsp;linuxtechi: Command line arguments (also known as positional parameters) are the arguments specified at the command prompt with a command or script to be executed....
 

@@ -8,6 +8,9 @@ tags: [Neanderthal, Mammoth, Predation]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists have studied the Neanderthals' diet. Based on the isotope composition in the collagen from the prehistoric humans' bones, they were able to show that, while the Neanderthals' diet consisted primarily of large plant eaters such at mammoths and rhinoceroses, it also included vegetarian food....
 

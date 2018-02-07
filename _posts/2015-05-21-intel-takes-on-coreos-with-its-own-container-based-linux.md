@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Once upon a time, it was fair game for most any company to put out a Linux distribution and be described as "committed to Linux." Now the same is happening with container-based Linux distributions, such as CoreOS or Red Hat Atomic Host....
 

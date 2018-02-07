@@ -8,6 +8,9 @@ tags: [Ploidy, Genetics, Reproduction, Cell (biology), Stem cell, Chromosome, Bi
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(The Hebrew University of Jerusalem) Scientists have created a new type of embryonic stem cell that carries a single copy of the human genome, instead of the two copies typically found. These are the first human cells capable of division with just one copy of the parent cell's genome. Since the cells are a genetic match to the egg cell donor, they could be used to develop therapies for diseases in which genetically identical cells offer a therapeutic advantage....
 

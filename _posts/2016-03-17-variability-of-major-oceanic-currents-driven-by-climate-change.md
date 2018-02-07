@@ -8,6 +8,9 @@ tags: [Global warming, Thermohaline circulation, Ocean current, Climate, Atmosph
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org)—The Earth's oceanic system isn't just the big, blue puddle of water that globes suggest; its waters are stirred by a vast system called thermohaline circulation, a process driven by varying water densities, heat, and the interactions of freshwater and salt water. Thermohaline circulation moves energy and matter around the globe and drives the planet's climate, but it also responds to changing climate conditions....
 

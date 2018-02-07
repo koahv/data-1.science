@@ -8,6 +8,9 @@ tags: [Evolution, Organism, Adaptation, Saccharomyces cerevisiae, Climate change
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >More gradual environmental change slows down evolution, but does not lead to a higher degree of adaptation of organisms to their environment, conclude Wageningen University scientists in their study published in The American Naturalist....
 

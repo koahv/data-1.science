@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Going far above and beyond its original mission objectives, results from the GOCE gravity satellite are now being used to produce maps for geothermal energy development....
 

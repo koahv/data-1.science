@@ -8,6 +8,9 @@ tags: [Package manager, Fedora (operating system), Computing, Utility software, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >When making backups, coping/moving large files on your Linux system, you may want to monitor the progress of an on going operation. Many terminal tools do not have the functionality to allow you to&#46;&#46;&#46;...
 

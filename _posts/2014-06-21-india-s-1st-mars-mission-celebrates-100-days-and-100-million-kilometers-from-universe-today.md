@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >India&#39;s 1st Mars Mission Celebrates 100 Days and 100 Million Kilometers from ...Universe TodayIndia&#39;s inaugural voyager to the Red Planet, the Mars Orbiter Mission or MOM, has just celebrated 100 days and 100 million kilometers out from Mars on June 16, until the crucial Mars Orbital Insertion (MOI) engine firing that will culminate in a ......
 

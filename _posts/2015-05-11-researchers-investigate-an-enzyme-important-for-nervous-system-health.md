@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists from The Scripps Research Institute (TSRI), working closely with researchers at the National Institutes of Health (NIH), have mapped out the structure of an important protein involved in cellular function and nervous system development....
 

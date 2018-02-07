@@ -8,6 +8,9 @@ tags: [Principle of locality, Quantum entanglement, Free will, Determinism, Bell
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Random number generators developed at ICFO - The Institute of Photonic Sciences, by the groups of ICREA Professors Morgan W. Mitchell and Valerio Pruneri, played a critical role in the historic experiment was published online today in Nature by the group of Ronald Hanson at TU Delft. The experiment gives the strongest refutation to date of Albert Einstein's principle of "local realism," which says that the universe obeys laws, not chance, and that there is no communication faster than light....
 

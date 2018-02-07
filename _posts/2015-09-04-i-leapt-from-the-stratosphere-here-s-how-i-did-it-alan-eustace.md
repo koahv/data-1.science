@@ -8,6 +8,9 @@ tags: [higher education]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >On October 24, 2014, Alan Eustace donned a custom-built, 235-pound spacesuit, attached himself to a weather balloon, and rose above 135,000 feet, from which point he dove to Earth, breaking both the sound barrier and previous records for high-altitude jumps. Hear his story of how -- and why....
 

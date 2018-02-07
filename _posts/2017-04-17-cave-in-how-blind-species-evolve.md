@@ -8,6 +8,9 @@ tags: [Mexican tetra, Evolution, Biology, Evolutionary biology, Biological evolu
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Why do animals that live in caves become blind? Charles Darwin originally suggested that eyes could be lost by “disuse” over time. Now, an evolutionary biologist who wants to get to the heart of the matter may be proving Darwin wrong....
 

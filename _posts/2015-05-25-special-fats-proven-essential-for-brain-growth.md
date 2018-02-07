@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Certain special fats found in blood are essential for human brain growth and function, new research suggests. New published studies show that mutations in the protein Mfsd2a causes impaired brain development in humans. Mfsd2a is the transporter in the brain for a special type of fat called lysophosphatidylcholines (LPCs) -- composed of essential fatty acids like omega-3....
 

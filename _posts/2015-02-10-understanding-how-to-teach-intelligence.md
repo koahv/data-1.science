@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >More than ever, we need problem-solving skills to be able to adapt to our fast changing economies and societies. Researchers believe it is possible to teach these skills which are widely known as “intelligence”....
 

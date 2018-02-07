@@ -8,6 +8,9 @@ tags: [Quantum entanglement, Quantum mechanics, Photon, Optics, Light, Beam spli
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists from the Russian Quantum Center (Moscow), lead by Prof. Alexander Lvovsky, have developed a method to restore quantum entanglement and have tested this method in an experiment. This research significantly broadens the possibilities of quantum communication and quantum cryptography. The results are published in Nature Photonics....
 

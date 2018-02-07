@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Each year, the Arctic Tern travels over 40,000 miles, migrating nearly from pole to pole and back again. Other birds make similar (though shorter) journeys in search of warmer climes. How do these birds manage to traverse such great distances when we need a map just to make our way to the next town over?...
 

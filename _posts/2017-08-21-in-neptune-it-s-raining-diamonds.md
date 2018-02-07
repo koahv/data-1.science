@@ -8,6 +8,9 @@ tags: [SLAC National Accelerator Laboratory, Planet, Helmholtz-Zentrum Dresden-R
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Helmholtz-Zentrum Dresden-Rossendorf) Researchers at HZDR have managed to demonstrate 'diamond showers' forming in the ice giants of our solar system. Using the ultra-strong X-ray laser and other facilities at the Stanford Linear Accelerator Center, they simulated the conditions inside the cosmic giants. For the first time ever, they were able to observe the fission of hydrocarbon and the conversion of carbon into diamonds in real time. They published their results in the journal Nature Astronomy....
 

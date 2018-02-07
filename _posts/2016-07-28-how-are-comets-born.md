@@ -8,6 +8,9 @@ tags: [Rosetta (spacecraft), Comet, Formation and evolution of the Solar System,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Rosetta paints comets as ancient leftovers of the early Solar System, not young fragments born from collisions...
 

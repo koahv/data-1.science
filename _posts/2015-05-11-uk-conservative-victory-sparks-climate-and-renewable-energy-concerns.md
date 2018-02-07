@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Amber Rudd was named to serve as the U.K. Cabinet minister in charge of energy and climate, easing concerns that the Conservative government would quickly backtrack on pledges to reduce fossil-fuel pollution....
 

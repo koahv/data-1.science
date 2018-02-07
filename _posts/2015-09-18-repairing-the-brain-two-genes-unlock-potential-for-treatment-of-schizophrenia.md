@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Research has linked the abnormal behavior of two genes (BDNF and DTNBP1) to the underlying cause of schizophrenia. Schizophrenia is a devastating mental disorder that affects nearly 1 percent of the total human population. These findings have provided a new target for schizophrenia treatment....
 

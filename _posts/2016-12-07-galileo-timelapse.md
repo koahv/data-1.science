@@ -8,6 +8,9 @@ tags: [European Space Agency, Galileo (satellite navigation), Spacecraft, Intern
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Timelapse video showing the Galileo satellites 15–18, from final preparations to liftoff on an Ariane 5 launcher...
 

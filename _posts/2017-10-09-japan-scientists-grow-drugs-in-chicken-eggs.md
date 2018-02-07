@@ -8,6 +8,9 @@ tags: [Chicken, Pharmaceutical drug, Biology, Life sciences]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Japanese researchers have genetically engineered hens whose eggs contain drugs that can fight serious diseases including cancer, in a bid to dramatically reduce the cost of treatment, a report said Monday....
 

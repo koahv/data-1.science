@@ -8,6 +8,9 @@ tags: [physics]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >An experiment at the Department of Energy's SLAC National Accelerator Laboratory revealed a well-organized 3-D grid of quantum "tornadoes" inside microscopic droplets of supercooled liquid helium – the first time this formation has been seen at such a tiny scale....
 

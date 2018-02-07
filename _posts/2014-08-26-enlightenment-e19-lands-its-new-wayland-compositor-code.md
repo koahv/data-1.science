@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Enlightenment fans can celebrate today that the big Enlightenment compositor work has been merged to mainline Enlightenment ahead of the upcoming E19 release......
 

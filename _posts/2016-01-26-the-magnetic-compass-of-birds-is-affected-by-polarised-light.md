@@ -8,6 +8,9 @@ tags: [Polarization (waves), Magnetic field, Bird migration, Proceedings of the 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The magnetic compass that birds use for orientation is affected by polarised light. This previously unknown phenomenon was discovered by researchers at Lund University in Sweden....
 

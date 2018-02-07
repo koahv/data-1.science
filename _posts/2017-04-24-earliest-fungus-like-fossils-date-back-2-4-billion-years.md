@@ -8,6 +8,9 @@ tags: [Biology, Biological evolution, Evolutionary biology, Earth sciences, Natu
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The fossils are 2 billion years older than previous finds and could dramatically alter the timeline of the emergence of life on Earth....
 

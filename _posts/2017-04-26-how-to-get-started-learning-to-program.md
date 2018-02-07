@@ -8,6 +8,9 @@ tags: [Computing, Software]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >There's a lot of buzz lately about learning to program....
 

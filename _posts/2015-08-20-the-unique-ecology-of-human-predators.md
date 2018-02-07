@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Research reveals new insight behind widespread wildlife extinctions, shrinking fish sizes, and disruptions to global food chains. 'Our wickedly efficient killing technology, global economic systems and resource management that prioritize short-term benefits to humanity have given rise to the human super predator,' says an expert....
 

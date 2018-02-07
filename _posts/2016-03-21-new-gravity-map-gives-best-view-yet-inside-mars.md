@@ -8,6 +8,9 @@ tags: [Mars, Mars Global Surveyor, Goddard Space Flight Center, Mars Reconnaissa
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) A new map of Mars' gravity made with three NASA spacecraft is the most detailed to date, providing a revealing glimpse into the hidden interior of the Red Planet....
 

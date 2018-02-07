@@ -8,6 +8,9 @@ tags: [Star, Leibniz Institute for Astrophysics Potsdam, Sun, Astrophysics, Stel
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Astronomers present for the first time a movie that shows the evolution of stellar spots on a star other than our Sun. The long-term, highly-sampled, phase-resolved spectroscopic data were made possible with the STELLA robotic telescopes on Tenerife. Over a period of 6 years the growth and fade of giant stellar spots on the star XX Tri are seen. The spots reveal an underlying magnetic cycle that has a period comparable to our Sun's but is much stronger....
 

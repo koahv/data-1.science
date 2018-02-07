@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A federal advisory committee of US National Institutes of Health has approved a proposal for using the CRISPR CAS-9 genome editing tool in clinical trials on humans. The proposal is to test the tr......
 

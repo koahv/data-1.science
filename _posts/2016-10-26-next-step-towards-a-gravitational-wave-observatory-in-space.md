@@ -8,6 +8,9 @@ tags: [Gravitational wave, Gravity, Black hole, Astronomy, Physical sciences, Ou
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Today, ESA has invited European scientists to propose concepts for the third large mission in its science programme, to study the gravitational Universe....
 

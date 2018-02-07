@@ -8,6 +8,9 @@ tags: [Cas9, Gene, CRISPR, RNA, Protein, Genetics, Alpha-synuclein, Cell (biolog
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Using a modified version of the CRISPR genome-editing system, MIT researchers have developed a new way to screen for genes that protect against specific diseases....
 

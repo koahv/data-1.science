@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&nbsp;tecmint: One of the most important characteristics of a good Linux machine especially with laptops is power management in terms of prolonging battery life....
 

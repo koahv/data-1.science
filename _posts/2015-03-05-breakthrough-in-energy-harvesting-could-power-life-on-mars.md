@@ -8,6 +8,9 @@ tags: [technology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Martian colonists could use an innovative new technique to harvest energy from carbon dioxide thanks to research pioneered at Northumbria University, Newcastle. ...
 

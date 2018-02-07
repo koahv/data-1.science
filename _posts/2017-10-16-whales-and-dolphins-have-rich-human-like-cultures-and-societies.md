@@ -8,6 +8,9 @@ tags: [Cetacea, Dolphin, Brain, Evolution, Species, Primate, American Associatio
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Manchester) Whales and dolphins (cetaceans) live in tightly-knit social groups, have complex relationships, talk to each other and even have regional dialects -- much like human societies. A major new study, published today in Nature Ecology & Evolution, has linked the complexity of Cetacean culture and behavior to the size of their brains....
 

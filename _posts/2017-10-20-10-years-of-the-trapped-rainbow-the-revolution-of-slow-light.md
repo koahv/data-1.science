@@ -8,6 +8,9 @@ tags: [Light, Laser, Photon, Ortwin Hess, Electrodynamics, Nature, Mechanics, Ma
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A decade on from suggesting light can be dramatically slowed - or even stopped - by new materials, Ortwin Hess reviews the progress and applications....
 

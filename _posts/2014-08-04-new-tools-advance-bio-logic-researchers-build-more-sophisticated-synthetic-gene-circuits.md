@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org) —Researchers at Rice University and the University of Kansas Medical Center are making genetic circuits that can perform more complex tasks by swapping protein building blocks....
 

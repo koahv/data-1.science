@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >This week we released the latest version of HTTPS Everywhere to all of our users. Compared to the previous major release, this version introduces thousands of new rules, translations of the interface into sixteen new languages, and support for "Block All HTTP Requests" in Chrome. If you already use HTTPS Everywhere, you will automatically be updated to the latest version. If you don't have HTTPS Everywhere installed, you can get it here.HTTPS Everywhere is a browser extension that improves your privacy and security when using the web by sending you to the HTTPS-secured version of web sites listed in its rules. Ideally, every site on the web would provide HTTPS by default, and we are moving rapidly towards that ideal. But today many sites of...
 

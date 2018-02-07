@@ -8,6 +8,9 @@ tags: [Artificial intelligence, Computer, Artificial objects, Technology, Scienc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >"Siri, will it rain today?", "Facebook, tag my friend in this photo." These are just two examples of the incredible things that we ask computers to do for us. But, have you ever asked yourself how computers know how to do these things?...
 

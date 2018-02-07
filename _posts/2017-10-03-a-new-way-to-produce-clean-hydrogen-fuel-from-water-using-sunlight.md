@@ -8,6 +8,9 @@ tags: [Hydrogen, Carbon, Water, Fuel, Metal, Energy, Hydrogen production, Photoc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Osaka University) Osaka University-centered researchers combined graphitic carbon nitride and black phosphorous to make a new metal-free composite photocatalyst capable of producing hydrogen from water. The photocatalyst featured good photocatalytic production of hydrogen, even when powered by low-energy near infrared light....
 

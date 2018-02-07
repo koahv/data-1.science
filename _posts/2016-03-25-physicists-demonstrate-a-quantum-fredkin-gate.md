@@ -8,6 +8,9 @@ tags: [quantum physics]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers from Griffith University and the University of Queensland have overcome one of the key challenges to quantum computing by simplifying a complex quantum logic operation. They demonstrated this by experimentally realising a challenging circuit—the quantum Fredkin gate—for the first time....
 

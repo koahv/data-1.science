@@ -8,6 +8,9 @@ tags: [online gallery, planet pictures]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The post <a rel="nofollow" href="http://www.skyandtelescope.com/online-gallery/tiny-pluto-in-star-rich-sagittarius/">Tiny Pluto in Star-rich Sagittarius appeared first on <a rel="nofollow" href="http://www.skyandtelescope.com">Sky &amp; Telescope....
 

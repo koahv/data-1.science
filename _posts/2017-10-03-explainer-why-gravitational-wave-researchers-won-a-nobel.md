@@ -8,6 +8,9 @@ tags: [Gravity, Gravitational wave, Barry Barish, LIGO, Physics, Spacetime, Phys
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Three U.S.-based astrophysicists won the Nobel prize in physics Tuesday for their discovery of gravitational waves, a phenomenon Albert Einstein predicted a century ago in his theory of general relativity. Here's what their discovery means and why they won the prize worth $1.1 million (9 million kronor)....
 

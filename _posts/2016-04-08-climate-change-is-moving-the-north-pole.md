@@ -8,6 +8,9 @@ tags: [Earth, Climate, Planet, Water, Ice, Ice sheet, Nature, Earth sciences, Ph
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >As ice melts and aquifers are drained, Earth's distribution of mass is changing—and with it the position of the planet's spin axis....
 

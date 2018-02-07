@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Jackson Laboratory) Jackson Laboratory researchers have shown that using an electric current to deliver the CRISPR/Cas9 system, in order to engineer genetic changes in laboratory mice, is highly efficient and significantly improves the system's throughput over the microinjection technique....
 

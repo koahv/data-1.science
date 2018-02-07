@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Whole genome sequencing of modern and ancient horses unveils the genes that have been selected by humans in the process of domestication through the last 5,500 years, but also reveals the cost of this domestication. An international research group reports that a significant part of the genetic variation in modern domesticated horses could be attributed to interbreeding with the descendants of a now extinct population of wild horses. This population was distinct from the only surviving wild horse population....
 

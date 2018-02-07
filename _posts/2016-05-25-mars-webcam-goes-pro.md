@@ -8,6 +8,9 @@ tags: [Mars Express, Mars, Outer space, Solar System, Spacecraft, Planetary scie
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A modest ‘webcam’ on Mars Express has proven useful for outreach, education and citizen-science. Now ESA have decided to adopt it as a professional science instrument....
 

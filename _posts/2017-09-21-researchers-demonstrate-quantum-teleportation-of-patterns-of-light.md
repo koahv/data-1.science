@@ -8,6 +8,9 @@ tags: [Quantum entanglement, Quantum teleportation, Photon, Orbital angular mome
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of the Witwatersrand) Nature Communications today published research by a team comprising Scottish and South African researchers, demonstrating entanglement swapping and teleportation of orbital angular momentum 'patterns' of light. This is a crucial step towards realizing a quantum repeater for high-dimensional entangled states....
 

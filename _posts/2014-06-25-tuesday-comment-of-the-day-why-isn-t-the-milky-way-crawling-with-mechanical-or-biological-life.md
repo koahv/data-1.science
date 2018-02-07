@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >     "Suppose we have the Earth without the human population on it. Imagine two persons, one equiped with a whistle and the other equiped with a radio transmitter. One of them is in the middle of Africa and the other in the middle of the Americas. Can anybody calculate the chances that these persons will meet within their lifetime? I bet that the chances are low, very very low. Is the transmitter or the whistle of any real use for them in order to communicate over the vast distances that separate them? Not really. That's our situation in the vastness of space. Our civilization is far too young in order to be in the position to claim that there are no other intelligent lifeforms." E.Vonazountas Read Original Post...
 

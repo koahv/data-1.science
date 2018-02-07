@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Weather ChannelStunning Photo Captures Lightning, Rainbow At Same Time | The Weather ChannelThe Weather ChannelThis rare photo of a lightning bolt striking near a rainbow was taken in Marana, Arizona, just northwest of Tucson. (Greg McCown). Greg McCown is a 42-year-old real estate salesperson from Tucson, Arizona, who has a passion for photography. While by ...and more&nbsp;&raquo;...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Sex equality in residential decision-making explains the unique social structure of hunter-gatherers, a new study reveals....
 

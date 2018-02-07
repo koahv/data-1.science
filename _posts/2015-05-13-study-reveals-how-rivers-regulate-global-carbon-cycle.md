@@ -8,6 +8,9 @@ tags: [earth]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Humans concerned about climate change are working to find ways of capturing excess carbon dioxide (CO2) from the atmosphere and sequestering it in the Earth. But Nature has its own methods for the removal and long-term storage of carbon, including the world's river systems, which transport decaying organic material and eroded rock from land to the ocean....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Vitamin K is known as the “blood-clotting vitamin” for its important role in healing wounds....
 

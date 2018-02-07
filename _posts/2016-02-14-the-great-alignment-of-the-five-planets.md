@@ -8,6 +8,9 @@ tags: [Planets, Astronomy, Physical sciences, Astronomical objects, Outer space,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The post The Great Alignment of the Five Planets appeared first on Sky &amp; Telescope....
 

@@ -8,6 +8,9 @@ tags: [Brain, Ant, Evolution, Ecology, Army ant, Animal, Species, Visual percept
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A change to a more challenging environment could, over time, re-ignite and grow old parts of the brain that have gone inactive, according to a study of army ants led by a Drexel biology professor....
 

@@ -8,6 +8,9 @@ tags: [Deep Space Climate Observatory, Space technology, Planetary science, Spac
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) NASA launched a new website Monday so the world can see images of the full, sunlit side of the Earth every day. The images are taken by a NASA camera one million miles away on the Deep Space Climate Observatory, a partnership between NASA, the National Oceanic and Atmospheric Administration and the US Air Force....
 

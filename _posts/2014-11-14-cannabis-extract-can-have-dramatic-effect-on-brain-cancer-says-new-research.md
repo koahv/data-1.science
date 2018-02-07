@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Experts have shown that when certain parts of cannabis are used to treat cancer tumors alongside radio therapy treatment the growths can virtually disappear....
 

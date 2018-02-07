@@ -8,6 +8,9 @@ tags: [Copernicus Programme, Atmosphere of Earth, Meteorology, Nature, Earth sci
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A look back on the preparations for the 13 October liftoff of Sentinel-5P...
 

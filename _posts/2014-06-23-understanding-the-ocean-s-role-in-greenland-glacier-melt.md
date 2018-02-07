@@ -8,6 +8,9 @@ tags: [earth]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org) —The Greenland Ice Sheet is a 1.7 million-square-kilometer, 2-mile thick layer of ice that covers Greenland. Its fate is inextricably linked to our global climate system....
 

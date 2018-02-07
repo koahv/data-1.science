@@ -8,6 +8,9 @@ tags: [Ocean, Anoxic waters, Redox, Chemistry, Hydrography, Nature, Earth scienc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Science China Press) Ocean chemistry has strongly shaped the evolution of life and biogeochemical cycles on the Earth. However, the detailed chemical structure of early-Earth oceans remains unclear. Based on modern marine sediment porewater chemistry and known constraints on early-Earth ocean chemistry, researchers in Wuhan have now developed an idealized chemical zonation model for the world's oceans 520 million years ago. This model provides, for first time, a detailed picture of the spatial structure of early-Earth ocean chemistry....
 

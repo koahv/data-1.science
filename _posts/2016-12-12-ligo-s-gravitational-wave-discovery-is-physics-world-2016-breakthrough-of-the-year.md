@@ -8,6 +8,9 @@ tags: [Gravity, Gravitational wave, First observation of gravitational waves, LI
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Long-awaited direct detection of Einstein's gravitational waves tops our list of the 10 key breakthroughs in physics this year...
 

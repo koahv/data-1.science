@@ -8,6 +8,9 @@ tags: [Internet of things, Tizen, Operating system, Linux, Linux distribution, C
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Over the past decade, the majority of new open source OS projects have shifted from the mobile market to the Internet of Things. In this fifth article in our IoT series, we look at the many new open source operating systems that target IoT....
 

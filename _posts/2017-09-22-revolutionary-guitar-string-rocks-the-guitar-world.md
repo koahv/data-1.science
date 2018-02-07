@@ -8,6 +8,9 @@ tags: [Vibrato systems for guitar, Electric guitar, Celtic musical instruments, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A revolutionary guitar string developed at the University of St Andrews has struck a chord with some of the greats of the music world....
 

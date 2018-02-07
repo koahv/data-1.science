@@ -8,6 +8,9 @@ tags: [Bacillus thuringiensis, Bt cotton, Cotton, Plant breeding, Agriculture, G
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Insect pests that are rapidly adapting to genetically engineered crops threaten agriculture worldwide. A new study published in the Proceedings of the National Academy of Sciences reveals the success of a surprising strategy for countering this problem: Hybridizing genetically engineered cotton with conventional cotton reduced resistance in the pink bollworm, a voracious global pest....
 

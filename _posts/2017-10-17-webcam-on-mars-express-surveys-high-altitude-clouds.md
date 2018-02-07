@@ -8,6 +8,9 @@ tags: [Cloud, Mars, Astronomy, Nature, Meteorology, Physical sciences, Solar Sys
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >An unprecedented catalogue of more than 21 000 images taken by a webcam on ESA’s Mars Express is proving its worth as a science instrument, providing a global survey of unusual high-altitude cloud features on the Red Planet....
 

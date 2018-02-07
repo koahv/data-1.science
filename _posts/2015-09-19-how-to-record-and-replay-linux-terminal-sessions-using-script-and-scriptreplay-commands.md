@@ -8,6 +8,9 @@ tags: [linux commands, linux tricks]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In this guide we are going to look at how to use a script and scriptreplay commands in Linux that can help you to record commands and their output printed on your terminal during&#46;&#46;&#46;...
 

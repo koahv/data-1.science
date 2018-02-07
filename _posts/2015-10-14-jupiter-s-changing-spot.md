@@ -8,6 +8,9 @@ tags: [Jupiter, Planet, Great Red Spot, Hubble Space Telescope, Voyager 2, Atmos
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Looking into Jupiter’s turbulent atmosphere and its famous Great Red Spot with the Hubble telescope...
 

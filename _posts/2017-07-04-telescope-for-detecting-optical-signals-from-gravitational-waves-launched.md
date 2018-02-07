@@ -8,6 +8,9 @@ tags: [Gravitational wave, LIGO, Astronomy, Gravity, Gravitational-wave observat
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A state-of-the-art telescope for detecting optical signatures of gravitational waves - built and operated by an international research collaboration, led by the University of Warwick - has been officially launched....
 

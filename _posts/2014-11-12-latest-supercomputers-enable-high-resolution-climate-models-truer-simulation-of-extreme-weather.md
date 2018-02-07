@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(DOE/Lawrence Berkeley National Laboratory) Not long ago, it would have taken several years to run a high-resolution simulation on a global climate model. But using some of the most powerful supercomputers now available, Berkeley Lab scientist Michael Wehner was able to complete a run in just three months. What he found was that not only were the simulations much closer to actual observations, but the high-resolution models were far better at reproducing intense storms, such as hurricanes and cyclones....
 

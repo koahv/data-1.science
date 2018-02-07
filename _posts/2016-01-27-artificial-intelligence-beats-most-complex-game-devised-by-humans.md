@@ -8,6 +8,9 @@ tags: [AlphaGo, Artificial intelligence, Go (game), Deep learning, DeepMind, Are
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >An artificial intelligence system has used "deep learning" to defeat a professional Go player, solving one of the landmark challenges in AI....
 

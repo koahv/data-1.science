@@ -8,6 +8,9 @@ tags: [DESY, Electron, SLAC National Accelerator Laboratory, Molecule, Free-elec
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists have used an ultra-bright pulse of X-ray light to turn an atom in a molecule briefly into a sort of electromagnetic black hole. Unlike a black hole in space, the X-rayed atom does not draw in matter from its surroundings through the force of gravity, but electrons with its electrical charge -- causing the molecule to explode within the tiniest fraction of a second. The study provides important information for analyzing biomolecules using X-ray lasers....
 

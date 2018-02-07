@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(National Academy of Sciences) Gradual and variable change in mental functions that occurs naturally as people age, not as part of a neurological disease such as Alzheimer's disease, is one of the most challenging health issues encountered by older adults, says a new report from the Institute of Medicine....
 

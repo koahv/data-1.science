@@ -8,6 +8,9 @@ tags: [astronomy & space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org) —A heat-sensing camera designed at Arizona State University has provided data to create themost detailed global map yet made of Martian surface properties....
 

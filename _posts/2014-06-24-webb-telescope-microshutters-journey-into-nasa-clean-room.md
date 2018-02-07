@@ -8,6 +8,9 @@ tags: [astronomy & space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org) —NASA's James Webb Space Telescope microshutters have taken a short jaunt in preparation of its million mile journey in four years. The microshutters were moved into a NASA Goddard cleanroom for testing to verify they work correctly before being installed in the Webb's Near Infrared Spectrograph (NIRSpec) instrument....
 

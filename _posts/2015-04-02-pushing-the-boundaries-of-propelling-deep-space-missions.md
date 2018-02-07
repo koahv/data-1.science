@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Engineers at NASA’s Glenn Research Center are advancing the propulsion system that will propel the first ever mission to redirect an asteroid for astronauts to explore in the 2020s.  NASA's Asteroid Redirect Mission will test a number of new capabilities, like advanced Solar Electric Propulsion (SEP), needed for future astronaut expeditions into deep space, including to Mars.Read more about Pushing the Boundaries of Propelling Deep Space MissionsComments...
 

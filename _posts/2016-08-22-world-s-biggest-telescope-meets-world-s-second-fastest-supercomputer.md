@@ -8,6 +8,9 @@ tags: [Square Kilometre Array, Astronomy, Tianhe-2, Radio astronomy, Supercomput
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A prototype part of the software system to manage data from the Square Kilometre Array (SKA) telescope has run on the world's second fastest supercomputer in China....
 

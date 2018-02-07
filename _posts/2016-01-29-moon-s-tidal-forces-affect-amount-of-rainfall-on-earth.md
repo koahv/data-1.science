@@ -8,6 +8,9 @@ tags: [Moon, Atmosphere of Earth, Rain, Atmospheric pressure, Atmosphere, Humidi
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Washington) Satellite data shows that the moon's gravity puts a slight damper on rainfall on Earth....
 

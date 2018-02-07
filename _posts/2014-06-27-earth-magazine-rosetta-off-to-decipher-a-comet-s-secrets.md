@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(American Geosciences Institute) The Rosetta spacecraft launched on March 2, 2004, to study Comet 67P/Churyumov-Gerasimenko. In August, Rosetta will enter the comet's orbit. By November, scientists will plant a lander on the comet, in the hope of learning more about the conditions at the dawn of our solar system....
 

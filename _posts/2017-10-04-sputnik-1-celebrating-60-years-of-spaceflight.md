@@ -8,6 +8,9 @@ tags: [Satellite, Project Vanguard, Sputnik 1, NASA, Explorer 1, Space explorati
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The launch of Sputnik 1, Earth's first artificial satellite, paved the way for Moonwalking astronauts, robotic exploration of the planets, and space tourism. Soviet technician working on Sputnik 1 prior to its launch on October 4, 1957. &copy; Sovfoto Sixty years after it officially began on October 4, 1957, we still often refer to the era we live in as the Space Age. Our extraterrestrial explorations have planted a set of mileposts in our memories — from those first brief forays into weightlessness to permanently occupied space stations, from spindly probes snapping a few pictures while whizzing past a distant planet to rovers probing every nook and cranny and telescopes peering into the deepest vastness. It’s no surprise that ventur...
 

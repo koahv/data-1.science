@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Harvard University) A team of scientists has developed an engineered form of the genome-editing protein Cas9 that can be controlled by a small molecule and offers improved DNA specificity....
 

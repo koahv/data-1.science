@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Duke University) A first draft of the tree of life for all 2.3 million named species of animals, plants, fungi and microbes has been released. Thousands of smaller trees have been published over the years for select branches, but this is the first time those results have been combined into a single tree. The end result is a digital resource that is available online for anyone to use or edit, much like a 'Wikipedia' for evolutionary relationships....
 

@@ -8,6 +8,9 @@ tags: [Feather, Dinosaur, Ornithomimus, Bird, Organisms, Evolutionary biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Alberta) An undergraduate University of Alberta paleontology student has discovered an Ornithomimus dinosaur with preserved tail feathers and soft tissue. The discovery is shedding light on the convergent evolution of these dinosaurs with ostriches and emus relating to thermoregulation and is also tightening the linkages between dinosaurs and modern birds....
 

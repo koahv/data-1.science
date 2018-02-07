@@ -8,6 +8,9 @@ tags: [Planet, Astronomy, Physical sciences, Outer space, Planetary science, Ast
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Consuming a metal-rich planet or two early in its life can change a star’s colour – making them the flamingos of space...
 

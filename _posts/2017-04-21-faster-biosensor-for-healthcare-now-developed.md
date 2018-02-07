@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A new technology has been designed that is 20 times faster than the existing biosensors using micromagnetic pattern of spider web. The technology can be used for early diagnosis and recurrence diagnosis of diseases such as cancer....
 

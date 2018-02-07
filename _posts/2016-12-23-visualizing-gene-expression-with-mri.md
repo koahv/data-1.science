@@ -8,6 +8,9 @@ tags: [Medical imaging, Magnetic resonance imaging, Aquaporin, Chemistry, Biotec
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(California Institute of Technology) A cellular gatekeeper for water molecules finds new use in magnetic resonance imaging....
 

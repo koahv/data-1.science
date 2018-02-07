@@ -8,6 +8,9 @@ tags: [Carrot, Plant, Genetics, Plant breeding, Gene, Carotenoid, Vitamin A, Dom
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Wisconsin-Madison) Sometimes, the evolutionary history of a species can be found in a fossil record. Other times, rocks and imprints must be swapped for DNA and genetic fingerprints. The latter is the case for the good-for-your-eyes carrot, a top crop whose full genetic code was just deciphered by a team of researchers led by University of Wisconsin-Madison horticulture professor and geneticist Phil Simon....
 

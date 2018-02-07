@@ -8,6 +8,9 @@ tags: [Lab-on-a-chip, Chromatography, Dielectrophoresis, Physical sciences, Appl
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Rochester Institute of Technology) Research being done at Rochester Institute of Technology to refine lab-on-chip devices -- highly sophisticated laboratories on microchips -- will provide more detailed and timely information to detect diseases such as cancer....
 

@@ -8,6 +8,9 @@ tags: [Obesity, Eating, Insulin, Leptin, Medicine, Disorders of endocrine pancre
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Federation of American Societies for Experimental Biology) A new study published online in The FASEB Journal (http://www.fasebj.org) reveals a novel gene involved in maintaining body weight....
 

@@ -8,6 +8,9 @@ tags: [Quantum computing, Genetic algorithm, Computing, Algorithm, Areas of comp
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org)—Inspired by natural selection and the concept of "survival of the fittest," genetic algorithms are flexible optimization techniques that can find the best solution to a problem by repeatedly selecting for and breeding ever "fitter" generations of solutions....
 

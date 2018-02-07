@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In fruit flies, the quality and intensity of odors can be mapped in the so-called lateral horn, scientists have found. They have created a spatial map of this part of the olfactory processing system in the fly brain and showed that the lateral horn can be segregated into three activity domains, each of which represents an odor category....
 

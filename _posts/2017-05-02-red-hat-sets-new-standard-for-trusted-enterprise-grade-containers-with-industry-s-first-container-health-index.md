@@ -8,6 +8,9 @@ tags: [Red Hat, Linux, Computing, Software, Technology, Digital technology, Comp
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Red Hat launches Container Health Index, an easy-to-understand security grade applied to Linux containers as part of the Red Hat Container Catalog....
 

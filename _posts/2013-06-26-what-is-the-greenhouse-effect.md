@@ -8,6 +8,9 @@ tags: [Greenhouse effect, Greenhouse gas, Thermal radiation, Atmosphere of Earth
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The greenhouse effect occurs when Earth's atmosphere traps solar radiation because of the presence of certain gases, which causes temperatures to rise....
 

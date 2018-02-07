@@ -8,6 +8,9 @@ tags: [Dark matter, XENON, Weakly interacting massive particles, Large Undergrou
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The race is on to build the most sensitive U.S.-based experiment designed to directly detect dark matter particles. Department of Energy officials have formally approved a key construction milestone that will propel the project toward its April 2020 goal for completion....
 

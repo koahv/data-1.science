@@ -8,6 +8,9 @@ tags: [Bigelow Aerospace, NASA, International Space Station, NASA programs, Gove
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsSpace station astronauts opened the world's first inflatable space habitat Monday and floated inside. NASA astronaut Jeffrey Williams swung open the door to the newly expanded chamber and was the...Contributed Author:&nbsp;Marcia Dunn, AP Aerospace WriterTopics:&nbsp;Aerospace...
 

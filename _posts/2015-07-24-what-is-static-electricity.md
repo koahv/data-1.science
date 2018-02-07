@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Static electricity results from an imbalance between negative and positive charges in objects....
 

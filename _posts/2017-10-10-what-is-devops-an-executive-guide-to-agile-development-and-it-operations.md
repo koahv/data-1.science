@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >To make the most of today's containers, servers, virtual machines, and clouds, you need to deploy DevOps in your enterprise. Or, you can let your rivals put you out of business. It's your choice....
 

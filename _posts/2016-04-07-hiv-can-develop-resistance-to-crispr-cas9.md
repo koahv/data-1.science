@@ -8,6 +8,9 @@ tags: [Virus, Cas9, Antiviral drug, Mutation, CRISPR, DNA, HIV, Molecular biolog
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Cell Press) The CRISPR/Cas9 gene-editing platform may need more tweaking before it can be used as an effective antiviral, reports a study published April 7 in Cell Reports. Researchers who used CRISPR/Cas9 to mutate HIV-1 within cellular DNA found that while single mutations can inhibit viral replication, some also led to unexpected resistance. The researchers believe targeting multiple viral DNA regions may be necessary for the potential antiviral aspect of CRISPR/Cas9 to be effective....
 

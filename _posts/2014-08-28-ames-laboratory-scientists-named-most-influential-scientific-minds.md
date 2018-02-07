@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(DOE/Ames Laboratory) Three Ames Laboratory physicists, Paul Canfield, Sergey Bud'ko, and Costas Soukoulis, were recently named to Thomson Reuters' World's Most Influential Scientific Minds 2014....
 

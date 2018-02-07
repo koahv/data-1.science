@@ -8,6 +8,9 @@ tags: [Photosynthesis, Earth, Plant, Atmosphere, Physical sciences, Earth scienc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA plans to track the health of the world’s vegetation by detecting and measuring the faint glow that plants give off as they convert sunlight and the atmosphere’s carbon dioxide into energy....
 

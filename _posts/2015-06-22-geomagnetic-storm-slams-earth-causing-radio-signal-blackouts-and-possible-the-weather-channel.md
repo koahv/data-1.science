@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Weather ChannelGeomagnetic Storm Slams Earth Causing Radio Signal Blackouts and Possible ...The Weather ChannelGraphic from NOAA shows auroras may be visible over parts of the U.K. as well as North America early this week. (Space Weather Prediction Center/NOAA). A geomagnetic storm hit Earth Monday as energy from a series of solar explosions reached Earth&#39;s&nbsp;...and more&nbsp;&raquo;...
 

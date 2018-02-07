@@ -8,6 +8,9 @@ tags: [Open-source model, Computing, Software, Technology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Thriving open source projects have many users, and the most active have thousands of authors contributing. There are now more than 60 million open source repositories, but the vast majority are just a public workspace for a single individual. What differentiates the most successful open source projects? One commonality is that most of them are backed by either one company or a group of companies collaborating together....
 

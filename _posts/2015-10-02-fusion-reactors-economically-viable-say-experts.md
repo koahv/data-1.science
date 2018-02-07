@@ -8,6 +8,9 @@ tags: [Fusion power, Nuclear power, Nuclear reactor, ITER, Temporal rates, Chemi
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Durham University) Fusion reactors could become an economically viable means of generating electricity within a few decades, and policy makers should start planning to build them as a replacement for conventional nuclear power stations, according to new research....
 

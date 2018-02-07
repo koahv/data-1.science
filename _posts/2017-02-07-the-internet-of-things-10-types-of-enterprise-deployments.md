@@ -8,6 +8,9 @@ tags: [Internet of things, Areas of computer science, Business, Cyberspace, Comp
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >As the Internet of Things (IoT) market continues its explosive growth and development, more and more businesses are looking at the ways they can generate business value from connected devices and the data they generate. By 2020, research firm Gartner predicts that more than half of major new business processes and systems will incorporate IoT elements....
 

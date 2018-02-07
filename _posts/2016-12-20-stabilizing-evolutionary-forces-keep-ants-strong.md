@@ -8,6 +8,9 @@ tags: [Natural selection, Species, Genetics, Ant, Genetic variation, Genetic dri
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Hokkaido University) Researchers are finding evidence of natural selection that maintains the status quo among ant populations....
 

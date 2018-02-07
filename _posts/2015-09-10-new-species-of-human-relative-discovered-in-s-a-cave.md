@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of the Witwatersrand) The discovery of a new species of human relative was announced today, Sept. 10, 2015, by the University of the Witwatersrand, the National Geographic Society and the Department of Science and Technology and the National Research Foundation of South Africa....
 

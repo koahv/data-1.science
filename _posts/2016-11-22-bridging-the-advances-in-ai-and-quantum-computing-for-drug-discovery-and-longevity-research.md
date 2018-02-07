@@ -8,6 +8,9 @@ tags: [Photonics, Deep learning, Insilico Medicine, Computing, Artificial intell
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(InSilico Medicine, Inc.) Insilico Medicine Inc. and YMK Photonics Inc. announced a research collaboration and business cooperation to develop photonics quantum computing and accelerated deep learning techniques for drug discovery, biomarker development and aging research....
 

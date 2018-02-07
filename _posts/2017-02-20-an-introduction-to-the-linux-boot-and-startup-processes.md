@@ -8,6 +8,9 @@ tags: [GNU GRUB, Booting, Systemd, Master boot record, Boot sector, File system,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Understanding the Linux boot and startup processes is important to being able to both configure Linux and to resolving startup issues. This article presents an overview of the bootup sequence using the GRUB2 bootloader and the startup sequence as performed by the systemd initialization system. read more...
 

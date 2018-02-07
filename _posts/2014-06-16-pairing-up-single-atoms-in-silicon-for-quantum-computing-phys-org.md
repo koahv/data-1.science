@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Science News (blog)Pairing up single atoms in silicon for quantum computingPhys.OrgThe experiments were performed at the ARC Centre of Excellence for Quantum Computation &amp; Communication Technology, as a collaborative effort between the team led by Morello, and a group consisting of Professor Andrew Dzurak (UNSW), Professor&nbsp;...Genetic mutation quenches quantum quirk in algaeScience News (blog)all 21 news articles&nbsp;&raquo;...
 

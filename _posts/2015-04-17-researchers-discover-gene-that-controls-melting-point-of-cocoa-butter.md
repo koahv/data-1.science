@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The discovery of a gene involved in determining the melting point of cocoa butter—a critical attribute of the substance widely used in foods and pharmaceuticals—will likely lead to new and improved products, according to researchers in Penn State's College of Agricultural Sciences....
 

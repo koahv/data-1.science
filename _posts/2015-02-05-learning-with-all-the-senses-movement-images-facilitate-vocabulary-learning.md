@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >"Atesi" -- what sounds like a word from the Elven language of Lord of the Rings is actually a Vimmish word meaning "thought". Scientists have used Vimmish, an artificial language specifically developed for scientific research, to study how people can best memorize foreign-language terms. According to the researchers, it is easier to learn vocabulary if the brain can link a given word with different sensory perceptions....
 

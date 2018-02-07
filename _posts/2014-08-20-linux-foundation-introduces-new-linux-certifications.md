@@ -8,6 +8,9 @@ tags: [cxo, linux]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Want to prove you've got the chops for a Linux job? The Linux Foundation is introducing the proof you'll need with new certifications....
 

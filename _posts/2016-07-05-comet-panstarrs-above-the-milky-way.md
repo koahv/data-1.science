@@ -8,6 +8,9 @@ tags: [Ara (constellation), Comet tail, Astronomy, Stars, Outer space, IAU const
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The post Comet PanSTARRS above the Milky Way‏ appeared first on Sky &amp; Telescope....
 

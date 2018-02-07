@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) A NASA camera aboard the Deep Space Climate Observatory satellite captured a unique view of the moon as it moved in front of the sunlit side of Earth last month. The series of test images shows the fully illuminated 'dark side' of the moon that is never visible from Earth....
 

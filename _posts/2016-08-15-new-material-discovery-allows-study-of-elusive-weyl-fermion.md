@@ -8,6 +8,9 @@ tags: [Physics, Weyl semimetal, Particle physics, Science, Physical sciences, Th
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(DOE/Ames Laboratory) Researchers at the US Department of Energy's Ames Laboratory have discovered a new type of Weyl semimetal, a material that opens the way for further study of Weyl fermions, a type of massless elementary particle hypothesized by high-energy particle theory and potentially useful for creating high-speed electronic circuits and quantum computers....
 

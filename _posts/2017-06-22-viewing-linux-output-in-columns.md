@@ -8,6 +8,9 @@ tags: [Operating system technology, Areas of computer science, Computer engineer
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Linux column command makes it easy to display data in a columnar format -- often making it easier to view, digest, or incorporate into a report. While column is a command that's simple to use, it has some very useful options that are worth considering. In the examples in this post, you will get a feel for how the command works and how you can get it to format data in the most useful ways....
 

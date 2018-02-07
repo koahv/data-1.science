@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA’s Rosetta spacecraft has found the water vapour from its target comet to be significantly different to that found on Earth. The discovery fuels the debate on the origin of our planet’s oceans....
 

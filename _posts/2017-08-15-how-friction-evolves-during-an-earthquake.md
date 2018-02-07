@@ -8,6 +8,9 @@ tags: [Earthquake, Friction, Simulation, Fault (geology), Experiment, Climate ch
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >By simulating earthquakes in a lab, engineers at Caltech have documented the evolution of friction during an earthquake—measuring what could once only be inferred, and shedding light on one of the biggest unknowns in earthquake modeling....
 

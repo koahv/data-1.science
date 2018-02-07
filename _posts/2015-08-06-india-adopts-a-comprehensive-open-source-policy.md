@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Government of India (GOI) has adopted a comprehensive and supportive open source policy. It builds on their earlier efforts to adopt open standards for procurement. read more...
 

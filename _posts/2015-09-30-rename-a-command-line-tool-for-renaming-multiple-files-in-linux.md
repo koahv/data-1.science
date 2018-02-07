@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&nbsp;tecmint: We often use the 'mv' command to rename a single file in Linux....
 

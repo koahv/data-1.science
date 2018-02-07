@@ -8,6 +8,9 @@ tags: [Desktop environment, Xfce, Window manager, Dwm, Software, System software
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >I like minimalistic views. If I could run everything in a terminal I would. It's free from shiny stuff that hogs my resources and distracts my feeble mind. I also grow tired of resizing and moving windows, never getting them to align perfectly. read more...
 

@@ -8,6 +8,9 @@ tags: [Biodiversity, Ecosystem, Food web, Organism, Natural environment, Gene, A
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A research project conducted at the University of Cologne's Zoological Institute reveals important findings on the interaction between nutrient availability and the diversity of consumer species in freshwater environments. A better understanding of this interaction will contribute to developing possibilities to maintain biodiversity in all kinds of ecosystems....
 

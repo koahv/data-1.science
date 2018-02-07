@@ -8,6 +8,9 @@ tags: [Open-source software, Open-source software movement, Linux, Computing]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Opensource.com community moderator Jono Bacon kicked off keynotes at All Things Open this year to talk about open source communities read more...
 

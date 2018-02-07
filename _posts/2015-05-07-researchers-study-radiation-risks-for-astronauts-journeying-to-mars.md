@@ -8,6 +8,9 @@ tags: [astronomy & space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A new research facility at Colorado State University – the only one of its kind in the world – will be established with a $9 million grant from NASA to help reveal the effects of long-term exposure to space radiation as the nation prepares for a manned mission to Mars....
 

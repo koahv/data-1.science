@@ -8,6 +8,9 @@ tags: [Amazon rainforest, Global warming, Carbon dioxide, Greenhouse gas, Climat
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Stanford's School of Earth, Energy & Environmental Sciences ) The carbon balance in the Amazon can change quickly in response to heat and drought conditions....
 

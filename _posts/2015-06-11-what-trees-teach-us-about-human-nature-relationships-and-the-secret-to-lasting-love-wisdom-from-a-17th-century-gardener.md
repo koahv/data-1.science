@@ -8,6 +8,9 @@ tags: [culture, out of print, philosophy, religion]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&#8220;Not only rational and irrational, but even inanimate creatures have a voice, and speak loudly to men, and it is our duty to learn their language, and hearken to them.&#8221; Since the dawn of time, trees &#8212; the oldest living things in our world &#8212; have been our silent companions, which we&#8217;ve transmuted into the myths and metaphors through which we make sense of the world &#8212; from their deity-like role in ancient Indian legends to their long history as the perfect visual metaphor for visualizing human knowledge to their symbolic representation of the cycle of life. Perhaps because they are so strong and so silent, bearing steadfast witness to our earthly lives and while reaching up toward the heavens, we&#8217;ve l...
 

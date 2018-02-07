@@ -8,6 +8,9 @@ tags: [Crystallography, Magnetic structure, Magnetism, Physical chemistry, Conde
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The quantitative characterisation of the magnetic ordering realised in magnetic phases is an essential part of research into the magnetic properties of solids....
 

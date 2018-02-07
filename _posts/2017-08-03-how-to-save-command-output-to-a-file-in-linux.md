@@ -8,6 +8,9 @@ tags: [Computer file, File system, Input/output, Disk storage, Man page, Compute
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >There are many things you can do with the output of a command in Linux. You can assign the output of a command to a variable, send it to another command/program for processing through&#46;&#46;&#46;...
 

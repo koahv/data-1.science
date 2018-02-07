@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Today more inconclusive tests of D-Wave's quantum computers came to light &ndash; why is it so hard to tell if its machines are the real deal?...
 

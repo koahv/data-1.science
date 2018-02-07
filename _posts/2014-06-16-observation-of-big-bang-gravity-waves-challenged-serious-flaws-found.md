@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >     Astrophysicists are casting doubt on what just recently was deemed a breakthrough in confirming how the universe was born: the observation of gravitational waves that apparently rippled through space right after the Big Bang. If proven to be correctly identified, these waves -- predicted in Albert Einstein's theory of relativity -- would confirm the rapid and violent growth spurt of the universe in the first fraction of a second marking its existence, 13.8 billion years ago. The apparent first direct evidence of such so-called cosmic inflation -- a theory that the universe expanded by 100 trillion trillion times in barely the blink of an eye -- made with the help of a telescope called BICEP2, stationed at the South Pole, was announc...
 

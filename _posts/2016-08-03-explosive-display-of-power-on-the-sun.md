@@ -8,6 +8,9 @@ tags: [Astronomical imaging, Optics, Astronomy, Outer space, Physical sciences, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The post Explosive display of power on the Sun appeared first on Sky &amp; Telescope....
 

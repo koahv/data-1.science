@@ -8,6 +8,9 @@ tags: [Moon, Lunar water, Physical sciences, Space science, Outer space, Nature,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Brown University) A new study maps the trace concentrations of water implanted in the lunar soil by the solar wind, a water source that could be used as resource in future lunar exploration....
 

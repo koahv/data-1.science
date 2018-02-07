@@ -8,6 +8,9 @@ tags: [Magnetism, Magnetite, Paleomagnetism, Electromagnetism, Geology, Earth sc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Ancient rock record remains unaltered by vast temperature fluctuations...
 

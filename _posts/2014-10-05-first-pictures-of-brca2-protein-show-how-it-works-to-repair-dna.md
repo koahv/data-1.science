@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists have taken pictures of the BRCA2 protein for the first time, showing how it works to repair damaged DNA. The findings showed that each pair of BRCA2 proteins binds two sets of RAD51 that run in opposite directions. This allows it to work on strands of broken DNA that point in either direction. They also show that BRCA2's job is to help RAD51 form short filaments at multiple sites along the DNA, presumably to increase the efficiency of establishing longer filaments required to search for matching strands....
 

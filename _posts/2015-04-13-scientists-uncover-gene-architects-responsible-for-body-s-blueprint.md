@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers have identified two key proteins that act as genetic 'architects', creating the blueprint needed by embryos during the earliest stages of their development....
 

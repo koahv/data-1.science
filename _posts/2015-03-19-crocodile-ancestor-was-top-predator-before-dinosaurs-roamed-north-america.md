@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(North Carolina State University) A newly discovered crocodilian ancestor may have filled one of North America's top predator roles before dinosaurs arrived on the continent. Carnufex carolinensis, or the 'Carolina Butcher,' was a nine-foot long, land-dwelling crocodylomorph that walked on its hind legs and likely preyed upon smaller inhabitants of North Carolina ecosystems such as armored reptiles and early mammal relatives....
 

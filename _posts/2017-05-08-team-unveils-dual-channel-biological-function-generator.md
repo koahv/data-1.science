@@ -8,6 +8,9 @@ tags: [Oscilloscope, Signal, Synthetic biology, Biology, Optogenetics, Gene, Org
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Rice University bioengineers who specialize in creating tools for synthetic biology have unveiled the latest version of their "biofunction generator and "bioscilloscope," an optogenetic platform that uses light to activate and study two biological circuits at a time....
 

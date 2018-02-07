@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ValueWalkChilean Devil Rays Found To Be Among The Deepest Sea DiversRedOrbit“We thought they probably travelled long distances horizontally, but we had no idea that they were diving so deep. That was truly a surprise.” To record the movements of 15 Chilean devil rays as they moved through the central Atlantic Ocean, the team ...Devil Rays Deep Diving Habits Explain Warm BrainsValueWalkDeep dives of devil rays solve &#39;mystery&#39; of warm brainBBC NewsSurprise! Devil Rays Found Lurking in Deep Ocean WatersLiveScience.comNatGeo News Watch (blog)&nbsp;-Christian Science Monitorall 45 news articles&nbsp;&raquo;...
 

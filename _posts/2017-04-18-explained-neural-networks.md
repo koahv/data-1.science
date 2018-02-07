@@ -8,6 +8,9 @@ tags: [Artificial intelligence, Cognitive neuroscience, Cybernetics, Computation
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognizers on smartphones or Google’s latest automatic translator — have resulted from a technique called “deep learning.”...
 

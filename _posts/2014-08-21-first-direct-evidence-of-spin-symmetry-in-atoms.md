@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Physicists have observed the first direct evidence of symmetry in the magnetic properties -- or nuclear 'spins' -- of atoms. The advance could spin off practical benefits such as the ability to simulate and better understand exotic materials such as superconductors....
 

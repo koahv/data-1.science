@@ -8,6 +8,9 @@ tags: [Chromatophore, Fossil, Pigment, Skin, Color, Biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A fossilized snake that lived 10 million years ago retained cell structures that revealed to scientists the colors that would have dappled its skin while the animal was alive....
 

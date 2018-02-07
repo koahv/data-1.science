@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Telegraph.co.ukDubai joins the space race with mission to MarsTelegraph.co.ukThe new agency will coordinate the country&#39;s space technology sector and supervise the probe mission which will take nine months to make the journey to Mars. The United Arab Emirates, a seven-emirate federation formed in 1971, will become the ninth&nbsp;......
 

@@ -8,6 +8,9 @@ tags: [DeepMind, Artificial intelligence, Areas of computer science, Technology,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Alphabet Inc.’s artificial intelligence division Google DeepMind is making the maze-like game platform it uses for many of its experiments available to other researchers and the general public....
 

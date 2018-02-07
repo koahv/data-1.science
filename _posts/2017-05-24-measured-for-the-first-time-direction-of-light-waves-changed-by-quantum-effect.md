@@ -8,6 +8,9 @@ tags: [Quantum mechanics, Electricity, Quantum Hall effect, Measurement, Light, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Vienna University of Technology) Certain materials can be used to rotate the direction in which the light is oscillating. This is known as a 'magneto-optical' effect. One variant of this type of effect has now been demonstrated at TU Wien for the first time. Rather than switching the direction of the light wave continually, special materials called 'topological insulators' do so in quantum steps. This could give us a new method to measure fundamental constants of nature....
 

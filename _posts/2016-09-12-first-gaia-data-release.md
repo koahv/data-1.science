@@ -8,6 +8,9 @@ tags: [Gaia (spacecraft), Unmanned spacecraft, Astronautics, Space technology, S
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Gaia’s first star catalogue was unveiled on Wednesday, 14 September. Watch the replay of the press conference...
 

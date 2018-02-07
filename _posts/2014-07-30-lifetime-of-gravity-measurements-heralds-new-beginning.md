@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Although ESA’s GOCE satellite is no more, all of the measurements it gathered during its life skirting the fringes of our atmosphere, including the very last as it drifted slowly back to Earth, have been drawn together to offer new opportunities for science....
 

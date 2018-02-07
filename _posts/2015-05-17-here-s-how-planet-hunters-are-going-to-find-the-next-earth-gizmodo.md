@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Express.co.ukHere&#39;s How Planet Hunters Are Going to Find the Next EarthGizmodoTwenty years ago, discovering another Earth sounded like a science fictional dream. But within a generation, astronomers now believe we might do just that. “Finding evidence of life beyond Earth is not a pipe dream,” said Natalie Batalha, an astronomer ...&#39;Second Earth&#39; to be found in DECADES as experts claim ONE BILLION planets ...Express.co.ukHow Humanity&#39;s Planet Hunters Will Find Earth 2.0Gizmodo AustraliaSearching For The Next EarthClapwayTop Secret Writersall 7 news articles&nbsp;&raquo;...
 

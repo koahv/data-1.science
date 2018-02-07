@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The local structural dynamics of liquid water, such as how quickly water molecules change their binding state, has now been characterized by a team of scientists. Using innovative ultrafast vibrational spectroscopies, the researchers show why liquid water is unique when compared to most other molecular liquids....
 

@@ -8,6 +8,9 @@ tags: [Airplane, NASA X-57 Maxwell, Aerospace engineering, Aeronautics, Aircraft
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsNASA is working on an electric propulsion plane that uses a unique wing shape to maximize its efficiency. The plane was designated X-57 on June 17 and nicknamed “Maxwell” after physicist James Clerk Maxwell...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace...
 

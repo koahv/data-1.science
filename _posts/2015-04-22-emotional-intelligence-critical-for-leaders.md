@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A newly minted Ph.D. surveyed county Extension directors, their subordinates and peers. The student connected diet and exercise to emotional leadership, a key component for leaders everywhere....
 

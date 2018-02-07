@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Imagine having a complete catalog of the best drug targets to hit in a particularly deadly form of cancer. Imagine having a master catalog of such targets for all the major cancer types and subtypes. Scientists at Cold Spring Harbor Laboratory (CSHL) today publish in Nature Biotechnology a method of compiling just such a catalog, using the revolutionary gene-editing technology called CRISPR....
 

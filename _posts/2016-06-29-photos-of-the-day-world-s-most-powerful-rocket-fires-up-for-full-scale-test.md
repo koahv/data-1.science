@@ -8,6 +8,9 @@ tags: [Space Launch System, NASA, Space Shuttle, Launch vehicle, NASA programs, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsTuesday's test was conducted by Orbital ATK, the NASA contractor that also made the smaller shuttle boosters for NASA. This 154-foot-long booster was horizontal and pointing toward a mountain near...Contributed Author:&nbsp;Marcia Dunn, AP Aerospace WriterTopics:&nbsp;Aerospace...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The hippocampus plays a crucial role in memory formation. However, it is not yet fully understood in what way that brain structure's individual regions are involved in the formation of memories. Neuroscientists have recreated this process with the aid of computer simulations. Their findings challenge the model of memory forming in the hippocampus established to date....
 

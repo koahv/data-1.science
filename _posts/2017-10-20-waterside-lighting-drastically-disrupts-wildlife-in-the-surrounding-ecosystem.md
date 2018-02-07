@@ -8,6 +8,9 @@ tags: [Ecology, Biodiversity, Ecosystem, Natural environment, Conservation, Natu
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Frontiers) Researchers in Germany find that streetlights near waterways attract flying insects from the water and change the predator community living in the grass beneath the lights. The findings show that artificial night-time lighting could have implications for the surrounding ecosystem and biodiversity, which should be considered when designing new lighting concepts....
 

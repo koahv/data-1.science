@@ -8,6 +8,9 @@ tags: [Protein, DNA, Intrinsically disordered proteins, Cell (biology), Cell nuc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A biological mystery lies at the center of each of our cells, namely: how one meter of DNA can be wadded up into the space of a micron (or one millionth of a meter) within each nucleus of our body....
 

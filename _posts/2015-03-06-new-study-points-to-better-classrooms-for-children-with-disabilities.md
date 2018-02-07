@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A pilot study in 51 North Carolina classrooms shows the effectiveness of a new measure in assessing the quality of practices in inclusive preschools. Not only is the Inclusive Classroom Profile a reliable instrument, researchers say it also reveals the types of inclusive settings that may be best serving preschoolers with disabilities, researchers say....
 

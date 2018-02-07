@@ -8,6 +8,9 @@ tags: [Dark matter, Big Bang, Milky Way, Universe, Photon, Matter, Physical cosm
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >For almost a century, astronomers and cosmologists have postulated that space is filled with an invisible mass known as "dark matter". Accounting for 27% of the mass and energy in the observable universe, the existence of this matter was intended to explain all the "missing" baryonic matter in cosmological models. Unfortunately, the concept of dark matter has solved one cosmological problem, only to create another....
 

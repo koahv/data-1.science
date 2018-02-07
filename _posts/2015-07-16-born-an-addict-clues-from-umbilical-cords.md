@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Every baby born that enters this world, arrives with an umbilical cord in tow. For those babies born addicted to drugs, that umbilical cord is now a key connection -- a hard to hide clue -- for identifying what drugs are coursing through a newborn’s veins. The drug(s) detected will help physicians determine the best treatment and what withdrawal symptoms to expect....
 

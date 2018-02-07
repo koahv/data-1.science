@@ -8,6 +8,9 @@ tags: [Automation, Employment, Industry, Technology, Science and technology, Cog
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsAutomation is a hot topic – will robots boost the economy or reduce the number of jobs available for people? McKinsey & Company have compiled data showing which jobs are most and least likely to be automated in the next decade...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Industrial Automation...
 

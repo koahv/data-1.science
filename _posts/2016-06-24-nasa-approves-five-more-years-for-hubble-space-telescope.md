@@ -8,6 +8,9 @@ tags: [Hubble Space Telescope, James Webb Space Telescope, NASA, Astronomy, Phys
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Extra funds for the world’s most famous observatory mean it will be able to work in tandem with its upcoming successor, the James Webb Space Telescope...
 

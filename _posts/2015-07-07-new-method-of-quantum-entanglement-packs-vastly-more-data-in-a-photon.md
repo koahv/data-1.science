@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Los Angeles CA (SPX) Jul 07, 2015 A team of researchers led by UCLA electrical engineers has demonstrated a new way to harness light particles, or photons, that are connected to each other and act in unison no matter how far apart they are - a phenomenon known as quantum entanglement. In previous studies, photons have typically been entangled by one dimension of their quantum properties - usually the direction of their polarizat...
 

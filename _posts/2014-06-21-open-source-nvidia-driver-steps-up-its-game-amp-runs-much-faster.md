@@ -8,6 +8,9 @@ tags: [graphics]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >An anonymous reader writes "With the Linux 3.16 kernel the Nouveau driver now supports re-clocking for letting the NVIDIA GPU cores and video memory on this reverse-engineered NVIDIA driver run at their designed frequencies. Up to now the Nouveau driver has been handicapped to running at whatever (generally low) clock frequencies the video BIOS programmed the hardware to at boot time, but with Linux 3.16 is experimental support for up-clocking to the hardware-rated speeds. The results show the open-source NVIDIA driver running multiple times faster, but it doesn't work for all NVIDIA hardware, causes lock-ups for some GPUs at some frequencies, and isn't yet dynamically controlled. However, it appears to be the biggest break-through in years...
 

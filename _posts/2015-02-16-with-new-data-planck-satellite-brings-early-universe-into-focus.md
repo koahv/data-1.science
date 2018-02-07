@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(The Kavli Foundation) The latest data release from the Planck space telescope offers insight into everything from the fabric of space to dark matter -- and may even still have a shot at detecting gravitational waves, says Kavli Institute for Cosmology Director George Efstathiou....
 

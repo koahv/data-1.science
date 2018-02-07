@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A new technique for creating artificial DNA that is faster, more accurate and more flexible than existing methods has been developed by scientists at Imperial College London....
 

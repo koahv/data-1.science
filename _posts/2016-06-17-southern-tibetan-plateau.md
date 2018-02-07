@@ -8,6 +8,9 @@ tags: [Plateau, Himalayas, Physical geography, Earth sciences, Geology, Geomorph
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Earth observation image of the week: A Sentinel-2A image of the Tibetan Plateau...
 

@@ -8,6 +8,9 @@ tags: [Magnetic reconnection, Magnetosphere, Outer space, Sun, Plasma (physics),
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) Just under four months into the science phase of the mission, NASA's Magnetospheric Multiscale, or MMS, is delivering promising early results on a process called magnetic reconnection -- a kind of magnetic explosion that's related to everything from the northern lights to solar flares....
 

@@ -8,6 +8,9 @@ tags: [Ocean acidification, Sea, Carbon dioxide, Nature, Earth sciences, Physica
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A new study recently published in the journal Global Biogeochemical Cycles offers clues to the potential impact of ocean acidification deep-sea, shell-forming organisms....
 

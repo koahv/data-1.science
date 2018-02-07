@@ -8,6 +8,9 @@ tags: [Open-source model, Climate, Linux, Technology, Computing]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >You can't look anywhere these days without seeing evidence of the changing weather patterns on the earth. Monthly, we are confronted with facts and figures that point to a warming planet. read more...
 

@@ -8,13 +8,14 @@ tags: []
 ---
 
 
+#### Digest
+>Reprocessing means separating spent nuclear reactor fuel into materials that may be recycled for use in new nuclear fuel or discarded as waste, according to the U.S. Nuclear Regulatory Commission. 
+
 #### Extract
 >Seeking a better way to capture radioactive iodides in spent nuclear reactor fuel, scientists have developed an extremely efficient 'molecular trap' that can be recycled and reused....
 
 #### Factsheet
->Reprocessing means separating spent nuclear reactor fuel into materials that may be recycled for use in new nuclear fuel or discarded as waste, according to the U.S. Nuclear Regulatory Commission. 
-
-When spent fuel is reprocessed, radioactive molecular iodine and organic iodide gases that pose cancer and environmental risks must be captured and sequestered.
+>factsheet unavailable
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/11/171101092019.htm)
 

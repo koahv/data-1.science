@@ -8,6 +8,9 @@ tags: [Large Hadron Collider, Particle physics, CERN, Physics, Particle accelera
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >This week more than 230 scientists and engineers from around the world met at CERN to discuss the High-Luminosity LHC – a major upgrade to the Large Hadron Collider (LHC) that will increase the accelerator's discovery potential from 2025....
 

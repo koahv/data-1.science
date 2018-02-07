@@ -8,6 +8,9 @@ tags: [Bacteria, Evolution, Mutation, Antibiotics, Gene, Organism, Antimicrobial
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >How fast does evolution occur? In certain bacteria, it can occur almost instantaneously, a University at Buffalo molecular biologist has discovered....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Manchester) Scientists have come up with a way of creating sensors which could allow machines to smell more accurately humans....
 

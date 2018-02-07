@@ -8,6 +8,9 @@ tags: [Radiocarbon dating, Light, Laser, Greenhouse gas, Absorption spectroscopy
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(The Optical Society) Researchers from Istituto Nazionale di Ottica, within Consiglio Nazionale delle Ricerche, Italy have demonstrated a new compact spectroscopic instrument that offers a highly sensitive optical method for detecting radiocarbon dioxide concentration, which can be used to carbon date fossils and archaeological artifacts....
 

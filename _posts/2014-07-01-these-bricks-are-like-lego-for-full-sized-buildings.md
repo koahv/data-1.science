@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&nbsp;&nbsp; A company called Kite Bricks is out to disrupt the construction business starting with the humble brick. Kite Bricks has developed "Smart Bricks" (S-Bricks) made out of high-strength concrete that can be used to make buildings rapidly, cheaply and energy efficiently. By: Olivia Solon, Continue reading......
 

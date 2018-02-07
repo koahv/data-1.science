@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >RTNASA&#39;s New Rover May Soon Explore Frozen Waters in Outer SpaceTIMEEngineers at NASA&#39;s Jet Propulsion Laboratory have finally built a robot that will be able to chart the icy waters found in outer space — like on Jupiter&#39;s moon Europa — going where no other space robot has gone before. The Buoyant Rover for Under ...Upside-down drive: NASA tests under-ice space roverRTVIDEO: NASA testing upside-down rover prototypeWAAYNASA&#39;s new rover could explore frozen water in spaceThe Week MagazineGizmodo&nbsp;-Salon&nbsp;-Businessweekall 13 news articles&nbsp;&raquo;...
 

@@ -8,6 +8,9 @@ tags: [Cosmic ray, Magnetosphere, Geomagnetic storm, Nature, Physical sciences, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Tata Institute of Fundamental Research) The GRAPES-3 muon telescope, the largest and most sensitive cosmic ray monitor recorded a burst of galactic cosmic rays that indicated a crack in the Earth's magnetic shield. The burst occurred when a giant cloud of plasma ejected from the solar corona struck Earth at a very high speed causing massive compression of the Earth's magnetosphere and triggering a severe geomagnetic storm....
 

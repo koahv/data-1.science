@@ -8,6 +8,9 @@ tags: [Common Criteria, Red Hat, IBM zEnterprise System, Evaluation Assurance Le
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Red Hat Enterprise Linux 7.1 has received Red Hat’s 16th Common Criteria certification and becomes the first operating system to be certified with support for Linux container technology....
 

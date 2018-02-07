@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Takashi Iwai sent in his sound driver updates for Linux 4.1, which includes major modernization with the standard bus for ALSA in the sequencer core and HD-audio code......
 

@@ -8,6 +8,9 @@ tags: [Optics, G-type main-sequence stars, Astronomy, Physical sciences, Outer s
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The post Solar Chromosphere #1 appeared first on Sky &amp; Telescope....
 

@@ -8,6 +8,9 @@ tags: [linux & opensource blog]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Users who like flat icons might want to give Flattr a try. It's probably the flattest theme you can find on the Linux platform and it's been recently updated. Linux users can choose from hundreds, if not more, of icons for their operating systems. There is something for everyone. If you don't like flat icons, you will surely find something you can use, no matter how different your tastes are from everyone else's. The last couple of updates for Flattr have made a real difference, so if you're... (read more)...
 

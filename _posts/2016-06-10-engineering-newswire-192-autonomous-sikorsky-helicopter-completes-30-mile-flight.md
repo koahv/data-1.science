@@ -8,6 +8,9 @@ tags: [Aerospace engineering, Vehicles, Industries, Artificial objects, Aeronaut
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >VideosToday on Engineering Newswire, we’re shooting burn victims with a stem cell gun, flying in an autonomous helicopter, and sailing across the Atlantic in an autonomous, solar-powered boat...Contributed Author:&nbsp;Jon Minnick, Abbey Dean Staff Author:&nbsp;Kaylie DuffyTopics:&nbsp;Aerospace...
 

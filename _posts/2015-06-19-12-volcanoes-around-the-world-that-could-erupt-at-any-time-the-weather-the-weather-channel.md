@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >12 Volcanoes Around the World That Could Erupt At Any Time | The Weather ...The Weather ChannelThe Chilean government expanded an evacuation order around the Calbuco Volcano on Wednesday, as a huge ash cloud spread over a mountainous area in the south of the country. The Chilean government expanded an evacuation order around the&nbsp;......
 

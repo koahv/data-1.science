@@ -8,6 +8,9 @@ tags: [Compact Muon Solenoid, Large Hadron Collider, CERN, Particle accelerator,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists at CERN have now completed "open-heart surgery" on one of the detectors at the Large Hadron Collider (LHC). In a complex operation that ran from 27 February to 9 March, the giant Compact Muon Solenoid (CMS) detector received a new "heart" – it's Pixel Tracker....
 

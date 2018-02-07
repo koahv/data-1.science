@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers have engineered a tethered ribosome that works nearly as well as the authentic cellular component, or organelle, that produces all the proteins and enzymes within the cell. The engineered ribosome may enable the production of new drugs and next-generation biomaterials and lead to a better understanding of how ribosomes function....
 

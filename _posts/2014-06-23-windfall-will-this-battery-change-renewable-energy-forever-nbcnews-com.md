@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Windfall: Will This Battery Change Renewable Energy Forever?NBCNews.comWindfall: Will This Battery Change Renewable Energy Forever? A small Cambridge, Mass. company backed by Bill Gates hopes their liquid metal battery will make energy use much more efficient. About Us &middot; Careers &middot; Contact &middot; Privacy Policy – UPDATED&nbsp;......
 

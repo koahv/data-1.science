@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Combining computer observations and simulations, a new model shows that the presence of neutrals in the gas facilitates the magnetic fields to penetrate through the surface of the Sun producing the spicules....
 

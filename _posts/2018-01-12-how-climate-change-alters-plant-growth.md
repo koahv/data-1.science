@@ -8,6 +8,9 @@ tags: [Arabidopsis thaliana, Biology, Organisms, Life sciences]
 ---
 
 
+#### Digest
+>An investigation into which molecular processes are involved in plant growth. Researchers present their latest findings on the mechanism controlling growth at high temperatures.
+
 #### Extract
 >(Martin-Luther-Universität Halle-Wittenberg) Global warming affects more than just plant biodiversity -- it even alters the way plants grow. A team of researchers at Martin Luther University Halle-Wittenberg (MLU) joined forces with the Leibniz Institute for Plant Biochemistry (IPB) to discover which molecular processes are involved in plant growth. In the current edition of the internationally renowned journal "Current Biology", the group presents its latest findings on the mechanism controlling growth at high temperatures....
 

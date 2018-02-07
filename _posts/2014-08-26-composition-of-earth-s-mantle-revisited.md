@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The makeup of Earth's lower mantle, which makes up the largest part of the Earth by volume, is significantly different than previously thought, research suggests. This should shed light on unexplained seismic phenomena....
 

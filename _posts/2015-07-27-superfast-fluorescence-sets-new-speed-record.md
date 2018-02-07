@@ -8,6 +8,9 @@ tags: [nanophysics]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers have developed an ultrafast light-emitting device that can flip on and off 90 billion times a second and could form the basis of optical computing....
 

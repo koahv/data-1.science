@@ -8,6 +8,9 @@ tags: [biotechnology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scotland is set to ban the cultivation of genetically modified (GM) crops, officials announced Sunday....
 

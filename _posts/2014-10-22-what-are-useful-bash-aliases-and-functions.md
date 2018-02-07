@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&nbsp;xmodulo: As a command line adventurer, you probably found yourself repeating the same lengthy commands over and over....
 

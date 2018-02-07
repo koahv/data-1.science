@@ -8,6 +8,9 @@ tags: [Emergence, Systems theory, Philosophical theories, Psychological concepts
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >VideosYes, conceivably. And if/when we achieve the levels of technology necessary for simulation, the universe will become our playground...Contributed Author:&nbsp;Big ThinkTopics:&nbsp;R&amp;D...
 

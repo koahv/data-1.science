@@ -8,6 +8,9 @@ tags: [Greenhouse gas, Global warming, Greenhouse effect, Earth, Climate change,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The vast majority of scientists around the world agree that our climate is changing at a faster rate than ever recorded in human history because of our use of fuels such as coal and oil, so-called fossil fuels....
 

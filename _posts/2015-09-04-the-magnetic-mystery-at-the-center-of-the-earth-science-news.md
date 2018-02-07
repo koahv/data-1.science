@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Science NewsThe magnetic mystery at the center of the EarthScience NewsFor decades, scientists debated and fine-tuned their understanding of Earth&#39;s magnetism. Heat flowing through the liquid outer core helps slosh the molten iron, generating a magnetic field, the general consensus holds. In the last few years, however ......
 

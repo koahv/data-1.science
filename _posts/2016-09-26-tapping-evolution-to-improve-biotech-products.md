@@ -8,6 +8,9 @@ tags: [Factor VIII, Haemophilia, Gene therapy, Haemophilia A, Protein, Cancer, G
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists can improve protein-based drugs by reaching into the evolutionary past, a paper published in Nature Biotechnology proposes....
 

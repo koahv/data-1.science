@@ -8,6 +8,9 @@ tags: [space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A team of astronomers have identified a remarkably coldest and faintest white dwarf star ever detected that is approximately 11 billion years old....
 

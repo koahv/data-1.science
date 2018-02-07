@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >RTChina plans to land rover on Mars by 2020RTChina is planning to land a rover on Mars by 2020 and bring back samples from the Red Planet a decade later, according to a top scientist with the country&#39;s Lunar Exploration Program. The Mars probe will be launching an orbiter and a landing rover ...China to search Mars for aliens and &#39;recreate planet&#39;People's Daily OnlineChina aims for rover on Mars by 2020NanowerkChina Aims for Two-way Mars Trip by 2020Laboratory EquipmentTechnabob (blog)&nbsp;-WantChinaTimesall 8 news articles&nbsp;&raquo;...
 

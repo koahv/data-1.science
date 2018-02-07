@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Space.comGreetings from Earth! NASA Spacecraft to Carry Message for AliensSpace.comWhen NASA&#39;s New Horizons mission completes its study of Pluto in the summer of 2015, data from Earth will stream to the spacecraft to create a digital record that it will carry with it beyond the solar system. The record echoes the Golden Record ......
 

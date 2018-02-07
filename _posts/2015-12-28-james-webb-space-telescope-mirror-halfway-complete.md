@@ -8,6 +8,9 @@ tags: [Goddard Space Flight Center, NASA, Spacecraft, Space exploration, Outer s
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) Inside NASA's Goddard Space Flight Center's massive clean room in Greenbelt, Maryland, the ninth flight mirror was installed onto the telescope structure with a robotic arm. This marks the halfway completion point for the James Webb Space Telescope's segmented primary mirror....
 

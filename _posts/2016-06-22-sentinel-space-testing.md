@@ -8,6 +8,9 @@ tags: [Satellite, European Space Agency, Vacuum, Technology, Aerospace engineeri
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Technology image of the week: Sentinel-2B being lowered into Europe's largest vacuum chamber for testing...
 

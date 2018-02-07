@@ -8,6 +8,9 @@ tags: [oss]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Intel has decided to release the software under a free software license, meaning that it is basically open source and developers can go ahead and check it out. Dubbed ACAT (Assistive Context-Aware Toolkit), Intel has described it as “an open source platform developed at Intel Labs to enable people with motor neuron diseases and other disabilities to have full access to the capabilities and applications of their computers through very constrained interfaces suitable for their condition.” read more...
 

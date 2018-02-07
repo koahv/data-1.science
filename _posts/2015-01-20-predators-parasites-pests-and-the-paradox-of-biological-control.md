@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Michigan) When a bird swoops down and grabs a caterpillar devouring your backyard garden, you might view it as a clear victory for natural pest control....
 

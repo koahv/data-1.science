@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Former laser physicist Tom Beddard has turned his hand to creating incredible pieces of art that celebrate the beauty and intricacy of fractals. ...
 

@@ -8,6 +8,9 @@ tags: [Atacama Desert, Socompa, Salar de Atacama, Physical geography, Earth scie
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Earth observation image of the week: A Sentinel-2A image of Salar de Atacama, Chile...
 

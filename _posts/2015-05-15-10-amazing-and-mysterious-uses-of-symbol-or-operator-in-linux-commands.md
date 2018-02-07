@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&nbsp;tecmint: The '!' symbol or operator in Linux can be used as Logical Negation operator as well as to fetch commands from history with tweaks or to run previously run command with modification....
 

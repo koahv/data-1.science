@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Recently physicists at Chapman University's Institute for Quantum Studies introduced the Quantum Cheshire Cat. Now they have introduced another quantum animal: the Quantum Pigeon. They introduced a new kind of quantum connectivity between particles which transcends these limitations. This connectivity is happening all the time on a much bigger, cosmic scale....
 

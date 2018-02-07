@@ -8,6 +8,9 @@ tags: [Higgs boson, ATLAS experiment, Particle physics, Large Hadron Collider, P
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&nbsp; &nbsp; Two separate experiments at the Large Hadron Collider at the European Organisation for Nuclear Research, on the French-Swiss border, appear to confirm the existence of a subatomic particle, the Madala boson, that for the first time could shed light on one of the great mysteries of the universe - dark matter. The Madala boson follows the discovery of the Higgs boson in 2012 "but the particles differ remarkably," said the team leader Bruce Mellado of South Africa's Witwatersrand University School of Physics. The Madala boson is heavier and disintegrates into the Higgs boson. "The Higgs boson in the Standard Model of physics is not able to explain several things, such as dark matter," Mellado added. "The Madala boson is importa...
 

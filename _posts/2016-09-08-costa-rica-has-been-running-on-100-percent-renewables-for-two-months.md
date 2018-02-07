@@ -8,6 +8,9 @@ tags: [Renewable energy, Sustainable development, Sustainable technologies, Natu
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Costa Rica ran on 100 percent renewable energy for 76 straight days between June and August this year, according to a new report, demonstrating that life without fossil fuels is possible - for small countries, at least....
 

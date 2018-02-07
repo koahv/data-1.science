@@ -8,6 +8,9 @@ tags: [space exploration]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Japanese whisky will be sent into space next month to test how time in a zero-gravity environment affects its flavour, one of the country's biggest drinks makers said Friday....
 

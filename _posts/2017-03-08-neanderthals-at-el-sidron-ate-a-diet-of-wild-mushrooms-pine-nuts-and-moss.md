@@ -8,6 +8,9 @@ tags: [Neanderthal, Sidrón Cave, Biology, Organisms]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Spanish National Research Council (CSIC)) The studies of Neanderthal fossil remains found at dig sites across Europe continue to provide information about their lifestyles. In the last few years, genome analysis of their fossilised remains has provided a large amount of information about these individuals. The latest study, published in Nature magazine provides information about the diet of the Neanderthals who inhabited the El Sidrón site in Asturias, northern Spain....
 

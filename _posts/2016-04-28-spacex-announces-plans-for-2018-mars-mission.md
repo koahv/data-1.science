@@ -8,6 +8,9 @@ tags: [SpaceX Dragon, SpaceX, SpaceX Red Dragon, Space colonization, Spacecraft,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsAfter landing a re-usable rocket on a barge, SpaceX is moving quickly ahead with a new plan – taking their spacecraft to Mars. CEO Elon Musk has spoken out in favor of colonizing Mars before: putting humans on other...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace...
 

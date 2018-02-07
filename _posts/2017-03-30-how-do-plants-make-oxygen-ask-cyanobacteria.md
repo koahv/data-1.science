@@ -8,6 +8,9 @@ tags: [Cyanobacteria, Evolution, Algae, Photosynthesis, Organism, Nature, Biolog
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(California Institute of Technology) A new study adds 41 new types of cyanobacteria, and helps pin down when in history they 'invented' oxygen-producing photosynthesis....
 

@@ -8,6 +8,9 @@ tags: [Solar energy, Water splitting, Solar cell, Photovoltaics, Electrolysis, E
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists from Forschungszentrum Juelich have developed the first complete and compact design for an artificial photosynthesis facility. This is a decisive step towards applying the technology. The concept is flexible both with respect to the materials used and also the size of the system. The researchers have now published their findings in the journal Nature Communications....
 

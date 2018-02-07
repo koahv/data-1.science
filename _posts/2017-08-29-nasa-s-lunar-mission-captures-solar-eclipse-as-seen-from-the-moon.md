@@ -8,6 +8,9 @@ tags: [Lunar Reconnaissance Orbiter, Moon, NASA, Goddard Space Flight Center, So
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) LRO captured an image of the Moon's shadow over a large region of the United States, centered just north of Nashville, Tennessee....
 

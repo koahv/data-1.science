@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Carnegie Institution for Science) New work from Carnegie's Peter Driscoll suggests Earth's ancient magnetic field was significantly different than the present day field, originating from several poles rather than the familiar two. Then, shortly after our planet's core solidified, Driscoll's work predicts that Earth's magnetic field transitioned to a 'strong,' two-pole one....
 

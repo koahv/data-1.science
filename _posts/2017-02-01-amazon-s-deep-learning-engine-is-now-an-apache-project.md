@@ -8,6 +8,9 @@ tags: [Areas of computer science, Technology, Software, Computing]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Amazon Web Services has seemingly found open source religion over the past several months, including in the field of artificial intelligence....
 

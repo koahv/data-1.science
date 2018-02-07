@@ -8,6 +8,9 @@ tags: [technology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The revolutionary Solar Impulse 2 aircraft took off early Sunday for a six-day, six-night flight over the Pacific Ocean, the most ambitious leg of its quest to circumnavigate the globe powered only by the sun....
 

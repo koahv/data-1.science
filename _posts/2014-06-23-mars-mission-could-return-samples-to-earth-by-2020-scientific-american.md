@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >International Business TimesMars Mission Could Return Samples to Earth by 2020Scientific AmericanBOSTON — A private mission could return Martian samples to Earth by 2020 without even touching down on the Red Planet. The BoldlyGo Institute, a Colorado-based nonprofit, is working to develop the Sample Collection to Investigate Mars (SCIM) mission,&nbsp;...Curiosity marks a full Martian year on Mars -- 687 Earth daysLos Angeles TimesCuriosity 1 Martian Year Anniversary: NASA&#39;s Rover Celebrates 687 Earth Days ...International Business TimesCuriosity celebrates 1 year on Mars – here&#39;s what we have learned so farmyfox8.comWPTVall 96 news articles&nbsp;&raquo;...
 

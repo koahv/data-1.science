@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Raleigh NC (SPX) Feb 17, 2015 Researchers from North Carolina State University are using a technique they developed to observe minute distortions in the atomic structure of complex materials, shedding light on what causes these distortions and opening the door to studies on how such atomic-scale variations can influence a material's properties. Researchers have known for years that the properties of complex materials,...
 

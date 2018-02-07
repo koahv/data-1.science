@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Earlier today while waiting for the Linux 4.9 release, I ran some fresh gitstats on the latest Linux kernel Git tree to see the latest numbers on the kernel for those interested in some analytics......
 

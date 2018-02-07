@@ -8,6 +8,9 @@ tags: [cell & microbiology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists at the European Molecular Biology Laboratory (EMBL) in Heidelberg, Germany, and Stanford University in the USA, have shed new light on how the variations in our molecular make-up, such as gene expression, are controlled within our DNA. The research, published today in Cell, leads to a greater understanding of how certain genetic variants can 'switch' on or off the regulatory elements which control the expression of genes and ultimately the manifestation of an individual's characteristics and disease predispositions....
 

@@ -8,6 +8,9 @@ tags: [Quasar, ExoMars, Delta-DOR, Sun, Schiaparelli EDM lander, Flight, Outer s
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Operations image of the week: ESA is using quasars – some of the Universe’s most enigmatic objects – to perform ultraprecise navigation for ExoMars...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The latest land-cover map for studying the effects of climate change, conserving biodiversity and managing natural resources has been released...
 

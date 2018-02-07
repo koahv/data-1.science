@@ -8,6 +8,9 @@ tags: [Dinosaur, Bird, Enantiornithes, Evolution, Fossil, Skeleton]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org)—A trio of researchers with the Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of Sciences has found evidence that pushes back the earliest example of fused bones in birds by approximately 40 million years. In their paper published in Proceedings of the National Academy of Sciences, Min Wang, Zhiheng Li and Zhonghe Zhou describe their study of the fossilized remains of a bird dated to approximately 120 million years ago....
 

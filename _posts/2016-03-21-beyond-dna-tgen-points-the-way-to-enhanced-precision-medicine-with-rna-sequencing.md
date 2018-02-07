@@ -8,6 +8,9 @@ tags: [Sequencing, RNA-Seq, Cancer, Genetics, RNA, DNA, Genetic analysis, Virus,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(The Translational Genomics Research Institute) Researchers at the Translational Genomics Research Institute (TGen) are showing how genetic analysis using RNA sequencing can vastly enhance that understanding, providing doctors and their patients with more precise tools to target the underlying causes of disease, and help recommend the best course of action. Published today in the journal Nature Reviews Genetics, TGen scientists highlight the many advantages of using RNA-sequencing in the detection and management of everything from cancer to infectious diseases...
 

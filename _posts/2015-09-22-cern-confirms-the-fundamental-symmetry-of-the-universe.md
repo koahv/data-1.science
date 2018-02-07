@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >       Scientists working with ALICE (A Large Ion Collider Experiment), a heavy-ion detector on the Large Hadron Collider (LHC) ring, have made precise measurements of particle mass and electric charge that confirm the existence of a fundamental symmetry in nature. The investigators include Brazilian researchers affiliated with the University of São Paulo (USP) and the University of Campinas (UNICAMP). "After the Big Bang, for every particle of matter an antiparticle was created. In particle physics, a very important question is whether all the laws of physics display a specific kind of symmetry known as CPT, and these measurements suggest that there is indeed a fundamental symmetry between nuclei and antinuclei," said Marcelo Gameiro...
 

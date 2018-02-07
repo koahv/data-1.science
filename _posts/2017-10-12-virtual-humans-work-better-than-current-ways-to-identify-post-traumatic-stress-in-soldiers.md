@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers find that soldiers are more likely to open up about post-traumatic stress when interviewed by a virtual interviewer, reports a new study. Virtual interviewers can combine the rapport-building skills of human interviewers with feelings safety provided by anonymous surveys to help soldiers to reveal more about their mental health symptoms....
 

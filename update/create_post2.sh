@@ -47,23 +47,37 @@ while IFS=$'\n' read -r line_data; do
 	# format tags with commas
 	mod_tags="$(echo -e "${tags}" | sed -e 's/,/, /g')"
 	# echo $mod_tags
+	
+	#header="$(echo -e "${custom_extract}" | sed -e 's/##\(.*\)##/\1/')"
+	
+	
+
+	# split the custom extract between an agreed delimeter 	
+	IFS="#" read digest factsheet <<< $custom_extract
+	
+	#echo $digest;echo done;echo $factsheet
+	
+
 
 	# replace null entries
 	if [[ -z "${author// }" ]]; then
 		author="unknown author"
 	fi
 
-	if [[ -z "${custom_extract// }" ]]; then
-		custom_extract="factsheet unavailable"
+	if [[ -z "${factsheet// }" ]]; then
+		factsheet="factsheet unavailable"
 	fi
 
+	if [[ -z "${digest// }" ]]; then
+		digest="digest unavailable"
+	fi
 
 
 	# clear files
 	rm post_data/${split_date[0]}-$mod_title1.md
 
 	# write post
-	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: $date\\ncategories: $category\\nauthor: $author\\ntags: [$mod_tags]\\n---\\n\\n\\n#### Extract\\n>$mod_extract2...\\n\\n#### Factsheet\\n>$custom_extract\\n\\n[Visit Link]($link)\\n\\n" >> post_data/${split_date[0]}-$mod_title1.md
+	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: $date\\ncategories: $category\\nauthor: $author\\ntags: [$mod_tags]\\n---\\n\\n\\n#### Digest\\n>$digest\\n\\n#### Extract\\n>$mod_extract2...\\n\\n#### Factsheet\\n>$factsheet\\n\\n[Visit Link]($link)\\n\\n" >> post_data/${split_date[0]}-$mod_title1.md
 
 
 

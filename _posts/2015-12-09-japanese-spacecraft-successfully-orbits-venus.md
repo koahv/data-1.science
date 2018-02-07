@@ -8,6 +8,9 @@ tags: [Akatsuki (spacecraft), JAXA, Solar System, Aerospace agencies, Discovery 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsThe nail-biting maneuver that sent Japan’s Akatsuki spacecraft into orbit around Venus this week is being celebrated by NASA scientists, eager to learn more about the atmosphere and climate of...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 

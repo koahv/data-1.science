@@ -8,6 +8,9 @@ tags: [Ice age, Vaalbara, Fossil, Earth, Geology, Bacteria, Great Oxygenation Ev
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Somewhere between Earth's creation and where we are today, scientists have demonstrated that some early life forms existed just fine without any oxygen....
 

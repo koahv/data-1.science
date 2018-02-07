@@ -8,6 +8,9 @@ tags: [Mutation, Evolution, Genetic drift, Cancer, Natural selection, Leukemia, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Colorado Anschutz Medical Campus) A University of Colorado Cancer Center paper published in the Proceedings of the National Academy of Sciences shows that the evolutionary force of genetic drift contributes to the ability of cancerous cells to overtake populations of healthy cells in young children. In contrast, genetic drift contributes almost not at all to leukemia formation in adults. The finding suggests important new avenues for leukemia treatment in very young patients....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Compelling support has been offered for the general evolutionary theory that birth weight and length can partially predict the likelihood of being diagnosed with mental health disorders such as autism and schizophrenia later in life. The study analyzed medical records of 1.75 million Danish births, and subsequent hospital diagnoses for up to 30 years, and adjusted for almost all other known risk factors....
 

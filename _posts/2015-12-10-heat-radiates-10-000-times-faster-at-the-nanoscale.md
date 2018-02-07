@@ -8,6 +8,9 @@ tags: [Heat, Heat transfer, Nanotechnology, Thermal radiation, Electromagnetic r
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Michigan) When heat travels between two objects that aren't touching, it flows differently at the smallest scales -- distances on the order of the diameter of DNA, or 1/50,000 of a human hair....
 

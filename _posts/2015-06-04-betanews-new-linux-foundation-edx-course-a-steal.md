@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In an ongoing partnership with edX, the Linux Foundation is now offering an "Essentials of Linux System Administration" course, which includes an exam attempt and free retake. BetaNews is calling it "a steal" for the value.&nbsp;...
 

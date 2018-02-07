@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >How can you produce a magnet with exactly the right magnetic field? A research team now has a solution: for the first time, they have created magnets with a 3D printer....
 

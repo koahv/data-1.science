@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists used NASA satellite and aerial data to reconstruct how the ice sheet changed at nearly 100,000 locations over many years....
 

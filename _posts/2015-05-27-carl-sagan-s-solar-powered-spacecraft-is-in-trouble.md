@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The test flight of Carl Sagan's LightSail craft is in jeopardy after a computer problem left it unable to communicate with its mission controllers. According to the Planetary Society, the hardware was launched into space with an older version of its ......
 

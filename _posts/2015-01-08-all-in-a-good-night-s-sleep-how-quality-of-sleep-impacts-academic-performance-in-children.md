@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A good night's sleep is linked to better performance by schoolchildren in math and languages -- subjects that are powerful predictors of later learning and academic success, according to a study. The researchers reported that "sleep efficiency" is associated with higher academic performance in those key subjects. Sleep efficiency is a gauge of sleep quality that compares the amount of actual sleep time with the total time spent in bed....
 

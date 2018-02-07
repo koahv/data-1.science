@@ -8,6 +8,9 @@ tags: [Neuron, Nerve, Brain, Motor neuron, Brainstem, Inhibitory postsynaptic po
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Basel) A clearly defined subpopulation of neurons in the brainstem is essential to execute locomotion at high speeds. Interestingly, these high-speed neurons are intermingled with others that can elicit immediate stopping. How defined groups of brainstem neurons can regulate important aspects of full motor programs, reports a study by researchers of the Biozentrum at the University of Basel and the Friedrich Miescher Institute for Biomedical Research (FMI). The journal Nature has published the results....
 

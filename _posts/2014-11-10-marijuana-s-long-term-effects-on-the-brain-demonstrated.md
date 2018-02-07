@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The effects of chronic marijuana use on the brain may depend on age of first use and duration of use, according to new research. Researchers for the first time comprehensively describe existing abnormalities in brain function and structure of long-term marijuana users with multiple magnetic resonance imaging (MRI) techniques....
 

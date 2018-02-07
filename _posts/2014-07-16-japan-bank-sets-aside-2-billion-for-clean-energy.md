@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Shinsei Bank Ltd., a lender for Goldman Sachs Group Inc.’s clean-energy projects in Japan, plans to provide as much as 200 billion yen (US $2 billion) in loans for renewable developments....
 

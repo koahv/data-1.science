@@ -8,6 +8,9 @@ tags: [Dinosaur, Endotherm, Thermoregulation, Oviraptoridae, Ectotherm, Tyrannos
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Were dinosaurs really fast, aggressive hunters like the ones depicted in the movie "Jurassic World"? Or did they have lower metabolic rates that made them move more like today's alligators and crocodiles? For 150 years, scientists have debated the nature of dinosaurs' body temperatures and how those temperatures influenced their activity levels....
 

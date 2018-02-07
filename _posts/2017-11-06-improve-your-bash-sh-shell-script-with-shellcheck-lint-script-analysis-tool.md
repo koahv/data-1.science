@@ -8,6 +8,9 @@ tags: [Fedora (operating system), Software, Computing, System software, Operatin
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ShellCheck is a static analysis tool for shell scripts. One can use it to finds bugs in your shell scripts. It is written in Haskell. You can find warnings and suggestions for bash/sh shell scripts with this tool. Let us see how to install and use ShellCheck on a Linux or Unix-like system to enhance your shell scripts, avoid errors and productivity....
 

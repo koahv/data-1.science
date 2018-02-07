@@ -8,6 +8,9 @@ tags: [Radio astronomy, LIGO, Astronomy, Karl G. Jansky Very Large Array, Radio 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Naval Research Laboratory) NRL Radio Astrophysics and Sensing Section astronomers join an international collaboration of researchers with the Caltech-led GROWTH project, resulting in the first ever observation of the radio counterpart to a gravitational wave event....
 

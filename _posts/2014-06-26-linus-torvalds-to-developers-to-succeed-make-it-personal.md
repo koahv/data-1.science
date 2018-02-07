@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >"It's not that Linux was new from a technical standpoint. It was new because it was done differently," says Linus Torvalds in his interview with the IEEE Computer Society. "Linux made it clear how well open source works, not just from a technical standpoint, but also from a business, commercial, and community standpoint."...
 

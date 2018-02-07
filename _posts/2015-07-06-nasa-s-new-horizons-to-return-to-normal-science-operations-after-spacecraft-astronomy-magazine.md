@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The NationalNASA&#39;s New Horizons to return to normal science operations after spacecraft ...Astronomy MagazinePreparations are ongoing to resume the originally planned science operations July 7 and to conduct the entire close flyby sequence as planned. By NASA | Published: Monday, July 06, 2015. RELATED TOPICS: SOLAR SYSTEM | PLUTO | NEW HORIZONS.A &#39;New Horizon&#39; in astronomy as probe is set to reach Pluto after 9-year trekThe NationalHow to find Pluto around the time of its historic encounter with New HorizonsAstronomy Now Onlineall 633 news articles&nbsp;&raquo;...
 

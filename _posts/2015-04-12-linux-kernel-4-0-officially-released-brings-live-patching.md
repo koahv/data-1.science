@@ -8,6 +8,9 @@ tags: [open source software]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Today, April 12, is a big day for all fans of the Open Source movement, as Linus Torvalds had the pleasure of announcing the immediate availability for download of the highly anticipated Linux kernel 4.0. Besides the new version number, Linux kernel 4.0 finally allows no-reboot patching, adds new drivers and updates existing ones, brings better support for new hardware components, and includes several other interesting features, but not as many as one might have expected. ... (read more)...
 

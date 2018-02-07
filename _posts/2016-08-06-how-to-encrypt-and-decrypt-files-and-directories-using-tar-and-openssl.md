@@ -8,6 +8,9 @@ tags: [Encryption, Tar (computing), Cyberwarfare, Information Age, Areas of comp
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Title:&nbsp;How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL6 AugLearn more...
 

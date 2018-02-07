@@ -8,6 +8,9 @@ tags: [Surface gravity, Mars, Gravity, Earth, Planetary science, Physics, Space 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The planet Mars has few things in common. Both planets have roughly the same amount of land surface area, sustained polar caps, and both have a similar tilt in their rotational axes, affording each of them strong seasonal variability. Additionally, both planets present strong evidence of having undergone climate change in the past. In Mars' case, this evidence points towards it once having a viable atmosphere and liquid water on its surface....
 

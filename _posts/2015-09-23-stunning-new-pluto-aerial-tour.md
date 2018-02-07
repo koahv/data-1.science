@@ -8,6 +8,9 @@ tags: [space exploration]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >I'm Stuart Robbins, a research scientist at the Southwest Research Institute in Boulder, Colorado. NASA's New Horizons spacecraft made hundreds of individual observations during its flyby of the Pluto system in mid-July. The spacecraft is now sending back lots of image and composition data; over the past two weeks, New Horizons has returned to Earth dozens of images at up to 400 meters per pixel (m/px) of the flyby hemisphere, and this has given scientists and the public an unprecedented view of this mysterious world....
 

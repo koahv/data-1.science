@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A new image shows two dramatic star formation regions in the southern Milky Way. The first is of these, on the left, is dominated by the star cluster NGC 3603, located 20,000 light-years away, in the Carina–Sagittarius spiral arm of the Milky Way galaxy. The second object, on the right, is a collection of glowing gas clouds known as NGC 3576 that lies only about half as far from Earth....
 

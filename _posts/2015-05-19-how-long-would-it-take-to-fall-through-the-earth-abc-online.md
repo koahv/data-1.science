@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ABC OnlineHow long would it take to fall through the Earth?ABC OnlineAs you drill down towards the centre of the Earth, you would first pass through up to 100 kilometres of solid crust, followed by a few thousand kilometres of molten rock. At 2900 km down you would plunge into some 2200 kilometres of liquid iron and ......
 

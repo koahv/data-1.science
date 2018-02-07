@@ -8,6 +8,9 @@ tags: [Photosynthesis, Reactive oxygen species, Plant, Oxygen, Chloroplast, Meta
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Kobe University) When excess light energy is absorbed by plants during photosynthesis, harmful reactive oxygen species are produced. These reactive oxygen species break down important structures such as proteins and membranes, preventing them from functioning properly. Researchers have discovered the system used by plants to prevent oxidative stress and to safely carry out photosynthesis....
 

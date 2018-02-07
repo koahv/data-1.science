@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Southern California) Sri Narayan and his team have developed a rechargeable battery that is all organic and could be scaled up easily for use in power plants....
 

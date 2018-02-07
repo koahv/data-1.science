@@ -8,6 +8,9 @@ tags: [Schiaparelli EDM lander, Space agencies, Mars, Missions to the planets, U
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >This week, the commands that will govern the Schiaparelli lander’s descent and touchdown on Mars were uploaded to ESA’s ExoMars spacecraft, enroute to the Red Planet....
 

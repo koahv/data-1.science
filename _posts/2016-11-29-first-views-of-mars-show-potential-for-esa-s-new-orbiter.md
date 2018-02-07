@@ -8,6 +8,9 @@ tags: [Outer space, Spaceflight, Space science, Astronomy, Space exploration, Ma
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA’s new ExoMars orbiter has tested its suite of instruments in orbit for the first time, hinting at a great potential for future observations....
 

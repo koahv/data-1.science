@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(National Academy of Sciences) The National Academy of Sciences and the National Academy of Medicine are launching a major initiative to guide decision making about controversial new research involving human gene editing....
 

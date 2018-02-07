@@ -8,6 +8,9 @@ tags: [other sciences]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org) —Dinosaur footprints in Central Queensland's Lark Quarry were not all caused by a dinosaur stampede, as previously thought....
 

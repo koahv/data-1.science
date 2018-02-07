@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Phys.OrgElon Musk&#39;s high-speed Hyperloop train makes more sense for Mars than ...Phys.OrgEver wanted to ride to work in a screaming roller-coaster gun? If your answer was yes: good news! Elon Musk – of SpaceX and Tesla Motors fame – recently proposed the &quot;Hyperloop,&quot; a high-speed floating train that&#39;s accelerated by magnets and coasts&nbsp;...Why does SpaceX care about super-fast trains? Think Mars.Houston Chronicle (subscription)Hyperloop on Mars?h+ Magazineall 11 news articles&nbsp;&raquo;...
 

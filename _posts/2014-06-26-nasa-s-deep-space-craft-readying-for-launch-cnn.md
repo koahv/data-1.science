@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NASA&#39;s deep-space craft readying for launchCNN(CNN) -- The U.S. space shuttle program retired in 2011, leaving American astronauts to hitchhike into orbit. But after three long years, NASA&#39;s successor is almost ready to make an entrance. Orion, the agency&#39;s newest manned spaceship, is being ......
 

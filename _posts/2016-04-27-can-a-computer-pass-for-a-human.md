@@ -8,6 +8,9 @@ tags: [Turing test, Computer science, Theoretical computer science, Epistemology
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >VideosWhat is consciousness? Can an artificial machine really think? For many, these have been vital considerations for the future of artificial intelligence. But British computer scientist Alan Turing decided to...Contributed Author:&nbsp;TED-EdTopics:&nbsp;Consumer Electronics...
 

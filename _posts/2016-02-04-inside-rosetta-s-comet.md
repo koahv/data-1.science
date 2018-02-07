@@ -8,6 +8,9 @@ tags: [Rosetta (spacecraft), Comet, Gravity, 67P/Churyumov–Gerasimenko, Astero
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >There are no large caverns inside Comet 67P/Churyumov-Gerasimenko. ESA’s Rosetta mission has made measurements that clearly demonstrate this, solving a long-standing mystery....
 

@@ -8,6 +8,9 @@ tags: [Quantum computing, Integrated circuit, Semiconductor device fabrication, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Today, Intel announced the delivery of a 17-qubit superconducting test chip for quantum computing to QuTech, Intel's quantum research partner in the Netherlands. The new chip was fabricated by Intel and features a unique design to achieve improved yield and performance....
 

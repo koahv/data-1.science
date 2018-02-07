@@ -8,6 +8,9 @@ tags: [other sciences]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists said Wednesday they had unravelled the oldest DNA ever retrieved from a Homo sapiens bone, a feat that sheds light on modern humans' colonisation of the planet....
 

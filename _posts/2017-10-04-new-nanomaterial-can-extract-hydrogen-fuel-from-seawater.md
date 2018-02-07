@@ -8,6 +8,9 @@ tags: [Solar energy, Fuel, Photocatalysis, Water, Energy, Nano flake, Alternativ
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Central Florida) A new hybrid nanomaterial harvests solar energy and uses it to extract hydrogen from seawater, cheaply and efficiently. Future commercialization could mean a new source of environmentally friendly fuel and less dependence on fossil fuels....
 

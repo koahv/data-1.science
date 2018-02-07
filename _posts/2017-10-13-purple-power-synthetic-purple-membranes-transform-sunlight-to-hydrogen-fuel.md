@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A new way has been found to produce solar fuels by developing “synthetic purple membranes.” These membranes involve an assembly of lipid nanodiscs, man-made proteins, and semiconducting nanoparticles that, when taken together, can transform sunlight into hydrogen fuel....
 

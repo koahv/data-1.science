@@ -8,6 +8,9 @@ tags: [Bacillus thuringiensis, Genetically modified crops, Agriculture, Biotechn
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Arizona) Pest resistance to genetically engineered crops Bt crops is evolving faster now than before, UA researchers show in the most comprehensive study to date. But as expected from evolutionary theory, resistance can be delayed if farmers comply with recommendations to make use of abundant refuges....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Planetary boundaries have been proposed to describe a safe operating space of humanity. Human consumption of freshwater is the used control variable for a freshwater planetary boundary. Research is now showing that global freshwater consumption has already pushed beyond its boundary....
 

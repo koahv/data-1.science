@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The first blood test to diagnose major depression in adults has been developed, providing the first objective, scientific diagnosis for depression. The test also predicts who will benefit from cognitive behavioral therapy, offering the opportunity for more effective, individualized therapy. The test also showed the biological effects of the therapy, the first measurable, blood-based evidence of the therapy's success and showed who is vulnerable to recurring episodes of depression....
 

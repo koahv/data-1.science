@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Fraunhofer-Gesellschaft) A new type of steel-reinforced concrete protects buildings better from bomb attacks. Researchers have developed a formula to quickly calculate the concrete's required thickness. The material will be used in the One World Trade Center at Ground Zero....
 

@@ -8,6 +8,9 @@ tags: [Security technology, Applications of cryptography, World Wide Web, Inform
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >LinuxSecurity.com: The number of phishing attacks reach a record rate in 2017, but the majority of the phishing sites remain active for just four- to eight hours....
 

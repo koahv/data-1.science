@@ -8,6 +8,9 @@ tags: [OLED, Technology, Artificial objects, Science and technology, Chemistry]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Harvard University) A powerful materials discovery platform created at Harvard University to dramatically accelerate the process of screening millions of molecules for use in future technologies will now speed the commercial development of next-generation electronic displays....
 

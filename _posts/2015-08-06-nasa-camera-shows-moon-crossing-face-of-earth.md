@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A NASA camera aboard the Deep Space Climate Observatory (DSCOVR) satellite captured a unique view of the moon as it moved in front of the sunlit side of Earth last month. The series of test images shows the fully illuminated “dark side” of the moon that is never visible from Earth.Read more about NASA Camera Shows Moon Crossing Face of EarthComments...
 

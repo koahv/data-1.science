@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The female mosquitoes that spread dengue and yellow fever didn't always rely on human blood to nourish their eggs. Their ancestors fed on furrier animals in the forest. But then, thousands of years ago, some of these bloodsuckers made a smart switch: They began biting humans and hitchhiked all over the globe, spreading disease in their wake....
 

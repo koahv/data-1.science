@@ -8,6 +8,9 @@ tags: [Neanderthal, Evolution, Anatomically modern human, Hybrid (biology), Gene
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Neanderthals and modern humans interbred long ago, but evolution has purged many of our caveman relative's genes from modern human genomes, a new study finds....
 

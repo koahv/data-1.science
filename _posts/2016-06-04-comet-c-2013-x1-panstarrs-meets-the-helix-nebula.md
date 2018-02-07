@@ -8,6 +8,9 @@ tags: [Pan-STARRS, Astronomy, Astronomical objects, Outer space, Physical scienc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The post Comet C/2013 X1 PanSTARRS meets the Helix Nebula appeared first on Sky &amp; Telescope....
 

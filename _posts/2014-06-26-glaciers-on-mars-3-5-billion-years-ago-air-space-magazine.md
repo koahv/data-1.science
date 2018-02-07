@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Tech TimesGlaciers on Mars, 3.5 Billion Years AgoAir & Space MagazineJust as NASA&#39;s Curiosity Mars rover completed a Martian year—687 Earth days—at Gale Crater this week, an international team led by Alberto Fairén of Cornell University and the Centro de Astrobiología in Spain presented evidence that the crater was&nbsp;...Mars Curiosity now traversing former ancient glacier territoryTech TimesWPI President Leshin Is One of Many Women Running NASA&#39;s Curiosity Mars ...WPI NewsCuriosity update: One Mars Year! Sols 662-670The Planetary Society (blog)Voice of America (blog)&nbsp;-The Hindu&nbsp;-Jet Propulsion Laboratoryall 37 news articles&nbsp;&raquo;...
 

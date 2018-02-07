@@ -8,6 +8,9 @@ tags: [chemistry]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Duke University researchers have devised a method to activate genes in any specific location or pattern in a lab dish with the flip of a light switch by crossing a bacterium's viral defense system with a flower's response to sunlight....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Khronos Group has shared details about their BoF sessions to be hosted next month during SIGGRAPH and it includes detailing the next-generation OpenGL / OpenGL ES specifications......
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Patients suffering from depression appear to experience time differently than healthy individuals. Statements made by patients in a recent study indicate that for them time seems to pass extremely slowly or even stands still. Psychologists have collated relevant studies on the subject to analyze them in a meta-study....
 

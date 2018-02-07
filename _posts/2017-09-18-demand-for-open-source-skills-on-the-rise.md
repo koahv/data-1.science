@@ -8,6 +8,9 @@ tags: [Cloud computing, DevOps, Big data, Open-source model, Business, Technolog
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Title:&nbsp;Demand for Open Source Skills on the Rise18 SepLearn more...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Cornell University) A new study published in PNAS finds that when plants develop mutually beneficial relationships with animals, mainly insects, those plant families become more diverse by evolving into more species over time....
 

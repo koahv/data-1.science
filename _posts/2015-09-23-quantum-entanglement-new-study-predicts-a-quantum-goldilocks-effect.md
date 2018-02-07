@@ -8,6 +8,9 @@ tags: [quantum physics]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Just as in the well-known children's story of Goldilocks and the Three Bears, something good happens when things are done in moderation, rather than in extremes....
 

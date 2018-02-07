@@ -8,6 +8,9 @@ tags: [Sentinel-2, Outer space, European space programmes, Space agencies, Space
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A look back on the preparations for the 7 March liftoff of Sentinel-2B...
 

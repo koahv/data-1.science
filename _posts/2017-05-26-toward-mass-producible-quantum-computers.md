@@ -8,6 +8,9 @@ tags: [Quantum mechanics, Quantum computing, Light, Qubit, Electron, Chemistry, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Mass-producible quantum computers are closer than ever, thanks to new research. This process for positioning quantum bits in diamond optical circuits could work at large scales, say scientists....
 

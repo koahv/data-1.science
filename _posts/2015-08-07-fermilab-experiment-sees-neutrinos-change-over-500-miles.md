@@ -8,6 +8,9 @@ tags: [general physics]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists on the NOvA experiment saw their first evidence of oscillating neutrinos, confirming that the extraordinary detector built for the project not only functions as planned but is also making great progress toward its goal of a major leap in our understanding of these ghostly particles....
 

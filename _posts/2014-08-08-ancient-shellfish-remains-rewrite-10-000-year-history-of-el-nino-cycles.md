@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Washington) Piles of ancient shells provide the first reliable long-term record for the powerful driver of year-to-year climate changes. Results show that the El Niños 10,000 years ago were as strong and frequent as they are today....
 

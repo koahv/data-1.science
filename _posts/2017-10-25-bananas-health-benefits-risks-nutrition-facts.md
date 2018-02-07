@@ -8,6 +8,9 @@ tags: [Banana, Dietary fiber, Weight loss, Vitamin, Cardiovascular disease, Nutr
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Bananas are packed with nutrients and are good for your heart, your eyes, your diet and your mood....
 

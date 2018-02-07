@@ -8,6 +8,9 @@ tags: [Sentinel-1A, Sentinel-1, Space colonization, Earth sciences, Spaceflight,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The twin Sentinel-1 satellites have – for the first time – combined to show their capability for revealing even small deformations in Earth’s surface....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Penn State) Adding an avocado to your daily diet may help lower bad cholesterol, in turn reducing risk for heart disease, according to health researchers....
 

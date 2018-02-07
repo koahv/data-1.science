@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Washington PostThe mysterious 2 billion-year-old creature that would make Darwin smileWashington PostFar beneath the ocean&#39;s surface, buried in a layer of murky sludge, communities of ancient bacteria have existed virtually unchanged for nearly half of Earth&#39;s history. In what researchers call the “greatest absence of evolution ever reported,” these ...Scientists find organism that hasn&#39;t evolved in 2 billion yearsUPI.comDiscovery of Bacteria That Hasn&#39;t Evolved in 2 Billion Years Is New Validation ...ABC NewsOrganism discovered that has remained unchanged for more than 2 billion yearsGizmagKTICall 92 news articles&nbsp;&raquo;...
 

@@ -8,6 +8,9 @@ tags: [optics & photonics]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >With the help of a semiconductor quantum dot, physicists at the University of Basel have developed a new type of light source that emits single photons. For the first time, the researchers have managed to create a stream of identical photons. They have reported their findings in the scientific journal Nature Communications together with colleagues from the University of Bochum....
 

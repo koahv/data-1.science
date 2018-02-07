@@ -8,6 +8,9 @@ tags: [Cryptography, Encryption, Lynis, Blowfish (cipher), Computer file, Comput
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Encrypting files with vim Everyone has secrets. Or at least some data you don&#8217;t want to show others, right? Vim is a common editor to be found on Linux systems. It has an option to create and use encrypted files. We will look at how to configure it and use this encryption capability. Encryption is the process of fiddling with data so that others no longer can&#8217;t read it. The idea is that you still can, so when we speak [...] The post Using encrypted documents with vim appeared first on Linux Audit....
 

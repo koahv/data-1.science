@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Discovery NewsSpace Weather Creates Electrical &#39;Bermuda Triangles&#39;Discovery NewsIt doesn&#39;t make compasses needles spin wildly or have anything to do with the lost city of Atlantis, but scientists have discovered a truly unearthly force they suspect is messing with electrical grids near the equator. It&#39;s called the equatorial ...and more&nbsp;&raquo;...
 

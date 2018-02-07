@@ -8,6 +8,9 @@ tags: [Space exploration, Spaceflight technologies, Space programs, Spacecraft, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Replay of liftoff of Soyuz carrying Galileo satellites 11 and 12, at 11:51 GMT, from Europe’s Spaceport in French Guiana...
 

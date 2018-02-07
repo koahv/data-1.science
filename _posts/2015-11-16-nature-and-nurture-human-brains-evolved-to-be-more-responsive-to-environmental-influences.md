@@ -8,6 +8,9 @@ tags: [Nature versus nurture, Genetics, Proceedings of the National Academy of S
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists have discovered that human brains exhibit more plasticity, propensity to be modeled by the environment, than chimpanzee brains and that this may have accounted for part of human evolution....
 

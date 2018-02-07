@@ -8,6 +8,9 @@ tags: [European Space Agency, Space programs, Scientific exploration, Space-base
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA astronaut Thomas Pesquet, NASA astronaut Peggy Whitson and commander Oleg Novitsky were launched into space at 20:20 GMT (21:20 CET)...
 

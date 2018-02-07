@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers believe that periodic clearance of a specific protein across the blood brain barrier could hold tremendous potential for new therapies....
 

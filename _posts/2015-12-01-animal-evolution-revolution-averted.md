@@ -8,6 +8,9 @@ tags: [Animal, Ctenophora, Placozoa, Sponge, Evolution, Biology, Organisms, Biol
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Ludwig-Maximilians-Universität München) Who came first -- sponges or comb jellies? A new study by an team of Ludwig-Maximilians-Universitaet (LMU) in Munich reaffirms that sponges are the oldest animal phylum -- and restores the classical view of early animal evolution, which recent molecular analyses had challenged....
 

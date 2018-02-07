@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Celebrating its 10th anniversary this week, NASA's Aura satellite and its four onboard instruments measure some of the climate agents in the atmosphere, including greenhouse gases, clouds and dust particles. These global datasets provide clues that help scientists understand how Earth's climate has varied and how it will continue to change....
 

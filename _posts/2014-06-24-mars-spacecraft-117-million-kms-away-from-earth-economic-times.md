@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Economic TimesMars spacecraft 117 million Kms away from earthEconomic TimesMars Orbiter Mission spacecraft, launched in November last, is travelling at a velocity of 23 km/s and the present distance between MOM and Mars is 24 million km, Indian Space Research Organisation said today. The communication signals sent from MOM&nbsp;......
 

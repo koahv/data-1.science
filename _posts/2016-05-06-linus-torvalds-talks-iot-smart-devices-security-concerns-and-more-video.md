@@ -8,6 +8,9 @@ tags: [Internet of things, Linux, Linux kernel, Software, Computers, Computing, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >For the first time in the 11-year history of the Embedded Linux Conference (ELC), held in San Diego, April 4-6, the keynotes included a discussion with Linus Torvalds. The creator and lead overseer of the Linux kernel, and “the reason we are all here,” in the words of his interviewer, Intel Chief Linux and Open Source Technologist Dirk Hohndel, seemed upbeat about the state of Linux in embedded and Internet of Things applications....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of California - Davis) About one-fifth of the Earth's atmosphere is oxygen, pumped out by green plants as a result of photosynthesis and used by most living things on the planet to keep our metabolisms running. UC Davis scientists have now shown that oxygen can be formed directly from carbon dioxide in the upper atmosphere, changing models of how the atmosphere evolved early in Earth's history....
 

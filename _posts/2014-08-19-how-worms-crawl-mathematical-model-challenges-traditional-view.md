@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A new mathematical model for earthworms and insect larvae challenges the traditional view of how these soft bodied animals get around. Researchers say that there is a far greater role for the body's mechanical properties and the local nerves which react to the surface that the animal is traveling across....
 

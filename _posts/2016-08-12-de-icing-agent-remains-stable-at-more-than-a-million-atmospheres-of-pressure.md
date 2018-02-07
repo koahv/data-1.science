@@ -8,6 +8,9 @@ tags: [Lawrence Livermore National Laboratory, Chemistry, Physical sciences, Sci
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(DOE/Lawrence Livermore National Laboratory) Lawrence Livermore National Laboratory scientists have combined X-ray diffraction and vibrational spectroscopy measurements together with first-principle calculations to examine the high-pressure structural behavior of magnesium chloride....
 

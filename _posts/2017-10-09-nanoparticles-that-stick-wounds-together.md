@@ -8,6 +8,9 @@ tags: [Adhesive, Bioglass, Swiss Federal Laboratories for Materials Science and 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In spite of medical advances, wound-related complications arising after operations can still be life-threatening. In order to avoid these complications in the future, a new nanoparticle-based tissue glue has been developed by researchers at Empa....
 

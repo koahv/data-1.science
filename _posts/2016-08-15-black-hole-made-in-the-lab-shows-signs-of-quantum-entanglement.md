@@ -8,6 +8,9 @@ tags: [Black hole, Hawking radiation, Event horizon, Applied and interdisciplina
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Efforts to study black holes in the lab with versions that trap sound instead of light may have revealed a key prediction made by Stephen Hawking...
 

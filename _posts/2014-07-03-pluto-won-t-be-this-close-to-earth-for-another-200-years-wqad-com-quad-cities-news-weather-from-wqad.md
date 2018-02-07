@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >WQAD.com -- Quad Cities News & Weather from WQADPluto won&#39;t be this close to Earth for another 200 yearsWQAD.com -- Quad Cities News & Weather from WQADPluto, which was demoted from planet to dwarf planet in 2006, will reach its closes approach to Earth on July 4, 2014. Pluto is about 1,000 times fainter than the dimmest stars visible to the naked eye, but Slooh Observatory will highlight out close ...and more&nbsp;&raquo;...
 

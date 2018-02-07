@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Full replays of the first and second parts of the Galileo launch transmission, including liftoff and separation...
 

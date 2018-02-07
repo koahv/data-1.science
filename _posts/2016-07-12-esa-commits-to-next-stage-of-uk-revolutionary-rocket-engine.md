@@ -8,6 +8,9 @@ tags: [SABRE (rocket engine), Reaction Engines Limited, Engine, Space exploratio
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The UK’s Farnborough airshow today saw ESA’s commitment to the next step in developing a revolutionary air-breathing rocket engine that could begin test firings in about four years....
 

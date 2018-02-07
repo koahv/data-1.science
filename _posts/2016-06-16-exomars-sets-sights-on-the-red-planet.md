@@ -8,6 +8,9 @@ tags: [ExoMars Trace Gas Orbiter, ExoMars, Schiaparelli EDM lander, Spaceflight,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ExoMars captured its first images of Mars this week as part of its preparations for arriving at the Red Planet in October....
 

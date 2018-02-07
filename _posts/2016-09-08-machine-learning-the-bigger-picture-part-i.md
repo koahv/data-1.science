@@ -8,6 +8,9 @@ tags: [Computer, Automation, Technology, Science and technology, Cognition, Arti
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In the past few decades, computer systems have achieved a whole lot. They have managed to organize and catalog the information produced by our civilization as a whole. They have relieved us from stringent cognitive tasks and increased our productivity significantly. One could say that where the industrial revolution automated labor, the digital revolution has automated cognitive labor. This statement isn’t entirely correct however, if it was we would all be without a job. So what can humans do that machines can’t?...
 

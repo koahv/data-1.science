@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >After travelling nearly 6.4 billion kilometres through the Solar System, ESA’s Rosetta is closing in on its target. But how does a spacecraft actually arrive at a comet?&nbsp;...
 

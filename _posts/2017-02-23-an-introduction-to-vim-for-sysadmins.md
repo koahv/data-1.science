@@ -8,6 +8,9 @@ tags: [Vim (text editor), Computer keyboard, Arrow keys, Text editor, Undo, Linu
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Title:&nbsp;An Introduction to Vim for Sysadmins 23 FebLearn more...
 

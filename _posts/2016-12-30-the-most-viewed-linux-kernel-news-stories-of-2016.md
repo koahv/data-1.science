@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >There are just a few more interesting recaps to share before 2016 draws to an end. I figured some of you may be curious about the most-viewed kernel news stories on Phoronix this calendar year......
 

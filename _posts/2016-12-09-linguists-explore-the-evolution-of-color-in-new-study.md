@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The naming of colors has long been a topic of interest in the study of human culture and cognition -- revealing the link between perception, language, and the categorization of the natural world. A major question in the study of both anthropology and cognitive science is why the world's languages show recurrent similarities in color naming. Linguists tracked the evolution of color terms across a large language tree in Australia in order to trace the history of these systems....
 

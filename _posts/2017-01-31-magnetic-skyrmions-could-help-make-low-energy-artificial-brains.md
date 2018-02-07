@@ -8,6 +8,9 @@ tags: [Chemical synapse, Synapse, Skyrmion, Long-term potentiation, Neuroscience
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Calculations suggest memory and learning could be mimicked by quasiparticles...
 

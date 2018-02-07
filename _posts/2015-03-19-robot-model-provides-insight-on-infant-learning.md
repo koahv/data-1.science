@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >An Indiana University cognitive scientist and collaborators have found that posture is critical in the early stages of acquiring new knowledge.Read more about Robot Model Provides Insight on Infant LearningComments...
 

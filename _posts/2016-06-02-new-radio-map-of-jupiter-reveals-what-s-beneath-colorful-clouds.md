@@ -8,6 +8,9 @@ tags: [Astronomy, Atmosphere of Jupiter, Jupiter, Cloud, Atmosphere of Earth, Ka
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of California - Berkeley) Using the upgraded Very Large Array, UC Berkeley astronomers have produced a detailed radio map of the upper 100 kilometers of Jupiter's atmosphere, revealing the complex movement of ammonia gas that shapes the colorful clouds observed in the optical. The map will help understand how global circulation and cloud formation are driven by Jupiter's powerful internal heat source, and shed light on similar processes on giant planets in our solar system and around distant stars....
 

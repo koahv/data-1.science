@@ -8,6 +8,9 @@ tags: [physics]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >New research provides revelations about the most energetic event in the universe—the merging of two spinning, orbiting black holes into a much larger black hole....
 

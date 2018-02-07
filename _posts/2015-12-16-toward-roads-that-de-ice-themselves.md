@@ -8,6 +8,9 @@ tags: [American Chemical Society, American Association for the Advancement of Sc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(American Chemical Society) As winter approaches, stores, cities and homeowners are stocking up on salt, gravel and sand in anticipation of slippery roads. But this annual ritual in colder climates could soon become unnecessary. Researchers report in ACS' journal Industrial & Engineering Chemistry Research a new road material that could de-ice itself....
 

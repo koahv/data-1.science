@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Cognitive Neuroscience Society) Neuroscientists are taking inspiration from natural motor control to design new prosthetic devices that can better replace limb function. In new work, being presented today at the Cognitive Neuroscience Society conference in San Francisco, researchers have tested a range of brain-controlled devices -- from wheelchairs to robots to advanced limbs -- that work with their users to intelligently perform tasks....
 

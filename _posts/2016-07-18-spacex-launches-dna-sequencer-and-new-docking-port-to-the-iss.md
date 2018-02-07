@@ -8,6 +8,9 @@ tags: [SpaceX Dragon, Spaceflight, Spacecraft, Human spaceflight, Space explorat
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A Falcon 9 rocket has just blasted off NASA's Kennedy Space Center in Florida, launching a Dragon capsule to the ISS before landing back on the ground...
 

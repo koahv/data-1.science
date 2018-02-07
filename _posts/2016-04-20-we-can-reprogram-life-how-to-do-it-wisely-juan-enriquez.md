@@ -8,6 +8,9 @@ tags: [Computing, Cyberspace]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >For four billion years, what lived and died on Earth depended on two principles: natural selection and random mutation. Then humans came along and changed everything — hybridizing plants, breeding animals, altering the environment and even purposefully evolving ourselves. Juan Enriquez provides five guidelines for a future where this ability to program life rapidly accelerates. "This is the single most exciting adventure human beings have been on," Enriquez says. "This is the single greatest superpower humans have ever had."...
 

@@ -8,6 +8,9 @@ tags: [Erik Verlinde, Modified Newtonian dynamics, Gravity, Dark matter, Physics
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >     A new theory of gravity might explain the curious motions of stars in galaxies. Emergent gravity, as the new theory is called, predicts the exact same deviation of motions that is usually explained by invoking dark matter. Erik Verlinde, renowned expert in string theory at the University of Amsterdam and the Delta Institute for Theoretical Physics, published a new research paper today in which he expands his groundbreaking views on the nature of gravity. In 2010, Erik Verlinde surprised the world with a completely new theory of gravity. According to Verlinde, gravity is not a fundamental force of nature, but an emergent phenomenon. In the same way that temperature arises from the movement of microscopic particles, gravity emerges...
 

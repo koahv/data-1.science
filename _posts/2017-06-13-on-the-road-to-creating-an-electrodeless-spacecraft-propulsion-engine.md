@@ -8,6 +8,9 @@ tags: [Spacecraft propulsion, Plasma propulsion engine, Physics, Plasma (physics
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The universe is made up of plasma, which is easily influenced by magnetic fields and forces, leading to complex behavior. Plasmas are found throughout the solar system in places such as the planetary magnetosphere, solar wind and in the tails of comets....
 

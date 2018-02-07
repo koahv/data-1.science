@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >After a year in orbit, the three Swarm satellites have provided a first glimpse inside Earth and started to shed new light on the dynamics of the upper atmosphere – all the way from the ionosphere about 100 km above, through to the outer reaches of our protective magnetic shield....
 

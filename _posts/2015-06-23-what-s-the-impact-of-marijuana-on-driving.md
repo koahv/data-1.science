@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Drivers who use alcohol and marijuana together weave more on a virtual roadway than drivers who use either substance independently, a new study has found. However, the cocktail of alcohol and marijuana does not double the effect of the impairment....
 

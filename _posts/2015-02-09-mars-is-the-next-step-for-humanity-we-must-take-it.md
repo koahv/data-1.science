@@ -8,6 +8,9 @@ tags: [astronomy & space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Elon Musk has built a US$12 billion company in an endeavour to pave the way to Mars for humanity. He insists that Mars is a "long-term insurance policy" for "the light of consciousness" in the face of climate change, extinction events, and our recklessness with technology....
 

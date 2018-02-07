@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Astronomers have shown what happens when a magnetosphere forms round a comet. The RPC-ICA instrument onboard the Rosetta spacecraft has been watching the early stages of how a magnetosphere forms around Comet 67P Churyumov-Gerasimenko as it moves closer to the Sun along its orbit and begins to interact with the solar wind. As the comet gets warmer, volatile substances, mainly water, evaporate from the surface and form an atmosphere around the comet. The Sun's ultraviolet radiation and collisions with the solar wind ionizes some of the comet's atmosphere. The newly formed ions are affected by the solar wind electric and magnetic fields and can be accelerated to high speeds. When the comet gets close enough to the Sun, its atmosphere becomes...
 

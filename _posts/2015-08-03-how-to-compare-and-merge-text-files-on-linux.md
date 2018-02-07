@@ -8,6 +8,9 @@ tags: [linux]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Comparing text files requires time, effort, a large monitor and a good amount of patience, or simply just the right tools to do it without any of the aforementioned. If you are an editor that has to deal with multiple versions of a text file, or a developer that wants to check the various code revisions of a file, then the following tutorial is for you....
 

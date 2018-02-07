@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Trio of Monster Black Holes Rumble SpacetimeDiscovery NewsHelical jets from one supermassive black hole caused by a very closely orbiting companion (see blue dots). The third black hole is part of the system, but farther away and therefore emits relatively straight jets. Roger Deane (large image); NASA ......
 

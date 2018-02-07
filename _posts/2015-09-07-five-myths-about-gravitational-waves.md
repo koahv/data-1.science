@@ -8,6 +8,9 @@ tags: [astronomy]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The scientists behind the BICEP2 (Background Imaging of Cosmic Extragalactic Polarization) telescope, last year made an extraordinary claim that they had detected gravitational waves, which are ripples in space-time. Initially hailed as the most groundbreaking discovery of the century, it later proved a false alarm: the signal was merely galactic dust....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Studying the brain activity of blind people, scientists are challenging the standard view of how the human brain specializes to perform different kinds of tasks, and shedding new light on how our brains can adapt to the rapid cultural and technological changes of the 21st Century....
 

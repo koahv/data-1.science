@@ -8,6 +8,9 @@ tags: [Explorer 1, Explorers program, Outer space, Space exploration, Space tech
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsOn this day in 1970, the first United States satellite re-entered the atmosphere. Explorer 1 burnt up in re-entry after 12 years in space, during which it leveraged a cosmic ray detector to discover the existence...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace...
 

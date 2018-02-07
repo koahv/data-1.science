@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Geologists have a new explanation for the origin of plate tectonics. Researchers suggest it was triggered by the spreading of early continents then it eventually became a self-sustaining process....
 

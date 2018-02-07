@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >With more than two years of measurements by ESA’s Swarm satellite trio, changes in the strength of Earth's magnetic field are being mapped in detail....
 

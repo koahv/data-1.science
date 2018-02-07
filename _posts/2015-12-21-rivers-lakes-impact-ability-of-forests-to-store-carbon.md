@@ -8,6 +8,9 @@ tags: [Fresh water, Carbon sink, Earth, Forest, Natural environment, Greenhouse 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Forests help remove carbon dioxide from the atmosphere by storing it in trees, but a sizeable amount of the greenhouse gas actually escapes through the soil and into rivers and streams....
 

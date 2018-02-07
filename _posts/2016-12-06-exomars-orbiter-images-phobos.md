@@ -8,6 +8,9 @@ tags: [ExoMars, Mars, ExoMars Trace Gas Orbiter, Phobos (moon), Flight, Space ex
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The ExoMars Trace Gas Orbiter has imaged the martian moon Phobos as part of a second set of test science measurements made since it arrived at the Red Planet on 19 October....
 

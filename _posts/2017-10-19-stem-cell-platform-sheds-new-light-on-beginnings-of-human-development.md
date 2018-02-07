@@ -8,6 +8,9 @@ tags: [Embryo, Stem cell, Developmental biology, Regenerative medicine, Embryoni
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers at University of Toronto's Medicine By Design have engineered a new platform to study the earliest stages of human development in the lab, pulling back the curtain on key biological processes that until now have taken place inside the uterus, beyond the gaze of scientists....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(PLOS) An artificial intelligence system has for the first time reverse-engineered the regeneration mechanism of planaria -- the small worms whose extraordinary power to regrow body parts has made them a research model in human regenerative medicine....
 

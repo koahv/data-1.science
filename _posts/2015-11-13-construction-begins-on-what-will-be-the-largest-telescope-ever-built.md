@@ -8,6 +8,9 @@ tags: [Giant Magellan Telescope, Andes, Chile, Space science, Physical sciences,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsA groundbreaking ceremony has been held in Chile for the Giant Magellan Telescope. Scientists and officials gathered Wednesday on a mountaintop high in the Chilean Andes cordillera for the ceremony marking...Contributed Author:&nbsp;The Associated PressTopics:&nbsp;Off-Highway...
 

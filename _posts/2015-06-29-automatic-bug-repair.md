@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Massachusetts Institute of Technology) At the Association for Computing Machinery's Programming Language Design and Implementation this month, MIT researchers presented a new system that repairs dangerous software bugs by automatically importing functionality from other, more secure applications....
 

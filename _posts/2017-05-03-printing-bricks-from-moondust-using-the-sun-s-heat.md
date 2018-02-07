@@ -8,6 +8,9 @@ tags: [Moon, Lunar soil, 3D printing, In situ resource utilization, German Aeros
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Bricks have been 3D printed out of simulated moondust using concentrated sunlight – proving in principle that future lunar colonists could one day use the same approach to build settlements on the Moon....
 

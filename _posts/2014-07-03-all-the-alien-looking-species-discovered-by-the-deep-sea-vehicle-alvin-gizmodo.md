@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >All the Alien-Looking Species Discovered by the Deep Sea Vehicle AlvinGizmodoWhile the Chinese are busy scouting the best under-sea sites to pillage for precious metals, America&#39;s venerable oceanic exploration sub, the newly-renovated DSV Alvin, continues to uncover scores of deep sea life forms that science has never even seen....
 

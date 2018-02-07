@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Space.comPluto Flyby Begins: NASA Probe Enters Encounter Phase - Space.comSpace.comNASA&#39;s New Horizons probe has officially begun to execute its sequence of Pluto flyby observations as it zooms toward its closest approach to the dwarf planet on July 14. Mission representatives say New Horizons is &quot;back on track&quot; after it experienced ...NASA&#39;s Dawn spacecraft also suffered a software glitch last weekThe VergeNASA probe set to make history at PlutoCNNPluto&#39;s Dark Spots Puzzle Scientists, But NASA&#39;s New Horizons Probe May ...Huffington PostPhys.Org&nbsp;-Sky Newsall 408 news articles&nbsp;&raquo;...
 

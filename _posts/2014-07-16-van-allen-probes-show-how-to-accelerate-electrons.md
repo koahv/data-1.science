@@ -8,6 +8,9 @@ tags: [astronomy & space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Phys.org) —One of the great, unanswered questions for space weather scientists is just what creates two gigantic donuts of radiation surrounding Earth, called the Van Allen radiation belts. Recent data from the Van Allen Probes—two nearly identical spacecraft that launched in 2012—address this question....
 

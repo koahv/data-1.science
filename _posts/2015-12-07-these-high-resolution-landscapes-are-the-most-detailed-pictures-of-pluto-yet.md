@@ -8,6 +8,9 @@ tags: [New Horizons, Pluto, Space colonization, Flight, Bodies of the Solar Syst
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsThe New Horizons spacecraft has sent back stunning new images of Pluto showing the surface in the greatest detail available so far. New Horizons sends data back to Earth once a week. The latest close-up images were...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace...
 

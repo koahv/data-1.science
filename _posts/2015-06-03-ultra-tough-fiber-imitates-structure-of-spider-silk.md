@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >These researchers are not related to Spiderman. Nevertheless, a group of scientists has produced an ultra-tough polymer fiber directly inspired by spiders. Their project involves making micrometric-sized microstructured fibres that have mechanical properties similar to those of spider silk....
 

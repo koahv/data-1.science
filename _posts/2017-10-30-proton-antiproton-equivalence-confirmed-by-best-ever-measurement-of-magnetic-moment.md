@@ -8,6 +8,9 @@ tags: [Antiproton, Proton, Standard Model, Physics, Magnetic moment, Physical sc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Flash Physics: need-to-know updates from the world of physics...
 

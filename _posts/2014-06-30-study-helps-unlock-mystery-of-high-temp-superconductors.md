@@ -8,6 +8,9 @@ tags: [physics]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A Binghamton University physicist and his colleagues say they have unlocked one key mystery surrounding high-temperature superconductivity. Their research, published this week in the Proceedings of the National Academy of Sciences, found a remarkable phenomenon in copper-oxide (cuprate) high-temperature superconductors....
 

@@ -8,6 +8,9 @@ tags: [Plant disease resistance, Wheat, Biotechnology, Mutation, Agriculture, Bi
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(John Innes Centre) Scientists at the John Innes Centre and The Sainsbury Laboratory have pioneered a new gene-detecting technology which, if deployed correctly could lead to the creation of a new elite variety of wheat with durable resistance to disease....
 

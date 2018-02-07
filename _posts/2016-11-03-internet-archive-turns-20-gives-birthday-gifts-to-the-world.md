@@ -8,6 +8,9 @@ tags: [Internet Archive, World Wide Web, Cyberspace, Software, Digital technolog
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >On May 12, 1996, like a benevolent mad scientist, Brewster Kahle brought the Internet Archive to life. The World Wide Web was in its infancy and the Archive was there to capture its growing pains. Inspired by and emulating the Library at Alexandria, the Internet Archive began its mission to preserve and provide universal access to all knowledge. read more...
 

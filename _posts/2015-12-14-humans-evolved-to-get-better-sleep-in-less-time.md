@@ -8,6 +8,9 @@ tags: [Sleep, Rapid eye movement sleep, Primate, Human, Lemur, Animals]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Duke University) Insomniacs take heart: Humans get by on significantly less sleep than our closest animal relatives. The secret, according to a new study of slumber patterns across 21 species of primates, is that our sleep is more efficient....
 

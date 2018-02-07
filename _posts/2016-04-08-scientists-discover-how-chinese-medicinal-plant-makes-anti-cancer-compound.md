@@ -8,6 +8,9 @@ tags: [Biotechnology, Biotechnology and Biological Sciences Research Council, Sc
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(John Innes Centre) New research reveals how a plant used in traditional Chinese medicine produces compounds which may help to treat cancer and liver diseases....
 

@@ -8,6 +8,9 @@ tags: [Thermohaline circulation, Ocean current, Ocean, Oceans, Climatology, Glob
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Radioactive isotopes typically take four years to reach the Norwegian coast from Sellafield on the north-eastern coast of England. Researchers like Yongqi Gao follow the radioactive waste to understand how ocean currents are formed and to see where they flow....
 

@@ -8,6 +8,9 @@ tags: [Solar Dynamics Observatory, Mercury (planet), Goddard Space Flight Center
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) On May 9, 2016, a NASA solar telescope called the Interface Region Imaging Spectrograph, or IRIS, observed Mercury crossing in front of the sun -- an astronomical phenomenon known as a Mercury transit....
 

@@ -8,6 +8,9 @@ tags: [Tim Peake, Space exploration, NASA, Space industry, Scientific exploratio
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA astronaut Tim Peake, NASA astronaut Tim Kopra and commander Yuri Malenchenko were launched into space at 11:03 GMT (12:03 CET)...
 

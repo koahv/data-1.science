@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Strategies aimed at reducing childhood obesity should acknowledge individuals’ rational taste preferences and apply insights from behavioral economics to design choice architecture that increases their likelihood of success, say two physician-scientists....
 

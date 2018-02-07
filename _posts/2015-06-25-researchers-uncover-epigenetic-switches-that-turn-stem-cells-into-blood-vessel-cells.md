@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers at the University of Illinois at Chicago have identified a molecular mechanism that directs embryonic stem cells to mature into endothelial cells—the specialized cells that form blood vessels. Understanding the processes initiated by this mechanism could help scientists more efficiently convert stem cells into endothelial cells for use in tissue repair, or for engineering blood vessels to bypass blockages in the heart....
 

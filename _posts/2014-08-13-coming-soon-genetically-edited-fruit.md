@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Recent advances that allow the precise editing of genomes now raise the possibility that fruit and other crops might be genetically improved without the need to introduce foreign genes, according to researchers writing in the Cell Press publication Trends in Biotechnology on August 13th....
 

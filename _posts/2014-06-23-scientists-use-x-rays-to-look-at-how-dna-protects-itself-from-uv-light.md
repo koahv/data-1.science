@@ -8,6 +8,9 @@ tags: [physics]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The molecular building blocks that make up DNA absorb ultraviolet light so strongly that sunlight should deactivate them – yet it does not. Now scientists have made detailed observations of a "relaxation response" that protects these molecules, and the genetic information they encode, from UV damage....
 

@@ -8,6 +8,9 @@ tags: [Weather forecasting, Weather, Flood, Rain, Climate, Climate change, Earth
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >More data and the use of modern computing technology are crucial to assessing the effects of severe weather on infrastructure and finding ways to mitigate impacts...
 

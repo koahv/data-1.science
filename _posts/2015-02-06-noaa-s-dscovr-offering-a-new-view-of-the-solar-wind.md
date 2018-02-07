@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) Lagrange 1 lies outside Earth's magnetic environment, a perfect place to measure the constant stream of particles from the sun, known as the solar wind, as they pass by. NOAA will use DSCOVR to monitor the solar wind and forecast space weather at Earth -- effects from the material and energy from the sun that can impact our satellites and technological infrastructure on Earth....
 

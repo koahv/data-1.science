@@ -8,6 +8,9 @@ tags: [Space science, Flight, Aerospace engineering, Astronautics, Spacecraft, S
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsNASA has successfully expanded and pressurized the inflatable Bigelow Expandable Activity Module (BEAM) after a delay last week. The habitat is an experimental module attached to the International Space Station. It will remain attached...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace...
 

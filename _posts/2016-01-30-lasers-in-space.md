@@ -8,6 +8,9 @@ tags: [Satellites, Aerospace, Spaceflight technologies, Aerospace engineering, F
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The European Data Relay System’s first laser terminal has reached space aboard its host satellite and is now under way to its final operating position...
 

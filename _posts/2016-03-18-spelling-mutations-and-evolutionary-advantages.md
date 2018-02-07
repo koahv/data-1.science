@@ -8,6 +8,9 @@ tags: [Genetic code, Synonymous substitution, Mutation, Evolution, Gene, Biology
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(National Centre for Biological Sciences) DNA codes carrying instructions for creating a protein can sometimes be 'spelt' differently, although they specify the exact same sequence information to create that protein. Scientists from the National Centre for Biological Sciences have now shown that such mutations, called 'synonymous' mutations can have large effects on the evolution of organisms....
 

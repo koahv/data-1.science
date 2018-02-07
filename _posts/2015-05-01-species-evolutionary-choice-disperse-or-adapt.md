@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Dispersal and adaptation are two evolutionary strategies available to species given an environment. Generalists, like dandelions, send their offspring far and wide. Specialists, like alpine flowers, adapt to the conditions of a particular place. New research models the interplay between these two strategies and shows how even minor changes in an environment can create feedback and trigger dramatic shifts in evolutionary strategy....
 

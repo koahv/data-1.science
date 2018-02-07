@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists have found a successful way of identifying bird sounds from large audio collections, which could be useful for expert and amateur bird-watchers alike....
 

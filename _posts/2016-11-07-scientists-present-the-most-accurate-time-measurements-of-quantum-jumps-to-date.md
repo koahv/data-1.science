@@ -8,6 +8,9 @@ tags: [Electron, Quantum mechanics, Atom, Ionization, Physics, Laser, Particle p
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >When a quantum system changes its state, this is called a quantum jump. Usually, these quantum jumps are considered to be instantaneous. Now, new methods for high-precision measurements allow us to study the time evolution of these quantum jumps. On a time scale of attoseconds, there time structure becomes visible. It is he most accurate time measurement of quantum jumps to date....
 

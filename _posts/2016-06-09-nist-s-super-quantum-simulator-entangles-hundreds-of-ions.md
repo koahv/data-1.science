@@ -8,6 +8,9 @@ tags: [Quantum simulator, Quantum mechanics, Theoretical physics, Science, Conde
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(National Institute of Standards and Technology (NIST)) Physicists at the National Institute of Standards and Technology (NIST) have 'entangled' or linked together the properties of up to 219 beryllium ions (charged atoms) to create a quantum simulator. The simulator is designed to model and mimic complex physics phenomena in a way that is impossible with conventional machines, even supercomputers. The techniques could also help improve atomic clocks....
 

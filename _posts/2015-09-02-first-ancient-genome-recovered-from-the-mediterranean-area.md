@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Spanish National Research Council (CSIC)) An international team of researchers has sequenced the first complete genome of an Iberian farmer, which is also the first ancient genome from the entire Mediterranean area. This new genome allows to know the distinctive genetic changes of Neolithic migration in Southern Europe which led to the abandonment of the hunter-gatherer way of life....
 

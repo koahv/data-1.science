@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Insight into how large-scale deforestation could impact global food production by triggering changes in local climate has been gained by new research. In the study, researchers from the United States and China zero in on albedo (the amount of the sun's radiation reflected from Earth's surface) and evapotranspiration (the transport of water into the atmosphere from soil, vegetation, and other surfaces) as the primary drivers of changes in local temperature....
 

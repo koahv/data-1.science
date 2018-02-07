@@ -8,6 +8,9 @@ tags: [Cancer, Chemotherapy, Nanocapsule, Manufacturing, Artificial materials, A
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A nanoparticle-based drug delivery system that can sense and respond to different conditions in the body, as well as to an externally applied magnetic field, could enhance doctors' ability to target drugs to specific sites of disease....
 

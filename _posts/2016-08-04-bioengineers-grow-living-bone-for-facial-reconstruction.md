@@ -8,6 +8,9 @@ tags: [Tissue engineering, Dental implant, Bone, Bone grafting, Health care, Lif
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers have engineered living bone tissue to repair bone loss in the jaw, a structure that is typically difficult to restore. They grafted customized implants into pig jaws that resulted in integration and function of the engineered graft into the recipient's own tissue....
 

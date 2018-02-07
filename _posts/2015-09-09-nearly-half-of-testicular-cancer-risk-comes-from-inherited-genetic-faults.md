@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Almost half of the risk of developing testicular cancer comes from the DNA passed down from our parents, a new study reports. The research suggests genetic inheritance is much more important in testicular cancer than in most other cancer types, where genetics typically accounts for less than 20 percent of risk....
 

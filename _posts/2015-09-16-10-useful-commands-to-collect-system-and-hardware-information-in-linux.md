@@ -8,6 +8,9 @@ tags: [linux commands, linux tricks]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >It is always a good practice to know the hardware components of your Linux system is running on, this helps you to deal with compatibility issues when it comes to installing packages, drivers on&#46;&#46;&#46;...
 

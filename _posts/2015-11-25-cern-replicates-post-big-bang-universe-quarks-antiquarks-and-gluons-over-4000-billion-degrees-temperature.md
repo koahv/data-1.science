@@ -8,6 +8,9 @@ tags: [Quark, Matter, Strong interaction, Gluon, Elementary particle, Large Hadr
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >       The world's most powerful accelerator, the 27 km long Large Hadron Collider (LHC) operating at CERN in Geneva established collisions between lead nuclei, this morning, at the highest energies ever. The LHC has been colliding protons at record high energy since the summer, but now the time has now come to collide large nuclei (nuclei of lead, Pb, consist of 208 neutrons and protons). The experiments aim at understanding and studying the properties of strongly interacting systems at high densities and thus the state of matter of the Universe shortly after the Big Bang. In the very beginning, just a few billionths of a second after the Big Bang, the Universe was made up of an extremely hot and dense 'primordial soup' consisting of...
 

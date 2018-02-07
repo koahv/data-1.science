@@ -8,6 +8,9 @@ tags: [space exploration]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A pockmarked, icy landscape looms beneath NASA's Cassini spacecraft in new images of Saturn's moon Dione taken during the mission's last close approach to the small, icy world. Two of the new images show the surface of Dione at the best resolution ever....
 

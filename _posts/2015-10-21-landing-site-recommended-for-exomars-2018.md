@@ -8,6 +8,9 @@ tags: [ExoMars, Mars, Schiaparelli EDM lander, Space colonization, Space explora
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Oxia Planum has been recommended as the primary candidate for the landing site of the ExoMars 2018 mission....
 

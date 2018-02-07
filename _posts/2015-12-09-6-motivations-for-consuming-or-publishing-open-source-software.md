@@ -8,6 +8,9 @@ tags: [Open-source software, Proprietary software, Free software, Software, Soft
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Open source is awesome, and there are many reasons why you might consider consuming, publishing, collaborating on, or supporting open source.1 Here are a few of them: read more...
 

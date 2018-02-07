@@ -8,6 +8,9 @@ tags: [Gravity, General relativity, Star, Force, Gravity of Earth, Black hole, W
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Gravity is a pretty awesome fundamental force. If it wasn't for the Earth's comfortable 1 g, which causes objects to fall towards the Earth at a speed of 9.8 m/s², we'd all float off into space. And without it, all us terrestrial species would slowly wither and die as our muscles degenerated, our bones became brittle and weak, and our organs ceased to function properly....
 

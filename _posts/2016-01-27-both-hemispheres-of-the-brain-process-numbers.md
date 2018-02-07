@@ -8,6 +8,9 @@ tags: [News aggregator, Neuropsychology, Cognition, Cognitive science, Nervous s
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers have located an important region for the visual processing of numbers in the human brain and showed that it is active in both hemispheres. The scientists published high resolution magnetic resonance recordings of this region....
 

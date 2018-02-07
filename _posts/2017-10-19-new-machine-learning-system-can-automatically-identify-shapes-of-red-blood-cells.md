@@ -8,6 +8,9 @@ tags: [Sickle-cell disease, Red blood cell, Disease, Blood cell, Genetics, Blood
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Using a computational approach known as deep learning, scientists have developed a new system to classify the shapes of red blood cells in a patient's blood. The findings, published in PLOS Computational Biology, could potentially help doctors monitor people with sickle cell disease....
 

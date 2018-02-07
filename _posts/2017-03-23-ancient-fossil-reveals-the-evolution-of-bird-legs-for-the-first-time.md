@@ -8,6 +8,9 @@ tags: [Dinosaur, Bird, Fossil, Paleontology, Organisms, Biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers from the UK and China have found that living birds have a more crouched leg posture than their ancestors, who are generally thought to have moved with straighter limbs similar to those of humans. The study, published in Nature Communications, highlights how birds shifted towards this more crouched posture....
 

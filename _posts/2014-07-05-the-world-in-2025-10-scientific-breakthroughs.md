@@ -8,6 +8,9 @@ tags: [breakthroughs, teleportation, energy, tech, technology, solar, solar ener
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >What will the top 10 advances of the next decade be? Find out!...
 

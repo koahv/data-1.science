@@ -8,6 +8,9 @@ tags: [Internet of things, Industrial Internet Consortium, Technology, Computing
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Industrial Internet Consortium (IIC) , which was founded by AT&amp;T, Cisco, GE, IBM, and Intel, released a common framework for security...
 

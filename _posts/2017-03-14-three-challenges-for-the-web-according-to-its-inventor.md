@@ -8,6 +8,9 @@ tags: [World Wide Web, Digital media, Digital technology, Information technology
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Today marks 28 years since I submitted my original proposal for the world wide web. I imagined the web as an open platform that would allow everyone, everywhere to share information, access opportunities and collaborate across geographic and cultural boundaries. In many ways, the web has lived up to this vision, though it has been a recurring battle to keep it open....
 

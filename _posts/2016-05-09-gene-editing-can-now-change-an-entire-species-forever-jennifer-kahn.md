@@ -8,6 +8,9 @@ tags: [TED (conference), Computing, Technology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >CRISPR gene drives allow scientists to change sequences of DNA and guarantee that the resulting edited genetic trait is inherited by future generations, opening up the possibility of altering entire species forever. More than anything, the technology has led to questions: How will this new power affect humanity? What are we going to use it to change? Are we gods now? Join journalist Jennifer Kahn as she ponders these questions and shares a potentially powerful application of gene drives: the development of disease-resistant mosquitoes that could knock out malaria and Zika....
 

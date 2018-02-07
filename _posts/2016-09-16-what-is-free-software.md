@@ -8,6 +8,9 @@ tags: [Software, Cyberspace, Intellectual works, Open-source movement, Digital t
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Digital Freedom Foundation defines free software as the freedom to use, study, distribute, modify, and access software. You can't go wrong with this poll! In honor of Software Freedom Day, tomorrow on September 17, we wonder how you plan to contribute to the global event tomorrow? Leave us your message in the comments. read more...
 

@@ -8,6 +8,9 @@ tags: [DNA, Bacteria, DNA sequencing, Virus, Gene, Epigenetics, Genomics, RNA, R
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Massachusetts Institute of Technology) DNA is made from four nucleosides, each known by its own letter -- A, G, C, and T. However, since the structure of DNA was deciphered in 1953, scientists have discovered several other variants that are often added to the DNA sequences to replace one of the usual four letters....
 

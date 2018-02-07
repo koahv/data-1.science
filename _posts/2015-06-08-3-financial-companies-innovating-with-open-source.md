@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The financial industry is on the verge of an open source breakthrough. Here are three companies leading the way....
 

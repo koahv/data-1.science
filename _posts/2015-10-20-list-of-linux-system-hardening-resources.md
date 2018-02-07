@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >My recent post about how quickly newly commissioned Linux systems can be attacked and possibly compromised led to a bunch of e-mail queries about resources which explain how to lock down a variety of Linux distributions....
 

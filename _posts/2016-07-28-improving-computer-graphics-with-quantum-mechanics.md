@@ -8,6 +8,9 @@ tags: [Quantum mechanics, Physics, Macroscopic scale, Schrödinger equation, Mec
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Caltech applied scientists have developed a new way to simulate large-scale motion numerically using the mathematics that govern the universe at the quantum level....
 

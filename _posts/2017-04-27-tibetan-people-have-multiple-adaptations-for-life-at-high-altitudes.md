@@ -8,6 +8,9 @@ tags: [Denisovan, Adaptation, Gene, Genetics, Tibetan people, Whole genome seque
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Tibetan people have inherited variants of five different genes that help them live at high altitudes, with one gene originating in the extinct human subspecies, the Denisovans....
 

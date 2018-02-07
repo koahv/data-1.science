@@ -8,6 +8,9 @@ tags: [Indian Initiative in Gravitational-wave Observations, LIGO, Gravitational
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Indian government has granted initial approval for the construction of LIGO-India, a gravitational wave detector that will work with the two in the US...
 

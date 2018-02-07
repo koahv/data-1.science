@@ -8,6 +8,9 @@ tags: [Organic solar cell, Exciton, Virus, Solar cell, Photosynthesis, Energy, F
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Viral scaffolding allows excitons to travel faster and further...
 

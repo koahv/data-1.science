@@ -8,6 +8,9 @@ tags: [Tooth, Fossil, Evolution, Anthropology, Wisdom tooth, Human evolution, Fo
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Ohio State University) When anthropologists of the future find our fossilized teeth, what will they be able to conclude about our lives? Debbie Guatelli-Steinberg has an idea....
 

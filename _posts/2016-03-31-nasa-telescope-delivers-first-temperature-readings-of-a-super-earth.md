@@ -8,6 +8,9 @@ tags: [55 Cancri e, Planet, Star, 55 Cancri, Map, Lava, Astronomy, Outer space, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsScientists have successfully created the first ever temperature map of a super-Earth planet using observations made by NASA’s Spitzer Space Telescope, according to a statement from the agency...Staff Author:&nbsp;Jake MeisterTopics:&nbsp;Aerospace...
 

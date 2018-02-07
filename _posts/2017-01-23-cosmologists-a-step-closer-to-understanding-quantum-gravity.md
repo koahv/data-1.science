@@ -8,6 +8,9 @@ tags: [Physical cosmology, Big Bang, Universe, Inflation (cosmology), Cosmologic
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Cosmologists trying to understand how to unite the two pillars of modern science – quantum physics and gravity – have found a new way to make robust predictions about the effect of quantum fluctuations on primordial density waves, ripples in the fabric of space and time....
 

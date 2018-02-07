@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Weather ChannelApollo 11: Amazing Photos Offer Rare Glimpse of History | The Weather ChannelThe Weather ChannelForty-six years ago today, July 20, Neil Armstrong, Buzz Aldrin and Michael Collins made history by becoming the first human beings to set foot on the moon. The crew launched July 16, 1969, landing on the lunar surface on July 20 and crashing into the&nbsp;...and more&nbsp;&raquo;...
 

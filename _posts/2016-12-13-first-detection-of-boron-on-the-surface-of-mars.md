@@ -8,6 +8,9 @@ tags: [Curiosity (rover), Mars, Los Alamos National Laboratory, Rock (geology), 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(DOE/Los Alamos National Laboratory) Boron has been identified for the first time on the surface of Mars, indicating the potential for long-term habitable groundwater in the ancient past....
 

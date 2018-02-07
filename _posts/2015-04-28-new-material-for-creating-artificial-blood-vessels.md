@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Vienna University of Technology) A special material has been developed in Vienna from which artificial blood vessels can be made. The blood vessels have been tested in rats and the results are very promising....
 

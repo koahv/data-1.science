@@ -8,6 +8,9 @@ tags: [European Data Relay System, Aerospace engineering, Spaceflight, Space tec
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Watch the replay of the launch of the European Data Relay System's first laser node from Baikonur, Kazakhstan on 29 January at 22:20 GMT...
 

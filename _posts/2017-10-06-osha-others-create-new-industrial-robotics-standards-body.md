@@ -8,6 +8,9 @@ tags: [Occupational Safety and Health Administration, Occupational safety and he
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsOSHA and the National Institute for Occupational Safety and Health (NIOSH) have partnered with the Robotic Industries Association (RIA) to set standards for industrial robotics. Called the OSHA/NIOSH/RIA Alliance and announced on Oct. 6...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Robotics...
 

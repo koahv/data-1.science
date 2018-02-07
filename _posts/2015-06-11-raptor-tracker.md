@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Alberta) In a discovery seemingly straight from the movie 'Jurassic World,' University of Alberta researcher Scott Persons and alumnus Lida Xing are part of the research team that has just documented a rich fossil footprint site in central China containing tracks by several kinds of dinosaurs, including raptors. From these tracks, the team has gained new insights into how raptors moved....
 

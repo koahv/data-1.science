@@ -8,6 +8,9 @@ tags: [Sun, Solar flare, Sunspot, Space weather, Solar Dynamics Observatory, Cor
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >An international team of researchers, led by Queen's University Belfast, has devised a high-precision method of examining magnetic fields in the Sun's atmosphere, representing a significant leap forward in the investigation of solar flares and potentially catastrophic 'space weather'....
 

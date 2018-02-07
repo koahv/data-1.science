@@ -8,6 +8,9 @@ tags: [Cloud computing, DevOps, Digital technology, Information technology manag
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Enterprises today must keep up with increasing internal and external customer demand, or die trying. For IT, this means deploying and updating applications faster, and more often than ever before to meet and ideally exceed this demand. At the same time, IT must focus its people power on strategic endeavors, rather than rote tasks....
 

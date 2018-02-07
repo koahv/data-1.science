@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Neanderthals and modern humans were both living in Europe for between 2,600 and 5,400 years, according to a new article. For the first time, scientists have constructed a robust timeline showing when the last Neanderthals died out....
 

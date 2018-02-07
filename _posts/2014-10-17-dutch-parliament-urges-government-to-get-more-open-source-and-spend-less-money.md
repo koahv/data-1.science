@@ -8,6 +8,9 @@ tags: [linux]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Dutch parliament is pushing for the use of more open source software in the country and is holding the government responsible for the failure to better implement the already existing policies. The Dutch government (Holland) has already agreed that it must adopt open source and open standards in all the areas where this is possible. On the other hand, the parliament feels that the executive branch has done too little in this regard and they are urging them to expedite the issues. In Holla... (read more)...
 

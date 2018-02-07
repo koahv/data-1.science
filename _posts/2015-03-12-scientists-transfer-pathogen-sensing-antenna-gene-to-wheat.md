@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists have successfully transferred a receptor that recognizes bacteria from the model plant Arabidopsis thaliana - a dicot, to wheat -- a monocot. They showed that the receptor can trigger a defensive response and confers increased resistance to bacterial disease. The research findings demonstrate that the signalling pathways or circuitry downstream of the receptor are conserved between evolutionary distant monocots and dicots....
 

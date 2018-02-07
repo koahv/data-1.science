@@ -8,6 +8,9 @@ tags: [Solar eclipse, Moon, Sun, Lunar eclipse, Shadow, Orbit of the Moon, Eclip
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Take 10 minutes with this article and become an eclipse expert for family and friends. Sure, you know the basic idea: A solar eclipse happens when the Moon passes between you and the Sun, hiding part or all of the Sun from view. It’s weird, it’s unearthly, and it scared the bejeezus out of our ancestors who didn’t know what was going on. The stories they made up to explain eclipses were hair-raising. The drive to actually understand eclipses — well enough to predict them! — was one of the drivers of ancient astronomy, and thus one of the drivers for the whole idea of science itself. When the Moon casts its shadow onto Earth, people on the ground see the Moon eclipsing the Sun. The shadow's umbra is the dark central part where the eclipse is...
 

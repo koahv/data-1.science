@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >When a crystal lattice is excited by a laser pulse, waves of jostling atoms can travel through the material at close to one sixth the speed of light, or approximately 28,000 miles/second.Read more about Camera Takes Trillion-Frames-Per-SecondComments...
 

@@ -8,6 +8,9 @@ tags: [space exploration]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Today's technology has all but eliminated time delays in telecommunication on Earth, but when they do occur they can be frustrating, especially when trying to communicate complex or time sensitive information. The same type of delay could happen when communicating with spacecraft and crew members in deep space on the journey to Mars. For example, communication over radio waves could have round-trip delays of up to 31 minutes at Mars. According to a recent investigation, this could impact team performance and emotional well-being....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >One day, when humans go to Mars, they might find that, occasionally, the Red Planet has green skies. NASA's MAVEN spacecraft has detected evidence of widespread auroras in Mars's northern hemisphere. Unlike Earth, Mars does not have a global magnetic field that envelops the entire planet. Instead, Mars has umbrella-shaped magnetic fields that sprout out of the ground like mushrooms, here and there, but mainly in the southern hemisphere. These umbrellas are remnants of an ancient global field that decayed billions of years ago....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Sure, Pluto doesn't have full-fledged planetary status anymore, but we're still excited to get some pictures from the edge of the Solar System. The New Horizons spacecraft is carrying a "Multicolor Visible Imaging Camera" that takes stills in blue, r......
 

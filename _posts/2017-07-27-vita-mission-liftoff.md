@@ -8,6 +8,9 @@ tags: [Space industry, Astronautics, Space colonization, Spacecraft, Flight, Spa
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Watch a replay of the Vita mission liftoff on 28 July...
 

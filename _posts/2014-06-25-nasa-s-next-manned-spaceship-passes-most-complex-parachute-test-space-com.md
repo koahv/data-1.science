@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Christian Science MonitorNASA&#39;s Next Manned Spaceship Passes &#39;Most Complex&#39; Parachute TestSpace.comNASA successfully completed its &quot;most complex&quot; test of the Orion spacecraft&#39;s parachute system today (June 25), space agency officials said. The Orion capsule — designed to take astronauts deeper into space than ever before, to destinations like Mars ...NASA&#39;s Orion spaceship passes parachute test (+video)Christian Science MonitorNASA Puts Orion Spaceship&#39;s Parachute to Its Toughest TestNBCNews.comNASA Announces Parachutes for Orion Spacecraft Hit No Snags in Most Difficult ...Sierra Sun Timesall 25 news articles&nbsp;&raquo;...
 

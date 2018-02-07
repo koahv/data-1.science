@@ -8,6 +8,9 @@ tags: [Open-source software, Software, Business, Computer engineering, Informati
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Open source improves efficiency, interoperability, and innovation according to the latest open source survey from North Bridge and Black Duck....
 

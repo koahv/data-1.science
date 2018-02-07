@@ -8,6 +8,9 @@ tags: [Interferometry, Quantum entanglement, Light, Interference (wave propagati
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Moscow Institute of Physics and Technology) Scientists have developed a method which allows to measure large distances (up to a hundred kilometers) with an accuracy comparable to an atomic size.The method is similar to one used in LIGO and relies on an interference of N00N photon states.However, by creating a special kind of entanglement between these states, researchers managed to overcome the problem of energy losses in the transmission medium, thus making it possible to measure extremely large distances....
 

@@ -8,6 +8,9 @@ tags: [European Southern Observatory, LIGO, Astronomy, Gravitational wave, Very 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(ESO) ESO's fleet of telescopes have detected the first visible counterpart to a gravitational wave source. These historic observations suggest that this unique object is the result of the merger of two neutron stars. The cataclysmic aftermaths of this kind of merger -- long-predicted events called kilonovae -- disperse heavy elements such as gold and platinum throughout the Universe. This discovery also provides the strongest evidence yet that short-duration gamma-ray bursts are caused by mergers of neutron stars....
 

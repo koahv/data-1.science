@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Mars Camera CaSSIS on the ExoMars Trace Gas Orbiter captured its first images of the Red Planet this week. The pictures are a part of the mission’s preparations for arriving at its destination in October. CaSSIS (Colour and Stereo Surface Imaging System) was launched with the European Space Agency’s ExoMars Trace Gas Orbiter (TGO) in March and has already traveled just under half of its nearly 500 million km journey....
 

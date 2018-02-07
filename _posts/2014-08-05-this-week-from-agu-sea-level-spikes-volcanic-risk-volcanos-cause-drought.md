@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(American Geophysical Union) Unforeseen, short-term increases in sea level caused by strong winds, pressure changes and fluctuating ocean currents can cause more damage to beaches on the East Coast over the course of a year than a powerful hurricane making landfall, according to a new study....
 

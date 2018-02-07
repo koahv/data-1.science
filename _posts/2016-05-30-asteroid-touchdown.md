@@ -8,6 +8,9 @@ tags: [Spacecraft, Flight, Spaceflight technologies, Space science, Aerospace en
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In the run up to Asteroid Day on 30 June, this video details the micro-lander envisaged as part of ESA's proposed Asteroid Impact Mission...
 

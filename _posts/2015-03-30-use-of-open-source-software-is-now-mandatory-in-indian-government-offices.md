@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >According to a new policy issued by the Indian Government, all employees will have to use open-source software on their computers. The new policy encourages the adoption of open source software across all Indian Government offices, on both desktop and server stations, in order to reduce the costs for acquiring......
 

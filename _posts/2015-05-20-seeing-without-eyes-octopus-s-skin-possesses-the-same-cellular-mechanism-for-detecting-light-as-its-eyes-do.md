@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The skin of the California two-spot octopus can sense light even without input from the central nervous system. The animal does so by using the same family of light-sensitive proteins called opsins found in its eyes -- a process not previously described for cephalopods....
 

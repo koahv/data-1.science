@@ -8,6 +8,9 @@ tags: [Analytical Engine, Ada Lovelace, Jacquard loom, Charles Babbage, Science 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Calculating machines and notes that predict the future of computing are among the items on display at the new exhibit....
 

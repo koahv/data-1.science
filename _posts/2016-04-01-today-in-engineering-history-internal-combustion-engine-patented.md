@@ -8,6 +8,9 @@ tags: [Samuel Morey, Manufacturing, Nature, Machines, Artificial objects, Energy
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsOn this day in 1826, Samuel Morey received a patent for the first internal combustion engine. His name has been largely obscured due to a lack of records about his life and work, but his invention is believed to be...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Energy...
 

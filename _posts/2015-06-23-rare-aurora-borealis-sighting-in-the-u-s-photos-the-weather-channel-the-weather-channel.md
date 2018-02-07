@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Rare Aurora Borealis Sighting in the U.S. (PHOTOS) | The Weather ChannelThe Weather ChannelAstronaut Scott Kelly captured a stunning image of a red aurora borealis from space on Monday, June 22, 2015. (Scott Kelly/Twitter). American astronaut Scott Kelly experienced a rare sight of a red aurora borealis all the way from space, but he wasn&#39;t ...and more&nbsp;&raquo;...
 

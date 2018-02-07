@@ -8,6 +8,9 @@ tags: [Regeneration (biology), Tetrapod, Amphibian, Salamander, Vertebrate, Biol
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A team of paleontologists shows in a new study of fossil amphibians that the extraordinary regenerative capacities of modern salamanders are likely an ancient feature of four-legged vertebrates that was subsequently lost in the course of evolution....
 

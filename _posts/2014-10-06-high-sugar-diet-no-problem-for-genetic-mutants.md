@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A genetic pathway for circumventing the weight gain that accompanies a high-sugar diet has been discovered by scientists. Building on previous work with C. elegans, researchers found that certain genetic mutants -- those with a hyperactive SKN-1 gene -- could be fed incredibly high-sugar diets without gaining any weight, while regular C. elegans ballooned on the same diet....
 

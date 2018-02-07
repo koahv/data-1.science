@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In the meadow, four white-haired Shorthorn heifers peel off from the others, raising their heads at the same time in the same direction. Unsettling, when you know they are clones....
 

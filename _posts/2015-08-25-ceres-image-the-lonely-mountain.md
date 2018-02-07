@@ -8,6 +8,9 @@ tags: [space exploration]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NASA's Dawn spacecraft spotted this tall, conical mountain on Ceres from a distance of 915 miles (1,470 kilometers)....
 

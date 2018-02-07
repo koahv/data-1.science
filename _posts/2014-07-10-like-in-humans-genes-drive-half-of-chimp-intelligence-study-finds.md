@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A large study of chimps finds certain aspects of intelligence are more heritable than others....
 

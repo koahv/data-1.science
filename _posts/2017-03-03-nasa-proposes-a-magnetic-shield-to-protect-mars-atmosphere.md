@@ -8,6 +8,9 @@ tags: [Mars, MAVEN, Magnetosphere, Earth, Outer space, Astronomy, Nature, Planet
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NASA proposes a magnetic shield to protect Mars' atmosphere...
 

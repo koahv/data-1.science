@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >While not yet officially announced Mount &amp; Blade: Warband is out for Linux, downloadable and might even be playable for you....
 

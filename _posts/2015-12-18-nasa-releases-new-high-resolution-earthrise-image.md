@@ -8,6 +8,9 @@ tags: [Lunar Reconnaissance Orbiter, Moon, Space program of the United States, S
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsNASA's Lunar Reconnaissance Orbiter (LRO) recently captured a unique view of Earth from the spacecraft's vantage point in orbit around the moon...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 

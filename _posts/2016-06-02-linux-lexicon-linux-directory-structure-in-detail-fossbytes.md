@@ -8,6 +8,9 @@ tags: [Computer file, Device file, Booting, Operating system, Passwd, Unix files
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Now that you would have installed a Linux Distribution of your liking, you would observe that a lot of things are different&#46;&#46;&#46; The post Linux Lexicon: Linux Directory Structure In Detail | fossBytes appeared first on fossBytes....
 

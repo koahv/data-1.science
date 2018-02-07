@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Molecules could treat cervical, breast, ovarian, and lung cancers, new research in mice suggests. Scientists have found a new family of molecules that kill cancer cells and protect healthy cells, which could be used to treat a number of different cancers. Research shows that as well as targeting and killing cancer cells, the molecules generate a protective effect against toxic chemicals in healthy cells....
 

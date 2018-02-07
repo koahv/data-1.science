@@ -8,6 +8,9 @@ tags: [Genetic code, Evolution, Genetics, Bacteria, Gene, Organism, Natural sele
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A difference of one hundredth of a percent in fitness is sufficient to select between winners and losers in evolution. For the first time researchers have quantified the tiny selective forces that shape bacterial genomes. The story is published today in the prestigious journal PLoS Genetics....
 

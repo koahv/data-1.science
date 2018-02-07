@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Science NewsMap captures Earth&#39;s antineutrino glowScience NewsThe map could help scientists nail down the driver of Earth&#39;s internal heating system, which fuels plate tectonics and volcanoes. Just how much heat comes from radioactive energy in the planet is still up for debate, Usman says. His team&#39;s map might ...and more&nbsp;&raquo;...
 

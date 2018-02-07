@@ -8,6 +8,9 @@ tags: [Photoelectric effect, Light, Photon, Electron, Physics, Chemistry, Partic
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The photoelectric effect refers to what happens when electrons are emitted from a material that has absorbed electromagnetic radiation....
 

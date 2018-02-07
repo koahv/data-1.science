@@ -10,6 +10,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Australian National University) The accelerated impacts of human activity on the Earth over the past 60 years have reached 'planetary-scale' proportions, in turn driving the earth into a new geological age, new research says....
 

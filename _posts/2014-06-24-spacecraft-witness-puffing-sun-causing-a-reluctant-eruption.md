@@ -8,6 +8,9 @@ tags: [space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Astronomers have spotted an unusual series of eruptions form the sun, thanks to a suite of spacecraft....
 

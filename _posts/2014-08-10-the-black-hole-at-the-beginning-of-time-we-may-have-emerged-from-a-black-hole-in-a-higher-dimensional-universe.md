@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >       What we perceive as the big bang, physicists at the Perimeter Institure argue, could be the three-dimensional “mirage” of a collapsing star in a universe profoundly different than our own. Conventional understanding holds that the big bang began with a singularity – an unfathomably hot and dense phenomenon of spacetime where the standard laws of physics break down. Singularities are bizarre, and our understanding of them is limited. Our universe may have emerged from a black hole in a higher-dimensional universe, proposed a trio of Perimeter Institute researchers in the cover story of the latest Scientific American. “Cosmology’s greatest challenge is understanding the big bang itself,” write Perimeter Institute faculty member, Ni...
 

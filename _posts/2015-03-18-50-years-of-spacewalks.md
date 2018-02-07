@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >On 18 March 1965 Russian cosmonaut Alexei Leonov became the first person to perform a spacewalk. Celebrate 50 years of spacewalks with this multimedia gallery...
 

@@ -8,6 +8,9 @@ tags: [astronomy & space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Russia on Saturday announced initial plans to build a new orbital space station together with NASA to replace the International Space Station (ISS), which is set to operate until 2024....
 

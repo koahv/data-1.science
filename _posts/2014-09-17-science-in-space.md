@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA astronaut Alexander Gerst presents some of the science he has been doing on the International Space Station half way through his six-month Blue Dot mission...
 

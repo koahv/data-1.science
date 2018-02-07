@@ -8,6 +8,9 @@ tags: [European Space Agency, Flight, Astronautics, Outer space, Technology, Spa
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Watch the replay of the first launch of ESA's SmallGEO platform at 01:03 GMT on 28 January from Europe's Spaceport in French Guiana...
 

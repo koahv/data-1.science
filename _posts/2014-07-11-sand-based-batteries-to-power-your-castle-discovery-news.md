@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Sand-based Batteries to Power Your CastleDiscovery NewsWhat do smart phones, electric vehicles and solar panels have in common? They all demand more and more battery power to keep our homes, jobs and vehicles running. Lithium ion is still the &quot;gold standard,&quot; but researchers are looking at the entire ......
 

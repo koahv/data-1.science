@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Phys.OrgWhat makes Mars sunsets different from Earth&#39;s?Phys.OrgA day on Mars lasts 24 hours and 39 minutes, so sunrise and sunset follow nearly the same rhythm as they do on Earth. When we eventually establish a base there, astronauts should be able to adjust to the planet&#39;s day-night rhythm with relative ease ...Why Mars sunset is blue and Earth sunsets are redKING5.com (blog)NASA To Produce Oxygen On Mars With Earth&#39;s Most Basic OrganismsClapwayNASA to conduct Mars &#39;flying saucer&#39; test on EarthCalifornia Turkish TimesEarthSkyall 126 news articles&nbsp;&raquo;...
 

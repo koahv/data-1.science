@@ -8,6 +8,9 @@ tags: [Amazon rainforest, Deforestation, Brazil, Natural environment]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Amazon, often described as the "lungs of the Earth", is the largest rainforest in the world. Its extraordinary biodiversity and sheer scale has made it a globally significant resource in the fight against climate change....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Liftoff of the Soyuz launcher carrying Europe’s fifth and sixth Galileo satellites – rewatch it here...
 

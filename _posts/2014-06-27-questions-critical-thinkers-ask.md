@@ -8,6 +8,9 @@ tags: [food for thought, critical thinking, graphics, infographics, learning com
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Image Credit: LearningCommons See a larger image here. &nbsp;...
 

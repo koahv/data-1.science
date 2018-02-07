@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Stem cell scientists can now directly convert adult human blood cells to both central nervous system (brain and spinal cord) neurons as well as neurons in the peripheral nervous system (rest of the body) that are responsible for pain, temperature and itch perception. This means that how a person's nervous system cells react and respond to stimuli, can be determined from his blood....
 

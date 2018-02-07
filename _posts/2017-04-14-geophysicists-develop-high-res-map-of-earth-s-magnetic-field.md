@@ -8,6 +8,9 @@ tags: [Swarm (spacecraft), Earth, Geophysics, Satellite, Physical sciences, Oute
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A University of Kentucky geophysicist is helping an international team of scientists reveal dramatic new information about the Earth's magnetic field....
 

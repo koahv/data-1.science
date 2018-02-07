@@ -8,6 +8,9 @@ tags: [Aerospace engineering, Spaceflight technologies, Astronautics, Outer spac
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA today unveiled the first Sentinel-1 satellite images sent via the European Data Relay System’s world-leading laser technology in high orbit...
 

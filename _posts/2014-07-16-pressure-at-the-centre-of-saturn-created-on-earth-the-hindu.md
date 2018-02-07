@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The HinduPressure at the centre of Saturn created on EarthThe HinduWhat do you think is the highest pressure that can be produced and studied in the lab? A recent experiment just hit the answer with a mind-boggling number of five terapascals, which amounts to 50 million atmospheres — “a pressure similar to that at ...Diamond crushed to Saturn&#39;s extremesBBC NewsCompressed diamond sheds light on mega-planetsPhys.OrgDiamonds under pressure impersonate exoplanet coresScience Newsall 13 news articles&nbsp;&raquo;...
 

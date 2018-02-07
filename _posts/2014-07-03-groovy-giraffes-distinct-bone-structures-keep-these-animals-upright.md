@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Society for Experimental Biology) Researchers at the Royal Veterinary College have identified a highly specialised ligament structure that is thought to prevent giraffes' legs from collapsing under the immense weight of these animals....
 

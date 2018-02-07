@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Liquid water and an energy source top list for what's needed for life to exist on other planets....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Adults who closely followed the Mediterranean diet were 47 percent less likely to develop heart disease over a 10-year period compared to similar adults who did not closely follow the diet, according to a new study....
 

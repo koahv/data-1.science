@@ -8,6 +8,9 @@ tags: [DNA, Gene, Epigenetics, Biology, Life sciences, Genetics, Biotechnology, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Southampton) A team of scientists led by the University of Southampton has demonstrated a groundbreaking new method of gene synthesis -- a vital research tool with real-world applications in everything from growing transplantable organs to developing treatments for cancer....
 

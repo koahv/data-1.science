@@ -8,6 +8,9 @@ tags: [Hyperloop One, Hyperloop, Manufactured goods, High-speed rail, Energy, Su
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsYesterday, the first Hyperloop maglev took off across the Nevada desert – for a few seconds. Hyperloop One, which based its ideas for a high-speed train on plans Elon Musk released to the public in 2013...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;R&amp;D...
 

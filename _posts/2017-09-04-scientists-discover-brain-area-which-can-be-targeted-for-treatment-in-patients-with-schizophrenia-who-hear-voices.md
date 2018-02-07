@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >For the first time, scientists have precisely identified and targeted an area of the brain which is involved in 'hearing voices,' experienced by many patients with schizophrenia. They have been able to show in a controlled trial that targeting this area with magnetic pulses can improve the condition in some patients....
 

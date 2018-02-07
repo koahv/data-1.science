@@ -8,6 +8,9 @@ tags: [Jupiter, Great Red Spot, Voyager 2, Planet, Hubble Space Telescope, NASA,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) Scientists using NASA's Hubble Space Telescope have produced new maps of Jupiter -- the first in a series of annual portraits of the solar system's outer planets....
 

@@ -8,6 +8,9 @@ tags: [Light, Quantum mechanics, Photon, Physics, Wave–particle duality, Wave,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers have taken a famous quantum-physics experiment to new heights by sending light, in the form of photons, to space and back, demonstrating the dual-particle-wave nature of light over much greater distances than scientists can achieve on Earth....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Under the direction of Latha Venkataraman, associate professor of applied physics at Columbia Engineering, researchers have designed a new technique to create a single-molecule diode, and, in doing so, they have developed molecular diodes that perform 50 times better than all prior designs.Read more about One Step Closer to a Single-Molecule Device Comments...
 

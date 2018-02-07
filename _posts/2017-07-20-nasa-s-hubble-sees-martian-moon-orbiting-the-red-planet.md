@@ -8,6 +8,9 @@ tags: [Phobos (moon), Deimos (moon), Mars, Moons of Mars, Moon, Spaceflight, Pla
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) Hubble captured the tiny moon Phobos during its orbital trek around Mars: so small, it appears star-like in the Hubble pictures....
 

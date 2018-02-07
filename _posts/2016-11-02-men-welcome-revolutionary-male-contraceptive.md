@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Men have positive attitudes towards an innovative male contraceptive, Vasalgel, new research has found. The landmark study is the first insight into how men perceive the new contraceptive and gives promising signs that Vasalgel may revolutionize approaches to reproductive health....
 

@@ -8,6 +8,9 @@ tags: [Mars, Erosion, Mount Sharp, Sedimentary rock, Gale (crater), Science, Noa
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >New research has found that wind carved massive mounds of more than a mile high on Mars over billions of years. Their location helps pin down when water on the Red Planet dried up during a global climate change event....
 

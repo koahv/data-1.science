@@ -8,6 +8,9 @@ tags: [archaeology & fossils]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >How did the ankylosaur get its tail club? According to research from North Carolina State University and the North Carolina Museum of Natural Sciences that traces the evolution of the ankylosaur's distinctive tail, the handle arrived first on the scene, and the knot at the end of the tail followed....
 

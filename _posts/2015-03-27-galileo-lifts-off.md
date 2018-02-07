@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Liftoff of Soyuz ST-B carrying Galileo satellites 7 and 8, at 21:46 GMT, from Europe’s Spaceport in French Guiana...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Watch this cartoon to finally understand quantum computingVoxFor one, the key principles involved — like, for instance, the idea that atoms can exist in two different states at once — are utterly bizarre. And the concept of a quantum computer is so different from the computers we use everyday that the field as ...and more&nbsp;&raquo;...
 

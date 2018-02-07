@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The First Accurate Measurement of the Earth&#39;s Size Was in the 1600sio9He&#39;s worth celebrating because in 1671, he published Mesure de la Terre, the first accurate measurement of the Earth&#39;s size.He managed to measure the size of the Earth to within fractions of our current best-estimates using triangulation, mathematics ...and more&nbsp;&raquo;...
 

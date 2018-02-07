@@ -8,6 +8,9 @@ tags: [Quantum mechanics, Terahertz radiation, Coherence (physics), Photon, Phon
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Two-quantum oscillations of atoms in a semiconductor crystal are excited by ultrashort terahertz pulses. The terahertz waves radiated from the moving atoms are analyzed by a novel time-resolving method and demonstrate the non-classical character of large-amplitude atomic motions....
 

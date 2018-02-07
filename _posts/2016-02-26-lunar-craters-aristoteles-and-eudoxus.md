@@ -8,6 +8,9 @@ tags: [Aristoteles (crater), Electromagnetic radiation, Optics, Astronomy, Optic
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The post Lunar craters Aristoteles and Eudoxus. appeared first on Sky &amp; Telescope....
 

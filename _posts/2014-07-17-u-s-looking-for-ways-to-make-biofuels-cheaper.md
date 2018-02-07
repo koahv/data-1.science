@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Washington (UPI) Jul 16, 2013 The U.S. Energy Department said it was spending $6.3 million on research aimed at generating a biofuel that could be cost competitive by 2017. SRI International of California and Research Triangle Institute of North Carolina received funding from the Energy Department for research and development projects meant to drive down the cost of producing gasoline, diesel and jet fuels from biom...
 

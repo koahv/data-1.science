@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The first steps in the origin of pancreatic cancer have been identified by researchers who say that their findings suggest preventive strategies to explore. The scientists described the molecular steps necessary for acinar cells in the pancreas -- the cells that release digestive enzymes -- to become precancerous lesions. Some of these lesions can then morph into cancer....
 

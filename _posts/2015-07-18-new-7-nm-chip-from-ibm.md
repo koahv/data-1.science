@@ -8,6 +8,9 @@ tags: [sci-tech]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >IBM recently announced that they had produced the first 7-nanometre semiconductor test chip with functioning transistors. The level of miniaturisation is huge. This can result in the ability to pla......
 

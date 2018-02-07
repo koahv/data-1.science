@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Virginia Tech) Before dinosaurs, it was thought the top aquatic and terrestrial predators didn't often interact. But researchers at Virginia Tech and the University of Tennessee discovered that the smaller of the two apex predators was potentially targeting the larger animal....
 

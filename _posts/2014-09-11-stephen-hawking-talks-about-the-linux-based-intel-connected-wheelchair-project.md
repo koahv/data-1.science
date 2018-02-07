@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Intel has revealed a new, interesting concept called the Connected Wheelchair, which takes data from users and allows people to share that info with the community and is powered by Linux....
 

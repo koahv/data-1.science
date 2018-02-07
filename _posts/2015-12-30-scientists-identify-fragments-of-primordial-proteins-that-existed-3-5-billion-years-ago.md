@@ -8,6 +8,9 @@ tags: [Protein, Biology, Bacteria, Language, Protein domain, Linguistics, Bioche
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >       Scientists at the Max Planck Society have investigated the hypothesis that the first protein domains arose by fusion and piecemeal growth from an ancestral set of simple peptides, which themselves emerged in an RNA-based pre-cellular life, around 3.5 billion years ago. Proteins and languages share many similarities – both, for instance, yield their meaning through a proper arrangement of basic building blocks. Andrei Lupas, Director at the Max Planck Institute for Developmental Biology in Germany, and his team apply computational methods to reconstruct primordial building blocks by comparative studies of modern proteins. The same approach is used in linguistics to reconstruct ancient vocabularies through the comparison of modern...
 

@@ -8,6 +8,9 @@ tags: [ExoMars, Schiaparelli EDM lander, Spaceflight technologies, Scientific ex
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >With just days to go before the departure of ExoMars, mission teams are in the final stages of their months-long training that ensures everyone knows their job the moment the mission comes alive....
 

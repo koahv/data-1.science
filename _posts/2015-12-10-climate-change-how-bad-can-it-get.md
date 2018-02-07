@@ -8,6 +8,9 @@ tags: [Global warming, Climate, Coral reef, Earth, Global natural environment, M
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Ministers in Paris have until Friday to conclude a 195-nation pact to stop Earth's climate becoming inhospitable to humans and other species....
 

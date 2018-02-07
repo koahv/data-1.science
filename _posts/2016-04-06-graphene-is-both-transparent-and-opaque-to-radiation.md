@@ -8,6 +8,9 @@ tags: [Telecommunication, Wireless, Hertz, Bandwidth (signal processing), Polari
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Ecole Polytechnique Fédérale de Lausanne) A microchip that filters out unwanted radiation with the help of graphene has been developed by scientists from the EPFL and tested by researchers of the University of Geneva (UNIGE). The invention could be used in future devices to transmit wireless data ten times faster....
 

@@ -8,6 +8,9 @@ tags: [Neanderthal, Biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Sometimes thought of as dumb brutes, Neanderthals, a dead-end species in human evolution, used tools, buried their dead and controlled fire, among other intelligent behaviors....
 

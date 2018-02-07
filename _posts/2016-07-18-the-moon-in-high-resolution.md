@@ -8,6 +8,9 @@ tags: [Nikon, Astronomy, Equipment, Imaging, Optics, Recording devices, Photogra
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The post The moon in High Resolution appeared first on Sky &amp; Telescope....
 

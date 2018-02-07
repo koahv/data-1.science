@@ -8,6 +8,9 @@ tags: [Space debris, Satellite, Spaceflight technologies, Technology, Scientific
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsSince the Space Race began in the mid-1950s, the United States, Russia, and other nations have gradually been polluting the space around Earth. It all began in 1957, when the Soviet Union... Staff Author:&nbsp;Kaylie DuffyTopics:&nbsp;Aerospace...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Columbia River basin in the Pacific Northwest offers great potential for water power; hydroelectric power stations there generate over 20,000 megawatts already. Now a simulation model will help optimize the operation of the extensive dam system....
 

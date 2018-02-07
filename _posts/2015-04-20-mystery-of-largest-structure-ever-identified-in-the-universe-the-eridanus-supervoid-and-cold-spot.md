@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >       Getting through a supervoid can take millions of years, even at the speed of light, so this measurable effect, known as the Integrated Sachs-Wolfe (ISW) effect, might provide the first explanation one of the most significant anomalies found to date in the CMB, first by a NASA satellite called the Wilkinson Microwave Anisotropy Probe (WMAP), and more recently, by Planck, a satellite launched by the European Space Agency. In 2004, astronomers examining a map of the radiation leftover from the Big Bang (the cosmic microwave background, or CMB) discovered the Cold Spot, a larger-than-expected unusually cold area of the sky. The physics surrounding the Big Bang theory predicts warmer and cooler spots of various sizes in the infant un...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA, France’s space agency CNES and the German aerospace centre DLR inaugurated the Airbus A310 ZERO-G refitted for altered gravity by running 12 scientific experiments this week.Read more about Photos of the Day: Altered-Gravity Aircraft InauguratedComments...
 

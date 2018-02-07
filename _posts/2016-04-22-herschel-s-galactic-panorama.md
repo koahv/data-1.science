@@ -8,6 +8,9 @@ tags: [Milky Way, Star formation, Herschel Space Observatory, Star, Galaxy, Nebu
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >This new video from ESA’s Herschel space observatory reveals in stunning detail the intricate pattern of gas, dust and star-forming hubs along the plane of our Galaxy, the Milky Way....
 

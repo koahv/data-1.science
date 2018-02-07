@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A pair of genetics researchers at Iowa State University found striking patterns in the building blocks of DNA in a wide variety of species, according to their recently published paper....
 

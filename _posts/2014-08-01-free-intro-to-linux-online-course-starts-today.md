@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The Linux Foundation's free online course, Introduction to Linux, started today on the edX website. Students have already begun to take the course, which covers the basic tools and techniques commonly used by Linux programmers, system administrators and end users. It's not too late to sign up!...
 

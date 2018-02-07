@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Axial Seamount, an active underwater volcano located about 300 miles off the coast of Oregon and Washington, appears to be erupting -- after two scientists had forecast that such an event would take place there in 2015....
 

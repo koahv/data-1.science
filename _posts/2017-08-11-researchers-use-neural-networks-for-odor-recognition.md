@@ -8,6 +8,9 @@ tags: [Odor, Electronic nose, Olfaction, Artificial intelligence, Technology, Ar
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers from the HSE Laboratory of Space Research, Technologies, Systems and Processes have applied fast-learning artificial intelligence systems to odour recognition and developed an electronic nose device capable of recognising the olfactory patterns of a wide range of chemicals. In addition to discriminating between different gas mixtures, the electronic nose will be able to capture and memorise new smells. According to HSE scientists, the product of their research is likely to benefit both security services and members of the public....
 

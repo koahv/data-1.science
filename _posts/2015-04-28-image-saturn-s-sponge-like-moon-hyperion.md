@@ -8,6 +8,9 @@ tags: [astronomy & space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The subject of this image bears a remarkable resemblance to a porous sea sponge, floating in the inky black surroundings of the deep sea....
 

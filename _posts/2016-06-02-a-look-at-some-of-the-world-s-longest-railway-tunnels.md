@@ -8,6 +8,9 @@ tags: [Gotthard Base Tunnel, Gotthard railway, Seikan Tunnel, Channel Tunnel, Tu
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsCapping a mammoth 17-year, $12 billion project, Switzerland has built the world's longest railway tunnel: The Gotthard Base Tunnel. Here's a look at it and others among the longest railway tunnels in the world...Contributed Author:&nbsp;The Associated PressTopics:&nbsp;Civil Engineering...
 

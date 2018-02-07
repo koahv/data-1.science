@@ -8,6 +8,9 @@ tags: [Mind, Thought, Cognition, Memory, Chaos theory, Perception, Mental disord
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(American Institute of Physics) New model described in the journal CHAOS represents how the mind processes sequential memory and may help understand psychiatric disorders....
 

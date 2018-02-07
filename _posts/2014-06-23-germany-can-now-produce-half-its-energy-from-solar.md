@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Good news: Germany produced a record 50.6 percent of its energy with solar panels in the first two weeks of June....
 

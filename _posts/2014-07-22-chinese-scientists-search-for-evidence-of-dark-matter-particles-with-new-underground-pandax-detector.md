@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Science China Press) Progress in the search for dark matter, whose gravitational effects and distribution will influence whether the universe continues expanding or ends in a Big Crunch, has been elusive. Chinese scientists will take a greater role in this search with the new PandaX liquid-xenon detector, which will monitor potential collisions between xenon nuclei and weakly interacting massive particles, hypothesized candidates for dark matter particles. They present here the technical design of the PandaX Dark Matter Experiment....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Melbourne) Scientists from IBM Research and the Universities of Melbourne and Queensland have moved a step closer to identifying the nanostructure of cellulose -- the basic structural component of plant cell walls. The insights could pave the way for more disease resistant varieties of crops and increase the sustainability of the pulp, paper and fiber industry -- one of the main uses of cellulose....
 

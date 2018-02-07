@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(PLOS) Many animals may have a previously under-appreciated ability to make up for lost time with more effort, according to new research publishing this week in PLOS Computational Biology....
 

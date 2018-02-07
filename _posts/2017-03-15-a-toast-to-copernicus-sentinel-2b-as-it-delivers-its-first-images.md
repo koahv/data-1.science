@@ -8,6 +8,9 @@ tags: [Copernicus Programme, Sentinel-2, Flight, Spacecraft, Earth sciences, Spa
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Just over a week after being lofted into orbit,&nbsp;the European Union’s Sentinel-2B satellite delivered its first images of Earth, offering a glimpse of the ‘colour vision’ it will provide for the Copernicus environmental monitoring programme....
 

@@ -8,6 +8,9 @@ tags: [Renewable energy, Net metering, Wind power, Demand, Electrical grid, Phot
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Originally published on RMI Outlet. By Mark Dyson, James Mandel, Ph.D., &#38; Amory B. Lovins How a holistic view of grid economics can solve the “problems” of renewable energy integration Earlier this year, MIT researchers were the latest in a series of analysts to raise alarm about the perceived limitations of solar PV’s continued growth. [&#038;hellip 3 Factors That Can Accelerate Wind &#038; Solar Adoption was originally published on CleanTechnica. To read more from CleanTechnica, join over 50,000 other subscribers: Google+ | Email | Facebook | RSS | Twitter....
 

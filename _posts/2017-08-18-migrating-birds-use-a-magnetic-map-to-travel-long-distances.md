@@ -8,6 +8,9 @@ tags: [Bird migration, Compass, Navigation, Longitude, Bird, Magnetic field, Geo
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Birds have an impressive ability to navigate. They can fly long distances, to places that they may never have visited before, sometimes returning home after months away....
 

@@ -8,6 +8,9 @@ tags: [news, solar system, spacecraft and space missions, new horizons, pluto]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 ><span style="color: #5274ae;">New Horizons will reach Pluto a year from today, and the scientific community is abuzz with speculation about what the space probe might see when it gets there. Meanwhile, the New Horizons team scours the skies for a Kuiper Belt Object that New Horizons can visit after its Pluto flyby.<div id="attachment_255425862" style="width: 247px" class="wp-caption alignright"><a href="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/new_horizons.jpg"><img class="wp-image-255425862 size-medium" src="http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/new_horizons-237x190.jpg" alt="Artist's conception of New Horizons.NASA" width="237" height="190" /><p class="wp-caption-text">Artist's conception of New Horizons.<...
 

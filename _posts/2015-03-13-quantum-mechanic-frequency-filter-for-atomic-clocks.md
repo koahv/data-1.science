@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Copenhagen, Denmark (SPX) Mar 13, 2015 Atomic clocks are the most accurate clocks in the world. In an atomic clock, electrons jumping from one orbit to another decides the clock's frequency. To get the electrons to jump, researchers shine light on the atoms using stabilised laser light. However, the laser light has to have a very precise frequency to trigger very precise electron jumps. It is however challenging to get the laser ligh...
 

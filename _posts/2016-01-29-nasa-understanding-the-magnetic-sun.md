@@ -8,6 +8,9 @@ tags: [Sun, Corona, Magnetic field, Outer space, Physics, Nature, Astronomy, Spa
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(NASA/Goddard Space Flight Center) Scientists have turned to a combination of real time observations and computer simulations to best analyze how material courses through the corona....
 

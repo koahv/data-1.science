@@ -8,6 +8,9 @@ tags: [astronomy]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >A dying star's final moments are captured in this image from the NASA/ESA Hubble Space Telescope. The death throes of this star may only last mere moments on a cosmological timescale, but this star's demise is still quite lengthy by our standards, lasting tens of thousands of years!...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Watch the launch of ESA's last Automated Transfer Vehicle – now enroute to the International Space Station...
 

@@ -8,6 +8,9 @@ tags: [Neoplasm, Cancer, Australopithecus sediba, Dinosaur, Bone, Tasmanian devi
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Cancer is often viewed as a fundamentally modern and monolithic disease. Many people think its rise and spread has been driven almost exclusively by the developed world's toxins and poisons; by our bad eating habits, lifestyles, and the very air we breathe....
 

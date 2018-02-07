@@ -8,6 +8,9 @@ tags: [space exploration]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NASA has completed the first developmental test series on the RS-25 engines that will power the agency's new Space Launch System (SLS) rocket on missions deeper into space than ever before....
 

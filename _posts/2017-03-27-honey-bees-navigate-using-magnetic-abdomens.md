@@ -8,6 +8,9 @@ tags: [Magnetoreception, SQUID, Magnetic field, Magnetism, Bee, Honey bee, Ferro
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Bees can be blown off course by applying a magnetic field...
 

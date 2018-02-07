@@ -8,6 +8,9 @@ tags: [Nanotechnology, Electronics, DNA, Engineering, Computing, Computer, Elect
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of California - Davis) Researchers from UC Davis and the University of Washington have demonstrated that the conductance of DNA can be modulated by controlling its structure, thus opening up the possibility of DNA's future use as an electromechanical switch for nanoscale computing....
 

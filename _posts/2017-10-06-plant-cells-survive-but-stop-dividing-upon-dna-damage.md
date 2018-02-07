@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The cell cycle is how a cell passes its DNA but ceases if the DNA is damaged, as otherwise it risks passing this damage to daughter cells. Scientists report a new molecular mechanism that explains how this cessation occurs. The study shows that the transcription factor family MYB3R is normally degraded, but accumulates upon DNA damage to prevent cell cycle progression....
 

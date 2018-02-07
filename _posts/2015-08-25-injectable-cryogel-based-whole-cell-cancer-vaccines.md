@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >New research could potentially yield a new platform for cancer vaccines. Leveraging a biologically inspired sponge-like gel called 'cryogel' as an injectable biomaterial, the vaccine delivers patient-specific tumor cells together with immune-stimulating biomolecules to enhance the body's attack against cancer....
 

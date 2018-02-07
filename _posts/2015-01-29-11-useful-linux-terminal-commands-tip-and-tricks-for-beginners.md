@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >&nbsp;EveryDayLinux: This guide has a list of 11 Linux Terminal Commands that as a beginner I wish someone had shown me, including keyboard shortcuts, sudo !! and htop....
 

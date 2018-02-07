@@ -8,6 +8,9 @@ tags: [linux]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >C.H.I.P. is a new mini computer that aims to provide powerful hardware at the ridiculous price of just $9 (€8), not to mention the fact that it's incredibly small. Some of you will immediately think of the Raspberry Pi mini PC and you would be right to do so. C.H.I.P. is actually much smaller than Raspberry Pi 2, and it has roughly the same hardware capabilities, even with some improvements. It's hard to imagine how the makers of C.H.I.P. h... (read more)...
 

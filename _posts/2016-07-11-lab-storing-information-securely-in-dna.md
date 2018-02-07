@@ -8,6 +8,9 @@ tags: [DNA, Computer data storage, Integrated circuit, Sandia National Laborator
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Bioengineers in the United States have developed a new method for encrypting and storing sensitive information in DNA. Digital data storage degrades and can become obsolete and old-school books and paper require lots of space....
 

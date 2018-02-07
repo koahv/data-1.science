@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >In the nearly 25 years since the launch of the Hubble Space Telescope (HST), astronomers and the public alike have enjoyed ground-breaking views of the cosmos and the suite of scientific discoveries that followed. The successor to HST, the James Webb Telescope should launch in 2018 but will have a comparatively short lifetime....
 

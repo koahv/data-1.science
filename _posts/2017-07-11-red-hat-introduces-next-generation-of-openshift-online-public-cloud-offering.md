@@ -8,6 +8,9 @@ tags: [Red Hat, OpenShift, Cloud computing, JBoss Developer Studio, Open-source 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Red Hat brings its public cloud offering, OpenShift Online, to the same Linux containers- and Kubernetes-based foundation as OpenShift Container Platform....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Not only migratory birds use a built-in magnetic compass to navigate correctly. A new study shows that non-migratory birds also are able to use a built-in compass to orient themselves using the Earth's magnetic field....
 

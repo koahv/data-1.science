@@ -8,6 +8,9 @@ tags: [Simulation, Satellite, European Space Agency, Christopher C. Kraft Jr. Mi
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The teams that will fly Sentinel-5P are training intensively for launch, ensuring that everyone knows their job and can react to any emergency....
 

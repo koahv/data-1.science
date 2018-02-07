@@ -8,6 +8,9 @@ tags: [Antarctica, Greenland ice sheet, Last glacial period, Ice sheet, Ice age,
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >At the peak of the last ice age, a vast ice sheet covered northern Europe, spanning from the British Isles, across Scandinavia and into Russia in the east and the Barents Sea in the north. A new reconstruction of this ice sheet shows the interaction between climate and glaciers—how the ice sheet grows and retreats...
 

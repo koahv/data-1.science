@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Chang Chen-kai is part of Taiwan's new generation of high-tech farmers that is harnessing the island's technological edge in light-emitting diodes to grow vegetables indoors under bright LED lights. Read: Taiwan Expanding Into Indoor LED-Lit, Pesticide-Free FarmsRead more about Photos of the Day: High-Tech Farms Use LED LightsComments...
 

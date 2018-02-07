@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Researchers have discovered stages of cervical elongation in the giraffe family, revealing details about the evolutionary transformation of the neck within extinct species of the family....
 

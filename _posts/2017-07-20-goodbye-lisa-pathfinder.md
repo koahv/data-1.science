@@ -8,6 +8,9 @@ tags: [Laser Interferometer Space Antenna, LISA Pathfinder, Spacecraft, Unmanned
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The European Space Agency switched off its groundbreaking LISA Pathfinder mission this week. An artist's conception of LISA Pathfinder in space. ESA/C.Carreau A pioneering mission came to a quiet end earlier this week, as the European Space Agency's LISA Pathfinder finished its mission. Controllers at the European Space Operations Centre in Darmstadt, Germany, sent the final commands to the spacecraft shortly after 20:00 Central European Time on Tuesday, July 18th. "When we were in contact with LISA Pathfinder yesterday evening for the last time and said goodbye to the satellite, it was a unique and emotional moment," says Karsten Danzmann (Max Planck Institute for Gravitational Physics, Germany) in a recent press release. "After years of p...
 

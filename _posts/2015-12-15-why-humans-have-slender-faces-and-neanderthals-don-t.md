@@ -8,6 +8,9 @@ tags: [Neanderthal, Bone, Homo sapiens, Biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Neanderthals had protruding facial features because of the way their bodies deposited and dealt with bone, a new study finds....
 

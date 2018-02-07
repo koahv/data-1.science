@@ -8,6 +8,9 @@ tags: [Thomas Pesquet, European Space Agency, Astronaut, International Space Sta
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >ESA astronaut Thomas Pesquet, NASA astronaut Peggy Whitson and Roscosmos commander Oleg Novitsky docked with the International Space Station today after a two-day flight in their Soyuz MS-03 spacecraft.&nbsp;...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >       A primitive ocean on Mars held more water than Earth’s Arctic Ocean, according to NASA scientists who, using ground-based observatories, measured water signatures in the Red Planet’s atmosphere. Scientists have been searching for answers to why this vast water supply left the surface. “Our study provides a solid estimate of how much water Mars once had, by determining how much water was lost to space,” said Geronimo Villanueva, a scientist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and lead author of the new paper. “With this work, we can better understand the history of water on Mars.” Perhaps about 4.3 billion years ago, Mars would have had enough water to cover its entire surface in a liquid layer about 45...
 

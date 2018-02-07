@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NASA has chosen 12 companies as NextSTEP partners to develop technologies for deep space exploration, the agency announced on March 30. Read more about NASA Chooses 12 New Commercial Deep Space PartnersComments...
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(Center for Genomic Regulation) The goal of 'Spark' is to carry out the first preclinical stage of the development of a first-in-class drug that will prevent, stop and reverse the progression of cognitive impairment associated with schizophrenia and other mental disorders, and to be able to start first-in-humans trials by 2016....
 

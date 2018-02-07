@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(American Statistical Association) The world's population will increase from today's 7.3 billion people to 9.7 billion in 2050 and 11.2 billion at century's end, John R. Wilmoth, the director of the United Nations Population Division, told a session focused on demographic forecasting at the 2015 Joint Statistical Meetings today in Seattle....
 

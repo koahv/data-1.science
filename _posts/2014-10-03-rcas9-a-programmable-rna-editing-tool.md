@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(DOE/Lawrence Berkeley National Laboratory) A powerful scientific tool for editing the DNA instructions in a genome can now also be applied to RNA as Berkeley Lab researchers have demonstrated a means by which the CRISPR/Cas9 protein complex can be programmed to recognize and cleave RNA at sequence-specific target sites....
 

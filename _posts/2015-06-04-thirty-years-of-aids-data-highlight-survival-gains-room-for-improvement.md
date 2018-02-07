@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Although treatment advances have dramatically reduced deaths from opportunistic infections related to AIDS, a new study drawing on 30 years of data from more than 20,000 patients in San Francisco suggests there is still ample room to improve. About a third -- 35 percent -- of AIDS patients diagnosed with their first opportunistic infection from 1997 to 2012 in that city died within five years, according to the study....
 

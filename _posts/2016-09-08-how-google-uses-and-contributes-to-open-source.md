@@ -8,6 +8,9 @@ tags: [GNU General Public License, Open-source model, Public commons, Software, 
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Engineer Marc Merlin has been working at Google since 2001 but has been involved with Linux since 1993, in its very early days. Since then, open source adoption has dramatically increased, but a new challenge is emerging: Not many companies care about the license side of open source, Merlin stated in his talk “How Google Uses and Contributes to Open Source” at LinuxCon and ContainerCon North America....
 

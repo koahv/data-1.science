@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(University of Cambridge) When food is scarce, tool use among non-human primates does not increase. This counterintuitive finding leads researchers to suggest that the driving force behind tool use is ecological opportunity -- and that the environment shapes the development of culture....
 

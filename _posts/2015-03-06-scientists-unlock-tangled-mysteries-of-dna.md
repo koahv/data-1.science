@@ -8,6 +8,9 @@ tags: [biology]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Chromosomal proteins hold the key to our DNA and they are changing, according to Jose Eirin-Lopez, marine sciences professor in the Florida International University Department of Biological Sciences....
 

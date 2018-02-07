@@ -8,6 +8,9 @@ tags: [space exploration]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >I'm Carly Howett, a senior research scientist at the Southwest Research Institute in Boulder, Colorado. I've been working on NASA's New Horizons mission since 2012, focusing on an instrument named Ralph, which among other things provides the color "eyes" for the spacecraft....
 

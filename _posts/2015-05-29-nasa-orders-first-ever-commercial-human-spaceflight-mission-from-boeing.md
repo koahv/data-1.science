@@ -8,6 +8,9 @@ tags: [astronomy & space]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The restoration of America's ability to launch American astronauts to the International Space Station (ISS) from American soil in 2017 took a major step forward when NASA ordered the first ever commercial human spaceflight mission from Boeing....
 

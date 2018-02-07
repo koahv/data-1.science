@@ -8,6 +8,9 @@ tags: [earth sciences]
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Knowing how the weather will behave in the near future is indispensable for countless human endeavors....
 

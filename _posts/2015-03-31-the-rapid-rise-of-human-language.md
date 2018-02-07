@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Human language likely developed quite rapidly into a sophisticated system, a linguist contends. Instead of mumbles and grunts, people deployed syntax and structures resembling the ones we use today, this expert suggests....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The G7 leading industrial nations have agreed to cut greenhouse gases by phasing out the use of fossil fuels by the end of the century, the German chancellor, Angela Merkel, has announced....
 

@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >An Ariane 5 lifted off last night from Europe’s Spaceport in Kourou, French Guiana and delivered two telecom satellites into their planned orbits. The launch of flight VA223 occurred on 27 May at 21:16 GMT (23:16 CEST, 18:16 local time)....
 

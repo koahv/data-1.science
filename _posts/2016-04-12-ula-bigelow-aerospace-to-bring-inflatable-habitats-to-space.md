@@ -8,6 +8,9 @@ tags: [B330, Bigelow Aerospace, United Launch Alliance, International Space Stat
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >NewsUnited Launch Alliance and Bigelow Aerospace will work together to create and send blowup space habitats—which could possibly support space tourism—to orbit, the companies announced in a statement Monday...Staff Author:&nbsp;Jake MeisterTopics:&nbsp;Aerospace...
 

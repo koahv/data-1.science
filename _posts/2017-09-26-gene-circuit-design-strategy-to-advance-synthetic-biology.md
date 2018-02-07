@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Scientists and engineers have developed synthetic gene circuits that program the functionality, performance, and behavior of living cells. These gene circuits hold great promise in medical and biotechnological applications, but to date, most circuits are constructed through a manner, which relies on a designer's intuition and is often inefficient....
 

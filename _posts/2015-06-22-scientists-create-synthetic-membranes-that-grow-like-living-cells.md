@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Chemists and biologists have succeeded in designing and synthesizing an artificial cell membrane capable of sustaining continual growth, just like a living cell....
 

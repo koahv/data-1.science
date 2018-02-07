@@ -8,6 +8,9 @@ tags: [energy, climate change, geoengineering, paris agreement, science, weather
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >Even climate activists increasingly recognise that the lofty rhetoric of the global agreement to reduce greenhouse gas emissions, concluded in Paris over a year ago, will not be matched by its promises’ actual impact on temperatures. This should make us think about smart, alternative solutions. But one such alternative, geoengineering, is a solution that many people refuse to entertain. Geoengineering means deliberately manipulating the Earth’s climate. It seems like something from science fiction. But it makes sense to think of it as a prudent and affordable insurance policy. Climate summit after climate summit has failed to affect global temperatures for a simple reason: solar and wind power are still too expensive and inefficient to repl...
 

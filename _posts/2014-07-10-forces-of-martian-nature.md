@@ -8,6 +8,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >The surface of Mars is pocked and scarred with giant impact craters and rocky ridges, as shown in this new image from ESA’s Mars Express that borders the giant Hellas basin in the planet’s southern hemisphere....
 

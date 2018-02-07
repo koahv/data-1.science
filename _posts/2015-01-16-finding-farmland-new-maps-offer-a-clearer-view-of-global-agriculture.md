@@ -10,6 +10,9 @@ tags: []
 ---
 
 
+#### Digest
+>digest unavailable
+
 #### Extract
 >(International Institute for Applied Systems Analysis) A new global cropland map combines multiple satellite data sources, reconciled using crowdsourced accuracy checks, to provide an improved record of total cropland extent as well as field size around the world....
 
