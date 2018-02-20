@@ -4,7 +4,7 @@ title: "New Prime Number Discovery Breaks Record at 22 Million Digits"
 date: 2016-01-20 15:07:49
 categories: Linux
 author: CNET
-tags: [Great Internet Mersenne Prime Search, Computing, Algebraic number theory, Recreational mathematics, Numbers, Integer sequences, Integers, Prime numbers, Arithmetic functions, Number theory, Elementary number theory, Rational numbers, Elementary mathematics, Sequences and series, Abelian group theory]
+
 ---
 
 

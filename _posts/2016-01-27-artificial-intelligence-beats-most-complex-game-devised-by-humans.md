@@ -4,7 +4,7 @@ title: "Artificial Intelligence Beats 'Most Complex Game Devised by Humans'"
 date: 2016-01-27 18:02:11
 categories: Science
 author: unknown author
-tags: [AlphaGo, Artificial intelligence, Go (game), Deep learning, DeepMind, Areas of computer science, Cybernetics, Technology, Cognitive science]
+
 ---
 
 

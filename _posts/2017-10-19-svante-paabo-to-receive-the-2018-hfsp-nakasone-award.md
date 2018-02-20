@@ -4,7 +4,7 @@ title: "Svante Pääbo to receive the 2018 HFSP Nakasone Award"
 date: 2017-10-19 04:00:00
 categories: Science
 author: unknown author
-tags: [Human Frontier Science Program, Neanderthal, Denisovan, Biology, Life sciences, Organisms, Science]
+tags: [Human Frontier Science Program, Neanderthal, Denisovan, Biology, Science, Life sciences, Organisms]
 ---
 
 

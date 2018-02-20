@@ -4,7 +4,7 @@ title: "The mystery of quantum computers"
 date: 2017-05-26 11:31:41
 categories: Science
 author: unknown author
-tags: [Quantum computing, Computer, Integer factorization, Laser, Computing, Physics, Technology]
+tags: [Quantum computing, Quantum mechanics, Integer factorization, Computer, Computing, Science, Physics]
 ---
 
 

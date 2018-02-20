@@ -4,7 +4,7 @@ title: "How long do stars live? How do stars die?"
 date: 2014-07-15 19:23:37
 categories: Astronomy
 author: Maria Temming
-tags: [questions & answers, resources and education, science-based q&a, stars faq]
+
 ---
 
 

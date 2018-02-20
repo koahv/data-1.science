@@ -4,7 +4,7 @@ title: "Earth's magnetic field is weakening 10 times faster than thought in the 
 date: 2014-07-10 12:16:18
 categories: Earth
 author: unknown author
-tags: []
+
 ---
 
 

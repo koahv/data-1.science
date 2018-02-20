@@ -4,7 +4,7 @@ title: "New research introduces 'pause button' for boiling"
 date: 2016-02-23 05:00:00
 categories: Technology
 author: unknown author
-tags: [Heat transfer, Boiling, Heat, Mechanical engineering, Chemistry, Physical chemistry, Artificial objects, Manufacturing, Applied and interdisciplinary physics]
+
 ---
 
 

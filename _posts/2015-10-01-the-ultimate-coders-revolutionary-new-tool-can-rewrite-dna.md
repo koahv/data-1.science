@@ -4,7 +4,7 @@ title: "The Ultimate Coders: Revolutionary New Tool Can Rewrite DNA"
 date: 2015-10-01 09:29:04
 categories: Technology
 author: unknown author
-tags: [CRISPR, DNA, Gene, Genetics, Nucleic acid sequence, Nucleic acid, Base pair, Virus, Cas9, Genetic engineering, Biotechnology, Organisms, Life sciences, Molecular biology, Biology, Biochemistry, Nucleic acids]
+
 ---
 
 

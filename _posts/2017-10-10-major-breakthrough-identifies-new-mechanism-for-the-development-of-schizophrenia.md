@@ -4,7 +4,7 @@ title: "Major breakthrough identifies new mechanism for the development of schiz
 date: 2017-10-10 14:56:29
 categories: Science
 author: unknown author
-tags: []
+tags: [Schizophrenia, Bloodbrain barrier, Adeno-associated virus, Psychiatry, Disease, Retinopathy, Brain, Health, Visual impairment, Clinical medicine, Biology, Medicine, Diseases and disorders, Health sciences, Medical specialties]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Spain Met More than a Third of July’s Electricity Demand with Wind and
 date: 2014-08-18 19:00:51
 categories: Energy
 author: Nicole Jewell
-tags: [news, renewable energy, solar power, wind power, solar energy, clean energy generation, electricity demand, greenhouse gas emissions, spain, spains renewable energy, spains solar energy, spains wind energy]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "The Rights of Synthetic Lifeforms is the Next Great Civil Rights Controv
 date: 2017-10-26 18:00:58
 categories: Science
 author: Brad Jones
-tags: [Ethics of artificial intelligence, Artificial intelligence, Robot, Legal person, Personhood, Cognition, Emergence, Ethics, Social institutions, Law, Cognitive science]
+tags: [Ethics of artificial intelligence, Artificial intelligence, Robot, Legal person, Personhood, Social institutions, Philosophy, Ethics, Emergence, Cognition, Cognitive science, Law]
 ---
 
 

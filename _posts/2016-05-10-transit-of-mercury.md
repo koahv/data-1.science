@@ -4,7 +4,7 @@ title: "Transit of Mercury"
 date: 2016-05-10 11:45:00
 categories: Astronomy
 author: unknown author
-tags: [Sun, Transit (astronomy), Mercury (planet), Venus, Solar System, Space science, Planetary science, Physical sciences, Outer space, Bodies of the Solar System, Planets, Local Interstellar Cloud, Astronomical objects, Astronomy]
+
 ---
 
 

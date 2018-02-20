@@ -4,7 +4,7 @@ title: "Scientists Create First Single-molecule Diode that Might Have Real Appli
 date: 2015-05-26 18:07:11
 categories: Astronomy
 author: FQtQ Contributor
-tags: [technology]
+
 ---
 
 

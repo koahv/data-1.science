@@ -4,7 +4,7 @@ title: "The call of the sea: Mammalian evolutionary transitions back to the sea"
 date: 2016-06-22 04:00:00
 categories: Science
 author: unknown author
-tags: [Gene, Evolution, Mammal, DNA repair, Adaptation, Biology, Mutation, Genetics, Molecular biology, Biochemistry, Life sciences, Organisms, Biotechnology]
+tags: [Gene, Evolution, Mammal, DNA repair, Adaptation, Biology, Genetics, Surfactant protein B, Biochemistry, Molecular biology, Biotechnology, Organisms, Life sciences]
 ---
 
 

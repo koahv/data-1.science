@@ -4,7 +4,7 @@ title: "How quantum effects could improve artificial intelligence"
 date: 2016-10-17 13:30:02
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Learning, Quantum computing, Machine learning, Quantum machine learning, Artificial intelligence, Research, Science, Cognitive science, Physics, Technology]
+tags: [Quantum mechanics, Learning, Machine learning, Quantum computing, Quantum machine learning, Research, Artificial intelligence, Physics, Intelligence, Science, Cognitive science, Cognition, Science and technology, Technology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Ocean heat content reveals secrets of fish migration behaviors"
 date: 2015-10-21 21:08:25
 categories: Science
 author: unknown author
-tags: [Yellowfin tuna, Loop Current, Tuna, Ocean, Animal migration tracking, Oceanography, Earth sciences, Applied and interdisciplinary physics, Physical geography]
+
 ---
 
 

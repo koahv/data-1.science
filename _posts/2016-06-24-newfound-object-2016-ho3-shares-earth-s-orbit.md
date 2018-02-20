@@ -4,7 +4,7 @@ title: "Newfound Object 2016 HO3 Shares Earth’s Orbit"
 date: 2016-06-24 15:34:45
 categories: Astronomy
 author: David Dickinson
-tags: [Asteroid, Space exploration, Physical sciences, Bodies of the Solar System, Space science, Solar System, Planetary science, Astronomy, Outer space, Astronomical objects, Space colonization, Spaceflight]
+tags: [Asteroid, Spaceflight, Astronomy, Outer space, Planetary science, Solar System, Space science, Bodies of the Solar System, Physical sciences, Astronomical objects, Planets of the Solar System]
 ---
 
 

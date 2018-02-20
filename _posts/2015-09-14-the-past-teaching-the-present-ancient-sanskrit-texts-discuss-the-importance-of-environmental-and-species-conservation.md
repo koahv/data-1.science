@@ -4,7 +4,7 @@ title: "The Past Teaching the Present: Ancient Sanskrit Texts Discuss the Import
 date: 2015-09-14 23:59:00
 categories: Science
 author: dhwty
-tags: []
+
 ---
 
 

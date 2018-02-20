@@ -4,7 +4,7 @@ title: "Aldous Huxley on the Transcendent Power of Music and Why It Sings to Our
 date: 2016-04-05 06:30:12
 categories: Philosophy
 author: Maria Popova
-tags: [Mind, Reality, Philosophy, Culture]
+
 ---
 
 

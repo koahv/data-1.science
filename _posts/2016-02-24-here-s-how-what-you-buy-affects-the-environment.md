@@ -4,7 +4,7 @@ title: "Here's how what you buy affects the environment"
 date: 2016-02-24 12:26:21
 categories: Science
 author: unknown author
-tags: [Greenhouse gas, Ecological footprint, Water use, Carbon footprint, Air pollution, Carbon dioxide, Carbon dioxide equivalent, Natural environment, Nature]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Display Awesome Linux Logo With Basic Hardware Info Using screenfetch an
 date: 2015-09-13 18:22:45
 categories: Linux
 author: Vivek Gite
-tags: []
+
 ---
 
 

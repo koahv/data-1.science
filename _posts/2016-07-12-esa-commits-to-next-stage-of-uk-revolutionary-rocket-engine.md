@@ -4,7 +4,7 @@ title: "ESA commits to next stage of UK revolutionary rocket engine"
 date: 2016-07-12 07:31:00
 categories: Astronomy
 author: unknown author
-tags: [SABRE (rocket engine), Reaction Engines Limited, Engine, Space exploration, Space colonization, Outer space, Astronautics, Artificial objects, Propulsion, Flight, Vehicles, Industries, Aerospace, Technology, Spaceflight, Spaceflight technologies, Space technology, Aerospace engineering, Rocketry, Spacecraft, Transport, Space industry, Aeronautics, Spacecraft propulsion]
+tags: [SABRE (rocket engine), Reaction Engines Limited, Propulsion, Spaceflight, Spaceflight technologies, Aerospace engineering, Rocketry, Technology, Spacecraft, Aerospace, Vehicles, Flight, Artificial objects, Astronautics, Outer space, Transport, Industries, Aeronautics, Spacecraft propulsion]
 ---
 
 

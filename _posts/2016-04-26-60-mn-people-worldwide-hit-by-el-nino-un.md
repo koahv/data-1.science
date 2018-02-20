@@ -4,7 +4,7 @@ title: "60 mn people worldwide hit by El Nino: UN"
 date: 2016-04-26 18:50:12
 categories: Science
 author: unknown author
-tags: [El Niño, La Niña, Drought, Ice age, Physical geography, Applied and interdisciplinary physics, Oceanography, Atmospheric sciences, Earth sciences, Meteorology, Climate, Climatology]
+
 ---
 
 

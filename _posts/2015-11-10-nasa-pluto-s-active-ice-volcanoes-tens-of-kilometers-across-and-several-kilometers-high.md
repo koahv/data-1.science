@@ -4,7 +4,7 @@ title: "NASA: Pluto's Active Ice Volcanoes? --"Tens of Kilometers Across and Sev
 date: 2015-11-10 17:05:55
 categories: Astronomy
 author: dailygalaxy.com
-tags: [Moons of Pluto, Pluto, New Horizons, Natural satellite, Charon (moon), Outer space, Space science, Solar System, Astronomy, Bodies of the Solar System, Planetary science]
+
 ---
 
 

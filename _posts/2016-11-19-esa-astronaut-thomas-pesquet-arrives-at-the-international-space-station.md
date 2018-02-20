@@ -4,7 +4,7 @@ title: "ESA astronaut Thomas Pesquet arrives at the International Space Station"
 date: 2016-11-19 21:41:00
 categories: Astronomy
 author: unknown author
-tags: [Thomas Pesquet, European Space Agency, Astronaut, International Space Station, Spaceflight, Spaceflight technologies, Spacecraft, Space industry, Space traffic management, Space-based economy, Space exploration, Human spaceflight, Outer space, Space colonization, Space technology, Astronautics, Flight, Space programs, Manned spacecraft, Aerospace agencies, Government programs, Human spaceflight programs, Aerospace, Space agencies, Aerospace engineering, Scientific exploration]
+tags: [Thomas Pesquet, European Space Agency, Astronaut, International Space Station, Human spaceflight, Flight, Spacecraft, Astronautics, Space programs, Space exploration, Spaceflight technologies, Aerospace engineering, Space industry, Space agencies, Space-based economy, Aerospace, Human spaceflight programs, Government programs, Aerospace agencies, Space traffic management, Outer space, Manned spacecraft, Scientific exploration, Spaceflight]
 ---
 
 

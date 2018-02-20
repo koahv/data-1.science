@@ -4,7 +4,7 @@ title: "NASA’s Juno Probe Reaches Jupiter"
 date: 2016-07-05 11:27:58
 categories: Astronomy
 author: David Dickinson
-tags: [Juno (spacecraft), Jupiter, JunoCam, Sun, Gravity assist, New Horizons, Space probe, Galileo (spacecraft), Outer space, Flight, Space colonization, Spaceflight technologies, Space technology, Astronautics, Physical sciences, Spacecraft, Planetary science, Space exploration, Space science, Spaceflight, Solar System, Astronomy]
+tags: [Juno (spacecraft), Jupiter, JunoCam, Sun, Galileo (spacecraft), Gravity assist, Space probe, New Horizons, Outer space, Flight, Planets of the Solar System, Spaceflight technologies, Space science, Astronautics, Physical sciences, Astronomy, Spacecraft, Solar System, Planetary science, Spaceflight]
 ---
 
 

@@ -4,7 +4,7 @@ title: "MIT engineers just unveiled living, glowing plants"
 date: 2017-12-13 20:31:26
 categories: Technology
 author: Lacy Cooke
-tags: [Artificial objects, Chemistry]
+tags: [Light, Chemistry]
 ---
 
 

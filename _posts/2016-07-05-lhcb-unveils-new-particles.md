@@ -4,7 +4,7 @@ title: "LHCb unveils new particles"
 date: 2016-07-05 12:56:02
 categories: Science
 author: unknown author
-tags: [Quark, Particle physics, Color charge, Strong interaction, Hadron, Gluon, Large Hadron Collider, J/psi meson, Scientific theories, Physical universe, Modern physics, Quantum chromodynamics, Solid state engineering, Nuclear physics, Physical bodies, Subatomic particles, Theoretical physics, Mechanics, Quantum mechanics, Standard Model, Quantum field theory, Physical sciences, Physics]
+tags: [Quark, Color charge, Elementary particle, Particle physics, Strong interaction, Hadron, Large Hadron Collider, Jpsi meson, Gluon, Pentaquark, Meson, Quantum mechanics, Physical bodies, Subatomic particles, Mechanics, Quantum chromodynamics, Nuclear physics, Physical universe, Standard Model, Theoretical physics, Physics, Physical sciences, Quantum field theory]
 ---
 
 

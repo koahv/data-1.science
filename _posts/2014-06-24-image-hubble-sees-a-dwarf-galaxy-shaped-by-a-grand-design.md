@@ -4,7 +4,7 @@ title: "Image: Hubble sees a dwarf galaxy shaped by a grand design"
 date: 2014-06-24 13:20:01
 categories: Science
 author: unknown author
-tags: [astronomy & space]
+
 ---
 
 

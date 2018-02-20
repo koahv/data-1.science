@@ -4,7 +4,7 @@ title: "MoEDAL Closes In On Seach for Magnetic Particle"
 date: 2016-08-11 13:05:52
 categories: Technology
 author: mcrouse
-tags: [Large Hadron Collider, Magnetic monopole, MoEDAL experiment, Elementary particle, CERN, Theoretical physics, Mechanics, Applied and interdisciplinary physics, Particle physics, Physical sciences, Physics, Chemistry, Quantum mechanics, Science, Modern physics, Condensed matter physics]
+tags: [Large Hadron Collider, Magnetic monopole, Elementary particle, MoEDAL experiment, CERN, Physics, Condensed matter physics, Physical sciences, Particle physics, Applied and interdisciplinary physics, Mechanics, Chemistry, Theoretical physics, Quantum mechanics, Modern physics, Science]
 ---
 
 

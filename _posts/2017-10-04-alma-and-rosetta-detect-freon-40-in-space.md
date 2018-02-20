@@ -4,7 +4,7 @@ title: "ALMA and Rosetta detect freon-40 in space"
 date: 2017-10-04 04:00:00
 categories: Science
 author: unknown author
-tags: [67P/Churyumov–Gerasimenko, Abiogenesis, Rosetta (spacecraft), Comet, Chloromethane, Star, Exoplanet, Biomarker, Planet, Chemistry, Nature, Outer space, Physical sciences, Astronomy, Planetary science, Astronomical objects, Space science]
+tags: [67PChuryumovGerasimenko, Abiogenesis, Chlorine, Chloromethane, Comet, Star, Exoplanet, Rosetta (spacecraft), Biomarker, Astronomy, Planetary science, Chemistry, Nature, Space science, Outer space, Physical sciences]
 ---
 
 

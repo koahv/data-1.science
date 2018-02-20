@@ -4,7 +4,7 @@ title: "Renewables re-energized: Green energy investments worldwide surge 17 per
 date: 2015-03-31 04:00:00
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

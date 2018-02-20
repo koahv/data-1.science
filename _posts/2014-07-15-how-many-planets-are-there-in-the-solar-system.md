@@ -4,7 +4,7 @@ title: "How many planets are there in the Solar System?"
 date: 2014-07-15 16:57:37
 categories: Astronomy
 author: Maria Temming
-tags: [questions & answers, resources and education, science-based q&a, planets, solar system]
+
 ---
 
 

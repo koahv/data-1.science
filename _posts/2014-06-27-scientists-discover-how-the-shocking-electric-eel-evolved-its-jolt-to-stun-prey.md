@@ -4,7 +4,7 @@ title: "Scientists Discover How the Shocking Electric Eel Evolved its Jolt to St
 date: 2014-06-27 11:10:16
 categories: Science
 author: unknown author
-tags: [nature & environment]
+
 ---
 
 

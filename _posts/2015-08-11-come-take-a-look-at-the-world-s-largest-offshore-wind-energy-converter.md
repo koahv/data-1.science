@@ -4,7 +4,7 @@ title: "Come take a look at the world’s largest offshore wind energy converter
 date: 2015-08-11 11:05:50
 categories: Tech
 author: Colm Gorey
-tags: [earth science, engineering, germany, norway, renewables, wind]
+
 ---
 
 

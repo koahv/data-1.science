@@ -4,7 +4,7 @@ title: "LISTEN: Jupiter's Eerie 'Roar' as Juno Spacecraft Enters Gas Giant's Mag
 date: 2016-07-02 16:32:04
 categories: Astronomy
 author: dailygalaxy.com
-tags: [Jupiter, Metallic hydrogen, Juno (spacecraft), Sun, Hydrogen, Outer space, Neptune, Cloud, Uranus, Experiment, Astronomy, Physical sciences, Planetary science, Space science, Solar System]
+tags: [Jupiter, Metallic hydrogen, Juno (spacecraft), Hydrogen, Sun, Outer space, Neptune, Cloud, Experiment, Planetary science, Space science, Astronomy, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Galileo begins serving the globe"
 date: 2016-12-15 08:29:00
 categories: Astronomy
 author: unknown author
-tags: [Galileo (satellite navigation), International Cospas-Sarsat Programme, Satellite navigation, European Space Agency, Technology, Telecommunications engineering, Geography]
+tags: [Galileo (satellite navigation), International Cospas-Sarsat Programme, Satellite navigation, Technology, Telecommunications engineering]
 ---
 
 

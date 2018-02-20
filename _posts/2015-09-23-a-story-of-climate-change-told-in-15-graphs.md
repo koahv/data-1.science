@@ -4,7 +4,7 @@ title: "A Story of Climate Change Told In 15 Graphs"
 date: 2015-09-23 11:46:17
 categories: Earth
 author: Dr. M
-tags: [climate change, uncategorized, arctic, blossom, carbon dioxied, cherry trees, death, frost, glacier, graphs, heat content, ice, range shifts, reef, river discharge, sea level, temperature, thermal stress]
+
 ---
 
 

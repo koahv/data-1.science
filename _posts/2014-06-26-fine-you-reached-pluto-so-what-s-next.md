@@ -4,7 +4,7 @@ title: "Fine, You Reached Pluto. So What’s Next?"
 date: 2014-06-26 13:32:10
 categories: Astronomy
 author: Michael Lemonick
-tags: [uncategorized, hubble, kuiper belt object, nasa, new horizons, pluto, space]
+
 ---
 
 

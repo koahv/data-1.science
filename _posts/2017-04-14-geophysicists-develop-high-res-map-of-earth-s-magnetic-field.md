@@ -4,7 +4,7 @@ title: "Geophysicists develop high-res map of Earth's magnetic field"
 date: 2017-04-14 12:30:02
 categories: Science
 author: unknown author
-tags: [Swarm (spacecraft), Earth, Geophysics, Satellite, Physical sciences, Outer space, Nature, Space science, Planetary science, Earth sciences]
+tags: [Swarm (spacecraft), Earth, Geophysics, Satellite, Nature, Physical sciences, Earth sciences, Planetary science, Planets of the Solar System, Space science, Outer space]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Israeli solar power plant to generate electricity around the clock"
 date: 2015-02-16 20:45:14
 categories: Energy
 author: Josh Marks
-tags: [news, renewable energy, solar power, biomass, brenmiller energy, energy storage, israel, solar, solar power plant dimona]
+
 ---
 
 

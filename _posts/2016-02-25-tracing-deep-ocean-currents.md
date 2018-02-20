@@ -4,7 +4,7 @@ title: "Tracing deep ocean currents"
 date: 2016-02-25 13:33:13
 categories: Science
 author: unknown author
-tags: [Thermohaline circulation, Ocean current, Ocean, Oceans, Climatology, Global natural environment, Atmospheric sciences, Hydrography, Meteorology, Physical sciences, Nature, Applied and interdisciplinary physics, Oceanography, Earth sciences, Physical geography]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Artificial intelligence in quantum systems, too"
 date: 2017-03-07 05:00:00
 categories: Science
 author: unknown author
-tags: [Natural selection, Simulation, Memory, Quantum mechanics, Algorithm, Learning, Systems science, Systems theory, Cybernetics, Areas of computer science, Applied mathematics, Cognition, Emergence, Cognitive science, Science, Epistemology]
+tags: [Natural selection, System, Simulation, Memory, Learning, Algorithm, Research, Quantum mechanics, Systems theory, Emergence, Epistemology, Systems science, Cognition, Areas of computer science, Cybernetics, Cognitive science, Science, Applied mathematics]
 ---
 
 

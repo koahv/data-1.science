@@ -4,7 +4,7 @@ title: "Diet affects the evolution of birds"
 date: 2016-04-13 12:18:34
 categories: Science
 author: unknown author
-tags: [Evolution, Species, Omnivore, Speciation, Biodiversity, Bird, Organisms, Nature, Evolutionary biology, Biological evolution, Natural environment, Biology]
+
 ---
 
 

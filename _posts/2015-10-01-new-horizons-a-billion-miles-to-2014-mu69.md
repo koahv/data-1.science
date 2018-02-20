@@ -4,7 +4,7 @@ title: "New Horizons: A Billion Miles to 2014 MU69"
 date: 2015-10-01 14:00:35
 categories: Astronomy
 author: Alan Stern
-tags: [New Horizons, (486958) 2014 MU69, Kuiper belt, Pluto, Alan Stern, Spaceflight, Outer space, Astronomy, Space science, Solar System, Planetary science, Space exploration, Physical sciences, Bodies of the Solar System, Astronautics, Space colonization, Space technology, Spacecraft, Astronomical objects, Flight]
+
 ---
 
 

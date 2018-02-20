@@ -4,7 +4,7 @@ title: "Dark matter—hot or not?"
 date: 2016-08-31 12:40:02
 categories: Science
 author: unknown author
-tags: [Dark matter, Big Bang, Milky Way, Universe, Photon, Matter, Physical cosmology, Lambda-CDM model, Astronomy, Redshift, Hubble Space Telescope, Massive compact halo object, Star, Chronology of the universe, Physical universe, Nature, Applied and interdisciplinary physics, Cosmology, Physical sciences, Outer space, Physics]
+tags: [Dark matter, Milky Way, Big Bang, Universe, Matter, Astronomy, Physical cosmology, Photon, Hubble Space Telescope, Lambda-CDM model, Redshift, Massive compact halo object, Chronology of the universe, Outer space, Applied and interdisciplinary physics, Science, Nature, Physical universe, Cosmology, Physics, Physical sciences]
 ---
 
 

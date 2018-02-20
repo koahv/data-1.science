@@ -4,7 +4,7 @@ title: "1.4 Million New Phishing Sites Launched Each Month"
 date: 2017-09-25 10:17:54
 categories: Linux
 author: unknown author
-tags: [Security technology, Applications of cryptography, World Wide Web, Information technology management, Weapons countermeasures, National security, Digital rights, System software, Computer network security, Computer law, Information Age, Digital media, Areas of computer science, Crime prevention, Software, E-commerce, Secure communication, Information governance, Security engineering, Computer security exploits, Cyberwarfare, Computer security, Cyberspace, Cybercrime, Computing, Digital technology, Cyberpunk themes, Linus Torvalds, Data security]
+tags: [National security, Computer security exploits, Digital media, Areas of computer science, Computer law, Information Age, System software, Digital rights, Computer network security, Crime prevention, Weapons countermeasures, Information technology management, Digital technology, Applications of cryptography, World Wide Web, Cyberpunk themes, Linus Torvalds, Data security, Security technology, Technology, Computing, Cybercrime, Computer security, Cyberwarfare, Cyberspace, Security engineering, Information governance, Software, Secure communication, E-commerce]
 ---
 
 

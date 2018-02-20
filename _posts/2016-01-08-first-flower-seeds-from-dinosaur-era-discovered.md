@@ -4,7 +4,7 @@ title: "First Flower Seeds from Dinosaur Era Discovered"
 date: 2016-01-08 16:12:27
 categories: Science
 author: unknown author
-tags: [Flowering plant, Seed, Dormancy, Fossil, Organisms, Biology]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Dark Energy Survey kicks off second season cataloging the wonders of dee
 date: 2014-08-18 04:00:00
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

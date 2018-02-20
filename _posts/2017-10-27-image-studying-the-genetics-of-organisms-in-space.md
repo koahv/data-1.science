@@ -4,7 +4,7 @@ title: "Image: Studying the genetics of organisms in space"
 date: 2017-10-27 11:50:03
 categories: Science
 author: unknown author
-tags: [NASA, International Space Station, Moon, Atacama Large Millimeter Array, Astronautics, Physical sciences, Flight, Space science, Space technology, Space colonization, Astronomy, Space exploration, Spaceflight, Outer space]
+tags: [NASA, International Space Station, Mars, Spacecraft, Outer space, Spaceflight, Astronautics, Flight, Astronomy, Aerospace engineering, Spaceflight technologies, Space science]
 ---
 
 

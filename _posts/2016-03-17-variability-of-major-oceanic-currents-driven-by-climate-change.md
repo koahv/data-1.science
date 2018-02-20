@@ -4,7 +4,7 @@ title: "Variability of major oceanic currents driven by climate change"
 date: 2016-03-17 13:20:02
 categories: Science
 author: unknown author
-tags: [Global warming, Thermohaline circulation, Ocean current, Climate, Atmospheric circulation, Climate change, Atmosphere of Earth, Milankovitch cycles, Ocean, Rossby wave, Earth, Oceans, Physical geography, Earth sciences, Applied and interdisciplinary physics, Oceanography, Meteorology, Atmospheric sciences, Nature, Climatology, Physical sciences, Global natural environment, Hydrography, Environmental science]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "New MAVEN findings reveal how Mars' atmosphere was lost to space"
 date: 2017-03-30 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [MAVEN, Atmosphere, Mars, Sun, Outer space, Planetary science, Nature, Space science, Chemistry, Physical sciences]
+tags: [MAVEN, Mars, Atmosphere, Chemistry, Planetary science, Outer space, Physical sciences, Nature, Space science, Planets of the Solar System]
 ---
 
 

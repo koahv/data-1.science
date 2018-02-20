@@ -4,7 +4,7 @@ title: "Penn study models how the immune system might evolve to conquer HIV"
 date: 2016-07-21 04:00:00
 categories: Science
 author: unknown author
-tags: [Virus, Antibody, Neutralizing antibody, Infection, HIV, Immune system, Evolution, Vaccine, HIV vaccine, Medicine, Life sciences, Immunology, Medical specialties, Biology, Organisms, Health sciences, Microbiology, Biological evolution]
+tags: [Virus, Antibody, Neutralizing antibody, Infection, HIV, Immune system, Evolution, Vaccine, HIV vaccine, Organisms, Health sciences, Medicine, Medical specialties, Immunology, Life sciences, Biology]
 ---
 
 

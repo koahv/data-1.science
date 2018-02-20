@@ -4,7 +4,7 @@ title: "Exposed to space and back on Earth"
 date: 2016-07-05 13:27:00
 categories: Astronomy
 author: unknown author
-tags: [Tim Peake, International Space Station, EXPOSE, Astronaut, Yuri Malenchenko, Extravehicular activity, NASA, European Space Agency, Space-based economy, Space industry, Spacecraft, Scientific exploration, Spaceflight technologies, Aerospace engineering, Space science, Space programs, Human spaceflight, Space agencies, Astronautics, Flight, Space technology, Space colonization, Outer space, Space exploration, Spaceflight]
+tags: [Tim Peake, International Space Station, EXPOSE, Astronaut, Yuri Malenchenko, Extravehicular activity, NASA, European Space Agency, Aerospace engineering, Space agencies, Space exploration, Spaceflight technologies, Spacecraft, Human spaceflight, Flight, Astronautics, Outer space, Spaceflight]
 ---
 
 

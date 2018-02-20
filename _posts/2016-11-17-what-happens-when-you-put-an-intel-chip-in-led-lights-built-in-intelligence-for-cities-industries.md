@@ -4,7 +4,7 @@ title: "What Happens When You Put An Intel Chip In LED Lights? Built-in Intellig
 date: 2016-11-17 10:00:57
 categories: Technology
 author: unknown author
-tags: []
+tags: [Electric light, Light-emitting diode, Internet of things, Street light, Light, Lighting, Technology, Artificial objects]
 ---
 
 

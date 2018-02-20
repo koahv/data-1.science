@@ -4,7 +4,7 @@ title: "Solved: One of the mysteries of globular clusters"
 date: 2016-11-08 05:00:00
 categories: Astronomy
 author: unknown author
-tags: [Star, Star cluster, Globular cluster, Asymptotic giant branch, Astronomy, Stellar evolution, Abundance of the chemical elements, Nature, Physical sciences, Astronomical objects, Outer space, Stars, Stellar astronomy, Applied and interdisciplinary physics, Astrophysics]
+tags: [Star, Star cluster, Globular cluster, Asymptotic giant branch, Stellar evolution, Abundance of the chemical elements, Astronomy, Astronomical objects, Stars, Outer space, Stellar astronomy, Applied and interdisciplinary physics, Nature, Astrophysics, Physical sciences]
 ---
 
 

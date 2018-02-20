@@ -4,7 +4,7 @@ title: "The Heat Is On: How New Horizons Got Its Power"
 date: 2015-08-11 19:51:14
 categories: Technology
 author: unknown author
-tags: [nasa, rtg, new horizons, pluto, solar system, space, voyager, lockheed martin]
+
 ---
 
 

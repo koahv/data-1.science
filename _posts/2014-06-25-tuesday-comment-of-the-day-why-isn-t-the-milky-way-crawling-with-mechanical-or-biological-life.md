@@ -4,7 +4,7 @@ title: "Tuesday 'Comment of the Day' --"Why Isn't the Milky Way Crawling With Me
 date: 2014-06-25 19:01:31
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "How climate change alters plant growth"
 date: 2018-01-12 05:00:00
 categories: Science
 author: unknown author
-tags: [Arabidopsis thaliana, Biology, Organisms, Life sciences]
+tags: [Arabidopsis thaliana, Life sciences, Organisms, Biology]
 ---
 
 

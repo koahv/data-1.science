@@ -4,7 +4,7 @@ title: "The mathematics of weather prediction"
 date: 2016-05-13 13:20:04
 categories: Science
 author: unknown author
-tags: [Weather forecasting, Numerical weather prediction, Weather, Meteorology, Physical geography, Earth sciences, Atmospheric sciences, Applied and interdisciplinary physics, Nature, Oceanography, Climatology, Environmental science, Atmosphere of Earth]
+
 ---
 
 

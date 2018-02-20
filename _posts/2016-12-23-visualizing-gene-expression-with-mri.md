@@ -4,7 +4,7 @@ title: "Visualizing gene expression with MRI"
 date: 2016-12-23 05:00:00
 categories: Science
 author: unknown author
-tags: [Medical imaging, Magnetic resonance imaging, Aquaporin, Chemistry, Biotechnology, Health sciences, Clinical medicine, Life sciences, Medical specialties, Medicine, Biology]
+tags: [Medical imaging, Magnetic resonance imaging, Aquaporin, Biology, Medicine, Life sciences, Clinical medicine, Chemistry]
 ---
 
 

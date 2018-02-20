@@ -4,7 +4,7 @@ title: "Hubble's deep field images of the early universe are postcards from bill
 date: 2015-04-24 11:00:01
 categories: Science
 author: unknown author
-tags: [astronomy & space]
+
 ---
 
 

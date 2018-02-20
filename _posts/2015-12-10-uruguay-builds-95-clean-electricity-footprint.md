@@ -4,7 +4,7 @@ title: "Uruguay Builds 95% Clean Electricity Footprint"
 date: 2015-12-10 16:10:54
 categories: Energy
 author: Glenn Meyers
-tags: [Renewable energy, Sustainable energy, Sustainable development, Nature, Physical universe, Economy, Energy]
+
 ---
 
 

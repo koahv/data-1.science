@@ -4,7 +4,7 @@ title: "Widespread loss of ocean oxygen to become noticeable in 2030s"
 date: 2016-04-27 04:00:00
 categories: Science
 author: unknown author
-tags: [Climate change, Ocean, Global warming, Climate, Marine biology, Oxygen, Water, Sea, Atmosphere of Earth, Hydrography, Oceans, Physical sciences, Natural environment, Nature, Global natural environment, Climatology, Environmental science, Applied and interdisciplinary physics, Physical geography, Earth sciences, Oceanography, Atmospheric sciences, Meteorology]
+
 ---
 
 

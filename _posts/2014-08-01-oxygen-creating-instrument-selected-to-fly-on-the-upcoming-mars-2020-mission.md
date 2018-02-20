@@ -4,7 +4,7 @@ title: "Oxygen-creating instrument selected to fly on the upcoming Mars 2020 mis
 date: 2014-08-01 12:50:03
 categories: Science
 author: unknown author
-tags: [astronomy & space]
+
 ---
 
 

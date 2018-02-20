@@ -4,7 +4,7 @@ title: "Fruit-eating increases biodiversity"
 date: 2017-10-23 19:05:41
 categories: Science
 author: unknown author
-tags: []
+tags: [Frugivore, Speciation, Seed dispersal, Species, Natural environment, Organisms, Biogeochemistry, Ecology, Biology, Nature, Environmental social science, Systems ecology]
 ---
 
 

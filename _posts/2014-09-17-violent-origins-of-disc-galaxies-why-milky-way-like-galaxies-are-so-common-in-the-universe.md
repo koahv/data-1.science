@@ -4,7 +4,7 @@ title: "Violent origins of disc galaxies: Why Milky Way-like galaxies are so com
 date: 2014-09-17 11:31:14
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

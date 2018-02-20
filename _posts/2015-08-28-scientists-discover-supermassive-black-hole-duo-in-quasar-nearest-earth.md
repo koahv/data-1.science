@@ -4,7 +4,7 @@ title: "Scientists Discover Supermassive Black Hole Duo in Quasar Nearest Earth"
 date: 2015-08-28 21:15:10
 categories: Astronomy
 author: Jolene Creighton
-tags: [physics, accretion disk, galaxy merger, mrk 231, quasars, quasi-stellar radio sources, science news, supermassive black holes]
+
 ---
 
 

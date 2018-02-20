@@ -4,7 +4,7 @@ title: "Researchers successfully produce genome-edited pigs using revolutionary 
 date: 2015-03-26 12:10:01
 categories: Science
 author: unknown author
-tags: [biology]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Infographic: NASA Completes SLS Booster Test"
 date: 2016-06-28 15:47:38
 categories: Technology
 author: mcrouse
-tags: [Orion (spacecraft), Space Launch System, Spacecraft, Human spaceflight programs, Space programs, Government programs, Space program of the United States, NASA programs, NASA, Spaceflight, Space exploration, Space agencies, Spaceflight technologies, Outer space, Space technology, Aerospace engineering, Astronautics, Space colonization, Flight, Aerospace, Human spaceflight, Space-based economy, Aerospace agencies, Engineering projects, Vehicles]
+tags: [Orion (spacecraft), Space Launch System, NASA programs, Spacecraft, Outer space, Aerospace engineering, Spaceflight technologies, Flight, Astronautics, Aerospace, Human spaceflight, NASA, Space exploration, Space program of the United States, Government programs, Space programs, Human spaceflight programs, Space agencies, Aerospace agencies, Engineering projects, Space technology, Aeronautics, Vehicles, Spaceflight]
 ---
 
 

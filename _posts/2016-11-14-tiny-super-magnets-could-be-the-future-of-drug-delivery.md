@@ -4,7 +4,7 @@ title: "Tiny super magnets could be the future of drug delivery"
 date: 2016-11-14 05:00:00
 categories: Science
 author: unknown author
-tags: [Physics, Superparamagnetism, Crystal, Magnetism, RELX Group, Chemistry, Applied and interdisciplinary physics, Physical sciences, Materials science, Materials, Chemical product engineering]
+tags: [Physics, Superparamagnetism, Crystal, Magnetism, RELX Group, Materials science, Materials, Physical sciences, Chemistry, Applied and interdisciplinary physics]
 ---
 
 

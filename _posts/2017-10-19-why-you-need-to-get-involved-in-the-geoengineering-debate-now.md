@@ -4,7 +4,7 @@ title: "Why you need to get involved in the geoengineering debate – now"
 date: 2017-10-19 14:10:03
 categories: Science
 author: unknown author
-tags: [Climate engineering, Solar radiation management, Greenhouse gas, Greenhouse effect, Global natural environment, Change, Global environmental issues, Physical geography, Meteorology, Future problems, Atmospheric sciences, Climatology, Climate change, Earth sciences, Atmosphere of Earth, Climate]
+tags: [Climate engineering, Solar radiation management, Greenhouse gas, Greenhouse effect, Climate change, Nature, Global natural environment, Physical geography, Climatology, Atmospheric sciences, Meteorology, Global environmental issues, Future problems]
 ---
 
 

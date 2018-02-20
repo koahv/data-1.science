@@ -4,7 +4,7 @@ title: "1,000 Black Holes in Deepest-Ever X-ray Image"
 date: 2017-01-06 20:12:47
 categories: Astronomy
 author: Monica Young
-tags: [Chandra X-ray Observatory, Galaxy, Black hole, Astronomy, Star formation, Hubble Ultra-Deep Field, Hubble Space Telescope, Supermassive black hole, Star, Telescope, X-ray, Observatory, Physical sciences, Physics, Outer space, Nature, Applied and interdisciplinary physics, Astronomical objects]
+tags: [Chandra X-ray Observatory, Galaxy, Black hole, Astronomy, Star formation, Hubble Space Telescope, Hubble Ultra-Deep Field, Star, Supermassive black hole, Telescope, X-ray, Observatory, Physical sciences, Outer space, Nature, Astronomical objects, Applied and interdisciplinary physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Creation: Ancient Indian Origin Myths, Brought to Life in a Breathtaking
 date: 2015-04-15 07:30:59
 categories: Philosophy
 author: Maria Popova
-tags: [art, culture, books, childrens books, tara books]
+
 ---
 
 

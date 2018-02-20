@@ -4,7 +4,7 @@ title: "Power over Ethernet for your Pi"
 date: 2015-06-12 09:40:10
 categories: Linux
 author: Gavin Thomas
-tags: [raspberry pi, add-on, ethernet, hat, module, pi, pi supply, poe, power, power over ethernet, switch, upgrade]
+
 ---
 
 

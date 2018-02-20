@@ -4,7 +4,7 @@ title: "Learning bash scripting for beginners"
 date: 2015-05-17 19:29:12
 categories: Linux
 author: Vivek Gite
-tags: [open source, howto, command line hacks]
+
 ---
 
 

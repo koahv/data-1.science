@@ -4,7 +4,7 @@ title: "Achievement unlocked: TEDx celebrates 100,000 talks!"
 date: 2017-10-19 20:33:42
 categories: Interest
 author: TED Staff
-tags: [TED (conference), Online services, Communication, World Wide Web, Digital media, Websites]
+tags: [TED (conference), Internet-based works, Electronic publishing, Digital media, Online services, Technology, World Wide Web, Websites, Mass media, Communication]
 ---
 
 

@@ -5,8 +5,7 @@ date: 2014-12-16 22:41:00
 categories: Technology
 Energy
 author: Kristine Lofgren
-tags: [green technology, news, renewable energy, solar power, solar energy, australia solar, percent of homes solar powered, queensland solar, renewable power, rooftop solar, solar energy australia, solar energy us, solar panels, solar power use, solar water heater, south australia solar, us solar power, using solar
-green technology, news, renewable energy, solar power, solar energy, australia solar, percent of homes solar powered, queensland solar, renewable power, rooftop solar, solar energy australia, solar energy us, solar panels, solar power use, solar water heater, south australia solar, us solar power, using solar]
+
 ---
 
 

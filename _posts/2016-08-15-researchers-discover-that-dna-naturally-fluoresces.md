@@ -4,7 +4,7 @@ title: "Researchers discover that DNA naturally fluoresces"
 date: 2016-08-15 04:00:00
 categories: Technology
 author: unknown author
-tags: [Fluorescence, Staining, Light, Macromolecule, Cell (biology), Fluorescent tag, Biology, Physical sciences, Applied and interdisciplinary physics, Organisms, Biochemistry, Biotechnology, Chemistry, Life sciences]
+tags: [Fluorescence, Staining, Light, Macromolecule, Fluorescent tag, Cell (biology), Physical sciences, Biochemistry, Biotechnology, Life sciences, Chemistry, Biology]
 ---
 
 

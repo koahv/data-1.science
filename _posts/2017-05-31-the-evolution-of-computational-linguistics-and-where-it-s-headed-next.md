@@ -4,7 +4,7 @@ title: "The evolution of computational linguistics and where it's headed next"
 date: 2017-05-31 10:50:01
 categories: Science
 author: unknown author
-tags: [Language, Natural language processing, Artificial intelligence, Machine translation, Translation, Grammar, Deep learning, Communication, Technology, Cognition, Semiotics, Linguistics, Cognitive science, Artificial objects, Human communication, Computing, Cybernetics]
+tags: [Language, Natural language processing, Artificial intelligence, Translation, Machine translation, Information technology, Grammar, Cognition, Computing, Artificial objects, Human communication, Communication, Semiotics, Linguistics, Cognitive science, Technology]
 ---
 
 

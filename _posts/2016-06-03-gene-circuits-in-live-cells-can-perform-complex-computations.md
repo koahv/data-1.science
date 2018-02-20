@@ -4,7 +4,7 @@ title: "Gene circuits in live cells can perform complex computations"
 date: 2016-06-03 04:00:00
 categories: Technology
 author: unknown author
-tags: [Digital electronics, Analogue electronics, Electronic circuit, Signal, Electronics, Synthetic biology, Electronic engineering, Electrical engineering, Biology, Artificial objects, Technology]
+tags: [Electronic circuit, Signal, Digital electronics, Electronics, Synthetic biology, Computer, Digital data, Massachusetts Institute of Technology, DNA, Inputoutput, Analogue electronics, Gene expression, Inflammation, Biology, Technology, Artificial objects]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Today in Engineering History: Total Solar Eclipse Captured on Daguerreot
 date: 2015-07-28 15:39:20
 categories: Technology
 author: kduffy
-tags: []
+
 ---
 
 

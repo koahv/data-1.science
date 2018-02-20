@@ -4,7 +4,7 @@ title: "NASA's Van Allen Probes reveal long-term behavior of Earth's ring curren
 date: 2016-05-19 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Van Allen Probes, Van Allen radiation belt, Physical sciences, Outer space, Space science, Physics, Nature, Applied and interdisciplinary physics]
+
 ---
 
 

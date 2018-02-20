@@ -4,7 +4,7 @@ title: "Ancient fossils reveal remarkable stability of Caribbean lizard communit
 date: 2015-07-28 10:19:47
 categories: Science
 author: unknown author
-tags: [archaeology & fossils]
+
 ---
 
 

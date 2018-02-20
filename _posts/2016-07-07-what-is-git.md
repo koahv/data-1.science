@@ -4,7 +4,7 @@ title: "What is Git?"
 date: 2016-07-07 07:02:00
 categories: Open Source
 author: sethkenlon
-tags: [Git, Version control, Graphical user interface, Source code, GitHub, Zip (file format), Computer file, Areas of computer science, Technology, Computers, Digital technology, Computer engineering, Software engineering, System software, Digital media, Computing, Software]
+tags: [Git, Version control, Graphical user interface, GitHub, Software engineering, Computers, Digital technology, Areas of computer science, System software, Computer engineering, Digital media, Software, Computing]
 ---
 
 

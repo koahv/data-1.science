@@ -4,7 +4,7 @@ title: "Berkeley Lab scientists grow atomically thin transistors and circuits"
 date: 2016-07-11 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+tags: [Lawrence Berkeley National Laboratory, Molybdenum disulfide, Moores law, Chemistry, Materials, Artificial objects, Technology, Materials science, Science and technology, Applied and interdisciplinary physics, Manufacturing]
 ---
 
 

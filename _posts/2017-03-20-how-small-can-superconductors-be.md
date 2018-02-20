@@ -4,7 +4,7 @@ title: "How small can superconductors be?"
 date: 2017-03-20 13:30:01
 categories: Science
 author: unknown author
-tags: [Superconductivity, BCS theory, Electron, Cooper pair, Physics, Physical sciences, Theoretical physics, Materials, Quantum mechanics, Solid state engineering, Particle physics, Physical chemistry, Condensed matter, Mechanics, Condensed matter physics, Chemistry, Materials science, Applied and interdisciplinary physics, Modern physics, Nature, Chemical product engineering, Electromagnetism]
+tags: [Superconductivity, BCS theory, Electron, Cooper pair, Materials, Applied and interdisciplinary physics, Nature, Solid state engineering, Condensed matter, Quantum mechanics, Physical chemistry, Particle physics, Mechanics, Condensed matter physics, Materials science, Chemistry, Physical sciences, Physics, Modern physics, Theoretical physics]
 ---
 
 

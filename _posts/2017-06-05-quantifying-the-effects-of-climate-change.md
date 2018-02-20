@@ -4,7 +4,7 @@ title: "Quantifying the effects of climate change"
 date: 2017-06-05 15:05:00
 categories: Astronomy
 author: unknown author
-tags: [Meteorology, Applied and interdisciplinary physics, Nature, Natural environment, Climate, Change, Global natural environment, Oceanography, Global environmental issues, Physical geography, Earth sciences, Climatology, Future problems, Climate change, Atmospheric sciences]
+tags: [Climate change, Meteorology, Atmospheric sciences, Climatology, Earth sciences, Physical geography, Future problems, Global natural environment, Global environmental issues, Nature, Natural environment, Climate, Change, Oceanography, Applied and interdisciplinary physics]
 ---
 
 

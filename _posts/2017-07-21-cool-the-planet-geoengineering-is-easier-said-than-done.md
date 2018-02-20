@@ -4,7 +4,7 @@ title: "Cool the Planet? Geoengineering Is Easier Said Than Done"
 date: 2017-07-21 09:41:00
 categories: Science
 author: unknown author
-tags: [Global warming, Cloud, Climate engineering, Cirrus cloud, Atmosphere of Earth, Earth, General circulation model, Climate, Volcano, Climate change, Oceanography, Global natural environment, Future problems, Environmental science, Nature, Physical sciences, Applied and interdisciplinary physics, Climatology, Earth sciences, Atmospheric sciences, Meteorology, Physical geography]
+tags: [Cloud, Global warming, Climate engineering, Cirrus cloud, Atmosphere of Earth, Earth, General circulation model, Climate, Volcano, Meteorology, Future problems, Climate change, Global natural environment, Physical geography, Applied and interdisciplinary physics, Climatology, Earth sciences, Atmospheric sciences, Nature, Environmental science, Oceanography, Physical sciences]
 ---
 
 

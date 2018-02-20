@@ -4,7 +4,7 @@ title: "How the Sun was born"
 date: 2016-06-13 11:55:00
 categories: Astronomy
 author: unknown author
-tags: [Star, Sun, Cygnus (constellation), Stellar astronomy, Astronomical objects, Outer space, Astronomy, Physical sciences, Stars, Applied and interdisciplinary physics]
+tags: [Star, Sun, Hubble Space Telescope, Physical sciences, Astronomy, Outer space, Astronomical objects, Stars, Stellar astronomy, Applied and interdisciplinary physics, Space science]
 ---
 
 

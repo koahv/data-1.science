@@ -4,7 +4,7 @@ title: "PNAS: Childhood leukemias forged by different evolutionary forces than i
 date: 2016-01-11 05:00:00
 categories: Science
 author: unknown author
-tags: [Mutation, Evolution, Genetic drift, Cancer, Natural selection, Leukemia, Carcinogenesis, Life sciences, Organisms, Evolutionary biology, Biological evolution, Biology]
+
 ---
 
 

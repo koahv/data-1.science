@@ -4,7 +4,7 @@ title: "Oxford, UK to create first zero-emissions zone in the world"
 date: 2017-10-12 13:15:38
 categories: Technology
 author: Greg Beach
-tags: [Air pollution, Natural environment, Pollution, Artificial objects, Human activities with impact on the environment, Atmosphere of Earth]
+tags: [Air pollution, Zero-emissions vehicle, Natural environment, Human activities with impact on the environment, Atmosphere of Earth, Artificial objects, Pollution]
 ---
 
 

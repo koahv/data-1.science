@@ -4,7 +4,7 @@ title: "Timelapse from space reveals glacier in motion"
 date: 2015-11-26 12:56:00
 categories: Astronomy
 author: unknown author
-tags: [Glacier, Time-lapse photography, Natural environment, Cryosphere, Karakoram, Animation, Climate change, GIF, Satellite imagery, Mountain, Climate, Satellite, Ice calving, Earth sciences]
+
 ---
 
 

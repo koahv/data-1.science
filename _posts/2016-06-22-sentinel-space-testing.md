@@ -4,7 +4,7 @@ title: "Sentinel space testing"
 date: 2016-06-22 14:55:00
 categories: Astronomy
 author: unknown author
-tags: [Satellite, European Space Agency, Vacuum, Technology, Aerospace engineering, Space colonization, Astronautics, Space technology, Spacecraft, Space exploration, Outer space, Spaceflight, Spaceflight technologies, Flight, Aerospace]
+tags: [Satellite, European Space Agency, Copernicus Programme, Spacecraft, Spaceflight technologies, Flight, Aerospace engineering, Astronautics, Outer space, Spaceflight]
 ---
 
 

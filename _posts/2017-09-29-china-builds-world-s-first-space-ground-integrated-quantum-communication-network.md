@@ -4,7 +4,7 @@ title: "China builds world's first space-ground integrated quantum communication
 date: 2017-09-29 04:00:00
 categories: Science
 author: unknown author
-tags: [Quantum key distribution, Satellite, Technology, Quantum mechanics, Modern physics, Mechanics, Physics, Solid state engineering, Particle physics, Theoretical physics]
+tags: [Quantum key distribution, Satellite, Quantum mechanics, Solid state engineering, Modern physics, Technology, Mechanics, Physics]
 ---
 
 

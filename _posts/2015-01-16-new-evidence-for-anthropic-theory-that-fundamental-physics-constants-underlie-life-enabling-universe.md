@@ -4,7 +4,7 @@ title: "New evidence for anthropic theory that fundamental physics constants und
 date: 2015-01-16 05:00:00
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

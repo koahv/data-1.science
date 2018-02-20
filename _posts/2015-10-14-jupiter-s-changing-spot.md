@@ -4,7 +4,7 @@ title: "Jupiter's changing spot"
 date: 2015-10-14 12:35:00
 categories: Astronomy
 author: unknown author
-tags: [Jupiter, Planet, Great Red Spot, Hubble Space Telescope, Voyager 2, Atmosphere, Voyager program, Outer space, Bodies of the Solar System, Physical sciences, Substellar objects, Astronomical objects, Planetary science, Planemos, Solar System, Astronomy, Planets, Space science]
+
 ---
 
 

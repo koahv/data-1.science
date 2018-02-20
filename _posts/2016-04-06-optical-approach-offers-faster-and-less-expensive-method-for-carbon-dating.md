@@ -4,7 +4,7 @@ title: "Optical approach offers faster and less expensive method for carbon dati
 date: 2016-04-06 04:00:00
 categories: Science
 author: unknown author
-tags: [Radiocarbon dating, Light, Laser, Greenhouse gas, Absorption spectroscopy, Carbon-14, Mass spectrometry, Optics, Accelerator mass spectrometry, Nature, Physical sciences, Physical chemistry, Natural philosophy, Applied and interdisciplinary physics, Chemistry, Electromagnetic radiation, Atomic,  molecular,  and optical physics]
+
 ---
 
 

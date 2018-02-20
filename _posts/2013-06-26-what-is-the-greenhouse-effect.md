@@ -4,7 +4,7 @@ title: "What Is the Greenhouse Effect?"
 date: 2013-06-26 01:53:08
 categories: Science
 author: unknown author
-tags: [Greenhouse effect, Greenhouse gas, Thermal radiation, Atmosphere of Earth, Global warming, Earth, Carbon dioxide, Infrared, Climatology, Atmospheric sciences, Environmental science, Future problems, Nature, Meteorology, Applied and interdisciplinary physics, Earth sciences, Physical geography, Physical sciences]
+
 ---
 
 

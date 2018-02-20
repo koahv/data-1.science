@@ -4,7 +4,7 @@ title: "The Next Most Powerful Supercomputer in the U.S. Is Almost Complete"
 date: 2017-10-24 21:15:51
 categories: Science
 author: Dom Galeon
-tags: [FLOPS, Computing, Technology, Areas of computer science, Office equipment, Computer architecture, Computers, Computer engineering, Computer hardware]
+tags: [FLOPS, Computer engineering, Computer hardware, Technology, Areas of computer science, Computers, Computing, Office equipment, Digital technology]
 ---
 
 

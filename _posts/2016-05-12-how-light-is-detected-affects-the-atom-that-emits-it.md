@@ -4,7 +4,7 @@ title: "How light is detected affects the atom that emits it"
 date: 2016-05-12 04:00:00
 categories: Science
 author: unknown author
-tags: [Spontaneous emission, Light, Photon, Emission spectrum, Atom, Wave–particle duality, Energy level, Electromagnetic radiation, Quantum mechanics, Physics, Materials science, Chemistry, Theoretical physics, Solid state engineering, Atomic,  molecular,  and optical physics, Applied and interdisciplinary physics, Modern physics, Condensed matter physics, Physical chemistry, Electrodynamics, Science, Particle physics, Optics, Mechanics, Physical sciences, Nature]
+
 ---
 
 

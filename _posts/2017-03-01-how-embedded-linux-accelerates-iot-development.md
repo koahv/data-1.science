@@ -4,7 +4,7 @@ title: "How embedded Linux accelerates IoT development"
 date: 2017-03-01 08:02:00
 categories: Open Source
 author: hyau
-tags: [Embedded system, Internet of things, Gateway (telecommunications), Linux, World Wide Web, Internet, Internet access, Computers, Computing, Technology, Computer architecture, Areas of computer science, Computer engineering, Electronics, Software, Artificial objects, Electrical engineering, Computer networking, Digital technology]
+tags: [Embedded system, Internet of things, Gateway (telecommunications), Linux, World Wide Web, Internet, Internet access, Communications protocol, Computing, Electronics, Computer architecture, Digital technology, Computers, Computer engineering, Technology, Areas of computer science, Artificial objects, Software, Computer networking]
 ---
 
 

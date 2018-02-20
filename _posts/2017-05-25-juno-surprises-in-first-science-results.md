@@ -4,7 +4,7 @@ title: "Juno: Surprises in First Science Results"
 date: 2017-05-25 20:09:26
 categories: Astronomy
 author: David Dickinson
-tags: [Juno (spacecraft), Jupiter, Planetary core, Planetary science, Planets, Space science, Physical sciences, Solar System, Outer space, Astronomy]
+tags: [Juno (spacecraft), Jupiter, Planetary core, Planets of the Solar System, Planets, Physical sciences, Solar System, Space science, Planetary science, Outer space, Astronomy]
 ---
 
 

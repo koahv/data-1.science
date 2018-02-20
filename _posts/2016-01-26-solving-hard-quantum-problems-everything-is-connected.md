@@ -4,7 +4,7 @@ title: "Solving hard quantum problems: Everything is connected"
 date: 2016-01-26 05:00:00
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Atom, Probability, Particle, Scientific theories, Physical sciences, Mechanics, Particle physics, Theoretical physics, Modern physics, Solid state engineering, Physics, Science, Condensed matter physics, Scientific method, Chemistry, Applied and interdisciplinary physics, Epistemology of science]
+
 ---
 
 

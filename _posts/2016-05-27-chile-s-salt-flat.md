@@ -4,7 +4,7 @@ title: "Chile's salt flat"
 date: 2016-05-27 08:00:00
 categories: Astronomy
 author: unknown author
-tags: [Atacama Desert, Socompa, Salar de Atacama, Physical geography, Earth sciences]
+
 ---
 
 

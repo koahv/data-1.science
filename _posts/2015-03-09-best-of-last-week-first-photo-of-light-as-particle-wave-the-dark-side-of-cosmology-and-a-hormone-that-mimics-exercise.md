@@ -4,7 +4,7 @@ title: "Best of Last Week – First photo of light as particle/wave, the dark si
 date: 2015-03-09 12:50:01
 categories: Science
 author: unknown author
-tags: [other sciences]
+
 ---
 
 

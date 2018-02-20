@@ -4,7 +4,7 @@ title: "Google’s Open Source Report Card Highlights Game-Changing Contribution
 date: 2016-10-20 17:25:17
 categories: Linux
 author: Sam Dean
-tags: [Android (operating system), Chromium (web browser), Open-source model, Dart (programming language), Application software, Kubernetes, Operating system, Set (abstract data type), Digital media, Computer engineering, Technology, Digital technology, Software development, Computers, Software engineering, Computer programming, Areas of computer science, Software, Computing]
+tags: [Android (operating system), Chromium (web browser), Open-source model, Dart (programming language), Kubernetes, Application software, Operating system, Set (abstract data type), Software development, Digital technology, Technology, Computers, Computer engineering, Software engineering, Computer programming, Areas of computer science, Software, Computing, Digital media]
 ---
 
 

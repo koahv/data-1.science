@@ -4,7 +4,7 @@ title: "World record: Most powerful high-energy particle beam for a neutrino exp
 date: 2015-07-08 17:44:00
 categories: Science
 author: unknown author
-tags: [physics]
+
 ---
 
 

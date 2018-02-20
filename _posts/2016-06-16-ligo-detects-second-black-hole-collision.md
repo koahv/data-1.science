@@ -4,7 +4,7 @@ title: "LIGO Detects Second Black Hole Collision"
 date: 2016-06-16 18:47:52
 categories: Astronomy
 author: Shannon Hall
-tags: [Gravitational wave, LIGO, Black hole, Gravitational-wave observatory, Gravity, Gravitational-wave astronomy, Astronomy, Physics, Mechanics, Spacetime, Science, Applied and interdisciplinary physics, Physical cosmology, Natural philosophy, Physical quantities, Gravitation, General relativity, Theory of relativity, Physical phenomena, Outer space, Physical sciences]
+tags: [Gravitational wave, LIGO, Gravitational-wave observatory, Gravity, Black hole, Gravitational-wave astronomy, Astronomy, Physics, Mechanics, Science, Spacetime, Physical cosmology, Applied and interdisciplinary physics, Natural philosophy, Physical quantities, Physical sciences, Gravitation]
 ---
 
 

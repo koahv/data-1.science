@@ -4,7 +4,7 @@ title: "Palaeomagnetic field intensity variations suggest Mesoproterozoic inner-
 date: 2015-10-07 00:00:00
 categories: Astronomy
 author: unknown author
-tags: []
+
 ---
 
 

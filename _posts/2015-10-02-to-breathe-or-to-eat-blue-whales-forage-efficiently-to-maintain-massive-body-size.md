@@ -4,7 +4,7 @@ title: "To breathe or to eat: Blue whales forage efficiently to maintain massive
 date: 2015-10-02 04:00:00
 categories: Science
 author: unknown author
-tags: [Whale, Blue whale, Foraging, Krill, Filter feeder, Marine biology, American Association for the Advancement of Science, Energy]
+
 ---
 
 

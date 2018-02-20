@@ -4,7 +4,7 @@ title: "Scientists reveal 'superbug's' artillery"
 date: 2017-10-19 11:37:07
 categories: Science
 author: unknown author
-tags: [Bacteria, Secretion, Pseudomonas aeruginosa, Antimicrobial resistance, Nanotechnology, Infection, Biology, Chemistry, Life sciences, Microbiology, Organisms]
+tags: [Bacteria, Secretion, Pseudomonas aeruginosa, Nanotechnology, Antimicrobial resistance, Exotoxin, Biology, Medical specialties, Microbiology, Life sciences, Organisms]
 ---
 
 

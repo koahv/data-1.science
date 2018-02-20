@@ -4,7 +4,7 @@ title: "Caltech: "If There's Life Elsewhere in the Cosmos, is It Based on the Bi
 date: 2016-06-15 13:10:51
 categories: Astronomy
 author: dailygalaxy.com
-tags: [Chirality, Abiogenesis, Chirality (chemistry), Nature, Chemistry, Physical sciences, Outer space, Astronomy]
+tags: [Chirality, Abiogenesis, Life, Chirality (chemistry), Astronomy, Physical sciences, Chemistry, Nature, Outer space]
 ---
 
 

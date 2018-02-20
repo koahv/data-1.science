@@ -4,7 +4,7 @@ title: "Developers Announce First Full-Scale Hyperloop Set to be Built in Califo
 date: 2015-03-02 20:45:50
 categories: Astronomy
 author: Jolene Creighton
-tags: [news, technology, elon musk, hyperloop, quay valley, science, travel]
+
 ---
 
 

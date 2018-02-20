@@ -4,7 +4,7 @@ title: "Neanderthals disappeared from the Iberian Peninsula before than from the
 date: 2015-02-05 05:00:00
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

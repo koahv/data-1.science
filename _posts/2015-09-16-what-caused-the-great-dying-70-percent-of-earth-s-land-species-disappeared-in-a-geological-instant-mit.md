@@ -4,7 +4,7 @@ title: "What Caused 'The Great Dying' --"70 percent of Earth's Land Species Disa
 date: 2015-09-16 15:16:26
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

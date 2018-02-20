@@ -4,7 +4,7 @@ title: "Create Your Own "Neural Paintings" using Deep Learning"
 date: 2016-06-30 07:57:00
 categories: Linux
 author: bilalkhan
-tags: [Git, Artificial neural network, GNU Compiler Collection, Algorithm, Computer engineering, Software, Computer programming, Computer architecture, Software engineering, Digital technology, System software, Computer science, Technology, Computers, Areas of computer science, Computing]
+tags: [Git, Artificial neural network, Algorithm, Areas of computer science, Software engineering, Computers, Technology, Digital technology, Computer science, Computer architecture, Computer programming, Computing, Software, Computer engineering]
 ---
 
 

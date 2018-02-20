@@ -4,7 +4,7 @@ title: "Physicists propose test of quantum gravity using current technology"
 date: 2017-10-27 11:00:02
 categories: Science
 author: unknown author
-tags: [Physics, Quantum gravity, Quantum mechanics, Gravity, General relativity, Science, Elementary particle, Matter, Outer space, Spacetime, Time, Cosmic microwave background, Black hole, Theory, Mathematics, Reality, Physical cosmology, Experiment, Scientific method, Dark matter, Dimension, String theory, Void (astronomy), Loop quantum gravity, Mass, Energy, Big Bang, Atom, Physical sciences, Mechanics]
+tags: [Physics, Quantum gravity, Quantum mechanics, Gravity, General relativity, Science, Spacetime, Outer space, Matter, Time, Physical cosmology, Theory, Cosmic microwave background, Mathematics, Black hole, Dark matter, String theory, Reality, Big Bang, Nuclear fusion, Experiment, Dimension, Void (astronomy), Gravitational singularity, Universe, Energy, Albert Einstein, Loop quantum gravity, Atom, Mechanics, Metaphysics, Physical sciences]
 ---
 
 

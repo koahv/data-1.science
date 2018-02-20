@@ -4,7 +4,7 @@ title: "An Introduction to Regular Expressions for New Linux Users"
 date: 2017-02-17 15:00:51
 categories: Linux
 author: jlwallen
-tags: [Regular expression, Grep, Computing, Computer programming, Areas of computer science]
+tags: [Regular expression, Computing, Software engineering, Computer data, Areas of computer science, Computer programming]
 ---
 
 

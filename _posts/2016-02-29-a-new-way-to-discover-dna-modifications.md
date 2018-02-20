@@ -4,7 +4,7 @@ title: "A new way to discover DNA modifications"
 date: 2016-02-29 05:00:00
 categories: Technology
 author: unknown author
-tags: [DNA, Bacteria, DNA sequencing, Virus, Gene, Epigenetics, Genomics, RNA, Restriction enzyme, Organism, Cell (biology), Biology, Life sciences, Biotechnology, Organisms, Genetics, Molecular biology, Biochemistry, Chemistry]
+
 ---
 
 

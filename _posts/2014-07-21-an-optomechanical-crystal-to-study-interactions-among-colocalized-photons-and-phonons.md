@@ -4,7 +4,7 @@ title: "An optomechanical crystal to study interactions among colocalized photon
 date: 2014-07-21 12:58:53
 categories: Science
 author: unknown author
-tags: [physics]
+
 ---
 
 

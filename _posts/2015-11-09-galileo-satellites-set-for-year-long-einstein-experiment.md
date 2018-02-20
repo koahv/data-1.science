@@ -4,7 +4,7 @@ title: "Galileo satellites set for year-long Einstein experiment"
 date: 2015-11-09 08:52:00
 categories: Astronomy
 author: unknown author
-tags: [Gravity Probe A, Galileo (satellite navigation), Atomic clock, Gravity, Orbit, Spaceflight, Outer space, Space technology, Space exploration, Astronautics, Space colonization, Spacecraft, Flight, Aerospace engineering, Spaceflight technologies, Physical sciences]
+
 ---
 
 

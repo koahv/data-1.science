@@ -4,7 +4,7 @@ title: "Gravitational biology: Real time imaging and transcriptome analysis of f
 date: 2017-01-10 15:16:31
 categories: Science
 author: unknown author
-tags: []
+tags: [Bone, Osteoblast, Osteoclast, Micro-g environment, Green fluorescent protein, Genetically modified organism, Biology]
 ---
 
 

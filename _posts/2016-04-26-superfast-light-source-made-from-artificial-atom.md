@@ -4,7 +4,7 @@ title: "Superfast light source made from artificial atom"
 date: 2016-04-26 12:56:53
 categories: Science
 author: unknown author
-tags: [Electron, Light, Photon, Quantum mechanics, Quantum dot, Laser, Atom, Light-emitting diode, Quantum, Niels Bohr, Electron hole, Photonics, Physics, Matter, Physical chemistry, Modern physics, Theoretical physics, Condensed matter physics, Chemistry, Solid state engineering, Physical sciences, Mechanics, Applied and interdisciplinary physics, Particle physics, Atomic,  molecular,  and optical physics, Science, Materials science]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Quantum swing—a pendulum that moves forward and backwards at the same 
 date: 2016-05-09 13:20:12
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Terahertz radiation, Coherence (physics), Photon, Phonon, Atom, Physics, Atomic,  molecular,  and optical physics, Condensed matter, Theoretical physics, Physical chemistry, Materials science, Particle physics, Modern physics, Condensed matter physics, Solid state engineering, Chemistry, Physical sciences, Mechanics, Applied and interdisciplinary physics]
+
 ---
 
 

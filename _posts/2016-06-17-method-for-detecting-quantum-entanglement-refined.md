@@ -4,7 +4,7 @@ title: "Method for detecting quantum entanglement refined"
 date: 2016-06-17 12:23:09
 categories: Science
 author: unknown author
-tags: [Quantum entanglement, Quantum computing, Quantum mechanics, Information, Computing, Qubit, Physics, Cognitive science, Modern physics, Science, Solid state engineering, Particle physics, Technology, Cognition]
+tags: [Quantum entanglement, Quantum computing, Quantum mechanics, Information, Computing, Qubit, Physics, Cognitive science, Technology, Science]
 ---
 
 

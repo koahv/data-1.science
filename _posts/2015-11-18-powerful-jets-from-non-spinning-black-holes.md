@@ -4,7 +4,7 @@ title: "Powerful jets from non-spinning black holes"
 date: 2015-11-18 13:33:47
 categories: Science
 author: unknown author
-tags: [Black hole, Astrophysical jet, Astronomy, Fermi Gamma-ray Space Telescope, Astrophysical X-ray source, Radiation, Star, Applied and interdisciplinary physics, Physical sciences, Physical universe, Outer space, Physical phenomena, Astronomical objects, Physics, Nature]
+
 ---
 
 

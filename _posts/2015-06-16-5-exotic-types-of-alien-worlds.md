@@ -4,7 +4,7 @@ title: "5 Exotic Types of Alien Worlds"
 date: 2015-06-16 13:52:21
 categories: Astronomy
 author: Johnathan Fuentes
-tags: [alien stars and exoplanets, carbon planets, chthonian planet, diamond planet, eccentric planet, europa, exoplanet, exoplanets, extrasolar planets, habitable exoplanets, ocean planet, rogue planet, water planet]
+
 ---
 
 

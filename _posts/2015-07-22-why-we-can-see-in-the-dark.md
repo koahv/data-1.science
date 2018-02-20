@@ -4,7 +4,7 @@ title: "Why We Can See In The Dark"
 date: 2015-07-22 14:26:12
 categories: Astronomy
 author: Bob King
-tags: [blogs, explore the night with bob king, observing, airglow, aurora]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Why Using Open Source Software Helps Companies Stay Flexible and Innovat
 date: 2017-03-08 15:30:17
 categories: Linux
 author: golson
-tags: [Open-source software, Open-source software movement, Software development, Innovation, Software, Computing, Computer engineering, Business, Digital technology, Technology, Communication, Digital media]
+tags: [Open-source software, Open-source software movement, Innovation, Software, Digital technology, Communication, Computer engineering, Business, Intellectual works, Computing, Technology]
 ---
 
 

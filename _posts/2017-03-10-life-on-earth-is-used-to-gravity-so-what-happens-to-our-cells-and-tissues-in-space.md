@@ -4,7 +4,7 @@ title: "Life on Earth is used to gravity – so what happens to our cells and ti
 date: 2017-03-10 13:50:01
 categories: Science
 author: unknown author
-tags: [Gravity, Weightlessness, Galaxy, Ion channel, Immune system, Cell (biology), Biology]
+tags: [Micro-g environment, Astronomy, Gravity, Ion channel, Immune system, Weightlessness, Galaxy, Cell (biology), Biology]
 ---
 
 

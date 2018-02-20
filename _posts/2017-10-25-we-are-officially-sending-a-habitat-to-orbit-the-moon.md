@@ -4,7 +4,7 @@ title: "We Are Officially Sending a Habitat to Orbit the Moon"
 date: 2017-10-25 21:51:09
 categories: Science
 author: Kyree Leary
-tags: [B330, Bigelow Aerospace, Space colonization, Space technology, Space-based economy, Astronautics, Flight, Space industry, Aerospace engineering, Spacecraft, Outer space, Aerospace, Spaceflight technologies, Space advocacy, Industries, Space applications, Space traffic management, Space science, Human spaceflight, Scientific exploration, Space exploration, Futurology, Space organizations, Spaceflight]
+tags: [B330, Bigelow Aerospace, Space organizations, Flight, Aerospace engineering, Spacecraft, Space-based economy, Aerospace, Space industry, Spaceflight technologies, Industries, Astronautics, Space exploration, Space traffic management, Space applications, Outer space, Spaceflight]
 ---
 
 

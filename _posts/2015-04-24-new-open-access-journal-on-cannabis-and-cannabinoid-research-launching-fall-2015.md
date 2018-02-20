@@ -4,7 +4,7 @@ title: "New open access journal on cannabis and cannabinoid research launching f
 date: 2015-04-24 04:00:00
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "What's so sexy about math? | Cédric Villani"
 date: 2016-06-06 15:15:26
 categories: Interest
 author: Cédric Villani
-tags: [Computing, Cyberspace, Technology, Communication]
+tags: [World Wide Web, Cyberspace, Technology, Communication, Computing]
 ---
 
 

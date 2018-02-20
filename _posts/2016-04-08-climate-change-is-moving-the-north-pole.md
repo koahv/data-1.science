@@ -4,7 +4,7 @@ title: "Climate Change Is Moving the North Pole"
 date: 2016-04-08 18:00:00
 categories: Science
 author: Brian Clark Howard
-tags: [Earth, Climate, Planet, Water, Ice, Ice sheet, Nature, Earth sciences, Physical geography, Physical sciences, Planetary science, Applied and interdisciplinary physics]
+
 ---
 
 

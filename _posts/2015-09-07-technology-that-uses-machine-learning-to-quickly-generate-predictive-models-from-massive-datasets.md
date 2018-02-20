@@ -4,7 +4,7 @@ title: "Technology that uses machine learning to quickly generate predictive mod
 date: 2015-09-07 12:00:02
 categories: Science
 author: unknown author
-tags: [computer sciences]
+
 ---
 
 

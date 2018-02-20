@@ -4,7 +4,7 @@ title: "Songbird's reference genome illuminate key role of epigenetics in evolut
 date: 2016-01-25 14:06:17
 categories: Science
 author: unknown author
-tags: [Evolution, Genetics, Ecology, Species, Epigenetics, DNA methylation, Gene, Biology, Organisms, Life sciences]
+
 ---
 
 

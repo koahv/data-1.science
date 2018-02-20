@@ -4,7 +4,7 @@ title: "FSF Blogs: Support the FSF for thirty more years"
 date: 2016-01-30 15:30:00
 categories: Open Source
 author: unknown author
-tags: [Free Software Foundation, Free software, Free content, Open-source movement, Software, Applied ethics, Computing]
+
 ---
 
 

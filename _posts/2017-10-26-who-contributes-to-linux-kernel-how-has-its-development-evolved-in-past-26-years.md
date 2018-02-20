@@ -4,7 +4,7 @@ title: "Who Contributes To Linux Kernel? How Has Its Development Evolved In Past
 date: 2017-10-26 09:04:45
 categories: Linux
 author: Adarsh Verma
-tags: [Linux kernel, Linux, Open-source software, Computer engineering, Areas of computer science, Computing, Software, Technology, Digital media]
+tags: [Linux kernel, Linux, Open-source software, Computer engineering, Computing, Software, Technology, Digital media, Areas of computer science, Computers]
 ---
 
 

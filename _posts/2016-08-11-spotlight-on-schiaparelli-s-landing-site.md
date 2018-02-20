@@ -4,7 +4,7 @@ title: "Spotlight on Schiaparelli’s landing site"
 date: 2016-08-11 09:00:00
 categories: Astronomy
 author: unknown author
-tags: [Schiaparelli EDM lander, ExoMars, Spacecraft, Missions to Mars, Space probes, Astronomy, Spaceflight technologies, Missions to the planets, Exploration of Mars, Space science, Discovery and exploration of the Solar System, Flight, Solar System, Space technology, Astronautics, Planetary science, Space colonization, Space exploration, Mars, Spaceflight, Outer space]
+tags: [Schiaparelli EDM lander, ExoMars, Space science, Missions to the planets, Space probes, Astronomy, Exploration of Mars, Spaceflight technologies, Space exploration, Discovery and exploration of the Solar System, Flight, Spacecraft, Solar System, Astronautics, Planetary science, Planets of the Solar System, Spaceflight, Mars, Outer space]
 ---
 
 

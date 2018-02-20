@@ -4,7 +4,7 @@ title: "Goodbye, LISA Pathfinder"
 date: 2017-07-20 18:03:20
 categories: Astronomy
 author: David Dickinson
-tags: [Laser Interferometer Space Antenna, LISA Pathfinder, Spacecraft, Unmanned spacecraft, Aerospace engineering, Aerospace, Spaceflight technologies, Flight, Space science, Space colonization, Physical sciences, Astronautics, Space technology, Outer space, Astronomy, Spaceflight, Space exploration]
+tags: [Laser Interferometer Space Antenna, LISA Pathfinder, Astronomy, Spaceflight, Physical sciences, Spacecraft, Astronautics, Space science, Flight, Spaceflight technologies, Gravitation, Outer space, Space exploration, Aerospace, Aerospace engineering]
 ---
 
 

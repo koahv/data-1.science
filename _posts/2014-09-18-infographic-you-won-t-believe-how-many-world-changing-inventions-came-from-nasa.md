@@ -4,7 +4,7 @@ title: "INFOGRAPHIC: You Won’t Believe How Many World-Changing Inventions Came
 date: 2014-09-18 19:30:47
 categories: Technology
 author: Inhabitat
-tags: [green graphics & packaging, green technology, humanitarian design, computer mouse, green design, green inventions, memory foam, nasa, nasa inventions, nasa research, nasa spinoffs, nasa technology, product design, space technology, sustainable design, water filters]
+
 ---
 
 

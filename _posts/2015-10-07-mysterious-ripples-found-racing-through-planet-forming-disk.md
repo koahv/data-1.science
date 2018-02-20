@@ -4,7 +4,7 @@ title: "Mysterious ripples found racing through planet-forming disk"
 date: 2015-10-07 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Space Telescope Science Institute, European Southern Observatory, Hubble Space Telescope, Outer space, Astronomy, Physical sciences, Space science, Astronomical objects, Planetary science]
+
 ---
 
 

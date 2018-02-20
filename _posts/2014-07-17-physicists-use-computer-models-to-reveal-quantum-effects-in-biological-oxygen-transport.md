@@ -4,7 +4,7 @@ title: "Physicists Use Computer Models to Reveal Quantum Effects in Biological O
 date: 2014-07-17 18:48:51
 categories: Science
 author: unknown author
-tags: [physics]
+
 ---
 
 

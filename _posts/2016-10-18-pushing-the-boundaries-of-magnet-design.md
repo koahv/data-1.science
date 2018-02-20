@@ -4,7 +4,7 @@ title: "Pushing the boundaries of magnet design"
 date: 2016-10-18 04:00:00
 categories: Science
 author: unknown author
-tags: [Samarium, Magnet, Rare-earth element, Magnetization, Atom, American Association for the Advancement of Science, Physics, Chemistry, Physical sciences, Materials, Applied and interdisciplinary physics, Materials science, Physical chemistry, Condensed matter physics, Nature, Chemical product engineering, Manufacturing]
+tags: [Samarium, Magnet, American Association for the Advancement of Science, Rare-earth element, Atom, Magnetization, Chemistry, Physical sciences, Physics, Nature, Condensed matter physics, Physical chemistry, Materials, Materials science, Applied and interdisciplinary physics]
 ---
 
 

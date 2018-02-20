@@ -4,7 +4,7 @@ title: "How to build your own Git server"
 date: 2016-08-09 07:02:00
 categories: Open Source
 author: sethkenlon
-tags: [Git, Secure Shell, Scripting language, Public-key cryptography, Server (computing), Standard streams, Superuser, Software, Utility software, Computer engineering, System software, Computers, Information technology management, Areas of computer science, Computer programming, Software engineering, Computing, Software development]
+tags: [Git, Secure Shell, Scripting language, Public-key cryptography, Server (computing), Standard streams, Unix shell, Parameter (computer programming), Bash (Unix shell), Superuser, Version control, Software, System software, Computer engineering, Software development, Information technology management, Computers, Software engineering, Computing, Computer programming, Areas of computer science]
 ---
 
 

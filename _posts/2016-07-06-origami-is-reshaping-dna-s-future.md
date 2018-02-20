@@ -4,7 +4,7 @@ title: "'Origami' is reshaping DNA's future"
 date: 2016-07-06 04:00:00
 categories: Technology
 author: unknown author
-tags: [Protein, DNA origami, DNA, Virus, Molecule, Antibody, Nanotechnology, Artificial objects, Life sciences, Applied and interdisciplinary physics, Biotechnology, Materials, Physical sciences, Biology, Chemistry]
+tags: [Protein, DNA origami, DNA, Virus, Molecule, Antibody, Nanotechnology, Chemistry, Biology, Physical sciences, Artificial objects, Life sciences]
 ---
 
 

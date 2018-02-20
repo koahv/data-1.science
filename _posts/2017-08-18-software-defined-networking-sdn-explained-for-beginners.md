@@ -4,7 +4,7 @@ title: "Software Defined Networking (SDN) Explained for Beginners"
 date: 2017-08-18 07:00:06
 categories: Linux
 author: HowToForge Tutorials
-tags: [Software-defined networking, Computer network, Areas of computer science, Digital technology, Technology, Computing, Computer networking, Telecommunications, Computers, Computer engineering, Networks, Information technology management, Computer data, Information technology, Computer architecture, Communication, Information Age]
+tags: [Computer network, Software-defined networking, Areas of computer science, Communication, Computer architecture, Information Age, Computing, Technology, Digital technology, Computer networking, Information technology, Computers, Telecommunications, Computer engineering, Computer data, Information technology management, Networks, Intellectual works]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Hows & Whys of Eclipses"
 date: 2017-06-28 14:36:36
 categories: Astronomy
 author: Alan MacRobert
-tags: [Solar eclipse, Moon, Sun, Lunar eclipse, Shadow, Orbit of the Moon, Eclipse, Astronomy, Outer space, Physical sciences, Solar System, Planetary science, Celestial mechanics, Space science, Bodies of the Solar System]
+tags: [Solar eclipse, Moon, Sun, Lunar eclipse, Shadow, Eclipse, Orbit of the Moon, Planets of the Solar System, Planetary science, Bodies of the Solar System, Solar System, Astronomy, Outer space, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Evaporation takes place differently than previously thought: Implication
 date: 2015-10-22 14:35:35
 categories: Science
 author: unknown author
-tags: [Liquid, Gas, Evaporation, Pressure, Applied and interdisciplinary physics, Physical sciences, Physics, Nature, Physical chemistry, Chemistry]
+
 ---
 
 

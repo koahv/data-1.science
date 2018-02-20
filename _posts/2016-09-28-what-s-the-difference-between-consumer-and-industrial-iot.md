@@ -4,7 +4,7 @@ title: "What’s the Difference Between Consumer and Industrial IoT?"
 date: 2016-09-28 08:00:00
 categories: Linux
 author: Electronic Design
-tags: [Internet of things, Telecommunications, Computing, Technology, Digital technology, Computers, Cyberspace, Areas of computer science, Computer networking]
+tags: [Internet of things, Telecommunications, Computer networking, Areas of computer science, Cyberspace, Intellectual works, Computing, Technology, Digital technology, Information Age, Computers]
 ---
 
 

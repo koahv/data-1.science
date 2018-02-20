@@ -4,7 +4,7 @@ title: "Printing bricks from moondust using the Sun’s heat"
 date: 2017-05-03 07:25:00
 categories: Astronomy
 author: unknown author
-tags: [Moon, Lunar soil, 3D printing, In situ resource utilization, German Aerospace Center, Brick, Regolith, Colonization of the Moon, Space science, Technology, Outer space, Artificial objects]
+tags: [Moon, Lunar soil, 3D printing, In situ resource utilization, Brick, German Aerospace Center, In situ, Regolith, Artificial objects, Outer space, Technology]
 ---
 
 

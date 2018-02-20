@@ -4,7 +4,7 @@ title: "Researchers reveal how neurodegenerative diseases spread through the bra
 date: 2016-11-09 05:00:00
 categories: Technology
 author: unknown author
-tags: [Brain, Alzheimers disease, Medicine, Life sciences, Biology, Neuroscience, Nervous system, Biotechnology, Cell biology, Molecular biology, Biochemistry, Medical specialties, Health sciences, Clinical medicine, American Association for the Advancement of Science, Genetics, Neuron, Health, Neurodegeneration]
+tags: [Alzheimers disease, Brain, Life sciences, Medicine, Biochemistry, Molecular biology, Medical specialties, Biotechnology, Cell biology, Nervous system, Neuroscience, Biology]
 ---
 
 

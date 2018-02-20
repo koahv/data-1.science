@@ -4,7 +4,7 @@ title: "SwRI scientists discover evidence for a habitable region within Saturn's
 date: 2017-04-13 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Enceladus, Cassini–Huygens, Hydrothermal vent, Ocean, Astronomy, Planetary science, Outer space, Solar System, Space science, Physical sciences, Spaceflight]
+tags: [Enceladus, CassiniHuygens, Hydrothermal vent, Ocean, Outer space, Planetary science, Planets of the Solar System, Nature, Solar System, Physical sciences, Astronomy]
 ---
 
 

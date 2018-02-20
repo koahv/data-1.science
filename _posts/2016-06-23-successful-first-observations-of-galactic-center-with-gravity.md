@@ -4,7 +4,7 @@ title: "Successful first observations of galactic center with GRAVITY"
 date: 2016-06-23 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [European Southern Observatory, Very Large Telescope, Paranal Observatory, Gravity, Astronomy, Physical sciences, Outer space, Physics, Science, Scientific observation, Spacetime]
+tags: [European Southern Observatory, Very Large Telescope, Paranal Observatory, Gravity, Outer space, Astronomy, Physics, Science, Physical sciences, Spacetime, Scientific observation]
 ---
 
 

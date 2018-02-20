@@ -4,7 +4,7 @@ title: "Pluto's moon Nix"
 date: 2015-09-04 12:13:43
 categories: Science
 author: unknown author
-tags: [space exploration]
+
 ---
 
 

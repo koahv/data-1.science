@@ -4,7 +4,7 @@ title: "New technique scours the genome for genes that combat disease"
 date: 2017-10-12 10:22:48
 categories: Science
 author: unknown author
-tags: [Cas9, Gene, CRISPR, RNA, Protein, Genetics, Alpha-synuclein, Cell (biology), Life sciences, Cell biology, Organisms, Biochemistry, Molecular biology, Biotechnology, Biology]
+tags: [Gene, Cas9, Genome editing, CRISPR, RNA, Genetics, Protein, Alpha-synuclein, Cell (biology), Organisms, Biology, Life sciences, Cell biology, Biotechnology, Biochemistry, Molecular biology]
 ---
 
 

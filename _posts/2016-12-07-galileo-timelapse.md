@@ -4,7 +4,7 @@ title: "Galileo timelapse"
 date: 2016-12-07 09:51:00
 categories: Astronomy
 author: unknown author
-tags: [European Space Agency, Galileo (satellite navigation), Spacecraft, International organisations of Europe, Space policy of the European Union, Astronautics, Outer space, Space agencies, Space colonization, Flight, Space traffic management, Aerospace engineering, International scientific organizations of Europe, Space organizations, Spaceflight technologies, Aerospace agencies, Space-based economy, European integration, Satellites, Space policy, Space exploration, Space programs, Space technology, Spaceflight, European space programmes]
+tags: [European Space Agency, Galileo (satellite navigation), Space policy of the European Union, Spaceflight, Space programs, Outer space, European space programmes, Spacecraft, Astronautics, Aerospace agencies, Flight, Aerospace engineering, Space agencies, Space traffic management, International scientific organizations of Europe, Spaceflight technologies, Space organizations, International organisations of Europe, European integration, Satellites, Aerospace, Technology, Space policy]
 ---
 
 

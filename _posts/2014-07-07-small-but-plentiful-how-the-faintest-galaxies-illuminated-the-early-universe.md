@@ -4,7 +4,7 @@ title: "Small, but plentiful: How the faintest galaxies illuminated the early un
 date: 2014-07-07 11:13:48
 categories: Science
 author: unknown author
-tags: [astronomy & space]
+
 ---
 
 

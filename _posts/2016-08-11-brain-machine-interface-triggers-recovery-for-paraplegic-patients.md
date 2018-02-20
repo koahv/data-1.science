@@ -4,7 +4,7 @@ title: "Brain-machine interface triggers recovery for paraplegic patients"
 date: 2016-08-11 04:00:00
 categories: Technology
 author: unknown author
-tags: [Virtual reality, Brain–computer interface, Spinal cord injury, Neuroscience, Cognitive science, Medical specialties, Medicine, Clinical medicine, Nervous system]
+tags: [Virtual reality, Braincomputer interface, Spinal cord injury, Medicine, Cognitive science, Clinical medicine, Neuroscience, Nervous system]
 ---
 
 

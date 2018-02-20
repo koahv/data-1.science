@@ -4,7 +4,7 @@ title: "What Are Algae?"
 date: 2016-06-04 08:17:00
 categories: Science
 author: unknown author
-tags: [Algae, Cyanobacteria, Cell (biology), Plant, Algal bloom, Photosynthesis, Organism, Eukaryote, Archaeplastida, Green algae, Biology, Organisms, Nature, Systems ecology]
+tags: [Algae, Cyanobacteria, Cell (biology), Heterotroph, Plant, Algal bloom, Photosynthesis, Organism, Eukaryote, Archaeplastida, Systems ecology, Biology, Nature, Organisms]
 ---
 
 

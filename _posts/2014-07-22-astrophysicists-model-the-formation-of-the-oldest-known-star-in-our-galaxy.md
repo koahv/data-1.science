@@ -4,7 +4,7 @@ title: "Astrophysicists model the formation of the oldest-known star in our gala
 date: 2014-07-22 20:20:05
 categories: Science
 author: unknown author
-tags: [astronomy & space]
+
 ---
 
 

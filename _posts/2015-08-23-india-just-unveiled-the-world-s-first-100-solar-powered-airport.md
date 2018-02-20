@@ -4,7 +4,7 @@ title: "India just unveiled the world’s first 100% solar-powered airport"
 date: 2015-08-23 18:30:10
 categories: Energy
 author: Katie Medlock
-tags: [eco travel, solar powered airport, solar plant, solar power, news, clean tech, sustainable energy, solar, renewable energy]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "17-million-year-old whale fossil provides first exact date for East Afri
 date: 2015-03-17 04:00:00
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

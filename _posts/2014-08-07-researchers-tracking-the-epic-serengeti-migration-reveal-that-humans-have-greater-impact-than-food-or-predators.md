@@ -4,7 +4,7 @@ title: "Researchers tracking the epic Serengeti migration reveal that humans hav
 date: 2014-08-07 13:10:01
 categories: Science
 author: unknown author
-tags: [biology]
+
 ---
 
 

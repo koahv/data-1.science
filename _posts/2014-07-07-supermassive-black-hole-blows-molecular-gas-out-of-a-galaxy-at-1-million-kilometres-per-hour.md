@@ -4,7 +4,7 @@ title: "Supermassive black hole blows molecular gas out of a galaxy at 1 million
 date: 2014-07-07 14:06:23
 categories: Science
 author: unknown author
-tags: [astronomy & space]
+
 ---
 
 

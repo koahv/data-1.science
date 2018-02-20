@@ -4,7 +4,7 @@ title: "DXL-2: Studying X-ray emissions in space"
 date: 2015-12-03 05:00:00
 categories: Science
 author: unknown author
-tags: [NASA, Black Brant (rocket), Aerospace engineering, Outer space, Spaceflight, Physical sciences, Space exploration, Astronomy, Space technology, Flight, Spaceflight technologies, Astronautics, Nature, Spacecraft, Applied and interdisciplinary physics]
+
 ---
 
 

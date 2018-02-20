@@ -4,7 +4,7 @@ title: "A master switch that plays a key role in energy metabolism and human bra
 date: 2016-01-26 05:00:00
 categories: Science
 author: unknown author
-tags: [Gene, Evolution, Brain, Mutation, Biology, Biochemistry, Life sciences, Genetics, Biotechnology, Organisms, Molecular biology]
+
 ---
 
 

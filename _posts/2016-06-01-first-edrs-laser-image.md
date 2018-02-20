@@ -4,7 +4,7 @@ title: "First EDRS laser image"
 date: 2016-06-01 10:20:00
 categories: Astronomy
 author: unknown author
-tags: [Aerospace engineering, Spaceflight technologies, Astronautics, Outer space, Spacecraft, Space exploration, Telecommunications, Satellites, Space technology, Flight, Space colonization, Spaceflight, Technology]
+
 ---
 
 

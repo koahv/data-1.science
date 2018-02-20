@@ -4,7 +4,7 @@ title: "How Gravitational Waves Work (infographic)"
 date: 2015-04-02 16:59:40
 categories: Astronomy
 author: Jolene Creighton
-tags: [infographics, einstein, gravitational waves, gravity, physics, space, spacetime, time, universe]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Georgia Tech researchers demonstrate how the brain can handle so much da
 date: 2015-12-15 05:00:00
 categories: Technology
 author: unknown author
-tags: [Machine learning, Artificial neural network, Science, Computer vision, Theory, Research, Data, Computer science, Learning, Phenomenology, Science and technology, Cybernetics, Psychology, Neuropsychology, Neuropsychological assessment, Emergence, Neuroscience, Epistemology, Psychological concepts, Cognition, Cognitive science]
+
 ---
 
 

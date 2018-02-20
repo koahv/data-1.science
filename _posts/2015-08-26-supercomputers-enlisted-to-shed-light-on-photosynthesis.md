@@ -4,7 +4,7 @@ title: "Supercomputers enlisted to shed light on photosynthesis"
 date: 2015-08-26 11:58:42
 categories: Science
 author: unknown author
-tags: [computer sciences]
+
 ---
 
 

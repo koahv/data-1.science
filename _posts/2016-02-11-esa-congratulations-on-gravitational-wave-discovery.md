@@ -4,7 +4,7 @@ title: "ESA congratulations on gravitational wave discovery"
 date: 2016-02-11 17:00:00
 categories: Astronomy
 author: unknown author
-tags: [LIGO, Gravitational wave, Gravitational-wave observatory, LISA Pathfinder, Gravity, Outer space, Physical sciences, Astronomy, Physics, Physical cosmology, Spacetime, Gravitation, Applied and interdisciplinary physics, Science, Mechanics]
+
 ---
 
 

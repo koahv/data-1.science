@@ -4,7 +4,7 @@ title: "Regulatory, certification systems creating paralysis in use of genetical
 date: 2015-08-20 04:00:00
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

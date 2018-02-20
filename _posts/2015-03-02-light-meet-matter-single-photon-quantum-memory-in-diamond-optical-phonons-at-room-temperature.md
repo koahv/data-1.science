@@ -4,7 +4,7 @@ title: "Light, meet matter: Single-photon quantum memory in diamond optical phon
 date: 2015-03-02 14:30:01
 categories: Science
 author: unknown author
-tags: [physics]
+
 ---
 
 

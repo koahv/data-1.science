@@ -4,7 +4,7 @@ title: "Study finds increased ocean acidification due to human activities"
 date: 2016-09-07 04:00:00
 categories: Science
 author: unknown author
-tags: [Global warming, Ocean acidification, Carbon dioxide, Ocean, Water, Carbon sink, Oceanography, Carbon, Physical geography, Oceans, Hydrography, Environmental science, Natural environment, Physical sciences, Nature, Applied and interdisciplinary physics, Earth sciences]
+tags: [Global warming, Carbon dioxide, Ocean acidification, Ocean, Water, Carbon sink, Oceanography, Environmental science, Natural environment, Nature, Applied and interdisciplinary physics, Physical sciences, Earth sciences, Physical geography]
 ---
 
 

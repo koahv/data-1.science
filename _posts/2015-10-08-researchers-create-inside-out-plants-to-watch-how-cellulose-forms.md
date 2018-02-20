@@ -4,7 +4,7 @@ title: "Researchers create inside-out plants to watch how cellulose forms"
 date: 2015-10-08 04:00:00
 categories: Science
 author: unknown author
-tags: [Botany, Cell (biology), University of British Columbia, American Association for the Advancement of Science, Cell wall, Life sciences, Biology, Artificial objects]
+
 ---
 
 

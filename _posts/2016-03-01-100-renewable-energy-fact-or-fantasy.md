@@ -4,7 +4,7 @@ title: "100% Renewable Energy: Fact Or Fantasy?"
 date: 2016-03-01 11:59:47
 categories: Energy
 author: John Farrell
-tags: [Wind power, Fuel, Renewable energy, Biofuel, Solar energy, Fossil fuel, Energy, Carbon dioxide, Rail transport, Earth, Iron, Portland cement, Ethanol fuel, Hydroelectricity, Coal, Natural gas, Energy returned on energy invested, Nature, Artificial objects, Physical universe]
+
 ---
 
 

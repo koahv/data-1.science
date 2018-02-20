@@ -4,7 +4,7 @@ title: "Gravitational wave mission selected, planet-hunting mission moves forwar
 date: 2017-06-20 14:30:00
 categories: Astronomy
 author: unknown author
-tags: [Laser Interferometer Space Antenna, Gravity, Spaceflight, Planetary science, Space science, Physical sciences, Outer space, Astronomy, Astronomical objects]
+tags: [Laser Interferometer Space Antenna, Gravity, Outer space, Astronomy, Physical sciences, Space science, Planetary science, Physics]
 ---
 
 

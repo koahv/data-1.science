@@ -4,7 +4,7 @@ title: "New explanation for origin of plate tectonics: What set Earth's plates i
 date: 2014-09-17 17:18:14
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

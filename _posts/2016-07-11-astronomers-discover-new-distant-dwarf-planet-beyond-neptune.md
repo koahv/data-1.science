@@ -4,7 +4,7 @@ title: "Astronomers discover new distant dwarf planet beyond Neptune"
 date: 2016-07-11 19:08:25
 categories: Science
 author: unknown author
-tags: [Planet, Pluto, Solar System, Astronomy, Dwarf planet, Neptune, Kuiper belt, Planets, Substellar objects, Local Interstellar Cloud, Bodies of the Solar System, Planemos, Astronomical objects, Physical sciences, Space science, Planetary science, Outer space]
+tags: [Planet, Pluto, Astronomy, Trans-Neptunian object, Solar System, Dwarf planet, Neptune, Substellar objects, Planets, Space science, Local Interstellar Cloud, Planemos, Planetary science, Outer space, Physical sciences, Bodies of the Solar System, Astronomical objects]
 ---
 
 

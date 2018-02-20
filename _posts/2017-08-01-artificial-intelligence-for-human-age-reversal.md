@@ -4,7 +4,7 @@ title: "Artificial intelligence for human age-reversal"
 date: 2017-08-01 04:00:00
 categories: Technology
 author: unknown author
-tags: [Ageing, Artificial intelligence, Senescence, Insilico Medicine, Deep learning, Health, Medicine, Drug discovery, Pharmaceutical drug, Disease, DNA, Biotechnology, Health sciences, Life sciences, Biology, Organisms]
+tags: [Ageing, Artificial intelligence, Senescence, Insilico Medicine, Deep learning, Medicine, Health, Drug discovery, Pharmaceutical drug, Disease, Biotechnology, Organisms, Biology, Life sciences]
 ---
 
 

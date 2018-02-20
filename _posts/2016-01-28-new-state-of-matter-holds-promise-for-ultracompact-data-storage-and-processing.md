@@ -4,7 +4,7 @@ title: "New state of matter holds promise for ultracompact data storage and proc
 date: 2016-01-28 09:07:48
 categories: Science
 author: unknown author
-tags: [Physics, Superlattice, Lawrence Berkeley National Laboratory, Physical sciences, Applied and interdisciplinary physics, Chemistry, Materials science, Condensed matter physics, Mechanics, Electromagnetism]
+
 ---
 
 

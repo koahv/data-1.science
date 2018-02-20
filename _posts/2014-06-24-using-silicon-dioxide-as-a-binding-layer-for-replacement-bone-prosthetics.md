@@ -4,7 +4,7 @@ title: "Using silicon dioxide as a binding layer for replacement bone prosthetic
 date: 2014-06-24 13:10:01
 categories: Science
 author: unknown author
-tags: [nanotechnology]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Gaia’s billion-star map hints at treasures to come"
 date: 2016-09-14 10:30:00
 categories: Astronomy
 author: unknown author
-tags: [Cosmic distance ladder, Gaia (spacecraft), Star, Star cluster, Hipparcos, Milky Way, Astronomy, Open cluster, Parallax, RR Lyrae variable, Physical sciences, Outer space, Astronomical objects, Scientific observation, Stars]
+tags: [Gaia (spacecraft), Cosmic distance ladder, Star, Hipparcos, Star cluster, Milky Way, Astrometry, Astronomy, Parallax, Open cluster, RR Lyrae variable, Outer space, Physical sciences, Astronomical objects, Scientific observation, Stars]
 ---
 
 

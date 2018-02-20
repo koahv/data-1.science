@@ -4,7 +4,7 @@ title: "Americans worried about using gene editing, brain chip implants and synt
 date: 2016-07-26 04:00:00
 categories: Technology
 author: unknown author
-tags: [Genome editing, Blood substitute, Brain implant, Brain, Technology, Plastic surgery, Human enhancement, Surgery, American Association for the Advancement of Science, Research, United States]
+tags: [Human, Blood substitute, Brain implant, Brain, Genome editing, Human enhancement, Technology, Plastic surgery, Research, Surgery, American Association for the Advancement of Science]
 ---
 
 

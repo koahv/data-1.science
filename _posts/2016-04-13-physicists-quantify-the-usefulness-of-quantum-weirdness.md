@@ -4,7 +4,7 @@ title: "Physicists quantify the usefulness of 'quantum weirdness'"
 date: 2016-04-13 11:07:37
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Physics, Coherence (physics), Quantum computing, Quantum teleportation, Quantum superposition, Scientific method, Solid state engineering, Science, Particle physics, Physical sciences, Theoretical physics, Scientific theories, Condensed matter physics, Applied and interdisciplinary physics, Modern physics, Mechanics]
+
 ---
 
 

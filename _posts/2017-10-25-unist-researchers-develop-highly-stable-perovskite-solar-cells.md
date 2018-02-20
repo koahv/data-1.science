@@ -4,7 +4,7 @@ title: "UNIST researchers develop highly stable perovskite solar cells"
 date: 2017-10-25 04:00:00
 categories: Science
 author: unknown author
-tags: [Fluorine, Perovskite (structure), Perovskite solar cell, Solar cell, Fluorocarbon, Polytetrafluoroethylene, Physical chemistry, Applied and interdisciplinary physics, Energy, Nature, Materials science, Artificial materials, Manufacturing, Artificial objects, Chemistry, Materials]
+tags: [Fluorine, Perovskite (structure), Perovskite solar cell, Solar cell, Fluorocarbon, Polytetrafluoroethylene, Artificial materials, Nature, Applied and interdisciplinary physics, Materials science, Manufacturing, Artificial objects, Chemistry, Materials]
 ---
 
 

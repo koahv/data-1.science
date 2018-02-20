@@ -4,7 +4,7 @@ title: "The Best Illustrations from 150 Years of Alice in Wonderland"
 date: 2014-07-07 08:30:44
 categories: Philosophy
 author: Maria Popova
-tags: [art, culture, design, alice in wonderland, books, illustration, out of print, vintage childrens books]
+
 ---
 
 

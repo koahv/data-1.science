@@ -4,7 +4,7 @@ title: "Timeline of Earth’s Future (Infographic)"
 date: 2015-03-27 17:25:02
 categories: Astronomy
 author: Jaime Trosper
-tags: [infographics, chernobyl disaster, death of our solar system, earth, infographic, pangea, science, space, sun, timeline, universe]
+
 ---
 
 

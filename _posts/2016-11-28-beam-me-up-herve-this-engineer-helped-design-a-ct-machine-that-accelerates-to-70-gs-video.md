@@ -4,7 +4,7 @@ title: "Beam Me Up, Herve: This Engineer Helped Design A CT Machine That Acceler
 date: 2016-11-28 11:32:54
 categories: Technology
 author: unknown author
-tags: []
+tags: [CT scan, Medical imaging, G-force, Physics, Applied and interdisciplinary physics]
 ---
 
 

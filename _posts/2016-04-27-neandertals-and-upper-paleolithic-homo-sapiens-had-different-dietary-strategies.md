@@ -4,7 +4,7 @@ title: "Neandertals and Upper Paleolithic Homo sapiens had different dietary str
 date: 2016-04-27 04:00:00
 categories: Science
 author: unknown author
-tags: [Neanderthal, Paleolithic]
+
 ---
 
 

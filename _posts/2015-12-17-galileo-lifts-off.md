@@ -4,7 +4,7 @@ title: "Galileo lifts off"
 date: 2015-12-17 12:00:00
 categories: Astronomy
 author: unknown author
-tags: [Space exploration, Spaceflight technologies, Space programs, Spacecraft, Spaceflight]
+
 ---
 
 

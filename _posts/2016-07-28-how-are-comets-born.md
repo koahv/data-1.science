@@ -4,7 +4,7 @@ title: "How are comets born?"
 date: 2016-07-28 15:30:00
 categories: Astronomy
 author: unknown author
-tags: [Rosetta (spacecraft), Comet, Formation and evolution of the Solar System, Solar System, 67P/Churyumov–Gerasimenko, Sun, Trans-Neptunian object, Accretion (astrophysics), Planetary science, Local Interstellar Cloud, Nature, Astronomical objects, Bodies of the Solar System, Space science, Outer space, Astronomy, Physical sciences]
+tags: [Rosetta (spacecraft), Comet, Formation and evolution of the Solar System, 67PChuryumovGerasimenko, Solar System, Sun, Trans-Neptunian object, Accretion (astrophysics), Bodies of the Solar System, Physical sciences, Astronomy, Outer space, Planetary science, Space science, Nature, Local Interstellar Cloud]
 ---
 
 

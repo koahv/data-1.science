@@ -4,7 +4,7 @@ title: "New way of retaining quantum memories stored in light"
 date: 2015-09-30 04:00:00
 categories: Science
 author: unknown author
-tags: [Light, Photon, American Association for the Advancement of Science, Information, Quantum, Modern physics, Natural philosophy, Solid state engineering, Particle physics, Quantum mechanics, Physics, Mechanics, Science, Applied and interdisciplinary physics, Physical sciences, Electromagnetic radiation]
+
 ---
 
 

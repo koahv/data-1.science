@@ -4,7 +4,7 @@ title: "Tool use is 'innate' in chimpanzees but not bonobos, their closest evolu
 date: 2015-06-16 11:23:18
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

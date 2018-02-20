@@ -4,7 +4,7 @@ title: "CRISPR Can Now Be Used to Edit Individual Bases"
 date: 2017-10-26 18:12:11
 categories: Science
 author: Brad Jones
-tags: [CRISPR, DNA, Base pair, Life sciences, Biotechnology, Molecular biology, Biochemistry, Biology, Medicine, Nucleotides, Macromolecules, Genetics, Nucleic acids, Organisms]
+tags: [CRISPR, DNA, Base pair, Macromolecules, Genetics, Biology, Life sciences, Biotechnology, Molecular biology, Biochemistry, Organisms, Nucleic acids, Nucleotides]
 ---
 
 

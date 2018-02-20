@@ -4,7 +4,7 @@ title: "Flattr Is the Icon Pack with the Flattest Icons for Linux Systems – Ga
 date: 2015-01-31 13:30:00
 categories: Linux
 author: Softpedia News (Silviu Stahie)
-tags: [linux & opensource blog]
+
 ---
 
 

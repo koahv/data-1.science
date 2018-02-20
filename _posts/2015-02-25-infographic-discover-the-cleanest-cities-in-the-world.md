@@ -4,7 +4,7 @@ title: "INFOGRAPHIC: Discover the cleanest cities in the world"
 date: 2015-02-25 20:46:07
 categories: Energy
 author: Kristine Lofgren
-tags: [green graphics & packaging, green transportation, reader submitted content, renewable energy, social responsibility, sustainable building, urban farming, carbon neutral cities, chicago green roof, clean cities, copenhagen carbon neutral, environmentally friendly cities, green cities, green homes, green innovations, green living, green roofs, oslo landfills, urban living, vancouver greenest city, worlds cleanest cities]
+
 ---
 
 

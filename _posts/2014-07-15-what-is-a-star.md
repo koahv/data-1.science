@@ -4,7 +4,7 @@ title: "What is a star?"
 date: 2014-07-15 18:13:52
 categories: Astronomy
 author: Maria Temming
-tags: [questions & answers, resources and education, science-based q&a, stars faq]
+
 ---
 
 

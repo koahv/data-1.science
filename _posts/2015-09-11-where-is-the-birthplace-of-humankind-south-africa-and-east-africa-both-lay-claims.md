@@ -4,7 +4,7 @@ title: "Where Is the Birthplace of Humankind? South Africa and East Africa Both 
 date: 2015-09-11 17:27:31
 categories: Science
 author: Evan Hadingham
-tags: []
+
 ---
 
 

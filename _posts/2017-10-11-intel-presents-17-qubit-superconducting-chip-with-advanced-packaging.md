@@ -4,7 +4,7 @@ title: "Intel presents 17-qubit superconducting chip with advanced packaging"
 date: 2017-10-11 10:48:31
 categories: Science
 author: unknown author
-tags: [Quantum computing, Integrated circuit, Semiconductor device fabrication, Computing, Intel, Computer, Superconducting quantum computing, Neuromorphic engineering, Electronics, Electrical engineering, Artificial objects, Computer engineering, Electronic engineering, Science and technology, Technology]
+tags: [Quantum computing, Integrated circuit, Computing, Intel, Computer, Electronic circuit, Superconducting quantum computing, Neuromorphic engineering, Semiconductor device fabrication, Electronics, Technology, Artificial objects, Science and technology, Computer engineering]
 ---
 
 

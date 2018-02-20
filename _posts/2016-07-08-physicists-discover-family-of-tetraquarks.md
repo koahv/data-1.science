@@ -4,7 +4,7 @@ title: "Physicists discover family of tetraquarks"
 date: 2016-07-08 04:00:00
 categories: Technology
 author: unknown author
-tags: [Particle physics, Quark, Matter, Proton, Hadron, Pentaquark, Physics, Standard Model, Chemistry, Subatomic particles, Theoretical physics, Quantum mechanics, Quantum field theory, Physical universe, Nuclear physics, Physical bodies, Physical sciences]
+tags: [Particle physics, Quark, Matter, Proton, Hadron, Tetraquark, Pentaquark, Physical sciences, Physics, Physical bodies, Nuclear physics, Physical universe, Quantum field theory, Theoretical physics, Quantum mechanics, Subatomic particles]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Advanced lm-sensors Tips and Tricks on Linux"
 date: 2017-09-21 12:50:45
 categories: Linux
 author: cschroder
-tags: [Central processing unit, Device driver, Motherboard, Rpm (software), Linux kernel, Industry Standard Architecture, Ubuntu (operating system), Digital electronics, Computing, Manufactured goods, Computers, Areas of computer science, Electrical engineering, Digital technology, Computer hardware, Electronic engineering, Office equipment, Computer architecture, Computer engineering, Technology, Electronics]
+tags: [Central processing unit, Motherboard, Device driver, Rpm (software), Linux kernel, Industry Standard Architecture, Kernel (operating system), Ubuntu (operating system), Computer architecture, Office equipment, Electronic engineering, Computer engineering, Digital electronics, Digital technology, Manufactured goods, Computer hardware, Computing, Computers, Areas of computer science, Electrical engineering, Electronics]
 ---
 
 

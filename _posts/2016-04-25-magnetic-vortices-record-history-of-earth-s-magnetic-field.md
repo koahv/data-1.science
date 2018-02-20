@@ -4,7 +4,7 @@ title: "Magnetic vortices record history of Earth's magnetic field"
 date: 2016-04-25 15:53:28
 categories: Science
 author: unknown author
-tags: [Magnetism, Magnetite, Paleomagnetism, Electromagnetism, Geology, Earth sciences, Nature, Physics, Applied and interdisciplinary physics, Physical sciences]
+
 ---
 
 

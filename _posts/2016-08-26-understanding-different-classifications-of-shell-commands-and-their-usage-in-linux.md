@@ -4,7 +4,7 @@ title: "Understanding Different Classifications of Shell Commands and Their Usag
 date: 2016-08-26 07:36:18
 categories: Linux
 author: Aaron Kili
-tags: [Command-line interface, Alias (command), Bash (Unix shell), Software engineering, Software, Computer programming, Operating system technology, System software, Areas of computer science, Computing]
+tags: [Command-line interface, Alias (command), Bash (Unix shell), Directory (computing), System software, Areas of computer science, Computer programming, Software, Operating system technology, Computing, Software engineering]
 ---
 
 

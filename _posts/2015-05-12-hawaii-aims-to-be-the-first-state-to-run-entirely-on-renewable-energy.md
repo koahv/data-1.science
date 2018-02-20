@@ -4,7 +4,7 @@ title: "Hawaii aims to be the first state to run entirely on renewable energy"
 date: 2015-05-12 21:03:08
 categories: Energy
 author: Charley Cameron
-tags: [news, policy, renewable energy, solar power, clean energy cost, clean energy initiative, fossil fuels hawaii, greenest states, hawaii renewable energy, hawaii solar, hawaii wind, oil dependence, renewable energy policy]
+
 ---
 
 

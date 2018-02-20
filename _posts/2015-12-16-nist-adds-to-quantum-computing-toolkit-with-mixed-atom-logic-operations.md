@@ -4,7 +4,7 @@ title: "NIST adds to quantum computing toolkit with mixed-atom logic operations"
 date: 2015-12-16 05:00:00
 categories: Technology
 author: unknown author
-tags: [Quantum computing, Quantum mechanics, Qubit, Controlled NOT gate, National Institute of Standards and Technology, Particle physics, Areas of computer science, Technology, Mechanics, Physics, Modern physics, Solid state engineering]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Revolutions in understanding the ionosphere, Earth's interface to space"
 date: 2016-12-14 05:00:00
 categories: Astronomy
 author: unknown author
-tags: [Coronal mass ejection, Ionosphere, Atmosphere of Earth, Magnetosphere, Lightning, Space weather, Sun, Geomagnetic storm, Earth, Weather, Aurora, Goddard Space Flight Center, Meteorology, Physics, Nature, Physical phenomena, Outer space, Space science, Applied and interdisciplinary physics, Physical sciences]
+tags: [Ionosphere, Coronal mass ejection, Atmosphere of Earth, Magnetosphere, Space weather, Sun, Lightning, Earth, Weather, Aurora, Goddard Space Flight Center, Outer space, Physics, Physical phenomena, Nature, Physical sciences, Applied and interdisciplinary physics, Space science]
 ---
 
 

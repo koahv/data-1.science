@@ -4,7 +4,7 @@ title: "Breakthrough in ultra-fast data processing at nanoscale"
 date: 2017-10-20 12:23:48
 categories: Science
 author: unknown author
-tags: [Nanoelectronics, Plasmon, Surface plasmon, Nanotechnology, Photonics, Optics, Electricity, Electron, Quantum tunnelling, Applied and interdisciplinary physics, Physical chemistry, Manufacturing, Physics, Physical sciences, Materials, Artificial objects, Chemistry, Electromagnetism, Technology, Electronics, Materials science]
+tags: [Nanoelectronics, Nanotechnology, Surface plasmon, Plasmon, Photonics, Optics, Electricity, National University of Singapore, Electronics, Electromagnetism, Materials, Applied and interdisciplinary physics, Technology, Chemistry, Physical sciences, Artificial objects, Materials science]
 ---
 
 

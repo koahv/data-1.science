@@ -4,7 +4,7 @@ title: "Purple power: Synthetic 'purple membranes' transform sunlight to hydroge
 date: 2017-10-13 13:19:55
 categories: Science
 author: unknown author
-tags: []
+tags: [Cell membrane, Protein, Bacteria, Biology, Energy, Nanotechnology, Cell (biology), Solar fuel, Gene expression, Chemistry, Nature, Artificial objects, Physical sciences, Materials, Applied and interdisciplinary physics]
 ---
 
 

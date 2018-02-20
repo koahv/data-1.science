@@ -4,7 +4,7 @@ title: "Best of Opensource.com: Government"
 date: 2015-12-24 08:01:00
 categories: Open Source
 author: melanie
-tags: [Open-source model, Open-source software, European Union, Innovation, Red Hat, European Single Market, Economy, Public sphere, Business]
+
 ---
 
 

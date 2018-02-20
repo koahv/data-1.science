@@ -4,7 +4,7 @@ title: "How scientists are trying to hack your dreams | Moran Cerf"
 date: 2016-05-16 14:48:24
 categories: Interest
 author: Moran Cerf
-tags: [TED (conference), Computing, Technology, Cyberspace, Communication]
+
 ---
 
 

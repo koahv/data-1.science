@@ -4,7 +4,7 @@ title: "Dark Energy Survey reveals most accurate measurement of dark matter stru
 date: 2017-08-03 16:09:03
 categories: Science
 author: unknown author
-tags: [Universe, Dark matter, Dark energy, Scientific theory, The Dark Energy Survey, Light, Science, Gravity, Physical cosmology, Big Bang, Milky Way, Matter, Theory, Physics, Mathematics, Physical sciences, Outer space, Astronomy]
+tags: [Universe, Dark matter, Dark energy, Scientific theory, The Dark Energy Survey, Science, Light, Gravity, Physical cosmology, Big Bang, Milky Way, Matter, Time, Theory, Physics, Mathematics, Planck (spacecraft), Physical sciences, Astronomy]
 ---
 
 

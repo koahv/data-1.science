@@ -4,7 +4,7 @@ title: ""Earth-Sized Diamond" --A White Dwarf Fossil Same Age as the Milky Way F
 date: 2014-06-24 14:40:21
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

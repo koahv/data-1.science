@@ -4,7 +4,7 @@ title: "Explained: Neural Networks"
 date: 2017-04-18 11:30:56
 categories: Linux
 author: MIT News
-tags: [Artificial intelligence, Cognitive neuroscience, Cybernetics, Computational neuroscience, Neuropsychology, Areas of computer science, Emergence, Computer science, Epistemology, Learning, Neuroscience, Nervous system, Technology, biomedical cybernetics, Phenomenology, Systems thinking, Computational science, Systems science, Psychological concepts, Cognition, Cognitive science, Futurology, Applied mathematics, Neuropsychological assessment, Computing, Emerging technologies]
+tags: [Artificial intelligence, Phenomenology, Computational neuroscience, Cybernetics, Cognition, Neuroscience, Cognitive science, Neuropsychology, Emergence, Learning, Areas of computer science, Epistemology, Computer science, Nervous system, Technology, Cognitive neuroscience, biomedical cybernetics, Systems thinking, Psychological concepts, Computational science, Applied mathematics, Systems science, Futurology, Neuropsychological assessment]
 ---
 
 

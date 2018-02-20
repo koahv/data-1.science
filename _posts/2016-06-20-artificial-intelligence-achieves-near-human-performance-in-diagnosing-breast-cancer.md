@@ -4,7 +4,7 @@ title: "Artificial intelligence achieves near-human performance in diagnosing br
 date: 2016-06-20 12:52:04
 categories: Science
 author: unknown author
-tags: [Artificial intelligence, Pathology, Cancer, Deep learning, Cognition, Cognitive science]
+tags: [Artificial intelligence, Pathology, Machine learning, Cancer, Deep learning, Cognitive science, Cognition]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Wind Power Generated 126% of Scotland’s Household Energy Needs Last Mo
 date: 2014-11-06 17:11:30
 categories: Energy
 author: Beverley Mitchell
-tags: [news, renewable energy, solar power, wind power, wind turbine, world wildlife fund, scotland, scotland produces 126% of household energy needs with wind power, solar hot water, wwf]
+
 ---
 
 

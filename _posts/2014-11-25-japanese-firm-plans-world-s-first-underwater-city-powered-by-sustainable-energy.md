@@ -4,7 +4,7 @@ title: "Japanese Firm Plans World’s First Underwater City Powered by Sustainab
 date: 2014-11-25 22:52:57
 categories: Energy
 author: Lucy Wang
-tags: [architecture, carousel showcase, gallery, renewable energy, sustainable energy, atlantis, hydraulic pressure, masataka noguch, modern day atlantis, ocean spiral, sea level rise, shimizu corporation, underwater city, underwater housing, university of tokyo]
+
 ---
 
 

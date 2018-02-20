@@ -4,7 +4,7 @@ title: "Disruptive bioengineering – changing the way cells interact with each 
 date: 2017-10-31 13:55:17
 categories: Science
 author: unknown author
-tags: [CRISPR, Genome editing, Cas9, Molecular biology, Medicine, Biochemistry, Genetics, Organisms, Biotechnology, Life sciences, Biology]
+tags: [Genome editing, Cell signaling, CRISPR, Cas9, Biology, Molecular biology, Medicine, Biochemistry, Genetics, Organisms, Biotechnology, Life sciences]
 ---
 
 

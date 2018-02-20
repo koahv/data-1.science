@@ -4,7 +4,7 @@ title: "Humans perceive time somewhere in between reality and our expectations"
 date: 2016-07-13 04:00:00
 categories: Technology
 author: unknown author
-tags: [Perception, Prediction, Neuropsychological assessment, neuropsychology, Phenomenology, Mental processes, Psychological concepts, Cognitive science, Cognition, Neuroscience, Action (philosophy), Psychology, Neuropsychology, Nervous system, Behavioural sciences, Emergence, Epistemology, Metaphysics of mind, Subjective experience, Experimental psychology]
+tags: [Perception, Prediction, Psychology, Cognitive science, Cognition, Psychological concepts, Neuroscience, Neuropsychological assessment, Neuropsychology, Nervous system, Epistemology, Phenomenology, Mental processes, Emergence, Behavioural sciences, neuropsychology, Metaphysics of mind, Metaphysics, Subjective experience, Science, Experimental psychology]
 ---
 
 

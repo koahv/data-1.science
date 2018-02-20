@@ -4,7 +4,7 @@ title: "New advances in solar cell technology"
 date: 2016-10-05 15:42:05
 categories: Science
 author: unknown author
-tags: [Solar cell, Solar energy, Perovskite solar cell, Energy development, Perovskite (structure), Renewable energy, Nature, Materials, Manufacturing, Physical universe, Chemistry, Energy, Artificial objects]
+tags: [Solar cell, Perovskite solar cell, Energy development, Perovskite (structure), Renewable energy, Nature, Materials, Energy, Manufacturing, Artificial objects, Chemistry]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Photos of the Day: World's Largest Rocket Launches Spy Satellite"
 date: 2016-06-13 20:37:57
 categories: Technology
 author: mcrouse
-tags: [United Launch Alliance, Aerospace engineering, Vehicles, Outer space, Astronautics, Spaceflight, Spaceflight technologies, Spacecraft, Rocketry, Space colonization, Space technology, Space exploration, Aerospace, Space launch vehicles, Rockets and missiles, Space access, Flight, Space programs, Space program of the United States, Ballistics, Rocket families, Commercial spaceflight, Aeronautics, Projectile weapons, Space launch vehicles of the United States]
+tags: [United Launch Alliance, Rocket families, Spaceflight, Spacecraft, Spaceflight technologies, Aerospace engineering, Rocketry, Aerospace, Space launch vehicles, Rockets and missiles, Outer space, Space access, Flight, Space programs, Astronautics, Vehicles, Space program of the United States, Aeronautics, Projectile weapons, Space launch vehicles of the United States, Space technology, Commercial spaceflight]
 ---
 
 

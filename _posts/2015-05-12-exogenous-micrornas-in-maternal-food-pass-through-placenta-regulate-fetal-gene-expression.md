@@ -4,7 +4,7 @@ title: "Exogenous microRNAs in maternal food pass through placenta, regulate fet
 date: 2015-05-12 16:00:02
 categories: Science
 author: unknown author
-tags: [biology]
+
 ---
 
 

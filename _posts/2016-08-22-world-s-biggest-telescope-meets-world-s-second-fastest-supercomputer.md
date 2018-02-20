@@ -4,7 +4,7 @@ title: "World's biggest telescope meets world's second fastest supercomputer"
 date: 2016-08-22 13:39:04
 categories: Science
 author: unknown author
-tags: [Square Kilometre Array, Astronomy, Tianhe-2, Radio astronomy, Supercomputer, Radio telescope, Outer space, Physical sciences]
+tags: [Square Kilometre Array, Astronomy, Galaxy, Tianhe-2, Radio astronomy, Supercomputer, Radio telescope, Physical sciences, Outer space]
 ---
 
 

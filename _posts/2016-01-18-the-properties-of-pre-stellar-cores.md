@@ -4,7 +4,7 @@ title: "The properties of pre-stellar cores"
 date: 2016-01-18 12:29:01
 categories: Science
 author: unknown author
-tags: [Star formation, Star, Cosmic dust, Astronomy, Interstellar medium, Sun, Physical sciences, Outer space, Astronomical objects, Nature, Applied and interdisciplinary physics, Stellar astronomy]
+
 ---
 
 

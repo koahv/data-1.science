@@ -4,7 +4,7 @@ title: "How to Recover a Deleted File in Linux"
 date: 2016-11-09 06:00:14
 categories: Linux
 author: Gabriel Cánepa
-tags: [Computer file, Trash (computing), Software, Computing, System software, Operating system technology, Computer architecture, Computers, Utility software, Computer data, Digital media]
+tags: [Computer file, CentOS, Computing, Software, System software, Operating system technology, Computer architecture, Computers, Digital media, Utility software, Computer data, Storage software]
 ---
 
 

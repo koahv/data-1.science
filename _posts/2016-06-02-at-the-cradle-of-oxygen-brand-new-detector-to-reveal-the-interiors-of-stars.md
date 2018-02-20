@@ -4,7 +4,7 @@ title: "At the cradle of oxygen: Brand-new detector to reveal the interiors of s
 date: 2016-06-02 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Star, Nuclear physics, Alpha particle, Gamma ray, Helium, Nuclear fusion, Physics, Atomic nucleus, Oxygen, Radiation, Extreme Light Infrastructure, Electron, Carbon, Photon, Chemical element, Gas, Particle physics, Chemistry, Applied and interdisciplinary physics, Nature, Physical universe, Physical sciences]
+
 ---
 
 

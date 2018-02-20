@@ -4,7 +4,7 @@ title: "Study shows cloud patterns reveal species habitat"
 date: 2016-04-15 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Ecology, Biodiversity, Natural environment, Science, Earth sciences, Environmental science, Biology, Nature, Biogeochemistry]
+
 ---
 
 

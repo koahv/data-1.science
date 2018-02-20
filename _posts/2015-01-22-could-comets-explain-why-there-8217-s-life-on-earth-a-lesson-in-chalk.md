@@ -4,7 +4,7 @@ title: "Could comets explain why there&#8217;s life on Earth? A lesson in chalk"
 date: 2015-01-22 16:21:04
 categories: Interest
 author: Emilie Soffe
-tags: [inside the animators studio, animation, astronomy, comets, justin dowd, life, physics, space, ted-ed, the universe]
+
 ---
 
 

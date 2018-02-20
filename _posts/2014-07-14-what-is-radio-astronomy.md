@@ -4,7 +4,7 @@ title: "What is radio astronomy?"
 date: 2014-07-14 19:37:41
 categories: Astronomy
 author: Maria Temming
-tags: [questions & answers, resources and education, science-based q&a, radio astronomy, radio telescopes]
+
 ---
 
 

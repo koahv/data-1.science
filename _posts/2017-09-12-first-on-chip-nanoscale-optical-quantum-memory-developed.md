@@ -4,7 +4,7 @@ title: "First On-Chip Nanoscale Optical Quantum Memory Developed"
 date: 2017-09-12 12:43:50
 categories: Technology
 author: lmetzler
-tags: [Quantum mechanics, Photon, Quantum network, Computer, Physics, Integrated circuit, Optics, Computer memory, Information, Photonics, Particle physics, Physical sciences, Applied and interdisciplinary physics, Condensed matter physics, Science, Theoretical physics, Atomic,  molecular,  and optical physics, Physical chemistry, Modern physics, Chemistry, Mechanics, Materials science, Solid state engineering]
+tags: [Quantum mechanics, Photon, Quantum network, Computer, Physics, Information, Optics, Integrated circuit, Computer memory, Photonics, Modern physics, Particle physics, Materials science, Physical chemistry, Atomic molecular and optical physics, Solid state engineering, Condensed matter physics, Mechanics, Chemistry, Physical sciences, Applied and interdisciplinary physics]
 ---
 
 

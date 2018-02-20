@@ -4,7 +4,7 @@ title: "TechRepublic: Automotive Grade Linux brings open source to the auto indu
 date: 2014-07-04 00:00:00
 categories: Linux
 author: Linux_Foundation
-tags: []
+
 ---
 
 

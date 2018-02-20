@@ -4,7 +4,7 @@ title: "The International Space Station Now Has an Inflatable Room"
 date: 2016-05-31 14:26:22
 categories: Technology
 author: mcrouse
-tags: [Space science, Flight, Aerospace engineering, Astronautics, Spacecraft, Space technology, Space colonization, Outer space, Space exploration, Spaceflight, Space-based economy, Spaceflight technologies, Human spaceflight, Space industry, Aerospace, NASA, Scientific exploration]
+
 ---
 
 

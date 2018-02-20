@@ -4,7 +4,7 @@ title: "Mars triptych"
 date: 2016-05-26 10:10:00
 categories: Astronomy
 author: unknown author
-tags: [Mars, Hubble Space Telescope, Earth, Outer space, Astronomy, Planetary science, Space science, Spaceflight, Planets, Bodies of the Solar System, Solar System, Physical sciences]
+
 ---
 
 

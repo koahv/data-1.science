@@ -4,7 +4,7 @@ title: "Russian physicists create a high-precision 'quantum ruler'"
 date: 2016-06-23 04:00:00
 categories: Science
 author: unknown author
-tags: [Interferometry, Quantum entanglement, Light, Interference (wave propagation), Mechanics, Science, Modern physics, Scientific method, Materials science, Atomic,  molecular,  and optical physics, Physical sciences, Electromagnetic radiation, Quantum mechanics, Particle physics, Natural philosophy, Optics, Applied and interdisciplinary physics, Physics]
+tags: [Interferometry, Quantum entanglement, Light, Interference (wave propagation), Quantum mechanics, Physical sciences, Physics, Optics, Applied and interdisciplinary physics, Natural philosophy, Electromagnetic radiation, Atomic molecular and optical physics, Mechanics, Science, Scientific method, Modern physics, Materials science]
 ---
 
 

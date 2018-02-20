@@ -4,7 +4,7 @@ title: "Five ways quantum computing will change the way we think about computing
 date: 2017-05-08 10:30:01
 categories: Science
 author: unknown author
-tags: [Quantum computing, IBM Quantum Experience, Cloud computing, Computing, Quantum mechanics, IBM, Computer, Laser, Artificial intelligence, Technology, Areas of computer science, Computer engineering, Artificial objects]
+tags: [Quantum computing, IBM Quantum Experience, Cloud computing, Computing, Quantum mechanics, IBM, Artificial intelligence, Computer, Information technology, Technology, Science and technology, Areas of computer science]
 ---
 
 

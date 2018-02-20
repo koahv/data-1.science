@@ -4,7 +4,7 @@ title: "Toward 'greener,' inexpensive solar cells"
 date: 2016-10-07 04:00:00
 categories: Science
 author: unknown author
-tags: [American Chemical Society, Perovskite (structure), American Association for the Advancement of Science, Solar cell, Energy production, Energy harvesting, Solar energy, Solar power, Energy, Alternative energy, Renewable energy, Sustainable energy, Nature, Sustainable technologies, Physical universe, Artificial objects, Renewable resources, Technology, Sustainable development, Energy conversion, Materials]
+tags: [American Chemical Society, Solar cell, Perovskite (structure), American Association for the Advancement of Science, Alternative energy, Renewable energy, Sustainable technologies, Sustainable energy, Artificial objects, Physical universe, Nature, Technology, Energy, Materials, Renewable resources, Sustainable development]
 ---
 
 

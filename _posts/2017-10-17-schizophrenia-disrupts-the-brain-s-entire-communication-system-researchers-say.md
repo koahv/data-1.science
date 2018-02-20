@@ -4,7 +4,7 @@ title: "Schizophrenia disrupts the brain's entire communication system, research
 date: 2017-10-17 13:19:13
 categories: Science
 author: unknown author
-tags: []
+tags: [Schizophrenia, Mental disorder, Neuroimaging, Psychiatry, Brain, Substance abuse, Neuroscience, Clinical medicine, Medical specialties, Medicine, Health, Nervous system]
 ---
 
 

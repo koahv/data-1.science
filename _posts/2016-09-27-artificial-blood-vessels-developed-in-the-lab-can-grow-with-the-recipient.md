@@ -4,7 +4,7 @@ title: "Artificial blood vessels developed in the lab can grow with the recipien
 date: 2016-09-27 17:48:42
 categories: Science
 author: unknown author
-tags: []
+tags: [Implant (medicine), Tissue engineering, Biomedical engineering, Heart, Blood substitute, Medical specialties, Medicine, Clinical medicine, Health sciences, Biology, Health, Life sciences, Medical treatments]
 ---
 
 

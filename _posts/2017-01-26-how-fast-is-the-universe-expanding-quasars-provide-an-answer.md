@@ -4,7 +4,7 @@ title: "How fast is the universe expanding? Quasars provide an answer"
 date: 2017-01-26 05:00:00
 categories: Astronomy
 author: unknown author
-tags: [Physical cosmology, Universe, Quasar, Hubbles law, Hubble Space Telescope, Gravitational lens, Metric expansion of space, Big Bang, Lambda-CDM model, Star, Milky Way, Natural philosophy, Applied and interdisciplinary physics, Spacetime, Astronomy, Physical quantities, Science, Cosmology, Outer space, Physics, Physical sciences, Parsec, Supernova, Natural sciences, Astrophysics]
+tags: [Physical cosmology, Quasar, Gravitational lens, Universe, Hubbles law, Hubble Space Telescope, Metric expansion of space, Big Bang, Lambda-CDM model, Star, Milky Way, Supernova, Applied and interdisciplinary physics, Astronomy, Natural philosophy, Spacetime, Physical quantities, Science, Cosmology, Outer space, Physics, Physical sciences]
 ---
 
 

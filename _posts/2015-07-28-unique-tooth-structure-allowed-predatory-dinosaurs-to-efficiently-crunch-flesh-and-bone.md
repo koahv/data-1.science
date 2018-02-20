@@ -4,7 +4,7 @@ title: "Unique tooth structure allowed predatory dinosaurs to efficiently crunch
 date: 2015-07-28 09:00:01
 categories: Science
 author: unknown author
-tags: [archaeology & fossils]
+
 ---
 
 

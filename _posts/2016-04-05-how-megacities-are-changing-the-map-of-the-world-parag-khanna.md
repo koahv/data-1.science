@@ -4,7 +4,7 @@ title: "How megacities are changing the map of the world | Parag Khanna"
 date: 2016-04-05 15:04:51
 categories: Interest
 author: Parag Khanna
-tags: [Computing, Technology]
+
 ---
 
 

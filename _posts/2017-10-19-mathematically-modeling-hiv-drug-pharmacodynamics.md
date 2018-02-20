@@ -4,7 +4,7 @@ title: "Mathematically modeling HIV drug pharmacodynamics"
 date: 2017-10-19 14:00:05
 categories: Science
 author: unknown author
-tags: [HIV/AIDS, Management of HIV/AIDS, Infection, Virus, Virus latency, Pharmacodynamics, Antiviral drug, Biology, Medical specialties, Clinical medicine, Health, Medicine, Health sciences, Life sciences, Immunology]
+tags: [HIVAIDS, Management of HIVAIDS, Infection, Virus, Virus latency, Pharmacodynamics, Antiviral drug, Clinical medicine, Immunology, Life sciences, Health sciences, Medicine, Medical specialties, Biology, Health]
 ---
 
 

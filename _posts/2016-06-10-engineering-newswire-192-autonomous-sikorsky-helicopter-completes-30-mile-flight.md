@@ -4,7 +4,7 @@ title: "Engineering Newswire 192: Autonomous Sikorsky Helicopter Completes 30-Mi
 date: 2016-06-10 15:26:14
 categories: Technology
 author: kduffy
-tags: [Aerospace engineering, Vehicles, Industries, Artificial objects, Aeronautics, Aircraft, Aviation]
+tags: [Solar energy, Electric aircraft, Vehicles, Aerospace engineering, Artificial objects, Aviation, Aircraft, Aeronautics, Industries]
 ---
 
 

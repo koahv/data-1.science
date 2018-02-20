@@ -4,7 +4,7 @@ title: "'Big Data' study discovers earliest sign of Alzheimer's development"
 date: 2016-07-12 17:02:29
 categories: Science
 author: unknown author
-tags: []
+tags: [Medical imaging, Alzheimers disease, Montreal Neurological Institute and Hospital, Brain, Positron emission tomography, Cerebral atrophy, Neurology, Clinical medicine, Medical specialties, Cognitive science, Biology, Medicine, Nervous system, Neuroscience]
 ---
 
 

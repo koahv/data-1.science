@@ -4,7 +4,7 @@ title: "Here’s What a World Powered by Quantum Computers Will Look Like"
 date: 2017-10-27 18:28:31
 categories: Science
 author: Dom Galeon
-tags: [Quantum mechanics, Quantum entanglement, Quantum computing, Computing, Science, Physics, Technology, Modern physics, Mechanics, Cognitive science, Solid state engineering, Particle physics, Theoretical physics]
+tags: [Quantum mechanics, Quantum entanglement, Quantum computing, Computing, Physics, Cognitive science, Technology, Modern physics, Science, Mechanics, Solid state engineering, Science and technology]
 ---
 
 

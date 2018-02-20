@@ -4,7 +4,7 @@ title: "Researchers create new 'letters' to enhance DNA functions"
 date: 2017-10-26 13:40:03
 categories: Science
 author: unknown author
-tags: [Base pair, DNA, Aptamer, Genetics, Molecular biology, Chemistry, Biochemistry, Organisms, Biotechnology, Life sciences, Biology]
+tags: [Base pair, DNA, Aptamer, Genetics, Cell (biology), Biochemistry, Molecular biology, Biotechnology, Organisms, Life sciences, Biology]
 ---
 
 

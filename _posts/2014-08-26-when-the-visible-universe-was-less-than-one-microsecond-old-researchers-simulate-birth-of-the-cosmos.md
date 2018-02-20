@@ -4,7 +4,7 @@ title: ""When the Visible Universe was Less than One Microsecond Old" --Research
 date: 2014-08-26 14:23:47
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Colossal Ring of Galaxies --"Largest Object in the Universe Spans 5 Bill
 date: 2015-08-04 21:35:51
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

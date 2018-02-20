@@ -4,7 +4,7 @@ title: "Gravitational waves detected 100 years after Einstein's prediction"
 date: 2016-02-11 15:39:35
 categories: Science
 author: unknown author
-tags: [LIGO, Gravitational wave, Gravity, Virgo interferometer, General relativity, GEO600, Science, Physical cosmology, Spacetime, Gravitation, Theory of relativity, Mechanics, Astronomy, Physics, Applied and interdisciplinary physics, Gravitational-wave astronomy, Physical sciences]
+
 ---
 
 

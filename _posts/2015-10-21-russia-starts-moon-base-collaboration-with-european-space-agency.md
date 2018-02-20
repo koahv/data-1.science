@@ -4,7 +4,7 @@ title: "Russia starts moon base collaboration with European Space Agency"
 date: 2015-10-21 17:00:00
 categories: Astronomy
 author: unknown author
-tags: [Zika fever, Science, Tsunami, Cancer, Artificial intelligence, Pregnancy, Black hole, Earth, Microcephaly, Extraterrestrial life, Chimpanzee, Volcano, Planet, Neptune, Brain]
+
 ---
 
 

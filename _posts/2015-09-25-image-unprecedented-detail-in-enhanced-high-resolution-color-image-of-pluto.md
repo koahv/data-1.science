@@ -4,7 +4,7 @@ title: "Image: Unprecedented detail in enhanced high-resolution color image of P
 date: 2015-09-25 10:17:23
 categories: Science
 author: unknown author
-tags: [space exploration]
+
 ---
 
 

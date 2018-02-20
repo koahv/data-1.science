@@ -4,7 +4,7 @@ title: "Magnetic skyrmions could help make low-energy artificial 'brains'"
 date: 2017-01-31 16:18:53
 categories: Science
 author: unknown author
-tags: [Chemical synapse, Synapse, Skyrmion, Long-term potentiation, Neuroscience, Physics, Nervous system]
+tags: [Synapse, Chemical synapse, Skyrmion, Spintronics, Long-term potentiation, Nervous system, Neuroscience, Physics]
 ---
 
 

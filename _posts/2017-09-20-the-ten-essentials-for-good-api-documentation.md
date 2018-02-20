@@ -4,7 +4,7 @@ title: "The Ten Essentials for Good API Documentation"
 date: 2017-09-20 10:07:40
 categories: Linux
 author: A List Apart
-tags: [Application programming interface, Software, Computers, Technology, Software engineering, System software, Computing, Software development, Computer programming]
+tags: [Application programming interface, Computing, System software, Digital technology, Software development, Software engineering, Computer programming, Computers, Technology, Software]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Principia liftoff"
 date: 2015-12-15 11:16:00
 categories: Astronomy
 author: unknown author
-tags: [Tim Peake, Space exploration, NASA, Space industry, Scientific exploration, Space agencies, Space programs, Space-based economy, Flight, Astronautics, Space technology, Spacecraft, Space colonization, Human spaceflight, Outer space, Spaceflight, Spaceflight technologies, Aerospace engineering, Human spaceflight programs, Government programs, Aerospace agencies, NASA programs, Space traffic management, Space missions]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "In Photos: Ada Lovelace Exhibit at London's Science Museum"
 date: 2015-10-13 20:35:56
 categories: Science
 author: unknown author
-tags: [Analytical Engine, Ada Lovelace, Jacquard loom, Charles Babbage, Science and technology, Science, Technology, Computing, Artificial objects]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Physicists accelerate plans for a new Large Hadron Collider three times 
 date: 2017-05-31 16:11:43
 categories: Science
 author: unknown author
-tags: [Particle physics, Large Hadron Collider, CERN, Physics, Particle accelerator, Collider, Future Circular Collider, Higgs boson, Science, Applied and interdisciplinary physics, Physical sciences]
+tags: [Particle physics, Large Hadron Collider, CERN, Physics, Particle accelerator, Collider, Future Circular Collider, Higgs boson, Science, Physical sciences]
 ---
 
 

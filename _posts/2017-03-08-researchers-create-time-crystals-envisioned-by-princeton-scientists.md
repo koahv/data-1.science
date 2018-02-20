@@ -4,7 +4,7 @@ title: "Researchers create 'time crystals' envisioned by Princeton scientists"
 date: 2017-03-08 18:00:06
 categories: Science
 author: unknown author
-tags: [Time crystal, Physics, Quantum mechanics, Crystal, Molecule, Atom, Matter, Mechanics, Physical sciences, Modern physics, Physical chemistry, Materials science, Theoretical physics, Applied and interdisciplinary physics, Chemistry, Nature, Condensed matter physics]
+tags: [Time crystal, Physics, Time, Quantum mechanics, Crystal, Molecule, Matter, Atom, Nature, Applied and interdisciplinary physics, Physical sciences, Chemistry, Science, Mechanics]
 ---
 
 

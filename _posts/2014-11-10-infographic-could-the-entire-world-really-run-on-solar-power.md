@@ -4,7 +4,7 @@ title: "INFOGRAPHIC: Could the Entire World Really Run on Solar Power?"
 date: 2014-11-10 22:39:31
 categories: Energy
 author: Inhabitat
-tags: [reader submitted content, renewable energy, solar power, solar energy, electricity, energy needs, environmental conservation, fossil fuels, infographic, solar, solar film, solar panels, solar power infographic, sun energy solar fuel, sun power, the sun., world powered by the sun]
+
 ---
 
 

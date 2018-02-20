@@ -4,7 +4,7 @@ title: "New IBM Platform Brings Watson to IoT"
 date: 2016-11-10 09:00:00
 categories: Linux
 author: SDx Central
-tags: [Watson (computer), Software, Areas of computer science, Digital technology, Computer engineering, Computer architecture, Computers, Technology, Computing]
+tags: [Watson (computer), Gateway (telecommunications), Internet of things, Computing, Software, Computer networking, Areas of computer science, Computer engineering, Digital technology, Computer architecture, Computers, Technology]
 ---
 
 

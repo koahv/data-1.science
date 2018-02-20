@@ -4,7 +4,7 @@ title: "NASA proposes a magnetic shield to protect Mars' atmosphere"
 date: 2017-03-03 13:10:03
 categories: Science
 author: unknown author
-tags: [Mars, MAVEN, Magnetosphere, Earth, Outer space, Astronomy, Nature, Planetary science, Space science, Physical sciences]
+tags: [Mars, MAVEN, Magnetosphere, Exploration of Mars, Earth, Atmosphere of Earth, Atmosphere of Mars, Nature, Space science, Astronomy, Physical sciences, Outer space, Planets of the Solar System, Planetary science]
 ---
 
 

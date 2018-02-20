@@ -4,7 +4,7 @@ title: "New tool refines exoplanet search"
 date: 2016-04-11 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Carnegie Institution for Science, Methods of detecting exoplanets, Planet, Space science, Planetary science, Physical sciences, Science, Outer space, Astronomy]
+
 ---
 
 

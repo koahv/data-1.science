@@ -4,7 +4,7 @@ title: "AIMing a light across millions of kilometres"
 date: 2015-10-13 11:47:00
 categories: Astronomy
 author: unknown author
-tags: [European Space Agency, Free-space optical communication, Laser, Lunar Atmosphere and Dust Environment Explorer, Radio, Spaceflight, Technology, Space exploration, Space technology, Spacecraft, Astronautics, Flight, Astronomy, Outer space, Space science, Space colonization]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "First laboratory generation of astrophysical shock waves created"
 date: 2017-07-14 18:02:43
 categories: Science
 author: unknown author
-tags: [Plasma (physics), Physics, Shock wave, Astrophysics, Wave, Nature, Physical sciences, Applied and interdisciplinary physics, Physical universe]
+
 ---
 
 

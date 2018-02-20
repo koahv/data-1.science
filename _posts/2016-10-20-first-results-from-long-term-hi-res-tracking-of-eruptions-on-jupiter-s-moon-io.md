@@ -4,7 +4,7 @@ title: "First results from long-term, hi-res tracking of eruptions on Jupiter's 
 date: 2016-10-20 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Volcanology of Io, Io (moon), Volcano, Solar System, Physical sciences, Planetary science, Astronomy, Outer space]
+tags: [Volcanology of Io, Io (moon), Volcano, Physical sciences, Planetary science, Astronomy, Planets of the Solar System, Outer space]
 ---
 
 

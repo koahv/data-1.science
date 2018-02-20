@@ -4,7 +4,7 @@ title: "A clue to generate electric current without energy consumption at room t
 date: 2015-12-29 05:00:00
 categories: Science
 author: unknown author
-tags: [Ferromagnetism, Physics, Electric current, Magnetism, American Association for the Advancement of Science, Topological insulator, Atom, Insulator (electricity), Magnetic field, Bismuth, Condensed matter physics, Nature, Electromagnetism, Materials, Materials science, Applied and interdisciplinary physics, Chemistry, Physical sciences, Physical chemistry, Condensed matter, Chemical product engineering, Force, Manufacturing]
+
 ---
 
 

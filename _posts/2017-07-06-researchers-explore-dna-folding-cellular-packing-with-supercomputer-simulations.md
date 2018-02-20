@@ -4,7 +4,7 @@ title: "Researchers explore DNA folding, cellular packing with supercomputer sim
 date: 2017-07-06 14:51:43
 categories: Science
 author: unknown author
-tags: [Protein, DNA, Intrinsically disordered proteins, Cell (biology), Cell nucleus, Biology, Protein domain, Cancer, Molecule, Protein folding, Nucleic acid, Biomolecule, Cell signaling, Chemistry, Hydrogen bond, Molecular biology, Biochemistry, Physical sciences, Life sciences]
+tags: [Protein, DNA, Intrinsically disordered proteins, Cell (biology), Biology, Cell nucleus, Protein folding, Protein domain, Molecule, Cancer, Nucleic acid, Biomolecule, Science, Cell signaling, Life, Hydrogen bond, Biochemistry, Life sciences, Physical sciences, Molecular biology, Chemistry]
 ---
 
 

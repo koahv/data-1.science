@@ -4,7 +4,7 @@ title: "Magnetic reconnection research sheds light on explosive phenomena in ast
 date: 2016-12-08 22:12:04
 categories: Science
 author: unknown author
-tags: [Magnetic reconnection, Plasma (physics), Physics, Aurora, Solar flare, Energy, Magnetic field, Chemistry, Physical chemistry, Science, Physical universe, Nature, Applied and interdisciplinary physics, Physical sciences]
+tags: [Magnetic reconnection, Physics, Plasma (physics), Aurora, Solar flare, Energy, Magnetic field, Science, Physical chemistry, Chemistry, Physical universe, Applied and interdisciplinary physics, Nature, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Geologist uncovers 2.5 billion-year-old fossils of bacteria that predate
 date: 2016-11-29 17:48:33
 categories: Science
 author: unknown author
-tags: [Ice age, Vaalbara, Fossil, Earth, Geology, Bacteria, Great Oxygenation Event, Circumstellar habitable zone, Physical sciences, Earth sciences, Nature]
+tags: [Life, Fossil, Vaalbara, Geology, Air pollution, Earth, Bacteria, Great Oxygenation Event, Extraterrestrial life, Earth sciences, Physical sciences, Nature]
 ---
 
 

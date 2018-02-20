@@ -4,7 +4,7 @@ title: "Proton–antiproton equivalence confirmed by best-ever measurement of ma
 date: 2017-10-30 12:46:08
 categories: Science
 author: Marric Stephens
-tags: [Antiproton, Proton, Standard Model, Physics, Magnetic moment, Physical sciences, Particle physics, Applied and interdisciplinary physics, Mechanics, Theoretical physics, Physical quantities]
+tags: [Antiproton, Physics, Physical sciences, Particle physics, Electromagnetism, Physical quantities, Force, Applied and interdisciplinary physics]
 ---
 
 

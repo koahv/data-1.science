@@ -4,7 +4,7 @@ title: "Earth's hidden groundwater mapped: Less than six per cent renewable with
 date: 2015-11-16 17:06:08
 categories: Science
 author: unknown author
-tags: [Water resources, Groundwater, Hydrology, Renewable resource, Climate, Earth, Earth sciences, Natural resources, Global natural environment, Nature, Environment, Natural environment, Water, Physical geography]
+
 ---
 
 

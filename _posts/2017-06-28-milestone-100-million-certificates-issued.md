@@ -4,7 +4,7 @@ title: "Milestone: 100 Million Certificates Issued"
 date: 2017-06-28 07:00:00
 categories: Security
 author: unknown author
-tags: [Lets Encrypt, HTTPS, Public key certificate, Computer networking, Cyberwarfare, Security engineering, Cryptography, Web development, Information technology management, Internet protocols, Digital rights, Internet Standards, Hypertext, Computer network security, Software, Internet security, Cybercrime, Transport Layer Security, Digital media, Technology, Cryptographic protocols, E-commerce, Information governance, Telecommunications, Security technology, Web software, Web applications, Application layer protocols, Digital technology, Crime prevention, Applications of cryptography, Information technology, Computing, Cyberspace, Computer security, Internet, World Wide Web, Secure communication, Information Age, Espionage techniques, Centralized computing, Web 2.0, Areas of computer science, OSI protocols, Service industries, Information economy]
+tags: [Lets Encrypt, HTTPS, Public key certificate, World Wide Web, Technology, Internet, Cyberwarfare, Information Age, Application layer protocols, Computer networking, Cryptography, Security engineering, Information technology management, Digital rights, Hypertext, Web development, Secure communication, Internet protocols, Software, Computer network security, Digital media, Internet Standards, Internet security, Cybercrime, Computer security, Applications of cryptography, Web applications, Digital technology, Security technology, Cryptographic protocols, Web software, Information governance, Transport Layer Security, E-commerce, Information technology, Telecommunications, Computing, Cyberspace]
 ---
 
 

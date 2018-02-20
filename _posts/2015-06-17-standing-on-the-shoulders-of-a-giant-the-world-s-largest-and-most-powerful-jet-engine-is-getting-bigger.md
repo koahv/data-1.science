@@ -4,7 +4,7 @@ title: "Standing on the Shoulders of a Giant: The World’s Largest and Most Pow
 date: 2015-06-17 03:08:15
 categories: Technology
 author: unknown author
-tags: [ge, ge90, ge aviation, leap, cfm, jet engines, rick kennedy]
+
 ---
 
 

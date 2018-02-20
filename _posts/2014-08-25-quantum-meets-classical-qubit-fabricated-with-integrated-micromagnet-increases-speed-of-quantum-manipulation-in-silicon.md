@@ -4,7 +4,7 @@ title: "Quantum meets classical: Qubit fabricated with integrated micromagnet in
 date: 2014-08-25 13:30:02
 categories: Science
 author: unknown author
-tags: [physics]
+
 ---
 
 

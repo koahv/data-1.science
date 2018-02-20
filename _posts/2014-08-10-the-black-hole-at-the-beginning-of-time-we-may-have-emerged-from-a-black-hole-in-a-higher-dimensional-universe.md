@@ -4,7 +4,7 @@ title: "The Black Hole at the Beginning of Time --"We may have Emerged from a Bl
 date: 2014-08-10 15:03:33
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

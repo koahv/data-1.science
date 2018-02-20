@@ -4,7 +4,7 @@ title: "Mind reading: Spatial patterns of brain activity decode what people tast
 date: 2015-03-12 16:33:14
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

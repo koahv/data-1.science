@@ -4,7 +4,7 @@ title: "'Fixing' blood vessel cells to diagnose blood clotting disorders"
 date: 2016-08-09 04:00:00
 categories: Technology
 author: unknown author
-tags: [Hemostasis, Coagulation, Biology, Medicine, Clinical medicine, Medical specialties, Health sciences, Health]
+tags: [Hemostasis, Coagulation, Wyss Institute for Biologically Inspired Engineering, Medical diagnosis, Biology, Health sciences, Medicine, Clinical medicine, Medical specialties, Health]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Scientists Capure First Image of the “Fingerprint” of Light That Sho
 date: 2015-03-02 19:41:28
 categories: Astronomy
 author: Jolene Creighton
-tags: [news, physics, atom, light, particle, photon, quantum mechanics, science, wave]
+
 ---
 
 

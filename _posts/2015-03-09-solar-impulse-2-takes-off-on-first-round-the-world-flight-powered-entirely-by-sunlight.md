@@ -4,7 +4,7 @@ title: "Solar Impulse 2 takes off on first round-the-world flight powered entire
 date: 2015-03-09 21:13:41
 categories: Energy
 author: Lucy Wang
-tags: [carousel showcase, green transportation, news, renewable energy, abu dhabi, andre borschberg, bertrand piccard, muscat, round the world trip, solar impulse, solar impulse 2, solar panels, solar power, solar powered flight, zero fuel plane]
+
 ---
 
 

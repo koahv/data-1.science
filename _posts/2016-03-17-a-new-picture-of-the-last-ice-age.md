@@ -4,7 +4,7 @@ title: "A new picture of the last ice age"
 date: 2016-03-17 13:06:22
 categories: Science
 author: unknown author
-tags: [Antarctica, Greenland ice sheet, Last glacial period, Ice sheet, Ice age, Earth, Ice, Climate change, Physical sciences, Applied and interdisciplinary physics, Geology, Oceanography, Climate, Earth sciences, Physical geography, Climatology, Global natural environment, Nature, Meteorology, Atmospheric sciences]
+
 ---
 
 

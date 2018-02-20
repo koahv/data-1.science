@@ -4,7 +4,7 @@ title: "The Register: Storage, chip slingers pledge allegiance to Linux, open so
 date: 2014-08-21 00:00:00
 categories: Linux
 author: Linux_Foundation
-tags: []
+
 ---
 
 

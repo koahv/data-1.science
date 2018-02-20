@@ -4,7 +4,7 @@ title: "Solar and Wind Energy are Finally Cheaper than Fossil Fuels in the Unite
 date: 2014-11-24 22:50:54
 categories: Energy
 author: Beverley Mitchell
-tags: [news, renewable energy, solar power, wind power, coal, cost of solar power, cost of wind and solar, cost of wind power, energy costs, fossil fuels, gas, generation, industry data, renewables versus conventional fuels, subsidies, subsidy, the cost of wind and solar has dropped enough to make them competitive with conventional sources]
+
 ---
 
 

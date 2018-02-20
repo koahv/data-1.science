@@ -4,7 +4,7 @@ title: "Van Allen probes catch rare glimpse of supercharged radiation belt"
 date: 2016-08-15 19:38:14
 categories: Science
 author: unknown author
-tags: [Van Allen radiation belt, Coronal mass ejection, Van Allen Probes, Magnetosphere, Space weather, Geomagnetic storm, Electron, Outer space, Solar wind, Sun, Earth, Space probe, Astronomy, Physical sciences, Space science, Nature, Physics, Applied and interdisciplinary physics, Planetary science, Physical phenomena]
+tags: [Van Allen radiation belt, Coronal mass ejection, Van Allen Probes, Space weather, Magnetosphere, Geomagnetic storm, Outer space, Electron, Sun, Astronomy, Earth, Solar wind, Electromagnetic radiation, Space probe, Space science, Nature, Physical sciences, Applied and interdisciplinary physics, Physical phenomena, Physics]
 ---
 
 

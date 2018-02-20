@@ -4,7 +4,7 @@ title: "Animal evolution: Revolution averted"
 date: 2015-12-01 05:00:00
 categories: Science
 author: unknown author
-tags: [Animal, Ctenophora, Placozoa, Sponge, Evolution, Biology, Organisms, Biological evolution, Evolutionary biology, Life sciences]
+
 ---
 
 

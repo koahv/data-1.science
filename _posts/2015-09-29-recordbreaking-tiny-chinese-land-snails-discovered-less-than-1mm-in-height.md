@@ -4,7 +4,7 @@ title: "Recordbreaking tiny Chinese land snails discovered, less than 1mm in hei
 date: 2015-09-29 07:56:22
 categories: Tech
 author: Colm Gorey
-tags: [earth science, biology, environment, microbiology]
+
 ---
 
 

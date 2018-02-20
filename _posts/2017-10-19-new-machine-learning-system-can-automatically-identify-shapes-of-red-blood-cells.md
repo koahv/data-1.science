@@ -4,7 +4,7 @@ title: "New machine learning system can automatically identify shapes of red blo
 date: 2017-10-19 18:00:05
 categories: Science
 author: unknown author
-tags: [Sickle-cell disease, Red blood cell, Disease, Blood cell, Genetics, Blood, Biology, Clinical medicine, Medical specialties, Life sciences, Medicine]
+tags: [Sickle-cell disease, Red blood cell, Blood cell, Disease, Genetics, Blood, Biology, Life sciences, Medical specialties]
 ---
 
 

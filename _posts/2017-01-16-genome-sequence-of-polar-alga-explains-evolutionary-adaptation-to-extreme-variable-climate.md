@@ -4,7 +4,7 @@ title: "Genome sequence of polar alga explains evolutionary adaptation to extrem
 date: 2017-01-16 05:00:00
 categories: Science
 author: unknown author
-tags: [Evolution, Organism, Genetics, Genome, Allele, Gene, Diatom, Climate change, Organisms, Nature, Life sciences, Biology]
+tags: [Evolution, Genome, Organism, Genetics, Allele, Gene, Diatom, Climate change, Biology, Organisms, Nature, Life sciences]
 ---
 
 

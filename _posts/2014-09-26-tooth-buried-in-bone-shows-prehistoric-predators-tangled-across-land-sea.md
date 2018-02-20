@@ -4,7 +4,7 @@ title: "Tooth buried in bone shows prehistoric predators tangled across land, se
 date: 2014-09-26 04:00:00
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

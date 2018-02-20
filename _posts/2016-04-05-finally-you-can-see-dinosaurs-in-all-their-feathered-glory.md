@@ -4,7 +4,7 @@ title: "Finally, You Can See Dinosaurs in All Their Feathered Glory"
 date: 2016-04-05 15:54:22
 categories: Science
 author: Knvul Sheikh
-tags: [Dinosaur, Feathered dinosaur, Feather, Bird, Theropoda, Archaeopteryx, Dinosaurs, Organisms]
+
 ---
 
 

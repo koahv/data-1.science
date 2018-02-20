@@ -4,7 +4,7 @@ title: "New insights into the impacts of ocean acidification"
 date: 2016-09-14 14:13:58
 categories: Science
 author: unknown author
-tags: [Ocean acidification, Sea, Carbon dioxide, Nature, Earth sciences, Physical geography, Oceanography, Natural environment, Environmental science, Hydrography, Systems ecology, Applied and interdisciplinary physics, Oceans, Water, Physical sciences]
+tags: [Ocean acidification, Carbon dioxide, Sea, Natural environment, Hydrography, Systems ecology, Environmental science, Applied and interdisciplinary physics, Nature, Oceans, Physical geography, Physical sciences, Oceanography, Earth sciences]
 ---
 
 

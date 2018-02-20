@@ -4,7 +4,7 @@ title: "Curiosity Rover Watches Clouds on Mars"
 date: 2017-08-15 20:03:40
 categories: Astronomy
 author: Javier Barbuzano
-tags: [Curiosity (rover), Mars, Phoenix (spacecraft), Astronautics, Exploration of Mars, Bodies of the Solar System, Physical sciences, Flight, Discovery and exploration of the Solar System, Space technology, Outer space, Solar System, Space colonization, Space exploration, Spaceflight, Space science, Astronomy, Planetary science]
+tags: [Curiosity (rover), Mars, Phoenix (spacecraft), Astronautics, Bodies of the Solar System, Physical sciences, Space exploration, Flight, Discovery and exploration of the Solar System, Space science, Outer space, Planetary science, Planets of the Solar System, Solar System, Astronomy, Spaceflight]
 ---
 
 

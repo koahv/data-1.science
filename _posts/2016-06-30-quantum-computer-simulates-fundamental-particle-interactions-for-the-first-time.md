@@ -4,7 +4,7 @@ title: "Quantum computer simulates fundamental particle interactions for the fir
 date: 2016-06-30 16:03:17
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Electron, Quantum computing, Particle physics, Physics, Positron, Computer, Energy level, Simulation, Pair production, Quantum entanglement, Qubit, Solid state engineering, Scientific theories, Science, Applied and interdisciplinary physics, Condensed matter physics, Modern physics, Theoretical physics, Physical sciences, Mechanics]
+
 ---
 
 

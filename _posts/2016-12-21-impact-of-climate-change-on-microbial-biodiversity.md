@@ -4,7 +4,7 @@ title: "Impact of climate change on microbial biodiversity"
 date: 2016-12-21 05:00:00
 categories: Science
 author: unknown author
-tags: [Natural environment, Effects of global warming, Biodiversity, Climate, Climate change, Environmental social science, Earth sciences, Ecology, Systems ecology, Atmospheric sciences, Meteorology, Biogeochemistry, Global natural environment, Global environmental issues, Environmental science, Oceanography, Physical geography, Climatology, Nature]
+tags: [Natural environment, Effects of global warming, Biodiversity, Climate, Climate change, Biogeochemistry, Global natural environment, Atmospheric sciences, Systems ecology, Ecology, Nature, Climatology, Physical geography, Environmental science, Meteorology, Earth sciences]
 ---
 
 

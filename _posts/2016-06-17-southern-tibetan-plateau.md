@@ -4,7 +4,7 @@ title: "Southern Tibetan Plateau"
 date: 2016-06-17 08:00:00
 categories: Astronomy
 author: unknown author
-tags: [Plateau, Himalayas, Physical geography, Earth sciences, Geology, Geomorphology, Geography, Nature]
+tags: [Plateau, Himalayas, Earth sciences, Physical geography, Geology]
 ---
 
 

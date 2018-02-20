@@ -4,7 +4,7 @@ title: "Clocking Water’s Escape from Comet 67P"
 date: 2015-09-30 17:57:10
 categories: Astronomy
 author: David Dickinson
-tags: [Comet nucleus, Rosetta (spacecraft), Comet, 67P/Churyumov–Gerasimenko, Solar System, Outer space, Bodies of the Solar System, Planetary science, Physical sciences, Comets, Space science, Local Interstellar Cloud, Astronomy]
+
 ---
 
 

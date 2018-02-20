@@ -4,7 +4,7 @@ title: "US Forest Service releases findings on the effects of drought for forest
 date: 2016-02-01 21:56:00
 categories: Science
 author: unknown author
-tags: [Wildfire, Drought, United States Forest Service, Meteorology, Atmospheric sciences, Climatology, Environmental science, Earth sciences, Physical geography, Natural environment]
+
 ---
 
 

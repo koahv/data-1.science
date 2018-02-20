@@ -4,7 +4,7 @@ title: "New CERN LHC Experiments --"Predict a Boson Beyond the Higgs That Could 
 date: 2016-09-06 15:42:00
 categories: Astronomy
 author: dailygalaxy.com
-tags: [Higgs boson, ATLAS experiment, Particle physics, Large Hadron Collider, Physics, Quantum mechanics, Modern physics, Science, Physical universe, Theoretical physics, Mechanics, Physical sciences]
+tags: [Higgs boson, ATLAS experiment, Large Hadron Collider, Particle physics, Physics, Theoretical physics, Physical cosmology, Physical universe, Physical sciences, Science, Mechanics]
 ---
 
 

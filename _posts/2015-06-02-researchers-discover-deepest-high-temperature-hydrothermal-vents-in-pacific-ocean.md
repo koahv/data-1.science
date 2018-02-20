@@ -4,7 +4,7 @@ title: "Researchers discover deepest high-temperature hydrothermal vents in Paci
 date: 2015-06-02 22:08:48
 categories: Science
 author: unknown author
-tags: [earth]
+
 ---
 
 

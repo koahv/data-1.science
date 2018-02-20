@@ -4,7 +4,7 @@ title: "Fruit flies journey to International Space Station to study effects of z
 date: 2017-05-25 23:55:36
 categories: Science
 author: unknown author
-tags: []
+tags: [International Space Station, Drosophila melanogaster, Weightlessness, Human spaceflight, NASA, SpaceX, Micro-g environment, Spaceflight, Biology]
 ---
 
 

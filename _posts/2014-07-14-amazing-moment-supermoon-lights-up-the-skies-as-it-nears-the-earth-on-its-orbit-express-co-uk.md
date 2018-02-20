@@ -4,7 +4,7 @@ title: "Amazing moment SUPERMOON lights up the skies as it nears the Earth on it
 date: 2014-07-14 13:37:38
 categories: Earth
 author: unknown author
-tags: []
+
 ---
 
 

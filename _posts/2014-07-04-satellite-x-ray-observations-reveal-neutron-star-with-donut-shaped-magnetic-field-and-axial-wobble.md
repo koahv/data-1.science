@@ -4,7 +4,7 @@ title: "Satellite X-ray observations reveal neutron star with donut-shaped magne
 date: 2014-07-04 15:30:02
 categories: Science
 author: unknown author
-tags: [astronomy & space]
+
 ---
 
 

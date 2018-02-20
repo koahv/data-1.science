@@ -4,7 +4,7 @@ title: "How Google Uses and Contributes to Open Source"
 date: 2016-09-08 16:32:07
 categories: Linux
 author: arnieswap
-tags: [GNU General Public License, Open-source model, Public commons, Software, Computing, Free software, Free content, Open-source movement]
+tags: [GNU General Public License, Open-source model, Public commons, Free content, Open-source movement, Intellectual works, Free software, Computing, Software]
 ---
 
 

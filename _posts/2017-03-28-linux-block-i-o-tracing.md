@@ -4,7 +4,7 @@ title: "Linux Block I/O Tracing"
 date: 2017-03-28 15:06:26
 categories: Linux
 author: mfilion
-tags: [Dd (Unix), SCSI, Device file, Ioctl, Package manager, File system, Debugger, Linux kernel, Debugging, Input/output, Procfs, Linux distribution, System software, Operating system technology, Software, Computers, Areas of computer science, Computer engineering, Computer data, Computer architecture, Computer hardware, Computing]
+tags: [SCSI, Device file, Dd (Unix), Ioctl, File system, Debugging, Package manager, Debugger, Linux kernel, Inputoutput, APT (Debian), Software, Computers, Computer architecture, Areas of computer science, Computer engineering, Operating system technology, System software, Computing, Computer data]
 ---
 
 

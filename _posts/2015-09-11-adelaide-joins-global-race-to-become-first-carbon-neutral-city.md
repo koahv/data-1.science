@@ -4,7 +4,7 @@ title: "Adelaide Joins Global Race To Become First Carbon Neutral City"
 date: 2015-09-11 13:37:00
 categories: Energy
 author: Joshua S Hill
-tags: [clean power, green economy, green jobs, investment, adelaide, australia, carbon neutral, carbon-neutral city, south australia]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "New brainstem model reveals how brains control breathing"
 date: 2016-07-05 04:00:00
 categories: Technology
 author: unknown author
-tags: [Breathing, Respiratory system, Brain, Inflammation, ELife, Prostaglandin E2, Carbon dioxide, Research, American Association for the Advancement of Science, Biology, Neuroscience, Clinical medicine, Medical specialties, Medicine]
+tags: [Breathing, Respiratory system, Brain, Inflammation, ELife, Prostaglandin E2, Research, Carbon dioxide, American Association for the Advancement of Science, Infection, Biology, Medicine, Medical specialties, Neuroscience]
 ---
 
 

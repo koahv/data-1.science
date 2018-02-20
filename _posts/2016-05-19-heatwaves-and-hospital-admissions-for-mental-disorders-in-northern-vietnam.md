@@ -4,7 +4,7 @@ title: "Heatwaves and Hospital Admissions for Mental Disorders in Northern Vietn
 date: 2016-05-19 19:01:19
 categories: Science
 author: Phan Minh Trang
-tags: []
+
 ---
 
 

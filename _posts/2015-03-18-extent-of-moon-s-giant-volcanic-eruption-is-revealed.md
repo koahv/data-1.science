@@ -4,7 +4,7 @@ title: "Extent of Moon's giant volcanic eruption is revealed"
 date: 2015-03-18 13:52:12
 categories: Science
 author: unknown author
-tags: [astronomy & space]
+
 ---
 
 

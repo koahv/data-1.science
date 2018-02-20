@@ -4,7 +4,7 @@ title: "European Space Agency’s Philae Probe Sends Astounding First Images fro
 date: 2014-11-13 22:15:47
 categories: Technology
 author: Beverley Mitchell
-tags: [green technology, news, comet landing, esa, european space agency, first pictures from comet surface, first probe lands on comet, philae probe, rosetta, rosetta project, space exploration]
+
 ---
 
 

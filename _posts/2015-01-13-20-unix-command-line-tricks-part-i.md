@@ -4,7 +4,7 @@ title: "20 Unix Command Line Tricks – Part I"
 date: 2015-01-13 04:34:47
 categories: Linux
 author: Vivek Gite
-tags: [Computer file, Path (computing), Directory (computing), Unix filesystem, Command-line interface, Sudo, Tar (computing), Ls, Rm (Unix), Software, Operating system technology, System software, Utility software, Computing, Computer data, Unix, Data management, Information technology management, Computer architecture, Storage software, Data]
+
 ---
 
 

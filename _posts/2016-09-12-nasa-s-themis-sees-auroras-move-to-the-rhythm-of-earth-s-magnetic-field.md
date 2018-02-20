@@ -4,7 +4,7 @@ title: "NASA's THEMIS sees Auroras move to the rhythm of Earth's magnetic field"
 date: 2016-09-12 18:19:48
 categories: Science
 author: unknown author
-tags: []
+tags: [Aurora, THEMIS, Magnetosphere, Solar wind, Sun, Earth, Space weather, Outer space, Physics, Space science, Applied and interdisciplinary physics, Physical sciences, Nature, Planetary science]
 ---
 
 

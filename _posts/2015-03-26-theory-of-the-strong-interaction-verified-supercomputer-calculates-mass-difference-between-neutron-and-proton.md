@@ -4,7 +4,7 @@ title: "Theory of the strong interaction verified: Supercomputer calculates mass
 date: 2015-03-26 19:16:07
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

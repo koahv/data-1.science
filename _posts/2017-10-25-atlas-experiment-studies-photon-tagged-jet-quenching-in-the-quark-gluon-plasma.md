@@ -4,7 +4,7 @@ title: "ATLAS Experiment studies photon-tagged jet quenching in the quark-gluon 
 date: 2017-10-25 10:48:56
 categories: Science
 author: unknown author
-tags: [Quark–gluon plasma, ATLAS experiment, Top quark, Jet (particle physics), Quark, Jet quenching, Gluon, Particle physics, Proton, Large Hadron Collider, Physics, Physical sciences, Theoretical physics, Quantum mechanics, Nuclear physics, Quantum field theory, Mechanics, Applied and interdisciplinary physics, Standard Model, Physical universe, Physical bodies]
+tags: [Quarkgluon plasma, ATLAS experiment, Top quark, Jet (particle physics), Particle physics, Quark, Jet quenching, Gluon, Large Hadron Collider, Proton, Hadron, Physics, Nuclear physics, Physical sciences, Theoretical physics, Physical bodies, Applied and interdisciplinary physics, Quantum field theory, Chemistry, Mechanics, Physical universe, Quantum mechanics]
 ---
 
 

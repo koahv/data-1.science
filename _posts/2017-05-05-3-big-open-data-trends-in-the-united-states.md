@@ -4,7 +4,7 @@ title: "3 big open data trends in the United States"
 date: 2017-05-05 07:00:00
 categories: Open Source
 author: sam.mcclenney
-tags: [Open government, Politics, Public sphere]
+tags: [Open government, Public sphere, Politics]
 ---
 
 

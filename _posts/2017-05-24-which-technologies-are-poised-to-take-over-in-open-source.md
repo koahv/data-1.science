@@ -4,7 +4,7 @@ title: "Which technologies are poised to take over in open source?"
 date: 2017-05-24 07:00:00
 categories: Open Source
 author: Scott Hirleman
-tags: [Apache Spark, AngularJS, Computing, Software, Information technology management, Digital media, Information technology, Technology]
+tags: [Apache Spark, AngularJS, Digital media, Information technology, Information technology management, Technology, Software, Computing]
 ---
 
 

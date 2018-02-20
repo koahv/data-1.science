@@ -4,7 +4,7 @@ title: "How machine learning can predict and prevent disruptions in reactors"
 date: 2017-10-11 11:11:32
 categories: Science
 author: unknown author
-tags: [Fusion power, Plasma (physics), Tokamak, Electron, Energy, Physics, Physical sciences, Chemistry, Applied and interdisciplinary physics, Nature, Physical chemistry, Physical universe, Phases of matter, Mechanics]
+tags: [Fusion power, Plasma (physics), Tokamak, Electron, Energy, Physics, Physical sciences, Chemistry, Applied and interdisciplinary physics, Nature, Physical universe, Physical chemistry, Phases of matter, Mechanics]
 ---
 
 

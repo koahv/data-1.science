@@ -4,7 +4,7 @@ title: "Improving computer graphics with quantum mechanics"
 date: 2016-07-28 11:01:13
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Physics, Macroscopic scale, Schrödinger equation, Mechanics, Science, Applied and interdisciplinary physics, Physical sciences, Mechanical engineering, Theoretical physics]
+tags: [Quantum mechanics, Physics, Macroscopic scale, Schrdinger equation, Mechanics, Physical sciences, Theoretical physics, Science, Applied and interdisciplinary physics]
 ---
 
 

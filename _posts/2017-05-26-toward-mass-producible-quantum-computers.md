@@ -4,7 +4,7 @@ title: "Toward mass-producible quantum computers"
 date: 2017-05-26 12:45:21
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Quantum computing, Light, Qubit, Electron, Chemistry, Physical sciences, Mechanics, Solid state engineering, Particle physics, Modern physics, Condensed matter physics, Materials science, Theoretical physics, Physical chemistry, Atomic,  molecular,  and optical physics, Applied and interdisciplinary physics, Physics]
+
 ---
 
 

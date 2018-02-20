@@ -4,7 +4,7 @@ title: "Neanderthal Y chromosome offers clues to what kept us separate species"
 date: 2016-04-07 04:00:00
 categories: Science
 author: unknown author
-tags: [Neanderthal, Gene, Human, Genetics, Y chromosome, Evolution, Anatomically modern human, Hybrid (biology), Biology, Life sciences, Organisms, Evolutionary biology, Biotechnology]
+
 ---
 
 

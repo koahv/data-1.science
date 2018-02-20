@@ -4,7 +4,7 @@ title: "NASA's OSIRIS-REx takes closer image of Jupiter"
 date: 2017-02-15 05:00:00
 categories: Astronomy
 author: unknown author
-tags: [OSIRIS-REx, Spacecraft, Space technology, Bodies of the Solar System, Astronautics, Astronomy, Planetary science, Space science, Space exploration, Spaceflight, Solar System, Outer space, Space colonization, Flight, Spaceflight technologies]
+tags: [OSIRIS-REx, Jupiter, Astronomy, Spaceflight technologies, Space exploration, Spacecraft, Flight, Planetary science, Spaceflight, Solar System, Outer space, Space science, Bodies of the Solar System, Astronautics]
 ---
 
 

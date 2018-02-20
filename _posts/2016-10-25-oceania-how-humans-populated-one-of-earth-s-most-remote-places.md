@@ -4,7 +4,7 @@ title: "Oceania: How Humans Populated One of Earth's Most Remote Places"
 date: 2016-10-25 10:34:00
 categories: Science
 author: unknown author
-tags: [Wind, Polynesia, El Niño, Pacific Ocean, Sailing, Oceania, Physical geography, Earth sciences]
+tags: [Polynesia, Wind, El Nio, Pacific Ocean, Oceania]
 ---
 
 

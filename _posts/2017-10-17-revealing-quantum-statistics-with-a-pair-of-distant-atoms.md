@@ -4,7 +4,7 @@ title: "Revealing quantum statistics with a pair of distant atoms"
 date: 2017-10-17 12:59:03
 categories: Science
 author: unknown author
-tags: [Physics, Quantum mechanics, Atom, Spin (physics), Quantum entanglement, Modern physics, Chemistry, Scientific theories, Solid state engineering, Applied and interdisciplinary physics, Science, Particle physics, Theoretical physics, Physical sciences, Mechanics]
+tags: [Quantum mechanics, Physics, Atom, Spin (physics), Matter, Light, Mechanics, Physical sciences, Science, Theoretical physics, Particle physics, Modern physics, Applied and interdisciplinary physics, Chemistry, Solid state engineering]
 ---
 
 

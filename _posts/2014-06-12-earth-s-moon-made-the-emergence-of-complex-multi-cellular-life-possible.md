@@ -4,7 +4,7 @@ title: "Earth's Moon --"Made the Emergence of Complex Multi-Cellular Life Possib
 date: 2014-06-12 16:43:04
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

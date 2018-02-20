@@ -4,7 +4,7 @@ title: "Measure greenhouse gases from space"
 date: 2016-06-22 10:48:45
 categories: Science
 author: unknown author
-tags: [Diffraction grating, Optics, Ice age, Greenhouse gas, Nature, Physical chemistry, Chemistry, Physical sciences, Applied and interdisciplinary physics]
+tags: [Air pollution, Optics, Atmosphere of Earth, Clock, Diffraction grating, Light, Oxygen, Agriculture, Prism, Carbon dioxide, Earth, Carbon dioxide in Earths atmosphere, Spectroscopy, Physical sciences, Applied and interdisciplinary physics, Chemistry, Nature]
 ---
 
 

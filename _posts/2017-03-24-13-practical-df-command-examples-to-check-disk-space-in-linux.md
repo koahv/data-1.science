@@ -4,7 +4,7 @@ title: "13 Practical df Command Examples to Check Disk Space in Linux"
 date: 2017-03-24 03:40:58
 categories: Linux
 author: Bobbin Zachariah
-tags: [linux commands, df command, filesystem, file system, tmpfs, inode, mount (computing), ext4, gigabyte, procfs, udev, device file, data management, operating system technology, computing, computer architecture, storage software, system software, computer data, computer data storage, utility software, data, information technology management, information retrieval, software, computers, computer hardware]
+tags: [File system, Tmpfs, Ext4, Mount (computing), Gigabyte, Kilobyte, Inode, Device file, Udev, Computer data, Data management, System software, Computer architecture, Utility software, Computer data storage, Operating system technology, Computing, Information technology management, Storage software, Data, Information retrieval, Software, Computers]
 ---
 
 

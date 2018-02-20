@@ -4,7 +4,7 @@ title: "Autism and human evolutionary success"
 date: 2016-11-15 05:00:00
 categories: Science
 author: unknown author
-tags: [Autism, Evolution, Biodiversity, Archaeology, Cognitive science, Behavioural sciences, Psychological concepts, Psychology]
+tags: [Human, Evolution, Autism, Biodiversity, University, History, Behavioural sciences, Psychological concepts, Cognitive science, Psychology, Cognition]
 ---
 
 

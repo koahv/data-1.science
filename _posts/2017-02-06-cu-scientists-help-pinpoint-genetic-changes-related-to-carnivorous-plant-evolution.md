@@ -4,7 +4,7 @@ title: "CU scientists help pinpoint genetic changes related to carnivorous plant
 date: 2017-02-06 05:00:00
 categories: Science
 author: unknown author
-tags: [University of Colorado Denver, Carnivorous plant, Biology, Organisms, Life sciences, Science]
+tags: [University of Colorado Denver, Biology, Organisms, Life sciences, Science, Nature]
 ---
 
 

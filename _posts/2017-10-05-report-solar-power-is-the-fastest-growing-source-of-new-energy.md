@@ -4,7 +4,7 @@ title: "Report:solar power is the fastest growing source of new energy"
 date: 2017-10-05 11:53:12
 categories: Technology
 author: Amanda Froelich
-tags: [Renewable energy, International Energy Agency, Photovoltaics, Natural resources, Power (physics), Energy sources, Electric power, Energy and the environment, Energy production, Energy, Physical universe, Nature, Sustainable energy, Renewable resources, Alternative energy, Sustainable development, Sustainable technologies]
+tags: [Renewable energy, Solar power, International Energy Agency, Photovoltaics, Physical universe, Nature, Sustainable energy, Renewable resources, Alternative energy, Sustainable development, Energy, Sustainable technologies, Electric power, Natural resources, Power (physics), Energy sources]
 ---
 
 

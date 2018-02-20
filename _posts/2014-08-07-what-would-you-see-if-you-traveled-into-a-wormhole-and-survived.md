@@ -4,7 +4,7 @@ title: "What Would You See if You Traveled into a Wormhole (and Survived)?"
 date: 2014-08-07 14:44:44
 categories: Astronomy
 author: Jaime Trosper
-tags: [astrophysics, video, black holes, einstein, einstein-rosen bridges, science videos, singularity, theoretical physics, time travel, warp drive, white holes, wormholes]
+
 ---
 
 

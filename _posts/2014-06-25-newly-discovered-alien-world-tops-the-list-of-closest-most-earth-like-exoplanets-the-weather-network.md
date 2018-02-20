@@ -4,7 +4,7 @@ title: "Newly-discovered alien world tops the list of closest, most Earth-like e
 date: 2014-06-25 22:05:56
 categories: Earth
 author: unknown author
-tags: []
+
 ---
 
 

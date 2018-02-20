@@ -4,7 +4,7 @@ title: "NASA’s Juno and JEDI: Ready to unlock mysteries of Jupiter"
 date: 2016-07-01 14:01:09
 categories: Science
 author: unknown author
-tags: [Jupiter, Aurora, Magnetosphere of Jupiter, Magnetosphere, Juno (spacecraft), Astronomy, Nature, Solar System, Planetary science, Physics, Space science, Outer space, Physical sciences]
+tags: [Jupiter, Aurora, Magnetosphere of Jupiter, Juno (spacecraft), Magnetosphere, Astronomy, Nature, Solar System, Planetary science, Physics, Space science, Outer space, Physical sciences]
 ---
 
 

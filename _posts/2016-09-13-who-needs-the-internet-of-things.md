@@ -4,7 +4,7 @@ title: "Who Needs the Internet of Things?"
 date: 2016-09-13 15:01:14
 categories: Linux
 author: ericstephenbrown
-tags: [Internet of things, Automation, Machine to machine, Surveillance, Cloud computing, Computing, Technology, Digital technology, Artificial objects]
+tags: [Internet of things, Automation, Surveillance, Machine to machine, Computer security, Intellectual works, Digital technology, Artificial objects, Computing, Technology]
 ---
 
 

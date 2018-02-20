@@ -4,7 +4,7 @@ title: "Lab storing information securely in DNA"
 date: 2016-07-11 16:26:12
 categories: Science
 author: unknown author
-tags: [DNA, Computer data storage, Integrated circuit, Sandia National Laboratories, Encryption, Gene, World Wide Web, Website, Artificial objects, Computing, Technology]
+tags: [DNA, Computer data storage, Integrated circuit, Information, Sandia National Laboratories, Encryption, Gene, World Wide Web, Computing, Artificial objects, Technology]
 ---
 
 

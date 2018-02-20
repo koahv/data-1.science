@@ -76,12 +76,12 @@ while IFS=$'\n' read -r line_data; do
 
 
 
-		extracted_tags=`cat extracted_tags.txt`
+		extracted_tags=`cat extracted_tags.txt | tr -dc '[:alnum:]\n\r ()-'`
 
 		mod_extracted_tags="$(echo -e "${extracted_tags}" | sed -e ':a;N;$!ba;s/\n/,/g')"
 
 
-		echo $mod_extracted_tags
+		#echo $mod_extracted_tags
 
 		# check if existing tags are null
 		#if [[ -z "${tags// }" ]]; then
@@ -95,7 +95,7 @@ while IFS=$'\n' read -r line_data; do
 		#echo $append_tags
 
 		
-		psql -U postgres -d ttrssdb2 -c "UPDATE ttrss_user_entries SET tag_cache = '$mod_extracted_tags' WHERE ref_id = $line_data RETURNING ref_id, tag_cache;";
+		psql -U postgres -d ttrssdb2 -c "UPDATE ttrss_user_entries SET tags_new = '$mod_extracted_tags' WHERE ref_id = $line_data RETURNING ref_id, tags_new;";
 
 
 		psql -U postgres -d ttrssdb2 -c "UPDATE ttrss_user_entries SET has_imported_tags = true WHERE ref_id = $line_data RETURNING ref_id, has_imported_tags;";

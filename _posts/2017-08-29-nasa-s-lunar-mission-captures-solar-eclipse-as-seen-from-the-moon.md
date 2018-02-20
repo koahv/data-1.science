@@ -4,7 +4,7 @@ title: "NASA's Lunar mission captures solar eclipse as seen from the moon"
 date: 2017-08-29 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Lunar Reconnaissance Orbiter, Moon, NASA, Goddard Space Flight Center, Solar eclipse, Spaceflight technologies, Space science, Spacecraft, Astronautics, Space technology, Space colonization, Flight, Astronomy, Solar System, Planetary science, Aerospace engineering, Space exploration, Spaceflight, Scientific exploration, Aerospace, Outer space]
+tags: [Lunar Reconnaissance Orbiter, Moon, Goddard Space Flight Center, Spaceflight, NASA, Spaceflight technologies, Aerospace, Outer space, Planetary science, Aerospace engineering, Space exploration, Astronomy, Space science, Solar System, Spacecraft, Flight, Astronautics]
 ---
 
 

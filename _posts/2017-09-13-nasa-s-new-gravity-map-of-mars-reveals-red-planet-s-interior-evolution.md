@@ -4,7 +4,7 @@ title: "NASA's New Gravity Map of Mars --Reveals Red Planet's Interior & Evoluti
 date: 2017-09-13 21:52:35
 categories: Astronomy
 author: dailygalaxy.com
-tags: [Mars, InSight, Geophysics, Moon, Planetary science, Space science, Physical sciences, Space exploration, Spaceflight, Astronomy, Outer space]
+tags: [Mars, InSight, Geophysics, Moon, Gravity Recovery and Interior Laboratory, Spaceflight, Outer space, Planetary science, Planets of the Solar System, Physical sciences, Astronomy, Space science]
 ---
 
 

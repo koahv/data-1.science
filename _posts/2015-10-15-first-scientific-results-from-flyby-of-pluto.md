@@ -4,7 +4,7 @@ title: "First scientific results from flyby of Pluto"
 date: 2015-10-15 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [American Association for the Advancement of Science, Scientific supraorganizations, Scientific societies, Scientific organizations, Science]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Experiment resolves mystery about wind flows on Jupiter"
 date: 2017-01-23 05:00:00
 categories: Astronomy
 author: unknown author
-tags: [Juno (spacecraft), Jupiter, Planet, Outer space, Planetary science, Astronomy, Physical sciences, Space science, Solar System]
+tags: [Juno (spacecraft), Jupiter, Planet, Planetary science, Outer space, Astronomy, Physical sciences, Space science]
 ---
 
 

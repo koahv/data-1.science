@@ -4,7 +4,7 @@ title: "James Webb Space Telescope mirror halfway complete"
 date: 2015-12-28 05:00:00
 categories: Technology
 author: unknown author
-tags: [Goddard Space Flight Center, NASA, Spacecraft, Space exploration, Outer space, Spaceflight]
+
 ---
 
 

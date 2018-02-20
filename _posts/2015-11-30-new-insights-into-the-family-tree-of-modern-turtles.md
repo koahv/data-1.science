@@ -4,7 +4,7 @@ title: "New insights into the family tree of modern turtles"
 date: 2015-11-30 12:30:01
 categories: Science
 author: unknown author
-tags: [Turtle, Jehol Biota, Fossil, Reptile, Sea turtle, Dinosaur, Evolution, Nature, Biology, Organisms]
+
 ---
 
 

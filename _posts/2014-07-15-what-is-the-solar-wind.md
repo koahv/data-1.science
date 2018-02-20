@@ -4,7 +4,7 @@ title: "What is the solar wind?"
 date: 2014-07-15 16:53:54
 categories: Astronomy
 author: Maria Temming
-tags: [questions & answers, resources and education, science-based q&a, solar wind]
+
 ---
 
 

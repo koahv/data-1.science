@@ -4,7 +4,7 @@ title: "Cenozoic Era: Facts About Climate, Animals & Plants"
 date: 2016-06-08 15:16:00
 categories: Science
 author: unknown author
-tags: [Cenozoic, Earth sciences, International Commission on Stratigraphy geologic time scale of Earth, Global natural environment, Units of geologic time, Nature, Geology]
+tags: [Cenozoic, Earth sciences, Geology, Nature, Units of geologic time, Global natural environment]
 ---
 
 

@@ -4,7 +4,7 @@ title: "HIV can develop resistance to CRISPR/Cas9"
 date: 2016-04-07 04:00:00
 categories: Technology
 author: unknown author
-tags: [Virus, Cas9, Antiviral drug, Mutation, CRISPR, DNA, HIV, Molecular biology, Organisms, Biochemistry, Biotechnology, Genetics, Nucleic acids, Life sciences, Biology, Viruses]
+
 ---
 
 

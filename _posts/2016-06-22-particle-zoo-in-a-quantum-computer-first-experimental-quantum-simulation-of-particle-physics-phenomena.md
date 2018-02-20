@@ -4,7 +4,7 @@ title: "Particle zoo in a quantum computer: First experimental quantum simulatio
 date: 2016-06-22 17:00:08
 categories: Science
 author: unknown author
-tags: [Particle physics, Physics, Standard Model, Quantum mechanics, Elementary particle, Mechanics, Theoretical physics, Modern physics, Solid state engineering, Science, Scientific theories, Applied and interdisciplinary physics, Physical sciences]
+tags: [Particle physics, Physics, Standard Model, Quantum mechanics, Elementary particle, Scientific theories, Applied and interdisciplinary physics, Physical sciences, Theoretical physics, Mechanics, Modern physics, Science, Solid state engineering]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Worcester Polytechnic Institute team awarded patent for reprograming ski
 date: 2016-05-24 04:00:00
 categories: Technology
 author: unknown author
-tags: [Stem cell, Embryonic stem cell, Regeneration (biology), Shinya Yamanaka, Induced pluripotent stem cell, Cell potency, Medicine, Zoology, Cell biology, Organisms, Biotechnology, Life sciences, Biology]
+
 ---
 
 

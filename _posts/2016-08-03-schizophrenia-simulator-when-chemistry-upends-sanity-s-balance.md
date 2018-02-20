@@ -4,7 +4,7 @@ title: "Schizophrenia simulator: When chemistry upends sanity's balance"
 date: 2016-08-03 04:00:00
 categories: Technology
 author: unknown author
-tags: [Schizophrenia, Dopamine, Memory, Brain, Working memory, Recall (memory), Hallucination, Neurotransmitter, Neuropsychology, Neuroscience, Nervous system, Cognition, Cognitive science, Clinical psychology, Behavioural sciences, Psychological concepts, Psychology, Neuropsychological assessment]
+tags: [Schizophrenia, Dopamine, Memory, Brain, Working memory, Recall (memory), Research, Hallucination, Psychological concepts, Neuropsychology, Clinical psychology, Cognitive science, Cognition, Neuroscience, Nervous system]
 ---
 
 

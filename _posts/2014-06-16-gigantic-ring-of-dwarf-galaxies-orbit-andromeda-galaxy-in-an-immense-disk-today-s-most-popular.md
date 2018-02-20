@@ -4,7 +4,7 @@ title: ""Gigantic Ring of Dwarf Galaxies Orbit Andromeda Galaxy in an Immense Di
 date: 2014-06-16 17:38:49
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

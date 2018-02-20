@@ -4,7 +4,7 @@ title: "A Solar-Powered Hydroponic Food Belt Could Green the Entire Arabian Peni
 date: 2014-08-22 15:20:29
 categories: Energy
 author: Lidija Grozdanic
-tags: [carousel showcase, gallery, green technology, renewable energy, sustainable food, desert farming, forward thinking architecture, hydroponic farm, hydroponic technology, oaxis arabian desert, photovoltaics, spanish architects, water recycling]
+
 ---
 
 

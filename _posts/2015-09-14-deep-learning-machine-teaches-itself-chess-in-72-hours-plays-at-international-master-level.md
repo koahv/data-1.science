@@ -4,7 +4,7 @@ title: "Deep Learning Machine Teaches Itself Chess in 72 Hours, Plays at Interna
 date: 2015-09-14 12:30:00
 categories: Technology
 author: unknown author
-tags: []
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "2017 Nobel Goes to Gravitational Waves"
 date: 2017-10-03 22:05:45
 categories: Astronomy
 author: Javier Barbuzano
-tags: [LIGO, Special relativity, Gravitational wave, General relativity, Barry Barish, First observation of gravitational waves, Gravitational-wave observatory, Frame of reference, Spacetime, Gravitation, Physics, Physical sciences, Mechanics, Theory of relativity, Theoretical physics, Mathematical physics, Modern physics, Physical quantities, Physical cosmology, Science, Scientific theories, Applied and interdisciplinary physics, Astronomy]
+tags: [LIGO, Gravitational wave, Special relativity, Barry Barish, General relativity, First observation of gravitational waves, Gravitational-wave observatory, Frame of reference, Time, Spacetime, Kip Thorne, Physics, Physical sciences, Mechanics, Theory of relativity, Physical quantities, Theoretical physics, Mathematical physics, Physical cosmology, Modern physics, Science, Astronomy, Applied and interdisciplinary physics, Gravitation, Scientific theories]
 ---
 
 

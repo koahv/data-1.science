@@ -4,7 +4,7 @@ title: "Love After Life: Nobel-Winning Physicist Richard Feynman’s Extraordina
 date: 2017-10-17 16:36:53
 categories: Philosophy
 author: Maria Popova
-tags: [Richard Feynman]
+tags: [Richard Feynman, Science, Love]
 ---
 
 

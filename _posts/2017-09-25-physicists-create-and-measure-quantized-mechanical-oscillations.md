@@ -4,7 +4,7 @@ title: "Physicists create and measure quantized mechanical oscillations"
 date: 2017-09-25 15:07:16
 categories: Science
 author: Tim Wogan
-tags: [Photon, Quantum mechanics, Phonon, Resonance, Optical cavity, Resonator, Laser, Optics, Energy, Physics, Atomic,  molecular,  and optical physics, Theoretical physics, Physical chemistry, Chemistry, Modern physics, Particle physics, Condensed matter physics, Materials science, Solid state engineering, Physical sciences, Mechanics, Applied and interdisciplinary physics, Natural philosophy, Electromagnetic radiation, Condensed matter, Electrodynamics]
+tags: [Photon, Quantum mechanics, Phonon, Resonance, Optical cavity, Laser, Resonator, Optics, Particle physics, Electromagnetic radiation, Condensed matter, Natural philosophy, Atomic molecular and optical physics, Physics, Chemistry, Physical chemistry, Theoretical physics, Solid state engineering, Modern physics, Condensed matter physics, Materials science, Physical sciences, Mechanics, Applied and interdisciplinary physics]
 ---
 
 

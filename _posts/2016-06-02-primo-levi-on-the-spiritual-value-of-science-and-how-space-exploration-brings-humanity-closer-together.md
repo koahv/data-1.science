@@ -4,7 +4,7 @@ title: "Primo Levi on the Spiritual Value of Science and How Space Exploration B
 date: 2016-06-02 06:30:04
 categories: Philosophy
 author: Maria Popova
-tags: [Human, Space exploration, Carl Sagan, Science, LIGO, Apollo 8, Consciousness]
+
 ---
 
 

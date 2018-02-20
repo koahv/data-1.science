@@ -4,7 +4,7 @@ title: "What makes a math person? Interest, recognition are key factors, researc
 date: 2015-06-17 13:20:04
 categories: Science
 author: unknown author
-tags: [other sciences]
+
 ---
 
 

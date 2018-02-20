@@ -4,7 +4,7 @@ title: "The Kavli Foundation Q&A: What Ignites Supernova Explosions?"
 date: 2015-08-19 19:19:09
 categories: Astronomy
 author: The Editors of Sky Telescope
-tags: [questions & answers, resources and education, science-based q&a]
+
 ---
 
 

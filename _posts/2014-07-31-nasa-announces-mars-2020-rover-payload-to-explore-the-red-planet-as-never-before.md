@@ -4,7 +4,7 @@ title: "NASA Announces Mars 2020 Rover Payload to Explore the Red Planet as Neve
 date: 2014-07-31 20:48:07
 categories: Technology
 author: mfassbender
-tags: []
+
 ---
 
 

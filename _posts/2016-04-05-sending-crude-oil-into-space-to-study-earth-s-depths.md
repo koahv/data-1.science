@@ -4,7 +4,7 @@ title: "Sending crude oil into space to study Earth’s depths"
 date: 2016-04-05 09:42:00
 categories: Astronomy
 author: unknown author
-tags: [Petroleum, Petroleum reservoir, Atmospheric entry, Weightlessness, European Space Agency, Spaceflight, Outer space, Space technology, Astronautics, Space exploration, Artificial objects, Space colonization]
+
 ---
 
 

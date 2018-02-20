@@ -4,7 +4,7 @@ title: "Infographic: How Solar Panels Work"
 date: 2016-04-25 17:24:07
 categories: Technology
 author: kduffy
-tags: [Solar power, Energy technology, Energy production, Sustainable development, Electric power, Sustainable technologies, Renewable resources, Alternative energy, Sustainable energy, Renewable energy, Nature, Physical universe, Energy, Artificial objects, Power (physics), Energy conversion, Technology, Electricity, Natural resources, Electrical engineering, Energy sources, Renewable electricity]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Tapping particles of light: Scientists single out individual photons"
 date: 2015-11-30 15:10:57
 categories: Science
 author: unknown author
-tags: [Photon, Light, Photonics, Quantum optics, Physics, Quantum computing, Modern physics, Optics, Theoretical physics, Atomic,  molecular,  and optical physics, Condensed matter physics, Physical chemistry, Particle physics, Science, Solid state engineering, Quantum mechanics, Applied and interdisciplinary physics, Physical sciences, Mechanics, Chemistry]
+
 ---
 
 

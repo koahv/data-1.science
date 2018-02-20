@@ -4,7 +4,7 @@ title: "Sentinel-1B timelapse"
 date: 2016-06-13 14:35:00
 categories: Astronomy
 author: unknown author
-tags: [Space exploration, Satellites, Space policy of the European Union, Space-based economy, European Space Agency, Space science, Aerospace, Space traffic management, Spaceflight, Outer space, European space programmes, Spacecraft, Space technology, Astronautics, Space colonization, Flight, Aerospace engineering, Spaceflight technologies, Space programs, Space agencies]
+tags: [Space agencies, Spaceflight, Outer space, Spacecraft, Astronautics, Flight, Aerospace engineering, Spaceflight technologies, Space programs, Satellites, Space exploration, European space programmes, Aerospace, Space traffic management, European Space Agency, Space policy of the European Union]
 ---
 
 

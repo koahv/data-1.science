@@ -4,7 +4,7 @@ title: "What are asteroids and where do they come from?"
 date: 2014-07-15 17:06:00
 categories: Astronomy
 author: Maria Temming
-tags: [questions & answers, resources and education, science-based q&a, comets & asteroids]
+
 ---
 
 

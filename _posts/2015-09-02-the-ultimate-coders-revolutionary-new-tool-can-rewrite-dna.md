@@ -4,7 +4,7 @@ title: "The Ultimate Coders: Revolutionary New Tool Can Rewrite DNA"
 date: 2015-09-02 15:02:36
 categories: Technology
 author: unknown author
-tags: [ge healthcare, ge healthcare life sciences, dna, genomics, crispr]
+
 ---
 
 

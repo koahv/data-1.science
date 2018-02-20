@@ -4,7 +4,7 @@ title: "OSIRIS-REx spacecraft completes assembly stage, begins environmental tes
 date: 2015-10-23 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [OSIRIS-REx, NASA, Space science, Outer space, Spacecraft, Space technology, Astronautics, Flight, Space colonization, Spaceflight technologies, Aerospace engineering, Aerospace, NASA programs, Space-based economy, Space program of the United States, Scientific exploration, Government programs, Space exploration, Spaceflight]
+
 ---
 
 

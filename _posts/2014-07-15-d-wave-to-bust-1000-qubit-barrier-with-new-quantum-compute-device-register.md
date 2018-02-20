@@ -4,7 +4,7 @@ title: "D-Wave to bust 1000-qubit barrier with new quantum compute device - Regi
 date: 2014-07-15 01:32:08
 categories: Technology
 author: unknown author
-tags: []
+
 ---
 
 

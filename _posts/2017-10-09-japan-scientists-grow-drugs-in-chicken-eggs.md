@@ -4,7 +4,7 @@ title: "Japan scientists grow drugs in chicken eggs"
 date: 2017-10-09 07:02:46
 categories: Science
 author: unknown author
-tags: [Chicken, Pharmaceutical drug, Biology, Life sciences]
+tags: [Chicken, Pharmaceutical drug, Egg, Free-range eggs, Life sciences, Biology]
 ---
 
 

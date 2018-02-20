@@ -4,7 +4,7 @@ title: "Video and research release: How insects become queens or workers"
 date: 2015-10-19 04:00:00
 categories: Science
 author: unknown author
-tags: [Eusociality, Epigenetics, Gene, Cellular differentiation, Ant, Insect, Evolution, Species, Gene expression, DNA methylation, American Association for the Advancement of Science, Genome, Wasp, Babraham Institute, Western honey bee, Biology, Organisms, Genetics, Life sciences, Biotechnology]
+
 ---
 
 

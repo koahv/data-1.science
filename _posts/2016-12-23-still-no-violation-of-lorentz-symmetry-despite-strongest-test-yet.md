@@ -4,7 +4,7 @@ title: "Still no violation of Lorentz symmetry, despite strongest test yet"
 date: 2016-12-23 14:10:03
 categories: Science
 author: unknown author
-tags: [Standard-Model Extension, Special relativity, Time, Black hole, Speed of light, Frame of reference, General relativity, Mass–energy equivalence, Physics, Luminiferous aether, Gravity, Theoretical physics, Science, Physical quantities, Scientific theories, Modern physics, Spacetime, Mechanics, Physical sciences]
+tags: [Standard-Model Extension, Special relativity, Time, Speed of light, Frame of reference, Black hole, General relativity, Massenergy equivalence, Physics, Luminiferous aether, Mass, Spacetime, Science, Mechanics, Physical sciences, Theoretical physics]
 ---
 
 

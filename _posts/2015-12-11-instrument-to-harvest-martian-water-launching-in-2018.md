@@ -4,7 +4,7 @@ title: "Instrument to Harvest Martian Water Launching in 2018"
 date: 2015-12-11 14:51:13
 categories: Technology
 author: kduffy
-tags: [Mars, Water, Spaceflight, Outer space, Planetary science, Physical sciences, Space science, Nature, Solar System, Space colonization]
+
 ---
 
 

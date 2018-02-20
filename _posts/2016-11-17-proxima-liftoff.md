@@ -4,7 +4,7 @@ title: "Proxima liftoff"
 date: 2016-11-17 20:40:00
 categories: Astronomy
 author: unknown author
-tags: [European Space Agency, Space programs, Scientific exploration, Space-based economy, Spacecraft, Human spaceflight, Flight, Space colonization, Astronautics, Space technology, Outer space, Space exploration, Spaceflight, Spaceflight technologies, Space industry, Aerospace engineering, Aerospace, Aerospace agencies, Space agencies, Space traffic management, Space science, Government programs, European space programmes]
+tags: [European Space Agency, Space traffic management, Spacecraft, Human spaceflight, Flight, Astronautics, Outer space, Spaceflight, Space exploration, Space programs, Spaceflight technologies, Aerospace engineering, Space agencies, Aerospace, Aerospace agencies, Scientific exploration, Space-based economy, Space industry, European space programmes]
 ---
 
 

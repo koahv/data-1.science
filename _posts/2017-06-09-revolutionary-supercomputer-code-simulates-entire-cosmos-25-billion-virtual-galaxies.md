@@ -4,7 +4,7 @@ title: "Revolutionary Supercomputer Code Simulates Entire Cosmos --"25 Billion V
 date: 2017-06-09 16:19:10
 categories: Astronomy
 author: dailygalaxy.com
-tags: [Dark matter, Universe, Milky Way, Astrophysics, Dark energy, Matter, Observable universe, Astronomy, Physical cosmology, Physics, Science, Natural sciences, Outer space, Physical universe, Physical sciences, Cosmology]
+tags: [Dark matter, Universe, Milky Way, Euclid (spacecraft), Astrophysics, Dark energy, Matter, Observable universe, Astronomy, Physical sciences, Physics, Outer space, Science, Physical cosmology, Cosmology, Physical universe]
 ---
 
 

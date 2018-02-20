@@ -4,7 +4,7 @@ title: "SpaceX Announces Plans for 2018 Mars Mission"
 date: 2016-04-28 15:16:40
 categories: Technology
 author: mcrouse
-tags: [SpaceX Dragon, SpaceX, SpaceX Red Dragon, Space colonization, Spacecraft, Space technology, Aerospace engineering, Astronautics, Space industry, Flight, Space exploration, Spaceflight technologies, Space-based economy, Aerospace, Human spaceflight, Private spaceflight, Hawthorne,  California, Space organizations, Space science, Industries, Private spaceflight companies, Commercial spaceflight, Elon Musk, Outer space, Spacecraft manufacturers, Aerospace companies, Spaceflight]
+
 ---
 
 

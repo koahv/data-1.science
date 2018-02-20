@@ -4,7 +4,7 @@ title: "What Is Ultraviolet Light?"
 date: 2017-09-15 09:27:00
 categories: Science
 author: unknown author
-tags: [Ultraviolet, Electromagnetic radiation, Electromagnetic spectrum, Fluorescence, Sunburn, Blacklight, Sun tanning, Light, Radiation, Physical phenomena, Physical sciences, Optics, Applied and interdisciplinary physics, Electrodynamics, Nature, Chemistry]
+tags: [Ultraviolet, Electromagnetic radiation, Electromagnetic spectrum, Fluorescence, Sunburn, Blacklight, Sun tanning, Light, Chemistry, Nature, Radiation, Electrodynamics, Waves, Physical phenomena, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "NASA's SDO watches a sunspot turn toward Earth"
 date: 2017-07-12 15:26:33
 categories: Science
 author: unknown author
-tags: [Sun, Sunspot, Solar Dynamics Observatory, Solar cycle, Galaxy, Astronomy, Solar minimum, Solar flare, Titan (moon), Astronomical objects, Outer space, Physical sciences, Stars, Bodies of the Solar System, Solar System, Stellar astronomy, Space science]
+tags: [Sun, Sunspot, Solar Dynamics Observatory, Solar cycle, Solar minimum, Mars, Solar flare, Outer space, Planetary science, Spaceflight, Physical sciences, Stellar astronomy, Bodies of the Solar System, Space science, Astronomy, Solar System]
 ---
 
 

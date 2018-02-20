@@ -4,7 +4,7 @@ title: "Why genetic research must be more diverse | Keolu Fox"
 date: 2016-06-21 15:07:40
 categories: Interest
 author: Keolu Fox
-tags: [TED (conference)]
+tags: [TED (conference), Communication]
 ---
 
 

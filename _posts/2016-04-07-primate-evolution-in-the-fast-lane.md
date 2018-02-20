@@ -4,7 +4,7 @@ title: "Primate evolution in the fast lane"
 date: 2016-04-07 04:00:00
 categories: Science
 author: unknown author
-tags: [Mutation, DNA, Virus, Gene, Biology, Evolution, Life sciences, Genetics, Organisms, Biotechnology, Molecular biology, Biochemistry]
+
 ---
 
 

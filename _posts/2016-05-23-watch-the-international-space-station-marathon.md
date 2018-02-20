@@ -4,7 +4,7 @@ title: "Watch the International Space Station Marathon"
 date: 2016-05-23 14:29:23
 categories: Astronomy
 author: David Dickinson
-tags: [International Space Station, Moon, NASA, Sun, Beta angle, Satellite, Earth, Flight, Spacecraft, Aerospace engineering, Astronautics, Spaceflight technologies, Astronomy, Space colonization, Space technology, Space exploration, Spaceflight, Outer space, Space science, Aerospace, Solar System]
+
 ---
 
 

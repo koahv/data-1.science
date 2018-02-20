@@ -4,7 +4,7 @@ title: "MAGNDATA: Towards a database of magnetic structures"
 date: 2016-11-02 13:45:00
 categories: Science
 author: unknown author
-tags: [Crystallography, Magnetic structure, Magnetism, Physical chemistry, Condensed matter physics, Science, Materials science, Physics, Applied and interdisciplinary physics, Physical sciences, Chemistry]
+tags: [Crystallography, Magnetic structure, Magnetism, Research, Physical sciences, Chemistry, Applied and interdisciplinary physics, Physics, Materials science]
 ---
 
 

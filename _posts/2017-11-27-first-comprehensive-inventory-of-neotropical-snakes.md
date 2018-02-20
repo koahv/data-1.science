@@ -4,7 +4,7 @@ title: "First comprehensive inventory of Neotropical snakes"
 date: 2017-11-27 11:30:44
 categories: Science
 author: unknown author
-tags: [Biodiversity, Neotropical realm, Species, Taxonomy (biology), Mexico, Evolution, Organisms, Biology]
+tags: [Biodiversity, Neotropical realm, Species, Evolution, Taxonomy (biology), Mexico, Nature, Organisms, Biology]
 ---
 
 

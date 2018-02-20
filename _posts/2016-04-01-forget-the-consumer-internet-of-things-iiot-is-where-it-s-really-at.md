@@ -4,7 +4,7 @@ title: "Forget the Consumer Internet of Things: IIoT Is Where It's Really At"
 date: 2016-04-01 13:40:23
 categories: Technology
 author: kduffy
-tags: [Internet of things, Artificial objects, Technology]
+
 ---
 
 

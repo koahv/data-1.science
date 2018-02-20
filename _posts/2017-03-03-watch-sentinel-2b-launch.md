@@ -4,7 +4,7 @@ title: "Watch Sentinel-2B launch"
 date: 2017-03-03 14:15:00
 categories: Astronomy
 author: unknown author
-tags: [Sentinel-2, Sentinel-2B, European Space Agency, Space agencies, European space programmes, Space programs, Space technology, Space traffic management, Astronautics, Spaceflight technologies, Space colonization, Earth observation satellites, Aerospace agencies, Outer space, Artificial satellites orbiting Earth, Space policy of the European Union, Aerospace engineering, Flight, Space organizations, International scientific organizations of Europe, Transport authorities, Copernicus Programme, Space policy, Space photography and videography, Earth observation satellites of the European Space Agency, Satellites, Space exploration, Spacecraft, Spaceflight]
+tags: [Sentinel-2, Sentinel-2B, Aerospace engineering, Space programs, European space programmes, Space agencies, Satellites, Space traffic management, Spaceflight technologies, Aerospace agencies, European Space Agency, Earth observation satellites, Space policy of the European Union, Space policy, Astronautics, Flight, Artificial satellites orbiting Earth, International scientific organizations of Europe, Space organizations, Transport authorities, Copernicus Programme, Space exploration, Space photography and videography, Spacecraft, Spaceflight, Outer space]
 ---
 
 

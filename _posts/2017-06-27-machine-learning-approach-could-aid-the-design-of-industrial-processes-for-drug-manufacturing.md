@@ -4,7 +4,7 @@ title: "Machine learning approach could aid the design of industrial processes f
 date: 2017-06-27 10:09:50
 categories: Science
 author: unknown author
-tags: [Chemical reaction, Chemical substance, Catalysis, Molecule, Organic chemistry, Chemistry, Organic synthesis, Engineering, Research, Machine learning, Atom, Experiment, Artificial objects, Physical sciences]
+tags: [Chemical reaction, Chemical substance, Catalysis, Molecule, Organic chemistry, Chemistry, Research, Engineering, Science, Machine learning, Experiment, Artificial objects, Science and technology, Physical sciences]
 ---
 
 

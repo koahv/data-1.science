@@ -4,7 +4,7 @@ title: "Scientists engineer animals with ancient genes to test causes of evoluti
 date: 2017-01-13 05:00:00
 categories: Science
 author: unknown author
-tags: [Evolution, Alcohol dehydrogenase, Biology, Drosophila melanogaster, Genetics, Adaptation, Natural selection, Gene, Medicine, Evolutionary biology, Ecology, Genetically modified organism, Organism, University of Chicago Medical Center, Science, Biological evolution, Nature, Organisms, Life sciences]
+tags: [Evolution, Alcohol dehydrogenase, Biology, Drosophila melanogaster, Adaptation, Genetics, Natural selection, Gene, Medicine, Evolutionary biology, Ecology, Genetically modified organism, Organism, University of Chicago Medical Center, Life sciences, Organisms, Science, Nature, Biological evolution]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Are we what we eat?"
 date: 2016-03-29 04:00:00
 categories: Technology
 author: unknown author
-tags: [Omega-3 fatty acid, Genetics, Life sciences, Biology, Organisms, Biochemistry, Biotechnology, Health, Nutrition, Molecular biology]
+
 ---
 
 

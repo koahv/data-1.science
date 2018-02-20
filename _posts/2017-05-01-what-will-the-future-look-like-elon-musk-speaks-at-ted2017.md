@@ -4,7 +4,7 @@ title: "What will the future look like? Elon Musk speaks at TED2017"
 date: 2017-05-01 06:48:34
 categories: Interest
 author: Brian Greene
-tags: [Tesla,  Inc., Hyperloop, SpaceX, Gigafactory 1, Spaceflight technologies, Vehicles, Spaceflight, Transport, Outer space, Artificial objects, Aerospace engineering, Space exploration, Space technology, Industries, Technology, Spacecraft]
+tags: [Tesla Inc, Hyperloop, Gigafactory 1, Artificial objects, Transport, Spaceflight, Vehicles, Technology, Aerospace engineering, Industries, Spacecraft, Spaceflight technologies, Outer space]
 ---
 
 

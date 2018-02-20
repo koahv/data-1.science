@@ -4,7 +4,7 @@ title: "Celebrating open standards around the world"
 date: 2016-10-14 19:04:13
 categories: Linux
 author: ris
-tags: [Computing, Software, Digital media, Technology, Computers, Linux, Free software]
+tags: [Computing, Software, Digital media, Technology, Free software, Linux, Digital technology]
 ---
 
 

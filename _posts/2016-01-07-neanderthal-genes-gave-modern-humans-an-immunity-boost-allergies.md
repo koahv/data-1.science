@@ -4,7 +4,7 @@ title: "Neanderthal genes gave modern humans an immunity boost, allergies"
 date: 2016-01-07 05:00:00
 categories: Science
 author: unknown author
-tags: [Denisovan, Neanderthal, Archaic human admixture with modern humans, Gene, Evolution, Immune system, Human genome, Toll-like receptor, Genetics, Organisms, Life sciences, Biology]
+
 ---
 
 

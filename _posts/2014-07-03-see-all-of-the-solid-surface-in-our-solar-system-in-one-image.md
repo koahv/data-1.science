@@ -4,7 +4,7 @@ title: "See All of the Solid Surface in Our Solar System In One Image"
 date: 2014-07-03 13:00:25
 categories: Astronomy
 author: Jaime Trosper
-tags: [infographics, solar system, how planets form, illustration, map, randall munroe, space without the space, videos, xkcd]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Photoelectric Effect: Explanation & Applications"
 date: 2017-04-24 14:17:00
 categories: Science
 author: unknown author
-tags: [Photoelectric effect, Light, Photon, Electron, Physics, Chemistry, Particle physics, Physical phenomena, Natural philosophy, Nature, Applied and interdisciplinary physics, Physical sciences, Materials science, Electromagnetism, Optics, Science, Electromagnetic radiation, Physical chemistry, Atomic,  molecular,  and optical physics, Electrodynamics, Mechanics]
+tags: [Photoelectric effect, Light, Photon, Electron, Electromagnetism, Physical phenomena, Natural philosophy, Materials science, Nature, Optics, Science, Applied and interdisciplinary physics, Electrodynamics, Physical sciences, Physical chemistry, Atomic molecular and optical physics, Mechanics, Physics, Electromagnetic radiation, Chemistry]
 ---
 
 

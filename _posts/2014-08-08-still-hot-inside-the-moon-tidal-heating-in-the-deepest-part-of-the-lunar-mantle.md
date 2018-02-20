@@ -4,7 +4,7 @@ title: "Still hot inside the Moon: Tidal heating in the deepest part of the luna
 date: 2014-08-08 08:51:02
 categories: Science
 author: unknown author
-tags: [astronomy & space]
+
 ---
 
 

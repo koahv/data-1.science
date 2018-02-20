@@ -4,7 +4,7 @@ title: "Timelapse: A Year on Earth Seen from 1 Million Miles Away"
 date: 2016-07-26 13:19:52
 categories: Technology
 author: kduffy
-tags: [Deep Space Climate Observatory, Astronomy, Physical sciences, Space science, Planetary science, Outer space, Meteorology, Spaceflight, Space exploration, Earth sciences, Nature, Solar System]
+tags: [Deep Space Climate Observatory, Earth sciences, Outer space, Planetary science, Physical sciences, Space science, Astronomy, Spaceflight, Meteorology, Nature, Solar System]
 ---
 
 

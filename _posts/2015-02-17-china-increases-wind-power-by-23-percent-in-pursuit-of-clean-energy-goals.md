@@ -4,7 +4,7 @@ title: "China increases wind power by 23 percent in pursuit of clean energy goal
 date: 2015-02-17 22:57:32
 categories: Energy
 author: Cat DiStasio
-tags: [climate change, global warming, news, renewable energy, wind power, china carbon emissions, china clean energy, china green energy, china wind power, china wind power capacity, wind power increases 2014]
+
 ---
 
 

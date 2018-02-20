@@ -4,7 +4,7 @@ title: "Cave-in: How blind species evolve"
 date: 2017-04-17 12:59:54
 categories: Science
 author: unknown author
-tags: [Mexican tetra, Evolution, Biology, Evolutionary biology, Biological evolution, Organisms, Biology theories, Science, Biological concepts, Nature, Paleontological concepts and hypotheses]
+
 ---
 
 

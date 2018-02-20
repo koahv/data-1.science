@@ -4,7 +4,7 @@ title: "New satellite to measure plant health"
 date: 2015-11-19 18:29:00
 categories: Astronomy
 author: unknown author
-tags: [Photosynthesis, Earth, Plant, Atmosphere, Physical sciences, Earth sciences, Natural environment, Nature]
+
 ---
 
 

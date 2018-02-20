@@ -4,7 +4,7 @@ title: "How Neanderthals influenced human genetics at the crossroads of Asia and
 date: 2017-10-24 04:00:00
 categories: Science
 author: unknown author
-tags: [Neanderthal, Genetics, Genome, Biology, Evolution, Anatomically modern human, Gene, Organisms, Life sciences]
+tags: [Neanderthal, Human, Genetics, Genome, Biology, Evolution, Archaic human admixture with modern humans, Organisms, Life sciences]
 ---
 
 

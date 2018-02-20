@@ -4,7 +4,7 @@ title: ""Life May Exist in the Milky Way that Dates Back 11 Billion Years" (Week
 date: 2015-01-31 16:37:21
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

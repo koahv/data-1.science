@@ -4,7 +4,7 @@ title: "Ancient rocks record first evidence for photosynthesis that made oxygen"
 date: 2015-10-06 20:36:39
 categories: Science
 author: unknown author
-tags: [Oxygen, Earth, Uranium, Photosynthesis, Atmosphere of Earth, Iron, Water, Ocean, Cyanobacteria, Evolution, Chemistry, Earth sciences, Physical geography, Physical sciences, Nature]
+
 ---
 
 

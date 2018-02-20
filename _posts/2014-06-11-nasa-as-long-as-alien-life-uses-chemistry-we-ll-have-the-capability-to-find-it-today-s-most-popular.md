@@ -4,7 +4,7 @@ title: "NASA: "As Long as Alien Life Uses Chemistry, We'll have the Capability t
 date: 2014-06-11 14:19:50
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

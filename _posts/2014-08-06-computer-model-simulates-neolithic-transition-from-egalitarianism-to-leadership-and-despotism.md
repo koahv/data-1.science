@@ -4,7 +4,7 @@ title: "Computer model simulates Neolithic transition from egalitarianism to lea
 date: 2014-08-06 12:47:48
 categories: Science
 author: unknown author
-tags: [other sciences]
+
 ---
 
 

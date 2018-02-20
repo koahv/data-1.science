@@ -4,7 +4,7 @@ title: "Black hole made in the lab shows signs of quantum entanglement"
 date: 2016-08-15 15:00:45
 categories: Astronomy
 author: unknown author
-tags: [Black hole, Hawking radiation, Event horizon, Applied and interdisciplinary physics, Spacetime, Solid state engineering, Physical cosmology, Science, Quantum mechanics, Scientific theories, Particle physics, Mathematical physics, Theoretical physics, Modern physics, Mechanics, Physical sciences, Physics, Theory of relativity, Scientific method, Physical phenomena, Nature, Condensed matter physics, Physical quantities]
+tags: [Black hole, Hawking radiation, Event horizon, Physics, Nature, Condensed matter physics, Mathematical physics, Physical quantities, Physical sciences, Mechanics, Theoretical physics, Applied and interdisciplinary physics, Solid state engineering, Physical phenomena, Spacetime, Quantum mechanics, Science, Physical cosmology, Scientific theories, Particle physics, Modern physics]
 ---
 
 

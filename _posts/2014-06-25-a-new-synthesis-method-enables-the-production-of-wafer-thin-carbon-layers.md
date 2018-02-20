@@ -4,7 +4,7 @@ title: "A new synthesis method enables the production of wafer-thin carbon layer
 date: 2014-06-25 11:40:02
 categories: Science
 author: unknown author
-tags: [nanotechnology]
+
 ---
 
 

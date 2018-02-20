@@ -4,7 +4,7 @@ title: "Wind & Solar Cheaper Than Fossils & Nuclear Now"
 date: 2015-12-03 11:53:47
 categories: Energy
 author: Guest Contributor
-tags: [Diesel engine, Reciprocating engine, Gas turbine, Wind power, Compression ratio, Renewable energy, Base load, Nuclear power, Hydroelectricity, Cost of electricity by source, Combined cycle, Natural gas, Engine, Peaking power plant, Load following power plant, Photovoltaics, Solar energy, Electrical grid, Power station, Energy, Artificial objects, Energy production, Energy technology, Nature, Energy conversion, Technology, Physical universe, Sustainable technologies, Electric power]
+
 ---
 
 

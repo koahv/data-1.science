@@ -4,7 +4,7 @@ title: "Editing Human Embryos With CRISPR Is Moving Ahead – Now’s The Time T
 date: 2017-07-30 11:00:53
 categories: Technology
 author: unknown author
-tags: [Designer baby, Genetics, CRISPR, Health sciences, Health, Biology, Life sciences, Medicine, Biotechnology, Organisms]
+tags: [Designer baby, Genetics, CRISPR, Life sciences, Organisms, Biotechnology, Medicine, Biology]
 ---
 
 

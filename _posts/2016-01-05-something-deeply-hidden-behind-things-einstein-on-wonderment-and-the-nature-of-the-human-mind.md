@@ -4,7 +4,7 @@ title: "Something Deeply Hidden Behind Things: Einstein on Wonderment and the Na
 date: 2016-01-05 07:30:45
 categories: Philosophy
 author: Maria Popova
-tags: [Thought, Epistemology, Psychological concepts, Cognition, Philosophy, Cognitive science]
+
 ---
 
 

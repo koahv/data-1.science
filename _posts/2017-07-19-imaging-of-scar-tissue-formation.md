@@ -4,7 +4,7 @@ title: "Imaging of scar tissue formation"
 date: 2017-07-19 21:37:10
 categories: Science
 author: unknown author
-tags: [Medical imaging, Magnetic resonance imaging, Fibrosis, Healing, MRI contrast agent, Biology, Clinical medicine, Medical specialties, Medicine]
+tags: [Medical imaging, Magnetic resonance imaging, Healing, Fibrosis, Scar, MRI contrast agent, Clinical medicine, Medical specialties, Biology, Medicine]
 ---
 
 

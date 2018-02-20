@@ -4,7 +4,7 @@ title: "Capacity to regenerate body parts may be the primitive state for all fou
 date: 2015-10-26 16:50:31
 categories: Science
 author: unknown author
-tags: [Regeneration (biology), Tetrapod, Amphibian, Salamander, Vertebrate, Biology, Zoology, Organisms]
+
 ---
 
 

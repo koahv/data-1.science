@@ -4,7 +4,7 @@ title: "Early Earth --"Evidence Discovered of First Reproduction in Complex Orga
 date: 2015-08-04 14:36:45
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

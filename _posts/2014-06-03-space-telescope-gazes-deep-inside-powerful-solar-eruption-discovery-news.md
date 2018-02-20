@@ -4,7 +4,7 @@ title: "Space Telescope Gazes Deep Inside Powerful Solar Eruption - Discovery Ne
 date: 2014-06-03 15:27:42
 categories: Astronomy
 author: unknown author
-tags: []
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Monitoring Linux File access, Changes and Data Modifications"
 date: 2015-01-21 17:06:12
 categories: Linux
 author: Michael Boelen
-tags: [Computer file, System call, Metadata, Kernel (operating system), Information, Data, Open (system call), Lynis, Linux, Surveillance, Digital signature, Loadable kernel module, Computer data, Computers, Digital technology, Operating system technology, Data management, Computer engineering, Computer architecture, Software, Information technology management, Computing, Areas of computer science, System software]
+
 ---
 
 

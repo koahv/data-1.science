@@ -4,7 +4,7 @@ title: "Solar Impulse launches five day trip across the Pacific Ocean toward Haw
 date: 2015-06-29 21:18:17
 categories: Technology
 author: Cat DiStasio
-tags: [clean tech, green technology, green transportation, news, solar power, clean energy, andre borschberg, bertrand piccard, futureisclean, nagoya japan, solar impulse, solar impulse 2, solar powered aircraft, solar powered airplane, solar powered flight across pacific, solar powered round the world flight, zero energy]
+
 ---
 
 

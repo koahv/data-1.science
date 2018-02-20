@@ -4,7 +4,7 @@ title: "British Army Migrates Cloud Infrastructure to Red Hat Solutions"
 date: 2017-06-22 04:00:00
 categories: Linux
 author: unknown author
-tags: [Red Hat, Ansible (software), Patch (computing), Cloud computing, DevOps, Linux, File system, Risk, Forward-looking statement, Software, Computing, Technology, Information technology management, Computer engineering, Digital technology]
+tags: [Red Hat, Ansible (software), Patch (computing), Cloud computing, DevOps, Linux, Information technology, File system, Forward-looking statement, Computing, Technology, Software, Digital technology, Information technology management]
 ---
 
 

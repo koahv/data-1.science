@@ -4,7 +4,7 @@ title: "Star with different internal driving force than the sun"
 date: 2016-05-04 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Star, Sunspot, Sun, Telescope, Light, Physical sciences, Astronomy, Outer space, Applied and interdisciplinary physics, Physics, Physical phenomena]
+
 ---
 
 

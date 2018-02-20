@@ -4,7 +4,7 @@ title: "Linux Security for DevOps"
 date: 2014-07-15 08:10:22
 categories: Linux
 author: Michael Boelen
-tags: [Lynis, Patch (computing), System administrator, Configuration management database, Linux, Audit, Automation, Software, Computer engineering, Information technology management, Technology, Digital technology, Computing, Areas of computer science, Digital media, Information technology]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "New tool for efficiently validating the accuracy of CRISPR-Cas9 reaction
 date: 2016-02-04 05:00:00
 categories: Technology
 author: unknown author
-tags: [CRISPR, Cas9, Genome editing, DNA, Biotechnology, Life sciences, Molecular biology, Biochemistry, Organisms, Nucleic acids, Macromolecules, Nucleotides, Artificial objects, Genetics, Biology]
+
 ---
 
 

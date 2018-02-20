@@ -4,7 +4,7 @@ title: "Scientists enlist supercomputers, machine learning to automatically iden
 date: 2017-10-05 04:00:00
 categories: Science
 author: unknown author
-tags: [Machine learning, Image segmentation, Radiology, Supercomputer, Computing, Medical imaging, Statistical classification, Brain, K-nearest neighbors algorithm, Medicine, Algorithm, Test set, Medical image computing, Research, American Association for the Advancement of Science, Computer, Cognitive science, Technology, Areas of computer science]
+tags: [Machine learning, Image segmentation, Radiology, Supercomputer, Computing, Training test and validation sets, Statistical classification, Research, Brain, Medical imaging, Algorithm, K-nearest neighbors algorithm, Medical image computing, American Association for the Advancement of Science, Computer, Cognitive science, Technology, Areas of computer science]
 ---
 
 

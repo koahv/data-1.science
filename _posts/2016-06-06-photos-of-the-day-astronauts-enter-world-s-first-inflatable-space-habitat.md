@@ -4,7 +4,7 @@ title: "Photos of the Day: Astronauts Enter World's First Inflatable Space Habit
 date: 2016-06-06 19:40:54
 categories: Technology
 author: kduffy
-tags: [Bigelow Aerospace, NASA, International Space Station, NASA programs, Government programs, Human spaceflight programs, Scientific exploration, Spaceflight, Space exploration, Outer space, Space colonization, Space technology, Astronautics, Human spaceflight, Spacecraft, Flight, Aerospace engineering, Spaceflight technologies, Space-based economy, Space industry, Aerospace]
+tags: [NASA, Bigelow Aerospace, International Space Station, Spaceflight technologies, Space-based economy, Space exploration, Government programs, Aerospace, Aerospace engineering, Human spaceflight, Spaceflight, Outer space, Astronautics, Flight, Spacecraft]
 ---
 
 

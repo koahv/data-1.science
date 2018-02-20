@@ -4,7 +4,7 @@ title: "Growing skin in the lab"
 date: 2016-04-01 04:00:00
 categories: Technology
 author: unknown author
-tags: [Skin, Tissue (biology), Induced pluripotent stem cell, Tissue engineering, Developmental biology, Biology, Zoology, Life sciences, Cell biology, Anatomy, Biotechnology]
+
 ---
 
 

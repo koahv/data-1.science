@@ -4,7 +4,7 @@ title: "NASA: Understanding the magnetic sun"
 date: 2016-01-29 05:00:00
 categories: Science
 author: unknown author
-tags: [Sun, Corona, Magnetic field, Outer space, Physics, Nature, Astronomy, Space science, Applied and interdisciplinary physics, Solar System, Physical phenomena, Physical sciences]
+
 ---
 
 

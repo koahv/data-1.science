@@ -4,7 +4,7 @@ title: "Vita mission liftoff"
 date: 2017-07-27 14:43:00
 categories: Astronomy
 author: unknown author
-tags: [Space industry, Astronautics, Space colonization, Spacecraft, Flight, Spaceflight technologies, Space programs, Space-based economy, Aerospace engineering, Scientific exploration, Space technology, Human spaceflight programs, Government programs, Space agencies, Aerospace, NASA, Aerospace agencies, Space traffic management, Manned spacecraft, Outer space, Human spaceflight, Space exploration, Spaceflight, Space program of Russia, Space missions]
+tags: [Human spaceflight programs, Spaceflight technologies, Flight, Spacecraft, Astronautics, Human spaceflight, Outer space, Spaceflight, Space exploration, Aerospace engineering, Space programs, Space agencies, Government programs, Aerospace, NASA, Aerospace agencies, Scientific exploration, Space-based economy, Space traffic management, Manned spacecraft, Space program of Russia]
 ---
 
 

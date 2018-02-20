@@ -4,7 +4,7 @@ title: "What is a black hole?"
 date: 2014-07-21 18:42:13
 categories: Astronomy
 author: Maria Temming
-tags: [questions & answers, resources and education, science-based q&a, black hole faq]
+
 ---
 
 

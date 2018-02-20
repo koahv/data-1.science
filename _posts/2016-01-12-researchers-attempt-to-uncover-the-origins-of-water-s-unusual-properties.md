@@ -4,7 +4,7 @@ title: "Researchers attempt to uncover the origins of water's unusual properties
 date: 2016-01-12 14:30:01
 categories: Science
 author: unknown author
-tags: [Properties of water, Liquid, Ice, Phase (matter), Heat capacity, Oxyhydrogen, Gas, Heat, SLAC National Accelerator Laboratory, Water, Life, Entropy, Science, Chemistry, Physical sciences, Applied and interdisciplinary physics, Physical chemistry, Nature, Physics]
+
 ---
 
 

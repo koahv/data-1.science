@@ -4,7 +4,7 @@ title: "How El Niño impacts global temperatures"
 date: 2016-06-09 04:00:00
 categories: Science
 author: unknown author
-tags: [El Niño–Southern Oscillation, Atmosphere of Earth, Basic meteorological concepts and phenomena, Climate change, Earth phenomena, Nature, Future problems, Global natural environment, Oceans, Environmental science, Hydrography, Applied and interdisciplinary physics, Oceanography, Earth sciences, Atmospheric sciences, Climate, Physical geography, Climatology, Meteorology, Global environmental issues]
+tags: [El NioSouthern Oscillation, Climatology, Physical geography, Meteorology, Atmospheric sciences, Climate, Earth sciences, Oceanography, Applied and interdisciplinary physics, Atmosphere of Earth, Environmental science, Oceans, Global natural environment, Nature, Basic meteorological concepts and phenomena, Future problems]
 ---
 
 

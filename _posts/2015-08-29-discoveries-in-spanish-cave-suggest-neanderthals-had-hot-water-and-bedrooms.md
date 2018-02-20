@@ -4,7 +4,7 @@ title: "Discoveries in Spanish cave suggest Neanderthals had hot water and bedro
 date: 2015-08-29 03:11:02
 categories: Science
 author: aprilholloway
-tags: []
+
 ---
 
 

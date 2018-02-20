@@ -4,7 +4,7 @@ title: "Neurogenesis -- discovery of a new regulatory mechanism"
 date: 2016-01-29 05:00:00
 categories: Technology
 author: unknown author
-tags: [Neural development, Gene expression, Nervous system, Cellular differentiation, Neuron, Procedural memory, Brain, Neural stem cell, Protein, Drosophila melanogaster, Life sciences, Biology, Cell biology, Biotechnology, Molecular biology, Biochemistry, Neuroscience, Genetics, Biological processes, Organisms]
+
 ---
 
 

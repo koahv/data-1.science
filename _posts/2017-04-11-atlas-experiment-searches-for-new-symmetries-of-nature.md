@@ -4,7 +4,7 @@ title: "ATLAS Experiment searches for new symmetries of nature"
 date: 2017-04-11 09:25:07
 categories: Science
 author: unknown author
-tags: [Elementary particle, ATLAS experiment, D0 experiment, W and Z bosons, Higgs boson, W′ and Z′ bosons, Collider Detector at Fermilab, CERN, Physics, Quantum field theory, Quantum mechanics, Physical universe, Solid state engineering, Scientific theories, Applied and interdisciplinary physics, Subatomic particles, Science, Physical bodies, Modern physics, Mechanics, Theoretical physics, Physical sciences, Particle physics]
+tags: [Elementary particle, ATLAS experiment, D0 experiment, Higgs boson, W and Z bosons, Collider Detector at Fermilab, W and Z bosons, Large Hadron Collider, CERN, Modern physics, Theoretical physics, Quantum mechanics, Physical universe, Solid state engineering, Quantum field theory, Physical bodies, Subatomic particles, Science, Scientific theories, Mechanics, Physics, Particle physics, Physical sciences]
 ---
 
 

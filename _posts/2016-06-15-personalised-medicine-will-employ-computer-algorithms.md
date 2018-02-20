@@ -4,7 +4,7 @@ title: "Personalised medicine will employ computer algorithms"
 date: 2016-06-15 04:00:00
 categories: Technology
 author: unknown author
-tags: [Metagenomics, Microbiota, Bacteria, DNA, Genetics, Biotechnology, Organisms, Life sciences, Biology]
+tags: [Metagenomics, Microbiota, Bacteria, Genetics, Biology, Life sciences, Organisms, Biotechnology, Health sciences, Medicine]
 ---
 
 

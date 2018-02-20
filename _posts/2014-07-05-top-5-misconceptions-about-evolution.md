@@ -4,7 +4,7 @@ title: "Top 5 Misconceptions About Evolution"
 date: 2014-07-05 01:00:32
 categories: Astronomy
 author: Jolene Creighton
-tags: [evolution and biology, science, creationism, darwin, evolution, natural selection, theory of evolution]
+
 ---
 
 

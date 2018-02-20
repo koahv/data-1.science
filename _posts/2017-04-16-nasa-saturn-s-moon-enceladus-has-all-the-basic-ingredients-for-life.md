@@ -4,7 +4,7 @@ title: "NASA: Saturn’s Moon Enceladus Has All the Basic Ingredients for Life"
 date: 2017-04-16 11:00:35
 categories: Technology
 author: unknown author
-tags: []
+tags: [Enceladus, CassiniHuygens, Saturn, Extraterrestrial life, Europa (moon), Life, Space science, Physical sciences, Nature, Planetary science, Outer space, Bodies of the Solar System, Planets of the Solar System, Solar System, Astronomy]
 ---
 
 

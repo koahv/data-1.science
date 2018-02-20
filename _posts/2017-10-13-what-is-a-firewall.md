@@ -4,7 +4,7 @@ title: "What is a firewall?"
 date: 2017-10-13 09:53:31
 categories: Linux
 author: unknown author
-tags: [System software, Computer network security, Computer networking, Secure communication, Cybercrime, Areas of computer science, Software, Information Age, Crime prevention, Security technology, Information technology management, Cyberspace, Weapons countermeasures, Computer security exploits, E-commerce, Technology, Data security, Information governance, Cryptography, Security software, Telecommunications, Digital technology, Linus Torvalds, Computer law, Digital rights, Computer architecture, Computer security software, National security, Computing, Computer security, Cyberwarfare, Security engineering]
+tags: [Computer architecture, Areas of computer science, Computer networking, Cybercrime, Secure communication, Information Age, Computer network security, Computer security software, Information technology management, Crime prevention, Security technology, Cyberspace, Technology, Linus Torvalds, Digital technology, Weapons countermeasures, Computer security exploits, E-commerce, Security software, Information governance, Unix, Linux, Data security, National security, Computing, Computer security, Cyberwarfare, Software, System software, Security engineering]
 ---
 
 

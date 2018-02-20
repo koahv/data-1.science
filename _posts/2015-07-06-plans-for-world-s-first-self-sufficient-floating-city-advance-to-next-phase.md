@@ -4,7 +4,7 @@ title: "Plans for world’s first self-sufficient floating city advance to next 
 date: 2015-07-06 21:11:06
 categories: Energy
 author: Cat DiStasio
-tags: [architecture, energy efficiency, news, renewable energy, urban design, video, water issues, floating cities, floating city plans, floating city project, floating residential communities, seasteading, self-sufficient community, self-sufficient floating community, the seasteading institute, world’s first floating city]
+
 ---
 
 

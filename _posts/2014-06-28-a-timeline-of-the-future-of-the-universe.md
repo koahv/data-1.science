@@ -4,7 +4,7 @@ title: "A Timeline of the Future of the Universe"
 date: 2014-06-28 13:00:09
 categories: Astronomy
 author: Jaime Trosper
-tags: [astrophysics, infographics, future, hypervelocity stars, jaime, red-giant, trillion years, universal evolution, universe]
+
 ---
 
 

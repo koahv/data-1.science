@@ -4,7 +4,7 @@ title: "Lasers in space"
 date: 2016-01-30 10:00:00
 categories: Astronomy
 author: unknown author
-tags: [Satellites, Aerospace, Spaceflight technologies, Aerospace engineering, Flight, Spaceflight, Space technology, Technology, Spacecraft, Space exploration, Astronautics, Outer space, Space colonization, Telecommunications]
+
 ---
 
 

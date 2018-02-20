@@ -4,7 +4,7 @@ title: "4 billion years: World's oldest fossils unearthed"
 date: 2017-03-01 18:00:01
 categories: Science
 author: unknown author
-tags: [Life, Hydrothermal vent, Fossil, Earliest known life forms, Earth, Geology, Rock (geology), Nuvvuagittuq Greenstone Belt, Nature, Earth sciences, Biology, Organisms]
+tags: [Life, Hydrothermal vent, Fossil, Earth, Earliest known life forms, Geology, Rock (geology), Nuvvuagittuq Greenstone Belt, Sedimentary rock, Biology, Earth sciences, Nature]
 ---
 
 

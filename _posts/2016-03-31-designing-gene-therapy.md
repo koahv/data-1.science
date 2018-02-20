@@ -4,7 +4,7 @@ title: "Designing gene therapy"
 date: 2016-03-31 04:00:00
 categories: Technology
 author: unknown author
-tags: [CRISPR, Genetics, Cas9, Genome engineering, Lymphoma, Leukemia, Gene, Genome, Genetic engineering, T cell, Molecular biology, Biology, Life sciences, Biotechnology, Organisms, Medicine, Health sciences, Biochemistry, Clinical medicine]
+
 ---
 
 

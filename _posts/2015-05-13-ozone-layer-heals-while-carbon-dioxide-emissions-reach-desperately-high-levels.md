@@ -4,7 +4,7 @@ title: "Ozone layer heals while carbon dioxide emissions reach desperately high 
 date: 2015-05-13 17:00:17
 categories: Energy
 author: Colin Payne
-tags: [climate change, environmental destruction, news, renewable energy, carbon dioxide levels hit dangerous highs, climate change carbon dioxide, cut emissions by giving up fossil fuels, earths ozone layer hole healing, ozone layer beginning to heal]
+
 ---
 
 

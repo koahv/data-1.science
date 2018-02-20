@@ -4,7 +4,7 @@ title: "What is the Raspberry Pi Foundation? 10 million computers sold"
 date: 2016-11-29 08:02:00
 categories: Open Source
 author: admin
-tags: [Raspberry Pi, Code Club, Open-source model, Technology, Computing]
+tags: [Raspberry Pi, Code Club, Open-source model, Computing]
 ---
 
 

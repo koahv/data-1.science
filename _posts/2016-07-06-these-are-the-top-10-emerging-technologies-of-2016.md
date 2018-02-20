@@ -4,7 +4,7 @@ title: "These Are The Top 10 Emerging Technologies Of 2016"
 date: 2016-07-06 09:00:22
 categories: Technology
 author: unknown author
-tags: [Technology, Emerging technologies, Sustainability, Science and technology]
+tags: [Technology, Emerging technologies, Sustainability, World Economic Forum, Society, Innovation, Science and technology]
 ---
 
 

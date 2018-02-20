@@ -4,7 +4,7 @@ title: "NASA approves five more years for Hubble Space Telescope"
 date: 2016-06-24 16:24:22
 categories: Astronomy
 author: unknown author
-tags: [Hubble Space Telescope, James Webb Space Telescope, NASA, Astronomy, Physical sciences, Space exploration, Outer space, Astronomical objects, Planetary science, Spaceflight, Spacecraft, Space science]
+tags: [James Webb Space Telescope, Hubble Space Telescope, NASA, Observational astronomy, Spaceflight, Space science, Physical sciences, Outer space, Astronomy]
 ---
 
 

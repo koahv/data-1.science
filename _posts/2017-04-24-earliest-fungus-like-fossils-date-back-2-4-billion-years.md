@@ -4,7 +4,7 @@ title: "Earliest Fungus-Like Fossils Date Back 2.4 Billion Years"
 date: 2017-04-24 08:02:00
 categories: Science
 author: unknown author
-tags: [Biology, Biological evolution, Evolutionary biology, Earth sciences, Nature, Organisms]
+tags: [Nature, Biology, Organisms, Earth sciences, Evolutionary biology, Biological evolution, Science]
 ---
 
 

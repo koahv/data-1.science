@@ -4,7 +4,7 @@ title: "Quantum coherent-like state observed in a biological protein for the fir
 date: 2015-10-13 15:45:18
 categories: Science
 author: unknown author
-tags: [X-ray crystallography, Radiation, Terahertz radiation, Electromagnetic radiation, Light, Electromagnetic spectrum, Protein, Photon, Physical chemistry, Nature, Materials science, Mechanics, Chemistry, Applied and interdisciplinary physics, Physical sciences, Physics]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Greg Kroah-Hartman: The Commander-in-Chief of the Linux Stable Branch"
 date: 2017-09-05 09:17:40
 categories: Linux
 author: The New Stack
-tags: [Linux, Linux Foundation, Computer architecture, Unix variants, Linux people, Linux kernel programmers, Computer engineering, Operating system technology, Finnish computer programmers, Unix, Finnish computer scientists, Linux kernel, Technology, Free system software, Free software projects, Operating system families, Free software, Linus Torvalds, System software, Computers, Software, Computing, Open-source movement, Free content, Operating system kernels, Public commons, Digital media]
+tags: [Linux, Linux Foundation, Linux kernel programmers, Operating system families, Unix variants, Operating system technology, Finnish computer programmers, Computer architecture, Unix, Computer engineering, Finnish computer scientists, Linux kernel, Technology, Free system software, Free software projects, Open-source movement, Free content, Digital media, Public commons, Operating system kernels, Linus Torvalds, Free software, System software, Computers, Software, Computing, Linux people]
 ---
 
 

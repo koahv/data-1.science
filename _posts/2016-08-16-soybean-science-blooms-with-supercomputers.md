@@ -4,7 +4,7 @@ title: "Soybean science blooms with supercomputers"
 date: 2016-08-16 19:09:57
 categories: Science
 author: unknown author
-tags: [Plant breeding, Bioinformatics, Soybean, Genomics, Information Sciences Institute, Biology]
+tags: [Plant breeding, Soybean, Genomics, Bioinformatics, Genetics, Information Sciences Institute, Research, Biology]
 ---
 
 

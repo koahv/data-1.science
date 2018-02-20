@@ -4,7 +4,7 @@ title: "The United States Has 50,000 Wind Turbines"
 date: 2016-01-07 18:23:38
 categories: Energy
 author: Cynthia Shahan
-tags: [Wind power, Air pollution, Coal, Power station, Clean Power Plan, Nature, Alternative energy, Artificial objects, Sustainable technologies, Sustainable development, Natural resources, Energy, Physical universe]
+
 ---
 
 

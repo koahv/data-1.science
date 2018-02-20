@@ -4,7 +4,7 @@ title: "First trace of differences between matter and 'ordinary' antimatter"
 date: 2017-02-22 05:00:00
 categories: Science
 author: unknown author
-tags: [Matter, Baryon, Meson, Quark, Antimatter, Annihilation, Particle physics, CP violation, Antiparticle, Universe, Hadron, Physics, Nuclear physics, Subatomic particles, Theoretical physics, Physical bodies, Physical sciences, Nature, Mechanics, Standard Model, Quantum field theory, Physical universe, Quantum chromodynamics]
+tags: [Matter, Baryon, Meson, Quark, Antimatter, Annihilation, Particle physics, CP violation, Antiparticle, Universe, Physics, Hadron, Physical cosmology, Nature, Physical bodies, Subatomic particles, Physical sciences, Quantum field theory, Physical universe, Nuclear physics, Theoretical physics]
 ---
 
 

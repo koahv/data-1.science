@@ -4,7 +4,7 @@ title: "Ancient maps of Jupiter’s path show Babylonians’ advanced maths"
 date: 2016-01-28 19:00:09
 categories: Astronomy
 author: unknown author
-tags: [Zika fever, Science, Tsunami, Cancer, Artificial intelligence, Pregnancy, Black hole, Earth, Microcephaly, Extraterrestrial life, Chimpanzee, Volcano, Planet, Neptune, Brain]
+
 ---
 
 

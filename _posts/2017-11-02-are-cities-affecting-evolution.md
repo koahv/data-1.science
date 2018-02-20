@@ -4,7 +4,7 @@ title: "Are cities affecting evolution?"
 date: 2017-11-02 04:00:00
 categories: Science
 author: unknown author
-tags: [Fordham University, Evolution, Adaptation, University of Toronto Mississauga, Species, Biology, Organisms, Nature, Evolutionary biology, Biological evolution, Life sciences, Environmental social science]
+tags: [Fordham University, Evolution, Adaptation, University of Toronto Mississauga, Natural environment, Species, Biology, Organisms, Nature, Life sciences, Evolutionary biology, Biological evolution]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Predicting the human genome using evolution"
 date: 2015-10-28 04:00:00
 categories: Technology
 author: unknown author
-tags: [Mutation, Evolution, Genome, Human genome, Genome project, Biology, Biostatistics, Computational biology, Mathematical and theoretical biology, Biological evolution, Evolutionary biology, Bioinformatics, Biotechnology, Genetics, Organisms, Life sciences]
+
 ---
 
 

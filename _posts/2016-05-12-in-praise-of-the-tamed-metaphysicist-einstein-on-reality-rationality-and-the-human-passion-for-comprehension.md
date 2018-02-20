@@ -4,7 +4,7 @@ title: "In Praise of the Tamed Metaphysicist: Einstein on Reality, Rationality, 
 date: 2016-05-12 05:44:20
 categories: Philosophy
 author: Maria Popova
-tags: [Metaphysics, Science, Reality, Cognition, Philosophical theories, Philosophical movements, Psychological concepts, Truth, Cognitive science, Propositional attitudes, Western philosophy, Culture, Justification, Metaphilosophy, Epistemology, Theoretical philosophy, Philosophy]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Lunar ice drill"
 date: 2016-05-12 10:20:00
 categories: Astronomy
 author: unknown author
-tags: [Moon, Flight, Outer space, Spaceflight, Space science, Planetary science, Space exploration, Space colonization, Astronautics, Space technology, Solar System, Astronomy, Discovery and exploration of the Solar System, Planetary-mass satellites]
+
 ---
 
 

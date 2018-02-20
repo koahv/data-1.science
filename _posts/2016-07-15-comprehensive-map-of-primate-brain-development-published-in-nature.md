@@ -4,7 +4,7 @@ title: "Comprehensive map of primate brain development published in Nature"
 date: 2016-07-15 04:00:00
 categories: Technology
 author: unknown author
-tags: [Allen Institute for Brain Science, Neuroscience, Biology, Nervous system, Science, Life sciences]
+tags: [Allen Institute for Brain Science, Neuroscience, Biology, Nervous system, Science]
 ---
 
 

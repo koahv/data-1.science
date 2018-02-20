@@ -4,7 +4,7 @@ title: "UK achieves first coal-free day since the Industrial Revolution"
 date: 2017-04-24 11:22:56
 categories: Energy
 author: Temoor
-tags: [Wind power, Fossil fuel power station, Coal, Renewable energy, Fuel, Energy development, Alternative energy, Energy production, Energy, Physical universe, Nature, Sustainable development, Power (physics), Sustainable technologies, Natural resources, Artificial objects, Energy sources, Renewable resources, Sustainable energy]
+tags: [Wind power, Fossil fuel power station, Coal, Renewable energy, Fuel, Energy development, Energy sources, Energy, Physical universe, Nature, Sustainable development, Sustainable technologies, Natural resources, Sustainable energy, Energy production, Alternative energy, Artificial objects, Power (physics), Renewable resources]
 ---
 
 

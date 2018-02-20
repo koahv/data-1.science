@@ -4,7 +4,7 @@ title: "Linus Torvalds Talks IoT, Smart Devices, Security Concerns, and More [Vi
 date: 2016-05-06 15:00:00
 categories: Linux
 author: ericstephenbrown
-tags: [Internet of things, Linux, Linux kernel, Software, Computers, Computing, Linus Torvalds]
+
 ---
 
 

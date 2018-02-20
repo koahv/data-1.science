@@ -5,8 +5,7 @@ date: 2014-10-30 20:58:29
 categories: Energy
 Technology
 author: Kristine Lofgren
-tags: [green technology, news, renewable energy, largest tidal power plant, meygen, meygen tidal power, pentland firth tidal farm, pentland firth underwater power plant, pentland firth windmills, scotland power, scotland renewable energy, scotland tidal power plant, scotland windmill plant, tidal power plant, underwater power plant
-green technology, news, renewable energy, largest tidal power plant, meygen, meygen tidal power, pentland firth tidal farm, pentland firth underwater power plant, pentland firth windmills, scotland power, scotland renewable energy, scotland tidal power plant, scotland windmill plant, tidal power plant, underwater power plant]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Sentinel-5P launch preparations in full swing"
 date: 2017-09-14 09:15:00
 categories: Astronomy
 author: unknown author
-tags: [Satellite, Atmosphere, Atmosphere of Earth, Rocket, Spacecraft, Flight, Spaceflight technologies, Aerospace engineering, Space colonization, Astronautics, Space technology, Spaceflight, Outer space, Space exploration]
+tags: [Copernicus Programme, Satellite, Atmosphere, Atmosphere of Earth, Rocket, Aerospace engineering, Spaceflight technologies, Spaceflight, Flight, Outer space, Astronautics, Spacecraft]
 ---
 
 

@@ -4,7 +4,7 @@ title: "What’s Inside a Black Hole?"
 date: 2016-12-28 20:45:34
 categories: Astronomy
 author: Camille M. Carlisle
-tags: [Black hole, Event horizon, Outer space, Cosmology, Theory of relativity, Theoretical physics, General relativity, Science, Theories of gravitation, Physical quantities, Gravitation, Scientific theories, Modern physics, Mathematical physics, Non-Euclidean geometry, Astronomical objects, Mechanics, Astronomy, Spacetime, Physical cosmology, Physical sciences, Physics]
+tags: [Black hole, Event horizon, Modern physics, Astronomical objects, Physics, Physical sciences, Physical cosmology, Spacetime, Astronomy, Mechanics, Physical quantities, Theoretical physics, Mathematical physics, Scientific theories, Theories of gravitation, Gravitation, General relativity, Theory of relativity, Science, Cosmology]
 ---
 
 

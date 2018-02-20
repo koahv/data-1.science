@@ -4,7 +4,7 @@ title: "How to Check Bad Sectors or Bad Blocks on Hard Disk in Linux"
 date: 2016-10-26 06:53:13
 categories: Linux
 author: Aaron Kili
-tags: [Disk sector, S.M.A.R.T., Badblocks, Bad sector, Ext3, Flash memory, File system, Hard disk drive, Disk storage, Computer data storage, Computer engineering, Computing, Computer architecture, Computer data, Operating system technology, Computer hardware, Computers, Storage software, System software, Data management, Utility software, Data, Software]
+tags: [Disk sector, SMART, Badblocks, Ext3, Bad sector, Flash memory, File system, Disk storage, Computer data storage, Hard disk drive, Computer hardware, Operating system technology, Computers, System software, Computer data, Data management, Storage software, Data, Computer engineering, Software, Computer architecture, Utility software, Computing]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Moment of impact: A journey into the Chicxulub Crater"
 date: 2017-10-23 04:00:00
 categories: Science
 author: unknown author
-tags: [Impact event, Chicxulub crater, Impact crater, International Ocean Discovery Program, Geology, Physical geography, Space science, Physical sciences, Nature, Planetary science, Earth sciences]
+tags: [Chicxulub crater, Impact crater, International Ocean Discovery Program, Geology, Earth sciences, Planetary science, Nature, Physical sciences, Planets of the Solar System, Physical geography]
 ---
 
 

@@ -4,7 +4,7 @@ title: "How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL"
 date: 2016-08-06 06:58:26
 categories: Linux
 author: Tecmint
-tags: [Encryption, Tar (computing), Cyberwarfare, Information Age, Areas of computer science, Digital technology, Security technology, Data, Espionage techniques, Cybercrime, Information governance, Security engineering, Computer data, Data management, Cryptography, Information technology management, Secure communication, Computer security, Computing, Cyberspace, Digital rights, Operating system technology, Crime prevention, Digital media, Utility software, Technology]
+tags: [Encryption, Tar (computing), Information Age, Computer data, Security engineering, Data, Digital technology, Information governance, Cybercrime, Areas of computer science, Espionage techniques, Data management, Technology, Security technology, Digital rights, Telecommunications, Digital media, Cyberspace, Cryptography, Cyberwarfare, Secure communication, Information technology management, Computer security, Computing]
 ---
 
 

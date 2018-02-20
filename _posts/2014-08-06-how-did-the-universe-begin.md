@@ -4,7 +4,7 @@ title: "How did the Universe Begin?"
 date: 2014-08-06 01:00:18
 categories: Astronomy
 author: Joshua Filmer
-tags: [astrophysics, question everything, alternate theories, big bang, big bang theory, caused, joshua]
+
 ---
 
 

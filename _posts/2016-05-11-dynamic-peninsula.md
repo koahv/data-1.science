@@ -4,7 +4,7 @@ title: "Dynamic peninsula"
 date: 2016-05-11 10:05:00
 categories: Astronomy
 author: unknown author
-tags: [Ice sheet, Antarctica, Ice shelf, Ice, Glacier, Earth sciences, Physical geography]
+
 ---
 
 

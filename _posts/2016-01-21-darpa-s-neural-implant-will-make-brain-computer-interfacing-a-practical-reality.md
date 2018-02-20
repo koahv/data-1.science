@@ -4,7 +4,7 @@ title: "DARPA’s neural implant will make brain-computer interfacing a practica
 date: 2016-01-21 12:31:12
 categories: Technology
 author: Michael Mills
-tags: [Brain implant, Brain–computer interface, Brain, Neurotechnology, Nervous system, Technology, Neuroscience, Artificial objects, Computing, Cognitive science, Science and technology]
+
 ---
 
 

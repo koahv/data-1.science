@@ -4,7 +4,7 @@ title: "Supercomputer-powered supernova simulations shed light on distant explos
 date: 2014-07-02 11:25:25
 categories: Science
 author: unknown author
-tags: [astronomy & space]
+
 ---
 
 

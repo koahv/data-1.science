@@ -4,7 +4,7 @@ title: "Intel takes interest in Mantle requesting access to the AMD API"
 date: 2014-06-26 01:00:58
 categories: Linux VG
 author: Linux Game Consortium
-tags: [linux game news, amd, api, developers, gaming news, huddy, intel, linux, mantle, market share, share]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "We Just Completed a Record-Breaking Test of a Revolutionary Ion Engine"
 date: 2017-11-02 21:09:37
 categories: Science
 author: Universe Today
-tags: [Hall-effect thruster, Spacecraft propulsion, Rocket engine, Artificial objects, Spaceflight, Space technology, Spaceflight technologies, Outer space, Space exploration, Aerospace engineering, Flight, Spacecraft, Space colonization, Astronautics, Aerospace, Technology, Propulsion, Rocketry, Space science]
+tags: [Hall-effect thruster, Spacecraft propulsion, Rocket engine, Spaceflight technologies, Spaceflight, Outer space, Aerospace engineering, Flight, Spacecraft, Rocketry, Astronautics, Space technology, Aerospace, Technology, Artificial objects, Propulsion]
 ---
 
 

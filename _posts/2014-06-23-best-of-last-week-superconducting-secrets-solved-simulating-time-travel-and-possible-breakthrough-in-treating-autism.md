@@ -4,7 +4,7 @@ title: "Best of Last Week – Superconducting secrets solved, simulating time tr
 date: 2014-06-23 12:30:02
 categories: Science
 author: unknown author
-tags: [other sciences]
+
 ---
 
 

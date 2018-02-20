@@ -4,7 +4,7 @@ title: "Near instantaneous evolution discovered in bacteria"
 date: 2017-06-26 11:14:30
 categories: Science
 author: unknown author
-tags: [Bacteria, Evolution, Mutation, Antibiotics, Gene, Organism, Antimicrobial resistance, Biotechnology, Biological evolution, Life sciences, Nature, Organisms, Biology]
+tags: [Bacteria, Evolution, Mutation, Antibiotics, Organism, Human, Plant, Antimicrobial resistance, Life, Biology, Life sciences, Organisms, Nature]
 ---
 
 

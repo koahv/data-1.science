@@ -4,7 +4,7 @@ title: "Researchers use single molecule of DNA to create world's smallest diode"
 date: 2016-04-04 04:00:00
 categories: Technology
 author: unknown author
-tags: [Diode, Rectifier, Molecule, Electronics, DNA, Electrical engineering, Chemistry, Artificial objects, Electricity, Electronic engineering, Electromagnetism, Technology, Materials]
+
 ---
 
 

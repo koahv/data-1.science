@@ -4,7 +4,7 @@ title: ""An Astonishing Simplicity Underlies the Universe" (Weekend Feature Vide
 date: 2016-06-11 17:28:57
 categories: Astronomy
 author: dailygalaxy.com
-tags: [Email address, Computing, Cyberspace, World Wide Web, Technology]
+tags: [Computing, Cyberspace, World Wide Web, Technology, Digital media, Internet]
 ---
 
 

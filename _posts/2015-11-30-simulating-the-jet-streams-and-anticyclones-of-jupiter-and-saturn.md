@@ -4,7 +4,7 @@ title: "Simulating the jet streams and anticyclones of Jupiter and Saturn"
 date: 2015-11-30 05:00:00
 categories: Astronomy
 author: unknown author
-tags: [Jupiter, Saturn, Weather, Juno (spacecraft), Cassini–Huygens, Physical sciences, Planetary science, Astronomy, Outer space, Solar System, Space science, Planets]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "The NVIDIA Jetson TX1 Developer Kit: A Tiny, Low Power, Ultra Fast Compu
 date: 2016-08-05 13:00:24
 categories: Linux
 author: monkeyiq
-tags: [Tegra, Graphics processing unit, Solid-state drive, Serial ATA, Central processing unit, SIMD, Areas of computer science, Computing, Computers, Computer engineering, Computer hardware, Computer architecture, Digital technology, Technology, Electronic engineering, Office equipment, Electronics, Digital electronics, Electrical engineering]
+tags: [Tegra, Graphics processing unit, Solid-state drive, Central processing unit, Computer data storage, Serial ATA, SIMD, Computer hardware, Computer architecture, Computers, Digital technology, Electrical engineering, Digital electronics, Computer engineering, Electronics, Office equipment, Areas of computer science, Electronic engineering, Technology, Computing]
 ---
 
 

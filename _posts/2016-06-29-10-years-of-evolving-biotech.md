@@ -4,7 +4,7 @@ title: "10 years of evolving biotech"
 date: 2016-06-29 00:51:08
 categories: Interest
 author: Diana Enriquez
-tags: [DNA, Gene, Francis Crick, Genome, Genetics, MicroRNA, Technology, Cancer, Human genome, Genome editing, James Watson, Biology, Life sciences, Organisms, Biotechnology, Molecular biology]
+tags: [DNA, Gene, Francis Crick, Genome, Human, MicroRNA, Genetics, Technology, Human genome, Genome editing, Cancer, James Watson, Biology, Life sciences, Organisms, Biotechnology]
 ---
 
 

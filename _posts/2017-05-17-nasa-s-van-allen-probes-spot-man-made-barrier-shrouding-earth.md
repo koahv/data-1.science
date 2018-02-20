@@ -4,7 +4,7 @@ title: "NASA's Van Allen Probes spot man-made barrier shrouding Earth"
 date: 2017-05-17 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Very low frequency, Van Allen radiation belt, Radiation, Physical sciences, Outer space, Nature, Space science, Physics, Applied and interdisciplinary physics]
+tags: [Very low frequency, Van Allen radiation belt, Radiation, Outer space, Nature, Space science, Physical sciences]
 ---
 
 

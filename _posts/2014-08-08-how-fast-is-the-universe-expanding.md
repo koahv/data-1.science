@@ -4,7 +4,7 @@ title: "How fast is the universe expanding?"
 date: 2014-08-08 15:44:14
 categories: Astronomy
 author: Maria Temming
-tags: [questions & answers, resources and education, science-based q&a, cosmology faq]
+
 ---
 
 

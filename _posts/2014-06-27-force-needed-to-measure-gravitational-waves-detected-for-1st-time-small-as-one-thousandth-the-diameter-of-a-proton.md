@@ -4,7 +4,7 @@ title: "Force Needed to Measure Gravitational Waves Detected for 1st Time --"Sma
 date: 2014-06-27 15:34:39
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

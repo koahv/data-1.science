@@ -4,7 +4,7 @@ title: "Did Time Exist Before the Big Bang?"
 date: 2014-07-22 13:12:50
 categories: Astronomy
 author: Alan Filmer
-tags: [astrophysics, big bang, false dimensions, philosophical questions, planck length, planck time, spacetime, time]
+
 ---
 
 

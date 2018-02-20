@@ -4,7 +4,7 @@ title: "Sci-fi Warp Drives: A Very Real Possibility?"
 date: 2014-06-25 13:00:12
 categories: Astronomy
 author: Joe Garland
-tags: [astrophysics, 100 year star-ship symposium, alcubierre warp drive, helios 2, interstellar travel, proxima centauri, sci-fi to sci-fact, technology, warp bubble, warp drives]
+
 ---
 
 

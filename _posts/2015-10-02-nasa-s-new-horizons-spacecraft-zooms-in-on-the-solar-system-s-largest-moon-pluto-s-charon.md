@@ -4,7 +4,7 @@ title: "NASA’s New-Horizons Spacecraft  Zooms in on the Solar System's Largest
 date: 2015-10-02 15:15:47
 categories: Astronomy
 author: dailygalaxy.com
-tags: [New Horizons, Charon (moon), Pluto, Space exploration, Spaceflight, Bodies of the Solar System, Physical sciences, Planetary science, Outer space, Space science, Solar System, Astronomy]
+
 ---
 
 

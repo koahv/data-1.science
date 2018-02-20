@@ -4,7 +4,7 @@ title: "Directly reprogramming a cell's identity with gene editing"
 date: 2016-08-11 04:00:00
 categories: Technology
 author: unknown author
-tags: [CRISPR, Shinya Yamanaka, Gene, Stem cell, Cell potency, Induced pluripotent stem cell, Biology, Molecular biology, Biochemistry, Medicine, Cell biology, Genetics, Organisms, Biotechnology, Life sciences]
+tags: [CRISPR, Shinya Yamanaka, Gene, Stem cell, Cell potency, Induced pluripotent stem cell, Genetics, Biology, Organisms, Biotechnology, Life sciences, Biochemistry, Cell biology, Molecular biology, Medicine]
 ---
 
 

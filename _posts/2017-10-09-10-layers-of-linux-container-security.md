@@ -4,7 +4,7 @@ title: "10 Layers of Linux Container Security"
 date: 2017-10-09 11:30:36
 categories: Linux
 author: OpenSource.com
-tags: [Cloud computing, System software, Computer architecture, Technology, Computers, Areas of computer science, Information technology management, Computer engineering, Software, Computing, Computer networking, Digital technology]
+tags: [Cloud computing, Computer networking, System software, Digital technology, Areas of computer science, Computer architecture, Computers, Information technology, Computing, Software, Computer engineering, Technology, Information technology management]
 ---
 
 

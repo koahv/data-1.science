@@ -4,7 +4,7 @@ title: "Antonio Donato Nobre: The magic of the Amazon: A river that flows invisi
 date: 2014-09-19 15:04:54
 categories: Interest
 author: Antonio Donato Nobre
-tags: [higher education]
+
 ---
 
 

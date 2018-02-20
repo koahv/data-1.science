@@ -4,7 +4,7 @@ title: "China launches world’s first quantum communications satellite"
 date: 2016-08-16 11:06:20
 categories: Astronomy
 author: unknown author
-tags: [Satellite, Quantum key distribution, Modern physics, Physical sciences, Theoretical physics, Astronautics, Space technology, Particle physics, Outer space, Space exploration, Space colonization, Solid state engineering, Spacecraft, Quantum mechanics, Mechanics, Physics, Spaceflight]
+tags: [Satellite, Science, Quantum key distribution, Physics, Mechanics, Spaceflight, Theoretical physics, Physical sciences, Particle physics, Modern physics, Solid state engineering, Quantum mechanics]
 ---
 
 

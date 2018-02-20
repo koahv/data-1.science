@@ -4,7 +4,7 @@ title: "Cape Verde Leads With 100% Renewable Electricity By 2020 Target"
 date: 2016-10-03 13:45:13
 categories: Energy
 author: Steve Hanley
-tags: [Renewable energy, Wind power, Physical universe, Nature, Sustainable development, Energy, Sustainable energy, Alternative energy, Renewable resources, Sustainable technologies, Natural resources]
+tags: [Renewable energy, Wind power, Alternative energy, Sustainable energy, Sustainable development, Nature, Physical universe, Energy, Artificial objects, Renewable resources, Sustainable technologies]
 ---
 
 

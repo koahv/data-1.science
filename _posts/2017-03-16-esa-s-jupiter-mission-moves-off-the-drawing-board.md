@@ -4,7 +4,7 @@ title: "ESA’s Jupiter mission moves off the drawing board"
 date: 2017-03-16 14:00:00
 categories: Astronomy
 author: unknown author
-tags: [Jupiter Icy Moons Explorer, Jupiter, Ganymede (moon), Europa (moon), Spacecraft, Solar System, Astronomy, Planetary science, Spaceflight, Space science, Outer space, Space exploration, Space colonization, Astronautics, Space technology, Bodies of the Solar System, Flight, Physical sciences]
+tags: [Jupiter Icy Moons Explorer, Jupiter, Ganymede (moon), Europa (moon), Bodies of the Solar System, Spacecraft, Physical sciences, Flight, Planets of the Solar System, Astronautics, Spaceflight, Planetary science, Astronomy, Space science, Solar System, Outer space]
 ---
 
 

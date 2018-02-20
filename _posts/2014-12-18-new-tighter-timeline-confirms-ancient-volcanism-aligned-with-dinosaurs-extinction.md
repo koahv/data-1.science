@@ -4,7 +4,7 @@ title: "New, tighter timeline confirms ancient volcanism aligned with dinosaurs'
 date: 2014-12-18 20:45:44
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

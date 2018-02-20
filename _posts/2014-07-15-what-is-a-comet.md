@@ -4,7 +4,7 @@ title: "What is a comet?"
 date: 2014-07-15 17:04:49
 categories: Astronomy
 author: Maria Temming
-tags: [questions & answers, resources and education, science-based q&a, comets & asteroids]
+
 ---
 
 

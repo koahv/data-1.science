@@ -4,7 +4,7 @@ title: "The successful US/German satellite gravity mission GRACE comes to an end
 date: 2017-10-27 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Gravity Recovery and Climate Experiment, German Aerospace Center, Atmospheric entry, Space exploration, Space science, Aerospace, Spacecraft, Aerospace engineering, Spaceflight, Spaceflight technologies, Space colonization, Flight, Astronautics, Space technology, Outer space]
+tags: [Gravity Recovery and Climate Experiment, German Aerospace Center, Aerospace, Aerospace engineering, Astronautics, Spaceflight technologies, Spacecraft, Spaceflight, Space technology, Outer space, Space science, Technology, Flight]
 ---
 
 

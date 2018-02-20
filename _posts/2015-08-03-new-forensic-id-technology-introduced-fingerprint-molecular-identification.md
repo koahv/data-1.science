@@ -4,7 +4,7 @@ title: "New forensic ID technology introduced: Fingerprint Molecular Identificat
 date: 2015-08-03 04:00:00
 categories: Technology
 author: unknown author
-tags: []
+
 ---
 
 

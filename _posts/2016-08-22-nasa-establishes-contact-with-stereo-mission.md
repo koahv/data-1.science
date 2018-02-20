@@ -4,7 +4,7 @@ title: "NASA Establishes Contact With STEREO Mission"
 date: 2016-08-22 21:02:35
 categories: Technology
 author: mcrouse
-tags: [STEREO, NASA Deep Space Network, Spaceflight technologies, Spacecraft, Space technology, Space science, Aerospace engineering, Astronautics, Space colonization, NASA, Flight, Aerospace, Astronomy, Solar System, Scientific exploration, Space missions, Discovery and exploration of the Solar System, Space probes, Unmanned spacecraft, NASA programs, Space agencies, Aerospace agencies, Space exploration, Outer space, Spaceflight, Space program of the United States]
+tags: [STEREO, NASA Deep Space Network, Spacecraft, Outer space, Spaceflight technologies, Aerospace engineering, Astronautics, Flight, NASA, Space exploration, Space science, Aerospace, Solar System, Astronomy, Space missions, Discovery and exploration of the Solar System, Space probes, NASA programs, Space technology, Space agencies, Space program of the United States, Spaceflight, Unmanned spacecraft, Aerospace agencies]
 ---
 
 

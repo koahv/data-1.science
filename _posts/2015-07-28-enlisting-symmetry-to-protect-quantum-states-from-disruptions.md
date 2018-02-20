@@ -4,7 +4,7 @@ title: "Enlisting symmetry to protect quantum states from disruptions"
 date: 2015-07-28 13:17:25
 categories: Science
 author: unknown author
-tags: [quantum physics]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Examining Brazil’s New Climate Plan (INDC)"
 date: 2015-10-05 14:45:56
 categories: Energy
 author: World Resources Institute
-tags: [Intended Nationally Determined Contributions, Renewable energy, Low-carbon economy, Greenhouse gas, Deforestation, Energy development, Nature, Energy, Natural environment, Sustainable development, Physical universe, Economic development]
+
 ---
 
 

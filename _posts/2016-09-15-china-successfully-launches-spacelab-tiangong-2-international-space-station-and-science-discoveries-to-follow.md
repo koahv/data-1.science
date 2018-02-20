@@ -4,7 +4,7 @@ title: "China Successfully Launches SpaceLab Tiangong-2 --International Space St
 date: 2016-09-15 15:51:41
 categories: Astronomy
 author: dailygalaxy.com
-tags: [Tiangong-2, Tiangong-1, Atomic clock, Space-based economy, Space exploration, Space colonization, Outer space, Space technology, Aerospace engineering, Spaceflight technologies, Astronautics, Spacecraft, Space industry, Flight, Spaceflight, Technology]
+tags: [Tiangong-2, Atomic clock, Tiangong-1, Industries, Technology, Flight, Spacecraft, Astronautics, Spaceflight technologies, Aerospace engineering, Outer space, Spaceflight]
 ---
 
 

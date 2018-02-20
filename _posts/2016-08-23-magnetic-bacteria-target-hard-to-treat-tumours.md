@@ -4,7 +4,7 @@ title: "Magnetic bacteria target hard-to-treat tumours"
 date: 2016-08-23 14:07:36
 categories: Science
 author: unknown author
-tags: [Radiation therapy, Health sciences, Chemistry, Medicine, Biology, Clinical medicine, Life sciences]
+tags: [Pharmaceutical drug, Radiation therapy, Medicine, Biology, Chemistry, Clinical medicine, Health sciences]
 ---
 
 

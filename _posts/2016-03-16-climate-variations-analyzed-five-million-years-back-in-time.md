@@ -4,7 +4,7 @@ title: "Climate variations analyzed five million years back in time"
 date: 2016-03-16 10:00:03
 categories: Science
 author: unknown author
-tags: [Ice age, Climate change, Greenhouse gas, Global warming, Climate, Earth, Greenhouse effect, Climatology, Ozone layer, Ice core, Climate state, Carbon dioxide, Interglacial, Applied and interdisciplinary physics, Physical geography, Earth sciences, Nature, Atmospheric sciences, Meteorology]
+
 ---
 
 

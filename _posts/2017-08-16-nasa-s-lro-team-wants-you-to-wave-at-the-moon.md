@@ -4,7 +4,7 @@ title: "NASA's LRO team wants you to wave at the moon"
 date: 2017-08-16 04:00:00
 categories: Astronomy
 author: unknown author
-tags: [Lunar Reconnaissance Orbiter, Moon, Solar eclipse, Flight, Space technology, Spacecraft, Astronautics, Space colonization, Astronomy, Space science, Solar System, Planetary science, Space exploration, Spaceflight, Outer space, Discovery and exploration of the Solar System, Bodies of the Solar System, NASA, Planetary-mass satellites, Space missions, Moons]
+tags: [Lunar Reconnaissance Orbiter, Moon, Flight, Spaceflight, Outer space, Astronomy, Planetary science, Solar System, Astronautics, Space science, Space exploration, Discovery and exploration of the Solar System, Bodies of the Solar System, Spacecraft, Planets of the Solar System]
 ---
 
 

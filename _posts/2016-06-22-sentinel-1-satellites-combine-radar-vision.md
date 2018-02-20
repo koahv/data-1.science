@@ -4,7 +4,7 @@ title: "Sentinel-1 satellites combine radar vision"
 date: 2016-06-22 09:30:00
 categories: Astronomy
 author: unknown author
-tags: [Sentinel-1A, Sentinel-1, Space colonization, Earth sciences, Spaceflight, Outer space, Spacecraft, Space exploration, Space technology, Satellites, Astronautics, Planetary science, Aerospace engineering]
+tags: [Sentinel-1A, Sentinel-1, Outer space, Earth sciences, Spacecraft, Astronautics, Satellites, Planets of the Solar System, Spaceflight, Planetary science]
 ---
 
 

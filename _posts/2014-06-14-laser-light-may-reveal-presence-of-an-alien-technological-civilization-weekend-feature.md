@@ -4,7 +4,7 @@ title: ""Laser Light May Reveal Presence of an Alien Technological Civilization"
 date: 2014-06-14 18:43:36
 categories: Astronomy
 author: dailygalaxy.com
-tags: []
+
 ---
 
 

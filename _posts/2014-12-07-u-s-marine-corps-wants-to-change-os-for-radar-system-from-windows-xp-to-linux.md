@@ -4,7 +4,7 @@ title: "U.S. Marine Corps Wants to Change OS for Radar System from Windows XP to
 date: 2014-12-07 18:35:00
 categories: Linux
 author: Softpedia News (Silviu Stahie)
-tags: [linux]
+
 ---
 
 

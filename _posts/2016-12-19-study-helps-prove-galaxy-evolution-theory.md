@@ -4,7 +4,7 @@ title: "Study helps prove galaxy evolution theory"
 date: 2016-12-19 21:54:41
 categories: Science
 author: unknown author
-tags: [Milky Way, Astronomy, Star, Star formation, Dwarf galaxy, Big Bang, Hubble Space Telescope, Spitzer Space Telescope, Galaxy, Universe, Telescope, Atacama Large Millimeter Array, Observatory, Astronomical objects, Outer space, Physical sciences]
+tags: [Astronomy, Milky Way, Star, Spitzer Space Telescope, Star formation, Hubble Space Telescope, Galaxy, Big Bang, Carbon monoxide, Universe, Telescope, Observatory, Space telescope, Herschel Space Observatory, Physical sciences, Outer space, Astronomical objects]
 ---
 
 

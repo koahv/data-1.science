@@ -4,7 +4,7 @@ title: "Why the Sky Enchants Us: Our Longing for Transcendence and How Myths Ele
 date: 2015-07-08 07:00:48
 categories: Philosophy
 author: Maria Popova
-tags: [culture, psychology, books, history, karen armstrong, philosophy, religion]
+
 ---
 
 

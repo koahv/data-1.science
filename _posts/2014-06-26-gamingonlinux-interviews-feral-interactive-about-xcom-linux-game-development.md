@@ -4,7 +4,7 @@ title: "GamingOnLinux Interviews Feral Interactive About XCOM & Linux Game Devel
 date: 2014-06-26 11:21:13
 categories: Linux VG
 author: unknown author
-tags: []
+
 ---
 
 

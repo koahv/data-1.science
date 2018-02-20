@@ -4,7 +4,7 @@ title: "Scientists develop new theory of molecular evolution"
 date: 2017-10-23 04:00:00
 categories: Science
 author: unknown author
-tags: [Evolution, Protein, Molecular evolution, Genetics, Mutation, Biotechnology, Biology, Life sciences, Organisms, Evolutionary biology, Biological evolution, Biochemistry, Molecular biology]
+tags: [Evolution, Molecular evolution, Protein, Genetics, Mutation, Protein folding, Natural selection, Molecular biology, Life sciences, Organisms, Evolutionary biology, Biology, Nature, Biological evolution]
 ---
 
 

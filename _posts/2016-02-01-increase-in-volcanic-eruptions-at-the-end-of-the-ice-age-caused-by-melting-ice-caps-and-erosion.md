@@ -4,7 +4,7 @@ title: "Increase in volcanic eruptions at the end of the ice age caused by melti
 date: 2016-02-01 17:41:35
 categories: Science
 author: unknown author
-tags: [earth sciences]
+
 ---
 
 

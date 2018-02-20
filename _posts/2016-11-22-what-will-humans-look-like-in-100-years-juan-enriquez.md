@@ -4,7 +4,7 @@ title: "What will humans look like in 100 years? | Juan Enriquez"
 date: 2016-11-22 16:19:53
 categories: Interest
 author: Juan Enriquez
-tags: [Computing, Cyberspace, Technology]
+tags: [Computing, Technology, Cyberspace, World Wide Web, Communication]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Sentinel-1B launched to complete radar pair"
 date: 2016-04-25 21:35:00
 categories: Astronomy
 author: unknown author
-tags: [Sentinel-1A, CubeSat, CNES, European Space Agency, Astronautics, Satellites, Spacecraft, European space programmes, Space agencies, Outer space, Space programs, Space technology, Aerospace, Aerospace engineering, Space exploration, Flight, Spaceflight, Space colonization, Spaceflight technologies]
+
 ---
 
 

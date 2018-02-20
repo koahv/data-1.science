@@ -4,7 +4,7 @@ title: "Superfast fluorescence sets new speed record"
 date: 2015-07-27 09:00:01
 categories: Science
 author: unknown author
-tags: [nanophysics]
+
 ---
 
 

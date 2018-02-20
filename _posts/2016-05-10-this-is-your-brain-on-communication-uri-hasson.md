@@ -4,7 +4,7 @@ title: "This is your brain on communication | Uri Hasson"
 date: 2016-05-10 15:05:47
 categories: Interest
 author: Uri Hasson
-tags: [TED (conference), Computing, Communication, Technology, Cyberspace]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Scientists smash solar cell efficiency record by converting 40.4% of sun
 date: 2014-12-08 22:31:01
 categories: Energy
 author: Charley Cameron
-tags: [news, renewable energy, solar power, commercial solar, concentrated solar power, efficiency, efficiency record, photovoltaics, solar cell, solar panel, solar plant, solar power tower, university of new south wales, unsw]
+
 ---
 
 

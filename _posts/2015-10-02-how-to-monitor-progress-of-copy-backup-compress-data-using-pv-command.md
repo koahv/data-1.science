@@ -4,7 +4,7 @@ title: "How to Monitor Progress of (Copy/Backup/Compress) Data using ‘pv’ Co
 date: 2015-10-02 05:24:21
 categories: Linux
 author: Aaron Kili
-tags: [Package manager, Fedora (operating system), Computing, Utility software, Digital technology, Computer engineering, Unix, Computer data, Computers, Computer architecture, Operating system technology, System software, Software]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "US Government Opens Access to Federal Source Code with Code.gov"
 date: 2016-11-11 15:00:43
 categories: Linux
 author: arnieswap
-tags: [Open-source software, Software development, Vulnerability (computing), Software, Software bug, Apache HTTP Server, Technology, Business, Information technology, Digital technology, Communication, Digital media, Computing]
+tags: [Open-source software, Computer security, Vulnerability (computing), Software, Software bug, Apache HTTP Server, Technology, Computing, Intellectual works, Information technology, Digital media, Business, Information Age, Communication, Digital technology]
 ---
 
 

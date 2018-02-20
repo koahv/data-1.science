@@ -4,7 +4,7 @@ title: "Pulsar-based spacecraft navigation system one step closer to reality"
 date: 2016-08-16 11:09:37
 categories: Science
 author: unknown author
-tags: [Pulsar, PSR B1937+21, Astronomy, Space science, Outer space, Physical sciences]
+tags: [Pulsar, PSR B193721, Astronomy, Outer space, Physical sciences]
 ---
 
 

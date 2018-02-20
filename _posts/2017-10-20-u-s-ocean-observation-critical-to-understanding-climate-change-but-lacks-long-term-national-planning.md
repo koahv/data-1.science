@@ -4,7 +4,7 @@ title: "U.S. ocean observation critical to understanding climate change, but lac
 date: 2017-10-20 18:07:21
 categories: Science
 author: unknown author
-tags: [Climate, Climate change, Ocean, Weather forecasting, National Oceanic and Atmospheric Administration, Weather, Nature, United States, Earth, Meteorology, Environmental science, Atmospheric sciences, Global natural environment, Climatology, Oceanography, Natural environment, Earth sciences, Physical geography]
+tags: [Air pollution, Climate, Greenhouse gas, Ocean, Climate change, National Oceanic and Atmospheric Administration, Tropical cyclone, Weather forecasting, Climatology, Weather, Physical geography, Nature, Natural environment, Earth sciences]
 ---
 
 

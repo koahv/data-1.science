@@ -4,7 +4,7 @@ title: "Scientists predict the existence of a new boson: New Madala boson might 
 date: 2016-09-06 16:02:38
 categories: Science
 author: unknown author
-tags: [Particle physics, Field (physics), Large Hadron Collider, Physics, Standard Model, Higgs boson, CERN, Quantum field theory, Mass, Quantum mechanics, Matter, Photon, Universe, ATLAS experiment, Fundamental interaction, Metaphysics, Physical universe, Physical sciences, Modern physics, Theoretical physics, Mechanics, Scientific theories, Science]
+tags: [Particle physics, Standard Model, Physics, Large Hadron Collider, Higgs boson, CERN, Field (physics), Quantum field theory, Matter, Mass, ATLAS experiment, Quantum mechanics, Universe, Fundamental interaction, Energy, Metaphysics, Theoretical physics, Mechanics, Science, Physical sciences]
 ---
 
 

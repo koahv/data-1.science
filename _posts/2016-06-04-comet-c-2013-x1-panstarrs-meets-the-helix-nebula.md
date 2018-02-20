@@ -4,7 +4,7 @@ title: "Comet C/2013 X1 PanSTARRS meets the Helix Nebula"
 date: 2016-06-04 15:54:48
 categories: Astronomy
 author: Piotr Dzikowski
-tags: [Pan-STARRS, Astronomy, Astronomical objects, Outer space, Physical sciences, Bodies of the Solar System, Solar System, Planetary science]
+tags: [Pan-STARRS, Scientific observation, Observational astronomy, Planetary science, Solar System, Astronomy, Astronomical objects, Outer space, Physical sciences, Bodies of the Solar System]
 ---
 
 

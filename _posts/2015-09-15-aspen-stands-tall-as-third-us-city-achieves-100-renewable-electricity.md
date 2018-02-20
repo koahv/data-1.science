@@ -4,7 +4,7 @@ title: "Aspen Stands Tall As Third US City Achieves 100% Renewable Electricity"
 date: 2015-09-15 05:19:23
 categories: Energy
 author: Glenn Meyers
-tags: [clean power, cleantech news, climate change, uncategorized, bonaire, franfurt, hydrothermal, isle of wight, munich, san diego, san francisco, san jose, solar, sydney, wind]
+
 ---
 
 

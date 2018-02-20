@@ -4,7 +4,7 @@ title: "New insights about evolving Triceratops in Montana's Hell Creek Formatio
 date: 2014-07-01 10:34:52
 categories: Science
 author: unknown author
-tags: [other sciences]
+
 ---
 
 

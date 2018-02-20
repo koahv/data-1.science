@@ -4,7 +4,7 @@ title: "Spooky Action Is Real: Bizarre Quantum Entanglement Confirmed in New Tes
 date: 2015-11-17 17:06:45
 categories: Science
 author: unknown author
-tags: []
+
 ---
 
 

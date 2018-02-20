@@ -4,7 +4,7 @@ title: "Light: Particle or Wave?"
 date: 2014-07-22 05:00:07
 categories: Astronomy
 author: Alan Filmer
-tags: [astrophysics, quantum mechanics, copenhagen interpretation, decoherence, light, observer effect, particle, quantum physics, schrodinger, schrodingers cat, standard model, uncertainty principle, wave]
+
 ---
 
 

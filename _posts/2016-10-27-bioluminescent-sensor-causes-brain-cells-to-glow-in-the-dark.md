@@ -4,7 +4,7 @@ title: "Bioluminescent sensor causes brain cells to glow in the dark"
 date: 2016-10-27 04:00:00
 categories: Technology
 author: unknown author
-tags: [Optogenetics, Bioluminescence, Neuron, Luciferase, Neuroscience, Biology, Nervous system, Life sciences, Chemistry, Biotechnology, Organisms]
+tags: [Optogenetics, Bioluminescence, Neuron, Luciferase, Biology, Neuroscience, Biotechnology, Chemistry, Nervous system, Life sciences]
 ---
 
 

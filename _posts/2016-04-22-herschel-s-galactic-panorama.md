@@ -4,7 +4,7 @@ title: "Herschel’s Galactic panorama"
 date: 2016-04-22 09:00:00
 categories: Astronomy
 author: unknown author
-tags: [Milky Way, Star formation, Herschel Space Observatory, Star, Galaxy, Nebula, Cosmic dust, Interstellar medium, Stellar astronomy, Astrophysics, Space science, Stars, Astronomy, Astronomical objects, Outer space, Physical sciences]
+
 ---
 
 

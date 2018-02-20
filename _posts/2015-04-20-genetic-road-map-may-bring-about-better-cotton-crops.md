@@ -4,7 +4,7 @@ title: "Genetic road map may bring about better cotton crops"
 date: 2015-04-20 15:00:06
 categories: Science
 author: unknown author
-tags: [biology]
+
 ---
 
 

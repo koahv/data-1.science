@@ -4,7 +4,7 @@ title: "Revolutionary method to map brains at single-neuron resolution successfu
 date: 2016-08-18 04:00:00
 categories: Technology
 author: unknown author
-tags: [Brain, Neuron, Cold Spring Harbor Laboratory, Connectome, Life sciences, Biotechnology, Nervous system, Neuroscience, Biology]
+tags: [Brain, Neuron, Cold Spring Harbor Laboratory, Connectome, Biology, Neuroscience, Life sciences, Nervous system]
 ---
 
 

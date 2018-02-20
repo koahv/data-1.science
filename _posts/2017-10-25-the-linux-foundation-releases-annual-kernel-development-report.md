@@ -4,7 +4,7 @@ title: "The Linux Foundation Releases Annual Kernel Development Report"
 date: 2017-10-25 06:35:25
 categories: Linux
 author: Linux Foundation
-tags: [Linux kernel, Linux, Computing, Finnish computer scientists, Linux Foundation, Linux people, Finnish computer programmers, Computer engineering, Linux kernel programmers, Linus Torvalds, Computers, Technology, Software]
+tags: [Linux kernel, Linux Foundation, Linus Torvalds, Computer engineering, Computers, Technology, Software, Computing]
 ---
 
 

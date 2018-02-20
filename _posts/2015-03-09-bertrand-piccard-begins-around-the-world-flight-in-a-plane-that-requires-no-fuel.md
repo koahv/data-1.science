@@ -4,7 +4,7 @@ title: "Bertrand Piccard begins around-the-world flight in a plane that requires
 date: 2015-03-09 22:38:01
 categories: Interest
 author: Kate Torgovnick May
-tags: [news, bertrand piccard, energy, solar impulse 2, solar power, technology]
+
 ---
 
 

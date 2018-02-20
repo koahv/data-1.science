@@ -4,7 +4,7 @@ title: "Arachnid Rapunzel: Researchers spin spider silk proteins into artificial
 date: 2015-02-10 19:11:18
 categories: Science
 author: unknown author
-tags: [chemistry]
+
 ---
 
 

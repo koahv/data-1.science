@@ -4,7 +4,7 @@ title: "The Clean Energy Revolution In Three (Or Four) Charts"
 date: 2015-11-16 14:40:09
 categories: Energy
 author: Tina Casey
-tags: [Compact fluorescent lamp, Wind power, Electric vehicle, Sustainable energy, Light-emitting diode, Electric light, Sustainable technologies, Power (physics), Sustainable development, Energy, Artificial objects, Physical universe, Nature]
+
 ---
 
 

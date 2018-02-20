@@ -4,7 +4,7 @@ title: "Report highlights opportunities and risks associated with synthetic biol
 date: 2017-11-21 05:00:00
 categories: Science
 author: unknown author
-tags: [Microbiota, Technology, Disease, Human microbiota, Synthetic biology, Engineering, Biological engineering, Genome editing, Sustainability, Agriculture, Pharmaceutical drug, Health, Artificial objects, Organisms, Life sciences, Biology]
+tags: [Microbiota, Genome editing, Disease, Human microbiota, Technology, Engineering, Synthetic biology, Biological engineering, Sustainability, Agriculture, Biology, Life sciences, Artificial objects, Health]
 ---
 
 

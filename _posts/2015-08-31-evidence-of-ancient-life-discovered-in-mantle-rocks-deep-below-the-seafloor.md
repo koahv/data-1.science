@@ -4,7 +4,7 @@ title: "Evidence of ancient life discovered in mantle rocks deep below the seafl
 date: 2015-08-31 19:00:02
 categories: Science
 author: unknown author
-tags: [earth sciences]
+
 ---
 
 

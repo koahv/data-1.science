@@ -4,7 +4,7 @@ title: "Helsinki Builds 9 Million Gallon Underground Water Tank to Cool Local Bu
 date: 2014-09-09 13:53:42
 categories: Energy
 author: Colin Payne
-tags: [clean tech, news, renewable energy, urban design, conservation, eco, efficiency, environmental, finland, friendly, gasses, green, greenhouse, helsinki, kalasatama, kutsuplus, public, tank, transit, water issues]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "German State to Reach 100% Renewable Power This Year"
 date: 2014-06-28 17:30:15
 categories: Energy
 author: Josh Marks
-tags: [news, policy, renewable energy, wind power, clean energy, 100% clean energy, germany, green energy, grid, schleswig-holstein, wind energy]
+
 ---
 
 

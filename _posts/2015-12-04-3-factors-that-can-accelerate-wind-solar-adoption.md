@@ -4,7 +4,7 @@ title: "3 Factors That Can Accelerate Wind & Solar Adoption"
 date: 2015-12-04 17:05:58
 categories: Energy
 author: Rocky Mountain Institute
-tags: [Renewable energy, Net metering, Wind power, Demand, Electrical grid, Photovoltaics, Solar power, Distributed generation, Supply (economics), Price, Merit order, Electric vehicle, Subsidy, Nature, Artificial objects, Economy, Energy]
+
 ---
 
 

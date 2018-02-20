@@ -4,7 +4,7 @@ title: "Google’s DeepMind AI --"Grasps Basic Laws of Physics""
 date: 2016-11-11 16:54:00
 categories: Astronomy
 author: dailygalaxy.com
-tags: [Artificial intelligence, Learning, Experiment, Intelligence, Neuropsychology, Cognitive science, Cognition, Epistemology, Psychological concepts, Emergence, Cybernetics, Neuroscience, Science, Phenomenology, Psychology, Neuropsychological assessment, Technology]
+tags: [Artificial intelligence, Learning, Experiment, Science, Intelligence, Cognition, Cognitive science, Epistemology, Psychological concepts, Cybernetics, Emergence, Neuroscience, Change, Phenomenology]
 ---
 
 

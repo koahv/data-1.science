@@ -4,7 +4,7 @@ title: "Shifting land won't stop your journey"
 date: 2014-06-24 09:50:01
 categories: Science
 author: unknown author
-tags: [earth]
+
 ---
 
 

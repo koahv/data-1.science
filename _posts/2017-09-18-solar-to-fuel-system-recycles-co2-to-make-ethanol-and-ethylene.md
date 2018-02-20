@@ -4,7 +4,7 @@ title: "Solar-to-fuel system recycles CO2 to make ethanol and ethylene"
 date: 2017-09-18 04:00:00
 categories: Science
 author: unknown author
-tags: [Lawrence Berkeley National Laboratory, Artificial photosynthesis, Redox, Photosynthesis, Carbon, Fuel, Office of Science, Artificial objects, Chemistry, Energy, Nature, Materials, Physical sciences]
+tags: [Lawrence Berkeley National Laboratory, Artificial photosynthesis, Redox, Photosynthesis, Office of Science, Carbon, Fuel, Energy, Chemistry, Physical sciences, Materials, Nature, Artificial objects]
 ---
 
 

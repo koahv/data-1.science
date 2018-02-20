@@ -4,7 +4,7 @@ title: "There and Back Again: Scientists Beam Photons to Space to Test Quantum T
 date: 2017-10-25 14:04:00
 categories: Science
 author: unknown author
-tags: [Light, Quantum mechanics, Photon, Physics, Wave–particle duality, Wave, Experiment, Polarization (waves), Particle physics, Applied and interdisciplinary physics, Solid state engineering, Scientific theories, Condensed matter physics, Theoretical physics, Science, Modern physics, Physical sciences, Mechanics]
+tags: [Light, Quantum mechanics, Photon, Physics, Waveparticle duality, Wave, Experiment, Polarization (waves), Time, Particle physics, Theoretical physics, Applied and interdisciplinary physics, Scientific theories, Cognitive science, Science, Mechanics, Physical sciences, Modern physics, Solid state engineering, Metaphysics]
 ---
 
 

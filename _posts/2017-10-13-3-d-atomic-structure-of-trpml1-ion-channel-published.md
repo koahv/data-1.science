@@ -4,7 +4,7 @@ title: "3-D atomic structure of TRPML1 ion channel published"
 date: 2017-10-13 15:02:52
 categories: Science
 author: unknown author
-tags: [Cryo-electron microscopy, Ion channel, Chemistry, Physical sciences, Applied and interdisciplinary physics, Molecular biology, Biochemistry, Life sciences, Cell biology, Biology]
+tags: [Cryo-electron microscopy, Richard Henderson (biologist), Life sciences, Cell biology, Biochemistry, Chemistry, Biology, Molecular biology]
 ---
 
 

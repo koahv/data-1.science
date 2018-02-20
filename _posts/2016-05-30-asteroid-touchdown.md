@@ -4,7 +4,7 @@ title: "Asteroid touchdown"
 date: 2016-05-30 10:50:00
 categories: Astronomy
 author: unknown author
-tags: [Spacecraft, Flight, Spaceflight technologies, Space science, Aerospace engineering, Solar System, Space probes, Space colonization, Discovery and exploration of the Solar System, Scientific exploration, Aerospace, Astronomy, Unmanned spacecraft, Planetary science, Space missions, Bodies of the Solar System, Space technology, Astronautics, Space exploration, Outer space, Spaceflight]
+
 ---
 
 

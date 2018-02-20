@@ -4,7 +4,7 @@ title: "New benchmarks for molecular spectroscopy"
 date: 2015-08-05 12:34:39
 categories: Science
 author: unknown author
-tags: [general physics]
+
 ---
 
 

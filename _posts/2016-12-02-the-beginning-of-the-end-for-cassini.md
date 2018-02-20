@@ -4,7 +4,7 @@ title: "The Beginning of the End for Cassini"
 date: 2016-12-02 16:01:25
 categories: Astronomy
 author: David Dickinson
-tags: [Cassini–Huygens, Saturn, Rings of Saturn, Titan (moon), Spaceflight, Space science, Planets of the Solar System, Astronomy, Bodies of the Solar System, Solar System, Planets, Outer space, Planetary science, Gas giants, Astronomical objects known since antiquity, Outer planets, Moons, Space exploration, Physical sciences]
+tags: [Saturn, CassiniHuygens, Rings of Saturn, Titan (moon), Physical sciences, Astronomy, Planets of the Solar System, Moons, Gas giants, Space science, Outer planets, Astronomical objects known since antiquity, Solar System, Outer space, Spaceflight, Planetary science, Planets, Bodies of the Solar System]
 ---
 
 

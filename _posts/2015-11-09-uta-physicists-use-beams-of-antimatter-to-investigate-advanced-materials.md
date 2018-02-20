@@ -4,7 +4,7 @@ title: "UTA physicists use beams of antimatter to investigate advanced materials
 date: 2015-11-09 05:00:00
 categories: Technology
 author: unknown author
-tags: [Positron, Electron, Graphene, Physics, University of Texas at Arlington, Spin (physics), Materials science, Particle physics, Physical sciences, Applied and interdisciplinary physics, Chemistry, Materials]
+
 ---
 
 

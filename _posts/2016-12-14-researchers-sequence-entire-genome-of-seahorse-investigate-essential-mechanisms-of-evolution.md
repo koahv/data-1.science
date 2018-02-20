@@ -4,7 +4,7 @@ title: "Researchers sequence entire genome of seahorse, investigate essential me
 date: 2016-12-14 18:00:01
 categories: Science
 author: unknown author
-tags: [Seahorse, Gene, Evolution, Lined seahorse, Genetics, Gene duplication, Life sciences, Organisms, Biology]
+tags: [Seahorse, Gene, Evolution, Lined seahorse, Genetics, Gene duplication, Human, Genome, Biology, Organisms, Life sciences]
 ---
 
 

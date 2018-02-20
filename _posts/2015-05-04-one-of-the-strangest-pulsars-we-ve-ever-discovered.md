@@ -4,7 +4,7 @@ title: "One of The Strangest Pulsars We’ve Ever Discovered"
 date: 2015-05-04 14:28:38
 categories: Astronomy
 author: Jaime Trosper
-tags: [news, physics, binary system, black holes, green bank observatory, neutron star, pulsar, science news, supernovae]
+
 ---
 
 

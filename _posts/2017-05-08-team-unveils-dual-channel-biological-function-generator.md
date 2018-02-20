@@ -4,7 +4,7 @@ title: "Team unveils dual-channel biological function generator"
 date: 2017-05-08 14:50:01
 categories: Science
 author: unknown author
-tags: [Oscilloscope, Signal, Synthetic biology, Biology, Optogenetics, Gene, Organisms, Life sciences, Artificial objects, Technology]
+tags: [Oscilloscope, Signal, Synthetic biology, Biology, Optogenetics, Technology, Artificial objects, Organisms, Life sciences]
 ---
 
 

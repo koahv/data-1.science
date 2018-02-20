@@ -4,7 +4,7 @@ title: "What the First Snake Looked Like"
 date: 2015-05-20 00:00:00
 categories: World
 author: Jennifer Viegas
-tags: [snakes, snake, reptiles, reptile, animal evolution, animal behavior, animal anatomy, animal, animals]
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Optimize SSL/TLS for Maximum Security and Speed"
 date: 2015-03-12 19:19:11
 categories: Linux
 author: Michael Boelen
-tags: [HTTPS, Transport Layer Security, Hypertext Transfer Protocol, Software, Security engineering, Cyberwarfare, Computer data, Internet, Internet architecture, Computer security, Information Age, World Wide Web, Network protocols, Digital technology, Communications protocols, Hypertext, Cyberspace, Computing, Application layer protocols, Internet protocols, Secure communication, Information technology management, Computer networking, Protocols, Internet Standards, Areas of computer science, OSI protocols, Technology, Digital media, Web development]
+
 ---
 
 

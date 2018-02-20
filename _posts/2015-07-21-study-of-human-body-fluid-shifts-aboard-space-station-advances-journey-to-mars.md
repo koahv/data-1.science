@@ -4,7 +4,7 @@ title: "Study of human body fluid shifts aboard space station advances journey t
 date: 2015-07-21 13:46:38
 categories: Science
 author: unknown author
-tags: [space exploration]
+
 ---
 
 

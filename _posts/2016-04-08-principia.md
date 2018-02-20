@@ -4,7 +4,7 @@ title: "Principia"
 date: 2016-04-08 13:30:00
 categories: Astronomy
 author: unknown author
-tags: [Tim Peake, Space industry, Astronautics, Space technology, Human spaceflight, Space colonization, Outer space, Space exploration, Spaceflight]
+
 ---
 
 

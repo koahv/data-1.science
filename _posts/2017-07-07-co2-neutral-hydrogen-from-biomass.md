@@ -4,7 +4,7 @@ title: "CO2-neutral hydrogen from biomass"
 date: 2017-07-07 11:52:52
 categories: Science
 author: unknown author
-tags: [Natural gas, Biomass, Iron, Carbon dioxide, Energy development, Fuel, Renewable energy, Carbon, Steel, Energy, Artificial objects, Artificial materials, Chemical substances, Materials, Manufacturing, Nature, Chemistry]
+tags: [Natural gas, Biomass, Iron, Carbon dioxide, Energy development, Fuel, Renewable energy, Carbon, Manufacturing, Artificial objects, Energy, Materials, Chemical substances, Chemistry, Nature]
 ---
 
 

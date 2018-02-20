@@ -4,7 +4,7 @@ title: "New project to develop a drug to fight cognitive impairment associated w
 date: 2015-01-27 05:00:00
 categories: Technology
 author: unknown author
-tags: []
+
 ---
 
 

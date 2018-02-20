@@ -4,7 +4,7 @@ title: "Dark energy measured with record-breaking map of 1.2 million galaxies"
 date: 2016-07-14 04:00:00
 categories: Science
 author: unknown author
-tags: [Universe, Dark energy, Physical cosmology, Dark matter, Metric expansion of space, Galaxy, Astrophysics, Lawrence Berkeley National Laboratory, Office of Science, Science, Cosmic microwave background, Outer space, Nature, Natural philosophy, Physical universe, Physical quantities, Spacetime, Cosmology, Physics, Astronomy, Physical sciences]
+tags: [Universe, Dark energy, Physical cosmology, Dark matter, Metric expansion of space, Science, Galaxy, Astrophysics, Lawrence Berkeley National Laboratory, Office of Science, Cosmic microwave background, Physics, Outer space, Spacetime, Physical universe, Physical quantities, Cosmology, Natural philosophy, Astronomy, Physical sciences]
 ---
 
 

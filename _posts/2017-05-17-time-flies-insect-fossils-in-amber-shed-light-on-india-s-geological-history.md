@@ -4,7 +4,7 @@ title: "Time flies: Insect fossils in amber shed light on India's geological his
 date: 2017-05-17 11:00:03
 categories: Science
 author: unknown author
-tags: [Indian subcontinent, Amber, Species, Nature, Organisms]
+tags: [Indian subcontinent, Species, Amber, Fly, Science, Fossil, Nature, Organisms]
 ---
 
 

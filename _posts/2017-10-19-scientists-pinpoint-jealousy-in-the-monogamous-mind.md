@@ -4,7 +4,7 @@ title: "Scientists pinpoint jealousy in the monogamous mind"
 date: 2017-10-19 14:10:10
 categories: Science
 author: unknown author
-tags: []
+tags: [Pair bond, Jealousy, Human, Aggression, Human bonding, Monogamy, Nervous system, Psychological concepts, Behavioural sciences, Psychology, Neuroscience, Cognitive science, Cognition, Metaphysics of mind, Action (philosophy)]
 ---
 
 

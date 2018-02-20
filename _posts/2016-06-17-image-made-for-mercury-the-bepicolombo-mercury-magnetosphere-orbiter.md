@@ -4,7 +4,7 @@ title: "Image: Made for Mercury—the BepiColombo Mercury Magnetosphere Orbiter"
 date: 2016-06-17 11:35:20
 categories: Science
 author: unknown author
-tags: [BepiColombo, Mercury (planet), Physical sciences, Space colonization, Spaceflight, Astronomical objects, Space exploration, Solar System, Spacecraft, Planetary science, Astronautics, Planets, Space science, Astronomy, Outer space, Space technology]
+tags: [BepiColombo, Mercury (planet), Astronomy, Outer space, Planetary science, Astronomical objects, Astronautics, Solar System, Spaceflight, Spacecraft, Space science, Physical sciences]
 ---
 
 

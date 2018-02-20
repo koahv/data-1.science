@@ -4,7 +4,7 @@ title: "7 resources for open education materials"
 date: 2016-08-23 07:03:00
 categories: Open Source
 author: Don Watkins
-tags: [Open educational resources, CK-12 Foundation, Massive open online course, Sharing, Education, Communication, Teaching, Learning, Cognition, Educational technology, Technology]
+tags: [Open educational resources, CK-12 Foundation, Massive open online course, Education, Behavior modification, Communication, Technology, Teaching, Learning, Change, Sharing, Cognition]
 ---
 
 

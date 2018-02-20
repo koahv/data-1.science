@@ -4,7 +4,7 @@ title: "Today in Engineering History: First U.S. Human Spaceflight Program Annou
 date: 2015-12-17 18:09:14
 categories: Technology
 author: kduffy
-tags: [Project Mercury, NASA, Outer space, NASA programs, Space program of the United States, Scientific exploration, Spaceflight, Space exploration, Space technology, Astronautics, Flight, Aerospace agencies, Space colonization, Human spaceflight, Spacecraft, Aerospace engineering, Spaceflight technologies, Human spaceflight programs, Space-based economy, Space industry, Aerospace, Space programs, Government programs, Space science]
+
 ---
 
 

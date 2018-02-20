@@ -4,7 +4,7 @@ title: "Quantum computing—breaking through the 49 qubit simulation barrier"
 date: 2017-10-18 12:10:03
 categories: Science
 author: unknown author
-tags: [Quantum computing, Quantum mechanics, Computer, Computing, Simulation, Qubit, Quantum circuit, Supercomputer, Quantum supremacy, Technology, Areas of computer science, Computer engineering, Physics]
+tags: [Quantum computing, Computer, Simulation, Computing, Qubit, Quantum circuit, Quantum supremacy, Supercomputer, Technology, Physics]
 ---
 
 

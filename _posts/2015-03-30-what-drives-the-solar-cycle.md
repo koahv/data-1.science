@@ -4,7 +4,7 @@ title: "What drives the solar cycle?"
 date: 2015-03-30 12:00:02
 categories: Science
 author: unknown author
-tags: [astronomy & space]
+
 ---
 
 

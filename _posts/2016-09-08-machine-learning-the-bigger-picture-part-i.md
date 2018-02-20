@@ -4,7 +4,7 @@ title: "Machine Learning: The Bigger Picture, Part I"
 date: 2016-09-08 11:40:00
 categories: Linux
 author: DZone
-tags: [Computer, Automation, Technology, Science and technology, Cognition, Artificial objects, Computing, Cognitive science]
+tags: [Computer, Automation, Science and technology, Technology, Cognitive science, Computing, Artificial objects, Cognition]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Solar Overtakes Wind As Australia’s Number One Renewable Energy"
 date: 2015-10-14 12:29:36
 categories: Energy
 author: Joshua S Hill
-tags: [Renewable energy, Wind power, Renewable energy commercialization, Feed-in tariff, Watt, Energy policy of the United States, Capacity factor, Photovoltaics, Renewable resources, Sustainable energy, Alternative energy, Sustainable technologies, Sustainable development, Power (physics), Nature, Physical universe, Electric power, Energy, Energy sources, Natural resources, Energy and the environment, Energy production, Artificial objects, Technology, Electricity]
+
 ---
 
 

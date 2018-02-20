@@ -4,7 +4,7 @@ title: "How old is the universe?"
 date: 2014-07-18 16:04:22
 categories: Astronomy
 author: Maria Temming
-tags: [questions & answers, resources and education, science-based q&a, universe faq]
+
 ---
 
 
