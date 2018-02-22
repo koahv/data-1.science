@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On thin ice: Enceladus"
-date: 2016-07-05 12:45:00
+date: 2016-07-06
 categories: Astronomy
 author: unknown author
 tags: [Enceladus, Moon, Saturn, CassiniHuygens, Outer space, Planets, Planetary science, Planets of the Solar System, Bodies of the Solar System, Solar System, Space science, Astronomy]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pick of the Bunch: Console Internet Applications"
-date: 2014-07-14 14:00:00
+date: 2014-07-14
 categories: Linux
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New insights found in black hole collisions"
-date: 2015-03-27 15:03:49
+date: 2016-04-19
 categories: Science
 author: unknown author
 

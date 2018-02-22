@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some plants regenerate by duplicating their DNA"
-date: 2014-11-11 17:53:21
+date: 2016-04-11
 categories: Science
 author: unknown author
 

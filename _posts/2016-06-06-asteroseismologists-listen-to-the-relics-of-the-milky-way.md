@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asteroseismologists listen to the relics of the Milky Way"
-date: 2016-06-06 04:00:00
+date: 2016-06-13
 categories: Astronomy
 author: unknown author
 tags: [Astronomy, Milky Way, Star, Kepler (spacecraft), Physical sciences, Outer space, Astronomical objects, Science]

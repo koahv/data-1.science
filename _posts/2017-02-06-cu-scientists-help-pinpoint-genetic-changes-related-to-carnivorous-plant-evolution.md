@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CU scientists help pinpoint genetic changes related to carnivorous plant evolution"
-date: 2017-02-06 05:00:00
+date: 2017-03-22
 categories: Science
 author: unknown author
 tags: [University of Colorado Denver, Biology, Organisms, Life sciences, Science, Nature]

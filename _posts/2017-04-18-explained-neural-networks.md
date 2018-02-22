@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Explained: Neural Networks"
-date: 2017-04-18 11:30:56
+date: 2017-10-19
 categories: Linux
 author: MIT News
 tags: [Artificial intelligence, Phenomenology, Computational neuroscience, Cybernetics, Cognition, Neuroscience, Cognitive science, Neuropsychology, Emergence, Learning, Areas of computer science, Epistemology, Computer science, Nervous system, Technology, Cognitive neuroscience, biomedical cybernetics, Systems thinking, Psychological concepts, Computational science, Applied mathematics, Systems science, Futurology, Neuropsychological assessment]

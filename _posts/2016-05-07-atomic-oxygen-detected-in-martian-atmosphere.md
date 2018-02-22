@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Atomic oxygen detected in Martian atmosphere"
-date: 2016-05-07 09:39:44
+date: 2016-06-27
 categories: Science
 author: PTI
 

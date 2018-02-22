@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What&#039;s the difference between open source software and free software?"
-date: 2017-11-07 08:01:00
+date: 2018-02-18
 categories: Open Source
 author: skpeterson
 tags: [Free and open-source software, Free software, Open-source model, GNU General Public License, Software, Computing, Open-source movement, Free content, Intellectual works, Public commons, Intellectual property activism, Open content, Digital media, Computer engineering, Criticism of intellectual property, Sharing, Copyright licenses, Software distribution, Copyright law, Free goods and services, Digital technology]

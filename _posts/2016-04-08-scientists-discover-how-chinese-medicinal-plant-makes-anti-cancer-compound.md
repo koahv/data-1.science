@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists discover how Chinese medicinal plant makes anti-cancer compound"
-date: 2016-04-08 04:00:00
+date: 2016-04-10
 categories: Technology
 author: unknown author
-
+tags: [Biotechnology, Biotechnology and Biological Sciences Research Council, Science, Biology, Sustainability, Health, Research, John Innes Centre, Food security, Life sciences, Science and technology]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "21 Open Source Projects for IoT"
-date: 2016-09-20 16:57:36
+date: 2017-10-09
 categories: Linux
 author: ericstephenbrown
 tags: [Internet of things, Cloud computing, AllJoyn, Eclipse (software), Gateway (telecommunications), Computer network, Linux, Open-source software, Machine to machine, Java (programming language), Linux distribution, Web application, Home automation, Software, Computer engineering, Areas of computer science, Information technology, Computer networking, Computers, Digital technology, Technology, Computing]

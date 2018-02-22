@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's James Webb Space Telescope primary mirror fully assembled"
-date: 2016-02-04 05:00:00
+date: 2016-02-05
 categories: Astronomy
 author: unknown author
-
+tags: [James Webb Space Telescope, Flight, Aerospace engineering, Spaceflight technologies, Space exploration, Aerospace, NASA, Spacecraft, Outer space, Spaceflight]
 ---
 
 

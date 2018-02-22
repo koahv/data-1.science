@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "More Companies Join RE100, Commit To 100% Renewable Energy"
-date: 2015-12-09 14:35:37
+date: 2015-12-18
 categories: Energy
 author: Joshua S Hill
-
+tags: [The Climate Group, International Flavors  Fragrances, Renewable energy, Low-carbon economy, Energy, Sustainable development, Physical universe]
 ---
 
 

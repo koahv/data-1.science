@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Machine teaching' holds the power to illuminate human learning"
-date: 2015-08-11 04:00:00
+date: 2015-12-21
 categories: Technology
 author: unknown author
 

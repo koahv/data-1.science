@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "400-million-year-old fish fossil reveals jaw structure linked to humans"
-date: 2017-08-16 11:36:21
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [Placodermi, Evolution of fish, Fossil, Evolution]

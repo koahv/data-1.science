@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Evidence of Gravitational Waves Points to Multiple Universes (VIDEO)"
-date: 2014-06-13 15:48:55
+date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
 

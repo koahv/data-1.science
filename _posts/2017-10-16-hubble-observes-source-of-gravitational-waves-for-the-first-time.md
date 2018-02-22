@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hubble observes source of gravitational waves for the first time"
-date: 2017-10-16 04:00:00
+date: 2017-10-17
 categories: Science
 author: unknown author
 tags: [Gravitational wave, Astronomy, GW170817, LIGO, Neutron star, Kilonova, Physical cosmology, Applied and interdisciplinary physics, Physical phenomena, Astronomical objects, Nature, Outer space, Physics, Physical sciences]

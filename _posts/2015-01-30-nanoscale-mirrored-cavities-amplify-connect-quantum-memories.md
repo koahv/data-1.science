@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nanoscale mirrored cavities amplify, connect quantum memories"
-date: 2015-01-30 08:31:00
+date: 2015-07-21
 categories: Energy
 author: unknown author
 

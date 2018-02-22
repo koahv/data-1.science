@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "India set to join hunt for gravitational waves with its own LIGO"
-date: 2016-02-19 17:51:09
+date: 2016-04-16
 categories: Astronomy
 author: unknown author
-
+tags: [Indian Initiative in Gravitational-wave Observations, LIGO, Gravitational wave, Gravitation, Science, Physics, Astronomy, Gravitational-wave astronomy, Physical sciences]
 ---
 
 

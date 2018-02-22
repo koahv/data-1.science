@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nearly half of testicular cancer risk comes from inherited genetic faults"
-date: 2015-09-09 13:06:12
+date: 2016-06-30
 categories: Science
 author: unknown author
 

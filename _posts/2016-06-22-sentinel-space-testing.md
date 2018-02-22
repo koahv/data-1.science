@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentinel space testing"
-date: 2016-06-22 14:55:00
+date: 2016-06-24
 categories: Astronomy
 author: unknown author
 tags: [Satellite, European Space Agency, Copernicus Programme, Spacecraft, Spaceflight technologies, Flight, Aerospace engineering, Astronautics, Outer space, Spaceflight]

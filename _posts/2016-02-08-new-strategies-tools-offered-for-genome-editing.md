@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New strategies, tools offered for genome editing"
-date: 2016-02-08 18:54:49
+date: 2016-03-01
 categories: Science
 author: unknown author
-
+tags: [CRISPR, Cas9, Genome editing, Biology, Life sciences, Nucleic acids, Biochemistry, Molecular biology, Organisms, Biotechnology, Genetics]
 ---
 
 

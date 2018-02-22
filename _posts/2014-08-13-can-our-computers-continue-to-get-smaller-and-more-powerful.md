@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can our computers continue to get smaller and more powerful?"
-date: 2014-08-13 21:44:47
+date: 2015-10-29
 categories: Science
 author: unknown author
 

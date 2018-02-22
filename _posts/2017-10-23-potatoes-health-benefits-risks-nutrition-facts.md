@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Potatoes: Health Benefits, Risks & Nutrition Facts"
-date: 2017-10-23 13:49:00
+date: 2017-10-24
 categories: Science
 author: unknown author
 tags: [Potato, Glycemic index, Nutrition, Dietary fiber, Vitamin, Vegetable, Carbohydrate, Food, Hypertension, Phytochemical, Health, Attention deficit hyperactivity disorder, French fries, Obesity, Food and drink]

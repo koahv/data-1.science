@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revolutionary guitar string rocks the guitar world"
-date: 2017-09-22 10:36:35
+date: 2017-09-22
 categories: Science
 author: unknown author
 tags: [Vibrato systems for guitar, Electric guitar, Irish musical instruments, Musical instruments, Guitars, String instruments, Guitar family instruments]

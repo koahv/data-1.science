@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "We can reprogram life. How to do it wisely | Juan Enriquez"
-date: 2016-04-20 15:04:46
+date: 2016-04-21
 categories: Interest
 author: Juan Enriquez
-
+tags: [Computing, Technology, Cyberspace]
 ---
 
 

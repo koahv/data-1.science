@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beam Me Up, Herve: This Engineer Helped Design A CT Machine That Accelerates To 70 Gs [Video]"
-date: 2016-11-28 11:32:54
+date: 2016-11-22
 categories: Technology
 author: unknown author
 tags: [CT scan, Medical imaging, G-force, Physics, Applied and interdisciplinary physics]

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How Magnetic Resonance Is Helping Doctors Diagnose Autism"
-date: 2016-06-19 23:13:53
+date: 2016-04-10
 categories: Technology
 author: unknown author
-
+tags: [Autism, Magnetic resonance imaging, Autism spectrum, Brain, Biomarker (medicine), Nervous system, Medical diagnosis, Medical specialties, Health, Clinical medicine, Neuroscience, Medicine]
 ---
 
 

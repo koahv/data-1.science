@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Both hemispheres of the brain process numbers"
-date: 2016-01-27 13:38:44
+date: 2016-01-29
 categories: Science
 author: unknown author
-
+tags: [Medical imaging, University of Jena, Radiology, Brain, Human brain, Magnetic resonance imaging, Image scanner, Neuropsychology, Psychological concepts, Neuropsychological assessment, Cognition, Cognitive science, Neuroscience, Nervous system]
 ---
 
 

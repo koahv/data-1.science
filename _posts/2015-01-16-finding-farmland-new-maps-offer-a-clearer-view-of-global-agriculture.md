@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding farmland: New maps offer a clearer view of global agriculture"
-date: 2015-01-16 05:00:00
+date: 2015-07-20
 categories: Astronomy
 Science
 Science

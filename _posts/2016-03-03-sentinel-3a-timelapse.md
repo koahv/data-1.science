@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Sentinel-3A timelapse"
-date: 2016-03-03 12:55:00
+date: 2016-03-15
 categories: Astronomy
 author: unknown author
-
+tags: [Sentinel-3, Copernicus Programme, Earth sciences, Physical sciences, Flight, Geography, Astronautics, Spacecraft, Outer space, Spaceflight]
 ---
 
 

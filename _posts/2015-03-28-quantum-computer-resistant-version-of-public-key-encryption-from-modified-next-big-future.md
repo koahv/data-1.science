@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum computer resistant version of public key encryption from modified ... - Next Big Future"
-date: 2015-03-28 15:18:01
+date: 2015-07-26
 categories: Technology
 author: unknown author
 

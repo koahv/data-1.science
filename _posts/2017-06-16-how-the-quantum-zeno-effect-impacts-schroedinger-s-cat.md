@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How the quantum Zeno effect impacts Schroedinger's cat"
-date: 2017-06-16 12:28:51
+date: 2017-09-20
 categories: Science
 author: unknown author
 tags: [Quantum decoherence, Quantum mechanics, Measurement problem, Schrdingers cat, Wave function, Wave function collapse, Schrdinger equation, Reality, Quantum Zeno effect, Determinism, Physics, Science, Cognitive science, Philosophy, Physical sciences, Modern physics, Scientific theories, Mechanics, Metaphysics, Theoretical physics, Solid state engineering, Particle physics]

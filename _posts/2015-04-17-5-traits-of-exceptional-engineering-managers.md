@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Traits of Exceptional Engineering Managers"
-date: 2015-04-17 14:01:47
+date: 2015-12-09
 categories: Technology
 author: kduffy
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researchers pursue low-cost, efficient technologies for hydrogen generation"
-date: 2017-10-12 13:03:02
+date: 2017-10-12
 categories: Science
 author: unknown author
 tags: [Electrolysis, Fuel cell, Hydrogen, Water splitting, Renewable energy, Lawrence Berkeley National Laboratory, Zero-emissions vehicle, Physical universe, Materials, Technology, Nature, Chemistry, Artificial objects, Energy]

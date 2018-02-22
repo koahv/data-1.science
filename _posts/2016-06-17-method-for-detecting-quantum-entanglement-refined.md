@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Method for detecting quantum entanglement refined"
-date: 2016-06-17 12:23:09
+date: 2016-06-21
 categories: Science
 author: unknown author
 tags: [Quantum entanglement, Quantum computing, Quantum mechanics, Information, Computing, Qubit, Physics, Cognitive science, Technology, Science]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Video: Dark matter hunt with LUX-ZEPLIN"
-date: 2017-08-15 14:40:04
+date: 2017-09-22
 categories: Science
 author: unknown author
 tags: [Weakly interacting massive particles, Dark matter, Matter, Universe, Particle physics, Physics, Mechanics, Cosmology, Astronomy, Applied and interdisciplinary physics, Physical sciences, Theoretical physics, Science, Nature, Physical cosmology, Physical universe]

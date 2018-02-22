@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mile-high Mars mounds built by wind and climate change"
-date: 2016-03-31 14:00:01
+date: 2016-04-05
 categories: Science
 author: unknown author
-
+tags: [Mars, Astronomy, Mount Sharp, Erosion, Sedimentary rock, Science, Gale (crater), Noachian]
 ---
 
 

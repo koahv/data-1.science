@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is a black hole?"
-date: 2014-07-21 18:42:13
+date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
 

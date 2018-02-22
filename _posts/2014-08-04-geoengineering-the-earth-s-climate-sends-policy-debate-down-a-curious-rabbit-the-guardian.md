@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geoengineering the Earth's climate sends policy debate down a curious rabbit ... - The Guardian"
-date: 2014-08-04 01:02:01
+date: 2015-07-13
 categories: Earth
 author: unknown author
 

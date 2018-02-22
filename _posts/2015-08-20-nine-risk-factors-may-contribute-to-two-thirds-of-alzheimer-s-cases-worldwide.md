@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nine risk factors may contribute to two-thirds of Alzheimer's cases worldwide"
-date: 2015-08-20 23:02:57
+date: 2016-05-31
 categories: Science
 author: unknown author
 

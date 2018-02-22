@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Neanderthal DNA has subtle but significant impact on human traits"
-date: 2016-02-11 05:00:00
+date: 2016-03-01
 categories: Science
 author: unknown author
-
+tags: [Neanderthal, Human, Genetics, Biology, Risk, DNA, Evolution, Disease, Major depressive disorder, Life sciences, Medicine, Health]
 ---
 
 

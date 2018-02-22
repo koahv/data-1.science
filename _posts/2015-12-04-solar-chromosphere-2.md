@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Solar Chromosphere #2"
-date: 2015-12-04 07:16:40
+date: 2015-12-29
 categories: Astronomy
 author: Chad Quandt
-
+tags: [Scientific instruments, Optical devices, Optics, Astronomical observatories, Telescopes, Astronomy, Observational astronomy, Physical sciences, Scientific observation, Outer space, Astronomical instruments, Astronomical imaging, Works about astronomy]
 ---
 
 

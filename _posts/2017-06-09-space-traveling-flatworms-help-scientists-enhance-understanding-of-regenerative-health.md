@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Space-traveling flatworms help scientists enhance understanding of regenerative health"
-date: 2017-06-09 04:00:00
+date: 2017-09-10
 categories: Technology
 author: unknown author
 tags: [Experiment, Regeneration (biology), Tufts University, Science]

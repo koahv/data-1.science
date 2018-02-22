@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Controlling the magnetic properties of individual iron atoms"
-date: 2016-01-29 15:24:47
+date: 2016-01-31
 categories: Science
 author: unknown author
-
+tags: [Quantum dot, Atom, Magnetism, Physical chemistry, Physics, Condensed matter, Condensed matter physics, Manufacturing, Materials science, Physical sciences, Materials, Applied and interdisciplinary physics, Chemistry]
 ---
 
 

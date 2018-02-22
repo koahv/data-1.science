@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When black holes collide"
-date: 2015-09-28 11:50:00
+date: 2015-09-28
 categories: Astronomy
 author: unknown author
 

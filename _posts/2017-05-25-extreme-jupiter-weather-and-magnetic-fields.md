@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extreme Jupiter weather and magnetic fields"
-date: 2017-05-25 18:58:44
+date: 2017-10-08
 categories: Science
 author: unknown author
 

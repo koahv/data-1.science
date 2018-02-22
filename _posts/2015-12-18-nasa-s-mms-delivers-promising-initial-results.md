@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's MMS delivers promising initial results"
-date: 2015-12-18 05:00:00
+date: 2015-12-22
 categories: Astronomy
 author: unknown author
-
+tags: [Magnetic reconnection, Outer space, Magnetosphere, Sun, Plasma (physics), Goddard Space Flight Center, Magnetic field, Nature, Physical sciences, Physics, Applied and interdisciplinary physics, Space science]
 ---
 
 

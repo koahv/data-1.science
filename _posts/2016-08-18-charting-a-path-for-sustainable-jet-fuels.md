@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charting A Path for Sustainable Jet Fuels"
-date: 2016-08-18 16:25:53
+date: 2016-08-24
 categories: Technology
 author: mcrouse
 tags: [Biofuel, Bioenergy, Renewable energy, Sustainable technologies, Energy, Artificial objects, Sustainable development, Alternative energy, Energy sources, Natural resources, Natural environment, Sustainable energy, Nature, Fuels, Chemical energy sources]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spacecraft of the Week: LADEE"
-date: 2015-07-30 20:25:37
+date: 2015-12-21
 categories: Technology
 author: mcrouse
 

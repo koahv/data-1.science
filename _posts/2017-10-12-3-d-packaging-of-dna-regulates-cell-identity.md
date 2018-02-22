@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3-D packaging of DNA regulates cell identity"
-date: 2017-10-12 19:01:53
+date: 2017-10-13
 categories: Science
 author: unknown author
 tags: [Cell nucleus, Cell (biology), Gene, Cellular differentiation, Cancer, Developmental biology, Nuclear lamina, Muscle, Genome, Myocyte, Mutation, Biology, DNA, Chromosome, Life sciences, Genetics, Biotechnology, Cell biology, Organisms]

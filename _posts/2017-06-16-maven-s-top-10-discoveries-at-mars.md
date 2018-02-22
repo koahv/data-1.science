@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MAVEN's top 10 discoveries at Mars"
-date: 2017-06-16 04:00:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [MAVEN, Solar wind, Sun, Aurora, Mars, Atmosphere, Atmosphere of Mars, Goddard Space Flight Center, Space science, Physical sciences, Bodies of the Solar System, Outer space, Planets of the Solar System, Planetary science, Nature, Solar System, Astronomy]

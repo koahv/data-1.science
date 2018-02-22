@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Will we mine asteroids?"
-date: 2015-01-09 14:10:01
+date: 2016-04-12
 categories: Science
 author: unknown author
 

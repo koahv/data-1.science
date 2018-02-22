@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Insights on Ancient Mars' Climate"
-date: 2015-11-04 16:09:51
+date: 2015-11-23
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Mars, Valley network, Water, River, Planets of the Solar System, Outer space, Planetary science, Physical sciences, Solar System]
 ---
 
 

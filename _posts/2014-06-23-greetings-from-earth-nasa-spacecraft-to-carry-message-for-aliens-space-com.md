@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Greetings from Earth! NASA Spacecraft to Carry Message for Aliens - Space.com"
-date: 2014-06-23 21:32:28
+date: 2014-06-24
 categories: Earth
 author: unknown author
 

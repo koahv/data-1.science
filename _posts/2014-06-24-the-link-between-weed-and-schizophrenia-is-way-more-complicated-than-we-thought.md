@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The link between weed and schizophrenia is way more complicated than we thought"
-date: 2014-06-24 08:00:02
+date: 2014-06-24
 categories: Science
 author: Arielle Duhaime-Ross
 

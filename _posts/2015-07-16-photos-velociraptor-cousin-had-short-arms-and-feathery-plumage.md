@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photos: Velociraptor Cousin Had Short Arms and Feathery Plumage"
-date: 2015-07-16 13:45:50
+date: 2015-07-17
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA’s Juno Suffers Engine Anomaly, Briefly Enters Safe Mode"
-date: 2016-10-19 17:38:27
+date: 2017-10-07
 categories: Astronomy
 author: David Dickinson
 tags: [Juno (spacecraft), Jupiter, Space exploration, Planetary science, Aerospace, Space science, Aerospace engineering, Spacecraft, Spaceflight technologies, Outer space, Spaceflight, Astronomy, Flight, Solar System, Astronautics]

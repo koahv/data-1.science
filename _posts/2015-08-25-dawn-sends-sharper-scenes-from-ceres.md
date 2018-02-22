@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dawn sends sharper scenes from Ceres"
-date: 2015-08-25 15:11:11
+date: 2016-06-29
 categories: Science
 author: unknown author
 

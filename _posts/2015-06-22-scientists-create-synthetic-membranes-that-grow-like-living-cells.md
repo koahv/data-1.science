@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists create synthetic membranes that grow like living cells"
-date: 2015-06-22 19:45:41
+date: 2016-05-09
 categories: Science
 author: unknown author
 

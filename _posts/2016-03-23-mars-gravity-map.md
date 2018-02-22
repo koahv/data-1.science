@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mars Gravity Map"
-date: 2016-03-23 13:25:14
+date: 2016-03-24
 categories: Astronomy
 author: Camille M. Carlisle
-
+tags: [Mars, Gravity, Tharsis, Bodies of the Solar System, Planetary science, Solar System, Physical sciences, Planets, Astronomy, Space science, Outer space, Planets of the Solar System]
 ---
 
 

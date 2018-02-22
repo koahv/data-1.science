@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Residual echo' of ancient humans in scans may hold clues to mental disorders"
-date: 2017-07-25 04:00:00
+date: 2017-08-31
 categories: Science
 author: unknown author
 tags: [Neanderthal, Human, National Institute of Mental Health, Evolution, Neuroimaging, Brain, Neuroscience, Biology, Nervous system]

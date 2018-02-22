@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Graphene is both transparent and opaque to radiation"
-date: 2016-04-06 04:00:00
+date: 2016-04-10
 categories: Technology
 author: unknown author
-
+tags: [Telecommunication, Wireless, Hertz, Polarization (waves), Bandwidth (signal processing), American Association for the Advancement of Science, Terahertz radiation, Graphene, Electronic engineering, Electrical engineering, Telecommunications engineering, Telecommunications, Technology, Electronics]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Time for more 2016: leap second will be added to year’s end"
-date: 2016-07-07 11:40:01
+date: 2016-07-09
 categories: Astronomy
 author: unknown author
 tags: [Leap second, Coordinated Universal Time, Time, Spacetime, Physics, Physical quantities, Physical sciences, Scientific observation, Astronomy]

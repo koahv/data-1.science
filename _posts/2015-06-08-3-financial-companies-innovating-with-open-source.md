@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3 Financial Companies Innovating With Open Source"
-date: 2015-06-08 16:50:33
+date: 2015-06-29
 categories: Linux
 author: Libby Clark
 

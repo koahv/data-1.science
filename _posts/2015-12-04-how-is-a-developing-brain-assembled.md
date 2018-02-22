@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How is a developing brain assembled?"
-date: 2015-12-04 05:00:00
+date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Brain, Neuron, Biological engineering, Biology, Life sciences, Neuroscience]
 ---
 
 

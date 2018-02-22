@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding Shutdown, Poweroff, Halt and Reboot Commands in Linux"
-date: 2017-05-12 08:32:17
+date: 2017-08-31
 categories: Linux
 author: Aaron Kili
 tags: [Booting, Server (computing), Information Age, Computer architecture, Computer engineering, Digital technology, Cyberspace, Technology, System software, Areas of computer science, Digital media, Computing, Computers, Software]

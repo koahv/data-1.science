@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Best Lightweight Graphical Email Clients"
-date: 2014-08-03 21:00:00
+date: 2015-05-28
 categories: Linux
 author: unknown author
 

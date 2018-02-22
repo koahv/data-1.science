@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Rosetta’s comet contains ingredients for life"
-date: 2016-05-27 18:00:00
+date: 2016-05-28
 categories: Astronomy
 author: unknown author
-
+tags: [Rosetta (spacecraft), Comet, Abiogenesis, Life, Coma (cometary), Glycine, Comet nucleus, Physical sciences, Solar System, Astronomy, Bodies of the Solar System, Planetary science, Nature, Chemistry, Outer space]
 ---
 
 

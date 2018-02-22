@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How brain architecture leads to abstract thought"
-date: 2015-12-16 05:00:00
+date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Deep learning, Brain, Artificial intelligence, Functional magnetic resonance imaging, Thought, Consciousness, Cognition, Connectome, Cognitive neuroscience, Nervous system, Psychology, Phenomenology, Cybernetics, Emergence, Epistemology, Neuropsychological assessment, Neuropsychology, Neuroscience, Psychological concepts, Cognitive science]
 ---
 
 

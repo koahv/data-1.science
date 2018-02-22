@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The future of search engines"
-date: 2017-08-03 04:00:00
+date: 2017-09-15
 categories: Technology
 author: unknown author
 tags: [Artificial intelligence, Deep learning, Artificial neural network, Machine learning, Graphics processing unit, Crowdsourcing, American Association for the Advancement of Science, Natural language processing, Information, Cognition, Cognitive science, Technology, Computing, Areas of computer science]

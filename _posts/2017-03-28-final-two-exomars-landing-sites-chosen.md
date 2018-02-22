@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Final two ExoMars landing sites chosen"
-date: 2017-03-28 15:00:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [ExoMars, Mawrth Vallis, Mars, Astronomy, Exploration of Mars, Outer space, Planets of the Solar System, Planetary science, Spaceflight, Solar System, Astronautics, Discovery and exploration of the Solar System]

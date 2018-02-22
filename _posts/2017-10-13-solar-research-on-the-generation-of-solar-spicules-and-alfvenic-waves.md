@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solar research: On the generation of solar spicules and Alfvenic waves"
-date: 2017-10-13 16:31:26
+date: 2017-10-14
 categories: Science
 author: unknown author
 tags: [Sun, Plasma (physics), Observatory, Physics, Alfvn wave, Astrophysics, Swedish Solar Telescope, Particle, Applied and interdisciplinary physics, Nature, Physical sciences, Outer space, Astronomy]

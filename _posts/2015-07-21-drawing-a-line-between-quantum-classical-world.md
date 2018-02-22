@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drawing a line between quantum, classical world"
-date: 2015-07-21 20:24:55
+date: 2015-07-23
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The successful US/German satellite gravity mission GRACE comes to an end after 15 years"
-date: 2017-10-27 04:00:00
+date: 2017-11-01
 categories: Astronomy
 author: unknown author
 tags: [Gravity Recovery and Climate Experiment, German Aerospace Center, Aerospace, Aerospace engineering, Astronautics, Spaceflight technologies, Spacecraft, Spaceflight, Space technology, Outer space, Space science, Technology, Flight]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Linux Foundation Offers Course for SysAdmins on EdX"
-date: 2015-06-03 13:01:02
+date: 2015-06-30
 categories: Linux
 author: Softpedia News (Silviu Stahie)
 

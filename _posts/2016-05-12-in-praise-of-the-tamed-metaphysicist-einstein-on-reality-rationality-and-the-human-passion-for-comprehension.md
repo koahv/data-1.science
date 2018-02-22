@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "In Praise of the Tamed Metaphysicist: Einstein on Reality, Rationality, and the Human Passion for Comprehension"
-date: 2016-05-12 05:44:20
+date: 2016-05-14
 categories: Philosophy
 author: Maria Popova
-
+tags: [Metaphysics, Science, Cognition, Truth, Philosophical theories, Philosophical movements, Psychological concepts, Cognitive science, Justification, Culture, Western philosophy, Epistemology, Theoretical philosophy, Philosophy]
 ---
 
 

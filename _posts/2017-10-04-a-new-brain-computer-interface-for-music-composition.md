@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A new brain-computer interface for music composition"
-date: 2017-10-04 12:50:01
+date: 2017-10-05
 categories: Science
 author: unknown author
 tags: [Braincomputer interface, Artificial objects, Nervous system, Technology, Cognition, Cognitive science, Neuroscience]

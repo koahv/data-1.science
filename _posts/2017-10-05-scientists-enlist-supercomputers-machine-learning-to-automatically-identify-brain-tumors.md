@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists enlist supercomputers, machine learning to automatically identify brain tumors"
-date: 2017-10-05 04:00:00
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [Machine learning, Image segmentation, Radiology, Supercomputer, Computing, Training test and validation sets, Statistical classification, Research, Brain, Medical imaging, Algorithm, K-nearest neighbors algorithm, Medical image computing, American Association for the Advancement of Science, Computer, Cognitive science, Technology, Areas of computer science]

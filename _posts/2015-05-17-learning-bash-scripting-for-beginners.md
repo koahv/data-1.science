@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning bash scripting for beginners"
-date: 2015-05-17 19:29:12
+date: 2015-05-18
 categories: Linux
 author: Vivek Gite
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Imaging the polarity of individual chemical bonds"
-date: 2015-08-19 15:32:39
+date: 2016-05-27
 categories: Science
 author: unknown author
 

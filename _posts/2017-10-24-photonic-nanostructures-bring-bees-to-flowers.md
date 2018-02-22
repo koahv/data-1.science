@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photonic nanostructures bring bees to flowers"
-date: 2017-10-24 13:00:36
+date: 2017-10-25
 categories: Science
 author: Marric Stephens
 tags: [Diffraction grating, Flower, Ultraviolet, Color, Petal, Light, Iridescence, Diffraction, Electromagnetic radiation, Optics, Applied and interdisciplinary physics, Natural philosophy, Atomic molecular and optical physics]

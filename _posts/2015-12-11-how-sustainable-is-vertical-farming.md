@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How sustainable is vertical farming?"
-date: 2015-12-11 14:20:01
+date: 2015-12-18
 categories: Science
 author: unknown author
-
+tags: [Agriculture, Sustainability, Vertical farming, Aquaponics, Primary sector of the economy, Natural resources, Food and drink, Land management, Natural environment]
 ---
 
 

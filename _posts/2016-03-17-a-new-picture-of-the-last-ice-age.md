@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A new picture of the last ice age"
-date: 2016-03-17 13:06:22
+date: 2016-03-24
 categories: Science
 author: unknown author
-
+tags: [Antarctica, Ice sheet, Global warming, Last glacial period, Ice age, Meteorology, Physical sciences, Atmospheric sciences, Earth sciences, Physical geography, Climatology, Oceanography, Climate, Geology, Global natural environment, Nature]
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Insights Into Subatomic Particles --"Could Change How We Understand the Formation of the Universe""
-date: 2015-11-20 15:34:21
+date: 2015-11-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Kaon, Matter, Physics, Particle physics, CP violation, Universe, Antimatter, Research, Physical sciences, Scientific method, Physical cosmology, Scientific theories, Mechanics, Science, Theoretical physics]
 ---
 
 

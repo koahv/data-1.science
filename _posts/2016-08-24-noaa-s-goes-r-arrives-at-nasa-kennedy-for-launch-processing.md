@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NOAA’s GOES-R Arrives at NASA Kennedy for Launch Processing"
-date: 2016-08-24 13:11:10
+date: 2016-08-30
 categories: Technology
 author: mcrouse
 tags: [GOES-16, NASA, Aerospace engineering, Spaceflight technologies, Astronautics, Flight, Aerospace, Space program of the United States, NASA programs, Satellites, Space programs, Space exploration, Space technology, Government programs, Outer space, Spacecraft, Spaceflight]

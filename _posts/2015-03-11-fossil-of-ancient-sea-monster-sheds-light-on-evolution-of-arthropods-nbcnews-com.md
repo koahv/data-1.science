@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fossil of Ancient 'Sea Monster' Sheds Light on Evolution of Arthropods - NBCNews.com"
-date: 2015-03-11 20:06:53
+date: 2015-07-12
 categories: Earth
 author: unknown author
 

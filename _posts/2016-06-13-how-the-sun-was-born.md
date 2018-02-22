@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How the Sun was born"
-date: 2016-06-13 11:55:00
+date: 2016-06-13
 categories: Astronomy
 author: unknown author
 tags: [Star, Sun, Hubble Space Telescope, Physical sciences, Astronomy, Outer space, Astronomical objects, Stars, Stellar astronomy, Applied and interdisciplinary physics, Space science]

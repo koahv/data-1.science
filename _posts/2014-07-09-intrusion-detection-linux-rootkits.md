@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intrusion detection: Linux rootkits"
-date: 2014-07-09 08:55:50
+date: 2015-09-30
 categories: Linux
 author: Michael Boelen
 

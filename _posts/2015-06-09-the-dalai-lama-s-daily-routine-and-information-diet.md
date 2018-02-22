@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Dalai Lama’s Daily Routine and Information Diet"
-date: 2015-06-09 06:30:04
+date: 2015-07-10
 categories: Philosophy
 author: Maria Popova
 

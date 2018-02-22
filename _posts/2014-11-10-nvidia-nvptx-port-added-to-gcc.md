@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NVIDIA NVPTX Port Added To GCC"
-date: 2014-11-10 16:58:24
+date: 2015-06-30
 categories: Linux
 author: unknown author
 

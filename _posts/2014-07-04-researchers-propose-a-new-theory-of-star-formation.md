@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researchers propose a new theory of star formation"
-date: 2014-07-04 02:03:55
+date: 2014-08-16
 categories: Science
 author: unknown author
 

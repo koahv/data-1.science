@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA mini-balloon mission maps migratory magnetic boundary"
-date: 2016-05-19 04:00:00
+date: 2016-05-21
 categories: Astronomy
 author: unknown author
-
+tags: [Van Allen radiation belt, Earth, Sun, Solar wind, Earths magnetic field, Magnetic field, Physical sciences, Outer space, Space science, Astronomy, Applied and interdisciplinary physics, Physics, Nature]
 ---
 
 

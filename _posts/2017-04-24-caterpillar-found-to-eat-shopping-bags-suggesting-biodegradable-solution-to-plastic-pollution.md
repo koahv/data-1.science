@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caterpillar found to eat shopping bags, suggesting biodegradable solution to plastic pollution"
-date: 2017-04-24 04:00:00
+date: 2017-09-10
 categories: Technology
 author: unknown author
 tags: [Waxworm, Polyethylene, Plastic, Galleria mellonella, Polymer, Chemical substance, Beehive, Chemistry, Materials]

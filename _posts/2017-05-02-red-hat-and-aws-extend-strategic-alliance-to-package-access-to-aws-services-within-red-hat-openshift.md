@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Red Hat and AWS Extend Strategic Alliance to Package Access to AWS Services Within Red Hat OpenShift"
-date: 2017-05-02 04:00:00
+date: 2017-10-23
 categories: Linux
 author: unknown author
 tags: [Red Hat, Cloud computing, Amazon Web Services, OpenShift, Forward-looking statement, Amazon (company), Computing, Technology, Business]

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Science instruments of NASA's James Webb Space Telescope successfully installed"
-date: 2016-05-24 04:00:00
+date: 2016-05-26
 categories: Astronomy
 author: unknown author
-
+tags: [James Webb Space Telescope, European Space Agency, Spacecraft, NASA, Space traffic management, Aerospace agencies, Aerospace engineering, Space programs, Spaceflight technologies, Aerospace, Space agencies, Outer space, Spaceflight, Astronautics, Space exploration, Flight, Astronomy]
 ---
 
 

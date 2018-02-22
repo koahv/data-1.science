@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artificial leaf goes more efficient for hydrogen generation"
-date: 2017-01-04 05:00:00
+date: 2017-03-17
 categories: Science
 author: unknown author
 tags: [Artificial photosynthesis, Photosynthesis, Sustainable technologies, Alternative energy, Physical universe, Chemistry, Artificial objects, Nature, Energy]

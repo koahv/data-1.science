@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Animal evolution: Revolution averted"
-date: 2015-12-01 05:00:00
+date: 2015-12-22
 categories: Science
 author: unknown author
-
+tags: [Animal, Ctenophora, Placozoa, Sponge, Biological evolution, Life sciences, Nature, Evolutionary biology, Organisms, Biology]
 ---
 
 

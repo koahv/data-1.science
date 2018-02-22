@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Best Map of Mars Yet - Daily Beast"
-date: 2014-07-20 00:00:40
+date: 2014-07-21
 categories: Astronomy
 author: unknown author
 

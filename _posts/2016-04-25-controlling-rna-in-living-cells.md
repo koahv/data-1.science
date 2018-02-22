@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Controlling RNA in living cells"
-date: 2016-04-25 04:00:00
+date: 2016-04-26
 categories: Technology
 author: unknown author
-
+tags: [Messenger RNA, Protein, Nucleic acid sequence, RNA, Translation (biology), Gene, Gene expression, Cell (biology), Green fluorescent protein, Nucleotides, Biotechnology, Genetics, Life sciences, Organisms, Biochemistry, Cell biology, Chemistry, Macromolecules, Nucleic acids, Biomolecules, Structural biology, Molecular biology, Molecular biophysics, Biology]
 ---
 
 

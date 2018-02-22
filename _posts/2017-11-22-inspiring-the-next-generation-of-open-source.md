@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inspiring the Next Generation of Open Source"
-date: 2017-11-22 15:00:47
+date: 2018-02-18
 categories: Linux
 author: Linux Foundation
 tags: [Open-source model, Linux Foundation, Computing, Software, Technology]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What are useful Bash aliases and functions"
-date: 2014-10-22 15:00:00
+date: 2015-07-02
 categories: Linux
 author: unknown author
 

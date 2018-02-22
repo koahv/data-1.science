@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rydberg Atoms, Qubits And Magic Wavelengths In Quantum Computing - Science 2.0"
-date: 2015-05-12 13:43:24
+date: 2015-05-22
 categories: Technology
 author: unknown author
 

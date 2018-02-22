@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Great Apps to Take Notes"
-date: 2014-08-16 09:08:46
+date: 2015-06-26
 categories: Linux
 author: Steve Emms
 

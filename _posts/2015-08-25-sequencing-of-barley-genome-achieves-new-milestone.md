@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sequencing of barley genome achieves new milestone"
-date: 2015-08-25 18:13:13
+date: 2016-06-14
 categories: Science
 author: unknown author
 

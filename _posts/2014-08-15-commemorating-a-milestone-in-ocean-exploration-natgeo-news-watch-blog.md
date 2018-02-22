@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Commemorating A Milestone in Ocean Exploration - NatGeo News Watch (blog)"
-date: 2014-08-15 12:54:22
+date: 2015-07-09
 categories: Earth
 author: unknown author
 

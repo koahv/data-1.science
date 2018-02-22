@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comet close-ups"
-date: 2015-01-22 11:17:00
+date: 2015-09-03
 categories: Astronomy
 author: unknown author
 

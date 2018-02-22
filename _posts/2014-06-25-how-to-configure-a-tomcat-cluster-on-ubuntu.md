@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to configure a Tomcat cluster on Ubuntu"
-date: 2014-06-25 20:00:00
+date: 2014-06-26
 categories: Linux
 author: unknown author
 

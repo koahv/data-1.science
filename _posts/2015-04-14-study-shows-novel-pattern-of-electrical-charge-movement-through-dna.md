@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Study shows novel pattern of electrical charge movement through DNA"
-date: 2015-04-14 04:00:00
+date: 2016-04-23
 categories: Science
 author: unknown author
 

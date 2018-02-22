@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "9 Lessons From 25 Years of Linux Kernel Development"
-date: 2016-12-15 10:02:00
+date: 2017-10-11
 categories: Linux
 author: OpenSource.com
 tags: [Computing]

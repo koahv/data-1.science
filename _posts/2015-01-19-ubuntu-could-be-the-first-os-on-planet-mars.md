@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ubuntu Could Be the First OS on Planet Mars"
-date: 2015-01-19 15:41:00
+date: 2015-02-16
 categories: Linux
 author: Softpedia News (Silviu Stahie)
 

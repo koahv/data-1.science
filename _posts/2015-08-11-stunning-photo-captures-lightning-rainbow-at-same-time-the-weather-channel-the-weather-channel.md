@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stunning Photo Captures Lightning, Rainbow At Same Time | The Weather Channel - The Weather Channel"
-date: 2015-08-11 16:10:08
+date: 2015-08-25
 categories: Science
 author: unknown author
 

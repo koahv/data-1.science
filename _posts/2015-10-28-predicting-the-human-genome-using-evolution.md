@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Predicting the human genome using evolution"
-date: 2015-10-28 04:00:00
+date: 2015-10-29
 categories: Technology
 author: unknown author
-
+tags: [Evolution, Mutation, Human, Human genome, Species, Genome project, Genome, Mathematical and theoretical biology, Evolutionary biology, Bioinformatics, Biotechnology, Biology, Genetics, Life sciences, Organisms]
 ---
 
 

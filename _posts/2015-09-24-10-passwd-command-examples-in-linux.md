@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 passwd command examples in Linux"
-date: 2015-09-24 22:00:00
+date: 2015-09-26
 categories: Linux
 author: unknown author
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Van Allen Probes reveal long-term behavior of Earth's ring current"
-date: 2016-05-19 04:00:00
+date: 2016-05-21
 categories: Astronomy
 author: unknown author
-
+tags: [Van Allen Probes, Van Allen radiation belt, Astronomy, Applied and interdisciplinary physics, Nature, Physics, Space science, Physical sciences, Outer space]
 ---
 
 

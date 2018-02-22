@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schizophrenia emerged after humans diverged from Neanderthals"
-date: 2016-08-15 10:49:44
+date: 2017-03-17
 categories: Science
 author: unknown author
 tags: [Human, Evolution, Neanderthal, Schizophrenia, Human evolution, Genetics, Biological psychiatry, Life sciences, Biology]

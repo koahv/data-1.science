@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Genetic 'fossils' reveal long-term viral partnerships in grass"
-date: 2017-06-29 18:30:04
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [Virus, Evolution, Genome, Noncoding DNA, Genetics, Host (biology), DNA, Nature, Organisms, Life sciences, Biotechnology, Biology]

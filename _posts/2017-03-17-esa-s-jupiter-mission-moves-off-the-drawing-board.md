@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ESA's Jupiter mission moves off the drawing board"
-date: 2017-03-17 10:10:35
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Jupiter Icy Moons Explorer, Ganymede (moon), Jupiter, Moons of Jupiter, Gravity assist, Europa (moon), Astronomy, Callisto (moon), Outer space, Solar System, Space science, Planetary science, Physical sciences, Bodies of the Solar System, Spaceflight]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Red Hat Sets New Standard for Trusted, Enterprise-Grade Containers with Industry’s First Container Health Index"
-date: 2017-05-02 04:00:00
+date: 2017-10-23
 categories: Linux
 author: unknown author
 tags: [Red Hat, Computer security, Linux, Information technology, Technology, Software, Computing, Digital technology, Business, Computer engineering]

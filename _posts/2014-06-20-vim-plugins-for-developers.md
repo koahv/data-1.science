@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vim plugins for developers"
-date: 2014-06-20 21:00:00
+date: 2014-06-25
 categories: Linux
 author: unknown author
 

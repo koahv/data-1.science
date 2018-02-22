@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Source Diversity Efforts Gain Momentum in 2016"
-date: 2016-12-19 12:38:00
+date: 2017-10-12
 categories: Linux
 author: OpenSource.com
 tags: [Open-source model, Free software movement, Technology, Computing, Communication, Intellectual works]

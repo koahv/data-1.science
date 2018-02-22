@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA Successfully Ignites Largest Fire Experiment in Space"
-date: 2016-06-15 20:23:34
+date: 2016-06-24
 categories: Technology
 author: kduffy
 tags: [International Space Station, Cygnus (spacecraft), NASA, Spacecraft, Exploration of Mars, Aerospace engineering, Spaceflight, Outer space, Astronautics, Flight, Spaceflight technologies, Human spaceflight, Space exploration, Aerospace, Space programs]

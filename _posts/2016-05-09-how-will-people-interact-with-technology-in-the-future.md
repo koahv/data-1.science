@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How will people interact with technology in the future?"
-date: 2016-05-09 04:00:00
+date: 2016-05-10
 categories: Technology
 author: unknown author
-
+tags: [Wearable technology, Electromyography, Research, Design, American Association for the Advancement of Science, Technology, Artificial objects, Science and technology]
 ---
 
 

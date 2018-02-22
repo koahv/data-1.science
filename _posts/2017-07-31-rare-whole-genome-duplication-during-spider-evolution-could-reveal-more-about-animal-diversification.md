@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rare whole genome duplication during spider evolution could reveal more about animal diversification"
-date: 2017-07-31 14:37:15
+date: 2017-09-12
 categories: Science
 author: unknown author
 tags: [Evolution, Gene duplication, Genome, Spider, Biology, Gene, Paleopolyploidy, Whole genome sequencing, Human, Human genome, Species, Genetics, Animal, Organisms, Life sciences]

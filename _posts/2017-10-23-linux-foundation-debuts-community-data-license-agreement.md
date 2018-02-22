@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linux Foundation Debuts Community Data License Agreement "
-date: 2017-10-23 06:00:09
+date: 2017-10-24
 categories: Linux
 author: Linux Foundation
 tags: [Open-source software, Software, Artificial intelligence, Information technology, Computing, Technology]

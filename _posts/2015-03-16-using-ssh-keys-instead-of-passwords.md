@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using SSH keys instead of passwords"
-date: 2015-03-16 21:01:20
+date: 2015-09-30
 categories: Linux
 author: Michael Boelen
 

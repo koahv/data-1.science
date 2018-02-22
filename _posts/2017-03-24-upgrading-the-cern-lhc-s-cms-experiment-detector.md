@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Upgrading the CERN LHC's CMS experiment detector"
-date: 2017-03-24 11:37:33
+date: 2017-09-19
 categories: Science
 author: unknown author
 tags: [Compact Muon Solenoid, ATLAS experiment, Large Hadron Collider, CERN, Particle physics, Physics, Physical sciences, Science]

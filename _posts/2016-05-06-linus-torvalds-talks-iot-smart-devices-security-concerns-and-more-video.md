@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Linus Torvalds Talks IoT, Smart Devices, Security Concerns, and More [Video]"
-date: 2016-05-06 15:00:00
+date: 2016-05-07
 categories: Linux
 author: ericstephenbrown
-
+tags: [Internet of things, Linux, Linux kernel, Software, Computer architecture, Linus Torvalds, Technology, Computers, Computer engineering, Finnish computer programmers, Computing]
 ---
 
 

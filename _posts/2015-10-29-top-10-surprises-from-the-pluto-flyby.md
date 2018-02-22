@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "“Top 10″ Surprises from the Pluto Flyby"
-date: 2015-10-29 13:38:58
+date: 2015-10-29
 categories: Astronomy
 author: Alan Stern
-
+tags: [Pluto, New Horizons, Charon (moon), Atmosphere, Alan Stern, Atmosphere of Pluto, Kuiper belt, Space science, Outer space, Solar System, Bodies of the Solar System, Planets of the Solar System, Physical sciences, Planets, Astronomy, Planetary science]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HP To Launch Linux++ Operating System Next Year"
-date: 2014-12-18 18:26:48
+date: 2015-06-30
 categories: Linux
 author: unknown author
 

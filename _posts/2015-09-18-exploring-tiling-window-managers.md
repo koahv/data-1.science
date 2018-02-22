@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring Tiling Window Managers"
-date: 2015-09-18 23:26:47
+date: 2015-09-28
 categories: Linux
 author: matthartley
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ant agricultural revolution began 30 million years ago in dry, desert-like climate"
-date: 2017-04-11 04:00:00
+date: 2017-09-11
 categories: Science
 author: unknown author
 tags: [Agriculture, Fungus, Ant, Antfungus mutualism, Evolution, Species, Human, Biology, Organisms]

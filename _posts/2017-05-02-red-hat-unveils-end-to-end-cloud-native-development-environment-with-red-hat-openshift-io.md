@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Red Hat Unveils End-to-End Cloud-Native Development Environment with Red Hat OpenShift.io"
-date: 2017-05-02 04:00:00
+date: 2017-10-23
 categories: Linux
 author: unknown author
 tags: [Red Hat, Cloud computing, Software development, Software, Application software, Linux, Open-source software, OpenShift, Intellectual works, Computing, Technology, Computer engineering, Digital technology, Information technology, Digital media, Information technology management]

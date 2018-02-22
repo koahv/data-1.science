@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two dynamos drive Jupiter's magnetic field"
-date: 2014-08-21 11:10:04
+date: 2016-02-05
 categories: Science
 author: unknown author
 

@@ -2,7 +2,7 @@
 layout: post
 title: "What Happens Inside A Jet Engine? GE Lashed Together A Bunch Of
 Supercomputers To Find Out"
-date: 2015-06-23 23:40:11
+date: 2015-07-17
 categories: Technology
 author: unknown author
 

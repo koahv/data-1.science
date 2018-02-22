@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Event Horizon Telescope reveals magnetic fields at Milky Way's central black hole"
-date: 2015-12-03 20:02:33
+date: 2015-12-22
 categories: Science
 author: unknown author
-
+tags: [Black hole, Sagittarius A, Milky Way, Astrophysical jet, Physics, Astronomical objects, Outer space, Astrophysics, Astronomy, Physical phenomena, Physical sciences, Applied and interdisciplinary physics, Physical cosmology]
 ---
 
 

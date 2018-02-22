@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Free Intro to Linux Online Course Starts Today"
-date: 2014-08-01 16:50:24
+date: 2015-05-28
 categories: Linux
 author: Libby Clark
 

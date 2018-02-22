@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum computer that 'computes without running' sets efficiency record"
-date: 2015-08-31 13:30:01
+date: 2015-09-02
 categories: Science
 author: unknown author
 

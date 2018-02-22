@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The EPA Just Approved the Release of Mosquito-Killing Insects Grown in the Lab"
-date: 2017-11-09 19:06:07
+date: 2017-11-19
 categories: Science
 author: Claudia Geib
 tags: [Aedes aegypti, Mosquito, Wolbachia, Infectious diseases, Microbiology, Medical specialties, Biology, Organisms, Animal diseases, Veterinary medicine]

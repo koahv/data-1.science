@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Measure greenhouse gases from space"
-date: 2016-06-22 10:48:45
+date: 2016-06-23
 categories: Science
 author: unknown author
 tags: [Air pollution, Optics, Atmosphere of Earth, Clock, Diffraction grating, Light, Oxygen, Agriculture, Prism, Carbon dioxide, Earth, Carbon dioxide in Earths atmosphere, Spectroscopy, Physical sciences, Applied and interdisciplinary physics, Chemistry, Nature]

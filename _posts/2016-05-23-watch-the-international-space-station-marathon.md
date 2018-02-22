@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Watch the International Space Station Marathon"
-date: 2016-05-23 14:29:23
+date: 2016-05-24
 categories: Astronomy
 author: David Dickinson
-
+tags: [International Space Station, Moon, NASA, Sun, Beta angle, Satellite, Orbital maneuver, Earth, Space debris, Aerospace engineering, Spacecraft, Flight, Spaceflight technologies, Astronautics, Astronomy, Spaceflight, Outer space]
 ---
 
 

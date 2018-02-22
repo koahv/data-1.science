@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lichens can survive space conditions for extended periods"
-date: 2014-10-22 12:49:00
+date: 2016-03-28
 categories: Science
 author: unknown author
 

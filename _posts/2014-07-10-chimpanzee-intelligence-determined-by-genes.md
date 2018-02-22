@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chimpanzee intelligence determined by genes"
-date: 2014-07-10 16:00:04
+date: 2015-10-03
 categories: Science
 author: unknown author
 

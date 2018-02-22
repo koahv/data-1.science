@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum mechanics inside Earth's core"
-date: 2017-07-12 13:27:01
+date: 2017-09-20
 categories: Science
 author: unknown author
 tags: [Atom, Metal, Iron, Crystal structure, Earth, Planetary core, Electronic band structure, Electron, Nickel, Physics, Temperature, Earths magnetic field, Dynamo theory, Solid, Inner core, Quantum mechanics, Electronic correlation, Magnetic field, Structure of the Earth, Greenhouse gas, Geophysics, Mechanics, Chemistry, Nature, Physical sciences, Applied and interdisciplinary physics]

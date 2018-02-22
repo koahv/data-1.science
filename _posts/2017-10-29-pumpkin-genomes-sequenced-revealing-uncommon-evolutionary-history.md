@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pumpkin genomes sequenced, revealing uncommon evolutionary history"
-date: 2017-10-29 04:00:00
+date: 2017-10-31
 categories: Technology
 author: unknown author
 tags: [Cucurbita, Polyploid, Plant breeding, Pumpkin, Life sciences, Biology, Genetics, Organisms]

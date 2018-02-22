@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We can now edit our DNA. But let's do it wisely | Jennifer Doudna"
-date: 2015-10-20 15:03:31
+date: 2015-10-22
 categories: Interest
 author: Jennifer Doudna
 

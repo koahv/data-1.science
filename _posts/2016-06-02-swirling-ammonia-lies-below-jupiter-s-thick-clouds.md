@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Swirling ammonia lies below Jupiter's thick clouds"
-date: 2016-06-02 04:00:00
+date: 2016-06-03
 categories: Astronomy
 author: unknown author
 tags: [Great Red Spot, Space science, Bodies of the Solar System, Outer space, Planets, Solar System, Planets of the Solar System, Astronomy, Planetary science]

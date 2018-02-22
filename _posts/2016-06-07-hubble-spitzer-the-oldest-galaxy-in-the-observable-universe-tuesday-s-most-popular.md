@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hubble/Spitzer: "The Oldest Galaxy in the Observable Universe?" (Tuesday's Most Popular)"
-date: 2016-06-07 15:05:47
+date: 2016-06-13
 categories: Astronomy
 author: dailygalaxy.com
 tags: [Astronomy, EGS-zs8-1, Milky Way, James Webb Space Telescope, Chronology of the universe, Universe, Hubble Space Telescope, Spitzer Space Telescope, Telescope, Outer space, Science, Physical cosmology, Astronomical objects, Physical sciences]

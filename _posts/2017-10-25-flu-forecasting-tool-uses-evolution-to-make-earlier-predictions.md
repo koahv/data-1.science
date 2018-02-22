@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flu forecasting tool uses evolution to make earlier predictions"
-date: 2017-10-25 18:05:09
+date: 2017-10-26
 categories: Science
 author: unknown author
 tags: [Influenza A virus subtype H3N2, Influenza, Health]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What did Earth's ancient magnetic field look like?"
-date: 2016-06-24 04:00:00
+date: 2016-06-25
 categories: Astronomy
 author: unknown author
 tags: [Earth, Dynamo theory, Carnegie Institution for Science, Inner core, Earths magnetic field, Science, Planet, Magnetic field, Geophysics, Outer space, Physics, Space science, Astronomy, Planetary science, Nature, Physical sciences]

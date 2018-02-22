@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What a planet needs to sustain life | Dave Brain"
-date: 2016-08-12 14:49:58
+date: 2016-08-22
 categories: Interest
 author: Dave Brain
 tags: [TED (conference), Computing]

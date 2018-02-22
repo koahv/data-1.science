@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tiny chip mimics brain, delivers supercomputer speed"
-date: 2014-08-07 18:10:14
+date: 2015-10-28
 categories: Science
 author: unknown author
 

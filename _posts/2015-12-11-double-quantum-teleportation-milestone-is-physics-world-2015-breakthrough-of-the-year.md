@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Double quantum-teleportation milestone is Physics World 2015 Breakthrough of the Year"
-date: 2015-12-11 04:00:00
+date: 2015-12-22
 categories: Science
 author: unknown author
-
+tags: [Photon, Quantum teleportation, Quantum entanglement, Spin (physics), Teleportation, Condensed matter physics, Scientific method, Applied and interdisciplinary physics, Science, Scientific theories, Physics, Mechanics, Particle physics, Modern physics, Quantum mechanics, Solid state engineering, Theoretical physics, Physical sciences]
 ---
 
 

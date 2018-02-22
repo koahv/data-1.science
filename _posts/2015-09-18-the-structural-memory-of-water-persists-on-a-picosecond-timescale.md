@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The structural memory of water persists on a picosecond timescale"
-date: 2015-09-18 12:31:21
+date: 2016-07-04
 categories: Science
 author: unknown author
 

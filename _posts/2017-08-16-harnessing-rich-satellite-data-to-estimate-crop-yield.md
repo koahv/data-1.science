@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Harnessing rich satellite data to estimate crop yield"
-date: 2017-08-16 17:20:06
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Electromagnetic spectrum, Infrared, Agriculture, Air pollution, Earth, Microwave, Natural environment, Nature]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creation: Ancient Indian Origin Myths, Brought to Life in a Breathtaking Illustrated Cosmogony"
-date: 2015-04-15 07:30:59
+date: 2015-07-10
 categories: Philosophy
 author: Maria Popova
 

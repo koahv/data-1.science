@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where to Find the World's Best Programmers"
-date: 2016-10-24 09:20:00
+date: 2017-10-10
 categories: Linux
 author: Network World
 tags: [Programmer, Computer programming, Computers, Cognitive science, Computing, Areas of computer science, Software engineering, Computer science, Computer engineering, Technology, Software development, Information technology management, Software]

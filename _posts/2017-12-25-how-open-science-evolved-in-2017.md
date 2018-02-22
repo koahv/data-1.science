@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How open science evolved in 2017"
-date: 2017-12-25 08:00:00
+date: 2018-02-18
 categories: Open Source
 author: bcotton
 tags: [Open-source software, Science, Computing, Red Hat, Information Age, Digital technology, Software, Technology, Cyberspace, Intellectual works, Digital media]

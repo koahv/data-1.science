@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "D-Wave and predecessors: From simulated to quantum annealing"
-date: 2014-06-23 16:33:04
+date: 2014-06-24
 categories: Science
 author: unknown author
 

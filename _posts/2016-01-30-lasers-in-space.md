@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Lasers in space"
-date: 2016-01-30 10:00:00
+date: 2016-01-31
 categories: Astronomy
 author: unknown author
-
+tags: [Telecommunications, Technology, Spaceflight, Spacecraft, Outer space, Astronautics, Satellites, Aerospace engineering, Flight, Spaceflight technologies]
 ---
 
 

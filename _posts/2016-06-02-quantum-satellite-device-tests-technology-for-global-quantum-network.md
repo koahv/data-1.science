@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum satellite device tests technology for global quantum network"
-date: 2016-06-02 04:00:00
+date: 2016-06-03
 categories: Technology
 author: unknown author
-
+tags: [Quantum entanglement, Photon, Quantum technology, Mechanics, Physics, Modern physics, Technology, Particle physics, Quantum mechanics, Solid state engineering, Physical sciences]
 ---
 
 

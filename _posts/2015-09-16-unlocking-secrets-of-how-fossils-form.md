@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unlocking secrets of how fossils form"
-date: 2015-09-16 15:24:45
+date: 2015-09-19
 categories: Science
 author: unknown author
 

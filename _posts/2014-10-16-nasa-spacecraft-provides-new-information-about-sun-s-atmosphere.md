@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA spacecraft provides new information about sun's atmosphere"
-date: 2014-10-16 04:00:00
+date: 2015-09-05
 categories: Astronomy
 author: unknown author
 

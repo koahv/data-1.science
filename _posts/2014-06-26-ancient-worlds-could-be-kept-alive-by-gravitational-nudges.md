@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ancient worlds could be kept 'alive' by gravitational nudges"
-date: 2014-06-26 11:10:03
+date: 2014-07-01
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pluto just 4 weeks, 20 million miles away for spacecraft"
-date: 2015-06-16 21:09:47
+date: 2015-07-14
 categories: Science
 author: unknown author
 

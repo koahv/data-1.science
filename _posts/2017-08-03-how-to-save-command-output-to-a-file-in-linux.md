@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Save Command Output to a File in Linux"
-date: 2017-08-03 06:47:53
+date: 2017-08-31
 categories: Linux
 author: Aaron Kili
 tags: [Computer file, File system, Inputoutput, Disk storage, Technology, Computing, Software, Digital technology, System software, Computers, Digital media, Computer architecture, Areas of computer science, Computer engineering, Computer data]

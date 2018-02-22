@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jamaica Unveils World’s Largest Wind-Solar Hybrid Installation"
-date: 2014-07-19 07:14:05
+date: 2015-06-02
 categories: Energy
 author: Beverley Mitchell
 

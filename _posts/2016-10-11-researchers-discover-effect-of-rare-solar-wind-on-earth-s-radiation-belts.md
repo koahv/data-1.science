@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researchers discover effect of rare solar wind on Earth's radiation belts"
-date: 2016-10-11 19:28:08
+date: 2017-09-21
 categories: Science
 author: unknown author
 tags: [Van Allen radiation belt, Astronomy, Solar wind, Sun, Earth, Planet, Earth analog, Galaxy, Magnetosphere, Applied and interdisciplinary physics, Space science, Nature, Outer space, Planetary science, Physical sciences]

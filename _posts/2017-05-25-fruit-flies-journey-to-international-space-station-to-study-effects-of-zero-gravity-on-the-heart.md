@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fruit flies journey to International Space Station to study effects of zero gravity on the heart"
-date: 2017-05-25 23:55:36
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [International Space Station, Drosophila melanogaster, Weightlessness, Human spaceflight, NASA, SpaceX, Micro-g environment, Spaceflight, Biology]

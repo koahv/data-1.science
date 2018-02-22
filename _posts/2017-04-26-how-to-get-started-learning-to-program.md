@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Get Started Learning to Program"
-date: 2017-04-26 08:30:56
+date: 2017-10-23
 categories: Linux
 author: OpenSource.com
 tags: [Computing, Software]

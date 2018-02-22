@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Rub’ al Khali Desert"
-date: 2016-05-20 08:00:00
+date: 2016-05-21
 categories: Astronomy
 author: unknown author
-
+tags: [Rub al Khali, Dune, Earth sciences]
 ---
 
 

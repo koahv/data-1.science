@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New gene map reveals cancer's Achilles heel"
-date: 2015-11-25 05:00:00
+date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Cancer, Gene, Mutation, Genome, Biochemistry, Health, Health sciences, Clinical medicine, Medicine, Organisms, Biotechnology, Genetics, Life sciences, Biology]
 ---
 
 

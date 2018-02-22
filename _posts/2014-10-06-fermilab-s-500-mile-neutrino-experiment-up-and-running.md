@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fermilab's 500-mile neutrino experiment up and running"
-date: 2014-10-06 21:50:01
+date: 2016-03-26
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Study of birds' sense of smell reveals important clues for behavior and adaptation"
-date: 2015-07-29 04:00:00
+date: 2015-09-07
 categories: Science
 author: unknown author
 

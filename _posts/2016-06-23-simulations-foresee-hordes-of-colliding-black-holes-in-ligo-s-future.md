@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simulations foresee hordes of colliding black holes in LIGO's future"
-date: 2016-06-23 04:00:00
+date: 2016-06-25
 categories: Astronomy
 author: unknown author
 tags: [LIGO, Black hole, Star, Gravitational wave, Metallicity, Spacetime, Stars, Physical sciences, Astronomy, Physics, Physical cosmology, Outer space, Science, Astronomical objects, Astrophysics, Applied and interdisciplinary physics, Nature, Natural sciences, Stellar astronomy]

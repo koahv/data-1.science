@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How organizations can become more inclusive of people with disabilities"
-date: 2017-12-22 08:03:00
+date: 2018-02-18
 categories: Open Source
 author: mschulz
 tags: [Accessibility, Diversity (business), Disability, Visual impairment, Hearing loss, American Sign Language, Social exclusion, Screen reader, JavaScript, World Wide Web, Assistive technology, Technology, Computing, Communication]

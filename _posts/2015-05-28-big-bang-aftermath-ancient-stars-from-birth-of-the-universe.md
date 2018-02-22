@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Big Bang aftermath: Ancient stars from birth of the universe"
-date: 2015-05-28 12:38:24
+date: 2016-05-04
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magnetic quantum crystals"
-date: 2015-03-26 19:16:03
+date: 2015-07-26
 categories: Science
 author: unknown author
 

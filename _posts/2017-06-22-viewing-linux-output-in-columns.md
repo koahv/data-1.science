@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viewing Linux Output in Columns"
-date: 2017-06-22 08:30:29
+date: 2017-10-24
 categories: Linux
 author: Network World
 tags: [Information technology management, Computer architecture, Operating system technology, Computing, Software, Computer data, Digital media, Digital technology, Computers, Computer engineering, Areas of computer science, Data]

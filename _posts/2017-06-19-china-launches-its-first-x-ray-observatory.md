@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "China Launches Its First X-ray Observatory"
-date: 2017-06-19 19:44:21
+date: 2017-09-21
 categories: Astronomy
 author: David Dickinson
 tags: [X-ray astronomy, Astrophysical X-ray source, Astronomy, NuSTAR, Telescope, Observatory, Outer space, Physical sciences, Spaceflight, Observational astronomy, Scientific observation, Nature]

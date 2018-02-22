@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ever-changing view"
-date: 2017-09-25 07:30:00
+date: 2017-10-12
 categories: Astronomy
 author: unknown author
 tags: [Rosetta (spacecraft), Philae (spacecraft), Comet, Local Interstellar Cloud, Solar System, Outer space, Astronomy, Bodies of the Solar System, Spaceflight, Planetary science, Spacecraft, Space science, Discovery and exploration of the Solar System, Astronautics, Space exploration, Space probes, Spaceflight technologies, Flight, Comets, Unmanned spacecraft]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fossil find pushes back date of earliest fused bones in birds by 40 million years"
-date: 2017-10-10 12:45:55
+date: 2017-10-10
 categories: Science
 author: unknown author
 tags: [Dinosaur, Bird, Evolution, Fossil, Enantiornithes, Organisms]

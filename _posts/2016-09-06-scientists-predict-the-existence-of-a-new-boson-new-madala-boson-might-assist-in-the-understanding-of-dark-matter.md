@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists predict the existence of a new boson: New Madala boson might assist in the understanding of dark matter"
-date: 2016-09-06 16:02:38
+date: 2017-09-21
 categories: Science
 author: unknown author
 tags: [Particle physics, Standard Model, Physics, Large Hadron Collider, Higgs boson, CERN, Field (physics), Quantum field theory, Matter, Mass, ATLAS experiment, Quantum mechanics, Universe, Fundamental interaction, Energy, Metaphysics, Theoretical physics, Mechanics, Science, Physical sciences]

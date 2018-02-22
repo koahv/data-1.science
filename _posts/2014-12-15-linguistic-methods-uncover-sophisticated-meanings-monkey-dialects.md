@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linguistic methods uncover sophisticated meanings, monkey dialects"
-date: 2014-12-15 16:48:18
+date: 2016-04-12
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New nanomaterial can extract hydrogen fuel from seawater"
-date: 2017-10-04 04:00:00
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [Solar energy, Fuel, Photocatalysis, Hybrid vehicle, Energy, Water, Nano flake, Hydrogen, Biomass, Sustainable technologies, Chemistry, Nature, Physical sciences, Manufacturing, Alternative energy, Materials, Physical universe, Artificial objects]

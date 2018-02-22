@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Watch Keynote Videos from OS Summit and ELC Europe 2017 Including a Conversation with Linus Torvalds"
-date: 2017-11-01 13:00:08
+date: 2018-02-18
 categories: Linux
 author: Linux Foundation
 tags: [Linux, Linux Foundation, Computers, Finnish computer scientists, Linux kernel programmers, Unix variants, System software, Operating system technology, Computer architecture, Linux kernel, Finnish computer programmers, Free software, Unix, Free system software, Linux organizations, Operating system families, Computer engineering, Open-source movement, Linux people, Linus Torvalds, Software, Computing, ARM architecture, Technology]

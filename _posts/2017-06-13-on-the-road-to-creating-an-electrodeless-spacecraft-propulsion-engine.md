@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On the road to creating an electrodeless spacecraft propulsion engine"
-date: 2017-06-13 09:44:27
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Spacecraft propulsion, Plasma propulsion engine, Plasma (physics), Magnetic nozzle, Rocket engine, Magnetosphere, Electrically powered spacecraft propulsion, Outer space, Magnetic field, Nature, Physical sciences, Physics, Applied and interdisciplinary physics]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentinel-2B timelapse"
-date: 2017-03-28 08:00:00
+date: 2017-08-31
 categories: Astronomy
 author: unknown author
 tags: [Sentinel-2, Spaceflight, Space agencies, European space programmes, Space programs, Space traffic management, Outer space, Spacecraft, Aerospace agencies, Space policy of the European Union, European Space Agency]

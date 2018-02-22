@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artificial photosynthesis: Researchers create the first practical design for photoelectrochemical water splitting"
-date: 2016-09-12 15:43:12
+date: 2017-03-17
 categories: Science
 author: unknown author
 tags: [Water splitting, Solar energy, Solar power, Solar cell, Photovoltaics, Electrolysis, Artificial objects, Energy, Physical universe, Chemistry, Alternative energy, Technology, Nature]

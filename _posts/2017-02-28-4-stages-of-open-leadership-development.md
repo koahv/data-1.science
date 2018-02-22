@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "4 stages of open leadership development"
-date: 2017-02-28 08:00:00
+date: 2017-09-24
 categories: Open Source
 author: DeLisa
 tags: [Leadership, Organization, Business, Leadership development, Action (philosophy), Psychological concepts, Psychology, Cognition, Behavior modification, Behavioural sciences, Change, Applied psychology, Culture, Cognitive science]

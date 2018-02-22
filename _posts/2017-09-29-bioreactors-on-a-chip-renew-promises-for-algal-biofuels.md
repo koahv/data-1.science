@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bioreactors on a chip renew promises for algal biofuels"
-date: 2017-09-29 15:02:42
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [Algae fuel, Biofuel, Artificial objects, Organisms, Life sciences, Biology, Nature]

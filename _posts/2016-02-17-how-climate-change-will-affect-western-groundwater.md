@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How climate change will affect western groundwater"
-date: 2016-02-17 05:00:00
+date: 2016-03-15
 categories: Science
 author: unknown author
-
+tags: [Groundwater recharge, Water resources, Groundwater, Aquifer, Climate, American Association for the Advancement of Science, Hydrology, Western United States, Water politics, Climate change, Snow, Science, River, United States Geological Survey, Snowmelt, Physical geography, Transparent materials, Earth sciences, Water, Water and politics, Natural resources, Natural environment, Environment, Liquids, Water and the environment]
 ---
 
 

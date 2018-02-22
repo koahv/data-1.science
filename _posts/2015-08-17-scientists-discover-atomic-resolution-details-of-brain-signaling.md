@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists discover atomic-resolution details of brain signaling"
-date: 2015-08-17 15:03:43
+date: 2016-05-27
 categories: Science
 author: unknown author
 

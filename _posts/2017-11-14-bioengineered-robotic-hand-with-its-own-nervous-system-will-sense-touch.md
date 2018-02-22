@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bioengineered robotic hand with its own nervous system will sense touch"
-date: 2017-11-14 05:00:00
+date: 2017-11-19
 categories: Technology
 author: unknown author
 tags: [Robotics, Nerve, Prosthesis, Florida Atlantic University, Sense, Somatosensory system, Carnegie Mellon University, Nervous system, Neuroprosthetics, Sensory neuron, Engineering, Brain, Neuron, Cognitive science, Biology, Neuroscience]

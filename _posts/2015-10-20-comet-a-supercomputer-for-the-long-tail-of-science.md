@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comet: A supercomputer for the 'long tail' of science"
-date: 2015-10-20 04:00:00
+date: 2015-10-22
 categories: Technology
 author: unknown author
 

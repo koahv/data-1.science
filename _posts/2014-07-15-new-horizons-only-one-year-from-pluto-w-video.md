@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Horizons only one year from Pluto (w/ Video)"
-date: 2014-07-15 13:14:01
+date: 2015-07-14
 categories: Science
 author: unknown author
 

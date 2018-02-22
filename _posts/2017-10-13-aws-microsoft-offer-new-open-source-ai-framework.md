@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AWS, Microsoft Offer New Open Source AI Framework"
-date: 2017-10-13 12:00:00
+date: 2017-10-13
 categories: Linux
 author: Jack M. Germain
 

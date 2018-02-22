@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Telescope for detecting optical signals from gravitational waves launched"
-date: 2017-07-04 12:30:01
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Gravitational wave, LIGO, Gravity, Gravitational-wave observatory, Astronomy, Spacetime, Science, Physics, Physical sciences, Outer space]

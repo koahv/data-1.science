@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Algorithm could construct first images of black holes"
-date: 2016-06-06 04:00:00
+date: 2016-06-12
 categories: Technology
 author: unknown author
 tags: [Radio telescope, Telescope, Interferometry, Astronomy, Physical sciences]

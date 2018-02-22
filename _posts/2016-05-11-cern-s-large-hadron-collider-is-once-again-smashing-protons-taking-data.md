@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "CERN's Large Hadron Collider is once again smashing protons, taking data"
-date: 2016-05-11 11:20:01
+date: 2016-05-12
 categories: Science
 author: unknown author
-
+tags: [Large Hadron Collider, ATLAS experiment, Higgs boson, Particle physics, Standard Model, CERN, Physics, Applied and interdisciplinary physics, Mechanics, Science, Physical sciences]
 ---
 
 

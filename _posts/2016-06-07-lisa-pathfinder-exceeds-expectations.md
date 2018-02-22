@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LISA Pathfinder exceeds expectations"
-date: 2016-06-07 10:15:00
+date: 2016-06-12
 categories: Astronomy
 author: unknown author
 tags: [LISA Pathfinder, Gravitational wave, Gravitational-wave observatory, Gravity, LIGO, Natural philosophy, Spacetime, Applied and interdisciplinary physics, Outer space, Physics, Astronomy, Physical sciences]

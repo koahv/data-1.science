@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "CERN Replicates Post-Big-Bang Universe --"Quarks, Antiquarks and Gluons Over 4000 billion Degrees Temperature""
-date: 2015-11-25 17:49:27
+date: 2015-12-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Quark, Matter, Strong interaction, Gluon, Elementary particle, Large Hadron Collider, Proton, State of matter, Quantum field theory, Standard Model, Physics, Physical sciences, Particle physics, Nuclear physics, Physical universe, Theoretical physics, Mechanics, Physical cosmology, Physical bodies, Quantum mechanics, Applied and interdisciplinary physics, Chemistry, Subatomic particles, Quantum chromodynamics, Nature]
 ---
 
 

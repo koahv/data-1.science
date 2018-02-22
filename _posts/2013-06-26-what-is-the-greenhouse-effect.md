@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What Is the Greenhouse Effect?"
-date: 2013-06-26 01:53:08
+date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Greenhouse effect, Greenhouse gas, Atmosphere of Earth, Global warming, Thermal radiation, Earth, Radiation, Infrared, Carbon dioxide, Climatology, Earth sciences, Physical geography, Atmospheric sciences, Physical sciences, Applied and interdisciplinary physics, Nature, Meteorology]
 ---
 
 

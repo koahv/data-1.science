@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Japanese Company Built a “Disaster-Proof” Factory"
-date: 2015-03-17 18:59:42
+date: 2015-07-17
 categories: Technology
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Superconducting-silicon qubits"
-date: 2014-07-08 10:39:27
+date: 2014-08-18
 categories: Energy
 author: unknown author
 

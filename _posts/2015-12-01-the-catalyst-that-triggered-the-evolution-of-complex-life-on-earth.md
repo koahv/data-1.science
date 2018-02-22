@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Catalyst That Triggered the Evolution of Complex Life on Earth"
-date: 2015-12-01 15:58:58
+date: 2015-12-18
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Phytoplankton, Nature, Environmental science, Physical sciences, Natural environment, Systems ecology, Oceanography, Earth sciences, Organisms, Biology]
 ---
 
 

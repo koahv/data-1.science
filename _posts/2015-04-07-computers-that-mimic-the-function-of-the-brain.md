@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computers that Mimic the Function of the Brain"
-date: 2015-04-07 14:42:31
+date: 2015-12-09
 categories: Technology
 author: kduffy
 

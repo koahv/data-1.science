@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brain patterns underlying mothers' responses to infant cries"
-date: 2017-10-23 22:27:01
+date: 2017-10-24
 categories: Science
 author: unknown author
 tags: [Infant, Developmental psychology, Functional magnetic resonance imaging, Mother, Brain, Human, Health, Nervous system, Cognition, Neuroscience, Psychological concepts, Psychology, Cognitive science, Behavioural sciences]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Looking back at the Jupiter crash 20 years later"
-date: 2014-07-18 14:30:12
+date: 2015-08-11
 categories: Science
 author: unknown author
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Diversity of nature formulated"
-date: 2016-02-01 05:00:00
+date: 2016-02-02
 categories: Science
 author: unknown author
-
+tags: [Predation, Carnivore, Ecosystem, Science, Nature, Biophysics, Environmental social science, Biology, Ecology, Organisms, Biogeochemistry, Systems ecology, Natural environment, Environmental science]
 ---
 
 

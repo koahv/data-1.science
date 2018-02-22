@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is Magnetism? | Magnetic Fields & Magnetic Force"
-date: 2013-07-09 23:06:26
+date: 2016-05-16
 categories: Science
 author: unknown author
 

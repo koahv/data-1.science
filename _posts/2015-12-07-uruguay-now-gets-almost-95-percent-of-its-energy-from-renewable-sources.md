@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Uruguay now gets almost 95 percent of its energy from renewable sources"
-date: 2015-12-07 19:00:52
+date: 2015-12-18
 categories: Energy
 author: Cat DiStasio
-
+tags: [Renewable energy, Energy development, Sustainable energy, Nature, Energy sources, Sustainability, Energy, Physical universe, Sustainable development, Natural environment, Sustainable technologies, Natural resources, Alternative energy, Economic development, Renewable resources, Energy and the environment]
 ---
 
 

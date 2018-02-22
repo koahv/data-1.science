@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When helium behaves like a black hole"
-date: 2017-03-21 04:00:00
+date: 2017-09-17
 categories: Technology
 author: unknown author
 tags: [Quantum mechanics, Quantum entanglement, Physics, Metaphysics, Cognitive science, Scientific theories, Solid state engineering, Particle physics, Science, Modern physics, Theoretical physics, Mechanics, Physical sciences]

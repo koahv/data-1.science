@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IPv6 Transition: A Quick Guide"
-date: 2017-01-23 10:00:00
+date: 2017-10-14
 categories: Linux
 author: Network Computing
 tags: [IPv6, IPv4, Network address translation, IPv6 address, IPv6 transition mechanism, Network layer protocols, Computing, Communications protocols, Internet Standards, Network architecture, Protocols, Internet Protocol, Network protocols, Internet protocols, Computer networking, Internet architecture, Internet, Internet of things, Computer architecture, IT infrastructure, Data transmission, Technology]

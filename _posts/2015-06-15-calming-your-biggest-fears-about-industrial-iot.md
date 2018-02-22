@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Calming Your Biggest Fears About Industrial IoT"
-date: 2015-06-15 14:34:55
+date: 2015-12-11
 categories: Technology
 author: mfassbender
 

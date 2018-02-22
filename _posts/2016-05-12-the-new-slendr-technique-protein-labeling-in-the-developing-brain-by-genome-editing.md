@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The new SLENDR technique: Protein labeling in the developing brain by genome editing"
-date: 2016-05-12 04:00:00
+date: 2016-05-14
 categories: Technology
 author: unknown author
-
+tags: [CRISPR, Gene, Cas9, DNA, Homology directed repair, Cell (biology), Non-homologous end joining, Genetics, Organisms, Biotechnology, Life sciences, Biology, Molecular biology, Biochemistry]
 ---
 
 

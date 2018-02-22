@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "African subterranean animal exhibits 'extraordinary' cancer resistance"
-date: 2016-06-16 04:00:00
+date: 2016-06-24
 categories: Technology
 author: unknown author
 tags: [Induced pluripotent stem cell, Stem cell, Cell potency, Cells, Biology, Cell biology, Life sciences, Biotechnology, Organisms, Medicine, Medical specialties, Developmental biology]

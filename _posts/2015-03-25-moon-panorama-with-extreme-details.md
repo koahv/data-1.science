@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moon panorama with extreme details"
-date: 2015-03-25 13:27:46
+date: 2015-07-21
 categories: Astronomy
 author: Daniel Nicolae
 

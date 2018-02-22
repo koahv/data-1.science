@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artificial intelligence to predict odors"
-date: 2016-12-16 05:00:00
+date: 2017-03-22
 categories: Technology
 author: unknown author
 tags: [Odor, Cognitive science, Science]

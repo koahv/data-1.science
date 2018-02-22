@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Results Show Success for Second NASA SLS Booster Test"
-date: 2016-08-15 13:24:32
+date: 2016-08-22
 categories: Technology
 author: mcrouse
 tags: [Space Launch System, Space Shuttle main engine, Government programs, Engineering projects, Aeronautics, Space technology, Rocketry, Human spaceflight programs, Human spaceflight, Spaceflight, Spacecraft, Spaceflight technologies, Aerospace engineering, Outer space, Flight, Aerospace, Astronautics, NASA, NASA programs, Space exploration, Space program of the United States]

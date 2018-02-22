@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revolutionary Supercomputer Code Simulates Entire Cosmos --"25 Billion Virtual Galaxies""
-date: 2017-06-09 16:19:10
+date: 2017-09-12
 categories: Astronomy
 author: dailygalaxy.com
 tags: [Dark matter, Universe, Milky Way, Euclid (spacecraft), Astrophysics, Dark energy, Matter, Observable universe, Astronomy, Physical sciences, Physics, Outer space, Science, Physical cosmology, Cosmology, Physical universe]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum phase transition observed for the first time"
-date: 2017-02-02 05:00:00
+date: 2017-09-17
 categories: Technology
 author: unknown author
 tags: [Phase transition, Quantum mechanics, Photon, Superconductivity, Phase (matter), Temperature, Condensed matter, Particle physics, Modern physics, Theoretical physics, Solid state engineering, Physics, Applied and interdisciplinary physics, Physical sciences, Mechanics, Materials science, Condensed matter physics, Chemistry, Physical chemistry]

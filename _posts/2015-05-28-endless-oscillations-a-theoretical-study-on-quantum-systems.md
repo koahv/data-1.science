@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Endless oscillations: A theoretical study on quantum systems"
-date: 2015-05-28 07:33:40
+date: 2015-07-26
 categories: Science
 author: unknown author
 

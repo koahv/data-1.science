@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mars triptych"
-date: 2016-05-26 10:10:00
+date: 2016-05-26
 categories: Astronomy
 author: unknown author
-
+tags: [Hubble Space Telescope, Mars, Earth, Physical sciences, Solar System, Planets of the Solar System, Bodies of the Solar System, Space science, Planetary science, Outer space, Astronomy]
 ---
 
 

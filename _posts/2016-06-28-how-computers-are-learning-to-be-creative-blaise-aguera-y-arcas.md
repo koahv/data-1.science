@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How computers are learning to be creative | Blaise Agüera y Arcas"
-date: 2016-06-28 14:46:01
+date: 2016-06-29
 categories: Interest
 author: Blaise Agüera y Arcas
 tags: [TED (conference), Computing, Technology, Communication, Cyberspace]

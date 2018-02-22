@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Network Time Keeps on Ticking with Long-Running NTP Project"
-date: 2016-04-28 14:48:48
+date: 2016-04-29
 categories: Linux
 author: aankerholz
-
+tags: [Network Time Protocol, Time, Computer network, Clock, Computing, Digital technology, Technology]
 ---
 
 

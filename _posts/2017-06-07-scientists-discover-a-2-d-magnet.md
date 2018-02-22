@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists discover a 2-D magnet"
-date: 2017-06-07 17:00:04
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Ferromagnetism, Magnetism, Electron, Graphene, Physical chemistry, Physics, Physical sciences, Chemistry, Applied and interdisciplinary physics, Materials science]

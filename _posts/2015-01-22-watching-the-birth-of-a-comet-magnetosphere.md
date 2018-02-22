@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Watching the birth of a comet magnetosphere"
-date: 2015-01-22 19:18:02
+date: 2016-04-12
 categories: Science
 author: unknown author
 

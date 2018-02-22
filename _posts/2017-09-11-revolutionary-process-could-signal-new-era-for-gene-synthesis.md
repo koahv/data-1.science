@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revolutionary process could signal new era for gene synthesis"
-date: 2017-09-11 04:00:00
+date: 2017-09-12
 categories: Science
 author: unknown author
 tags: [DNA, Gene, Epigenetics, Biology, Chemistry, Biochemistry, Molecular biology, Organisms, Biotechnology, Genetics, Life sciences]

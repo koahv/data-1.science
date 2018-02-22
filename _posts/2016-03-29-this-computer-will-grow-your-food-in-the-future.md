@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "This Computer Will Grow Your Food in the Future"
-date: 2016-03-29 18:20:22
+date: 2016-04-10
 categories: Technology
 author: kduffy
-
+tags: [Open Agriculture Initiative, Primary industries, Computers, Management, New England Womens and Mens Athletic Conference schools, Massachusetts Institute of Technology, Land use, Economic sectors, MIT Media Lab, Health, Natural resource management, Natural resources, Artificial objects, Natural environment, Industries, Land management, Primary sector of the economy, Agriculture, Food and drink, Hydroculture, Biology, Computing]
 ---
 
 

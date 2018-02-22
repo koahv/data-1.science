@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gravity measured using a Bose–Einstein condensate on a chip"
-date: 2016-11-22 16:23:27
+date: 2017-10-07
 categories: Science
 author: unknown author
 tags: [BoseEinstein condensate, Gravimeter, Ultracold atom, Gravity, Atom, Mechanics, Applied and interdisciplinary physics, Physical quantities, Physical sciences, Theoretical physics, Physics, Force, Chemistry, Modern physics, Condensed matter physics, Natural philosophy, Particle physics]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newly discovered algal enzyme for more efficient photosynthesis, better crops"
-date: 2016-09-20 17:52:24
+date: 2017-03-17
 categories: Science
 author: unknown author
 tags: [Plant, Photosynthesis, Photoprotection, Algae, Photosynthetic efficiency, Xanthophyll, Green algae, Energy, Chemistry, Biology, Nature, Life sciences, Organisms]

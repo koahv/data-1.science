@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Being social: Learning from the behavior of birds"
-date: 2014-09-17 13:29:51
+date: 2016-03-26
 categories: Science
 author: unknown author
 

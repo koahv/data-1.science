@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Human Evolution 101"
-date: 2015-09-11 22:01:39
+date: 2015-09-14
 categories: Science
 author: Nadia Drake
 

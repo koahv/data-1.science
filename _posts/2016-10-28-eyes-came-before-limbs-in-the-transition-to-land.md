@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eyes came before limbs in the transition to land"
-date: 2016-10-28 22:16:26
+date: 2017-09-25
 categories: Science
 author: unknown author
 tags: [Eye, Tetrapod, Paleontology, Evolution, Tiktaalik, Organisms, Animals, Zoology, Biology]

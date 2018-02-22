@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Using Open Source to Distribute Big Data from the Large Hadron Collider"
-date: 2015-12-16 19:52:48
+date: 2015-12-17
 categories: Linux
 author: Rianne Schestowitz
-
+tags: [Linux, Linux distribution, Desktop environment, Mesa (computer graphics), Cloud computing, Ubuntu (operating system), KDE, Microsoft Windows, Windows 10, Computer engineering, Digital technology, Technology, Digital media, Computer architecture, Operating system families, Computers, System software, Software, Computing]
 ---
 
 

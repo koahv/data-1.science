@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New material discovery allows study of elusive Weyl fermion"
-date: 2016-08-15 04:00:00
+date: 2016-08-22
 categories: Technology
 author: unknown author
 tags: [Physics, Weyl semimetal, Particle physics, Science, Ames Laboratory, Condensed matter physics, Physical sciences, Theoretical physics, Mechanics, Quantum mechanics, Modern physics, Solid state engineering, Condensed matter, Scientific theories, Applied and interdisciplinary physics]

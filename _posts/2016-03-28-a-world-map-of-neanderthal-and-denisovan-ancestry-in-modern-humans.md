@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A world map of Neanderthal and Denisovan ancestry in modern humans"
-date: 2016-03-28 16:00:01
+date: 2016-03-29
 categories: Science
 author: unknown author
-
+tags: [Denisovan, Archaic human admixture with modern humans, Neanderthal, Aquiline nose, Biology]
 ---
 
 

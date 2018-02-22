@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An introduction to machine learning today"
-date: 2017-09-20 07:02:00
+date: 2017-10-14
 categories: Open Source
 author: Ulrich Drepper
 tags: [Artificial intelligence, Algorithm, Statistical classification, Training test and validation sets, Machine learning, Mathematical optimization, Mathematics, Applied mathematics, Cognition, Cognitive science, Areas of computer science]

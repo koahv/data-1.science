@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "World's most sensitive dark matter detector completes search"
-date: 2016-07-21 04:00:00
+date: 2016-07-22
 categories: Astronomy
 author: unknown author
 tags: [Large Underground Xenon experiment, Weakly interacting massive particles, Sanford Underground Research Facility, Dark matter, Particle physics, Nature, Physical cosmology, Science, Physical sciences, Physics]

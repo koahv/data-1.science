@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First direct evidence of 'spin symmetry' in atoms"
-date: 2014-08-21 18:14:36
+date: 2016-02-05
 categories: Science
 author: unknown author
 

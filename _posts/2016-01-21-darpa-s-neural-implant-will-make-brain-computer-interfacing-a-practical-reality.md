@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DARPA’s neural implant will make brain-computer interfacing a practical reality"
-date: 2016-01-21 12:31:12
+date: 2016-01-29
 categories: Technology
 author: Michael Mills
-
+tags: [Neurotechnology, Brain, Science and technology, Artificial objects, Cognitive science, Neuroscience, Nervous system, Technology, Computing]
 ---
 
 

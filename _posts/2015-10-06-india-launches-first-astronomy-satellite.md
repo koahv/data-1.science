@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "India Launches First Astronomy Satellite"
-date: 2015-10-06 14:48:01
+date: 2015-10-07
 categories: Astronomy
 author: David Dickinson
 

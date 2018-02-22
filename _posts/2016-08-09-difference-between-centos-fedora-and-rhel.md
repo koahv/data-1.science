@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Difference between CentOS, Fedora, and RHEL"
-date: 2016-08-09 15:44:05
+date: 2017-10-05
 categories: Linux
 author: Michael Boelen
 tags: [Red Hat Enterprise Linux, CentOS, Fedora (operating system), Linux people, Linux kernel, Unix, Finnish computer scientists, Linux Foundation, Linux kernel programmers, Unix variants, Linux, Finnish computer programmers, System software, Free software, Software, Computing, Linus Torvalds, Operating system technology, Free software distributions, Linux distributions, Free software projects, Software distribution, Operating system families, Free system software]

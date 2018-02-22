@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Construction Begins on What Will Be the Largest Telescope Ever Built"
-date: 2015-11-13 15:02:19
+date: 2015-12-21
 categories: Technology
 author: mfassbender
-
+tags: [Giant Magellan Telescope, Chile, Andes, Observational astronomy, Science, Space science, Physical sciences, Outer space, Astronomy, Planetary science]
 ---
 
 

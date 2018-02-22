@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Image: Unprecedented detail in enhanced high-resolution color image of Pluto"
-date: 2015-09-25 10:17:23
+date: 2016-08-01
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum optical sensor tested in space for the first time, with a laser system from Berlin"
-date: 2017-01-23 14:08:42
+date: 2017-09-16
 categories: Science
 author: unknown author
 tags: [Laser, Ultracold atom, BoseEinstein condensate, Laser diode, Interferometry, Equivalence principle, Optics, Physics, Applied and interdisciplinary physics, Physical sciences, Natural philosophy, Mechanics]

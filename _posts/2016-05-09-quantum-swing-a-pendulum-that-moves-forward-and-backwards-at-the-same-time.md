@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum swing—a pendulum that moves forward and backwards at the same time"
-date: 2016-05-09 13:20:12
+date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Coherence (physics), Photon, Atom, Phonon, Physics, Condensed matter, Physical chemistry, Theoretical physics, Materials science, Particle physics, Modern physics, Condensed matter physics, Applied and interdisciplinary physics, Mechanics, Physical sciences, Chemistry, Solid state engineering]
 ---
 
 

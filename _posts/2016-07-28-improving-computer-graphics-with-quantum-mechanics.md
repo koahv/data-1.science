@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Improving computer graphics with quantum mechanics"
-date: 2016-07-28 11:01:13
+date: 2016-07-29
 categories: Science
 author: unknown author
 tags: [Quantum mechanics, Physics, Macroscopic scale, Schrdinger equation, Mechanics, Physical sciences, Theoretical physics, Science, Applied and interdisciplinary physics]

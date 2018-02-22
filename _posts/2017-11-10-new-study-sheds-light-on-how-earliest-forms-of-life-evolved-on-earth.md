@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New study sheds light on how earliest forms of life evolved on Earth"
-date: 2017-11-10 13:43:02
+date: 2017-11-19
 categories: Science
 author: unknown author
 tags: [Life, Abiogenesis, Hydrogen peroxide, Evolution, Hydrogen, Emergence, Biology, Nature, Physical sciences, Chemistry]

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Today in Engineering History: Internal Combustion Engine Patented"
-date: 2016-04-01 15:17:27
+date: 2016-04-10
 categories: Technology
 author: mcrouse
-
+tags: [Samuel Morey, Technology, Gases, Nature, Vehicle technology, Energy production, Sustainable technologies, Rotating machines, Chemistry, Machines, Propulsion, Engines, Artificial objects, Energy, Energy technology, Manufacturing, Mechanical engineering, Energy conversion]
 ---
 
 

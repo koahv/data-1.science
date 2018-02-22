@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Full circle: space algae fighting malnutrition in Congo"
-date: 2016-09-13 13:52:00
+date: 2017-09-22
 categories: Astronomy
 author: unknown author
 tags: [Spirulina (dietary supplement)]

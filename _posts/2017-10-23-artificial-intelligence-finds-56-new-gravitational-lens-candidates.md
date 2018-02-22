@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artificial intelligence finds 56 new gravitational lens candidates"
-date: 2017-10-23 20:08:58
+date: 2017-10-24
 categories: Science
 author: unknown author
 tags: [Gravitational lens, Astronomy, Gravity, European Southern Observatory, General relativity, Lens (optics), Physical sciences, Outer space, Physics, Science]

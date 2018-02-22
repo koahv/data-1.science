@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentinel-2 captures coral bleaching of Great Barrier Reef"
-date: 2017-05-24 11:30:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [Coral bleaching, Coral reef, Coral, Sentinel-2, Earth sciences]

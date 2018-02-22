@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spin glass provides insight into brain activity"
-date: 2017-03-22 16:45:41
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Neurotransmitter, Synapse, Memory, Brain, Inhibitory postsynaptic potential, Nervous system, Neuron, Spin (physics), Cognitive science, Cognition, Cognitive neuroscience, Neuropsychology, Neuroscience, Biology]

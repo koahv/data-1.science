@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Science of How Our Minds and Our Bodies Converge in the Healing of Trauma"
-date: 2016-06-20 06:00:32
+date: 2016-06-24
 categories: Philosophy
 author: Maria Popova
 tags: [Psychological trauma, Emotion, Mind, Human, Attachment theory, Feeling, Sense, Psychology, Fear, Caregiver, Self, Experience, Stress (biology), Clinical psychology, Metaphysics, Psychological concepts, Behavioural sciences, Neuroscience, Cognitive science, Metaphysics of mind, Emergence, Cognition]

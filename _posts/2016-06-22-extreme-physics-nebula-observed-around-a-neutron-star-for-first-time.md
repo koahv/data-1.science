@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""Extreme Physics" --Nebula Observed Around a Neutron Star for First Time"
-date: 2016-06-22 13:21:54
+date: 2016-06-23
 categories: Astronomy
 author: dailygalaxy.com
 tags: [Magnetar, Pulsar, Astronomy, Neutron star, Star, XMM-Newton, Stars, Outer space, Physical sciences, Astronomical objects, Physics, Nature]

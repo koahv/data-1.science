@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Image: Chaos on watery Europa"
-date: 2015-05-11 13:13:10
+date: 2015-05-11
 categories: Science
 author: unknown author
 

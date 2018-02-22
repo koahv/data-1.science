@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Source Threat Modeling"
-date: 2017-11-17 21:34:03
+date: 2018-02-18
 categories: Linux
 author: Linux Foundation
 tags: [Threat (computer), Threat model, Cross-platform, Systems engineering, Computer engineering, Digital media, Software engineering, Information technology, Areas of computer science, Digital technology, Software, Information technology management, Technology, Computing]

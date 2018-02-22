@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists trigger self-destruct switch in lung cancer cells"
-date: 2014-10-31 01:37:17
+date: 2016-03-29
 categories: Science
 author: unknown author
 

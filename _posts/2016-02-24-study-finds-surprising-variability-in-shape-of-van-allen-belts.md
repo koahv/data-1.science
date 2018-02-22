@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Study finds surprising variability in shape of Van Allen Belts"
-date: 2016-02-24 05:00:00
+date: 2016-03-15
 categories: Science
 author: unknown author
-
+tags: [Van Allen radiation belt, Van Allen Probes, Electron, Geomagnetic storm, Space science, Nature, Physics, Outer space, Astronomy, Physical sciences, Applied and interdisciplinary physics]
 ---
 
 

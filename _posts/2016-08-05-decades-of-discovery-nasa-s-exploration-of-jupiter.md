@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decades of discovery: NASA's exploration of Jupiter"
-date: 2016-08-05 04:00:00
+date: 2016-08-24
 categories: Astronomy
 author: unknown author
 tags: [Jupiter, New Horizons, Planet, Voyager 1, Space probe, Galileo (spacecraft), Hubble Space Telescope, Solar System, Gravity assist, CassiniHuygens, Io (moon), Sun, Outer space, Local Interstellar Cloud, Physical sciences, Astronautics, Astronomical objects, Planetary science, Spaceflight, Astronomy, Planets, Astronomical objects known since antiquity, Planets of the Solar System, Bodies of the Solar System, Space science]

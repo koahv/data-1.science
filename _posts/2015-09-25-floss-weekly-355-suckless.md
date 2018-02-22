@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FLOSS Weekly 355: Suckless"
-date: 2015-09-25 11:12:34
+date: 2015-09-28
 categories: Linux
 author: Randal Schwartz, Guillermo Amaral, Anselm R Garbe, Kai Hendry
 

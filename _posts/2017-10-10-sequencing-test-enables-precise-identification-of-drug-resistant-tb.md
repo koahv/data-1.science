@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sequencing test enables precise identification of drug-resistant TB"
-date: 2017-10-10 17:39:27
+date: 2017-10-11
 categories: Science
 author: unknown author
 

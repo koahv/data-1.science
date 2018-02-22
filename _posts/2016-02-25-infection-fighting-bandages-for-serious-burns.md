@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Infection-fighting bandages for serious burns"
-date: 2016-02-25 05:00:00
+date: 2016-03-16
 categories: Technology
 author: unknown author
-
+tags: [Bacteria, Infection, Healing, Burn, Pseudomonas aeruginosa, American Association for the Advancement of Science, Antimicrobial resistance, Death, Microbiology, Medical specialties, Medicine, Clinical medicine, Health sciences, Biology, Health]
 ---
 
 

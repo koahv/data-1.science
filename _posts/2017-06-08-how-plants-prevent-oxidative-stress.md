@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How plants prevent oxidative stress"
-date: 2017-06-08 04:00:00
+date: 2017-08-31
 categories: Science
 author: unknown author
 tags: [Photosynthesis, Reactive oxygen species, Plant, Oxygen, Chloroplast, Plant metabolism, Physical sciences, Metabolism, Photochemistry, Organisms, Biochemistry, Biology, Chemistry]

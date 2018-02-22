@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Climate change: How bad can it get?"
-date: 2015-12-10 08:42:22
+date: 2015-12-18
 categories: Science
 author: unknown author
-
+tags: [Global warming, Coral reef, Water, 2015 United Nations Climate Change Conference, Applied and interdisciplinary physics, Atmospheric sciences, Natural environment, Meteorology, Oceanography, Climatology, Earth sciences, Climate, Nature, Physical geography, Global natural environment]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Japanese Firm Plans World’s First Underwater City Powered by Sustainable Energy"
-date: 2014-11-25 22:52:57
+date: 2015-07-04
 categories: Energy
 author: Lucy Wang
 

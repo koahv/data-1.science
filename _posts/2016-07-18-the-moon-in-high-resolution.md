@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The moon in High Resolution"
-date: 2016-07-18 07:34:37
+date: 2016-07-21
 categories: Astronomy
 author: Houssem Ksontini
 tags: [Nikon, Astronomy, Photography, Optical devices, Photography equipment, Optics, Imaging, Recording devices, Digital photography, Equipment]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two More Steps Towards Quantum Computing - insideHPC"
-date: 2015-05-19 15:03:31
+date: 2015-05-22
 categories: Technology
 author: unknown author
 

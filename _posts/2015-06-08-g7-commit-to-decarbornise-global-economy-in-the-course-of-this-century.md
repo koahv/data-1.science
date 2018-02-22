@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "G7 commit to decarbornise global economy "in the course of this century""
-date: 2015-06-08 16:53:11
+date: 2015-09-15
 categories: Energy
 author: unknown author
 

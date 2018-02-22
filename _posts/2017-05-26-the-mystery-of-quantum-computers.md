@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The mystery of quantum computers"
-date: 2017-05-26 11:31:41
+date: 2017-09-20
 categories: Science
 author: unknown author
 tags: [Quantum computing, Quantum mechanics, Integer factorization, Computer, Computing, Science, Physics]

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA’s Plans for Sending Humans to Mars"
-date: 2015-12-21 10:30:05
+date: 2015-12-22
 categories: Astronomy
 author: Camille M. Carlisle
-
+tags: [Mars, Mount Sharp, Planets of the Solar System, Outer space, Planetary science]
 ---
 
 

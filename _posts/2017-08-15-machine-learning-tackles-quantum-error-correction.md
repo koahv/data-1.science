@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Machine learning tackles quantum error correction"
-date: 2017-08-15 14:00:02
+date: 2017-09-15
 categories: Science
 author: unknown author
 tags: [Quantum computing, Artificial neural network, Machine learning, Computing, Algorithm, Physics, Computer, Applied mathematics, Areas of computer science, Cognitive science, Technology]

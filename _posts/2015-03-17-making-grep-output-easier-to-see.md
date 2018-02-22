@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making grep output easier to see"
-date: 2015-03-17 17:00:00
+date: 2015-07-04
 categories: Linux
 author: unknown author
 

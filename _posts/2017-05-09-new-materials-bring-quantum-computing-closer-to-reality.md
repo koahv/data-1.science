@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New materials bring quantum computing closer to reality"
-date: 2017-05-09 11:15:59
+date: 2017-09-19
 categories: Science
 author: unknown author
 tags: [Quantum dot, Quantum computing, Electron, Computer, Silicon carbide, Integrated circuit, Computing, Information technology, Semiconductor, Atom, Silicon, Spin (physics), Diamond, Light, Optics, Physics, Technology, Artificial objects, Materials science, Applied and interdisciplinary physics, Chemistry]

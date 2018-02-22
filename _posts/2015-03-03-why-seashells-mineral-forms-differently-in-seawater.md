@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why seashells' mineral forms differently in seawater"
-date: 2015-03-03 11:26:46
+date: 2016-04-15
 categories: Science
 author: unknown author
 

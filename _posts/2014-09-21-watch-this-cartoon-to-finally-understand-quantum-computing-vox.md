@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Watch this cartoon to finally understand quantum computing - Vox"
-date: 2014-09-21 15:33:43
+date: 2015-05-22
 categories: Technology
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learn an instrument with this open source music teacher"
-date: 2016-07-20 07:01:00
+date: 2016-07-21
 categories: Open Source
 author: SeeLook
 tags: [Music, Test (assessment)]

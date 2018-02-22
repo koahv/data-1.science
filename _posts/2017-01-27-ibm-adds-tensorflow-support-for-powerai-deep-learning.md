@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IBM Adds TensorFlow Support for PowerAI Deep Learning"
-date: 2017-01-27 09:30:00
+date: 2017-10-14
 categories: Linux
 author: insideHPC
 tags: [TensorFlow, PowerPC, Areas of computer science, Computer architecture, Technology, Computer engineering, Computers, Software, Computing]

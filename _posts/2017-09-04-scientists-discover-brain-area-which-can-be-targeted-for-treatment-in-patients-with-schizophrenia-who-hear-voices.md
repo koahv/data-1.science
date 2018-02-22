@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists discover brain area which can be targeted for treatment in patients with schizophrenia who 'hear voices'"
-date: 2017-09-04 22:17:20
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Auditory hallucination, Transcranial magnetic stimulation, Hallucination, Schizophrenia, Clinical medicine, Cognition, Psychiatric assessment, Psychiatric diseases and disorders, Psychopathology, Medical specialties, Medical diagnosis, Health, Psychology, Medical ethics, Mental health, Nervous system, Abnormal psychology, Mental and behavioural disorders, Psychiatry-related fields, Psychiatric diagnosis, Medicine, Behavioural sciences, Neuroscience, Clinical psychology, Psychiatry, Psychological concepts, Cognitive science, Human diseases and disorders]

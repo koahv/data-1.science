@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Theoretical Underbelly of Optimizing Machine Learning Systems"
-date: 2015-08-24 18:59:37
+date: 2015-09-02
 categories: Technology
 author: Nicole Hemsoth
 

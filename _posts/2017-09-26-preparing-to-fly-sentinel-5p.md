@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Preparing to fly Sentinel-5P"
-date: 2017-09-26 11:15:00
+date: 2017-10-12
 categories: Astronomy
 author: unknown author
 tags: [Simulation, Satellite, European Space Agency, Christopher C Kraft Jr Mission Control Center, Technology, Spaceflight, Outer space, Spacecraft, Flight, Aerospace engineering, Spaceflight technologies, Astronautics]

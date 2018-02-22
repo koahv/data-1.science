@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Phenogenetic map created for stem cells models of neurological diseases"
-date: 2017-10-19 14:09:38
+date: 2017-10-20
 categories: Science
 author: unknown author
 tags: [Cell potency, Induced pluripotent stem cell, Neurology, Phenotype, Neurodegeneration, Research, Gene, Stem cell, Disease, Nervous system, Biology, Life sciences, Medicine, Health sciences, Biotechnology, Organisms]

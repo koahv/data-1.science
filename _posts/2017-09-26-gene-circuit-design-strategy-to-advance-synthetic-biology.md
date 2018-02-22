@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gene circuit design strategy to advance synthetic biology"
-date: 2017-09-26 20:23:03
+date: 2017-10-04
 categories: Science
 author: unknown author
 

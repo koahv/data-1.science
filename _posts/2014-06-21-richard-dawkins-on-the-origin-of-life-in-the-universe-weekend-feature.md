@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richard Dawkins on the "Origin of Life in the Universe" (Weekend Feature)"
-date: 2014-06-21 14:41:18
+date: 2014-06-23
 categories: Astronomy
 author: dailygalaxy.com
 

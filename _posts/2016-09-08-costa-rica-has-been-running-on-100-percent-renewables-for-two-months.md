@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Costa Rica Has Been Running on 100 Percent Renewables for Two Months"
-date: 2016-09-08 16:54:00
+date: 2017-09-25
 categories: Energy
 author: unknown author
 tags: [Renewable energy, Energy and the environment, Natural resources, Sustainable technologies, Sustainable development, Energy sources, Renewable resources, Alternative energy, Sustainable energy, Nature, Physical universe, Energy]

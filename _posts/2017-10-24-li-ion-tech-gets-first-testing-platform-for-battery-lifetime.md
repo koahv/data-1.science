@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Li-ion Tech Gets First Testing Platform for Battery Lifetime"
-date: 2017-10-24 16:46:00
+date: 2017-10-25
 categories: Energy
 author: unknown author
 tags: [Battery (electricity), Lithium-ion battery, Energy storage, Technology]

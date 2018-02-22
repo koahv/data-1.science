@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programming human cells to follow sets of logical instructions"
-date: 2017-03-29 13:00:04
+date: 2017-09-10
 categories: Science
 author: unknown author
 tags: [DNA, Stem cell, CRISPR, Cellular differentiation, Cell (biology), Evolution, Protein, Cancer, Genetics, Gene, Brain, Plant, Biology, Biotechnology, Organisms, Life sciences]

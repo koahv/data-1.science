@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ultimate A To Z List of Linux Commands | Linux Command Line Reference"
-date: 2017-04-16 10:32:32
+date: 2017-08-31
 categories: Linux
 author: Aditya Tiwari
 tags: [Command-line interface, CUPS, Computer terminal, Computer architecture, Computers, Computer data, Computing, Areas of computer science, Software, Digital technology, Operating system technology, Computer engineering, System software]

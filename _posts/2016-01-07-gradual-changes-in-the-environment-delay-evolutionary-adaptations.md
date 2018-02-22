@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Gradual changes in the environment delay evolutionary adaptations"
-date: 2016-01-07 13:30:01
+date: 2016-01-29
 categories: Science
 author: unknown author
-
+tags: [Evolution, Adaptation, Mutation, Saccharomyces cerevisiae, Organism, Climate change, Organisms, Biological evolution, Environmental social science, Life sciences, Nature, Biology, Evolutionary biology]
 ---
 
 

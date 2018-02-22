@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum theory and Einstein's special relativity applied to plasma physics issues"
-date: 2016-07-29 23:01:49
+date: 2016-08-01
 categories: Science
 author: unknown author
 tags: [Physics, Plasma (physics), Quantum mechanics, Particle physics, Field (physics), Pulsar, Special relativity, Quantum field theory, Star, General relativity, Light, Mechanics, Applied and interdisciplinary physics, Theoretical physics, Physical sciences, Science, Nature, Chemistry]

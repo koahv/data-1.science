@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Universe is a 'Complexity Machine' --"Intelligent Life and Technology May be Common in the Cosmos""
-date: 2015-01-23 16:17:04
+date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
 

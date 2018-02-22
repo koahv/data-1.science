@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Technical troubleshooting at the CERN Control Centre"
-date: 2014-08-05 12:51:11
+date: 2015-10-28
 categories: Science
 author: unknown author
 

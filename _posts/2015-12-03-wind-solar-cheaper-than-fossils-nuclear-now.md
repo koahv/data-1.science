@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Wind & Solar Cheaper Than Fossils & Nuclear Now"
-date: 2015-12-03 11:53:47
+date: 2015-12-22
 categories: Energy
 author: Guest Contributor
-
+tags: [Wind power, Photovoltaics, Alternative energy, Renewable energy, Technology, Energy and the environment, Electric power, Natural resources, Artificial objects, Renewable resources, Energy production, Energy sources, Power (physics), Sustainable energy, Sustainable technologies, Sustainable development, Energy, Physical universe, Nature]
 ---
 
 

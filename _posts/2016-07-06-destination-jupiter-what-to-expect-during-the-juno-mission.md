@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Destination Jupiter: What to Expect During the Juno Mission"
-date: 2016-07-06 13:25:40
+date: 2016-07-09
 categories: Technology
 author: kduffy
 tags: [Juno (spacecraft), Jupiter, Astronomical objects, Outer space, Solar System, Astronomy, Planetary science, Space science, Bodies of the Solar System, Planets, Planets of the Solar System, Spaceflight, Astronautics, Flight, Local Interstellar Cloud, Spacecraft]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sputnik 1: Celebrating 60 Years of Spaceflight"
-date: 2017-10-04 06:10:00
+date: 2017-10-04
 categories: Astronomy
 author: David L. Chandler
 tags: [Satellite, Project Vanguard, Sputnik 1, NASA, Explorer 1, Space exploration, Technology, Aerospace, Spacecraft, Spaceflight technologies, Aerospace engineering, Astronautics, Flight, Outer space, Spaceflight]

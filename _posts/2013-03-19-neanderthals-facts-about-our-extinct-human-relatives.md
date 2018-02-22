@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Neanderthals: Facts About Our Extinct Human Relatives"
-date: 2013-03-19 21:45:02
+date: 2016-04-14
 categories: Science
 author: unknown author
-
+tags: [Neanderthal, Archaic human admixture with modern humans, Human, Biology]
 ---
 
 

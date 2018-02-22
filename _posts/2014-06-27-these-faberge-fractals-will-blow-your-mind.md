@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "These 'Fabergé Fractals' will blow your mind"
-date: 2014-06-27 00:46:24
+date: 2014-07-01
 categories: Science
 author: unknown author
 

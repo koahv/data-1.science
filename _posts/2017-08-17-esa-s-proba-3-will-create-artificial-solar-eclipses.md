@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ESA’s Proba-3 will create artificial solar eclipses"
-date: 2017-08-17 09:07:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [Coronagraph, Sun, Corona, Solar eclipse, Satellite, Nature, Outer space, Astronomy, Physical sciences, Space science, Solar System, Planetary science, Spaceflight, Bodies of the Solar System]

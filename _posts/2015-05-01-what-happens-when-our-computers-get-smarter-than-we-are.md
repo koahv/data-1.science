@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Happens When Our Computers Get Smarter Than We Are?"
-date: 2015-05-01 13:59:23
+date: 2015-12-09
 categories: Technology
 author: kduffy
 

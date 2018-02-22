@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Gravitational waves detected 100 years after Einstein's prediction"
-date: 2016-02-11 15:39:35
+date: 2016-03-15
 categories: Science
 author: unknown author
-
+tags: [LIGO, Gravitational wave, Gravitational-wave observatory, Gravity, General relativity, GEO600, Natural philosophy, Theory of relativity, Mechanics, Applied and interdisciplinary physics, Spacetime, Physical cosmology, Science, Gravitation, Astronomy, Physical sciences, Physics]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spotting the spin of the Majorana fermion under the microscope"
-date: 2017-10-12 18:33:34
+date: 2017-10-13
 categories: Science
 author: unknown author
 tags: [Majorana fermion, Physical sciences, Mechanics, Modern physics, Theoretical physics, Condensed matter physics, Applied and interdisciplinary physics, Chemistry, Condensed matter, Materials science, Scientific method, Solid state engineering, Quantum mechanics, Particle physics, Physics]

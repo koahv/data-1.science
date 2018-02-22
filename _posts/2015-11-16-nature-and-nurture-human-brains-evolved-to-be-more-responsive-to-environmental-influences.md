@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Nature and nurture: Human brains evolved to be more responsive to environmental influences"
-date: 2015-11-16 23:10:23
+date: 2015-11-17
 categories: Science
 author: unknown author
-
+tags: [Human, Nature versus nurture, Genetics, Proceedings of the National Academy of Sciences of the United States of America, Chimpanzee, Evolution, Brain, Psychology, Psychological concepts, Science, Neuroscience, Biology]
 ---
 
 

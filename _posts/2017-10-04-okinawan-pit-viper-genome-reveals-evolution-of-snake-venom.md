@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Okinawan pit viper genome reveals evolution of snake venom"
-date: 2017-10-04 12:30:01
+date: 2017-10-04
 categories: Science
 author: unknown author
 tags: [Venom, Snake, Evolution, Snake venom, Snakebite, Okinawa Prefecture, Predation, Biology, Organisms, Life sciences]

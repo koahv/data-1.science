@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "CERN: Accelerating the Search for Supersymmetry --"A New Physics Beyond the Standard Model""
-date: 2015-11-14 06:09:04
+date: 2015-11-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Large Hadron Collider, Compact Muon Solenoid, Physics, Dark matter, Particle physics, Higgs boson, Matter, Gravity, Supersymmetry, Physical sciences, Applied and interdisciplinary physics, Natural philosophy, Astronomy, Mechanics, Physical cosmology, Science, Physical quantities]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Report highlights opportunities and risks associated with synthetic biology and bioengineering"
-date: 2017-11-21 05:00:00
+date: 2017-11-30
 categories: Science
 author: unknown author
 tags: [Microbiota, Genome editing, Disease, Human microbiota, Technology, Engineering, Synthetic biology, Biological engineering, Sustainability, Agriculture, Biology, Life sciences, Artificial objects, Health]

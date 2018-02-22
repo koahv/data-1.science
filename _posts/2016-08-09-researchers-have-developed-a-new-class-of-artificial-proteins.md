@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researchers have developed a new class of artificial proteins"
-date: 2016-08-09 04:00:00
+date: 2016-08-22
 categories: Technology
 author: unknown author
 tags: [Protein, Denmark, American Association for the Advancement of Science, Nature, Peptide, Life sciences, Biochemistry, Biotechnology, Biology, Chemistry, Molecular biology]

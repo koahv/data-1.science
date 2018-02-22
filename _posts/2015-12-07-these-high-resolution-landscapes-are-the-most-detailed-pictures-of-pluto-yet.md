@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "These High-Resolution Landscapes Are the Most Detailed Pictures of Pluto Yet"
-date: 2015-12-07 16:11:53
+date: 2015-12-21
 categories: Technology
 author: mcrouse
-
+tags: [New Horizons, Pluto, Planetary science, Space science, Astronautics, Discovery and exploration of the Solar System, Flight, Astronomy, Bodies of the Solar System, Spaceflight, Outer space, Solar System, Planets of the Solar System]
 ---
 
 

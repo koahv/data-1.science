@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA finds new way to track ocean currents from space"
-date: 2015-11-03 13:00:03
+date: 2015-11-04
 categories: Science
 author: unknown author
-
+tags: [Gravity Recovery and Climate Experiment, Ocean current, Earth sciences, Physical geography, Oceanography, Applied and interdisciplinary physics, Nature, Physical sciences, Hydrography, Oceans, Meteorology, Global natural environment]
 ---
 
 

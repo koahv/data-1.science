@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum science approaches to strongly correlated systems: from ultracold atoms to high-energy and condensed matter physics"
-date: 2017-03-20 00:00:00
+date: 2017-09-19
 categories: Science
 author: unknown author
 tags: [Physics, Gauge theory, Ultracold atom, Condensed matter physics, Matter, Scientific method, Physical sciences, Particle physics, Theoretical physics, Mechanics, Quantum mechanics, Solid state engineering, Modern physics, Chemistry, Condensed matter, Scientific theories, Materials science, Applied and interdisciplinary physics, Science]

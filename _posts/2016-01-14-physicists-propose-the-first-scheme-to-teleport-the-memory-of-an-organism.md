@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists propose the first scheme to teleport the memory of an organism"
-date: 2016-01-14 10:37:55
+date: 2016-01-29
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Teleportation, Quantum teleportation, Electron, Physics, Science, Chemistry, Condensed matter physics, Theoretical physics, Applied and interdisciplinary physics, Modern physics, Solid state engineering, Particle physics, Mechanics, Physical sciences]
 ---
 
 

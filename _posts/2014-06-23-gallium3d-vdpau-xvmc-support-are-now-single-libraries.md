@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gallium3D VDPAU & XvMC Support Are Now Single Libraries"
-date: 2014-06-23 05:21:18
+date: 2014-06-23
 categories: Linux
 author: unknown author
 

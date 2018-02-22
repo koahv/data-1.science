@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RIT to develop hybrid biological cell separations technology for lab-on-chip devices"
-date: 2017-10-09 04:00:00
+date: 2017-10-11
 categories: Science
 author: unknown author
 tags: [Chromatography, Lab-on-a-chip, Dielectrophoresis, Chemistry, Artificial objects, Manufacturing, Physical sciences, Technology, Applied and interdisciplinary physics, Biology, Science and technology]

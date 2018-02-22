@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Celebrating open standards around the world"
-date: 2016-10-14 19:04:13
+date: 2017-10-10
 categories: Linux
 author: ris
 tags: [Computing, Software, Digital media, Technology, Free software, Linux, Digital technology]

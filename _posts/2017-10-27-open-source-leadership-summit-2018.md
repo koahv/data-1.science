@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Source Leadership Summit 2018"
-date: 2017-10-27 21:19:26
+date: 2018-02-18
 categories: Linux
 author: lfadmin
 tags: [Technology, Computing]

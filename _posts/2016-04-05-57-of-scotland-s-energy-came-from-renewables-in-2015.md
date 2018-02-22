@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "57% of Scotland’s energy came from renewables in 2015"
-date: 2016-04-05 14:30:38
+date: 2016-04-06
 categories: Energy
 author: Julie M. Rodriguez
-
+tags: [Renewable energy, Scotland, Wind power, Alternative energy, Natural environment, Energy, Physical universe, Sustainable development, Nature, Sustainable energy, Sustainable technologies, Renewable resources, Natural resources]
 ---
 
 

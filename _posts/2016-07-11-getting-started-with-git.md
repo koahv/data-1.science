@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting started with Git"
-date: 2016-07-11 07:03:00
+date: 2016-07-11
 categories: Open Source
 author: sethkenlon
 tags: [Git, Computer file, GitHub, Path (computing), World Wide Web, Open-source model, Directory (computing), Digital media, Computers, Computer engineering, Computer architecture, Computer data, Areas of computer science, Operating system technology, Digital technology, Utility software, Computing, Software, System software, Information technology management]

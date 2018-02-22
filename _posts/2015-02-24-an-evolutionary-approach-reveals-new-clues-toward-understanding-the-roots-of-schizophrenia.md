@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An evolutionary approach reveals new clues toward understanding the roots of schizophrenia"
-date: 2015-02-24 05:00:00
+date: 2015-12-07
 categories: Technology
 author: unknown author
 

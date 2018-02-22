@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New function in gene-regulatory protein discovered"
-date: 2017-10-20 12:20:30
+date: 2017-10-20
 categories: Science
 author: unknown author
 tags: [Gene, RNA, Protein, DNA, RNA polymerase, Regulation of gene expression, Cell (biology), Life sciences, Biochemistry, Biotechnology, Biology, Organisms, Cell biology, Macromolecules, Biomolecules, Molecular genetics, Genetics, Chemistry, Molecular biology]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Novel treatment causes cancer to self-destruct without affecting healthy cells"
-date: 2017-10-09 16:39:06
+date: 2017-10-10
 categories: Science
 author: unknown author
 tags: [Apoptosis, Acute myeloid leukemia, Cancer, Bcl-2-associated X protein, Leukemia, Chemotherapy, Molecular biology, Biology, Cell biology, Medicine, Clinical medicine, Life sciences, Biochemistry, Medical specialties, Biotechnology, Health sciences, Health]

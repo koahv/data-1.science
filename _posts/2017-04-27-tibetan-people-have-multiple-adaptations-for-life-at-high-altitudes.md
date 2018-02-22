@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tibetan people have multiple adaptations for life at high altitudes"
-date: 2017-04-27 18:17:46
+date: 2017-08-31
 categories: Science
 author: unknown author
 

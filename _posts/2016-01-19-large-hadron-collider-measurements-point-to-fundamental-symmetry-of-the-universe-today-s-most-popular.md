@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Large Hadron Collider Measurements --"Point to Fundamental Symmetry of the Universe" (Today's Most Popular)"
-date: 2016-01-19 16:54:49
+date: 2016-01-27
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [ALICE experiment, High energy nuclear physics, Relativistic Heavy Ion Collider, Particle physics, Neutron, Theoretical physics, Science, Mechanics, Physical cosmology, Physical universe, Physical sciences, Physics, Nuclear physics]
 ---
 
 

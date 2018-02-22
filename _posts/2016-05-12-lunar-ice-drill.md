@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Lunar ice drill"
-date: 2016-05-12 10:20:00
+date: 2016-05-12
 categories: Astronomy
 author: unknown author
-
+tags: [Moon, Outer space, Spaceflight, Planetary science, Astronautics, Space science, Planets of the Solar System, Solar System, Astronomy, Space exploration, Flight]
 ---
 
 

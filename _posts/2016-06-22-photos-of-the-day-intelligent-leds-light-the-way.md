@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photos of the Day: Intelligent LEDs Light The Way"
-date: 2016-06-22 20:45:17
+date: 2016-06-24
 categories: Technology
 author: mcrouse
 tags: [Internet of things, Technology, Artificial objects, Computing]

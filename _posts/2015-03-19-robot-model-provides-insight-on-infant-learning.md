@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Robot Model Provides Insight on Infant Learning"
-date: 2015-03-19 18:58:41
+date: 2015-12-07
 categories: Technology
 author: kduffy
 

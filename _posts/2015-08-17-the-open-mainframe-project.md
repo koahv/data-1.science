@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Open Mainframe Project"
-date: 2015-08-17 23:31:54
+date: 2015-08-24
 categories: Linux
 author: corbet
 

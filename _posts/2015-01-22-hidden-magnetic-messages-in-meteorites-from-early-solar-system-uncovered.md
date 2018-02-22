@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hidden Magnetic Messages in Meteorites from Early Solar System Uncovered"
-date: 2015-01-22 02:07:10
+date: 2015-07-14
 categories: Astronomy
 author: dailygalaxy.com
 

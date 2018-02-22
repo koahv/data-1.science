@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How lizards regenerate their tails: Researchers discover genetic 'recipe'"
-date: 2014-08-20 18:00:03
+date: 2016-02-05
 categories: Science
 author: unknown author
 

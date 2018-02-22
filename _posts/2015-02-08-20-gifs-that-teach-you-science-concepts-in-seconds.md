@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "20 Gifs That Teach You Science Concepts In Seconds"
-date: 2015-02-08 02:21:02
+date: 2015-07-26
 categories: Astronomy
 author: Jolene Creighton
 

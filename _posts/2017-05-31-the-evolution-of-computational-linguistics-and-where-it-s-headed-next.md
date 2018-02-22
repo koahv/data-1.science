@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The evolution of computational linguistics and where it's headed next"
-date: 2017-05-31 10:50:01
+date: 2017-09-12
 categories: Science
 author: unknown author
 tags: [Language, Natural language processing, Artificial intelligence, Translation, Machine translation, Information technology, Grammar, Cognition, Computing, Artificial objects, Human communication, Communication, Semiotics, Linguistics, Cognitive science, Technology]

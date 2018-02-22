@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "X-ray emission from massive stars"
-date: 2015-10-26 13:00:34
+date: 2015-10-27
 categories: Science
 author: unknown author
 

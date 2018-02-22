@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Best of Opensource.com: Government"
-date: 2015-12-24 08:01:00
+date: 2015-12-24
 categories: Open Source
 author: melanie
-
+tags: [Open-source model, Open-source software, Innovation, Red Hat, European Single Market, Public sphere, Business, Economy]
 ---
 
 

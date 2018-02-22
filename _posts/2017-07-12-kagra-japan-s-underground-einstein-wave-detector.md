@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KAGRA: Japan’s Underground Einstein Wave Detector"
-date: 2017-07-12 14:43:39
+date: 2017-09-22
 categories: Astronomy
 author: Govert Schilling
 tags: [LIGO, Gravitational wave, Gravitational-wave observatory, Astronomy, Physical cosmology, Astrophysics, Applied and interdisciplinary physics, Physical sciences, Gravitation, Physics]

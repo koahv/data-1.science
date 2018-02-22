@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developer Turns Manure Into Renewable Energy"
-date: 2014-06-27 14:17:22
+date: 2014-06-29
 categories: Technology
 author: mfassbender
 

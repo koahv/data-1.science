@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A hellacious two weeks on Jupiter's moon Io"
-date: 2014-08-01 04:00:00
+date: 2015-07-17
 categories: Science
 author: unknown author
 

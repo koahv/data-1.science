@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Gaia Data Release"
-date: 2016-09-12 12:00:00
+date: 2017-09-22
 categories: Astronomy
 author: unknown author
 tags: [Gaia (spacecraft), Space exploration, Flight, Physical sciences, Spacecraft, Astronautics, Spaceflight, Astronomy, Outer space, Spaceflight technologies, Unmanned spacecraft, Space agencies, Aerospace engineering]

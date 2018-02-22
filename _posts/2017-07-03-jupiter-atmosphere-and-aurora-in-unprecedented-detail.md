@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jupiter: Atmosphere and aurora in unprecedented detail"
-date: 2017-07-03 12:32:31
+date: 2017-10-08
 categories: Science
 author: unknown author
 

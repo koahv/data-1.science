@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Magnetospheric Multiscale (MMS) mission puts magnetic reconnection under the microscope"
-date: 2016-05-12 04:00:00
+date: 2016-05-14
 categories: Science
 author: unknown author
-
+tags: [Magnetic reconnection, Plasma (physics), Magnetosphere, Solar wind, Sun, Electron, Physics, Applied and interdisciplinary physics, Space science, Astronomy, Phases of matter, Nature, Outer space, Physical sciences, Physical universe]
 ---
 
 

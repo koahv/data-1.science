@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Japanese Spacecraft Successfully Orbits Venus"
-date: 2015-12-09 19:23:01
+date: 2015-12-18
 categories: Technology
 author: kduffy
-
+tags: [Akatsuki (spacecraft), JAXA, Outer space, Solar System, Aerospace, Space exploration, Aerospace engineering, Astronomy, Space science, Space probes, Discovery and exploration of the Solar System, Spaceflight, Astronautics, Flight, Spacecraft, Spaceflight technologies]
 ---
 
 

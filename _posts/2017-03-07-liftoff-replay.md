@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Liftoff replay"
-date: 2017-03-07 01:50:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [Sentinel-2, Earth sciences]

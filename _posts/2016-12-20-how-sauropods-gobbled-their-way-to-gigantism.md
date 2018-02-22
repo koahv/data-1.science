@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How sauropods gobbled their way to gigantism"
-date: 2016-12-20 14:10:01
+date: 2017-10-05
 categories: Science
 author: unknown author
 tags: [Dinosaur, Sauropoda, Plateosaurus, Sauropodomorpha, Camarasaurus, Mandible, Skull, Paleontology, Organisms]

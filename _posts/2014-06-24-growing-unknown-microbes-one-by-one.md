@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Growing unknown microbes one by one"
-date: 2014-06-24 11:40:03
+date: 2014-06-24
 categories: Science
 author: unknown author
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Galileo liftoff replay"
-date: 2016-05-24 09:00:00
+date: 2016-05-26
 categories: Astronomy
 author: unknown author
-
+tags: [Soyuz at the Guiana Space Centre, Astronautics, Space traffic management, Flight, Outer space, Space programs, Spaceflight technologies, Aerospace engineering, Spacecraft, Spaceflight]
 ---
 
 

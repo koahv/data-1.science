@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Forest losses increase local temperatures"
-date: 2016-02-05 05:00:00
+date: 2016-02-05
 categories: Science
 author: unknown author
-
+tags: [Climate, Deforestation, Forest, Physical geography, Climatology, Natural environment, Earth sciences, Atmospheric sciences, Meteorology, Environmental science, Nature, Climate change]
 ---
 
 

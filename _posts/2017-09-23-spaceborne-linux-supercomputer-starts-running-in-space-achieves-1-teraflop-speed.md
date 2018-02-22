@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "“Spaceborne” Linux Supercomputer Starts Running In Space, Achieves 1 Teraflop Speed"
-date: 2017-09-23 08:44:17
+date: 2017-09-23
 categories: Linux
 author: Adarsh Verma
 tags: [Supercomputer, FLOPS, Hewlett Packard Enterprise, International Space Station, Computing, Spacecraft, Outer space, Technology, Spaceflight]

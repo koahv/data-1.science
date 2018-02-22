@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bipolar disorder discovery at the nano level"
-date: 2014-10-22 19:47:05
+date: 2016-03-29
 categories: Science
 author: unknown author
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "INFOGRAPHIC: How wind turbines actually work"
-date: 2016-03-21 18:00:36
+date: 2016-03-24
 categories: Energy
 author: carolinegilbert
-
+tags: [Wind power, Wind turbine, Turbine, Energy]
 ---
 
 

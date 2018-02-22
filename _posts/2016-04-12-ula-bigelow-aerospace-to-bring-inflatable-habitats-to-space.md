@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ULA, Bigelow Aerospace to Bring Inflatable Habitats to Space"
-date: 2016-04-12 19:52:51
+date: 2016-04-13
 categories: Technology
 author: jmeister
-
+tags: [B330, Bigelow Aerospace, United Launch Alliance, Outer space, Astronautics, Flight, Aerospace engineering, Spacecraft, Spaceflight technologies, Space-based economy, Aerospace, Human spaceflight, Spaceflight, Space industry, Industries, Space traffic management, Space applications, Space colonization, NASA]
 ---
 
 

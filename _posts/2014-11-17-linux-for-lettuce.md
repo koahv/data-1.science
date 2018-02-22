@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linux for lettuce"
-date: 2014-11-17 10:00:00
+date: 2015-06-02
 categories: Open Source
 author: Lisa M. Hamilton
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linux file system hierarchy"
-date: 2015-02-17 19:00:00
+date: 2015-07-03
 categories: Linux
 author: unknown author
 

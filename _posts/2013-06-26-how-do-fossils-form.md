@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Do Fossils Form?"
-date: 2013-06-26 22:02:48
+date: 2015-09-27
 categories: Science
 author: unknown author
 

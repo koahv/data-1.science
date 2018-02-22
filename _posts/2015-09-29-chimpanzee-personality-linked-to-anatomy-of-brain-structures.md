@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chimpanzee personality linked to anatomy of brain structures"
-date: 2015-09-29 13:27:38
+date: 2015-09-29
 categories: Science
 author: unknown author
 

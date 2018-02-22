@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Beyond DNA: TGen points the way to enhanced precision medicine with RNA sequencing"
-date: 2016-03-21 04:00:00
+date: 2016-03-25
 categories: Technology
 author: unknown author
-
+tags: [RNA-Seq, Cancer, Genetics, DNA sequencing, RNA, DNA, Genetic analysis, Virus, Genomics, Medical diagnosis, Gene, Disease, Biology, Translational research, Sequencing, Cell (biology), Life sciences, Medicine, Health sciences, Biotechnology, Organisms, Health, Clinical medicine, Medical specialties]
 ---
 
 

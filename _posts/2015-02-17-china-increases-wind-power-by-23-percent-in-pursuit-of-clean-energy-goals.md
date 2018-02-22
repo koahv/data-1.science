@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "China increases wind power by 23 percent in pursuit of clean energy goals"
-date: 2015-02-17 22:57:32
+date: 2015-07-04
 categories: Energy
 author: Cat DiStasio
 

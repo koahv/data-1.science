@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linux Foundation introduces new Linux certifications"
-date: 2014-08-20 18:07:05
+date: 2015-06-06
 categories: Linux
 author: unknown author
 

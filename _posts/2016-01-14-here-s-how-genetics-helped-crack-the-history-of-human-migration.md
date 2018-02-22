@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Here's how genetics helped crack the history of human migration"
-date: 2016-01-14 13:44:16
+date: 2016-01-29
 categories: Science
 author: unknown author
-
+tags: [Human, Recent African origin of modern humans, Neanderthal, Whole genome sequencing, Genetics, Homo sapiens, Europe, Homo, Biology]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neuroscientists identify brain mechanisms that predict generosity in children"
-date: 2014-12-19 15:39:48
+date: 2016-04-12
 categories: Science
 author: unknown author
 

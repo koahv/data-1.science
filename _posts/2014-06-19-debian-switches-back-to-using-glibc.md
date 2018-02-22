@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Debian Switches Back To Using GLIBC"
-date: 2014-06-19 15:26:01
+date: 2014-06-23
 categories: Linux
 author: Phoronix
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linguists explore the evolution of color in new study"
-date: 2016-12-09 18:32:55
+date: 2017-03-19
 categories: Science
 author: unknown author
 tags: [Color term, Proceedings of the National Academy of Sciences of the United States of America, Language, Anthropology, Color, Research, Linguistics, Cognition, Science, Culture, Cognitive science, Psychological concepts, Epistemology, Psychology, Communication, Emergence]

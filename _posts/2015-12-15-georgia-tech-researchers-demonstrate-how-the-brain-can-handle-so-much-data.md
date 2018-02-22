@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Georgia Tech researchers demonstrate how the brain can handle so much data"
-date: 2015-12-15 05:00:00
+date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Machine learning, Research, Artificial neural network, Learning, Human, Computer vision, Science, Theory, Computer science, Data, Neuroscience, Neuropsychological assessment, Science and technology, Emergence, Cognitive science, Cognition, Epistemology, Psychological concepts]
 ---
 
 

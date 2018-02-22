@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is the universe a hologram?"
-date: 2015-04-27 14:16:33
+date: 2015-07-26
 categories: Science
 author: unknown author
 

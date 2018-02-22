@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New properties of rotating superfluids discovered in helium nanodroplets"
-date: 2014-08-21 04:00:00
+date: 2015-07-17
 categories: Science
 author: unknown author
 

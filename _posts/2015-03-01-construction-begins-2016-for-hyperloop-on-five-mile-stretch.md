@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Construction begins 2016 for Hyperloop on five-mile stretch"
-date: 2015-03-01 11:00:02
+date: 2015-07-25
 categories: Science
 author: unknown author
 

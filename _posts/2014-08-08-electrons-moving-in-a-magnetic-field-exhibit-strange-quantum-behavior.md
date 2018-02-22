@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Electrons moving in a magnetic field exhibit strange quantum behavior"
-date: 2014-08-08 12:33:29
+date: 2015-05-22
 categories: Science
 author: unknown author
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Clean Energy Revolution In Three (Or Four) Charts"
-date: 2015-11-16 14:40:09
+date: 2015-11-17
 categories: Energy
 author: Tina Casey
-
+tags: [Wind power, Sustainable energy, Electric vehicle, Fuel, Energy development, Fossil fuel, Artificial objects, Sustainable development, Sustainable technologies, Nature, Physical universe, Energy]
 ---
 
 

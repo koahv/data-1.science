@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New study finds equatorial regions prone to disruptive space weather"
-date: 2015-08-17 04:00:00
+date: 2015-08-25
 categories: Astronomy
 author: unknown author
 

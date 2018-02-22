@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding how to teach 'intelligence'"
-date: 2015-02-10 13:36:49
+date: 2016-04-13
 categories: Science
 author: unknown author
 

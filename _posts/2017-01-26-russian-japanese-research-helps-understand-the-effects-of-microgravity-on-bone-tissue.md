@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Russian-Japanese research helps understand the effects of microgravity on bone tissue"
-date: 2017-01-26 05:00:00
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Bone, Osteoblast, Glucocorticoid, Osteoclast, Micro-g environment, Stress (biology), International Space Station, Biology]

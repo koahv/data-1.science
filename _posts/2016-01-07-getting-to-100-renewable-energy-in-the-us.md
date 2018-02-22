@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Getting To 100% Renewable Energy In the US"
-date: 2016-01-07 18:46:05
+date: 2016-01-29
 categories: Energy
 author: Adam Johnston
-
+tags: [Renewable energy, Wind power, Photovoltaics, 100 renewable energy, Solar power, Sustainable technologies, Technology, Energy, Physical universe, Alternative energy, Artificial objects, Sustainable energy, Renewable resources, Nature, Sustainable development]
 ---
 
 

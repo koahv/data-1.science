@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Webcam on Mars Express surveys high-altitude clouds"
-date: 2017-10-17 09:00:00
+date: 2017-10-17
 categories: Astronomy
 author: unknown author
 tags: [Cloud, Mars, Mars Reconnaissance Orbiter, Physical sciences, Planetary science, Outer space, Space science, Planets of the Solar System, Nature]

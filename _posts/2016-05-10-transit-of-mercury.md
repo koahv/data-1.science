@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Transit of Mercury"
-date: 2016-05-10 11:45:00
+date: 2016-05-12
 categories: Astronomy
 author: unknown author
-
+tags: [Sun, Transit (astronomy), Mercury (planet), Venus, Astronomy, Outer space, Solar System, Planetary science, Space science, Physical sciences, Bodies of the Solar System, Local Interstellar Cloud, Planets, Planets of the Solar System, Astronomical objects]
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientist explains sulfur behavior in Venus atmosphere"
-date: 2016-04-26 04:00:00
+date: 2016-04-29
 categories: Astronomy
 author: unknown author
-
+tags: [Venus, Ultraviolet, Cloud, Aerosol, Outer space, Electromagnetic radiation, Nature, Applied and interdisciplinary physics, Physical sciences, Astronomy, Chemistry]
 ---
 
 

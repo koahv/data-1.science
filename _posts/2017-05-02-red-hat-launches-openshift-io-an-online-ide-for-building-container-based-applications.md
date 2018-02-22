@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Red Hat Launches OpenShift.io, an Online IDE for Building Container-Based Applications"
-date: 2017-05-02 12:00:56
+date: 2017-10-23
 categories: Linux
 author: TechCrunch
 tags: [Computing, Software engineering, Computer engineering, Intellectual works, Software, Digital media, Application software, Software development, Computers]

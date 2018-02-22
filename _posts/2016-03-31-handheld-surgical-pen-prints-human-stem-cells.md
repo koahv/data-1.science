@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Handheld surgical 'pen' prints human stem cells"
-date: 2016-03-31 04:00:00
+date: 2016-04-10
 categories: Technology
 author: unknown author
-
+tags: [Tissue engineering, Surgery, Medicine, Science and technology, Clinical medicine, Medical specialties, Technology, Artificial objects]
 ---
 
 

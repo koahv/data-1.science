@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Before DNA --"The Search Heats Up For Possible Ancestors to Life on Earth""
-date: 2016-05-16 15:42:08
+date: 2016-05-17
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [DNA, Life, Nucleic acid double helix, Nucleic acid, RNA, Base pair, Abiogenesis, Nucleotides, Biomolecules, Structural biology, Nature, Biology, Life sciences, Chemistry, Molecular biology, Biochemistry, Organisms, Genetics, Biotechnology, Macromolecules, Nucleic acids, Physical sciences]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A mission to Mars could make its own oxygen via plasma technology"
-date: 2017-10-18 11:34:42
+date: 2017-10-18
 categories: Science
 author: unknown author
 tags: [In situ resource utilization, Carbon dioxide, Mars, Atmosphere of Mars, MAVEN, Atmosphere, Physical sciences, Nature, Outer space, Chemistry]

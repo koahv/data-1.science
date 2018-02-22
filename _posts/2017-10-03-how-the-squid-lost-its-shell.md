@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How the Squid Lost Its Shell"
-date: 2017-10-03 17:54:49
+date: 2017-10-25
 categories: Earth
 author: RR Helm
 tags: [Cephalopod, Giant squid, Organisms]

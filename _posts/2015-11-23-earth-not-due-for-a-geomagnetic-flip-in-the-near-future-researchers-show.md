@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earth not due for a geomagnetic flip in the near future, researchers show"
-date: 2015-11-23 20:00:11
+date: 2015-11-24
 categories: Science
 author: unknown author
-
+tags: [Earths magnetic field, Earth, Paleomagnetism, Aurora, Geomagnetic reversal, Magnetic field, Sun, Applied and interdisciplinary physics, Earth sciences, Physical sciences, Nature]
 ---
 
 

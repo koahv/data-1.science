@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "30 Useful Linux Commands for System Administrators"
-date: 2015-10-16 22:00:00
+date: 2015-10-19
 categories: Linux
 author: unknown author
 

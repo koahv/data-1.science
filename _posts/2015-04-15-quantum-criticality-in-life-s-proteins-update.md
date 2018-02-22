@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum Criticality in life's proteins (Update)"
-date: 2015-04-15 07:54:10
+date: 2015-07-26
 categories: Science
 author: unknown author
 

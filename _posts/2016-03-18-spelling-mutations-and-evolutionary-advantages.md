@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Spelling mutations and evolutionary advantages"
-date: 2016-03-18 04:00:00
+date: 2016-03-23
 categories: Science
 author: unknown author
-
+tags: [Genetic code, Mutation, Synonymous substitution, Evolution, Gene, Biology, Bacteria, Organism, Life sciences, Organisms, Molecular biology, Nature, Evolutionary biology, Biological evolution, Biotechnology, Biochemistry, Genetics]
 ---
 
 

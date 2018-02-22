@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A master switch that plays a key role in energy metabolism and human brain evolution"
-date: 2016-01-26 05:00:00
+date: 2016-01-29
 categories: Science
 author: unknown author
-
+tags: [Gene, Human, Evolution, Brain, Biology, Mutation, Biochemistry, Molecular biology, Life sciences, Genetics, Organisms, Biotechnology]
 ---
 
 

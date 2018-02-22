@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New tool for gauging public opinion reveals skepticism of climate engineering"
-date: 2016-02-01 19:19:15
+date: 2016-02-02
 categories: Science
 author: unknown author
-
+tags: [Climate engineering, Climate change, Change, Climatology, Future problems]
 ---
 
 

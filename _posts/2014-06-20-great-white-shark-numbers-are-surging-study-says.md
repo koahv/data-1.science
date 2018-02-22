@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Great white shark numbers are surging, study says"
-date: 2014-06-20 17:50:01
+date: 2014-06-22
 categories: Science
 author: unknown author
 

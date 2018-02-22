@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Improve your bash/sh shell script with ShellCheck lint script analysis tool"
-date: 2017-11-06 09:47:05
+date: 2017-11-16
 categories: Linux
 author: Vivek Gite
 tags: [Package manager, APT (Debian), Unix shell, Shell script, Rpm (software), Linux, Computing, System software, Operating system technology, Unix, Digital media, Computer engineering, Software]

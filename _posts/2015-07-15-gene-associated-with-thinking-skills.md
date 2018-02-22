@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gene associated with thinking skills"
-date: 2015-07-15 14:35:58
+date: 2016-05-12
 categories: Science
 author: unknown author
 

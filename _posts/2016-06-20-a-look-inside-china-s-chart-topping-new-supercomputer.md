@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Look Inside China’s Chart-Topping New Supercomputer"
-date: 2016-06-20 07:00:09
+date: 2016-06-21
 categories: Technology
 author: Nicole Hemsoth
 tags: [TOP500, FLOPS, Supercomputer, Tianhe-2, Computer architecture, Digital technology, Digital electronics, Technology, Office equipment, Areas of computer science, Electronic engineering, Computer hardware, Electronics, Computer engineering, Computers, Computing]

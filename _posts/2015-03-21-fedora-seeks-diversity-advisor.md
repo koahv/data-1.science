@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fedora Seeks Diversity Advisor"
-date: 2015-03-21 02:00:00
+date: 2015-07-04
 categories: Linux
 author: unknown author
 

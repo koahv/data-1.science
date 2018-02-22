@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oldest Fossil Brain Ever Discovered --Reveals Origin of the Head"
-date: 2015-05-11 13:32:32
+date: 2015-05-11
 categories: Astronomy
 author: dailygalaxy.com
 

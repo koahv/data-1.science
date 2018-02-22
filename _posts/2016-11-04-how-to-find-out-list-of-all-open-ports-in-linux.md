@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Find Out List of All Open Ports in Linux"
-date: 2016-11-04 04:56:13
+date: 2017-10-10
 categories: Linux
 author: Aaron Kili
 tags: [Port (computer networking), User Datagram Protocol, Transmission Control Protocol, Telecommunications, Media technology, Cyberspace, Computer standards, IT infrastructure, Information Age, Computer architecture, Protocols, Digital technology, Computing, Internet, Internet Standards, Internet architecture, Networking standards, Data transmission, Communications protocols, Network architecture, Network protocols, Internet protocols, Computer networking, Technology, Data, Computer data, Information technology, Wide area networks, Telecommunications standards]

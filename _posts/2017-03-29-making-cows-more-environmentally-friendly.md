@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making cows more environmentally friendly"
-date: 2017-03-29 16:08:01
+date: 2017-09-10
 categories: Science
 author: unknown author
 tags: [Greenhouse gas, Global warming, Livestock, Cattle, Air pollution, Agriculture, Natural environment]

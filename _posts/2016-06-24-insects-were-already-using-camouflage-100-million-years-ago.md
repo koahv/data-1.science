@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Insects were already using camouflage 100 million years ago"
-date: 2016-06-24 04:00:00
+date: 2016-06-25
 categories: Science
 author: unknown author
 tags: [Camouflage, Insect, Predation, Organisms, Animals]

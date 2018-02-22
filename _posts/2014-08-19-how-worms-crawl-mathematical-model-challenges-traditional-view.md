@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How worms crawl: mathematical model challenges traditional view"
-date: 2014-08-19 15:30:56
+date: 2016-02-05
 categories: Science
 author: unknown author
 

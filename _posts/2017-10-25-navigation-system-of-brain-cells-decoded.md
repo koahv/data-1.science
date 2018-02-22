@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Navigation system of brain cells decoded"
-date: 2017-10-25 04:00:00
+date: 2017-10-26
 categories: Technology
 author: unknown author
 tags: [Nerve, Axon, Brain, Nervous system, Science, Neuroscience, Biology]

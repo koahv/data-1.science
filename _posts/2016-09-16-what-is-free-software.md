@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is free software?"
-date: 2016-09-16 06:00:00
+date: 2017-09-24
 categories: Open Source
 author: admin
 tags: [Software, Communication, Cyberspace, Open-source movement, Computer engineering, Technology, Digital technology, Digital media, Intellectual works, Computing, Information technology]

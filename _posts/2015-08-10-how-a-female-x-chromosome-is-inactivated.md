@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How a female X chromosome is inactivated"
-date: 2015-08-10 15:07:47
+date: 2016-05-17
 categories: Science
 author: unknown author
 

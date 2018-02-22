@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Cretaceous fossils shed light on the early evolution of ants"
-date: 2016-05-30 04:00:00
+date: 2016-06-12
 categories: Science
 author: unknown author
-
+tags: [Ant, Organisms, Biology, Animals]
 ---
 
 

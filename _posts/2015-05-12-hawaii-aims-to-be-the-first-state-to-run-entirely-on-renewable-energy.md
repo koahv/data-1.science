@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hawaii aims to be the first state to run entirely on renewable energy"
-date: 2015-05-12 21:03:08
+date: 2015-05-20
 categories: Energy
 author: Charley Cameron
 

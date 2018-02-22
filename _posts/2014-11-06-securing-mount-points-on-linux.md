@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Securing mount points on Linux"
-date: 2014-11-06 10:21:39
+date: 2015-09-30
 categories: Linux
 author: Michael Boelen
 

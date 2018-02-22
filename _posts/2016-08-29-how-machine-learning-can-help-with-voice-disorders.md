@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How machine learning can help with voice disorders"
-date: 2016-08-29 04:00:00
+date: 2016-08-30
 categories: Technology
 author: unknown author
 tags: [Disease, Machine learning, National Institutes of Health, Hoarse voice, Medicine, Psychological concepts, Cognition, Cognitive science]

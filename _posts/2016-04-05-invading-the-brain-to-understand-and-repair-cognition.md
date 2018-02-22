@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Invading the brain to understand and repair cognition"
-date: 2016-04-05 04:00:00
+date: 2016-04-10
 categories: Technology
 author: unknown author
-
+tags: [Brain, Memory, Epilepsy, Neuroscience, Neuromodulation (medicine), Biology, Neuropsychology, Cognition, Nervous system, Cognitive science]
 ---
 
 

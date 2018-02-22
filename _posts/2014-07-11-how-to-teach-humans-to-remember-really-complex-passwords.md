@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Teach Humans to Remember Really Complex Passwords"
-date: 2014-07-11 10:30:57
+date: 2014-07-13
 categories: Security
 author: Andy Greenberg
 

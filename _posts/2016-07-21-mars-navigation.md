@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mars navigation"
-date: 2016-07-21 10:15:00
+date: 2016-07-22
 categories: Astronomy
 author: unknown author
 tags: [Quasar, ExoMars, Delta-DOR, Sun, Schiaparelli EDM lander, Outer space, Astronomy, Physical sciences, Spaceflight, Space science, Astronautics, Solar System, Planetary science, Flight]

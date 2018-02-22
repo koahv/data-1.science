@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stabilizing evolutionary forces keep ants strong"
-date: 2016-12-20 05:00:00
+date: 2017-03-22
 categories: Science
 author: unknown author
 tags: [Natural selection, Species, Genetics, Genetic variation, Genetic drift, Evolution, Life sciences, Organisms, Biological evolution, Evolutionary biology, Biology, Biology theories]

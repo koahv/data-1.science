@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Holometer rules out first theory of space-time correlations"
-date: 2015-12-04 09:26:38
+date: 2015-12-22
 categories: Science
 author: unknown author
-
+tags: [Holometer, LIGO, Universe, Gravitational wave, Physics, Interferometry, Space, Spacetime, Science, General relativity, Electron, Gravitational-wave observatory, Quantum mechanics, Force, Proton, Interference (wave propagation), Gravity, Physical sciences, Mechanics]
 ---
 
 

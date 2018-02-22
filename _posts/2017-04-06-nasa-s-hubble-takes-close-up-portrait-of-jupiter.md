@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA's Hubble takes close-up portrait of Jupiter"
-date: 2017-04-06 04:00:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [Jupiter, Great Red Spot, Atmosphere of Jupiter, Hubble Space Telescope, Planet, Outer planets, Astronomy, Planetary science, Outer space, Space science, Solar System, Planets of the Solar System, Bodies of the Solar System, Physical sciences, Substellar objects, Planets, Astronomical objects, Planemos]

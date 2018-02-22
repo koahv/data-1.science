@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LHC's objective—maximum intensity"
-date: 2017-06-07 12:02:27
+date: 2017-09-20
 categories: Science
 author: unknown author
 tags: [Large Hadron Collider, Particle accelerator, Electron, Collider, CERN, Physics, Physical chemistry, Mechanics, Experimental physics, Physical universe, Nature, Chemistry, Particle physics, Applied and interdisciplinary physics, Physical sciences]

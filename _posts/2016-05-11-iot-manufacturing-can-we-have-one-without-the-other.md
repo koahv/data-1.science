@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "IoT & Manufacturing: Can We Have One Without the Other?"
-date: 2016-05-11 20:50:35
+date: 2016-05-12
 categories: Technology
 author: kduffy
-
+tags: [Internet of things, Economy, Technology, Business, Science and technology, Artificial objects, Production and manufacturing, Industry]
 ---
 
 

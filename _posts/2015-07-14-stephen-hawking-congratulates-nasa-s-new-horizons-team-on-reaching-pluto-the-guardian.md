@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stephen Hawking congratulates Nasa's New Horizons team on reaching Pluto ... - The Guardian"
-date: 2015-07-14 23:34:00
+date: 2015-07-15
 categories: Astronomy
 author: unknown author
 

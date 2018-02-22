@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3-D-printed magnets: How can you produce a magnet with exactly the right magnetic field?"
-date: 2016-10-25 15:57:57
+date: 2017-10-07
 categories: Science
 author: unknown author
 tags: [3D printing, Printer (computing), Design, Magnetism, Technology, Artificial objects]

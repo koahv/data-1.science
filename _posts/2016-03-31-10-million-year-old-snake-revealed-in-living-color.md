@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "10-Million-Year-Old Snake Revealed in Living Color"
-date: 2016-03-31 17:55:13
+date: 2016-04-05
 categories: Science
 author: unknown author
-
+tags: [Chromatophore, Fossil, Skin, Pigment, Color, Biology]
 ---
 
 

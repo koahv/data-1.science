@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "20 Unix Command Line Tricks – Part I"
-date: 2015-01-13 04:34:47
+date: 2015-11-12
 categories: Linux
 author: Vivek Gite
-
+tags: [Computer file, Path (computing), Directory (computing), Unix filesystem, Command-line interface, Sudo, Ls, Tar (computing), Vim (text editor), Chmod, Superuser, Diff utility, Filename, Booting, Xargs, Software, Computing, System software, Utility software, Computer architecture, Storage software, Unix, Data management, Areas of computer science, Computers, Computer data, Information technology management, Operating system technology]
 ---
 
 

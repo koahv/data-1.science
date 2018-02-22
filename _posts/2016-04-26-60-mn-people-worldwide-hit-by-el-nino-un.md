@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "60 mn people worldwide hit by El Nino: UN"
-date: 2016-04-26 18:50:12
+date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [El Nio, La Nia, Drought, Meteorology, Oceanography, Earth sciences, Physical geography]
 ---
 
 

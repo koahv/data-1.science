@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What’s Inside a Black Hole?"
-date: 2016-12-28 20:45:34
+date: 2017-09-21
 categories: Astronomy
 author: Camille M. Carlisle
 tags: [Black hole, Event horizon, Modern physics, Astronomical objects, Physics, Physical sciences, Physical cosmology, Spacetime, Astronomy, Mechanics, Physical quantities, Theoretical physics, Mathematical physics, Scientific theories, Theories of gravitation, Gravitation, General relativity, Theory of relativity, Science, Cosmology]

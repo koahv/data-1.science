@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Spacecraft fly through explosive magnetic phenomenon to understand space weather"
-date: 2016-05-12 04:00:00
+date: 2016-05-14
 categories: Technology
 author: unknown author
-
+tags: [Magnetosphere, Geomagnetic storm, Earth, Space weather, Magnetic reconnection, Space science, Physical sciences, Outer space, Nature, Physics]
 ---
 
 

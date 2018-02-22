@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amazing Pop-Up Solar Power Station Delivers Energy Anywhere it’s Needed"
-date: 2014-06-24 13:00:02
+date: 2014-06-24
 categories: Energy
 author: unknown author
 

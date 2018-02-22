@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Watch 60 Years of Space Junk Amass Around Earth"
-date: 2015-12-23 17:50:37
+date: 2015-12-29
 categories: Technology
 author: kduffy
-
+tags: [Space debris, Satellite, Spaceflight, Outer space, Astronautics, Flight, Aerospace engineering, Spaceflight technologies, Spacecraft, Aerospace, Technology, Space technology, Space science, Satellites]
 ---
 
 

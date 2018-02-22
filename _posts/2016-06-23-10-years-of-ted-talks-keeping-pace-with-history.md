@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 years of TED Talks keeping pace with history"
-date: 2016-06-23 16:56:03
+date: 2016-06-24
 categories: Interest
 author: Cynthia Betubiza
 tags: [Physics, Edward Snowden, Arab Spring, Islamic State of Iraq and the Levant, Gravitational wave, Syria, Higgs boson, TED (conference), Nelson Mandela, LIGO, Black hole, Politics]

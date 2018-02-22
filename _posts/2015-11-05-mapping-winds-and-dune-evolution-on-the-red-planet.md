@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mapping winds and dune evolution on the Red Planet"
-date: 2015-11-05 13:56:59
+date: 2015-11-17
 categories: Science
 author: unknown author
-
+tags: [Mars, HiRISE, Astronomy, Mars Reconnaissance Orbiter, Outer space, Planets of the Solar System, Physical sciences, Planetary science, Space science, Solar System]
 ---
 
 

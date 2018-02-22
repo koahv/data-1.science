@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A new way to discover DNA modifications"
-date: 2016-02-29 05:00:00
+date: 2016-03-16
 categories: Technology
 author: unknown author
-
+tags: [DNA, Bacteria, DNA sequencing, Virus, Gene, Epigenetics, Genomics, RNA, Restriction enzyme, Organism, Cell (biology), Life sciences, Biotechnology, Organisms, Genetics, Biology, Molecular biology, Chemistry, Biochemistry]
 ---
 
 

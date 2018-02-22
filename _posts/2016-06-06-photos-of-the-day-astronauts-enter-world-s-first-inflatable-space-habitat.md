@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photos of the Day: Astronauts Enter World's First Inflatable Space Habitat"
-date: 2016-06-06 19:40:54
+date: 2016-06-13
 categories: Technology
 author: kduffy
 tags: [NASA, Bigelow Aerospace, International Space Station, Spaceflight technologies, Space-based economy, Space exploration, Government programs, Aerospace, Aerospace engineering, Human spaceflight, Spaceflight, Outer space, Astronautics, Flight, Spacecraft]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why public libraries need to support open source"
-date: 2016-10-07 07:00:00
+date: 2017-09-24
 categories: Open Source
 author: pshapiro
 tags: [Open-source software, TED (conference), Library, Linux, Computing]

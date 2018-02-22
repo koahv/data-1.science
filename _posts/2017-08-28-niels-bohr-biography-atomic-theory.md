@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Niels Bohr: Biography & Atomic Theory"
-date: 2017-08-28 14:31:00
+date: 2017-09-20
 categories: Science
 author: unknown author
 tags: [Niels Bohr, Bohr model, Quantum mechanics, Physics, Atom, Electron, Atomic physics, Condensed matter physics, Modern physics, Solid state engineering, Theoretical physics, Mechanics, Science, Particle physics, Chemistry, Physical sciences]

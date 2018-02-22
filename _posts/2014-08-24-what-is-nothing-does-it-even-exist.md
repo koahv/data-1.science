@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Nothing? Does it Even Exist?"
-date: 2014-08-24 23:46:39
+date: 2015-05-22
 categories: Astronomy
 author: FQtQ Contributor
 

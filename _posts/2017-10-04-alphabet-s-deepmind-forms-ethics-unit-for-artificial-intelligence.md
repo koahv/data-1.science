@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alphabet's DeepMind forms ethics unit for artificial intelligence"
-date: 2017-10-04 15:05:20
+date: 2017-10-04
 categories: Science
 author: unknown author
 tags: [Artificial intelligence, DeepMind, Motivation, Cognitive science]

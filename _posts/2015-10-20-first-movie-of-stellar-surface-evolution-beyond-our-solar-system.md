@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First movie of stellar-surface evolution beyond our Solar System"
-date: 2015-10-20 13:16:59
+date: 2015-10-22
 categories: Science
 author: unknown author
 

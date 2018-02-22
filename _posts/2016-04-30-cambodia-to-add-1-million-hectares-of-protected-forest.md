@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cambodia to add 1 million hectares of protected forest"
-date: 2016-04-30 09:42:43
+date: 2016-04-30
 categories: Science
 author: unknown author
-
+tags: [Cambodia, Conservation biology, Forest, Endangered species, Deforestation, Extinction, Ecology, Natural environment, Conservation, Systems ecology, Natural resource management, Habitat, Environmental conservation, Earth sciences]
 ---
 
 

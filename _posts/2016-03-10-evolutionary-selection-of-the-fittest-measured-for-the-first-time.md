@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolutionary 'selection of the fittest' measured for the first time"
-date: 2016-03-10 19:00:02
+date: 2016-03-15
 categories: Science
 author: unknown author
-
+tags: [Genetic code, Bacteria, Genetics, Evolution, Biology, Natural selection, Protein, Gene, Cell (biology), Organism, Translation (biology), DNA, Fitness (biology), Codon usage bias, Mutation, Molecular biology, Nature, Biochemistry, Organisms, Life sciences, Biotechnology]
 ---
 
 

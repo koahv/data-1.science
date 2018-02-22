@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Image of the Day: Stunning 3-D Photo of Mars"
-date: 2014-10-06 16:05:49
+date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
 

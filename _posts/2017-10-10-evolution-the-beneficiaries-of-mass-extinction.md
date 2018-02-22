@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Evolution: The beneficiaries of mass extinction"
-date: 2017-10-10 04:00:00
+date: 2017-10-11
 categories: Science
 author: unknown author
 tags: [Extinction event, Extinction, Biodiversity, Dinosaur, Biology, Environmental social science, Biological concepts, Nature, Organisms, Science, Earth sciences, Evolutionary biology, Natural environment, Biological evolution, Paleontological concepts and hypotheses, Biogeochemistry]

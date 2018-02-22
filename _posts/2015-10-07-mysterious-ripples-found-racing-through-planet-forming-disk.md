@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mysterious ripples found racing through planet-forming disk"
-date: 2015-10-07 04:00:00
+date: 2015-10-09
 categories: Astronomy
 author: unknown author
 

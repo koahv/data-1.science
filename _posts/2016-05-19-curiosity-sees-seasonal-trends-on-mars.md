@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Curiosity Sees Seasonal Trends on Mars"
-date: 2016-05-19 20:03:15
+date: 2016-05-21
 categories: Astronomy
 author: Ana V. Aceves
-
+tags: [Mars, Atmosphere of Mars, Curiosity (rover), Season, Humidity, Atmosphere of Earth, Gale (crater), Winter, Timekeeping on Mars, Solar System, Outer space, Physical sciences, Astronomy, Space science, Planetary science, Planets of the Solar System]
 ---
 
 

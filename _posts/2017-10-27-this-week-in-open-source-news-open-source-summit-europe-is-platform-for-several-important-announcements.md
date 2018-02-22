@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Week in Open Source News: Open Source Summit Europe Is Platform for Several Important Announcements"
-date: 2017-10-27 15:00:17
+date: 2018-02-18
 categories: Linux
 author: lfadmin
 tags: [Justin Cappos, Linux Foundation, Computing, System software, Software, Linus Torvalds, Operating system technology, Linux kernel programmers, Linux kernel, Free software, Linux people, Linux, Finnish computer scientists, Unix variants, Finnish computer programmers]

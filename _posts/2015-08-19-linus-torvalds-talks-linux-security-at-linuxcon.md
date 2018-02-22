@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linus Torvalds Talks Linux Security at LinuxCon"
-date: 2015-08-19 19:00:00
+date: 2015-08-24
 categories: Linux
 author: unknown author
 

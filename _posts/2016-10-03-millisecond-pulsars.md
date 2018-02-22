@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Millisecond pulsars"
-date: 2016-10-03 12:00:01
+date: 2017-10-07
 categories: Science
 author: unknown author
 tags: [Pulsar, Star, 47 Tucanae, Astronomy, Neutron star, Star cluster, Binary star, Millisecond pulsar, Galaxy, Supernova, Globular cluster, Stellar astronomy, Stars, Outer space, Physical sciences, Astronomical objects]

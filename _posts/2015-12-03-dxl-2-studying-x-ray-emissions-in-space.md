@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DXL-2: Studying X-ray emissions in space"
-date: 2015-12-03 05:00:00
+date: 2015-12-18
 categories: Science
 author: unknown author
-
+tags: [NASA, Black Brant (rocket), Spaceflight technologies, Nature, Astronautics, Outer space, Spaceflight, Physical sciences, Flight, Astronomy, Aerospace engineering]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sir Tim Berners-Lee Receives 2016 ACM A.M. Turing Award"
-date: 2017-04-04 13:30:56
+date: 2017-10-18
 categories: Linux
 author: Communications of the ACM
 tags: [World Wide Web, Tim Berners-Lee, Areas of computer science, Science and technology, Computer science, Technology, Computing]

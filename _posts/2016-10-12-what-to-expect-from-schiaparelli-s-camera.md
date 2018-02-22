@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What to expect from Schiaparelli’s camera"
-date: 2016-10-12 09:00:00
+date: 2017-09-22
 categories: Astronomy
 author: unknown author
 tags: [Schiaparelli EDM lander, ExoMars, Aerospace, Space robots, Space missions, Space technology, Space agencies, Missions to the planets, Mars, Space probes, Solar System, Discovery and exploration of the Solar System, Space exploration, Aerospace engineering, Spaceflight technologies, Flight, Spacecraft, Astronautics, Astronomy, Spaceflight, Outer space, Planets of the Solar System, Aerospace agencies, Missions to Mars, Unmanned spacecraft, Exploration of Mars]

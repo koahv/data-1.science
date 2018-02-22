@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 Raspberry Pi upgrades part 2"
-date: 2014-07-19 17:06:40
+date: 2014-07-21
 categories: Linux
 author: Rob Zwetsloot
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Single atom memory: The world's smallest storage medium"
-date: 2017-03-09 05:00:00
+date: 2017-09-17
 categories: Science
 author: unknown author
 tags: [Bit, Computer data storage, Atom, Moores law, Quantum mechanics, Nanotechnology, Scanning tunneling microscope, Quantum tunnelling, American Association for the Advancement of Science, Technology, Computing]

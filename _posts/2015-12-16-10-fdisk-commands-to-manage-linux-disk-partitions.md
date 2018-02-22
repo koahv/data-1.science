@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "10 fdisk Commands to Manage Linux Disk Partitions"
-date: 2015-12-16 04:00:07
+date: 2015-12-17
 categories: Linux
 author: Ravi Saive
-
+tags: [Disk partitioning, Device file, Master boot record, Fdisk, Cylinder-head-sector, Booting, Disk storage, Computer data, Utility software, Computer engineering, Computers, Storage software, Operating system families, Operating system technology, Computer architecture, Software, System software, Computing, Areas of computer science, Computer hardware, IBM PC compatibles]
 ---
 
 

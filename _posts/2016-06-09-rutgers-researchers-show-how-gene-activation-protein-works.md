@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rutgers researchers show how gene activation protein works"
-date: 2016-06-09 04:00:00
+date: 2016-06-13
 categories: Technology
 author: unknown author
 tags: [Transcription (biology), RNA polymerase, DNA, RNA, CAMP receptor protein, Gene, Protein, Nucleic acid sequence, Cell (biology), Richard H Ebright, Activator (genetics), Molecular genetics, Nutrients, Nucleotides, Cellular processes, Chemistry, Proteins, Nucleic acids, Molecular biophysics, Biochemistry, Life sciences, Biology, Structural biology, Molecular biology, Organisms, Biomolecules, Cell biology, Macromolecules, Genetics, Biotechnology]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Study: 1 in 6 Deaths Worldwide Caused by Pollution in 2015"
-date: 2017-10-21 21:54:08
+date: 2017-10-23
 categories: Science
 author: Chelsea Gohd
 tags: [Pollution, Health, Natural environment]

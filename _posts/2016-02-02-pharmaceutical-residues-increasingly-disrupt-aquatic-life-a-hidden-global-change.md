@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pharmaceutical residues increasingly disrupt aquatic life: A hidden global change"
-date: 2016-02-02 05:00:00
+date: 2016-02-05
 categories: Technology
 author: unknown author
-
+tags: [Water, Sewage treatment, Ecology, Aquatic ecosystem, American Association for the Advancement of Science, Pharmaceutical drug, Natural environment, Biology, Environmental science]
 ---
 
 

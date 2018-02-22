@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ESA/Hubble --"The Universe May Be Expanding Faster than Expected""
-date: 2016-06-02 16:19:00
+date: 2016-06-03
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Cosmic distance ladder, Hubble Space Telescope, Wilkinson Microwave Anisotropy Probe, Big Bang, Hubbles law, Milky Way, Supernova, Astronomy, Physical sciences, Cosmology, Science, Scientific observation, Natural philosophy, Outer space, Physical cosmology, Physics]
 ---
 
 

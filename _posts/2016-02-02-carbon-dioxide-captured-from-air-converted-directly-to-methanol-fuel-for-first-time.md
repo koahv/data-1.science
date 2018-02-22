@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Carbon Dioxide Captured from Air Converted Directly to Methanol Fuel for First Time"
-date: 2016-02-02 18:45:19
+date: 2016-02-05
 categories: Technology
 author: jmoonie
-
+tags: [Combustion, Carbon dioxide, Catalysis, Petroleum, Fuel, Greenhouse gas, Methanol, Atmosphere of Earth, Materials, Chemistry, Artificial objects, Energy, Nature, Chemical substances, Manufacturing, Artificial materials]
 ---
 
 

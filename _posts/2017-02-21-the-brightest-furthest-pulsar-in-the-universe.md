@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The brightest, furthest pulsar in the Universe"
-date: 2017-02-21 07:30:00
+date: 2017-09-21
 categories: Astronomy
 author: unknown author
 tags: [Neutron star, Star, Pulsar, Astronomy, Physics, Stellar astronomy, Nature, Applied and interdisciplinary physics, Physical phenomena, Stars, Physical sciences, Outer space, Astronomical objects]

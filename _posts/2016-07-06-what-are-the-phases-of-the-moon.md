@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What are the Phases of the Moon?"
-date: 2016-07-06 18:21:45
+date: 2016-07-09
 categories: Astronomy
 author: Ana V. Aceves
 tags: [Lunar phase, Moon, Astronomy, Planetary science, Outer space, Planets of the Solar System, Physical sciences, Bodies of the Solar System, Moons, Solar System, Planetary-mass satellites, Scientific observation]

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Today in Engineering History: Europe's First Weather Satellite Launches"
-date: 2015-11-23 16:34:40
+date: 2015-11-24
 categories: Technology
 author: mcrouse
-
+tags: [Meteosat, Space agencies, European space programmes, Space exploration, Earth sciences, Flight, Satellites, Space programs, Astronautics, Spacecraft, Outer space, Spaceflight, Meteorology]
 ---
 
 

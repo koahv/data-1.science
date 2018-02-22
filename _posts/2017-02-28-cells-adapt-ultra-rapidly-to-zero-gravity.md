@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cells adapt ultra-rapidly to zero gravity"
-date: 2017-02-28 11:56:29
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Weightlessness, Astronomy, Galaxy, International Space Station, Gravity, Experiment, Quasar, Earth, Outer space, Physical sciences, Science]

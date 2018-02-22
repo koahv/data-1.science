@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What Higher Consciousness Really Means, How We Attain It, and What It Does for the Human Spirit"
-date: 2015-11-16 07:30:50
+date: 2015-11-23
 categories: Philosophy
 author: Maria Popova
-
+tags: [Mind, Consciousness, Cognition, Psychological concepts, Philosophy, Psychology, Cognitive science, Metaphysics of mind, Neuroscience, Culture, Epistemology]
 ---
 
 

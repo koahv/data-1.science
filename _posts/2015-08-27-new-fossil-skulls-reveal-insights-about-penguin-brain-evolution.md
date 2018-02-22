@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New fossil skulls reveal insights about penguin brain evolution"
-date: 2015-08-27 14:31:35
+date: 2015-09-02
 categories: Science
 author: unknown author
 

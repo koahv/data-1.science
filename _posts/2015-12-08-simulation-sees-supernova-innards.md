@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Simulation Sees Supernova Innards"
-date: 2015-12-08 17:52:27
+date: 2015-12-22
 categories: Astronomy
 author: Monica Young
-
+tags: [Star, Supernova, Gamma-ray burst, Astronomy, Milky Way, Physical phenomena, Applied and interdisciplinary physics, Nature, Stars, Stellar astronomy, Astronomical objects, Outer space, Physical sciences, Physics]
 ---
 
 

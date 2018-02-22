@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How bees find their way home"
-date: 2017-10-17 12:37:09
+date: 2017-10-17
 categories: Science
 author: unknown author
 tags: [Honey bee, Brain, Western honey bee, Bee, Pollination, Neuron, Evolution, Plant, Biology]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Europe’s MSG-4 weather satellite delivered into orbit"
-date: 2015-07-15 11:36:00
+date: 2015-09-03
 categories: Astronomy
 author: unknown author
 

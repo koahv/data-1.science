@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wind energy provides 8% of Europe's electricity"
-date: 2015-07-24 12:04:57
+date: 2016-05-15
 categories: Science
 author: unknown author
 

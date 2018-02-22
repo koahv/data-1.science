@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Engineers design magnetic cell sensors"
-date: 2015-11-02 18:15:13
+date: 2015-11-22
 categories: Science
 author: unknown author
-
+tags: [Protein, Cell (biology), Nanoparticle, Cellular differentiation, Medical imaging, Stem cell, Biotechnology, Organisms, Cell biology, Life sciences, Biology, Artificial objects]
 ---
 
 

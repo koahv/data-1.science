@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lightning Strike Reflects on International Space Station Solar Panel | The ... - The Weather Channel"
-date: 2015-09-03 15:13:22
+date: 2015-09-05
 categories: Science
 author: unknown author
 

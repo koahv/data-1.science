@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One Year Until New Horizons"
-date: 2014-07-14 15:53:34
+date: 2015-07-14
 categories: Astronomy
 author: Maria Temming
 

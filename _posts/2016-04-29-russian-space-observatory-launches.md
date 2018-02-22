@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Russian Space Observatory Launches"
-date: 2016-04-29 13:48:57
+date: 2016-04-30
 categories: Astronomy
 author: David Dickinson
-
+tags: [Swift Gamma-Ray Burst Mission, Vostochny Cosmodrome, Telescope, Gamma ray, Cosmic ray, Satellite, Gamma-ray burst, Space science, Spaceflight technologies, Astronautics, Spaceflight, Astronomy, Physical sciences, Outer space, Nature]
 ---
 
 

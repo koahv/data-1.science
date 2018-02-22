@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How many dinosaurs were there?"
-date: 2016-03-31 12:20:01
+date: 2016-04-05
 categories: Science
 author: unknown author
-
+tags: [Dinosaur, Mesozoic, Fossil, Paleontology, Biodiversity, Evolution, Theropoda, Species, Organisms, Nature]
 ---
 
 

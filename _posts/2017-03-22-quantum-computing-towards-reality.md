@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum computing: towards reality"
-date: 2017-03-22 00:00:00
+date: 2017-09-19
 categories: Science
 author: unknown author
 

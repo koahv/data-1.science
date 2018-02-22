@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stephen Hawking opens British artificial intelligence hub (Update)"
-date: 2016-10-19 17:19:47
+date: 2017-03-22
 categories: Science
 author: unknown author
 tags: [Artificial intelligence, Intelligence, Robot, Technology]

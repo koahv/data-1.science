@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Red Hat Achieves Common Criteria Security Certification for Red Hat Enterprise Linux 7"
-date: 2016-10-26 04:00:00
+date: 2017-10-10
 categories: Linux
 author: unknown author
 tags: [Common Criteria, Red Hat, IBM zEnterprise System, Evaluation Assurance Level, Linux, Forward-looking statement, Operating system, Information security, Cloud computing, ProLiant, Open-source software, Risk, Technology, Computing]

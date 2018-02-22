@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Journey to the Center of Jupiter"
-date: 2014-07-18 18:16:33
+date: 2015-05-22
 categories: Astronomy
 author: dailygalaxy.com
 

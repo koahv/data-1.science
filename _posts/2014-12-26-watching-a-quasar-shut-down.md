@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Watching a Quasar Shut Down"
-date: 2014-12-26 13:00:19
+date: 2015-07-21
 categories: Astronomy
 author: Shannon Hall
 

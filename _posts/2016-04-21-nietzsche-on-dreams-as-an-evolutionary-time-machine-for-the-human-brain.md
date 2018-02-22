@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Nietzsche on Dreams as an Evolutionary Time Machine for the Human Brain"
-date: 2016-04-21 06:30:29
+date: 2016-04-21
 categories: Philosophy
 author: Maria Popova
-
+tags: [Dream, Mind, Human, Sleep, Thought, Philosophy, Cognitive science, Psychological concepts, Epistemology, Truth, Neuroscience, Cognition, Theoretical philosophy, Metaphysics]
 ---
 
 

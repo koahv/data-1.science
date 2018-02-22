@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Powerful DNA 'Editing' Has Arrived, Are We Ready for It?"
-date: 2015-08-06 18:12:03
+date: 2016-05-16
 categories: Science
 author: unknown author
 

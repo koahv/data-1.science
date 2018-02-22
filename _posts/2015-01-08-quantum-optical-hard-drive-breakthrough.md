@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum optical hard drive breakthrough"
-date: 2015-01-08 05:00:00
+date: 2015-07-07
 categories: Technology
 Science
 Technology

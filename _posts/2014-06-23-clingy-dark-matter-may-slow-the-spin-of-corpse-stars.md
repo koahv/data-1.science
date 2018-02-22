@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clingy dark matter may slow the spin of corpse stars"
-date: 2014-06-23 17:28:00
+date: 2014-06-24
 categories: Science
 author: unknown author
 

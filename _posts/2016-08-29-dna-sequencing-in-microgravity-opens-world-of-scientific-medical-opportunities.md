@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DNA Sequencing in Microgravity Opens World of Scientific, Medical Opportunities"
-date: 2016-08-29 20:05:40
+date: 2016-08-30
 categories: Technology
 author: skasprzak
 tags: [DNA sequencing, DNA, International Space Station, Organism, NASA, Life sciences, Biology, Genetics, Biotechnology, Organisms, Molecular biology]

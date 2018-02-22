@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Six to 10 million years ago: Ice-free summers at the North Pole"
-date: 2016-04-07 17:00:01
+date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Arctic Ocean, Climate, Water, Global warming, Sea ice, Arctic, Ocean, Sea, Arctic ice pack, Ice, Applied and interdisciplinary physics, Environmental science, Meteorology, Global natural environment, Climatology, Physical sciences, Nature, Oceanography, Physical geography, Earth sciences]
 ---
 
 

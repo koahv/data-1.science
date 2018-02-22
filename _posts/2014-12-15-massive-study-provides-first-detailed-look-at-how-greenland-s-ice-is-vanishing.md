@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Massive study provides first detailed look at how Greenland's ice is vanishing"
-date: 2014-12-15 20:45:22
+date: 2016-04-12
 categories: Science
 author: unknown author
 

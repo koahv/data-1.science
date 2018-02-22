@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists unveil plan to create synthetic human genomes"
-date: 2016-06-03 19:50:01
+date: 2016-06-12
 categories: Science
 author: unknown author
 tags: [Genetics, Gene, Genome, Human genome, Genome project, Human, Human Genome Project, DNA, Whole genome sequencing, Synthetic biology, Organisms, Biotechnology, Life sciences, Biology]

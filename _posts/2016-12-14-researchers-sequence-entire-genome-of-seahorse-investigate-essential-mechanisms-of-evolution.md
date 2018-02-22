@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researchers sequence entire genome of seahorse, investigate essential mechanisms of evolution"
-date: 2016-12-14 18:00:01
+date: 2017-03-22
 categories: Science
 author: unknown author
 tags: [Seahorse, Gene, Evolution, Lined seahorse, Genetics, Gene duplication, Human, Genome, Biology, Organisms, Life sciences]

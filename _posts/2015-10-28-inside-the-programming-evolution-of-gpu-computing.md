@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inside The Programming Evolution of GPU Computing"
-date: 2015-10-28 15:52:09
+date: 2015-10-29
 categories: Technology
 author: Nicole Hemsoth
 

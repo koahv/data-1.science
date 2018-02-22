@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Inspect a KC-135 Stratotanker"
-date: 2015-04-20 18:28:42
+date: 2015-12-09
 categories: Technology
 author: kduffy
 

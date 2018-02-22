@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New superconductor world record set"
-date: 2014-06-27 15:00:02
+date: 2014-06-29
 categories: Energy
 author: unknown author
 

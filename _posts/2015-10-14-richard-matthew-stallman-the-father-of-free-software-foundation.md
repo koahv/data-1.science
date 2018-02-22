@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richard Matthew Stallman – The Father Of Free Software Foundation"
-date: 2015-10-14 17:59:01
+date: 2015-10-16
 categories: Linux
 author: Roy Schestowitz
 

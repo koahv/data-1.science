@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accelerating materials discovery"
-date: 2016-08-15 04:00:00
+date: 2016-08-22
 categories: Technology
 author: unknown author
 tags: [OLED, Technology, Artificial objects, Science and technology]

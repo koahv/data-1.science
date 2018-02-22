@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magnetosphere Mission Launches"
-date: 2015-03-13 19:01:18
+date: 2015-07-21
 categories: Astronomy
 author: Camille M. Carlisle
 

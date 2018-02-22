@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best of Blue Dot"
-date: 2015-05-28 13:25:00
+date: 2015-09-03
 categories: Astronomy
 author: unknown author
 

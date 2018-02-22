@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Farm to table oversight, new technologies improving spice safety"
-date: 2014-06-23 19:27:09
+date: 2014-06-23
 categories: Science
 author: unknown author
 

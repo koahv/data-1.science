@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Today in Engineering History: Eiffel Tower Opens in Paris"
-date: 2015-03-31 17:18:42
+date: 2015-12-09
 categories: Technology
 author: kduffy
 

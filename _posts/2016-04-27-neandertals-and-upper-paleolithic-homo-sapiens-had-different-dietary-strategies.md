@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Neandertals and Upper Paleolithic Homo sapiens had different dietary strategies"
-date: 2016-04-27 04:00:00
+date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [Neanderthal, Human, Paleolithic]
 ---
 
 

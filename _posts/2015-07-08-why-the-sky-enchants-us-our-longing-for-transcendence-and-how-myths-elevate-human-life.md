@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why the Sky Enchants Us: Our Longing for Transcendence and How Myths Elevate Human Life"
-date: 2015-07-08 07:00:48
+date: 2015-07-10
 categories: Philosophy
 author: Maria Popova
 

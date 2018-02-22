@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New research replicates a folding human brain in 3-D"
-date: 2016-02-01 05:00:00
+date: 2016-02-05
 categories: Technology
 author: unknown author
-
+tags: [Brain, Cerebral cortex, Gyrification, Neuroscience, Nervous system, Biology, Cognitive science, Science]
 ---
 
 

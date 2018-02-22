@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New action plan to save world's rarest primate"
-date: 2015-05-19 13:49:49
+date: 2015-05-19
 categories: Science
 author: unknown author
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Webb Telescope mirrors installed with robotic arm precision"
-date: 2016-01-27 05:00:00
+date: 2016-01-29
 categories: Astronomy
 author: unknown author
-
+tags: [James Webb Space Telescope, Mirror, Hubble Space Telescope, Outer space, Optics, Astronomy, Spaceflight]
 ---
 
 

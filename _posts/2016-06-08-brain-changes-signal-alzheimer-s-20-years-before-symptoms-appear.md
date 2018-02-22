@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brain Changes Signal Alzheimer’s 20 Years Before Symptoms Appear"
-date: 2016-06-08 19:19:54
+date: 2016-03-26
 categories: Technology
 author: unknown author
-
+tags: [Alzheimers disease, Clinical medicine, Medical specialties, Neuroscience, Nervous system, Health, Diseases and disorders, Biology, Medicine]
 ---
 
 

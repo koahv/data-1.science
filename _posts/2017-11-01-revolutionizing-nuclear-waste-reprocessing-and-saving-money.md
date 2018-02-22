@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revolutionizing nuclear waste reprocessing and saving money"
-date: 2017-11-01 13:20:19
+date: 2017-11-19
 categories: Science
 author: unknown author
 tags: [Nuclear power, Metalorganic framework, Nuclear reprocessing, Adsorption, Nuclear fuel, Recycling, Spent nuclear fuel, Fuel, Radioactive waste, Materials, Forms of energy, Artificial objects, Nature, Chemistry, Manufacturing, Nuclear technology, Energy, Nuclear physics, Nuclear energy, Energy technology]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The science of carbon dioxide and climate"
-date: 2017-03-13 13:21:58
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [Global warming, Greenhouse gas, Greenhouse effect, Climate change, Earth, Carbon dioxide, Atmosphere of Earth, Air pollution, Fuel, Global natural environment, Global environmental issues, Natural environment, Environmental science, Applied and interdisciplinary physics, Atmospheric sciences, Climatology, Earth sciences, Nature, Physical geography, Meteorology]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding memory information on Linux systems"
-date: 2016-10-31 16:54:32
+date: 2017-10-10
 categories: Linux
 author: Michael Boelen
 tags: [Computer data storage, Paging, Computer file, Cache (computing), Random-access memory, Software, Computing, Computer architecture, Computer engineering, Computers, Computer data, Areas of computer science, Digital technology, Operating system technology, System software, Data, Digital media, Information technology, Information technology management, Computer hardware]

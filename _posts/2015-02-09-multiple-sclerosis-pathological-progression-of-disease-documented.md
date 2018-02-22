@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multiple sclerosis: pathological progression of disease documented"
-date: 2015-02-09 13:35:09
+date: 2016-04-13
 categories: Science
 author: unknown author
 

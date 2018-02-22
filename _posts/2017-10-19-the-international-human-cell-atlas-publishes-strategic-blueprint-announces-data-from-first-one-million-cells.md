@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The international Human Cell Atlas publishes strategic blueprint, announces data from first one million cells"
-date: 2017-10-19 13:19:55
+date: 2017-10-19
 categories: Science
 author: unknown author
 tags: [Wellcome Trust Sanger Institute, Gene, Biology, Gene expression, Human, Genome, Cell (biology), Broad Institute, Sequencing, Evolution, RNA-Seq, Life sciences, Organisms, Genetics, Biotechnology]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oldest stone tools found in Kenya - EarthSky"
-date: 2015-05-21 12:24:00
+date: 2015-05-21
 categories: Earth
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New microscope technique offers a better way to measure magnetic field of individual atoms"
-date: 2017-03-07 14:00:02
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Atom, Microscope, Sensor, Magnetic field, Nanotechnology, Magnetism, Microscopy, Physics, Light-emitting diode, Research, Magnetometer, Applied and interdisciplinary physics, Chemistry, Physical sciences, Technology]

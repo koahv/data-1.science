@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ANU Team Achieves Record Solar Thermal Efficiency Of 97%"
-date: 2016-08-25 15:25:12
+date: 2017-09-25
 categories: Energy
 author: Guest Contributor
 tags: [Solar thermal energy, Concentrated solar power, Renewable energy, Thermal power station, Alternative energy, Energy conversion, Renewable resources, Energy technology, Technology, Sustainable energy, Energy sources, Sustainable development, Energy production, Artificial objects, Energy, Nature, Physical universe, Sustainable technologies]

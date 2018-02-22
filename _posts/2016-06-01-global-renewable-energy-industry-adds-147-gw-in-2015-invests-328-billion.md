@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Global Renewable Energy Industry Adds 147 GW In 2015, Invests $328 Billion"
-date: 2016-06-01 13:10:46
+date: 2016-06-12
 categories: Energy
 author: Joshua S Hill
-
+tags: [Renewable energy, Renewable energy commercialization, Wind power, Renewable resources, Energy, Physical universe, Nature, Sustainable energy, Sustainable development, Alternative energy, Power (physics), Sustainable technologies, Artificial objects, Natural resources, Energy sources, Energy production, Technology, Electric power]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tracking a solar eruption through the Solar System"
-date: 2017-08-15 08:00:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [Coronal mass ejection, Sun, Mars, NASA, Rosetta (spacecraft), 67PChuryumovGerasimenko, Venus, Local Interstellar Cloud, Planetary science, Astronomical objects, Spaceflight, Physical sciences, Bodies of the Solar System, Space science, Solar System, Astronomy, Outer space, Astronautics, Planets of the Solar System]

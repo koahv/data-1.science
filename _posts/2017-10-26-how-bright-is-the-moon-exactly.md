@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Bright is the Moon . . . Exactly?"
-date: 2017-10-26 13:00:10
+date: 2017-10-27
 categories: Astronomy
 author: David Dickinson
 tags: [Moon, Light, Observatory, Full moon, Scientific observation, Electromagnetic radiation, Planetary science, Outer space, Physical sciences, Astronomy]

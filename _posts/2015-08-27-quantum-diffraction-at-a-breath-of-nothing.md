@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum diffraction at a breath of nothing"
-date: 2015-08-27 14:02:34
+date: 2015-09-02
 categories: Energy
 author: unknown author
 

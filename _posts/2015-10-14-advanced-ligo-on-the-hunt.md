@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advanced LIGO On the Hunt"
-date: 2015-10-14 17:53:10
+date: 2015-10-20
 categories: Astronomy
 author: David Dickinson
 

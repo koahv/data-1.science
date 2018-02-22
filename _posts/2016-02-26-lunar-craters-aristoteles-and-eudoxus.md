@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Lunar craters Aristoteles and Eudoxus."
-date: 2016-02-26 16:31:36
+date: 2016-03-15
 categories: Astronomy
 author: Edison Urdaneta
-
+tags: [Aristoteles (crater), Astronomical instruments, Electromagnetic radiation, Astronomical imaging, Natural philosophy, Scientific observation, Observational astronomy, Optical devices, Optics, Astronomy, Telescopes]
 ---
 
 

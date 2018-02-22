@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Electricity from shale gas vs. coal: Lifetime toxic releases from coal much higher"
-date: 2017-10-23 04:00:00
+date: 2017-10-23
 categories: Science
 author: unknown author
 tags: [Hydraulic fracturing, Shale gas, Natural gas, Air pollution, Coal, Fossil fuel power station, Oil shale, Nature, Natural environment, Natural resources]

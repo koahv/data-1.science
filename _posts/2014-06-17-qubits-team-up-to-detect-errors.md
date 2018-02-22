@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Qubits team up to detect errors"
-date: 2014-06-17 15:50:26
+date: 2014-06-22
 categories: Science
 author: unknown author
 

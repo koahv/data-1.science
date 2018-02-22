@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Special issue: Forest health"
-date: 2015-08-20 04:00:00
+date: 2015-09-07
 categories: Science
 author: unknown author
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ice matters"
-date: 2015-12-11 14:01:00
+date: 2015-12-18
 categories: Astronomy
 author: unknown author
-
+tags: [Sea ice, Ice, Arctic Ocean, CryoSat, Climate change, Ocean, Arctic, Sea, Climatology, Atmospheric sciences, Global natural environment, Nature, Meteorology, Geography, Oceanography, Applied and interdisciplinary physics, Physical geography, Earth sciences, Planets of the Solar System]
 ---
 
 

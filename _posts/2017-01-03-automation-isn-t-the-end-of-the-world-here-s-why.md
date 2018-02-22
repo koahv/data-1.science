@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Automation Isn’t The End Of The World — Here’s Why"
-date: 2017-01-03 10:00:00
+date: 2017-10-19
 categories: Technology
 author: unknown author
 tags: [Unemployment, Entrepreneurship, Sustainability, Economy]

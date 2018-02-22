@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA/Hubble: Dark Vortex Observed in Atmosphere of Neptune"
-date: 2016-06-23 23:28:58
+date: 2016-06-24
 categories: Astronomy
 author: dailygalaxy.com
 tags: [Neptune, Hubble Space Telescope, Astronomy, Cloud, Planets, Outer space, Space science, Physical sciences, Planetary science]

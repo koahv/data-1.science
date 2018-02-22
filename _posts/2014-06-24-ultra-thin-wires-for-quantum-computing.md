@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ultra-thin wires for quantum computing"
-date: 2014-06-24 01:23:27
+date: 2014-06-24
 categories: Energy
 author: unknown author
 

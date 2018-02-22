@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Here's how what you buy affects the environment"
-date: 2016-02-24 12:26:21
+date: 2016-03-15
 categories: Science
 author: unknown author
-
+tags: [Greenhouse gas, Water use, Ecological footprint, Carbon footprint, Carbon dioxide, Global warming, Carbon dioxide equivalent, Nature, Natural environment]
 ---
 
 

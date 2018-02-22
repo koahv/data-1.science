@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "China Successfully Launches SpaceLab Tiangong-2 --International Space Station and Science Discoveries to Follow"
-date: 2016-09-15 15:51:41
+date: 2017-03-22
 categories: Astronomy
 author: dailygalaxy.com
 tags: [Tiangong-2, Atomic clock, Tiangong-1, Industries, Technology, Flight, Spacecraft, Astronautics, Spaceflight technologies, Aerospace engineering, Outer space, Spaceflight]

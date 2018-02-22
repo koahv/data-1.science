@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Is Radiation Dangerous?"
-date: 2016-03-15 17:17:48
+date: 2016-03-16
 categories: Technology
 author: kduffy
-
+tags: [Radiation, Forms of energy]
 ---
 
 

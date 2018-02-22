@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beyond the Printed Page: Gravitational Waves"
-date: 2015-09-17 14:54:04
+date: 2015-09-19
 categories: Astronomy
 author: The Editors of Sky Telescope
 

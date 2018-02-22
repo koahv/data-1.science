@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tracing deep ocean currents"
-date: 2016-02-25 13:33:13
+date: 2016-03-15
 categories: Science
 author: unknown author
-
+tags: [Thermohaline circulation, Ocean current, Ocean, Hydrography, Physical geography, Earth sciences, Oceanography, Applied and interdisciplinary physics, Nature, Oceans, Physical sciences, Global natural environment, Hydrology, Water, Natural environment, Physical oceanography]
 ---
 
 

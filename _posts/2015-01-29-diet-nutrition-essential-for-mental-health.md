@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diet, nutrition essential for mental health"
-date: 2015-01-29 15:42:17
+date: 2016-04-12
 categories: Science
 author: unknown author
 

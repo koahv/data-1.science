@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Genome research challenges previous understanding of the origin of photosynthesis"
-date: 2017-10-30 11:08:20
+date: 2017-10-31
 categories: Science
 author: unknown author
 tags: [Evolution, Photosynthesis, Life, Broad Institute, Chloroflexi (phylum), Plant, Biology, Organisms, Life sciences, Nature]

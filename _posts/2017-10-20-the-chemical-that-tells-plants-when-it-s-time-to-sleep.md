@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The chemical that tells plants when it's time to sleep"
-date: 2017-10-20 13:00:01
+date: 2017-10-20
 categories: Science
 author: unknown author
 tags: [Circadian rhythm, Ethylene, Circadian clock, Life sciences, Organisms, Biology, Physiology]

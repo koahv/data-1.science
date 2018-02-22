@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tracing the evolution of bird reproduction"
-date: 2016-08-10 04:00:00
+date: 2017-03-19
 categories: Science
 author: unknown author
 tags: [Bird, Dinosaur, Ornithology, Egg, Tetrapods, Organisms, Biology, Animals, Paravians, Birds]

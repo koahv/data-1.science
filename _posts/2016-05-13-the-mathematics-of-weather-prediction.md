@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The mathematics of weather prediction"
-date: 2016-05-13 13:20:04
+date: 2016-05-14
 categories: Science
 author: unknown author
-
+tags: [Weather forecasting, Numerical weather prediction, Weather, Earth sciences, Nature, Oceanography, Applied and interdisciplinary physics, Atmospheric sciences, Meteorology, Physical geography]
 ---
 
 

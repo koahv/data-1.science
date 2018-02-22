@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Intensive training for Mars voyage"
-date: 2016-03-08 13:10:00
+date: 2016-03-15
 categories: Astronomy
 author: unknown author
-
+tags: [ExoMars, Schiaparelli EDM lander, Space programs, Spaceflight, Outer space, Astronautics, Flight, Spacecraft, Aerospace engineering, Spaceflight technologies, Space exploration, Aerospace, Discovery and exploration of the Solar System, Space agencies, Mars, Astronomy, Space traffic management]
 ---
 
 

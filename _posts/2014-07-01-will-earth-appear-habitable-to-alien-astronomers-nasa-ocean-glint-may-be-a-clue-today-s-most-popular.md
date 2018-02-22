@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Will Earth Appear Habitable to Alien Astronomers? --NASA: "Ocean Glint May be a Clue" (Today's Most Popular)"
-date: 2014-07-01 15:11:35
+date: 2014-06-30
 categories: Astronomy
 author: dailygalaxy.com
 

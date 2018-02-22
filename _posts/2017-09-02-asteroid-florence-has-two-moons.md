@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asteroid Florence Has Two Moons"
-date: 2017-09-02 14:17:04
+date: 2017-09-22
 categories: Astronomy
 author: Kelly Beatty
 tags: [Near-Earth object, Asteroid, Moon, Natural satellite, 3122 Florence, Spaceflight, Planets of the Solar System, Outer space, Astronomy, Planetary science, Space science, Solar System, Bodies of the Solar System, Physical sciences]

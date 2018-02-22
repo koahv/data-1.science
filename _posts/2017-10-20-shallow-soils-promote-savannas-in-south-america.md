@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shallow soils promote savannas in South America"
-date: 2017-10-20 12:24:03
+date: 2017-10-20
 categories: Science
 author: unknown author
 tags: [Savanna, Tropical rainforest, Amazon rainforest, Forest, Soil, Biodiversity, Climate, Vegetation, Air pollution, Deforestation, Precipitation, Ecology, Cerrado, Rainforest, Tree, Climate change, Wildfire, Earth, Nature, Earth sciences, Systems ecology, Physical geography, Biogeochemistry, Natural environment, Environmental science]

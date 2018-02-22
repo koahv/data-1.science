@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA/Hubble: The Cloaked, Hidden Lair of a Supermassive Black Hole"
-date: 2015-12-18 17:28:13
+date: 2015-12-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Black hole, NuSTAR, Galaxy, Astronomy, Supermassive black hole, Telescope, XMM-Newton, Hubble Space Telescope, Physical sciences, Outer space, Astronomical objects]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researchers identify genes that help trout find their way home"
-date: 2017-04-26 04:00:00
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Brain, Fish, Magnetite, Magnetoreception, Life sciences, Organisms, Biology]

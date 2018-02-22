@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solar Plane Completes Its Round-the-World Flight in Abu Dhabi"
-date: 2016-07-26 15:56:11
+date: 2016-07-29
 categories: Technology
 author: mcrouse
 tags: [Masdar, Solar Impulse, Natural resources, Energy, Sustainable energy, Renewable energy, Physical universe, Renewable resources, Alternative energy, Sustainable development, Sustainable technologies, Nature, Energy sources, Energy and the environment]

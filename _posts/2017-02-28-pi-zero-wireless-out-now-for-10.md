@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pi Zero Wireless out now for $10"
-date: 2017-02-28 09:00:00
+date: 2017-09-24
 categories: Open Source
 author: ben_nuttall
 tags: [Raspberry Pi, Computer engineering, Media technology, Electrical engineering, Manufactured goods, Classes of computers, Computer hardware, Computers, Computing, Office equipment, Digital technology, Electronics, Electronic engineering, Computer architecture, Technology, Microcomputers, Digital electronics]

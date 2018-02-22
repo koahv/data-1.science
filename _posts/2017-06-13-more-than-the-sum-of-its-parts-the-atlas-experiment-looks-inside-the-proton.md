@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More than the sum of its parts: the ATLAS Experiment looks inside the proton"
-date: 2017-06-13 14:04:10
+date: 2017-09-20
 categories: Science
 author: unknown author
 tags: [Particle physics, Gluon, Proton, ATLAS experiment, Quark, Large Hadron Collider, Hadron, Quantum chromodynamics, Jet (particle physics), Physics, Higgs boson, Physical universe, Chemistry, Standard Model, Modern physics, Physical bodies, Quantum field theory, Nuclear physics, Mechanics, Quantum mechanics, Physical sciences, Theoretical physics]

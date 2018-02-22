@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NMR spectroscopy platform to target the development of new therapeutic agents"
-date: 2017-02-28 05:00:00
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Drug discovery, American Association for the Advancement of Science, Institut national de la recherche scientifique, Research, Pharmaceutical drug, Biology, Life sciences, Biochemistry, Science, Biotechnology, Chemistry]

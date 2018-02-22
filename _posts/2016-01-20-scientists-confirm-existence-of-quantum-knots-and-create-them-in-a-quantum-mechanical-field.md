@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists confirm existence of quantum knots and create them in a quantum-mechanical field"
-date: 2016-01-20 10:46:20
+date: 2016-01-29
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, BoseEinstein condensate, Physics, Knot, Applied and interdisciplinary physics, Chemistry, Theoretical physics, Mechanics, Science, Physical sciences]
 ---
 
 

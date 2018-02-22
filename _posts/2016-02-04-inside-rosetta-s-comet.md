@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Inside Rosetta’s comet"
-date: 2016-02-04 09:00:00
+date: 2016-02-05
 categories: Astronomy
 author: unknown author
-
+tags: [Rosetta (spacecraft), Comet, 67PChuryumovGerasimenko, Gravity, Asteroid, Astronomy, Bodies of the Solar System, Space science, Planetary science, Physical sciences, Solar System, Outer space]
 ---
 
 

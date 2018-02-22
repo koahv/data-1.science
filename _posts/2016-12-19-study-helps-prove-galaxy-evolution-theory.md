@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Study helps prove galaxy evolution theory"
-date: 2016-12-19 21:54:41
+date: 2017-03-22
 categories: Science
 author: unknown author
 tags: [Astronomy, Milky Way, Star, Spitzer Space Telescope, Star formation, Hubble Space Telescope, Galaxy, Big Bang, Carbon monoxide, Universe, Telescope, Observatory, Space telescope, Herschel Space Observatory, Physical sciences, Outer space, Astronomical objects]

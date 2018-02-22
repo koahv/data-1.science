@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentinel satellite captures birth of behemoth iceberg"
-date: 2017-07-12 10:50:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [Larsen Ice Shelf, Ice shelf, Physical geography, Oceanography, Earth sciences]

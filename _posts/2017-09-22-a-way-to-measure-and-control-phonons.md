@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A way to measure and control phonons"
-date: 2017-09-22 12:50:02
+date: 2017-09-23
 categories: Science
 author: unknown author
 tags: [Photon, Quantum mechanics, Physics, Light, Matter, Phonon, Mechanics, Nature, Physical chemistry, Condensed matter physics, Science, Theoretical physics, Modern physics, Solid state engineering, Materials science, Particle physics, Chemistry, Physical sciences, Applied and interdisciplinary physics]

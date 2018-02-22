@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Air quality-monitoring satellite in orbit"
-date: 2017-10-13 11:05:00
+date: 2017-10-13
 categories: Astronomy
 author: unknown author
 tags: [Copernicus Programme, Sentinel-5 Precursor, Spaceflight, Outer space, Space agencies, Spacecraft, Satellites, Astronautics, Spaceflight technologies, Flight, Aerospace engineering]

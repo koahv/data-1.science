@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Asteroid touchdown"
-date: 2016-05-30 10:50:00
+date: 2016-05-31
 categories: Astronomy
 author: unknown author
-
+tags: [Bodies of the Solar System, Space missions, Outer space, Spaceflight, Astronautics, Spacecraft, Flight, Spaceflight technologies, Space exploration, Aerospace engineering, Solar System, Discovery and exploration of the Solar System, Space science, Space probes, Aerospace, Astronomy, Planetary science, Unmanned spacecraft, Space technology]
 ---
 
 

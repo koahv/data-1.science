@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ice Giants: Neptune and Uranus"
-date: 2016-06-21 14:28:00
+date: 2016-06-23
 categories: Astronomy
 author: The Editors of Sky Telescope
 tags: [Neptune, Uranus, Planet, William Herschel, Moons of Uranus, Discovery of Neptune, Star, Planets, Planemos, Scientific observation, Planets of the Solar System, Space science, Bodies of the Solar System, Astronomy, Planetary science, Physical sciences, Astronomical objects, Outer space, Solar System]

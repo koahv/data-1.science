@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New advances in solar cell technology"
-date: 2016-10-05 15:42:05
+date: 2017-09-25
 categories: Science
 author: unknown author
 tags: [Solar cell, Perovskite solar cell, Energy development, Perovskite (structure), Renewable energy, Nature, Materials, Energy, Manufacturing, Artificial objects, Chemistry]

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Swiss Inaugurate $12 Billion Rail Tunnel, World's Longest"
-date: 2016-06-01 13:40:55
+date: 2016-06-03
 categories: Technology
 author: kduffy
-
+tags: [Gotthard railway, Gotthard Base Tunnel, Switzerland, Train, Tunnel, NRLA, Rail transport, Alps, Transport]
 ---
 
 

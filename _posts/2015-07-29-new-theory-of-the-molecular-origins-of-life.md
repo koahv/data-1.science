@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Theory of the Molecular Origins of Life"
-date: 2015-07-29 02:51:15
+date: 2015-08-11
 categories: Astronomy
 author: dailygalaxy.com
 

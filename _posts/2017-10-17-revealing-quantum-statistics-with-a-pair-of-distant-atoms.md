@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revealing quantum statistics with a pair of distant atoms"
-date: 2017-10-17 12:59:03
+date: 2017-10-17
 categories: Science
 author: unknown author
 tags: [Quantum mechanics, Physics, Atom, Spin (physics), Matter, Light, Mechanics, Physical sciences, Science, Theoretical physics, Particle physics, Modern physics, Applied and interdisciplinary physics, Chemistry, Solid state engineering]

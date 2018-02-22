@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Immunity gene fusions uncovered in plants"
-date: 2016-02-19 05:00:00
+date: 2016-03-16
 categories: Technology
 author: unknown author
-
+tags: [Plant disease resistance, Biotechnology and Biological Sciences Research Council, Bioinformatics, Organisms, Biology, Life sciences, Biotechnology]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flamingo stars turn pink when they gobble iron-rich planets"
-date: 2016-06-06 16:51:48
+date: 2016-06-13
 categories: Astronomy
 author: unknown author
 tags: [Star, Planet, Color, Physical sciences, Astronomy, Outer space, Planetary science]

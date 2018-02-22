@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quasars --"Are They the Origin of Light in Our Universe?""
-date: 2014-08-27 15:40:57
+date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
 

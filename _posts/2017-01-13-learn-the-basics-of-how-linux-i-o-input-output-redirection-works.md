@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learn The Basics of How Linux I/O (Input/Output) Redirection Works"
-date: 2017-01-13 07:01:33
+date: 2017-10-14
 categories: Linux
 author: Aaron Kili
 tags: [Redirection (computing), Standard streams, Pipeline (Unix), Computing, Unix, Digital technology, Computer engineering, Operating system technology, Digital media, Computers, Computer architecture, Areas of computer science, System software, Software]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intel Takes on CoreOS With Its Own Container-Based Linux"
-date: 2015-05-21 21:09:45
+date: 2015-05-22
 categories: Linux
 author: InfoWorld
 

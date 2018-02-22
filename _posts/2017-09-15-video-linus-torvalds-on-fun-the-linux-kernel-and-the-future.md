@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Video: Linus Torvalds On Fun, the Linux Kernel, and the Future"
-date: 2017-09-15 09:40:13
+date: 2017-10-24
 categories: Linux
 author: aankerholz
 tags: [Linux kernel, Software, Finnish computer programmers, Computing, Linux kernel programmers, Finnish computer scientists, Linus Torvalds, Linux people, Technology]

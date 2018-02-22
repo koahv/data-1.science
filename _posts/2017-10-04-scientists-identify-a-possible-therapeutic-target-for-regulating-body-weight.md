@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists identify a possible therapeutic target for regulating body weight"
-date: 2017-10-04 04:00:00
+date: 2017-10-05
 categories: Science
 author: unknown author
 tags: [Obesity, Eating, Insulin, Diabetes mellitus type 2, Life sciences, Clinical medicine, Medicine, Health, Biology]

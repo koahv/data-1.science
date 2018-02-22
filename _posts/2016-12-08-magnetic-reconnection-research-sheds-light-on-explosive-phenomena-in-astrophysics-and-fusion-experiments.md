@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magnetic reconnection research sheds light on explosive phenomena in astrophysics and fusion experiments"
-date: 2016-12-08 22:12:04
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Magnetic reconnection, Physics, Plasma (physics), Aurora, Solar flare, Energy, Magnetic field, Science, Physical chemistry, Chemistry, Physical universe, Applied and interdisciplinary physics, Nature, Physical sciences]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is DevOps? An executive guide to agile development and IT operations"
-date: 2017-10-10 23:41:54
+date: 2017-10-13
 categories: Linux
 author: unknown author
 

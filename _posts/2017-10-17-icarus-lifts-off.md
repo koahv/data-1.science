@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Icarus lifts off"
-date: 2017-10-17 13:50:03
+date: 2017-10-17
 categories: Science
 author: unknown author
 tags: [International Space Station, Spaceflight, Outer space, Human spaceflight, Aerospace engineering, Spaceflight technologies, Astronautics, Spacecraft, Flight]

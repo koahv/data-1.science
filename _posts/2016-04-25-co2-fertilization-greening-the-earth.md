@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "CO2 fertilization greening the earth"
-date: 2016-04-25 04:00:00
+date: 2016-04-26
 categories: Science
 author: unknown author
-
+tags: [Carbon dioxide, Climate change, Atmosphere of Earth, Earth, Earth sciences, Global natural environment, Atmospheric sciences, Global environmental issues, Future problems, Nature, Physical geography, Climatology, Natural environment]
 ---
 
 

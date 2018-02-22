@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's inside Ceres? New findings from gravity data"
-date: 2016-08-04 09:39:18
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [Dawn (spacecraft), Ceres (dwarf planet), 4 Vesta, Planetary core, Planet, Astronomy, Dwarf planet, Asteroid, Mantle (geology), Solar System, Space science, Physical sciences, Planetary science, Outer space, Astronomical objects]

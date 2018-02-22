@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researchers test speed of light with greater precision than before"
-date: 2015-09-14 11:15:34
+date: 2016-06-30
 categories: Science
 author: unknown author
 

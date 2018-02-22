@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Liftoff replay"
-date: 2017-10-13 09:30:00
+date: 2017-10-13
 categories: Astronomy
 author: unknown author
 tags: [Atmosphere of Earth, Nature, Atmospheric sciences, Physical sciences, Meteorology, Chemistry, Gases]

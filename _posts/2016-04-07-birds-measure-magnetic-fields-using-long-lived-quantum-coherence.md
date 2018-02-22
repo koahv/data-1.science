@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Birds measure magnetic fields using long-lived quantum coherence"
-date: 2016-04-07 14:44:49
+date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Light, Electromagnetic radiation, Radical (chemistry), Quantum entanglement, Spin (physics), Electron, Bird migration, Electromagnetism, Mechanics, Chemistry, Applied and interdisciplinary physics, Physical sciences, Physics]
 ---
 
 

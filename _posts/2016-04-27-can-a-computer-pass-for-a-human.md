@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Can a Computer Pass for a Human?"
-date: 2016-04-27 14:43:26
+date: 2016-04-29
 categories: Technology
 author: kduffy
-
+tags: [Turing test, Consciousness, Technology, Applied mathematics, Theoretical computer science, Areas of computer science, Cognition, Cognitive science, Computer science, Computational neuroscience, Neuroscience, Artificial intelligence, Epistemology, Futurology, Emerging technologies, Computing, Emergence, Systems thinking, Intelligence, Cybernetics]
 ---
 
 

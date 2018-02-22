@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Whats the difference between a fork and clone?"
-date: 2017-12-04 08:04:00
+title: "What&#039;s the difference between a fork and clone?"
+date: 2018-02-18
 categories: Open Source
 author: vmbrasseur
 tags: [Distributed version control, Software engineering, Digital media, Computer engineering, Public commons, Open-source movement, Free content, Free software, Software, Computing, Open content, Intellectual works]

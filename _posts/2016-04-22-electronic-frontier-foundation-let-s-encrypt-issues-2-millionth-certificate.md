@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Electronic Frontier Foundation: Let's Encrypt issues 2 millionth certificate."
-date: 2016-04-22 19:16:26
+date: 2016-04-23
 categories: Linux
 author: Linux_Foundation
 

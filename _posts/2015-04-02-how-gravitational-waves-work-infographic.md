@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Gravitational Waves Work (infographic)"
-date: 2015-04-02 16:59:40
+date: 2015-04-03
 categories: Astronomy
 author: Jolene Creighton
 

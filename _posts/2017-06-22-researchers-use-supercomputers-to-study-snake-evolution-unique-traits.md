@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researchers use supercomputers to study snake evolution, unique traits"
-date: 2017-06-22 16:13:16
+date: 2017-09-12
 categories: Science
 author: unknown author
 tags: [Evolution, Gene, Genetics, Species, Genome, Biology, Speciation, Natural selection, Regeneration (biology), Organisms, Life sciences]

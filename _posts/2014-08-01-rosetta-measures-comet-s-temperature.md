@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rosetta measures comet's temperature"
-date: 2014-08-01 15:30:43
+date: 2015-10-22
 categories: Science
 author: unknown author
 

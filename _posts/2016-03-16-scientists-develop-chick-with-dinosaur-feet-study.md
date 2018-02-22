@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists develop chick with 'dinosaur' feet: study"
-date: 2016-03-16 08:20:01
+date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Dinosaur, Theropoda, Evolution, Organisms, Biology]
 ---
 
 

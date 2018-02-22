@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "China Launches Dark Matter Probe"
-date: 2015-12-18 16:29:23
+date: 2015-12-22
 categories: Astronomy
 author: David Dickinson
-
+tags: [Dark matter, Weakly interacting massive particles, Particle physics, Matter, Cosmic ray, Astrophysics, Physical sciences, Astronomy, Physics, Outer space, Physical universe, Nature, Physical cosmology]
 ---
 
 

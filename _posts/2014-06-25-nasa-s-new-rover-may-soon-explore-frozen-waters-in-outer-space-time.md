@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA's New Rover May Soon Explore Frozen Waters in Outer Space - TIME"
-date: 2014-06-25 06:30:47
+date: 2014-06-26
 categories: Astronomy
 author: unknown author
 

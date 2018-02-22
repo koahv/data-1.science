@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists part the clouds on how droplets form"
-date: 2016-03-24 18:54:22
+date: 2016-03-25
 categories: Science
 author: unknown author
-
+tags: [Aerosol, Cloud, Water, Drop (liquid), Atmosphere of Earth, Particle, Solubility, Science, Cloud condensation nuclei, Lawrence Berkeley National Laboratory, Physical chemistry, Nature, Chemistry, Physical sciences, Applied and interdisciplinary physics]
 ---
 
 

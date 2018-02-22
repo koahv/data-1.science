@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum machine learning"
-date: 2017-09-13 00:00:00
+date: 2017-09-15
 categories: Science
 author: unknown author
 

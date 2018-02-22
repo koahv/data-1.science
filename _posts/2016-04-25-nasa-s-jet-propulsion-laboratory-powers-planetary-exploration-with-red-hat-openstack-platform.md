@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA’s Jet Propulsion Laboratory Powers Planetary Exploration with Red Hat OpenStack Platform"
-date: 2016-04-25 04:00:00
+date: 2016-04-26
 categories: Linux
 author: unknown author
-
+tags: [Cloud computing, OpenStack, Red Hat, Jet Propulsion Laboratory, Technology, Computing]
 ---
 
 

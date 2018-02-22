@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New chip architecture may provide foundation for quantum computer"
-date: 2015-05-05 15:19:32
+date: 2015-05-06
 categories: Science
 author: unknown author
 

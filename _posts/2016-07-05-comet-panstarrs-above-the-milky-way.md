@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comet PanSTARRS above the Milky Way‏"
-date: 2016-07-05 12:16:53
+date: 2016-07-06
 categories: Astronomy
 author: José J. Chambó Bris
 tags: [Ara (constellation), Comet tail, Astronomy, Astronomical objects, Physical sciences, Outer space, IAU constellations, Constellations, Stars, Astrological signs, Stellar groupings, Sky regions]

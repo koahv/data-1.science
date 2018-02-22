@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The atom without properties"
-date: 2016-04-21 18:15:10
+date: 2016-04-22
 categories: Science
 author: unknown author
-
+tags: [Quantum entanglement, Quantum mechanics, Bells theorem, Physics, Atom, Scientific method, Science, Applied and interdisciplinary physics, Cognitive science, Solid state engineering, Condensed matter physics, Scientific theories, Theoretical physics, Modern physics, Particle physics, Mechanics, Physical sciences]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hidden Waves Beneath the World's Oceans Mapped to Reveal Heat and Nutrient Cycling"
-date: 2015-05-11 10:56:29
+date: 2015-05-11
 categories: Science
 author: unknown author
 

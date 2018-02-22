@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CERN Scientist on What Physicists Have Left to Discover After Higgs Boson"
-date: 2017-10-24 16:25:55
+date: 2017-10-25
 categories: Science
 author: Chelsea Gohd
 tags: [Higgs boson, Physics, Particle physics, CERN, Standard Model, Physical sciences, Science, Theoretical physics, Mechanics]

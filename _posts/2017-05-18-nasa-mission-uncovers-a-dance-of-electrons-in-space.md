@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA mission uncovers a dance of electrons in space"
-date: 2017-05-18 04:00:00
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Magnetic reconnection, Sun, Goddard Space Flight Center, Electron, Outer space, Nature, Astronomy, Applied and interdisciplinary physics, Space science, Physical universe, Physical phenomena, Physical sciences, Physics]

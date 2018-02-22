@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Swiftly moving gas streamer eclipses supermassive black hole"
-date: 2014-06-19 04:00:00
+date: 2014-06-23
 categories: Astronomy
 author: unknown author
 

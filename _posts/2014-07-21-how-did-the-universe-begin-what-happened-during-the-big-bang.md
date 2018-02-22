@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How did the universe begin? What happened during the Big Bang?"
-date: 2014-07-21 15:32:23
+date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
 

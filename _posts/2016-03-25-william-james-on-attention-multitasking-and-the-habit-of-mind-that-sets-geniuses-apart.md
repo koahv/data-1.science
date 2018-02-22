@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "William James on Attention, Multitasking, and the Habit of Mind That Sets Geniuses Apart"
-date: 2016-03-25 07:00:36
+date: 2016-03-25
 categories: Philosophy
 author: Maria Popova
-
+tags: [Attention, Consciousness, Mind, Psychology, Metaphysics of mind, Neuropsychology, Cognitive science, Behavioural sciences, Psychological concepts, Neuropsychological assessment, Phenomenology, Epistemology, Emergence, Neuroscience, Metaphysics, Philosophy, Cognition]
 ---
 
 

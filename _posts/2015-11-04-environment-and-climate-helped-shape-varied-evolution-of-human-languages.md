@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Environment and climate helped shape varied evolution of human languages"
-date: 2015-11-04 14:00:06
+date: 2015-11-17
 categories: Science
 author: unknown author
-
+tags: [Language, Human, Sound, Syllable, Consonant, Ecology, Vowel, Linguistics, Acoustics, Cognition, Cognitive science]
 ---
 
 

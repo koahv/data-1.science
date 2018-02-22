@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Self-esteem mapped in the human brain"
-date: 2017-10-24 14:33:19
+date: 2017-10-25
 categories: Science
 author: unknown author
 tags: [Mental disorder, News aggregator, Psychiatry, Psychiatry-related fields, Mental health, Cognitive science, Health, Nervous system, Clinical psychology, Cognition, Psychology, Behavioural sciences, Psychological concepts, Neuroscience]

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "FSF Blogs: Support the FSF for thirty more years"
-date: 2016-01-30 15:30:00
+date: 2016-01-31
 categories: Open Source
 author: unknown author
-
+tags: [Free Software Foundation, Free software, Open-source movement, Intellectual works, Software, Computing, Applied ethics]
 ---
 
 

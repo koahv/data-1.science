@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VLA reveals distant galaxy's magnetic field"
-date: 2017-08-28 04:00:00
+date: 2017-09-22
 categories: Astronomy
 author: unknown author
 tags: [Astronomy, Galaxy, Quasar, Radio astronomy, Karl G Jansky Very Large Array, Universe, Physical sciences, Outer space, Physics, Science, Natural philosophy, Physical cosmology]

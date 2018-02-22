@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Preshistoric plumage patterns"
-date: 2015-10-28 04:00:00
+date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Feather, Dinosaur, Ornithomimus, Organisms]
 ---
 
 

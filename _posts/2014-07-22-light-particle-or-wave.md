@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Light: Particle or Wave?"
-date: 2014-07-22 05:00:07
+date: 2015-05-22
 categories: Astronomy
 author: Alan Filmer
 

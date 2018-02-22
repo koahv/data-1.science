@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Molecular snapshots of oxygen formation in photosynthesis"
-date: 2014-07-11 14:30:01
+date: 2015-10-03
 categories: Science
 author: unknown author
 

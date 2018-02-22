@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "U.S. Air Force Shatters World Speed Record for Magnetic Levitation"
-date: 2016-04-25 20:55:07
+date: 2016-04-26
 categories: Technology
 author: kduffy
-
+tags: [Public transport, Passenger rail transport, Electromagnetic components, Land transport, Sustainable transport, Electrodynamics, Magnetic devices, Technology, Electric rail transport, Force, Trains, Artificial objects, Rolling stock, Rail infrastructure, Innovation, Manufactured goods, Physics, Experimental and prototype high-speed trains, Rail transport, Levitation, Magnetic levitation, Magnetic propulsion devices, High-speed trains, High-speed rail, Transport, Electromagnetism, Magnetism, Transportation engineering, Vehicles, Propulsion]
 ---
 
 

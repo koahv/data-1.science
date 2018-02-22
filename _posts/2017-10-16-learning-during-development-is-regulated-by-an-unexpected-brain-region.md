@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning during development is regulated by an unexpected brain region"
-date: 2017-10-16 16:21:53
+date: 2017-10-18
 categories: Science
 author: unknown author
 tags: [Critical period, Thalamus, Brain, Cerebral cortex, Visual perception, Neuroplasticity, Neuroscience, Neuropsychological assessment, Neuropsychology, Psychological concepts, Mental processes, Cognitive neuroscience, Cerebrum, Cognition, Biology, Cognitive science, Nervous system]

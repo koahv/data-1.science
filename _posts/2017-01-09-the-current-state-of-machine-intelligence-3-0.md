@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Current State of Machine Intelligence 3.0"
-date: 2017-01-09 09:00:00
+date: 2017-10-12
 categories: Linux
 author: O''Reilly
 tags: [Artificial intelligence, Computing, Technology, Areas of computer science, Software, Cognition, Cognitive science]

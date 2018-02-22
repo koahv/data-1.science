@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists create electric circuits inside plants"
-date: 2017-02-28 13:00:01
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [Electricity, Plant, Electronics, Xylem, Electronic circuit, Water, Energy, Energy storage, Extinction, Fuel, Power station, Earth, Biology, Nature]

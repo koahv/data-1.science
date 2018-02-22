@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Nightmare' geometry of Uranus creates tumbling magnetosphere"
-date: 2017-06-28 13:10:49
+date: 2017-10-08
 categories: Science
 author: Sarah Tesh
 tags: [Uranus, Magnetosphere, Solar wind, Planet, Aurora, Solar flare, Physical sciences, Astronomy, Outer space, Space science, Planetary science, Physics, Solar System, Nature]

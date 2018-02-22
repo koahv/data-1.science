@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artificial intelligence analyzes gravitational lenses 10 million times faster"
-date: 2017-08-30 04:00:00
+date: 2017-10-08
 categories: Astronomy
 author: unknown author
 tags: [Artificial neural network, SLAC National Accelerator Laboratory, Gravitational lens, Universe, Office of Science, Lens (optics), Gravity, Metric expansion of space, Physical sciences, Astronomy, Science, Physics]

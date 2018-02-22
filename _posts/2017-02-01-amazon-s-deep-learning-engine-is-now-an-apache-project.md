@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amazon’s Deep Learning Engine Is Now an Apache Project"
-date: 2017-02-01 10:00:00
+date: 2017-10-14
 categories: Linux
 author: Architecht
 tags: [Technology, Computing]

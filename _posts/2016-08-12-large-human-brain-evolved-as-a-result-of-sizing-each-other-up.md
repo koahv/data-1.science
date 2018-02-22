@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Large human brain evolved as a result of 'sizing each other up'"
-date: 2016-08-12 04:00:00
+date: 2016-08-22
 categories: Technology
 author: unknown author
 tags: [Brain, Human, Evolution, University, Dunbars number, Science, Research, Cardiff University, Computer science, Cognition, Behavioural sciences, Psychology, Psychological concepts, Neuroscience, Cognitive science]

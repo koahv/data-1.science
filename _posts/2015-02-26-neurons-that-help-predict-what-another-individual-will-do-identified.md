@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neurons that help predict what another individual will do identified"
-date: 2015-02-26 18:20:46
+date: 2016-04-14
 categories: Science
 author: unknown author
 

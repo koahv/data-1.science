@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Waterside lighting drastically disrupts wildlife in the surrounding ecosystem"
-date: 2017-10-20 04:00:00
+date: 2017-10-20
 categories: Science
 author: unknown author
 tags: [Ecology, Biodiversity, Natural environment, Ecosystem, Lighting, Biology, Conservation, Habitat, Environmental social science, Earth sciences, Systems ecology, Environmental science, Biogeochemistry]

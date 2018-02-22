@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magnetic paint"
-date: 2014-12-15 14:10:00
+date: 2015-09-03
 categories: Astronomy
 author: unknown author
 

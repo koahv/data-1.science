@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Linux Lexicon: Linux Directory Structure In Detail | fossBytes"
-date: 2016-06-02 16:50:32
+date: 2016-06-03
 categories: Linux
 author: Navanshu Agarwal
-
+tags: [Computer file, Booting, Operating system, Passwd, Unix filesystem, Directory (computing), Library (computing), Areas of computer science, Computers, Computer engineering, Data management, Utility software, Computer data, Information technology management, Software, Computer architecture, Operating system technology, System software, Computing, Digital media, Data, Storage software, Information retrieval, Digital technology]
 ---
 
 

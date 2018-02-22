@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Radical New Theory of Gravity --"An Emergent Phenomenon, Not a Fundamental Force of the Universe""
-date: 2016-11-08 15:01:41
+date: 2017-03-23
 categories: Astronomy
 author: dailygalaxy.com
 tags: [Erik Verlinde, Modified Newtonian dynamics, Gravity, Dark matter, Matter, Physics, Universe, Elementary particle, Big Bang, Dark energy, Metaphysics, Classical mechanics, Astronomy, Physical sciences, Nature, Scientific method, Natural philosophy, Cosmology, Physical cosmology, Applied and interdisciplinary physics, Physical universe, Epistemology of science, Scientific theories, Spacetime, Physical quantities, Mechanics, Theoretical physics, Science]

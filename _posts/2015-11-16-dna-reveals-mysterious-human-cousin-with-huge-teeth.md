@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "DNA Reveals Mysterious Human Cousin With Huge Teeth"
-date: 2015-11-16 20:21:49
+date: 2015-11-17
 categories: Science
 author: Michael Greshko
-
+tags: [Denisovan, Biology]
 ---
 
 

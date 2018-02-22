@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New way to weigh a star"
-date: 2015-10-05 12:25:37
+date: 2015-10-06
 categories: Science
 author: unknown author
 

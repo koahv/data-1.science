@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA/Hubble: "Faintest, Oldest Galaxies in Universe Observed""
-date: 2015-10-22 15:05:40
+date: 2015-10-26
 categories: Astronomy
 author: dailygalaxy.com
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Earth’s magnetic heartbeat"
-date: 2016-05-10 12:35:00
+date: 2016-05-12
 categories: Astronomy
 author: unknown author
-
+tags: [Earths magnetic field, Swarm (spacecraft), Magnetosphere, Magnetic field, Earth, Planetary core, Physical sciences, Applied and interdisciplinary physics, Outer space, Physics, Astronomy, Planets of the Solar System, Force, Earth sciences, Electromagnetism, Planetary science, Nature, Space science]
 ---
 
 

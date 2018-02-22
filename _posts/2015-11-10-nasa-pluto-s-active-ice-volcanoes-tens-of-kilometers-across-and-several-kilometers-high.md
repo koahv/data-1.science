@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA: Pluto's Active Ice Volcanoes? --"Tens of Kilometers Across and Several Kilometers High""
-date: 2015-11-10 17:05:55
+date: 2015-11-23
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Moons of Pluto, Pluto, New Horizons, Natural satellite, Charon (moon), Planetary science, Outer space, Solar System, Space science, Astronomy, Bodies of the Solar System, Planets of the Solar System]
 ---
 
 

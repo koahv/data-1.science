@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Source Operating Systems for IoT"
-date: 2016-10-26 15:00:24
+date: 2017-10-10
 categories: Linux
 author: ericstephenbrown
 tags: [Internet of things, Tizen, Linux, Operating system, Contiki, Linux distribution, Ubuntu (operating system), Embedded system, FreeRTOS, OpenWrt, Apache Mynewt, Electronics, Classes of computers, System software, Computers, Digital technology, Areas of computer science, Computer hardware, Software, Technology, Computer architecture, Computer engineering, Computing]

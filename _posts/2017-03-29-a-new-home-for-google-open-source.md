@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A New Home for Google Open Source"
-date: 2017-03-29 11:04:51
+date: 2017-10-17
 categories: Linux
 author: Google Open Source
 tags: [Free and open-source software, Operating system technology, Linux, Digital media, Computer engineering, System software, Public commons, Free content, Open-source movement, Free software, Computing, Software, Open content, Linus Torvalds, Unix variants, Intellectual works]

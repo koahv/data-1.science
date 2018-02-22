@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bats bolster brain hypothesis, maybe technology, too"
-date: 2014-08-15 14:02:25
+date: 2015-10-29
 categories: Science
 author: unknown author
 

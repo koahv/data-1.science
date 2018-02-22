@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interesting facts about Linux"
-date: 2014-08-25 07:00:17
+date: 2015-02-09
 categories: Linux
 author: Dan Nanni
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New Elements Recently Added to Periodic Table"
-date: 2016-02-01 19:41:46
+date: 2016-02-05
 categories: Technology
 author: jmoonie
-
+tags: [Chemical element, Moscovium, Oak Ridge National Laboratory, Tennessine, Nuclear physics, Chemistry, Nature, Physical bodies, Nuclear chemistry, Physics, Sets of chemical elements, Chemical elements, Atoms, Physical sciences]
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "When life returned after a volcanic mass extinction"
-date: 2016-04-08 15:24:09
+date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Pangaea, Extinction event, Natural environment, Physical geography, Geology, Nature, Earth sciences]
 ---
 
 

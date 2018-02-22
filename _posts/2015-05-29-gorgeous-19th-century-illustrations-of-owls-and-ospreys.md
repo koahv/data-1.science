@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gorgeous 19th-Century Illustrations of Owls and Ospreys"
-date: 2015-05-29 07:00:51
+date: 2015-07-10
 categories: Philosophy
 author: Maria Popova
 

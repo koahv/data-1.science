@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Docking replay"
-date: 2015-09-04 09:06:00
+date: 2015-09-05
 categories: Astronomy
 author: unknown author
 

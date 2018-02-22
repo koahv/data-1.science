@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Iotop – Monitor Linux Disk I/O Activity and Usage Per-Process Basis"
-date: 2016-10-20 06:00:32
+date: 2017-10-09
 categories: Linux
 author: Tecmint
 tags: [Load (computing), Inputoutput, Areas of computer science, Computer engineering, Operating system technology, Computers, Software, System software, Computer architecture, Computing]

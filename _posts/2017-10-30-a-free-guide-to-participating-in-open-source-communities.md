@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Free Guide to Participating in Open Source Communities"
-date: 2017-10-30 13:00:27
+date: 2018-02-18
 categories: Linux
 author: Sam Dean
 tags: [Strategic management, Open-source model, Open-source software movement, Technology, Cognition, Communication, Management, Business]

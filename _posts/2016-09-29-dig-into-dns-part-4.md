@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dig into DNS: Part 4"
-date: 2016-09-29 13:00:37
+date: 2017-10-09
 categories: Linux
 author: chrisbinnie
 tags: [Sender Policy Framework, Domain Name System, Computing, Cyberspace, Internet, Computer networking, Information technology management, Information Age, Technology, Internet Standards]

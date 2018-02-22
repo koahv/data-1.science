@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New gravity map gives best view yet inside Mars"
-date: 2016-03-21 04:00:00
+date: 2016-03-24
 categories: Science
 author: unknown author
-
+tags: [Mars, Mars Reconnaissance Orbiter, Mars Global Surveyor, Goddard Space Flight Center, Gravity, Planet, Space science, Bodies of the Solar System, Physical sciences, Planets, Astronomy, Planetary science, Solar System, Outer space, Planets of the Solar System]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pi Day special: 7 Raspberry Pi pieces"
-date: 2015-03-14 07:14:00
+date: 2015-06-03
 categories: Open Source
 author: Rikki Endsley
 

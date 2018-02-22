@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Volcanologists discover how bubbles accumulate in magma"
-date: 2016-04-13 17:00:11
+date: 2016-04-14
 categories: Science
 author: unknown author
-
+tags: [Volcano, Types of volcanic eruptions, Magma, Mount Tambora, Physical sciences, Physical geography, Applied and interdisciplinary physics, Nature, Earth sciences]
 ---
 
 

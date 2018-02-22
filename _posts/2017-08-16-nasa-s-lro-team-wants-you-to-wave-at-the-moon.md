@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA's LRO team wants you to wave at the moon"
-date: 2017-08-16 04:00:00
+date: 2017-09-24
 categories: Astronomy
 author: unknown author
 tags: [Lunar Reconnaissance Orbiter, Moon, Flight, Spaceflight, Outer space, Astronomy, Planetary science, Solar System, Astronautics, Space science, Space exploration, Discovery and exploration of the Solar System, Bodies of the Solar System, Spacecraft, Planets of the Solar System]

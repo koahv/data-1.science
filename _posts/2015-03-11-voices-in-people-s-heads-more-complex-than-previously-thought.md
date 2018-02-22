@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Voices in people's heads more complex than previously thought"
-date: 2015-03-11 00:57:07
+date: 2016-04-17
 categories: Science
 author: unknown author
 

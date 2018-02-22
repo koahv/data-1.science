@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 pidstat Examples to Debug Performance Issues of Linux Process"
-date: 2014-11-15 18:00:00
+date: 2015-07-03
 categories: Linux
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Van Allen Probes show how to accelerate electrons"
-date: 2014-07-16 05:47:35
+date: 2015-10-03
 categories: Science
 author: unknown author
 

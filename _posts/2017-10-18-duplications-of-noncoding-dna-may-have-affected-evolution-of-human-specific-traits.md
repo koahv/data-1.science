@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Duplications of noncoding DNA may have affected evolution of human-specific traits"
-date: 2017-10-18 17:32:30
+date: 2017-10-18
 categories: Science
 author: unknown author
 tags: [Gene duplication, Gene, Genetics, Genome, Human, Human genome, Brain, Enhancer (genetics), Evolution, Noncoding DNA, DNA, Biochemistry, Biology, Life sciences, Molecular biology, Organisms, Biotechnology]

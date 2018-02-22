@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New project to develop a drug to fight cognitive impairment associated with schizophrenia"
-date: 2015-01-27 05:00:00
+date: 2015-12-07
 categories: Technology
 author: unknown author
 

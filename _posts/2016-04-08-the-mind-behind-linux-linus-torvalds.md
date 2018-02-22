@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The mind behind Linux | Linus Torvalds"
-date: 2016-04-08 16:00:29
+date: 2016-04-10
 categories: Interest
 author: Linus Torvalds
-
+tags: [Computing, Software]
 ---
 
 

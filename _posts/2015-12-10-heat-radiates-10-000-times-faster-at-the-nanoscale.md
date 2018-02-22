@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Heat radiates 10,000 times faster at the nanoscale"
-date: 2015-12-10 05:00:00
+date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Heat, Nanotechnology, Heat transfer, Thermal radiation, Electromagnetic radiation, Physics, Light, Temperature, Theory, Applied and interdisciplinary physics, Nature, Materials science, Chemistry, Physical sciences, Mechanics, Science]
 ---
 
 

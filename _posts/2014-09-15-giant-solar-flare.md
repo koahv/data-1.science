@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Giant solar flare"
-date: 2014-09-15 09:59:00
+date: 2015-09-03
 categories: Astronomy
 author: unknown author
 

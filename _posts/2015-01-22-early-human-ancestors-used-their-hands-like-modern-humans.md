@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early human ancestors used their hands like modern humans"
-date: 2015-01-22 19:54:32
+date: 2016-04-12
 categories: Science
 author: unknown author
 

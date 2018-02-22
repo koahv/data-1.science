@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is a star?"
-date: 2014-07-15 18:13:52
+date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
 

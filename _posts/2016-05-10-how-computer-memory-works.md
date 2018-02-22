@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How Computer Memory Works"
-date: 2016-05-10 21:14:42
+date: 2016-05-12
 categories: Technology
 author: kduffy
-
+tags: [Cognitive neuroscience, Psychology, Behavioral neuroscience, Clinical psychology, Action (philosophy), Nervous system, Phenomenology, Epistemology, neuropsychology, Psychological concepts, Limbic system, Neuroscience, Neuropsychology, Mental processes, Neuropsychological assessment, Cognitive science, Cognition]
 ---
 
 

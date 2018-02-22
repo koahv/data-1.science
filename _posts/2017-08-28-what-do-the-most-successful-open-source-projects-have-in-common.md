@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Do the Most Successful Open Source Projects Have In Common?"
-date: 2017-08-28 20:38:28
+date: 2017-10-24
 categories: Linux
 author: lfadmin
 tags: [Open-source model, Computing, Software, Technology]

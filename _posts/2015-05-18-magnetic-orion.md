@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magnetic Orion"
-date: 2015-05-18 11:20:00
+date: 2015-05-20
 categories: Astronomy
 author: unknown author
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Can CRISPR help edit out female mosquitos?"
-date: 2016-02-17 05:00:00
+date: 2016-03-16
 categories: Technology
 author: unknown author
-
+tags: [Gene drive, Mosquito-borne disease, CRISPR, Biology, Life sciences, Organisms, Genetics, Biotechnology, Medicine, Medical specialties]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to successfully enter the FOSS emerging market"
-date: 2017-01-27 08:01:00
+date: 2017-09-24
 categories: Open Source
 author: vmbrasseur
 tags: [Free and open-source software, Open-source software, Market (economics), Liminality, Competition, Innovation, Business, Communication, Culture]

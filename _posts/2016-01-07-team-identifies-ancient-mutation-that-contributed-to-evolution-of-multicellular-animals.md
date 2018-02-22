@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Team identifies ancient mutation that contributed to evolution of multicellular animals"
-date: 2016-01-07 05:00:00
+date: 2016-01-29
 categories: Science
 author: unknown author
-
+tags: [Cell (biology), Evolution, Protein, Genetics, Gene, Life, Biology, Mitosis, Organism, Spindle apparatus, Enzyme, Animal, Multicellular organism, Biotechnology, Cell biology, Life sciences, Biochemistry, Nature, Molecular biology, Organisms]
 ---
 
 

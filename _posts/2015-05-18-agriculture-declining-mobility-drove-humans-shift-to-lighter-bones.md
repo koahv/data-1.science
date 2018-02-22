@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agriculture, declining mobility drove humans' shift to lighter bones"
-date: 2015-05-18 19:00:05
+date: 2016-05-02
 categories: Science
 author: unknown author
 

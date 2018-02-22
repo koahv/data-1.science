@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Science of Quantum Computers Explained in Under Two Minutes"
-date: 2017-10-27 18:04:25
+date: 2017-11-01
 categories: Science
 author: Jolene Creighton
 tags: [Science and technology, Science]

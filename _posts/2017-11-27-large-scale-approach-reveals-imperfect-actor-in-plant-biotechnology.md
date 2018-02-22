@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Large-scale approach reveals imperfect actor in plant biotechnology"
-date: 2017-11-27 05:00:00
+date: 2017-11-30
 categories: Science
 author: unknown author
 tags: [Glufosinate, Biological engineering, Genetic engineering, Biology, Life sciences, Organisms, Biotechnology]

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Climate variations analyzed five million years back in time"
-date: 2016-03-16 10:00:03
+date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Climate change, Ice age, Greenhouse gas, Global warming, Climate, Earth, Greenhouse effect, Science, Axial tilt, Climate state, Climatology, Ice core, Nature, Physical geography, Earth sciences]
 ---
 
 

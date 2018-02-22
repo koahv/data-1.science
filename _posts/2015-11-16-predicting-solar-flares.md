@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Predicting solar flares"
-date: 2015-11-16 16:00:05
+date: 2015-11-22
 categories: Science
 author: unknown author
-
+tags: [Sun, Solar flare, Space weather, Sunspot, Solar Dynamics Observatory, Corona, Earth, Physics, Physical phenomena, Space science, Astronomy, Applied and interdisciplinary physics, Nature, Physical sciences, Outer space]
 ---
 
 

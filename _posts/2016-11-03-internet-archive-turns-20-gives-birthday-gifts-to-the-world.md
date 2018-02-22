@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Internet Archive turns 20, gives birthday gifts to the world"
-date: 2016-11-03 07:03:00
+date: 2017-09-24
 categories: Open Source
 author: vmbrasseur
 tags: [Internet Archive, Digital technology, Intellectual works, Cyberspace, Software, World Wide Web, Computing, Digital media, Technology]

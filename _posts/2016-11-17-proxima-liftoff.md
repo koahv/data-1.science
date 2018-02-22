@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proxima liftoff"
-date: 2016-11-17 20:40:00
+date: 2017-09-22
 categories: Astronomy
 author: unknown author
 tags: [European Space Agency, Space traffic management, Spacecraft, Human spaceflight, Flight, Astronautics, Outer space, Spaceflight, Space exploration, Space programs, Spaceflight technologies, Aerospace engineering, Space agencies, Aerospace, Aerospace agencies, Scientific exploration, Space-based economy, Space industry, European space programmes]

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists Identify Fragments of Primordial Proteins that Existed 3.5 Billion Years Ago"
-date: 2015-12-30 16:26:17
+date: 2015-12-31
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Protein, Life, Biology, Bacteria, Language, Life sciences, Organisms, Molecular biology]
 ---
 
 

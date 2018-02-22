@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How strong is the gravity on Mars?"
-date: 2016-12-19 13:00:02
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Surface gravity, Mars, Gravity, Earth, Outer space, Astronomy, Physical sciences, Physics, Physical quantities]

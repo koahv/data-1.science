@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolutionary leap from fins to legs was surprisingly simple"
-date: 2016-03-08 11:39:56
+date: 2016-03-15
 categories: Science
 author: unknown author
-
+tags: [Tetrapod, Fish fin, Evolution, Biology, Organisms]
 ---
 
 

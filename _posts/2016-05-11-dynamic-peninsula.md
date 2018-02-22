@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Dynamic peninsula"
-date: 2016-05-11 10:05:00
+date: 2016-05-12
 categories: Astronomy
 author: unknown author
-
+tags: [Ice sheet, Copernicus Programme, Antarctica, Ice shelf, Sentinel-1A, Ice, Glacier, Earth sciences, Physical geography]
 ---
 
 

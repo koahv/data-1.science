@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Expansion entropy': A new litmus test for chaos?"
-date: 2015-07-28 15:00:03
+date: 2016-05-16
 categories: Science
 author: unknown author
 

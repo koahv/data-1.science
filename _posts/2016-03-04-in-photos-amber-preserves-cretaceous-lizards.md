@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "In Photos: Amber Preserves Cretaceous Lizards"
-date: 2016-03-04 19:17:28
+date: 2016-03-15
 categories: Science
 author: unknown author
-
+tags: [CT scan, Fossil, Skeleton, Amber, Dinosaur]
 ---
 
 

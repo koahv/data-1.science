@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Are humans the new supercomputer?"
-date: 2016-04-13 04:00:00
+date: 2016-04-14
 categories: Technology
 author: unknown author
-
+tags: [Computer, Physics, Research, Science, Intuition, Algorithm, Quantum computing, Human, Insight, American Association for the Advancement of Science, Quantum mechanics, Computing, Technology, Computer performance, Psychological concepts, Cognitive science, Cognition, Epistemology, Emergence]
 ---
 
 

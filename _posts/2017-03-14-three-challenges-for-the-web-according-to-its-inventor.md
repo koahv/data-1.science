@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three Challenges for the Web, According to its Inventor"
-date: 2017-03-14 10:30:56
+date: 2017-10-15
 categories: Linux
 author: WWW Foundation
 tags: [World Wide Web, Digital technology, Digital media, Information technology, Cyberspace, Communication, Computing, Technology, Information science, Information Age]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gravitational waves: First joint LIGO-Virgo detection"
-date: 2017-09-29 04:00:00
+date: 2017-10-04
 categories: Astronomy
 author: unknown author
 tags: [Virgo interferometer, LIGO, Gravitational wave, Gravity, Science, Astrophysics, Mechanics, General relativity, Natural philosophy, Astronomy, Physical sciences, Physics, Outer space, Gravitation, Applied and interdisciplinary physics, Spacetime, Physical cosmology]

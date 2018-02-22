@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "US Forest Service releases findings on the effects of drought for forests and rangelands"
-date: 2016-02-01 21:56:00
+date: 2016-02-02
 categories: Science
 author: unknown author
-
+tags: [Wildfire, Drought, United States Forest Service, Global warming, Earth sciences, Environmental science, Ecology, Physical geography, Natural environment, Systems ecology]
 ---
 
 

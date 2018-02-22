@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wayland & Weston 1.6 Alpha Released"
-date: 2014-08-22 16:30:37
+date: 2015-06-28
 categories: Linux
 author: unknown author
 

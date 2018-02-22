@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists find way to maintain quantum entanglement in amplified signals"
-date: 2014-07-23 04:00:00
+date: 2015-05-22
 categories: Technology
 author: unknown author
 

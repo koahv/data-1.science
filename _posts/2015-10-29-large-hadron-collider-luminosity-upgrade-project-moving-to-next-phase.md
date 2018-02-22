@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Large Hadron Collider luminosity upgrade project moving to next phase"
-date: 2015-10-29 20:55:59
+date: 2015-11-22
 categories: Science
 author: unknown author
-
+tags: [Large Hadron Collider, Particle physics, CERN, Particle accelerator, Physics, Higgs boson, Applied and interdisciplinary physics, Science, Physical sciences]
 ---
 
 

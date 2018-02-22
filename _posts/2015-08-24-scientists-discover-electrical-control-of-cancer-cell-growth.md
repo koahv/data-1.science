@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists discover electrical control of cancer cell growth"
-date: 2015-08-24 17:08:20
+date: 2016-05-31
 categories: Science
 author: unknown author
 

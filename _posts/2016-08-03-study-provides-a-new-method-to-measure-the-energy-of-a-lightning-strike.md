@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Study provides a new method to measure the energy of a lightning strike"
-date: 2016-08-03 04:00:00
+date: 2017-09-25
 categories: Science
 author: unknown author
 tags: [Lightning, University of South Florida, Energy, Fulgurite, Science, Joule, Heat, Nature, Physical sciences, Applied and interdisciplinary physics]

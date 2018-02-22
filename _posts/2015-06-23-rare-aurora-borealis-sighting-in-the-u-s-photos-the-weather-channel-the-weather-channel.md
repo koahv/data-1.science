@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rare Aurora Borealis Sighting in the U.S. (PHOTOS) | The Weather Channel - The Weather Channel"
-date: 2015-06-23 21:20:12
+date: 2015-07-14
 categories: Science
 author: unknown author
 

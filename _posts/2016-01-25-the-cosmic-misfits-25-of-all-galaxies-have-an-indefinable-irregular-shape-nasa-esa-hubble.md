@@ -1,10 +1,10 @@
 ---
 layout: post
 title: ""The Cosmic Misfits" --25% of All Galaxies Have an Indefinable, Irregular Shape (NASA/ESA Hubble)"
-date: 2016-01-25 15:39:59
+date: 2016-01-27
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Milky Way, Star, Black hole, Physical sciences, Astronomy, Astronomical objects, Outer space, Stars, Physical cosmology, Galaxies]
 ---
 
 

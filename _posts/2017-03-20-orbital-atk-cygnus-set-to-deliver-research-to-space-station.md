@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Orbital ATK Cygnus set to deliver research to space station"
-date: 2017-03-20 19:27:13
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [International Space Station, Cygnus (spacecraft), NASA, Atmospheric entry, SpaceX, SpaceX Dragon, Aerospace engineering, Spaceflight technologies, Flight, Astronautics, Outer space, Spaceflight, Spacecraft]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emotional intelligence critical for leaders"
-date: 2015-04-22 16:13:41
+date: 2016-04-23
 categories: Science
 author: unknown author
 

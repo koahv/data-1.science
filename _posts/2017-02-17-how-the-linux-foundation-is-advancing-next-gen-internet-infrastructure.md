@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How The Linux Foundation is Advancing Next-Gen Internet Infrastructure"
-date: 2017-02-17 19:24:10
+date: 2017-10-15
 categories: Linux
 author: mhinkle
 tags: [Cloud computing, Linux Foundation, Open-source software, Kubernetes, Computer engineering, Digital media, Computing, Software, Technology, Intellectual works, Digital technology, Information technology]

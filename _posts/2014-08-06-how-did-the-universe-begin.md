@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How did the Universe Begin?"
-date: 2014-08-06 01:00:18
+date: 2015-05-22
 categories: Astronomy
 author: Joshua Filmer
 

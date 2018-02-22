@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists entangle qubits in a semiconductor at room temperature"
-date: 2015-11-24 17:03:47
+date: 2015-12-22
 categories: Science
 author: unknown author
-
+tags: [Quantum entanglement, Quantum mechanics, Quantum computing, Nuclear magnetic resonance, Spin (physics), Electromagnetism, Modern physics, Materials science, Particle physics, Electronics, Mechanics, Solid state engineering, Condensed matter physics, Chemistry, Physical sciences, Applied and interdisciplinary physics, Physics]
 ---
 
 

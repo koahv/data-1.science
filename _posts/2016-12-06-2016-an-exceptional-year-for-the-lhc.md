@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2016—an exceptional year for the LHC"
-date: 2016-12-06 14:00:21
+date: 2017-09-15
 categories: Science
 author: unknown author
 tags: [Large Hadron Collider, ATLAS experiment, Particle accelerator, Compact Muon Solenoid, CERN, Collider, Chemistry, Science, Particle physics, Physical sciences, Physics, Applied and interdisciplinary physics]

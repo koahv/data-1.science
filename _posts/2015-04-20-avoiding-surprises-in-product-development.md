@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Avoiding Surprises in Product Development"
-date: 2015-04-20 14:02:25
+date: 2015-12-09
 categories: Technology
 author: kduffy
 

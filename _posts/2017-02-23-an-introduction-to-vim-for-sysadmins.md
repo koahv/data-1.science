@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Introduction to Vim for Sysadmins"
-date: 2017-02-23 14:30:53
+date: 2017-10-15
 categories: Linux
 author: cschroder
 tags: [Vim (text editor), Computer keyboard, Arrow keys, Text editor, Linux distribution, Computing, Software, Computers, System software]

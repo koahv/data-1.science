@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starbursting Galaxies Played a Key Role in Early Epoch of the Universe"
-date: 2014-06-19 13:45:34
+date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
 

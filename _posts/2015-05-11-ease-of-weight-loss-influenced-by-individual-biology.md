@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ease of weight loss influenced by individual biology"
-date: 2015-05-11 20:29:18
+date: 2016-05-02
 categories: Science
 author: unknown author
 

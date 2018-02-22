@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Magnetic reconnection: Magnetic explosions in Northern lights and solar flares"
-date: 2015-12-18 21:14:58
+date: 2015-12-22
 categories: Science
 author: unknown author
-
+tags: [Magnetic reconnection, Magnetosphere, Plasma (physics), Coronal mass ejection, Outer space, Solar wind, Aurora, Sun, Solar flare, Energy, Magnetic field, Earths magnetic field, Goddard Space Flight Center, Earth, Applied and interdisciplinary physics, Physical universe, Nature, Physics, Physical sciences, Space science]
 ---
 
 

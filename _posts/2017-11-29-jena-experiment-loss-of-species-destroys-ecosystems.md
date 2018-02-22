@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jena Experiment: Loss of species destroys ecosystems"
-date: 2017-11-29 05:00:00
+date: 2017-11-30
 categories: Science
 author: unknown author
 tags: [Biodiversity, Ecosystem, Ecology, Soil, Experiment, Plant, Natural environment, Systems ecology, Biogeochemistry, Biology, Nature, Earth sciences, Organisms, Horticulture and gardening, Environmental science, Natural resource management]

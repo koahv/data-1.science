@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "World's food and energy systems key to tackling global biodiversity decline"
-date: 2016-10-27 10:48:43
+date: 2017-03-17
 categories: Science
 author: unknown author
 tags: [Sustainability, Living Planet Index, Planetary boundaries, World Wide Fund for Nature, Human impact on the environment, Sustainable development, Natural environment, Nature, Ecology, Biology, Environmental science, Environmental social science]

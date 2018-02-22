@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding supports model on cause of DNA's right-handed double helix"
-date: 2014-09-18 11:20:01
+date: 2016-03-26
 categories: Science
 author: unknown author
 

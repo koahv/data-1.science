@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New study reveals what's behind a tarantula's blue hue"
-date: 2015-11-30 05:00:00
+date: 2015-12-02
 categories: Technology
 author: unknown author
-
+tags: [Scripps Institution of Oceanography, University of California San Diego, Oceanography, Science]
 ---
 
 

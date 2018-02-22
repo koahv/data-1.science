@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Burning like the Sun"
-date: 2016-03-16 10:00:00
+date: 2016-03-16
 categories: Astronomy
 author: unknown author
-
+tags: [ITER, Nuclear fusion, Composite material, Chemistry, Physical universe, Physical sciences, Artificial objects, Energy, Nature]
 ---
 
 

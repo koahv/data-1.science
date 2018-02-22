@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What set the Earth's plates in motion?"
-date: 2014-09-17 04:00:00
+date: 2015-07-04
 categories: Science
 author: unknown author
 

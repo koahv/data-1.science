@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First open-access data from large collider confirm subatomic particle patterns"
-date: 2017-09-30 10:16:04
+date: 2017-10-04
 categories: Science
 author: unknown author
 tags: [Particle physics, Compact Muon Solenoid, Large Hadron Collider, Proton, Standard Model, ATLAS experiment, Gluon, Physics, Nuclear physics, Relativistic Heavy Ion Collider, Neutron, Strong interaction, Collider, Quark, Physical sciences]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3-D quantum gas atomic clock offers new dimensions in measurement"
-date: 2017-10-05 18:00:05
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [Atomic clock, Atom, Quantum mechanics, Gas, Clock, Physics, Optical lattice, Matter, Time, Laser, Crystal structure, Physical sciences, Applied and interdisciplinary physics, Mechanics, Chemistry, Physical chemistry]

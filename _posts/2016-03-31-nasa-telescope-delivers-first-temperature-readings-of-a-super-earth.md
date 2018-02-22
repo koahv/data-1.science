@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA Telescope Delivers First Temperature Readings of a Super-Earth"
-date: 2016-03-31 16:19:58
+date: 2016-04-10
 categories: Technology
 author: jmeister
-
+tags: [55 Cancri e, Planet, Spitzer Space Telescope, Astronomical objects, Planets, Space science, Physical sciences, Planetary science, Outer space, Astronomy, Planemos]
 ---
 
 

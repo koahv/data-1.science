@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New data bolsters Higgs boson discovery"
-date: 2014-06-23 15:31:59
+date: 2014-06-24
 categories: Science
 author: unknown author
 

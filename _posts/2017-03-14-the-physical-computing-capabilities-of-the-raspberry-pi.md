@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The physical computing capabilities of the Raspberry Pi"
-date: 2017-03-14 07:03:00
+date: 2017-09-24
 categories: Open Source
 author: ben_nuttall
 tags: [Raspberry Pi, Serial Peripheral Interface Bus, Universal asynchronous receiver-transmitter, Camera, Inputoutput, Electronics, Technology, Electronic engineering, Digital technology, Electrical engineering, Computer engineering, Digital electronics, Manufactured goods, Office equipment, Artificial objects, Computing, Computers, Computer hardware]

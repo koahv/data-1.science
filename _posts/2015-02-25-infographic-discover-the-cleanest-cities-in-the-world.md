@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "INFOGRAPHIC: Discover the cleanest cities in the world"
-date: 2015-02-25 20:46:07
+date: 2015-07-04
 categories: Energy
 author: Kristine Lofgren
 

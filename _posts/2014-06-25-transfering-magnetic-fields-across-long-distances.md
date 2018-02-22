@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transfering magnetic fields across long distances"
-date: 2014-06-25 11:40:03
+date: 2014-06-25
 categories: Science
 author: unknown author
 

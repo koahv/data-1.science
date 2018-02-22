@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Software helps decrypt embryonic development"
-date: 2016-04-26 13:23:28
+date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [Pattern formation, Equation, Mathematical analysis, Reactiondiffusion system, Developmental biology, Cellular differentiation, Alan Turing, Biology, Mathematics, Gene regulatory network, Computer, Differential equation, System]
 ---
 
 

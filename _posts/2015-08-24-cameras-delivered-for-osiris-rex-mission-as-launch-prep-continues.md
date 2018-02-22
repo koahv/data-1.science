@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cameras delivered for OSIRIS-REx mission as launch prep continues"
-date: 2015-08-24 17:46:30
+date: 2016-05-31
 categories: Science
 author: unknown author
 

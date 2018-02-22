@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Plant gravity"
-date: 2016-01-19 16:19:00
+date: 2016-01-27
 categories: Astronomy
 author: unknown author
-
+tags: [Plant, Agriculture, Plant development, Experiment, Gravity, International Space Station, Biology]
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists set quantum record by using photons to carry messages from electrons almost 2 kilometers apart"
-date: 2015-11-25 11:20:30
+date: 2015-12-22
 categories: Science
 author: unknown author
-
+tags: [Quantum entanglement, Electron, Photon, Information, Quantum mechanics, Physics, Spin (physics), Modern physics, Theoretical physics, Particle physics, Solid state engineering, Applied and interdisciplinary physics, Mechanics, Physical sciences]
 ---
 
 

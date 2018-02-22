@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researchers discover first sensor of Earth's magnetic field in an animal"
-date: 2015-06-17 04:00:00
+date: 2015-07-21
 categories: Science
 author: unknown author
 

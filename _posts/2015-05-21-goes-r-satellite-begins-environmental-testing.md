@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GOES-R satellite begins environmental testing"
-date: 2015-05-21 21:18:37
+date: 2016-05-02
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Introduction to Linux Filesystems"
-date: 2016-10-31 08:00:00
+date: 2017-10-10
 categories: Linux
 author: OpenSource.com
 tags: [Random-access memory, Hard disk drive, Computers, Computer hardware, Computer data storage, Computer data, Computer engineering, Digital technology, Data, Office equipment, Areas of computer science, Information storage, Electronic engineering, Digital electronics, Technology, Digital media, Manufactured goods, Media technology, Electronics, Computer architecture, Computing, Information technology, Electrical engineering]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magnetic 'wormhole' connecting two regions of space created for the first time"
-date: 2015-09-03 12:15:06
+date: 2015-09-03
 categories: Science
 author: unknown author
 

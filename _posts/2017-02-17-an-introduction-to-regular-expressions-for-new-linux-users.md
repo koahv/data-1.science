@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Introduction to Regular Expressions for New Linux Users"
-date: 2017-02-17 15:00:51
+date: 2017-10-15
 categories: Linux
 author: jlwallen
 tags: [Regular expression, Computing, Software engineering, Computer data, Areas of computer science, Computer programming]

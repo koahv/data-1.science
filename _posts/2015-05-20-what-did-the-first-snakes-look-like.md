@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What did the first snakes look like?"
-date: 2015-05-20 00:00:01
+date: 2015-05-20
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unravelling Earth’s magnetic field"
-date: 2017-03-21 09:00:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [Plate tectonics, Earth, Crust (geology), Earth sciences, Planetary science, Geology, Physical sciences, Applied and interdisciplinary physics, Planets of the Solar System, Nature, Space science]

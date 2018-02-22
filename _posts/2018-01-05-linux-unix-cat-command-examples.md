@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linux / Unix cat Command Examples"
-date: 2018-01-05 13:47:00
+date: 2018-01-18
 categories: Linux
 author: Vivek Gite
 tags: [Cat (Unix), Filename, Text file, Computer file, Operating system, Wget, Unix, Standard streams, Dd (Unix), Command (computing), Path (computing), System software, Computers, Computer engineering, Digital technology, Software, Digital media, Computing, Computer architecture, Areas of computer science, Computer data, Operating system technology]

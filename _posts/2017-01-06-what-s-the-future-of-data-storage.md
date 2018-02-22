@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's the Future of Data Storage?"
-date: 2017-01-06 08:00:00
+date: 2017-10-12
 categories: Linux
 author: HPE
 tags: [Cloud computing, Data management, Computing, Information technology management, Data, Information technology, Computer engineering, Technology, Digital technology, Computer architecture, Computer data, Areas of computer science, Computers]

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Carrot genome paints picture of domestication, could help improve crops"
-date: 2016-05-09 04:00:00
+date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Carrot, Plant, Genetics, Plant breeding, Gene, Carotenoid, Vitamin A, Domestication, Agriculture, Biology, Organisms]
 ---
 
 

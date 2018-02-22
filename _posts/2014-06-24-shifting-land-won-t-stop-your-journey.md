@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shifting land won't stop your journey"
-date: 2014-06-24 09:50:01
+date: 2014-06-24
 categories: Science
 author: unknown author
 

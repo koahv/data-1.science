@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LightSail Successfully Launches"
-date: 2015-05-20 20:56:45
+date: 2015-06-28
 categories: Technology
 author: mcrouse
 

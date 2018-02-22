@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mars Mission Could Return Samples to Earth by 2020 - Scientific American"
-date: 2014-06-23 19:56:16
+date: 2014-06-24
 categories: Earth
 author: unknown author
 

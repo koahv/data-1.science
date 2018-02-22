@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's GRACE satellites evaluate drought in southeast Brazil"
-date: 2015-10-28 04:00:00
+date: 2016-06-27
 categories: Science
 author: unknown author
-
+tags: [Gravity Recovery and Climate Experiment, Water, Reservoir, Nature, Physical geography, Earth sciences]
 ---
 
 

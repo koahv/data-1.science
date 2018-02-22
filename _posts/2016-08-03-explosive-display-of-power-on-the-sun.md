@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Explosive display of power on the Sun"
-date: 2016-08-03 17:56:23
+date: 2016-08-04
 categories: Astronomy
 author: yltansg@gmail.com
 tags: [Observational astronomy, Scientific observation, Physical sciences, Astronomy, Outer space, Optics]

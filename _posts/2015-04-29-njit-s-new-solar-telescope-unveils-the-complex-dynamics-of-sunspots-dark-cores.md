@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NJIT's new solar telescope unveils the complex dynamics of sunspots' dark cores"
-date: 2015-04-29 04:00:00
+date: 2016-04-26
 categories: Science
 author: unknown author
 

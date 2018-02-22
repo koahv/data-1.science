@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mars Webcam goes pro"
-date: 2016-05-25 13:22:00
+date: 2016-05-26
 categories: Astronomy
 author: unknown author
-
+tags: [Mars Express, Mars, Science, Outer space, Planetary science, Spaceflight, Astronautics, Astronomy, Flight, Planets of the Solar System]
 ---
 
 

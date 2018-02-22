@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advanced artificial limbs mapped in the brain"
-date: 2017-10-27 04:00:00
+date: 2017-10-27
 categories: Technology
 author: unknown author
 tags: [Prosthesis, Somatosensory system, Amputation, Perception, Cerebral cortex, Brain, Neuroscience, Cognitive science, Cognition, Medicine, Neuropsychology, Clinical medicine, Nervous system, Human anatomy, Neuropsychological assessment]

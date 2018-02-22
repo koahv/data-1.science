@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evolutionary advantage of genetic recombination in the genome measured for first time"
-date: 2016-01-14 05:00:00
+date: 2016-01-29
 categories: Science
 author: unknown author
-
+tags: [Genetics, Natural selection, Genetic linkage, Genetic recombination, Mutation, Evolution, Genome, Adaptation, Genomics, Correlation and dependence, Biological evolution, Biotechnology, Evolutionary biology, Organisms, Biology, Life sciences]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Worms Clan Wars Looks Like It's Heading To Linux"
-date: 2014-07-12 09:54:27
+date: 2014-07-12
 categories: Linux VG
 author: unknown author
 

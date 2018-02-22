@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bioengineers grow living bone for facial reconstruction"
-date: 2016-08-04 21:24:02
+date: 2017-03-17
 categories: Science
 author: unknown author
 tags: [Tissue engineering, Bone, Dental implant, Bone grafting, Medicine, Health sciences, Medical specialties, Biology, Life sciences, Clinical medicine]

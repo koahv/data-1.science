@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Game makers eager to pick your brain with neurogaming"
-date: 2014-06-20 17:30:04
+date: 2014-06-22
 categories: Science
 author: unknown author
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "US Air Force's Secure LPS (Lightweight Portable Security) Linux OS Gets Updated"
-date: 2016-02-12 13:38:48
+date: 2016-02-25
 categories: Linux
 author: Softpedia
-
+tags: [Lightweight Portable Security, Operating system families, Digital media, Computers, System software, Software, Computer architecture, Computing]
 ---
 
 

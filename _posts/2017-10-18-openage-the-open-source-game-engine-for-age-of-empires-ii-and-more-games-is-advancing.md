@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "openage, the open source game engine for Age of Empires II and more games is advancing"
-date: 2017-10-18 22:10:18
+date: 2017-10-19
 categories: Linux VG
 author: contact@gamingonlinux.com (liamdawe)
 tags: [Digital media, Computing, Software, Technology]

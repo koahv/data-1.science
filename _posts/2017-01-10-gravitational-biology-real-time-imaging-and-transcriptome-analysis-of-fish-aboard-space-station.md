@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gravitational biology: Real time imaging and transcriptome analysis of fish aboard space station"
-date: 2017-01-10 15:16:31
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Bone, Osteoblast, Osteoclast, Micro-g environment, Green fluorescent protein, Genetically modified organism, Biology]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geoengineering is an essential bridge to true sustainability"
-date: 2017-07-10 08:35:28
+date: 2017-08-31
 categories: Energy
 author: Ben Debski
 tags: [Climate engineering, Global warming, Marine cloud brightening, Copenhagen Consensus, Future problems, Nature, Meteorology, Change, Natural environment, Atmospheric sciences, Global environmental issues, Climate change, Climatology]

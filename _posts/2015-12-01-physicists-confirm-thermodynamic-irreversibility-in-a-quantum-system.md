@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists confirm thermodynamic irreversibility in a quantum system"
-date: 2015-12-01 14:30:01
+date: 2015-12-22
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Entropy, Irreversible process, Time, Thermodynamics, Arrow of time, Physics, Thermodynamic process, Thermodynamic equilibrium, Spin (physics), Physical sciences, Applied and interdisciplinary physics, Theoretical physics, Mechanics, Modern physics, Science, Chemistry, Mechanical engineering, Metaphysics]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solar Impulse launches five day trip across the Pacific Ocean toward Hawaii"
-date: 2015-06-29 21:18:17
+date: 2015-07-21
 categories: Technology
 author: Cat DiStasio
 

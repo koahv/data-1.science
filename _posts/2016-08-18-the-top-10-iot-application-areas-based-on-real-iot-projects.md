@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Top 10 IoT Application Areas – Based on Real IoT Projects"
-date: 2016-08-18 07:00:00
+date: 2017-10-05
 categories: Linux
 author: IoT Analytics
 tags: [Internet of things, Smart city, Information science, Digital technology, Computing, Technology]

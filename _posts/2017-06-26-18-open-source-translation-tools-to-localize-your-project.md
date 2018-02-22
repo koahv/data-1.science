@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "18 open source translation tools to localize your project"
-date: 2017-06-26 07:00:00
+date: 2017-10-23
 categories: Open Source
 author: gueroJeff
 tags: [Computer-assisted translation, Internationalization and localization, Translation memory, OmegaT, Open-source software, Translation, Intellectual works, Computing, Software, Technology, Communication, Human communication, Language, Areas of computer science, Applied linguistics, Semiotics, Digital media, Digital technology, Linguistics]

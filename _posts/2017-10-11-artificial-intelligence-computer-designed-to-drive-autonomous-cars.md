@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artificial intelligence computer designed to drive autonomous cars"
-date: 2017-10-11 10:49:44
+date: 2017-10-11
 categories: Science
 author: unknown author
 tags: [Nvidia, Graphics processing unit, Autonomous car, Technology, Computer hardware, Computers, Computer engineering, Artificial objects, Computing]

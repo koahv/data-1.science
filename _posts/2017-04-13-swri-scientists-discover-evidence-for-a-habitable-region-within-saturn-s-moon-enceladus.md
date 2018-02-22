@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SwRI scientists discover evidence for a habitable region within Saturn's moon Enceladus"
-date: 2017-04-13 04:00:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [Enceladus, CassiniHuygens, Hydrothermal vent, Ocean, Outer space, Planetary science, Planets of the Solar System, Nature, Solar System, Physical sciences, Astronomy]

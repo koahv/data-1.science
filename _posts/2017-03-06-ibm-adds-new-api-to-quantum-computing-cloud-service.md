@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IBM Adds New API to Quantum Computing Cloud Service"
-date: 2017-03-06 08:00:56
+date: 2017-09-17
 categories: Linux
 author: TechCrunch
 tags: [Quantum computing, Computer architecture, Software, Computers, Computing, Areas of computer science, Computer engineering, Digital technology, Technology]

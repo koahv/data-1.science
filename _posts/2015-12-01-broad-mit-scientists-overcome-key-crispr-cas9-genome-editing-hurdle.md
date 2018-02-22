@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Broad, MIT scientists overcome key CRISPR-Cas9 genome editing hurdle"
-date: 2015-12-01 05:00:00
+date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Cas9, Broad Institute, CRISPR, Genome editing, Gene, Protein, DNA, Biology, Life sciences, Biotechnology, Genetics, Molecular biology, Biochemistry, Organisms]
 ---
 
 

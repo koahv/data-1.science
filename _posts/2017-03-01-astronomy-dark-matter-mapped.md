@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Astronomy: Dark matter mapped"
-date: 2017-03-01 15:56:03
+date: 2017-09-21
 categories: Science
 author: unknown author
 tags: [Dark matter, Universe, Hubble Space Telescope, Matter, Galaxy, Gravitational lens, Astronomy, Physical sciences, Spacetime, Physical cosmology, Physics, Cosmology, Science, Physical universe, Outer space, Natural philosophy, Nature]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flowers' secret signal to bees and other amazing nanotechnologies hidden in plants"
-date: 2017-10-19 12:10:01
+date: 2017-10-19
 categories: Science
 author: unknown author
 tags: [Flower, Iridescence, Color, Petal, Plant, Nanotechnology]

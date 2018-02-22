@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Cayman Islands to deploy genetically modified mosquitoes"
-date: 2016-05-06 06:38:49
+date: 2016-05-06
 categories: Science
 author: unknown author
-
+tags: [Oxitec, 201516 Zika virus epidemic, Zika fever, Aedes aegypti, Biology, Microbiology, Health sciences, Infectious diseases, Medicine, Medical specialties, Organisms, Health, Life sciences]
 ---
 
 

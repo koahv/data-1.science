@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Technology that uses machine learning to quickly generate predictive models from massive datasets"
-date: 2015-09-07 12:00:02
+date: 2015-09-08
 categories: Science
 author: unknown author
 

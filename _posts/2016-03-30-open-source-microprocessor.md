@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Open-source microprocessor"
-date: 2016-03-30 04:00:00
+date: 2016-04-10
 categories: Technology
 author: unknown author
-
+tags: [Integrated circuit, Open-source model, Open-source software, Central processing unit, Digital technology, Computing, Technology, Computer engineering, Computers, Areas of computer science, Artificial objects, Intellectual works, Electronics, Computer hardware, Electronic engineering, Science and technology, Computer architecture, Office equipment]
 ---
 
 

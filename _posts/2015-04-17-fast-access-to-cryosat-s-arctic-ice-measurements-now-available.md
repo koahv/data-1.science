@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fast access to CryoSat’s Arctic ice measurements now available"
-date: 2015-04-17 12:00:00
+date: 2015-09-03
 categories: Astronomy
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7 tips for nailing your job interview"
-date: 2017-11-06 08:02:00
+date: 2018-02-18
 categories: Open Source
 author: vmbrasseur
 tags: [Research, Interview]

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Optical approach offers faster and less expensive method for carbon dating"
-date: 2016-04-06 04:00:00
+date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Radiocarbon dating, Light, Laser, Greenhouse gas, Mass spectrometry, Accelerator mass spectrometry, Carbon-14, Nature, Physical chemistry, Physical sciences, Chemistry, Applied and interdisciplinary physics, Electromagnetic radiation, Optics, Atomic molecular and optical physics, Natural philosophy]
 ---
 
 

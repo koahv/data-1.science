@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is the Earth's average temperature?"
-date: 2015-08-19 13:20:01
+date: 2016-05-27
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "30 best practices for software development and testing"
-date: 2017-05-24 07:02:00
+date: 2017-10-23
 categories: Open Source
 author: mfoord
 tags: [Dependency injection, Unit testing, Software bug, Application programming interface, Computer programming, Subroutine, Parameter (computer programming), Computing, Information technology management, Technology, Computers, Systems engineering, Computer engineering, Software, Areas of computer science, Software development, Software engineering]

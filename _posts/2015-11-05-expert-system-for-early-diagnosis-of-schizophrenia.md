@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Expert system for early diagnosis of schizophrenia"
-date: 2015-11-05 05:00:00
+date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Artificial intelligence, Medical diagnosis, Psychiatry, Problem solving, Mental status examination, Health, Nervous system, Applied psychology, Clinical medicine, Medical specialties, Cognitive science, Psychiatric diseases and disorders, Psychiatric assessment, Medicine, Psychopathology, Psychiatric diagnosis, Abnormal psychology, Mental and behavioural disorders, Psychological concepts, Clinical psychology, Behavioural sciences, Psychology, Cognition, Psychiatry-related fields, Neuroscience, Mental health, Epistemology]
 ---
 
 

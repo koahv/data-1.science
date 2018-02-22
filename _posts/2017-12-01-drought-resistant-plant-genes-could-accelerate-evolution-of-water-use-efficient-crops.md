@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drought-resistant plant genes could accelerate evolution of water-use efficient crops"
-date: 2017-12-01 05:00:00
+date: 2018-01-20
 categories: Science
 author: unknown author
 tags: [Office of Science, Oak Ridge National Laboratory, Crassulacean acid metabolism, Biology]

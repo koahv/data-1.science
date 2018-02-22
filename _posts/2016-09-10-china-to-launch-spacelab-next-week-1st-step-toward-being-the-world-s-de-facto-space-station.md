@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "China to Launch Spacelab Next Week --"1st Step Toward Being the World's De Facto Space Station""
-date: 2016-09-10 12:32:15
+date: 2017-03-22
 categories: Astronomy
 author: dailygalaxy.com
 tags: [International Space Station, Tiangong-2, Human spaceflight, Gamma ray, Rocket, Gamma-ray burst, Spaceflight technologies, Spacecraft, Physical sciences, Outer space, Spaceflight, Astronautics, Flight, Aerospace engineering]

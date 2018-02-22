@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Researchers take a step toward quantum mechanical analysis of plant metabolism"
-date: 2017-10-17 10:22:19
+date: 2017-10-17
 categories: Science
 author: unknown author
 tags: [Quantum mechanics, Quantum computing, Physics, Computer, Quantum simulator, Science, Solid state engineering, Modern physics, Applied and interdisciplinary physics, Theoretical physics, Particle physics, Mechanics, Physical sciences]

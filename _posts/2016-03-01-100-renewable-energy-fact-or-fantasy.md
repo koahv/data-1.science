@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "100% Renewable Energy: Fact Or Fantasy?"
-date: 2016-03-01 11:59:47
+date: 2016-03-15
 categories: Energy
 author: John Farrell
-
+tags: [Renewable energy, Energy development, Energy policy of the United States, Energy, Renewable energy commercialization, Distributed generation, Charging station, Electricity generation, Power (physics), Sustainable energy, Technology, Sustainable technologies, Alternative energy, Sustainable development, Nature, Physical universe]
 ---
 
 

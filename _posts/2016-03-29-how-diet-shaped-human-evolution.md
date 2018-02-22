@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How diet shaped human evolution"
-date: 2016-03-29 17:22:45
+date: 2016-04-05
 categories: Science
 author: unknown author
-
+tags: [Neanderthal, Human, Homo sapiens, Human evolution, Homo, Biology]
 ---
 
 

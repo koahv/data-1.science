@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photos of the Day: Hurricane-Studying Satellite"
-date: 2016-08-11 13:50:26
+date: 2016-08-22
 categories: Technology
 author: mcrouse
 tags: [Cyclone Global Navigation Satellite System, Spaceflight, Flight, Satellites, Spaceflight technologies, Aerospace engineering, Outer space, Spacecraft]

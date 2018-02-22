@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum Holograms as Atomic Scale Memory Keepsake"
-date: 2014-10-21 16:56:05
+date: 2015-05-22
 categories: Technology
 author: mfassbender
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Quantum Time Travel --"Can We Receive Messages from the Future?""
-date: 2015-12-09 15:31:50
+date: 2015-12-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Time travel, Quantum mechanics, Physics, Applied mathematics, Philosophy, Solid state engineering, Theoretical physics, Mechanics, Modern physics, Scientific theories, Science, Metaphysics, Physical sciences, Particle physics, Cognitive science]
 ---
 
 

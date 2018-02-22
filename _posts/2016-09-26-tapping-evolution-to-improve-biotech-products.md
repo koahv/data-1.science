@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tapping evolution to improve biotech products"
-date: 2016-09-26 21:25:36
+date: 2017-03-17
 categories: Science
 author: unknown author
 tags: [Factor VIII, Haemophilia, Haemophilia A, Gene therapy, Protein, Evolution, Gene, Cancer, Genetics, Medicine, Extinction, Biotechnology, Bleeding, Recombinant DNA, Antibody, Organisms, Life sciences, Biology]

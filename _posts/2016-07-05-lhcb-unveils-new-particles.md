@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LHCb unveils new particles"
-date: 2016-07-05 12:56:02
+date: 2016-07-10
 categories: Science
 author: unknown author
 tags: [Quark, Color charge, Elementary particle, Particle physics, Strong interaction, Hadron, Large Hadron Collider, Jpsi meson, Gluon, Pentaquark, Meson, Quantum mechanics, Physical bodies, Subatomic particles, Mechanics, Quantum chromodynamics, Nuclear physics, Physical universe, Standard Model, Theoretical physics, Physics, Physical sciences, Quantum field theory]

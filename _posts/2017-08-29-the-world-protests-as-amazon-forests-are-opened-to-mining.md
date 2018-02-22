@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The world protests as Amazon forests are opened to mining"
-date: 2017-08-29 11:43:34
+date: 2017-09-10
 categories: Science
 author: unknown author
 tags: [Amazon rainforest, Deforestation, Brazil, Air pollution, Greenhouse gas, Natural environment]

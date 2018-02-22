@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How friction evolves during an earthquake"
-date: 2017-08-15 21:29:34
+date: 2017-09-12
 categories: Science
 author: unknown author
 tags: [Earthquake, Friction, Simulation, Fault (geology), Experiment, Air pollution, Greenhouse gas, California Institute of Technology, Tropical cyclone, Physical sciences, Applied and interdisciplinary physics, Nature]

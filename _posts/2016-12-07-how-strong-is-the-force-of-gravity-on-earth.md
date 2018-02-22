@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How strong is the force of gravity on Earth?"
-date: 2016-12-07 14:20:01
+date: 2017-10-07
 categories: Science
 author: unknown author
 tags: [Gravity, General relativity, Star, Astronomy, Gravity of Earth, Weightlessness, Galaxy, Spacetime, Force, Outer space, Physical cosmology, Nature, Science, Mechanics, Physical quantities, Physics, Physical sciences]

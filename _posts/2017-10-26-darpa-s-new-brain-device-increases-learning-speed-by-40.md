@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DARPA’s New Brain Device Increases Learning Speed by 40%"
-date: 2017-10-26 18:27:31
+date: 2017-10-27
 categories: Science
 author: Dom Galeon
 tags: [Transcranial direct-current stimulation, Executive functions, Brain, Clinical psychology, Biology, Psychology, Behavioral neuroscience, Phenomenology, neuropsychology, Epistemology, Neuroscience, Cognitive science, Mental processes, Cognitive neuroscience, Psychological concepts, Neuropsychological assessment, Neuropsychology, Nervous system, Cognition]

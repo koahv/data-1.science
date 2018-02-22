@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strong interaction between herbivores and plants"
-date: 2017-03-23 15:43:14
+date: 2017-09-10
 categories: Science
 author: unknown author
 tags: [Biodiversity, Ecosystem, Food web, Habitat, Plant, Natural environment, Ecology, Biology, Organisms, Systems ecology, Biogeochemistry, Environmental science, Nature, Environmental social science]

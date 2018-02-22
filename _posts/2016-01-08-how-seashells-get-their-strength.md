@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How seashells get their strength"
-date: 2016-01-08 05:00:00
+date: 2016-01-29
 categories: Technology
 author: unknown author
-
+tags: [Crystal, Pacific Northwest National Laboratory, Biomineralization, Atomic force microscopy, Calcium, Office of Science, Calcium carbonate, Carbonate, Seashell, Composite material, Chemistry, Microscopy, Calcite, Applied and interdisciplinary physics, Nature, Physical sciences, Materials]
 ---
 
 

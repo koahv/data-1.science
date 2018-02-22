@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OSIRIS-REx spacecraft completes assembly stage, begins environmental testing"
-date: 2015-10-23 04:00:00
+date: 2015-10-26
 categories: Astronomy
 author: unknown author
 

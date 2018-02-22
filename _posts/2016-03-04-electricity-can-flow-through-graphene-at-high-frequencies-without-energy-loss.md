@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Electricity can flow through graphene at high frequencies without energy loss"
-date: 2016-03-04 05:00:00
+date: 2016-03-16
 categories: Technology
 author: unknown author
-
+tags: [Graphene, Electronics, Electricity, Signal, Sensor, Engineering, Artificial objects, Electromagnetism, Technology]
 ---
 
 

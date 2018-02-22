@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists track the brain-skull transition from dinosaurs to birds"
-date: 2017-09-11 16:27:01
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [Skull, Brain, Dinosaur, Origin of birds]

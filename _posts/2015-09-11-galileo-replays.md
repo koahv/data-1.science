@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Galileo replays"
-date: 2015-09-11 03:19:00
+date: 2015-09-12
 categories: Astronomy
 author: unknown author
 

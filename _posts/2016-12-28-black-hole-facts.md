@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Black Hole Facts"
-date: 2016-12-28 20:35:44
+date: 2017-09-21
 categories: Astronomy
 author: Camille M. Carlisle
 tags: [Black hole, Ergosphere, Gravity, Spacetime, Spin (physics), Event horizon, Force, Cosmology, Mathematical physics, Scientific theories, Modern physics, Gravitation, Science, Physical phenomena, Applied and interdisciplinary physics, Theory of relativity, Theoretical physics, Physical quantities, Physical cosmology, Astronomy, Mechanics, Physical sciences, Physics, Astronomical objects, Outer space]

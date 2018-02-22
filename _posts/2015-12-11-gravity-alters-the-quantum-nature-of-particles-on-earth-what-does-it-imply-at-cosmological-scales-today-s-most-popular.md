@@ -1,10 +1,10 @@
 ---
 layout: post
 title: ""Gravity Alters the Quantum Nature of Particles on Earth" --What Does It Imply at Cosmological Scales? (Today's Most Popular)"
-date: 2015-12-11 17:19:16
+date: 2015-12-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Quantum mechanics, Gravity, Physics, General relativity, Time, Science, Mechanics, Physical sciences, Physical quantities, Theoretical physics, Cognitive science, Philosophy, Physical cosmology, Academic discipline interactions, Scientific method, Applied and interdisciplinary physics, Spacetime, Metaphysics, Modern physics, Scientific theories]
 ---
 
 

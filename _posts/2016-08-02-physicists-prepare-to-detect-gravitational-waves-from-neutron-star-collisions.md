@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Physicists prepare to detect gravitational waves from neutron star collisions"
-date: 2016-08-02 12:30:02
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [QCD matter, Gravity, Gravitational wave, Quark, Matter, Strong interaction, Electron, LIGO, Neutron star, Neutron, Black hole, Quarkgluon plasma, Atom, Particle physics, General relativity, Force, Physical sciences, Physics]

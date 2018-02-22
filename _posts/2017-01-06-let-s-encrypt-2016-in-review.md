@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let’s Encrypt 2016 In Review"
-date: 2017-01-06 08:00:00
+date: 2017-10-12
 categories: Security
 author: unknown author
 tags: [Lets Encrypt, HTTPS, Digital technology, Web development, Web software, Computing, Cyberspace, Software, Internet, Application layer protocols, Information Age, Digital media, Technology, Secure communication, Digital rights, Information technology, Cyberwarfare, Internet protocols, Information technology management, Internet Standards, Computer networking, Computer security, World Wide Web]

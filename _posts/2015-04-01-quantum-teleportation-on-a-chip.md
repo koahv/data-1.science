@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum teleportation on a chip"
-date: 2015-04-01 04:00:00
+date: 2015-07-26
 categories: Technology
 author: unknown author
 

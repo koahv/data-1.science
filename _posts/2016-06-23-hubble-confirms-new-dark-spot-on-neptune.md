@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hubble confirms new dark spot on Neptune"
-date: 2016-06-23 04:00:00
+date: 2016-06-24
 categories: Astronomy
 author: unknown author
 tags: [Neptune, Hubble Space Telescope, Astronomy, Vortex, Cloud, Jupiter, Solar System, Planets of the Solar System, Outer space, Physical sciences, Planetary science, Space science, Planets]

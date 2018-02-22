@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Climate models used to explain formation of Mars valley networks"
-date: 2015-10-12 04:00:00
+date: 2015-10-14
 categories: Astronomy
 author: unknown author
 

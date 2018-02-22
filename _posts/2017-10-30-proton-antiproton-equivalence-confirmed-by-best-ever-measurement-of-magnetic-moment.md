@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proton–antiproton equivalence confirmed by best-ever measurement of magnetic moment"
-date: 2017-10-30 12:46:08
+date: 2017-11-01
 categories: Science
 author: Marric Stephens
 tags: [Antiproton, Physics, Physical sciences, Particle physics, Electromagnetism, Physical quantities, Force, Applied and interdisciplinary physics]

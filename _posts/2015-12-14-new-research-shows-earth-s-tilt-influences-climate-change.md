@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "New research shows Earth's tilt influences climate change"
-date: 2015-12-14 05:00:00
+date: 2015-12-18
 categories: Science
 author: unknown author
-
+tags: [Axial tilt, Earth, Nature, Planetary science, Physical geography, Physical sciences, Earth sciences, Applied and interdisciplinary physics, Climatology, Milankovitch cycles]
 ---
 
 

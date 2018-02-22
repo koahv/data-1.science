@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Today in Engineering History: Luna 9 Lands on the Moon"
-date: 2016-02-03 16:45:14
+date: 2016-02-05
 categories: Technology
 author: mcrouse
-
+tags: [Luna 9, Lander (spacecraft), Moon, Space science, Aerospace engineering, Solar System, Spaceflight technologies, Spacecraft, Space exploration, Flight, Discovery and exploration of the Solar System, Astronautics, Outer space, Spaceflight, Space missions, Planetary science, Space probes, Exploration of the Moon, Aerospace, Scientific exploration, Lunar science]
 ---
 
 

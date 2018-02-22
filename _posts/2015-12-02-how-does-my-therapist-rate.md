@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How does my therapist rate?"
-date: 2015-12-02 05:00:00
+date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Psychotherapy, Speech, Medicine, Psychology, Empathy, Machine learning, University of Southern California, Engineering, Cognitive science, Psychological concepts, Cognition]
 ---
 
 

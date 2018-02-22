@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "U.S. ocean observation critical to understanding climate change, but lacks long-term national planning"
-date: 2017-10-20 18:07:21
+date: 2017-10-21
 categories: Science
 author: unknown author
 tags: [Air pollution, Climate, Greenhouse gas, Ocean, Climate change, National Oceanic and Atmospheric Administration, Tropical cyclone, Weather forecasting, Climatology, Weather, Physical geography, Nature, Natural environment, Earth sciences]

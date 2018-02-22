@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Astronomers confirm faintest early-universe galaxy ever seen"
-date: 2016-05-23 04:00:00
+date: 2016-05-24
 categories: Astronomy
 author: unknown author
-
+tags: [Gravitational lens, Chronology of the universe, Astronomy, Universe, Galaxy, Applied and interdisciplinary physics, Physical sciences, Physics, Physical cosmology, Outer space, Science, Cosmology, Nature, Natural philosophy, Astrophysics]
 ---
 
 

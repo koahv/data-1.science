@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA's NICER mission arrives at Kennedy Space Center"
-date: 2016-06-08 04:00:00
+date: 2016-06-12
 categories: Science
 author: unknown author
 tags: [Neutron Star Interior Composition Explorer, Neutron star, Star, Pulsar, NASA, International Space Station, Explorers program, Sun, Astronomy, Physical sciences, Outer space, Physical universe, Spaceflight]

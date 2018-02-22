@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Quartz' crystals at the Earth's core power its magnetic field"
-date: 2017-02-22 05:00:00
+date: 2017-10-08
 categories: Science
 author: unknown author
 tags: [Planetary core, Structure of the Earth, Earth, Silicon, Mantle (geology), Iron, Earths magnetic field, Chemistry, Applied and interdisciplinary physics, Nature, Physical sciences, Materials]

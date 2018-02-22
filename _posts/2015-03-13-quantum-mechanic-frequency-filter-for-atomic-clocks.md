@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum mechanic frequency filter for atomic clocks"
-date: 2015-03-13 03:01:52
+date: 2015-07-26
 categories: Energy
 author: unknown author
 

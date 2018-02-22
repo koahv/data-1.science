@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How The Grid Works, & Why Renewables Can Dominate"
-date: 2015-12-16 21:18:36
+date: 2015-12-18
 categories: Energy
 author: Christopher Arcus
-
+tags: [Wind power, Renewable energy, Electric vehicle, Electricity generation, Hydroelectricity, Electric power transmission, Capacity factor, Electric generator, Physical universe, Electric power, Energy, Technology, Sustainable development, Nature, Sustainable technologies, Electrical engineering, Artificial objects, Alternative energy, Power (physics), Energy technology, Electricity, Energy production]
 ---
 
 

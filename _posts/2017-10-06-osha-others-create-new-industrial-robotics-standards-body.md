@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OSHA, Others Create New Industrial Robotics Standards Body"
-date: 2017-10-06 14:05:34
+date: 2017-10-09
 categories: Technology
 author: mcrouse
 tags: [Occupational Safety and Health Administration, Industrial robot, Occupational safety and health, National Institute for Occupational Safety and Health, Safety, Labour relations, Working conditions, Technology, Health]

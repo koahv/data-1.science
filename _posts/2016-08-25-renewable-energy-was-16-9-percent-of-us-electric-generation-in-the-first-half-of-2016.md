@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Renewable Energy Was 16.9 Percent of US Electric Generation in the First Half of 2016"
-date: 2016-08-25 12:24:00
+date: 2017-09-25
 categories: Energy
 author: unknown author
 tags: [Renewable energy, Electricity generation, Solar power, Wind power, Energy development, Nuclear power, Hydroelectricity, Power (physics), Energy sources, Artificial objects, Electric power, Natural resources, Renewable resources, Sustainable energy, Sustainable technologies, Physical universe, Energy, Alternative energy, Sustainable development, Nature, Energy production]

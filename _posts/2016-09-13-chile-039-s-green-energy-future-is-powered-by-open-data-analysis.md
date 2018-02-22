@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chile&#039;s green energy future is powered by open data analysis"
-date: 2016-09-13 07:02:00
+date: 2017-09-24
 categories: Open Source
 author: clhermansen
 tags: [Energy policy of the United States, Hydroelectricity, QGIS, Knapsack problem, Ecosystem, Geographic information system, Shapefile, Computing]

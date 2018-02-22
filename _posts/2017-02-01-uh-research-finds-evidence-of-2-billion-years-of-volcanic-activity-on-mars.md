@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UH research finds evidence of 2 billion years of volcanic activity on Mars"
-date: 2017-02-01 05:00:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [Mars, Volcano, Martian meteorite, Outer space, Space science, Geology, Solar System, Planets of the Solar System, Planetary science]

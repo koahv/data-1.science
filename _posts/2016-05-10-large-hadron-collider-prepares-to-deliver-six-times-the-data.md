@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Large hadron collider prepares to deliver six times the data"
-date: 2016-05-10 10:38:28
+date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Large Hadron Collider, Particle physics, Standard Model, ATLAS experiment, CERN, Physics beyond the Standard Model, Higgs boson, Matter, Physics, Compact Muon Solenoid, Collider, Universe, Physical sciences, Science, Mechanics, Physical cosmology, Theoretical physics]
 ---
 
 

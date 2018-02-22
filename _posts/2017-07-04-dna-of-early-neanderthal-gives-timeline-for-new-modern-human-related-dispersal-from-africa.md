@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DNA of early Neanderthal gives timeline for new modern human-related dispersal from Africa"
-date: 2017-07-04 04:00:00
+date: 2017-08-31
 categories: Science
 author: unknown author
 tags: [Neanderthal, Denisovan, Recent African origin of modern humans, Human, Biology, Genetics, Organisms]

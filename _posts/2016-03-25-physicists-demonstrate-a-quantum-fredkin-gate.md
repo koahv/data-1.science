@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Physicists demonstrate a quantum Fredkin gate"
-date: 2016-03-25 18:00:04
+date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Quantum computing, Computer, Shors algorithm, Physics, Computing, Quantum circuit, Algorithm, Integer factorization, Science]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are leaders born or made? New study shows how leadership develops"
-date: 2014-10-06 21:11:55
+date: 2016-03-26
 categories: Science
 author: unknown author
 

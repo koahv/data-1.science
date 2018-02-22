@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A clue to generate electric current without energy consumption at room temperature"
-date: 2015-12-29 05:00:00
+date: 2015-12-31
 categories: Science
 author: unknown author
-
+tags: [Ferromagnetism, Electric current, Physics, Magnetism, Insulator (electricity), Topological insulator, Atom, American Association for the Advancement of Science, Magnetic field, Materials science, Physical chemistry, Condensed matter physics, Nature, Force, Physical sciences, Chemical product engineering, Applied and interdisciplinary physics, Manufacturing, Materials, Electromagnetism, Chemistry]
 ---
 
 

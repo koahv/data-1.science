@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You can now explore all 19 of South Africa's National Parks on Google Maps"
-date: 2017-11-03 17:59:29
+date: 2017-11-16
 categories: Technology
 author: Amanda Froelich
 

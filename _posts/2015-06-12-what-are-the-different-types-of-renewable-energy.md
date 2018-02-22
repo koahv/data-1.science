@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What are the different types of renewable energy?"
-date: 2015-06-12 13:40:01
+date: 2016-05-08
 categories: Science
 author: unknown author
 

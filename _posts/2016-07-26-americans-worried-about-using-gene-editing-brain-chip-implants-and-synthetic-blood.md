@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Americans worried about using gene editing, brain chip implants and synthetic blood"
-date: 2016-07-26 04:00:00
+date: 2016-07-29
 categories: Technology
 author: unknown author
 tags: [Human, Blood substitute, Brain implant, Brain, Genome editing, Human enhancement, Technology, Plastic surgery, Research, Surgery, American Association for the Advancement of Science]

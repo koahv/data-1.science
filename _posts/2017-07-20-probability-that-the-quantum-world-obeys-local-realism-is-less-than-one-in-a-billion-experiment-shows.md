@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Probability that the quantum world obeys local realism is less than one in a billion, experiment shows"
-date: 2017-07-20 13:30:02
+date: 2017-09-20
 categories: Science
 author: unknown author
 tags: [Bell test experiments, Principle of locality, Loopholes in Bell test experiments, Quantum entanglement, Quantum mechanics, Photon, Physics, Physical sciences, Mechanics, Science, Modern physics, Particle physics, Cognitive science, Theoretical physics, Solid state engineering, Philosophy, Scientific theories, Metaphysics]

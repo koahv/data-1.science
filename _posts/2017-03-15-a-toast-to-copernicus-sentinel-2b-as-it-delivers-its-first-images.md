@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A ‘toast’ to Copernicus Sentinel-2B as it delivers its first images"
-date: 2017-03-15 14:36:00
+date: 2017-09-23
 categories: Astronomy
 author: unknown author
 tags: [Copernicus Programme, Sentinel-2, Outer space, Spaceflight, Astronautics]

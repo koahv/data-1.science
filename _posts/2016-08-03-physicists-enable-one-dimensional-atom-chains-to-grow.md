@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Physicists enable one-dimensional atom chains to grow"
-date: 2016-08-03 13:52:59
+date: 2017-10-06
 categories: Science
 author: unknown author
 tags: [Magnetism, Physics, Atom, Antiferromagnetism, Ferromagnetism, Metal, Nanotechnology, Applied and interdisciplinary physics, Physical chemistry, Manufacturing, Materials science, Physical sciences, Materials, Chemistry]

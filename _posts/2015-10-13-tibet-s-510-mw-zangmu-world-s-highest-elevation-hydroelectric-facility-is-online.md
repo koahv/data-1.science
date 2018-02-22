@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tibet’s 510-MW Zangmu, world’s highest elevation hydroelectric facility, is online"
-date: 2015-10-13 16:39:00
+date: 2015-10-19
 categories: Energy
 author: unknown author
 

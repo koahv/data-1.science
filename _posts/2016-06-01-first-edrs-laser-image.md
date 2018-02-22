@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "First EDRS laser image"
-date: 2016-06-01 10:20:00
+date: 2016-06-02
 categories: Astronomy
 author: unknown author
-
+tags: [Copernicus Programme, Technology, Telecommunications, Spaceflight, Outer space, Spacecraft, Aerospace engineering]
 ---
 
 

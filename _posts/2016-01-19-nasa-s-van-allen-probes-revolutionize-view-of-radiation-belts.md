@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "NASA's Van Allen probes revolutionize view of radiation belts"
-date: 2016-01-19 05:00:00
+date: 2016-01-27
 categories: Technology
 author: unknown author
-
+tags: [Van Allen radiation belt, Van Allen Probes, Electron, Geomagnetic storm, Physical sciences, Physics, Outer space, Space science, Nature, Astronomy, Applied and interdisciplinary physics]
 ---
 
 

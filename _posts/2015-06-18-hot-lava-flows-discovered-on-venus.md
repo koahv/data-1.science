@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hot lava flows discovered on Venus"
-date: 2015-06-18 12:00:00
+date: 2015-09-03
 categories: Astronomy
 author: unknown author
 

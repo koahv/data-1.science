@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mapping coal's decline and the renewables' rise"
-date: 2016-06-23 11:02:26
+date: 2016-06-24
 categories: Science
 author: unknown author
 tags: [Wind power, Cost of electricity by source, Renewable energy, Fossil fuel, Fossil fuel power station, Coal, Carbon tax, Externality, Electricity generation, Subsidy, Pollution, Photovoltaics, Nuclear power, Low-carbon economy, Carbon pricing in Australia, Electrical grid, Fuel, Tax, Energy development, Nature, Energy, Artificial objects]

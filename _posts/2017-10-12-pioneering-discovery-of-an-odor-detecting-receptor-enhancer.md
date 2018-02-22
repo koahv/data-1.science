@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pioneering discovery of an odor-detecting receptor enhancer"
-date: 2017-10-12 13:40:57
+date: 2017-10-12
 categories: Science
 author: unknown author
 tags: [Gene, Olfactory receptor, Enhancer (genetics), Olfaction, Evolution, Sensory neuron, Gene expression, Conserved sequence, Life sciences, Molecular biology, Biotechnology, Genetics, Biology, Biochemistry, Organisms, Cell biology]

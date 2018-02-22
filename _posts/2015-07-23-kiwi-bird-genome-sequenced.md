@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kiwi bird genome sequenced"
-date: 2015-07-23 00:00:01
+date: 2016-05-15
 categories: Science
 author: unknown author
 

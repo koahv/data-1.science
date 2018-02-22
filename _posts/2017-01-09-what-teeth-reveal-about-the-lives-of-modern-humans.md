@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What teeth reveal about the lives of modern humans"
-date: 2017-01-09 05:00:00
+date: 2017-10-05
 categories: Science
 author: unknown author
 tags: [Tooth, Human, Fossil, Evolution, Anthropology, Wisdom tooth, Human evolution, Food]

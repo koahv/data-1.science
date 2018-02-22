@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Scientists map brain's 'thesaurus' to help decode inner thoughts"
-date: 2016-04-29 04:00:00
+date: 2016-04-30
 categories: Technology
 author: unknown author
-
+tags: [Brain, Language, Functional magnetic resonance imaging, Braincomputer interface, Information, Human brain, Neuroimaging, Cerebral cortex, Science, American Association for the Advancement of Science, Cognition, Cognitive science, Neuropsychology, Neuropsychological assessment, Psychological concepts, Epistemology, Neuroscience, Nervous system, Phenomenology]
 ---
 
 

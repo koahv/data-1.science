@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ESA congratulations on gravitational wave discovery"
-date: 2016-02-11 17:00:00
+date: 2016-03-15
 categories: Astronomy
 author: unknown author
-
+tags: [Laser Interferometer Space Antenna, LIGO, Gravitational wave, LISA Pathfinder, Gravitational-wave observatory, Gravity, Physical cosmology, Physical sciences, Astronomy, Physics, Outer space, Gravitation, Science, Spacetime, Natural philosophy, Applied and interdisciplinary physics, Mechanics, Physical quantities, General relativity]
 ---
 
 

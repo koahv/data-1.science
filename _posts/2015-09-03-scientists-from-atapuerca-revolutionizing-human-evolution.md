@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists from Atapuerca Revolutionizing Human Evolution"
-date: 2015-09-03 02:11:46
+date: 2015-09-04
 categories: Science
 author: ancient-origins
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Demand for Open Source Skills on the Rise"
-date: 2017-09-18 12:30:32
+date: 2017-10-14
 categories: Linux
 author: eshein
 tags: [Cloud computing, DevOps, Open-source model, Big data, Business, Computing, Technology, Information technology, Information Age]

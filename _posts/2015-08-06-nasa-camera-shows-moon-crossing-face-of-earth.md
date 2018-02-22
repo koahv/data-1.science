@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA Camera Shows Moon Crossing Face of Earth"
-date: 2015-08-06 17:58:32
+date: 2015-12-21
 categories: Technology
 author: kduffy
 

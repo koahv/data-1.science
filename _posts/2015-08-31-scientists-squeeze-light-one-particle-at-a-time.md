@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scientists 'squeeze' light one particle at a time"
-date: 2015-08-31 16:03:04
+date: 2015-09-02
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First molecules discovered by next-generation artificial intelligence to be developed into drugs"
-date: 2017-07-27 04:00:00
+date: 2017-09-10
 categories: Technology
 author: unknown author
 tags: [Insilico Medicine, Artificial intelligence, Pharmaceutical drug, Drug development, Drug discovery, Medicine, Ageing, Life sciences, Biology, Health, Health sciences, Health care, Medical research, Biotechnology]

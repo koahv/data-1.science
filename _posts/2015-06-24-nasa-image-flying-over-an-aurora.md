@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASA image: Flying over an aurora"
-date: 2015-06-24 10:23:35
+date: 2016-05-10
 categories: Science
 author: unknown author
 

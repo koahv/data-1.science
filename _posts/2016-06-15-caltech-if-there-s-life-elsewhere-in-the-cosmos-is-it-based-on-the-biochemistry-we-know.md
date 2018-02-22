@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caltech: "If There's Life Elsewhere in the Cosmos, is It Based on the Biochemistry We Know?""
-date: 2016-06-15 13:10:51
+date: 2016-06-21
 categories: Astronomy
 author: dailygalaxy.com
 tags: [Chirality, Abiogenesis, Life, Chirality (chemistry), Astronomy, Physical sciences, Chemistry, Nature, Outer space]

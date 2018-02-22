@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two defining features of quantum mechanics never appear together"
-date: 2016-03-21 13:30:01
+date: 2016-03-24
 categories: Science
 author: unknown author
 

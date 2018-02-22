@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dig into DNS: Part 3"
-date: 2016-09-20 13:02:08
+date: 2017-10-09
 categories: Linux
 author: chrisbinnie
 tags: [Name server, Domain Name System, Domain name, Information technology management, Network protocols, Networking standards, Protocols, Communications protocols, Application layer protocols, Information Age, IT infrastructure, Technology, Internet protocols, Network architecture, Cyberspace, Internet architecture, Internet Standards, Internet, Network addressing, Computer data, Computer architecture, Information technology, Computer networking, Computing]

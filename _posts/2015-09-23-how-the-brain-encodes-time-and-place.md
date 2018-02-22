@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How the brain encodes time and place"
-date: 2015-09-23 17:41:12
+date: 2016-07-25
 categories: Science
 author: unknown author
 

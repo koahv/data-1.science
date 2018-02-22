@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Computing with time travel"
-date: 2015-12-09 13:54:24
+date: 2015-12-22
 categories: Science
 author: unknown author
-
+tags: [Time travel, Quantum mechanics, Time, Quantum entanglement, Physics, Spacetime, Computational complexity theory, Quantum computing, Mechanics, Theoretical physics, Science, Physical sciences, Modern physics, Metaphysics, Philosophy, Cognitive science, Particle physics, Solid state engineering, Scientific theories]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Photon’s Million-Year Journey From the Center of the Sun"
-date: 2015-08-26 21:28:33
+date: 2015-09-02
 categories: Astronomy
 author: Avery Thompson
 

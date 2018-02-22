@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using encrypted documents with vim"
-date: 2016-10-17 14:07:43
+date: 2017-10-09
 categories: Linux
 author: Michael Boelen
 tags: [Cryptography, Encryption, Lynis, Blowfish (cipher), Computer file, Image scanner, Digital technology, Crime prevention, Technology, Information Age, Digital media, Software, Data management, Security technology, Cyberspace, Information governance, Security engineering, Computing, Information technology management, Computer security, Areas of computer science, Cyberwarfare, Secure communication, Cybercrime, National security, Computer data]

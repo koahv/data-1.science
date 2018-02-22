@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Electrons in magnetic field reveal surprises"
-date: 2014-08-14 15:25:48
+date: 2015-05-22
 categories: Science
 author: unknown author
 

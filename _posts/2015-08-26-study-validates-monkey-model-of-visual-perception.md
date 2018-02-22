@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Study validates monkey model of visual perception"
-date: 2015-08-26 01:05:44
+date: 2016-06-14
 categories: Science
 author: unknown author
 

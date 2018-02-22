@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New electron microscope method detects atomic-scale magnetism"
-date: 2016-06-20 20:25:50
+date: 2016-06-21
 categories: Science
 author: unknown author
 tags: [Microscopy, Electron microscope, Electron, Atom, Magnetism, Oak Ridge National Laboratory, Scientific method, Physical chemistry, Materials science, Natural philosophy, Electromagnetic radiation, Physics, Atomic molecular and optical physics, Optics, Physical sciences, Applied and interdisciplinary physics, Chemistry]

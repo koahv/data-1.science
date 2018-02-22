@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Launch timelapse"
-date: 2016-01-22 15:15:00
+date: 2016-01-27
 categories: Astronomy
 author: unknown author
 

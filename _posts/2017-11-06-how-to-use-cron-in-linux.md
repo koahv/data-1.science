@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to use cron in Linux"
-date: 2017-11-06 08:03:00
+date: 2018-02-18
 categories: Open Source
 author: dboth
 tags: [Cron, Computing, Software, Operating system technology, Computers, Computer programming, System software, Computer engineering, Computer architecture, Areas of computer science, Digital technology]

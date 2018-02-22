@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How open government is helping with hurricane relief"
-date: 2017-10-23 07:01:00
+date: 2017-10-23
 categories: Open Source
 author: drubinstein
 tags: [Federal Emergency Management Agency, Geographic information system, Open government, Emergency management, Hurricane Maria, Hurricane Irma, Technology]

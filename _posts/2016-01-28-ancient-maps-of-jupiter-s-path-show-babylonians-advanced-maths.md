@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient maps of Jupiter’s path show Babylonians’ advanced maths"
-date: 2016-01-28 19:00:09
+date: 2016-01-29
 categories: Astronomy
 author: unknown author
-
+tags: [Knuckle-walking, Mars, Human]
 ---
 
 

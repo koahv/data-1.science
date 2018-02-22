@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Time-Lapse Video Of Earth From Space Is Your Monday Moment Of Zen - io9"
-date: 2014-07-14 13:42:00
+date: 2015-07-06
 categories: Earth
 author: unknown author
 

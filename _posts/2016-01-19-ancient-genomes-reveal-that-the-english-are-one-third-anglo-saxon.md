@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ancient genomes reveal that the English are one-third Anglo-Saxon"
-date: 2016-01-19 05:00:00
+date: 2016-06-27
 categories: Science
 author: unknown author
-
+tags: [Wellcome Trust Sanger Institute, Archaeology, Genetics, Oxford Archaeology, Anglo-Saxons, United Kingdom, Genome, DNA, University of Adelaide, 1000 Genomes Project, Biology]
 ---
 
 

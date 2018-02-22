@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Saturn's Titan's Building Blocks May be Older Than the Sun"
-date: 2014-06-24 11:24:11
+date: 2014-06-24
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dark Energy Survey reveals most accurate measurement of dark matter structure in the universe"
-date: 2017-08-03 16:09:03
+date: 2017-09-22
 categories: Science
 author: unknown author
 tags: [Universe, Dark matter, Dark energy, Scientific theory, The Dark Energy Survey, Science, Light, Gravity, Physical cosmology, Big Bang, Milky Way, Matter, Time, Theory, Physics, Mathematics, Planck (spacecraft), Physical sciences, Astronomy]

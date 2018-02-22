@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "For first time, individual atoms seen keeping away from each other or bunching up as pairs"
-date: 2016-09-15 20:29:30
+date: 2017-03-22
 categories: Science
 author: unknown author
 tags: [Electron, Superconductivity, High-temperature superconductivity, Gas, Atom, Physics, Crystal structure, Wolfgang Pauli, Materials science, Quantum mechanics, Theoretical physics, Condensed matter physics, Physical chemistry, Applied and interdisciplinary physics, Mechanics, Chemistry, Physical sciences, Solid state engineering, Modern physics, Nature, Condensed matter, Materials, Particle physics]

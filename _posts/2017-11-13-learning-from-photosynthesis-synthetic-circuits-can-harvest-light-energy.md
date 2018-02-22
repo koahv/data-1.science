@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning from photosynthesis: Synthetic circuits can harvest light energy"
-date: 2017-11-13 16:22:30
+date: 2017-11-19
 categories: Science
 author: unknown author
 tags: [Photosynthesis, Energy, DNA, Exciton, Nature, Artificial objects, Applied and interdisciplinary physics, Biology, Chemistry, Physical sciences]

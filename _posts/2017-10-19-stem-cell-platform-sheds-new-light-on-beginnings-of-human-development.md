@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stem cell platform sheds new light on beginnings of human development"
-date: 2017-10-19 13:20:41
+date: 2017-10-19
 categories: Science
 author: unknown author
 tags: [Embryo, Stem cell, Human, Developmental biology, Regenerative medicine, Embryonic stem cell, Research, Gastrulation, Brain, Organisms, Biology, Reproduction, Life sciences, Fertilisation]

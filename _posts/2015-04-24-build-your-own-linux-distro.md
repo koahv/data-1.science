@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build Your Own Linux Distro"
-date: 2015-04-24 15:55:30
+date: 2015-05-07
 categories: Linux
 author: Administrator
 

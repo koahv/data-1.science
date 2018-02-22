@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Unique high-resolution map on bat diversity in Africa"
-date: 2016-01-05 12:40:01
+date: 2016-01-29
 categories: Science
 author: unknown author
-
+tags: [Biodiversity, Ecology, Bacteria, Research, Evolution, Nature, Science, Organisms, Biology]
 ---
 
 

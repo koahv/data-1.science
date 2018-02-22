@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Men welcome revolutionary male contraceptive"
-date: 2016-11-02 12:01:17
+date: 2017-03-19
 categories: Science
 author: unknown author
 tags: [Birth control, Reproductive health, Human reproduction, Health, Psychology, Sexual health]

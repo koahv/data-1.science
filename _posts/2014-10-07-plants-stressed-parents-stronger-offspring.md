@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plants: Stressed parents, stronger offspring"
-date: 2014-10-07 13:22:52
+date: 2016-03-26
 categories: Science
 author: unknown author
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A spectacular landscape of star formation"
-date: 2014-08-20 13:12:52
+date: 2016-02-05
 categories: Science
 author: unknown author
 

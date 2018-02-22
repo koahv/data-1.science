@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Social brains: Do insect societies share brain power?"
-date: 2015-06-16 23:00:01
+date: 2016-05-08
 categories: Science
 author: unknown author
 

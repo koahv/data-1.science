@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How climate change affects the building blocks for health"
-date: 2017-10-26 13:40:05
+date: 2017-10-27
 categories: Science
 author: unknown author
 tags: [Air pollution, Climate change, Food, Food security, Risk, Greenhouse gas, Drought, Health, Poverty, Agriculture, Flood, Climate, Physical geography, Natural environment, Nature]

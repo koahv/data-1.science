@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is Synesthesia?"
-date: 2017-10-18 05:24:31
+date: 2017-10-18
 categories: Science
 author: unknown author
 tags: [Synesthesia, Perception, Emergence, Cognitive science, Cognition, Neuroscience, Neuropsychological assessment, Psychology, Nervous system, Neuropsychology, Phenomenology, Mental processes, Subjective experience, Metaphysics of mind, Experimental psychology, Behavioural sciences, Epistemology, Psychological concepts]

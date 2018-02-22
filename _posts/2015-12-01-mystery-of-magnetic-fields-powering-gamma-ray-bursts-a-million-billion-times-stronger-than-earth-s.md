@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mystery of Magnetic Fields Powering Gamma Ray Bursts --"A Million Billion Times Stronger than Earth's""
-date: 2015-12-01 15:21:26
+date: 2015-12-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Magnetar, Star, Supernova, Physical sciences, Physics, Astronomy, Nature, Applied and interdisciplinary physics]
 ---
 
 

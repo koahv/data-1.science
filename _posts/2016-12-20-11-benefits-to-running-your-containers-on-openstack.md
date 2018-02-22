@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "11 Benefits to Running Your Containers on OpenStack"
-date: 2016-12-20 11:00:00
+date: 2017-10-12
 categories: Linux
 author: OpenStack
 tags: [Cloud computing, Business, Information technology, Technology, Computing, Digital technology, Information technology management, Management, Intellectual works]

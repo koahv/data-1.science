@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Six weighty facts about gravity"
-date: 2016-04-06 21:00:47
+date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Gravity, Gravitational wave, Graviton, Quantum gravity, Elementary particle, Fundamental interaction, General relativity, Quantum mechanics, Force, Particle physics, Physical cosmology, Metaphysics, Applied and interdisciplinary physics, Modern physics, Science, Gravitation, Astronomy, Spacetime, Physical quantities, Theoretical physics, Physical universe, Mechanics, Physical sciences, Physics, Scientific theories, Natural philosophy]
 ---
 
 
