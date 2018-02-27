@@ -4,7 +4,7 @@ title: "What can brain-controlled prosthetics tell us about the brain?"
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Neuroprosthetics, Brain, Neuroscience, Experiment, Nervous system, Neuron, Psychological concepts, Science, Biology, Cognition, Cognitive science]
 ---
 
 

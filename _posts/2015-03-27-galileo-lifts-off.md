@@ -4,7 +4,7 @@ title: "Galileo lifts off"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Fregat, Rocketry, Aerospace, Space programs, Flight, Astronautics, Outer space, Aerospace engineering, Spaceflight technologies, Spacecraft, Human spaceflight programs, Spaceflight, Human spaceflight, Space exploration]
 ---
 
 

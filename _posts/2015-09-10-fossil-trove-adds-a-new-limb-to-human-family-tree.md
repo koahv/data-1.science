@@ -4,7 +4,7 @@ title: "Fossil trove adds a new limb to human family tree"
 date: 2015-09-12
 categories: Science
 author: unknown author
-
+tags: [Homo naledi, Rising Star Cave]
 ---
 
 

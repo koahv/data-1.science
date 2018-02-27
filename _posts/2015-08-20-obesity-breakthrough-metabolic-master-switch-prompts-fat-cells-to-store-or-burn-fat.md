@@ -4,7 +4,7 @@ title: "Obesity breakthrough: Metabolic master switch prompts fat cells to store
 date: 2016-05-28
 categories: Science
 author: unknown author
-
+tags: [Adipose tissue, Adipocyte, Obesity, Genetics, Life sciences, Health, Biology]
 ---
 
 

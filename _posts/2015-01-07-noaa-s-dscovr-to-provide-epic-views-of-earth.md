@@ -6,7 +6,9 @@ categories: Science
 Astronomy
 Science
 author: unknown author
-
+tags: [Deep Space Climate Observatory, Spaceflight, Nature, Earth sciences, Outer space, Planetary science, Space science, Physical sciences, Astronomy
+Deep Space Climate Observatory, Spaceflight, Nature, Earth sciences, Outer space, Planetary science, Space science, Physical sciences, Astronomy
+Deep Space Climate Observatory, Spaceflight, Nature, Earth sciences, Outer space, Planetary science, Space science, Physical sciences, Astronomy]
 ---
 
 

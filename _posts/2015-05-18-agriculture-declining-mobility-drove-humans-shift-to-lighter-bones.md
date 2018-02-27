@@ -4,7 +4,7 @@ title: "Agriculture, declining mobility drove humans' shift to lighter bones"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Human, Bone, Osteoporosis, Paleolithic, Athletes foot, Amphibian]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Image of the Day --The Spectacular Core of the Twin Jet Nebula"
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Star, Nebula, Hubble Space Telescope, Planetary nebula, Astronomy, White dwarf, Binary star, Sun, Outer space, Astronomical objects, Space science, Physical sciences, Stars]
 ---
 
 

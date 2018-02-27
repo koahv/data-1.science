@@ -4,7 +4,7 @@ title: "New study finds equatorial regions prone to disruptive space weather"
 date: 2015-08-25
 categories: Astronomy
 author: unknown author
-
+tags: [Space weather, Solar wind, Earth, Geomagnetic storm, Weather, Geomagnetically induced current, Space science, Physical sciences, Applied and interdisciplinary physics, Earth sciences, Nature, Meteorology, Atmospheric sciences]
 ---
 
 

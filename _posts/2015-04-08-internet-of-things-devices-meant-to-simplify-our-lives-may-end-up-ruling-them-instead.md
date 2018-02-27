@@ -4,7 +4,7 @@ title: "Internet of things devices meant to simplify our lives may end up ruling
 date: 2015-07-04
 categories: Science
 author: unknown author
-
+tags: [Internet of things, Internet, Technology, Computing, Artificial objects]
 ---
 
 

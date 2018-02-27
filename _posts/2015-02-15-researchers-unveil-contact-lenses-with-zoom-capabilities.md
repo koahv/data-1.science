@@ -4,7 +4,7 @@ title: "Researchers unveil contact lenses with zoom capabilities"
 date: 2015-07-21
 categories: Energy
 author: unknown author
-
+tags: [Lens (optics), Glasses, Magnification, Contact lens, Eye, Zoom lens, DARPA, News, Optics]
 ---
 
 

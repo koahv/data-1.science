@@ -4,7 +4,7 @@ title: "Intel Takes on CoreOS With Its Own Container-Based Linux"
 date: 2015-05-22
 categories: Linux
 author: InfoWorld
-
+tags: [Container Linux by CoreOS, Linux, System software, Unix variants, Linus Torvalds, Operating system technology, Computer hardware, Computer engineering, Software, Computer architecture, Computers, Computing]
 ---
 
 

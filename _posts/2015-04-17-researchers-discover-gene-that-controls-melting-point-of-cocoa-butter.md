@@ -4,7 +4,7 @@ title: "Researchers discover gene that controls melting point of cocoa butter"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Theobroma cacao, Chocolate, Organisms, Biology]
 ---
 
 

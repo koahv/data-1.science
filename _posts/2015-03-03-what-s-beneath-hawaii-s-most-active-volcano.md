@@ -4,7 +4,7 @@ title: "What's beneath Hawaii's most active volcano?"
 date: 2016-04-15
 categories: Science
 author: unknown author
-
+tags: [Volcano, Interferometric synthetic-aperture radar, Klauea, Types of volcanic eruptions, The Volcano (British Columbia), Magma, Nature, Geology, Earth sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Genetic road map may bring about better cotton crops"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Cotton, Single-nucleotide polymorphism, Gossypium, Polyploid, Plant breeding, Genome, Genetics, Biology, Organisms, Life sciences]
 ---
 
 

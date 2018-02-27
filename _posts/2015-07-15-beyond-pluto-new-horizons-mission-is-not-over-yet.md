@@ -4,7 +4,7 @@ title: "Beyond Pluto—New Horizons' mission is not over yet"
 date: 2015-07-15
 categories: Science
 author: unknown author
-
+tags: [Natural satellite, Pluto, New Horizons, Charon (moon), Moon, Planet, Planetary science, Solar System, Space science, Outer space, Bodies of the Solar System, Astronomy, Astronomical objects, Physical sciences, Planemos]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Breakthrough helps explain how DNA is organized in our cells"
 date: 2016-05-03
 categories: Science
 author: unknown author
-
+tags: [Histone H2A, Chromatin, Histone, Gene, DNA, Gene expression, Organisms, Biology, Cell biology, Genetics, Biotechnology, Life sciences, Biochemistry, Molecular biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: ""Life May Exist in the Milky Way that Dates Back 11 Billion Years" (Week
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Planet, Star, Kepler (spacecraft), Astronomy, Kepler-444, Terrestrial planet, Sun, Atacama Large Millimeter Array, Milky Way, Mercury (planet), Universe, Space science, Stellar astronomy, Astronomical objects, Planetary science, Outer space, Physical sciences]
 ---
 
 

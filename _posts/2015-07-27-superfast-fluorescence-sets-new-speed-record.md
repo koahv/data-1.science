@@ -4,7 +4,7 @@ title: "Superfast fluorescence sets new speed record"
 date: 2016-05-15
 categories: Science
 author: unknown author
-
+tags: [Quantum dot, Laser, Light-emitting diode, Plasmon, Photon, Electron, Integrated circuit, Optics, Light, Semiconductor, Emission spectrum, Fluorescence, Exciton, Physical chemistry, Condensed matter physics, Electromagnetism, Artificial objects, Technology, Electronics, Electromagnetic radiation, Physics, Applied and interdisciplinary physics, Chemistry, Materials science, Physical sciences, Materials, Atomic molecular and optical physics]
 ---
 
 

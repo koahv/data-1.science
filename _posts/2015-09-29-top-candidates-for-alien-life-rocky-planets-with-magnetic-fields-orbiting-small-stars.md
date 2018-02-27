@@ -4,7 +4,7 @@ title: "Top Candidates for Alien Life: "Rocky Planets With Magnetic Fields Orbit
 date: 2015-09-30
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Star, Planet, Planetary habitability, Astronomy, Circumstellar habitable zone, Earth, Physical sciences, Outer space, Planetary science, Space science, Astronomical objects, Stellar astronomy, Nature]
 ---
 
 

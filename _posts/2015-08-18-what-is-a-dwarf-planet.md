@@ -4,7 +4,7 @@ title: "What is A dwarf planet?"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [Dwarf planet, Planet, IAU definition of planet, Pluto, Clearing the neighbourhood, Eris (dwarf planet), Solar System, Kuiper belt, Astronomy, Local Interstellar Cloud, Planets, Bodies of the Solar System, Substellar objects, Astronomical objects, Physical sciences, Planemos, Space science, Outer space, Planetary science]
 ---
 
 

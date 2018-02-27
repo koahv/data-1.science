@@ -4,7 +4,7 @@ title: "Whole-genome sequencing of endangered mountain gorillas"
 date: 2016-04-22
 categories: Science
 author: unknown author
-
+tags: [Gorilla, Mountain gorilla, Inbreeding, Genetics, Conservation biology, Whole genome sequencing, Genetic diversity, Organisms, Biology]
 ---
 
 

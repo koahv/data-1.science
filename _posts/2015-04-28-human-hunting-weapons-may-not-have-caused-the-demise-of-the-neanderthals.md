@@ -4,7 +4,7 @@ title: "Human hunting weapons may not have caused the demise of the Neanderthals
 date: 2015-07-21
 categories: Science
 author: unknown author
-
+tags: [Human, Anatomically modern human, Neanderthal, Recent African origin of modern humans, Human evolution, Technology, Elsevier, Research, Journal of Human Evolution, Culture, Europe, Science]
 ---
 
 

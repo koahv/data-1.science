@@ -4,7 +4,7 @@ title: "After a half century, the exotic pentaquark particle is found"
 date: 2016-05-31
 categories: Science
 author: unknown author
-
+tags: [Quark, Pentaquark, Particle physics, Hadron, Elementary particle, Baryon, Large Hadron Collider, Murray Gell-Mann, Physics, Quantum mechanics, Physical universe, Theoretical physics, Quantum chromodynamics, Nuclear physics, Standard Model, Physical bodies, Subatomic particles, Quantum field theory, Physical sciences]
 ---
 
 

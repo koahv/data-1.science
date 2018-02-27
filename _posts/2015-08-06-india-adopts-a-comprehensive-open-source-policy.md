@@ -4,7 +4,7 @@ title: "India adopts a comprehensive open source policy"
 date: 2015-08-07
 categories: Open Source
 author: markbohannon
-
+tags: [Open-source software, Free software, Free and open-source software, Information technology, Interoperability, Innovation, Software, Open standard, Computing, Technology, Intellectual works]
 ---
 
 

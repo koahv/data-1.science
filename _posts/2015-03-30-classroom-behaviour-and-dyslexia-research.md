@@ -4,7 +4,7 @@ title: "Classroom behaviour and dyslexia research"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Dyslexia, Learning, Research, Note-taking, Classroom, Cognition, Neuropsychology, Cognitive science, Psychological concepts, Neuropsychological assessment, Epistemology, Neuroscience, Psychology, Behavioural sciences, Behavior modification, Phenomenology, Education, Human communication, Communication, Applied psychology, Emergence, Mental processes, Change, Educational psychology]
 ---
 
 

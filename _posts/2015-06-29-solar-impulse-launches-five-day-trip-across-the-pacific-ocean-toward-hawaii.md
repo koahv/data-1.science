@@ -4,7 +4,7 @@ title: "Solar Impulse launches five day trip across the Pacific Ocean toward Haw
 date: 2015-07-21
 categories: Technology
 author: Cat DiStasio
-
+tags: [Solar Impulse, Aircraft, Aerospace engineering, Aeronautics, Aviation]
 ---
 
 

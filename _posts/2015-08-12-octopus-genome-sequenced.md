@@ -4,7 +4,7 @@ title: "Octopus genome sequenced"
 date: 2015-09-07
 categories: Science
 author: unknown author
-
+tags: [Gene, Octopus, Genome, Evolution, Transposable element, Gene family, Nervous system, Brain, Transcription factor, Cephalopod, Gene expression, Genetics, Regulation of gene expression, Human genome, Transcription (biology), Gene duplication, Zinc finger, Hox gene, Molecular biology, Biology, Life sciences, Organisms, Biotechnology, Biochemistry]
 ---
 
 

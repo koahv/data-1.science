@@ -4,7 +4,7 @@ title: "Magnetic quantum crystals"
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Atom, Laser, Rydberg atom, Physics, Quantum mechanics, Crystal, Nature, Applied and interdisciplinary physics, Modern physics, Chemistry, Condensed matter, Theoretical physics, Solid state engineering, Particle physics, Physical sciences, Atomic molecular and optical physics, Materials science, Condensed matter physics, Mechanics, Physical chemistry]
 ---
 
 

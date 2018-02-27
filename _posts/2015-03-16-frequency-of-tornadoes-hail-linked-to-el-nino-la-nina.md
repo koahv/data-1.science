@@ -4,7 +4,7 @@ title: "Frequency of tornadoes, hail linked to El Nino, La Nina"
 date: 2015-07-09
 categories: Science
 author: unknown author
-
+tags: [El NioSouthern Oscillation, La Nia, Tornado, Natural hazards, Meteorology, Physical geography, Earth sciences, Atmospheric sciences, Climatology, Oceanography, Climate, Basic meteorological concepts and phenomena, Nature, Applied and interdisciplinary physics, Weather, Atmosphere of Earth, Meteorological phenomena, Earth phenomena, Branches of meteorology]
 ---
 
 

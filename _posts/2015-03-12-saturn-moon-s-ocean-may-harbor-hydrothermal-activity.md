@@ -4,7 +4,7 @@ title: "Saturn Moon's Ocean May Harbor Hydrothermal Activity"
 date: 2015-12-07
 categories: Technology
 author: kduffy
-
+tags: [Enceladus, CassiniHuygens, Ocean, Astronomy, Planetary science, Outer space, Nature, Planets of the Solar System, Solar System, Space science, Physical sciences]
 ---
 
 

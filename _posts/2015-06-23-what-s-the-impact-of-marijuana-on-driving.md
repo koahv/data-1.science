@@ -4,7 +4,7 @@ title: "What's the impact of marijuana on driving?"
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Cannabis (drug), Driving under the influence, Medical cannabis, Tetrahydrocannabinol, Driving, Psychoactive drugs, Health, Social aspects of psychoactive drugs]
 ---
 
 

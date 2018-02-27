@@ -4,7 +4,7 @@ title: "Same forces as today caused climate changes 1.4 billion years ago"
 date: 2015-07-05
 categories: Science
 author: unknown author
-
+tags: [Climate change, Earth, Ice age, Milankovitch cycles, Climate, Global warming, Climatology, Global natural environment, Atmospheric sciences, Nature, Physical sciences, Meteorology, Planetary science, Physical geography, Applied and interdisciplinary physics, Environmental science, Oceanography, Geology, Planets of the Solar System, Science, Earth sciences]
 ---
 
 

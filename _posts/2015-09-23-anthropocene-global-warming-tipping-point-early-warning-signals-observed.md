@@ -4,7 +4,7 @@ title: "Anthropocene Global-Warming Tipping Point --"Early Warning Signals Obser
 date: 2015-09-29
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Global warming, Climate, Precipitation, Oceanography, Physical geography, Meteorology, Climatology, Atmospheric sciences, Earth sciences, Environmental science, Atmosphere of Earth, Future problems, Climate change, Applied and interdisciplinary physics, Global natural environment, Global environmental issues, Change]
 ---
 
 

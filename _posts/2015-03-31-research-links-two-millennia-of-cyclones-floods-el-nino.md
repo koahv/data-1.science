@@ -4,7 +4,7 @@ title: "Research links two millennia of cyclones, floods, El Nino"
 date: 2015-07-09
 categories: Science
 author: unknown author
-
+tags: [El NioSouthern Oscillation, El Nio, Tropical cyclone, La Nia, Global warming, Climate, Rain, Physical geography, Earth sciences, Meteorology, Atmospheric sciences, Climatology, Oceanography, Applied and interdisciplinary physics, Atmosphere of Earth, Environmental science, Nature]
 ---
 
 

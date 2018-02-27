@@ -4,7 +4,7 @@ title: "Debian GNU/Linux Birthday : A 22 Years of Journey and Still Counting…"
 date: 2015-08-24
 categories: Linux
 author: Rianne Schestowitz
-
+tags: [Linux, Ubuntu (operating system), Android (operating system), Linux distribution, Free software projects, Digital media, Unix variants, Software, Computing, Computers, Free software, Linus Torvalds, Operating system families, System software]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Language of gene switches unchanged across the evolution"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Gene, Transcription factor, DNA, Evolution, Drosophila melanogaster, Human, Transcription (biology), Gene expression, Life sciences, Biology, Organisms, Genetics, Biotechnology, Molecular biology, Biochemistry]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Image of the Day: "Scars of Violent Events at the Heart of the Milky Way
 date: 2015-10-27
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Star, Milky Way, Galaxy, Astronomy, Galactic Center, X-ray astronomy, Supermassive black hole, Black hole, Max Planck Institute for Extraterrestrial Physics, XMM-Newton, Astronomical objects, Applied and interdisciplinary physics, Physics, Outer space, Physical sciences, Nature, Physical cosmology, Stars, Astrophysics]
 ---
 
 

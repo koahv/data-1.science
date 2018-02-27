@@ -4,7 +4,7 @@ title: "Today in Engineering History: Eiffel Tower Opens in Paris"
 date: 2015-12-09
 categories: Technology
 author: kduffy
-
+tags: [Gustave Eiffel, Architecture, Construction, Artificial objects, Civil engineering]
 ---
 
 

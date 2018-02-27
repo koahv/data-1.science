@@ -4,7 +4,7 @@ title: "How International Monitors Spot Nukes and Other Rumblings"
 date: 2015-09-15
 categories: Energy
 author: unknown author
-
+tags: [Seismology, Infrasound, Nuclear weapon, Partial Nuclear Test Ban Treaty, Nuclear weapons testing, Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization]
 ---
 
 

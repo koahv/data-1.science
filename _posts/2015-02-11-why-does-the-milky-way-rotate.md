@@ -4,7 +4,7 @@ title: "Why does the Milky Way rotate?"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Milky Way, Star, Astronomy, Universe, Galaxy, Sun, Spiral galaxy, Star formation, Big Bang, Solar System, Star cluster, European Southern Observatory, Gravity, Radio astronomy, Earth, Nuclear fusion, Planet, Supernova, Outer space, Nature, Astronomical objects, Physical universe, Physical cosmology, Physical sciences, Applied and interdisciplinary physics, Physics]
 ---
 
 

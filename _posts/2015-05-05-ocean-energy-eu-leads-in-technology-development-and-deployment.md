@@ -4,7 +4,7 @@ title: "Ocean energy: EU leads in technology development and deployment"
 date: 2015-05-06
 categories: Science
 author: unknown author
-
+tags: [Marine energy, Timeline of the Fukushima Daiichi nuclear disaster, Science, Tidal power, Renewable energy, Wave power, Climate change, Nuclear power, Tide, Energy development, Low-carbon economy, Nature, Energy]
 ---
 
 

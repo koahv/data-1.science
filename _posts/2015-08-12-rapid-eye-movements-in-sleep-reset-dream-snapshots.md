@@ -4,7 +4,7 @@ title: "Rapid eye movements in sleep reset dream 'snapshots'"
 date: 2016-05-24
 categories: Science
 author: unknown author
-
+tags: [Rapid eye movement sleep, Electroencephalography, Brain, Sleep, Dream, Mental processes, Neuropsychology, Psychological concepts, Cognition, Cognitive science, Nervous system, Neuroscience]
 ---
 
 

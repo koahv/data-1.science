@@ -4,7 +4,7 @@ title: "Pluto just 4 weeks, 20 million miles away for spacecraft"
 date: 2015-07-14
 categories: Science
 author: unknown author
-
+tags: [New Horizons, Pluto, Outer space, Astronomy, Solar System, Flight, Astronomical objects, Astronautics, Spaceflight, Physical sciences, Bodies of the Solar System, Space science, Planetary science]
 ---
 
 

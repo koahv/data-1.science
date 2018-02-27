@@ -4,7 +4,7 @@ title: "Quantum teleportation on a chip"
 date: 2015-07-26
 categories: Technology
 author: unknown author
-
+tags: [Quantum computing, Photonics, Quantum teleportation, Integrated circuit, Computer, Qubit, Particle physics, Modern physics, Science, Quantum mechanics, Mechanics, Solid state engineering, Physics, Theoretical physics, Condensed matter physics, Technology]
 ---
 
 

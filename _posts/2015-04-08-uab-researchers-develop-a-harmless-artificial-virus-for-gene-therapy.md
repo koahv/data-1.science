@@ -4,7 +4,7 @@ title: "UAB researchers develop a harmless artificial virus for gene therapy"
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Virus, Protein, Nanobiotechnology, DNA, Nanomedicine, Cell (biology), Gene, Biotechnology, Chemistry, Biology, Life sciences, Organisms, Artificial objects, Genetics, Molecular biology, Biochemistry]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Experiment Confirms Quantum Theory Weirdness"
 date: 2015-09-13
 categories: Technology
 author: mfassbender
-
+tags: [Atom, Light, Physics, Interference (wave propagation), Quantum mechanics, Reality, Science, Condensed matter physics, Applied and interdisciplinary physics, Scientific theories, Solid state engineering, Mechanics, Theoretical physics, Modern physics, Particle physics, Physical sciences, Scientific method, Cognitive science]
 ---
 
 

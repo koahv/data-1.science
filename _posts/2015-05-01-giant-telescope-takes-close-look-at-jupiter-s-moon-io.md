@@ -4,7 +4,7 @@ title: "Giant telescope takes close look at Jupiter's moon Io"
 date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [Io (moon), Volcanology of Io, Loki Patera, Volcano, Large Binocular Telescope, Jupiter, Astronomy, Moon, Telescope, Physical sciences, Outer space, Planetary science]
 ---
 
 

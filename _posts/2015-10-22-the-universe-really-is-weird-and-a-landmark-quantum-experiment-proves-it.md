@@ -4,7 +4,7 @@ title: "The universe really is weird, and a landmark quantum experiment proves i
 date: 2015-10-27
 categories: Science
 author: unknown author
-
+tags: [Quantum entanglement, Principle of locality, Quantum mechanics, Multiverse, Bells theorem, Causality, Determinism, Loopholes in Bell test experiments, Randomness, Universe, Electron, Physics, Information, Time, Energy, Spin (physics), Photon, Experiment, Reality, Faster-than-light, Metaphysics, Modern physics, Particle physics, Philosophy, Cognitive science, Scientific theories, Theoretical physics, Science, Physical sciences, Mechanics]
 ---
 
 

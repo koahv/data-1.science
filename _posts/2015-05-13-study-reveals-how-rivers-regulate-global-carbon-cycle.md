@@ -4,7 +4,7 @@ title: "Study reveals how rivers regulate global carbon cycle"
 date: 2015-05-14
 categories: Science
 author: unknown author
-
+tags: [Greenhouse gas, Carbon sequestration, Carbon cycle, Global warming, Carbon dioxide, Carbon dioxide in Earths atmosphere, Soil, River, Earth, Climate change, Climate, Carbon-14, Natural environment, Environmental science, Global natural environment, Physical sciences, Physical geography, Nature, Earth sciences]
 ---
 
 

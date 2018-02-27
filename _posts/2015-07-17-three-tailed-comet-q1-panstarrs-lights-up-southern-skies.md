@@ -4,7 +4,7 @@ title: "Three-tailed Comet Q1 PanSTARRS lights up Southern skies"
 date: 2016-05-14
 categories: Science
 author: unknown author
-
+tags: [Mars, Astronomy, Naked eye, Comet, Dawn, Sky, Twilight, Submillimetre astronomy, Outer space, Astronomical objects, Planetary science, Solar System, Scientific observation, Bodies of the Solar System, Space science, Physical sciences]
 ---
 
 

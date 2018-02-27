@@ -4,7 +4,7 @@ title: "Dark matter seen in the Milky Way's core"
 date: 2015-09-13
 categories: Science
 author: unknown author
-
+tags: [Dark matter, Milky Way, Gravity, Galaxy rotation curve, Star, Matter, Parsec, Galaxy, Energy, Mass, Modified Newtonian dynamics, Space, Physics, Astronomy, Physical sciences, Physical cosmology, Mechanics, Physical quantities, Spacetime, Outer space, Nature, Science, Natural philosophy, Applied and interdisciplinary physics, Physical universe]
 ---
 
 

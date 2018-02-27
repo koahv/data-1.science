@@ -4,7 +4,7 @@ title: "Watching a Quasar Shut Down"
 date: 2015-07-21
 categories: Astronomy
 author: Shannon Hall
-
+tags: [Quasar, Milky Way, Astronomy, Active galactic nucleus, Outer space, Physical sciences, Astronomical objects]
 ---
 
 

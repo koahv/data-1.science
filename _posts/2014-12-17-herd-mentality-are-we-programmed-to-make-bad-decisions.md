@@ -4,7 +4,7 @@ title: "Herd mentality: Are we programmed to make bad decisions?"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Evolution, Science, Human, Social group, Pseudoscience, Belief, Evidence, Society, Mathematics, Amphibian, Philosophy]
 ---
 
 

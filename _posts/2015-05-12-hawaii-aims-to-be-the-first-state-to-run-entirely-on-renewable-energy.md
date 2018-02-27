@@ -4,7 +4,7 @@ title: "Hawaii aims to be the first state to run entirely on renewable energy"
 date: 2015-05-20
 categories: Energy
 author: Charley Cameron
-
+tags: [Renewable energy, Sustainable energy, Sustainable building, Sustainability, Energy sources, Energy and the environment, Natural environment, Energy, Physical universe, Nature, Sustainable development, Sustainable technologies, Alternative energy, Renewable resources, Natural resources]
 ---
 
 

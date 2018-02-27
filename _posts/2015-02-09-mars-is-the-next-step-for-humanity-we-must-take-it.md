@@ -4,7 +4,7 @@ title: "Mars is the next step for humanity – we must take it"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Mars, Terraforming, Sievert, Earth, Life on Mars, Capitalism, NASA, Moon, Human, Terraforming of Mars, Astronomy, Socialism, Planet, Life]
 ---
 
 

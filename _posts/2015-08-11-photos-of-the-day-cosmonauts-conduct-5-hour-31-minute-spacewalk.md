@@ -4,7 +4,7 @@ title: "Photos of the Day: Cosmonauts Conduct 5-Hour, 31-Minute Spacewalk"
 date: 2015-12-21
 categories: Technology
 author: kduffy
-
+tags: [Mikhail Kornienko, Space missions, Flight, Manned spacecraft, Human spaceflights, Space programs, NASA, Space-based economy, Space exploration, NASA programs, Space stations, Government programs, Space Shuttle program, Space program of Russia, Scientific exploration, Space agencies, Kennedy Space Center, Spaceflight timelines, International Space Station, Astronautics, Space Shuttle missions, Spaceflight, Human spaceflight, Outer space, Spacecraft, Spaceflight technologies, Aerospace engineering, Human spaceflight programs]
 ---
 
 

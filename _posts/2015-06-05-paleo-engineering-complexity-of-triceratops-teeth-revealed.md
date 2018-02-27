@@ -4,7 +4,7 @@ title: "Paleo-engineering: Complexity of triceratops' teeth revealed"
 date: 2015-09-14
 categories: Science
 author: unknown author
-
+tags: [Dinosaur, Tooth, Triceratops, Reptile, Wear, Science, Mammal, 3D modeling, Herbivore, Animal, Museum]
 ---
 
 

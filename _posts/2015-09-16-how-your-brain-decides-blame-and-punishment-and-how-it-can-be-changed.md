@@ -4,7 +4,7 @@ title: "How your brain decides blame and punishment, and how it can be changed"
 date: 2016-07-02
 categories: Science
 author: unknown author
-
+tags: [Dorsolateral prefrontal cortex, Transcranial magnetic stimulation, Prefrontal cortex, Brain, Neuroscience, Psychological concepts, Cognitive science, Psychology, Cognition, Behavioural sciences, Epistemology, Emergence, Neuropsychological assessment, Nervous system, Neuropsychology]
 ---
 
 

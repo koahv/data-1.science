@@ -4,7 +4,7 @@ title: "Researchers edit plant DNA using mechanism evolved in bacteria"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [CRISPR, Genome editing, Biotechnology, Biology, Organisms, Life sciences, Genetics]
 ---
 
 

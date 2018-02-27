@@ -4,7 +4,7 @@ title: "Data-storage for eternity, stored in the form of DNA"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [DNA, Information, Error detection and correction]
 ---
 
 

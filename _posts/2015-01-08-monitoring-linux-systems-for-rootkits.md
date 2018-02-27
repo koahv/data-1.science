@@ -4,7 +4,7 @@ title: "Monitoring Linux Systems for Rootkits"
 date: 2015-09-30
 categories: Linux
 author: Michael Boelen
-
+tags: [Linux kernel, Device driver, Intrusion detection system, Lynis, Computer architecture, Technology, System software, Digital media, Computer security, Cyberwarfare, Operating system technology, Computer engineering, Areas of computer science, Computers, Information technology management, Software, Security engineering, Information Age, Cybercrime, Computing]
 ---
 
 

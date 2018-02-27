@@ -4,7 +4,7 @@ title: "GRAND plans for new neutrino observatory"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [IceCube Neutrino Observatory, Neutrino, Physical universe, Nature, Applied and interdisciplinary physics, Particle physics, Physics, Physical sciences]
 ---
 
 

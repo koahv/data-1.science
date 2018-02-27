@@ -4,7 +4,7 @@ title: "How does a machine smell? Better than it did"
 date: 2015-12-06
 categories: Technology
 author: unknown author
-
+tags: [Odor, Biosensor]
 ---
 
 

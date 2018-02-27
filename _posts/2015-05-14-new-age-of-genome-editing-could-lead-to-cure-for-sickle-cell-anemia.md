@@ -4,7 +4,7 @@ title: "New age of genome editing could lead to cure for sickle cell anemia"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Mutation, Hemoglobin, Genetics, Gene, Sickle-cell disease, Genome editing, Biotechnology, Biology, Life sciences, Organisms, Medical specialties, Medicine, Molecular biology]
 ---
 
 

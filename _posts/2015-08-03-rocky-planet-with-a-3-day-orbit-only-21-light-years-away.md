@@ -4,7 +4,7 @@ title: "Rocky Planet with a 3-Day Orbit --"Only 21 Light-Years Away""
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Methods of detecting exoplanets, Planet, Star, Exoplanet, Stellar astronomy, Planets, Scientific observation, Stars, Space science, Planetary science, Astronomical objects, Physical sciences, Outer space, Astronomy]
 ---
 
 

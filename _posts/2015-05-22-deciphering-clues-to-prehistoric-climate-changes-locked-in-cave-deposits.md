@@ -4,7 +4,7 @@ title: "Deciphering clues to prehistoric climate changes locked in cave deposits
 date: 2015-07-09
 categories: Science
 author: unknown author
-
+tags: [Speleothem, El Nio, Environmental science, Climatology, Meteorology, Earth sciences, Physical geography, Atmospheric sciences, Applied and interdisciplinary physics, Nature, Climate, Oceanography, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Adelaide Joins Global Race To Become First Carbon Neutral City"
 date: 2015-09-12
 categories: Energy
 author: Joshua S Hill
-
+tags: [Low-carbon economy, Renewable energy, Energy, Sustainable development, Natural environment, Nature, Physical universe]
 ---
 
 

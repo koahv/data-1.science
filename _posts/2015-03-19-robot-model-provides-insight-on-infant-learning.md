@@ -4,7 +4,7 @@ title: "Robot Model Provides Insight on Infant Learning"
 date: 2015-12-07
 categories: Technology
 author: kduffy
-
+tags: [Cognitive science, Cognition, Robot, Experiment, Memory, Psychology, Thought, Behavioural sciences, Phenomenology, Epistemology, Neuropsychology, Neuropsychological assessment, Psychological concepts, Emergence, Neuroscience, Nervous system, Mental processes, Applied psychology, neuropsychology]
 ---
 
 

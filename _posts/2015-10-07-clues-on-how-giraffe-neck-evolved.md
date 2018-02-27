@@ -4,7 +4,7 @@ title: "Clues on how giraffe neck evolved"
 date: 2015-10-08
 categories: Science
 author: unknown author
-
+tags: [Giraffe, Evolution, Species, Fossil, Paleontology]
 ---
 
 

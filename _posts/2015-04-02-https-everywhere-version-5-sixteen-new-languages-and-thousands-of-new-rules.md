@@ -4,7 +4,7 @@ title: "HTTPS Everywhere Version 5: Sixteen New Languages and Thousands of New R
 date: 2015-04-03
 categories: Security
 author: Jacob Hoffman-Andrews
-
+tags: [HTTPS, Internet privacy, World Wide Web, Hypertext Transfer Protocol, HTTPS Everywhere, Cyberspace, Software, Digital media, Technology, Information Age, Hypertext, Internet, Web software, Digital technology, Web development, Information technology management, Computer security, Communication, Multimedia, Computing]
 ---
 
 

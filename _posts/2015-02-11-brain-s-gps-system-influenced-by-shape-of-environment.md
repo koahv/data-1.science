@@ -4,7 +4,7 @@ title: "Brain's GPS system influenced by shape of environment"
 date: 2015-02-14
 categories: Science
 author: unknown author
-
+tags: [Grid cell, Brain, Psychological concepts, Neuroscience, Cognitive science, Cognition, Nervous system, Neuropsychological assessment, Biology, Neuropsychology]
 ---
 
 

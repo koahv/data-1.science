@@ -4,7 +4,7 @@ title: "All in a good night's sleep: How quality of sleep impacts academic perfo
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Sleep, Academic achievement, Research, Advertising, Human multitasking, Behavior modification, Cognitive science, Education, Psychology, Psychological concepts, Cognition, Neuroscience, Behavioural sciences]
 ---
 
 

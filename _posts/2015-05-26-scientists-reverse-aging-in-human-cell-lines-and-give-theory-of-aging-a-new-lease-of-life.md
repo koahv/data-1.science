@@ -4,7 +4,7 @@ title: "Scientists reverse aging in human cell lines and give theory of aging a 
 date: 2016-05-03
 categories: Science
 author: unknown author
-
+tags: [Mitochondrion, Genetics, DNA repair, Mitochondrial DNA, DNA, Regulation of gene expression, Mutation, Ageing, Cell (biology), Life sciences, Cell biology, Organisms, Molecular biology, Biochemistry, Biotechnology, Biology]
 ---
 
 

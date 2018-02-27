@@ -4,7 +4,7 @@ title: "A Story of Climate Change Told In 15 Graphs"
 date: 2015-09-28
 categories: Earth
 author: Dr. M
-
+tags: [Arctic Ocean, Instrumental temperature record, Glacier, Physical geography, Earth sciences, Oceanography, Climatology, Applied and interdisciplinary physics, Meteorology, Nature, Atmospheric sciences]
 ---
 
 

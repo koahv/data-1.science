@@ -4,7 +4,7 @@ title: "The brain's electrical alphabet: Timing, rate underlie neural informatio
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Nervous system, Neural coding, Brain, Perception, Information, Somatosensory system, Mental processes, Epistemology, Emergence, Biology, Phenomenology, Neuropsychological assessment, Psychological concepts, Neuropsychology, Cognition, Cognitive science, Neuroscience]
 ---
 
 

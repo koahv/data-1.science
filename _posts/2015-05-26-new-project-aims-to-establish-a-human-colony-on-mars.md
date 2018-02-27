@@ -4,7 +4,7 @@ title: "New project aims to establish a human colony on Mars"
 date: 2016-05-03
 categories: Science
 author: unknown author
-
+tags: [Mars, Rover (space exploration), SpaceX Dragon, SpaceX, Falcon Heavy, NASA, Spaceflight technologies, Spaceflight, Astronautics, Outer space, Flight, Astronomy, Aerospace engineering, Spacecraft]
 ---
 
 

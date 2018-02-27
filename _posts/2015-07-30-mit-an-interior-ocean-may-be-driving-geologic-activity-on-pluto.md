@@ -4,7 +4,7 @@ title: "MIT: "An Interior Ocean May be Driving Geologic Activity on Pluto""
 date: 2015-08-07
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Pluto, New Horizons, Atmosphere of Pluto, Atmosphere, Planetary science, Outer space, Planemos, Planets, Planets of the Solar System, Astronomy, Physical sciences, Bodies of the Solar System, Solar System, Space science]
 ---
 
 

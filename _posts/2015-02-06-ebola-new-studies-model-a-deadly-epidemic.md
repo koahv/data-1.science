@@ -4,7 +4,7 @@ title: "Ebola: New studies model a deadly epidemic"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Ebola virus disease, Infection, West African Ebola virus epidemic, Clinical medicine, Health, Health sciences, Medicine, Medical specialties, Diseases and disorders, Public health, Infectious diseases, Epidemiology, Microbiology, Immunology, Health care, Life sciences, Medical humanities, Biology]
 ---
 
 

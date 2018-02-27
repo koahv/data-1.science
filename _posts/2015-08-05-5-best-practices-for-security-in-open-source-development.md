@@ -4,7 +4,7 @@ title: "5 Best Practices for Security in Open Source Development"
 date: 2015-08-10
 categories: Linux
 author: Jeff Cogswell
-
+tags: [Cryptography, Password, Key (cryptography), Source code, Cryptographic hash function, Library (computing), Cybercrime, Information technology management, Security technology, Espionage techniques, Information Age, Information governance, Areas of computer science, Digital technology, Security engineering, Secure communication, Technology, Software, Systems engineering, Computer security, Cyberwarfare, Computing]
 ---
 
 

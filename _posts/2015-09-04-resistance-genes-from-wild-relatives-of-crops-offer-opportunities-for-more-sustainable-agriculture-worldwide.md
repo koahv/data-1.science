@@ -4,7 +4,7 @@ title: "Resistance genes from wild relatives of crops offer opportunities for mo
 date: 2016-06-29
 categories: Science
 author: unknown author
-
+tags: [Phytophthora infestans, Potato, Agriculture, Organisms, Biology]
 ---
 
 

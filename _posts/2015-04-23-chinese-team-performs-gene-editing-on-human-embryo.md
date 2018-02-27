@@ -4,7 +4,7 @@ title: "Chinese team performs gene editing on human embryo"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [CRISPR, Cas9, Genome editing, Biochemistry, Biology, Life sciences, Organisms, Genetics, Biotechnology, Molecular biology]
 ---
 
 

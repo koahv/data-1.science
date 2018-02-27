@@ -4,7 +4,7 @@ title: "How the mammoth got its wool: Genetic changes are identified"
 date: 2015-07-16
 categories: Science
 author: unknown author
-
+tags: [Woolly mammoth, Genetics, Gene, Genome, DNA sequencing, Mutation, Biology, Life sciences, Organisms, Biotechnology]
 ---
 
 

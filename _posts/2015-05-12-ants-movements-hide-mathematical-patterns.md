@@ -4,7 +4,7 @@ title: "Ants' movements hide mathematical patterns"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Mathematics, Ant, Argentine ant, Science]
 ---
 
 

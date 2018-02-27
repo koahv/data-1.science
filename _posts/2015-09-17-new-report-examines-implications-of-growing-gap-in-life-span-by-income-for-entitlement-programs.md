@@ -4,7 +4,7 @@ title: "New report examines implications of growing gap in life span by income f
 date: 2016-07-04
 categories: Science
 author: unknown author
-
+tags: [Social Security (United States), Welfare, Life expectancy, Retirement, Social programs in the United States, Medicaid, Medicare (United States), Economy, Public sphere]
 ---
 
 

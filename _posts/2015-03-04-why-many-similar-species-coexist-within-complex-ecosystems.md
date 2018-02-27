@@ -4,7 +4,7 @@ title: "Why many similar species coexist within complex ecosystems"
 date: 2016-04-15
 categories: Science
 author: unknown author
-
+tags: [Food web, Ecological stability, Biodiversity, Ecosystem, Predation, Herbivore, Proceedings of the National Academy of Sciences of the United States of America, Natural environment, Biology, Ecology, Biogeochemistry, Organisms]
 ---
 
 

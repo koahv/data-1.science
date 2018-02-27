@@ -4,7 +4,7 @@ title: "Gorgeous 19th-Century Illustrations of Owls and Ospreys"
 date: 2015-07-10
 categories: Philosophy
 author: Maria Popova
-
+tags: [Owl, Beak, Birds of prey, Paravians, Birds, Tetrapods]
 ---
 
 

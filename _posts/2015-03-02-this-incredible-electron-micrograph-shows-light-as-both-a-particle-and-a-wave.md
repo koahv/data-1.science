@@ -4,7 +4,7 @@ title: "This incredible electron micrograph shows light as both a particle and a
 date: 2015-07-26
 categories: Science
 author: Russell Brandom
-
+tags: [Electron, Light, Microscope, Experiment, Photon, Computing, Particle, Quantum computing, Electron microscope, Applied and interdisciplinary physics, Physical sciences, Quantum mechanics, Modern physics, Solid state engineering, Science, Theoretical physics, Materials science, Chemistry, Condensed matter physics, Particle physics, Mechanics, Physics]
 ---
 
 

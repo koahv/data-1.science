@@ -4,7 +4,7 @@ title: "DNA that only females have"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Sex, Male, Female, Chromosome, Gene, ZW sex-determination system, Genetics, Y chromosome, Evolution, Species, Mutation, Biological processes, Biology, Organisms, Life sciences, Reproduction, Sexual reproduction]
 ---
 
 

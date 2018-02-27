@@ -4,7 +4,7 @@ title: "Some tropical plants pick the best hummingbirds to pollinate flowers"
 date: 2016-04-15
 categories: Science
 author: unknown author
-
+tags: [Heliconia, Pollinator, Flower, Plant, Pollination, Hummingbird, Nectar, Horticulture and gardening, Plants]
 ---
 
 

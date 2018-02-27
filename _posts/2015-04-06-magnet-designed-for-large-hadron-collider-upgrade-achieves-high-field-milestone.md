@@ -4,7 +4,7 @@ title: "Magnet designed for Large Hadron Collider upgrade achieves high-field mi
 date: 2016-04-20
 categories: Science
 author: unknown author
-
+tags: [Particle accelerator, International Linear Collider, Large Hadron Collider, Tevatron, Fermilab, Particle physics, Physical sciences, Physics, Applied and interdisciplinary physics]
 ---
 
 

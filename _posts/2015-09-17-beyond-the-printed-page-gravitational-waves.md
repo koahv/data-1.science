@@ -4,7 +4,7 @@ title: "Beyond the Printed Page: Gravitational Waves"
 date: 2015-09-19
 categories: Astronomy
 author: The Editors of Sky Telescope
-
+tags: [Gravitational wave, Gravity, LIGO, Laser Interferometer Space Antenna, Force, Astronomy, Physics, Gravitation, Outer space, Spacetime, Physical cosmology, Natural philosophy, Mechanics, General relativity, Applied and interdisciplinary physics, Celestial mechanics, Statics, Science, Physical quantities, Astrophysics, Theory of relativity, Physical sciences]
 ---
 
 

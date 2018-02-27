@@ -4,7 +4,7 @@ title: "Calming Your Biggest Fears About Industrial IoT"
 date: 2015-12-11
 categories: Technology
 author: mfassbender
-
+tags: [Internet of things, Management, Technology, Business, Artificial objects, Computing]
 ---
 
 

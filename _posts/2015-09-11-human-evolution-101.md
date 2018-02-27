@@ -4,7 +4,7 @@ title: "Human Evolution 101"
 date: 2015-09-14
 categories: Science
 author: Nadia Drake
-
+tags: [Australopithecus, Homo, Human, Homo sapiens, Evolution, Biological evolution, Biology, Evolutionary biology, Organisms, Nature]
 ---
 
 

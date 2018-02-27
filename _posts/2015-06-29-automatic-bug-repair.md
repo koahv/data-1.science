@@ -4,7 +4,7 @@ title: "Automatic bug repair"
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Software bug, Computer program, Source code, Programming language, Massachusetts Institute of Technology, Software, Computer science, Information technology management, Intellectual works, Software development, Computer programming, Computers, Digital technology, Technology, Software engineering, Computing, Areas of computer science, Computer engineering]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Novel DNA repair mechanism brings new horizons"
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [DNA, RNA, Transcription (biology), Nucleosome, DNA repair, Base pair, Cell nucleus, Biosynthesis, RNA polymerase, Protein, Chromatin, Biochemistry, Biotechnology, Life sciences, Genetics, Organic acids, Structural biology, Biology, Chemistry, Cellular processes, Molecular biophysics, Molecular biology, Molecular genetics, Nucleic acids, Macromolecules, Cell biology, Organisms, Biomolecules, Nucleotides]
 ---
 
 

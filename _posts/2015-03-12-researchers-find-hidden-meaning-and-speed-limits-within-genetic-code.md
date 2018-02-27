@@ -4,7 +4,7 @@ title: "Researchers find hidden meaning and 'speed limits' within genetic code"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Messenger RNA, Genetic code, Ribosome, Genetics, Gene, Protein, Cell (biology), RNA, Gene expression, Translation (biology), Biology, Life sciences, Organisms, Molecular biology, Biochemistry, Biotechnology, Cell biology]
 ---
 
 

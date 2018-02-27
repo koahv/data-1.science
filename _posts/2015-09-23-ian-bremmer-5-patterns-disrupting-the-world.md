@@ -4,7 +4,7 @@ title: "Ian Bremmer: 5 Patterns Disrupting the World"
 date: 2015-09-27
 categories: Technology
 author: unknown author
-
+tags: [United States, China, Globalization, War, Risk, Sustainability, Climate change, News, Cold War, Brinkmanship, Nuclear warfare, Economy, Politics]
 ---
 
 

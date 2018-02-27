@@ -4,7 +4,7 @@ title: "Global Renewable Energy Roundup: China, Kenya, Turkey, India Seeking Mor
 date: 2015-09-12
 categories: Energy
 author: unknown author
-
+tags: [Solar power, Renewable energy, Hydroelectricity, Wind power, Nuclear power, Sustainable technologies, Renewable resources, Electric power, Alternative energy, Sustainable energy, Energy, Physical universe, Power (physics), Sustainable development, Natural resources, Nature]
 ---
 
 

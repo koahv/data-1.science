@@ -4,7 +4,7 @@ title: "Sequencing of barley genome achieves new milestone"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Gene, Plant breeding, Genome, Genetic recombination, Genetics, Barley, DNA sequencing, DNA, Biology, Organisms, Life sciences, Biotechnology]
 ---
 
 

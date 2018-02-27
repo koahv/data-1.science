@@ -4,7 +4,7 @@ title: "Eight nutrients to protect the aging brain"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Omega-3 fatty acid, Memory, Alzheimers disease, Choline, Health, Brain, Neuroscience]
 ---
 
 

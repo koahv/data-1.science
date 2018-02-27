@@ -4,7 +4,7 @@ title: "King - Man + Woman = Queen: The Marvelous Mathematics of Computational L
 date: 2015-10-01
 categories: Technology
 author: unknown author
-
+tags: [Artificial intelligence, Machine translation, Plural, Cognitive science, Linguistics, Language, Cognition, Semiotics, Communication, Grammar, Human communication, Culture]
 ---
 
 

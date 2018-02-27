@@ -4,7 +4,7 @@ title: "In Photos: The World's Most Efficient Pollinators"
 date: 2015-07-10
 categories: Science
 author: unknown author
-
+tags: [Bumblebee, Flower, Pollinator, Bee, Bees, Insects, Horticulture and gardening, Organisms]
 ---
 
 

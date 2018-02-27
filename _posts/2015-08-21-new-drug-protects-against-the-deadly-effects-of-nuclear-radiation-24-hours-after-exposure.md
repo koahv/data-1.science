@@ -4,7 +4,7 @@ title: "New drug protects against the deadly effects of nuclear radiation 24 hou
 date: 2016-05-31
 categories: Science
 author: unknown author
-
+tags: [Acute radiation syndrome, Gastrointestinal tract, Clinical medicine, Diseases and disorders, Medical specialties, Biology, Health, Health sciences, Medicine]
 ---
 
 

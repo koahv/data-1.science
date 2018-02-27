@@ -4,7 +4,7 @@ title: "Mozilla Is Phasing Out HTTP Support, a Legacy Mode Will Be Available"
 date: 2015-05-07
 categories: Linux
 author: Softpedia News (Silviu Stahie)
-
+tags: [HTTPS, World Wide Web, Digital media, Multimedia, Digital technology, Cyberspace, Computing, Hypertext, Humancomputer interaction, Internet, Software, Web development, Technology, Information Age, Application layer protocols, Web software]
 ---
 
 

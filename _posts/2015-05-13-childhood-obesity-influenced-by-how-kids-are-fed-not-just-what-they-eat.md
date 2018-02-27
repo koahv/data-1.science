@@ -4,7 +4,7 @@ title: "Childhood obesity influenced by how kids are fed, not just what they eat
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Eating, Health, Childhood obesity, Obesity, Psychology, Food and drink, Nutrition, Behavioural sciences]
 ---
 
 

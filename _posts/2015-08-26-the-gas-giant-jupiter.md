@@ -4,7 +4,7 @@ title: "The gas giant Jupiter"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Jupiter, Moons of Jupiter, Planetary core, Planet, Magnetosphere of Jupiter, Io (moon), Ganymede (moon), Astronomical objects, Astronomy, Planetary science, Outer space, Physical sciences, Solar System, Bodies of the Solar System, Planets, Space science]
 ---
 
 

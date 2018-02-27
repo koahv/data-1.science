@@ -4,7 +4,7 @@ title: "Scientists gather to prepare for Large Synoptic Survey Telescope"
 date: 2015-09-13
 categories: Science
 author: unknown author
-
+tags: [Large Synoptic Survey Telescope, Dark energy, Science, Physical sciences, Astronomy]
 ---
 
 

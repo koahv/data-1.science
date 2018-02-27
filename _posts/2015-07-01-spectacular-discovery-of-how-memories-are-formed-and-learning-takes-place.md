@@ -4,7 +4,7 @@ title: "'Spectacular discovery' of how memories are formed and learning takes pl
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Memory, Episodic memory, Brain, Neuroscience, Learning, Research, American Association for the Advancement of Science, National Institutes of Health, neuropsychology, Cognitive science, Nervous system, Cognition, Neuropsychology, Cognitive neuroscience, Epistemology, Psychological concepts, Neuropsychological assessment, Mental processes]
 ---
 
 

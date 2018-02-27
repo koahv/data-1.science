@@ -4,7 +4,7 @@ title: "Moon panorama with extreme details"
 date: 2015-07-21
 categories: Astronomy
 author: Daniel Nicolae
-
+tags: [Astronomy, Outer space, Physical sciences, Observational astronomy, Scientific observation, Planetary science]
 ---
 
 

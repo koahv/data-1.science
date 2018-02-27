@@ -4,7 +4,7 @@ title: "Our Solar System Mirrors the Chemical Makeup of the Universe"
 date: 2015-10-26
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Supernova, Star, Milky Way, White dwarf, Nucleosynthesis, Chemical element, Universe, Applied and interdisciplinary physics, Physical sciences, Astronomy, Outer space, Physical universe, Physics, Nature, Astronomical objects, Stars, Chemistry]
 ---
 
 

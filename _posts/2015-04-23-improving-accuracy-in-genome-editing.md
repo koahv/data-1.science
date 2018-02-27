@@ -4,7 +4,7 @@ title: "Improving accuracy in genome editing"
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Genome editing, Cas9, Biochemistry, Molecular biology, Medicine, Organisms, Genetics, Biotechnology, Life sciences, Biology]
 ---
 
 

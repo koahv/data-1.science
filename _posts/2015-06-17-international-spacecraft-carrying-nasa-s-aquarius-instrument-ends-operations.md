@@ -4,7 +4,7 @@ title: "International spacecraft carrying NASA's Aquarius instrument ends operat
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Aquarius (SAC-D instrument), SAC-D, Spaceflight, Earth sciences, Physical geography, Nature, Outer space, Planetary science, Planets of the Solar System, Oceanography, Applied and interdisciplinary physics, Space science, Spacecraft]
 ---
 
 

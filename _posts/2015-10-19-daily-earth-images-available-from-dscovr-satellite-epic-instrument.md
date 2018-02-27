@@ -4,7 +4,7 @@ title: "Daily Earth images available from DSCOVR satellite EPIC instrument"
 date: 2015-10-20
 categories: Technology
 author: unknown author
-
+tags: [Deep Space Climate Observatory, Outer space, Spaceflight, Physical sciences, Astronomy, Space science, Spacecraft, Planetary science]
 ---
 
 

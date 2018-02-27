@@ -4,7 +4,7 @@ title: "New open access journal on cannabis and cannabinoid research launching f
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Cannabinoid, Tetrahydrocannabinol, Medical cannabis, Cannabis, Health care, Medicine, Health, Health sciences, Clinical medicine, Medical specialties]
 ---
 
 

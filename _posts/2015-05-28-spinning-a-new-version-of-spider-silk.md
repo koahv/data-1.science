@@ -4,7 +4,7 @@ title: "Spinning a new version of spider silk"
 date: 2016-05-04
 categories: Science
 author: unknown author
-
+tags: [Spider silk, Microscope, Fiber, Silk, Manufacturing, Artificial objects, Chemistry, Materials]
 ---
 
 

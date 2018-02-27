@@ -4,7 +4,7 @@ title: "Gene expression is key to understanding differences between individuals 
 date: 2016-04-30
 categories: Science
 author: unknown author
-
+tags: [Genome-wide association study, Gene, Genetics, Centre for Genomic Regulation, Genomics, Life sciences, Organisms, Biotechnology, Biology]
 ---
 
 

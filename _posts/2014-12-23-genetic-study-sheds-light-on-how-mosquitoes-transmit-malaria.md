@@ -4,7 +4,7 @@ title: "Genetic study sheds light on how mosquitoes transmit malaria"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Anopheles, Malaria, Human, Genetics, Evolution, Species, Biology, Life sciences, Organisms]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Findings illuminate animal evolution in protein function"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Ion channel, Inward-rectifier potassium ion channel, Cell (biology), Evolution, Voltage-gated ion channel, Potassium channel, Phosphatidylinositol 45-bisphosphate, Chemistry, Organisms, Cell biology, Molecular biology, Biochemistry, Biology, Life sciences]
 ---
 
 

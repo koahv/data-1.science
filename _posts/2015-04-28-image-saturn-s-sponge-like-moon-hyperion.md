@@ -4,7 +4,7 @@ title: "Image: Saturn's sponge-like moon Hyperion"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Hyperion (moon), CassiniHuygens, Saturn, Moon, Natural satellite, Mars, Gravity assist, Astronomy, Sun, Outer space, Planetary science, Solar System, Space science, Planets of the Solar System, Physical sciences, Bodies of the Solar System]
 ---
 
 

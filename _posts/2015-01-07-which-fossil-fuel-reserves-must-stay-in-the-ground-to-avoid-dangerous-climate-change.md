@@ -4,7 +4,7 @@ title: "Which fossil fuel reserves must stay in the ground to avoid dangerous cl
 date: 2015-09-08
 categories: Science
 author: unknown author
-
+tags: [Petroleum, Sustainability, Low-carbon economy, Energy development, Coal, Fossil fuel, Fuel, Oil reserves, Climate change mitigation, Climatology, Change, Future problems, Global environmental issues, Nature, Climate change, Energy, Natural environment]
 ---
 
 

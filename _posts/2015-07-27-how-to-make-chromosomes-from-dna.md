@@ -4,7 +4,7 @@ title: "How to make chromosomes from DNA"
 date: 2016-05-16
 categories: Science
 author: unknown author
-
+tags: [DNA, Gene, Genetics, Cell (biology), Biotechnology, Organisms, Cell biology, Macromolecules, Chemistry, Nucleic acids, Biology, Biochemistry, Life sciences, Molecular biology]
 ---
 
 

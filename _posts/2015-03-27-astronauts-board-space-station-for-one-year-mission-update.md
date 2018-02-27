@@ -4,7 +4,7 @@ title: "Astronauts board space station for one-year mission (Update)"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Mikhail Kornienko, Scott Kelly (astronaut), Gennady Padalka, Soyuz TMA-16M, Astronaut, International Space Station, Baikonur Cosmodrome, Soyuz (spacecraft), Aerospace engineering, Space industry, Astronomy, Spaceflight technologies, Spacecraft, Flight, Astronautics, Human spaceflight, Spaceflight, Outer space]
 ---
 
 

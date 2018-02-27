@@ -4,7 +4,7 @@ title: "New evidence of cultural diversification between neighboring chimpanzee 
 date: 2015-09-07
 categories: Science
 author: unknown author
-
+tags: [Human, Chimpanzee, Culture, Species, Ant, Anthropology, Research, Tool use by animals, Biology, Community, American Association for the Advancement of Science, Ecology, Science, Organisms]
 ---
 
 

@@ -4,7 +4,7 @@ title: "GOES-R satellite begins environmental testing"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [GOES-16, Space weather, Satellite, Physical sciences, Nature, Astronautics, Spacecraft, Astronomy, Meteorology, Flight, Spaceflight, Outer space]
 ---
 
 

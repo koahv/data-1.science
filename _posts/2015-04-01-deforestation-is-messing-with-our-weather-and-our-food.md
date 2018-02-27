@@ -4,7 +4,7 @@ title: "Deforestation is messing with our weather, and our food"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Albedo, Global warming, Climate, Evapotranspiration, Forest, Deforestation, Natural environment, Atmospheric sciences, Physical geography, Meteorology, Earth sciences, Environmental science, Climatology]
 ---
 
 

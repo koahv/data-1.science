@@ -4,7 +4,7 @@ title: "Mapping the maize genome"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Genetic screen, Biotechnology, Biology, Life sciences, Genetics, Organisms]
 ---
 
 

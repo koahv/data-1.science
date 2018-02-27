@@ -4,7 +4,7 @@ title: "Earliest known fossil of the genus Homo dates to 2.8 to 2.75 million yea
 date: 2016-04-16
 categories: Science
 author: unknown author
-
+tags: [Human evolution, Homo, Fossil, Human, Geology, Homo erectus, Hominini, Earth sciences]
 ---
 
 

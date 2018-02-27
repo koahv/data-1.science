@@ -4,7 +4,7 @@ title: "Epoch-defining study pinpoints when humans came to dominate planet Earth
 date: 2015-09-10
 categories: Science
 author: unknown author
-
+tags: [Anthropocene, Earth, Global Boundary Stratotype Section and Point, Climate change, Human impact on the environment, Nature, Earth sciences]
 ---
 
 

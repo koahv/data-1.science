@@ -4,7 +4,7 @@ title: "Image of the Day: The Last Habitable Ancient Lake on Mars?"
 date: 2015-10-08
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Mars, Planetary habitability, Nature, Astronomy, Physical sciences, Space science, Planets of the Solar System, Outer space, Planetary science]
 ---
 
 

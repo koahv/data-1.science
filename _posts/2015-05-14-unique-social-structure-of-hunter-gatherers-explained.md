@@ -4,7 +4,7 @@ title: "Unique social structure of hunter-gatherers explained"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Kinship, Psychological concepts, Culture, Behavioural sciences, Psychology]
 ---
 
 

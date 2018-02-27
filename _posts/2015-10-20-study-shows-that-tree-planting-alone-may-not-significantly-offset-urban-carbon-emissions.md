@@ -4,7 +4,7 @@ title: "Study shows that tree planting alone may not significantly offset urban 
 date: 2015-10-22
 categories: Science
 author: unknown author
-
+tags: [Greenhouse gas, Deforestation, Air pollution, Global warming, Lidar, Environmental science, Physical geography, Climate change, Natural environment, Nature]
 ---
 
 

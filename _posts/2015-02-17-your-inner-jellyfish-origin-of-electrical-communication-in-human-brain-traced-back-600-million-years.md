@@ -4,7 +4,7 @@ title: ""Your Inner Jellyfish" --Origin of Electrical Communication in Human Bra
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Neuron, Nervous system, Ion channel, Action potential, Nerve, Evolution, Ctenophora, Cell (biology), Human, Jellyfish, Biology, Life sciences, Organisms, Neuroscience]
 ---
 
 

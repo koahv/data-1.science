@@ -4,7 +4,7 @@ title: "Why the Sun's atmosphere is hotter than its surface"
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Corona, Sun, Outer space, Physics, Physical sciences, Space science, Astronomy, Phases of matter, Physical universe, Applied and interdisciplinary physics, Nature]
 ---
 
 

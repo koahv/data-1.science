@@ -4,7 +4,7 @@ title: "New research shows Earth's core contains 90 percent of Earth's sulfur"
 date: 2015-12-11
 categories: Technology
 author: unknown author
-
+tags: [Giant-impact hypothesis, Chemical element, Planetary core, Mantle (geology), Sulfur, Earth, Nature, Chemistry, Planetary science, Physical sciences, Earth sciences, Geology, Atoms]
 ---
 
 

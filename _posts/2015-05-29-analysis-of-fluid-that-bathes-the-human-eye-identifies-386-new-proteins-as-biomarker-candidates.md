@@ -4,7 +4,7 @@ title: "Analysis of fluid that bathes the human eye identifies 386 new proteins 
 date: 2015-12-10
 categories: Technology
 author: unknown author
-
+tags: [Proteomics, Omics, Biology, Life sciences, Biotechnology]
 ---
 
 

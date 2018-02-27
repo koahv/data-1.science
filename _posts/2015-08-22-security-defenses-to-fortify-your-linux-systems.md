@@ -4,7 +4,7 @@ title: "Security Defenses to Fortify your Linux Systems"
 date: 2015-09-30
 categories: Linux
 author: Michael Boelen
-
+tags: [Threat (computer), Risk, Lynis, Fortification, Patch (computing), Risk management, Security, Areas of computer science, Digital media, Software, Computer engineering, Digital technology, Computing, Information technology management, Technology]
 ---
 
 

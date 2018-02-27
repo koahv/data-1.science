@@ -4,7 +4,7 @@ title: "New research maps areas most vulnerable to ocean acidification"
 date: 2015-10-20
 categories: Science
 author: unknown author
-
+tags: [Ocean acidification, Oceanography, Ocean, Hydrography, Oceans, Physical sciences, Applied and interdisciplinary physics, Environmental science, Global natural environment, Natural environment, Nature, Physical geography, Earth sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Magnetic complexity begins to untangle"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Swarm (spacecraft), Space weather, Satellite, Earth, Applied and interdisciplinary physics, Physical sciences, Space science, Astronomy, Nature, Planetary science, Outer space]
 ---
 
 

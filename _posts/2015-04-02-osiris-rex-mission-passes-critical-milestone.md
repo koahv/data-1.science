@@ -4,7 +4,7 @@ title: "OSIRIS-REx mission passes critical milestone"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [OSIRIS-REx, Near-Earth object, NASA, Asteroid, Spaceflight, Astronomy, Flight, Astronautics, Spacecraft, Spaceflight technologies, Outer space, Planetary science, Space science]
 ---
 
 

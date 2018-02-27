@@ -4,7 +4,7 @@ title: "Fast access to CryoSat’s Arctic ice measurements now available"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [CryoSat, Sea ice, Svalbard, Arctic, Sea, Climate change, Physical geography, Earth sciences]
 ---
 
 

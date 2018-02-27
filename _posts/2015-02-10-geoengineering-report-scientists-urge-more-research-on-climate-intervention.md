@@ -4,7 +4,7 @@ title: "Geoengineering report: Scientists urge more research on climate interven
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Climate engineering, Change, Natural environment, Climatology, Climate change, Global environmental issues, Atmospheric sciences, Future problems, Physical geography, Meteorology]
 ---
 
 

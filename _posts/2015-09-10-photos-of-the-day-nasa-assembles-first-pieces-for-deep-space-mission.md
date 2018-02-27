@@ -4,7 +4,7 @@ title: "Photos of the Day: NASA Assembles First Pieces for Deep Space Mission"
 date: 2015-12-21
 categories: Technology
 author: kduffy
-
+tags: [NASA, Orion (spacecraft), Human spaceflight, Engineering projects, Human spaceflight programs, Aerospace, Government programs, Spaceflight, Outer space, Spacecraft, Aerospace engineering, Space programs, Spaceflight technologies, Flight, Astronautics, NASA programs, Space program of the United States, Space exploration, Space agencies, Aerospace agencies]
 ---
 
 

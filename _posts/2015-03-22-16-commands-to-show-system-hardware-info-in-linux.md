@@ -4,7 +4,7 @@ title: "16 Commands to Show System/Hardware Info in Linux"
 date: 2015-06-28
 categories: Linux
 author: Chris7mas
-
+tags: [Linux Mint, Computing, Free content, Open-source movement, Unix, Free software distributions, Operating system families, Linux distributions, Linux kernel, Operating system technology, Free system software, Finnish computer scientists, Linux kernel programmers, Finnish computer programmers, Linux Foundation, System software, Linux people, Free software projects, Unix variants, Free software, Software, Linus Torvalds, Linux, Public commons, X86-64 Linux distributions, Debian, Debian-based distributions]
 ---
 
 

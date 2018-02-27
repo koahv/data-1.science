@@ -4,7 +4,7 @@ title: "Mars camera makes 60,000 orbits of Red Planet"
 date: 2016-05-09
 categories: Science
 author: unknown author
-
+tags: [Thermal Emission Imaging System, Mars, 2001 Mars Odyssey, Curiosity (rover), Planetary science, Physical sciences, Planets of the Solar System, Solar System, Space science, Spaceflight, Astronomy, Outer space]
 ---
 
 

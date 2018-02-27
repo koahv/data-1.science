@@ -4,7 +4,7 @@ title: "The 101 of ELF Binaries on Linux: Understanding and Analysis"
 date: 2015-09-30
 categories: Linux
 author: Michael Boelen
-
+tags: [Executable and Linkable Format, Endianness, Executable, Library (computing), Linker (computing), Operating system, Computer file, Computer engineering, Computing, Areas of computer science, Information technology management, Computers, Software development, Computer data, Computer programming, Computer architecture, System software, Software, Digital technology, Operating system technology, Software engineering]
 ---
 
 

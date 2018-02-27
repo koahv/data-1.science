@@ -4,7 +4,7 @@ title: "NASA Prepares for First Interplanetary CubeSats on Agency's Mission to M
 date: 2015-12-11
 categories: Technology
 author: kduffy
-
+tags: [CubeSat, InSight, Mars Reconnaissance Orbiter, Aerospace, Solar System, NASA, Discovery and exploration of the Solar System, Space technology, Space exploration, Spaceflight technologies, Aerospace engineering, Spacecraft, Flight, Astronautics, Outer space, Spaceflight]
 ---
 
 

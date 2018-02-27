@@ -4,7 +4,7 @@ title: "Rats, reasoning, and rehabilitation: Neuroscientists are uncovering how 
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Reason, Causality, Human, Neuroscience, Autism, Developmental psychology, Schizophrenia, Health, Cognition, Research, Hippocampus, Analogy, Traumatic brain injury, Classical conditioning, Cognitive science, Psychological concepts, Psychology, Behavioural sciences, Emergence, Epistemology, Phenomenology, Neuropsychology, Nervous system, Neuropsychological assessment]
 ---
 
 

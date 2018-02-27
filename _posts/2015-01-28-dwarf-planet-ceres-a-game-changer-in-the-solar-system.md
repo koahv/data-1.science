@@ -4,7 +4,7 @@ title: "Dwarf Planet Ceres --"A Game Changer in the Solar System""
 date: 2015-07-14
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Ceres (dwarf planet), Dawn (spacecraft), Planet, Asteroid, Europa (moon), Dwarf planet, Extraterrestrial liquid water, Solar System, 4 Vesta, Hubble Space Telescope, Sun, Natural satellite, Mars, Planetary surface, Jupiter, Planetary habitability, Asteroid belt, Earth, Planetary science, Physical sciences, Bodies of the Solar System, Space science, Astronomy, Outer space, Astronomical objects]
 ---
 
 

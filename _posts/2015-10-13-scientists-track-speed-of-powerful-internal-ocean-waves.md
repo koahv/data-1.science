@@ -4,7 +4,7 @@ title: "Scientists track speed of powerful internal ocean waves"
 date: 2015-10-20
 categories: Science
 author: unknown author
-
+tags: [TerraSAR-X, Ocean, Center for Southeastern Tropical Advanced Remote Sensing, German Aerospace Center, Radar, Earth sciences]
 ---
 
 

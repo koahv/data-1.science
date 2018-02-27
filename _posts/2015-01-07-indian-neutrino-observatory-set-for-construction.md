@@ -4,7 +4,7 @@ title: "Indian Neutrino Observatory set for construction"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Physics, Neutrino, Tata Institute of Fundamental Research, Particle physics, Physics beyond the Standard Model, Physical sciences, Science]
 ---
 
 

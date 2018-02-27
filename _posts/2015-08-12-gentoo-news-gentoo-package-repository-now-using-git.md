@@ -4,7 +4,7 @@ title: "Gentoo News: Gentoo Package Repository now using Git"
 date: 2015-09-16
 categories: Linux
 author: Gentoo News ()
-
+tags: [Git, Portage (software), Gentoo Linux, Concurrent Versions System, Computer engineering, Operating system technology, System software, Free software, Digital media, Computing, Software]
 ---
 
 

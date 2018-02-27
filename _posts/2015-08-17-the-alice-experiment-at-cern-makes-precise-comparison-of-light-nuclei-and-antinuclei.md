@@ -4,7 +4,7 @@ title: "The ALICE experiment at CERN makes precise comparison of light nuclei an
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [ALICE experiment, Large Hadron Collider, Atomic nucleus, CERN, Deuterium, Proton, Particle physics, Antiproton, Neutron, High energy nuclear physics, Antiparticle, Nuclear physics, Physical universe, Chemistry, Physical sciences, Physics]
 ---
 
 

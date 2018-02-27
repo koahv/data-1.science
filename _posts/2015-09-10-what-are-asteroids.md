@@ -4,7 +4,7 @@ title: "What are asteroids?"
 date: 2016-06-30
 categories: Science
 author: unknown author
-
+tags: [Asteroid, Asteroid belt, Near-Earth object, Solar System, Jupiter trojan, Ceres (dwarf planet), Impact event, Planet, Comet, Potentially hazardous object, Amor asteroid, Earth, Sun, Jupiter, Mars, 4 Vesta, Astronomy, Dawn (spacecraft), Outer space, Planetary science, Space science, Bodies of the Solar System, Astronomical objects, Physical sciences, Minor planets, Asteroids]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Key genetic event underlying fin-to-limb evolution"
 date: 2015-08-25
 categories: Science
 author: unknown author
-
+tags: [Fish fin, Anatomical terms of location, Tetrapod, Tiktaalik, Evolution, Limb bud, Limb development, Gene, Gene expression, Sarcopterygii, Genetics, GLI3, Life sciences, Organisms, Biology]
 ---
 
 

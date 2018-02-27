@@ -4,7 +4,7 @@ title: "Control of quantum bits in silicon paves way for large quantum computers
 date: 2015-05-20
 categories: Energy
 author: unknown author
-
+tags: [Quantum computing, Computer, Qubit, Electron, Atom, News, Bit, Artificial objects, Physics, Electromagnetism, Technology, Electronics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "More evidence for groundwater on Mars"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Equatorial layered deposits, Mars, Planets of the Solar System, Outer space, Physical sciences, Planetary science, Astronomy]
 ---
 
 

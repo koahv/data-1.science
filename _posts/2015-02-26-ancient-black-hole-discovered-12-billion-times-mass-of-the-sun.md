@@ -4,7 +4,7 @@ title: "Ancient Black Hole Discovered --12 Billion Times Mass of the Sun!"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Quasar, Black hole, Astronomy, Universe, Big Bang, Chronology of the universe, Telescope, Sun, Galaxy, Outer space, Science, Physical sciences, Astronomical objects, Physical cosmology, Physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Learning bash scripting for beginners"
 date: 2015-05-18
 categories: Linux
 author: Vivek Gite
-
+tags: [Bash (Unix shell), Unix shell, Shell script, Linux, Scripting language, Command-line interface, Computing, System software, Computer programming, Areas of computer science, Computers, Computer engineering, Technology, Software engineering, Software]
 ---
 
 

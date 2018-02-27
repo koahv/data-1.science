@@ -4,7 +4,7 @@ title: "Dating the moon-forming impact event with meteorites"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Giant-impact hypothesis, Moon, Impact event, Earth, Asteroid, Astronomy, Meteorite, Asteroid belt, Planet, Origin of the Moon, Retrograde and prograde motion, Solar System, Mars, Planetary science, Outer space, Physical sciences, Space science, Astronomical objects]
 ---
 
 

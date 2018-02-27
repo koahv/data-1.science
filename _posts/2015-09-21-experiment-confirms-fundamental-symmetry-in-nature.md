@@ -4,7 +4,7 @@ title: "Experiment confirms fundamental symmetry in nature"
 date: 2015-10-01
 categories: Science
 author: unknown author
-
+tags: [ALICE experiment, High energy nuclear physics, Large Hadron Collider, Relativistic Heavy Ion Collider, Particle physics, Physical universe, Science, Physics, Physical sciences, Nuclear physics, Theoretical physics]
 ---
 
 

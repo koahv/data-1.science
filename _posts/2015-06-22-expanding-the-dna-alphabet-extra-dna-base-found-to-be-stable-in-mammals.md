@@ -4,7 +4,7 @@ title: "Expanding the DNA alphabet: 'Extra' DNA base found to be stable in mamma
 date: 2016-05-09
 categories: Science
 author: unknown author
-
+tags: [DNA, Gene, Epigenetics, Nucleobase, Cell (biology), Biotechnology, Biology, Genetics, Life sciences, Biochemistry, Molecular biology, Chemistry, Organisms]
 ---
 
 

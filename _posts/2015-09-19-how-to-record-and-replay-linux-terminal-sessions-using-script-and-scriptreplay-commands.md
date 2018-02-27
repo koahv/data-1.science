@@ -4,7 +4,7 @@ title: "How to Record and Replay Linux Terminal Sessions using ‘script’ and 
 date: 2015-09-26
 categories: Linux
 author: Aaron Kili
-
+tags: [Filename, Command-line interface, Scripting language, Computer file, TypeScript, Computer data, Operating system technology, Computing, Software, System software, Computers, Areas of computer science, Digital technology, Information technology management, Digital media, Computer engineering, Computer architecture]
 ---
 
 

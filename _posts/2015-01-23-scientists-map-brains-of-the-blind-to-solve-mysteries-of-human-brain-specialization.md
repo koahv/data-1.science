@@ -4,7 +4,7 @@ title: "Scientists map brains of the blind to solve mysteries of human brain spe
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Perception, Sensory substitution, Visual impairment, Brain, Visual perception, Sense, Nervous system, Cognition, Phenomenology, Emergence, Epistemology, Psychological concepts, Cognitive science, Neuroscience, Neuropsychology, Neuropsychological assessment]
 ---
 
 

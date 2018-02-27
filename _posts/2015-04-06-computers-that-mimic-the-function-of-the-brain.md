@@ -4,7 +4,7 @@ title: "Computers that mimic the function of the brain"
 date: 2016-04-20
 categories: Science
 author: unknown author
-
+tags: [Memristor, Computer, Crystallite, Computer data storage, Molybdenum disulfide, Electromagnetism, Artificial objects, Electronic engineering, Manufacturing, Electricity, Technology, Electrical engineering, Electronics]
 ---
 
 

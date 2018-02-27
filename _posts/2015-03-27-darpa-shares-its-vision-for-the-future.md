@@ -4,7 +4,7 @@ title: "DARPA Shares Its Vision for the Future"
 date: 2015-12-09
 categories: Technology
 author: kduffy
-
+tags: [DARPA, Technology, National security, Big data]
 ---
 
 

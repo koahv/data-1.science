@@ -4,7 +4,7 @@ title: "10 tips for better documentation"
 date: 2015-08-07
 categories: Open Source
 author: nigelb
-
+tags: [Documentation, Markup language, Translation, Software bug, Wiki, Intellectual works, Digital media, Computing, Technology, Communication, Software, Written communication, Human communication]
 ---
 
 

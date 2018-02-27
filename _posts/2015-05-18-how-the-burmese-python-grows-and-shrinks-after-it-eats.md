@@ -4,7 +4,7 @@ title: "How the Burmese python grows and shrinks after it eats"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Digestion, Gene, Human, Snake, Physiology, Organ (anatomy), Burmese python, Gene expression, Website, Gastrointestinal tract, Life sciences, Biology]
 ---
 
 

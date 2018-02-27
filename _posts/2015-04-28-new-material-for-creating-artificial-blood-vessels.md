@@ -4,7 +4,7 @@ title: "New material for creating artificial blood vessels"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Blood substitute, Blood vessel, TU Wien, Biomaterial, Health sciences, Medicine, Medical specialties, Biology, Clinical medicine, Artificial objects, Chemistry]
 ---
 
 

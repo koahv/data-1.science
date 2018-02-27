@@ -4,7 +4,7 @@ title: "Nanoscale mirrored cavities amplify, connect quantum memories"
 date: 2015-07-21
 categories: Energy
 author: unknown author
-
+tags: [Electron, Atom, Photon, Spin (physics), Diamond, Information, Light, Computing, Optics, Quantum computing, Memory, Optical cavity, Photonics, Laser, Materials science, Physical sciences, Atomic molecular and optical physics, Chemistry, Applied and interdisciplinary physics, Physical chemistry, Electromagnetic radiation]
 ---
 
 

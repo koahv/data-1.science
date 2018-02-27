@@ -4,7 +4,7 @@ title: "Come take a look at the world’s largest offshore wind energy converter
 date: 2015-08-25
 categories: Tech
 author: Colm Gorey
-
+tags: [Wind power, High-voltage direct current, Offshore wind power, Power (physics), Energy, Electric power, Electricity, Electrical engineering, Nature, Sustainable energy, Renewable energy, Physical universe, Renewable resources, Sustainable technologies, Alternative energy]
 ---
 
 

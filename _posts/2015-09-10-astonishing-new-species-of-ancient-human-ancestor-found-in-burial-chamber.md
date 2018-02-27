@@ -4,7 +4,7 @@ title: "Astonishing new species of ancient human ancestor found in burial chambe
 date: 2015-09-12
 categories: Science
 author: lizleafloor
-
+tags: [Homo naledi, Rising Star Cave, Human]
 ---
 
 

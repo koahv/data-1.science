@@ -4,7 +4,7 @@ title: "5 Traits of Exceptional Engineering Managers"
 date: 2015-12-09
 categories: Technology
 author: kduffy
-
+tags: [Management, Goal, Employment, Team, Creativity, Engineer, Design, Psychological concepts, Cognition]
 ---
 
 

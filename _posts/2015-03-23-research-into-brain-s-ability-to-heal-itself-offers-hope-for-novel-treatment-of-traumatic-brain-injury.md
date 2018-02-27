@@ -4,7 +4,7 @@ title: "Research into brain's ability to heal itself offers hope for novel treat
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Traumatic brain injury, Nerve, Brain, Medicine, Clinical medicine, Nervous system, Biology, Health sciences, Neuroscience, Health, Medical specialties]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Image of the Day: Huge Swirling Vortex at Venus's South Pole"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Venus, Venus Express, Polar vortex, Atmosphere of Earth, Planets, Space science, Physical sciences, Solar System, Astronomy, Planetary science, Planets of the Solar System, Outer space, Bodies of the Solar System]
 ---
 
 

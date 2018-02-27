@@ -4,7 +4,7 @@ title: "Scientists Discover Supermassive Black Hole Duo in Quasar Nearest Earth"
 date: 2015-09-02
 categories: Astronomy
 author: Jolene Creighton
-
+tags: [Internet Standards, Internet architecture, Internet, Internet protocols, IT infrastructure, Communications protocols, Networking standards, Cyberspace, Network protocols, Computer networking]
 ---
 
 

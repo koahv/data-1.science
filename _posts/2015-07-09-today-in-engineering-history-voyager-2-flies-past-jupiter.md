@@ -4,7 +4,7 @@ title: "Today in Engineering History: Voyager 2 Flies Past Jupiter"
 date: 2015-12-21
 categories: Technology
 author: mfassbender
-
+tags: [Voyager 1, Voyager 2, Space probe, Jupiter, Planets of the Solar System, Spacecraft, Outer planets, Planets, Astronautics, Spaceflight, Flight, Space science, Bodies of the Solar System, Astronomy, Planetary science, Outer space, Solar System, Gas giants, Astronomical objects known since antiquity, Discovery and exploration of the Solar System]
 ---
 
 

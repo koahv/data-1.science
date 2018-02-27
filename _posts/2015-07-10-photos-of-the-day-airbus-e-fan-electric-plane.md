@@ -4,7 +4,7 @@ title: "Photos of the Day: Airbus' E-Fan Electric Plane"
 date: 2015-12-21
 categories: Technology
 author: mfassbender
-
+tags: [Airbus E-Fan, International aircraft, Airbus aircraft, Transport safety, Airbus, Transport disasters, Aviation accidents and incidents, Aviation safety, Aeronautics, Aviation, Aircraft]
 ---
 
 

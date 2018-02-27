@@ -4,7 +4,7 @@ title: "New Pluto images from NASA's New Horizons"
 date: 2016-06-30
 categories: Science
 author: unknown author
-
+tags: [New Horizons, Pluto, Charon (moon), Mars, Astronomy, Moon, NASA, Science]
 ---
 
 

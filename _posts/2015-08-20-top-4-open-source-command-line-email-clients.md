@@ -4,7 +4,7 @@ title: "Top 4 open source command-line email clients"
 date: 2015-08-24
 categories: Open Source
 author: Jason Baker
-
+tags: [Alpine (email client), Mutt (email client), Email client, Digital media, Cyberspace, Software, Computing, Network service, Application layer protocols]
 ---
 
 

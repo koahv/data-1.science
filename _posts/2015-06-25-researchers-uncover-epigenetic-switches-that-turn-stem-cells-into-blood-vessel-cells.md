@@ -4,7 +4,7 @@ title: "Researchers uncover epigenetic switches that turn stem cells into blood 
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Epigenetics, Stem cell, Cellular differentiation, Gene, Histone, Cell biology, Organisms, Biotechnology, Life sciences, Biology, Genetics, Biochemistry, Molecular biology]
 ---
 
 

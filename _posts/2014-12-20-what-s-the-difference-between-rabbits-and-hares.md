@@ -4,7 +4,7 @@ title: "What's the Difference Between Rabbits and Hares?"
 date: 2016-04-12
 categories: Science
 author: Liz Langley
-
+tags: [Hare, Rabbit, Lagomorphs, Rabbits and hares, Animals]
 ---
 
 

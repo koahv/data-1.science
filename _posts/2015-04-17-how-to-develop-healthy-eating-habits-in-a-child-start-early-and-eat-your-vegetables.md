@@ -4,7 +4,7 @@ title: "How to develop healthy eating habits in a child: Start early and eat you
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Health, Healthy diet, Eating, Obesity, Dieting, Food, Soft drink, Nutrition, Food choice, Determinants of health, Eating behaviors of humans, Food and drink]
 ---
 
 

@@ -4,7 +4,7 @@ title: "NASA's First Encounter With the 'Last Planet' --"A New Class of Worlds""
 date: 2015-05-11
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Pluto, New Horizons, Kuiper belt, Solar System, Planet, Planets, Planemos, Local Interstellar Cloud, Physical sciences, Astronomical objects, Bodies of the Solar System, Space science, Planetary science, Outer space, Astronomy]
 ---
 
 

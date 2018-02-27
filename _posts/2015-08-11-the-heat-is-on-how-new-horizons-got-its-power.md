@@ -4,7 +4,7 @@ title: "The Heat Is On: How New Horizons Got Its Power"
 date: 2015-09-02
 categories: Technology
 author: unknown author
-
+tags: [Power station, Gas turbine, General Electric, Electricity generation, Nature, Power (physics), Artificial objects, Technology, Electric power, Energy, Electrical engineering, Electricity]
 ---
 
 

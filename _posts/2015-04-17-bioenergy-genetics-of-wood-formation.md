@@ -4,7 +4,7 @@ title: "Bioenergy: Genetics of wood formation"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Cellular differentiation, Gene, Gene regulatory network, Populus, Genetics, Regulation of gene expression, Biology, Life sciences, Molecular biology, Biochemistry, Cell biology, Organisms, Biotechnology]
 ---
 
 

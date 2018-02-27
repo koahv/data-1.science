@@ -4,7 +4,7 @@ title: "How brain can distinguish good from bad smells"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Olfaction, Lateral horn of insect brain, Odor, Neuron, Amygdala, Perception, Cognitive science, Psychological concepts, Neuropsychological assessment, Cognition, Neuropsychology, Nervous system, Senses, Subjective experience, Neuroscience, Mental processes, Biology]
 ---
 
 

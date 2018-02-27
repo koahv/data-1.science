@@ -4,7 +4,7 @@ title: "Supernova's 25-Million-Year-Old Dust on Ocean Floor --Contradicts Curren
 date: 2015-07-14
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Chemical element, Supernova, Radioactive decay, Plutonium-244, Earth, Uranium, Thorium, Physical sciences, Chemical elements, Atoms, Astronomy, Nuclear physics, Chemistry, Nature]
 ---
 
 

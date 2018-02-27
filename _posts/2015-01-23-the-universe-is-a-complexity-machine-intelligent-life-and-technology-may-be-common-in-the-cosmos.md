@@ -4,7 +4,7 @@ title: "The Universe is a 'Complexity Machine' --"Intelligent Life and Technolog
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Life, Universe, Rationality, Morality, Religion, Biology, Complexity, Theory, Milky Way, Evolution, Science, Emergence, Philosophy, Metaphysics]
 ---
 
 

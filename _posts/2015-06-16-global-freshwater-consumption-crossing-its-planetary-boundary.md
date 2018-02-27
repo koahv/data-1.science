@@ -4,7 +4,7 @@ title: "Global freshwater consumption crossing its planetary boundary"
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Planetary boundaries, Evapotranspiration, Natural environment, Earth sciences, Nature]
 ---
 
 

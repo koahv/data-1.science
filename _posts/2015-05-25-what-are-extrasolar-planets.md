@@ -4,7 +4,7 @@ title: "What are extrasolar planets?"
 date: 2016-05-03
 categories: Science
 author: unknown author
-
+tags: [Kepler (spacecraft), Methods of detecting exoplanets, Exoplanet, Planet, Circumstellar habitable zone, Astronomy, Physical sciences, Planetary science, Outer space, Space science, Astronomical objects, Stellar astronomy, Stars, Exoplanetology]
 ---
 
 

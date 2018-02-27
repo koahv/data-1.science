@@ -4,7 +4,7 @@ title: "Vega VV04 liftoff"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Intermediate eXperimental Vehicle, Vega (rocket), Outer space, Spaceflight technologies, Aerospace, Space programs, Astronautics, Rocketry, Space agencies, Space access, Aeronautics, Space exploration, European space programmes, Industries, Space organizations, Space traffic management, Vehicles, Commercial spaceflight, Technology, Aerospace agencies, Flight, Spacecraft, Aerospace engineering, Spaceflight, Transport, Space launch vehicles, Rockets and missiles, Space-based economy, Space technology]
 ---
 
 

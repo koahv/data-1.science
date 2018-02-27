@@ -4,7 +4,7 @@ title: "Self-healing landscape: Landslides after earthquakes"
 date: 2016-05-31
 categories: Science
 author: unknown author
-
+tags: [Earthquake, Landslide, Climate, Global warming, Earth science, Physical sciences, Nature, Geology, Physical geography, Earth sciences]
 ---
 
 

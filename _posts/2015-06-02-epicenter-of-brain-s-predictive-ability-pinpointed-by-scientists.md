@@ -4,7 +4,7 @@ title: "Epicenter of brain's predictive ability pinpointed by scientists"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Brain, Sense, Mental processes, Psychology, Phenomenology, Emergence, Epistemology, Neuropsychological assessment, Neuropsychology, Nervous system, Psychological concepts, Cognition, Neuroscience, Cognitive science]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Ceres --The Dwarf "Water Planet" Reveals Intriguing White Spots"
 date: 2015-07-14
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Ceres (dwarf planet), Dawn (spacecraft), Europa (moon), Solar System, Planet, Dwarf planet, Asteroid, Jupiter, Extraterrestrial liquid water, Mars, Asteroid belt, Outer space, Planetary science, Astronomy, Space science, Bodies of the Solar System, Astronomical objects, Physical sciences, Local Interstellar Cloud, Spaceflight, Planemos]
 ---
 
 

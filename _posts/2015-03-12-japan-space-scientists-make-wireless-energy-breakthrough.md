@@ -4,7 +4,7 @@ title: "Japan space scientists make wireless energy breakthrough"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Wireless power transfer, Tesla coil, Space-based solar power, Resonant inductive coupling, Microwave, Energy, Electromagnetism, Nature]
 ---
 
 

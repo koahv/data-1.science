@@ -4,7 +4,7 @@ title: "Google&#039;s Optical Character Recognition (OCR) software works for 248
 date: 2015-09-28
 categories: Open Source
 author: psubhashish
-
+tags: [Optical character recognition, Computing, Communication, Digital media, Human communication, Language, Software, Technology]
 ---
 
 

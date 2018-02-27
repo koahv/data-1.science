@@ -4,7 +4,7 @@ title: "Blood to feeling: Scientists turn adult human blood cells into neurons"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Nervous system, Pain, Peripheral neuropathy, Central nervous system, Brain, Stem cell, Nerve, Neuron, Peripheral nervous system, Neuroscience, Biology, Medicine, Clinical medicine]
 ---
 
 

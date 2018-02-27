@@ -4,7 +4,7 @@ title: "UA researchers unlock the mysteries of wound healing"
 date: 2015-12-07
 categories: Technology
 author: unknown author
-
+tags: [Genetics, Cell (biology), Cancer, Wound, Cell migration, Messenger RNA, Healing, Regeneration (biology), Disease, Biology, Organisms, Cell biology, Biotechnology, Medicine, Life sciences]
 ---
 
 

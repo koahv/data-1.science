@@ -4,7 +4,7 @@ title: "Regulatory, certification systems creating paralysis in use of genetical
 date: 2016-05-28
 categories: Science
 author: unknown author
-
+tags: [Plant breeding, Genetic engineering, Forest, Biotechnology, American Association for the Advancement of Science, Health, Science, Forestry, Natural environment, Biology]
 ---
 
 

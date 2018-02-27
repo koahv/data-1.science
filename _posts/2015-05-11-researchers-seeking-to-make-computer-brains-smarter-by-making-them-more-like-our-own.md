@@ -4,7 +4,7 @@ title: "Researchers seeking to make computer brains smarter by making them more 
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Memristor, Artificial neural network, Emulator, Artificial intelligence, Computer science, Computer, Electronic circuit, Central processing unit, Nervous system, Brain, Memory, Technology, Electronics, Computing, Computer engineering, Electronic engineering, Artificial objects]
 ---
 
 

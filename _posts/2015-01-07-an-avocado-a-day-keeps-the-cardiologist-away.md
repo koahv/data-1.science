@@ -4,7 +4,7 @@ title: "An avocado a day keeps the cardiologist away"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Low-density lipoprotein, Monounsaturated fat, Cholesterol, Dieting, Cardiovascular disease, Nutrition, Low-fat diet, Determinants of health, Health, Food and drink]
 ---
 
 

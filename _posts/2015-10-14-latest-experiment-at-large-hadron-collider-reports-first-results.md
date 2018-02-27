@@ -4,7 +4,7 @@ title: "Latest experiment at Large Hadron Collider reports first results"
 date: 2015-10-19
 categories: Science
 author: unknown author
-
+tags: [Compact Muon Solenoid, Subatomic particle, Large Hadron Collider, Collider, Proton, Relativistic Heavy Ion Collider, CERN, Inflation (cosmology), Physics, Universe, Particle physics, Physical sciences, Applied and interdisciplinary physics, Physical universe, Science]
 ---
 
 

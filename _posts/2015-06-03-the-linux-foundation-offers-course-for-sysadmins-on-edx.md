@@ -4,7 +4,7 @@ title: "The Linux Foundation Offers Course for SysAdmins on EdX"
 date: 2015-06-30
 categories: Linux
 author: Softpedia News (Silviu Stahie)
-
+tags: [EdX, Linux Foundation, Educational technology, Linux, Digital media, Software, Technology, Computing]
 ---
 
 

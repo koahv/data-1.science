@@ -2,11 +2,13 @@
 layout: post
 title: "Finding farmland: New maps offer a clearer view of global agriculture"
 date: 2015-07-20
-categories: Astronomy
+categories: Science
 Science
-Science
+Astronomy
 author: unknown author
-
+tags: [Research, International Institute for Applied Systems Analysis, Crowdsourcing, American Association for the Advancement of Science, International Food Policy Research Institute, Citizen science, Map, Science
+Research, International Institute for Applied Systems Analysis, Crowdsourcing, American Association for the Advancement of Science, International Food Policy Research Institute, Citizen science, Map, Science
+Research, International Institute for Applied Systems Analysis, Crowdsourcing, American Association for the Advancement of Science, International Food Policy Research Institute, Citizen science, Map, Science]
 ---
 
 

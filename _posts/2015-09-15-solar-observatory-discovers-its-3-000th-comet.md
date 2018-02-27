@@ -4,7 +4,7 @@ title: "Solar Observatory discovers its 3,000th comet"
 date: 2016-07-02
 categories: Science
 author: unknown author
-
+tags: [Solar and Heliospheric Observatory, Sun, Comet, Heliosphere, Astronomy, Outer space, Physical sciences, Solar System, Space science, Bodies of the Solar System, Astronomical objects, Planetary science, Stellar astronomy]
 ---
 
 

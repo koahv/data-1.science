@@ -4,7 +4,7 @@ title: "Crocodile ancestor was top predator before dinosaurs roamed North Americ
 date: 2015-07-21
 categories: Science
 author: unknown author
-
+tags: [Carnufex, Dinosaur, Triassic, Crocodylomorpha, Organisms]
 ---
 
 

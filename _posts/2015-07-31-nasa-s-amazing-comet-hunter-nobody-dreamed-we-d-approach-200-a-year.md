@@ -4,7 +4,7 @@ title: "NASA's Amazing Comet Hunter --"Nobody Dreamed We'd Approach 200 a Year""
 date: 2015-08-11
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Solar and Heliospheric Observatory, Comet, Kreutz sungrazer, Sun, Comet ISON, Sungrazing comet, Astronomy, Comet tail, Physical sciences, Solar System, Bodies of the Solar System, Space science, Planetary science, Local Interstellar Cloud, Outer space]
 ---
 
 

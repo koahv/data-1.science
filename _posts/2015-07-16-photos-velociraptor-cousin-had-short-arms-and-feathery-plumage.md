@@ -4,7 +4,7 @@ title: "Photos: Velociraptor Cousin Had Short Arms and Feathery Plumage"
 date: 2015-07-17
 categories: Science
 author: unknown author
-
+tags: [Dinosaur, Velociraptor, Zhenyuanlong, Paleontology, Dinosaurs, Organisms, Mesozoic dinosaurs]
 ---
 
 

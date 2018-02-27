@@ -4,7 +4,7 @@ title: "New Horizons probes the mystery of Charon's red pole"
 date: 2016-06-30
 categories: Science
 author: unknown author
-
+tags: [Charon (moon), New Horizons, Pluto, Tholin, Atmosphere of Pluto, Mars, Atmosphere, Moon, Space science, Solar System, Planetary science, Outer space, Bodies of the Solar System, Physical sciences, Astronomy, Nature]
 ---
 
 

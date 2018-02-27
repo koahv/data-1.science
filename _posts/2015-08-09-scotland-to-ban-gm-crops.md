@@ -4,7 +4,7 @@ title: "Scotland to ban GM crops"
 date: 2016-05-17
 categories: Science
 author: unknown author
-
+tags: [Genetically modified crops, Genetically modified organism, Agriculture, Genetically modified maize, Maize, European Union, Scottish Government, Biology, Food and drink]
 ---
 
 

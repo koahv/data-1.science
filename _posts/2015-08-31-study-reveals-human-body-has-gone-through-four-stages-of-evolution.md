@@ -4,7 +4,7 @@ title: "Study reveals human body has gone through four stages of evolution"
 date: 2015-09-02
 categories: Science
 author: unknown author
-
+tags: [Homo heidelbergensis, Gene, Homo, Evolution, Creationism, Intelligent design, Atapuerca Mountains, Life sciences, Biology, Organisms]
 ---
 
 

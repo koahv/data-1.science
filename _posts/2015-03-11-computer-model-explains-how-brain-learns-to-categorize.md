@@ -4,7 +4,7 @@ title: "Computer model explains how brain learns to categorize"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Perception, Nervous system, Learning, Brain, Top-down and bottom-up design, Research, Neuroscience, Neuropsychological assessment, Cognitive science, Cognition, Psychological concepts, Neuropsychology, Epistemology, Emergence, Phenomenology, Psychology, Cybernetics, Mental processes, Science]
 ---
 
 

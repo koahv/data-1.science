@@ -4,7 +4,7 @@ title: "Research challenges popular theory on origin of languages"
 date: 2016-04-15
 categories: Science
 author: unknown author
-
+tags: [Language, Indo-European languages, Europe, Corded Ware culture, Culture]
 ---
 
 

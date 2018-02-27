@@ -4,7 +4,7 @@ title: "Vision-restoring gene therapy also strengthens visual processing pathway
 date: 2016-05-14
 categories: Science
 author: unknown author
-
+tags: [Retina, Visual impairment, Visual system, Gene therapy, Eye, Visual perception, Brain, Clinical trial, Functional magnetic resonance imaging, Medical imaging, Health, Cognitive science, Health sciences, Vision, Medical specialties, Nervous system, Medicine, Clinical medicine, Neuroscience]
 ---
 
 

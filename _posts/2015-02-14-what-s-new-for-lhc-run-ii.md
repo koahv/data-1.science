@@ -4,7 +4,7 @@ title: "What’s new for LHC Run II"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Higgs boson, ALICE experiment, Large Hadron Collider, Particle physics, ATLAS experiment, Matter, Physics, Gluon, Compact Muon Solenoid, Quark, CERN, Quarkgluon plasma, Physics beyond the Standard Model, Physical cosmology, Science, Physical universe, Theoretical physics, Mechanics, Physical sciences, Quantum field theory, Nature]
 ---
 
 

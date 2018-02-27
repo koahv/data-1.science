@@ -4,7 +4,7 @@ title: "Hubble’s Stunning New Pictures of Jupiter"
 date: 2015-10-20
 categories: Astronomy
 author: Monica Young
-
+tags: [Jupiter, Great Red Spot, Hubble Space Telescope, Saturn, CassiniHuygens, Uranus, Planet, Substellar objects, Planemos, Astronomical objects, Gas giants, Outer planets, Physical sciences, Bodies of the Solar System, Planets, Planets of the Solar System, Space science, Astronomy, Planetary science, Outer space, Solar System]
 ---
 
 

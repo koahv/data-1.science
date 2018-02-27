@@ -4,7 +4,7 @@ title: "Costa Rica runs only on renewable energy"
 date: 2015-06-25
 categories: Energy
 author: Charlotte Gill
-
+tags: [Hydroelectricity, Renewable energy, Geothermal energy, Wind power, Fossil fuel, Energy and the environment, Environmental technology, Energy sources, Renewable resources, Alternative energy, Sustainable energy, Sustainable technologies, Natural environment, Natural resources, Sustainable development, Physical universe, Nature, Energy, Artificial objects, Energy production]
 ---
 
 

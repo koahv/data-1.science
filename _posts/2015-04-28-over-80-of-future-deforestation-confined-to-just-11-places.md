@@ -4,7 +4,7 @@ title: "Over 80% of future deforestation confined to just 11 places"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Deforestation, Sustainability, Agriculture, Forest, Ecological footprint, European Union, Natural environment]
 ---
 
 

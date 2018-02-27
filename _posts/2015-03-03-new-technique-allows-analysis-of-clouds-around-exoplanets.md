@@ -4,7 +4,7 @@ title: "New technique allows analysis of clouds around exoplanets"
 date: 2016-04-15
 categories: Science
 author: unknown author
-
+tags: [Kepler (spacecraft), Kepler-7b, Exoplanet, Planet, Transiting Exoplanet Survey Satellite, Methods of detecting exoplanets, Cloud, Atmosphere, Planetary science, Physical sciences, Space science, Astronomical objects, Outer space, Astronomy, Planets]
 ---
 
 

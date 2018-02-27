@@ -4,7 +4,7 @@ title: "Display Awesome Linux Logo With Basic Hardware Info Using screenfetch an
 date: 2015-09-15
 categories: Linux
 author: Vivek Gite
-
+tags: [Software, Computing, System software, Computers, Linux, Linus Torvalds, Unix variants, Computer engineering, Operating system technology, Computer architecture, Free software]
 ---
 
 

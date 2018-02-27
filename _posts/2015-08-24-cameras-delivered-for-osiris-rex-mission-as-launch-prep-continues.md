@@ -4,7 +4,7 @@ title: "Cameras delivered for OSIRIS-REx mission as launch prep continues"
 date: 2016-05-31
 categories: Science
 author: unknown author
-
+tags: [OSIRIS-REx, Mars, Planetary science, Solar System, Physical sciences, Flight, Space science, Astronautics, Outer space, Astronomy, Spaceflight]
 ---
 
 

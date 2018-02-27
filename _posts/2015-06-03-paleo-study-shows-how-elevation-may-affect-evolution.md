@@ -4,7 +4,7 @@ title: "Paleo study shows how elevation may affect evolution"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Eocene, Mammal, Paleontology, Climate, Biodiversity, Earth sciences, Biology, Organisms, Nature]
 ---
 
 

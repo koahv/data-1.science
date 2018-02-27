@@ -4,7 +4,7 @@ title: "Scientists sequence genome of worm that can regrow body parts, seeking s
 date: 2016-07-11
 categories: Science
 author: unknown author
-
+tags: [Regeneration (biology), Cold Spring Harbor Laboratory, Genome, Model organism, Biology, Science technology engineering and mathematics, Life sciences, Biotechnology, Organisms]
 ---
 
 

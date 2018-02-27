@@ -4,7 +4,7 @@ title: "Monkeys can learn to see themselves in the mirror"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Self-awareness, Mirror test, Nervous system, Behavioural sciences, Cognitive science, Psychology, Psychological concepts, Cognition, Neuroscience]
 ---
 
 

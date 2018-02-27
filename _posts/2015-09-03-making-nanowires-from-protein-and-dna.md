@@ -4,7 +4,7 @@ title: "Making nanowires from protein and DNA"
 date: 2016-06-29
 categories: Science
 author: unknown author
-
+tags: [Transcription (biology), Transcription factor, DNA, Protein, Biotechnology, Chemistry, Organisms, Macromolecules, Cell biology, Structural biology, Biomolecules, Genetics, Life sciences, Biochemistry, Molecular biology, Biology]
 ---
 
 

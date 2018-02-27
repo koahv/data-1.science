@@ -4,7 +4,7 @@ title: "Today in Engineering History: Space Shuttle Atlantis Returns to Earth"
 date: 2015-12-21
 categories: Technology
 author: kduffy
-
+tags: [Space Shuttle missions, Space Shuttle program, NASA programs, Government programs, Aerospace engineering, NASA, Engineering projects, Astronautics, Human spaceflights, Kennedy Space Center, Human spaceflight programs, Space missions, Flight, Space exploration, Scientific exploration, Spaceflight timelines, Space program of the United States, Aerospace, NASA facilities, Spaceflight technologies, Merritt Island Florida, Manned spacecraft, Space technology, Spaceflight, Human spaceflight, Outer space, Spacecraft]
 ---
 
 

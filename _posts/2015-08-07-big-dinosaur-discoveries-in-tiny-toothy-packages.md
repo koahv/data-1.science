@@ -4,7 +4,7 @@ title: "Big dinosaur discoveries in tiny toothy packages"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Dinosaur, Theropoda, Cretaceous, Late Cretaceous, Organisms]
 ---
 
 

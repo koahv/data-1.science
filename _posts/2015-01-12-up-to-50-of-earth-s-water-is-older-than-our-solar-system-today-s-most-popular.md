@@ -4,7 +4,7 @@ title: ""Up to 50% of Earth's Water is Older than Our Solar System" (Today's Mos
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Astronomy, Water, Sun, Star, Solar System, Comet, Earth, Molecular cloud, Galaxy, Nature, Physical sciences, Outer space, Astronomical objects, Planetary science, Space science]
 ---
 
 

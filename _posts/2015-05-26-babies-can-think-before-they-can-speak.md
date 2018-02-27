@@ -4,7 +4,7 @@ title: "Babies can think before they can speak"
 date: 2016-05-03
 categories: Science
 author: unknown author
-
+tags: [Human, Learning, Intelligence, Website, Psychology, Neuropsychology, Epistemology, Psychological concepts, Phenomenology, Communication, Action (philosophy), Neuroscience, Mental processes, Neuropsychological assessment, Cognitive science, Cognition]
 ---
 
 

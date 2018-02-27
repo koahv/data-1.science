@@ -4,7 +4,7 @@ title: "Photosynthesis gene can help crops grow in adverse conditions"
 date: 2015-09-19
 categories: Science
 author: unknown author
-
+tags: [Plant, Photosynthesis, Chloroplast, Reactive oxygen species, Botany, Agriculture, Biology, Stress (biology), Organisms, Nature, Life sciences]
 ---
 
 

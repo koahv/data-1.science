@@ -4,7 +4,7 @@ title: "Unlocking secrets of how fossils form"
 date: 2015-09-19
 categories: Science
 author: unknown author
-
+tags: [Fossil, Scanning electron microscope, American Chemical Society, Chemistry, Dinosaur]
 ---
 
 

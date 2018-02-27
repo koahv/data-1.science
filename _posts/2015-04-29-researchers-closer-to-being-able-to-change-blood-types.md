@@ -4,7 +4,7 @@ title: "Researchers closer to being able to change blood types"
 date: 2016-04-26
 categories: Science
 author: unknown author
-
+tags: [Blood type, Antigen, Biology, Life sciences, Biotechnology, Medical specialties, Medicine, Molecular biology]
 ---
 
 

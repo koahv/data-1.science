@@ -4,7 +4,7 @@ title: "Use of Open Source Software Is Now Mandatory In Indian Government Office
 date: 2015-06-28
 categories: Linux
 author: Softpedia
-
+tags: [Open-source model, Free content, Open-source movement, Computers, Computer engineering, Free software, System software, Computing, Software, Digital media, Linux, Public commons, Digital technology, Computer architecture]
 ---
 
 

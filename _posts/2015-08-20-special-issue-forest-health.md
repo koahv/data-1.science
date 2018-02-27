@@ -4,7 +4,7 @@ title: "Special issue: Forest health"
 date: 2015-09-07
 categories: Science
 author: unknown author
-
+tags: [Forest, Drought, Wildfire, Biodiversity, Taiga, Sustainability, Hemlock woolly adelgid, Human impact on the environment, Climate change, Physical geography, Earth sciences, Systems ecology, Environmental science, Ecology, Natural environment]
 ---
 
 

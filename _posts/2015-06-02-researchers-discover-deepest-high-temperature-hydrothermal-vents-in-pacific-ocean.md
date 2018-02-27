@@ -4,7 +4,7 @@ title: "Researchers discover deepest high-temperature hydrothermal vents in Paci
 date: 2015-07-12
 categories: Science
 author: unknown author
-
+tags: [Monterey Bay Aquarium Research Institute, Hydrothermal vent, Volcano, Hydrography, Geology, Nature, Earth sciences, Physical geography]
 ---
 
 

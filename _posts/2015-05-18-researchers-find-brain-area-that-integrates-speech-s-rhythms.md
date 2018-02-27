@@ -4,7 +4,7 @@ title: "Researchers find brain area that integrates speech's rhythms"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Speech, American Association for the Advancement of Science, Sound, Brain, Functional magnetic resonance imaging, Superior temporal sulcus, Neuroscience, Perception, Neuropsychology, Cognition, Neuropsychological assessment, Cognitive science, Psychological concepts, Mental processes, Phenomenology, Epistemology, Nervous system]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Quantum computing advance locates neutral atoms"
 date: 2015-08-25
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Quantum computing, Computer, Physics, Mechanics, Solid state engineering, Modern physics, Particle physics, Theoretical physics, Condensed matter physics, Physical sciences, Science]
 ---
 
 

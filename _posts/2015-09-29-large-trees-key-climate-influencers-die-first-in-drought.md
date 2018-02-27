@@ -4,7 +4,7 @@ title: "Large trees -- key climate influencers -- die first in drought"
 date: 2015-09-30
 categories: Science
 author: unknown author
-
+tags: [Tree, Forest, Leaf, Water, Transpiration, Ecosystem, Drought, Natural environment, Earth sciences, Environmental science, Nature, Physical geography]
 ---
 
 

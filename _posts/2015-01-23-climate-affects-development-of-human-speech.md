@@ -4,7 +4,7 @@ title: "Climate affects development of human speech"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Language, Tone (linguistics), Linguistics, Origin of language, Larynx, Climate, Human, Natural environment, Cognitive science, Human communication, Cognition, Communication, Culture, Semiotics, Science]
 ---
 
 

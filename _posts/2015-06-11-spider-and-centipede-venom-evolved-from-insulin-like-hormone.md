@@ -4,7 +4,7 @@ title: "Spider and centipede venom evolved from insulin-like hormone"
 date: 2015-12-11
 categories: Technology
 author: unknown author
-
+tags: [Venom, Evolution, Spider, Predation, Biology, Hormone, Protein, Biochemistry, Molecular biology, Life sciences, Organisms, Biotechnology]
 ---
 
 

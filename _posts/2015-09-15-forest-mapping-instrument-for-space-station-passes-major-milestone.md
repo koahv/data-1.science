@@ -4,7 +4,7 @@ title: "Forest-mapping instrument for space station passes major milestone"
 date: 2016-07-02
 categories: Science
 author: unknown author
-
+tags: [Forest, NASA, Astronomy, Mars, Galaxy, Earth, International Space Station, Goddard Space Flight Center, Phoenix (spacecraft), Galactic Center, Carbon cycle, Carbon dioxide in Earths atmosphere, Tropical rainforest, Ecosystem, Deforestation, Outer space, Physical sciences]
 ---
 
 

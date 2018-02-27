@@ -4,7 +4,7 @@ title: "Injectable cryogel-based whole-cell cancer vaccines"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Cancer, Immunotherapy, Vaccine, Life sciences, Clinical medicine, Medical specialties, Health sciences, Biology, Medicine]
 ---
 
 

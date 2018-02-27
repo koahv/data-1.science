@@ -4,7 +4,7 @@ title: "After learning new words, brain sees them as pictures"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Brain, Visual word form area, Learning, Functional magnetic resonance imaging, Epistemology, Cognitive neuroscience, Psychology, Mental processes, Phenomenology, Psychological concepts, Neuropsychological assessment, Neuropsychology, Neuroscience, Cognitive science, Cognition, Nervous system]
 ---
 
 

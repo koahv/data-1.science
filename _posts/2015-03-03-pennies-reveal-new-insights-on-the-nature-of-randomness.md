@@ -4,7 +4,7 @@ title: "Pennies reveal new insights on the nature of randomness"
 date: 2016-04-15
 categories: Science
 author: unknown author
-
+tags: [Science, Randomness, Chemistry, Research, Salvatore Torquato, American Association for the Advancement of Science, Physics, Cognitive science, Science and technology, Physical sciences]
 ---
 
 

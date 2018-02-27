@@ -4,7 +4,7 @@ title: "COSMIAC's third CubeSat mission will study ionosphere"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [CubeSat, Mars, Satellite, Astronomy, Galaxy, NASA, Moon, Phoenix (spacecraft), Ionosphere, Space science, Astronautics, Physical sciences, Flight, Spaceflight, Outer space, Aerospace engineering, Spacecraft]
 ---
 
 

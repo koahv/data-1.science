@@ -4,7 +4,7 @@ title: "Cataract culprits: Genes linked to cataract formation identified"
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Gene, Genetics, Bioinformatics, MAFK, Cataract, Protein, MAFG, Eye, Gene expression, Regulation of gene expression, Human genome, Biochemistry, Organisms, Molecular biology, Biotechnology, Life sciences, Biology]
 ---
 
 

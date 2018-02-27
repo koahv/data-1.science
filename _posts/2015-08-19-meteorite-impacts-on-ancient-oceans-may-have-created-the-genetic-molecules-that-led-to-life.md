@@ -4,7 +4,7 @@ title: "Meteorite Impacts on Ancient Oceans --"May Have Created the Genetic Mole
 date: 2015-08-25
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Life, Abiogenesis, Physical sciences, Nature, Molecular biology, Organisms, Biology, Life sciences, Biochemistry, Chemistry]
 ---
 
 

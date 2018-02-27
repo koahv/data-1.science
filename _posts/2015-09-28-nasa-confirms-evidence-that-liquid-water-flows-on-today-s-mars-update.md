@@ -4,7 +4,7 @@ title: "NASA confirms evidence that liquid water flows on today's Mars (Update)"
 date: 2016-08-04
 categories: Science
 author: unknown author
-
+tags: [Mars, Seasonal flows on warm Martian slopes, Water on Mars, Mars Reconnaissance Orbiter, Outer space, Physical sciences]
 ---
 
 

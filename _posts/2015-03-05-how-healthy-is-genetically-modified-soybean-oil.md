@@ -4,7 +4,7 @@ title: "How healthy is genetically modified soybean oil?"
 date: 2016-04-16
 categories: Science
 author: unknown author
-
+tags: [Cooking oil, Dieting, Fat, Insulin resistance, Soybean, Trans fat, Vegetable oil, Saturated fat, Adipose tissue, Obesity, Food and drink, Nutrition, Health, Determinants of health]
 ---
 
 

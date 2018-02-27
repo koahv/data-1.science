@@ -4,7 +4,7 @@ title: "Correlations of quantum particles help in distinguishing physical proces
 date: 2015-07-21
 categories: Energy
 author: unknown author
-
+tags: [Quantum entanglement, Quantum mechanics, Technology, Science, Cognitive science, Physics]
 ---
 
 

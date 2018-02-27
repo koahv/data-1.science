@@ -4,7 +4,7 @@ title: "Scientists discover new system for human genome editing"
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [CRISPRCpf1, Cas9, Broad Institute, CRISPR, Macromolecules, Biochemistry, Molecular biology, Organisms, Biotechnology, Genetics, Life sciences, Biology]
 ---
 
 

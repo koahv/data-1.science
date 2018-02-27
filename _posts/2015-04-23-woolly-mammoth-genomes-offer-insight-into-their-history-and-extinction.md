@@ -4,7 +4,7 @@ title: "Woolly mammoth genomes offer insight into their history and extinction"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Woolly mammoth, Mammoth, Life sciences, Organisms, Biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "11 Technologies That Could Shape the Future"
 date: 2015-07-17
 categories: Technology
 author: unknown author
-
+tags: [Power station, Gas turbine, General Electric, Electricity generation, Energy, Electric power, Technology, Artificial objects, Power (physics), Nature, Electrical engineering, Electricity]
 ---
 
 

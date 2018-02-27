@@ -4,7 +4,7 @@ title: "Standing on the Shoulders of a Giant: The World’s Largest and Most Pow
 date: 2015-07-17
 categories: Technology
 author: unknown author
-
+tags: [Power station, Gas turbine, General Electric, Electricity generation, Energy, Electric power, Technology, Artificial objects, Power (physics), Nature, Electrical engineering, Electricity]
 ---
 
 

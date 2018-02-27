@@ -4,7 +4,7 @@ title: "At the origin of language structure"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Language, Subjectobjectverb, Subjectverbobject, Verb, Subject (grammar), Object (grammar), Science, Cognition, Cognitive science, Communication, Linguistics, Semiotics, Human communication, Culture, Psychological concepts]
 ---
 
 

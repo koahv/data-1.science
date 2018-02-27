@@ -4,7 +4,7 @@ title: "Adolescent brain may be especially sensitive to new memories, social str
 date: 2016-07-25
 categories: Science
 author: unknown author
-
+tags: [Adolescence, Memory, Critical period, Neuroplasticity, Working memory, Brain, Stress (biology), Recall (memory), Human, Reminiscence bump, Epistemology, Neuroscience, Psychology, Cognition, Psychological concepts, Cognitive science, Behavioural sciences, Neuropsychology, Neuropsychological assessment, Nervous system, Mental processes, Clinical psychology, Action (philosophy), Phenomenology]
 ---
 
 

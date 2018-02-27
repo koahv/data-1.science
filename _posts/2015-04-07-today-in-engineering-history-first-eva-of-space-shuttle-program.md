@@ -4,7 +4,7 @@ title: "Today in Engineering History: First EVA of Space Shuttle Program"
 date: 2015-12-09
 categories: Technology
 author: kduffy
-
+tags: [NASA programs, Aerospace, Space missions, Kennedy Space Center, Space Shuttle missions, Human spaceflights, Space exploration, Space program of the United States, Engineering projects, Aerospace engineering, Government programs, Flight, Space Shuttle program, Spacecraft, Astronautics, Spaceflight technologies, Human spaceflight programs, NASA, Outer space, Human spaceflight, Spaceflight, Space programs, Space agencies, Spaceflight timelines, Aerospace agencies, Space technology, Scientific exploration]
 ---
 
 

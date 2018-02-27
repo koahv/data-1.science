@@ -4,7 +4,7 @@ title: "Two Large Hadron Collider experiments first to observe rare subatomic pr
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Matter, Particle physics, Standard Model, Compact Muon Solenoid, Fermilab, Large Hadron Collider, Quark, CERN, Universe, Antimatter, Physics, Physics beyond the Standard Model, LHCb experiment, National Science Foundation, Physical sciences, Science]
 ---
 
 

@@ -4,7 +4,7 @@ title: "The next step in DNA computing: GPS mapping?"
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [American Chemical Society, American Association for the Advancement of Science, Science and technology, Artificial objects, Technology, Science]
 ---
 
 

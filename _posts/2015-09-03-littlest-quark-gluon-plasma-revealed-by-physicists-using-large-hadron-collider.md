@@ -4,7 +4,7 @@ title: "'Littlest' quark-gluon plasma revealed by physicists using Large Hadron 
 date: 2016-06-29
 categories: Science
 author: unknown author
-
+tags: [Quarkgluon plasma, Particle physics, Compact Muon Solenoid, Physics, Gluon, Nature, Physical cosmology, Mechanics, Quantum mechanics, Chemistry, Quantum field theory, Subatomic particles, Applied and interdisciplinary physics, Physical bodies, Physical universe, Theoretical physics, Nuclear physics, Physical sciences, Standard Model]
 ---
 
 

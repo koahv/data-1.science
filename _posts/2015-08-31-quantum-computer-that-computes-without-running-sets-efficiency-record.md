@@ -4,7 +4,7 @@ title: "Quantum computer that 'computes without running' sets efficiency record"
 date: 2015-09-02
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Photon, Quantum key distribution, Physics, Quantum entanglement, Theoretical physics, Solid state engineering, Science, Modern physics, Particle physics, Applied and interdisciplinary physics, Physical sciences, Mechanics]
 ---
 
 

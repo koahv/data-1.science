@@ -4,7 +4,7 @@ title: "Pluto's 3 billion-mile closeup"
 date: 2015-07-16
 categories: Technology
 author: unknown author
-
+tags: [Pluto, New Horizons, Charon (moon), Moon, Jupiter, Natural satellite, Styx (moon), Hubble Space Telescope, Io (moon), Planemos, Space science, Outer space, Bodies of the Solar System, Astronomy, Solar System, Planetary science]
 ---
 
 

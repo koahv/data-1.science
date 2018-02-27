@@ -4,7 +4,7 @@ title: "Researchers use stars to infer mass of Milky Way"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Milky Way, Galaxy, Astronomy, Star cluster, Star, Globular cluster, Universe, Mars, Science, Galactic Center, Astronomical objects, Outer space, Physical sciences]
 ---
 
 

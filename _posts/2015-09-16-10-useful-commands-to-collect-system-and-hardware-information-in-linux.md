@@ -4,7 +4,7 @@ title: "10 Useful Commands to Collect System and Hardware Information in Linux"
 date: 2015-09-18
 categories: Linux
 author: Aaron Kili
-
+tags: [GUID Partition Table, BIOS, CPU cache, PCI Express, Floppy disk, Cylinder-head-sector, Booting, Disk partitioning, Device file, INT 13H, Disk storage, Areas of computer science, Electronic engineering, Digital technology, Computer data, System software, Technology, Digital electronics, Office equipment, Computer engineering, Computer architecture, Computers, Computer hardware, Computing]
 ---
 
 

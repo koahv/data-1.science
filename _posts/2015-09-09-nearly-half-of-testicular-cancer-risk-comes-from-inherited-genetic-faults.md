@@ -4,7 +4,7 @@ title: "Nearly half of testicular cancer risk comes from inherited genetic fault
 date: 2016-06-30
 categories: Science
 author: unknown author
-
+tags: [Cancer, Genetics, Testicular cancer, Mutation, Institute of Cancer Research, Risk, Heredity, Research, Medical specialties, Health, Medicine, Public health, Life sciences, Health sciences, Clinical medicine, Biology]
 ---
 
 

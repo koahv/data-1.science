@@ -4,7 +4,7 @@ title: "How Artificial Intelligence Will Revolutionize Our Lives"
 date: 2015-10-08
 categories: Science
 author: Simon Worrall
-
+tags: [Machine learning, Cancer, Robot, Artificial intelligence, Learning, Algorithm, Human]
 ---
 
 

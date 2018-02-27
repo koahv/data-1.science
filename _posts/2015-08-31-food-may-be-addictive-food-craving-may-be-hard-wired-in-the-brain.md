@@ -4,7 +4,7 @@ title: "Food may be addictive: Food craving may be 'hard-wired' in the brain"
 date: 2016-06-24
 categories: Science
 author: unknown author
-
+tags: [Obesity, Addiction, Brain, Reward system, Nervous system, Neuroscience, Psychological concepts, Health, Behavioural sciences, Psychology, Cognitive science, Cognition]
 ---
 
 

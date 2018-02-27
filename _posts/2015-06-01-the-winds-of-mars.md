@@ -4,7 +4,7 @@ title: "The winds of Mars"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Mars, Impact crater, Earth, Astronomy, Space science, Planets, Outer space, Bodies of the Solar System, Solar System, Planets of the Solar System, Planetary science]
 ---
 
 

@@ -4,7 +4,7 @@ title: "A radioactive map of our beautiful blue planet"
 date: 2015-09-06
 categories: Tech
 author: John Kennedy
-
+tags: [Neutrino, Radiation, Physical sciences, Forms of energy, Chemistry, Physical universe, Nature, Nuclear physics, Physics]
 ---
 
 

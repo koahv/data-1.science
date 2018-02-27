@@ -4,7 +4,7 @@ title: "1,800 years of global ocean cooling halted by global warming"
 date: 2015-08-25
 categories: Science
 author: unknown author
-
+tags: [Global warming, Earth, Greenhouse effect, Meteorology, Future problems, Planetary science, Oceanography, Climate, Physical sciences, Nature, Applied and interdisciplinary physics, Environmental science, Global natural environment, Atmospheric sciences, Climatology, Physical geography, Earth sciences, Climate change]
 ---
 
 

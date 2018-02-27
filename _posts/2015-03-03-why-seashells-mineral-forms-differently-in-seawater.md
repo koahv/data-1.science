@@ -4,7 +4,7 @@ title: "Why seashells' mineral forms differently in seawater"
 date: 2016-04-15
 categories: Science
 author: unknown author
-
+tags: [Calcite, Magnesium, Calcium carbonate, Aragonite, Carbonate, Solubility, Carbon, Ocean acidification, Mineral, Seashell, Crystallization, Climate change, Water, Chemical substance, Seawater, Nature, Materials, Physical sciences, Applied and interdisciplinary physics, Chemistry]
 ---
 
 

@@ -3,10 +3,12 @@ layout: post
 title: "Quantum optical hard drive breakthrough"
 date: 2015-07-07
 categories: Technology
-Science
 Technology
+Science
 author: unknown author
-
+tags: [Solid-state physics, Information, Optics, Physics, Laser, Computer data storage, Quantum optics, Solid state engineering, Modern physics, Chemistry, Theoretical physics, Condensed matter physics, Science, Atomic molecular and optical physics, Physical chemistry, Quantum mechanics, Particle physics, Mechanics, Applied and interdisciplinary physics, Physical sciences
+Solid-state physics, Information, Optics, Physics, Laser, Computer data storage, Quantum optics, Solid state engineering, Modern physics, Chemistry, Theoretical physics, Condensed matter physics, Science, Atomic molecular and optical physics, Physical chemistry, Quantum mechanics, Particle physics, Mechanics, Applied and interdisciplinary physics, Physical sciences
+Solid-state physics, Information, Optics, Physics, Laser, Computer data storage, Quantum optics, Solid state engineering, Modern physics, Chemistry, Theoretical physics, Condensed matter physics, Science, Atomic molecular and optical physics, Physical chemistry, Quantum mechanics, Particle physics, Mechanics, Applied and interdisciplinary physics, Physical sciences]
 ---
 
 

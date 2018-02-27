@@ -4,7 +4,7 @@ title: "The shortest DNA sequences reveal insights into the world's tallest tree
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Sequoia sempervirens, Cloning, Genetics, Polyploid, Botany, Mutation, Genotype, Microsatellite, Biology, Organisms, Biotechnology, Life sciences]
 ---
 
 

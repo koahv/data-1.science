@@ -4,7 +4,7 @@ title: "Epigenetic breakthrough: A first of its kind tool to study the histone c
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Gene, Epigenetics, Regulation of gene expression, Genetics, Histone, Cellular differentiation, Biology, Cell (biology), Organism, Cancer, Protein, Drosophila melanogaster, Life sciences, Organisms, Molecular biology, Biotechnology, Biochemistry]
 ---
 
 

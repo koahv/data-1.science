@@ -4,7 +4,7 @@ title: "7 maps show the dramatic effects of rising sea levels"
 date: 2015-08-25
 categories: Tech
 author: Colm Gorey
-
+tags: [Sea, Manhattan, Sea level, Sea level rise, Physical geography, Earth sciences]
 ---
 
 

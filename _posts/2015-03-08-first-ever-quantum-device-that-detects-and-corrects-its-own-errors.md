@@ -4,7 +4,7 @@ title: "First-Ever Quantum Device That Detects and Corrects Its Own Errors"
 date: 2015-07-26
 categories: Astronomy
 author: FQtQ Contributor
-
+tags: [Internet Standards, Internet architecture, Internet, Internet protocols, IT infrastructure, Communications protocols, Networking standards, Cyberspace, Network protocols, Computer networking]
 ---
 
 

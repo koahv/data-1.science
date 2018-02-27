@@ -4,7 +4,7 @@ title: "NJIT's new solar telescope unveils the complex dynamics of sunspots' dar
 date: 2016-04-26
 categories: Science
 author: unknown author
-
+tags: [Sun, Sunspot, Plasma (physics), Volcano, Astronomy, Applied and interdisciplinary physics, Nature, Outer space, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Schizophrenia, bipolar disorder may share genetic roots with creativity"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Mental disorder, Creativity, Psychiatry, Schizophrenia, Emotion, Thought, Cognition, Disease, Bipolar disorder, Emergence, Applied psychology, Psychiatry-related fields, Mental health, Cognitive science, Action (philosophy), Clinical psychology, Psychological concepts, Nervous system, Psychology, Behavioural sciences, Neuroscience]
 ---
 
 

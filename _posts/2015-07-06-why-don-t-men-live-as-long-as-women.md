@@ -4,7 +4,7 @@ title: "Why don't men live as long as women?"
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Cardiovascular disease, Coronary artery disease, Menopause, Health, Clinical medicine, Biology, Public health, Medical specialties, Health sciences, Medicine]
 ---
 
 

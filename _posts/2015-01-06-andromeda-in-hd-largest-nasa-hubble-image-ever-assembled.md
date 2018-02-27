@@ -4,7 +4,7 @@ title: "Andromeda in HD! --Largest NASA/Hubble Image Ever Assembled"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Galaxy, Andromeda Galaxy, Star, Physical cosmology, Astronomical objects, Outer space, Physical sciences, Astronomy]
 ---
 
 

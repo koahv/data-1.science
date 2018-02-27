@@ -4,7 +4,7 @@ title: "Mechanism behind most common form of inherited Alzheimer's disease revea
 date: 2016-04-16
 categories: Science
 author: unknown author
-
+tags: [Amyloid beta, Presenilin, Neurodegeneration, Alzheimers disease, PSEN1, Amyloid precursor protein, Gamma secretase, Mutation, Clinical medicine, Diseases and disorders, Life sciences, Nervous system, Medicine, Biology, Medical specialties, Biochemistry, Molecular biology, Neuroscience]
 ---
 
 

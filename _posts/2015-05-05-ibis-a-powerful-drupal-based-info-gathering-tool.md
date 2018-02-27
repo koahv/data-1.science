@@ -4,7 +4,7 @@ title: "IBIS: A powerful, Drupal-based info gathering tool"
 date: 2015-05-07
 categories: Open Source
 author: bjpritch
-
+tags: [Drupal, News aggregator, Computing, Technology, Information science, Information technology]
 ---
 
 

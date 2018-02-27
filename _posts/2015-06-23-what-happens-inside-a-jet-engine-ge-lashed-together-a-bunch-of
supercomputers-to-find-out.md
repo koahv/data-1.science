@@ -5,7 +5,7 @@ Supercomputers To Find Out"
 date: 2015-07-17
 categories: Technology
 author: unknown author
-
+tags: [Power station, Gas turbine, General Electric, Electricity generation, Technology, Energy, Electric power, Artificial objects, Power (physics), Nature, Electrical engineering, Electricity]
 ---
 
 

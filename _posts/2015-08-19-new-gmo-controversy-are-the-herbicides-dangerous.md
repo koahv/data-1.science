@@ -4,7 +4,7 @@ title: "New GMO Controversy: Are the Herbicides Dangerous?"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [24-Dichlorophenoxyacetic acid, Genetic engineering, Glyphosate, Herbicide, Genetically modified crops, Genetically modified food, Agent Orange, Agriculture, Genetically modified organism, Health, Biology]
 ---
 
 

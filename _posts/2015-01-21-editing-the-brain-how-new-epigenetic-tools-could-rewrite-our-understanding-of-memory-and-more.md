@@ -4,7 +4,7 @@ title: "Editing the brain: How new epigenetic tools could rewrite our understand
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Epigenetics, Gene, Cryptochrome, Histone, CRISPR, Memory, DNA methyltransferase, Addiction, Neuroscience, Methyltransferase, Brain, Epigenetic therapy, Gene expression, Life sciences, Genetics, Biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "NASA spacecraft completes 40,000 Mars orbits"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Mars, Mars Reconnaissance Orbiter, MAVEN, Exploration of Mars, Water on Mars, NASA, Planets, Astronautics, Flight, Bodies of the Solar System, Space science, Spaceflight, Solar System, Planetary science, Outer space, Planets of the Solar System, Discovery and exploration of the Solar System]
 ---
 
 

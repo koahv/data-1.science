@@ -4,7 +4,7 @@ title: "Smart cornfields of the future"
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Photorespiration, RuBisCO, C4 carbon fixation, Photosynthesis, Chemistry, Physical sciences, Biology, Biochemistry]
 ---
 
 

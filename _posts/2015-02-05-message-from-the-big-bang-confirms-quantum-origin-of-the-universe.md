@@ -4,7 +4,7 @@ title: "Message from the Big Bang --"Confirms Quantum Origin of the Universe""
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Universe, Big Bang, Cosmic microwave background, Physical cosmology, Physics, Gravitational wave, Epistemology of science, Natural philosophy, Philosophy, Spacetime, Scientific theories, Physical quantities, Scientific method, Academic discipline interactions, Theoretical physics, Mechanics, Astronomy, Metaphysics, Cosmology, Science, Physical sciences]
 ---
 
 

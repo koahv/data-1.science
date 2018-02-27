@@ -4,7 +4,7 @@ title: "MBARI researchers discover deepest high-temperature hydrothermal vents i
 date: 2015-07-12
 categories: Science
 author: unknown author
-
+tags: [Hydrothermal vent, Monterey Bay Aquarium Research Institute, Earth sciences, Geology, Hydrography, Physical geography, Water, Bodies of water, Nature, Oceanography]
 ---
 
 

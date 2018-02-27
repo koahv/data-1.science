@@ -4,7 +4,7 @@ title: "Exploring Tiling Window Managers"
 date: 2015-09-28
 categories: Linux
 author: matthartley
-
+tags: [Linux, Ubuntu (operating system), Windows 10, Microsoft Windows, Unity (user interface), Software, Computing, System software, Computers, Operating system families, Computer architecture, Computer engineering, Digital media]
 ---
 
 

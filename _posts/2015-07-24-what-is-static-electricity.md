@@ -4,7 +4,7 @@ title: "What Is Static Electricity?"
 date: 2016-05-15
 categories: Science
 author: unknown author
-
+tags: [Static electricity, Electric charge, Electricity, Applied and interdisciplinary physics, Nature, Force, Physics, Electromagnetism]
 ---
 
 

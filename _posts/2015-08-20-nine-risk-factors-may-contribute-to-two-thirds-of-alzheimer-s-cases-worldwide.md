@@ -4,7 +4,7 @@ title: "Nine risk factors may contribute to two-thirds of Alzheimer's cases worl
 date: 2016-05-31
 categories: Science
 author: unknown author
-
+tags: [Alzheimers disease, Diabetes mellitus type 2, Risk, Health, Medical specialties, Medicine, Clinical medicine, Health sciences, Diseases and disorders, Public health]
 ---
 
 

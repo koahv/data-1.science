@@ -4,7 +4,7 @@ title: "LightSail's solar sails look good in latest deployment"
 date: 2015-06-28
 categories: Science
 author: unknown author
-
+tags: [LightSail 2, Solar sail, Space science, Spaceflight, Physical sciences, Astronomy, Outer space]
 ---
 
 

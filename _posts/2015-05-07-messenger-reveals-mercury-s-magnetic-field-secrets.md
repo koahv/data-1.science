@@ -4,7 +4,7 @@ title: "MESSENGER reveals Mercury's magnetic field secrets"
 date: 2016-04-30
 categories: Science
 author: unknown author
-
+tags: [MESSENGER, Mercury (planet), Mars, Planet, Sun, NASA, Spacecraft, Physical sciences, Solar System, Planets of the Solar System, Space science, Planetary science, Astronomy, Outer space]
 ---
 
 

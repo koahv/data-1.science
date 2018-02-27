@@ -4,7 +4,7 @@ title: "Researchers obtain precise estimates of the epigenetic mutation rate"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Epigenetics, Genetics, Evolution, Mutation, DNA methylation, Heredity, Gene, Biology, Organisms, Life sciences, Biological evolution, Evolutionary biology, Nature]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Estimating the global burden of cancer in 2013; 14.9 million new cases w
 date: 2016-05-04
 categories: Science
 author: unknown author
-
+tags: [Cancer, Disease burden, Disability-adjusted life year, Medicine, Diseases and disorders, Health, Health sciences, Medical specialties, Public health]
 ---
 
 

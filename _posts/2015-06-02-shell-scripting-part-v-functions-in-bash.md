@@ -4,7 +4,7 @@ title: "Shell Scripting Part V: Functions in Bash"
 date: 2015-06-28
 categories: Linux
 author: Falko Timme
-
+tags: [Bash (Unix shell), Subroutine, Computer engineering, Software development, Computers, Areas of computer science, Software engineering, Software, Computer programming, Computing]
 ---
 
 

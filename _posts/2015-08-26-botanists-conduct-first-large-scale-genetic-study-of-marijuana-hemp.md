@@ -4,7 +4,7 @@ title: "Botanists conduct first large-scale genetic study of marijuana, hemp"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Cannabis, Cannabidiol, Cannabis (drug), Cannabis sativa, Cannabis indica, Tetrahydrocannabinol, Dioecious plants, Biology, Cannabaceae]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Japan's maglev train notches up new world speed record"
 date: 2015-05-20
 categories: Energy
 author: unknown author
-
+tags: [Maglev, Train, High-speed rail, Shinkansen, Japan, Rail transport, Transport]
 ---
 
 

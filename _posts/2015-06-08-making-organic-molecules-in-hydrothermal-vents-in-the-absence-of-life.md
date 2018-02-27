@@ -4,7 +4,7 @@ title: "Making organic molecules in hydrothermal vents in the absence of life"
 date: 2015-07-05
 categories: Science
 author: unknown author
-
+tags: [Hydrothermal vent, Methane, Carbon dioxide, Oceanography, Abiogenesis, Chemical reaction, Life, Hydrogen, Woods Hole Oceanographic Institution, Earth sciences, Chemistry, Physical sciences, Nature]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Flickering Quasars --"Signal the Collision of Supermassive Black Holes""
 date: 2015-09-19
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Black hole, Quasar, Milky Way, Gravitational wave, Astronomy, Supermassive black hole, Gravity, PKS 1302-102, General relativity, Physical cosmology, Spacetime, Physics, Astronomical objects, Outer space, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Honey bees use multiple genetic pathways to fight infections"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [RNA interference, Virus, Antiviral drug, Honey bee, Infection, Western honey bee, DNA methylation, Gene, Bee, Gene expression, DNA, Genetics, Life sciences, Organisms, Biology, Biotechnology]
 ---
 
 

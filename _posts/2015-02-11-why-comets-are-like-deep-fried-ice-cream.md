@@ -4,7 +4,7 @@ title: "Why comets are like deep fried ice cream"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Rosetta (spacecraft), Comet, 67PChuryumovGerasimenko, Amorphous ice, Philae (spacecraft), Deep Impact (spacecraft), Ice, Physical sciences, Spaceflight, Space science, Bodies of the Solar System, Solar System, Planetary science, Outer space, Astronomy]
 ---
 
 

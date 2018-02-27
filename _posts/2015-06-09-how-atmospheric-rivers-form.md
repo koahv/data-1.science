@@ -4,7 +4,7 @@ title: "How atmospheric rivers form"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Atmospheric river, Weather, Water, River, Lagrangian coherent structure, Snow, Climate, Atmosphere, Global warming, Antarctica, Atmosphere of Earth, Water vapor, Rain, Ocean, Mountain, Earth, Wind, Flood, Earth sciences, Meteorology, Physical sciences, Applied and interdisciplinary physics, Atmospheric sciences, Oceanography, Nature, Physical geography]
 ---
 
 

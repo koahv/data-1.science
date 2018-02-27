@@ -4,7 +4,7 @@ title: "Why do mitochondria retain their own genome?"
 date: 2016-05-15
 categories: Science
 author: unknown author
-
+tags: [Mitochondrion, Cell (biology), Protein, Gene, Cell nucleus, Mitochondrial DNA, Endoplasmic reticulum, Genome, Eukaryote, Life sciences, Biotechnology, Molecular biology, Biochemistry, Organisms, Cell biology, Biology]
 ---
 
 

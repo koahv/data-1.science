@@ -4,7 +4,7 @@ title: "The Open Mainframe Project"
 date: 2015-08-24
 categories: Linux
 author: corbet
-
+tags: [Linux, Cloud computing, Linux Foundation, Information technology, Intellectual works, Computer engineering, Computing, Technology, Software, Computers, Digital technology]
 ---
 
 

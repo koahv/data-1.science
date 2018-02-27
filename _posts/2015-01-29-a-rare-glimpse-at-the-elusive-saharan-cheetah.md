@@ -4,7 +4,7 @@ title: "A rare glimpse at the elusive saharan cheetah"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Northwest African cheetah, Sahara, Conservation biology, Cheetah, Wildlife Conservation Society, Zoological Society of London, Wildlife, Amphibian, Organisms]
 ---
 
 

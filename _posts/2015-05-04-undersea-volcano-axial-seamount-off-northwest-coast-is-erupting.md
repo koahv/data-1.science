@@ -4,7 +4,7 @@ title: "Undersea volcano: Axial Seamount off Northwest coast is erupting"
 date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [Submarine volcano, Axial Seamount, Seamount, Types of volcanic eruptions, Volcano, Volcanology, Physical geography, Earth sciences, Geology, Oceanography]
 ---
 
 

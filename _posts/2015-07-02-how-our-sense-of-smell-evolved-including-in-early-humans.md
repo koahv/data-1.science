@@ -4,7 +4,7 @@ title: "How our sense of smell evolved, including in early humans"
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Odor, Denisovan, Androstenone, Olfaction, Human, Evolution, Neanderthal, Sense, Taste, Life sciences, Organisms, Biology]
 ---
 
 

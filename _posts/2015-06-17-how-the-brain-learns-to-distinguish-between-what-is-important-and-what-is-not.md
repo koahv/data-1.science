@@ -4,7 +4,7 @@ title: "How the brain learns to distinguish between what is important and what i
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Perception, Stimulus (physiology), Brain, Learning, Neuron, Epistemology, Subjective experience, Behavioral neuroscience, Biology, Emergence, Behavioural sciences, Neuroscience, Cognitive science, Psychological concepts, Nervous system, Neuropsychological assessment, Cognition, Neuropsychology, Mental processes, Psychology, Phenomenology, neuropsychology]
 ---
 
 

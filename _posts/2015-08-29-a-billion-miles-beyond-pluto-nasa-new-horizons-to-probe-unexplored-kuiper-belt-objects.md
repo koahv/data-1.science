@@ -4,7 +4,7 @@ title: ""A Billion Miles Beyond Pluto" -- NASA New Horizons to Probe Unexplored 
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [New Horizons, (486958) 2014 MU69, Kuiper belt, Pluto, NASA, Bodies of the Solar System, Aerospace engineering, Aerospace, Space exploration, Spaceflight technologies, Planetary science, Spacecraft, Flight, Outer space, Astronomy, Spaceflight, Space science, Solar System, Astronautics]
 ---
 
 

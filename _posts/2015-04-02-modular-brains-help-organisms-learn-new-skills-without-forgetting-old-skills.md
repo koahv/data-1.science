@@ -4,7 +4,7 @@ title: "Modular brains help organisms learn new skills without forgetting old sk
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Artificial intelligence, Computational biology, Modularity, Brain, PLOS, Science, Research, Information, Cybernetics, Technology, Science and technology, Cognitive science, Cognition, Emergence, Epistemology, Neuroscience]
 ---
 
 

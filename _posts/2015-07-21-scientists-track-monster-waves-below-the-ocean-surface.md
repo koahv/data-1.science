@@ -4,7 +4,7 @@ title: "Scientists track monster waves below the ocean surface"
 date: 2015-07-23
 categories: Science
 author: unknown author
-
+tags: [Sea, Ocean, Internal wave, Wind wave, Volcano, Global warming, Physical geography, Oceanography, Hydrography, Earth sciences, Physical sciences, Applied and interdisciplinary physics, Nature, Center for Southeastern Tropical Advanced Remote Sensing]
 ---
 
 

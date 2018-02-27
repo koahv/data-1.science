@@ -4,7 +4,7 @@ title: "Entanglement on a chip: Breakthrough promises secure communications and 
 date: 2015-09-05
 categories: Technology
 author: unknown author
-
+tags: [Quantum entanglement, Integrated circuit, Photon, Laser, Quantum mechanics, Photonics, Science, Natural philosophy, Electromagnetic radiation, Optics, Physical sciences, Applied and interdisciplinary physics, Physics]
 ---
 
 

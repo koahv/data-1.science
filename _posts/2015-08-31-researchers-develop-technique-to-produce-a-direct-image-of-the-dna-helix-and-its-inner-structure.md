@@ -4,7 +4,7 @@ title: "Researchers develop technique to produce a direct image of the DNA helix
 date: 2016-06-24
 categories: Science
 author: unknown author
-
+tags: [DNA, Gene, Genetics, Epigenetics, Molecular biology, Applied and interdisciplinary physics, Biochemistry, Chemistry, Life sciences, Biology, Physical sciences]
 ---
 
 

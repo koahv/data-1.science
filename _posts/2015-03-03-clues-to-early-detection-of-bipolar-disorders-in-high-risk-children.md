@@ -4,7 +4,7 @@ title: "Clues to early detection of bipolar disorders in high-risk children"
 date: 2016-04-15
 categories: Science
 author: unknown author
-
+tags: [Bipolar disorder, Mania, Hypomania, Mental disorder, Spectrum disorder, Mental health, Medical humanities, Social issues, Medical ethics, Applied psychology, Human diseases and disorders, Neuroscience, Psychiatric diseases and disorders, Social constructionism, Psychiatry, Psychiatry-related fields, Behavioural sciences, Psychological concepts, Clinical psychology, Psychiatric diagnosis, Psychology, Health, Abnormal psychology, Mental and behavioural disorders, Medical diagnosis, Psychiatric assessment, Medical specialties, Medicine, Psychopathology, Positive psychology, Clinical medicine, Diseases and disorders, Health care]
 ---
 
 

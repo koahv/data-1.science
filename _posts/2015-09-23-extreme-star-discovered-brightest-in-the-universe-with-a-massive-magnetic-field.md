@@ -4,7 +4,7 @@ title: "Extreme Star Discovered --Brightest in the Universe With a Massive Magne
 date: 2015-09-27
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Star, Magnetosphere, Sun, Chandra X-ray Observatory, Planetary science, Stellar astronomy, Astronomical objects, Space science, Physical sciences, Outer space, Astronomy, Stars]
 ---
 
 

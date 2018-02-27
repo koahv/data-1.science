@@ -4,7 +4,7 @@ title: "Inside the Large Hadron Collider: How IT Powers the Greatest Experiment 
 date: 2015-06-28
 categories: Linux
 author: ZDNet
-
+tags: [Computing, Computers, Physics, Computer architecture]
 ---
 
 

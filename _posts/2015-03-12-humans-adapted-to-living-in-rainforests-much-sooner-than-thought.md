@@ -4,7 +4,7 @@ title: "Humans adapted to living in rainforests much sooner than thought"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Human, Archaeology, Homo, Rainforest, Anatomically modern human, Fossil, University, Research, Natural environment, Neanderthal, Adaptation, Asia]
 ---
 
 

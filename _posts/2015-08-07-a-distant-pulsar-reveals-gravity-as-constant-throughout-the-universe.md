@@ -4,7 +4,7 @@ title: "A Distant Pulsar --"Reveals Gravity as Constant Throughout the Universe"
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Pulsar, Gravity, Star, Astronomy, Gravitational wave, Outer space, Astronomical objects, Science, Spacetime, Physical phenomena, Physics, Physical sciences]
 ---
 
 

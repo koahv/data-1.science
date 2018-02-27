@@ -4,7 +4,7 @@ title: "What Is Magnetism? | Magnetic Fields & Magnetic Force"
 date: 2016-05-16
 categories: Science
 author: unknown author
-
+tags: [Diamagnetism, Ferromagnetism, Magnetism, Spin (physics), Magnetic field, Magnet, Electron, Antiferromagnetism, Force, Physical quantities, Physics, Electromagnetism, Physical sciences, Mechanics]
 ---
 
 

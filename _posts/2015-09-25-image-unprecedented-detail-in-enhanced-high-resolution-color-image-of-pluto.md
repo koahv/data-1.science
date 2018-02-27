@@ -4,7 +4,7 @@ title: "Image: Unprecedented detail in enhanced high-resolution color image of P
 date: 2016-08-01
 categories: Science
 author: unknown author
-
+tags: [New Horizons, Mars, Pluto, Astronomy, Galaxy, Sun, Galactic Center, Solar System, Outer space, Physical sciences, Planetary science, Space science, Astronomical objects]
 ---
 
 

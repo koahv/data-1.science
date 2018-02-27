@@ -4,7 +4,7 @@ title: "Yale scientists use gene editing to correct mutation in cystic fibrosis"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Peptide nucleic acid, Gene, DNA, Gene therapy, Clinical medicine, Health sciences, Medical specialties, Organisms, Biochemistry, Medicine, Molecular biology, Biotechnology, Genetics, Life sciences, Biology]
 ---
 
 

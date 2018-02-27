@@ -4,7 +4,7 @@ title: "This 3D Printer Works With Living Cells"
 date: 2015-12-07
 categories: Technology
 author: kduffy
-
+tags: [3D printing, Cell biology, Artificial objects, Medicine, Biotechnology, Life sciences, Biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Naked mole-rats anti-cancer gene is unique among mammals"
 date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [Naked mole-rat, Mutation, Gene, Cancer, Molecular biology, Biology, Organisms, Life sciences, Genetics, Biotechnology, Biochemistry]
 ---
 
 

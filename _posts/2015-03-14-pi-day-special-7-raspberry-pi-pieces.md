@@ -4,7 +4,7 @@ title: "Pi Day special: 7 Raspberry Pi pieces"
 date: 2015-06-03
 categories: Open Source
 author: Rikki Endsley
-
+tags: [Red Hat, Software, Computing]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Landing site recommended for ExoMars 2018"
 date: 2015-10-22
 categories: Astronomy
 author: unknown author
-
+tags: [ExoMars, Mars, Schiaparelli EDM lander, Outer space, Discovery and exploration of the Solar System, Astronomy, Flight, Solar System, Astronautics, Planetary science, Spaceflight, Planets of the Solar System]
 ---
 
 

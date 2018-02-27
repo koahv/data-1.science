@@ -4,7 +4,7 @@ title: "Superfast Computers a Step Closer"
 date: 2015-07-26
 categories: Technology
 author: kduffy
-
+tags: [Quantum mechanics, Time, Quantum superposition, Laser, Physics, Quantum computing, Atom, Computer, Physical sciences, Mechanics, Modern physics, Solid state engineering, Particle physics, Condensed matter physics, Applied and interdisciplinary physics, Theoretical physics, Science, Technology, Chemistry]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Turning political pledges into action on climate change"
 date: 2015-10-08
 categories: Science
 author: unknown author
-
+tags: [Reducing emissions from deforestation and forest degradation, Greenhouse gas, Tropical rainforest, Global warming, Deforestation, Climate change mitigation, Forest, Nature, Climatology, Climate change, Natural environment]
 ---
 
 

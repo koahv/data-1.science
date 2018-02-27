@@ -4,7 +4,7 @@ title: "Mapping wood production in European forests"
 date: 2016-06-30
 categories: Science
 author: unknown author
-
+tags: [Forest, Wood, Forestry, Physical geography, Nature, Earth sciences, Natural environment]
 ---
 
 

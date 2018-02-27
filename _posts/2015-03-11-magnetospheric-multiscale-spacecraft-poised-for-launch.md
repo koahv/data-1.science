@@ -4,7 +4,7 @@ title: "Magnetospheric Multiscale Spacecraft Poised for Launch"
 date: 2015-12-07
 categories: Technology
 author: kduffy
-
+tags: [Magnetic reconnection, Sun, Magnetosphere, Measuring instrument, Applied and interdisciplinary physics, Astronomy, Physical universe, Space science, Physics, Physical sciences, Nature, Spaceflight, Outer space]
 ---
 
 

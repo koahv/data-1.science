@@ -4,7 +4,7 @@ title: "Evolving a bigger brain with human DNA"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Enhancer (genetics), Human, Gene, Brain, Chimpanzee, Genetics, Evolution, Genome, Biology, Natural selection, Organisms, Life sciences]
 ---
 
 

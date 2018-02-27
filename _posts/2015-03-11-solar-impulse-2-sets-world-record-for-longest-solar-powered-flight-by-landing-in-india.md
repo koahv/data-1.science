@@ -4,7 +4,7 @@ title: "Solar Impulse 2 sets world record for longest solar-powered flight by la
 date: 2015-07-04
 categories: Energy
 author: Cat DiStasio
-
+tags: [Solar Impulse, Solar energy, Electric aircraft, Industries, Vehicles, Energy, Technology, Artificial objects, Aircraft, Aerospace engineering, Aeronautics, Aviation]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Sven Vermeulen: Finding a good compression utility"
 date: 2015-09-16
 categories: Linux
 author: Sven Vermeulen (swift)
-
+tags: [Data compression, Computer data, Computing, Digital technology, Computer programming, Data, Areas of computer science, Coding theory, Computer files]
 ---
 
 

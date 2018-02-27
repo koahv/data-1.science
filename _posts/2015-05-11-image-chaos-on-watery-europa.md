@@ -4,7 +4,7 @@ title: "Image: Chaos on watery Europa"
 date: 2015-05-11
 categories: Science
 author: unknown author
-
+tags: [Europa (moon), Jupiter, Jupiter Icy Moons Explorer, Moons of Jupiter, Callisto (moon), Ganymede (moon), Moon, Space science, Astronomy, Outer space, Solar System, Planetary science, Bodies of the Solar System, Physical sciences, Planets of the Solar System, Planets, Astronomical objects]
 ---
 
 

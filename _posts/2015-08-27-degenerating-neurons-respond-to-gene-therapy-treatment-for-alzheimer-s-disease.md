@@ -4,7 +4,7 @@ title: "Degenerating neurons respond to gene therapy treatment for Alzheimer's d
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Nerve growth factor, Alzheimers disease, Neurodegeneration, Clinical trial, Medical specialties, Health, Health sciences, Life sciences, Clinical medicine, Neuroscience, Nervous system, Medicine, Biology]
 ---
 
 

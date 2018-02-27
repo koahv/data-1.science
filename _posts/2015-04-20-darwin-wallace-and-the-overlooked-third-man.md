@@ -4,7 +4,7 @@ title: "Darwin, Wallace, and the overlooked third man"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Patrick Matthew, Charles Darwin, On the Origin of Species, Natural selection, Biology, Epistemology, Cognitive science, Science]
 ---
 
 

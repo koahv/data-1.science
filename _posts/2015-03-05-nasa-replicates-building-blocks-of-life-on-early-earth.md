@@ -4,7 +4,7 @@ title: "NASA Replicates Building Blocks of Life on Early Earth"
 date: 2015-07-14
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Pyrimidine, Uracil, Cosmic dust, Thymine, DNA, Life, Nature, Chemistry, Physical sciences]
 ---
 
 

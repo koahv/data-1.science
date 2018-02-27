@@ -4,7 +4,7 @@ title: "Types of athletic training affect how brain communicates with muscles"
 date: 2016-07-04
 categories: Science
 author: unknown author
-
+tags: [Strength training, Physical exercise, Muscle, Self care, Health, Determinants of health, Recreation]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Evidence of ancient life discovered in mantle rocks deep below the seafl
 date: 2015-09-02
 categories: Science
 author: unknown author
-
+tags: [Volcano, Life, Seawater, Woods Hole Oceanographic Institution, Hydrothermal vent, Ocean, Earth, Mantle (geology), Microorganism, Seabed, Geology, Oceanography, Supercontinent, Earth sciences, Nature, Physical sciences, Physical geography]
 ---
 
 

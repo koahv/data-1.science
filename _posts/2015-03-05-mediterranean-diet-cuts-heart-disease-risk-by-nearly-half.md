@@ -4,7 +4,7 @@ title: "Mediterranean diet cuts heart disease risk by nearly half"
 date: 2016-04-16
 categories: Science
 author: unknown author
-
+tags: [Coronary artery disease, Mediterranean diet, Healthy diet, Health, Cardiology, Cardiovascular disease, Physician, Diabetes mellitus, Dietitian, Nutrition, Heart, Preventive healthcare, Clinical medicine, Public health, Food and drink, Health sciences, Determinants of health, Health care, Medical specialties, Medicine]
 ---
 
 

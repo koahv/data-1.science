@@ -4,7 +4,7 @@ title: "First measurements taken of South Africa's Iron Age magnetic field histo
 date: 2015-09-07
 categories: Science
 author: unknown author
-
+tags: [Geomagnetic reversal, Magnetic field, Earth, Earths magnetic field, Mantle (geology), Large low-shear-velocity provinces, Physical sciences, Earth sciences, Planetary science, Nature, Planets of the Solar System, Geology]
 ---
 
 

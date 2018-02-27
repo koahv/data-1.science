@@ -4,7 +4,7 @@ title: "Researchers find speedometer in the brain"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Brain, Memory, Hippocampus, Neuron, Perception, Nervous system, Spatial memory, Nerve, Biological neural network, Theta wave, Neuroscience, neuropsychology, Cognitive neuroscience, Biology, Mental processes, Psychological concepts, Neuropsychological assessment, Neuropsychology, Cognition, Cognitive science]
 ---
 
 

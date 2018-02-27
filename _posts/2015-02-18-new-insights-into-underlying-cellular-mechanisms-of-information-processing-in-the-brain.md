@@ -4,7 +4,7 @@ title: "New insights into underlying cellular mechanisms of information processi
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Synaptic vesicle, Synapse, Neuron, Neurotransmitter, Neurotransmission, Biological neural network, Neuroscience, Nervous system, Physiology, Neurophysiology, Biology]
 ---
 
 

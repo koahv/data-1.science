@@ -4,7 +4,7 @@ title: "Bats use both sides of brain to listen—just like humans"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Lateralization of brain function, Human, Language, Bat, Speech, Sound, Brain, Amphibian, Cognitive science, Neuroscience, Cognition]
 ---
 
 

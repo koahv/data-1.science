@@ -4,7 +4,7 @@ title: "How deep-brain stimulation reshapes neural circuits in Parkinson's disea
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Deep brain stimulation, University of California San Francisco, Brain, Nervous system, Medicine, Neuroscience, Clinical medicine, Health care, Health, Health sciences, Medical specialties]
 ---
 
 

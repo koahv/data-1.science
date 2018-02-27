@@ -4,7 +4,7 @@ title: "Wind energy provides 8% of Europe's electricity"
 date: 2016-05-15
 categories: Science
 author: unknown author
-
+tags: [Wind power, Photovoltaics, Renewable energy, Solar power, Nature, Energy, Physical universe, Renewable resources, Sustainable energy, Alternative energy, Artificial objects, Power (physics)]
 ---
 
 

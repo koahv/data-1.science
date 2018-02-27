@@ -4,7 +4,7 @@ title: "Construction of the world's biggest solar telescope"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Sun, Solar physics, Space weather, Science, Astronomy, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Comprehensive look at brain cancer treatments"
 date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [Glioblastoma, Brain tumor, University of California San Francisco, Health, Health care, Cancer, Biology, Neoplasms, Health sciences, Medicine, Medical specialties, Diseases and disorders, Clinical medicine]
 ---
 
 

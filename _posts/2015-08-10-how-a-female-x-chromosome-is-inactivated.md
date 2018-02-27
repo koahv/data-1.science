@@ -4,7 +4,7 @@ title: "How a female X chromosome is inactivated"
 date: 2016-05-17
 categories: Science
 author: unknown author
-
+tags: [XIST, Gene, Genetics, X-inactivation, Cell (biology), X chromosome, Biochemistry, Molecular biology, Cell biology, Biotechnology, Biology, Organisms, Life sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Curcumin and turmeric: Improving the therapeutic benefits by enhancing a
 date: 2016-05-24
 categories: Science
 author: unknown author
-
+tags: [Curcuminoid, Bioavailability, Curcumin]
 ---
 
 

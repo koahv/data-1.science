@@ -4,7 +4,7 @@ title: "The Changing Face of Factories"
 date: 2015-12-09
 categories: Technology
 author: feeds_user
-
+tags: [Factory, Internet of things, Internet, Industrial Revolution, Automation, Industry, Economy, Science and technology, Artificial objects, Technology]
 ---
 
 

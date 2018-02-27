@@ -4,7 +4,7 @@ title: "NASA's Europa mission begins with selection of science instruments"
 date: 2016-05-03
 categories: Science
 author: unknown author
-
+tags: [Europa (moon), Moon, Jupiter, Galileo (spacecraft), Astronomy, Mars, Hubble Space Telescope, NASA, Space science, Outer space, Physical sciences, Planetary science, Solar System]
 ---
 
 

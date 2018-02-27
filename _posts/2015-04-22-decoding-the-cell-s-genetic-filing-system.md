@@ -4,7 +4,7 @@ title: "Decoding the cell's genetic filing system"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Histone, Chromatin, Epigenetics, Genetics, DNA, DNA sequencing, Intein, Nucleosome, Protein, Gene, Chromatin immunoprecipitation, Molecular biology, Biology, Life sciences, Biotechnology, Biochemistry, Cell biology, Organisms, Macromolecules, Chemistry, Structural biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "The dwarf planet Quaoar"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [50000 Quaoar, Eris (dwarf planet), Pluto, Dwarf planet, Kuiper belt, 90482 Orcus, Bodies of the Solar System, Planemos, Physical sciences, Astronomical objects, Space science, Planets, Substellar objects, Local Interstellar Cloud, Solar System, Outer space, Planetary science, Astronomy]
 ---
 
 

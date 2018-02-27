@@ -4,7 +4,7 @@ title: "Beautiful, Informative Maps of the Moon"
 date: 2015-09-26
 categories: Astronomy
 author: Kelly Beatty
-
+tags: [Moon, Lunar Reconnaissance Orbiter, United States Geological Survey, Tycho (lunar crater), Solar System, Cartography, Physical sciences, Planets of the Solar System, Space science, Planetary science, Outer space, Geography, Astronomy, Earth sciences]
 ---
 
 

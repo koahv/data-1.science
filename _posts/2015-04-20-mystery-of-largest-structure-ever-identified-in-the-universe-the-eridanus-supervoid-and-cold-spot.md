@@ -4,7 +4,7 @@ title: "Mystery of Largest Structure Ever Identified in the Universe --The Erida
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [CMB cold spot, Cosmic microwave background, Big Bang, Void (astronomy), Physics, Physical cosmology, Outer space, Physical sciences, Astronomy, Cosmology, Physical universe, Scientific observation, Science]
 ---
 
 

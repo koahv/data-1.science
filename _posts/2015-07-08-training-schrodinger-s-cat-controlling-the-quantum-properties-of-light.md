@@ -4,7 +4,7 @@ title: "Training Schrodinger's cat: Controlling the quantum properties of light"
 date: 2015-07-12
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Schrdingers cat, Quantum Zeno effect, Photon, Photoelectric effect, Schrdinger equation, Quantum error correction, Quantum computing, Quantum decoherence, Normal mode, Quantum superposition, Time, Squeezed coherent state, Qubit, Solid state engineering, Theoretical physics, Science, Scientific theories, Applied and interdisciplinary physics, Condensed matter physics, Physical sciences, Particle physics, Physics, Mechanics, Modern physics]
 ---
 
 

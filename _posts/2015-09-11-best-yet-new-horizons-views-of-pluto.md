@@ -4,7 +4,7 @@ title: "Best-yet New Horizons Views of Pluto"
 date: 2015-09-12
 categories: Astronomy
 author: Kelly Beatty
-
+tags: [New Horizons, Pluto, Charon (moon), Astronomy, Outer space, Space science, Solar System, Bodies of the Solar System, Planets of the Solar System, Physical sciences, Planetary science]
 ---
 
 

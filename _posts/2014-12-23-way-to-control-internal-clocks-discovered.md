@@ -4,7 +4,7 @@ title: "Way to control internal clocks discovered"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Circadian rhythm, Sleep, CLOCK, Neuroscience, Behavioural sciences, Abnormal psychology, Nervous system, Clinical psychology, Psychology, Psychological concepts, Biology]
 ---
 
 

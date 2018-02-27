@@ -4,7 +4,7 @@ title: "Study yields insights into how plant cells grow"
 date: 2015-12-07
 categories: Technology
 author: unknown author
-
+tags: [Cell (biology), Cytoskeleton, Actin, Plant, Trichome, Protein, Arp23 complex, Life sciences, Organisms, Biology, Cell biology]
 ---
 
 

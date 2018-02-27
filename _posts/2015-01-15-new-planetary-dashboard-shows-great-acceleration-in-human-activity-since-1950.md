@@ -4,7 +4,7 @@ title: "New planetary dashboard shows 'Great Acceleration' in human activity sin
 date: 2015-09-05
 categories: Astronomy
 author: unknown author
-
+tags: [Anthropocene, Planetary boundaries, Human impact on the environment, Natural environment, Earth sciences, Nature, Environmental science]
 ---
 
 

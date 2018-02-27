@@ -4,7 +4,7 @@ title: "Artificial leaf harnesses sunlight for efficient fuel production"
 date: 2016-06-24
 categories: Science
 author: unknown author
-
+tags: [Artificial photosynthesis, Photoelectrochemical cell, Solar fuel, Artificial objects, Applied and interdisciplinary physics, Physical universe, Artificial materials, Chemical substances, Energy, Manufacturing, Physical sciences, Nature, Chemistry, Materials]
 ---
 
 

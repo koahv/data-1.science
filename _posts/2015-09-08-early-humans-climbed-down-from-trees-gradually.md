@@ -4,7 +4,7 @@ title: "Early Humans Climbed Down from Trees Gradually"
 date: 2016-06-29
 categories: Science
 author: unknown author
-
+tags: [Australopithecus, Hominidae, Human evolution, Human, Homo, Chimpanzee, Australopithecus afarensis, Knuckle-walking, Ape, Pliocene, Evolutionary biology, Primates]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Colossal Ring of Galaxies --"Largest Object in the Universe Spans 5 Bill
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Universe, Science, Gamma-ray burst, Observable universe, Milky Way, Higgs boson, Astronomy, Life, Physical cosmology, Physics, Cosmology, Metaphysics, Physical sciences]
 ---
 
 

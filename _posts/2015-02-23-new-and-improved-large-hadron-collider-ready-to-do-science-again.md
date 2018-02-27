@@ -4,7 +4,7 @@ title: "New and improved Large Hadron Collider ready to do science again"
 date: 2015-07-21
 categories: Energy
 author: unknown author
-
+tags: [Large Hadron Collider, Elementary particle, Universe, Matter, Dark matter, Higgs boson, Physical universe, Physical cosmology, Science, Particle physics, Physical sciences, Physics]
 ---
 
 

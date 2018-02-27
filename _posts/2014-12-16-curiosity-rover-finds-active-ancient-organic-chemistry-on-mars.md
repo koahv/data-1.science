@@ -4,7 +4,7 @@ title: "Curiosity rover finds active, ancient organic chemistry on Mars"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Mars, Curiosity (rover), Atmosphere of Mars, Water on Mars, Gale (crater), Mount Sharp, Astronomy, Exploration of Mars, Physical sciences, Outer space, Nature, Planetary science]
 ---
 
 

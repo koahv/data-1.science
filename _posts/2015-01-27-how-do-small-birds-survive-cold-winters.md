@@ -4,7 +4,7 @@ title: "How do small birds survive cold winters?"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Bird, Flock (birds), Foraging, Weather, Wind, Tit (bird), Predation, Food, Great tit, Tree, Norway, Owl, Norwegian University of Science and Technology, Birds, Tetrapods, Animals]
 ---
 
 

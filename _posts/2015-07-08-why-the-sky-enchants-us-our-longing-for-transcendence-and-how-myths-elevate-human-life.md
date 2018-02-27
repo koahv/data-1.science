@@ -4,7 +4,7 @@ title: "Why the Sky Enchants Us: Our Longing for Transcendence and How Myths Ele
 date: 2015-07-10
 categories: Philosophy
 author: Maria Popova
-
+tags: [Transcendence (religion), Mythology, Human, Heaven, Deity, Sky, Religion, Creation myth, Experience, Culture]
 ---
 
 

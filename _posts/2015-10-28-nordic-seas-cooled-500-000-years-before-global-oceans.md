@@ -4,7 +4,7 @@ title: "Nordic Seas cooled 500,000 years before global oceans"
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Nordic Seas, Greenland, Scandinavia, Ocean current, Sea, Ocean, Oceans, Earth sciences, Physical geography, Oceanography, Applied and interdisciplinary physics, Nature, Hydrography, Hydrology, Global natural environment, Physical oceanography, Bodies of water]
 ---
 
 

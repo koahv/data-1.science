@@ -4,7 +4,7 @@ title: "Stanford researchers genetically engineer yeast to produce opioids"
 date: 2016-05-26
 categories: Science
 author: unknown author
-
+tags: [Analgesic, Pharmaceutical drug, Opioid, Artemisinin, Yeast, Opium, Morphine, Biology, Life sciences, Medicine]
 ---
 
 

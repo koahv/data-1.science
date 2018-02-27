@@ -4,7 +4,7 @@ title: "How to sail through space on sunbeams – solar satellite leads the way"
 date: 2015-06-28
 categories: Science
 author: unknown author
-
+tags: [Solar sail, LightSail 2, Spacecraft propulsion, Sun, Interplanetary spaceflight, Force, Rocket, Aerospace engineering, Outer space, Spaceflight, Physical sciences, Astronomy, Astronautics, Flight, Spacecraft, Spaceflight technologies]
 ---
 
 

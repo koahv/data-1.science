@@ -4,7 +4,7 @@ title: "Icelandic volcano's toxic gas is triple that of Europe's industry"
 date: 2016-08-01
 categories: Science
 author: unknown author
-
+tags: [Types of volcanic eruptions, Brarbunga, Volcano, 2010 eruptions of Eyjafjallajkull, Eruption column, Air pollution, Sulfur dioxide]
 ---
 
 

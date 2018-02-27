@@ -4,7 +4,7 @@ title: "Renewables re-energized: Green energy investments worldwide surge 17 per
 date: 2015-09-10
 categories: Science
 author: unknown author
-
+tags: [Renewable energy, Wind power, Electricity generation, Energy, Energy sources, Energy production, Natural resources, Sustainable development, Sustainable technologies, Renewable resources, Alternative energy, Sustainable energy, Economy, Nature, Physical universe]
 ---
 
 

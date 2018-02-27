@@ -4,7 +4,7 @@ title: "NASA orders first ever commercial human spaceflight mission from Boeing"
 date: 2016-05-04
 categories: Science
 author: unknown author
-
+tags: [Commercial Crew Development, CST-100 Starliner, NASA, Dragon 2, SpaceX Dragon, International Space Station, Human spaceflight, SpaceX, Spaceflight, Outer space, Flight, Aerospace engineering, Spacecraft, Astronautics, Spaceflight technologies, Aerospace, Space industry, Industries, Space-based economy, Space programs, Private spaceflight]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Learn How to Use ‘dir’ Command with Different Options and Arguments 
 date: 2015-08-24
 categories: Linux
 author: Aaron Kili
-
+tags: [Computer file, Directory (computing), File system, Inode, Digital technology, Computing, Computer data, Data management, Utility software, Information technology management, Operating system technology, Storage software, System software, Data, Information retrieval, Computer architecture, Software, Information science, Computer data storage, Information technology, Computers]
 ---
 
 

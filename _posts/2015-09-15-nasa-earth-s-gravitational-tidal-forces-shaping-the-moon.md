@@ -4,7 +4,7 @@ title: "NASA --"Earth's Gravitational Tidal Forces Shaping the Moon""
 date: 2015-09-19
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Lunar Reconnaissance Orbiter, Moon, Outer space, Planetary science, Astronomy, Spaceflight, Solar System, Space science, Planets of the Solar System, Physical sciences, Astronautics]
 ---
 
 

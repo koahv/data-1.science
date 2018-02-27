@@ -4,7 +4,7 @@ title: "Making sense of our evolution"
 date: 2016-05-12
 categories: Science
 author: unknown author
-
+tags: [Olfaction, Evolution, Human, Sense, Primate, Denisovan, Eye, Odor, Organisms, Biology]
 ---
 
 

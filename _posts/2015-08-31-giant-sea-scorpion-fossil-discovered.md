@@ -4,7 +4,7 @@ title: "Giant 'sea scorpion' fossil discovered"
 date: 2015-09-02
 categories: Science
 author: unknown author
-
+tags: [BioMed Central, Eurypterid, Organisms]
 ---
 
 

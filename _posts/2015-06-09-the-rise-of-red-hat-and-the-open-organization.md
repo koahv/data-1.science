@@ -4,7 +4,7 @@ title: "The rise of Red Hat and the open organization"
 date: 2015-06-25
 categories: Open Source
 author: jonobacon
-
+tags: [Economics, Behavioral economics, Management, Strategic management, Organization, Leadership, Red Hat, Open-source model, Market (economics), Employment, Business]
 ---
 
 

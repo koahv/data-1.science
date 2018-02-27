@@ -4,7 +4,7 @@ title: "Cancer experience presents time for lifestyle changes in both survivors 
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Caregiver, Self-care, Cancer survivor, Health, Cancer, Nursing, Medicine, Health care, Health sciences, Medical specialties]
 ---
 
 

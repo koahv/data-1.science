@@ -4,7 +4,7 @@ title: "Tesla’s 2,000 superchargers have powered over 86,000,000 electric mile
 date: 2015-07-04
 categories: Energy
 author: Michelle Kennedy Hogan
-
+tags: [Tesla Inc, Tesla Model S, Electric power, Green vehicles, Automotive industry, Transportation engineering, Energy, Vehicle technology, Artificial objects, Low-carbon economy, Vehicles, Electric vehicles, Automobiles, Zero-emissions vehicles, Vehicle electrification, Transport]
 ---
 
 

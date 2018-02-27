@@ -4,7 +4,7 @@ title: "Gene associated with thinking skills"
 date: 2016-05-12
 categories: Science
 author: unknown author
-
+tags: [Genetics, Mutation, Ageing, Alzheimers disease, Gene, Cognition, Cognitive science, Biology, Life sciences, Neuroscience]
 ---
 
 

@@ -4,7 +4,7 @@ title: "How the brain balances hearing between our ears"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Hearing, Ear, Auditory system, Cochlea, Hair cell, Hearing loss, Sound, Waves, Nervous system, Senses, Neuroscience, Cognitive science]
 ---
 
 

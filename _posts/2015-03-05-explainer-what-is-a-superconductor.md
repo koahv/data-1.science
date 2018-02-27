@@ -4,7 +4,7 @@ title: "Explainer: What is a superconductor?"
 date: 2016-04-16
 categories: Science
 author: unknown author
-
+tags: [Superconductivity, Electron, Electricity, Electric current, Yttrium barium copper oxide, Physics, Materials, Applied and interdisciplinary physics, Electromagnetism, Physical sciences, Physical chemistry, Materials science, Chemistry]
 ---
 
 

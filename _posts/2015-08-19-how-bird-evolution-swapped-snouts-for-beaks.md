@@ -4,7 +4,7 @@ title: "How bird evolution swapped snouts for beaks"
 date: 2015-08-25
 categories: Science
 author: unknown author
-
+tags: [Evolution, Bird, Dinosaur, Beak, Wnt signaling pathway, Paleontology, Embryo, Cellular differentiation, Life sciences, Biology, Organisms]
 ---
 
 

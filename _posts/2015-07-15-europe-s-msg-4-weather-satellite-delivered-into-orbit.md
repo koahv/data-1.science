@@ -4,7 +4,7 @@ title: "Europe’s MSG-4 weather satellite delivered into orbit"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Meteosat, EUMETSAT, Aerospace agencies, Earth observation satellites, Space science, European Space Agency, Space organizations, Artificial satellites orbiting Earth, International scientific organizations of Europe, Spaceflight, Outer space, Spacecraft, Astronautics, Flight, Aerospace engineering, Spaceflight technologies, Satellites, Space programs, Space agencies, Aerospace, European space programmes, Space traffic management, Space exploration, Space policy of the European Union]
 ---
 
 

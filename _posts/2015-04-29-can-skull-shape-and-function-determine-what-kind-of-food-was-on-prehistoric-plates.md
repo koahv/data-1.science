@@ -4,7 +4,7 @@ title: "Can skull shape and function determine what kind of food was on prehisto
 date: 2015-07-21
 categories: Science
 author: unknown author
-
+tags: [Tooth, Carnivore, Shark tooth, Predation, Mammal, American Museum of Natural History, Organisms]
 ---
 
 

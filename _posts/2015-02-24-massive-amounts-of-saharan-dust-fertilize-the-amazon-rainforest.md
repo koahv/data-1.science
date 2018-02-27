@@ -4,7 +4,7 @@ title: "Massive amounts of Saharan dust fertilize the Amazon rainforest"
 date: 2015-09-10
 categories: Science
 author: unknown author
-
+tags: [Amazon rainforest, Sahara, Nature, Physical geography, Earth sciences]
 ---
 
 

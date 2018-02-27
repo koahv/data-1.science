@@ -4,7 +4,7 @@ title: "Megacity metabolism: What cities are the worst energy hogs?"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Megacity, City, Waste, New York City, Water, Earth, Artificial objects]
 ---
 
 

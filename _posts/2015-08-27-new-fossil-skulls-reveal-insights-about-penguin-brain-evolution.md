@@ -4,7 +4,7 @@ title: "New fossil skulls reveal insights about penguin brain evolution"
 date: 2015-09-02
 categories: Science
 author: unknown author
-
+tags: [Penguin, Evolution, Paleontology, Adaptation, Creationism, Polymorphism (biology), Human, Fossil, Species, Bird, Flightless bird, Seymour Island, Brain, Olfaction, Antarctica, Young Earth creationism, Biology, Organisms, Biological evolution, Evolutionary biology]
 ---
 
 

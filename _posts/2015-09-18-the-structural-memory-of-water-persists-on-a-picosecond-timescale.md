@@ -4,7 +4,7 @@ title: "The structural memory of water persists on a picosecond timescale"
 date: 2016-07-04
 categories: Science
 author: unknown author
-
+tags: [Molecule, Water, Liquid, Ultrashort pulse, Infrared spectroscopy, Properties of water, Polymer, Hydrogen bond, Scientist, Chemistry, Applied and interdisciplinary physics, Physical chemistry, Physical sciences, Molecular physics]
 ---
 
 

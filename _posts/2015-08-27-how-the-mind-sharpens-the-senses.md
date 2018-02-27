@@ -4,7 +4,7 @@ title: "How the mind sharpens the senses"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Somatosensory system, Meditation, Neuroplasticity, Sense, Perception, Science, Two-point discrimination, Neuropsychological assessment, Cognitive science, Neuroscience, Cognition, Psychological concepts, Nervous system, Psychology, Neuropsychology, Behavioural sciences, Phenomenology, Metaphysics of mind, Action (philosophy), Clinical psychology, neuropsychology, Emergence, Epistemology, Mental processes]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Scientists discover atomic-resolution details of brain signaling"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [SLAC National Accelerator Laboratory, X-ray crystallography, Neurotransmitter, SNARE (protein), Brain, Protein, Neuron, Thomas C Sdhof, Exocytosis, Particle accelerator, Biology]
 ---
 
 

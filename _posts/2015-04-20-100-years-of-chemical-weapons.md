@@ -4,7 +4,7 @@ title: "100 Years of Chemical Weapons"
 date: 2015-12-09
 categories: Technology
 author: kduffy
-
+tags: [Hazards, Weapons, Science and technology, International security]
 ---
 
 

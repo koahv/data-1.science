@@ -4,7 +4,7 @@ title: "Researchers use laser to levitate, glowing nanodiamonds in vacuum"
 date: 2015-09-08
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Light, Physics, Optics, Electron, Spin (physics), Photoluminescence, Laser, Energy level, Diamond, Crystal, Energy, Force, Vacuum, Atmosphere of Earth, Antiproton, Photon, Physical chemistry, Atomic molecular and optical physics, Particle physics, Nature, Condensed matter physics, Materials science, Mechanics, Chemistry, Applied and interdisciplinary physics, Physical sciences, Science]
 ---
 
 

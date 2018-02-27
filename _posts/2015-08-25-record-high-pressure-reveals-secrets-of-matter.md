@@ -4,7 +4,7 @@ title: "Record-high pressure reveals secrets of matter"
 date: 2016-05-31
 categories: Science
 author: unknown author
-
+tags: [Electron, Pressure, Atom, Valence electron, High pressure, Electrical resistivity and conductivity, Nature, Physical sciences, Chemistry, Physics, Applied and interdisciplinary physics, Materials, Physical chemistry, Materials science, Manufacturing]
 ---
 
 

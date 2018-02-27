@@ -4,7 +4,7 @@ title: "Why do strawberries taste so good?"
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Odor, Strawberry, Taste, Sweetness, Ripeness in viticulture, Olfaction]
 ---
 
 

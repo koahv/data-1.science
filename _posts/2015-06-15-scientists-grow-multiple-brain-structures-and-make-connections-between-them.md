@@ -4,7 +4,7 @@ title: "Scientists grow multiple brain structures and make connections between t
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Brain, Neuron, Neuroscience, Neuroanatomy, Stem cell, Brain tumor, Cell potency, Green fluorescent protein, In vitro, Biology, Life sciences, Nervous system, Medicine]
 ---
 
 

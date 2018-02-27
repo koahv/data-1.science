@@ -4,7 +4,7 @@ title: "WSU Spokane researchers isolate smallest unit of sleep to date"
 date: 2015-12-11
 categories: Technology
 author: unknown author
-
+tags: [Sleep, Electroencephalography, Brain, Neuron, Nervous system, Neuroscience, Biology, Physiology]
 ---
 
 

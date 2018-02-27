@@ -4,7 +4,7 @@ title: "The Most Luminous Galaxy"
 date: 2015-07-21
 categories: Astronomy
 author: Anne McGovern
-
+tags: [Star, Black hole, Astronomy, Metallicity, Universe, Galaxy, Nature, Physical sciences, Astronomical objects, Outer space, Physical cosmology, Physics, Stellar astronomy, Astrophysics, Stars, Cosmology, Applied and interdisciplinary physics, Physical quantities]
 ---
 
 

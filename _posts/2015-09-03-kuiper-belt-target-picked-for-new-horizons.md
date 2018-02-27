@@ -4,7 +4,7 @@ title: "Kuiper Belt Target Picked for New Horizons"
 date: 2015-09-04
 categories: Astronomy
 author: Kelly Beatty
-
+tags: [(486958) 2014 MU69, New Horizons, Kuiper belt, Pluto, Solar System, Flight, Astronomical objects, Astronautics, Local Interstellar Cloud, Spaceflight technologies, Spacecraft, Physical sciences, Bodies of the Solar System, Spaceflight, Planetary science, Space science, Outer space, Astronomy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "To stop cancer: Block its messages"
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Cell signaling, Cell (biology), Cell nucleus, Cell membrane, Cancer, MAPKERK pathway, Molecular biology, Life sciences, Biochemistry, Biology, Cell biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Image: STEREO-A spacecraft returns data from the far side of the sun"
 date: 2016-05-14
 categories: Science
 author: unknown author
-
+tags: [STEREO, Sun, Mars, Astronomy, Galaxy, Earth, Spaceflight, Planetary science, Astronomical objects, Outer space, Physical sciences, Space science, Solar System, Bodies of the Solar System]
 ---
 
 

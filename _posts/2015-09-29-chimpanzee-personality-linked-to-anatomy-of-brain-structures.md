@@ -4,7 +4,7 @@ title: "Chimpanzee personality linked to anatomy of brain structures"
 date: 2015-09-29
 categories: Science
 author: unknown author
-
+tags: [Extraversion and introversion, Chimpanzee, Cingulate cortex, Human, Trait theory, Anterior cingulate cortex, Cerebral cortex, Frontal lobe, Brain, Nervous system, Neuroscience, Psychological concepts, Psychology, Behavioural sciences, Cognitive science, Cognition]
 ---
 
 

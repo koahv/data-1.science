@@ -4,7 +4,7 @@ title: "One Step Closer to a Single-Molecule Device"
 date: 2015-12-10
 categories: Technology
 author: mfassbender
-
+tags: [Molecule, Diode, Rectifier, Nanotechnology, Molecular electronics, Electronics, Electrical engineering, Electricity, Electromagnetism, Chemistry, Materials, Technology, Manufacturing, Physical sciences, Applied and interdisciplinary physics, Artificial objects, Electronic engineering, Physics]
 ---
 
 

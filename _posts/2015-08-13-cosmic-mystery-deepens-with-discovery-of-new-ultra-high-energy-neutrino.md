@@ -4,7 +4,7 @@ title: "Cosmic mystery deepens with discovery of new ultra-high-energy neutrino"
 date: 2016-05-26
 categories: Science
 author: unknown author
-
+tags: [IceCube Neutrino Observatory, Neutrino, Cosmic ray, Annihilation, Dark matter, Muon, Nature, Mechanics, Applied and interdisciplinary physics, Physical cosmology, Physical universe, Particle physics, Physical sciences, Physics]
 ---
 
 

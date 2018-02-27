@@ -4,7 +4,7 @@ title: "Learning with all the senses: Movement, images facilitate vocabulary lea
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Cognitive science, Vocabulary, Learning, Cognition, Science, Perception, Language, Sense, Brain, Gesture, Human, neuropsychology, Emergence, Nervous system, Psychology, Phenomenology, Mental processes, Epistemology, Neuropsychology, Neuropsychological assessment, Psychological concepts, Neuroscience]
 ---
 
 

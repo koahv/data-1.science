@@ -4,7 +4,7 @@ title: "Complex genetic ancestry of Americans uncovered"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Race and ethnicity in the United States, United States, African Americans, Caribbean, Americas, Africa, Genetics, Slavery, Hispanic, Colonialism, Spain, South America, Amphibian, Culture]
 ---
 
 

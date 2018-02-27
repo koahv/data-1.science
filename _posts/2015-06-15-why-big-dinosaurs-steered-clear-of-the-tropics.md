@@ -4,7 +4,7 @@ title: "Why big dinosaurs steered clear of the tropics"
 date: 2015-09-10
 categories: Science
 author: unknown author
-
+tags: [Dinosaur, Fossil, Wildfire, Plant, Climate, Triassic, Pseudosuchia, Earth sciences, Nature]
 ---
 
 

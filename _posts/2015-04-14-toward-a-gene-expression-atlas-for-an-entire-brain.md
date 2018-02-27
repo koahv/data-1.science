@@ -4,7 +4,7 @@ title: "Toward a gene expression atlas for an entire brain"
 date: 2016-04-22
 categories: Science
 author: unknown author
-
+tags: [Gene expression profiling, Gene, Organism, RNA-Seq, Cell (biology), Gene expression, Single cell sequencing, Evolution, Life sciences, Organisms, Biotechnology, Technology, Biology, Genetics]
 ---
 
 

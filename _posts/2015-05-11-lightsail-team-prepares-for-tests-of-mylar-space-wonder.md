@@ -4,7 +4,7 @@ title: "LightSail team prepares for tests of mylar space wonder"
 date: 2015-06-28
 categories: Science
 author: unknown author
-
+tags: [LightSail 2, Solar sail, Spaceflight, Physical sciences, Aerospace engineering, Spacecraft, Spaceflight technologies, Space science, Flight, Astronautics, Astronomy, Outer space]
 ---
 
 

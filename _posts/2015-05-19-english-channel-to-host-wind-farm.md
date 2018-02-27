@@ -4,7 +4,7 @@ title: "English Channel to host wind farm"
 date: 2015-05-19
 categories: Energy
 author: unknown author
-
+tags: [Wind power, Renewable energy, Offshore wind power, Fossil fuel, Wind turbine, Energy sources, Energy production, Alternative energy, Natural resources, Artificial objects, Sustainable technologies, Sustainable development, Sustainable energy, Nature, Renewable resources, Physical universe, Energy]
 ---
 
 

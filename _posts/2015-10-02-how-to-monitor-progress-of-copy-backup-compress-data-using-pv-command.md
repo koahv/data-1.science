@@ -4,7 +4,7 @@ title: "How to Monitor Progress of (Copy/Backup/Compress) Data using ‘pv’ Co
 date: 2015-10-02
 categories: Linux
 author: Aaron Kili
-
+tags: [Package manager, Computer file, Linux, Fedora (operating system), Standard streams, Zip (file format), Backup, Tar (computing), Yellow Dog Updater Modified, Digital technology, Unix, Computer engineering, Computer data, Computing, Software, System software, Operating system technology, Computer architecture, Computers]
 ---
 
 

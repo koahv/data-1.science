@@ -4,7 +4,7 @@ title: "Hot lava flows discovered on Venus"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Volcano, Venus, Ganis Chasma, Space science, Geology, Astronomy, Outer space, Physical sciences, Planets of the Solar System, Planetary science]
 ---
 
 

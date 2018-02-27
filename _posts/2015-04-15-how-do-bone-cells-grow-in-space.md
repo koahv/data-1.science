@@ -4,7 +4,7 @@ title: "How do bone cells grow in space?"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Astronomy, Mars, Research, Science, Tissue engineering, Cell culture, Galaxy, 3D cell culture, Phoenix (spacecraft), International Space Station, Bone, Technology, Biotechnology, Milky Way, Submillimetre astronomy, Scientist, Outer space, Physical sciences]
 ---
 
 

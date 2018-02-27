@@ -4,7 +4,7 @@ title: "Researchers greatly increase precision of new genome editing tool"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [CRISPR, Gene, Genetics, Non-homologous end joining, Genome editing, Gene knockin, Genetic engineering, Induced pluripotent stem cell, Biology, Life sciences, Organisms, Biotechnology, Molecular biology, Biochemistry]
 ---
 
 

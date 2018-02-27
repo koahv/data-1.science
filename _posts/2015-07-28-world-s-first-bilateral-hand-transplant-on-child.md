@@ -4,7 +4,7 @@ title: "World's first bilateral hand transplant on child"
 date: 2016-05-16
 categories: Science
 author: unknown author
-
+tags: [Hand transplantation, Surgery, Organ transplantation, Perelman School of Medicine at the University of Pennsylvania, Organ donation, Medicine, Health care, Medical specialties, Health sciences, Health, Clinical medicine]
 ---
 
 

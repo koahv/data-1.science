@@ -4,7 +4,7 @@ title: "Photos of the Day: High-Tech Farms Use LED Lights"
 date: 2015-12-09
 categories: Technology
 author: kduffy
-
+tags: [Light-emitting diode, LED lamp, Agriculture, Artificial objects, Natural environment, Land management, Primary sector of the economy]
 ---
 
 

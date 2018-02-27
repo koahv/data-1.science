@@ -4,7 +4,7 @@ title: "Seeing without eyes: Octopus's skin possesses the same cellular mechanis
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Eye, Chromatophore, Octopus, Cephalopod, Light, Skin, Brain, Biology, Nervous system]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Unpowered Exoskeleton Increases Walking Efficiency"
 date: 2015-12-09
 categories: Technology
 author: kduffy
-
+tags: [Powered exoskeleton, Foot, Technology, Artificial objects]
 ---
 
 

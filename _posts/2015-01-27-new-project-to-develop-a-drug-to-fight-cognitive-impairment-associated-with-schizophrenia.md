@@ -4,7 +4,7 @@ title: "New project to develop a drug to fight cognitive impairment associated w
 date: 2015-12-07
 categories: Technology
 author: unknown author
-
+tags: [Pharmaceutical drug, Neuropsychopharmacology, Mental disorder, Centre for Genomic Regulation, Health, Research, Disease, Schizophrenia, Model organism, Biotechnology, Medicine, Biology, Health sciences, Life sciences, Clinical medicine, Health care]
 ---
 
 

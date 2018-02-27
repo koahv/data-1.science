@@ -4,7 +4,7 @@ title: "Securing mount points on Linux"
 date: 2015-09-30
 categories: Linux
 author: Michael Boelen
-
+tags: [Mount (computing), Computer file, File system, Device file, Setuid, Disk partitioning, Superuser, Operating system technology, Information retrieval, Computers, Computer engineering, Computing, System software, Digital technology, Computer architecture, Software, Computer data, Information technology management, Data management, Utility software, Data, Storage software, Areas of computer science]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Scientists discover new molecules that kill cancer cells and protect hea
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Cancer, Glutathione, Cisplatin, Ovarian cancer, DNA repair, Cancer cell, Neoplasm, Medical specialties, Health sciences, Health, Neoplasms, Clinical medicine, Diseases and disorders, Life sciences, Medicine, Biology, Chemistry, Biochemistry]
 ---
 
 

@@ -4,7 +4,7 @@ title: "The Open Information Security Foundation Joins Open Source Initiative as
 date: 2015-06-30
 categories: Open Source
 author: masson
-
+tags: [Open-source software, Open Source Initiative, Open-source software movement, Computer security, Computing, Communication, Technology, Business, Culture]
 ---
 
 

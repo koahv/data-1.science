@@ -4,7 +4,7 @@ title: "3,000 atoms entangled with a single photon"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Quantum entanglement, Atom, Physics, Quantum mechanics, Clock, Atomic clock, Photon, Light, Mechanics, Applied and interdisciplinary physics, Particle physics, Physical sciences, Condensed matter physics, Chemistry, Science, Solid state engineering, Theoretical physics, Modern physics]
 ---
 
 

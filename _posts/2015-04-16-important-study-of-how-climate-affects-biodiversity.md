@@ -4,7 +4,7 @@ title: "Important study of how climate affects biodiversity"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Genetic diversity, Species, Climate change, Pleistocene, Human, Natural environment, Nature, Organisms, Biology]
 ---
 
 

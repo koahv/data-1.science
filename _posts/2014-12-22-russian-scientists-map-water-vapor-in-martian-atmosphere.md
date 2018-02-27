@@ -5,7 +5,8 @@ date: 2015-09-05
 categories: Science
 Astronomy
 author: unknown author
-
+tags: [Water vapor, Mars, Water, Atmosphere, Physical sciences, Space science, Spaceflight, Planets of the Solar System, Planetary science, Outer space
+Water vapor, Mars, Water, Atmosphere, Physical sciences, Space science, Spaceflight, Planets of the Solar System, Planetary science, Outer space]
 ---
 
 

@@ -4,7 +4,7 @@ title: "NASA Camera Shows Moon Crossing Face of Earth"
 date: 2015-12-21
 categories: Technology
 author: kduffy
-
+tags: [Deep Space Climate Observatory, Moon, Earth, Astronautics, Outer space, Planetary science, Astronomy, Space science, Spaceflight, Solar System, Physical sciences, Planets of the Solar System, Bodies of the Solar System]
 ---
 
 

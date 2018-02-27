@@ -4,7 +4,7 @@ title: "Creation: Ancient Indian Origin Myths, Brought to Life in a Breathtaking
 date: 2015-07-10
 categories: Philosophy
 author: Maria Popova
-
+tags: [Creation myth, Mythology, Origin myth, Storytelling, Time, Folklore, Culture]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Plants survive better through mass extinctions than animals"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Biodiversity, Extinction, Plant, Extinction event, Ecology, Natural environment, Organisms, Biology, Nature, Biogeochemistry, Earth sciences, Environmental science, Environmental social science]
 ---
 
 

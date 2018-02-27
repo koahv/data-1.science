@@ -4,7 +4,7 @@ title: "Characterizing the forces that hold everything together"
 date: 2015-10-02
 categories: Technology
 author: unknown author
-
+tags: [Van der Waals force, Molecule, Chemistry, Physical sciences, Applied and interdisciplinary physics, Materials, Materials science, Physical chemistry, Artificial objects]
 ---
 
 

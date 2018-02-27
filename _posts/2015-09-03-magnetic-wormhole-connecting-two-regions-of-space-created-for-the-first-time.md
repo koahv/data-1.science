@@ -4,7 +4,7 @@ title: "Magnetic 'wormhole' connecting two regions of space created for the firs
 date: 2015-09-03
 categories: Science
 author: unknown author
-
+tags: [Magnetic field, Magnetic monopole, Wormhole, Magnetism, Magnet, Physics, Physical sciences, Physical quantities, Force, Electromagnetism, Science]
 ---
 
 

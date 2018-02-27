@@ -4,7 +4,7 @@ title: "Violent formation of the moon: New view"
 date: 2016-04-21
 categories: Science
 author: unknown author
-
+tags: [Moon, Earth, Origin of the Moon, Theia (planet), Solar System, Formation and evolution of the Solar System, Planets of the Solar System, Astronomy, Space science, Physical sciences, Outer space, Planetary science]
 ---
 
 

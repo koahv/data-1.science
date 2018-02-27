@@ -4,7 +4,7 @@ title: "Scientists discover what controls waking up and going to sleep"
 date: 2016-05-26
 categories: Science
 author: unknown author
-
+tags: [Circadian rhythm, Sleep, Brain, Biology, Nervous system, Physiology, Animal physiology, Zoology, Neuroscience]
 ---
 
 

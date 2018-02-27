@@ -4,7 +4,7 @@ title: "Ability to balance on one leg may reflect brain health, stroke risk"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Balance (ability), Stroke, Lacunar stroke, Health, Diseases and disorders, Medical specialties, Clinical medicine, Medicine]
 ---
 
 

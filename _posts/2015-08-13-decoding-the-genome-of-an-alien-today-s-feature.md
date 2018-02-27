@@ -4,7 +4,7 @@ title: "Decoding the Genome of an Alien --Today's Feature"
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Transposable element, Gene, Genome, Evolution, Octopus, Animal, Brain, Cephalopod, Biology, Genetics, Life sciences, Organisms]
 ---
 
 

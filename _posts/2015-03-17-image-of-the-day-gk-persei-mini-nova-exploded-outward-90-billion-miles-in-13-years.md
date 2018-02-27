@@ -4,7 +4,7 @@ title: "Image of the Day: GK Persei --Mini Nova Exploded Outward 90 Billion Mile
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Star, Astronomy, Nova, Supernova, White dwarf, Supernova remnant, Explosion, Sun, Chandra X-ray Observatory, Stars, Nature, Stellar astronomy, Astronomical objects, Outer space, Physical sciences, Physics, Applied and interdisciplinary physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Study identifies first-ever human population adaptation to toxic chemica
 date: 2015-12-07
 categories: Technology
 author: unknown author
-
+tags: [American Association for the Advancement of Science, Evolution, Arsenic, Biology, Life sciences, Organisms, Genetics, Biotechnology]
 ---
 
 

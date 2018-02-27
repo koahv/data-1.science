@@ -4,7 +4,7 @@ title: "Understanding how cells follow electric fields"
 date: 2016-05-04
 categories: Science
 author: unknown author
-
+tags: [Dictyostelium, Electricity, Bacteria, Dictyostelium discoideum, Amoeba, Amphibian, Biology, Organisms, Medical specialties]
 ---
 
 

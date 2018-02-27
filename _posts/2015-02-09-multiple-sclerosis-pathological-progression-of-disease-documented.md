@@ -4,7 +4,7 @@ title: "Multiple sclerosis: pathological progression of disease documented"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Neurodegeneration, Inflammation, Multiple sclerosis, Brain, Health sciences, Medicine, Clinical medicine, Medical specialties, Diseases and disorders, Health, Biology, Nervous system, Epidemiology, Life sciences, Immunology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Measurements of dinosaur body temperatures shed new light on 150-year de
 date: 2015-10-20
 categories: Science
 author: unknown author
-
+tags: [Dinosaur, Endotherm, Oviraptoridae, Thermoregulation, Ectotherm, Tyrannosaurus]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Black holes and the dark sector explained by quantum gravity"
 date: 2015-07-26
 categories: Astronomy
 author: unknown author
-
+tags: [Graviton, Physics, Dark matter, Matter, Theory, Science, Particle physics, Quantum gravity, Dark energy, Spacetime, Energy, Gravity, Modern physics, Physical quantities, Metaphysics, Cosmology, Physical sciences, Theoretical physics, Mechanics, Epistemology of science, Scientific theories, Physical cosmology, Quantum mechanics, Scientific method, Solid state engineering]
 ---
 
 

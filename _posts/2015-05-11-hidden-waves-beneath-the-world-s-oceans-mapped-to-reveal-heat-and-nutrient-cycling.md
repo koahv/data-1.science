@@ -4,7 +4,7 @@ title: "Hidden Waves Beneath the World's Oceans Mapped to Reveal Heat and Nutrie
 date: 2015-05-11
 categories: Science
 author: unknown author
-
+tags: [Internal wave, Ocean, Nature, Earth sciences, Applied and interdisciplinary physics, Physical geography, Oceanography]
 ---
 
 

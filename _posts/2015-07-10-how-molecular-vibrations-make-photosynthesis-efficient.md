@@ -4,7 +4,7 @@ title: "How molecular vibrations make photosynthesis efficient"
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Light, Photosynthesis, Physics, Solar cell, Temperature, Chemistry, Science, Applied and interdisciplinary physics, Physical sciences, Physical chemistry, Mechanics, Materials science, Nature]
 ---
 
 

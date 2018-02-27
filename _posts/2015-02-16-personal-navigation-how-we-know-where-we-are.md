@@ -4,7 +4,7 @@ title: "Personal navigation: How we know where we are"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Electroencephalography, Brain, Learning, Neuropsychology, Nervous system, Cognition, Cognitive science, Neuroscience, Psychological concepts, Neuropsychological assessment, Cognitive neuroscience, Psychology, Epistemology, Mental processes]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Lucid dreams and metacognition: Awareness of thinking; awareness of drea
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Dream, Metacognition, Lucid dream, Max Planck Society, Human, Brain, Psychological concepts, Behavioural sciences, Epistemology, Neuropsychology, Neuroscience, Cognitive science, Cognition, Psychology, Emergence, Neuropsychological assessment, Phenomenology]
 ---
 
 

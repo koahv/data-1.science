@@ -4,7 +4,7 @@ title: "Photos of the Day: Altered-Gravity Aircraft Inaugurated"
 date: 2015-12-10
 categories: Technology
 author: kduffy
-
+tags: [Weightlessness, German Aerospace Center, Astronautics, Flight, Spaceflight, Science, Outer space]
 ---
 
 

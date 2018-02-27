@@ -4,7 +4,7 @@ title: "Fusion reactors 'economically viable' say experts"
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Fusion power, Nuclear power, Nuclear reactor, ITER, Energy conversion, Chemistry, Energy production, Technology, Power (physics), Forms of energy, Physical universe, Nature, Nuclear technology, Energy technology, Nuclear energy, Nuclear physics, Energy]
 ---
 
 

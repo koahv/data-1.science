@@ -4,7 +4,7 @@ title: "HAWC Observatory to study universe's most energetic phenomena"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [High Altitude Water Cherenkov Experiment, Astronomy, Cosmic ray, Gamma ray, Applied and interdisciplinary physics, Astronomical objects, Nature, Physical sciences, Physical phenomena, Outer space, Physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "NASA: "Ancient Mars Had a Vast Ocean Covering Half Its Northern Hemisphe
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Mars, Milky Way, Exploration of Mars, Water on Mars, ExoMars, Rover (space exploration), Water, Planets, Astronautics, Outer space, Planetary science, Solar System, Planets of the Solar System, Spaceflight, Space science, Astronomy, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Scientists unlock tangled mysteries of DNA"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Mutation, Evolution, Point mutation, Gene, Genetics, DNA, Biology, Protein, Epigenetics, Cell (biology), Genetic code, Epistasis, Life, Natural selection, Cellular differentiation, RNA, Conserved sequence, Genome, MTORC1, Chromosome, Robustness (evolution), Ecology, Virus, Human, Fixation (population genetics), Organisms, Biotechnology, Biochemistry, Molecular biology, Life sciences]
 ---
 
 

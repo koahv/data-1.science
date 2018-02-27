@@ -4,7 +4,7 @@ title: "Researchers reveal how hearing evolved"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Hearing, Ear, Middle ear, Tetrapod, Inner ear, Nervous system, Senses, Auditory system]
 ---
 
 

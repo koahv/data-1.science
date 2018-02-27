@@ -4,7 +4,7 @@ title: "SwRI scientists study nitrogen provision for Pluto's atmosphere"
 date: 2015-08-25
 categories: Astronomy
 author: unknown author
-
+tags: [Pluto, New Horizons, Atmosphere, Alan Stern, Planetary science, Planets, Planets of the Solar System, Physical sciences, Bodies of the Solar System, Solar System, Space science, Astronomy, Outer space]
 ---
 
 

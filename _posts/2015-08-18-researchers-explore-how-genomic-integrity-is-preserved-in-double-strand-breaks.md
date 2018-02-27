@@ -4,7 +4,7 @@ title: "Researchers explore how genomic integrity is preserved in double-strand 
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [DNA, DNA replication, DNA repair, Endonuclease, Alu element, Genome, Mutation, Restriction enzyme, MUS81, Mutagenesis, Molecular biology, Biology, Genetics, Life sciences, Biochemistry, Biotechnology, Organisms, Macromolecules, Nucleic acids, Nucleotides, Molecular genetics]
 ---
 
 

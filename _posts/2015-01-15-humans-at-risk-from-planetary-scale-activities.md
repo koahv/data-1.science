@@ -6,7 +6,9 @@ categories: Science
 Science
 Science
 author: unknown author
-
+tags: [Planetary boundaries, Human impact on the environment, Global natural environment, Global environmental issues, Nature, Physical geography, Environmental science, Earth sciences, Natural environment
+Planetary boundaries, Human impact on the environment, Global natural environment, Global environmental issues, Nature, Physical geography, Environmental science, Earth sciences, Natural environment
+Planetary boundaries, Human impact on the environment, Global natural environment, Global environmental issues, Nature, Physical geography, Environmental science, Earth sciences, Natural environment]
 ---
 
 

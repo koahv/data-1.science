@@ -4,7 +4,7 @@ title: "Neurons constantly rewrite their DNA"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Synapse, Neuron, Neurotransmitter, DNA, Biology, Genetics, Biochemistry, Molecular biology, Biotechnology, Life sciences, Nervous system, Neuroscience]
 ---
 
 

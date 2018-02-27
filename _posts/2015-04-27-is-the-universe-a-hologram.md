@@ -4,7 +4,7 @@ title: "Is the universe a hologram?"
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Universe, Quantum mechanics, Space, Dimension, Quantum entanglement, Gravity, Holography, Holographic principle, Physics, Field (physics), Theory, Correspondence principle, Quantum field theory, Quantum gravity, Theoretical physics, Particle physics, Physical cosmology, Solid state engineering, Mathematical physics, Scientific theories, Philosophy, Scientific method, Metaphysics, Spacetime, Epistemology of science, Modern physics, Science, Mechanics, Physical sciences, Cognitive science, Academic discipline interactions, Physical quantities]
 ---
 
 

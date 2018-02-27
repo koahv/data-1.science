@@ -4,7 +4,7 @@ title: "The Past Teaching the Present: Ancient Sanskrit Texts Discuss the Import
 date: 2015-09-15
 categories: Science
 author: dhwty
-
+tags: [Hinduism, Dharma, Religion, Archaeology, Reincarnation, Human, Natural environment, Crime, Culture]
 ---
 
 

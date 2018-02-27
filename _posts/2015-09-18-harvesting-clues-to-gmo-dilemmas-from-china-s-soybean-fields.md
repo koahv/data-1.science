@@ -4,7 +4,7 @@ title: "Harvesting clues to GMO dilemmas from China's soybean fields"
 date: 2016-07-04
 categories: Science
 author: unknown author
-
+tags: [Soybean, Agriculture, Genetically modified food, Ecology, Industries, Natural resource management, Economy, Natural resources, Artificial objects, Agronomy, Primary industries, Land management, Primary sector of the economy, Natural environment, Food and drink]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Breakthrough in tinnitus research could lead to testable model"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Tinnitus, Psychological concepts, Clinical psychology, Behavioural sciences, Psychology, Neuropsychological assessment, Cognition, Neuroscience, Cognitive science, Nervous system]
 ---
 
 

@@ -4,7 +4,7 @@ title: "How the brain recognizes danger: New discovery"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Brain-derived neurotrophic factor, Fear, Biology, Limbic system, Clinical psychology, Psychology, Behavioural sciences, Neuroscience, Nervous system, Cognitive science, Psychological concepts, Cognition]
 ---
 
 

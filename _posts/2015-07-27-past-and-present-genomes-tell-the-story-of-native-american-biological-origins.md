@@ -4,7 +4,7 @@ title: "Past and present genomes tell the story of Native American biological or
 date: 2015-09-07
 categories: Science
 author: unknown author
-
+tags: [Indigenous peoples of the Americas, Settlement of the Americas, Genetics, Biology]
 ---
 
 

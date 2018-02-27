@@ -4,7 +4,7 @@ title: "Patterns are math we love to look at"
 date: 2016-07-11
 categories: Science
 author: unknown author
-
+tags: [Pattern, Cartesian coordinate system, Symmetry, Frieze group, Wallpaper group, Mathematics]
 ---
 
 

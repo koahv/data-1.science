@@ -4,7 +4,7 @@ title: "Analogue quantum computers: Still wishful thinking?"
 date: 2015-07-21
 categories: Energy
 author: unknown author
-
+tags: [Quantum annealing, D-Wave Systems, Quantum computing, Solid state engineering, Areas of computer science, Quantum mechanics, Technology, Applied mathematics]
 ---
 
 

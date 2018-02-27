@@ -4,7 +4,7 @@ title: "New thesis maps the origin of colour vision"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Cone cell, Eye, Zebrafish, Gene duplication, Evolution, Photoreceptor cell, Rod cell, Visual perception, Gene, Color, Model organism, Genome, Human, Retina, Genetics, Cell (biology), Biology, Life sciences, Organisms]
 ---
 
 

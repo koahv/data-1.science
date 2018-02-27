@@ -4,7 +4,7 @@ title: "Honey bees rapidly evolve to overcome new disease"
 date: 2015-08-25
 categories: Science
 author: unknown author
-
+tags: [Evolution, Honey bee, Genetics, Bee, Mite, Varroa destructor, Genetic diversity, Gene, Evolutionary biology, Life sciences, Organisms, Biology]
 ---
 
 

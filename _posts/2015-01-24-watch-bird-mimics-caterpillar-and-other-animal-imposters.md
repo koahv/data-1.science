@@ -4,7 +4,7 @@ title: "Watch: Bird Mimics Caterpillar (and Other Animal Imposters)"
 date: 2015-01-24
 categories: Science
 author: Jason Bittel
-
+tags: [Mimicry, Mimic octopus, Green-banded broodsac, Hymenopus coronatus, Animals]
 ---
 
 

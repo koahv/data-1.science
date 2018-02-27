@@ -4,7 +4,7 @@ title: "A timeline of comet probe's 11-year journey"
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Rosetta (spacecraft), Philae (spacecraft), Space probe, Lander (spacecraft), Mars, Astronomy, Spaceflight technologies, Outer space, Solar System, Spaceflight, Planetary science, Physical sciences, Astronautics, Space science, Bodies of the Solar System, Flight, Spacecraft]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Sugarcane Bioethanol Project in Sierra Leone Underscores the Challenge o
 date: 2015-09-12
 categories: Energy
 author: unknown author
-
+tags: [Clean Development Mechanism, Energy, Natural environment, Natural resources]
 ---
 
 

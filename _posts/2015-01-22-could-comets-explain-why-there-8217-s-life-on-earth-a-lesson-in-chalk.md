@@ -4,7 +4,7 @@ title: "Could comets explain why there&#8217;s life on Earth? A lesson in chalk"
 date: 2015-07-06
 categories: Interest
 author: Emilie Soffe
-
+tags: [Comet, Blackboard, Astronomy, Physical sciences, Outer space]
 ---
 
 

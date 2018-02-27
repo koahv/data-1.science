@@ -4,7 +4,7 @@ title: "World has lost 3 percent of its forests since 1990"
 date: 2015-09-15
 categories: Science
 author: unknown author
-
+tags: [Forest, Deforestation, Agriculture, Natural environment, Natural resource management, Natural resources, Economy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "How Autonomous Robots Map Their Environment"
 date: 2015-12-21
 categories: Technology
 author: kduffy
-
+tags: [Simultaneous localization and mapping, Robotics, Robot, Technology, Cognitive science, Areas of computer science, Cognition, Cybernetics, Artificial intelligence, Artificial objects, Emerging technologies]
 ---
 
 

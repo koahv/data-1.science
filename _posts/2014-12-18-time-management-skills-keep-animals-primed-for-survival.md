@@ -4,7 +4,7 @@ title: "Time management skills keep animals primed for survival"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [PLOS, Computational biology, Decision-making, Trade-off, Time, Open access, Science, Cognitive science, Cognition]
 ---
 
 

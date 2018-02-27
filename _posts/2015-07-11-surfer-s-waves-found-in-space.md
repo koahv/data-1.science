@@ -4,7 +4,7 @@ title: "'Surfer's Waves' Found in Space"
 date: 2015-07-14
 categories: Science
 author: unknown author
-
+tags: [Magnetosphere, Solar wind, THEMIS, Advanced Composition Explorer, Space weather, Space science, Outer space, Physical sciences, Astronomy, Planetary science, Nature, Solar System, Applied and interdisciplinary physics]
 ---
 
 

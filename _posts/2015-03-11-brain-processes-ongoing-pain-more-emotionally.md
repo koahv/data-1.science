@@ -4,7 +4,7 @@ title: "Brain processes ongoing pain more emotionally"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Perception, Pain, Electroencephalography, Emotion, Stimulus (physiology), Brain, Prefrontal cortex, Subjective experience, neuropsychology, Phenomenology, Behavioural sciences, Mental processes, Psychology, Neuropsychology, Neuropsychological assessment, Cognition, Psychological concepts, Cognitive science, Nervous system, Neuroscience]
 ---
 
 

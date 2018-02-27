@@ -4,7 +4,7 @@ title: "Exploring the human side of climate change adaptation"
 date: 2016-04-20
 categories: Science
 author: unknown author
-
+tags: [Climate change adaptation, Climate resilience, Climate change, Community, Stress (biology), Flood, Sustainability, Global warming, Natural environment, Change]
 ---
 
 

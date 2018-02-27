@@ -4,7 +4,7 @@ title: "Image: Magnetospheric Multiscale Observatories processed for launch"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Goddard Space Flight Center, NASA, Outer space, Magnetic reconnection, Magnetosphere, Astrotech Corporation, Astronomy, Space science, Spaceflight, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Large Hadron Collider resumes collisions after upgrade"
 date: 2015-05-06
 categories: Science
 author: unknown author
-
+tags: [Large Hadron Collider, CERN, Collider, Physical universe, Applied and interdisciplinary physics, Physics, Physical sciences, Particle physics, Physical cosmology, Science, Nature, Mechanics]
 ---
 
 

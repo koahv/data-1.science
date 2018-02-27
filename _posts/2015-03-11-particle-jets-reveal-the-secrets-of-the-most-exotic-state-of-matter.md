@@ -4,7 +4,7 @@ title: "Particle jets reveal the secrets of the most exotic state of matter"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Quarkgluon plasma, Large Hadron Collider, ATLAS experiment, Particle physics, Physics, Applied and interdisciplinary physics, Physical universe, Science, Nature, Nuclear physics, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Cold snap: Climate cooling and sea-level changes caused crocodilian retr
 date: 2015-09-28
 categories: Science
 author: unknown author
-
+tags: [Crocodilia, Extinction, Dinosaur, Earth, Global warming, Extinction event, Biodiversity, Climate change, Global natural environment, Organisms, Environmental science, Natural environment, Physical geography, Nature, Earth sciences]
 ---
 
 

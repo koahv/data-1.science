@@ -4,7 +4,7 @@ title: "Supernova Mysteries --Why Some Collaspe Into Black Holes to Form a Space
 date: 2015-05-10
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [SN 1987A, Type II supernova, Supernova, NuSTAR, Star, Outer space, Physical sciences, Astronomy, Physics, Nature, Stars, Astronomical objects, Applied and interdisciplinary physics, Physical cosmology]
 ---
 
 

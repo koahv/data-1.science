@@ -52,11 +52,11 @@ while IFS=$'\n' read -r line_data; do
 
 		rm extracted_tags.txt
 	
-		for output in $(echo "${response}" | jq -r '.[] | @base64'); do  
+		for line in $(echo "${response}" | jq -r '.[] | @base64'); do  
 	
 			request() {
 
-				echo ${output} | base64 --decode | jq -r ${1}
+				echo ${line} | base64 --decode | jq -r ${1}
 			}
 
 			label=$(request '.label')
@@ -110,3 +110,6 @@ while IFS=$'\n' read -r line_data; do
 	
 done < post_data/id.txt
 
+
+
+# SELECT COUNT(*) FROM ttrss_user_entries WHERE has_imported_tags=true;

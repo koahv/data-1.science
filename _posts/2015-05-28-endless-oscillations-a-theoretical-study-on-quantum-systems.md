@@ -4,7 +4,7 @@ title: "Endless oscillations: A theoretical study on quantum systems"
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Physics, Quantum mechanics, Energy, Theory, Thermodynamics, System, Laws of thermodynamics, Second law of thermodynamics, Matter, Modern physics, Science, Applied and interdisciplinary physics, Physical chemistry, Solid state engineering, Particle physics, Theoretical physics, Materials science, Chemistry, Mechanics, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "In search of tinnitus, that phantom ringing in the ears"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Tinnitus, Brain, Electroencephalography, Perception, Nervous system, Neuroscience, Cognitive science, Cognition, Psychological concepts, Neuropsychological assessment, Neuropsychology]
 ---
 
 

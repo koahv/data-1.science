@@ -4,7 +4,7 @@ title: "Discovery of new code makes reprogramming of cancer cells possible"
 date: 2016-05-31
 categories: Science
 author: unknown author
-
+tags: [CDH1 (gene), MicroRNA, Carcinogenesis, Cancer, Cell membrane, Biology, Cell biology, Molecular biology, Life sciences, Biochemistry, Biotechnology, Neoplasms]
 ---
 
 

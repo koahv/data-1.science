@@ -4,7 +4,7 @@ title: "Extreme makeover: Humankind's unprecedented transformation of Earth"
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Anthropocene, Nature, Earth sciences, Science, Natural environment, Biology]
 ---
 
 

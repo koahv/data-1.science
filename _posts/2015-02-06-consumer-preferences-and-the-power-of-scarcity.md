@@ -4,7 +4,7 @@ title: "Consumer preferences and the power of scarcity"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Advertising, Website, Psychological concepts, Psychology, Communication, Cognition]
 ---
 
 

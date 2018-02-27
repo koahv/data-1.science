@@ -4,7 +4,7 @@ title: "Scientists produce strongest evidence yet of schizophrenia's causes"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Genetics, Schizophrenia, Mental disorder, Mutation, Copy-number variation, Disease, Health, Brain, Autism spectrum, Causes of schizophrenia, Spectrum disorder, Medicine, Psychiatry, Psychiatry-related fields, Clinical psychology, Behavioural sciences, Abnormal psychology, Nervous system, Psychology, Biology, Psychiatric diagnosis, Neuroscience, Mental health, Medical specialties, Medical diagnosis, Clinical medicine, Mental and behavioural disorders]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Researchers successfully produce genome-edited pigs using revolutionary 
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [CRISPR, Genome editing, Human, Bacteria, Life sciences, Organisms, Biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "CRISPR technology brings precise genetic editing – and raises ethical 
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [CRISPR, Genome editing, Transcription activator-like effector nuclease, Biology, Life sciences, Organisms, Genetics, Biotechnology]
 ---
 
 

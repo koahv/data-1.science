@@ -4,7 +4,7 @@ title: "Construction begins 2016 for Hyperloop on five-mile stretch"
 date: 2015-07-25
 categories: Science
 author: unknown author
-
+tags: [Hyperloop, Hyperloop Transportation Technologies, Transport, Technology, Artificial objects]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Ceres image: The lonely mountain"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Dawn (spacecraft), Ceres (dwarf planet), Astronomy, Mars, Galaxy, Physical sciences, Outer space, Planetary science]
 ---
 
 

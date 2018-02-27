@@ -4,7 +4,7 @@ title: "Innovative imaging technique reveals new cellular secrets"
 date: 2016-06-30
 categories: Science
 author: unknown author
-
+tags: [Spindle pole body, Biology, Cell biology, Chemistry, Life sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Cancer survivors have evolving information needs"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Cancer survivor, Cancer, Breast cancer, Prostate cancer, Risk, Health, Medicine, Health sciences, Medical specialties, Health care]
 ---
 
 

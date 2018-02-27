@@ -4,7 +4,7 @@ title: "The Free Software Foundation: 30 years in"
 date: 2015-09-08
 categories: Open Source
 author: jonobacon
-
+tags: [Free software, GNU General Public License, Free Software Foundation, GNU, Digital rights management, Software, Free software license, Free software movement, Free and open-source software, Linux, Computing, Digital technology, Computer engineering, Open-source movement, Free content, Intellectual works]
 ---
 
 

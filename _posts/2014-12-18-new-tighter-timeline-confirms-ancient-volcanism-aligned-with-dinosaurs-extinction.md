@@ -4,7 +4,7 @@ title: "New, tighter timeline confirms ancient volcanism aligned with dinosaurs'
 date: 2015-09-14
 categories: Science
 author: unknown author
-
+tags: [Deccan Traps, Volcano, Extinction event, Types of volcanic eruptions, Chicxulub crater, Physical sciences, Physical geography, Geology, Nature, Earth sciences]
 ---
 
 

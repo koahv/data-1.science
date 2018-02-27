@@ -4,7 +4,7 @@ title: "Researchers discover new mechanism controlling cell response to DNA dama
 date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [DNA repair, Cancer, Ubiquitin, Sirtuin 1, Apoptosis, Protein, DNA, Biology, Biochemistry, Cellular processes, Life sciences, Molecular biology, Cell biology, Biotechnology, Chemistry]
 ---
 
 

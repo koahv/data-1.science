@@ -4,7 +4,7 @@ title: "Who's Writing Linux Kernel Code?  More and More People, Says Linux Found
 date: 2015-06-05
 categories: Linux
 author: unknown author
-
+tags: [Linux, Linux kernel, Linux Foundation, Operating system, Free and open-source software, Computing, Software]
 ---
 
 

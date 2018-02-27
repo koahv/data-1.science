@@ -4,7 +4,7 @@ title: "Glass of water before each meal could help in weight reduction"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Obesity, Dieting, Physical exercise, Health, Weight loss, Health care]
 ---
 
 

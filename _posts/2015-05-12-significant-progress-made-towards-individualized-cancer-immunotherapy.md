@@ -4,7 +4,7 @@ title: "Significant progress made towards individualized cancer immunotherapy"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Cancer, Neoplasm, Immune system, Genetics, Mutation, Vaccine, Immunotherapy, Research, Biology, Diseases and disorders, Health, Biotechnology, Neoplasms, Health sciences, Life sciences, Clinical medicine, Medical specialties, Medicine]
 ---
 
 

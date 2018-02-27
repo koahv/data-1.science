@@ -4,7 +4,7 @@ title: "Ultra-tough fiber imitates structure of spider silk"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Spider silk, Fiber, Polymer, Composite material, Silk, Manufacturing, Materials, Chemistry, Artificial materials, Artificial objects, Materials science, Chemical product engineering, Applied and interdisciplinary physics]
 ---
 
 

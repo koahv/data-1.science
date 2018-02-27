@@ -4,7 +4,7 @@ title: "Watch invisible gravity waves rumble through the atmosphere"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Geomagnetic storm, Atmosphere of Earth, Ionosphere, Atmosphere, Earth, Earth sciences, Physical geography, Meteorology, Physical sciences, Atmospheric sciences, Physical phenomena, Nature, Applied and interdisciplinary physics]
 ---
 
 

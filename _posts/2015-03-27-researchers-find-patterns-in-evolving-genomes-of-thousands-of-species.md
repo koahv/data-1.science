@@ -4,7 +4,7 @@ title: "Researchers find patterns in evolving genomes of thousands of species"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Genetics, DNA, Nucleobase, Gene, Genome, GC-content, Species, Evolution, Human, Biochemistry, Biotechnology, Molecular biology, Organisms, Life sciences, Biology]
 ---
 
 

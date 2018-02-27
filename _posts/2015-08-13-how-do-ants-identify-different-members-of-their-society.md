@@ -4,7 +4,7 @@ title: "How do ants identify different members of their society?"
 date: 2016-05-26
 categories: Science
 author: unknown author
-
+tags: [Eusociality, Olfaction, Ant, Antenna (biology), Odor, Pheromone, Biology]
 ---
 
 

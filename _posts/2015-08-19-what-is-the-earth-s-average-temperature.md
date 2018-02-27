@@ -4,7 +4,7 @@ title: "What is the Earth's average temperature?"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [Earth, Sun, Planet, Atmosphere of Earth, Mars, Season, Solar System, Circumstellar habitable zone, Planetary habitability, Saturn, Ice age, Equator, Climate, Greenhouse effect, Meteorology, Physical geography, Planets of the Solar System, Astronomy, Outer space, Planetary science, Earth sciences, Space science, Nature, Physical sciences]
 ---
 
 

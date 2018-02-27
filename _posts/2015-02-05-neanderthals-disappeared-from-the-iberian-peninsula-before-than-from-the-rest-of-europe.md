@@ -4,7 +4,7 @@ title: "Neanderthals disappeared from the Iberian Peninsula before than from the
 date: 2015-07-20
 categories: Science
 author: unknown author
-
+tags: [Neanderthal, Spain, American Association for the Advancement of Science, Human, Human evolution, Science]
 ---
 
 

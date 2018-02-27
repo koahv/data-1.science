@@ -4,7 +4,7 @@ title: "Jupiter's Ganymede: Hubble Reveals a Buried Ocean 100 Kilometers Deep"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Ganymede (moon), Jupiter, Moon, Hubble Space Telescope, Aurora, Ocean, Earth, Space science, Physical sciences, Solar System, Planetary science, Bodies of the Solar System, Planets of the Solar System, Planets, Outer space, Astronomy]
 ---
 
 

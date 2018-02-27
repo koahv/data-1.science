@@ -4,7 +4,7 @@ title: "Scientists uncover gene 'architects' responsible for body's blueprint"
 date: 2016-04-22
 categories: Science
 author: unknown author
-
+tags: [Evolution, Epigenetics, Hox gene, Gene, Biology, Mutation, Genetics, Ecology, Adaptation, Drosophila melanogaster, Embryo, Point mutation, DNA methylation, DNA, Reproduction, Organisms, Life sciences]
 ---
 
 

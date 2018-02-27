@@ -4,7 +4,7 @@ title: "Tiny plant fossils offer window into Earth's landscape millions of years
 date: 2015-09-05
 categories: Astronomy
 author: unknown author
-
+tags: [Phytolith, Leaf, Plant, Ecosystem, Fossil, Natural environment, Earth sciences, Biology, Organisms, Nature]
 ---
 
 

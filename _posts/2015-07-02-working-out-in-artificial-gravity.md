@@ -4,7 +4,7 @@ title: "Working out in artificial gravity"
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Artificial gravity, Astronaut, Stationary bicycle, Centrifuge, Spaceflight, Outer space, Astronautics, Flight]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Eardrum evolved independently in mammals and reptiles/birds"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Middle ear, Ear, Evolution, Biology, Organisms, Evolutionary biology, Life sciences]
 ---
 
 

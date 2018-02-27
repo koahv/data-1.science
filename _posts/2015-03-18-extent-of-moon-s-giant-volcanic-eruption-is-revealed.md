@@ -4,7 +4,7 @@ title: "Extent of Moon's giant volcanic eruption is revealed"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Volcano, Moon, ComptonBelkovich Thorium Anomaly, Mars, Types of volcanic eruptions, Astronomy, Lava, Planets of the Solar System, Planetary science, Outer space, Physical sciences]
 ---
 
 

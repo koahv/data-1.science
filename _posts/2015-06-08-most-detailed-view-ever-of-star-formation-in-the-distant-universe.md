@@ -4,7 +4,7 @@ title: "Most detailed view ever of star formation in the distant universe"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Atacama Large Millimeter Array, Astronomy, Milky Way, Gravitational lens, Einstein ring, European Southern Observatory, Star formation, Hubble Space Telescope, Black hole, Galaxy, Star, Mars, Submillimetre astronomy, Outer space, Physical sciences, Astronomical objects]
 ---
 
 

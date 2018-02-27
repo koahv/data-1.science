@@ -4,7 +4,7 @@ title: "Tail as old as time—researchers trace ankylosaur's tail evolution"
 date: 2015-09-02
 categories: Science
 author: unknown author
-
+tags: [Ankylosaurus, Ankylosauria, Dinosaur, Organisms]
 ---
 
 

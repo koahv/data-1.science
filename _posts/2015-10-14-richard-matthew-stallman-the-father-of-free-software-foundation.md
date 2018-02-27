@@ -4,7 +4,7 @@ title: "Richard Matthew Stallman – The Father Of Free Software Foundation"
 date: 2015-10-16
 categories: Linux
 author: Roy Schestowitz
-
+tags: [Linux, Ubuntu (operating system), Free software, Windows 10, Unity (user interface), Open-source movement, Software, Computing, System software, Computer engineering, Computers, Digital media, Free content, Public commons, Operating system families, Linus Torvalds, Free software projects]
 ---
 
 

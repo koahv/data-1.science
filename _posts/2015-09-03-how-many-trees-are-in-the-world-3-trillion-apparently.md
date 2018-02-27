@@ -4,7 +4,7 @@ title: "How many trees are in the world? 3 trillion, apparently"
 date: 2015-09-04
 categories: Tech
 author: Colm Gorey
-
+tags: [Earth, Forest, Tree, Deforestation, Environmental science, Natural environment]
 ---
 
 

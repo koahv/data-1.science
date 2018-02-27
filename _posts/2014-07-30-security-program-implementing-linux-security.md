@@ -4,7 +4,7 @@ title: "Security Program: Implementing Linux Security"
 date: 2015-09-30
 categories: Linux
 author: Michael Boelen
-
+tags: [Patch (computing), Computer security, Computer network, Kernel (operating system), Password, Software, Authentication, Digital technology, Computer engineering, Technology, Information technology management, Areas of computer science, Computing]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Genome editing in mitochondria prevents inheritance of diseases"
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Mitochondrial disease, Mitochondrion, Mitochondrial DNA, Mitochondrial replacement therapy, Biotechnology, Genetics, Life sciences, Biology, Medicine, Biochemistry, Medical specialties, Diseases and disorders, Organisms]
 ---
 
 

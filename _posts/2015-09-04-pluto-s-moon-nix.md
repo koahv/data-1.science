@@ -4,7 +4,7 @@ title: "Pluto's moon Nix"
 date: 2016-06-29
 categories: Science
 author: unknown author
-
+tags: [Nix (moon), Hydra (moon), Pluto, Charon (moon), New Horizons, Styx (moon), Outer space, Space science, Physical sciences, Bodies of the Solar System, Solar System, Planetary science, Astronomy]
 ---
 
 

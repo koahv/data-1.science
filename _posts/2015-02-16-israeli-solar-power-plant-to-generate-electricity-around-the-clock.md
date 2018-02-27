@@ -4,7 +4,7 @@ title: "Israeli solar power plant to generate electricity around the clock"
 date: 2015-07-04
 categories: Energy
 author: Josh Marks
-
+tags: [Solar power, Renewable energy, Power station, Solar energy, Energy storage, Electricity generation, Energy, Concentrated solar power, Alternative energy, Natural resources, Nature, Physical universe, Sustainable technologies, Energy sources, Energy production, Sustainable energy, Energy conversion, Renewable resources, Sustainable development, Energy technology, Power (physics), Electric power, Artificial objects, Technology]
 ---
 
 

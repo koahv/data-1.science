@@ -4,7 +4,7 @@ title: "Skin tough"
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Skin, Office of Science, Collagen, Lawrence Berkeley National Laboratory, Dermis, Microscopy, Fracture, Deformation (engineering), Science, Applied and interdisciplinary physics, Chemistry]
 ---
 
 

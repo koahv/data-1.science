@@ -4,7 +4,7 @@ title: "Using CRISPR, biologists find a way to comprehensively identify anti-can
 date: 2016-04-30
 categories: Science
 author: unknown author
-
+tags: [Acute myeloid leukemia, Leukemia, CRISPR, Cancer, Protein, Cell (biology), Chronic myelogenous leukemia, Cancer cell, Cold Spring Harbor Laboratory, Biology, Life sciences, Biotechnology, Organisms, Biochemistry]
 ---
 
 

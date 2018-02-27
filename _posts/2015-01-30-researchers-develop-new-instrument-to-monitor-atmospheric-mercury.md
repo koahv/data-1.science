@@ -4,7 +4,7 @@ title: "Researchers develop new instrument to monitor atmospheric mercury"
 date: 2015-09-08
 categories: Science
 author: unknown author
-
+tags: [Mercury (element), University of Miami, Air pollution, Mercury regulation in the United States]
 ---
 
 

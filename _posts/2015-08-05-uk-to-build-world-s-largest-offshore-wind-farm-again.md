@@ -4,7 +4,7 @@ title: "UK To Build World’s Largest Offshore Wind Farm, Again"
 date: 2015-09-12
 categories: Energy
 author: unknown author
-
+tags: [Wind power, Dogger Bank Wind Farm, Offshore wind power, Forewind, Physical universe, Alternative energy, Power (physics), Renewable energy, Sustainable energy, Renewable resources, Electric power, Energy, Nature, Renewable electricity, Sustainable development]
 ---
 
 

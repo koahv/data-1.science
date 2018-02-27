@@ -4,7 +4,7 @@ title: "What's coming after Hubble and James Webb? The High-Definition Space Tel
 date: 2016-05-26
 categories: Science
 author: unknown author
-
+tags: [James Webb Space Telescope, Hubble Space Telescope, Astronomy, Telescope, Exoplanet, Outer space, Physical sciences, Space science]
 ---
 
 

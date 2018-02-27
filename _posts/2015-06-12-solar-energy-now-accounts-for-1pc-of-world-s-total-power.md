@@ -4,7 +4,7 @@ title: "Solar energy now accounts for 1pc of world’s total power"
 date: 2015-07-17
 categories: Tech
 author: Colm Gorey
-
+tags: [Solar power, News, Renewable resources, Sustainable energy, Nature, Renewable energy, Physical universe, Energy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Dust from the Sahara Desert cools the Iberian Peninsula"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Particulates, Aerosol, Desert, Earth, Atmosphere, Dust, Global warming, Meteorology, Atmospheric sciences, Earth sciences, Physical geography, Physical sciences, Applied and interdisciplinary physics, Nature, Radiation]
 ---
 
 

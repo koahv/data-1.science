@@ -4,7 +4,7 @@ title: "Magnetic Field of the Sun Shapes the Massive Heliosphere Bubble"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Heliosphere, Solar wind, Interstellar Boundary Explorer, Sun, Voyager 1, Physics, Stellar astronomy, Solar System, Applied and interdisciplinary physics, Astronomical objects, Astrophysics, Space science, Nature, Outer space, Astronomy, Physical sciences]
 ---
 
 

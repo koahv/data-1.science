@@ -4,7 +4,7 @@ title: "Learn it Faster: The Complete Linux Kernel in a Single Map"
 date: 2015-10-14
 categories: Linux
 author: Adarsh Verma
-
+tags: [Linux, Kernel (operating system), Linux kernel, Map, Technology, Digital media, System software, Computer programming, Computer engineering, Computers, Areas of computer science, Software, Computing]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Nature's GMOs: Parasites Alter Butterfly Genomes Using Viruses"
 date: 2016-07-04
 categories: Science
 author: unknown author
-
+tags: [Bracovirus, Braconidae, Lepidoptera, Wasp, Caterpillar, Gene, Virus, Genetic engineering, Insect, Genetics, Species, Parasitoid wasp, Organisms, Biology, Life sciences]
 ---
 
 

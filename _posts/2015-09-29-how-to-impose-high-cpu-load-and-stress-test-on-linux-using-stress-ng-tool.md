@@ -4,7 +4,7 @@ title: "How to Impose High CPU Load and Stress Test on Linux Using â€˜Stress-ngâ
 date: 2015-09-29
 categories: Linux
 author: Aaron Kili
-
+tags: [Load (computing), Yellow Dog Updater Modified, Linux, APT (Debian), Areas of computer science, Digital media, Digital technology, Computing, Software, Computers, System software, Computer architecture, Computer engineering, Operating system technology]
 ---
 
 

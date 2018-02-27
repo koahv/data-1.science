@@ -4,7 +4,7 @@ title: "Second natural quasicrystal found in ancient meteorite"
 date: 2015-09-05
 categories: Astronomy
 author: unknown author
-
+tags: [Quasicrystal, Paul Steinhardt, Physical sciences, Science]
 ---
 
 

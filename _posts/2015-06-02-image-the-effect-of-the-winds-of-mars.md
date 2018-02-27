@@ -4,7 +4,7 @@ title: "Image: The effect of the winds of Mars"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Mars, Impact crater, Moon, Astronomy, Galaxy, Planets of the Solar System, Planetary science, Outer space, Physical sciences, Solar System, Bodies of the Solar System, Space science]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Experience of time is altered in depression, meta-study shows"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Major depressive disorder, Meta-analysis, Psychology, Time perception, Cognition, Science, Neuroscience, Behavioural sciences, Psychological concepts, Clinical psychology, Cognitive science, Emergence]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Magnetic Orion"
 date: 2015-05-20
 categories: Astronomy
 author: unknown author
-
+tags: [Star formation, Cosmic dust, Milky Way, Interstellar medium, Star, Orion Nebula, Molecular cloud, Planck (spacecraft), Astrophysics, Stars, Applied and interdisciplinary physics, Outer space, Astronomical objects, Physical sciences, Astronomy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Ozone layer heals while carbon dioxide emissions reach desperately high 
 date: 2015-05-14
 categories: Energy
 author: Colin Payne
-
+tags: [Greenhouse gas, Global environmental issues, Climate change, Meteorology, Atmospheric sciences, Future problems, Climatology, Atmosphere of Earth, Physical geography, Change]
 ---
 
 

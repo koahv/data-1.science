@@ -4,7 +4,7 @@ title: "Mars One Life Support Plans Examined"
 date: 2015-12-21
 categories: Technology
 author: mcrouse
-
+tags: [Life support system, Mars One, Mars, Spaceflight, Artificial objects, Outer space]
 ---
 
 

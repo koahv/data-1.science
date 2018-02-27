@@ -4,7 +4,7 @@ title: "Scientists transfer pathogen-sensing ‘ANTENNA’ gene to wheat"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Arabidopsis thaliana, Pseudomonas syringae, Bacteria, Organisms, Biology, Life sciences, Biotechnology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Genetic basis of color diversity in coral reefs discovered"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Coral, Coral reef, Coral bleaching, Systems ecology, Organisms, Biology]
 ---
 
 

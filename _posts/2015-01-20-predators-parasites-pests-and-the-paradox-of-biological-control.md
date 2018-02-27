@@ -4,7 +4,7 @@ title: "Predators, parasites, pests and the paradox of biological control"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Biological pest control, Predation, Caterpillar, Ecology, Biology, Natural environment, Organisms]
 ---
 
 

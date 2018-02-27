@@ -4,7 +4,7 @@ title: "Crossing the boundary from high to low on Mars"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Cydonia (region of Mars), Impact crater, Mesa, Space science, Bodies of the Solar System, Earth sciences, Geology, Mars, Planetary science, Planets of the Solar System]
 ---
 
 

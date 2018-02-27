@@ -4,7 +4,7 @@ title: "Self-replicating nanostructures made from DNA"
 date: 2016-05-03
 categories: Science
 author: unknown author
-
+tags: [DNA, DNA replication, Protein, Cell (biology), Organism, Self-replication, RNA, Self-assembly, Genetics, Nucleic acid sequence, Nanotechnology, Organisms, Biotechnology, Biochemistry, Artificial objects, Molecular biology, Chemistry, Life sciences, Biology]
 ---
 
 

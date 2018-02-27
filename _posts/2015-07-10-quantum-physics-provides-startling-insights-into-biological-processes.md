@@ -4,7 +4,7 @@ title: "Quantum physics provides startling insights into biological processes"
 date: 2015-07-12
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Physics, Quantum superposition, Energy, Experiment, MicroRNA, Biology, Physical sciences, Nature]
 ---
 
 

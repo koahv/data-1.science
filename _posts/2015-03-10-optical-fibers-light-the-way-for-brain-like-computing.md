@@ -4,7 +4,7 @@ title: "Optical Fibers Light the Way for Brain-Like Computing"
 date: 2015-12-07
 categories: Technology
 author: kduffy
-
+tags: [Brain, Photonics, Neuron, Optics, Nervous system, Computing, Neuromorphic engineering, Neuroscience, Technology, Artificial objects]
 ---
 
 

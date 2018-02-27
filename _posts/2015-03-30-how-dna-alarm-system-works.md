@@ -4,7 +4,7 @@ title: "How DNA alarm-system works"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [DNA repair, DNA, ATM serinethreonine kinase, Mutation, Ataxia-telangiectasia, Life sciences, Biochemistry, Molecular biology, Biotechnology, Organisms, Macromolecules, Cell biology, Nucleic acids, Genetics, Biology]
 ---
 
 

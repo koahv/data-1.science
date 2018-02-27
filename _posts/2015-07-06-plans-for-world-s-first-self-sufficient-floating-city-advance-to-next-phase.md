@@ -4,7 +4,7 @@ title: "Plans for world’s first self-sufficient floating city advance to next 
 date: 2015-07-09
 categories: Energy
 author: Cat DiStasio
-
+tags: [Design, Technology, Business]
 ---
 
 

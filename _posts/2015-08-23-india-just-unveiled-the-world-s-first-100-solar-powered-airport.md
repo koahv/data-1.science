@@ -4,7 +4,7 @@ title: "India just unveiled the world’s first 100% solar-powered airport"
 date: 2015-09-02
 categories: Energy
 author: Katie Medlock
-
+tags: [Solar energy, Cochin International Airport, Energy and the environment, Physical universe, Energy, Sustainable energy, Renewable energy, Nature, Renewable resources, Sustainable development, Alternative energy, Sustainable technologies, Energy sources, Natural resources, Power (physics), Electric power]
 ---
 
 

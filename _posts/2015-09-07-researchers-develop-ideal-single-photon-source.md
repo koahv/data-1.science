@@ -4,7 +4,7 @@ title: "Researchers develop ideal single-photon source"
 date: 2015-09-08
 categories: Science
 author: unknown author
-
+tags: [Photon, Single-photon source, Quantum dot, Physics, Photonics, Applied and interdisciplinary physics, Condensed matter physics, Physical sciences, Modern physics, Quantum mechanics, Solid state engineering, Chemistry, Materials science, Science, Particle physics, Mechanics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Can Heat Be Controlled as Waves?"
 date: 2015-09-13
 categories: Technology
 author: kduffy
-
+tags: [Band gap, Photon, Photonics, Thermal conductivity, Heat transfer, Thermoelectric materials, Phonon, Semiconductor, Chemical product engineering, Building engineering, Manufacturing, Applied and interdisciplinary physics, Chemistry, Materials, Materials science, Physics, Physical chemistry, Artificial objects, Nature, Physical sciences, Condensed matter physics]
 ---
 
 

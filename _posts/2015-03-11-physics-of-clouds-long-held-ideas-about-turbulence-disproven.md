@@ -4,7 +4,7 @@ title: "Physics of clouds: Long-held ideas about turbulence disproven"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Heat transfer, Turbulence, Heat, Atmosphere of Earth, Convection, Tornado, Cloud, Nusselt number, Thermal, Horizontal convective rolls, Physical sciences, Mechanics, Continuum mechanics, Nature, Physics, Applied and interdisciplinary physics]
 ---
 
 

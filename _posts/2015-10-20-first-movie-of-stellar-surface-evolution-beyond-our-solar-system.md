@@ -4,7 +4,7 @@ title: "First movie of stellar-surface evolution beyond our Solar System"
 date: 2015-10-22
 categories: Science
 author: unknown author
-
+tags: [Star, Leibniz Institute for Astrophysics Potsdam, Sun, Astrophysics, Astronomy, Physical sciences, Outer space, Applied and interdisciplinary physics, Stellar astronomy, Stars, Astronomical objects]
 ---
 
 

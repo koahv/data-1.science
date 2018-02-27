@@ -4,7 +4,7 @@ title: "Epigenetic Marks Lay Foundations for a Child’s Future Abilities"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Epigenetics, Brain, Gene, Gene expression, HES1, Cognition, Memory, Neural development, DNA, Research, Life sciences, Genetics, Neuroscience, Biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "First 'images' of thunder: Sound waves captured visually"
 date: 2015-05-06
 categories: Science
 author: unknown author
-
+tags: [Lightning, Physical phenomena, Applied and interdisciplinary physics, Waves]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Solar Impulse 2 takes off on first round-the-world flight powered entire
 date: 2015-07-04
 categories: Energy
 author: Lucy Wang
-
+tags: [Solar Impulse, Aviation, Nature, Sustainable development, Sustainable technologies, Physical universe, Renewable resources, Sustainable energy, Renewable energy, Alternative energy, Energy]
 ---
 
 

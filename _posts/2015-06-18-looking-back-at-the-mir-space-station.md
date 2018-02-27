@@ -4,7 +4,7 @@ title: "Looking back at the Mir space station"
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Mir, International Space Station, Salyut programme, Human spaceflight, Spacecraft, Progress (spacecraft), ShuttleMir Program, Astronaut, NASA, Soyuz (spacecraft), Space stations, Aerospace engineering, Government programs, Manned spacecraft, Space programs, Space-based economy, Aerospace, Space industry, Manned space program of the Soviet Union, Space colonization, Flight, Astronautics, Spaceflight technologies, Outer space, Human spaceflight programs, Spaceflight]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Linux System Integrity Explained: Ensure Data, Logging and Kernel Integr
 date: 2015-09-30
 categories: Linux
 author: Michael Boelen
-
+tags: [Data integrity, File system, Computer data storage, Computer file, Linux kernel, Lynis, Database, Malware, Error detection and correction, Booting, Computer architecture, Information technology, Computers, Digital technology, Data management, Operating system technology, Technology, Areas of computer science, Computing, Information technology management, Software, Computer data, Computer engineering, Data]
 ---
 
 

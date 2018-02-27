@@ -4,7 +4,7 @@ title: "Where Is the Birthplace of Humankind? South Africa and East Africa Both 
 date: 2015-09-14
 categories: Science
 author: Evan Hadingham
-
+tags: [Cradle of Humankind, Malapa Fossil Site Cradle of Humankind, Australopithecus, Homo naledi, Australopithecus sediba, Homo, Human evolution, Lucy (Australopithecus), Olduvai Gorge, Paleoanthropology, Vertebrate paleozoology, Pliocene, Hominini]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Kiwi bird genome sequenced"
 date: 2016-05-15
 categories: Science
 author: unknown author
-
+tags: [Kiwi, Life sciences, Organisms, Biology]
 ---
 
 

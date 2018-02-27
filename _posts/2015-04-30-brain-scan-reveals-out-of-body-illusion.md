@@ -4,7 +4,7 @@ title: "Brain scan reveals out-of-body illusion"
 date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [Perception, Brain, Illusion, Neuroscience, Physical body, Out-of-body experience, Sense, Place cell, Cognitive science, Emergence, Metaphysics of mind, Nervous system, Cognition, Psychological concepts, Neuropsychological assessment, Neuropsychology, Mental processes, Phenomenology, Epistemology, neuropsychology, Psychology]
 ---
 
 

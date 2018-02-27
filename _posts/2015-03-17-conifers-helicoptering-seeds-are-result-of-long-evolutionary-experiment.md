@@ -4,7 +4,7 @@ title: "Conifers' helicoptering seeds are result of long evolutionary experiment
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Pinophyta, Seed dispersal, Permian, Seed, Fossil, Tree, Paleobotany, Fern, Agathis australis, Evolution, Nature, Biology, Organisms]
 ---
 
 

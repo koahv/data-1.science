@@ -4,7 +4,7 @@ title: "Understanding how to teach 'intelligence'"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Problem solving, Research, Education, Strategic management, Change, Educational psychology, Communication, Learning, Emergence, Epistemology, Applied psychology, Cognition, Cognitive science, Psychological concepts, Behavior modification, Psychology, Science]
 ---
 
 

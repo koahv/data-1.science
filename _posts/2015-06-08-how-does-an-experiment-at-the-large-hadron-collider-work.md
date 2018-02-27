@@ -4,7 +4,7 @@ title: "How does an experiment at the Large Hadron Collider work?"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Particle physics, Large Hadron Collider, CERN, Standard Model, Physics, Physical sciences, Applied and interdisciplinary physics, Mechanics, Science, Theoretical physics]
 ---
 
 

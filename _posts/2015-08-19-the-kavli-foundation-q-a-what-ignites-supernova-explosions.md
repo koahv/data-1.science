@@ -4,7 +4,7 @@ title: "The Kavli Foundation Q&A: What Ignites Supernova Explosions?"
 date: 2015-08-25
 categories: Astronomy
 author: The Editors of Sky Telescope
-
+tags: [Supernova, Type Ia supernova, Star, Cosmic distance ladder, Astronomy, Dark energy, White dwarf, Milky Way, Astrophysics, Universe, Binary star, Theory, Physics, Physical universe, Physical sciences, Outer space, Astronomical objects, Nature, Stars, Physical cosmology]
 ---
 
 

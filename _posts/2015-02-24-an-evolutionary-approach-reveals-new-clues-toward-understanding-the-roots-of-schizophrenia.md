@@ -4,7 +4,7 @@ title: "An evolutionary approach reveals new clues toward understanding the root
 date: 2015-12-07
 categories: Technology
 author: unknown author
-
+tags: [Evolution, Human, Schizophrenia, Gene, Brain, Mental disorder, Genome, Human evolution, Biology, Genome-wide association study, Mutation, Organisms, Neuroscience, Life sciences, Genetics]
 ---
 
 

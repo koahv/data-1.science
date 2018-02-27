@@ -4,7 +4,7 @@ title: "8 excellent open source data visualization tools"
 date: 2015-06-25
 categories: Open Source
 author: tiwarinitish86
-
+tags: [Leaflet (software), Software development, Digital technology, Areas of computer science, Computing, Software, Technology, Digital media, Software engineering]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Interview with Linus Torvalds on Slashdot"
 date: 2015-07-04
 categories: Linux
 author: Administrator
-
+tags: [Linux kernel, Git, Linus Torvalds, Software, Computing, Finnish computer programmers, Linux kernel programmers, Finnish computer scientists, Linux people]
 ---
 
 

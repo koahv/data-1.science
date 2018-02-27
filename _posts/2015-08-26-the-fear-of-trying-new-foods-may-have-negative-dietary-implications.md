@@ -4,7 +4,7 @@ title: "The fear of trying new foods may have negative dietary implications"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Neophobia, Food, Mediterranean diet, Anxiety, Child development, Child, Adolescence, Infant, Advertising, Social rejection, Psychology, Behavioural sciences, Psychological concepts, Health]
 ---
 
 

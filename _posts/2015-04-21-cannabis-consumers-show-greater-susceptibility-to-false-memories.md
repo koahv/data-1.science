@@ -4,7 +4,7 @@ title: "Cannabis consumers show greater susceptibility to false memories"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Memory, Confabulation, Cognitive neuroscience, Neuroscience, Cognitive science, Cognition, Neuropsychological assessment, Neuropsychology, Psychological concepts, Mental processes, Clinical psychology, Limbic system, neuropsychology, Psychology, Nervous system, Epistemology, Behavioural sciences, Phenomenology, Action (philosophy)]
 ---
 
 

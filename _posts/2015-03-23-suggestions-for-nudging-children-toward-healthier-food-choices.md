@@ -4,7 +4,7 @@ title: "Suggestions for Nudging Children toward Healthier Food Choices"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Food choice, Health, Food, Healthy diet, Obesity, Choice architecture, Economics, Psychological concepts]
 ---
 
 

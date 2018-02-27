@@ -4,7 +4,7 @@ title: "Powerful DNA 'Editing' Has Arrived, Are We Ready for It?"
 date: 2016-05-16
 categories: Science
 author: unknown author
-
+tags: [Cas9, CRISPR, Gene, DNA, Genome editing, Genetics, Designer baby, Mutation, Biochemistry, Molecular biology, Organisms, Biotechnology, Life sciences, Biology]
 ---
 
 

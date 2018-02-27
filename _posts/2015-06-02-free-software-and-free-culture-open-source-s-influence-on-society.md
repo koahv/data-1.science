@@ -4,7 +4,7 @@ title: "Free Software and Free Culture: Open Source's Influence on Society"
 date: 2015-05-15
 categories: Linux
 author: unknown author
-
+tags: [Free and open-source software, Open-source software, Free software, Free culture movement, GNU General Public License, Software, Open-source model, Transparency (behavior), Culture, Communication, Open-source movement, Intellectual works, Computing, Public sphere]
 ---
 
 

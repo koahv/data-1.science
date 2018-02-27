@@ -4,7 +4,7 @@ title: "Enlisting symmetry to protect quantum states from disruptions"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Spin (physics), Physics, Energy level, Energy, Spin-, Quantum simulator, Matter, Symmetry, Quantum entanglement, System, Solid, Electron configuration, Information, Science, Quantum computing, Materials science, Physical sciences, Mechanics, Applied and interdisciplinary physics, Particle physics, Theoretical physics, Solid state engineering, Chemistry, Condensed matter physics, Modern physics]
 ---
 
 

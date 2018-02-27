@@ -4,7 +4,7 @@ title: "New species of human relative discovered in S.A. cave"
 date: 2015-09-12
 categories: Science
 author: unknown author
-
+tags: [Homo naledi, Rising Star Cave]
 ---
 
 

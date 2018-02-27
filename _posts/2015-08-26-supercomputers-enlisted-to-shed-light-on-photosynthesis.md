@@ -4,7 +4,7 @@ title: "Supercomputers enlisted to shed light on photosynthesis"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Supercomputer, Computer, Simulation, Computing, Atom, Molecule, Physics, Light, Photosynthesis, Quantum computing, Mechanics, System, Physical sciences, Science]
 ---
 
 

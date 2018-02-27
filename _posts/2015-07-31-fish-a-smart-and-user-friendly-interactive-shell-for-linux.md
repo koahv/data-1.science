@@ -4,7 +4,7 @@ title: "Fish – A Smart and User-Friendly Interactive Shell for Linux"
 date: 2015-08-07
 categories: Linux
 author: Avishek Kumar
-
+tags: [APT (Debian), CentOS, Red Hat Enterprise Linux, Ubuntu (operating system), Debian, Bash (Unix shell), Command-line interface, Fedora (operating system), Unix, Linux, Free software, Operating system technology, System software, Computing, Software]
 ---
 
 

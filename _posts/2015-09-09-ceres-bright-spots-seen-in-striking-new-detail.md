@@ -4,7 +4,7 @@ title: "Ceres' bright spots seen in striking new detail"
 date: 2016-06-30
 categories: Science
 author: unknown author
-
+tags: [Dawn (spacecraft), Ceres (dwarf planet), Bright spots on Ceres, Mars, Astronomy, Planetary science, Outer space, Physical sciences, Space science]
 ---
 
 

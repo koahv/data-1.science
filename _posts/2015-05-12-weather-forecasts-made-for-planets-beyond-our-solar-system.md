@@ -4,7 +4,7 @@ title: "Weather forecasts made for planets beyond our solar system"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Planet, Kepler (spacecraft), Star, Exoplanet, Astronomy, Weather, Earth, Wind, Science, Planetary science, Nature, Scientific observation, Outer space, Applied and interdisciplinary physics, Space science, Physical sciences]
 ---
 
 

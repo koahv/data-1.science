@@ -4,7 +4,7 @@ title: "Ice on Mars: Mars has belts of glaciers consisting of frozen water"
 date: 2016-04-21
 categories: Science
 author: unknown author
-
+tags: [Mars, Glacier, Ice, Water, Earth, Polar ice cap, Planets of the Solar System, Planetary science, Earth sciences, Outer space, Physical geography, Solar System]
 ---
 
 

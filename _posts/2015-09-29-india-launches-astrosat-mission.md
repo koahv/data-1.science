@@ -4,7 +4,7 @@ title: "India launches ASTROSAT mission"
 date: 2016-06-27
 categories: Science
 author: unknown author
-
+tags: [Astrosat, Indian Space Research Organisation, Scientific observation, Spaceflight technologies, Astronautics, Spacecraft, Spaceflight, Physical sciences, Outer space, Astronomy]
 ---
 
 

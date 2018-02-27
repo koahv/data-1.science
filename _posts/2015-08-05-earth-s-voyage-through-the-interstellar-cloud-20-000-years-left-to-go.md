@@ -4,7 +4,7 @@ title: "Earth's Voyage Through the Interstellar Cloud --"20,000 Years Left to Go
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Outer space, Interstellar medium, Star, Interstellar Boundary Explorer, Solar System, Sun, Star formation, Heliosphere, DNA, Milky Way, Physical sciences, Physical universe, Space science, Applied and interdisciplinary physics, Chemistry, Astronomical objects, Nature, Astronomy]
 ---
 
 

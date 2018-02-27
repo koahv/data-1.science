@@ -4,7 +4,7 @@ title: "Internet of Things panics regulators"
 date: 2015-07-04
 categories: Technology
 author: Charlotte Gill
-
+tags: [Internet of things, Cyberspace, Computing, Technology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Neptune's moon of Triton"
 date: 2016-05-16
 categories: Science
 author: unknown author
-
+tags: [Triton (moon), Neptune, Natural satellite, Atmosphere, Pluto, Voyager 2, Moons of Neptune, Voyager 1, Planetary science, Planets of the Solar System, Planets, Bodies of the Solar System, Physical sciences, Space science, Outer space, Solar System, Astronomy, Astronomical objects]
 ---
 
 

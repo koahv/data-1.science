@@ -4,7 +4,7 @@ title: "Interesting facts about planet Mars"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Mars, MAVEN, NASA, Phobos (moon), Mariner 9, Martian meteorite, Atmosphere of Mars, Astronomy, Rover (space exploration), Exploration of Mars, Physical sciences, Solar System, Outer space, Planetary science, Planets of the Solar System, Space science]
 ---
 
 

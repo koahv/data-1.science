@@ -4,7 +4,7 @@ title: "Why we have chins: Researchers contend chin comes from evolution, not me
 date: 2016-04-22
 categories: Science
 author: unknown author
-
+tags: [Human, Anatomically modern human, Neanderthal, Anthropology, Face, Chin, Skull, Human evolution]
 ---
 
 

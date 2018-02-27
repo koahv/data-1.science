@@ -4,7 +4,7 @@ title: "EFF Joins Nearly 150 Organizations, Security Experts, and Companies to U
 date: 2015-05-20
 categories: Security
 author: unknown author
-
+tags: [Computer security, National Security Agency, Surveillance, Backdoor (computing), Electronic Frontier Foundation, Privacy, Encryption, Security, Espionage techniques, Government information, Secure communication, Cybercrime, National security, Technology, Information governance, Government, Cyberspace, Crime prevention, Computing, Cyberwarfare, Information Age]
 ---
 
 

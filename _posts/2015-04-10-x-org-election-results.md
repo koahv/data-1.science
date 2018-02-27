@@ -4,7 +4,7 @@ title: "X.org election results"
 date: 2015-05-18
 categories: Linux
 author: corbet
-
+tags: [Linux, Operating system technology, System software, Free and open-source software organizations, Linux kernel, Public commons, Unix variants, Free content, Free software projects, Linux Foundation, Unix, Linux kernel programmers, Linux people, Finnish computer scientists, Finnish computer programmers, Open-source movement, Linus Torvalds, Free system software, Computing, Free software, Software]
 ---
 
 

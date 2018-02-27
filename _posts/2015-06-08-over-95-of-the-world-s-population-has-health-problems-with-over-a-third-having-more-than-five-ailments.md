@@ -4,7 +4,7 @@ title: "Over 95% of the world’s population has health problems, with over a th
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Disability-adjusted life year, Disease, Health, Chronic condition, Disease burden, Medical specialties, Health sciences, Medicine, Diseases and disorders, Medical humanities, Clinical medicine, Health care, Public health]
 ---
 
 

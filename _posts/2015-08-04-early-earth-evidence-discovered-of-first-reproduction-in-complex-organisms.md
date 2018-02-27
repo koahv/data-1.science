@@ -4,7 +4,7 @@ title: "Early Earth --"Evidence Discovered of First Reproduction in Complex Orga
 date: 2015-08-11
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Rangeomorph, Organism, Fossil, Reproduction, Life, Natural environment, Nature, Ediacaran biota, Organisms, Biology]
 ---
 
 

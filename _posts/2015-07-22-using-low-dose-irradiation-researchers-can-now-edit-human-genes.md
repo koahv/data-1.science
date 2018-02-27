@@ -4,7 +4,7 @@ title: "Using low-dose irradiation, researchers can now edit human genes"
 date: 2016-05-15
 categories: Science
 author: unknown author
-
+tags: [Regenerative medicine, Genome editing, Stem cell, Radiation therapy, Gene, Regeneration (biology), Medicine, Mutation, Disease, Advertising, Health sciences, Biotechnology, Life sciences, Biology]
 ---
 
 

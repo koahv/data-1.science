@@ -4,7 +4,7 @@ title: "LightSail Successfully Launches"
 date: 2015-06-28
 categories: Technology
 author: mcrouse
-
+tags: [LightSail 2, Boeing X-37, Solar sail, CubeSat, Space technology, Spaceflight, Outer space, Spacecraft, Astronautics, Flight, Spaceflight technologies, Aerospace engineering, Aerospace, Space exploration, NASA]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Regenerating lost taste buds: Key steps discovered"
 date: 2016-05-04
 categories: Science
 author: unknown author
-
+tags: [Cancer, Taste, Chemotherapy, Wnt signaling pathway, Colorectal cancer, Biochemistry, Biotechnology, Life sciences, Cell biology, Biology, Medicine]
 ---
 
 

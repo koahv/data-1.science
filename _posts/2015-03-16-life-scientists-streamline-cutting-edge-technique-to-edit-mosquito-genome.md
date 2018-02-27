@@ -4,7 +4,7 @@ title: "Life scientists streamline cutting-edge technique to edit mosquito genom
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Mosquito, CRISPR, Aedes aegypti, Biology, Organisms, Life sciences]
 ---
 
 

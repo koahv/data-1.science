@@ -4,7 +4,7 @@ title: "Decision-making involves a little known brain region in the thalamus"
 date: 2016-07-25
 categories: Science
 author: unknown author
-
+tags: [Orbitofrontal cortex, Thalamus, Reward system, Cerebral cortex, Brain, Decision-making, Learning, Auditory system, Neuropsychology, Psychology, Phenomenology, Neuropsychological assessment, Mental processes, Psychological concepts, Cognition, Behavioural sciences, Epistemology, Cognitive science, Nervous system, Neuroscience]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Seeing quantum motion; even one day ripples in the fabric of space-time?
 date: 2015-09-02
 categories: Science
 author: unknown author
-
+tags: [Gravitational wave, Quantum mechanics, Motion (physics), Physics, Gravity, Modern physics, Physical quantities, Natural philosophy, Mechanics, Applied and interdisciplinary physics, Science, Physical sciences, Theoretical physics]
 ---
 
 

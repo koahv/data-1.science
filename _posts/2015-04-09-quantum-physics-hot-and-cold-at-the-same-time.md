@@ -4,7 +4,7 @@ title: "Quantum physics: Hot and cold at the same time"
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Temperature, Quantum mechanics, Physics, Gas, Atom, Emergence, Mechanics, Continuum mechanics, Nature, Thermodynamics, Mathematical physics, Physical sciences, Mechanical engineering, Science, Materials science, Theoretical physics, Physical chemistry, Chemistry, Applied and interdisciplinary physics]
 ---
 
 

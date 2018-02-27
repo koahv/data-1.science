@@ -4,7 +4,7 @@ title: "Image: Test mirror segments for the James Webb Space Telescope"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [James Webb Space Telescope, Astronomy, Galaxy, Physical sciences, Outer space]
 ---
 
 

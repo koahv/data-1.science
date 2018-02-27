@@ -4,7 +4,7 @@ title: "Calling the shots: Brain's decision-making structure"
 date: 2016-04-14
 categories: Science
 author: unknown author
-
+tags: [Striatum, Decision-making, Reward system, Neuroscience, Brain, Neuropsychology, Nervous system, Cognitive science, Psychology, Neuropsychological assessment, Cognition, Psychological concepts]
 ---
 
 

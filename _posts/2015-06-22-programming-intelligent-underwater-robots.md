@@ -4,7 +4,7 @@ title: "Programming Intelligent Underwater Robots"
 date: 2015-12-21
 categories: Technology
 author: kduffy
-
+tags: [Autonomous underwater vehicle, NASA, Outer space, Spaceflight, Flight, Technology]
 ---
 
 

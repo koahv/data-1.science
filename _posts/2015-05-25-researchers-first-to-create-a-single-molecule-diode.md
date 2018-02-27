@@ -4,7 +4,7 @@ title: "Researchers first to create a single-molecule diode"
 date: 2016-05-03
 categories: Science
 author: unknown author
-
+tags: [Photon, Electron, Atom, Electromagnetic radiation, Rectifier, Molecule, Electromagnetism, Nanotechnology, Electronics, Wave, Diode, Quantum mechanics, Electricity, Physics, Technology, Chemistry, Materials, Applied and interdisciplinary physics, Physical sciences]
 ---
 
 

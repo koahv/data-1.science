@@ -4,7 +4,7 @@ title: "Historic Delft Experiments tests Einstein's 'God does not play dice' usi
 date: 2015-10-22
 categories: Science
 author: unknown author
-
+tags: [Principle of locality, Quantum entanglement, Free will, Determinism, Electron, Bell test experiments, Quantum mechanics, Causality, Photon, Loopholes in Bell test experiments, Randomness, Majorana fermion, Light, Experiment, Faster-than-light, Universe, Time, Particle physics, Theoretical physics, Modern physics, Physical sciences, Philosophy, Scientific theories, Metaphysics, Physics, Mechanics, Science, Cognitive science]
 ---
 
 

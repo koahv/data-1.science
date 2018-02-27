@@ -4,7 +4,7 @@ title: "Parsing photons in the infrared, UCI-led astronomers uncover signs of ea
 date: 2015-09-10
 categories: Astronomy
 author: unknown author
-
+tags: [Hubble Space Telescope, Astronomy, Galaxy, University of California Irvine, Chronology of the universe, Infrared, Universe, Reionization, Telescope, Big Bang, Outer space, Science, Physical sciences, Natural philosophy, Electromagnetic radiation, Optics, Applied and interdisciplinary physics]
 ---
 
 

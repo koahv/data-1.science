@@ -4,7 +4,7 @@ title: "Russia announces plan to build new space station with NASA"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [International Space Station, Roscosmos, NASA, Astronaut, Mars, Variable Specific Impulse Magnetoplasma Rocket, Astronomy, Human spaceflight, Outer space, Spaceflight, Astronautics, Flight, Physical sciences]
 ---
 
 

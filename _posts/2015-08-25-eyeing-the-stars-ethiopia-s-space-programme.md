@@ -4,7 +4,7 @@ title: "Eyeing the stars: Ethiopia's space programme"
 date: 2016-05-31
 categories: Science
 author: unknown author
-
+tags: [Ethiopia, Astronomy, Mars, Observatory, Galaxy, Galactic Center, Black hole, Telescope, Phoenix (spacecraft), Milky Way, Addis Ababa, Physical sciences, Outer space]
 ---
 
 

@@ -4,7 +4,7 @@ title: "What is quantum in quantum thermodynamics?"
 date: 2015-10-19
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Physics, Quantum teleportation, Heat, Energy, Minkowski space, Photon, Maxwells demon, Quantum entanglement, General relativity, Thermodynamics, Entropy, Coherence (physics), Time, Applied and interdisciplinary physics, Mathematical physics, Solid state engineering, Mechanical engineering, Particle physics, Science, Scientific theories, Modern physics, Theoretical physics, Physical sciences, Mechanics]
 ---
 
 

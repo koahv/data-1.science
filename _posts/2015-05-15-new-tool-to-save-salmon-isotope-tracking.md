@@ -4,7 +4,7 @@ title: "New tool to save salmon: Isotope tracking"
 date: 2015-05-18
 categories: Science
 author: unknown author
-
+tags: [Salmon, Otolith, Chinook salmon, Fish, Alaska, Sea]
 ---
 
 

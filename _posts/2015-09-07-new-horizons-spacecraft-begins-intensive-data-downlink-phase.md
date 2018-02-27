@@ -4,7 +4,7 @@ title: "New Horizons spacecraft begins intensive data downlink phase"
 date: 2016-06-29
 categories: Science
 author: unknown author
-
+tags: [New Horizons, NASA Deep Space Network, Pluto, NASA, Spaceflight, Planetary science, Astronomy, Outer space, Solar System, Space science, Physical sciences]
 ---
 
 

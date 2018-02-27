@@ -4,7 +4,7 @@ title: "Design and build of synthetic DNA goes back to 'BASIC'"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Synthetic biology, Biology, Automation, Machine, Innovation, Life sciences, Organisms, Artificial objects, Science and technology]
 ---
 
 

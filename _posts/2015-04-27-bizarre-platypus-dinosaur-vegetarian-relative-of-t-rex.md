@@ -4,7 +4,7 @@ title: "Bizarre 'platypus' dinosaur: Vegetarian relative of T. rex"
 date: 2015-09-14
 categories: Science
 author: unknown author
-
+tags: [Chilesaurus, Dinosaur, Theropoda, Tyrannosaurus, Organisms, Dinosaurs, Paleontology]
 ---
 
 

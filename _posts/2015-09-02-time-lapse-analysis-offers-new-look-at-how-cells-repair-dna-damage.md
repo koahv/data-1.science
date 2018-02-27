@@ -4,7 +4,7 @@ title: "Time-lapse analysis offers new look at how cells repair DNA damage"
 date: 2016-06-25
 categories: Science
 author: unknown author
-
+tags: [DNA, DNA repair, Life, Cancer, Cell (biology), Protein, Chromosome, Genetics, Chromosomal translocation, Ionizing radiation, Life sciences, Organisms, Biology]
 ---
 
 

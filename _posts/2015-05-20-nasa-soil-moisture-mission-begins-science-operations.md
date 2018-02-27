@@ -4,7 +4,7 @@ title: "NASA soil moisture mission begins science operations"
 date: 2015-05-20
 categories: Science
 author: unknown author
-
+tags: [Soil Moisture Active Passive, Astronomy, Earth sciences, Outer space, Physical sciences]
 ---
 
 

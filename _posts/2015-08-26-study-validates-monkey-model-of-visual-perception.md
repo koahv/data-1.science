@@ -4,7 +4,7 @@ title: "Study validates monkey model of visual perception"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Human, Neuroscience, Perception, Monkey, Brain, Rhesus macaque, Model organism, Visual perception, Advertising, Psychology, Epistemology, Phenomenology, Nervous system, Neuropsychology, Neuropsychological assessment, Cognitive science, Cognition, Mental processes, Psychological concepts, Emergence]
 ---
 
 

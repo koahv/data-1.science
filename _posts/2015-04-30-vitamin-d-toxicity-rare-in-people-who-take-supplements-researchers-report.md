@@ -4,7 +4,7 @@ title: "Vitamin D toxicity rare in people who take supplements, researchers repo
 date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [Vitamin D, Hypervitaminosis D, Vitamin, Health, Medicine, Clinical medicine, Medical specialties, Determinants of health, Health sciences]
 ---
 
 

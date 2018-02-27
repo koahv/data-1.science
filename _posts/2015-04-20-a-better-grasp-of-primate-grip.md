@@ -4,7 +4,7 @@ title: "A better grasp of primate grip"
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Human, Hand, Thumb, Primate, American Association for the Advancement of Science, Australopithecus, Science]
 ---
 
 

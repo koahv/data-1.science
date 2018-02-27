@@ -4,7 +4,7 @@ title: "'Memory region' of brain also involved in conflict resolution"
 date: 2016-05-28
 categories: Science
 author: unknown author
-
+tags: [Memory, Hippocampus, Electroencephalography, Cognitive science, Neuropsychological assessment, Psychological concepts, Nervous system, Cognitive neuroscience, Mental processes, Neuropsychology, Epistemology, Psychology, Phenomenology, Cognition, Limbic system, neuropsychology, Neuroscience]
 ---
 
 

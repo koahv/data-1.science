@@ -4,7 +4,7 @@ title: "What neuroscience can learn from computer science"
 date: 2016-05-17
 categories: Science
 author: unknown author
-
+tags: [Visual perception, Artificial intelligence, Computer vision, Visual cortex, Visual system, Perception, Problem solving, Fourier transform, Computer science, Neuroscience, Brain, Science, Computer, Research, Cognitive science, Cognition]
 ---
 
 

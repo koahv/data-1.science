@@ -4,7 +4,7 @@ title: "Bertrand Piccard begins around-the-world flight in a plane that requires
 date: 2015-07-06
 categories: Interest
 author: Kate Torgovnick May
-
+tags: [Solar Impulse]
 ---
 
 

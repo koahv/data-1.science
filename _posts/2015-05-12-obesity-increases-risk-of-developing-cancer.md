@@ -4,7 +4,7 @@ title: "Obesity increases risk of developing cancer"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Adipose tissue, Obesity, Body mass index, Cancer, Diabetes mellitus, Medical specialties, Health, Clinical medicine, Endocrine system, Diseases and disorders, Nutrition, Biology, Medicine, Public health, Determinants of health]
 ---
 
 

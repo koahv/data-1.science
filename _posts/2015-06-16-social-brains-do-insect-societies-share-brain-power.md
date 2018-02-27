@@ -4,7 +4,7 @@ title: "Social brains: Do insect societies share brain power?"
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Evolution, Brain, Eusociality, Species, Cognition, Insect, Biology, Organisms, Cognitive science, Animals, Zoology]
 ---
 
 

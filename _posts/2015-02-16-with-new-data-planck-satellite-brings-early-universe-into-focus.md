@@ -4,7 +4,7 @@ title: "With new data, Planck satellite brings early universe into focus"
 date: 2015-09-13
 categories: Science
 author: unknown author
-
+tags: [Universe, Cosmic microwave background, Inflation (cosmology), Big Bang, Chronology of the universe, Dark matter, Physical universe, Applied and interdisciplinary physics, Theoretical physics, Nature, Metaphysics, Mechanics, Physics, Outer space, Natural philosophy, Physical quantities, Spacetime, Science, Astronomy, Cosmology, Physical cosmology, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Telling the time of day by color"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Circadian rhythm, Dawn, Sky, Brain, Cognitive science, Cognition, Neuroscience, Psychological concepts, Nervous system]
 ---
 
 

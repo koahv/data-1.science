@@ -4,7 +4,7 @@ title: "INFOGRAPHIC: Discover the cleanest cities in the world"
 date: 2015-07-04
 categories: Energy
 author: Kristine Lofgren
-
+tags: [Digital media, Internet, Technology, Online services, World Wide Web, Cyberspace, Computing]
 ---
 
 

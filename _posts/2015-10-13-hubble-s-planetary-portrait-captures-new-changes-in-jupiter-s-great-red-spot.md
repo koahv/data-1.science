@@ -4,7 +4,7 @@ title: "Hubble's planetary portrait captures new changes in Jupiter's Great Red 
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Jupiter, Great Red Spot, Voyager 2, Planet, Hubble Space Telescope, Planets of the Solar System, Planets, Solar System, Space science, Outer space, Physical sciences, Planetary science, Astronomy, Bodies of the Solar System]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Japanese firm to mature whisky in space"
 date: 2016-05-16
 categories: Science
 author: unknown author
-
+tags: [Whisky, Astronomy, Mars, Galaxy, Single malt whisky, Physical sciences, Outer space]
 ---
 
 

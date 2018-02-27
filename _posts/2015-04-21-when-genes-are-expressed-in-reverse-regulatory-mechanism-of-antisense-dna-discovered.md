@@ -4,7 +4,7 @@ title: "When genes are expressed in reverse: regulatory mechanism of antisense D
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Sense (molecular biology), Gene, DNA, Transcription (biology), Genetics, Life sciences, Biotechnology, Molecular biology, Biochemistry, Organisms, Biology]
 ---
 
 

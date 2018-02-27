@@ -4,7 +4,7 @@ title: "India Launches First Astronomy Satellite"
 date: 2015-10-07
 categories: Astronomy
 author: David Dickinson
-
+tags: [Astrosat, Indian Space Research Organisation, Astronomy, Physical sciences, Outer space, Scientific observation, Electromagnetic spectrum, Observational astronomy]
 ---
 
 

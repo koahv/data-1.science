@@ -4,7 +4,7 @@ title: "Potential cause of schizophrenic symptoms identified"
 date: 2016-04-30
 categories: Science
 author: unknown author
-
+tags: [Neural oscillation, Schizophrenia, Brain, Memory, Delta wave, Working memory, Neuroscience, Nervous system, Cognition, Cognitive science, Neuropsychology, Clinical psychology, Psychological concepts, Neuropsychological assessment, Behavioural sciences, Psychology, Behavioral neuroscience, Cognitive neuroscience]
 ---
 
 

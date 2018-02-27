@@ -4,7 +4,7 @@ title: "NAS and NAM announce initiative on human gene editing"
 date: 2015-12-10
 categories: Technology
 author: unknown author
-
+tags: [Biology, Biotechnology, Science and technology, Organisms, Genetics, Artificial objects, Medicine, Science, Life sciences]
 ---
 
 

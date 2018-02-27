@@ -4,7 +4,7 @@ title: "Cameras Delivered for OSIRIS-REx Mission as Launch Prep Continues"
 date: 2015-12-21
 categories: Technology
 author: kduffy
-
+tags: [OSIRIS-REx, Space program of the United States, Space probes, Outer space, Spaceflight, Astronautics, Flight, Spacecraft, Spaceflight technologies, Space exploration, Aerospace engineering, Space science, Discovery and exploration of the Solar System, Planetary science, Aerospace, Solar System, NASA programs, NASA, Astronomy]
 ---
 
 

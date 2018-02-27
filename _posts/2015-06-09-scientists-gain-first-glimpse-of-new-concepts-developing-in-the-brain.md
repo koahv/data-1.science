@@ -4,7 +4,7 @@ title: "Scientists gain first glimpse of new concepts developing in the brain"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Brain, Learning, Human, Carnegie Mellon University, Neuroscience, Concept, Nervous system, Functional magnetic resonance imaging, Information, Dementia, Thought, Science, Knowledge, Research, Scientist, Cognition, Cognitive science, Psychology, Epistemology, Neuropsychological assessment, Psychological concepts, Neuropsychology]
 ---
 
 

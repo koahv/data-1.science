@@ -4,7 +4,7 @@ title: "New lab technique reveals structure and function of proteins critical in
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Helicase, Biology, Chemistry, Science, Biotechnology, Life sciences, Molecular biology, Biochemistry, Physical sciences, Macromolecules]
 ---
 
 

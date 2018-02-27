@@ -4,7 +4,7 @@ title: "New Theory of the Molecular Origins of Life"
 date: 2015-08-11
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Life, Abiogenesis, Chemistry, Life sciences, Nature, Biology, Physical sciences, Organisms]
 ---
 
 

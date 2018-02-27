@@ -4,7 +4,7 @@ title: "Diet, nutrition essential for mental health"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Nutrition, Mental disorder, Health, Vitamin, Major depressive disorder, Diet (nutrition), Psychiatry, Health care, Determinants of health, Medicine, Medical specialties, Health sciences]
 ---
 
 

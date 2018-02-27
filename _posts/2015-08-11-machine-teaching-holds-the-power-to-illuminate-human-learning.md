@@ -4,7 +4,7 @@ title: "'Machine teaching' holds the power to illuminate human learning"
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Machine learning, Learning, Psychology, Science, Teacher, Research, Educational psychology, Computer science, American Association for the Advancement of Science, Education, Mathematics, Artificial intelligence, Neuroscience, Science and technology, Cognition, Cognitive science, Emergence, Psychological concepts, Change, Epistemology, Behavior modification]
 ---
 
 

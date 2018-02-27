@@ -4,7 +4,7 @@ title: "Entire genomes of woolly mammoths mapped: Clues to extinction, possibili
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Woolly mammoth, Mammoth, Biology, Organisms, Life sciences, Genetics]
 ---
 
 

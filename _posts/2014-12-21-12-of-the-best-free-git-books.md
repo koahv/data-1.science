@@ -4,7 +4,7 @@ title: "12 of the Best Free Git Books"
 date: 2015-06-27
 categories: Linux
 author: Steve Emms
-
+tags: [Git, Software engineering, Free content, Application software, Computing, Computer engineering, Digital media, Linux, System software, Open content, Free software, Software development, Computers, Open-source movement, Public commons, Software, Free system software]
 ---
 
 

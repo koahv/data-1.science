@@ -4,7 +4,7 @@ title: "Ease of weight loss influenced by individual biology"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Obesity, Diabetes mellitus, National Institute of Diabetes and Digestive and Kidney Diseases, Diabetes mellitus type 2, Weight loss, Dieting, Cardiovascular disease, Disease, Health, Determinants of health, Biology]
 ---
 
 

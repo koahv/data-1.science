@@ -4,7 +4,7 @@ title: "Photos: Weird 4-Legged Snake Was Transitional Creature"
 date: 2015-07-24
 categories: Science
 author: unknown author
-
+tags: [Tetrapodophis, Snake, Paleontology]
 ---
 
 

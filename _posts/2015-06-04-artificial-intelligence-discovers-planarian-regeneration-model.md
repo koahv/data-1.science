@@ -4,7 +4,7 @@ title: "Artificial intelligence discovers planarian regeneration model"
 date: 2015-12-11
 categories: Technology
 author: unknown author
-
+tags: [Computational biology, Science, Biology, Regeneration (biology), Research, PLOS, Experiment, Cognition, Technology, Cognitive science, Science and technology]
 ---
 
 

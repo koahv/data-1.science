@@ -4,7 +4,7 @@ title: "The symmetry of the universe"
 date: 2016-06-25
 categories: Science
 author: unknown author
-
+tags: [ALICE experiment, Universe, Quarkgluon plasma, Antiparticle, CERN, Physical cosmology, Physics, Physical sciences, Particle physics, Theoretical physics, Physical universe, Mechanics, Nature]
 ---
 
 

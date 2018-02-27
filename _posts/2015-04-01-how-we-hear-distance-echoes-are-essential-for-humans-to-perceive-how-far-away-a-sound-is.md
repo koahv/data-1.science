@@ -4,7 +4,7 @@ title: "How we hear distance: Echoes are essential for humans to perceive how fa
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Sound, Perception, Reverberation, Hearing, Neuroscience, Noise, Senses, Cognition, Neuropsychological assessment, Psychological concepts, Nervous system, Cognitive science, Neuropsychology]
 ---
 
 

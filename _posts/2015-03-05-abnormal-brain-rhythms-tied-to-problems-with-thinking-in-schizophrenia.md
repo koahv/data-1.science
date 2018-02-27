@@ -4,7 +4,7 @@ title: "Abnormal brain rhythms tied to problems with thinking in schizophrenia"
 date: 2016-04-16
 categories: Science
 author: unknown author
-
+tags: [Schizophrenia, Neural oscillation, Gamma wave, University of California San Francisco, Health, Lorazepam, Psychological concepts, Cognition, Medicine, Psychology, Behavioural sciences, Clinical psychology, Nervous system, Neuroscience]
 ---
 
 

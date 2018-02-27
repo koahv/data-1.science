@@ -4,7 +4,7 @@ title: "Quantum-mechanical monopoles discovered"
 date: 2015-05-20
 categories: Energy
 author: unknown author
-
+tags: [Magnetic monopole, Quantum mechanics, Magnetism, Gas, Particle physics, Physics, Magnetic field, Mechanics, Physical sciences, Condensed matter physics, Scientific theories, Solid state engineering, Modern physics, Science, Theoretical physics]
 ---
 
 

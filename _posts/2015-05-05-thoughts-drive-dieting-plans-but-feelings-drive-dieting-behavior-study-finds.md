@@ -4,7 +4,7 @@ title: "Thoughts drive dieting plans but feelings drive dieting behavior, study 
 date: 2015-05-06
 categories: Science
 author: unknown author
-
+tags: [Healthy diet, Health, Obesity, Food, Dieting, Food choice, Thought, Weight loss, Behavior, Psychological concepts, Action (philosophy), Psychology, Behavioural sciences, Cognition, Cognitive science, Neuroscience, Emergence]
 ---
 
 

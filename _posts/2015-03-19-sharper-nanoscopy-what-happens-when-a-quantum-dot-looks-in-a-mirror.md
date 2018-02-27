@@ -4,7 +4,7 @@ title: "Sharper nanoscopy: What happens when a quantum dot looks in a mirror?"
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Light, Microscopy, Diffraction, Diffraction-limited system, Angular resolution, Electromagnetic radiation, Microscope, Quantum dot, Nanowire, Scientific method, Applied and interdisciplinary physics, Mechanics, Electrodynamics, Physical chemistry, Physics, Materials science, Physical sciences, Chemistry, Natural philosophy, Atomic molecular and optical physics, Optics, Physical phenomena, Condensed matter physics]
 ---
 
 

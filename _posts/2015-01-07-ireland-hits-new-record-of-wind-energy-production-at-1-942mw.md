@@ -4,7 +4,7 @@ title: "Ireland hits new record of wind energy production at 1,942MW"
 date: 2015-07-17
 categories: Tech
 author: unknown author
-
+tags: [Wind power, Ireland, Wind farm, Nature, Electric power, Physical universe, Alternative energy, Sustainable energy, Renewable resources, Renewable energy, Energy, Renewable electricity, Sustainable development, Power (physics)]
 ---
 
 

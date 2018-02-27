@@ -4,7 +4,7 @@ title: "What are the different types of renewable energy?"
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Solar power, Biofuel, Wind power, Photovoltaics, Geothermal power, Tidal power, Renewable energy, Biomass, Power station, Solar cell, Alternative energy, Geothermal energy, Sustainable development, Renewable resources, Natural resources, Sustainable energy, Sustainable technologies, Energy sources, Energy, Nature, Energy production, Physical universe, Artificial objects]
 ---
 
 

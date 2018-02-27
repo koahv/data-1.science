@@ -4,7 +4,7 @@ title: "Single gene controls fish brain size and intelligence"
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Zebrafish, Brain, Genetics, Angiopoietin, Biology, Life sciences, Organisms, Biotechnology]
 ---
 
 

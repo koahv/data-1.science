@@ -4,7 +4,7 @@ title: "UNC researchers create DNA repair map of the entire human genome"
 date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [DNA, DNA repair, Cancer, Gene, Genetics, Genome, Chemotherapy, Biochemistry, Organisms, Biology, Molecular biology, Life sciences, Biotechnology]
 ---
 
 

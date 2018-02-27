@@ -4,7 +4,7 @@ title: "Intrusion detection: Linux rootkits"
 date: 2015-09-30
 categories: Linux
 author: Michael Boelen
-
+tags: [Rootkit, Malware, Secure communication, Cybercrime, Digital technology, Computer network security, Information Age, Information technology management, Computer security exploits, Systems engineering, Security engineering, Cyberwarfare, Computing, Information governance, Technology, Crime prevention, Computer security, Computer networking, Digital media, Information technology, Areas of computer science, Security technology, Cyberspace, Software]
 ---
 
 

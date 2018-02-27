@@ -4,7 +4,7 @@ title: "NASA Ames reproduces the building blocks of life in laboratory"
 date: 2016-04-16
 categories: Science
 author: unknown author
-
+tags: [Pyrimidine, Uracil, Thymine, Cosmic dust, DNA, Life, Cytosine, Physical sciences, Chemistry, Nature, Astronomy, Outer space]
 ---
 
 

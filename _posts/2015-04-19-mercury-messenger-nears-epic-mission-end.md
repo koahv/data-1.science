@@ -4,7 +4,7 @@ title: "Mercury MESSENGER nears epic mission end"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [MESSENGER, Mercury (planet), Solar wind, Sun, Mariner 10, Atmosphere, Planet, Earth, Astronomy, Planetary science, Solar System, Spaceflight, Bodies of the Solar System, Space science, Planets of the Solar System, Outer space, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Mind reading: Spatial patterns of brain activity decode what people tast
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Taste, Brain, Nervous system, Electroencephalography, Biology, Neuropsychology, Psychological concepts, Cognition, Cognitive science, Neuroscience, Neuropsychological assessment]
 ---
 
 

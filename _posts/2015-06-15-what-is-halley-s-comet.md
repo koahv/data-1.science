@@ -4,7 +4,7 @@ title: "What is Halley's Comet?"
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Comet, Solar System, Halleys Comet, Orbit, Comet nucleus, Oort cloud, Sun, Astronomy, Comet tail, Physical sciences, Outer space, Planetary science, Bodies of the Solar System, Local Interstellar Cloud, Space science, Astronomical objects]
 ---
 
 

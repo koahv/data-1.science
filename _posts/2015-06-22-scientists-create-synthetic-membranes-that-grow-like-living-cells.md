@@ -4,7 +4,7 @@ title: "Scientists create synthetic membranes that grow like living cells"
 date: 2016-05-09
 categories: Science
 author: unknown author
-
+tags: [Cell membrane, Cell (biology), Lipid bilayer, Artificial cell, Life sciences, Biotechnology, Chemistry, Cell biology, Biology, Biochemistry, Molecular biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Explainer: What is the molecular clock?"
 date: 2016-07-01
 categories: Science
 author: unknown author
-
+tags: [Evolution, Molecular clock, Genetics, Species, Mutation, Heredity, Common descent, Speciation, Life sciences, Nature, Evolutionary biology, Biological evolution, Organisms, Biology]
 ---
 
 

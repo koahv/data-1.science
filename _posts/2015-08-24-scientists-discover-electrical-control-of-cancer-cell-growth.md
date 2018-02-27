@@ -4,7 +4,7 @@ title: "Scientists discover electrical control of cancer cell growth"
 date: 2016-05-31
 categories: Science
 author: unknown author
-
+tags: [KRAS, Cancer, Cell membrane, University of Texas Health Science Center at Houston, Doctor of Philosophy, Biology, Science, Medicine, Cell (biology), Pharmacology, Signal transduction, Cell biology, Life sciences]
 ---
 
 

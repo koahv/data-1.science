@@ -4,7 +4,7 @@ title: "What is open science?"
 date: 2015-07-21
 categories: Open Source
 author: bbehrens
-
+tags: [Science, Open-source software, Open science, Physics, Science and technology, Cognitive science]
 ---
 
 

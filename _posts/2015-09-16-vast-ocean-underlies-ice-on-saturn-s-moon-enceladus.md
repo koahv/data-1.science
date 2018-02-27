@@ -4,7 +4,7 @@ title: "Vast Ocean Underlies Ice on Saturn's Moon Enceladus"
 date: 2015-09-19
 categories: Science
 author: Nadia Drake
-
+tags: [Enceladus, Saturn, Extraterrestrial life, CassiniHuygens, Ocean, Natural satellite, Physical sciences, Planets of the Solar System, Planets, Bodies of the Solar System, Outer space, Space science, Astronomy, Solar System, Planetary science]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Lockheed Studying First-Responder Radiation Shield for Deep-Space Applic
 date: 2015-12-21
 categories: Technology
 author: kduffy
-
+tags: [StemRad, Spaceflight, Outer space, Astronautics, Flight, Aerospace engineering, Human spaceflight]
 ---
 
 

@@ -4,7 +4,7 @@ title: ""Metamorphosis" --The Evolution of Galaxies: The Basic Building Block of
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Milky Way, Astronomy, Universe, Star, Hubble Space Telescope, Big Bang, Elliptical galaxy, Spiral galaxy, Astronomical objects, Physical sciences, Outer space, Physical cosmology, Science, Cosmology]
 ---
 
 

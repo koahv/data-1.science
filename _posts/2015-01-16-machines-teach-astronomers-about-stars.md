@@ -4,7 +4,7 @@ title: "Machines teach astronomers about stars"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Star, Machine learning, Astronomy, Computer, Jet Propulsion Laboratory, Sloan Digital Sky Survey, Physical sciences]
 ---
 
 

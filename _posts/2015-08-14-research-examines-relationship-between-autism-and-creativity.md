@@ -4,7 +4,7 @@ title: "Research examines relationship between autism and creativity"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [Autism, Creativity, Problem solving, Thought, Research, Divergent thinking, Action (philosophy), Neuropsychological assessment, Emergence, Clinical psychology, Applied psychology, Cognitive science, Neuroscience, Behavioural sciences, Cognition, Psychological concepts, Psychology]
 ---
 
 

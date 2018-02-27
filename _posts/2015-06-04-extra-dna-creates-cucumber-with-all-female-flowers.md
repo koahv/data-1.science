@@ -4,7 +4,7 @@ title: "Extra DNA creates cucumber with all female flowers"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Flower, Genetics, Agriculture, Plant, Sex, Plant reproductive morphology, Genome, Structural variation, Gene duplication, Gene, Cucumber, Life sciences, Biotechnology, Biology, Organisms]
 ---
 
 

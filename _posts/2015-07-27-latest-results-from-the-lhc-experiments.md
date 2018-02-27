@@ -4,7 +4,7 @@ title: "Latest results from the LHC experiments"
 date: 2016-05-16
 categories: Science
 author: unknown author
-
+tags: [Large Hadron Collider, ATLAS experiment, CERN, Standard Model, Compact Muon Solenoid, Particle physics, Science, Physics, Quantum field theory, Nuclear physics, Theoretical physics, Physical sciences]
 ---
 
 

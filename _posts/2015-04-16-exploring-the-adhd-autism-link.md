@@ -4,7 +4,7 @@ title: "Exploring the ADHD-Autism link"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Attention deficit hyperactivity disorder, Autism, Clinical psychology, Psychiatric diagnosis, Mental and behavioural disorders, Nervous system, Medical diagnosis, Psychological concepts, Medical specialties, Cognition, Health, Psychiatry, Mental health, Abnormal psychology, Neuroscience, Psychiatry-related fields, Applied psychology, Behavioural sciences, Psychology]
 ---
 
 

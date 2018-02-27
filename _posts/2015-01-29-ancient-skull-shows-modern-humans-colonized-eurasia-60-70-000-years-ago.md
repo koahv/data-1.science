@@ -4,7 +4,7 @@ title: "Ancient skull shows modern humans colonized Eurasia 60-70,000 years ago"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Neanderthal, Anatomically modern human, Human, Recent African origin of modern humans, Manot Cave, Pleistocene, Pliocene, Evolution of primates, Human evolution, Paleolithic, StoneAge]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Image: MSG-4, Europe's latest weather satellite, delivers first image"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Meteosat, EUMETSAT, Spacecraft, Outer space, Astronomy, Physical sciences, Spaceflight, Planetary science, Space science, Astronautics, Flight]
 ---
 
 

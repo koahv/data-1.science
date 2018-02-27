@@ -4,7 +4,7 @@ title: "Scientists identify molecular mechanism behind early flowering"
 date: 2015-10-27
 categories: Science
 author: unknown author
-
+tags: [Arabidopsis thaliana, Gene, Plant, Flower, Climate change, Transposable element, Plant breeding, Genetics, Life sciences, Organisms, Biology]
 ---
 
 

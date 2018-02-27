@@ -4,7 +4,7 @@ title: "Baby talk: Babies prefer listening to their own kind"
 date: 2016-05-02
 categories: Science
 author: unknown author
-
+tags: [Infant, Speech, Cognitive science, Neuroscience, Language, Neuropsychological assessment, Psychology, Semiotics, Human communication, Communication, Psychological concepts, Cognition]
 ---
 
 

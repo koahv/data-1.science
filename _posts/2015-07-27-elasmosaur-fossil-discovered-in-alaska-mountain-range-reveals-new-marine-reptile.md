@@ -4,7 +4,7 @@ title: "Elasmosaur Fossil Discovered in Alaska Mountain Range Reveals New Marine
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Elasmosaurus, Plesiosauria, Paleontology, Organisms, Taxa]
 ---
 
 

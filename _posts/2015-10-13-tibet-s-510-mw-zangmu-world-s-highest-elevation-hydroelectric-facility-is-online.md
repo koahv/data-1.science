@@ -4,7 +4,7 @@ title: "Tibet’s 510-MW Zangmu, world’s highest elevation hydroelectric facil
 date: 2015-10-19
 categories: Energy
 author: unknown author
-
+tags: [Dam, River, Brahmaputra River, Hydroelectricity, Natural resources, Physical universe, Water, Renewable energy, Nature, Energy, Renewable resources]
 ---
 
 

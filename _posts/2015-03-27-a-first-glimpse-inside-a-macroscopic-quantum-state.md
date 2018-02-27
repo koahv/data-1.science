@@ -4,7 +4,7 @@ title: "A first glimpse inside a macroscopic quantum state"
 date: 2015-07-26
 categories: Technology
 author: unknown author
-
+tags: [Quantum entanglement, Light, Quantum mechanics, Photon, ICFO  The Institute of Photonic Sciences, Squeezed coherent state, Physics, Solid state engineering, Theoretical physics, Modern physics, Condensed matter physics, Applied and interdisciplinary physics, Particle physics, Science, Physical sciences, Mechanics]
 ---
 
 

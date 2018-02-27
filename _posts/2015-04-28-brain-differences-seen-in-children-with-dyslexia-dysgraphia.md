@@ -4,7 +4,7 @@ title: "Brain differences seen in children with dyslexia, dysgraphia"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Learning disability, Dysgraphia, Dyslexia, Special education, Learning, Neuropsychological assessment, Neuropsychology, Communication, Behavioural sciences, Pedagogy, Educational psychology, Applied psychology, Education, Cognition, Cognitive science, Neuroscience, Psychology, Behavior modification, Psychological concepts]
 ---
 
 

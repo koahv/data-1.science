@@ -4,7 +4,7 @@ title: "Will we mine asteroids?"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Asteroid mining, Asteroid, Mining, Astronomy, Comet, Earth, Planetary science, Physical sciences, Outer space]
 ---
 
 

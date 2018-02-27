@@ -4,7 +4,7 @@ title: "Species' evolutionary choice: Disperse or adapt?"
 date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [Evolution, Adaptation, Biological dispersal, Generalist and specialist species, Ecology, Biological concepts, Environmental social science, Evolutionary biology, Biological evolution, Organisms, Biology]
 ---
 
 

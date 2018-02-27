@@ -4,7 +4,7 @@ title: "DARPA taps lab to help restore sense of touch to amputees"
 date: 2015-12-07
 categories: Technology
 author: unknown author
-
+tags: [Prosthesis, Haptic technology, Braincomputer interface, Nervous system, Neuroscience, Technology, Medicine]
 ---
 
 

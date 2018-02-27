@@ -4,7 +4,7 @@ title: "Scientists identify schizophrenia's 'Rosetta Stone' gene"
 date: 2016-05-15
 categories: Science
 author: unknown author
-
+tags: [Schizophrenia, Brain, Neuroplasticity, Synapse, Health, Mental disorder, Cardiff University, Disease, University, Gene, Nervous system, Medicine, Biology, Neuroscience]
 ---
 
 

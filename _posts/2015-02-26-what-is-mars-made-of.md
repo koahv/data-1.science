@@ -4,7 +4,7 @@ title: "What is Mars made of?"
 date: 2016-04-14
 categories: Science
 author: unknown author
-
+tags: [Mars, Earth, Planetary core, Planet, North Polar Basin (Mars), Plate tectonics, Sun, Physical sciences, Planetary science, Astronomy, Outer space, Nature, Space science, Planets of the Solar System]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Mystery at the Birth of the Universe --"The Matter-Antimatter Imbalance"
 date: 2015-09-03
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [ALICE experiment, Universe, Big Bang, Quarkgluon plasma, Antiparticle, Applied and interdisciplinary physics, Nature, Physical universe, Particle physics, Physical sciences, Physical cosmology, Chemistry, Theoretical physics, Physics, Mechanics]
 ---
 
 

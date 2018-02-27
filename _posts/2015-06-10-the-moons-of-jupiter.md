@@ -4,7 +4,7 @@ title: "The moons of Jupiter"
 date: 2016-05-07
 categories: Science
 author: unknown author
-
+tags: [Moons of Jupiter, Jupiter, Ganymede (moon), Natural satellite, Adrastea (moon), Galilean moons, Amalthea (moon), Europa (moon), Callisto (moon), Thebe (moon), Io (moon), Astronomical objects, Planetary science, Solar System, Bodies of the Solar System, Astronomy, Gas giants, Outer planets, Space science, Outer space, Planets of the Solar System, Moons, Planets, Astronomical objects known since antiquity, Physical sciences]
 ---
 
 

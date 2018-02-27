@@ -4,7 +4,7 @@ title: "Why parrots are great vocal imitators"
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Vocal learning, Brain, Parrot, Budgerigar, Imitation, Cognitive science, Neuropsychology, Neuropsychological assessment, Psychological concepts, Neuroscience, Cognition, Nervous system]
 ---
 
 

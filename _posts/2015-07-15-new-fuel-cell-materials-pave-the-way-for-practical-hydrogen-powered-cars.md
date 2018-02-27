@@ -4,7 +4,7 @@ title: "New Fuel-Cell Materials Pave the Way for Practical Hydrogen-Powered Cars
 date: 2015-12-21
 categories: Technology
 author: mfassbender
-
+tags: [Fuel cell, Redox, Catalysis, Chemical reaction, Chemical substances, Manufacturing, Artificial objects, Physical sciences, Chemistry, Chemical process engineering, Nature, Artificial materials, Energy, Chemical elements, Physical chemistry, Materials]
 ---
 
 

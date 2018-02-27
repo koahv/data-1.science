@@ -4,7 +4,7 @@ title: "NASA/Hubble: "Faintest, Oldest Galaxies in Universe Observed""
 date: 2015-10-26
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Hubble Space Telescope, Galaxy, Chronology of the universe, Universe, Big Bang, Reionization, Astronomy, Astronomical objects, Cosmology, Physical cosmology, Outer space, Physical sciences]
 ---
 
 

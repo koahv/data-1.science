@@ -4,7 +4,7 @@ title: "New Horizons Hiccups, Goes into Safe Mode"
 date: 2015-07-14
 categories: Astronomy
 author: Kelly Beatty
-
+tags: [New Horizons, Flight, Astronomy, Astronautics, Spaceflight, Outer space, Spacecraft, Solar System, Spaceflight technologies, Space science, Space exploration, Planetary science, Aerospace engineering, Discovery and exploration of the Solar System]
 ---
 
 

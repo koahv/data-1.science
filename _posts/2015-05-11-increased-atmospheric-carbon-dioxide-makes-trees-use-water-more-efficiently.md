@@ -4,7 +4,7 @@ title: "Increased atmospheric carbon dioxide makes trees use water more efficien
 date: 2016-04-30
 categories: Science
 author: unknown author
-
+tags: [Stoma, Carbon dioxide, Carbon dioxide in Earths atmosphere, Greenhouse gas, Global warming, Environmental science, Climatology, Natural environment, Nature, Physical geography, Earth sciences]
 ---
 
 

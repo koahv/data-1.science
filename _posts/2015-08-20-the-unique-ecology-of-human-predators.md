@@ -4,7 +4,7 @@ title: "The unique ecology of human predators"
 date: 2016-05-28
 categories: Science
 author: unknown author
-
+tags: [Predation, Gray wolf, Human, Wildlife, Resource, Natural environment]
 ---
 
 

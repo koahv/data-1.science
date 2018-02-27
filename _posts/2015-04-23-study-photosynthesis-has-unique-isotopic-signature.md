@@ -4,7 +4,7 @@ title: "Study: Photosynthesis has unique isotopic signature"
 date: 2015-09-10
 categories: Science
 author: unknown author
-
+tags: [Isotope, Oxygen, Molecule, Biosignature, Rice University, Atom, Oxygen-18, Isotope analysis, Plant, Photosynthesis, Chemical element, Physical sciences, Chemistry, Nature, Atoms]
 ---
 
 

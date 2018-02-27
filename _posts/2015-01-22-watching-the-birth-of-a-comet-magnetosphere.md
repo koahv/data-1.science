@@ -4,7 +4,7 @@ title: "Watching the birth of a comet magnetosphere"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Solar wind, Comet, Rosetta (spacecraft), Sun, 67PChuryumovGerasimenko, Physical sciences, Astronomy, Outer space, Space science, Solar System, Bodies of the Solar System, Planetary science, Nature, Applied and interdisciplinary physics, Physics, Phases of matter]
 ---
 
 

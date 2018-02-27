@@ -4,7 +4,7 @@ title: "New method of quantum entanglement packs vastly more data in a photon"
 date: 2015-07-07
 categories: Energy
 author: unknown author
-
+tags: [Photon, Quantum entanglement, Modern physics, Optics, Chemistry, Particle physics, Electromagnetic radiation, Mechanics, Science, Physical sciences, Applied and interdisciplinary physics, Physics]
 ---
 
 

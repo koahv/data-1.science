@@ -4,7 +4,7 @@ title: "Strong teeth: Nanostructures under stress make teeth crack resistant"
 date: 2015-12-11
 categories: Technology
 author: unknown author
-
+tags: [Human tooth, Tooth, Nanoparticle, European Synchrotron Radiation Facility, Dentin, Materials, Applied and interdisciplinary physics, Manufacturing, Materials science, Chemistry]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Custom blood cells engineered by researchers"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Sickle-cell disease, Stem cell, Blood cell, Organ transplantation, Blood transfusion, Disease, Blood, Red blood cell, Medicine, Medical specialties, Clinical medicine, Biology, Health sciences, Diseases and disorders, Life sciences, Health]
 ---
 
 

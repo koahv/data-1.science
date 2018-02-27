@@ -4,7 +4,7 @@ title: "An improved age for Earth's latest magnetic field reversal using radiome
 date: 2015-07-21
 categories: Science
 author: unknown author
-
+tags: [Geology, Earth sciences, Physical sciences, Nature, Planetary science, Applied and interdisciplinary physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Some genes 'foreign' in origin and not from our ancestors"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Horizontal gene transfer, Gene, Evolution, Organism, Bacteria, Species, Microorganism, Metabolism, Animal, Virus, Human, Life sciences, Biology, Organisms, Nature, Biotechnology, Genetics]
 ---
 
 

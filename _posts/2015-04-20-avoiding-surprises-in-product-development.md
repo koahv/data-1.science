@@ -4,7 +4,7 @@ title: "Avoiding Surprises in Product Development"
 date: 2015-12-09
 categories: Technology
 author: kduffy
-
+tags: [Product lifecycle, Design for manufacturability, Design, Business, Technology, Production and manufacturing, Management, Artificial objects, Industry, Business economics, Economy, Intellectual works]
 ---
 
 

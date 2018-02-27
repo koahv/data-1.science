@@ -4,7 +4,7 @@ title: "World's first genetic modification of human embryos reported: Experts co
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Genetics, Genome editing, CRISPR, Gene, Cas9, Genetic engineering, Gene therapy, Medicine, Biochemistry, Molecular biology, Biotechnology, Organisms, Life sciences, Biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Rosetta's big day in the sun"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [67PChuryumovGerasimenko, Rosetta (spacecraft), Comet, Comet nucleus, Mars, Planetary science, Spaceflight, Local Interstellar Cloud, Astronomical objects, Astronomy, Outer space, Solar System, Bodies of the Solar System, Physical sciences]
 ---
 
 

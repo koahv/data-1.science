@@ -4,7 +4,7 @@ title: "Horwitz Prize awarded for research revealing how the brain is wired"
 date: 2016-07-25
 categories: Science
 author: unknown author
-
+tags: [DSCAM, Brain, Nervous system, Biology, Life sciences]
 ---
 
 

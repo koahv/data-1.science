@@ -4,7 +4,7 @@ title: "Without humans, the whole world could look like Serengeti"
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Biodiversity, Human, Anatomically modern human, Extinction, Human impact on the environment, Natural environment, Organisms, Biology, Nature, Ecology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Volcanic bacteria take minimalist approach to survival"
 date: 2015-09-07
 categories: Science
 author: unknown author
-
+tags: [Soil, Nutrient, American Association for the Advancement of Science, Organism, Bacteria, Microorganism, Biology, Organisms, Nature]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Cardiac tissue grown on 'spider silk' substrate"
 date: 2016-04-22
 categories: Science
 author: unknown author
-
+tags: [Spidroin, Tissue (biology), Heart, Cardiac muscle cell, Cell (biology), Protein, Tissue engineering, Biology, Life sciences, Biotechnology]
 ---
 
 

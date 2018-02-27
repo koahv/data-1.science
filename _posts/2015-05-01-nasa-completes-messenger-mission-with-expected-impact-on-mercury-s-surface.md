@@ -4,7 +4,7 @@ title: "NASA completes MESSENGER mission with expected impact on Mercury's surfa
 date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [MESSENGER, Mercury (planet), NASA Deep Space Network, Applied Physics Laboratory, Space science, Spaceflight, Outer space, Astronomy, Solar System, Physical sciences, Planets of the Solar System, Planetary science]
 ---
 
 

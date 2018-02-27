@@ -4,7 +4,7 @@ title: "GOL Survey Results: May"
 date: 2015-06-25
 categories: Linux VG
 author: unknown author
-
+tags: [Cinnamon (software), Gaming computer, GNOME, Linux, Unity (user interface), Computer engineering, System software, Digital media, Computing, Computers, Software]
 ---
 
 

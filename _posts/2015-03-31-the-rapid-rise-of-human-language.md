@@ -4,7 +4,7 @@ title: "The rapid rise of human language"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Language, Word, Origin of language, Compound (linguistics), Linguistics, Noam Chomsky, Syntax, Semantics, Cognitive science, Semiotics, Cognition, Communication, Culture, Human communication, Symbols]
 ---
 
 

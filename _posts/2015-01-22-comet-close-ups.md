@@ -4,7 +4,7 @@ title: "Comet close-ups"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Rosetta (spacecraft), Comet nucleus, Planetary science, Bodies of the Solar System, Solar System, Astronomy, Outer space]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Has Stephen Hawking Just Solved a Huge Black-Hole Mystery?"
 date: 2016-06-14
 categories: Science
 author: unknown author
-
+tags: [Black hole, Event horizon, Stephen Hawking, Information, Quantum mechanics, Black hole information paradox, Modern physics, Physical quantities, Mathematical physics, Applied and interdisciplinary physics, Spacetime, Scientific theories, Physical cosmology, Science, Theoretical physics, Mechanics, Physical sciences, Physics]
 ---
 
 

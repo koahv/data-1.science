@@ -4,7 +4,7 @@ title: "The Great Attractor --"Exists Within an Immense Supercluster of 100,000 
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Laniakea Supercluster, Milky Way, Astronomy, Physical sciences, Outer space, Physical cosmology, Astronomical objects, Science]
 ---
 
 

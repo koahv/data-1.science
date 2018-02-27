@@ -4,7 +4,7 @@ title: "Fruit flies crucial to basic research"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Brain, Drosophila melanogaster, Genetics, Model organism, Human, Biology, Fly, Life sciences, Organisms]
 ---
 
 

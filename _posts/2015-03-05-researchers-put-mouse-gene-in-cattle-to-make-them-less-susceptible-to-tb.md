@@ -4,7 +4,7 @@ title: "Researchers put mouse gene in cattle to make them less susceptible to TB
 date: 2016-04-16
 categories: Science
 author: unknown author
-
+tags: [Tuberculosis, Genetic engineering, Mycobacterium bovis, Infection, Cattle, Transcription activator-like effector nuclease, Genetically modified organism, Virus, Antimicrobial resistance, Organisms, Life sciences, Genetics, Biotechnology, Biology]
 ---
 
 

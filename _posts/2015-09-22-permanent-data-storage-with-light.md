@@ -4,7 +4,7 @@ title: "Permanent data storage with light"
 date: 2015-10-02
 categories: Technology
 author: unknown author
-
+tags: [Computer data storage, Photonics, Computer, Central processing unit, Optics, Non-volatile memory, Artificial objects, Computing, Science and technology, Electronics, Technology]
 ---
 
 

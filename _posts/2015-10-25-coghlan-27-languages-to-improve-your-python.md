@@ -4,7 +4,7 @@ title: "Coghlan: 27 languages to improve your Python"
 date: 2015-10-26
 categories: Linux
 author: corbet
-
+tags: [Linux, Computing, Software, Communication]
 ---
 
 

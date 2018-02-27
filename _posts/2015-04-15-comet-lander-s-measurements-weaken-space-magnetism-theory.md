@@ -4,7 +4,7 @@ title: "Comet Lander's Measurements Weaken Space Magnetism Theory"
 date: 2015-12-09
 categories: Technology
 author: kduffy
-
+tags: [Comet, 67PChuryumovGerasimenko, Philae (spacecraft), Astronomical objects, Outer space, Astronomy, Solar System, Physical sciences, Spaceflight, Local Interstellar Cloud, Space science, Bodies of the Solar System, Planetary science]
 ---
 
 

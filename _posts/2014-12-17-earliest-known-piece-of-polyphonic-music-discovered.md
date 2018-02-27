@@ -4,7 +4,7 @@ title: "Earliest known piece of polyphonic music discovered"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Polyphony, Music, Consonance and dissonance, Harmony, Tonality, Organum, Musical notation, Harmonic series (music), Musicology, Music theory, Elements of music, Performing arts, Culture]
 ---
 
 

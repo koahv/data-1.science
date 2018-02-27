@@ -4,7 +4,7 @@ title: "Pulling the strings of our genetic puppetmasters: Engineers gain control
 date: 2016-04-20
 categories: Science
 author: unknown author
-
+tags: [Gene, Genetics, Enhancer (genetics), DNA, Biotechnology, Organisms, Life sciences, Biology]
 ---
 
 

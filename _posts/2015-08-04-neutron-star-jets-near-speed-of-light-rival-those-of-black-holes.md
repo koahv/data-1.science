@@ -4,7 +4,7 @@ title: "Neutron Star Jets Near Speed of Light --"Rival Those of Black Holes""
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Astrophysical jet, Neutron star, Black hole, Star, Astronomy, Binary star, Physics, Physical sciences, Astronomical objects, Stars, Stellar astronomy, Outer space, Physical cosmology, Nature, Applied and interdisciplinary physics, Physical phenomena, Astrophysics]
 ---
 
 

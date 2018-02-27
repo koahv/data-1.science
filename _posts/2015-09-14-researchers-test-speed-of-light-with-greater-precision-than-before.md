@@ -4,7 +4,7 @@ title: "Researchers test speed of light with greater precision than before"
 date: 2016-06-30
 categories: Science
 author: unknown author
-
+tags: [Light, Speed of light, Physics, Space, Wavelength, Earth, Special relativity, Time, Measurement, ALICE experiment, Quantum mechanics, Sun, Experiment, Frequency, Intensity (physics), Science, Applied and interdisciplinary physics, Spacetime, Mechanics, Physical sciences, Physical quantities, Natural philosophy]
 ---
 
 

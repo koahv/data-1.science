@@ -4,7 +4,7 @@ title: "How the brain balances risk-taking and learning"
 date: 2016-04-21
 categories: Science
 author: unknown author
-
+tags: [Dopamine, Neuroscience, Neuron, Memory, Learning, Salk Institute for Biological Studies, Risk, Jonas Salk, Animal, Nervous system, Biology, Cognitive science, Psychological concepts, Cognition]
 ---
 
 

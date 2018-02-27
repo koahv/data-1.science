@@ -4,7 +4,7 @@ title: "Do atoms going through a double slit ‘know’ if they are being observ
 date: 2016-05-03
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Double-slit experiment, Photon, Time, Subatomic particle, Spacetime, Waveparticle duality, Atom, Wave, Interference (wave propagation), Motion (physics), Quantum entanglement, Physics, Electron, Space, Metaphysics, Scientific method, Cognitive science, Chemistry, Mechanics, Theoretical physics, Particle physics, Modern physics, Condensed matter physics, Scientific theories, Science, Physical sciences, Solid state engineering, Applied and interdisciplinary physics]
 ---
 
 

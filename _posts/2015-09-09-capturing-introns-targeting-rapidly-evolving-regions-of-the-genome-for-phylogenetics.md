@@ -4,7 +4,7 @@ title: "Capturing introns: Targeting rapidly evolving regions of the genome for 
 date: 2016-06-30
 categories: Science
 author: unknown author
-
+tags: [Intron, Evolution, Phylogenetic tree, Species, Gene, Noncoding DNA, Human genome, Molecular biology, Biotechnology, Genetics, Biology, Organisms, Life sciences]
 ---
 
 

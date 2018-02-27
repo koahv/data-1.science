@@ -4,7 +4,7 @@ title: "Human genes adapted to life in the Arctic"
 date: 2015-10-01
 categories: Science
 author: unknown author
-
+tags: [Genetics, Biology, Novo Nordisk, Greenland, Gene, DNA, Research, Mutation, Inuit, American Association for the Advancement of Science, Molecular biology, Life sciences, Organisms, Biotechnology, Biochemistry]
 ---
 
 

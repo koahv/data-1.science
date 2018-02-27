@@ -4,7 +4,7 @@ title: "Bat populations in post-wildfire habitats"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Bat, White-nose syndrome, Wildfire, Forest, Natural environment, Ecology]
 ---
 
 

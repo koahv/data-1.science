@@ -4,7 +4,7 @@ title: "Targeting DNA"
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Intein, Virus latency, Zinc finger, Protein, Virus, Macromolecules, Biology, Life sciences, Biotechnology, Molecular biology, Biochemistry, Organisms, Cell biology, Genetics]
 ---
 
 

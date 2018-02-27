@@ -4,7 +4,7 @@ title: "Physicists stop and store light traveling in an optical fiber"
 date: 2015-05-11
 categories: Science
 author: unknown author
-
+tags: [Optical fiber, Light, Quantum mechanics, Speed of light, Optics, Transmission medium, Computer data storage, Vacuum, Information, Computer network, Physics, Applied and interdisciplinary physics, Physical sciences, Mechanics, Chemistry, Electromagnetic radiation, Natural philosophy, Atomic molecular and optical physics, Physical chemistry, Science]
 ---
 
 

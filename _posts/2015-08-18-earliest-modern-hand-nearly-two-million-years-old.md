@@ -4,7 +4,7 @@ title: "Earliest 'modern' hand nearly two million years old"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [Hand, Homo, Human evolution, Phalanx bone, Olduvai Gorge, Human, Australopithecus, Homo habilis, Hominini]
 ---
 
 

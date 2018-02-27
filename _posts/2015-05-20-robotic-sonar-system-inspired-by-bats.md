@@ -4,7 +4,7 @@ title: "Robotic sonar system inspired by bats"
 date: 2015-12-10
 categories: Technology
 author: unknown author
-
+tags: [Animal echolocation, Bat, Sonar, Sound, Technology, Waves]
 ---
 
 

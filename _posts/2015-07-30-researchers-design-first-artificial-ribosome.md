@@ -4,7 +4,7 @@ title: "Researchers design first artificial ribosome"
 date: 2016-05-16
 categories: Science
 author: unknown author
-
+tags: [Ribosome, Cell (biology), Messenger RNA, Protein, RNA, Translation (biology), Protein biosynthesis, Biology, Life sciences, Structural biology, Biochemistry, Biotechnology, Macromolecules, Molecular biology, Genetics, Organisms, Biomolecules, Chemistry, Cell biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Donuts, math, and superdense teleportation of quantum information"
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Quantum teleportation, Quantum entanglement, Theoretical physics, Condensed matter physics, Scientific theories, Physical sciences, Science, Particle physics, Solid state engineering, Quantum mechanics, Physics, Mechanics, Modern physics]
 ---
 
 

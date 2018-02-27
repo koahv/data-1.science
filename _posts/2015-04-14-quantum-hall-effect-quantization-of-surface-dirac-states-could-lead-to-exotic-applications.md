@@ -4,7 +4,7 @@ title: "Quantum Hall effect: Quantization of 'surface Dirac states' could lead t
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Quantum Hall effect, Topological insulator, Electricity, Electric current, Semiconductor, Electromagnetism, Physics, Materials science, Condensed matter, Force, Materials, Applied and interdisciplinary physics, Solid state engineering, Physical sciences, Magnetism, Electronics, Chemistry, Condensed matter physics]
 ---
 
 

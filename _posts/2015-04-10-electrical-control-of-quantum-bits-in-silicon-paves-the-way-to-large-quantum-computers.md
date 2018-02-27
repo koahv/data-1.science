@@ -4,7 +4,7 @@ title: "Electrical control of quantum bits in silicon paves the way to large qua
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Quantum computing, Qubit, Computer, Electron, Bit, Atom, Website, Technology, Physics, Electronics, Artificial objects]
 ---
 
 

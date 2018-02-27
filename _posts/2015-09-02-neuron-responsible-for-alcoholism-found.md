@@ -4,7 +4,7 @@ title: "Neuron responsible for alcoholism found"
 date: 2016-06-29
 categories: Science
 author: unknown author
-
+tags: [Addiction, Alcoholism, Brain, Dopamine, Memory, Neuron, Nervous system, Neuroscience]
 ---
 
 

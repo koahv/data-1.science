@@ -4,7 +4,7 @@ title: "In CRISPR advance, scientists successfully edit human T cells"
 date: 2016-05-16
 categories: Science
 author: unknown author
-
+tags: [Cas9, CRISPR, Genetics, Biochemistry, Biotechnology, Life sciences, Organisms, Medicine, Biology, Molecular biology]
 ---
 
 

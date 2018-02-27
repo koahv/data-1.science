@@ -4,7 +4,7 @@ title: "How the brain encodes time and place"
 date: 2016-07-25
 categories: Science
 author: unknown author
-
+tags: [Memory, Entorhinal cortex, Hippocampus, Hippocampus anatomy, Brain, Cerebral cortex, Neuroscience, Cerebrum, Psychological concepts, Biology, Cognitive neuroscience, Mental processes, Organs (anatomy), Limbic system, Neuropsychology, Neuropsychological assessment, Nervous system, Cognitive science, Cognition]
 ---
 
 

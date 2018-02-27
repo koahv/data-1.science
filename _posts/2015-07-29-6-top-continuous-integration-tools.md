@@ -4,7 +4,7 @@ title: "6 top continuous integration tools"
 date: 2015-08-07
 categories: Open Source
 author: tiwarinitish86
-
+tags: [Jenkins (software), Information technology management, Application software, Digital media, Free software, Technology, System software, Computer programming, Computer engineering, Software development, Software engineering, Computing, Software]
 ---
 
 

@@ -4,7 +4,7 @@ title: "New action plan to save world's rarest primate"
 date: 2015-05-19
 categories: Science
 author: unknown author
-
+tags: [Conservation biology, Hainan black crested gibbon, Zoological Society of London, Gibbon, Ecology, Habitat, Conservation, Natural environment, Organisms]
 ---
 
 

@@ -4,7 +4,7 @@ title: ""Search for Earth's Deep Life" --Ancient, Hydrogen-Rich Waters Discovere
 date: 2015-05-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Life, Water, Mars, Hydrothermal vent, Earth, Rock (geology), Life on Mars, Planetary science, Physical sciences, Planets of the Solar System, Nature, Earth sciences]
 ---
 
 

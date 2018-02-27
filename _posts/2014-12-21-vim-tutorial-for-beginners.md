@@ -4,7 +4,7 @@ title: "Vim Tutorial for Beginners"
 date: 2015-06-27
 categories: Linux
 author: Dillon Hale
-
+tags: [Vim (text editor), Command-line interface, Software, Operating system families, Utility software, Areas of computer science, Operating system technology, Computer engineering, Unix, Digital media, Computers, Computer architecture, System software, Computing]
 ---
 
 

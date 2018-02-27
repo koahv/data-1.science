@@ -4,7 +4,7 @@ title: "Watch 250 Years of Planetary Detection in 60 Seconds"
 date: 2015-07-14
 categories: Astronomy
 author: Jolene Creighton
-
+tags: [Internet Standards, Internet architecture, Internet, Internet protocols, IT infrastructure, Communications protocols, Networking standards, Cyberspace, Network protocols, Computer networking]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Earliest humans had diverse range of body types, just as we do today"
 date: 2015-07-21
 categories: Science
 author: unknown author
-
+tags: [Homo, Human, Human evolution, Homo erectus, Pliocene, Pleistocene]
 ---
 
 

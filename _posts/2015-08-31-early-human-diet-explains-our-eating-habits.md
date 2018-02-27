@@ -4,7 +4,7 @@ title: "Early human diet explains our eating habits"
 date: 2016-06-24
 categories: Science
 author: unknown author
-
+tags: [Religion, Food, Science, Human, Isaac, Islam, Faith, Abrahamic religions, God, Belief, Meat, Ishmael, Genesis flood narrative, Nutrition]
 ---
 
 

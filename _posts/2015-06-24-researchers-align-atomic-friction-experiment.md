@@ -4,7 +4,7 @@ title: "Researchers align atomic friction experiment"
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Friction, Atomic force microscopy, Stick-slip phenomenon, Nanotechnology, Lithium-ion battery, Simulation, Force, Experiment, Carbon nanotube, Research, Applied and interdisciplinary physics, Chemistry, Materials, Manufacturing, Artificial objects, Physical sciences]
 ---
 
 

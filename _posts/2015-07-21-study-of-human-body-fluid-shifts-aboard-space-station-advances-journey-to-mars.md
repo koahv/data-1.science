@@ -4,7 +4,7 @@ title: "Study of human body fluid shifts aboard space station advances journey t
 date: 2016-05-15
 categories: Science
 author: unknown author
-
+tags: [International Space Station, NASA, Astronaut, Roscosmos, Intracranial pressure, Moon, Mars, Earth, Astronomy, Spaceflight, Outer space]
 ---
 
 

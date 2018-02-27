@@ -4,7 +4,7 @@ title: "5 Advantages of Open Source Software"
 date: 2015-10-19
 categories: Linux
 author: Rianne Schestowitz
-
+tags: [Linux, Ubuntu (operating system), Windows 10, Microsoft Windows, Computer engineering, Computer architecture, Linus Torvalds, Open-source movement, Operating system families, Digital media, Free software, Software, Computing, System software, Computers]
 ---
 
 

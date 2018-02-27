@@ -4,7 +4,7 @@ title: "New light shed on brain's source of power"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Brain, Lactic acid, Energy, Carbohydrate, Neuron, Cell (biology), Glucose, Metabolism, Biology]
 ---
 
 

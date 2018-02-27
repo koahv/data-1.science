@@ -4,7 +4,7 @@ title: "NASA image: Flying over an aurora"
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Mars, Scott Kelly (astronaut), Astronomy, International Space Station, NASA, Galaxy, Phoenix (spacecraft), Submillimetre astronomy, Planets of the Solar System, Space science, Solar System, Spaceflight, Planetary science, Physical sciences, Outer space]
 ---
 
 

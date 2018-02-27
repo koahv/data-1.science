@@ -4,7 +4,7 @@ title: "Theory of the strong interaction verified: Supercomputer calculates mass
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Proton, Neutron, Quark, Discovery of the neutron, Strong interaction, Physics, Quantum chromodynamics, Forschungszentrum Jlich, Particle physics, Physical sciences, Nuclear physics, Chemistry, Physical bodies, Theoretical physics, Mechanics, Quantum mechanics, Physical universe]
 ---
 
 

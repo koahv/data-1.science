@@ -4,7 +4,7 @@ title: "First ancient genome recovered from the Mediterranean area"
 date: 2015-09-07
 categories: Science
 author: unknown author
-
+tags: [Cardium pottery, Spain, DNA sequencing, Europe, Biology, Genome, Genetics, Organisms, Life sciences]
 ---
 
 

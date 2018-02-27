@@ -4,7 +4,7 @@ title: "Mercury's 4-Billion Year-Old Magnetic Field Reveals Planet's Past"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [MESSENGER, Mercury (planet), Planet, Astronautics, Outer space, Astronomy, Solar System, Space science, Planetary science, Spaceflight, Physical sciences, Planets of the Solar System, Bodies of the Solar System, Planets, Spacecraft, Flight, Local Interstellar Cloud, Spaceflight technologies]
 ---
 
 

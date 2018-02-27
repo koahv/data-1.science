@@ -65,6 +65,19 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 	
 
 
+
+	#echo "<ul>" >> taglist.txt
+
+	#for i in $(echo $tags | sed "s/,/ /g"); do
+    	#	echo "<li>$i</li>" >> taglist.txt
+	#done
+	
+	#echo "</ul>" >> taglist.txt
+
+	#taglist=`cat taglist.txt`
+
+
+
 	# replace null entries
 	if [[ -z "${author// }" ]]; then
 		author="unknown author"
@@ -100,6 +113,7 @@ done < post_data/id.txt
 
 
 
+#	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: ${split_date_0[0]}\\ncategories: $category\\nauthor: $author\\n$mod_tags\\n---\\n\\n\\n#### Digest\\n>$digest\\n\\n#### Extract\\n>$mod_extract2...\\n\\n#### Factsheet\\n>$factsheet\\n\\n<b>Tags</b>\\n$taglist\\n\\n[Visit Link]($link)\\n\\n" >> post_data/${split_date_1[0]}-$mod_title1.md
 
 
 

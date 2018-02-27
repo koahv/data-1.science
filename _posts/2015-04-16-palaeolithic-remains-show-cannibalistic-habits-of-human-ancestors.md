@@ -4,7 +4,7 @@ title: "Palaeolithic remains show cannibalistic habits of human ancestors"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Excavation (archaeology), Human, Archaeology, Human cannibalism, Goughs Cave, Bone, Archaeological site, Cadaver, History, Creswellian culture, Museology, Culture]
 ---
 
 

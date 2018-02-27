@@ -4,7 +4,7 @@ title: "How to Receive a Million Packets Per Second on Linux"
 date: 2015-06-29
 categories: Linux
 author: Administrator
-
+tags: [Communication, Computer architecture, Networking standards, Network architecture, Communications protocols, Computing, Computer networking, Data transmission, Telecommunications, Network protocols, Technology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "ALMA precisely measures black hole mass"
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Milky Way, Astronomy, Black hole, Spiral galaxy, Supermassive black hole, Atacama Large Millimeter Array, Hubble Space Telescope, Mars, Galaxy, European Southern Observatory, Star, Sagittarius A, Galactic Center, Astronomical objects, Outer space, Physical cosmology, Physical sciences, Physics]
 ---
 
 

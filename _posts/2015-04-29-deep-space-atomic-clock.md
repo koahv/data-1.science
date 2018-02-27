@@ -4,7 +4,7 @@ title: "Deep space atomic clock"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Mars, NASA, Europa (moon), Phoenix (spacecraft), Jet Propulsion Laboratory, Astronomy, Outer space, Moon, Space science, Astronautics, Flight, Physical sciences, Spaceflight]
 ---
 
 

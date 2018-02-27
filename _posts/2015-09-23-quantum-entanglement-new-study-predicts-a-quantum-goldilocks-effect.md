@@ -4,7 +4,7 @@ title: "Quantum entanglement: New study predicts a quantum Goldilocks effect"
 date: 2015-09-27
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Physics, Universe, Quantum entanglement, Matter, Science, Phase transition, Modern physics, Particle physics, Applied and interdisciplinary physics, Physical sciences, Solid state engineering, Scientific theories, Theoretical physics, Mechanics]
 ---
 
 

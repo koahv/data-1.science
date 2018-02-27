@@ -4,7 +4,7 @@ title: "On quantum scales, there are many second laws of thermodynamics"
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Physics, Second law of thermodynamics, Entropy, Heat, Energy, Thermodynamics, Gas, Temperature, System, Mechanics, Chemistry, Physical sciences, Applied and interdisciplinary physics, Theoretical physics, Physical chemistry, Materials science, Science, Mechanical engineering, Cognitive science, Metaphysics]
 ---
 
 

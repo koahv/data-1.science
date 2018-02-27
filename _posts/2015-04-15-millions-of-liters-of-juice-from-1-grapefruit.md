@@ -4,7 +4,7 @@ title: "Millions of liters of juice from 1 grapefruit"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Yeast, Biotechnology, Nootkatone, Saccharomyces cerevisiae, Organisms, Biology, Life sciences, Artificial objects]
 ---
 
 

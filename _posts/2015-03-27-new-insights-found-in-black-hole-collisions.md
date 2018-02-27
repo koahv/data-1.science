@@ -4,7 +4,7 @@ title: "New insights found in black hole collisions"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Black hole, Gravitational wave, Gravity, General relativity, Event horizon, LIGO, Universe, Hawking radiation, Gravitational-wave observatory, Time, Star, Photon, Speed of light, Matter, Time dilation, Spacetime, Astronomy, Theoretical physics, Physical phenomena, Applied and interdisciplinary physics, Physics, Science, Physical cosmology, Physical sciences, Mechanics, Physical quantities]
 ---
 
 

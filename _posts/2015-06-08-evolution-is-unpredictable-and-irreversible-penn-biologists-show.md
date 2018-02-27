@@ -4,7 +4,7 @@ title: "Evolution is unpredictable and irreversible, Penn biologists show"
 date: 2015-07-21
 categories: Science
 author: unknown author
-
+tags: [Natural selection, Mutation, Epistasis, Evolution, Evolutionary biology, Cognitive science, Biology, Biology theories, Nature, Science, Biological evolution, Life sciences, Organisms]
 ---
 
 

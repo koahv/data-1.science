@@ -4,7 +4,7 @@ title: "New theory leads to 'radiationless revolution'"
 date: 2015-09-02
 categories: Science
 author: unknown author
-
+tags: [Electromagnetic radiation, Physics, Electron configuration, Matter, Quantum mechanics, Force, Particle physics, Materials science, Science, Electromagnetism, Theoretical physics, Chemistry, Applied and interdisciplinary physics, Mechanics, Physical sciences]
 ---
 
 

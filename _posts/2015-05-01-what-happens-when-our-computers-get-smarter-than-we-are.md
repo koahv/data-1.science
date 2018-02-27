@@ -4,7 +4,7 @@ title: "What Happens When Our Computers Get Smarter Than We Are?"
 date: 2015-12-09
 categories: Technology
 author: kduffy
-
+tags: [Artificial intelligence, Nick Bostrom, Intelligence, Cybernetics, Artificial objects, Epistemology, Systems science, Neuroscience, Prediction, Computer science, Emerging technologies, Computational neuroscience, Emergence, Cognition, Areas of computer science, Technology, Futurology, Systems thinking, Cognitive science, Systems theory, Educational psychology, Science and technology, Computing]
 ---
 
 

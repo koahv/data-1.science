@@ -4,7 +4,7 @@ title: "Helping parents understand infant sleep patterns"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Infant, Sleep, Infant sleep training, Health care, Nursing, Health professional, Research, Parenting, Psychology, Psychological concepts, Behavioural sciences, Health, Interpersonal relationships]
 ---
 
 

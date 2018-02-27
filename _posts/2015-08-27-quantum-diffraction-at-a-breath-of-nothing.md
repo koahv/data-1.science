@@ -4,7 +4,7 @@ title: "Quantum diffraction at a breath of nothing"
 date: 2015-09-02
 categories: Energy
 author: unknown author
-
+tags: [Quantum mechanics, Diffraction grating, Diffraction, Molecule, Uncertainty principle, Waveparticle duality, Electron, Particle physics, Modern physics, Physics, Physical sciences, Applied and interdisciplinary physics, Chemistry, Atomic molecular and optical physics, Mechanics, Materials science, Condensed matter physics, Physical chemistry]
 ---
 
 

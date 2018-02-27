@@ -4,7 +4,7 @@ title: "Second instrument delivered for OSIRIS-REx mission"
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [OSIRIS-REx, Spacecraft, Space exploration, Solar System, Planetary science, Astronomy, Spaceflight technologies, Outer space, Spaceflight, Astronautics, Space science, Flight]
 ---
 
 

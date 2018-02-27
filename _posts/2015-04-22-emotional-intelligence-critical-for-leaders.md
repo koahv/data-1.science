@@ -4,7 +4,7 @@ title: "Emotional intelligence critical for leaders"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Leadership, Institute of Food and Agricultural Sciences, Emotional intelligence, Research, Physical exercise, University of Florida, Advertising, Psychological concepts, Psychology, Cognition, Cognitive science, Behavioural sciences, Communication]
 ---
 
 

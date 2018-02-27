@@ -4,7 +4,7 @@ title: "New way to save fish—and fishers"
 date: 2015-05-19
 categories: Science
 author: unknown author
-
+tags: [Fishing, Marine protected area, Conservation biology, Poaching, Overfishing, Natural environment]
 ---
 
 

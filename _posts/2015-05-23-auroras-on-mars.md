@@ -4,7 +4,7 @@ title: "Auroras on Mars"
 date: 2016-05-03
 categories: Science
 author: unknown author
-
+tags: [Mars, Aurora, MAVEN, Atmosphere of Mars, Atmosphere, Earth, Solar wind, Atmosphere of Earth, Nature, Solar System, Planets, Bodies of the Solar System, Astronomy, Physical sciences, Space science, Outer space, Planets of the Solar System, Planetary science]
 ---
 
 

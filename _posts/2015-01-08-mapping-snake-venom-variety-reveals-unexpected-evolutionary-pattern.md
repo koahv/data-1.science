@@ -4,7 +4,7 @@ title: "Mapping snake venom variety reveals unexpected evolutionary pattern"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Venom, Rattlesnake, Coral snake, Snake, Eastern diamondback rattlesnake, Antivenom, Genetic diversity, Evolution, Micrurus fulvius, Predation, Snake venom, Species, Coral, Biology, Organisms]
 ---
 
 

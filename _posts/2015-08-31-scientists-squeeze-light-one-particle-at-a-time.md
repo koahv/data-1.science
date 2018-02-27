@@ -4,7 +4,7 @@ title: "Scientists 'squeeze' light one particle at a time"
 date: 2015-09-02
 categories: Science
 author: unknown author
-
+tags: [Photon, Light, Quantum mechanics, Physics, Vacuum, Atom, Quantum dot, Uncertainty principle, Electromagnetic radiation, Theoretical physics, Physical sciences, Mechanics, Science, Modern physics, Particle physics, Applied and interdisciplinary physics, Solid state engineering, Scientific theories, Chemistry, Condensed matter physics]
 ---
 
 

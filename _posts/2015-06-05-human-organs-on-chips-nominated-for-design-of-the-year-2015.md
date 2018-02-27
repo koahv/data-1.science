@@ -4,7 +4,7 @@ title: "Human Organs-on-Chips Nominated for Design of the Year 2015"
 date: 2015-12-11
 categories: Technology
 author: kduffy
-
+tags: [Curator, Technology, Artificial objects]
 ---
 
 

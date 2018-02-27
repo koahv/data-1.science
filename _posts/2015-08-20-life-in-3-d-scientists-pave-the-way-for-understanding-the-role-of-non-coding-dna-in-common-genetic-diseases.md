@@ -4,7 +4,7 @@ title: "Life in 3-D: Scientists pave the way for understanding the role of non-c
 date: 2016-05-28
 categories: Science
 author: unknown author
-
+tags: [Gene, Genetics, Enhancer (genetics), Promoter (genetics), Gene expression, Genome, DNA, Noncoding DNA, Mutation, Proteinprotein interaction, Molecular biology, Biochemistry, Biotechnology, Organisms, Biology, Life sciences]
 ---
 
 

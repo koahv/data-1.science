@@ -4,7 +4,7 @@ title: "Activating genes on demand"
 date: 2016-04-16
 categories: Science
 author: unknown author
-
+tags: [Gene, Genetics, Genome editing, Cas9, Gene expression, Cellular differentiation, Stem cell, Cell (biology), Regenerative medicine, CRISPR, DNA, Genome, Biology, Regeneration (biology), Gene therapy, Biochemistry, Molecular biology, Biotechnology, Organisms, Life sciences]
 ---
 
 

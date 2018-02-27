@@ -4,7 +4,7 @@ title: "Five reasons why sugar is added to food"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [Food, Food science, Sugar, Flavor, Fermentation, Taste, Candy, Bread, Maillard reaction, Fruit preserves, Wine, Food and drink, Foods, Food and drink preparation, Food industry]
 ---
 
 

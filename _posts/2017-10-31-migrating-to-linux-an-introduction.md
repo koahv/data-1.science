@@ -4,7 +4,7 @@ title: "Migrating to Linux: An Introduction"
 date: 2018-02-20
 categories: Linux
 author: JohnBonesio
-
+tags: [Linux, Operating system, Linux distribution, Package manager, Graphical user interface, Application software, Desktop environment, Microsoft Windows, Digital technology, Operating system technology, Computer architecture, Operating system families, Computer engineering, Computers, Software, Digital media, Computing, System software]
 ---
 
 

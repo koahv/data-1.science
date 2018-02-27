@@ -4,7 +4,7 @@ title: "Forbidden atomic transitions: Controlling matter 1,000 times more precis
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Atom, Electron, Physics, Spectroscopy, Rydberg atom, Light, Atomic physics, Time, Laser, Science, Atomic molecular and optical physics, Particle physics, Quantum mechanics, Modern physics, Solid state engineering, Theoretical physics, Applied and interdisciplinary physics, Physical chemistry, Mechanics, Chemistry, Physical sciences]
 ---
 
 

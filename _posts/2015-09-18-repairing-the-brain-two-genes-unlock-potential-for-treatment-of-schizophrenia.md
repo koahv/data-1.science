@@ -4,7 +4,7 @@ title: "Repairing the brain: Two genes unlock potential for treatment of schizop
 date: 2016-07-04
 categories: Science
 author: unknown author
-
+tags: [Schizophrenia, Brain-derived neurotrophic factor, Brain, Mental disorder, Neuroscience, Nervous system, Biology, Behavioural sciences, Clinical psychology, Psychology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Stephen Hawking’s Speech Software Is Now Open Source"
 date: 2015-08-24
 categories: Linux
 author: Rianne Schestowitz
-
+tags: [Linux, Ubuntu (operating system), Android (operating system), Unity (user interface), Computing, Operating system families, Free software, Digital media, Computers, System software, Software]
 ---
 
 

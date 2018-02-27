@@ -4,7 +4,7 @@ title: "Climate engineering may save coral reefs, study shows"
 date: 2016-05-03
 categories: Science
 author: unknown author
-
+tags: [Climate engineering, Coral bleaching, Ocean acidification, Global environmental issues, Physical geography, Environmental science, Environmental issues, Climate, Oceanography, Change, Meteorology, Global natural environment, Future problems, Climatology, Earth sciences, Climate change, Atmospheric sciences, Natural environment]
 ---
 
 

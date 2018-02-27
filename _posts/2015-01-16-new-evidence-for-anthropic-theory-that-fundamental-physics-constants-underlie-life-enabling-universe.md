@@ -4,7 +4,7 @@ title: "New evidence for anthropic theory that fundamental physics constants und
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Universe, Big Bang, Anthropic principle, Physics, Nucleosynthesis, Neutron, Chemical element, Atomic nucleus, Quark, Fine-tuned Universe, Star, Big Bang nucleosynthesis, Physical cosmology, Astronomy, Physical universe, Nature, Science, Natural sciences, Chemistry, Physical sciences, Nuclear physics, Particle physics]
 ---
 
 

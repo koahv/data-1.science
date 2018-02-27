@@ -4,7 +4,7 @@ title: "Ants show left bias when exploring new spaces"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Ant, Bias, Temnothorax albipennis, Communication]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Spacecraft of the Week: Odyssey"
 date: 2015-12-21
 categories: Technology
 author: mcrouse
-
+tags: [Mars, 2001 Mars Odyssey, Spacecraft propulsion, NASA, Exploration of Mars, Lander (spacecraft), Spaceflight technologies, Spaceflight, Outer space, Spacecraft, Astronautics, Flight, Aerospace engineering, Discovery and exploration of the Solar System, Space exploration, Aerospace, Solar System]
 ---
 
 

@@ -4,7 +4,7 @@ title: "What clinicians need to know about bilingual development in children"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [Clinical psychology, Multilingualism, Monolingualism, Language, Language development, English language, Child, Behavior modification, Cognition, Cognitive science, Communication, Psychological concepts, Education, Psychology, Human communication, Linguistics, Applied psychology, Learning, Semiotics, Epistemology, Culture]
 ---
 
 

@@ -4,7 +4,7 @@ title: "New Water Sources Observed on the Moon --Could Facilitate Future Manned 
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Moon, Lunar Reconnaissance Orbiter, Goddard Space Flight Center, Neutron, Atom, Lunar south pole, Outer space, Physical sciences, Planetary science, Bodies of the Solar System, Planets of the Solar System, Solar System, Space science, Astronomy]
 ---
 
 

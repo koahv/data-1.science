@@ -4,7 +4,7 @@ title: "First imagery from echolocation reveals new signals for hunting bats"
 date: 2016-06-25
 categories: Science
 author: unknown author
-
+tags: [Bat, Animal echolocation, Insect, Medical imaging, Cognitive science]
 ---
 
 

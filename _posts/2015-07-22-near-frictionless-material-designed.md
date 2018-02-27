@@ -4,7 +4,7 @@ title: "Near-Frictionless Material Designed"
 date: 2015-09-13
 categories: Technology
 author: kduffy
-
+tags: [Superlubricity, Friction, Artificial objects, Materials science, Applied and interdisciplinary physics, Manufacturing, Materials, Chemistry, Physical sciences]
 ---
 
 

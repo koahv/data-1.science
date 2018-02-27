@@ -4,7 +4,7 @@ title: "International team of scientists launches fossil database"
 date: 2015-07-20
 categories: Science
 author: unknown author
-
+tags: [Paleontology, Evolution, Fossil, American Association for the Advancement of Science, Biological evolution, Nature, Evolutionary biology, Organisms, Biology, Science]
 ---
 
 

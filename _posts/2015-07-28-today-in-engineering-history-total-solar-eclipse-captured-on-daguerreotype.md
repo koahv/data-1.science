@@ -4,7 +4,7 @@ title: "Today in Engineering History: Total Solar Eclipse Captured on Daguerreot
 date: 2015-12-21
 categories: Technology
 author: kduffy
-
+tags: [Sun, Solar eclipse, Bodies of the Solar System, Outer space, Astronomy, Solar System, Physical sciences, Space science, Planetary science, Stellar astronomy, G-type main-sequence stars]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Record-Breaking Laser Hits 2,000 Trillion Watts"
 date: 2016-05-27
 categories: Science
 author: unknown author
-
+tags: [Nuclear fusion, Laser, Physical sciences, Physics, Nature, Applied and interdisciplinary physics, Physical universe, Chemistry, Energy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "New resource makes gene-editing technology even more user friendly"
 date: 2015-12-21
 categories: Technology
 author: unknown author
-
+tags: [Cas9, CRISPR, Genome editing, Gene, Genetics, RNA, Gene therapy, Biology, Biochemistry, Artificial objects, Nucleic acids, Organisms, Molecular biology, Biotechnology, Life sciences]
 ---
 
 

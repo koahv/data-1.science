@@ -4,7 +4,7 @@ title: "Autonomous car completes 3,400-mile US road trip"
 date: 2015-04-03
 categories: Science
 author: unknown author
-
+tags: [Autonomous car, Car, Traffic, Technology, Artificial objects, Transport, Transportation engineering, Automobiles, Motor vehicles, Vehicles]
 ---
 
 

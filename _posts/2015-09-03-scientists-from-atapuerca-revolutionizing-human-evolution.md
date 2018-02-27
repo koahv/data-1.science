@@ -4,7 +4,7 @@ title: "Scientists from Atapuerca Revolutionizing Human Evolution"
 date: 2015-09-04
 categories: Science
 author: ancient-origins
-
+tags: [Human, Neanderthal, Homo, Human evolution, Anatomically modern human, Homo sapiens, Archaeology]
 ---
 
 

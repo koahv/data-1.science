@@ -4,7 +4,7 @@ title: "NASA Spacecraft Making First Visit to Dwarf Planet Ceres"
 date: 2015-12-07
 categories: Technology
 author: mfassbender
-
+tags: [Dawn (spacecraft), Ceres (dwarf planet), Astronomy, Bodies of the Solar System, Astronautics, Flight, Spaceflight technologies, Spaceflight, Spacecraft, Local Interstellar Cloud, Planets, Astronomical objects, Planemos, Discovery and exploration of the Solar System, Space exploration, Space science, Planetary science, Solar System, Outer space]
 ---
 
 

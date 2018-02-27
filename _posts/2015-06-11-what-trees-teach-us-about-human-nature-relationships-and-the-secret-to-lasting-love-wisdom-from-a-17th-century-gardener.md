@@ -4,7 +4,7 @@ title: "What Trees Teach Us About Human Nature, Relationships, and the Secret to
 date: 2015-07-10
 categories: Philosophy
 author: Maria Popova
-
+tags: [Spirituality, Human, Love, Good and evil, Wisdom, Virtue, Mind, Tree, Soul, Language, Philosophy, Culture]
 ---
 
 

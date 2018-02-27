@@ -4,7 +4,7 @@ title: "Team traces strain of tuberculosis back 30,000 years"
 date: 2016-05-08
 categories: Science
 author: unknown author
-
+tags: [Tuberculosis, Mycobacterium, Mycobacterium tuberculosis, Infection, Pathogen, Microbiology, Medical specialties, Biology, Infectious diseases, Immunology, Diseases and disorders, Health sciences, Epidemiology, Clinical medicine, Medicine]
 ---
 
 

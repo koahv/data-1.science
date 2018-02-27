@@ -4,7 +4,7 @@ title: "Big Bang aftermath: Ancient stars from birth of the universe"
 date: 2016-05-04
 categories: Science
 author: unknown author
-
+tags: [Star, Universe, Astronomy, Chemical element, Star formation, Big Bang, Astrophysics, Chronology of the universe, European Southern Observatory, Physical sciences, Outer space, Nature, Applied and interdisciplinary physics, Physical universe, Astronomical objects, Science]
 ---
 
 

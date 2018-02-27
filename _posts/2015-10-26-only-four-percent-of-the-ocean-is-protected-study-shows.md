@@ -4,7 +4,7 @@ title: "Only four percent of the ocean is protected, study shows"
 date: 2015-10-27
 categories: Science
 author: unknown author
-
+tags: [Marine protected area, Protected area, Ocean, Natural environment]
 ---
 
 

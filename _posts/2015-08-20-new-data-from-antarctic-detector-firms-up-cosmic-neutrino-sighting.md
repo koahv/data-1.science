@@ -4,7 +4,7 @@ title: "New data from Antarctic detector firms up cosmic neutrino sighting"
 date: 2016-05-28
 categories: Science
 author: unknown author
-
+tags: [IceCube Neutrino Observatory, Neutrino, Applied and interdisciplinary physics, Particle physics, Science, Astronomy, Physics, Physical sciences]
 ---
 
 

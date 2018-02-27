@@ -4,7 +4,7 @@ title: "If humans never existed, Europe would be one giant zoo, new study shows"
 date: 2015-08-26
 categories: Tech
 author: Colm Gorey
-
+tags: [Biodiversity, Human, Earth, Mammal, Africa]
 ---
 
 

@@ -4,7 +4,7 @@ title: "What drives the solar cycle?"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Sun, Jupiter, Star, Astronomy, Planet, Sunspot, Earth, Milky Way, Solar cycle, Solar System, Orbit, Exoplanet, Mars, Galaxy, Nature, Physics, Outer space, Physical sciences]
 ---
 
 

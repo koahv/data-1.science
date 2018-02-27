@@ -4,7 +4,7 @@ title: "Psychology of the appeal of being anti-GMO"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Genetically modified organism, Science, Biotechnology, Emotion, Evolution, Genetic engineering, Cognitive science, Idea, Intuition, Genetically modified food, Understanding, Philosophy, Psychology, Emergence, Cognition, Epistemology, Psychological concepts]
 ---
 
 

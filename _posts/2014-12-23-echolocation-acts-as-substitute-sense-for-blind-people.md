@@ -4,7 +4,7 @@ title: "Echolocation acts as substitute sense for blind people"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Visual impairment, Sense, Human echolocation, Animal echolocation, Psychology, Human, Visual perception, Mental processes, Psychological concepts, Cognitive science, Neuroscience, Cognition, Neuropsychological assessment, Nervous system, Emergence, Behavioural sciences, Neuropsychology, Senses]
 ---
 
 

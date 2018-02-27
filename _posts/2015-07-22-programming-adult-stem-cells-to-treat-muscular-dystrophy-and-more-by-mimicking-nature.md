@@ -4,7 +4,7 @@ title: "Programming adult stem cells to treat muscular dystrophy and more by mim
 date: 2016-05-15
 categories: Science
 author: unknown author
-
+tags: [Stem cell, American Association for the Advancement of Science, Muscle, Adult stem cell, Embryonic stem cell, Clinical medicine, Life sciences, Medical specialties, Medicine, Biology, Nervous system, Cell biology, Health sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Breakthrough in energy harvesting could power life on Mars"
 date: 2016-04-16
 categories: Science
 author: unknown author
-
+tags: [Mars, Mars Reconnaissance Orbiter, Gullies on Mars, Dry ice, Engine, Earth, Mars Global Surveyor, Heat, Nature, Artificial objects]
 ---
 
 

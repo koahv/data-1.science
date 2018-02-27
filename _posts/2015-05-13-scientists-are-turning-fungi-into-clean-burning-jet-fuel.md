@@ -4,7 +4,7 @@ title: "Scientists are turning fungi into clean-burning jet fuel"
 date: 2015-05-20
 categories: Energy
 author: Charley Cameron
-
+tags: [Biofuel, Aviation biofuel, Natural resources, Fuels, Renewable fuels, Artificial objects, Energy, Chemical energy sources, Sustainable technologies, Energy sources, Alternative fuels, Sustainable development, Bioenergy, Biofuels, Alternative energy, Chemical substances]
 ---
 
 

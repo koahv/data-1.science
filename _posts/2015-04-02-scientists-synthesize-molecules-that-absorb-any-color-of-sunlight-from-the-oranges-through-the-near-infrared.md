@@ -4,7 +4,7 @@ title: "Scientists synthesize molecules that absorb any color of sunlight, from 
 date: 2015-04-03
 categories: Science
 author: unknown author
-
+tags: [Chlorophyll, Chlorophyll a, Absorption spectroscopy, Molecular orbital, Absorption band, Chemistry, Physical sciences, Physical chemistry, Atomic molecular and optical physics, Applied and interdisciplinary physics]
 ---
 
 

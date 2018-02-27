@@ -4,7 +4,7 @@ title: "Schizophrenia: Impaired activity of the selective dopamine neurons"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Schizophrenia, Dopamine, Psychiatric diagnosis, Psychiatry, Mental and behavioural disorders, Psychology, Psychiatry-related fields, Cognition, Medicine, Mental health, Psychopathology, Clinical medicine, Psychiatric diseases and disorders, Abnormal psychology, Medical specialties, Medical diagnosis, Health, Psychological concepts, Behavioural sciences, Clinical psychology, Nervous system, Neuroscience]
 ---
 
 

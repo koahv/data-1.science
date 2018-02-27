@@ -4,7 +4,7 @@ title: "What is the Kuiper Belt?"
 date: 2015-07-14
 categories: Science
 author: unknown author
-
+tags: [Kuiper belt, Solar System, Pluto, Michael E Brown, Planet, Neptune, Space science, Planetary science, Outer space, Astronomy, Physical sciences, Bodies of the Solar System, Astronomical objects, Local Interstellar Cloud]
 ---
 
 

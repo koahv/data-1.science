@@ -4,7 +4,7 @@ title: "Scientists call for caution in using DNA-editing technology"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [CRISPR, Genome editing, Genetics, Genome, Genetic engineering, Biology, Life sciences, Organisms, Biotechnology]
 ---
 
 

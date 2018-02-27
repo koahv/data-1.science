@@ -4,7 +4,7 @@ title: "What Caused 'The Great Dying' --"70 percent of Earth's Land Species Disa
 date: 2015-09-29
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [PermianTriassic extinction event, Siberian Traps, Igneous rock, Volcano, Earth, History of Earth, Rock (geology), Large igneous province, Extinction, Earth sciences, Geology, Nature, Physical geography, Physical sciences, Planetary science]
 ---
 
 

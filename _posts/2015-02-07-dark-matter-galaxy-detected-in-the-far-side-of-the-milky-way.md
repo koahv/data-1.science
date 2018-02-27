@@ -4,7 +4,7 @@ title: "Dark-Matter Galaxy Detected in the Far Side of the Milky Way"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Milky Way, Dark matter, Astronomy, Star, Variable star, Cosmic distance ladder, Galaxy, Cepheid variable, Astronomical objects, Physical cosmology, Science, Physics, Outer space, Physical sciences]
 ---
 
 

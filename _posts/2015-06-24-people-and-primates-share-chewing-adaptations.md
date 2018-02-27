@@ -4,7 +4,7 @@ title: "People and primates share chewing adaptations"
 date: 2016-05-10
 categories: Science
 author: unknown author
-
+tags: [Primate, Human, Homo erectus, Evolution, Organisms]
 ---
 
 

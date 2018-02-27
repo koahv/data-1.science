@@ -4,7 +4,7 @@ title: "Dark matter guides growth of supermassive black holes"
 date: 2015-09-13
 categories: Science
 author: unknown author
-
+tags: [Galaxy, Black hole, Dark matter, Elliptical galaxy, Star, Supermassive black hole, Dark matter halo, Astrophysics, Astronomical objects, Cosmology, Large-scale structure of the cosmos, Extragalactic astronomy, Outer space, Physics, Galaxies, Physical cosmology, Physical sciences, Astronomy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Skull reconstruction sheds new light on tetrapod transition from water t
 date: 2015-07-16
 categories: Science
 author: unknown author
-
+tags: [Acanthostega, Skull, Tetrapod]
 ---
 
 

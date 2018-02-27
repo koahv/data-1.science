@@ -4,7 +4,7 @@ title: "Silicon Valley marks 50 years of Moore's Law"
 date: 2016-04-24
 categories: Science
 author: unknown author
-
+tags: [Moores law, Integrated circuit, Intel, Technology, Computer engineering, Artificial objects, Electronics, Electronic engineering, Digital technology, Electrical engineering, Computers, Computing]
 ---
 
 

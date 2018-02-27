@@ -4,7 +4,7 @@ title: "Polio vaccination: Review of Final steps to polio eradication"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Poliomyelitis, Poliovirus, Vaccine, Polio vaccine, Eradication of infectious diseases, Jonas Salk, Immunology, Health sciences, Medical specialties, Public health, Microbiology, Infectious diseases, Medicine, Animal viral diseases, Animal diseases, Vaccination, Medical humanities, Animal virology, Pediatrics, Health]
 ---
 
 

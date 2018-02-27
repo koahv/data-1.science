@@ -4,7 +4,7 @@ title: "Higgs Boson Properties Measured More Precisely Than Ever Before"
 date: 2015-12-21
 categories: Technology
 author: mcrouse
-
+tags: [ATLAS experiment, Compact Muon Solenoid, Particle physics, Standard Model, Higgs boson, Large Hadron Collider, Elementary particle, CERN, Modern physics, Physics, Physical sciences, Theoretical physics, Quantum field theory, Nuclear physics, Quantum mechanics, Science, Mechanics, Physical bodies, Subatomic particles]
 ---
 
 

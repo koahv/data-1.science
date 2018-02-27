@@ -2,11 +2,13 @@
 layout: post
 title: "The Deep Carbon Observatory: Quantities, movements, forms and origins of Earth's carbon"
 date: 2015-07-20
-categories: Astronomy
+categories: Science
 Science
-Science
+Astronomy
 author: unknown author
-
+tags: [Greenhouse gas, Deep Carbon Observatory, Volcano, Earth, Carbon cycle, American Geophysical Union, Physical sciences, Nature, Earth sciences
+Greenhouse gas, Deep Carbon Observatory, Volcano, Earth, Carbon cycle, American Geophysical Union, Physical sciences, Nature, Earth sciences
+Greenhouse gas, Deep Carbon Observatory, Volcano, Earth, Carbon cycle, American Geophysical Union, Physical sciences, Nature, Earth sciences]
 ---
 
 

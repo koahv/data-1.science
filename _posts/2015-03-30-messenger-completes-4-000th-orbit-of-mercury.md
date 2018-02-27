@@ -4,7 +4,7 @@ title: "MESSENGER completes 4,000th orbit of Mercury"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [MESSENGER, Mercury (planet), Planetary science, Outer space, Astronomy, Physical sciences, Spaceflight, Solar System, Space science, Spacecraft, Astronautics, Planets of the Solar System]
 ---
 
 

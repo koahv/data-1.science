@@ -4,7 +4,7 @@ title: "X-ray emission from massive stars"
 date: 2015-10-27
 categories: Science
 author: unknown author
-
+tags: [Star, Astronomy, Star cluster, Milky Way, Star formation, Carina (constellation), Mars, X-ray astronomy, Galaxy, Stars, Outer space, Astronomical objects, Physical sciences]
 ---
 
 

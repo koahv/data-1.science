@@ -4,7 +4,7 @@ title: "A microscopic approach to the magnetic sensitivity of animals"
 date: 2015-12-11
 categories: Technology
 author: unknown author
-
+tags: [Cryptochrome, Magnetoreception, Flavin adenine dinucleotide, Applied and interdisciplinary physics, Physical sciences, Biology, Chemistry]
 ---
 
 

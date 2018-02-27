@@ -4,7 +4,7 @@ title: "Quantum measurement is for the birds, but is not essential for plants"
 date: 2015-07-26
 categories: Science
 author: unknown author
-
+tags: [Photosynthesis, Thylakoid, Physical sciences, Chemistry, Physics, Applied and interdisciplinary physics, Condensed matter physics, Mechanics, Quantum mechanics]
 ---
 
 

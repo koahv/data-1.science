@@ -4,7 +4,7 @@ title: "Researchers discover first sensor of Earth's magnetic field in an animal
 date: 2015-07-21
 categories: Science
 author: unknown author
-
+tags: [Brain, Science, Biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Wave-particle interaction in atmosphere"
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Electron, Van Allen radiation belt, Plasma (physics), Radiation, Earth, Electromagnetic radiation, Physical phenomena, Chemistry, Physical universe, Experimental physics, Phases of matter, Mechanics, Force, Physical chemistry, Nature, Applied and interdisciplinary physics, Physics, Physical sciences]
 ---
 
 

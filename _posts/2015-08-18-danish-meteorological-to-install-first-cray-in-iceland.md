@@ -4,7 +4,7 @@ title: "Danish Meteorological to Install First Cray in Iceland"
 date: 2015-08-24
 categories: Linux
 author: insideHPC
-
+tags: [Danish Meteorological Institute, Classes of computers, Computer engineering, Supercomputing, Supercomputers, Computer hardware, Computer architecture, Computers, Computing]
 ---
 
 

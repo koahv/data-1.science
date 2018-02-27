@@ -4,7 +4,7 @@ title: "GM -- 'the most critical technology' for feeding the world"
 date: 2016-05-28
 categories: Science
 author: unknown author
-
+tags: [Agriculture, Food security, Genetically modified crops, Genetic engineering, Rice, Food, Plant breeding, Genetically modified food, Golden rice, Wheat, Natural environment, Food and drink, Biology]
 ---
 
 

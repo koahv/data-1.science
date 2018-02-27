@@ -4,7 +4,7 @@ title: "Preparing to build ESA’s Jupiter mission"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Jupiter Icy Moons Explorer, Ganymede (moon), Callisto (moon), Spacecraft, Aerospace engineering, Spaceflight technologies, Jupiter, Outer space, Solar System, Spaceflight, Space science, Astronomy, Astronautics, Planetary science, Bodies of the Solar System, Flight, Planets of the Solar System]
 ---
 
 

@@ -4,7 +4,7 @@ title: "5 Reasons To Become A Linux Foundation Certified Engineer"
 date: 2015-05-22
 categories: Linux
 author: Linux Training Staff
-
+tags: [Linux, Software, Computing]
 ---
 
 

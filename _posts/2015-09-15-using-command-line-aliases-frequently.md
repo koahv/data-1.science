@@ -4,7 +4,7 @@ title: "Using Command Line Aliases – Frequently"
 date: 2015-09-18
 categories: Linux
 author: matthartley
-
+tags: [Linux, Ubuntu (operating system), Windows 10, Microsoft Windows, Unity (user interface), Software, Linus Torvalds, Computing, System software, Computers, Operating system families, Free software, Computer engineering, Computer architecture, Digital media, Operating system technology]
 ---
 
 

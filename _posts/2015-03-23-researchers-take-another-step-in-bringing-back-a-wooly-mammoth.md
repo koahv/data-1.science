@@ -4,7 +4,7 @@ title: "Researchers take another step in bringing back a wooly mammoth"
 date: 2016-04-19
 categories: Science
 author: unknown author
-
+tags: [Woolly mammoth, Extinction, Cloning, Mammoth, Human, Ivory, Genetics, Elephant, George M Church]
 ---
 
 

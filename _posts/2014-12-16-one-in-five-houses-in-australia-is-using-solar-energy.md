@@ -2,10 +2,11 @@
 layout: post
 title: "One in five houses in Australia is using solar energy"
 date: 2015-07-04
-categories: Technology
-Energy
+categories: Energy
+Technology
 author: Kristine Lofgren
-
+tags: [Australian Bureau of Statistics, Solar water heating, Energy, Sustainable technologies, Sustainable development, Physical universe, Nature, Sustainable energy, Renewable energy, Alternative energy, Technology, Artificial objects
+Australian Bureau of Statistics, Solar water heating, Energy, Sustainable technologies, Sustainable development, Physical universe, Nature, Sustainable energy, Renewable energy, Alternative energy, Technology, Artificial objects]
 ---
 
 

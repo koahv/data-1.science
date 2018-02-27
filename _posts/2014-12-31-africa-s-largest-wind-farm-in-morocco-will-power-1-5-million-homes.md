@@ -4,7 +4,7 @@ title: "Africa’s largest wind farm in Morocco will power 1.5 million homes"
 date: 2015-07-04
 categories: Energy
 author: Lori Zimmer
-
+tags: [Wind power, Wind turbine, Sustainable energy, Renewable resources, Energy, Sustainable development, Nature, Physical universe, Natural resources, Natural environment, Alternative energy, Artificial objects, Sustainable technologies]
 ---
 
 

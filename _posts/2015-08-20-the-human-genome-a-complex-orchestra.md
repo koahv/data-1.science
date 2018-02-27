@@ -4,7 +4,7 @@ title: "The human genome: A complex orchestra"
 date: 2016-05-28
 categories: Science
 author: unknown author
-
+tags: [Genetics, Gene, Gene expression, Chromatin, DNA, Genome, Biotechnology, Life sciences, Biology, Organisms, Biochemistry, Molecular biology]
 ---
 
 

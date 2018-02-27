@@ -4,7 +4,7 @@ title: "Five myths about gravitational waves"
 date: 2015-09-08
 categories: Science
 author: unknown author
-
+tags: [Gravitational wave, Cosmic microwave background, BICEP and Keck Array, Inflation (cosmology), Big Bang, Gravity, Astronomy, General relativity, Universe, Chronology of the universe, Black hole, Physical quantities, Physical sciences, Physical phenomena, Physics, Physical cosmology, Outer space, Applied and interdisciplinary physics, Natural philosophy, Spacetime, Cosmology, Astrophysics, Science, Mechanics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Carnivorous plant packs big wonders into tiny genome"
 date: 2016-04-14
 categories: Science
 author: unknown author
-
+tags: [Utricularia gibba, Utricularia, Gene, Biology, Organisms, Life sciences, Genetics]
 ---
 
 

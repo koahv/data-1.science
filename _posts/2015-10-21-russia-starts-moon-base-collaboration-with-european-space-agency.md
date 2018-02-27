@@ -4,7 +4,7 @@ title: "Russia starts moon base collaboration with European Space Agency"
 date: 2015-10-22
 categories: Astronomy
 author: unknown author
-
+tags: [Mars, Human, SpaceX, Unmanned aerial vehicle, Water, New Horizons]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Opportunity of a lifetime—NASA's 4,000 days roving Mars"
 date: 2016-04-29
 categories: Science
 author: unknown author
-
+tags: [Opportunity (rover), Mars, Rover (space exploration), Spirit (rover), Exploration of Mars, Mars Exploration Rover, Planetary science, Planets of the Solar System, Outer space, Astronomy, Physical sciences, Space science, Solar System, Spaceflight]
 ---
 
 

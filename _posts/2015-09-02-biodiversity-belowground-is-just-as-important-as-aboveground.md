@@ -4,7 +4,7 @@ title: "Biodiversity belowground is just as important as aboveground"
 date: 2015-09-02
 categories: Science
 author: unknown author
-
+tags: [Soil, Ecosystem, Biodiversity, Climate, Soil biodiversity, Climate change, Evolution, Nature, American Association for the Advancement of Science, Earth, Systems ecology, Organisms, Natural environment, Earth sciences, Biogeochemistry, Physical geography, Environmental social science, Natural resource management, Biology, Ecology, Environmental science]
 ---
 
 

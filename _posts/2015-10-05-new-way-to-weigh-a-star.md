@@ -4,7 +4,7 @@ title: "New way to weigh a star"
 date: 2015-10-06
 categories: Science
 author: unknown author
-
+tags: [Pulsar, Star, Mass, Gravity, Planet, Neutron star, Physics, LOFAR, Physical sciences, Science, Astronomy]
 ---
 
 

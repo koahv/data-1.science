@@ -4,7 +4,7 @@ title: "A CRISPR antiviral tool"
 date: 2015-12-09
 categories: Technology
 author: unknown author
-
+tags: [Virus, Cas9, Infection, RNA interference, Bacteria, Hepatitis C, RNA, Molecular biology, Biology, Life sciences, Organisms, Biotechnology, Microbiology, Genetics, Medical specialties, Biochemistry]
 ---
 
 

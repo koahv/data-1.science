@@ -4,7 +4,7 @@ title: "Light-activated genes might be precisely controlled and targeted"
 date: 2016-04-13
 categories: Science
 author: unknown author
-
+tags: [Genetics, Gene, Genetic engineering, CRISPR, Cas9, Biology, Cell (biology), Protein, Bacteria, Chemistry, Molecular biology, Biochemistry, Biotechnology, Organisms, Life sciences]
 ---
 
 

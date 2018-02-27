@@ -4,7 +4,7 @@ title: "New study hints at spontaneous appearance of primordial DNA"
 date: 2016-04-21
 categories: Science
 author: unknown author
-
+tags: [RNA world, Self-assembly, RNA, Chemistry, Nature, Biology, Applied and interdisciplinary physics, Physical sciences, Life sciences, Organisms]
 ---
 
 

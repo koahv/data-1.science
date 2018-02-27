@@ -4,7 +4,7 @@ title: "Traffic control: What we can learn from ants"
 date: 2016-04-23
 categories: Science
 author: unknown author
-
+tags: [Traffic, Ant, Foraging, Advertising, Trail]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Getting to the origins of photosynthesis"
 date: 2016-04-17
 categories: Science
 author: unknown author
-
+tags: [Photosystem II, Evolution, Cyanobacteria, Photosynthesis, Biology, Photosystem, Water splitting, Organisms, Nature, Life sciences, Biological evolution]
 ---
 
 

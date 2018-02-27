@@ -4,7 +4,7 @@ title: "Syracuse physicists confirm existence of rare pentaquarks discovery"
 date: 2016-05-12
 categories: Science
 author: unknown author
-
+tags: [Hadron, Quark, Strong interaction, Meson, Pentaquark, Quantum field theory, Nuclear physics, Physical sciences, Quantum chromodynamics, Standard Model, Physical bodies, Particle physics, Subatomic particles, Theoretical physics, Quantum mechanics, Physical universe, Hadrons, Mechanics, Physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Label-free technique that images DNA in vivo"
 date: 2016-06-30
 categories: Science
 author: unknown author
-
+tags: [Mitosis, Histology, Raman spectroscopy, Microscopy, Cancer, Cell cycle, Medical imaging, Staining, Cell nucleus, Cell biology, Life sciences, Biology]
 ---
 
 

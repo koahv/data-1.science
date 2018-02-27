@@ -4,7 +4,7 @@ title: "Study of birds' sense of smell reveals important clues for behavior and 
 date: 2015-09-07
 categories: Science
 author: unknown author
-
+tags: [Olfaction, Bird, Organisms, Biology]
 ---
 
 

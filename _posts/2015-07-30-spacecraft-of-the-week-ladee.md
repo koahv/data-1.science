@@ -4,7 +4,7 @@ title: "Spacecraft of the Week: LADEE"
 date: 2015-12-21
 categories: Technology
 author: mcrouse
-
+tags: [Lunar Atmosphere and Dust Environment Explorer, Moon, Outer space, Space science, Space technology, Aerospace, Flight, Astronautics, Aerospace engineering, Spacecraft, Spaceflight technologies, Spaceflight]
 ---
 
 

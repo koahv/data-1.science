@@ -4,7 +4,7 @@ title: "Saturn's Enceladus --"Does It Have a Deep Biosphere?"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Enceladus, Ocean, Astrobiology, Serpentinite, Geochemistry, Sodium carbonate, Water, Nature, Planetary science, Outer space, Planets of the Solar System, Astronomy, Chemistry, Physical sciences, Space science]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Shape-shifting frog discovered in Ecuadorian Andes"
 date: 2015-07-21
 categories: Science
 author: unknown author
-
+tags: [Pristimantis mutabilis, Animals, Organisms]
 ---
 
 

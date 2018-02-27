@@ -3,17 +3,20 @@ layout: page
 title: Search
 permalink: /search/
 ---
+<!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
 
+<!-- Script pointing to search-script.js -->
+<script src="/simple-jekyll-search.min.js" type="text/javascript"></script>
+
+<!-- Configuration -->
 <script>
-  (function() {
-    var cx = '004514458627905484114:kt2ougruovm';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
 </script>
-<gcse:search></gcse:search>
-
