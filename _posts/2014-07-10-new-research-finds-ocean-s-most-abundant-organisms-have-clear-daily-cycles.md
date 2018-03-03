@@ -4,7 +4,7 @@ title: "New research finds ocean's most abundant organisms have clear daily cycl
 date: 2014-07-11
 categories: Science
 author: unknown author
-
+tags: [Hawaii Ocean Time-series, Monterey Bay Aquarium Research Institute, University of Hawaii at Manoa, Microorganism, Life sciences, Biology, Nature, Organisms]
 ---
 
 

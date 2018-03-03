@@ -4,7 +4,7 @@ title: "Composition of Earth's mantle revisited"
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Mantle (geology), Planetary core, Earthquake, Earth, Inner core, Geology, Applied and interdisciplinary physics, Physical sciences, Nature, Earth sciences]
 ---
 
 

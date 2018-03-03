@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""Earth-Sized Diamond" --A White Dwarf Fossil Same Age as the Milky Way Found Orbiting a Neutron Star"
+title: "Earth-Sized Diamond --A White Dwarf Fossil Same Age as the Milky Way Found Orbiting a Neutron Star"
 date: 2014-06-26
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Star, Pulsar, Astronomy, Neutron star, White dwarf, Stars, Stellar astronomy, Nature, Outer space, Astronomical objects, Physical sciences]
 ---
 
 

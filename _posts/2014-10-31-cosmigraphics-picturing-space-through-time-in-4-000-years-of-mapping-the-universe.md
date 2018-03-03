@@ -4,7 +4,7 @@ title: "Cosmigraphics: Picturing Space Through Time in 4,000 Years of Mapping th
 date: 2015-07-10
 categories: Philosophy
 author: Maria Popova
-
+tags: [William Parsons 3rd Earl of Rosse, Universe, Astronomy, Science, The Starry Night, Whirlpool Galaxy, Moon]
 ---
 
 

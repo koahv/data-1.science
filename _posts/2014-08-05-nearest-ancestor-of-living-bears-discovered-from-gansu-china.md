@@ -4,7 +4,7 @@ title: "Nearest ancestor of living bears discovered from Gansu, China"
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Ursavus, Molar (tooth), Kretzoiarctos beatrix, Bear, Cusp (anatomy)]
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASA: Pluto's Active Ice Volcanoes? --"Tens of Kilometers Across and Several Kilometers High""
+title: "NASA: Pluto's Active Ice Volcanoes? --Tens of Kilometers Across and Several Kilometers High"
 date: 2015-11-23
 categories: Astronomy
 author: dailygalaxy.com

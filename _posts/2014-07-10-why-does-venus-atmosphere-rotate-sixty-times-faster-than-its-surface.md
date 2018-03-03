@@ -4,7 +4,7 @@ title: "Why does Venus' atmosphere rotate sixty times faster than its surface?"
 date: 2015-10-03
 categories: Science
 author: unknown author
-
+tags: [Venus, Milky Way, Atmosphere, Astronomy, Atmosphere of Venus, Planet, Saturn, Galaxy, Star, Venus Express, Titan (moon), Space science, Outer space, Planetary science, Astronomical objects, Solar System, Planets of the Solar System, Physical sciences]
 ---
 
 

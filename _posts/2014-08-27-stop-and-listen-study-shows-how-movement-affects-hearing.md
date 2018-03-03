@@ -4,7 +4,7 @@ title: "Stop and listen: Study shows how movement affects hearing"
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Auditory system, Brain, Optogenetics, Cerebral cortex, Auditory cortex, Neuroscience, Sound, Motor cortex, Hearing, Neuron, Inhibitory postsynaptic potential, Psychology, Neuropsychology, Neuropsychological assessment, Cognition, Nervous system, Psychological concepts, Cognitive science]
 ---
 
 

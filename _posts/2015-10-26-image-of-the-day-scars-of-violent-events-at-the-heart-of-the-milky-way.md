@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Image of the Day: "Scars of Violent Events at the Heart of the Milky Way""
+title: "Image of the Day: Scars of Violent Events at the Heart of the Milky Way"
 date: 2015-10-27
 categories: Astronomy
 author: dailygalaxy.com

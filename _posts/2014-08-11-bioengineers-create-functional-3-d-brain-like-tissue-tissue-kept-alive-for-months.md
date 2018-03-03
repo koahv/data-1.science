@@ -4,7 +4,7 @@ title: "Bioengineers create functional 3-D brain-like tissue: Tissue kept alive 
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Brain, Tissue engineering, Neuron, Axon, Human brain, Traumatic brain injury, Biological engineering, White matter, Neuroscience, Biology, Medicine, Life sciences, Nervous system]
 ---
 
 

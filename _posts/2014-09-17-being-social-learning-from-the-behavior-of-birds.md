@@ -4,7 +4,7 @@ title: "Being social: Learning from the behavior of birds"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Parrot, Mammal, Aggression, Social network, Monk parakeet, Social network analysis, Primate, Dolphin, Vocal learning, Neuroscience, Cognitive science, Psychological concepts, Cognition, Psychology, Behavioural sciences, Emergence]
 ---
 
 

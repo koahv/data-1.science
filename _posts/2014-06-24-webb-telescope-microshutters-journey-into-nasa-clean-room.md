@@ -4,7 +4,7 @@ title: "Webb telescope microshutters journey into NASA clean room"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [James Webb Space Telescope, Goddard Space Flight Center, NASA, Spitzer Space Telescope, Cleanroom, Outer space, Astronomy, Physical sciences, Spaceflight, Space science]
 ---
 
 

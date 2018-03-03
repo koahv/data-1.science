@@ -4,7 +4,7 @@ title: "Chimpanzee intelligence determined by genes"
 date: 2015-10-03
 categories: Science
 author: unknown author
-
+tags: [Intelligence, Human intelligence, Human, Chimpanzee, Animal cognition, Cognition, Psychology, Genetics, Biology, Psychological concepts, Cognitive science, Neuroscience, Behavioural sciences]
 ---
 
 

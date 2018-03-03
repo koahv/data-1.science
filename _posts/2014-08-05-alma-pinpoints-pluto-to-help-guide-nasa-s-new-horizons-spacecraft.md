@@ -4,7 +4,7 @@ title: "ALMA pinpoints Pluto to help guide NASA's New Horizons spacecraft"
 date: 2015-07-14
 categories: Science
 author: unknown author
-
+tags: [New Horizons, Pluto, Atacama Large Millimeter Array, Astronomy, Milky Way, Astronomical objects, Solar System, Planetary science, Space science, Outer space, Physical sciences]
 ---
 
 

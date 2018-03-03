@@ -4,7 +4,7 @@ title: "Plants: Stressed parents, stronger offspring"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Genetics, Biology, Epigenetics, Stress (biology), Plant, Gene, Life sciences, Organisms]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Formula calculates thickness of bombproof concrete"
 date: 2015-12-02
 categories: Technology
 author: unknown author
-
+tags: [Shock tube, Concrete, Artificial objects, Manufacturing, Applied and interdisciplinary physics]
 ---
 
 

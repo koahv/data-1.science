@@ -4,7 +4,7 @@ title: "Microformats turn 9 years old"
 date: 2014-06-25
 categories: Linux
 author: n8willis
-
+tags: [RDFa, Microformat, Internet ages, Web development, Hypertext, Cyberspace, Computing, World Wide Web, Digital media, Technology, Information science, Information economy]
 ---
 
 

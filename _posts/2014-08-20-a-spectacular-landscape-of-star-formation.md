@@ -4,7 +4,7 @@ title: "A spectacular landscape of star formation"
 date: 2016-02-05
 categories: Science
 author: unknown author
-
+tags: [Star, NGC 3603, European Southern Observatory, Milky Way, H II region, Star cluster, Globular cluster, La Silla Observatory, Stellar astronomy, Stars, Outer space, Astronomical objects, Physical sciences, Astronomy]
 ---
 
 

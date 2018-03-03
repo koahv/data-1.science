@@ -4,7 +4,7 @@ title: "Science and art bring back to life 300-million-year-old specimens of a p
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Tetrapod, Reptile, Amniote, Vertebrate, Paleontology, Skull, Gephyrostegus, Organisms]
 ---
 
 

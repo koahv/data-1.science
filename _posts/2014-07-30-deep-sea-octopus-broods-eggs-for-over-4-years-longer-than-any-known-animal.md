@@ -4,7 +4,7 @@ title: "Deep-sea octopus broods eggs for over 4 years -- longer than any known a
 date: 2015-07-04
 categories: Science
 author: unknown author
-
+tags: [Octopus, Monterey Bay Aquarium Research Institute, Animals]
 ---
 
 

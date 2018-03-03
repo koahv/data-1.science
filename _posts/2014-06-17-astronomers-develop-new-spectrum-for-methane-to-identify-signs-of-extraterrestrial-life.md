@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Astronomers Develop New Spectrum for Methane --"To Identify Signs of Extraterrestrial Life""
+title: "Astronomers Develop New Spectrum for Methane --To Identify Signs of Extraterrestrial Life"
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Titan (moon), Astronomy, Planet, Outer space, Physical sciences, Space science, Solar System, Planetary science]
 ---
 
 

@@ -4,7 +4,7 @@ title: "The ABC's of animal speech: Not so random after all"
 date: 2016-01-01
 categories: Science
 author: unknown author
-
+tags: [Language, Linguistics, Human, Origin of language, Inference, Mind, Thought, Cognitive science, Self-awareness, Self, Noam Chomsky, Creationism, Awareness, Consciousness, Reason, Evolution, Markov chain, Bird vocalization, Speech, Animal communication, Science, Communication, Cognition, Psychological concepts, Epistemology, Philosophy]
 ---
 
 

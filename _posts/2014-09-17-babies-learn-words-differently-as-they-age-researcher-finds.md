@@ -4,7 +4,7 @@ title: "Babies learn words differently as they age, researcher finds"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Child, Language, Research, Toddler, Fast mapping, Linguistics, Neuropsychological assessment, Education, Psychology, Epistemology, Learning, Neuropsychology, Behavior modification, Semiotics, Cognition, Cognitive science, Psychological concepts, Communication, Human communication, Phenomenology]
 ---
 
 

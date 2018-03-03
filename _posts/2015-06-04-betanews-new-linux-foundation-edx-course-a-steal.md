@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BetaNews: New Linux Foundation edX course "a steal""
+title: "BetaNews: New Linux Foundation edX course a steal"
 date: 2015-06-05
 categories: Linux
 author: ggregory

@@ -4,7 +4,7 @@ title: "NASA image: Caribbean Sea viewed from the International Space Station"
 date: 2015-10-05
 categories: Science
 author: unknown author
-
+tags: [Milky Way, Galaxy, Astronomy, Astronautics, Outer space, Spaceflight, Physical sciences, Astronomical objects, Flight]
 ---
 
 

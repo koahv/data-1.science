@@ -4,7 +4,7 @@ title: "World's Astronomers Sound Call to Build a Gigantic Alien-Seeking Space T
 date: 2014-06-26
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Hubble Space Telescope, James Webb Space Telescope, Space Telescope Science Institute, Outer space, Astronomy, Physical sciences, Space science, Planetary science]
 ---
 
 

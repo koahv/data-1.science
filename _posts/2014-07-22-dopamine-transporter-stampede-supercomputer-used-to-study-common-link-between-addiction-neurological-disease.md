@@ -4,7 +4,7 @@ title: "Dopamine transporter: Stampede supercomputer used to study common link b
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Dopamine, Attention deficit hyperactivity disorder, Neurotransmitter, Dopamine transporter, Neuroscience, Nervous system, Medical specialties, Medicine, Clinical medicine]
 ---
 
 

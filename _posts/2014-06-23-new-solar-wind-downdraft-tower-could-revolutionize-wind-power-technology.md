@@ -4,7 +4,7 @@ title: "New Solar Wind Downdraft Tower Could Revolutionize Wind Power Technology
 date: 2014-06-24
 categories: Energy
 author: Colin Payne
-
+tags: [Wind power, Wind turbine, Physical universe, Sustainable energy, Energy production, Environmental technology, Power (physics), Energy, Sustainable development, Sustainable technologies, Artificial objects, Energy technology, Alternative energy, Electric power, Nature]
 ---
 
 

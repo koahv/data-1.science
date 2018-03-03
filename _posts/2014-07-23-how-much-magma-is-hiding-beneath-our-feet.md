@@ -4,7 +4,7 @@ title: "How much magma is hiding beneath our feet?"
 date: 2015-07-17
 categories: Science
 author: unknown author
-
+tags: [Magma, Earth, Lava, Rock (geology), Research, Zircon, Volcano, Types of volcanic eruptions, University of Geneva, Earth sciences, Geology, Science, Nature]
 ---
 
 

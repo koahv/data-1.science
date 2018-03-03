@@ -4,7 +4,7 @@ title: "Quantum leap in lasers at Dartmouth brightens future for quantum computi
 date: 2015-05-22
 categories: Technology
 author: unknown author
-
+tags: [Superconductivity, Electron, Quantum dot, Laser, Light, Atom, Computing, Electricity, Materials science, Electronics, Condensed matter, Theoretical physics, Electromagnetism, Atomic molecular and optical physics, Physical chemistry, Chemistry, Condensed matter physics, Modern physics, Particle physics, Solid state engineering, Quantum mechanics, Physical sciences, Mechanics, Applied and interdisciplinary physics, Physics]
 ---
 
 

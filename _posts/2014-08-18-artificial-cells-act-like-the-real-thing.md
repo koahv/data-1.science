@@ -4,7 +4,7 @@ title: "Artificial cells act like the real thing"
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Gene, Protein, Gene regulatory network, Cell (biology), Artificial cell, DNA, Bacteria, Emergence, Genetics, Molecular biology, Cell biology, Chemistry, Biotechnology, Biochemistry, Biology, Life sciences, Organisms]
 ---
 
 

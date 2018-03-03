@@ -4,7 +4,7 @@ title: "Lifetime of gravity measurements heralds new beginning"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Gravity Field and Steady-State Ocean Circulation Explorer, Geoid, Planets of the Solar System, Space science, Physical sciences, Planetary science, Earth sciences, Outer space, Applied and interdisciplinary physics, Spaceflight, Nature]
 ---
 
 

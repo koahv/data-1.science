@@ -4,7 +4,7 @@ title: "Global change: Trees continue to grow at a faster rate"
 date: 2015-07-20
 categories: Science
 author: unknown author
-
+tags: [Forest, Carbon dioxide, Tree, Natural environment, Environmental science, Earth sciences, Ecology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "A 10-year endeavor: NASA's Aura and climate change"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Atmosphere of Earth, Greenhouse effect, Greenhouse gas, Cloud, Earth, Troposphere, Meteorology, Atmospheric sciences, Physical geography, Environmental science, Physical sciences, Climatology, Sky, Nature, Applied and interdisciplinary physics, Earth sciences]
 ---
 
 

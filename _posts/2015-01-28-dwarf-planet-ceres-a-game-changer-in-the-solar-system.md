@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dwarf Planet Ceres --"A Game Changer in the Solar System""
+title: "Dwarf Planet Ceres --A Game Changer in the Solar System"
 date: 2015-07-14
 categories: Astronomy
 author: dailygalaxy.com

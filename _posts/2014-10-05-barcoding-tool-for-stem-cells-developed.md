@@ -4,7 +4,7 @@ title: "Barcoding tool for stem cells developed"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Stem cell, Cell potency, Transposase, Cell (biology), Transposable element, Biology, Life sciences, Organisms, Biotechnology]
 ---
 
 

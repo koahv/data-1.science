@@ -4,7 +4,7 @@ title: "How did the universe begin? What happened during the Big Bang?"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Universe, Elementary particle, Big Bang nucleosynthesis, Atom, Electron, Atomic nucleus, Matter, Fundamental interaction, Big Bang, Nuclear fusion, Strong interaction, Neutron, Cosmic microwave background, Proton, Quark, Particle physics, Physical universe, Physical cosmology, Physical sciences, Physics, Nature, Mechanics, Nuclear physics, Theoretical physics, Cosmology, Chemistry, Physical quantities, Applied and interdisciplinary physics]
 ---
 
 

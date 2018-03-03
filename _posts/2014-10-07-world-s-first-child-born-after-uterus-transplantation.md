@@ -4,7 +4,7 @@ title: "World's first child born after uterus transplantation"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Pregnancy, Uterus transplantation, Uterus, Clinical medicine, Obstetrics, Health care, Human development, Human pregnancy, Motherhood, Maternal health, Public health, Fertility, Medical specialties, Human reproduction, Health sciences, Medicine, Health, Womens health]
 ---
 
 

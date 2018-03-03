@@ -4,7 +4,7 @@ title: "Why is the Sun's atmosphere so much hotter than its surface? Nanoflares"
 date: 2015-10-02
 categories: Science
 author: unknown author
-
+tags: [Corona, Sun, Solar Dynamics Observatory, Nanoflares, Nature, Physical sciences, Astronomy, Outer space, Physical phenomena, Applied and interdisciplinary physics, Space science]
 ---
 
 

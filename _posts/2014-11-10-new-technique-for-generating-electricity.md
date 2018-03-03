@@ -4,7 +4,7 @@ title: "New technique for generating electricity"
 date: 2016-03-29
 categories: Science
 author: unknown author
-
+tags: [Energy harvesting, Electricity, Work function, Technology, Electromagnetism, Artificial objects, Science and technology]
 ---
 
 

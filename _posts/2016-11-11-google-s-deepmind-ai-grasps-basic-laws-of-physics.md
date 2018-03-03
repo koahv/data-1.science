@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google’s DeepMind AI --"Grasps Basic Laws of Physics""
+title: "Google’s DeepMind AI --Grasps Basic Laws of Physics"
 date: 2017-03-23
 categories: Astronomy
 author: dailygalaxy.com

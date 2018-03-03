@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The Black Hole at the Beginning of Time --"We may have Emerged from a Black Hole in a Higher-Dimensional Universe""
+title: "The Black Hole at the Beginning of Time --We may have Emerged from a Black Hole in a Higher-Dimensional Universe"
 date: 2014-08-10
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Universe, Big Bang, Inflation (cosmology), Black hole, Four-dimensional space, Event horizon, Multiverse, General relativity, Space, Cosmology, Science, Physical cosmology, Physics, Physical sciences, Metaphysics, Spacetime, Philosophy, Physical quantities, Astronomy, Scientific theories]
 ---
 
 

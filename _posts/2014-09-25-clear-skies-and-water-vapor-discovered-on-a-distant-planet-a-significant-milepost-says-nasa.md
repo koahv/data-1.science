@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Clear Skies and Water Vapor Discovered on a Distant Planet --"A Significant Milepost" Says NASA"
+title: "Clear Skies and Water Vapor Discovered on a Distant Planet --A Significant Milepost Says NASA"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Exoplanet, Planet, Hubble Space Telescope, Spitzer Space Telescope, Kepler (spacecraft), Super-Earth, Astronomy, Neptune, Absorption spectroscopy, Water vapor, Planets, Outer space, Astronomical objects, Physical sciences, Space science, Planetary science]
 ---
 
 

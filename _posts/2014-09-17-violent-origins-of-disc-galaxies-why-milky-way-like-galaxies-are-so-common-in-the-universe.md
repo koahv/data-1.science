@@ -4,7 +4,7 @@ title: "Violent origins of disc galaxies: Why Milky Way-like galaxies are so com
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Milky Way, European Southern Observatory, Elliptical galaxy, Submillimetre astronomy, Atacama Large Millimeter Array, Physical cosmology, Astronomical objects, Outer space, Physical sciences, Astronomy]
 ---
 
 

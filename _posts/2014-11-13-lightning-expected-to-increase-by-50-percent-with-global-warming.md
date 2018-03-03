@@ -6,7 +6,9 @@ categories: Science
 Science
 Astronomy
 author: unknown author
-
+tags: [Convective available potential energy, Atmospheric convection, Lightning, Water vapor, Atmosphere of Earth, Precipitation, Water, Climate, Atmosphere, Global warming, Cloud, General circulation model, Meteorology, Physical sciences, Sky, Environmental science, Climatology, Nature, Earth sciences, Applied and interdisciplinary physics, Physical geography, Atmospheric sciences
+Convective available potential energy, Atmospheric convection, Lightning, Water vapor, Atmosphere of Earth, Precipitation, Water, Climate, Atmosphere, Global warming, Cloud, General circulation model, Meteorology, Physical sciences, Sky, Environmental science, Climatology, Nature, Earth sciences, Applied and interdisciplinary physics, Physical geography, Atmospheric sciences
+Convective available potential energy, Atmospheric convection, Lightning, Water vapor, Atmosphere of Earth, Precipitation, Water, Climate, Atmosphere, Global warming, Cloud, General circulation model, Meteorology, Physical sciences, Sky, Environmental science, Climatology, Nature, Earth sciences, Applied and interdisciplinary physics, Physical geography, Atmospheric sciences]
 ---
 
 

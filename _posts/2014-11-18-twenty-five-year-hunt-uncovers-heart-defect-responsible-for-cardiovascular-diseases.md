@@ -4,7 +4,7 @@ title: "Twenty-five year hunt uncovers heart defect responsible for cardiovascul
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Heart, Ryanodine receptor, Cardiovascular disease, Biology, Health, Clinical medicine, Medical specialties, Medicine]
 ---
 
 

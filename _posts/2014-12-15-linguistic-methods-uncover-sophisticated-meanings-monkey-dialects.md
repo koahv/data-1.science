@@ -4,7 +4,7 @@ title: "Linguistic methods uncover sophisticated meanings, monkey dialects"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Alarm signal, Linguistics, Science, Research, Primatology, Culture, Human communication, Psychological concepts, Language, Epistemology, Communication, Semiotics, Cognition, Cognitive science]
 ---
 
 

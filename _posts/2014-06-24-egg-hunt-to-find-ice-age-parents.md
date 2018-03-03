@@ -4,7 +4,7 @@ title: "Egg hunt to find Ice Age parents"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Bird, Emu, Egg, Paleontology, Genyornis, Dinosaur, Megafauna]
 ---
 
 

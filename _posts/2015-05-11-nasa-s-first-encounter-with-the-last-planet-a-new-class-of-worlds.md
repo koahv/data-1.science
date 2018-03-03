@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASA's First Encounter With the 'Last Planet' --"A New Class of Worlds""
+title: "NASA's First Encounter With the 'Last Planet' --A New Class of Worlds"
 date: 2015-05-11
 categories: Astronomy
 author: dailygalaxy.com

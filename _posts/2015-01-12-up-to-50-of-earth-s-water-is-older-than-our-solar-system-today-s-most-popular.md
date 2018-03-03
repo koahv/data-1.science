@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Up to 50% of Earth's Water is Older than Our Solar System" (Today's Most Popular)"
+title: "Up to 50% of Earth's Water is Older than Our Solar System (Today's Most Popular)"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com

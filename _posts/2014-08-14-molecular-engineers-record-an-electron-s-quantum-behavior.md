@@ -4,7 +4,7 @@ title: "Molecular engineers record an electron's quantum behavior"
 date: 2015-05-22
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Physics, Electron, Quantum computing, Nanotechnology, Nitrogen-vacancy center, Light, Laser, Bit, Science, Optics, Spin (physics), Quantum optics, Mechanics, Physical sciences, Physical chemistry, Solid state engineering, Atomic molecular and optical physics, Condensed matter physics, Materials science, Chemistry, Applied and interdisciplinary physics]
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Kepler Mission -- "Finds a New World That's Not Supposed to Exist""
+title: "Kepler Mission -- Finds a New World That's Not Supposed to Exist"
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Kepler-10c, Kepler-10, Exoplanet, Planet, Methods of detecting exoplanets, Kepler-10b, Circumstellar habitable zone, Super-Earth, Terrestrial planet, Kepler (spacecraft), Exoplanetology, Substellar objects, Planemos, Space science, Planets, Physical sciences, Stars, Stellar astronomy, Astronomical objects, Planetary science, Outer space, Astronomy]
 ---
 
 

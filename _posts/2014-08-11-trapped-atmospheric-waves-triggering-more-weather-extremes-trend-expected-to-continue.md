@@ -4,7 +4,7 @@ title: "Trapped atmospheric waves triggering more weather extremes: Trend expect
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Global warming, Rossby wave, Nature, Environmental science, Global natural environment, Atmosphere of Earth, Oceanography, Climatology, Applied and interdisciplinary physics, Atmospheric sciences, Earth sciences, Meteorology, Physical geography]
 ---
 
 

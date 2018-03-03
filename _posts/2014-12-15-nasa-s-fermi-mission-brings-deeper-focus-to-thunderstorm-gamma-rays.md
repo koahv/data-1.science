@@ -2,13 +2,17 @@
 layout: post
 title: "NASA's Fermi Mission brings deeper focus to thunderstorm gamma-rays"
 date: 2015-07-20
-categories: Science
+categories: Astronomy
 Science
 Technology
 Science
-Astronomy
+Science
 author: unknown author
-
+tags: [Fermi Gamma-ray Space Telescope, Lightning, Gamma ray, Physical sciences, Applied and interdisciplinary physics, Nature, Physical phenomena, Meteorology
+Fermi Gamma-ray Space Telescope, Lightning, Gamma ray, Physical sciences, Applied and interdisciplinary physics, Nature, Physical phenomena, Meteorology
+Fermi Gamma-ray Space Telescope, Lightning, Gamma ray, Physical sciences, Applied and interdisciplinary physics, Nature, Physical phenomena, Meteorology
+Fermi Gamma-ray Space Telescope, Lightning, Gamma ray, Physical sciences, Applied and interdisciplinary physics, Nature, Physical phenomena, Meteorology
+Fermi Gamma-ray Space Telescope, Lightning, Gamma ray, Physical sciences, Applied and interdisciplinary physics, Nature, Physical phenomena, Meteorology]
 ---
 
 

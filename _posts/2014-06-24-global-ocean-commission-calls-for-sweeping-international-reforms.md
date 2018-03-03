@@ -4,7 +4,7 @@ title: "Global Ocean Commission Calls for Sweeping International Reforms"
 date: 2014-06-24
 categories: Science
 author: Brian Clark Howard
-
+tags: [Sea, United Nations, Ocean, Marine protected area, United States, Pollution, Fishing, Water, Sustainable Development Goals, Piracy, Politics, Natural environment]
 ---
 
 

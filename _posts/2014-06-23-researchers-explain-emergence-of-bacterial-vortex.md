@@ -4,7 +4,7 @@ title: "Researchers explain emergence of bacterial vortex"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Bacteria, Physics, Flagellum, Photon, Science, Physical sciences, Mechanics, Applied and interdisciplinary physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "World population to keep growing this century, hit 11 billion by 2100"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [World population, Human, Statistics, War, Total fertility rate, Sub-replacement fertility, Refugee, Forecasting, Population, Immigration, Earth, Population growth, Poverty, Sweden, Africa]
 ---
 
 

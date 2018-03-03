@@ -4,7 +4,7 @@ title: "Integral catches dead star exploding in a blaze of glory"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Supernova, SN 2014J, White dwarf, Radioactive decay, Type Ia supernova, Star, INTEGRAL, Physical sciences, Astronomy, Nature, Physics, Outer space, Physical universe]
 ---
 
 

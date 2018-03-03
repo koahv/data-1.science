@@ -4,7 +4,7 @@ title: "SwRI-led CubeSat mission selected by NASA to study solar particles and s
 date: 2014-06-26
 categories: Astronomy
 author: unknown author
-
+tags: [CubeSat, Outer space, Space weather, Satellite, Spaceflight, Astronautics, Flight, Space science, Spacecraft, Spaceflight technologies, Aerospace engineering]
 ---
 
 

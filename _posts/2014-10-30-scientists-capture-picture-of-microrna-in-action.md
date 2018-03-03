@@ -4,7 +4,7 @@ title: "Scientists capture picture of 'microRNA' in action"
 date: 2016-03-29
 categories: Science
 author: unknown author
-
+tags: [Argonaute, RNA, MicroRNA, Gene, Nucleotides, Macromolecules, Chemistry, Molecular genetics, Molecular biophysics, Natural products, Structural biology, Molecular biology, Biology, Biochemistry, Biotechnology, Cell biology, Biomolecules, Organisms, Life sciences, Nucleic acids, Genetics]
 ---
 
 

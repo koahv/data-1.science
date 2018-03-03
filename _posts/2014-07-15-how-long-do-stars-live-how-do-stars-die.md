@@ -4,7 +4,7 @@ title: "How long do stars live? How do stars die?"
 date: 2015-05-22
 categories: Astronomy
 author: Maria Temming
-
+tags: [Star, White dwarf, Supernova, Main sequence, Red giant, Sun, Giant star, Degenerate matter, Nuclear fusion, Neutron star, Applied and interdisciplinary physics, Physical sciences, Astronomy, Physical cosmology, Physical universe, Physics, Astrophysics, Stars, Astronomical objects, Stellar astronomy, Star types, Nature, Outer space]
 ---
 
 

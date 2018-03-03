@@ -4,7 +4,7 @@ title: "German State to Reach 100% Renewable Power This Year"
 date: 2014-06-29
 categories: Energy
 author: Josh Marks
-
+tags: [Wind power, Renewable energy, Sustainable energy, Natural resources, Energy, Physical universe, Renewable resources, Nature, Alternative energy, Power (physics), Energy and the environment, Electric power, Electricity, Renewable electricity, Energy sources, Electrical engineering, Energy production, Sustainable development, Sustainable technologies]
 ---
 
 

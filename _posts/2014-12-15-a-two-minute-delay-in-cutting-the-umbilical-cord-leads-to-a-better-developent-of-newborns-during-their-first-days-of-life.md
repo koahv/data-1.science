@@ -4,7 +4,7 @@ title: "A two-minute delay in cutting the umbilical cord leads to a better devel
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Umbilical cord, Childbirth, Health, Health sciences, Clinical medicine, Health care, Medical specialties, Medicine]
 ---
 
 

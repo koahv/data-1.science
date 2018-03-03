@@ -4,7 +4,7 @@ title: "Journey to the Center of Jupiter"
 date: 2015-05-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Planet, National Ignition Facility, Solar System, Physical sciences, Astronomy, Outer space, Planetary science, Nature, Space science]
 ---
 
 

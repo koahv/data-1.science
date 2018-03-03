@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Tuesday 'Comment of the Day' --"Why Isn't the Milky Way Crawling With Mechanical or Biological Life?""
+title: "Tuesday 'Comment of the Day' --Why Isn't the Milky Way Crawling With Mechanical or Biological Life?"
 date: 2014-06-26
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Galaxy, Extraterrestrial life, Astronomy, Physical sciences, Outer space]
 ---
 
 

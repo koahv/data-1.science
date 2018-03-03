@@ -4,7 +4,7 @@ title: "Curiosity spots a heavy metal meteorite"
 date: 2015-07-15
 categories: Science
 author: unknown author
-
+tags: [Curiosity (rover), Astronomy, Milky Way, Mars, Star, Galaxy, Rover (space exploration), Spaceflight, Outer space, Physical sciences, Space science, Planetary science, Astronomical objects, Solar System]
 ---
 
 

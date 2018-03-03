@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Colossal Ring of Galaxies --"Largest Object in the Universe Spans 5 Billion Light Years""
+title: "Colossal Ring of Galaxies --Largest Object in the Universe Spans 5 Billion Light Years"
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com

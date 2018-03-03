@@ -4,7 +4,7 @@ title: "What Will We Do When the Machines Take Our Place?"
 date: 2015-12-02
 categories: Technology
 author: mfassbender
-
+tags: [Robot, Employment, Creativity, Automation, Technology]
 ---
 
 

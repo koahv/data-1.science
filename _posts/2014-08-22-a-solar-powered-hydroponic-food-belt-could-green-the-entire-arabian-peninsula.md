@@ -4,7 +4,7 @@ title: "A Solar-Powered Hydroponic Food Belt Could Green the Entire Arabian Peni
 date: 2015-07-04
 categories: Energy
 author: Lidija Grozdanic
-
+tags: [Solar energy, Renewable energy, Energy, Technology, Nature, Artificial objects, Natural environment, Renewable resources, Sustainable development, Physical universe, Sustainable energy, Natural resources, Alternative energy, Sustainable technologies]
 ---
 
 

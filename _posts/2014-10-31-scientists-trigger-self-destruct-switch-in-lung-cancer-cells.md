@@ -4,7 +4,7 @@ title: "Scientists trigger self-destruct switch in lung cancer cells"
 date: 2016-03-29
 categories: Science
 author: unknown author
-
+tags: [Cancer, Cancer research, Lung cancer, Advertising, Research, Cancer cell, Website, Neoplasms, Medicine, Health, Clinical medicine]
 ---
 
 

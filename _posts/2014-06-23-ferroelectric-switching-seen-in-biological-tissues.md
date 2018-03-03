@@ -4,7 +4,7 @@ title: "Ferroelectric switching seen in biological tissues"
 date: 2014-06-23
 categories: Science
 author: unknown author
-
+tags: [Elastin, Biology, Protein, Physics, Applied and interdisciplinary physics, Chemistry, Physical sciences]
 ---
 
 

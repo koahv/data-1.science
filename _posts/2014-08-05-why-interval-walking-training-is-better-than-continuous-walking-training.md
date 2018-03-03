@@ -4,7 +4,7 @@ title: "Why interval walking training is better than continuous walking training
 date: 2015-10-02
 categories: Science
 author: unknown author
-
+tags: [Insulin resistance, Diabetes management, Insulin, Diabetes mellitus type 2, Physical exercise, Health, Clinical medicine, Medicine, Disorders of endocrine pancreas]
 ---
 
 

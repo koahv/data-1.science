@@ -4,7 +4,7 @@ title: "Eight ways zinc affects the human body"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Zinc, Human nutrition, Zinc deficiency, Nutrition, Diabetes mellitus, Liver, Food, Blood, Hypertension, Thymus, Medical specialties, Health, Clinical medicine, Medicine, Health sciences, Biology]
 ---
 
 

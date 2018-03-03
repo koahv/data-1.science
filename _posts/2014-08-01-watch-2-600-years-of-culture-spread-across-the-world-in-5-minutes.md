@@ -4,7 +4,7 @@ title: "Watch 2,600 years of culture spread across the world in 5 minutes"
 date: 2015-10-09
 categories: Science
 author: Carl Franzen
-
+tags: [Digital technology, Internet, Data laws, Technology, Information technology management, Information technology, World Wide Web, Information Age, Digital media, Communication, Computing, Cyberspace]
 ---
 
 

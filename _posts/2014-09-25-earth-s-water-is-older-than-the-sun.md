@@ -4,7 +4,7 @@ title: "Earth's water is older than the sun"
 date: 2015-07-04
 categories: Science
 author: unknown author
-
+tags: [Deuterium, Solar System, Sun, Formation and evolution of the Solar System, Carnegie Institution for Science, Isotope, Hydrogen, Space science, Chemistry, Physical sciences, Physical universe, Astronomy, Outer space, Planetary science, Nature]
 ---
 
 

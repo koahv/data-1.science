@@ -4,7 +4,7 @@ title: "Tooth serves as evidence of 220-million-year-old attack"
 date: 2015-07-16
 categories: Science
 author: unknown author
-
+tags: [Phytosaur, Tooth, Rauisuchia, American Association for the Advancement of Science, Dinosaur]
 ---
 
 

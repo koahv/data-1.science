@@ -4,7 +4,7 @@ title: "Changes in a single gene's action can control addiction and depression-r
 date: 2016-03-29
 categories: Science
 author: unknown author
-
+tags: [Gene, Gene expression, FOSB, Epigenetics, Transcription factor, Addiction, DNA, Regulation of gene expression, Biochemistry, Organisms, Molecular biology, Biotechnology, Genetics, Life sciences, Biology]
 ---
 
 

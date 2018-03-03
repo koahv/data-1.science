@@ -4,7 +4,7 @@ title: "Can our computers continue to get smaller and more powerful?"
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Integrated circuit, Computer, Electronic circuit, Engineering, Science, Physics, Central processing unit, Technology, Program optimization, Parallel computing, Science and technology, Computer engineering, Artificial objects, Computing]
 ---
 
 

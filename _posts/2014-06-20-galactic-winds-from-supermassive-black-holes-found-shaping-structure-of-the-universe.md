@@ -4,7 +4,7 @@ title: "Galactic Winds from Supermassive Black Holes Found Shaping Structure of 
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Galaxy, Black hole, Outer space, Physical cosmology, Astronomy, Astronomical objects, Physical sciences]
 ---
 
 

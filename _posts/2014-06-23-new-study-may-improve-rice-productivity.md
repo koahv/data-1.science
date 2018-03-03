@@ -4,7 +4,7 @@ title: "New study may improve rice productivity"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Rice, Agriculture, Photosynthesis, Human, Plant, Natural environment, Biology]
 ---
 
 

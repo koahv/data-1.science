@@ -4,7 +4,7 @@ title: "Move Over, Silicon, There's a New Circuit in Town"
 date: 2014-06-24
 categories: Energy
 author: unknown author
-
+tags: [Carbon nanotube, Electronic circuit, Transistor, Thin-film transistor, Integrated circuit, Thin film, Extrinsic semiconductor, Electronics, Applied and interdisciplinary physics, Electricity, Electrical engineering, Chemistry, Electronic engineering, Electromagnetism, Manufacturing, Materials, Technology, Artificial objects]
 ---
 
 

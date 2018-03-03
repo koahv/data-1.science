@@ -4,7 +4,7 @@ title: "The Only Existing Photo of Einstein Blackboarding His E=MC2 Formula (Wee
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Massenergy equivalence, Special relativity, Speed of light, Albert Einstein, Absolute space and time, Physics, Time, Mass, Space, Theoretical philosophy, Mechanics, Cognitive science, Physical sciences, Mathematical physics, Epistemology, Metaphysics, Science, Scientific theories, Spacetime, Philosophy, Theoretical physics, Physical quantities]
 ---
 
 

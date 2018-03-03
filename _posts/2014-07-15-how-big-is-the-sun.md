@@ -4,7 +4,7 @@ title: "How big is the Sun?"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Sun, Mass, Moon, Star, Angular diameter, Planetary science, Space science, Physical sciences, Outer space, Astronomy, Solar System, Bodies of the Solar System, Astronomical objects]
 ---
 
 

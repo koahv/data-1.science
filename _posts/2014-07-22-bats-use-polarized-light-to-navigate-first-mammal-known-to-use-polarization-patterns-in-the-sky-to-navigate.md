@@ -4,7 +4,7 @@ title: "Bats use polarized light to navigate: First mammal known to use polariza
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Bat, Polarization (waves), Sky, Bird, Light]
 ---
 
 

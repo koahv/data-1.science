@@ -4,7 +4,7 @@ title: "The Real Sun Shower: How Rain and Waterfalls Form and Pour on our Neares
 date: 2014-06-25
 categories: Science
 author: unknown author
-
+tags: [Sun, Weather, Rain, Corona, Solar flare, Earth, Space science, Physical phenomena, Transparent materials, Bodies of the Solar System, Planetary science, Solar System, Phases of matter, Nature, Astronomy, Applied and interdisciplinary physics, Outer space, Physical sciences]
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Earth is Leaking Its Atmosphere --"Weakness Found in Our Magnetic Field" (European Space Agency)"
+title: "Earth is Leaking Its Atmosphere --Weakness Found in Our Magnetic Field (European Space Agency)"
 date: 2016-07-21
 categories: Astronomy
 author: dailygalaxy.com

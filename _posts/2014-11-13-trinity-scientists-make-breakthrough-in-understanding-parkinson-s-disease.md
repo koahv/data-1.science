@@ -4,7 +4,7 @@ title: "Trinity scientists make breakthrough in understanding Parkinson's diseas
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Parkin (ligase), Apoptosis, Neuron, Biochemistry, Biology, Life sciences, Cell biology]
 ---
 
 

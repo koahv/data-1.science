@@ -4,7 +4,7 @@ title: "Image: Hubble sees a dwarf galaxy shaped by a grand design"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Pinwheel Galaxy, Milky Way, Ursa Major, Galaxy, Astronomy, Outer space, Galaxies, Extragalactic astronomy, Stars, Large-scale structure of the cosmos, Sky regions, Physical sciences, Astronomical objects]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Cockpit of the Future Has Holograms, Augmented Reality"
 date: 2014-07-13
 categories: Technology
 author: mfassbender
-
+tags: [Aircraft, Technology, Artificial objects, Imaging]
 ---
 
 

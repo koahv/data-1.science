@@ -4,7 +4,7 @@ title: "Wind is the World’s Cheapest Source of Energy According to EU Report"
 date: 2015-07-04
 categories: Energy
 author: Beverley Mitchell
-
+tags: [Wind power, Renewable energy, Nuclear power, Fossil fuel, Subsidy, Fuel, Electricity generation, Energy sources, Artificial objects, Energy production, Power (physics), Physical universe, Nature, Sustainable development, Sustainable energy, Alternative energy, Renewable resources, Natural resources, Energy, Sustainable technologies]
 ---
 
 

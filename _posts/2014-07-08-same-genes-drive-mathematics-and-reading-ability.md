@@ -4,7 +4,7 @@ title: "Same genes drive mathematics and reading ability"
 date: 2015-01-20
 categories: Science
 author: unknown author
-
+tags: [Genetics, Nature versus nurture, Learning disability, Cognition, Psychological concepts, Biology, Psychology, Behavioural sciences, Cognitive science]
 ---
 
 

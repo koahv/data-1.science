@@ -4,7 +4,7 @@ title: "Astronomic Observatory Stellarium 0.13.0 Officially Released"
 date: 2014-07-20
 categories: Linux
 author: Softpedia News (Silviu Stahie)
-
+tags: [Stellarium (software), Amateur astronomy, Software release life cycle, Digital media, Software, Computing]
 ---
 
 

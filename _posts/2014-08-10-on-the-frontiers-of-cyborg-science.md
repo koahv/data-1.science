@@ -4,7 +4,7 @@ title: "On the frontiers of cyborg science"
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Nanotechnology, Nanoelectronics, Lithium-ion battery, Cyborg, Brain, Nanowire, Carbon nanotube, Biology, Chemistry, Artificial objects, Technology, Emerging technologies]
 ---
 
 

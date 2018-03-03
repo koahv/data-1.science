@@ -4,7 +4,7 @@ title: "Climate change and the soil"
 date: 2015-07-17
 categories: Science
 author: unknown author
-
+tags: [Global warming, Soil, Carnegie Institution for Science, Soil respiration, Forest, Nature, Environmental science, Earth sciences, Natural environment]
 ---
 
 

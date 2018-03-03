@@ -4,7 +4,7 @@ title: "What does a supernova sounds like?"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Outer space, Voyager 1, Sound, Sun, Cosmic dust, Heliosphere, Physics, Nature, Astronomy, Applied and interdisciplinary physics, Space science, Physical sciences, Physical universe]
 ---
 
 

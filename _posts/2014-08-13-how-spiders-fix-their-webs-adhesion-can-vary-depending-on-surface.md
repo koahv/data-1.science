@@ -4,7 +4,7 @@ title: "How spiders fix their webs: Adhesion can vary depending on surface"
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Spider silk, Spider, Spider web, Adhesion]
 ---
 
 

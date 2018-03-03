@@ -4,7 +4,7 @@ title: "NOAA's GOES-R satellite Magnetometer ready for spacecraft integration"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [GOES-16, Goddard Space Flight Center, Spacecraft, Spaceflight, Outer space, Astronautics, Flight, Aerospace engineering, Spaceflight technologies]
 ---
 
 

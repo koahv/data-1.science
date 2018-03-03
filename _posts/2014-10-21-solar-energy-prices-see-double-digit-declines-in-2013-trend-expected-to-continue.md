@@ -4,7 +4,7 @@ title: "Solar energy prices see double-digit declines in 2013; Trend expected to
 date: 2015-12-04
 categories: Technology
 author: unknown author
-
+tags: [Photovoltaics, National Renewable Energy Laboratory, Renewable energy in the United States, Solar power, Photovoltaic system, Renewable energy, Natural resources, Energy and the environment, Sustainable technologies, Sustainable development, Nature, Alternative energy, Renewable resources, Sustainable energy, Physical universe, Energy, Energy sources, Artificial objects]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Why is Jupiter’s Great Red Spot … Red?"
 date: 2015-07-21
 categories: Astronomy
 author: Kelly Beatty
-
+tags: [Great Red Spot, Jupiter, Planets, Planets of the Solar System, Outer space, Planetary science, Space science, Solar System, Physical sciences, Astronomy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Technical troubleshooting at the CERN Control Centre"
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Large Hadron Collider, Physics, Particle physics, CERN, Particle accelerator, Science, Applied and interdisciplinary physics, Physical sciences]
 ---
 
 

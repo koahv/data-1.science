@@ -4,7 +4,7 @@ title: "China and US Partner to Boost Search for CO2 Capture"
 date: 2015-06-02
 categories: Energy
 author: unknown author
-
+tags: [Carbon capture and storage, International Energy Agency, Air pollution, Energy, Climatology, Future problems, Natural environment, Sustainable development, Nature, Global environmental issues, Climate change]
 ---
 
 

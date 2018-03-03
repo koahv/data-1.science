@@ -4,7 +4,7 @@ title: "New paths into the world of quasiparticles"
 date: 2015-01-20
 categories: Science
 author: unknown author
-
+tags: [Physics, Quasiparticle, Quantum entanglement, Experiment, Quantum mechanics, Rainer Blatt, Applied and interdisciplinary physics, Physical chemistry, Scientific theories, Physical sciences, Condensed matter, Condensed matter physics, Materials science, Scientific method, Science, Chemistry, Particle physics, Mechanics, Solid state engineering, Modern physics, Theoretical physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Simple lifestyle interventions during pregnancy can prevent children fro
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Obesity, Health, Nutrition, Infant, Pregnancy, Childhood obesity, Health sciences, Medical specialties, Food and drink, Public health, Determinants of health]
 ---
 
 

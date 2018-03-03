@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""Gigantic Ring of Dwarf Galaxies Orbit Andromeda Galaxy in an Immense Disk" (Today's Most Popular)"
+title: "Gigantic Ring of Dwarf Galaxies Orbit Andromeda Galaxy in an Immense Disk (Today's Most Popular)"
 date: 2014-06-26
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Milky Way, Andromeda Galaxy, Star, Outer space, Astronomy, Physical cosmology, Physical sciences, Astronomical objects]
 ---
 
 

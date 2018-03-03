@@ -4,7 +4,7 @@ title: "Oracle adds Micros for $5.3 bn to boost cloud effort"
 date: 2014-06-24
 categories: Energy
 author: unknown author
-
+tags: [Oracle Corporation, Cloud computing, Point of sale, Retail, Micros Systems, Computing, Technology, Business, Service industries]
 ---
 
 

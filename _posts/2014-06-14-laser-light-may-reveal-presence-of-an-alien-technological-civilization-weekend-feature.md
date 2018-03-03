@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""Laser Light May Reveal Presence of an Alien Technological Civilization" (Weekend Feature)"
+title: "Laser Light May Reveal Presence of an Alien Technological Civilization (Weekend Feature)"
 date: 2014-06-23
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Search for extraterrestrial intelligence, Geoffrey Marcy, Extraterrestrial life, Astronomy, Physical sciences, Outer space, Science]
 ---
 
 

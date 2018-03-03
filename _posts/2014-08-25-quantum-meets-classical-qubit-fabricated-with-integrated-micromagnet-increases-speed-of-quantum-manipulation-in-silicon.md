@@ -4,7 +4,7 @@ title: "Quantum meets classical: Qubit fabricated with integrated micromagnet in
 date: 2015-05-22
 categories: Science
 author: unknown author
-
+tags: [Quantum computing, Quantum dot, Spin (physics), Qubit, Gallium arsenide, Bit, Semiconductor, Electron, Computer, Quantum decoherence, Modern physics, Condensed matter, Particle physics, Electromagnetism, Theoretical physics, Condensed matter physics, Materials, Physics, Materials science, Mechanics, Solid state engineering, Quantum mechanics, Physical sciences, Applied and interdisciplinary physics, Chemistry]
 ---
 
 

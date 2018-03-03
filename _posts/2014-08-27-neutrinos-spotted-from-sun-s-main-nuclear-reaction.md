@@ -4,7 +4,7 @@ title: "Neutrinos spotted from Sun's main nuclear reaction"
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Neutrino, Standard solar model, IceCube Neutrino Observatory, Sun, Borexino, Neutrino detector, CNO cycle, Deuterium, Protonproton chain reaction, Nuclear physics, Chemistry, Physics, Physical sciences, Nature, Nuclear chemistry, Applied and interdisciplinary physics]
 ---
 
 

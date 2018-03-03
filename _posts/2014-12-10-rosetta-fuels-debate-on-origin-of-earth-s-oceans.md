@@ -4,7 +4,7 @@ title: "Rosetta fuels debate on origin of Earth’s oceans"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Comet, Rosetta (spacecraft), Solar System, Oort cloud, Formation and evolution of the Solar System, Sun, Kuiper belt, Asteroid, Space science, Physical sciences, Astronomical objects, Outer space, Local Interstellar Cloud, Bodies of the Solar System, Astronomy, Planetary science]
 ---
 
 

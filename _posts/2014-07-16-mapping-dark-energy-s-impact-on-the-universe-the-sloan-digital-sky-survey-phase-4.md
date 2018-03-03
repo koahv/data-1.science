@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""Mapping Dark Energy's Impact on the Universe" --The Sloan Digital Sky Survey Phase 4"
+title: "Mapping Dark Energy's Impact on the Universe --The Sloan Digital Sky Survey Phase 4"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Sloan Digital Sky Survey, Quasar, Milky Way, Physical sciences, Scientific observation, Natural philosophy, Physical cosmology, Applied and interdisciplinary physics, Physics, Science, Outer space, Astronomy]
 ---
 
 

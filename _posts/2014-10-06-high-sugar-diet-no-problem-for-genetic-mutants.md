@@ -4,7 +4,7 @@ title: "High-sugar diet no problem for genetic mutants"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Caenorhabditis elegans, NFE2L2, Genetics, Model organism, Mutation, Transcription factor, Cell biology, Biology, Life sciences, Biochemistry, Organisms, Biotechnology, Molecular biology]
 ---
 
 

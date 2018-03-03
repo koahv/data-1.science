@@ -4,7 +4,7 @@ title: "Now Extinct Passenger Pigeons may Flock to the Future with Help of DNA T
 date: 2014-06-22
 categories: Science
 author: unknown author
-
+tags: [Passenger pigeon, Columbidae, De-extinction, Organisms, Life sciences, Science, Biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Earth-Size Diamond Detected in  Space by Astronomers"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Star, Pulsar, White dwarf, Astronomy, Neutron star, Sun, Stellar astronomy, Outer space, Astronomical objects, Physical sciences, Stars]
 ---
 
 

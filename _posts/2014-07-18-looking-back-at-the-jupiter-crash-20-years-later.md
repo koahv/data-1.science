@@ -4,7 +4,7 @@ title: "Looking back at the Jupiter crash 20 years later"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Comet ShoemakerLevy 9, Near-Earth object, Jupiter, Jet Propulsion Laboratory, NASA, Asteroid, Comet, Galileo (spacecraft), Outer space, Planets of the Solar System, Physical sciences, Spaceflight, Bodies of the Solar System, Solar System, Planetary science, Space science, Astronomy]
 ---
 
 

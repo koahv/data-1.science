@@ -4,7 +4,7 @@ title: "How amphibians crossed continents: DNA helps piece together 300-million-
 date: 2015-10-02
 categories: Science
 author: unknown author
-
+tags: [Biogeography, Allopatric speciation, Amphibian, Species, Frog, Continent, Phylogenetic tree, Oceanic dispersal, Gondwana, Science, Nature, Biology, Organisms]
 ---
 
 

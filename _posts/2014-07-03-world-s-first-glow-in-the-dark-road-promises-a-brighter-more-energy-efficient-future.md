@@ -4,7 +4,7 @@ title: "World’s First Glow-in-the-Dark Road Promises a Brighter, More Energy-E
 date: 2014-06-24
 categories: Energy
 author: Lucy Wang
-
+tags: [Technology, Smart highway, Lighting, Science and technology, Artificial objects]
 ---
 
 

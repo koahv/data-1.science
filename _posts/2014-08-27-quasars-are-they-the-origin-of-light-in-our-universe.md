@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Quasars --"Are They the Origin of Light in Our Universe?""
+title: "Quasars --Are They the Origin of Light in Our Universe?"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Quasar, Astronomy, Universe, Photon, Physical cosmology, Physical universe, Natural philosophy, Nature, Applied and interdisciplinary physics, Physical sciences, Physics, Outer space, Science]
 ---
 
 

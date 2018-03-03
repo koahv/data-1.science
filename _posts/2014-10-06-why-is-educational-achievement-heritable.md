@@ -4,7 +4,7 @@ title: "Why is educational achievement heritable?"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Heritability, Genetics, Education, General Certificate of Secondary Education, Behavioural sciences, Cognition, Neuroscience, Cognitive science, Behavior modification, Action (philosophy), Psychological concepts, Emergence, Psychology]
 ---
 
 

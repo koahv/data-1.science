@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Observation of Big Bang Gravity-Waves Challenged --"Serious Flaws Found""
+title: "Observation of Big Bang Gravity-Waves Challenged --Serious Flaws Found"
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Universe, Astrophysics, BICEP and Keck Array, Science, Astronomy, Galaxy, Chronology of the universe, Gravitational wave, Milky Way, Big Bang, Inflation (cosmology), Cosmic microwave background, Research, Gravity, Cosmology, Planck (spacecraft), Theory, Speed of light, Dark energy, Light, Black hole, Theory of relativity, Force, Paul Steinhardt, Physical cosmology, Spacetime, Physics, Physical sciences, Outer space, Natural philosophy]
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quantum Time Travel --"Can We Receive Messages from the Future?""
+title: "Quantum Time Travel --Can We Receive Messages from the Future?"
 date: 2015-12-22
 categories: Astronomy
 author: dailygalaxy.com

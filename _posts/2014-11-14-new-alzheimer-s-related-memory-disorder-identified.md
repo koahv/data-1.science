@@ -4,7 +4,7 @@ title: "New Alzheimer's-related memory disorder identified"
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Alzheimers disease, Primary age-related tauopathy, Medicine, Cognitive science, Medical specialties, Neuropsychological assessment, Geriatrics, Human diseases and disorders, Biology, Health, Neurology, Neuropsychology, Health sciences, Cognitive disorders, Geriatric psychiatry, Cognition, Diseases and disorders, Neuroscience, Nervous system, Clinical medicine]
 ---
 
 

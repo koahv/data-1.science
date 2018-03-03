@@ -4,7 +4,7 @@ title: "For the first time scientists map elevation changes of Greenlandic and A
 date: 2016-02-05
 categories: Science
 author: unknown author
-
+tags: [Greenland ice sheet, Antarctica, Jakobshavn Glacier, Cryosphere, West Antarctic Ice Sheet, Pine Island Glacier, Antarctic ice sheet, Glacier, Ice, Ice sheet, CryoSat-2, Altimeter, Physical geography, Earth sciences, Nature, Applied and interdisciplinary physics]
 ---
 
 

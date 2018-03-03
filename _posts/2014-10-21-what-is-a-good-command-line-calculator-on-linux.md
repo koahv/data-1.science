@@ -4,7 +4,7 @@ title: "What is a Good Command-Line Calculator on Linux"
 date: 2015-06-26
 categories: Linux
 author: Administrator
-
+tags: [Microsoft Windows, Computer engineering, Linux, Free software, Digital media, Software, Computing, System software, Operating system families, Computers]
 ---
 
 

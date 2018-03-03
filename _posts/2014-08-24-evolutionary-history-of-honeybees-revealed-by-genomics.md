@@ -4,7 +4,7 @@ title: "Evolutionary history of honeybees revealed by genomics"
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Honey bee, Evolution, Western honey bee, Genetic diversity, Adaptation, Mutation, Biodiversity, Biology, Organisms]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Coming soon: Genetically edited fruit?"
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Genetic engineering, Genetically modified organism, Biotechnology, Genetically modified crops, Genetics, Organisms, Artificial objects, Life sciences, Biology]
 ---
 
 

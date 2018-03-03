@@ -4,7 +4,7 @@ title: "Near-extinct forest giraffe shows resilience in a war zone"
 date: 2014-08-16
 categories: Science
 author: unknown author
-
+tags: [Conservation biology, Okapi, Democratic Republic of the Congo, Endangered species, Biodiversity, Genetics, Wildlife Conservation Society, Species, Congo Basin, Virunga National Park, Genetic diversity, Organisms]
 ---
 
 

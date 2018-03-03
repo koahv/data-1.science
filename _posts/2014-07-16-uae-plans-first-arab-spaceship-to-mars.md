@@ -4,7 +4,7 @@ title: "UAE Plans First Arab Spaceship to Mars"
 date: 2014-07-21
 categories: Technology
 author: mfassbender
-
+tags: [United Arab Emirates, Dubai, Arab world, Middle East]
 ---
 
 

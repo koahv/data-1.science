@@ -4,7 +4,7 @@ title: "Should the Higgs boson have caused our Universe to collapse?"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Physics, Universe, Higgs boson, Inflation (cosmology), Physical cosmology, Particle physics, Standard Model, BICEP and Keck Array, Big Bang, Large Hadron Collider, Photon, Science, Cosmology, Metaphysics, Mechanics, Physical quantities, Natural philosophy, Applied and interdisciplinary physics, Physical sciences, Theoretical physics]
 ---
 
 

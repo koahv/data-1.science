@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Rare Superluminous Supernova Observed --"Origins are a Mystery""
+title: "Rare Superluminous Supernova Observed --Origins are a Mystery"
 date: 2014-06-26
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Supernova, Superluminous supernova, Star, Physical cosmology, Physical universe, Stellar astronomy, Stars, Nature, Outer space, Physics, Astronomical objects, Astronomy, Physical sciences, Physical phenomena, Applied and interdisciplinary physics]
 ---
 
 

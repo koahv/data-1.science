@@ -4,7 +4,7 @@ title: "Why 'whispers' among bees sometimes evolve into 'shouts'"
 date: 2014-07-07
 categories: Science
 author: unknown author
-
+tags: [Honey bee, Organisms, Animals]
 ---
 
 

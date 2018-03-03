@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""Is Spacetime a Fluid?" Leading Physicists Query (Today's Most Popular)"
+title: "Is Spacetime a Fluid? Leading Physicists Query (Today's Most Popular)"
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Physics, Quantum mechanics, General relativity, Quantum gravity, Gravity, Particle physics, Spacetime, Metaphysics, Physical quantities, Physical cosmology, Scientific theories, Modern physics, Applied and interdisciplinary physics, Epistemology of science, Scientific method, Natural sciences, Science, Physical sciences, Mechanics, Theoretical physics]
 ---
 
 

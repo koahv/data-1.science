@@ -4,7 +4,7 @@ title: "New tools advance bio-logic: Researchers build more sophisticated synthe
 date: 2015-10-22
 categories: Science
 author: unknown author
-
+tags: [Synthetic biology, Genetics, Gene, Cell (biology), Transcription factor, Biology, Life sciences, Organisms, Biotechnology, Biochemistry, Molecular biology]
 ---
 
 

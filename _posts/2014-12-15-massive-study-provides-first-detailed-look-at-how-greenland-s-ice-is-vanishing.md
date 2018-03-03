@@ -4,7 +4,7 @@ title: "Massive study provides first detailed look at how Greenland's ice is van
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Greenland ice sheet, Sea level rise, Glacier, Earth sciences, Physical geography]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Pushing cells towards a higher pluripotency state"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Stem cell, Cell potency, Induced pluripotent stem cell, Embryonic stem cell, Cell culture, Biology, Life sciences, Cell biology, Biotechnology, Organisms, Developmental biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Plants can 'switch off' virus DNA"
 date: 2016-02-05
 categories: Science
 author: unknown author
-
+tags: [Virus, Interferon, Immune system, RNA interference, Gene, Infection, Genetics, Antiviral drug, Biology, Organisms, Life sciences, Viruses, Microbiology, Biotechnology, Molecular biology, Biochemistry]
 ---
 
 

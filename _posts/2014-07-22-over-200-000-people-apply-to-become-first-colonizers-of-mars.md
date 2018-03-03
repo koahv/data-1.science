@@ -4,7 +4,7 @@ title: "Over 200,000 People Apply to Become First Colonizers of Mars"
 date: 2014-08-04
 categories: Technology
 author: Charley Cameron
-
+tags: [Mars One, Mars, Outer space]
 ---
 
 

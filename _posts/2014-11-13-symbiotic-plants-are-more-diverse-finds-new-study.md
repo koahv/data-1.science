@@ -4,7 +4,7 @@ title: "Symbiotic plants are more diverse, finds new study"
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Evolution, Plant, Biology, Species, Organisms, Nature, Evolutionary biology, Life sciences, Biological evolution, Science]
 ---
 
 

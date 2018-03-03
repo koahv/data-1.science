@@ -4,7 +4,7 @@ title: "New properties of rotating superfluids discovered in helium nanodroplets
 date: 2015-07-17
 categories: Science
 author: unknown author
-
+tags: [Superfluidity, Quantum vortex, Helium, Liquid, Vortex, Universe, Applied and interdisciplinary physics, Materials science, Physics, Physical sciences, Mechanics, Condensed matter physics, Science, Phases of matter]
 ---
 
 

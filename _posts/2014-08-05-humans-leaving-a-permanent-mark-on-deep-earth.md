@@ -4,7 +4,7 @@ title: "Humans leaving a permanent mark on deep Earth"
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Earth, Anthropocene, Geology, Geologic time scale, Global warming, Earth sciences, Nature, Physical geography, Natural environment]
 ---
 
 

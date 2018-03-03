@@ -4,7 +4,7 @@ title: "Raspberry Pi Model B+: The Price is Right at $35"
 date: 2014-07-17
 categories: Linux
 author: Eric Brown
-
+tags: [Raspberry Pi, Computer hardware, Digital electronics, Microcomputers, Classes of computers, Electronic engineering, Office equipment, Technology, Digital technology, Electronics, Computer architecture, Computer engineering, Computing, Computers]
 ---
 
 

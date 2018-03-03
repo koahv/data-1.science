@@ -4,7 +4,7 @@ title: "Let there be light: Evolution of complex bioluminescent traits may be pr
 date: 2016-03-28
 categories: Science
 author: unknown author
-
+tags: [Evolution, Euprymna scolopes, Genetics, Convergent evolution, Bioluminescence, Species, Gene, Biology, Organisms, Life sciences, Science, Biological evolution]
 ---
 
 

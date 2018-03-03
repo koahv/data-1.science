@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Higgs Paradox" --Quantum-Level Discovery Fails to Solve Large-Scale Cosmic Mysteries"
+title: "The Higgs Paradox --Quantum-Level Discovery Fails to Solve Large-Scale Cosmic Mysteries"
 date: 2014-07-07
 categories: Astronomy
 author: dailygalaxy.com

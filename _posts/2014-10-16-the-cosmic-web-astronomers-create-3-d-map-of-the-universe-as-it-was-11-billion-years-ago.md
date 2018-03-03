@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""The Cosmic Web" --Astronomers Create 3-D Map of the Universe as it was 11 Billion Years Ago"
+title: "The Cosmic Web --Astronomers Create 3-D Map of the Universe as it was 11 Billion Years Ago"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Observable universe, Astronomy, Milky Way, Universe, Telescope, Electromagnetic radiation, Physical sciences, Outer space, Scientific observation, Optics, Natural philosophy, Applied and interdisciplinary physics, Observational astronomy, Science]
 ---
 
 

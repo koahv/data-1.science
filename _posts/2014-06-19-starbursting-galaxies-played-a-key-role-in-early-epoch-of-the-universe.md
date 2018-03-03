@@ -4,7 +4,7 @@ title: "Starbursting Galaxies Played a Key Role in Early Epoch of the Universe"
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Galaxy, Hubble Space Telescope, Star, Universe, Astronomy, Star formation, Wide Field Camera 3, Galaxy formation and evolution, Chronology of the universe, Physical sciences, Physical cosmology, Astronomical objects, Outer space]
 ---
 
 

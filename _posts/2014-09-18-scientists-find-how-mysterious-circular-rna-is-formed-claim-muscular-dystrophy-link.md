@@ -4,7 +4,7 @@ title: "Scientists find how mysterious 'circular RNA' is formed, claim muscular 
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [RNA, Gene, Genetics, DNA, Circular RNA, Biotechnology, Organisms, Biology, Nucleic acids, Life sciences, Molecular biology, Biochemistry, Nucleotides]
 ---
 
 

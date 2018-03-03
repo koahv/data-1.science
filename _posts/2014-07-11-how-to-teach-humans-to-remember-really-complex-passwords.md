@@ -4,7 +4,7 @@ title: "How to Teach Humans to Remember Really Complex Passwords"
 date: 2014-07-13
 categories: Security
 author: Andy Greenberg
-
+tags: [Robot, Technology]
 ---
 
 

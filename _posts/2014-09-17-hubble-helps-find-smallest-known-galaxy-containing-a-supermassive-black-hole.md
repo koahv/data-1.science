@@ -4,7 +4,7 @@ title: "Hubble helps find smallest known galaxy containing a supermassive black 
 date: 2015-12-02
 categories: Technology
 author: unknown author
-
+tags: [Milky Way, Hubble Space Telescope, Black hole, Star, Astronomy, Space Telescope Science Institute, Supermassive black hole, M60-UCD1, Dwarf galaxy, Physical cosmology, Astronomical objects, Outer space, Physical sciences]
 ---
 
 

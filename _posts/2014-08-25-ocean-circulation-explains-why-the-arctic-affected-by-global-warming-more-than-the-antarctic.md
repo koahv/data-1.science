@@ -4,7 +4,7 @@ title: "Ocean circulation explains why the Arctic affected by global warming mor
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Global warming, Antarctica, Ozone depletion, Sea ice, Climate change, Sea level rise, Ozone layer, Sea, Ocean, Climate, Arctic Ocean, Arctic, Greenhouse gas, Ice, Earth, Ocean current, Meteorology, Environment, Physical sciences, Future problems, Earth sciences, Applied and interdisciplinary physics, Atmospheric sciences, Climatology, Oceanography, Nature, Global natural environment, Atmosphere of Earth, Global environmental issues, Environmental science, Natural environment, Physical geography]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Physicists propose superabsorption of light beyond the limits of classic
 date: 2015-05-22
 categories: Science
 author: unknown author
-
+tags: [Physics, Quantum mechanics, Light, Atom, Optics, Photon, Superradiance, Laser, Quantum optics, Emission spectrum, Quantum dot, Exciton, Science, Classical physics, Nanotechnology, Materials science, Physical chemistry, Electromagnetic radiation, Physical sciences, Atomic molecular and optical physics, Mechanics, Chemistry, Applied and interdisciplinary physics, Natural philosophy, Solid state engineering, Condensed matter physics]
 ---
 
 

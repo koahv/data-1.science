@@ -4,7 +4,7 @@ title: "Solar and Wind Energy are Finally Cheaper than Fossil Fuels in the Unite
 date: 2015-07-04
 categories: Energy
 author: Beverley Mitchell
-
+tags: [Feed-in tariff, Wind power, Renewable energy, Solar power, Electricity generation, Electric power, Power (physics), Natural resources, Nature, Physical universe, Energy, Sustainable energy, Energy sources, Sustainable development]
 ---
 
 

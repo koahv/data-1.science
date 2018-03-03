@@ -4,7 +4,7 @@ title: "D-Wave and predecessors: From simulated to quantum annealing"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [D-Wave Systems, Quantum computing, Quantum annealing, Physics, Areas of computer science, Physical sciences, Applied and interdisciplinary physics, Quantum mechanics, Theoretical computer science, Science, Applied mathematics, Theoretical physics, Particle physics, Modern physics, Mechanics, Solid state engineering]
 ---
 
 

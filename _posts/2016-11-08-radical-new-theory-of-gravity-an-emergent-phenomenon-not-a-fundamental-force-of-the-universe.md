@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Radical New Theory of Gravity --"An Emergent Phenomenon, Not a Fundamental Force of the Universe""
+title: "Radical New Theory of Gravity --An Emergent Phenomenon, Not a Fundamental Force of the Universe"
 date: 2017-03-23
 categories: Astronomy
 author: dailygalaxy.com

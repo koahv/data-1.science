@@ -4,7 +4,7 @@ title: "Russia finds two 'well-preserved' dinosaur skeletons"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Dinosaur, Excavation (archaeology)]
 ---
 
 

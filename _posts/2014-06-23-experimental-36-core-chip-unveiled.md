@@ -4,7 +4,7 @@ title: "Experimental 36-core chip unveiled"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Multi-core processor, Computer network, Bus (computing), Digital technology, Areas of computer science, Computers, Computer data, Computer architecture, Computer networking, Computer engineering, Technology, Computing]
 ---
 
 

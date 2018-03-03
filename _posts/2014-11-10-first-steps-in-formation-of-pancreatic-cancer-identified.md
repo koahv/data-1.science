@@ -4,7 +4,7 @@ title: "First steps in formation of pancreatic cancer identified"
 date: 2016-03-29
 categories: Science
 author: unknown author
-
+tags: [Pancreatic cancer, Cancer, KRAS, Mutation, Biology, Biotechnology, Biochemistry, Medicine, Clinical medicine, Cell biology, Diseases and disorders, Life sciences, Medical specialties]
 ---
 
 

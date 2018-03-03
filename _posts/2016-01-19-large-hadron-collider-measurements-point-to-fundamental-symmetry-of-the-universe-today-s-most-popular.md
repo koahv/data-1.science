@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Large Hadron Collider Measurements --"Point to Fundamental Symmetry of the Universe" (Today's Most Popular)"
+title: "Large Hadron Collider Measurements --Point to Fundamental Symmetry of the Universe (Today's Most Popular)"
 date: 2016-01-27
 categories: Astronomy
 author: dailygalaxy.com

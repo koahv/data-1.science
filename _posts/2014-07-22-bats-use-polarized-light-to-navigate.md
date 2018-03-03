@@ -4,7 +4,7 @@ title: "Bats use polarized light to navigate"
 date: 2015-10-05
 categories: Science
 author: unknown author
-
+tags: [Bat, Polarization (waves), Animal echolocation, Sky, Bird, Light, Animals]
 ---
 
 

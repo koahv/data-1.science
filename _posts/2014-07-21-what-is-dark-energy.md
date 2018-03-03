@@ -4,7 +4,7 @@ title: "What is dark energy?"
 date: 2015-05-22
 categories: Astronomy
 author: Maria Temming
-
+tags: [Dark energy, Physical cosmology, Universe, Cosmological constant, Accelerating expansion of the universe, Natural philosophy, Philosophy, Space, Scientific theories, Academic discipline interactions, Nature, Theoretical physics, Outer space, Metaphysics, Physical universe, Mechanics, Physics, Physical sciences, Cosmology, Spacetime, Astronomy, Physical quantities, Science]
 ---
 
 

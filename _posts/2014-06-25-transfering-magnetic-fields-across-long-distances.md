@@ -4,7 +4,7 @@ title: "Transfering magnetic fields across long distances"
 date: 2014-06-25
 categories: Science
 author: unknown author
-
+tags: [Superconductivity, Physics, Quantum mechanics, Spintronics, Magnetism, Magnetic field, Photon, Optics, Ferromagnetism, Anisotropy, Condensed matter physics, Applied and interdisciplinary physics, Chemistry, Mechanics, Physical sciences, Electromagnetism, Materials science, Particle physics, Solid state engineering, Theoretical physics, Modern physics, Science, Natural philosophy]
 ---
 
 

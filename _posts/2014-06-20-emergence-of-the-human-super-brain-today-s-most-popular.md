@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Emergence of the Human "Super-Brain" (Today's Most Popular)"
+title: "Emergence of the Human Super-Brain (Today's Most Popular)"
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Human, Brain, Evolution, Biology, Species, Gene, Mind, Archaeology, Mammal, Brain size, Human evolution, Cognitive science]
 ---
 
 

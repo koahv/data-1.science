@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASA's Amazing Comet Hunter --"Nobody Dreamed We'd Approach 200 a Year""
+title: "NASA's Amazing Comet Hunter --Nobody Dreamed We'd Approach 200 a Year"
 date: 2015-08-11
 categories: Astronomy
 author: dailygalaxy.com

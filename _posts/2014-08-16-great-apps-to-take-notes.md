@@ -4,7 +4,7 @@ title: "Great Apps to Take Notes"
 date: 2015-06-26
 categories: Linux
 author: Steve Emms
-
+tags: [Technology, Computer engineering, Intellectual works, Digital technology, Digital media, Computing, Software]
 ---
 
 

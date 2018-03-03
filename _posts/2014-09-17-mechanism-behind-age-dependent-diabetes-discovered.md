@@ -4,7 +4,7 @@ title: "Mechanism behind age-dependent diabetes discovered"
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Beta cell, Diabetes mellitus, Mitochondrion, Diabetes mellitus type 2, Insulin, Ageing, Life sciences, Biology, Biochemistry, Biotechnology, Cell biology, Molecular biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Van Allen Probes show how to accelerate electrons"
 date: 2015-10-03
 categories: Science
 author: unknown author
-
+tags: [Van Allen radiation belt, Van Allen Probes, Milky Way, Astronomy, Electromagnetic radiation, Galaxy, Astrophysics, Physics, Physical sciences, Outer space, Nature]
 ---
 
 

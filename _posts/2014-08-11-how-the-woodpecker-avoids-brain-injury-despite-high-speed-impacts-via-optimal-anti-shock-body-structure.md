@@ -4,7 +4,7 @@ title: "How the woodpecker avoids brain injury despite high-speed impacts via op
 date: 2015-12-02
 categories: Technology
 author: unknown author
-
+tags: [CT scan, 3D modeling, Science, Engineering, Technology, Science and technology, Artificial objects]
 ---
 
 

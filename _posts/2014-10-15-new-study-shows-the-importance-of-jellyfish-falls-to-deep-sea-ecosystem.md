@@ -4,7 +4,7 @@ title: "New study shows the importance of jellyfish falls to deep-sea ecosystem"
 date: 2015-07-04
 categories: Science
 author: unknown author
-
+tags: [Deep sea, Jellyfish, Ocean, Oceanography, Carbon cycle, Sea, Fish, Biodiversity, Earth sciences, Environmental science, Systems ecology, Hydrography, Nature, Natural environment, Oceans, Applied and interdisciplinary physics, Physical geography]
 ---
 
 

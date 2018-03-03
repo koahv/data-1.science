@@ -4,7 +4,7 @@ title: "Modern Europeans descended from three groups of ancestors"
 date: 2015-07-20
 categories: Science
 author: unknown author
-
+tags: [Human, MaltaBuret culture, Europe, Genetics, Eurasian (mixed ancestry), Indigenous peoples of the Americas, David Reich (geneticist), Culture, Biology]
 ---
 
 

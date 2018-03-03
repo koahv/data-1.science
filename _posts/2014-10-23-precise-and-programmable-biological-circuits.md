@@ -4,7 +4,7 @@ title: "Precise and programmable biological circuits"
 date: 2015-12-04
 categories: Technology
 author: unknown author
-
+tags: [Sensor, Signal, Cell (biology), Electronic circuit, Gene, DNA, Biology, Cancer, Biological computing, Protein, Biological engineering, Biosensor, Biochemistry, Technology, Molecular biology, Artificial objects, Organisms, Biotechnology, Life sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "How to debug a C/C++ program with GDB command-line debugger"
 date: 2015-01-28
 categories: Linux
 author: Adrien Brochard
-
+tags: [GNU Debugger, Integrated development environment, Debugger, Computer engineering, Computer programming, Computing, Software, Software engineering, Software development, Computers, Areas of computer science]
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New CERN LHC Experiments --"Predict a Boson Beyond the Higgs That Could Unlock Clues to Existence of Dark Matter""
+title: "New CERN LHC Experiments --Predict a Boson Beyond the Higgs That Could Unlock Clues to Existence of Dark Matter"
 date: 2017-03-22
 categories: Astronomy
 author: dailygalaxy.com

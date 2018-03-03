@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""Faint Tremors of the Big Bang?" --Gravitational Waves Team Concede Possible Error (VIDEO)"
+title: "Faint Tremors of the Big Bang? --Gravitational Waves Team Concede Possible Error (VIDEO)"
 date: 2014-06-23
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Universe, Galaxy, BICEP and Keck Array, Big Bang, Graviton, Gravity, Chronology of the universe, Gravitational wave, Cosmic microwave background, Star, Astrophysics, Dark matter, Astronomy, Elementary particle, General relativity, Neutrino, Science, Matter, Cosmology, Energy, Mechanics, Applied and interdisciplinary physics, Outer space, Physical quantities, Physical universe, Nature, Physical cosmology, Physics, Physical sciences, Spacetime]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Getting a Charge Out of Water Droplets"
 date: 2014-07-13
 categories: Technology
 author: cfox
-
+tags: [Watt, Humidity, Heat, Electricity, Ultrahydrophobicity, Heat transfer, Nature, Applied and interdisciplinary physics, Manufacturing, Artificial objects, Physics, Chemistry, Energy, Physical chemistry, Technology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "What is a comet?"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Comet, Solar System, Oort cloud, Kuiper belt, Planetary science, Outer space, Astronomy, Bodies of the Solar System, Physical sciences, Space science, Local Interstellar Cloud, Astronomical objects]
 ---
 
 

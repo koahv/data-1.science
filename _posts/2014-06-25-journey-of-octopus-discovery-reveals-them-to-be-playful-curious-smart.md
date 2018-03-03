@@ -4,7 +4,7 @@ title: "Journey of Octopus Discovery Reveals Them to Be Playful, Curious, Smart"
 date: 2014-07-01
 categories: Science
 author: Simon Worrall
-
+tags: [Octopus, Eye, Robotics]
 ---
 
 

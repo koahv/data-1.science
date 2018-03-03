@@ -4,7 +4,7 @@ title: "Organic conundrum in Large Magellanic Cloud"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Star, Milky Way, Polycyclic aromatic hydrocarbon, Abiogenesis, Interstellar medium, Stellar astronomy, Physical sciences, Astronomy, Outer space, Astronomical objects, Nature, Stars]
 ---
 
 

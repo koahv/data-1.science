@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Quantum Entanglement in Space" --A New Global Satellite-Based Quantum Network"
+title: "Quantum Entanglement in Space --A New Global Satellite-Based Quantum Network"
 date: 2016-06-03
 categories: Astronomy
 author: dailygalaxy.com

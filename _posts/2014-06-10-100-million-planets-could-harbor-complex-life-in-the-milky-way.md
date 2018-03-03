@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""100 Million Planets Could Harbor Complex Life in the Milky Way""
+title: "100 Million Planets Could Harbor Complex Life in the Milky Way"
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Astrobiology, Extraterrestrial life, Milky Way, Astronomy, Planetary science, Outer space, Physical sciences, Science, Scientific method]
 ---
 
 

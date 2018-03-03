@@ -4,7 +4,7 @@ title: "New Volcano Eruption on Jupiter's Io --10,000 Xs Iceland's 2010 Event"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Io (moon), Volcano, Physical sciences, Planetary science, Astronomy, Outer space, Solar System, Nature, Bodies of the Solar System]
 ---
 
 

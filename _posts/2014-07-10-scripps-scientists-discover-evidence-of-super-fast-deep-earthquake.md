@@ -4,7 +4,7 @@ title: "Scripps scientists discover evidence of super-fast deep earthquake"
 date: 2014-07-11
 categories: Science
 author: unknown author
-
+tags: [Earthquake, Seismology, Moment magnitude scale, Geology, Nature, Natural disasters, Mechanics, Geological hazards, Geophysics, Applied and interdisciplinary physics, Earth sciences, Earthquakes, Solid mechanics, Geotechnical engineering, Physical sciences]
 ---
 
 

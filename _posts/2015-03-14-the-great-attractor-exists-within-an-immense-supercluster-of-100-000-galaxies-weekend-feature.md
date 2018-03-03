@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Great Attractor --"Exists Within an Immense Supercluster of 100,000 Galaxies" (Weekend Feature)"
+title: "The Great Attractor --Exists Within an Immense Supercluster of 100,000 Galaxies (Weekend Feature)"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com

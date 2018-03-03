@@ -4,7 +4,7 @@ title: "Ancient shellfish remains rewrite 10,000-year history of El Nino cycles"
 date: 2015-07-04
 categories: Science
 author: unknown author
-
+tags: [El Nio, Sea surface temperature, Ice age, Physical geography, Earth sciences, Nature, Oceanography, Applied and interdisciplinary physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Cat genome reveals clues to domestication​​"
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Cat, Dog, Human, Carnivore, Olfaction, Domestication, Genetics, Selective breeding, Gene, Purebred, Organisms, Biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Quantum leap in lasers brightens future for quantum computing"
 date: 2015-05-22
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Physics, Photon, Laser, Light, Superconductivity, Quantum dot, Electron, Atom, Optics, Photonics, Science, Physical sciences, Applied and interdisciplinary physics, Particle physics, Mechanics, Chemistry, Materials science, Solid state engineering, Modern physics, Condensed matter physics, Physical chemistry, Theoretical physics, Atomic molecular and optical physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Out of an hours-long explosion, a stand-in for the first stars"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Gamma-ray burst, Fermi Gamma-ray Space Telescope, Star, Physical universe, Physics, Physical phenomena, Nature, Stellar astronomy, Stars, Astronomical objects, Astronomy, Physical sciences, Outer space]
 ---
 
 

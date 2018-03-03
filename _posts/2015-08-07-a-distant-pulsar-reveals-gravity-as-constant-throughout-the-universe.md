@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Distant Pulsar --"Reveals Gravity as Constant Throughout the Universe""
+title: "A Distant Pulsar --Reveals Gravity as Constant Throughout the Universe"
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com

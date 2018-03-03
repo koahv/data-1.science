@@ -4,7 +4,7 @@ title: "Keep your Distance: Why Humans Learned to Fear What's Approaching"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Human, Social psychology, Neuroscience, Psychology, Psychological concepts, Behavioural sciences, Cognitive science, Cognition, Action (philosophy), Science, Communication, Emergence]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Water-Building Molecule Found Around Dying Stars in Helix and Ring Nebul
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Star, Nebula, Planetary nebula, White dwarf, Sun, Astronomy, Radiation, Main sequence, Red giant, Supernova, Cosmic dust, Solar System, Stellar astronomy, Astrophysics, Applied and interdisciplinary physics, Physical universe, Space science, Stars, Nature, Physical sciences, Astronomical objects, Outer space]
 ---
 
 

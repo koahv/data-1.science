@@ -4,7 +4,7 @@ title: "Exploring the brain: New findings explain how eyes link to prefrontal co
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Attention, Neuroscience, Brain, Cognitive neuroscience, Cognition, Visual perception, Prefrontal cortex, Cerebral cortex, Psychology, Clinical psychology, neuropsychology, Behavioural sciences, Biology, Cognitive science, Neuropsychological assessment, Psychological concepts, Nervous system, Mental processes, Phenomenology, Epistemology, Neuropsychology]
 ---
 
 

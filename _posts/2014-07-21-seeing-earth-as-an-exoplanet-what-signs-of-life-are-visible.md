@@ -4,7 +4,7 @@ title: "Seeing Earth as an exoplanet: What signs of life are visible?"
 date: 2015-10-05
 categories: Science
 author: unknown author
-
+tags: [Moon, Solar eclipse, Milky Way, Astronomy, Sun, Exoplanet, European Southern Observatory, Atmosphere of Earth, Shadow, Lunar eclipse, Galaxy, Earth, Planet, Solar Dynamics Observatory, Star, Telescope, Extraterrestrial life, NASA, Sky, Terrestrial planet, Astrobiology, Water, Nature, Outer space, Physical sciences, Planetary science, Space science]
 ---
 
 

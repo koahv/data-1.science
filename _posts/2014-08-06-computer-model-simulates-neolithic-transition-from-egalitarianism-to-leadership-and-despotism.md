@@ -4,7 +4,7 @@ title: "Computer model simulates Neolithic transition from egalitarianism to lea
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Leadership, Human, Simulation, Research, Computer simulation, Evolution, Civilization]
 ---
 
 

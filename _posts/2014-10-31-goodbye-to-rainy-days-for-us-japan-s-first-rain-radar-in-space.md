@@ -4,7 +4,7 @@ title: "Goodbye to rainy days for US, Japan's first rain radar in space"
 date: 2015-12-04
 categories: Technology
 author: unknown author
-
+tags: [Tropical Rainfall Measuring Mission, Precipitation, Rain, Meteorology, Earth sciences, Atmospheric sciences, Physical geography, Sky]
 ---
 
 

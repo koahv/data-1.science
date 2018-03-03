@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CERN Replicates Post-Big-Bang Universe --"Quarks, Antiquarks and Gluons Over 4000 billion Degrees Temperature""
+title: "CERN Replicates Post-Big-Bang Universe --Quarks, Antiquarks and Gluons Over 4000 billion Degrees Temperature"
 date: 2015-12-22
 categories: Astronomy
 author: dailygalaxy.com

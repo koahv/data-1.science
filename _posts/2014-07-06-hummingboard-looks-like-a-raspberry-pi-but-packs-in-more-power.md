@@ -4,7 +4,7 @@ title: "“HummingBoard” looks like a Raspberry Pi but packs in more power"
 date: 2014-08-17
 categories: Tech
 author: Jon Brodkin
-
+tags: [Raspberry Pi, SolidRun, Operating system, ARM architecture, Digital technology, Computers, Computing, Computer hardware, Computer engineering, Computer architecture, Office equipment, Electronics, Technology, Electronic engineering, Classes of computers, Digital electronics]
 ---
 
 

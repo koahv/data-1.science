@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Cosmic Leapfrog" --Will China's Enormous 'Super Collider' Reveal Unknowns of the Universe? (A 'Galaxy' Insight)"
+title: "Cosmic Leapfrog --Will China's Enormous 'Super Collider' Reveal Unknowns of the Universe? (A 'Galaxy' Insight)"
 date: 2016-05-24
 categories: Astronomy
 author: dailygalaxy.com

@@ -4,7 +4,7 @@ title: "Schizophrenia and cannabis use may share common genes"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Schizophrenia, Kings College London, Institute of Psychiatry Psychology and Neuroscience, Cannabis (drug), Maudsley Hospital, Auditory hallucination, Health care, Health, Medicine, Medical specialties, Behavioural sciences, Psychiatry, Health sciences, Psychology, Clinical medicine, Mental health]
 ---
 
 

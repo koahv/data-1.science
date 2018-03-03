@@ -4,7 +4,7 @@ title: "US must play nice with China to put astronauts on Mars"
 date: 2014-06-22
 categories: Astronomy
 author: unknown author
-
+tags: [Human, Knuckle-walking]
 ---
 
 

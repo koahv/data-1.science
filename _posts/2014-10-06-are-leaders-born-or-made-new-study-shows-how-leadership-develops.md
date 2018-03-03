@@ -4,7 +4,7 @@ title: "Are leaders born or made? New study shows how leadership develops"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Leadership, Teacher, Learning, Management, Self-efficacy, Education, Motivation, Science, Distance education, Psychology, Psychological concepts, Cognition, Behavior modification, Behavioural sciences]
 ---
 
 

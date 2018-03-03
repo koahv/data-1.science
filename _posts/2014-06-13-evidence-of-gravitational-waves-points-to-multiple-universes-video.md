@@ -4,7 +4,7 @@ title: "Evidence of Gravitational Waves Points to Multiple Universes (VIDEO)"
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Multiverse, Universe, Inflation (cosmology), Physics, Big Bang, Astronomy, Academic discipline interactions, Natural philosophy, Philosophy, Physical quantities, Mechanics, Spacetime, Metaphysics, Cosmology, Physical cosmology, Science, Physical sciences]
 ---
 
 

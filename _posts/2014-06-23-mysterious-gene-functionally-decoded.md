@@ -4,7 +4,7 @@ title: "Mysterious gene functionally decoded"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Gene, Alternative splicing, RNA interference, Genetics, Regulation of gene expression, Gene expression, Huntingtin, Protein, Messenger RNA, Human, Biotechnology, Molecular biology, Life sciences, Biology, Organisms, Cell biology, Biochemistry]
 ---
 
 

@@ -4,7 +4,7 @@ title: "How Rosetta arrives at a comet"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Rosetta (spacecraft), Comet, Coma (cometary), Astronautics, Aerospace engineering, Space science, Spacecraft, Bodies of the Solar System, Flight, Physical sciences, Local Interstellar Cloud, Aerospace, Spaceflight technologies, Outer space, Spaceflight, Solar System, Astronomy]
 ---
 
 

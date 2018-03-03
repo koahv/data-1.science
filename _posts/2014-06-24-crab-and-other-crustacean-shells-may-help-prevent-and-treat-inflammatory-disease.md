@@ -4,7 +4,7 @@ title: "Crab and other crustacean shells may help prevent and treat inflammatory
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Inflammatory bowel disease, Crohns disease, Allergy, Florida Atlantic University, Inflammation, Medical specialties, Medicine, Health, Clinical medicine, Health sciences, Immunology, Diseases and disorders]
 ---
 
 

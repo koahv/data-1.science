@@ -4,7 +4,7 @@ title: "Earth’s Most Abundant Mineral Finally Gets a Name"
 date: 2014-06-24
 categories: Science
 author: Brian Clark Howard
-
+tags: [Silicate perovskite, Chemistry, Applied and interdisciplinary physics, Nature, Physical sciences]
 ---
 
 

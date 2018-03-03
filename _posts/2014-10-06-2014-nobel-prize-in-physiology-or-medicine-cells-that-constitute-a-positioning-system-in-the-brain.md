@@ -4,7 +4,7 @@ title: "2014 Nobel Prize in Physiology or Medicine: Cells that constitute a posi
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Place cell, Grid cell, Hippocampus, Psychological concepts, Neuroscience, Cognitive science, Cognition, Neuropsychological assessment, Neuropsychology, Brain, Mental processes, Epistemology, Nervous system]
 ---
 
 

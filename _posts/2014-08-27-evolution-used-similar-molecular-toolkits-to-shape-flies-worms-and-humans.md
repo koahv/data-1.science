@@ -4,7 +4,7 @@ title: "Evolution used similar molecular toolkits to shape flies, worms, and hum
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Human genome, Gene, Pseudogene, Human, DNA, Evolution, Transcription (biology), Genome, Biology, Life sciences, Science, Biotechnology, Organisms, Genetics]
 ---
 
 

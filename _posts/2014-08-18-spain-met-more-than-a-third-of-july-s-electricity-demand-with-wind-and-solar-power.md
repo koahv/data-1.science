@@ -4,7 +4,7 @@ title: "Spain Met More than a Third of July’s Electricity Demand with Wind and
 date: 2015-07-04
 categories: Energy
 author: Nicole Jewell
-
+tags: [Solar power, Wind power, Renewable energy, Energy development, Low-carbon power, Energy production, Electricity, Energy and the environment, Energy, Physical universe, Nature, Sustainable energy, Alternative energy, Renewable resources, Sustainable development, Sustainable technologies, Power (physics), Natural resources, Electric power, Energy sources]
 ---
 
 

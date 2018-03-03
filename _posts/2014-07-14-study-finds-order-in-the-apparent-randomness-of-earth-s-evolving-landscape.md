@@ -4,7 +4,7 @@ title: "Study finds order in the apparent randomness of Earth's evolving landsca
 date: 2015-10-03
 categories: Science
 author: unknown author
-
+tags: [Mars, Titan (moon), Planets of the Solar System, Physical sciences, Planetary science]
 ---
 
 

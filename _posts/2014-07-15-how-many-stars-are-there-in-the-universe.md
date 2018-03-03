@@ -4,7 +4,7 @@ title: "How many stars are there in the universe?"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Star, Milky Way, Naked eye, Night sky, Astronomy, Light pollution, Astronomical objects, Outer space, Physical sciences, Stars, Scientific observation]
 ---
 
 

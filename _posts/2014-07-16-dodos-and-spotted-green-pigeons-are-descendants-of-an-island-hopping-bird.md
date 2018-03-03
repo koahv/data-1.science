@@ -4,7 +4,7 @@ title: "Dodos and spotted green pigeons are descendants of an island hopping bir
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Spotted green pigeon, Dodo, Columbidae, Birds, Tetrapods, Columbiformes]
 ---
 
 

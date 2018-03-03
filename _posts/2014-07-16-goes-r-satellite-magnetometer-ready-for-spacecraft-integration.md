@@ -4,7 +4,7 @@ title: "GOES-R satellite Magnetometer ready for spacecraft integration"
 date: 2015-10-03
 categories: Science
 author: unknown author
-
+tags: [GOES-16, Space weather, Milky Way, Flight, Spacecraft, Outer space, Astronomy, Space science, Spaceflight, Spaceflight technologies, Nature, Astronautics, Physical sciences]
 ---
 
 

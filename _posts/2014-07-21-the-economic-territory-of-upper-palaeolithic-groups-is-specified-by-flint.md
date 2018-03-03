@@ -4,7 +4,7 @@ title: "The economic territory of Upper Palaeolithic groups is specified by flin
 date: 2015-07-16
 categories: Science
 author: unknown author
-
+tags: [Stone tool, San Sebastin, Paleolithic, Culture, Archaeology]
 ---
 
 

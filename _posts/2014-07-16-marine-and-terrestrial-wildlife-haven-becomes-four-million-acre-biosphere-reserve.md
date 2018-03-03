@@ -4,7 +4,7 @@ title: "Marine and terrestrial wildlife haven becomes four million-acre biospher
 date: 2015-10-03
 categories: Science
 author: unknown author
-
+tags: [Valdes Peninsula, Patagonia, Chubut Province, Wildlife Conservation Society, Pinniped, Southern right whale, Magellanic penguin]
 ---
 
 

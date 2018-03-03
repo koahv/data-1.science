@@ -4,7 +4,7 @@ title: "Scientists introduce new cosmic connectivity: Quantum pigeonhole paradox
 date: 2015-05-22
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Physics, Time, Time travel, Pigeonhole principle, Quantum nonlocality, Solid state engineering, Scientific theories, Particle physics, Cognitive science, Academic discipline interactions, Theoretical physics, Modern physics, Physical sciences, Science, Mechanics, Philosophy, Metaphysics]
 ---
 
 

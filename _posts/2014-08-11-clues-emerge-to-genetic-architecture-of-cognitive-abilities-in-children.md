@@ -4,7 +4,7 @@ title: "Clues emerge to genetic architecture of cognitive abilities in children"
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Genetics, Single-nucleotide polymorphism, Neuropsychiatry, Mental disorder, Cognition, Gene, Psychiatry, Research, Cognitive science, Biology, Neuroscience, Psychology, Behavioural sciences, Psychological concepts, Life sciences]
 ---
 
 

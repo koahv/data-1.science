@@ -4,7 +4,7 @@ title: "Play an Instrument? Musical Training Improves Brain Function"
 date: 2014-06-22
 categories: Science
 author: unknown author
-
+tags: [Executive functions, Functional magnetic resonance imaging, Research, Cognition, Phenomenology, neuropsychology, Cognitive neuroscience, Mental processes, Emergence, Clinical psychology, Applied psychology, Epistemology, Behavioral neuroscience, Behavioural sciences, Neuroscience, Cognitive science, Psychological concepts, Psychology, Neuropsychology, Nervous system, Neuropsychological assessment]
 ---
 
 

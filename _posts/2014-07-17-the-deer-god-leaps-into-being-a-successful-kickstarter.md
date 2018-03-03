@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""The Deer God" Leaps Into Being A Successful Kickstarter"
+title: "The Deer God Leaps Into Being A Successful Kickstarter"
 date: 2014-07-19
 categories: Linux VG
 author: unknown author
-
+tags: [Steam (software)]
 ---
 
 

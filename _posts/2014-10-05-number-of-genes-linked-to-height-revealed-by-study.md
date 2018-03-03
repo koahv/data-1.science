@@ -4,7 +4,7 @@ title: "Number of genes linked to height revealed by study"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Genome-wide association study, Genetics, Heritability, Gene, Life sciences, Biology]
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Q Continuum Project: Reveals "How Gravity Acts on Dark Matter of the Universe""
+title: "Q Continuum Project: Reveals How Gravity Acts on Dark Matter of the Universe"
 date: 2015-11-22
 categories: Astronomy
 author: dailygalaxy.com

@@ -4,7 +4,7 @@ title: "How hummingbirds evolved to detect sweetness"
 date: 2016-02-05
 categories: Science
 author: unknown author
-
+tags: [Taste, Sweetness, Hummingbird, Taste receptor, Perception, Biology]
 ---
 
 

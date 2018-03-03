@@ -4,7 +4,7 @@ title: "Birdsongs automatically decoded by computer scientists"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Bird, Birdwatching, Science, Website, World Wide Web, Bird vocalization, Technology, Cognitive science]
 ---
 
 

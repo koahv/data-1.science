@@ -4,7 +4,7 @@ title: "Still hot inside the Moon: Tidal heating in the deepest part of the luna
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Moon, Earth, Astronomy, Milky Way, Mantle (geology), Tide, Galaxy, Tidal force, Gravity, SELENE, Star, Saturn, Orbit, Sun, Orbit of the Moon, Internal structure of the Moon, Hubble Space Telescope, Planetary core, Physical sciences, Outer space, Space science, Planetary science]
 ---
 
 

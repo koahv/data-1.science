@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flickering Quasars --"Signal the Collision of Supermassive Black Holes""
+title: "Flickering Quasars --Signal the Collision of Supermassive Black Holes"
 date: 2015-09-19
 categories: Astronomy
 author: dailygalaxy.com

@@ -4,7 +4,7 @@ title: "U.S. Marine Corps Wants to Change OS for Radar System from Windows XP to
 date: 2015-06-29
 categories: Linux
 author: Softpedia News (Silviu Stahie)
-
+tags: [ANTPS-80 GroundAir Task Oriented Radar, Operating system, Linux, Microsoft Windows, Software, Technology, Computing]
 ---
 
 

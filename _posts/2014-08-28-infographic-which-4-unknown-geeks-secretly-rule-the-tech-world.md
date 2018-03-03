@@ -4,7 +4,7 @@ title: "Infographic:  Which 4 Unknown Geeks Secretly Rule the Tech World?"
 date: 2015-12-02
 categories: Technology
 author: kduffy
-
+tags: [Elon Musk, Technology]
 ---
 
 

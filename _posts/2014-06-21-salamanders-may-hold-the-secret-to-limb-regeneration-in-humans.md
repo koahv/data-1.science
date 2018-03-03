@@ -4,7 +4,7 @@ title: "Salamanders May Hold the Secret to Limb Regeneration in Humans"
 date: 2014-06-22
 categories: Science
 author: unknown author
-
+tags: [Regeneration (biology), Cell (biology), Biochemistry, Organisms, Biotechnology, Cell biology, Life sciences, Biology]
 ---
 
 

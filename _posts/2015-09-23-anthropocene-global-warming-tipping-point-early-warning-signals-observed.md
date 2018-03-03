@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anthropocene Global-Warming Tipping Point --"Early Warning Signals Observed""
+title: "Anthropocene Global-Warming Tipping Point --Early Warning Signals Observed"
 date: 2015-09-29
 categories: Astronomy
 author: dailygalaxy.com

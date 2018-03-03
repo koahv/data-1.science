@@ -4,7 +4,7 @@ title: "Extreme volcanism: Image captures 1 of the brightest volcanoes in the so
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Gemini Observatory, Io (moon), Volcano, Observatory, Types of volcanic eruptions, Science, Space science, Planetary science, Physical sciences, Outer space, Astronomy]
 ---
 
 

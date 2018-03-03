@@ -4,7 +4,7 @@ title: "Highest altitude archaeological sites in the world explored in the Peruv
 date: 2015-07-16
 categories: Science
 author: unknown author
-
+tags: [Human, Archaeology, Adaptation, Hunting, Natural environment, American Association for the Advancement of Science, Tool]
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neutron Star Jets Near Speed of Light --"Rival Those of Black Holes""
+title: "Neutron Star Jets Near Speed of Light --Rival Those of Black Holes"
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com

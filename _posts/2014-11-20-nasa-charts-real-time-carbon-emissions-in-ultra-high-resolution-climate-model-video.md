@@ -4,7 +4,7 @@ title: "NASA Charts Real-Time Carbon Emissions in Ultra High-Resolution Climate 
 date: 2015-07-17
 categories: Technology
 author: Lidija Grozdanic
-
+tags: [Greenhouse gas, Orbiting Carbon Observatory 2, Greenhouse effect, Atmosphere of Earth, Physical sciences, Global environmental issues, Planetary science, Meteorology, Climate change, Atmospheric sciences, Physical geography, Climatology, Future problems, Earth sciences]
 ---
 
 

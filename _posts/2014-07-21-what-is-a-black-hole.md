@@ -4,7 +4,7 @@ title: "What is a black hole?"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Gravity, Spacetime, Black hole, Space, Event horizon, Astronomy, Modern physics, Science, Quantity, Mathematical physics, Gravitation, Natural philosophy, Theory of relativity, Force, Physics, Physical sciences, Mechanics, Physical quantities, Physical cosmology, Theoretical physics, Classical mechanics, Scientific theories, Applied and interdisciplinary physics, Mass, Motion (physics), Mechanical engineering]
 ---
 
 

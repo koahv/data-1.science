@@ -4,7 +4,7 @@ title: "Researchers use NASA and other data to look into the heart of a solar st
 date: 2015-12-02
 categories: Technology
 author: unknown author
-
+tags: [Coronal mass ejection, Sun, Space weather, Outer space, Magnetosphere, Solar and Heliospheric Observatory, Spaceflight, Space science, Astronomy, Physical sciences, Nature, Solar System, Planetary science, Bodies of the Solar System, Applied and interdisciplinary physics]
 ---
 
 

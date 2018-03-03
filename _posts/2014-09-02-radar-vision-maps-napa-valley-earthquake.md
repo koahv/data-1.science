@@ -4,7 +4,7 @@ title: "Radar vision maps Napa Valley earthquake"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Sentinel-1A, Earthquake, Sentinel-1, Interferometric synthetic-aperture radar, Spaceflight, Earth sciences, Outer space]
 ---
 
 

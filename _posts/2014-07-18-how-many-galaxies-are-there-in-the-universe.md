@@ -4,7 +4,7 @@ title: "How many galaxies are there in the universe?"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Galaxy, Hubble Space Telescope, Observable universe, Universe, Dark matter, Star, Space Telescope Science Institute, Astronomy, Physical sciences, Outer space, Astronomical objects, Physical cosmology, Cosmology]
 ---
 
 

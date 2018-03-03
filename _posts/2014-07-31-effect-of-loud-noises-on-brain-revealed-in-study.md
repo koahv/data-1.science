@@ -4,7 +4,7 @@ title: "Effect of loud noises on brain revealed in study"
 date: 2015-10-02
 categories: Science
 author: unknown author
-
+tags: [Noise-induced hearing loss, Sound, Hearing, Noise, Hearing loss, Senses, Cognition, Neuropsychological assessment, Neuroscience, Nervous system, Cognitive science, Psychological concepts]
 ---
 
 

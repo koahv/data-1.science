@@ -4,7 +4,7 @@ title: "Quantum Computing May Mean Quantum Robotics: The Creative and Smart Robo
 date: 2015-05-22
 categories: Science
 author: unknown author
-
+tags: [Computing, Robot, Artificial intelligence, Research, Information technology, Quantum computing, Intelligence, Learning, Cybernetics, Areas of computer science, Applied mathematics, Cognition, Science and technology, Technology, Cognitive science, Artificial objects, Science, Systems science]
 ---
 
 

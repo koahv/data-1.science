@@ -4,7 +4,7 @@ title: "Lichens can survive space conditions for extended periods"
 date: 2016-03-28
 categories: Science
 author: unknown author
-
+tags: [Outer space, Galaxy, Astronomy, Milky Way, Panspermia, Mars, Astrobiology, Planetary science, Astronomical objects, Space science, Nature, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "How worms crawl: mathematical model challenges traditional view"
 date: 2016-02-05
 categories: Science
 author: unknown author
-
+tags: [Earthworm, Central pattern generator, Science, Technology, Cognition, Cognitive science]
 ---
 
 

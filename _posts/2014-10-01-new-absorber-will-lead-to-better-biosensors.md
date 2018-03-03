@@ -4,7 +4,7 @@ title: "New absorber will lead to better biosensors"
 date: 2015-07-24
 categories: Technology
 author: unknown author
-
+tags: [Biosensor, Applied and interdisciplinary physics, Natural philosophy, Atomic molecular and optical physics, Artificial objects, Electromagnetic radiation, Optics, Materials science, Physical chemistry, Materials, Physical sciences, Chemistry]
 ---
 
 

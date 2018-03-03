@@ -4,7 +4,7 @@ title: "Mental rest and reflection boost learning, study suggests"
 date: 2016-03-28
 categories: Science
 author: unknown author
-
+tags: [Memory, Learning, Mind, Psychological concepts, Cognitive neuroscience, Emergence, Phenomenology, Psychology, Neuropsychology, Epistemology, Neuropsychological assessment, Cognition, Cognitive science, Mental processes, Neuroscience]
 ---
 
 

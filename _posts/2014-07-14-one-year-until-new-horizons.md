@@ -4,7 +4,7 @@ title: "One Year Until New Horizons"
 date: 2015-07-14
 categories: Astronomy
 author: Maria Temming
-
+tags: [Pluto, New Horizons, Kuiper belt, Charon (moon), Ocean, Hubble Space Telescope, Spaceflight, Physical sciences, Bodies of the Solar System, Space science, Solar System, Planetary science, Outer space, Astronomy]
 ---
 
 

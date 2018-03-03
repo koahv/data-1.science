@@ -4,7 +4,7 @@ title: "eWeek: Linux Foundation Debuts Linux Certification Effort"
 date: 2015-06-05
 categories: Linux
 author: Linux_Foundation
-
+tags: [Linux Foundation, Linus Torvalds, Linux organizations]
 ---
 
 

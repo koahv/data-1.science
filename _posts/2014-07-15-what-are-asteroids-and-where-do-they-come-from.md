@@ -4,7 +4,7 @@ title: "What are asteroids and where do they come from?"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Asteroid, Solar System, Near-Earth object, Jupiter trojan, Planet, Formation and evolution of the Solar System, Astronomy, Planetary science, Space science, Outer space, Bodies of the Solar System, Astronomical objects, Physical sciences, Local Interstellar Cloud, Planets, Planets of the Solar System]
 ---
 
 

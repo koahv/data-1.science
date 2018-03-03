@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Message from the Big Bang --"Confirms Quantum Origin of the Universe""
+title: "Message from the Big Bang --Confirms Quantum Origin of the Universe"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com

@@ -4,7 +4,7 @@ title: "'Big picture' thinking doesn't always lead people to indulge less, study
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Self-control, Psychological concepts, Psychology, Behavioural sciences, Cognition, Action (philosophy)]
 ---
 
 

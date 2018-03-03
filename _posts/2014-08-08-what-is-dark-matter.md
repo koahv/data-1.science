@@ -4,7 +4,7 @@ title: "What is dark matter?"
 date: 2014-08-10
 categories: Astronomy
 author: Maria Temming
-
+tags: [Dark matter, Universe, Galaxy, Observable universe, Weakly interacting massive particles, Matter, Gravity, Gravitational lens, Star, Astronomy, Physical sciences, Physics, Physical cosmology, Cosmology, Mechanics, Particle physics, Applied and interdisciplinary physics, Spacetime, Theoretical physics, Science, Physical quantities, Outer space, Natural philosophy, Nature, Physical universe]
 ---
 
 

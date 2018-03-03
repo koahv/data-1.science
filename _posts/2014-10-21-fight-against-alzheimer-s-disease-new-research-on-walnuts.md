@@ -4,7 +4,7 @@ title: "Fight against Alzheimer's disease: New research on walnuts"
 date: 2016-03-28
 categories: Science
 author: unknown author
-
+tags: [Alzheimers disease, Nervous system, Medical specialties, Neuroscience, Health]
 ---
 
 

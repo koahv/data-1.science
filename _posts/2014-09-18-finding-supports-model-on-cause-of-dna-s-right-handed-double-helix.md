@@ -4,7 +4,7 @@ title: "Finding supports model on cause of DNA's right-handed double helix"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [DNA, RNA, Nucleic acid double helix, Chirality, Physics, Abiogenesis, Life, RNA world, Science, Electron, Ribosome, Evolution, Enzyme, Metabolism, Protein, Optics, Amino acid, Biology, Nature, Physical sciences, Chemistry]
 ---
 
 

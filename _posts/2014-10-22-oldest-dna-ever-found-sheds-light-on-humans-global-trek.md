@@ -4,7 +4,7 @@ title: "Oldest DNA ever found sheds light on humans' global trek"
 date: 2016-03-29
 categories: Science
 author: unknown author
-
+tags: [Neanderthal, Human, Homo sapiens, Archaic human admixture with modern humans, Evolution, Biology]
 ---
 
 

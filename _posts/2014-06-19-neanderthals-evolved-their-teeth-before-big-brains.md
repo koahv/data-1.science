@@ -4,7 +4,7 @@ title: "Neanderthals evolved their teeth before big brains"
 date: 2014-06-22
 categories: Science
 author: unknown author
-
+tags: [Human, Knuckle-walking]
 ---
 
 

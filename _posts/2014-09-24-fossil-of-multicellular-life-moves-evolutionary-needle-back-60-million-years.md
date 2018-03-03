@@ -4,7 +4,7 @@ title: "Fossil of multicellular life moves evolutionary needle back 60 million y
 date: 2015-07-16
 categories: Science
 author: unknown author
-
+tags: [Animal, Multicellular organism, Fossil, Cell (biology), Life, Organism, Geobiology, Doushantuo Formation, Life sciences, Biology, Nature, Organisms]
 ---
 
 

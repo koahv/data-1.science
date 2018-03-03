@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Before DNA --"The Search Heats Up For Possible Ancestors to Life on Earth""
+title: "Before DNA --The Search Heats Up For Possible Ancestors to Life on Earth"
 date: 2016-05-17
 categories: Astronomy
 author: dailygalaxy.com

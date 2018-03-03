@@ -4,7 +4,7 @@ title: "Deep within spinach leaves, vibrations enhance efficiency of photosynthe
 date: 2015-06-01
 categories: Energy
 author: unknown author
-
+tags: [Photosynthesis, Energy, Life, Photosystem, Photosynthetic reaction centre, Molecule, Biophysics, Photosystem II, Energy transformation, Biology, Applied and interdisciplinary physics, Nature, Chemistry, Physical sciences]
 ---
 
 

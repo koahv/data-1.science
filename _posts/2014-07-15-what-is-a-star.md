@@ -4,7 +4,7 @@ title: "What is a star?"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Star, Sun, Outer space, Astronomy, Physical sciences, Astronomical objects, Stars, Stellar astronomy, Nature, Applied and interdisciplinary physics, Physics, Physical phenomena]
 ---
 
 

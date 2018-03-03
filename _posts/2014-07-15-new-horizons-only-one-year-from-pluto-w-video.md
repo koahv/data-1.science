@@ -4,7 +4,7 @@ title: "New Horizons only one year from Pluto (w/ Video)"
 date: 2015-07-14
 categories: Science
 author: unknown author
-
+tags: [New Horizons, Pluto, Charon (moon), Astronomy, Milky Way, NASA, Star, Physical sciences, Spaceflight, Outer space, Bodies of the Solar System, Astronomical objects, Solar System, Space science, Planetary science]
 ---
 
 

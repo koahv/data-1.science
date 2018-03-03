@@ -3,10 +3,12 @@ layout: post
 title: "Mars, too, has macroweather"
 date: 2015-07-20
 categories: Science
-Science
 Astronomy
+Science
 author: unknown author
-
+tags: [Weather, Mars, Planet, Saturn, Sun, Outer space, Planetary science, Astronomy, Planets of the Solar System, Space science, Planets, Solar System, Physical sciences, Bodies of the Solar System, Substellar objects, Planemos, Astronomical objects
+Weather, Mars, Planet, Saturn, Sun, Outer space, Planetary science, Astronomy, Planets of the Solar System, Space science, Planets, Solar System, Physical sciences, Bodies of the Solar System, Substellar objects, Planemos, Astronomical objects
+Weather, Mars, Planet, Saturn, Sun, Outer space, Planetary science, Astronomy, Planets of the Solar System, Space science, Planets, Solar System, Physical sciences, Bodies of the Solar System, Substellar objects, Planemos, Astronomical objects]
 ---
 
 

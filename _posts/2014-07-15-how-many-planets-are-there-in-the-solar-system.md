@@ -4,7 +4,7 @@ title: "How many planets are there in the Solar System?"
 date: 2015-07-14
 categories: Astronomy
 author: Maria Temming
-
+tags: [Planet, Dwarf planet, Solar System, Pluto, Sun, Kuiper belt, Jupiter, Physical sciences, Astronomical objects, Planemos, Planets, Local Interstellar Cloud, Space science, Substellar objects, Bodies of the Solar System, Astronomy, Outer space, Planetary science]
 ---
 
 

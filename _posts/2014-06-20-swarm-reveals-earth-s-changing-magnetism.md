@@ -4,7 +4,7 @@ title: "Swarm reveals Earth’s changing magnetism"
 date: 2014-06-22
 categories: Science
 author: unknown author
-
+tags: [Swarm (spacecraft), Space weather, Earth, Earths magnetic field, European Space Agency, Space science, Spaceflight, Planetary science, Physical sciences, Outer space]
 ---
 
 

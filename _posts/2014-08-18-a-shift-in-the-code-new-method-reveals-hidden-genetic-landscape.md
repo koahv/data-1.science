@@ -4,7 +4,7 @@ title: "A shift in the code: New method reveals hidden genetic landscape"
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Frameshift mutation, Mutation, Genome, Human genome, Deletion (genetics), Cold Spring Harbor Laboratory, Genetics, Life sciences, Biotechnology, Organisms, Biology]
 ---
 
 

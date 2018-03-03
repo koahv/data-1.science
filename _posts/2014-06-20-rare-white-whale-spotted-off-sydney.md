@@ -4,7 +4,7 @@ title: "Rare white whale spotted off Sydney"
 date: 2014-06-22
 categories: Science
 author: unknown author
-
+tags: [Humpback whale, Whale watching, Whale, Cetaceans, Marine mammals]
 ---
 
 

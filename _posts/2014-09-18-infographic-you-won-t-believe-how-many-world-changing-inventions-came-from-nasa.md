@@ -4,7 +4,7 @@ title: "INFOGRAPHIC: You Won’t Believe How Many World-Changing Inventions Came
 date: 2015-07-17
 categories: Technology
 author: Inhabitat
-
+tags: [Technology, Computing, Cyberspace]
 ---
 
 

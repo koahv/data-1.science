@@ -4,7 +4,7 @@ title: "Fingerprinting the formation of giant planets"
 date: 2015-10-03
 categories: Science
 author: unknown author
-
+tags: [Planet, Star, Astronomy, Milky Way, Planetary core, Galaxy, Nebular hypothesis, Planetary science, Physical sciences, Outer space, Astronomical objects, Space science, Stellar astronomy, Stars]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Pharmacology: Serotonin receptor structure revealed"
 date: 2015-10-02
 categories: Science
 author: unknown author
-
+tags: [Receptor (biochemistry), Serotonin, Neurotransmitter, Nervous system, Biochemistry, Biology, Neuroscience, Molecular biology]
 ---
 
 

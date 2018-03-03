@@ -4,7 +4,7 @@ title: "NASA Announces Mars 2020 Rover Payload to Explore the Red Planet as Neve
 date: 2015-09-09
 categories: Technology
 author: mfassbender
-
+tags: [Mars 2020, Mars, Rover (space exploration), Exploration of Mars, ExoMars, Curiosity (rover), Astronomy, Spacecraft, Outer space, Spaceflight, Astronautics, Flight, Space science, Planetary science, Discovery and exploration of the Solar System, Solar System, Space exploration, Planets of the Solar System]
 ---
 
 

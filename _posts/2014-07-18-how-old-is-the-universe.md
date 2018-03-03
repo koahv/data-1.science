@@ -4,7 +4,7 @@ title: "How old is the universe?"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Wilkinson Microwave Anisotropy Probe, Cosmic microwave background, Big Bang, Planck (spacecraft), Natural philosophy, Astrophysics, Science, Scientific observation, Applied and interdisciplinary physics, Spacetime, Physical quantities, Physical sciences, Astronomy, Physical cosmology, Cosmology, Physics, Outer space]
 ---
 
 

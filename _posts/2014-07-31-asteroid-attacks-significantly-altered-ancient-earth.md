@@ -4,7 +4,7 @@ title: "Asteroid attacks significantly altered ancient Earth"
 date: 2015-09-04
 categories: Astronomy
 author: unknown author
-
+tags: [Earth, Plate tectonics, Moon, Impact event, Geology, Late Heavy Bombardment, Planetary science, Space science, Outer space, Physical sciences, Astronomy, Earth sciences, Nature, Planets of the Solar System, Solar System]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Scientists experimentally re-create conditions deep inside giant planets
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [National Ignition Facility, Giant planet, Planet, Lawrence Livermore National Laboratory, Solar System, Space science, Nature, Science, Astronomy, Planetary science, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Researchers identify key components of the cellular engine in living cel
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Vinculin, Focal adhesion, Talin protein, Actin, Cell adhesion, Cell (biology), Cell migration, Cytoskeleton, Cell biology, Life sciences, Biochemistry, Molecular biology, Biology]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Closer and closer"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Rosetta (spacecraft), Pixel, Imaging, Optics, Solar System, Outer space, Photography, Astronomy, Spaceflight, Spacecraft, Bodies of the Solar System]
 ---
 
 

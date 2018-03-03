@@ -4,7 +4,7 @@ title: "'Spectacular' image shows planet formation in action"
 date: 2016-03-29
 categories: Science
 author: unknown author
-
+tags: [Atacama Large Millimeter Array, European Southern Observatory, Star, Planet, Planetary science, Astronomy, Physical sciences, Space science, Outer space, Astronomical objects, Physics, Science]
 ---
 
 

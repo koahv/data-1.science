@@ -4,7 +4,7 @@ title: "Microbial Life and Active Ecosystem Found in Antarctica Lake that Hasn't
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Antarctica, Microorganism, Natural environment, Life, Lake Whillans, Earth, Organism, Nature, Subglacial lake, Lake, Archaea, Earth sciences, Organisms, Biology]
 ---
 
 

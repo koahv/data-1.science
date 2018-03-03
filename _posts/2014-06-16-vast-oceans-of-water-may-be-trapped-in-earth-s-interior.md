@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""Vast Oceans of Water May be Trapped in Earth's Interior""
+title: "Vast Oceans of Water May be Trapped in Earth's Interior"
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Mantle (geology), Ringwoodite, Geophysics, Earthquake, Magma, Properties of water, Water, Seismology, Earth, Diamond, Nature, Physical sciences, Applied and interdisciplinary physics, Geology, Earth sciences, Planetary science]
 ---
 
 

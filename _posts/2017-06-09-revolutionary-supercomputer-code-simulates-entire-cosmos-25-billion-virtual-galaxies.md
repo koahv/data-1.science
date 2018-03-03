@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revolutionary Supercomputer Code Simulates Entire Cosmos --"25 Billion Virtual Galaxies""
+title: "Revolutionary Supercomputer Code Simulates Entire Cosmos --25 Billion Virtual Galaxies"
 date: 2017-09-12
 categories: Astronomy
 author: dailygalaxy.com

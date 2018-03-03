@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Top Candidates for Alien Life: "Rocky Planets With Magnetic Fields Orbiting Small Stars""
+title: "Top Candidates for Alien Life: Rocky Planets With Magnetic Fields Orbiting Small Stars"
 date: 2015-09-30
 categories: Astronomy
 author: dailygalaxy.com

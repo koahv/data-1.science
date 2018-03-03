@@ -4,7 +4,7 @@ title: "Origins of Jupiter's Vast Magnetic Field Deciphered"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Planet, Jupiter, Solar System, Sun, Earth, Dynamo theory, Space science, Physical sciences, Astronomy, Planetary science, Outer space, Physics]
 ---
 
 

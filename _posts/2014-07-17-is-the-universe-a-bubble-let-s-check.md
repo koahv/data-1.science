@@ -4,7 +4,7 @@ title: "Is the universe a bubble? Let's check"
 date: 2015-10-03
 categories: Science
 author: unknown author
-
+tags: [Universe, Multiverse, Science, Theory, Inflation (cosmology), Reality, Physics, Big Bang, Quantum mechanics, Cosmic microwave background, Cold fusion, Mathematics, Falsifiability, Reason, Hypothesis, Infinity, Academic discipline interactions, Epistemology, Physical sciences, Cognitive science, Theoretical philosophy, Metaphysics, Philosophy]
 ---
 
 

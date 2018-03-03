@@ -4,7 +4,7 @@ title: "Superconducting-silicon qubits"
 date: 2014-08-18
 categories: Energy
 author: unknown author
-
+tags: [Superconductivity, Doping (semiconductor), Semiconductor, Electron, Quantum tunnelling, SQUID, Silicon, Superconducting tunnel junction, Spin (physics), Quantum mechanics, Electricity, Electronic engineering, Electrical resistance and conductance, Electronics, Condensed matter physics, Electromagnetism, Materials science, Physics, Materials, Condensed matter, Chemistry, Applied and interdisciplinary physics, Manufacturing, Solid state engineering, Physical sciences]
 ---
 
 

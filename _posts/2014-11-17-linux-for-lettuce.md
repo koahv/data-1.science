@@ -4,7 +4,7 @@ title: "Linux for lettuce"
 date: 2015-06-02
 categories: Open Source
 author: Lisa M. Hamilton
-
+tags: [Plant breeding, Patent, Intellectual property, Open Source Seed Initiative]
 ---
 
 

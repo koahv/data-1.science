@@ -4,7 +4,7 @@ title: "Scientists Discover Dying Sun-Like Stars Hold Molecule Vital for Creatin
 date: 2014-06-22
 categories: Science
 author: unknown author
-
+tags: [Star, Astronomy, Planetary nebula, Nebula, Radiation, White dwarf, Sun, Interstellar medium, Physical universe, Physical sciences, Nature, Outer space, Astronomical objects, Applied and interdisciplinary physics, Stars, Stellar astronomy, Chemistry]
 ---
 
 

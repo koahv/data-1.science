@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Alien Venus: ExoPlanet "Hell" --1,000 KPH Winds and 3,000 Degree Atmosphere"
+title: "An Alien Venus: ExoPlanet Hell --1,000 KPH Winds and 3,000 Degree Atmosphere"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com

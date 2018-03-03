@@ -4,7 +4,7 @@ title: "Using silicon dioxide as a binding layer for replacement bone prosthetic
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Dental implant, Lithium-ion battery, Joint replacement, Nanotechnology, Implant (medicine), Carbon nanotube, Titanium, Metal, Chemistry, Materials, Manufacturing, Artificial objects, Artificial materials]
 ---
 
 

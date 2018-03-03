@@ -4,7 +4,7 @@ title: "Gene that plays a surprising role in combating aging identified"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Autophagy, Senescence, TP53, Organisms, Biochemistry, Molecular biology, Cell biology, Genetics, Biotechnology, Life sciences, Biology]
 ---
 
 

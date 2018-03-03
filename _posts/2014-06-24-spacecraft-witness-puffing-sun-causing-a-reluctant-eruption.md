@@ -4,7 +4,7 @@ title: "Spacecraft Witness 'Puffing' Sun Causing a Reluctant Eruption"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Corona, Sun, Solar flare, Outer space, Astronomy, Plasma physics, Physical universe, Astrophysics, Space science, Physical phenomena, Applied and interdisciplinary physics, Physics, Nature, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Inbox: Announcing an Open Source Platform for Email Applications"
 date: 2014-07-10
 categories: Linux
 author: OStatic
-
+tags: [Linux people, Software, Computing, Linux, Linus Torvalds, Free software, System software, Unix variants, Digital media, Linux Foundation]
 ---
 
 

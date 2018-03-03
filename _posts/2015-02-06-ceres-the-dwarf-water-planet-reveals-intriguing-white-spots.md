@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ceres --The Dwarf "Water Planet" Reveals Intriguing White Spots"
+title: "Ceres --The Dwarf Water Planet Reveals Intriguing White Spots"
 date: 2015-07-14
 categories: Astronomy
 author: dailygalaxy.com

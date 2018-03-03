@@ -4,7 +4,7 @@ title: "Construction to begin in Hawaii on world's most advanced telescope"
 date: 2015-09-04
 categories: Astronomy
 author: unknown author
-
+tags: [Thirty Meter Telescope, Astronomical objects, Science, Outer space, Physical sciences, Astronomy]
 ---
 
 

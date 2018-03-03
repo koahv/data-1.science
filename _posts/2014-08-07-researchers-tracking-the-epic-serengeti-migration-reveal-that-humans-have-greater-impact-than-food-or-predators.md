@@ -4,7 +4,7 @@ title: "Researchers tracking the epic Serengeti migration reveal that humans hav
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Wildebeest, Serengeti, Animal migration, Serengeti National Park]
 ---
 
 

@@ -4,7 +4,7 @@ title: "8,000-year-old mutation key to human life at high altitudes: Study ident
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Genetics, Mutation, Evolution, Adaptation, Biology, Life sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "800 meters beneath Antarctic ice sheet, subglacial lake holds viable mic
 date: 2015-07-04
 categories: Science
 author: unknown author
-
+tags: [Lake Vostok, Antarctica, Earth sciences, Nature, Natural environment, Physical geography]
 ---
 
 

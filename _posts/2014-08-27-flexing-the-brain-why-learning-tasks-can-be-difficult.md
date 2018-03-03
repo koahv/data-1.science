@@ -4,7 +4,7 @@ title: "Flexing the brain: Why learning tasks can be difficult"
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Nervous system, Brain, Braincomputer interface, Neuroscience, Cognitive science, Cognition, Neuropsychological assessment, Neuropsychology, Psychological concepts]
 ---
 
 

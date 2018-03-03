@@ -4,7 +4,7 @@ title: "Some plants regenerate by duplicating their DNA"
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Genome, Polyploid, Plant, Genetics, Gene duplication, Arabidopsis thaliana, Gene, Life sciences, Biology, Organisms, Nature]
 ---
 
 

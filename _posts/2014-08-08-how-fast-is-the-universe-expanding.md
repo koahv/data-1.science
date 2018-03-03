@@ -4,7 +4,7 @@ title: "How fast is the universe expanding?"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Cosmic distance ladder, Cepheid variable, Parsec, Galaxy, Milky Way, Hubble Space Telescope, Variable star, Andromeda Galaxy, Astronomical objects, Physical cosmology, Outer space, Physical sciences, Cosmology, Astronomy, Physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Strange physics turns off laser"
 date: 2014-06-24
 categories: Energy
 author: unknown author
-
+tags: [Laser, Light, Quantum mechanics, Optics, Research, Computer, Symmetry, Physical sciences, Natural philosophy, Mechanics, Science, Applied and interdisciplinary physics, Physics]
 ---
 
 

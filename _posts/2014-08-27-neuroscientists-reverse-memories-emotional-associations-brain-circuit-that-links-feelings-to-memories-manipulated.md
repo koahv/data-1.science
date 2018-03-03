@@ -4,7 +4,7 @@ title: "Neuroscientists reverse memories' emotional associations: Brain circuit 
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Memory, Hippocampus, Amygdala, Engram (neuropsychology), Neuroscience, Susumu Tonegawa, Emotion, Brain, Behavioral neuroscience, Biology, Psychology, Behavioural sciences, Clinical psychology, Mental processes, Cognitive neuroscience, Cerebrum, Neuropsychological assessment, Psychological concepts, Neuropsychology, Cognition, Nervous system, Cognitive science, Limbic system]
 ---
 
 

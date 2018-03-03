@@ -4,7 +4,7 @@ title: "Bats bolster brain hypothesis, maybe technology, too"
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Animal echolocation, James A Simmons, Bat, Perception, Cognitive science]
 ---
 
 

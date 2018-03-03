@@ -4,7 +4,7 @@ title: "NASA Amassing Targets for Asteroid Mission"
 date: 2014-06-23
 categories: Astronomy
 author: Monica Young
-
+tags: [Asteroid, NASA, Asteroid Redirect Mission, Spitzer Space Telescope, 25143 Itokawa, Flight, Outer space, Spaceflight, Astronautics, Astronomy, Space science, Planetary science, Solar System, Spaceflight technologies, Bodies of the Solar System, Spacecraft, Aerospace engineering]
 ---
 
 

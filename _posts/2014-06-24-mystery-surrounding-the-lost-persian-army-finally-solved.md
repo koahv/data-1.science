@@ -4,7 +4,7 @@ title: "Mystery Surrounding the Lost Persian Army Finally Solved"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Cambyses II, Petubastis III, Achaemenid Empire, Ancient Egypt]
 ---
 
 

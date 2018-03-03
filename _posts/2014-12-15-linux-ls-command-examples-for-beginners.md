@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux "ls" command examples for beginners"
+title: "Linux ls command examples for beginners"
 date: 2015-07-03
 categories: Linux
 author: unknown author

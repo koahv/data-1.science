@@ -4,7 +4,7 @@ title: "High–tech imaging stamps on Queensland dinosaur stampede theory"
 date: 2015-01-20
 categories: Science
 author: unknown author
-
+tags: [Lark Quarry Dinosaur Trackways, Dinosaur]
 ---
 
 

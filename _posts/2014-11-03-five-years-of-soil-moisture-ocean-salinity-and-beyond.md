@@ -4,7 +4,7 @@ title: "Five years of soil moisture, ocean salinity and beyond"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Soil Moisture and Ocean Salinity, European Centre for Medium-Range Weather Forecasts, Weather forecasting, Nature, Physical sciences, Atmospheric sciences, Meteorology, Applied and interdisciplinary physics, Physical geography, Oceanography, Earth sciences]
 ---
 
 

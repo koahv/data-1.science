@@ -4,7 +4,7 @@ title: "Image of the Day: Stunning 3-D Photo of Mars"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Physical sciences, Solar System, Space science, Planetary science, Astronomy, Outer space]
 ---
 
 

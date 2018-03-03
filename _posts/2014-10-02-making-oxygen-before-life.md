@@ -4,7 +4,7 @@ title: "Making oxygen before life"
 date: 2015-07-20
 categories: Science
 author: unknown author
-
+tags: [Carbon dioxide, Oxygen, Atmosphere of Earth, Photosynthesis, Ultraviolet, Carbon, Nature, Chemistry, Physical sciences]
 ---
 
 

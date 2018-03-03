@@ -4,7 +4,7 @@ title: "What Would You See if You Traveled into a Wormhole (and Survived)?"
 date: 2015-07-14
 categories: Astronomy
 author: Jaime Trosper
-
+tags: [Internet Standards, Internet architecture, Internet, Internet protocols, IT infrastructure, Communications protocols, Networking standards, Cyberspace, Network protocols, Computer networking]
 ---
 
 

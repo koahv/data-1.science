@@ -4,7 +4,7 @@ title: "Near-death experiences? Results of the world's largest medical study of 
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Out-of-body experience, Mental processes, Metaphysics of mind, Emergence, neuropsychology, Phenomenology, Nervous system, Epistemology, Behavioural sciences, Clinical psychology, Neuropsychology, Neuropsychological assessment, Psychological concepts, Psychology, Cognition, Cognitive science, Neuroscience]
 ---
 
 

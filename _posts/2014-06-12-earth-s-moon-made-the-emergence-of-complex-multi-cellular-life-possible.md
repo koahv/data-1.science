@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Earth's Moon --"Made the Emergence of Complex Multi-Cellular Life Possible""
+title: "Earth's Moon --Made the Emergence of Complex Multi-Cellular Life Possible"
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Moon, Earth, Plate tectonics, Ocean, Planet, Tide, Eclipse, Tidal force, Impact event, Sun, Lunar phase, Life, Crust (geology), Late Heavy Bombardment, Sea, Mars, Earth sciences, Outer space, Nature, Astronomy, Physical sciences, Planetary science, Space science, Planets of the Solar System]
 ---
 
 

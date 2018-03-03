@@ -4,7 +4,7 @@ title: "Getting more out of nature: Genetic toolkit finds new maximum for crop y
 date: 2016-03-29
 categories: Science
 author: unknown author
-
+tags: [Tomato, Cold Spring Harbor Laboratory, Plant breeding, Plant, Flower, Mutation, Genetics, Biology, Agriculture]
 ---
 
 

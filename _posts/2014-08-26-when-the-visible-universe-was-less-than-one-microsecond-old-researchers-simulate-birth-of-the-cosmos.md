@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""When the Visible Universe was Less than One Microsecond Old" --Researchers Simulate Birth of the Cosmos"
+title: "When the Visible Universe was Less than One Microsecond Old --Researchers Simulate Birth of the Cosmos"
 date: 2015-05-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Quark, Gluon, Strong interaction, Modern physics, Particle physics, Theoretical physics, Quantum field theory, Physical sciences, Quantum mechanics, Mechanics, Standard Model, Quantum chromodynamics, Physical universe, Nuclear physics, Physical cosmology, Scientific theories, Science, Physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Risks to penguin populations analyzed"
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Habitat destruction, Conservation biology, Human impact on the environment, Environmental degradation, Pollution, Climate change, Environmental social science, Biogeochemistry, Earth sciences, Systems ecology, Natural environment, Environmental science, Ecology]
 ---
 
 

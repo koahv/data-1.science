@@ -4,7 +4,7 @@ title: "Curiosity travels through ancient glaciers on Mars"
 date: 2014-06-29
 categories: Science
 author: unknown author
-
+tags: [Mars, Water on Mars, Gale (crater), Glacier, Mount Sharp, Mars Reconnaissance Orbiter, Spaceflight, Discovery and exploration of the Solar System, Space science, Astronautics, Bodies of the Solar System, Solar System, Outer space, Planetary science, Planets of the Solar System]
 ---
 
 

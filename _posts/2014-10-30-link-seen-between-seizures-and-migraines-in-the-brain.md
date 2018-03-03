@@ -4,7 +4,7 @@ title: "Link seen between seizures and migraines in the brain"
 date: 2015-12-04
 categories: Technology
 author: unknown author
-
+tags: [Neuron, Brain, Ion, Electricity, Energy, American Association for the Advancement of Science, Physics, Epileptic seizure, Neuroscience, Nervous system, Cognitive science, Biology, Science]
 ---
 
 

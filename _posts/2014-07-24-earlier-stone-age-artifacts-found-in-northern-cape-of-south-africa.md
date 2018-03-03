@@ -4,7 +4,7 @@ title: "Earlier Stone Age artifacts found in Northern Cape of South Africa"
 date: 2015-07-16
 categories: Science
 author: unknown author
-
+tags: [Kathu, Archaeology, Culture, Cultural heritage, Museology, Conservation and restoration]
 ---
 
 

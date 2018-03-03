@@ -4,7 +4,7 @@ title: "Study grapples with ocean climate stress challenge"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Coral reef, Sea, Climate change, Seagrass, Sea level rise, Coral, Ocean, Coast, Great Barrier Reef, Earth sciences, Applied and interdisciplinary physics, Oceanography, Natural environment, Environmental science, Nature, Physical geography, Global natural environment, Climatology, Oceans, Future problems]
 ---
 
 

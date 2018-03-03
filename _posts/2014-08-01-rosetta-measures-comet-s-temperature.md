@@ -4,7 +4,7 @@ title: "Rosetta measures comet's temperature"
 date: 2015-10-22
 categories: Science
 author: unknown author
-
+tags: [Rosetta (spacecraft), Comet, Milky Way, 67PChuryumovGerasimenko, Galaxy, Astronomy, Comet nucleus, Sun, Outer space, Physical sciences, Solar System, Astronomical objects, Planetary science, Bodies of the Solar System, Space science]
 ---
 
 

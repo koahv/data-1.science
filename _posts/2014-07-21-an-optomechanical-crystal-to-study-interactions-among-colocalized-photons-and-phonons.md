@@ -4,7 +4,7 @@ title: "An optomechanical crystal to study interactions among colocalized photon
 date: 2015-05-22
 categories: Science
 author: unknown author
-
+tags: [Photon, Phonon, Physics, Light, Mechanics, Physical phenomena, Optics, Theoretical physics, Natural philosophy, Modern physics, Nature, Solid state engineering, Science, Atomic molecular and optical physics, Quantum mechanics, Electrodynamics, Particle physics, Electromagnetic radiation, Condensed matter physics, Physical chemistry, Chemistry, Materials science, Applied and interdisciplinary physics, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Scientist underlines threat of inevitable 'solar super-storms'"
 date: 2015-09-04
 categories: Astronomy
 author: unknown author
-
+tags: [Coronal mass ejection, Solar flare, Nature, Outer space, Physical sciences, Physics]
 ---
 
 

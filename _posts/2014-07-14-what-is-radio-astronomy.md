@@ -4,7 +4,7 @@ title: "What is radio astronomy?"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Telescope, Radio telescope, Radio wave, Astronomy, Radio, Waves, Physical sciences, Electromagnetic radiation, Outer space, Physical phenomena, Optics, Applied and interdisciplinary physics, Natural philosophy, Observational astronomy, Scientific observation]
 ---
 
 

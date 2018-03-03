@@ -4,7 +4,7 @@ title: "NASA Spacecraft Wakes Up as It Approaches Pluto"
 date: 2015-07-14
 categories: Astronomy
 author: Justin Worland
-
+tags: [Curiosity (rover), Rover (space exploration), Mars, New Horizons, Rocknest (Mars), Mount Sharp, NASA, Flight, Exploration of Mars, Spaceflight technologies, Missions to the planets, Bodies of the Solar System, Spacecraft, Space exploration, Discovery and exploration of the Solar System, Astronomy, Planets of the Solar System, Astronautics, Space science, Solar System, Planetary science, Spaceflight, Outer space]
 ---
 
 

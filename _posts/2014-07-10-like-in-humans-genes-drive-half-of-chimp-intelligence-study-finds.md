@@ -4,7 +4,7 @@ title: "Like in Humans, Genes Drive Half of Chimp Intelligence, Study Finds"
 date: 2015-09-14
 categories: Science
 author: Virginia Hughes
-
+tags: [Chimpanzee, Human, Intelligence, Heritability, Action (philosophy), Neuropsychological assessment, Neuropsychology, Epistemology, Phenomenology, Emergence, Neuroscience, Behavioural sciences, Cognitive science, Cognition, Psychology, Psychological concepts]
 ---
 
 

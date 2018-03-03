@@ -4,7 +4,7 @@ title: "Water scarcity and climate change through 2095"
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Climate change mitigation, Water, Pacific Northwest National Laboratory, Climate change, Air pollution, Greenhouse gas, Politics of global warming, Water scarcity, Global change, Climate, Carbon tax, Climatology, Physical geography, Global environmental issues, Nature, Natural environment]
 ---
 
 

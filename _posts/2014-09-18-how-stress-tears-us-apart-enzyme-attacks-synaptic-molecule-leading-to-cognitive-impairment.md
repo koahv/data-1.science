@@ -4,7 +4,7 @@ title: "How stress tears us apart: Enzyme attacks synaptic molecule, leading to 
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Synaptic plasticity, Chemical synapse, Synapse, Stress (biology), NMDA receptor, Cognitive science, Biology, Nervous system, Neuroscience]
 ---
 
 

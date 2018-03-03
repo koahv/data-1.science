@@ -4,7 +4,7 @@ title: "Can magnetically levitating trains run at 3,000km/h?"
 date: 2015-10-03
 categories: Science
 author: unknown author
-
+tags: [Maglev, Train, High-speed rail, Propulsion, Technology, Artificial objects, Transport, Transportation engineering, Vehicles]
 ---
 
 

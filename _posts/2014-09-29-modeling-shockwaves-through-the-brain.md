@@ -4,7 +4,7 @@ title: "Modeling shockwaves through the brain"
 date: 2015-07-24
 categories: Technology
 author: unknown author
-
+tags: [Traumatic brain injury, Blast wave, Brain, Shock wave, Human, Simulation, Pulmonary contusion]
 ---
 
 

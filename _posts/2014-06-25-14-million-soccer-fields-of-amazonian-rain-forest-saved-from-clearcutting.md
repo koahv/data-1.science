@@ -4,7 +4,7 @@ title: "14 Million Soccer Fields Of Amazonian Rain Forest Saved From Clearcuttin
 date: 2014-06-29
 categories: Energy
 author: unknown author
-
+tags: [Deforestation, Amazon rainforest, Deforestation of the Amazon rainforest, Rainforest, Natural environment, Sustainable development]
 ---
 
 

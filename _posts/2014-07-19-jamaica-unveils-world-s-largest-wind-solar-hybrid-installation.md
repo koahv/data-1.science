@@ -4,7 +4,7 @@ title: "Jamaica Unveils World’s Largest Wind-Solar Hybrid Installation"
 date: 2015-06-02
 categories: Energy
 author: Beverley Mitchell
-
+tags: [Wind power, Renewable resources, Technology, Artificial objects, Electrical engineering, Electricity, Energy production, Sustainable development, Natural resources, Sustainable technologies, Renewable energy, Sustainable energy, Alternative energy, Power (physics), Electric power, Nature, Physical universe, Energy sources, Energy]
 ---
 
 

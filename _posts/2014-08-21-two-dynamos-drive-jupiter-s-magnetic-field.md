@@ -4,7 +4,7 @@ title: "Two dynamos drive Jupiter's magnetic field"
 date: 2016-02-05
 categories: Science
 author: unknown author
-
+tags: [Sun, Jupiter, Milky Way, Planet, Mercury (planet), Astronomy, Galaxy, Juno (spacecraft), Dynamo theory, Earth, Solar System, Hubble Space Telescope, Magnetic field, Saturn, Planetary science, Astronomical objects, Space science, Outer space, Physical sciences]
 ---
 
 

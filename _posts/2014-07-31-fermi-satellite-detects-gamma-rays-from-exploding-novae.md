@@ -4,7 +4,7 @@ title: "Fermi satellite detects gamma-rays from exploding novae"
 date: 2015-09-04
 categories: Astronomy
 author: unknown author
-
+tags: [Nova, Star, Fermi Gamma-ray Space Telescope, Gamma ray, White dwarf, Astronomy, Applied and interdisciplinary physics, Physical sciences, Physics, Physical phenomena, Stellar astronomy, Nature, Stars, Astronomical objects, Outer space]
 ---
 
 

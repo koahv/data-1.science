@@ -4,7 +4,7 @@ title: "Blades of grass inspire advance in organic solar cells"
 date: 2015-07-24
 categories: Technology
 author: unknown author
-
+tags: [Crystal, Organic solar cell, Anisotropy, Physical chemistry, Technology, Condensed matter physics, Physical sciences, Chemical product engineering, Artificial objects, Manufacturing, Applied and interdisciplinary physics, Materials science, Materials, Chemistry]
 ---
 
 

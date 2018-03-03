@@ -4,7 +4,7 @@ title: "MARS Chocolate Maker to Power Entire U.S. Operation With a 118-Turbine W
 date: 2014-06-29
 categories: Energy
 author: Ross Brooks
-
+tags: [Carbon neutrality, Sustainability, Renewable energy, Wind power, Natural environment, Physical universe, Nature, Sustainable development, Energy, Sustainable technologies, Sustainable energy, Alternative energy, Natural resources]
 ---
 
 

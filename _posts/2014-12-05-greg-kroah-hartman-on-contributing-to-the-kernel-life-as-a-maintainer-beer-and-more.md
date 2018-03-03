@@ -4,7 +4,7 @@ title: "Greg Kroah-Hartman on Contributing to the Kernel, Life as a Maintainer, 
 date: 2015-06-26
 categories: Linux
 author: Libby Clark
-
+tags: [Linux kernel, Linux, Red Hat Enterprise Linux, Linux distribution, Clang, Arch Linux, System software, Linus Torvalds, Computing, Free software, Computer engineering, Computers, Software, Digital media, Operating system technology, Linux kernel programmers]
 ---
 
 

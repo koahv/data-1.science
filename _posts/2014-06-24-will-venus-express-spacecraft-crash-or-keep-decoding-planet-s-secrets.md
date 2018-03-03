@@ -4,7 +4,7 @@ title: "Will Venus Express Spacecraft Crash or Keep Decoding Planet's Secrets?"
 date: 2014-06-24
 categories: Science
 author: Nadia Drake
-
+tags: [Venus, Venus Express, Earth, Planet, Atmosphere, Magellan (spacecraft), Space probe, Outer space, Physical sciences, Planetary science, Space science, Astronomy, Solar System, Planets of the Solar System, Spaceflight, Planets, Bodies of the Solar System]
 ---
 
 

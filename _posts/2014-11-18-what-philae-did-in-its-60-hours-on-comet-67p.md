@@ -4,7 +4,7 @@ title: "What Philae did in its 60 hours on Comet 67P"
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Milky Way, Comet, Philae (spacecraft), Galaxy, Astronomy, Neutron, Isotope, Astronomical objects, Physical sciences, Outer space, Planetary science, Solar System]
 ---
 
 

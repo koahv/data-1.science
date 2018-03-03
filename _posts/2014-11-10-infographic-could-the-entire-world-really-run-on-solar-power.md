@@ -4,7 +4,7 @@ title: "INFOGRAPHIC: Could the Entire World Really Run on Solar Power?"
 date: 2015-07-04
 categories: Energy
 author: Inhabitat
-
+tags: [Solar power, Concentrated solar power, Nuclear power, Photovoltaics, Molten salt reactor, Nuclear reactor, Light-water reactor, Alternative energy, Nature, Energy, Energy production, Sustainable energy, Sustainable development, Energy technology, Renewable energy, Energy conversion, Technology, Artificial objects, Power (physics), Sustainable technologies, Electric power, Physical universe]
 ---
 
 

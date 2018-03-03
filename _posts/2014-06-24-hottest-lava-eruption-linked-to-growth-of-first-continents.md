@@ -4,7 +4,7 @@ title: "Hottest lava eruption linked to growth of first continents"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Craton, Earth, Continental crust, Archean, Geology, Planetary science, Physical sciences, Nature, Earth sciences]
 ---
 
 

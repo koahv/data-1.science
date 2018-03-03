@@ -4,7 +4,7 @@ title: "What set the Earth's plates in motion?"
 date: 2015-07-04
 categories: Science
 author: unknown author
-
+tags: [Plate tectonics, Mantle (geology), Earth, Geophysics, Tectonics, Geology, Applied and interdisciplinary physics, Global natural environment, Structure of the Earth, Planets of the Solar System, Earth sciences, Nature, Physical sciences, Planetary science]
 ---
 
 

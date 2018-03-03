@@ -4,7 +4,7 @@ title: "Healthy diet set early in life"
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Obesity, Childhood obesity, Dieting, Health, Food, Healthy diet, Eating behaviors of humans, Determinants of health, Nutrition, Food and drink]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Global consumption an increasingly significant driver of tropical defore
 date: 2016-03-28
 categories: Science
 author: unknown author
-
+tags: [Deforestation, Palm oil, Environmental degradation, Supply chain, Agriculture, Center for Global Development, Greenhouse gas, Economy]
 ---
 
 

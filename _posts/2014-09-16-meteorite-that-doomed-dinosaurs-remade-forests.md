@@ -4,7 +4,7 @@ title: "Meteorite that doomed dinosaurs remade forests"
 date: 2015-09-14
 categories: Science
 author: unknown author
-
+tags: [Leaf, Plant, American Association for the Advancement of Science, Deciduous, Hell Creek Formation, Nature, Ecology, Impact winter, Flowering plant, Water, Extinction, Biology, Natural environment, Organisms, Science]
 ---
 
 

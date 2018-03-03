@@ -4,7 +4,7 @@ title: "NASA spacecraft provides new information about sun's atmosphere"
 date: 2015-09-05
 categories: Astronomy
 author: unknown author
-
+tags: [Sun, Corona, Solar System, Physical phenomena, Bodies of the Solar System, Applied and interdisciplinary physics, Stellar astronomy, Nature, Physical sciences, Space science, Astronomy, Outer space]
 ---
 
 

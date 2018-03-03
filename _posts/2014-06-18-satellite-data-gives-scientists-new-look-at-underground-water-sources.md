@@ -4,7 +4,7 @@ title: "Satellite Data Gives Scientists New Look at Underground Water Sources"
 date: 2014-06-22
 categories: Science
 author: unknown author
-
+tags: [Groundwater, Water resources, Interferometric synthetic-aperture radar, Earth sciences, Hydrology, Natural resources, Water, Physical geography, Liquids, Water and politics]
 ---
 
 

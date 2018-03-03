@@ -4,7 +4,7 @@ title: "CryoSat extends its reach on the Arctic"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Sea ice, CryoSat, Arctic Ocean, Arctic ice pack, Ice, Climate, Earth sciences, Physical geography, Geography]
 ---
 
 

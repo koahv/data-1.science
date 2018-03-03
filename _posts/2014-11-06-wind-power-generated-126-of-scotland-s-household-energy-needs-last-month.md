@@ -4,7 +4,7 @@ title: "Wind Power Generated 126% of Scotland’s Household Energy Needs Last Mo
 date: 2015-07-04
 categories: Energy
 author: Beverley Mitchell
-
+tags: [Wind power, Renewable energy, Solar power, Electricity generation, Nature, Energy sources, Artificial objects, Energy production, Electric power, Power (physics), Natural resources, Renewable resources, Sustainable technologies, Sustainable development, Alternative energy, Sustainable energy, Physical universe, Energy]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Cannabis extract can have dramatic effect on brain cancer, says new rese
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Cannabinoid, Cannabidiol, Tetrahydrocannabinol, Cannabis, Radiation therapy, Medical treatments, Neoplasms, Health sciences, Diseases and disorders, Medical specialties, Medicine, Clinical medicine, Health]
 ---
 
 

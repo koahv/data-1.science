@@ -4,7 +4,7 @@ title: "Borneo deforested 30 percent over past 40 years"
 date: 2015-10-03
 categories: Science
 author: unknown author
-
+tags: [Forest, Conservation biology, Climate change, Natural environment, Ecology, Earth sciences, Physical geography, Environmental science]
 ---
 
 

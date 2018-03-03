@@ -4,7 +4,7 @@ title: "Scientists find way to maintain quantum entanglement in amplified signal
 date: 2015-05-22
 categories: Technology
 author: unknown author
-
+tags: [Quantum mechanics, Wave function, Quantum teleportation, Photon, Quantum entanglement, Wave, Physics, Quantum computing, Atom, Optical fiber, Mechanics, Condensed matter physics, Theoretical physics, Science, Applied and interdisciplinary physics, Solid state engineering, Particle physics, Modern physics, Physical sciences, Scientific theories]
 ---
 
 

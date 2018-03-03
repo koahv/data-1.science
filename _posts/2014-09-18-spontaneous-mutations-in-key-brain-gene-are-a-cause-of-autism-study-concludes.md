@@ -4,7 +4,7 @@ title: "Spontaneous mutations in key brain gene are a cause of autism, study con
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Mutation, FOXP2, Genetics, Gene, Protein, TBR1, Autism, Biochemistry, Biology, Life sciences, Biotechnology, Molecular biology, Organisms]
 ---
 
 

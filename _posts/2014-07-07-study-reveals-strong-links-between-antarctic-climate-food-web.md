@@ -4,7 +4,7 @@ title: "Study reveals strong links between Antarctic climate, food web"
 date: 2014-07-11
 categories: Science
 author: unknown author
-
+tags: [Antarctica, Ice, Antarctic Peninsula, Oceanography, Krill, Sea ice, Adlie penguin, Wind, Sea, Phytoplankton, Water, American Association for the Advancement of Science, Algal bloom, Ocean, Applied and interdisciplinary physics, Systems ecology, Hydrography, Oceans, Nature, Environmental science, Natural environment, Physical geography, Earth sciences]
 ---
 
 

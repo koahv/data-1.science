@@ -4,7 +4,7 @@ title: "Genes exhibit different behaviours in different stages of development"
 date: 2016-03-28
 categories: Science
 author: unknown author
-
+tags: [Brain, Attention deficit hyperactivity disorder, Psychiatry, Mental disorder, Adolescence, Catechol-O-methyl transferase, Schizophrenia, Mental health, Health, Psychological concepts, Cognition, Psychiatry-related fields, Medicine, Clinical psychology, Nervous system, Psychology, Behavioural sciences, Neuroscience, Abnormal psychology, Mental and behavioural disorders, Medical specialties, Psychiatric diagnosis, Clinical medicine]
 ---
 
 

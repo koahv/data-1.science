@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Extreme Physics" --Nebula Observed Around a Neutron Star for First Time"
+title: "Extreme Physics --Nebula Observed Around a Neutron Star for First Time"
 date: 2016-06-23
 categories: Astronomy
 author: dailygalaxy.com

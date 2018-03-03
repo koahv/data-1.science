@@ -4,7 +4,7 @@ title: "Organic Molecules in Milky Way's Satellite Galaxy Found Richer in Carbon
 date: 2014-06-26
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Star, Polycyclic aromatic hydrocarbon, Interstellar medium, Milky Way, White dwarf, Chemistry, Outer space, Nature, Stars, Astronomical objects, Stellar astronomy, Physical sciences, Astronomy]
 ---
 
 

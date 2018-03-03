@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Something is Amiss with Light in the Universe --"May Be Coming from Some Exotic Unknown Source" (Today's Most Popular)"
+title: "Something is Amiss with Light in the Universe --May Be Coming from Some Exotic Unknown Source (Today's Most Popular)"
 date: 2015-01-20
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Quasar, Galaxy, Universe, Supernova, Physical sciences, Physical quantities, Natural philosophy, Nature, Physical universe, Applied and interdisciplinary physics, Cosmology, Outer space, Physical cosmology, Physics, Astronomy]
 ---
 
 

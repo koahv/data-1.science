@@ -4,7 +4,7 @@ title: "Offshore wind to bring $3.4 billion to British economy"
 date: 2015-06-02
 categories: Energy
 author: unknown author
-
+tags: [Wind power, Renewable energy, Wind farm, Watt, Renewable energy commercialization, Energy, Natural resources, Sustainable technologies, Electric power, Sustainable development, Physical universe, Nature, Sustainable energy, Renewable resources, Alternative energy, Power (physics)]
 ---
 
 

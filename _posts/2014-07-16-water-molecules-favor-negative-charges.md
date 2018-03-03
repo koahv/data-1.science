@@ -4,7 +4,7 @@ title: "Water molecules favor negative charges"
 date: 2015-10-03
 categories: Science
 author: unknown author
-
+tags: [Ion, Molecule, Electric charge, Properties of water, Chemical substance, Water, Cell membrane, Hydrogen bond, Chemical bond, Chemistry, Physical sciences, Physical chemistry, Applied and interdisciplinary physics, Materials, Nature, Chemical substances]
 ---
 
 

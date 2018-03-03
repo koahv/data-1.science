@@ -4,7 +4,7 @@ title: "Helsinki Builds 9 Million Gallon Underground Water Tank to Cool Local Bu
 date: 2015-07-04
 categories: Energy
 author: Colin Payne
-
+tags: [Public transport, Technology, Artificial objects, Computing]
 ---
 
 

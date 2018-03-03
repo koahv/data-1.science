@@ -4,7 +4,7 @@ title: "Physicists Use Computer Models to Reveal Quantum Effects in Biological O
 date: 2015-05-22
 categories: Science
 author: unknown author
-
+tags: [Physics, Quantum mechanics, Density functional theory, Myoglobin, Science, Physical sciences, Chemistry, Applied and interdisciplinary physics, Mechanics]
 ---
 
 

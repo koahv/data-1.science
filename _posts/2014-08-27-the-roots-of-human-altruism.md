@@ -4,7 +4,7 @@ title: "The roots of human altruism"
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Primate, Altruism, Human, Chimpanzee, Social group, Cognition, Cooperative breeding, Animals, Behavioural sciences]
 ---
 
 

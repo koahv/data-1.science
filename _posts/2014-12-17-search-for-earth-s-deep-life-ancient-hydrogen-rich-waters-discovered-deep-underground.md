@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Search for Earth's Deep Life" --Ancient, Hydrogen-Rich Waters Discovered Deep Underground"
+title: "Search for Earth's Deep Life --Ancient, Hydrogen-Rich Waters Discovered Deep Underground"
 date: 2015-05-22
 categories: Astronomy
 author: dailygalaxy.com

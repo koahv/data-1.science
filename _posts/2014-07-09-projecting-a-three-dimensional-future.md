@@ -4,7 +4,7 @@ title: "Projecting a Three-Dimensional Future"
 date: 2014-07-13
 categories: Technology
 author: cfox
-
+tags: [Holography, Technology, Artificial objects, Optics, Science, Applied and interdisciplinary physics, Cognitive science]
 ---
 
 

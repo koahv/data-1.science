@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASA: "Hubble Observes the Most Remote Galaxy in the Universe""
+title: "NASA: Hubble Observes the Most Remote Galaxy in the Universe"
 date: 2016-03-15
 categories: Astronomy
 author: dailygalaxy.com

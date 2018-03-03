@@ -4,7 +4,7 @@ title: "Tiny Module Runs Linux and LabView on ARM/FPGA SoC"
 date: 2014-07-18
 categories: Linux
 author: LinuxGizmos
-
+tags: [LabVIEW, Field-programmable gate array, System on a chip, National Instruments, Computing, Digital electronics, Areas of computer science, Electronic engineering, Software, Digital technology, Electronics, Computer hardware, Computer architecture, Technology, Computer engineering, Computers, Classes of computers, Electrical engineering]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Exercise is the best medicine, study shows"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Physical exercise, Health, Health care]
 ---
 
 

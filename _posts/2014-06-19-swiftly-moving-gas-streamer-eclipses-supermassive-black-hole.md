@@ -4,7 +4,7 @@ title: "Swiftly moving gas streamer eclipses supermassive black hole"
 date: 2014-06-23
 categories: Astronomy
 author: unknown author
-
+tags: [Active galactic nucleus, NGC 5548, Galaxy, Black hole, Astronomical objects, Astronomy, Physical sciences, Physical cosmology, Outer space, Galaxies, Extragalactic astronomy, Large-scale structure of the cosmos]
 ---
 
 

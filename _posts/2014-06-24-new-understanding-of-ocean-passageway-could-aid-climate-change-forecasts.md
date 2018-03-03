@@ -4,7 +4,7 @@ title: "New understanding of ocean passageway could aid climate change forecasts
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [El Nio, La Nia, Global warming, Oceanography, Pacific Ocean, Climate, Physical oceanography, Environmental science, Hydrology, Atmosphere of Earth, Global natural environment, Earth sciences, Physical geography, Meteorology, Climatology, Atmospheric sciences, Oceans, Applied and interdisciplinary physics, Hydrography, Nature]
 ---
 
 

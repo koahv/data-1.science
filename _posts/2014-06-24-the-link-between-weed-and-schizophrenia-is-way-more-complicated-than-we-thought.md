@@ -4,7 +4,7 @@ title: "The link between weed and schizophrenia is way more complicated than we 
 date: 2014-06-24
 categories: Science
 author: Arielle Duhaime-Ross
-
+tags: [Schizophrenia, Cannabis (drug), Psychosis, Mental disorder, Psychiatry, Psychiatry-related fields, Cognition, Social issues, Medicine, Mental and behavioural disorders, Psychological concepts, Psychology, Behavioural sciences, Clinical psychology, Health, Neuroscience, Mental health, Abnormal psychology]
 ---
 
 

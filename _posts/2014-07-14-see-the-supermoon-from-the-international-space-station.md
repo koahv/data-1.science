@@ -4,7 +4,7 @@ title: "See the Supermoon from the International Space Station"
 date: 2015-07-06
 categories: Astronomy
 author: Mia Tramz
-
+tags: [Spaceflight, Outer space]
 ---
 
 

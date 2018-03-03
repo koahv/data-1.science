@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Higgs Boson Discovery --"The Starting Point for a New Model of the Universe""
+title: "Higgs Boson Discovery --The Starting Point for a New Model of the Universe"
 date: 2014-06-23
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Elementary particle, Higgs boson, Physics, Matter, Boson, Standard Model, Quantum mechanics, Subatomic particles, Physical bodies, Nature, Modern physics, Quantum field theory, Physical cosmology, Physical sciences, Particle physics, Mechanics, Science, Theoretical physics, Physical universe]
 ---
 
 

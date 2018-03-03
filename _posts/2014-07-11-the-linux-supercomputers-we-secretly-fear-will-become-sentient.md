@@ -4,7 +4,7 @@ title: "The Linux Supercomputers We Secretly Fear Will Become Sentient"
 date: 2014-07-14
 categories: Linux
 author: Bryan Lunduke
-
+tags: [FLOPS, Titan (supercomputer), Pleiades (supercomputer), Computers, Computer hardware, Computing]
 ---
 
 

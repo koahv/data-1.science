@@ -4,7 +4,7 @@ title: "COSMOS supercomputing research facility becomes an Intel Parallel Comput
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Xeon Phi, Supercomputer, Intel, Microprocessor, Xeon, Coprocessor, Computer hardware, Computing, Computers, Computer engineering, Technology, Computer architecture]
 ---
 
 

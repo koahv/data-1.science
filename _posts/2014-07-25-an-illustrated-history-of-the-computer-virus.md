@@ -4,7 +4,7 @@ title: "An Illustrated History of the Computer Virus"
 date: 2014-08-22
 categories: Linux
 author: The Verge
-
+tags: [Areas of computer science, Technology, Software, Computing]
 ---
 
 

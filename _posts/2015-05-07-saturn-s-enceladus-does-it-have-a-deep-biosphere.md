@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Saturn's Enceladus --"Does It Have a Deep Biosphere?"
+title: "Saturn's Enceladus --Does It Have a Deep Biosphere?"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com

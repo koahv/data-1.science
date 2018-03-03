@@ -4,7 +4,7 @@ title: "Tiny chip mimics brain, delivers supercomputer speed"
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Computer, Brain, World Wide Web, Artificial intelligence, Computing, Hypertext Transfer Protocol, Integrated circuit, Supercomputer, Cloud computing, Artificial objects, Technology]
 ---
 
 

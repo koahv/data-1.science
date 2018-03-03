@@ -4,7 +4,7 @@ title: "Skulls Uncovered from 'Pit of Bones' Shed Light on Neanderthal and Human
 date: 2014-06-22
 categories: Science
 author: unknown author
-
+tags: [Neanderthal, Human, Homo sapiens, Evolutionary biology, Pleistocene, Pliocene, Human evolution, Evolution of primates]
 ---
 
 

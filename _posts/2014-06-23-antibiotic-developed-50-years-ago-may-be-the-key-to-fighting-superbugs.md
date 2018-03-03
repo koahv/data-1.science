@@ -4,7 +4,7 @@ title: "Antibiotic developed 50 years ago may be the key to fighting 'superbugs'
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Antimicrobial resistance, Antibiotics, Colistin, Medicine, Health sciences, Medical specialties, Health, Clinical medicine, Health care, Pharmacology, Biology, Life sciences, Pharmacy, Medical treatments, Pharmaceutical sciences]
 ---
 
 

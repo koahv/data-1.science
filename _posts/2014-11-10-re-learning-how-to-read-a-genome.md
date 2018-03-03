@@ -4,7 +4,7 @@ title: "Re-learning how to read a genome"
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Gene, DNA, Transcription (biology), Cis-regulatory element, Enhancer (genetics), Cell (biology), Protein, Life sciences, Organisms, Biochemistry, Molecular biology, Biotechnology, Genetics, Biology]
 ---
 
 

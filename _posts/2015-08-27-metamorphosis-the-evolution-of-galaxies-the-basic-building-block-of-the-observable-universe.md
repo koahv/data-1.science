@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Metamorphosis" --The Evolution of Galaxies: The Basic Building Block of the Observable Universe"
+title: "Metamorphosis --The Evolution of Galaxies: The Basic Building Block of the Observable Universe"
 date: 2015-09-02
 categories: Astronomy
 author: dailygalaxy.com

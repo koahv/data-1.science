@@ -4,7 +4,7 @@ title: "Is making your product free and open source crazy talk?"
 date: 2014-07-15
 categories: Open Source
 author: ScottNesbitt
-
+tags: [Open-source software, GNU General Public License, Request for proposal, Computing, Business, Software, Intellectual works]
 ---
 
 

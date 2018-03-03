@@ -4,7 +4,7 @@ title: "Packing for Mars"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [ExoMars, Schiaparelli EDM lander, Mars, Cleanroom, Spaceflight, Outer space, Astronautics, Flight, Spacecraft, Astronomy, Space exploration]
 ---
 
 

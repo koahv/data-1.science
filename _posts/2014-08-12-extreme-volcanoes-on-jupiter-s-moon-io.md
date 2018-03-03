@@ -4,7 +4,7 @@ title: "Extreme Volcanoes on Jupiter’s Moon Io"
 date: 2015-07-21
 categories: Astronomy
 author: Maria Temming
-
+tags: [Io (moon), Volcanology of Io, Volcano, Solar System, Bodies of the Solar System, Astronomy, Planets of the Solar System, Space science, Planetary science, Outer space, Physical sciences]
 ---
 
 

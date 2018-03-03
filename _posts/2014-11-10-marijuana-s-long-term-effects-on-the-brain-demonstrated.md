@@ -4,7 +4,7 @@ title: "Marijuana's long-term effects on the brain demonstrated"
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Cannabis (drug), Nervous system, Cognition, Cognitive science, Neuroscience, Neuropsychology, Psychological concepts, Clinical psychology, Psychology, Neuropsychological assessment, Behavioural sciences]
 ---
 
 

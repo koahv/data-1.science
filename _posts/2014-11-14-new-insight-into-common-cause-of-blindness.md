@@ -4,7 +4,7 @@ title: "New insight into common cause of blindness"
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Factor H, Complement system, Macular degeneration, Macula of retina, Visual impairment, Human eye, Medical specialties, Biology, Medicine, Clinical medicine, Health sciences]
 ---
 
 

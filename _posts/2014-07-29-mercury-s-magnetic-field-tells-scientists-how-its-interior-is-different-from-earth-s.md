@@ -4,7 +4,7 @@ title: "Mercury's magnetic field tells scientists how its interior is different 
 date: 2015-09-04
 categories: Astronomy
 author: unknown author
-
+tags: [Mercury (planet), Planetary core, Planet, Earth, Jupiter, Inner core, Saturn, Solar System, Physical sciences, Space science, Planets of the Solar System, Planets, Planetary science, Outer space, Bodies of the Solar System, Astronomy]
 ---
 
 

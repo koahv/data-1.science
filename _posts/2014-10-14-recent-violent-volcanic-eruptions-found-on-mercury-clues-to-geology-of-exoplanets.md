@@ -4,7 +4,7 @@ title: "Recent Violent Volcanic Eruptions Found on Mercury --Clues to Geology of
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Volcano, Mercury (planet), Planet, Types of volcanic eruptions, Volatiles, Moon, Planetary habitability, Lava, Earth, Exoplanet, Magma, Astronomy, Nature, Geology, Planets of the Solar System, Planetary science, Outer space, Physical sciences, Space science]
 ---
 
 

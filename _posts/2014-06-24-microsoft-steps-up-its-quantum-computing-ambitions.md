@@ -4,7 +4,7 @@ title: "Microsoft steps up its quantum computing ambitions"
 date: 2014-06-24
 categories: Science
 author: Russell Brandom
-
+tags: [D-Wave Systems, Areas of computer science, Technology, Computing, Computers, Cyberspace]
 ---
 
 

@@ -4,7 +4,7 @@ title: "3-D map shows dusty structure of the Milky Way"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Milky Way, Galaxy, Andromeda Galaxy, Extinction (astronomy), Astronomical objects, Outer space, Astronomy, Physical sciences]
 ---
 
 

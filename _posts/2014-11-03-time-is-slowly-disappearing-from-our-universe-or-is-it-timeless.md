@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""Time is Slowly Disappearing from Our Universe" (Or, is It Timeless?)"
+title: "Time is Slowly Disappearing from Our Universe (Or, is It Timeless?)"
 date: 2015-05-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Time, Space, Universe, Dark energy, Spacetime, Absolute space and time, Dimension, Zenos paradoxes, Physics, Mathematics, Accelerating expansion of the universe, Falsifiability, Metric expansion of space, Photon, Experiment, Philosophy, Physical sciences, Science, Physical quantities, Cognitive science, Metaphysics, Theoretical philosophy, Mechanics]
 ---
 
 

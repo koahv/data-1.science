@@ -4,7 +4,7 @@ title: "How lizards regenerate their tails: Researchers discover genetic 'recipe
 date: 2016-02-05
 categories: Science
 author: unknown author
-
+tags: [Regeneration (biology), Genetics, Life sciences, Organisms, Biology]
 ---
 
 

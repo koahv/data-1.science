@@ -4,7 +4,7 @@ title: "Tools and primates: Opportunity, not necessity, is the mother of inventi
 date: 2015-07-20
 categories: Science
 author: unknown author
-
+tags: [Tool use by animals, Primate, Chimpanzee, Orangutan, Anthropology, Behavioural sciences, Psychological concepts, Cognitive science, Psychology, Cognition]
 ---
 
 

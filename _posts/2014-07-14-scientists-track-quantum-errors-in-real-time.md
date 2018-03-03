@@ -4,7 +4,7 @@ title: "Scientists track quantum errors in real time"
 date: 2015-05-22
 categories: Science
 author: unknown author
-
+tags: [Quantum mechanics, Quantum computing, Physics, Qubit, Photon, Quantum error correction, Scientific theories, Particle physics, Chemistry, Mechanics, Applied and interdisciplinary physics, Modern physics, Solid state engineering, Condensed matter physics, Science, Theoretical physics, Physical sciences]
 ---
 
 

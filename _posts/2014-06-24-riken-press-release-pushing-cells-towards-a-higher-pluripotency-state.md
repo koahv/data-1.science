@@ -4,7 +4,7 @@ title: "RIKEN press release: Pushing cells towards a higher pluripotency state"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Induced pluripotent stem cell, Stem cell, Cell potency, Cell biology, Medicine, Developmental biology, Medical specialties, Health sciences, Organisms, Biotechnology, Life sciences, Biology]
 ---
 
 

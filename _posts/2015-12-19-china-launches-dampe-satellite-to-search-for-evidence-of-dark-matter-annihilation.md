@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "China Launches DAMPE Satellite --"To Search for Evidence of Dark Matter Annihilation""
+title: "China Launches DAMPE Satellite --To Search for Evidence of Dark Matter Annihilation"
 date: 2015-12-22
 categories: Astronomy
 author: dailygalaxy.com

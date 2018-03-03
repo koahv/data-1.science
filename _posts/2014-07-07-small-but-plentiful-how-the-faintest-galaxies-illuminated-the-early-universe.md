@@ -4,7 +4,7 @@ title: "Small, but plentiful: How the faintest galaxies illuminated the early un
 date: 2014-08-17
 categories: Science
 author: unknown author
-
+tags: [Milky Way, Universe, Astronomy, Star, Big Bang, Chronology of the universe, Reionization, Redshift, Hubble Space Telescope, Science, Cosmology, Physics, Physical cosmology, Outer space, Physical sciences]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Tooth buried in bone shows prehistoric predators tangled across land, se
 date: 2015-07-04
 categories: Science
 author: unknown author
-
+tags: [Phytosaur, Paleontology]
 ---
 
 

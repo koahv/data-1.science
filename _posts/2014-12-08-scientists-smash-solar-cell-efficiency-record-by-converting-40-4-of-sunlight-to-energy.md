@@ -4,7 +4,7 @@ title: "Scientists smash solar cell efficiency record by converting 40.4% of sun
 date: 2015-07-04
 categories: Energy
 author: Charley Cameron
-
+tags: [Solar power, Solar panel, Solar cell, Multi-junction solar cell, Renewable energy, Solar energy, Energy, Alternative energy, Sustainable energy, Renewable resources, Sustainable technologies, Artificial objects, Nature, Sustainable development, Technology, Physical universe, Energy conversion, Glass applications, Energy production, Energy technology, Energy sources]
 ---
 
 

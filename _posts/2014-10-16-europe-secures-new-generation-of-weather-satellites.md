@@ -4,7 +4,7 @@ title: "Europe secures new generation of weather satellites"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [MetOp, EUMETSAT, Spacecraft, Meteorology, Planetary science, Sky, Earth sciences, Outer space, Physical geography, Spaceflight, Atmospheric sciences]
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "NASA: "As Long as Alien Life Uses Chemistry, We'll have the Capability to Find It" (Today's Most Popular)"
+title: "NASA: As Long as Alien Life Uses Chemistry, We'll have the Capability to Find It (Today's Most Popular)"
 date: 2014-06-26
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Planet, Kepler (spacecraft), Planetary habitability, Exoplanet, Circumstellar habitable zone, Planetary system, Terrestrial planet, Solar System, Stellar astronomy, Exoplanetology, Planets, Astronomical objects, Physical sciences, Space science, Outer space, Planetary science, Planemos, Astronomy, Substellar objects]
 ---
 
 

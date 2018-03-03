@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Red Dwarf Stars May Answer the Question: "Are We Alone?""
+title: "Red Dwarf Stars May Answer the Question: Are We Alone?"
 date: 2014-06-22
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Star, Planet, Planetary habitability, Earth analog, Astronomy, Red dwarf, Earth, Extraterrestrial life, Stellar astronomy, Astronomical objects, Space science, Stars, Nature, Planetary science, Outer space, Physical sciences]
 ---
 
 

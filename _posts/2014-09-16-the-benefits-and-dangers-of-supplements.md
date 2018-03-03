@@ -4,7 +4,7 @@ title: "The benefits and dangers of supplements"
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Dietary supplement, Multivitamin, Vitamin, Patient, Physician, Health, Pharmaceutical drug, Medicine, Vitamin C, Sleep, Pregnancy, Determinants of health, Clinical medicine, Medical specialties, Health sciences, Health care]
 ---
 
 

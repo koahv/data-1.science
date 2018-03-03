@@ -4,7 +4,7 @@ title: "Superabsorbing ring could make light work of snaps"
 date: 2015-05-22
 categories: Science
 author: unknown author
-
+tags: [Physics, Photon, Light, Quantum mechanics, Electromagnetic radiation, Laser, Sun, Atom, Energy, Optics, Ultraviolet, Applied and interdisciplinary physics, Chemistry, Physical chemistry, Nature, Atomic molecular and optical physics, Physical sciences, Mechanics, Electrodynamics, Natural philosophy, Materials science, Science]
 ---
 
 

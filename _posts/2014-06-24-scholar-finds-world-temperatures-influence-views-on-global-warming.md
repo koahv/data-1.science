@@ -4,7 +4,7 @@ title: "Scholar finds world temperatures influence views on global warming"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Global warming, Jon Krosnick, Climatic Research Unit email controversy, Republican Party (United States), United States, Climate change, Survey methodology, Democratic Party (United States), Greenhouse gas, Politics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Dark Energy Survey kicks off second season cataloging the wonders of dee
 date: 2015-09-13
 categories: Science
 author: unknown author
-
+tags: [The Dark Energy Survey, National Optical Astronomy Observatory, Astronomy, Science, Physical sciences, Outer space]
 ---
 
 

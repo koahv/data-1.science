@@ -4,7 +4,7 @@ title: "Amazing Pop-Up Solar Power Station Delivers Energy Anywhere it’s Neede
 date: 2014-06-24
 categories: Energy
 author: unknown author
-
+tags: [Solar power, Power station, Solar energy, Artificial objects, Nature, Physical universe, Energy production, Sustainable technologies, Electric power, Technology, Alternative energy, Energy]
 ---
 
 

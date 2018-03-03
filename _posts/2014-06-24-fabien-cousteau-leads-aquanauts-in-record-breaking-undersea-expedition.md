@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fabien Cousteau Leads "Aquanauts" in Record-Breaking Undersea Expedition"
+title: "Fabien Cousteau Leads Aquanauts in Record-Breaking Undersea Expedition"
 date: 2014-06-24
 categories: Science
 author: Brian Clark Howard

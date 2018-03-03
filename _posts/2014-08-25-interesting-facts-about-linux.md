@@ -4,7 +4,7 @@ title: "Interesting facts about Linux"
 date: 2015-02-09
 categories: Linux
 author: Dan Nanni
-
+tags: [Linux kernel, Operating system, GNU Project, Linus Torvalds, Software, Computers, Computer engineering, System software, Open-source movement, Computer architecture, Areas of computer science, Computing, Digital media, Technology, Free software]
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESA/Hubble --"The Universe May Be Expanding Faster than Expected""
+title: "ESA/Hubble --The Universe May Be Expanding Faster than Expected"
 date: 2016-06-03
 categories: Astronomy
 author: dailygalaxy.com

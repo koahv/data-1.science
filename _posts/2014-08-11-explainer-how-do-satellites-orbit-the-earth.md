@@ -4,7 +4,7 @@ title: "Explainer: How do satellites orbit the Earth?"
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Orbit, Milky Way, Gravity, Earth, Weightlessness, Moon, Galaxy, Satellite, Astronomy, Rotation, Rocket, Physics, Space science, Outer space, Physical sciences]
 ---
 
 

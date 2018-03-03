@@ -4,7 +4,7 @@ title: "Thousands of never-before-seen human genome variations uncovered"
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [DNA sequencing, Genetics, Structural variation, Whole genome sequencing, Genome, Single-nucleotide polymorphism, Genetic variation, Human genome, Mutation, DNA, Gene, Human, Life sciences, Biology, Biotechnology, Organisms, Molecular biology, Biochemistry, Bioinformatics, Genomics]
 ---
 
 

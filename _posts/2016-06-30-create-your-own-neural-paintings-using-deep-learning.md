@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Create Your Own "Neural Paintings" using Deep Learning"
+title: "Create Your Own Neural Paintings using Deep Learning"
 date: 2016-07-11
 categories: Linux
 author: bilalkhan

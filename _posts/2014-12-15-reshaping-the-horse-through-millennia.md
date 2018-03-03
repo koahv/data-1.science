@@ -4,7 +4,7 @@ title: "Reshaping the horse through millennia"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Domestication of the horse, Horse, Wild horse, Human, Genetics, Domestication, Genome, Przewalskis horse, Evolution, Mutation, Whole genome sequencing, Gene, Biology, Organisms]
 ---
 
 

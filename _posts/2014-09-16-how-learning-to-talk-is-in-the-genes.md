@@ -4,7 +4,7 @@ title: "How learning to talk is in the genes"
 date: 2016-03-16
 categories: Science
 author: unknown author
-
+tags: [Language development, Language, Genetics, Linguistics, Life sciences, Communication, Human communication, Biology, Cognitive science, Cognition, Semiotics]
 ---
 
 

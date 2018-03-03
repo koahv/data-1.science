@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "NASA: "Moon's Volcanoes Were Active During Earth's Cretaceous Period --The Age of Dinosaurs""
+title: "NASA: Moon's Volcanoes Were Active During Earth's Cretaceous Period --The Age of Dinosaurs"
 date: 2015-07-21
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: [Moon, Lunar Reconnaissance Orbiter, Ina (crater), Volcano, Irregular mare patch, Planets of the Solar System, Planetary science, Outer space, Geology, Solar System, Space science, Spaceflight]
 ---
 
 

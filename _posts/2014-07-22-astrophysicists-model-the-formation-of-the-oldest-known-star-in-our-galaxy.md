@@ -4,7 +4,7 @@ title: "Astrophysicists model the formation of the oldest-known star in our gala
 date: 2015-09-13
 categories: Science
 author: unknown author
-
+tags: [Star, Milky Way, Astronomy, Abundance of the chemical elements, Supernova, Star formation, Chemical element, Astrophysics, Sun, Outer space, Astronomical objects, Nature, Stars, Stellar astronomy, Physical sciences]
 ---
 
 

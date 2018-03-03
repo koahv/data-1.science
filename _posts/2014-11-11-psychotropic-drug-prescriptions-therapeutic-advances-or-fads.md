@@ -4,7 +4,7 @@ title: "Psychotropic drug prescriptions: Therapeutic advances or fads?"
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [Psychiatry, Mental disorder, Diagnostic and Statistical Manual of Mental Disorders, Medical prescription, Pharmaceutical drug, Health, Clinical medicine, Mental health, Health sciences, Clinical psychology, Behavioural sciences, Psychology, Psychiatry-related fields, Health care, Medical specialties, Neuroscience, Psychiatric diagnosis, Abnormal psychology, Social constructionism, Mental and behavioural disorders, Medical diagnosis, Positive psychology, Medicine]
 ---
 
 

@@ -4,7 +4,7 @@ title: "When highest perceptual ability occurs in a day?"
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Psychological concepts, Cognition, Neuropsychology, Cognitive science, Nervous system, Neuroscience, Biology]
 ---
 
 

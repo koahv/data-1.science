@@ -4,7 +4,7 @@ title: "Researchers study the sun's coronal rain in great detail"
 date: 2014-06-24
 categories: Science
 author: unknown author
-
+tags: [Sun, Corona, Solar flare, Coronal mass ejection, Rain, Solar Dynamics Observatory, Solar physics, Outer space, Physical sciences, Astronomy, Phases of matter, Space science, Applied and interdisciplinary physics, Solar System, Nature, Stellar astronomy, Bodies of the Solar System, Astronomical objects]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Where will big neuroscience take us?"
 date: 2016-04-11
 categories: Science
 author: unknown author
-
+tags: [BRAIN Initiative, Neuroscience, Neuroinformatics, Human Brain Project, Science and technology, Nervous system, Cognition, Cognitive science, Science]
 ---
 
 

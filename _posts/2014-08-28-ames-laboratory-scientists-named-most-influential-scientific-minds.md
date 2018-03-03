@@ -4,7 +4,7 @@ title: "Ames Laboratory scientists named 'Most Influential Scientific Minds'"
 date: 2015-12-02
 categories: Technology
 author: unknown author
-
+tags: [Ames Laboratory, Science, American Association for the Advancement of Science, Physics, Applied and interdisciplinary physics, Science and technology, Materials science]
 ---
 
 

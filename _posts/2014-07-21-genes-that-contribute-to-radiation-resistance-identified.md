@@ -4,7 +4,7 @@ title: "Genes that contribute to radiation resistance identified"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Gene, Escherichia coli, DNA repair, Ionizing radiation, Bacteria, Cancer, DNA, Deinococcus radiodurans, Cell (biology), Biology, Biochemistry, Molecular biology, Life sciences, Genetics, Organisms, Biotechnology]
 ---
 
 

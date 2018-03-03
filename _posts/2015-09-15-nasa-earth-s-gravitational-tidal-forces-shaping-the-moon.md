@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASA --"Earth's Gravitational Tidal Forces Shaping the Moon""
+title: "NASA --Earth's Gravitational Tidal Forces Shaping the Moon"
 date: 2015-09-19
 categories: Astronomy
 author: dailygalaxy.com

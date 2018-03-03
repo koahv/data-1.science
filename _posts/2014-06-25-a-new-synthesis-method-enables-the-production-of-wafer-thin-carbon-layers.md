@@ -4,7 +4,7 @@ title: "A new synthesis method enables the production of wafer-thin carbon layer
 date: 2014-06-25
 categories: Science
 author: unknown author
-
+tags: [Nanotechnology, Molecule, Graphene, Carbon, Chemical substance, Lithium-ion battery, Carbon nanotube, Chemical reaction, Microscopy, Max Planck Institute of Colloids and Interfaces, Physical chemistry, Manufacturing, Materials, Applied and interdisciplinary physics, Physical sciences, Chemistry, Materials science]
 ---
 
 

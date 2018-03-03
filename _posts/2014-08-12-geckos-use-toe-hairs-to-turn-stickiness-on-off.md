@@ -4,7 +4,7 @@ title: "Geckos use toe hairs to turn stickiness on/off"
 date: 2015-10-29
 categories: Science
 author: unknown author
-
+tags: [Gecko, Physics, Adhesion, Optics, Max Planck Institute of Quantum Optics, Science, Applied and interdisciplinary physics, Chemistry, Materials science, Physical chemistry, Physical sciences]
 ---
 
 

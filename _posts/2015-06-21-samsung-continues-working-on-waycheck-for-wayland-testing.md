@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Samsung Continues Working On "Waycheck" For Wayland Testing"
+title: "Samsung Continues Working On Waycheck For Wayland Testing"
 date: 2015-06-28
 categories: Linux
 author: unknown author

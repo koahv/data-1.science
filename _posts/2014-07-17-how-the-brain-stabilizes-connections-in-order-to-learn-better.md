@@ -4,7 +4,7 @@ title: "How the brain stabilizes connections in order to learn better"
 date: 2015-08-11
 categories: Science
 author: unknown author
-
+tags: [Synapse, Neuron, Brain, Astrocyte, Nervous system, Synaptic plasticity, Central nervous system, Organs (anatomy), Biology, Neuroscience]
 ---
 
 

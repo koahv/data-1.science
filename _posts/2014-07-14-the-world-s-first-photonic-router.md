@@ -4,7 +4,7 @@ title: "The world's first photonic router"
 date: 2014-07-16
 categories: Technology
 author: unknown author
-
+tags: [Photon, Photonics, Science, Quantum mechanics, Physics, Atom, Optics, Chemistry, Electromagnetic radiation, Modern physics, Natural philosophy, Solid state engineering, Particle physics, Physical sciences, Applied and interdisciplinary physics, Mechanics, Atomic molecular and optical physics]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Fogo volcano on Sentinel’s radar"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-
+tags: [Sentinel-1A, Sentinel-1, Volcano, Earth sciences, Geology]
 ---
 
 

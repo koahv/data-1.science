@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""An Astonishing Simplicity Underlies the Universe" (Weekend Feature Video)"
+title: "An Astonishing Simplicity Underlies the Universe (Weekend Feature Video)"
 date: 2016-06-13
 categories: Astronomy
 author: dailygalaxy.com

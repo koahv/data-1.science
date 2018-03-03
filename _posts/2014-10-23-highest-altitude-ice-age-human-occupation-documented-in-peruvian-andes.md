@@ -4,7 +4,7 @@ title: "Highest altitude ice age human occupation documented in Peruvian Andes"
 date: 2015-07-16
 categories: Science
 author: unknown author
-
+tags: [Human, Vicua, Llama]
 ---
 
 

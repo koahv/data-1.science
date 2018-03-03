@@ -4,7 +4,7 @@ title: "Researchers uncover evidence of people predating Amazonian rainforest"
 date: 2014-08-18
 categories: Science
 author: unknown author
-
+tags: [Amazon rainforest, Deforestation, Pre-Columbian era, Natural environment, Earth sciences, Physical geography]
 ---
 
 

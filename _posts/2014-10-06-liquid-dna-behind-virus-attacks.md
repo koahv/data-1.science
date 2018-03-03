@@ -4,7 +4,7 @@ title: "Liquid DNA behind virus attacks"
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Virus, Herpes simplex virus, Infection, DNA, Bacteria, Phase (matter), Herpesviridae, Bacteriophage, Organisms, Life sciences, Biology, Microbiology, Medical specialties]
 ---
 
 

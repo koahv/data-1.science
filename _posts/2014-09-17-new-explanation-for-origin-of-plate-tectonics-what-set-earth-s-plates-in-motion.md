@@ -4,7 +4,7 @@ title: "New explanation for origin of plate tectonics: What set Earth's plates i
 date: 2016-03-26
 categories: Science
 author: unknown author
-
+tags: [Plate tectonics, Earth science, Mantle (geology), Geophysics, Structure of the Earth, Earth sciences, Applied and interdisciplinary physics, Global natural environment, Planets of the Solar System, Physical sciences, Nature, Planetary science, Geology]
 ---
 
 

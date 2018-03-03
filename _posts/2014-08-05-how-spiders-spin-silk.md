@@ -4,7 +4,7 @@ title: "How spiders spin silk"
 date: 2015-10-28
 categories: Science
 author: unknown author
-
+tags: [Spidroin, Spider silk, PH, Carbonic anhydrase, Protein, Acid, Chemical substances, Chemistry, Molecular biology, Biology, Biochemistry, Physical sciences]
 ---
 
 

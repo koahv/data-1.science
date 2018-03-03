@@ -4,7 +4,7 @@ title: "What is the solar wind?"
 date: 2015-07-14
 categories: Astronomy
 author: Maria Temming
-
+tags: [Sun, Solar wind, Magnetosphere, Earth, Phases of matter, Stellar astronomy, Astrophysics, Physical sciences, Astronomy, Outer space, Space science, Solar System, Nature, Physics, Applied and interdisciplinary physics, Planetary science, Bodies of the Solar System, Astronomical objects]
 ---
 
 

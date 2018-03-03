@@ -4,7 +4,7 @@ title: "'Genome editing' could correct genetic mutations for future generations"
 date: 2016-04-12
 categories: Science
 author: unknown author
-
+tags: [Gene, Stem cell, Genetics, Mutation, Gene therapy, Genome editing, Spermatogonial stem cell, DNA repair, Biochemistry, Biology, Life sciences, Molecular biology, Organisms, Biotechnology]
 ---
 
 

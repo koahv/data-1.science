@@ -4,7 +4,7 @@ title: "Next-generation dark matter experiments get the green light"
 date: 2015-09-13
 categories: Science
 author: unknown author
-
+tags: [Large Underground Xenon experiment, Dark matter, Weakly interacting massive particles, Matter, Mechanics, Astronomy, Science, Nature, Physical universe, Applied and interdisciplinary physics, Cosmology, Particle physics, Physical cosmology, Physical sciences, Physics]
 ---
 
 

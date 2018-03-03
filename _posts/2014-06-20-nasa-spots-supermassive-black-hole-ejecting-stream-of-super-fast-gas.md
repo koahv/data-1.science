@@ -4,7 +4,7 @@ title: "NASA Spots Supermassive Black Hole Ejecting Stream of Super Fast Gas"
 date: 2014-06-22
 categories: Science
 author: unknown author
-
+tags: [Galaxy, Black hole, Active galactic nucleus, NGC 5548, Supermassive black hole, Hubble Space Telescope, Radiation, Physical sciences, Outer space, Astronomy, Astronomical objects, Physical cosmology]
 ---
 
 

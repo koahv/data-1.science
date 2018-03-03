@@ -4,7 +4,7 @@ title: "NASA's Aquarius returns global maps of soil moisture"
 date: 2014-07-13
 categories: Technology
 author: unknown author
-
+tags: [Aquarius (SAC-D instrument), Soil Moisture and Ocean Salinity, Nature, Oceanography, Applied and interdisciplinary physics, Meteorology, Physical geography, Earth sciences]
 ---
 
 
