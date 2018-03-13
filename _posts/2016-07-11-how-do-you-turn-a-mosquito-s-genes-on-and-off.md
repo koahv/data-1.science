@@ -4,7 +4,7 @@ title: "How do you turn a mosquito's genes on and off?"
 date: 2016-07-21
 categories: Science
 author: unknown author
-tags: [National Institutes of Health, Genetics, Genome, Mosquito, Anopheles, Drosophila melanogaster, Malaria, Gene, Organisms, Biotechnology, Biology, Life sciences]
+tags: [National Institutes of Health, Genetics, Genome, Mosquito, Anopheles, Drosophila melanogaster, Malaria, Gene, Organisms, Biotechnology, Biology, Life sciences, Featured]
 ---
 
 

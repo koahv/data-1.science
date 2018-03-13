@@ -4,7 +4,7 @@ title: "Researchers explore possibilities of growing plants on Mars"
 date: 2017-09-23
 categories: Astronomy
 author: unknown author
-tags: [Mars, Soil, Martian soil, NASA, Regolith, Outer space]
+tags: [Mars, Soil, Martian soil, NASA, Regolith, Outer space, Featured]
 ---
 
 

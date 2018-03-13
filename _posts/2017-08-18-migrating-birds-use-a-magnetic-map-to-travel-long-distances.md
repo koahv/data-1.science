@@ -4,7 +4,7 @@ title: "Migrating birds use a magnetic map to travel long distances"
 date: 2017-10-08
 categories: Science
 author: unknown author
-tags: [Bird migration, Compass, Navigation, Longitude, Magnetic field, Bird, Declination, Geography]
+tags: [Bird migration, Compass, Navigation, Longitude, Magnetic field, Bird, Declination, Geography, Featured]
 ---
 
 

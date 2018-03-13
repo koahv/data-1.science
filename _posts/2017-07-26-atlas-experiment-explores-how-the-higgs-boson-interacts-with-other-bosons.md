@@ -4,7 +4,7 @@ title: "ATLAS Experiment explores how the Higgs boson interacts with other boson
 date: 2017-09-20
 categories: Science
 author: unknown author
-tags: [ATLAS experiment, Higgs boson, Standard Model, Large Hadron Collider, Particle physics, Compact Muon Solenoid, Boson, CERN, Quantum field theory, Science, Physical universe, Solid state engineering, Modern physics, Quantum mechanics, Mechanics, Theoretical physics, Physical sciences, Physics, Physical bodies, Nuclear physics, Chemistry]
+tags: [ATLAS experiment, Higgs boson, Standard Model, Large Hadron Collider, Particle physics, Compact Muon Solenoid, Boson, CERN, Quantum field theory, Science, Physical universe, Solid state engineering, Modern physics, Quantum mechanics, Mechanics, Theoretical physics, Physical sciences, Physics, Physical bodies, Nuclear physics, Chemistry, Featured]
 ---
 
 

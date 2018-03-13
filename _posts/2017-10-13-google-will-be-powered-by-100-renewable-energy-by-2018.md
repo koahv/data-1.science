@@ -4,7 +4,7 @@ title: "Google will be powered by 100% renewable energy by 2018"
 date: 2017-10-14
 categories: Technology
 author: Greg Beach
-tags: [Sustainable energy, Sustainability, Sustainable technologies, Sustainable development, Natural environment, Energy, Physical universe, Nature]
+tags: [Sustainable energy, Sustainability, Sustainable technologies, Sustainable development, Natural environment, Energy, Physical universe, Nature, Featured]
 ---
 
 

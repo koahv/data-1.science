@@ -4,7 +4,7 @@ title: "Researchers store computer operating system and short movie on DNA"
 date: 2017-10-08
 categories: Science
 author: unknown author
-tags: [DNA, DNA sequencing, Genetics, Computer data storage, Biology, Life sciences, Organisms, Biotechnology]
+tags: [DNA, DNA sequencing, Genetics, Computer data storage, Biology, Life sciences, Organisms, Biotechnology, Featured]
 ---
 
 

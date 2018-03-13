@@ -4,7 +4,7 @@ title: "Revolutionary process could signal new era for gene synthesis"
 date: 2017-09-12
 categories: Science
 author: unknown author
-tags: [DNA, Gene, Epigenetics, Biology, Chemistry, Biochemistry, Molecular biology, Organisms, Biotechnology, Genetics, Life sciences]
+tags: [DNA, Gene, Epigenetics, Biology, Chemistry, Biochemistry, Molecular biology, Organisms, Biotechnology, Genetics, Life sciences, Featured]
 ---
 
 

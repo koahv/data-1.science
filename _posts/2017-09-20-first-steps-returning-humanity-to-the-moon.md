@@ -4,7 +4,7 @@ title: "First steps: returning humanity to the Moon"
 date: 2017-09-23
 categories: Astronomy
 author: unknown author
-tags: [Moon, Apollo program, Exploration of the Moon, Lander (spacecraft), European Space Agency, Sustainability, Neil Armstrong, Outer space, Spaceflight, Astronautics, Technology, Spacecraft, Space exploration, Aerospace engineering, Flight]
+tags: [Moon, Apollo program, Exploration of the Moon, Lander (spacecraft), European Space Agency, Sustainability, Neil Armstrong, Outer space, Spaceflight, Astronautics, Technology, Spacecraft, Space exploration, Aerospace engineering, Flight, Featured]
 ---
 
 

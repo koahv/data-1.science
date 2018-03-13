@@ -4,7 +4,7 @@ title: "XENON1T, the most sensitive detector on Earth searching for WIMP dark ma
 date: 2017-09-21
 categories: Science
 author: unknown author
-tags: [XENON, Dark matter, Weakly interacting massive particles, Science, Physical cosmology, Nature, Physical sciences, Physics, Physical universe]
+tags: [XENON, Dark matter, Weakly interacting massive particles, Science, Physical cosmology, Nature, Physical sciences, Physics, Physical universe, Featured]
 ---
 
 

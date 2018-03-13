@@ -4,7 +4,7 @@ title: "How the insights of the Large Hadron Collider are being made open to eve
 date: 2017-09-16
 categories: Science
 author: unknown author
-tags: [CERN, Large Hadron Collider, Open access, Research, Science, Physics]
+tags: [CERN, Large Hadron Collider, Open access, Research, Science, Physics, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Liftoff replay"
 date: 2017-09-23
 categories: Astronomy
 author: unknown author
-tags: [Sentinel-2, Earth sciences]
+tags: [Sentinel-2, Earth sciences, Featured]
 ---
 
 

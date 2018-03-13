@@ -9,13 +9,13 @@ tags: [Fordham University, Evolution, Adaptation, University of Toronto Mississa
 
 
 #### Digest
->Loss of habitat and urban barriers (roads, buildings, etc.) pose challenges to all kinds of species and some may adapt in undesirable ways.
+>"Traditionally, we've thought about evolution as a long-term process driven by environmental pressures and the interactions between species. But now there is a new driver that is rapidly changing many other species, which is how they interact with humans and our built environment", says Munshi-South. "Humans and our cities are one of the most dominant forces of contemporary evolution now." Given that species are evolving so rapidly in response to urbanization, the outdoors also becomes a classroom that offers an opportunity to see examples of evolution firsthand. Urban evolution can be used as a tool to educate city dwellers and others about the reality and importance of evolutionary biology.
 
 #### Extract
 >(University of Toronto) In the first study to take a comprehensive look at the way urbanization is affecting evolution, Professors Marc Johnson and Jason Munshi-Smith say they've found a 'wake-up call for the public, governments and other scientists.'...
 
 #### Factsheet
->factsheet unavailable
+>Loss of habitat and urban barriers (roads, buildings, etc.) pose challenges to all kinds of species and some may adapt in undesirable ways.
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-11/uot-aca103017.php)
 

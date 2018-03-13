@@ -4,7 +4,7 @@ title: "A guide to CRISPR gene activation"
 date: 2016-05-24
 categories: Technology
 author: unknown author
-tags: [Cas9, CRISPR, Gene, Biology, Life sciences, Genetics, Biotechnology, Molecular biology, Organisms, Biochemistry]
+tags: [Cas9, CRISPR, Gene, Biology, Life sciences, Genetics, Biotechnology, Molecular biology, Organisms, Biochemistry, Featured]
 ---
 
 

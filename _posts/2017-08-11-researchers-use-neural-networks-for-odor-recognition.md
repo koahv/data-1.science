@@ -4,7 +4,7 @@ title: "Researchers use neural networks for odor recognition"
 date: 2017-09-15
 categories: Science
 author: unknown author
-tags: [Odor, Electronic nose, Olfaction, Artificial intelligence, Artificial objects]
+tags: [Odor, Electronic nose, Olfaction, Artificial intelligence, Artificial objects, Featured]
 ---
 
 

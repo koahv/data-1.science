@@ -4,7 +4,7 @@ title: "First Pluto Features Officially Named"
 date: 2017-09-24
 categories: Astronomy
 author: Javier Barbuzano
-tags: [New Horizons, Pluto, Outer space, Astronomy, Planetary science, Solar System, Space science]
+tags: [New Horizons, Pluto, Outer space, Astronomy, Planetary science, Solar System, Space science, Featured]
 ---
 
 

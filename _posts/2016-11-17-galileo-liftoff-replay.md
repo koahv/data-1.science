@@ -4,7 +4,7 @@ title: "Galileo liftoff replay"
 date: 2017-09-22
 categories: Astronomy
 author: unknown author
-tags: [Space traffic management, Flight, European space programmes, Astronautics, Aerospace engineering, Outer space, Spacecraft, Spaceflight, Space programs]
+tags: [Space traffic management, Flight, European space programmes, Astronautics, Aerospace engineering, Outer space, Spacecraft, Spaceflight, Space programs, Featured]
 ---
 
 

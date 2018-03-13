@@ -4,7 +4,7 @@ title: "SmallGEO liftoff"
 date: 2017-09-23
 categories: Astronomy
 author: unknown author
-tags: [European Space Agency, Spacecraft, Technology, Spaceflight, Outer space, Astronautics, Aerospace engineering, Flight, Spaceflight technologies, Space programs, Telecommunications]
+tags: [European Space Agency, Spacecraft, Technology, Spaceflight, Outer space, Astronautics, Aerospace engineering, Flight, Spaceflight technologies, Space programs, Telecommunications, Featured]
 ---
 
 

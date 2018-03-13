@@ -4,7 +4,7 @@ title: "Learn an instrument with this open source music teacher"
 date: 2016-07-21
 categories: Open Source
 author: SeeLook
-tags: [Music, Test (assessment)]
+tags: [Music, Test (assessment), Featured]
 ---
 
 

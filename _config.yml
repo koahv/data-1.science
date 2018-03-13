@@ -39,11 +39,12 @@ paginate: 50
 paginate_path: "/page/:num/"
 
 header_pages: 
+  - featured.html
   - Grid.md
-  - tags.md
+# - tags.md
   - search.md
 # - about.md
-#  - categories.html
+# - categories.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

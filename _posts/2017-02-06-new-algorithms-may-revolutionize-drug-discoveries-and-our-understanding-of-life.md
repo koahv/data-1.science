@@ -4,7 +4,7 @@ title: "New algorithms may revolutionize drug discoveries -- and our understandi
 date: 2017-03-22
 categories: Science
 author: unknown author
-tags: [Protein, Cryo-electron microscopy, Science, Research, Innovation, University of Toronto, Science and technology]
+tags: [Protein, Cryo-electron microscopy, Science, Research, Innovation, University of Toronto, Science and technology, Featured]
 ---
 
 

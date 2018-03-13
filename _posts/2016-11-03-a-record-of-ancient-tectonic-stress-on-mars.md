@@ -4,7 +4,7 @@ title: "A record of ancient tectonic stress on Mars"
 date: 2017-09-22
 categories: Astronomy
 author: unknown author
-tags: [Tharsis, Geomorphology, Planetary geology, Mars, Planetary science, Earth sciences, Planets of the Solar System, Geology]
+tags: [Tharsis, Geomorphology, Planetary geology, Mars, Planetary science, Earth sciences, Planets of the Solar System, Geology, Featured]
 ---
 
 

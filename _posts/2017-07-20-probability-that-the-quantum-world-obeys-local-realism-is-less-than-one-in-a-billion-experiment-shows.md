@@ -4,7 +4,7 @@ title: "Probability that the quantum world obeys local realism is less than one 
 date: 2017-09-20
 categories: Science
 author: unknown author
-tags: [Bell test experiments, Principle of locality, Loopholes in Bell test experiments, Quantum entanglement, Quantum mechanics, Photon, Physics, Physical sciences, Mechanics, Science, Modern physics, Particle physics, Cognitive science, Theoretical physics, Solid state engineering, Philosophy, Scientific theories, Metaphysics]
+tags: [Bell test experiments, Principle of locality, Loopholes in Bell test experiments, Quantum entanglement, Quantum mechanics, Photon, Physics, Physical sciences, Mechanics, Science, Modern physics, Particle physics, Cognitive science, Theoretical physics, Solid state engineering, Philosophy, Scientific theories, Metaphysics, Featured]
 ---
 
 

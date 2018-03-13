@@ -4,7 +4,7 @@ title: "Amber specimen offers rare glimpse of feathered dinosaur tail"
 date: 2017-10-05
 categories: Science
 author: unknown author
-tags: [Feather, Dinosaur, Fossil, Dinosaurs]
+tags: [Feather, Dinosaur, Fossil, Dinosaurs, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "LIGO's gravitational-wave discovery is Physics World 2016 Breakthrough o
 date: 2017-10-08
 categories: Science
 author: unknown author
-tags: [Gravity, Gravitational wave, First observation of gravitational waves, LIGO, Special relativity, Gravitational-wave astronomy, Inflation (cosmology), Moon, Physical cosmology, Natural philosophy, Science, Applied and interdisciplinary physics, Physical quantities, Spacetime, Astronomy, Mechanics, Physical sciences, Physics]
+tags: [Gravity, Gravitational wave, First observation of gravitational waves, LIGO, Special relativity, Gravitational-wave astronomy, Inflation (cosmology), Moon, Physical cosmology, Natural philosophy, Science, Applied and interdisciplinary physics, Physical quantities, Spacetime, Astronomy, Mechanics, Physical sciences, Physics, Featured]
 ---
 
 

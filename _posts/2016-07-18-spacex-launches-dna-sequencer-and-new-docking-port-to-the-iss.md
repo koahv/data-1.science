@@ -4,7 +4,7 @@ title: "SpaceX launches DNA sequencer and new docking port to the ISS"
 date: 2016-07-22
 categories: Astronomy
 author: unknown author
-tags: [SpaceX Dragon, Private spaceflight, Spaceflight, Spacecraft, Outer space, Human spaceflight, Spaceflight technologies, Aerospace engineering, Astronautics, Flight, Aerospace, Industries, Space-based economy, Space industry, Space programs]
+tags: [SpaceX Dragon, Private spaceflight, Spaceflight, Spacecraft, Outer space, Human spaceflight, Spaceflight technologies, Aerospace engineering, Astronautics, Flight, Aerospace, Industries, Space-based economy, Space industry, Space programs, Featured]
 ---
 
 

@@ -25,15 +25,22 @@ layout: default
 <h4><b>Tags</b></h4>
 
 
+
+
+
 <ul class="tags">
 
 	{% for tag in page.tags %}
     		
-		<li><a href="/tags#{{ tag | cgi_escape }}" class="tag">{{ tag }}</a></li>
-
+		<li>{{ tag }}</li>
 		
 	{% endfor %}
 </ul>
+
+
+
+
+
 </div>
 
 </article>

@@ -4,7 +4,7 @@ title: "Researchers discuss the future impact of today's nanotech research"
 date: 2017-10-12
 categories: Science
 author: unknown author
-tags: [Nanotechnology, Biology, Chemistry, Applied and interdisciplinary physics, Science and technology, Science]
+tags: [Nanotechnology, Biology, Chemistry, Applied and interdisciplinary physics, Science and technology, Science, Featured]
 ---
 
 

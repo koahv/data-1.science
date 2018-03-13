@@ -4,7 +4,7 @@ title: "The crown jewel of the HL-LHC magnets"
 date: 2017-10-08
 categories: Science
 author: unknown author
-tags: [Large Hadron Collider, CERN, High Luminosity Large Hadron Collider, Particle accelerator, Superconductivity, Applied and interdisciplinary physics, Physics, Physical sciences, Particle physics]
+tags: [Large Hadron Collider, CERN, High Luminosity Large Hadron Collider, Particle accelerator, Superconductivity, Applied and interdisciplinary physics, Physics, Physical sciences, Particle physics, Featured]
 ---
 
 

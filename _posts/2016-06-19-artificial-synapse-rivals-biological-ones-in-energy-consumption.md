@@ -4,7 +4,7 @@ title: "Artificial synapse rivals biological ones in energy consumption"
 date: 2016-06-24
 categories: Technology
 author: unknown author
-tags: [Synaptic plasticity, Neuromorphic engineering, Neuroscience, Artificial objects, Nervous system, Science and technology, Technology]
+tags: [Synaptic plasticity, Neuromorphic engineering, Neuroscience, Artificial objects, Nervous system, Science and technology, Technology, Featured]
 ---
 
 

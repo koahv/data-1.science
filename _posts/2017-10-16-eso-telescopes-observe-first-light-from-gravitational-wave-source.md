@@ -4,7 +4,7 @@ title: "ESO telescopes observe first light from gravitational wave source"
 date: 2017-10-17
 categories: Science
 author: unknown author
-tags: [European Southern Observatory, LIGO, GW170817, Gravitational wave, Astronomy, Very Large Telescope, Paranal Observatory, Astronomical imaging, Science, Physical sciences, Outer space, Observational astronomy, Physics, Scientific observation]
+tags: [European Southern Observatory, LIGO, GW170817, Gravitational wave, Astronomy, Very Large Telescope, Paranal Observatory, Astronomical imaging, Science, Physical sciences, Outer space, Observational astronomy, Physics, Scientific observation, Featured]
 ---
 
 

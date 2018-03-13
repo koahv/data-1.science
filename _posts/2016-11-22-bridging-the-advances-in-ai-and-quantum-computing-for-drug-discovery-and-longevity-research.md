@@ -4,7 +4,7 @@ title: "Bridging the advances in AI and quantum computing for drug discovery and
 date: 2017-03-23
 categories: Technology
 author: unknown author
-tags: [Photonics, Deep learning, Insilico Medicine, Computing, Artificial intelligence, Medicine, Technology, Drug discovery, Learning, Science and technology, Cognitive science, Science]
+tags: [Photonics, Deep learning, Insilico Medicine, Computing, Artificial intelligence, Medicine, Technology, Drug discovery, Learning, Science and technology, Cognitive science, Science, Featured]
 ---
 
 

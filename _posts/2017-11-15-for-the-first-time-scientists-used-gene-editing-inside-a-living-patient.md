@@ -4,7 +4,7 @@ title: "For the First Time, Scientists Used Gene Editing Inside a Living Patient
 date: 2017-11-19
 categories: Science
 author: Brad Jones
-tags: [Hunter syndrome, Organisms, Diseases and disorders, Health sciences, Medical specialties, Health, Biotechnology, Clinical medicine, Genetics, Medicine, Life sciences, Biology]
+tags: [Hunter syndrome, Organisms, Diseases and disorders, Health sciences, Medical specialties, Health, Biotechnology, Clinical medicine, Genetics, Medicine, Life sciences, Biology, Featured]
 ---
 
 

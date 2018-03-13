@@ -3,6 +3,7 @@ rm post_data/id.txt
 psql -t -U postgres -o post_data/id.txt -d ttrssdb2 -c "SELECT f.id FROM ttrss_user_entries e INNER JOIN ttrss_entries f ON f.id = e.ref_id WHERE e.marked ORDER BY f.id DESC"
 sed -i '$ d' post_data/id.txt
 
+
 while IFS=$'\n' read -r line_data; do # < post_data/id.txt
  
 
@@ -28,6 +29,9 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 	tags=$(psql -X -A -U postgres -d ttrssdb2 --single-transaction --set ON_ERROR_STOP=on --no-align -t --quiet -c "SELECT e.tags_new FROM ttrss_user_entries e INNER JOIN ttrss_feeds d ON d.id = e.feed_id INNER JOIN ttrss_entries f ON f.id = e.ref_id INNER JOIN ttrss_feed_categories g ON d.cat_id = g.id WHERE f.id = $line_data")
 	# echo $tags
 
+	tags_old=$(psql -X -A -U postgres -d ttrssdb2 --single-transaction --set ON_ERROR_STOP=on --no-align -t --quiet -c "SELECT e.tag_cache FROM ttrss_user_entries e INNER JOIN ttrss_entries f ON f.id = e.ref_id WHERE f.id = $line_data")
+	# echo $tags
+
 	extract=$(psql -X -A -U postgres -d ttrssdb2 --single-transaction --set ON_ERROR_STOP=on --no-align -t --quiet -c "SELECT f.content FROM ttrss_entries f WHERE f.id = $line_data")
 	# echo $extract
 
@@ -35,6 +39,12 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 	# echo $custom_extract
 
 	custom_extract=$(psql -X -A -U postgres -d ttrssdb2 --single-transaction --set ON_ERROR_STOP=on --no-align -t --quiet -c "SELECT e.note FROM ttrss_user_entries e INNER JOIN ttrss_feeds d ON d.id = e.feed_id INNER JOIN ttrss_entries f ON f.id = e.ref_id INNER JOIN ttrss_feed_categories g ON d.cat_id = g.id WHERE f.id = $line_data")
+
+
+# if tags_old contains d1featured then append to mod_tags
+
+
+
 
 
 	# strip html tags
@@ -50,8 +60,18 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 	split_date_0=($last_marked)
 	split_date_1=($date)
 
-	# format tags with commas
-	mod_tags="$(echo -e "${tags}" | sed -e 's/,/, /g')"
+
+	if [[ $tags_old = *"d1featured"* ]]; then
+
+		mod_tags="$(echo -e "${tags},Featured" | sed -e 's/,/, /g')"
+		echo "FEATURED POST: $title"
+	else
+		# format tags with commas
+		mod_tags="$(echo -e "${tags}" | sed -e 's/,/, /g')"	
+	fi
+
+
+
 	# echo $mod_tags
 	
 	#header="$(echo -e "${custom_extract}" | sed -e 's/##\(.*\)##/\1/')"
@@ -66,15 +86,7 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 
 
 
-	#echo "<ul>" >> taglist.txt
 
-	#for i in $(echo $tags | sed "s/,/ /g"); do
-    	#	echo "<li>$i</li>" >> taglist.txt
-	#done
-	
-	#echo "</ul>" >> taglist.txt
-
-	#taglist=`cat taglist.txt`
 
 
 
@@ -102,10 +114,10 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 
 
 	# clear files
-	rm post_data/${split_date_1[0]}-$mod_title1.md
+	# rm post_data/${split_date_1[0]}-$mod_title1.md
 
 	# write post
-	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: ${split_date_0[0]}\\ncategories: $category\\nauthor: $author\\n$mod_tags\\n---\\n\\n\\n#### Digest\\n>$digest\\n\\n#### Extract\\n>$mod_extract2...\\n\\n#### Factsheet\\n>$factsheet\\n\\n[Visit Link]($link)\\n\\n" >> post_data/${split_date_1[0]}-$mod_title1.md
+	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: ${split_date_0[0]}\\ncategories: $category\\nauthor: $author\\n$mod_tags\\n---\\n\\n\\n#### Digest\\n>$digest\\n\\n#### Extract\\n>$mod_extract2...\\n\\n#### Factsheet\\n>$factsheet\\n\\n[Visit Link]($link)\\n\\n" > post_data/${split_date_1[0]}-$mod_title1.md
 
 #tags: [$mod_tags]\\n
 
@@ -120,7 +132,15 @@ done < post_data/id.txt
 
 
 
+	#echo "<ul>" >> taglist.txt
 
+	#for i in $(echo $tags | sed "s/,/ /g"); do
+    	#	echo "<li>$i</li>" >> taglist.txt
+	#done
+	
+	#echo "</ul>" >> taglist.txt
+
+	#taglist=`cat taglist.txt`
 
 
 

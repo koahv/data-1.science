@@ -4,7 +4,7 @@ title: "Deep learning system for drug discovery to be presented at the Machine I
 date: 2016-06-14
 categories: Technology
 author: unknown author
-tags: [Pharmaceutical drug, Artificial intelligence, Pharmaceutical industry, Deep learning, Research, Drug discovery, Pharmacology, Medical research, Science and technology, Science, Life sciences, Health sciences, Biology, Medicine]
+tags: [Pharmaceutical drug, Artificial intelligence, Pharmaceutical industry, Deep learning, Research, Drug discovery, Pharmacology, Medical research, Science and technology, Science, Life sciences, Health sciences, Biology, Medicine, Featured]
 ---
 
 

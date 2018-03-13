@@ -4,7 +4,7 @@ title: "Human brain recalls visual features in reverse order than it detects the
 date: 2017-10-10
 categories: Science
 author: unknown author
-tags: [Perception, Encoding (memory), Memory, Information, Brain, Research, neuropsychology, Behavioural sciences, Nervous system, Mental processes, Cognition, Phenomenology, Emergence, Psychology, Neuropsychology, Neuropsychological assessment, Epistemology, Neuroscience, Psychological concepts, Science, Cognitive science]
+tags: [Perception, Encoding (memory), Memory, Information, Brain, Research, neuropsychology, Behavioural sciences, Nervous system, Mental processes, Cognition, Phenomenology, Emergence, Psychology, Neuropsychology, Neuropsychological assessment, Epistemology, Neuroscience, Psychological concepts, Science, Cognitive science, Featured]
 ---
 
 
