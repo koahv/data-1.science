@@ -4,7 +4,7 @@ title: "How Fast Does the Earth Move as it Orbits the Sun?"
 date: 2015-08-25
 categories: Astronomy
 author: Jolene Creighton
-tags: [Internet Standards, Internet architecture, Internet, Internet protocols, IT infrastructure, Communications protocols, Networking standards, Cyberspace, Network protocols, Computer networking]
+tags: [Internet Standards, Internet architecture, Internet, Internet protocols, IT infrastructure, Communications protocols, Networking standards, Cyberspace, Network protocols, Computer networking, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "A Photon’s Million-Year Journey From the Center of the Sun"
 date: 2015-09-02
 categories: Astronomy
 author: Avery Thompson
-tags: [Internet Standards, Internet architecture, Internet, Internet protocols, IT infrastructure, Communications protocols, Networking standards, Cyberspace, Network protocols, Computer networking]
+tags: [Internet Standards, Internet architecture, Internet, Internet protocols, IT infrastructure, Communications protocols, Networking standards, Cyberspace, Network protocols, Computer networking, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Successful heart transplant after using experimental artificial heart"
 date: 2016-05-10
 categories: Science
 author: unknown author
-tags: [Artificial heart, Organ transplantation, Heart, Heart transplantation, Organ donation, Surgery, Health care, Medicine, Health sciences, Medical specialties, Clinical medicine, Health, Medical treatments]
+tags: [Artificial heart, Organ transplantation, Heart, Heart transplantation, Organ donation, Surgery, Health care, Medicine, Health sciences, Medical specialties, Clinical medicine, Health, Medical treatments, Featured]
 ---
 
 

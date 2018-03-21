@@ -4,7 +4,7 @@ title: "Pluto's escaping atmosphere extends 1,000 miles out into space"
 date: 2015-07-20
 categories: Science
 author: Loren Grush
-tags: [Atmosphere of Pluto, New Horizons, Atmosphere of Earth, Pluto, Sun, Planets of the Solar System, Nature, Astronomical objects, Outer space, Space science, Astronomy, Planetary science, Solar System, Physical sciences, Bodies of the Solar System, Planets]
+tags: [Atmosphere of Pluto, New Horizons, Atmosphere of Earth, Pluto, Sun, Planets of the Solar System, Nature, Astronomical objects, Outer space, Space science, Astronomy, Planetary science, Solar System, Physical sciences, Bodies of the Solar System, Planets, Featured]
 ---
 
 

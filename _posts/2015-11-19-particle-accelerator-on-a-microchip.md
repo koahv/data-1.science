@@ -4,7 +4,7 @@ title: "Particle accelerator on a microchip"
 date: 2015-12-21
 categories: Technology
 author: unknown author
-tags: [DESY, Particle accelerator, Electron, Laser, Applied and interdisciplinary physics, Science, Physics, Electromagnetic radiation]
+tags: [DESY, Particle accelerator, Electron, Laser, Applied and interdisciplinary physics, Science, Physics, Electromagnetic radiation, Featured]
 ---
 
 

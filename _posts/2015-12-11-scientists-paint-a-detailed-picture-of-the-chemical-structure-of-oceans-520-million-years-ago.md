@@ -4,7 +4,7 @@ title: "Scientists paint a detailed picture of the chemical structure of oceans 
 date: 2015-12-22
 categories: Science
 author: unknown author
-tags: [Ocean, Anoxic waters, Redox, Science, Chemistry, Physical sciences, Nature, Oceanography, Earth sciences, Hydrography, Physical geography]
+tags: [Ocean, Anoxic waters, Redox, Science, Chemistry, Physical sciences, Nature, Oceanography, Earth sciences, Hydrography, Physical geography, Featured]
 ---
 
 

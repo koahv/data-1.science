@@ -4,7 +4,7 @@ title: "100% Renewable Electricity: Is It Possible Right Now?"
 date: 2015-11-24
 categories: Energy
 author: Guest Contributor
-tags: [Wind power, Efficient energy use, Renewable energy, Compact fluorescent lamp, LED lamp, Watt, Net metering, Energy production, Electricity, Renewable resources, Technology, Alternative energy, Artificial objects, Electric power, Power (physics), Sustainable development, Sustainable energy, Physical universe, Sustainable technologies, Nature, Energy]
+tags: [Wind power, Efficient energy use, Renewable energy, Compact fluorescent lamp, LED lamp, Watt, Net metering, Energy production, Electricity, Renewable resources, Technology, Alternative energy, Artificial objects, Electric power, Power (physics), Sustainable development, Sustainable energy, Physical universe, Sustainable technologies, Nature, Energy, Featured]
 ---
 
 

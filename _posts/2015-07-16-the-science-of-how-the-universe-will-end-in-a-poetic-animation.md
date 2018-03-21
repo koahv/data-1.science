@@ -4,7 +4,7 @@ title: "The Science of How the Universe Will End, in a Poetic Animation"
 date: 2015-07-17
 categories: Philosophy
 author: Maria Popova
-
+tags: [, Featured]
 ---
 
 

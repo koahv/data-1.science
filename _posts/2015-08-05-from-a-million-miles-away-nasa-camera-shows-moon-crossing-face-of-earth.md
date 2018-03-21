@@ -4,7 +4,7 @@ title: "From a million miles away, NASA camera shows moon crossing face of Earth
 date: 2015-12-21
 categories: Technology
 author: unknown author
-tags: [Deep Space Climate Observatory, Moon, Outer space, Planetary science, Astronomy, Space science, Spaceflight, Solar System, Physical sciences, Planets of the Solar System, Bodies of the Solar System, Astronautics]
+tags: [Deep Space Climate Observatory, Moon, Outer space, Planetary science, Astronomy, Space science, Spaceflight, Solar System, Physical sciences, Planets of the Solar System, Bodies of the Solar System, Astronautics, Featured]
 ---
 
 

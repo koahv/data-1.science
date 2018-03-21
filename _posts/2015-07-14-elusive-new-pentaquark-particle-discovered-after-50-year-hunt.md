@@ -4,7 +4,7 @@ title: "Elusive New Pentaquark Particle Discovered After 50-Year Hunt"
 date: 2015-07-16
 categories: Science
 author: unknown author
-tags: [Pentaquark, Quark, Hadron, Large Hadron Collider, Subatomic particle, Matter, Particle physics, Standard Model, Quantum chromodynamics, Theoretical physics, Physical universe, Quantum mechanics, Fermions, Hadrons, Physical sciences, Physics, Quantum field theory, Subatomic particles, Nuclear physics, Physical bodies]
+tags: [Pentaquark, Quark, Hadron, Large Hadron Collider, Subatomic particle, Matter, Particle physics, Standard Model, Quantum chromodynamics, Theoretical physics, Physical universe, Quantum mechanics, Fermions, Hadrons, Physical sciences, Physics, Quantum field theory, Subatomic particles, Nuclear physics, Physical bodies, Featured]
 ---
 
 

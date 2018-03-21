@@ -4,7 +4,7 @@ title: "NASA is laser-focused on deep space communication"
 date: 2016-05-31
 categories: Science
 author: unknown author
-tags: [International Space Station, Telecommunication, NASA, Mars, Astronomy, Laser, Flight controller, Free-space optical communication, Communication, Exploration of Mars, Optics, Outer space, Spaceflight]
+tags: [International Space Station, Telecommunication, NASA, Mars, Astronomy, Laser, Flight controller, Free-space optical communication, Communication, Exploration of Mars, Optics, Outer space, Spaceflight, Featured]
 ---
 
 

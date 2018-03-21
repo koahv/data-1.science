@@ -4,7 +4,7 @@ title: "Today in Engineering History: Open Source OS Revolution"
 date: 2015-12-21
 categories: Technology
 author: mfassbender
-tags: [386BSD, Free system software, Open-source movement, Digital media, Computer engineering, Free software, Computer architecture, Computers, Berkeley Software Distribution, System software, University of California Berkeley, Operating system families, Unix variants, Computing, Unix, Software, Free content, Berkeley California]
+tags: [386BSD, Free system software, Open-source movement, Digital media, Computer engineering, Free software, Computer architecture, Computers, Berkeley Software Distribution, System software, University of California Berkeley, Operating system families, Unix variants, Computing, Unix, Software, Free content, Berkeley California, Featured]
 ---
 
 

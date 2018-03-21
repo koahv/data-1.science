@@ -4,7 +4,7 @@ title: "What are asteroids made of?"
 date: 2016-06-30
 categories: Science
 author: unknown author
-tags: [Asteroid, Near-Earth object, Solar System, Asteroid belt, Planetary surface, Astronomy, Comet, Earth, Astronomical objects, Bodies of the Solar System, Physical sciences, Space science, Outer space, Planetary science]
+tags: [Asteroid, Near-Earth object, Solar System, Asteroid belt, Planetary surface, Astronomy, Comet, Earth, Astronomical objects, Bodies of the Solar System, Physical sciences, Space science, Outer space, Planetary science, Featured]
 ---
 
 

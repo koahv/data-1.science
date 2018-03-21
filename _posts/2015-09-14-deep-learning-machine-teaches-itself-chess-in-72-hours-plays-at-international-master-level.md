@@ -4,7 +4,7 @@ title: "Deep Learning Machine Teaches Itself Chess in 72 Hours, Plays at Interna
 date: 2015-09-15
 categories: Technology
 author: unknown author
-tags: [Artificial neural network, Deep Blue (chess computer), Artificial intelligence, Chess, Computer chess, Cybernetics, Cognitive science, Computing, Technology, Areas of computer science]
+tags: [Artificial neural network, Deep Blue (chess computer), Artificial intelligence, Chess, Computer chess, Cybernetics, Cognitive science, Computing, Technology, Areas of computer science, Featured]
 ---
 
 

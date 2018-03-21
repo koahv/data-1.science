@@ -4,7 +4,7 @@ title: "Fortifying computer chips for space travel"
 date: 2015-09-13
 categories: Science
 author: unknown author
-tags: [Cyclotron, Radiation, NASA, Particle accelerator, Mars, Cosmic ray, Cape Canaveral Air Force Station, Microprocessor, Sun, Coronal mass ejection, Physics, Physical sciences, Spaceflight, Outer space]
+tags: [Cyclotron, Radiation, NASA, Particle accelerator, Mars, Cosmic ray, Cape Canaveral Air Force Station, Microprocessor, Sun, Coronal mass ejection, Physics, Physical sciences, Spaceflight, Outer space, Featured]
 ---
 
 

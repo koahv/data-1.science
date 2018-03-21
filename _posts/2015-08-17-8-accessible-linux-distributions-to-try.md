@@ -4,7 +4,7 @@ title: "8 accessible Linux distributions to try"
 date: 2015-08-24
 categories: Open Source
 author: kendell clark
-tags: [Linux distribution, Ubuntu (operating system), Linux, Booting, Fedora (operating system), Arch Linux, ISO image, Desktop environment, Unity (user interface), Accessibility, Computer keyboard, Software, Trisquel, System software, Computers, Digital media, Technology, Computer engineering, Computing]
+tags: [Linux distribution, Ubuntu (operating system), Linux, Booting, Fedora (operating system), Arch Linux, ISO image, Desktop environment, Unity (user interface), Accessibility, Computer keyboard, Software, Trisquel, System software, Computers, Digital media, Technology, Computer engineering, Computing, Featured]
 ---
 
 

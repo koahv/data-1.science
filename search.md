@@ -5,7 +5,7 @@ permalink: /search/
 ---
 <!-- Html Elements for Search -->
 <div id="search-container">
-<input type="text" id="search-input" placeholder="search... (250 results max)">
+<input type="text" id="search-input" placeholder="Search...">
 <p><ul id="results-container"></ul></p>
 </div>
 

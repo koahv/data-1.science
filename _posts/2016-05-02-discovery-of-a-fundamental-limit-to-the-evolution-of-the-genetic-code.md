@@ -4,7 +4,7 @@ title: "Discovery of a fundamental limit to the evolution of the genetic code"
 date: 2016-05-03
 categories: Science
 author: unknown author
-tags: [Translation (biology), Genetics, Transfer RNA, Genetic code, Gene, Protein, Nucleic acid sequence, Chemistry, Cell biology, Biology, Life sciences, Molecular biology, Organisms, Biotechnology, Biochemistry]
+tags: [Translation (biology), Genetics, Transfer RNA, Genetic code, Gene, Protein, Nucleic acid sequence, Chemistry, Cell biology, Biology, Life sciences, Molecular biology, Organisms, Biotechnology, Biochemistry, Featured]
 ---
 
 

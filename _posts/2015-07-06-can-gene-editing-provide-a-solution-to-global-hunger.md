@@ -4,7 +4,7 @@ title: "Can gene editing provide a solution to global hunger?"
 date: 2016-05-10
 categories: Science
 author: unknown author
-tags: [Genetic engineering, Genome editing, Transcription activator-like effector nuclease, Biotechnology, Genetically modified organism, Agriculture, Genetics, Food security, Food and drink, Biology, Organisms, Life sciences]
+tags: [Genetic engineering, Genome editing, Transcription activator-like effector nuclease, Biotechnology, Genetically modified organism, Agriculture, Genetics, Food security, Food and drink, Biology, Organisms, Life sciences, Featured]
 ---
 
 

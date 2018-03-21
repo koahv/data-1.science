@@ -4,7 +4,7 @@ title: "Weyl points, first predicted in 1929, observed for the first time"
 date: 2016-05-14
 categories: Science
 author: unknown author
-tags: [Physics, Photonics, Photonic crystal, Science, Gyroid, Laser, Optics, Neutrino, Space, Magnetic monopole, Hermann Weyl, Physical sciences, Applied and interdisciplinary physics, Mechanics]
+tags: [Physics, Photonics, Photonic crystal, Science, Gyroid, Laser, Optics, Neutrino, Space, Magnetic monopole, Hermann Weyl, Physical sciences, Applied and interdisciplinary physics, Mechanics, Featured]
 ---
 
 

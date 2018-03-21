@@ -4,7 +4,7 @@ title: "CERN: Confirms the Fundamental Symmetry of the Universe"
 date: 2015-09-27
 categories: Astronomy
 author: dailygalaxy.com
-tags: [ALICE experiment, Particle physics, Large Hadron Collider, Neutron, Physics, Physical sciences, Nuclear physics, Physical universe, Physical cosmology, Theoretical physics]
+tags: [ALICE experiment, Particle physics, Large Hadron Collider, Neutron, Physics, Physical sciences, Nuclear physics, Physical universe, Physical cosmology, Theoretical physics, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Lower Austria Claims 100% Renewable Electricity"
 date: 2015-11-23
 categories: Energy
 author: Glenn Meyers
-tags: [Renewable energy, Electricity generation, Sustainable development, Physical universe, Energy, Sustainable energy, Renewable resources, Alternative energy, Sustainable technologies, Nature]
+tags: [Renewable energy, Electricity generation, Sustainable development, Physical universe, Energy, Sustainable energy, Renewable resources, Alternative energy, Sustainable technologies, Nature, Featured]
 ---
 
 

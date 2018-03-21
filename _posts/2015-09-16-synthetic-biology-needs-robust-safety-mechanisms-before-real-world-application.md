@@ -4,7 +4,7 @@ title: "Synthetic biology needs robust safety mechanisms before real world appli
 date: 2016-07-02
 categories: Science
 author: unknown author
-tags: [Synthetic biology, Microorganism, Bacteria, Biology, Engineering, Organism, Genome, Medicine, Nature, Health sciences, Life sciences, Organisms]
+tags: [Synthetic biology, Microorganism, Bacteria, Biology, Engineering, Organism, Genome, Medicine, Nature, Health sciences, Life sciences, Organisms, Featured]
 ---
 
 

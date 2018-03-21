@@ -4,7 +4,7 @@ title: "Synthetic DNA vaccine against MERS induces immunity in animal study"
 date: 2016-05-27
 categories: Science
 author: unknown author
-tags: [Middle East respiratory syndrome, Coronavirus, Vaccine, Infection, Epidemiology, Health, Medicine, Medical specialties, Health sciences, Immunology, Infectious diseases, Clinical medicine, Microbiology, Diseases and disorders, Public health, Life sciences, Biology, Health care]
+tags: [Middle East respiratory syndrome, Coronavirus, Vaccine, Infection, Epidemiology, Health, Medicine, Medical specialties, Health sciences, Immunology, Infectious diseases, Clinical medicine, Microbiology, Diseases and disorders, Public health, Life sciences, Biology, Health care, Featured]
 ---
 
 

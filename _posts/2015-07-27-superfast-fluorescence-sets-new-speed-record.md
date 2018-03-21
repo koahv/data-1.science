@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Superfast fluorescence sets new speed record"
-date: 2016-05-15
-categories: Science
+date: 2015-08-11
+categories: Technology
 author: unknown author
-tags: [Quantum dot, Laser, Light-emitting diode, Plasmon, Photon, Electron, Integrated circuit, Optics, Light, Semiconductor, Emission spectrum, Fluorescence, Exciton, Physical chemistry, Condensed matter physics, Electromagnetism, Artificial objects, Technology, Electronics, Electromagnetic radiation, Physics, Applied and interdisciplinary physics, Chemistry, Materials science, Physical sciences, Materials, Atomic molecular and optical physics]
+tags: [Quantum dot, Integrated circuit, Optical computing, Laser, Plasmon, Optics, Photon, Electron, Light, Computer, Computing, Artificial objects, Electronics, Technology, Science, Natural philosophy, Electromagnetism, Applied and interdisciplinary physics, Chemistry, Physics, Materials science, Atomic molecular and optical physics, Physical chemistry, Physical sciences, Electromagnetic radiation, Condensed matter physics, Materials]
 ---
 
 
@@ -12,11 +12,11 @@ tags: [Quantum dot, Laser, Light-emitting diode, Plasmon, Photon, Electron, Inte
 >digest unavailable
 
 #### Extract
->Researchers have developed an ultrafast light-emitting device that can flip on and off 90 billion times a second and could form the basis of optical computing....
+>(Duke University) Researchers at Duke University have developed a plasmonic device that, combined with semiconductor quantum dots, could one day be turned into an ultrafast light-emitting diode for optical computing....
 
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://phys.org/news/2015-07-superfast-fluorescence.html)
+[Visit Link](http://www.eurekalert.org/pub_releases/2015-07/du-sfs072315.php)
 
 

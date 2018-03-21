@@ -4,7 +4,7 @@ title: "Exploring the Higgs boson's dark side"
 date: 2016-05-15
 categories: Science
 author: unknown author
-tags: [Particle physics, Large Hadron Collider, Higgs boson, Matter, Standard Model, Neutrino, Higgs mechanism, ATLAS experiment, Supersymmetry, Elementary particle, Electron, Dark matter, Physics, Universe, Weak interaction, Radioactive decay, Physical cosmology, Theoretical physics, Mechanics, Applied and interdisciplinary physics, Physical universe, Quantum field theory, Physical sciences, Modern physics, Nature, Quantum mechanics, Science]
+tags: [Particle physics, Large Hadron Collider, Higgs boson, Matter, Standard Model, Neutrino, Higgs mechanism, ATLAS experiment, Supersymmetry, Elementary particle, Electron, Dark matter, Physics, Universe, Weak interaction, Radioactive decay, Physical cosmology, Theoretical physics, Mechanics, Applied and interdisciplinary physics, Physical universe, Quantum field theory, Physical sciences, Modern physics, Nature, Quantum mechanics, Science, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "I leapt from the stratosphere. Here's how I did it | Alan Eustace"
 date: 2015-09-05
 categories: Interest
 author: Alan Eustace
-tags: [Cyberspace, Technology, Computing]
+tags: [Cyberspace, Technology, Computing, Featured]
 ---
 
 

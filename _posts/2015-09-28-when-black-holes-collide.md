@@ -4,7 +4,7 @@ title: "When black holes collide"
 date: 2015-09-28
 categories: Astronomy
 author: unknown author
-tags: [Gravitational wave, Gravity, Laser Interferometer Space Antenna, Black hole, Physical sciences, Physical phenomena, Science, Physical quantities, Applied and interdisciplinary physics, Nature, Physical cosmology, Gravitation, Mechanics, Spacetime, Outer space, Physics, Astronomy]
+tags: [Gravitational wave, Gravity, Laser Interferometer Space Antenna, Black hole, Physical sciences, Physical phenomena, Science, Physical quantities, Applied and interdisciplinary physics, Nature, Physical cosmology, Gravitation, Mechanics, Spacetime, Outer space, Physics, Astronomy, Featured]
 ---
 
 

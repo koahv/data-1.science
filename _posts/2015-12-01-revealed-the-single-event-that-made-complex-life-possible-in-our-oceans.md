@@ -4,7 +4,7 @@ title: "Revealed—the single event that made complex life possible in our ocean
 date: 2015-12-20
 categories: Science
 author: unknown author
-tags: [Cyanobacteria, Life, Phytoplankton, Evolution, Earth, Ocean, Photosynthesis, Habitat, Oxygen, Microorganism, Organisms, Oceanography, Biology, Natural environment, Physical geography, Earth sciences, Physical sciences, Nature]
+tags: [Cyanobacteria, Life, Phytoplankton, Evolution, Earth, Ocean, Photosynthesis, Habitat, Oxygen, Microorganism, Organisms, Oceanography, Biology, Natural environment, Physical geography, Earth sciences, Physical sciences, Nature, Featured]
 ---
 
 

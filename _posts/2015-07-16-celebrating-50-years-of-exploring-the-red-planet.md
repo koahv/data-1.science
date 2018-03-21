@@ -4,7 +4,7 @@ title: "Celebrating 50 Years of Exploring the Red Planet"
 date: 2015-12-21
 categories: Technology
 author: mfassbender
-tags: [Mars, Lander (spacecraft), Exploration of Mars, Mariner program, Mars Reconnaissance Orbiter, Opportunity (rover), MAVEN, Space probe, Rover (space exploration), Spirit (rover), Phoenix (spacecraft), Viking program, 2001 Mars Odyssey, Mars landing, Mariner 4, NASA, Space probes, Space science, Missions to Mars, Missions to the planets, Space exploration, Spacecraft, Solar System, Discovery and exploration of the Solar System, Flight, Planets of the Solar System, Astronautics, Spaceflight, Outer space, Spaceflight technologies, Space missions, Robots of the United States, NASA spacecraft, Space robots, Unmanned spacecraft, NASA space probes, Aerospace, Aerospace engineering, Planetary science]
+tags: [Mars, Lander (spacecraft), Exploration of Mars, Mariner program, Mars Reconnaissance Orbiter, Opportunity (rover), MAVEN, Space probe, Rover (space exploration), Spirit (rover), Phoenix (spacecraft), Viking program, 2001 Mars Odyssey, Mars landing, Mariner 4, NASA, Space probes, Space science, Missions to Mars, Missions to the planets, Space exploration, Spacecraft, Solar System, Discovery and exploration of the Solar System, Flight, Planets of the Solar System, Astronautics, Spaceflight, Outer space, Spaceflight technologies, Space missions, Robots of the United States, NASA spacecraft, Space robots, Unmanned spacecraft, NASA space probes, Aerospace, Aerospace engineering, Planetary science, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Galileo lifts off"
 date: 2015-12-23
 categories: Astronomy
 author: unknown author
-tags: [Web 20, World Wide Web, Digital media, Technology, Websites, Computing]
+tags: [Web 20, World Wide Web, Digital media, Technology, Websites, Computing, Featured]
 ---
 
 

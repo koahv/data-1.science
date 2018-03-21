@@ -4,7 +4,7 @@ title: "What Is Photosynthesis?"
 date: 2016-05-16
 categories: Science
 author: unknown author
-tags: [Photosynthesis, Light-dependent reactions, Chloroplast, Thylakoid, Photosynthetic reaction centre, Plastid, Photochemistry, Plant metabolism, Physical sciences, Biology, Biochemistry, Chemistry, Nature]
+tags: [Photosynthesis, Light-dependent reactions, Chloroplast, Thylakoid, Photosynthetic reaction centre, Plastid, Photochemistry, Plant metabolism, Physical sciences, Biology, Biochemistry, Chemistry, Nature, Featured]
 ---
 
 
