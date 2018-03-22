@@ -4,7 +4,7 @@ title: "7 Life-Learnings from 7 Years of Brain Pickings, Illustrated"
 date: 2014-06-30
 categories: Philosophy
 author: Maria Popova
-
+tags: []
 ---
 
 

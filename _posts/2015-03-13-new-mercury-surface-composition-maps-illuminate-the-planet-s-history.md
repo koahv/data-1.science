@@ -4,7 +4,7 @@ title: "New Mercury surface composition maps illuminate the planet's history"
 date: 2016-04-17
 categories: Science
 author: unknown author
-tags: [Mercury (planet), Geochemistry, MESSENGER, Magma, Abundance of the chemical elements, Mantle (geology), Outer space, Astronomy, Space science, Planets of the Solar System, Chemistry, Planetary science, Physical sciences, Nature]
+tags: [Mercury (planet), Geochemistry, MESSENGER, Magma, Abundance of the chemical elements, Mantle (geology), Outer space, Astronomy, Space science, Planets of the Solar System, Chemistry, Planetary science, Physical sciences, Nature, Featured]
 ---
 
 

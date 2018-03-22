@@ -4,7 +4,7 @@ title: "A Beautifully Detailed New Geologic Map of Mars - Wired"
 date: 2015-07-15
 categories: Astronomy
 author: unknown author
-
+tags: []
 ---
 
 

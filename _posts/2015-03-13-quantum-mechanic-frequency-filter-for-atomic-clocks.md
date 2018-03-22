@@ -4,7 +4,7 @@ title: "Quantum mechanic frequency filter for atomic clocks"
 date: 2015-07-26
 categories: Energy
 author: unknown author
-tags: [Electron, Light, Atomic clock, Laser, Atom, Energy level, Resonator, Clock, Mirror, Wavelength, Physical sciences, Physics, Applied and interdisciplinary physics, Mechanics, Atomic molecular and optical physics, Physical chemistry, Chemistry]
+tags: [Electron, Light, Atomic clock, Laser, Atom, Energy level, Resonator, Clock, Mirror, Wavelength, Physical sciences, Physics, Applied and interdisciplinary physics, Mechanics, Atomic molecular and optical physics, Physical chemistry, Chemistry, Featured]
 ---
 
 

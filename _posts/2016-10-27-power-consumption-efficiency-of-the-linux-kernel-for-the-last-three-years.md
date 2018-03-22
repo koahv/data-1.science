@@ -4,7 +4,7 @@ title: "Power Consumption & Efficiency Of The Linux Kernel For The Last Three Ye
 date: 2017-10-10
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

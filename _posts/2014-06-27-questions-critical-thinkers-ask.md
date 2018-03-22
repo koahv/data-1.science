@@ -4,7 +4,7 @@ title: "Questions Critical Thinkers Ask:"
 date: 2014-06-27
 categories: Astronomy
 author: FQtQ Contributor
-
+tags: []
 ---
 
 

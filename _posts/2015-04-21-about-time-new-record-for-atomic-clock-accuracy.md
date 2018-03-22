@@ -4,7 +4,7 @@ title: "About time: New record for atomic clock accuracy"
 date: 2016-04-23
 categories: Science
 author: unknown author
-tags: [Atomic clock, Clock, Quantum mechanics, Time, Mechanics, Applied and interdisciplinary physics, Physical sciences, Physics]
+tags: [Atomic clock, Clock, Quantum mechanics, Time, Mechanics, Applied and interdisciplinary physics, Physical sciences, Physics, Featured]
 ---
 
 

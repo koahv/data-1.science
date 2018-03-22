@@ -4,7 +4,7 @@ title: "Magnitude of plastic waste going into the ocean calculated: 8 million me
 date: 2016-04-13
 categories: Science
 author: unknown author
-tags: [Waste management, Marine debris, Waste, Municipal solid waste, Coast, Pollution, Manufacturing, Natural environment]
+tags: [Waste management, Marine debris, Waste, Municipal solid waste, Coast, Pollution, Manufacturing, Natural environment, Featured]
 ---
 
 

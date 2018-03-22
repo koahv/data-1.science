@@ -4,7 +4,7 @@ title: "Fermilab's 500-mile neutrino experiment up and running"
 date: 2016-03-26
 categories: Science
 author: unknown author
-tags: [Neutrino, Fermilab, Applied and interdisciplinary physics, Mechanics, Particle physics, Physical sciences, Physics]
+tags: [Neutrino, Fermilab, Applied and interdisciplinary physics, Mechanics, Particle physics, Physical sciences, Physics, Featured]
 ---
 
 

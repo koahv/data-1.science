@@ -4,7 +4,7 @@ title: "Linus Torvalds to Developers: To Succeed, Make it Personal"
 date: 2014-06-27
 categories: Linux
 author: InfoWorld
-
+tags: []
 ---
 
 

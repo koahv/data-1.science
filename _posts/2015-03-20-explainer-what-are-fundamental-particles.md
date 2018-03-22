@@ -4,7 +4,7 @@ title: "Explainer: What are fundamental particles?"
 date: 2016-04-19
 categories: Science
 author: unknown author
-tags: [Particle physics, Matter, Standard Model, Quark, Higgs boson, Elementary particle, Antimatter, Universe, Electron, Neutron, Fermion, Proton, Lepton, Antiparticle, Annihilation, W and Z bosons, Neutrino, Physics, Electric charge, Positron, Physical sciences, Subatomic particles, Quantum mechanics, Nuclear physics, Nature, Physical bodies, Quantum field theory, Physical universe, Mechanics, Theoretical physics]
+tags: [Particle physics, Matter, Standard Model, Quark, Higgs boson, Elementary particle, Antimatter, Universe, Electron, Neutron, Fermion, Proton, Lepton, Antiparticle, Annihilation, W and Z bosons, Neutrino, Physics, Electric charge, Positron, Physical sciences, Subatomic particles, Quantum mechanics, Nuclear physics, Nature, Physical bodies, Quantum field theory, Physical universe, Mechanics, Theoretical physics, Featured]
 ---
 
 

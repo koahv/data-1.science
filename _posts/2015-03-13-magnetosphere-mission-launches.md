@@ -4,7 +4,7 @@ title: "Magnetosphere Mission Launches"
 date: 2015-07-21
 categories: Astronomy
 author: Camille M. Carlisle
-tags: [Magnetic reconnection, Earth, Flight, Nature, Astronautics, Planetary science, Solar System, Physical sciences, Astronomy, Space science, Spaceflight, Outer space]
+tags: [Magnetic reconnection, Earth, Flight, Nature, Astronautics, Planetary science, Solar System, Physical sciences, Astronomy, Space science, Spaceflight, Outer space, Featured]
 ---
 
 

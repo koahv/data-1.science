@@ -4,7 +4,7 @@ title: "Learn Linux, 101: A roadmap for LPIC-1"
 date: 2015-09-15
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

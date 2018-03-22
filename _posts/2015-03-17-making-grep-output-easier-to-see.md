@@ -4,7 +4,7 @@ title: "Making grep output easier to see"
 date: 2015-07-04
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

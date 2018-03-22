@@ -4,7 +4,7 @@ title: "How to Get Out of Your Own Way and Unblock the â€œSpiritual Electricityâ
 date: 2014-07-05
 categories: Philosophy
 author: Maria Popova
-
+tags: []
 ---
 
 

@@ -4,7 +4,7 @@ title: "Will Earth Appear Habitable to Alien Astronomers? --NASA: Ocean Glint Ma
 date: 2014-06-30
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: []
 ---
 
 

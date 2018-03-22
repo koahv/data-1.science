@@ -4,7 +4,7 @@ title: "10 passwd command examples in Linux"
 date: 2015-09-26
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

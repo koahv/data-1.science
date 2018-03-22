@@ -4,7 +4,7 @@ title: "The Higgs Paradox --Quantum-Level Discovery Fails to Solve Large-Scale C
 date: 2014-07-07
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: []
 ---
 
 

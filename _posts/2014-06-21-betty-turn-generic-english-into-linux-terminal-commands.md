@@ -4,7 +4,7 @@ title: "Betty: Turn Generic English Into Linux Terminal Commands"
 date: 2014-06-23
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

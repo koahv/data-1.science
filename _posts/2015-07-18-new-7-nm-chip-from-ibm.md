@@ -4,7 +4,7 @@ title: "New 7 nm chip from IBM"
 date: 2015-07-20
 categories: Science
 author: Shubashree Desikan
-
+tags: []
 ---
 
 

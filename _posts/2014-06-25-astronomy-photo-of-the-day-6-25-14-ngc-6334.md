@@ -4,7 +4,7 @@ title: "Astronomy Photo of the Day: 6/25/14 – NGC 6334"
 date: 2014-06-26
 categories: Astronomy
 author: Jaime Trosper
-
+tags: []
 ---
 
 

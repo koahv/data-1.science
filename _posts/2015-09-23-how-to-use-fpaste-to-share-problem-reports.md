@@ -4,7 +4,7 @@ title: "How to use fpaste to share problem reports"
 date: 2015-09-28
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

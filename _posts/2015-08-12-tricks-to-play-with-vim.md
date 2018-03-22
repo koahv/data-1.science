@@ -4,7 +4,7 @@ title: "Tricks to play with vim"
 date: 2015-08-24
 categories: Linux
 author: Sandra Henry-Stocker
-
+tags: []
 ---
 
 

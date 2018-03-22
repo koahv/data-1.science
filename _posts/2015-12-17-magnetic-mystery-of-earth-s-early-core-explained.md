@@ -4,7 +4,7 @@ title: "Magnetic mystery of Earth's early core explained"
 date: 2015-12-22
 categories: Earth
 author: unknown author
-
+tags: []
 ---
 
 

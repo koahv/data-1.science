@@ -4,7 +4,7 @@ title: "Overall winner – Astronomy Photographer of the Year 2013 (Winner £150
 date: 2014-07-01
 categories: Astronomy
 author: unknown author
-
+tags: []
 ---
 
 

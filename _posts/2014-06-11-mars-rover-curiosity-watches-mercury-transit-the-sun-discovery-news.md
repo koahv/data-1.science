@@ -4,7 +4,7 @@ title: "Mars Rover Curiosity Watches Mercury Transit the Sun - Discovery News"
 date: 2014-06-28
 categories: Astronomy
 author: unknown author
-
+tags: []
 ---
 
 

@@ -4,7 +4,7 @@ title: "Learning bash scripting for beginners"
 date: 2015-07-04
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

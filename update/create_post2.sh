@@ -63,12 +63,27 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 
 	if [[ $tags_old = *"d1featured"* ]]; then
 
-		mod_tags="$(echo -e "${tags},Featured" | sed -e 's/,/, /g')"
 		echo "FEATURED POST: $title"
-	else
-		# format tags with commas
-		mod_tags="$(echo -e "${tags}" | sed -e 's/,/, /g')"	
+
+		if [[ -z "${tags// }" ]]; then
+		
+			mod_tags="tags: [Featured]"
+					
+			else
+
+			mod_tags="$(echo -e "tags: [${tags},Featured]" | sed -e 's/,/, /g')"
+	
+		fi
+
+		else
+
+		mod_tags="$(echo -e "tags: [${tags}]"  | sed -e 's/,/, /g')"
+
+	
 	fi
+
+
+			
 
 
 
@@ -103,12 +118,6 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 		digest="digest unavailable"
 	fi
 
-	if [[ -z "${mod_tags// }" ]]; then
-		mod_tags=""
-	else
-		mod_tags="$(echo -e "tags: [${mod_tags}]" )"
-
-	fi
 
 
 

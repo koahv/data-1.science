@@ -4,7 +4,7 @@ title: "Researchers propose a new theory of star formation"
 date: 2014-08-16
 categories: Science
 author: unknown author
-
+tags: []
 ---
 
 

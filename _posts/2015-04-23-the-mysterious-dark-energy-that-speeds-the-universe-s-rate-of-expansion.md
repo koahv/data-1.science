@@ -4,7 +4,7 @@ title: "The mysterious dark energy that speeds the universe's rate of expansion"
 date: 2015-09-13
 categories: Science
 author: unknown author
-tags: [Dark energy, Universe, Metric expansion of space, Black hole, Gravity, Accelerating expansion of the universe, Dark matter, Time, Matter, Outer space, Physical quantities, Spacetime, Physical universe, Astronomy, Physical cosmology, Metaphysics, Physics, Mechanics, Cosmology, Science, Physical sciences, Natural philosophy]
+tags: [Dark energy, Universe, Metric expansion of space, Black hole, Gravity, Accelerating expansion of the universe, Dark matter, Time, Matter, Outer space, Physical quantities, Spacetime, Physical universe, Astronomy, Physical cosmology, Metaphysics, Physics, Mechanics, Cosmology, Science, Physical sciences, Natural philosophy, Featured]
 ---
 
 

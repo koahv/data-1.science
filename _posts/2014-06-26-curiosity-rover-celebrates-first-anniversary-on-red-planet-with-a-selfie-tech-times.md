@@ -4,7 +4,7 @@ title: "Curiosity rover celebrates first anniversary on Red Planet with a selfie
 date: 2014-06-26
 categories: Astronomy
 author: unknown author
-
+tags: []
 ---
 
 

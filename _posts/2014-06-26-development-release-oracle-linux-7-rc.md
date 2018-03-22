@@ -4,7 +4,7 @@ title: "Development Release: Oracle Linux 7 RC"
 date: 2014-06-27
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

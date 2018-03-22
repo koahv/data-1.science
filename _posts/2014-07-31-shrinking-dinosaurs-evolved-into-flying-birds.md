@@ -4,7 +4,7 @@ title: "Shrinking dinosaurs evolved into flying birds"
 date: 2015-07-16
 categories: Science
 author: unknown author
-tags: [Dinosaur, Bird, Organisms, Dinosaurs, Evolutionary biology]
+tags: [Dinosaur, Bird, Organisms, Dinosaurs, Evolutionary biology, Featured]
 ---
 
 

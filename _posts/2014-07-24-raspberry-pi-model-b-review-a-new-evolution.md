@@ -4,7 +4,7 @@ title: "Raspberry Pi Model B+ review – a new evolution"
 date: 2014-08-05
 categories: Linux
 author: Rob Zwetsloot
-
+tags: []
 ---
 
 

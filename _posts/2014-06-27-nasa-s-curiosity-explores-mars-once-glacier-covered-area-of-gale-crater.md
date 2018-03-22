@@ -4,7 +4,7 @@ title: "NASA's Curiosity Explores Mars' Once Glacier-Covered Area of Gale Crater
 date: 2014-06-28
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: []
 ---
 
 

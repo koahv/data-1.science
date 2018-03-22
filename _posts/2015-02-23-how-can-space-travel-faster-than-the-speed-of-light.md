@@ -4,7 +4,7 @@ title: "How can space travel faster than the speed of light?"
 date: 2016-04-14
 categories: Science
 author: unknown author
-tags: [Universe, Redshift, Physical cosmology, Observable universe, Metric expansion of space, Speed of light, General relativity, Dark energy, Hubbles law, Light, Electromagnetic radiation, Event horizon, Faster-than-light, Physics, Physical quantities, Astronomy, Mechanics, Applied and interdisciplinary physics, Spacetime, Cosmology, Natural philosophy, Outer space, Nature, Physical universe, Science, Physical sciences]
+tags: [Universe, Redshift, Physical cosmology, Observable universe, Metric expansion of space, Speed of light, General relativity, Dark energy, Hubbles law, Light, Electromagnetic radiation, Event horizon, Faster-than-light, Physics, Physical quantities, Astronomy, Mechanics, Applied and interdisciplinary physics, Spacetime, Cosmology, Natural philosophy, Outer space, Nature, Physical universe, Science, Physical sciences, Featured]
 ---
 
 

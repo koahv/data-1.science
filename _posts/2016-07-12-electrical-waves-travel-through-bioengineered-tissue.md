@@ -4,7 +4,7 @@ title: "Electrical waves travel through bioengineered tissue"
 date: 2016-07-21
 categories: Science
 author: unknown author
-tags: [, Featured]
+tags: [Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Toward a New Way to Keep Electronics from Overheating"
 date: 2014-07-03
 categories: Technology
 author: cfox
-
+tags: []
 ---
 
 

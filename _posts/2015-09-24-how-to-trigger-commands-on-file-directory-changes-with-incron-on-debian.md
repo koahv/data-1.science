@@ -4,7 +4,7 @@ title: "How to trigger commands on File/Directory changes with Incron on Debian"
 date: 2015-09-26
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

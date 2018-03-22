@@ -4,7 +4,7 @@ title: "A troubleshooting process for Linux problems"
 date: 2015-10-27
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

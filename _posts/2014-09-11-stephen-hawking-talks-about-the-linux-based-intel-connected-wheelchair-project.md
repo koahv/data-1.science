@@ -4,7 +4,7 @@ title: "Stephen Hawking Talks About the Linux-Based Intel Connected Wheelchair P
 date: 2015-06-26
 categories: Linux
 author: Softpedia
-tags: [Software, Computer hardware, Computer engineering, Computer architecture, Computers, Computing]
+tags: [Software, Computer hardware, Computer engineering, Computer architecture, Computers, Computing, Featured]
 ---
 
 

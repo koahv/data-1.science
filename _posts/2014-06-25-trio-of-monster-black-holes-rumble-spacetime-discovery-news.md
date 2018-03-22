@@ -4,7 +4,7 @@ title: "Trio of Monster Black Holes Rumble Spacetime - Discovery News"
 date: 2014-06-26
 categories: Astronomy
 author: unknown author
-
+tags: []
 ---
 
 

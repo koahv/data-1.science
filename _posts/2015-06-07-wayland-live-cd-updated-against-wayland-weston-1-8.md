@@ -4,7 +4,7 @@ title: "Wayland Live CD Updated Against Wayland/Weston 1.8"
 date: 2015-06-28
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

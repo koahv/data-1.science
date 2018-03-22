@@ -4,7 +4,7 @@ title: "Einstein on the Common Language of Science in a Rare 1941 Recording"
 date: 2015-07-10
 categories: Philosophy
 author: Maria Popova
-tags: [Language, Science, Human, Thought, Love, Concept, Reason, Epistemology, Culture, Psychological concepts, Cognition, Philosophy, Cognitive science]
+tags: [Language, Science, Human, Thought, Love, Concept, Reason, Epistemology, Culture, Psychological concepts, Cognition, Philosophy, Cognitive science, Featured]
 ---
 
 

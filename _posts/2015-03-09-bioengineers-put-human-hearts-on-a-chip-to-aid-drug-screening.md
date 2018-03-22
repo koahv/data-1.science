@@ -4,7 +4,7 @@ title: "Bioengineers put human hearts on a chip to aid drug screening"
 date: 2016-04-17
 categories: Science
 author: unknown author
-tags: [Heart, Organ-on-a-chip, Biology, Life sciences, Medicine, Health sciences]
+tags: [Heart, Organ-on-a-chip, Biology, Life sciences, Medicine, Health sciences, Featured]
 ---
 
 

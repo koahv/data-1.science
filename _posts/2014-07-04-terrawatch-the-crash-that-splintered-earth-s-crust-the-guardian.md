@@ -4,7 +4,7 @@ title: "Terrawatch: The crash that splintered Earth's crust - The Guardian"
 date: 2014-07-06
 categories: Earth
 author: unknown author
-
+tags: []
 ---
 
 

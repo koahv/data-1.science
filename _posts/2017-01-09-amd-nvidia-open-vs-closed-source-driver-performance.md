@@ -4,7 +4,7 @@ title: "AMD & NVIDIA: Open vs. Closed-Source Driver Performance"
 date: 2017-10-12
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

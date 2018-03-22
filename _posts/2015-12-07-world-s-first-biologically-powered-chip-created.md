@@ -4,7 +4,7 @@ title: "World’s first biologically powered chip created"
 date: 2016-03-16
 categories: Science
 author: IANS
-
+tags: []
 ---
 
 

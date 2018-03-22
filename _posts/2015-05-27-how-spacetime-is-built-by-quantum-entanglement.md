@@ -4,7 +4,7 @@ title: "How spacetime is built by quantum entanglement"
 date: 2016-05-03
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Physics, Quantum gravity, General relativity, Gravity, Theory of everything, Quantum entanglement, Universe, Hirosi Ooguri, Mechanics, Dimension, Field (physics), Science, Metaphysics, Physical sciences, Physical cosmology, Theoretical physics, Solid state engineering, Scientific method, Philosophy, Scientific theories, Academic discipline interactions, Modern physics, Cognitive science, Epistemology of science, Particle physics]
+tags: [Quantum mechanics, Physics, Quantum gravity, General relativity, Gravity, Theory of everything, Quantum entanglement, Universe, Hirosi Ooguri, Mechanics, Dimension, Field (physics), Science, Metaphysics, Physical sciences, Physical cosmology, Theoretical physics, Solid state engineering, Scientific method, Philosophy, Scientific theories, Academic discipline interactions, Modern physics, Cognitive science, Epistemology of science, Particle physics, Featured]
 ---
 
 

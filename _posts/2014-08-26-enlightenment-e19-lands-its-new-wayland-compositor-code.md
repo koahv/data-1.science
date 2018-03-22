@@ -4,7 +4,7 @@ title: "Enlightenment E19 Lands Its New Wayland Compositor Code"
 date: 2015-06-28
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

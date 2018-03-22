@@ -4,7 +4,7 @@ title: "Moore's Law at 50: Its past and its future - ExtremeTech"
 date: 2015-07-26
 categories: Technology
 author: unknown author
-
+tags: [Featured]
 ---
 
 

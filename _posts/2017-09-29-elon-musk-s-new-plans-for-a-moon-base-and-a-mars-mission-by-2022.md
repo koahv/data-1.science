@@ -4,7 +4,7 @@ title: "Elon Musk’s new plans for a moon base and a Mars mission by 2022"
 date: 2017-10-04
 categories: Astronomy
 author: unknown author
-
+tags: []
 ---
 
 

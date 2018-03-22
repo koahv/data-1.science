@@ -4,7 +4,7 @@ title: "PowerTop Monitors Total Power Usage and Improve Linux Laptop Battery Lif
 date: 2015-10-08
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

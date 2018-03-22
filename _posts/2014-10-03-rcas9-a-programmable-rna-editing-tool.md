@@ -4,7 +4,7 @@ title: "RCas9: A programmable RNA editing tool"
 date: 2015-12-03
 categories: Technology
 author: unknown author
-tags: [Cas9, CRISPR, DNA, RNA, Jennifer Doudna, Organisms, Nucleic acids, Macromolecules, Biochemistry, Nucleotides, Chemistry, Molecular genetics, Biotechnology, Life sciences, Biomolecules, Structural biology, Molecular biology, Genetics, Biology]
+tags: [Cas9, CRISPR, DNA, RNA, Jennifer Doudna, Organisms, Nucleic acids, Macromolecules, Biochemistry, Nucleotides, Chemistry, Molecular genetics, Biotechnology, Life sciences, Biomolecules, Structural biology, Molecular biology, Genetics, Biology, Featured]
 ---
 
 

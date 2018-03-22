@@ -4,7 +4,7 @@ title: "Marine bacteria are natural source of chemical fire retardants"
 date: 2014-06-30
 categories: Science
 author: unknown author
-
+tags: []
 ---
 
 

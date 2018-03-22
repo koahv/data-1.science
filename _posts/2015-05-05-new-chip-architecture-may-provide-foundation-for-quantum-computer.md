@@ -4,7 +4,7 @@ title: "New chip architecture may provide foundation for quantum computer"
 date: 2015-05-06
 categories: Science
 author: unknown author
-tags: [Quantum computing, Integrated circuit, Bit, Computing, Computer, Qubit, Ball grid array, Physics, Quantum mechanics, Capacitor, Ion trap, Technology, Artificial objects]
+tags: [Quantum computing, Integrated circuit, Computer, Ball grid array, Computing, Qubit, Physics, Bit, Matter, Applied and interdisciplinary physics, Physical sciences, Technology]
 ---
 
 
@@ -17,6 +17,6 @@ tags: [Quantum computing, Integrated circuit, Bit, Computing, Computer, Qubit, B
 #### Factsheet
 >factsheet unavailable
 
-[Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/kWeTavfPfgI/150505111932.htm)
+[Visit Link](http://phys.org/news350040441.html)
 
 

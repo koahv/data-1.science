@@ -4,7 +4,7 @@ title: "Why bioethics literacy matters"
 date: 2015-12-02
 categories: Technology
 author: unknown author
-tags: [Bioethics, Physician, Medical ethics, Ethics, Health care, The Hastings Center, Education, Nursing, Health, Medicine]
+tags: [Bioethics, Physician, Medical ethics, Ethics, Health care, The Hastings Center, Education, Nursing, Health, Medicine, Featured]
 ---
 
 

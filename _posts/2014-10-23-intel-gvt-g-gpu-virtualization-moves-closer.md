@@ -4,7 +4,7 @@ title: "Intel GVT-g GPU Virtualization Moves Closer"
 date: 2015-06-30
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

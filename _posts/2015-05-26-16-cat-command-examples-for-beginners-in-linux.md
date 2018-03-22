@@ -4,7 +4,7 @@ title: "16 cat command examples for beginners in Linux"
 date: 2015-07-04
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

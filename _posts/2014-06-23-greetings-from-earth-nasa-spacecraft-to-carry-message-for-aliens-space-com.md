@@ -4,7 +4,7 @@ title: "Greetings from Earth! NASA Spacecraft to Carry Message for Aliens - Spac
 date: 2014-06-24
 categories: Earth
 author: unknown author
-
+tags: []
 ---
 
 

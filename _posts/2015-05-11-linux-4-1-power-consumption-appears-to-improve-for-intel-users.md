@@ -4,7 +4,7 @@ title: "Linux 4.1 Power Consumption Appears To Improve For Intel Users"
 date: 2015-05-15
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

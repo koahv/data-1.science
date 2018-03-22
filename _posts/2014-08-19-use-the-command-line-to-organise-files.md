@@ -4,7 +4,7 @@ title: "Use the command line to organise files"
 date: 2015-06-05
 categories: Linux
 author: Rob Zwetsloot
-
+tags: []
 ---
 
 

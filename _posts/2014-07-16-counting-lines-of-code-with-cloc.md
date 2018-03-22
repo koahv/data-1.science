@@ -4,7 +4,7 @@ title: "Counting lines of code with cloc"
 date: 2014-07-18
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

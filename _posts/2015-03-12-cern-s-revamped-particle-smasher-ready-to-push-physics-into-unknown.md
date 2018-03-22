@@ -4,7 +4,7 @@ title: "CERN's revamped particle smasher ready to push physics into unknown"
 date: 2016-04-17
 categories: Science
 author: unknown author
-tags: [Large Hadron Collider, Particle physics, Large ElectronPositron Collider, CERN, Compact Muon Solenoid, Higgs boson, Collider, Physics, Physical sciences, Science, Applied and interdisciplinary physics]
+tags: [Large Hadron Collider, Particle physics, Large ElectronPositron Collider, CERN, Compact Muon Solenoid, Higgs boson, Collider, Physics, Physical sciences, Science, Applied and interdisciplinary physics, Featured]
 ---
 
 

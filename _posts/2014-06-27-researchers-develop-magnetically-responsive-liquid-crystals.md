@@ -4,7 +4,7 @@ title: "Researchers Develop Magnetically Responsive Liquid Crystals"
 date: 2014-06-29
 categories: Technology
 author: cfox
-
+tags: []
 ---
 
 

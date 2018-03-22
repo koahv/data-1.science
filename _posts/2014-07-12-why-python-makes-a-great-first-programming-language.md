@@ -4,7 +4,7 @@ title: "Why Python Makes A Great First Programming Language"
 date: 2014-07-13
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

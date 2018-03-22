@@ -4,7 +4,7 @@ title: "New technique to detect magnetic fields inside stars"
 date: 2015-10-27
 categories: Science
 author: IANS
-
+tags: []
 ---
 
 

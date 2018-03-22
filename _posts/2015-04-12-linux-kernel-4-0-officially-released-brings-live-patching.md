@@ -4,7 +4,7 @@ title: "Linux Kernel 4.0 Officially Released, Brings Live Patching"
 date: 2015-05-18
 categories: Linux
 author: Softpedia News (Marius Nestor)
-
+tags: []
 ---
 
 

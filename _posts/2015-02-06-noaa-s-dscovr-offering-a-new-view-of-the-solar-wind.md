@@ -4,7 +4,7 @@ title: "NOAA's DSCOVR: Offering a new view of the solar wind"
 date: 2015-12-07
 categories: Technology
 author: unknown author
-tags: [Deep Space Climate Observatory, Sun, Solar wind, Advanced Composition Explorer, Space weather, Goddard Space Flight Center, Plasma (physics), NASA, Earth, National Oceanic and Atmospheric Administration, Wind, Space probe, Physical sciences, Outer space, Applied and interdisciplinary physics, Astronomy, Physics, Nature, Space science]
+tags: [Deep Space Climate Observatory, Sun, Solar wind, Advanced Composition Explorer, Space weather, Goddard Space Flight Center, Plasma (physics), NASA, Earth, National Oceanic and Atmospheric Administration, Wind, Space probe, Physical sciences, Outer space, Applied and interdisciplinary physics, Astronomy, Physics, Nature, Space science, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Shubhendu Sharma: How to grow a tiny forest anywhere"
 date: 2015-06-25
 categories: Interest
 author: Shubhendu Sharma
-tags: [TED (conference), Computing, Technology, Cyberspace, World Wide Web]
+tags: [TED (conference), Computing, Technology, Cyberspace, World Wide Web, Featured]
 ---
 
 

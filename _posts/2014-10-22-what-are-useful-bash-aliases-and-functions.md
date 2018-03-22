@@ -4,7 +4,7 @@ title: "What are useful Bash aliases and functions"
 date: 2015-07-02
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

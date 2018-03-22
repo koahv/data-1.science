@@ -4,7 +4,7 @@ title: "What is DevOps? An executive guide to agile development and IT operation
 date: 2017-10-13
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

@@ -4,7 +4,7 @@ title: "Germany can now produce half its energy from solar"
 date: 2014-06-23
 categories: Science
 author: unknown author
-
+tags: []
 ---
 
 

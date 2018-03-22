@@ -4,7 +4,7 @@ title: "Gravity is Driving Growth of the Universe --Astronomers Confirm via 600,
 date: 2014-06-29
 categories: Astronomy
 author: dailygalaxy.com
-
+tags: []
 ---
 
 

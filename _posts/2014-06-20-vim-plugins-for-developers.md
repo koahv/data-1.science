@@ -4,7 +4,7 @@ title: "Vim plugins for developers"
 date: 2014-06-25
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

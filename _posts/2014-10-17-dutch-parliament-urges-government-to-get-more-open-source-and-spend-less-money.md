@@ -4,7 +4,7 @@ title: "Dutch Parliament Urges Government to Get More Open Source and Spend Less
 date: 2015-06-29
 categories: Linux
 author: Softpedia News (Silviu Stahie)
-
+tags: []
 ---
 
 

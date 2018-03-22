@@ -4,7 +4,7 @@ title: "When the Moon Met Mars - Slate Magazine (blog)"
 date: 2014-07-07
 categories: Astronomy
 author: unknown author
-
+tags: []
 ---
 
 

@@ -4,7 +4,7 @@ title: "Bash/ZSH: Find out the exit codes of all piped commands"
 date: 2015-08-07
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

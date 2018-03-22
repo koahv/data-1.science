@@ -4,7 +4,7 @@ title: "Stunning Photo Captures Lightning, Rainbow At Same Time | The Weather Ch
 date: 2015-08-25
 categories: Science
 author: unknown author
-
+tags: []
 ---
 
 

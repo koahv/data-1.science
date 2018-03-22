@@ -4,7 +4,7 @@ title: "Touchdown! Rosetta’s Philae probe lands on comet"
 date: 2015-09-03
 categories: Astronomy
 author: unknown author
-tags: [Rosetta (spacecraft), Philae (spacecraft), Lander (spacecraft), European Space Agency, Spaceflight technologies, Space exploration, Solar System, Astronomy, Aerospace engineering, Outer space, Aerospace, Space agencies, Discovery and exploration of the Solar System, Space probes, Bodies of the Solar System, Spaceflight, Flight, Spacecraft, Astronautics]
+tags: [Rosetta (spacecraft), Philae (spacecraft), Lander (spacecraft), European Space Agency, Spaceflight technologies, Space exploration, Solar System, Astronomy, Aerospace engineering, Outer space, Aerospace, Space agencies, Discovery and exploration of the Solar System, Space probes, Bodies of the Solar System, Spaceflight, Flight, Spacecraft, Astronautics, Featured]
 ---
 
 

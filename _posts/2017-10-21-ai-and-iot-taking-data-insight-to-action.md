@@ -4,7 +4,7 @@ title: "AI and IoT: Taking Data Insight to Action"
 date: 2017-10-21
 categories: Technology
 author: Fred Jacquet
-
+tags: []
 ---
 
 

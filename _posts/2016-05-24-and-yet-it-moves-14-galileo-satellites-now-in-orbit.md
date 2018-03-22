@@ -4,7 +4,7 @@ title: "And yet it moves: 14 Galileo satellites now in orbit"
 date: 2016-05-26
 categories: Astronomy
 author: unknown author
-
+tags: []
 ---
 
 

@@ -4,7 +4,7 @@ title: "5 chattr Commands to Make Important Files IMMUTABLE (Unchangeable) in Li
 date: 2015-07-02
 categories: Linux
 author: unknown author
-
+tags: []
 ---
 
 

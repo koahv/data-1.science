@@ -4,7 +4,7 @@ title: "NASA's MESSENGER spacecraft's 10 years in space"
 date: 2015-10-28
 categories: Science
 author: unknown author
-tags: [MESSENGER, Mercury (planet), Milky Way, Astronomy, Outer space, Physical sciences, Space science, Spaceflight, Planetary science, Solar System, Planets of the Solar System]
+tags: [MESSENGER, Mercury (planet), Milky Way, Astronomy, Outer space, Physical sciences, Space science, Spaceflight, Planetary science, Solar System, Planets of the Solar System, Featured]
 ---
 
 

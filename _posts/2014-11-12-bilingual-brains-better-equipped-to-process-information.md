@@ -4,7 +4,7 @@ title: "Bilingual brains better equipped to process information"
 date: 2016-04-11
 categories: Science
 author: unknown author
-tags: [Multilingualism, Language, Functional magnetic resonance imaging, Cognition, Monolingualism, Neuroscience, Neuropsychology, Neuropsychological assessment, Psychological concepts, Phenomenology, Epistemology, Nervous system, Psychology, Mental processes, Cognitive science, Linguistics, neuropsychology, Behavioral neuroscience, Communication]
+tags: [Multilingualism, Language, Functional magnetic resonance imaging, Cognition, Monolingualism, Neuroscience, Neuropsychology, Neuropsychological assessment, Psychological concepts, Phenomenology, Epistemology, Nervous system, Psychology, Mental processes, Cognitive science, Linguistics, neuropsychology, Behavioral neuroscience, Communication, Featured]
 ---
 
 

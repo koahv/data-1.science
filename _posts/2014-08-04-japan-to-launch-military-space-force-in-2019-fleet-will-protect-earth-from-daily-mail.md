@@ -4,7 +4,7 @@ title: "Japan to launch military space force in 2019: Fleet will protect Earth f
 date: 2015-07-13
 categories: Earth
 author: unknown author
-
+tags: []
 ---
 
 

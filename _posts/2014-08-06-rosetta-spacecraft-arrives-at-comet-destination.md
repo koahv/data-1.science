@@ -4,7 +4,7 @@ title: "Rosetta spacecraft arrives at comet destination"
 date: 2015-10-28
 categories: Science
 author: unknown author
-tags: [Rosetta (spacecraft), Comet, Philae (spacecraft), Local Interstellar Cloud, Discovery and exploration of the Solar System, Space exploration, Spaceflight technologies, Astronautics, Outer space, Astronomy, Spacecraft, Spaceflight, Bodies of the Solar System, Planetary science, Space science, Solar System]
+tags: [Rosetta (spacecraft), Comet, Philae (spacecraft), Local Interstellar Cloud, Discovery and exploration of the Solar System, Space exploration, Spaceflight technologies, Astronautics, Outer space, Astronomy, Spacecraft, Spaceflight, Bodies of the Solar System, Planetary science, Space science, Solar System, Featured]
 ---
 
 
