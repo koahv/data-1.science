@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Researchers have worked out how to 3D print super-stiff materials that are lighter than aerogel, and could revolutionise the aerospace and automotive industries....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencealert.com.au/~r/sciencealert-latestnews/~3/DThyvGXwJ5Q/20142306-25723.html)
 

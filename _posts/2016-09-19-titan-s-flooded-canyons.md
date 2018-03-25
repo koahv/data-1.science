@@ -8,14 +8,17 @@ tags: [Titan (moon), Vid Flumina, CassiniHuygens, Physical sciences, Planets, Sp
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Space Science Image of the Week: With hydrocarbon seas and methane-flooded canyons, Titan’s landforms show striking similarities to their water-filled Earth counterparts...
+>
+							
+				
+		
+		Space Science Image of the Week: With hydrocarbon seas and methane-flooded canyons, Titan’s landforms show striking similarities to their water-filled Earth counterparts
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/spaceinimages/Images/2016/09/Methane-flooded_canyons_on_Titan)
 

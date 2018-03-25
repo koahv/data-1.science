@@ -51,7 +51,7 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 	mod_extract="$(echo -e "${extract}" | sed -e 's/<[^>]*>//g')"
 
 	# truncate
-	mod_extract2="$(echo -e ${mod_extract:0:750})"
+	mod_extract2="$(echo -e "#### Extract\\n>${mod_extract:0:750}...")"
 
 	# create url friendly post name
 	mod_title1="$(echo -e "${title}" | iconv -t ascii//TRANSLIT | sed -r s/[^a-zA-Z0-9]+/-/g | sed -r s/^-+\|-+$//g | tr A-Z a-z)"
@@ -69,18 +69,18 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 		
 			mod_tags="tags: [Featured]"
 					
-			else
+		else
 
 			mod_tags="$(echo -e "tags: [${tags},Featured]" | sed -e 's/,/, /g')"
 	
 		fi
 
-		else
+	else
 
 		mod_tags="$(echo -e "tags: [${tags}]"  | sed -e 's/,/, /g')"
 
-	
 	fi
+
 
 
 			
@@ -111,11 +111,16 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 	fi
 
 	if [[ -z "${factsheet// }" ]]; then
-		factsheet="factsheet unavailable"
+		mod_factsheet=""
+	else
+		mod_factsheet="#### Factsheet\\n>$factsheet"
 	fi
 
 	if [[ -z "${digest// }" ]]; then
-		digest="digest unavailable"
+		mod_digest=""
+	else
+		mod_digest="#### Digest\\n>$digest"
+		mod_extract2=""
 	fi
 
 
@@ -126,7 +131,7 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 	# rm post_data/${split_date_1[0]}-$mod_title1.md
 
 	# write post
-	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: ${split_date_0[0]}\\ncategories: $category\\nauthor: $author\\n$mod_tags\\n---\\n\\n\\n#### Digest\\n>$digest\\n\\n#### Extract\\n>$mod_extract2...\\n\\n#### Factsheet\\n>$factsheet\\n\\n[Visit Link]($link)\\n\\n" > post_data/${split_date_1[0]}-$mod_title1.md
+	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: ${split_date_0[0]}\\ncategories: $category\\nauthor: $author\\n$mod_tags\\n---\\n\\n\\n$mod_digest\\n\\n$mod_extract2\\n\\n$mod_factsheet\\n\\n[Visit Link]($link)\\n\\n" > post_data/${split_date_1[0]}-$mod_title1.md
 
 #tags: [$mod_tags]\\n
 

@@ -8,14 +8,12 @@ tags: [Clinical psychology, Multilingualism, Monolingualism, Language, Language 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Bilingual children pose unique challenges for clinicians, and, until recently, there was little research on young bilinguals to guide clinical practice. In the past decade, however, research on bilingual development has burgeoned, and the scientific literature now supports several conclusions that should help clinicians as they assess bilingual children and advise their parents....
+>Bilingual children pose unique challenges for clinicians, and, until recently, there was little research on young bilinguals to guide clinical practice. In the past decade, however, research on bilingual development has burgeoned, and the scientific literature now supports several conclusions that should help clinicians as they assess bilingual children and advise their parents. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150817110635.htm)
 

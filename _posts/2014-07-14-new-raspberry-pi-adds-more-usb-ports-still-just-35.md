@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Mashable:&nbsp;The Raspberry Pi Foundation has announced a hardware revision to the original Raspberry Pi Model B, the Raspberry Pi Model B+....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/embedded-mobile/mobile-linux/780351-new-raspberry-pi-adds-more-usb-ports-still-just-35/)
 

@@ -8,14 +8,12 @@ tags: [Astronomy, Outer space, Physical sciences, Observational astronomy, Scien
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The post Moon panorama with extreme details appeared first on Sky &amp; Telescope....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/moon-panorama-with-extreme-details/)
 

@@ -8,14 +8,12 @@ tags: [Photosystem II, Evolution, Cyanobacteria, Photosynthesis, Biology, Photos
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The evolution origins of the D1 protein in cyanobacteria, which forms the heart of Photosystem II, the oxygen-evolving machine of photosynthesis, have been the focus of recent study. Now, the evolution of biological water oxidation can be addressed experimentally....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/tlWfqMKzUg4/150310091513.htm)
 

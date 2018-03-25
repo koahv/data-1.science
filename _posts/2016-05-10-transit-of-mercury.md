@@ -8,14 +8,17 @@ tags: [Sun, Transit (astronomy), Mercury (planet), Venus, Astronomy, Outer space
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->As the smallest planet in the Solar System crossed the fiery face of the Sun on Monday 9 May, one of ESA’s smallest satellites was watching...
+>
+							
+				
+		
+		As the smallest planet in the Solar System crossed the fiery face of the Sun on Monday 9 May, one of ESA’s smallest satellites was watching
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/spaceinvideos/Videos/2016/05/Transit_of_Mercury_seen_by_Proba-2)
 

@@ -8,14 +8,12 @@ tags: [Physics, Quantum mechanics, Superconductivity, Matter, Molecule, Electron
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Researchers at the University of Tokyo and Japan's National Institute for Materials Science have discovered pure organic substances exhibiting the quantum spin liquid state....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news322725747.html)
 

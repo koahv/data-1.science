@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.nature.com/news/hunt-for-gravitational-waves-to-resume-after-massive-upgrade-1.18359)
 

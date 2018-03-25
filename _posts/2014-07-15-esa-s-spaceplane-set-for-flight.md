@@ -8,14 +8,17 @@ tags: [Intermediate eXperimental Vehicle, Aeronautics, Space exploration, Indust
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->All eyes are on ESA’s spaceplane to showcase reentry technologies after its unconventional launch on a Vega rocket this November.&nbsp;...
+>
+								
+		
+All eyes are on ESA’s spaceplane to showcase reentry technologies after its unconventional launch on a Vega rocket this November.&nbsp;
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Launchers/IXV/ESA_s_spaceplane_set_for_flight)
 

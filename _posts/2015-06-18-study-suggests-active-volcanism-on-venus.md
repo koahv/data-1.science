@@ -8,14 +8,12 @@ tags: [Venus, Volcano, Ganis Chasma, Venus Express, Mars, Geology, Astronomy, Pl
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >An international team of scientists has found some of the best evidence yet that Venus, Earth's nearest neighbor, is volcanically active....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news353843766.html)
 

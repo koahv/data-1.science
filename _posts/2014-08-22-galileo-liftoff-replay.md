@@ -8,14 +8,17 @@ tags: [Galileo (satellite navigation), Space programs, Flight, Spaceflight techn
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Liftoff of the Soyuz launcher carrying Europe’s fifth and sixth Galileo satellites – rewatch it here...
+>
+							
+				
+		
+		Liftoff of the Soyuz launcher carrying Europe’s fifth and sixth Galileo satellites – rewatch it here
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2014/08/Galileo_launch_replay)
 

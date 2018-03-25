@@ -8,14 +8,12 @@ tags: [Flower, Genetics, Agriculture, Plant, Sex, Plant reproductive morphology,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Cornell University) A new study identifies the gene duplication that causes cucumber varieties produce only female flowers -- a high-yeild variety....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-06/cu-edc060415.php)
 

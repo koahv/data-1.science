@@ -8,14 +8,12 @@ tags: [Taste, Brain, Nervous system, Electroencephalography, Biology, Neuropsych
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Scientists have revealed how taste is encoded in patterns of neural activity in the human brain....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/YpszKjNHkOo/150312123314.htm)
 

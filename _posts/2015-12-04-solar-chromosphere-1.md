@@ -8,14 +8,12 @@ tags: [Sun, G-type main-sequence stars, Astronomy, Physical sciences, Outer spac
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The post Solar Chromosphere #1 appeared first on Sky &amp; Telescope....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/solar-chromosphere-1/)
 

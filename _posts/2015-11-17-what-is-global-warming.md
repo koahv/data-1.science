@@ -8,14 +8,12 @@ tags: [Greenhouse effect, Greenhouse gas, Carbon dioxide, Global warming, Human 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Soon, the world will gather in Paris to forge a global pact to reduce greenhouse gas emissions blamed for dangerous levels of global warming....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-11-global_1.html)
 

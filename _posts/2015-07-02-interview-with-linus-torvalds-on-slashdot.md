@@ -8,14 +8,12 @@ tags: [Linux kernel, Git, Linus Torvalds, Software, Computing, Finnish computer 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Slashdot held a Q&amp;A with Linus Torvalds last week. Here are some of the best answers....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/software/linux-kernel/838167-interview-with-linus-torvalds-on-slashdot/)
 

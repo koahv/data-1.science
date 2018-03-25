@@ -8,14 +8,12 @@ tags: [Venus, Terraforming, Atmosphere of Earth, Delta-v, Terraforming of Venus,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >It might be possible to terraform Venus some day, when our technology gets good enough. The challenges for Venus are totally different than for Mars. How will we need to fix Venus?...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news325497132.html)
 

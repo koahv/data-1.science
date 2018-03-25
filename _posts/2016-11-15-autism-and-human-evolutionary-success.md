@@ -8,14 +8,12 @@ tags: [Human, Evolution, Autism, Biodiversity, University, History, Behavioural 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of York) A subtle change occurred in our evolutionary history 100,000 years ago which allowed people who thought and behaved differently -- such as individuals with autism -- to be integrated into society, academics from the University of York have concluded....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/uoy-aah111516.php)
 

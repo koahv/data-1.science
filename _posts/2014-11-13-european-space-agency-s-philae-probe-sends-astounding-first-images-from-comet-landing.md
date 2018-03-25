@@ -8,14 +8,35 @@ tags: [Philae (spacecraft), Rosetta (spacecraft), Space probe, Space probes, Bod
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Read the rest of European Space Agency&#8217;s Philae Probe Sends Astounding First Images from Comet Landing Permalink | Add to del.icio.us | digg Post tags: comet landing, esa, european space agency, first pictures from comet surface, first probe lands on comet, Philae probe, Rosetta, Rosetta project, space exploration...
+>
 
-#### Factsheet
->factsheet unavailable
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the rest of European Space Agency&#8217;s Philae Probe Sends Astounding First Images from Comet Landing
+
+
+Permalink |
+Add to
+del.icio.us | 
+digg
+
+Post tags: comet landing, esa, european space agency, first pictures from comet surface, first probe lands on comet, Philae probe, Rosetta, Rosetta project, space exploration...
+
+
 
 [Visit Link](http://inhabitat.com/european-space-agencys-philae-probe-sends-astounding-first-images-from-comet-landing/)
 

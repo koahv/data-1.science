@@ -8,14 +8,12 @@ tags: [Coral reef, Sea, Climate change, Seagrass, Sea level rise, Coral, Ocean, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Phys.org) —Researchers are struggling to solve the challenge of predicting climate change impacts on marine environments....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news322808737.html)
 

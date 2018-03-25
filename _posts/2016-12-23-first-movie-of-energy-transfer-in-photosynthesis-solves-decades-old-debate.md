@@ -8,14 +8,12 @@ tags: [Photosynthesis, Photosynthetic reaction centre, Artificial photosynthesis
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Using ultrafast imaging of moving energy in photosynthesis, scientists have determined the speed of crucial processes for the first time....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-12-movie-energy-photosynthesis-decades-old-debate.html)
 

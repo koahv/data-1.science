@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(European Science Foundation) A new report, Technological Breakthroughs for Scientific Progress, has been published today by the European Science Foundation....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/esf-ftd070314.php)
 

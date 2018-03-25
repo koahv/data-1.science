@@ -8,14 +8,12 @@ tags: [Plate tectonics, Mantle (geology), Earth, Geophysics, Tectonics, Geology,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Sydney) Professor Patrice Rey, from the University of Sydney's School of Geoscience, and his colleagues have a new explanation for the origin of plate tectonics....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/uos-wst091614.php)
 

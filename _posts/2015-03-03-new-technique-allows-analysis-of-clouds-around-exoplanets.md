@@ -8,14 +8,12 @@ tags: [Kepler (spacecraft), Kepler-7b, Exoplanet, Planet, Transiting Exoplanet S
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Meteorologists sometimes struggle to accurately predict the weather here on Earth, but now we can find out how cloudy it is on planets outside our solar system, thanks to researchers at MIT....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news344586304.html)
 

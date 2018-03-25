@@ -8,14 +8,17 @@ tags: [Space weather, Sun, Weather, PROBA2, European Space Agency, Astronautics,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->ESA's Proba-2 celebrates five years in orbit today. From technology demonstrator to solar observatory and now space weather platform, the mission has provided triple value to European scientists....
+>
+								
+		
+ESA's Proba-2 celebrates five years in orbit today. From technology demonstrator to solar observatory and now space weather platform, the mission has provided triple value to European scientists.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Operations/Space_Situational_Awareness/Five_years_in_space_one_satellite_three_missions)
 

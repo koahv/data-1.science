@@ -8,14 +8,12 @@ tags: [Observational astronomy, Scientific observation, Physical sciences, Astro
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The post Explosive display of power on the Sun appeared first on Sky &amp; Telescope....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/explosive-display-power-sun/)
 

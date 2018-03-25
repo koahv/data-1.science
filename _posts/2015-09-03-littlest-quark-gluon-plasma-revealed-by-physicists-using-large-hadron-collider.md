@@ -8,14 +8,12 @@ tags: [Quarkgluon plasma, Particle physics, Compact Muon Solenoid, Physics, Gluo
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Kansas) Researchers at the University of Kansas at the Large Hadron Collider have helped to produce quark-gluon plasma -- a state of matter thought to have existed right at the birth of the universe -- with fewer particles than previously thought possible....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uok-qp090315.php)
 

@@ -8,14 +8,13 @@ tags: [Open-source software, Computer security, Vulnerability (computing), Softw
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->In March of this year, the Obama administration created a draft for Federal Source Code policy to support improved access to custom software code. After soliciting comments from public,  the administration announced the Federal Source Code policy in August. One of the core features of the policy was the adoption of an open source development model:...
+>In March of this year, the Obama administration created a draft for Federal Source Code policy to support improved access to custom software code. After soliciting comments from public,  the administration announced the Federal Source Code policy in August. 
+One of the core features of the policy was the adoption of an open source development model:...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/us-government-opens-access-federal-source-code-codegov)
 

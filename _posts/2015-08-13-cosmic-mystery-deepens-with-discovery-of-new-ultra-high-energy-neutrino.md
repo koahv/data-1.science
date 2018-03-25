@@ -8,14 +8,12 @@ tags: [IceCube Neutrino Observatory, Neutrino, Cosmic ray, Annihilation, Dark ma
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Evidence of a fourth ultra-high energy neutrino—the highest-energy neutrino yet—has been detected by the South Pole-based IceCube experiment, a project that Berkeley Lab researchers helped build and to which they currently contribute analysis....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-08-cosmic-mystery-deepens-discovery-ultra-high-energy.html)
 

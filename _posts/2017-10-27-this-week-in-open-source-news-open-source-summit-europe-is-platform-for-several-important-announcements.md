@@ -8,14 +8,12 @@ tags: [Justin Cappos, Linux Foundation, Computing, System software, Software, Li
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;This Week in Open Source News: Open Source Summit Europe Is Platform for Several Important Announcements27 OctLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/blog/news/2017/10/week-open-source-news-open-source-summit-europe-platform-several-important-announcements)
 

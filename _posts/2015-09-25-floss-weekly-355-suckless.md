@@ -8,14 +8,12 @@ tags: [Featured]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >This project focuses on advanced and experienced computer users, in contrast with the usual proprietary software world or many mainstream open source projects that focus more on average and non-technical end users....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://lxer.com/module/newswire/ext_link.php?rid=219724)
 

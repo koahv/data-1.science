@@ -8,14 +8,12 @@ tags: [Speech, American Association for the Advancement of Science, Sound, Brain
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Duke University) A team led by scientists at Duke University and the Massachusetts Institute of Technology has discovered an area of the brain that is sensitive to the timing of speech. The new study advances our understanding of how humans make sense of spoken language....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/du-rfb051815.php)
 

@@ -8,14 +8,12 @@ tags: [Flowering plant, Seed, Plant, Dormancy, Fossil, Organisms, Biology, Natur
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Cretaceous flower seeds, recently discovered by scientists, represent the oldest known seeds of flowering plants, dating back 110 to 125 million years....
+>Cretaceous flower seeds, recently discovered by scientists, represent the oldest known seeds of flowering plants, dating back 110 to 125 million years. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/53309-cretaceous-flower-seeds-found.html)
 

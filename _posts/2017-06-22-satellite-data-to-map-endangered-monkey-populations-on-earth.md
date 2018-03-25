@@ -8,14 +8,12 @@ tags: [Biodiversity, Ecology, Species, DNA, Natural environment, Life sciences, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Leicester) Universities of Leicester and East Anglia lead research to identify biodiversity through satellite data....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-06/uol-sdt062017.php)
 

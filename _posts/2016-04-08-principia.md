@@ -8,14 +8,17 @@ tags: [Tim Peake, Outer space, Spaceflight]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->ESA astronaut Tim Peake shares the views from space and highlights of his Principia mission so far...
+>
+							
+				
+		
+		ESA astronaut Tim Peake shares the views from space and highlights of his Principia mission so far
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2016/04/Principia_the_mission_so_far)
 

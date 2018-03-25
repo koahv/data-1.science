@@ -8,14 +8,12 @@ tags: [CubeSat, Outer space, Space weather, Satellite, Spaceflight, Astronautics
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Southwest Research Institute) NASA has selected Southwest Research Institute to develop CuSPP, a CubeSat mission to study Solar Particles over the Earth's Poles. SwRI will also lead mission science operations and data analysis....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/sri-scm061814.php)
 

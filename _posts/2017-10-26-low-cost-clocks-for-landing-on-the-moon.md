@@ -8,14 +8,21 @@ tags: [Lidar, Moon, Time, Laser, Aerospace engineering, Outer space, Spaceflight
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->A European clock accurate to a trillionth of a second is set to be used on satellites and missions to the Moon. The ultra-precise time-keeper was conceived by a small company in Latvia, and ESA has recognised its potential for space. “We are the Ferrari of timers with the components of a tractor,” says Nikolai Adamovitch of Eventech.&nbsp;...
+>
+								
+		
+A European clock accurate to a trillionth of a second is set to be used on satellites and missions to the Moon.
 
-#### Factsheet
->factsheet unavailable
+The ultra-precise time-keeper was conceived by a small company in Latvia, and ESA has recognised its potential for space.
+
+“We are the Ferrari of timers with the components of a tractor,” says Nikolai Adamovitch of Eventech.&nbsp;
+
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/Low-cost_clocks_for_landing_on_the_Moon)
 

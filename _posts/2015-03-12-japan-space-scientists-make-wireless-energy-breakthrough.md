@@ -8,14 +8,12 @@ tags: [Wireless power transfer, Tesla coil, Space-based solar power, Resonant in
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Japanese scientists have succeeded in transmitting energy wirelessly, in a key step that could one day make solar power generation in space a possibility, an official said Thursday....
+> Japanese scientists have succeeded in transmitting energy wirelessly, in a key step that could one day make solar power generation in space a possibility, an official said Thursday....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news345351820.html)
 

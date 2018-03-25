@@ -8,14 +8,12 @@ tags: [Meteoroid, Meteor shower, Comet, Meteorite, Leonids, Space science, Meteo
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Meteors have been seen since people first looked at the night sky. They are comprised of small pieces of debris, typically no larger than a grain of dust or sand, which continually crash into the Earth's atmosphere....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news342690788.html)
 

@@ -8,14 +8,15 @@ tags: [Meteorology, Open-source software, Computing, Weather forecasting, Data, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->For years, meteorology students learned their craft at the tip of a colored pencil, laboriously contouring observed data by hand. While many forecasters still practice this art, computers have changed operations, research, and education. Open source software and open data are poised to bring more changes to the field. read more...
+>For years, meteorology students learned their craft at the tip of a colored pencil, laboriously contouring observed data by hand. While many forecasters still practice this art, computers have changed operations, research, and education. Open source software and open data are poised to bring more changes to the field.
 
-#### Factsheet
->factsheet unavailable
+
+read more...
+
+
 
 [Visit Link](http://opensource.com/education/15/7/open-source-meteorology-tools)
 

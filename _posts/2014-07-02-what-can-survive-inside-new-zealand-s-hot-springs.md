@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Scientists are searching New Zealand’s picturesque hot springs for the next big breakthroughs in science....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencealert.com.au/~r/sciencealert-latestnews/~3/_ZhHL1UYXvY/20140207-25797.html)
 

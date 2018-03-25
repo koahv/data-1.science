@@ -8,14 +8,17 @@ tags: [Star formation, Cosmic dust, Milky Way, Interstellar medium, Star, Orion 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Space Science Image of the Week: Planck portrays stellar birth and magnetic turbulence in the Orion Molecular Cloud...
+>
+							
+				
+		
+		Space Science Image of the Week: Planck portrays stellar birth and magnetic turbulence in the Orion Molecular Cloud
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/spaceinimages/Images/2015/05/Magnetic_Orion)
 

@@ -8,14 +8,17 @@ tags: [Gaia (spacecraft), Cosmic distance ladder, Star, Hipparcos, Star cluster,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The first catalogue of more than a billion stars from ESA’s Gaia satellite was published today – the largest all-sky survey of celestial objects to date....
+>
+								
+		
+The first catalogue of more than a billion stars from ESA’s Gaia satellite was published today – the largest all-sky survey of celestial objects to date.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Gaia/Gaia_s_billion-star_map_hints_at_treasures_to_come)
 

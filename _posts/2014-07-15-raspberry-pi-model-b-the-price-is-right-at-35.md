@@ -8,14 +8,12 @@ tags: [Raspberry Pi, Computer hardware, Digital electronics, Microcomputers, Cla
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The new Raspberry Pi Model B+ which launched this week offers more connectivity for the same low price....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/embedded-mobile/mobile-linux/780614-raspberry-pi-model-b-the-price-is-right-at-35/)
 

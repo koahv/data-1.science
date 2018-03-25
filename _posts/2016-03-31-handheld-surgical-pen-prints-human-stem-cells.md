@@ -8,14 +8,12 @@ tags: [Tissue engineering, Surgery, Medicine, Science and technology, Clinical m
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(ARC Centre of Excellence for Electromaterials Science) In a landmark proof-of-concept experiment, Australian researchers have used a handheld 3-D printing pen to 'draw' human stem cells in free-form patterns with extremely high survival rates....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/acoe-hs033016.php)
 

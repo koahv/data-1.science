@@ -8,14 +8,12 @@ tags: [Giraffe, Evolution, Species, Fossil, Paleontology]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Researchers have discovered stages of cervical elongation in the giraffe family, revealing details about the evolutionary transformation of the neck within extinct species of the family....
+>Researchers have discovered stages of cervical elongation in the giraffe family, revealing details about the evolutionary transformation of the neck within extinct species of the family. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/10/151007033229.htm)
 

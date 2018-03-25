@@ -8,14 +8,12 @@ tags: [Electron, Spin (physics), Magnetic field, Field (physics), Elementary par
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Quantum properties dictate electrons' rotational frequency...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/UB-JBHzwJaM/electrons-in-magnetic-field-reveal-surprises)
 

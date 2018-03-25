@@ -8,14 +8,12 @@ tags: [Middle East respiratory syndrome, Coronavirus, Vaccine, Infection, Epidem
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->A novel synthetic DNA vaccine can, for the first time, induce protective immunity against the Middle East Respiratory Syndrome (MERS) coronavirus in animal species. The experimental, preventive vaccine, given six weeks before exposure to the MERS virus, was found to fully protect rhesus macaques from disease....
+>A novel synthetic DNA vaccine can, for the first time, induce protective immunity against the Middle East Respiratory Syndrome (MERS) coronavirus in animal species. The experimental, preventive vaccine, given six weeks before exposure to the MERS virus, was found to fully protect rhesus macaques from disease. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150819143637.htm)
 

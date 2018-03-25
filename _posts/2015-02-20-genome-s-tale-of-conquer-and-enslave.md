@@ -8,14 +8,12 @@ tags: [Gene, Evolution, DNA, Transcription factor, Virus, Genome, Mutation, Tran
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Toronto scientists uncovered how viral remnants helped shape control of our genes....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news343660743.html)
 

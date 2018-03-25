@@ -8,14 +8,22 @@ tags: [Mount (computing), Computer file, File system, Device file, Setuid, Disk 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Securing mount points Mount points are defined in /etc/fstab. They link a particular disk pointer to the related device (disk, partition or virtual device). By default the mount options are not focused on security, which gives us a room to further improve hardening of the system. This hardening is especially important considering our most precious data is stored here. Via mount options we can apply additional security controls to protect our data. Mount points Let&#8217;s have a look at our /etc/fstab file. Example output: # &lt;file system&gt; &lt;mount point&gt;   &lt;type&gt;  &lt;options&gt;       &lt;dump&gt;  &lt;pass&gt; proc            /proc           proc    defaults        0       0 In the options column, the related mount opti...
+>Securing mount points
+Mount points are defined in /etc/fstab. They link a particular disk pointer to the related device (disk, partition or virtual device). By default the mount options are not focused on security, which gives us a room to further improve hardening of the system. This hardening is especially important considering our most precious data is stored here. Via mount options we can apply additional security controls to protect our data.
+Mount points
+Let&#8217;s have a look at our /etc/fstab file.
+Example output:
 
-#### Factsheet
->factsheet unavailable
+# &lt;file system&gt; &lt;mount point&gt;   &lt;type&gt;  &lt;options&gt;       &lt;dump&gt;  &lt;pass&gt;
+proc            /proc           proc    defaults        0       0
+
+
+In the options column, the related mount opti...
+
+
 
 [Visit Link](http://linux-audit.com/securing-mount-points-on-linux/)
 

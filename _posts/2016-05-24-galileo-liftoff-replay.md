@@ -8,14 +8,17 @@ tags: [Soyuz at the Guiana Space Centre, Astronautics, Space traffic management,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Europe's 13th and 14th Galileo satellites lifted off by Soyuz on 08:48 GMT - watch replay here...
+>
+							
+				
+		
+		Europe's 13th and 14th Galileo satellites lifted off by Soyuz on 08:48 GMT - watch replay here
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/spaceinvideos/Videos/2016/05/Galileo_13_14_-_Liftoff_replay)
 

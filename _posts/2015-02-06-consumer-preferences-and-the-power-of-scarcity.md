@@ -8,14 +8,12 @@ tags: [Advertising, Website, Psychological concepts, Psychology, Communication, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >How does scarcity, or the appearance of scarcity, affect choice when several consumer products are presented at once? Researchers found a clear pattern: Scarcity polarizes preferences....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/r1Dnl_5c08s/150206145206.htm)
 

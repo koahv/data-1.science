@@ -8,14 +8,17 @@ tags: [Plant, Agriculture, Plant development, Experiment, Gravity, International
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Human spaceflight and robotic exploration image of the week: A lentil root grown on the International Space Station...
+>
+							
+				
+		
+		Human spaceflight and robotic exploration image of the week: A lentil root grown on the International Space Station
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Images/2016/01/Plant_gravity)
 

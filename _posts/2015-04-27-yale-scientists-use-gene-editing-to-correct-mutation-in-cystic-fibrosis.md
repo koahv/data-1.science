@@ -8,14 +8,12 @@ tags: [Peptide nucleic acid, Gene, DNA, Gene therapy, Clinical medicine, Health 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Yale University) Yale researchers successfully corrected the most common mutation in the gene that causes cystic fibrosis, a lethal genetic disorder....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/yu-ysu042715.php)
 

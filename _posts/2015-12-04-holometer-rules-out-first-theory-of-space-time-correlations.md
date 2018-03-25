@@ -8,14 +8,12 @@ tags: [Holometer, LIGO, Universe, Gravitational wave, Physics, Interferometry, S
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The extremely sensitive quantum-spacetime-measuring tool will serve as a template for scientific exploration in the years to come....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-12-holometer-theory-space-time.html)
 

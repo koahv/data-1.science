@@ -8,14 +8,12 @@ tags: [Photon, Light, Quantum mechanics, Physics, Vacuum, Atom, Quantum dot, Unc
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->A team of scientists have measured a bizarre effect in quantum physics, in which individual particles of light are said to have been 'squeezed' -- an achievement which at least one textbook had written off as hopeless....
+>A team of scientists have measured a bizarre effect in quantum physics, in which individual particles of light are said to have been 'squeezed' -- an achievement which at least one textbook had written off as hopeless. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150831120304.htm)
 

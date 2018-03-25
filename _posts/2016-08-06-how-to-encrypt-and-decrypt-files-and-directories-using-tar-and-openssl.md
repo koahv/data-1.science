@@ -8,14 +8,12 @@ tags: [Encryption, Tar (computing), Information Age, Computer data, Security eng
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL6 AugLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/learn/how-encrypt-and-decrypt-files-and-directories-using-tar-and-openssl)
 

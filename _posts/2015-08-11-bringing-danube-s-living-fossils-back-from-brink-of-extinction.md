@@ -8,14 +8,12 @@ tags: [Sturgeon, Caviar, Beluga (sturgeon), Danube, Organisms]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Europe's last wild sturgeons got a rare boost this summer when the conservationist group WWF Bulgaria released more than 50,000 babies of these prehistoric fish into the lower Danube, marking the end of a three-year project co-funded by the European Union....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-08-danube-fossils-brink-extinction.html)
 

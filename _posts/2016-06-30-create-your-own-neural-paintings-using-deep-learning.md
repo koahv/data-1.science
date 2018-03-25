@@ -8,14 +8,12 @@ tags: [Git, Artificial neural network, Algorithm, Areas of computer science, Sof
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;Create Your Own &quot;Neural Paintings&quot; using Deep Learning30 JunLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/blog/create-your-own-neural-paintings-using-deep-learning)
 

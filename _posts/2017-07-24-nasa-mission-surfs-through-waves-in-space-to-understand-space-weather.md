@@ -8,14 +8,12 @@ tags: [Van Allen radiation belt, Goddard Space Flight Center, Particle physics, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(NASA/Goddard Space Flight Center) NASA's Van Allen Probes have observed a new population of space sound waves, called plasmaspheric hiss, which are important in removing high-energy particles from around Earth that can damage satellites....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/nsfc-nms072417.php)
 

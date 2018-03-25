@@ -8,14 +8,12 @@ tags: [Technology, Information technology, Computer engineering, Software, Digit
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >As more companies adopt DevOps to improve their workflow and productivity, a number of challenges related to infrastructure and legacy systems have arisen, according to a new survey from cloud sandbox software provider Quali....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/top-10-challenges-devops-implementation)
 

@@ -8,14 +8,12 @@ tags: [Homo sapiens, Neanderthal, Anatomically modern human, Homo, Human]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The early hominids were the first to invent an adhesive, and scientists now understand how....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.livescience.com/60302-first-adhesive-invented-by-neanderthals.html)
 

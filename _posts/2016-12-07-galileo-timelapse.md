@@ -8,14 +8,17 @@ tags: [European Space Agency, Galileo (satellite navigation), Space policy of th
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Timelapse video showing the Galileo satellites 15–18, from final preparations to liftoff on an Ariane 5 launcher...
+>
+							
+				
+		
+		Timelapse video showing the Galileo satellites 15–18, from final preparations to liftoff on an Ariane 5 launcher
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2016/12/Galileo_satellites_15_18_prepares_for_litoff)
 

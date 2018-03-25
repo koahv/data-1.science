@@ -8,14 +8,12 @@ tags: [Biogeography, Allopatric speciation, Amphibian, Species, Frog, Continent,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >A professor has succeeded in constructing a first-of-its-kind comprehensive diagram of the geographic distribution of amphibians, showing the movement of 3,309 species between 12 global ecoregions. Armed with DNA sequence data, he sought to accurately piece together the 300-million-year storyline of their journey....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Pp-LQQKXZLA/140804123214.htm)
 

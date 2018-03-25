@@ -8,14 +8,12 @@ tags: [Perception, Prediction, Psychology, Cognitive science, Cognition, Psychol
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Birmingham) New research, using a Bayesian inference model of audio and visual stimuli, has shown how our perception of time lies mid-way between reality and our expectations....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/uob-hpt071316.php)
 

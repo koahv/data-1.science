@@ -8,14 +8,17 @@ tags: [Spaceflight, Earth sciences, Featured]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Watch the replay of the Sentinel-2A launch on a Vega rocket from Europe’s Spaceport in French Guiana...
+>
+							
+				
+		
+		Watch the replay of the Sentinel-2A launch on a Vega rocket from Europe’s Spaceport in French Guiana
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/spaceinvideos/Videos/2015/06/Sentinel-2A_liftoff)
 

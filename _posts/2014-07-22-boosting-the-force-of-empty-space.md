@@ -8,14 +8,12 @@ tags: [Virtual particle, Photon, Particle physics, Vacuum, Quantum mechanics, En
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Vacuum fluctuations may be among the most counter-intuitive phenomena of quantum physics. Theorists from the Weizmann Institute (Rehovot, Israel) and the Vienna University of Technology propose a way to amplify their force....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news325236354.html)
 

@@ -8,14 +8,14 @@ tags: [Git, Computer file, GitHub, Path (computing), World Wide Web, Open-source
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->In the introduction to this series we learned who should use Git, and what it is for. Today we will learn how to clone public Git repositories, and how to extract individual files without cloning the whole works. read more...
+>In the introduction to this series we learned who should use Git, and what it is for. Today we will learn how to clone public Git repositories, and how to extract individual files without cloning the whole works.
 
-#### Factsheet
->factsheet unavailable
+read more...
+
+
 
 [Visit Link](https://opensource.com/life/16/7/stumbling-git)
 

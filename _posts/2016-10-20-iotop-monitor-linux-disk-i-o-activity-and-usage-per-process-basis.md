@@ -8,14 +8,12 @@ tags: [Load (computing), Inputoutput, Areas of computer science, Computer engine
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;Iotop – Monitor Linux Disk I/O Activity and Usage Per-Process Basis20 OctLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/learn/iotop-monitor-linux-disk-io-activity-and-usage-process-basis)
 

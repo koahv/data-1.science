@@ -8,14 +8,12 @@ tags: [Volcano, American Geophysical Union, Types of volcanic eruptions, Particu
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(American Geophysical Union) Unforeseen, short-term increases in sea level caused by strong winds, pressure changes and fluctuating ocean currents can cause more damage to beaches on the East Coast over the course of a year than a powerful hurricane making landfall, according to a new study....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/agu-twf080514.php)
 

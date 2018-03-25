@@ -8,14 +8,12 @@ tags: [Mercury (element), University of Miami, Air pollution, Mercury regulation
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Miami Rosenstiel School of Marine & Atmospheric Science) Researchers at the University of Miami Rosenstiel School of Marine and Atmospheric Science developed and tested a new sensor to detect ambient levels of mercury in the atmosphere....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/uomr-rdn013015.php)
 

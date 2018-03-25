@@ -8,14 +8,12 @@ tags: [Greenhouse gas, Deforestation, Air pollution, Global warming, Lidar, Envi
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Around the world, from small towns to the biggest cities, civic soldiers in the battle against global warming are striving to cut carbon emissions. One oft-used strategy is to plant more trees, which suck up carbon dioxide, a major greenhouse gas....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-10-tree-significantly-offset-urban-carbon.html)
 

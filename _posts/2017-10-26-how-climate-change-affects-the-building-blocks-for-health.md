@@ -8,14 +8,12 @@ tags: [Air pollution, Climate change, Food, Food security, Risk, Greenhouse gas,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >In August last year, a third of the residents of the North Island township Havelock North fell acutely ill with gastroenteritis after their water was contaminated with campylobacter....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://phys.org/news/2017-10-climate-affects-blocks-health.html)
 

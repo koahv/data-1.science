@@ -8,14 +8,12 @@ tags: [Artificial intelligence, Pathology, Machine learning, Cancer, Deep learni
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Pathologists have been largely diagnosing disease the same way for the past 100 years, by manually reviewing images under a microscope. But new work suggests that computers can help doctors improve accuracy and significantly change the way cancer and other diseases are diagnosed....
+>Pathologists have been largely diagnosing disease the same way for the past 100 years, by manually reviewing images under a microscope. But new work suggests that computers can help doctors improve accuracy and significantly change the way cancer and other diseases are diagnosed. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.sciencedaily.com/releases/2016/06/160620085204.htm)
 

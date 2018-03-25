@@ -8,14 +8,12 @@ tags: [Weather forecasting, European Centre for Medium-Range Weather Forecasts, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Knowing how the weather will behave in the near future is indispensable for countless human endeavors....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-08-future-weather-agency-titan-advance.html)
 

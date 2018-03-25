@@ -8,14 +8,12 @@ tags: [OpenGL, Cross-platform software, Open-source movement, Unix variants, Uni
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The Khronos Group has shared details about their BoF sessions to be hosted next month during SIGGRAPH and it includes detailing the next-generation OpenGL / OpenGL ES specifications......
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/software/applications/780517-next-gen-opengl-to-be-announced-next-month/)
 

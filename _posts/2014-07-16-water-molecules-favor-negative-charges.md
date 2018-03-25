@@ -8,14 +8,12 @@ tags: [Ion, Molecule, Electric charge, Properties of water, Chemical substance, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Phys.org) —In the presence of charged substances, H2O molecules favor associating with elements with a negative electrical charge rather than a positive electric charge. EPFL researchers have published a study on the subject that could provide new insights on the processes of cell formation....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news324713915.html)
 

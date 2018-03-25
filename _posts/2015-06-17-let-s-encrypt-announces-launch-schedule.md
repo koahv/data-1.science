@@ -8,14 +8,12 @@ tags: [Information technology management, Applications of cryptography, Digital 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Let's Encrypt Blog: The Linux Foundation Collaborative Project Let's Encrypt&nbsp;is ready to announce its launch schedule....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/enterprise/systems-management/835911-lets-encrypt-announces-launch-schedule/)
 

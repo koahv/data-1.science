@@ -8,14 +8,14 @@ tags: [Open-source model, Climate, Linux, VirtualBox, Computing, Technology]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->You can't look anywhere these days without seeing evidence of the changing weather patterns on the earth. Monthly, we are confronted with facts and figures that point to a warming planet. read more...
+>You can't look anywhere these days without seeing evidence of the changing weather patterns on the earth. Monthly, we are confronted with facts and figures that point to a warming planet.
 
-#### Factsheet
->factsheet unavailable
+read more...
+
+
 
 [Visit Link](https://opensource.com/article/17/1/apache-open-climate-workbench)
 

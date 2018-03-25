@@ -8,14 +8,12 @@ tags: [Strength training, Physical exercise, Muscle, Self care, Health, Determin
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Kansas) A KU study has shown that the brains of endurance trainers communicate with muscles differently than those of strength trainers or sedentary individuals....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/uok-toa091815.php)
 

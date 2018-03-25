@@ -8,14 +8,12 @@ tags: [Tegra, Graphics processing unit, Solid-state drive, Central processing un
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;The NVIDIA Jetson TX1 Developer Kit: A Tiny, Low Power, Ultra Fast Computer5 AugLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/learn/nvidia-jetson-tx1-developer-kit-tiny-low-power-ultra-fast-computer)
 

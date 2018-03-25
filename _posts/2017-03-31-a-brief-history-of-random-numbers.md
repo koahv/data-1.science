@@ -8,14 +8,12 @@ tags: [Statistical randomness, Applied mathematics, Randomness, Scientific metho
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >“As an instrument for selecting at random, I have found nothing superior to dice,” wrote statistician Francis Galton in an 1890 issue of Nature....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/brief-history-random-numbers)
 

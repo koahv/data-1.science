@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The GrSecurity initiative that hosts various out-of-tree patches to the mainline Linux kernel in order to enhance the security will no longer be available to non-paying users......
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=GrSecurity-No-Longer-Free)
 

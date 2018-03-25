@@ -8,14 +8,17 @@ tags: [Outer space, Spaceflight, Astronomy, Planets of the Solar System, Physica
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->ESA’s new ExoMars orbiter has tested its suite of instruments in orbit for the first time, hinting at a great potential for future observations....
+>
+								
+		
+ESA’s new ExoMars orbiter has tested its suite of instruments in orbit for the first time, hinting at a great potential for future observations.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/ExoMars/First_views_of_Mars_show_potential_for_ESA_s_new_orbiter)
 

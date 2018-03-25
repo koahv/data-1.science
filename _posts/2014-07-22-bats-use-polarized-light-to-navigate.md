@@ -8,14 +8,12 @@ tags: [Bat, Polarization (waves), Animal echolocation, Sky, Bird, Light, Animals
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Scientists have discovered that greater mouse-eared bats use polarisation patterns in the sky to navigate – the first mammal that's known to do this....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news325240523.html)
 

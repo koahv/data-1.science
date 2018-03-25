@@ -8,14 +8,12 @@ tags: [Universe, Dark energy, Physical cosmology, Dark matter, Metric expansion 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->(DOE/Lawrence Berkeley National Laboratory) A team of hundreds of physicists and astronomers, including those from Berkeley Lab, have announced results from the largest-ever, three-dimensional map of distant galaxies. The team constructed this map to make one of the most precise measurements yet of the dark energy currently driving the accelerated expansion of the Universe....
+>(DOE/Lawrence Berkeley National Laboratory) A team of hundreds of physicists and astronomers, including those from Berkeley Lab, have announced results from the largest-ever, three-dimensional map of distant galaxies.  The team constructed this map to make one of the most precise measurements yet of the dark energy currently driving the accelerated expansion of the Universe....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/dbnl-dem071416.php)
 

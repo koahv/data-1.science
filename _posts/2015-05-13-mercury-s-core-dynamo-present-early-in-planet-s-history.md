@@ -8,14 +8,12 @@ tags: [Astronomy, Physical sciences, Space science, Planetary science, Outer spa
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(American Association for the Advancement of Science) The Messenger spacecraft, which crash-landed into Mercury just a few days ago, found traces of magnetization in Mercury's crust, a new study reports....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/aaft-mcd051315.php)
 

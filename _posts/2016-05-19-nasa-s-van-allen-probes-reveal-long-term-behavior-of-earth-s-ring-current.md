@@ -8,14 +8,12 @@ tags: [Van Allen Probes, Van Allen radiation belt, Astronomy, Applied and interd
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(NASA/Goddard Space Flight Center) New findings based on a year's worth of observations from NASA's Van Allen Probes have revealed that the ring current -- an electrical current carried by energetic ions that encircles our planet -- behaves in a much different way than previously understood....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/nsfc-nva051916.php)
 

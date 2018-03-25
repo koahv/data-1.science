@@ -8,14 +8,12 @@ tags: [Hawaii Ocean Time-series, Monterey Bay Aquarium Research Institute, Unive
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Hawaii at Manoa) Researchers working at Station ALOHA, a deep ocean study site 100 km north of Oahu, observed different species of free-living, heterotrophic bacteria turning on diel cycling genes at slightly different times -- suggesting a wave of transcriptional activity that passes through the ocean microbial community each day....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/uoha-nrf070314.php)
 

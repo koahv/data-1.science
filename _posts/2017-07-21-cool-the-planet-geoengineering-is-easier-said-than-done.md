@@ -8,14 +8,12 @@ tags: [Cloud, Global warming, Climate engineering, Cirrus cloud, Atmosphere of E
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Scientists are exploring ways to re-engineer the planet to counter the effects of global warming....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.livescience.com/59901-geoengineering-methods-to-cool-planet.html)
 

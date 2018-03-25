@@ -8,14 +8,17 @@ tags: [Rosetta (spacecraft), Philae (spacecraft), Comet, Local Interstellar Clou
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Highlighting Rosetta’s ever-changing view of the comet, a year since the mission concluded...
+>
+							
+				
+		
+		Highlighting Rosetta’s ever-changing view of the comet, a year since the mission concluded
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Images/2017/09/Rosetta_s_ever-changing_view_of_a_comet)
 

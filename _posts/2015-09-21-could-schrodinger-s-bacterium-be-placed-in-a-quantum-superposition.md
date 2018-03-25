@@ -8,14 +8,12 @@ tags: [Quantum mechanics, Energy level, Quantum superposition, Energy, Electron,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Physicists explain how to bring a famous thought experiment to life...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/sep/21/could-schrodingers-bacterium-be-placed-in-a-quantum-superposition)
 

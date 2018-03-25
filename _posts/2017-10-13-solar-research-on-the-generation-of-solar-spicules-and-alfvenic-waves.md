@@ -8,14 +8,12 @@ tags: [Sun, Plasma (physics), Observatory, Physics, Alfvn wave, Astrophysics, Sw
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Combining computer observations and simulations, a new model shows that the presence of neutrals in the gas facilitates the magnetic fields to penetrate through the surface of the Sun producing the spicules....
+>Combining computer observations and simulations, a new model shows that the presence of neutrals in the gas facilitates the magnetic fields to penetrate through the surface of the Sun producing the spicules. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171013123126.htm)
 

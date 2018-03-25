@@ -8,14 +8,13 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The engineered mushrooms do not brown easily when sliced. This can improve their shelf-life, thereby rendering them valuable commercially....
+>
+The engineered mushrooms do not brown easily when sliced. This can improve their shelf-life, thereby rendering them valuable commercially....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.thehindu.com/sci-tech/science/crispredited-mushroom-cleared/article8483468.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 

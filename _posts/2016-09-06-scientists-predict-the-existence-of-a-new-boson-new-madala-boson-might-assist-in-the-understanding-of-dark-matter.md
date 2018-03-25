@@ -8,14 +8,12 @@ tags: [Particle physics, Standard Model, Physics, Large Hadron Collider, Higgs b
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Scientists at the High Energy Physics Group (HEP) of the University of the Witwatersrand in Johannesburg predict the existence of a new boson that might aid in the understanding of Dark Matter in the Universe....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-09-scientists-boson-madala-dark.html)
 

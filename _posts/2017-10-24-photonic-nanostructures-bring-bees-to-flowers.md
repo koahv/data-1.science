@@ -8,14 +8,12 @@ tags: [Diffraction grating, Flower, Ultraviolet, Color, Petal, Light, Iridescenc
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Flash Physics: need-to-know updates from the world of physics...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/oct/24/photonic-nanostructures-bring-bees-to-flowers)
 

@@ -8,14 +8,12 @@ tags: [Riboflavin, Vitamin, Health, Food and drink, Nutrition]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Riboflavin is a B-complex vitamin that helps the body break down carbohydrates, proteins and fats to produce energy....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/51966-vitamin-b2-riboflavin.html)
 

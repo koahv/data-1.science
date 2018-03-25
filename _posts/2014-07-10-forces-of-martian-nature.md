@@ -8,14 +8,17 @@ tags: [Noachis quadrangle, Hellas quadrangle, Impact crater, Hellas Planitia, Pl
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The surface of Mars is pocked and scarred with giant impact craters and rocky ridges, as shown in this new image from ESA’s Mars Express that borders the giant Hellas basin in the planet’s southern hemisphere....
+>
+								
+		
+The surface of Mars is pocked and scarred with giant impact craters and rocky ridges, as shown in this new image from ESA’s Mars Express that borders the giant Hellas basin in the planet’s southern hemisphere.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Forces_of_martian_nature)
 

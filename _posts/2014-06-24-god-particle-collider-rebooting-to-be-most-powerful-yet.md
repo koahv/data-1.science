@@ -8,14 +8,12 @@ tags: [Particle physics, Higgs boson, Large Hadron Collider, ATLAS experiment, P
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The Large Hadron Collider is set to illuminate more about the so-called God particle and dark matter, experts said in Copenhagen....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/D3T4fUvZ5pk/)
 

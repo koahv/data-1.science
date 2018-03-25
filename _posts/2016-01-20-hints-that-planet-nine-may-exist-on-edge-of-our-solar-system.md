@@ -8,14 +8,13 @@ tags: [Planet, Solar System, Orbit, Pluto, Astronomy, Kuiper belt, Planet Nine, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->An unusual alignment between the orbits of six small bodies in the Kuiper belt suggests there is an undiscovered planet 10 times the mass of Earth...
+>
+                        An unusual alignment between the orbits of six small bodies in the Kuiper belt suggests there is an undiscovered planet 10 times the mass of Earth                    ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.newscientist.com/article/2074106-hints-that-planet-nine-may-exist-on-edge-of-our-solar-system/)
 

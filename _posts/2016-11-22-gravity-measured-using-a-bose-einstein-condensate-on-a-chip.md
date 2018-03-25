@@ -8,14 +8,12 @@ tags: [BoseEinstein condensate, Gravimeter, Ultracold atom, Gravity, Atom, Mecha
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >New high-precision gravimeter could be deployed in a backpack...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/nov/22/gravity-measured-using-a-bose-einstein-condensate-on-a-chip)
 

@@ -8,14 +8,12 @@ tags: [Milky Way, Galaxy, Andromeda Galaxy, Extinction (astronomy), Astronomical
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Astronomers have created a detailed three-dimensional map of the dusty structure of the Milky Way – the star-studded bright disc of our own galaxy – as seen from Earth’s northern hemisphere....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/lJgbkmcx8QA/140623092331.htm)
 

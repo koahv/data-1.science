@@ -8,14 +8,12 @@ tags: [Schrdingers cat, Quantum mechanics, Quantum superposition, Condensed matt
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The Schrodinger's Cat thought experiment is even weirder than people thought, with the quantum cat trapped in a box able to be alive and dead in two places at once....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/54890-schrodinger-cat-can-be-in-two-places.html)
 

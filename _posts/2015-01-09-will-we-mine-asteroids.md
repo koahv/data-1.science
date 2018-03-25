@@ -8,14 +8,12 @@ tags: [Asteroid mining, Asteroid, Mining, Astronomy, Comet, Earth, Planetary sci
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >It's been said that a single asteroid might be worth trillions of dollars in precious rare metals. Will we ever reach out and mine these space rocks? How hard could it be?...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news340015726.html)
 

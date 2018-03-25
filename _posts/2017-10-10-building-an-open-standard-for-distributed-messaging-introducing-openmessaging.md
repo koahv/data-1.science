@@ -8,14 +8,12 @@ tags: [Cloud computing, Linux Foundation, Digital technology, Software, Technolo
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Through a collaborative effort from enterprises and communities invested in cloud, big data, and standard APIs, I’m excited to welcome the OpenMessaging project to The Linux Foundation. The OpenMessaging community’s goal is to create a globally adopted, vendor-neutral, and open standard for distributed messaging that can be deployed in cloud, on-premise, and hybrid use cases....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/building-open-standard-distributed-messaging-introducing-openmessaging)
 

@@ -8,14 +8,12 @@ tags: [Quantum computing, Quantum mechanics, Qubit, Quantum gate, Controlled NOT
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(National Institute of Standards and Technology (NIST)) Physicists at the National Institute of Standards and Technology (NIST) have added to their collection of ingredients for future quantum computers by performing logic operations -- basic computing steps -- with two atoms of different elements. This hybrid design could be an advantage in large computers and networks based on quantum physics....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/nios-nat121415.php)
 

@@ -8,14 +8,12 @@ tags: [Aircraft, United States Air Force, Flight, Inspection, Aerial refueling, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Read more about How to Inspect a KC-135 StratotankerComments...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/news/2015/04/how-inspect-kc-135-stratotanker)
 

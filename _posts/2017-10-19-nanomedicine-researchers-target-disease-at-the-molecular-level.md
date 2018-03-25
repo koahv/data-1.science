@@ -8,14 +8,12 @@ tags: [Nanopore, Nanomedicine, Biology, Life sciences, Chemistry, Medicine, Heal
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->It’s truly small-scale work. But researchers in nanomedicine – the study, development and application of materials under 100 nanometers in size to diagnose and treat disease – are making some big-time advances....
+>It’s truly small-scale work. But researchers in nanomedicine – the study, development and application of materials under 100 nanometers in size to diagnose and treat disease – are making some big-time advances. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171019115747.htm)
 

@@ -8,14 +8,12 @@ tags: [Cannabinoid, Cannabidiol, Tetrahydrocannabinol, Cannabis, Radiation thera
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Experts have shown that when certain parts of cannabis are used to treat cancer tumors alongside radio therapy treatment the growths can virtually disappear....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Cx7jta9lopI/141114085629.htm)
 

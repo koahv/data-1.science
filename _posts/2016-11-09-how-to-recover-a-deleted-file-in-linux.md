@@ -8,14 +8,12 @@ tags: [Computer file, CentOS, Computing, Software, System software, Operating sy
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Did this ever happen to you? You realized that you had mistakenly deleted a file &#8211; either through the Del key, or using rm in the command line. In the first case, you can&#46;&#46;&#46;...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.tecmint.com/recover-deleted-file-in-linux/)
 

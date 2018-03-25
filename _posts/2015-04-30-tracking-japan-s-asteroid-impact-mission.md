@@ -8,14 +8,12 @@ tags: [JAXA, Mars, European Space Operations Centre, European Space Agency, Haya
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >ESA is set to support Japan's 'touch-and-go' Hayabusa-2 spacecraft, now en route to a little-known asteroid, helping to boost the scientific return from this audacious mission....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news349594208.html)
 

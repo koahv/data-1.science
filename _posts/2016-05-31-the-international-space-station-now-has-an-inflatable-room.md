@@ -8,14 +8,12 @@ tags: [Space-based economy, Spaceflight, Outer space, Spacecraft, Astronautics, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >NewsNASA has successfully expanded and pressurized the inflatable Bigelow Expandable Activity Module (BEAM) after a delay last week. The habitat is an experimental module attached to the International Space Station. It will remain attached...Staff Author:&nbsp;Megan CrouseTopics:&nbsp;Aerospace...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/news/2016/05/international-space-station-now-has-inflatable-room)
 

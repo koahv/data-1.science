@@ -8,14 +8,12 @@ tags: [Fossil, Lizard, Human, Amber, Biodiversity, Chameleon, Science, Dinosaur,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >About 100 million years ago an infant lizard's life was cut short when it crawled into a sticky situation....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-03-world-oldest-chameleon-amber-fossil.html)
 

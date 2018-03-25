@@ -8,14 +8,12 @@ tags: [Water resources, Groundwater, Hydrology, Renewable resource, Climate, Ear
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The first data-driven estimate of the Earth's total supply of groundwater shows that less than six per cent of groundwater in the upper two kilometers of the Earth's landmass is renewable within a human lifetime....
+>The first data-driven estimate of the Earth's total supply of groundwater shows that less than six per cent of groundwater in the upper two kilometers of the Earth's landmass is renewable within a human lifetime. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/11/151116120608.htm)
 

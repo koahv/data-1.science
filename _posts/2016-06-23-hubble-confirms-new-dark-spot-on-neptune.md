@@ -8,14 +8,12 @@ tags: [Neptune, Hubble Space Telescope, Astronomy, Vortex, Cloud, Jupiter, Solar
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(NASA/Goddard Space Flight Center) New images obtained on May 16, 2016, by NASA's Hubble Space Telescope confirm the presence of a dark vortex in the atmosphere of Neptune....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/nsfc-hcn062316.php)
 

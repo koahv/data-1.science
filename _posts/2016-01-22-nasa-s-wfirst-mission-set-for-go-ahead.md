@@ -8,14 +8,12 @@ tags: [Wide Field Infrared Survey Telescope, Physical sciences, Science, Astrono
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Space agency expected to make the probe an official project next month...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/jan/22/nasas-wfirst-mission-set-for-go-ahead)
 

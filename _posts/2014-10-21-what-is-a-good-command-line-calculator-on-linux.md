@@ -8,14 +8,12 @@ tags: [Microsoft Windows, Computer engineering, Linux, Free software, Digital me
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Xmodulo: Every modern Linux desktop distribution comes with a default GUI-based calculator app.&nbsp;...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/learn/tutorials/792469-what-is-a-good-command-line-calculator-on-linux/)
 

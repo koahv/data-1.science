@@ -8,14 +8,17 @@ tags: [Enceladus, Moon, Saturn, CassiniHuygens, Outer space, Planets, Planetary 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Space Science Image of the Week: The geysers on Enceladus come from a region where the crust might be paper-thin...
+>
+							
+				
+		
+		Space Science Image of the Week: The geysers on Enceladus come from a region where the crust might be paper-thin
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/spaceinimages/Images/2016/07/Enceladus_and_its_paper-thin_crust)
 

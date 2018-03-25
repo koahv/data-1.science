@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.nature.com/srep/2017/170103/srep39767/full/srep39767.html?WT.feed_name=subjects_quantum-physics)
 

@@ -8,14 +8,12 @@ tags: [MESSENGER, Mercury (planet), Mars, Planet, Sun, NASA, Spacecraft, Physica
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >New data from MESSENGER, the spacecraft that orbited Mercury for four years before crashing into the planet a week ago, reveals Mercury's magnetic field is almost four billion years old. The discovery helps scientists piece together the history of Mercury, the closest planet to the sun and one about which we knew very little before MESSENGER....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news350226044.html)
 

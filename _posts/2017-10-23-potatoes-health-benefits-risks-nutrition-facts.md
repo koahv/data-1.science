@@ -8,14 +8,12 @@ tags: [Potato, Glycemic index, Nutrition, Dietary fiber, Vitamin, Vegetable, Car
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Potatoes are often thought of as a comfort food — richly mashed or crisply fried — but when prepared the right ways, these vegetables are actually quite nutritious....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.livescience.com/45838-potato-nutrition.html)
 

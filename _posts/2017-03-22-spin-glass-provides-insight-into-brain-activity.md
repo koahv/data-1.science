@@ -8,14 +8,12 @@ tags: [Neurotransmitter, Synapse, Memory, Brain, Inhibitory postsynaptic potenti
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Model reveals functional role of spin-glass-like states in neurological networks...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/mar/22/spin-glass-provides-insight-into-brain-activity)
 

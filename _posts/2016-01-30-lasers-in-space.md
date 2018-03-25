@@ -8,14 +8,17 @@ tags: [Telecommunications, Technology, Spaceflight, Spacecraft, Outer space, Ast
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The European Data Relay System’s first laser terminal has reached space aboard its host satellite and is now under way to its final operating position...
+>
+							
+				
+		
+		The European Data Relay System’s first laser terminal has reached space aboard its host satellite and is now under way to its final operating position
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/EDRS/First_SpaceDataHighway_laser_relay_in_orbit)
 

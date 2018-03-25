@@ -8,14 +8,12 @@ tags: [Lithium, Chemical element, Particle physics, Big Bang, Physical sciences,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Lithium is a metal used in manufacturing, electronics and mental health....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/28579-lithium.html)
 

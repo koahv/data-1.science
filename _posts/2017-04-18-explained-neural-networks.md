@@ -8,14 +8,12 @@ tags: [Artificial intelligence, Phenomenology, Computational neuroscience, Cyber
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognizers on smartphones or Google’s latest automatic translator — have resulted from a technique called “deep learning.”...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/explained-neural-networks)
 

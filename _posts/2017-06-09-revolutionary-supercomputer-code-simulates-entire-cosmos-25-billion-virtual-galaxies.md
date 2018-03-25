@@ -8,14 +8,17 @@ tags: [Dark matter, Universe, Milky Way, Euclid (spacecraft), Astrophysics, Dark
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->&nbsp; &nbsp; Over a period of three years, a group of astrophysicists from the University of Zurich has developed and optimised a revolutionary code to describe with unprecedented accuracy the dynamics of dark matter and the formation of large-scale structures in the Universe. From the data, researchers will obtain new information on the nature of this mysterious dark energy, but also hope to discover new physics beyond the standard model, such as a modified version of general relativity or a new type of particle. The researchers have simulated the formation of our entire Universe with a large supercomputer. A gigantic catalog of about 25 billion virtual galaxies has been generated from 2 trillion digital particles. This catalogue is bei...
+>&nbsp;
 
-#### Factsheet
->factsheet unavailable
+&nbsp;
+Over a period of three years, a group of astrophysicists from the University of Zurich has developed and optimised a revolutionary code to describe with unprecedented accuracy the dynamics of dark matter and the formation of large-scale structures in the Universe. From the data, researchers will obtain new information on the nature of this mysterious dark energy, but also hope to discover new physics beyond the standard model, such as a modified version of general relativity or a new type of particle.
+
+The researchers have simulated the formation of our entire Universe with a large supercomputer. A gigantic catalog of about 25 billion virtual galaxies has been generated from 2 trillion digital particles. This catalogue is bei...
+
+
 
 [Visit Link](http://www.dailygalaxy.com/my_weblog/2017/06/-revolutionary-supercomputer-code-simulates-entire-cosmos-25-billion-virtual-galaxies.html)
 

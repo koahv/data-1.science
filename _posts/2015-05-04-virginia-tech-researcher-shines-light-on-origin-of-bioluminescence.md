@@ -8,14 +8,12 @@ tags: [Motyxia, Bioluminescence, Organisms, Biology]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Virginia Tech) Bioluminescence at least in one millipede may have evolved as a way to survive in a hot, dry environment, not as a means to ward off predators, according to scientists publishing in this week's Proceedings of the National Academy of Sciences....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/vt-vtr050115.php)
 

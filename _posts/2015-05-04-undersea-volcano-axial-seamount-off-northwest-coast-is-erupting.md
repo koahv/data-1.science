@@ -8,14 +8,12 @@ tags: [Submarine volcano, Axial Seamount, Seamount, Types of volcanic eruptions,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Axial Seamount, an active underwater volcano located about 300 miles off the coast of Oregon and Washington, appears to be erupting -- after two scientists had forecast that such an event would take place there in 2015....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/FoTOQyKk-PY/150504100731.htm)
 

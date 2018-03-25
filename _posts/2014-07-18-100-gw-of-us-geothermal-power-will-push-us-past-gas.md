@@ -8,14 +8,12 @@ tags: [Hydraulic fracturing, Geothermal power, Physical universe, Alternative en
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Filed under: Energy News...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.importantmedia.org/~r/IM-cleantechnica/~3/D2VjN6xYgsU/)
 

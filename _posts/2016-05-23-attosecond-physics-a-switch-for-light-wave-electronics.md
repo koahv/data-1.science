@@ -8,14 +8,12 @@ tags: [Electron, Light, Atomic molecular and optical physics, Natural philosophy
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Ludwig-Maximilians-Universität München) A team led by Ferenc Krausz of LMU Munich and the MPI for Quantum Optics, together with theorists from Tsukuba University, has optimized the interaction of light with glass, thus improving the prospects for optically driven electronics....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/lm-apa052316.php)
 

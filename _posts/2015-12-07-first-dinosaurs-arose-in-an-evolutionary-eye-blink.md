@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.nature.com/news/first-dinosaurs-arose-in-an-evolutionary-eye-blink-1.18953)
 

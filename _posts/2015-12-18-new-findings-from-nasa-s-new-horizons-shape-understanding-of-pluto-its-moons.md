@@ -8,14 +8,12 @@ tags: [New Horizons, Pluto, Charon (moon), Sputnik Planitia, Sun, Atmosphere, Ge
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >NewsFive months after NASA’s New Horizons spacecraft flew past Pluto to take the first images and measurements of this icy world and its system of satellites, knowledge about this distant... Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/news/2015/12/new-findings-nasas-new-horizons-shape-understanding-pluto-its-moons)
 

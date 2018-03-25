@@ -8,14 +8,12 @@ tags: [Mikhail Kornienko, Scott Kelly (astronaut), Gennady Padalka, Soyuz TMA-16
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Two Russians and an American floated into the International Space Station on Saturday, beginning what is to be a year away from Earth for two of them....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news346697135.html)
 

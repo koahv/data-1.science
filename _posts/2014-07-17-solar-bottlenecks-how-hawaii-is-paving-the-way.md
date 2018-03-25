@@ -8,14 +8,12 @@ tags: [Solar power, Grid parity, Energy, Physical universe, Nature, Sustainable 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Filed under: Energy News...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.importantmedia.org/~r/IM-cleantechnica/~3/M1kIdULtiro/)
 

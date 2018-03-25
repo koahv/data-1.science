@@ -8,14 +8,12 @@ tags: [Computer architecture, Areas of computer science, Computer networking, Cy
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >LinuxSecurity.com: Network-based firewalls have become almost ubiquitous across US enterprises for their proven defense against an ever-increasing array of threats....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.linuxsecurity.com/content/view/194538?rdf)
 

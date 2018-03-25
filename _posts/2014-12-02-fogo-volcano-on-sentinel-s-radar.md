@@ -8,14 +8,17 @@ tags: [Sentinel-1A, Sentinel-1, Volcano, Earth sciences, Geology]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Radar images from the Sentinel-1A satellite are helping to monitor ground movements of the recently erupted Fogo volcano....
+>
+								
+		
+Radar images from the Sentinel-1A satellite are helping to monitor ground movements of the recently erupted Fogo volcano.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Fogo_volcano_on_Sentinel_s_radar)
 

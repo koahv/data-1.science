@@ -8,14 +8,12 @@ tags: [CRISPR, Genome editing, Cas9, DNA, Biology, Genetics, Biotechnology, Life
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Institute for Basic Science) IBS researchers create multiplex Digenome-seq to find errors in CRISPR-Cas9 processes....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-02/ifbs-ntf020416.php)
 

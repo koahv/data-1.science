@@ -8,14 +8,17 @@ tags: [Jupiter, Planet, Hubble Space Telescope, Great Red Spot, Voyager 2, Astro
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Looking into Jupiter’s turbulent atmosphere and its famous Great Red Spot with the Hubble telescope...
+>
+							
+				
+		
+		Looking into Jupiter’s turbulent atmosphere and its famous Great Red Spot with the Hubble telescope
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://sci.esa.int/hubble/56634-hubble-s-planetary-portrait-captures-changes-in-jupiter-s-great-red-spot-heic1522/)
 

@@ -8,14 +8,12 @@ tags: [Dietary fiber, Whole grain, Health, Food and drink, Nutrition]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Dietary fiber is a plant-based nutrient that is sometimes called roughage or bulk. Fiber is important to digestion and regularity, weight management, blood sugar regulation, cholesterol maintenance and more....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/51998-dietary-fiber.html)
 

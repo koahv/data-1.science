@@ -8,14 +8,12 @@ tags: [Hubble Space Telescope, Milky Way, Star, NASA, Nebula, Astronomy, Spiral 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Hubble, it's your turn to smile for the cameras!...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news348921689.html)
 

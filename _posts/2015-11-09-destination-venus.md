@@ -8,14 +8,17 @@ tags: [Atmosphere of Earth, Venus, Atmosphere, Wind, Cloud, Polar vortex, Vortex
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Space Science Image of the Week: These striking images of Venus’ dynamic south pole were recorded by ESA’s Venus Express during its eight years orbiting the planet...
+>
+							
+				
+		
+		Space Science Image of the Week: These striking images of Venus’ dynamic south pole were recorded by ESA’s Venus Express during its eight years orbiting the planet
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/spaceinimages/Images/2015/11/Destination_Venus)
 

@@ -8,14 +8,12 @@ tags: [MaltaBuret culture, Homo sapiens, Human, Neanderthal]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >What if you researched your family's genealogy, and a mysterious stranger turned out to be an ancestor?...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news334931668.html)
 

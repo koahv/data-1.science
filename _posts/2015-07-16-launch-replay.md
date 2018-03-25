@@ -8,14 +8,17 @@ tags: [Meteosat, Transport authorities, Astronautics, Satellites, Aerospace agen
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Missed MSG-4 liftoff? Watch the replay of the launch from Europe’s Spaceport in French Guiana on 15 July...
+>
+							
+				
+		
+		Missed MSG-4 liftoff? Watch the replay of the launch from Europe’s Spaceport in French Guiana on 15 July
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/spaceinvideos/Videos/2015/07/MSG-4_liftoff)
 

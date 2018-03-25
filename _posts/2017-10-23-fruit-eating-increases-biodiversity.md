@@ -8,14 +8,12 @@ tags: [Frugivore, Speciation, Seed dispersal, Species, Natural environment, Orga
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->By dispersing the seeds of plants, fruit-eating animals contribute to the possibility of increased plant speciation and thus biodiversity, investigators have discovered....
+>By dispersing the seeds of plants, fruit-eating animals contribute to the possibility of increased plant speciation and thus biodiversity, investigators have discovered. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171023150541.htm)
 

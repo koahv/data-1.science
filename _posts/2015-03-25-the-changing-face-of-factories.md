@@ -8,14 +8,13 @@ tags: [Factory, Internet of things, Internet, Industrial Revolution, Automation,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Read more about The Changing Face of FactoriesComments...
+>
+Read more about The Changing Face of FactoriesComments...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/round-ups/2015/03/changing-face-factories)
 

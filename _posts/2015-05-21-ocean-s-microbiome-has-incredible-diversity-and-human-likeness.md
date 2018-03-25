@@ -8,14 +8,12 @@ tags: [Knuckle-walking, SpaceX, New Horizons]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Genes mapped from thousands of newly discovered plankton species show striking similarities between human and ocean microbiomes...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.newscientist.com/c/749/f/10897/s/4687ff11/sc/32/l/0L0Snewscientist0N0Carticle0Cdn275780Eoceans0Emicrobiome0Ehas0Eincredible0Ediversity0E0Eand0Ehuman0Elikeness0Bhtml0Dcmpid0FRSS0QNSNS0Q20A120EGLOBAL0Qonline0Enews/story01.htm)
 

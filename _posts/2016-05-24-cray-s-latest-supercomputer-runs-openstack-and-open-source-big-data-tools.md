@@ -8,14 +8,13 @@ tags: [Cray, Computing, Supercomputer, Cloud computing, Computer engineering, Co
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Cray has always been associated with speed and power and its latest computing beast called the Cray Urika-GX system has been designed specifically for big data workloads. What’s more, it runs on OpenStack, the open source cloud platform and supports open source big data processing tools like Hadoop and Spark....
+>Cray has always been associated with speed and power and its latest computing beast called the Cray Urika-GX system has been designed specifically for big data workloads.
+What’s more, it runs on OpenStack, the open source cloud platform and supports open source big data processing tools like Hadoop and Spark....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/crays-latest-supercomputer-runs-openstack-and-open-source-big-data-tools)
 

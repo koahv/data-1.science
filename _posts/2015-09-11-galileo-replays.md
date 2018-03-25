@@ -8,14 +8,17 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Full replays of the first and second parts of the Galileo launch transmission, including liftoff and separation...
+>
+							
+				
+		
+		Full replays of the first and second parts of the Galileo launch transmission, including liftoff and separation
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/spaceinvideos/Sets/Galileo_9_10)
 

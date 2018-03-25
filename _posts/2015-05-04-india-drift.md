@@ -8,14 +8,12 @@ tags: [Plate tectonics, Subduction, Volcanic arc, Earth, Mantle plume, Continent
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Massachusetts Institute of Technology) MIT researchers explain mystery of India's rapid move toward Eurasia 80 million years ago....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-05/miot-id043015.php)
 

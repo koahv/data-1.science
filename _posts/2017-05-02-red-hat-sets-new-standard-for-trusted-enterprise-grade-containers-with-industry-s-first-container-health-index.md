@@ -8,14 +8,12 @@ tags: [Red Hat, Computer security, Linux, Information technology, Technology, So
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Red Hat launches Container Health Index, an easy-to-understand security grade applied to Linux containers as part of the Red Hat Container Catalog....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.redhat.com/en/about/press-releases/red-hat-sets-new-standard-trusted-enterprise-grade-containers-industry%E2%80%99s-first-container-health-index)
 

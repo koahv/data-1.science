@@ -8,14 +8,12 @@ tags: [Linux organizations, Free content, Unix variants, Free software, Linus To
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >It's been thirty years since the birth of the X Window System. Here's what I remember of those early days....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/software/applications/777607-x-window-system-30-years-on-and-still-going-strong/)
 

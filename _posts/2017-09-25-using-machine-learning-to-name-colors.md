@@ -8,14 +8,14 @@ tags: [Language, Word embedding, Artificial neural network, Color, Learning, Mac
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->On a recent trip to Michigan, my friend Tim Sosa mentioned a blog post he read in which the author, Janelle Shane, describes how she built a neural network that generates color names from RGB values. I thought the idea was really neat, but I found the results underwhelming. read more...
+>On a recent trip to Michigan, my friend Tim Sosa mentioned a blog post he read in which the author, Janelle Shane, describes how she built a neural network that generates color names from RGB values. I thought the idea was really neat, but I found the results underwhelming.
 
-#### Factsheet
->factsheet unavailable
+read more...
+
+
 
 [Visit Link](https://opensource.com/article/17/9/color-naming-word-embeddings)
 

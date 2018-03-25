@@ -8,14 +8,12 @@ tags: [Domain wall (magnetism), Microscope, Nanowire, Magnetism, Racetrack memor
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Method could help develop sophisticated spintronic memories...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/mD-_gEy5dZw/diamond-defect-images-magnetic-domain-walls)
 

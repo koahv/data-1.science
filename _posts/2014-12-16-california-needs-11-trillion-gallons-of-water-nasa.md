@@ -8,14 +8,12 @@ tags: [Global warming, Snow, Water, Drought, Gravity Recovery and Climate Experi
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >California needs 11 trillion gallons of water to recover from its three-year drought, the US space agency said Tuesday after studying water resources by using satellite data....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news337971795.html)
 

@@ -8,14 +8,13 @@ tags: [File system, Tmpfs, Ext4, Mount (computing), Gigabyte, Kilobyte, Inode, D
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The df command displays the disk space usage for the Linux filesystems. It displays the amount of total and free disk space available on the mounted file systems. Using the command, we can also find used blocks and inodes in [...] The post 13 Practical df Command Examples to Check Disk Space in Linux appeared first on LinOxide....
+>The df command displays the disk space usage for the Linux filesystems. It displays the amount of total and free disk space available on the mounted file systems. Using the command, we can also find used blocks and inodes in [...]
+The post 13 Practical df Command Examples to Check Disk Space in Linux appeared first on LinOxide....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://linoxide.com/linux-command/linux-df-command/)
 

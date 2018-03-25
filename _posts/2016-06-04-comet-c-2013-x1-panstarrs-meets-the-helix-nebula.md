@@ -8,14 +8,12 @@ tags: [Pan-STARRS, Scientific observation, Observational astronomy, Planetary sc
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The post Comet C/2013 X1 PanSTARRS meets the Helix Nebula appeared first on Sky &amp; Telescope....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/comet-c2013-x1-panstarrs-meets-helix-nebula/)
 

@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >LinuxJournal: OpenGL is a well-known standard for generating 3-D as well as 2-D graphics that is extremely powerful and has many capabilities....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.linuxtoday.com/developer/an-introduction-to-opengl-programming.html)
 

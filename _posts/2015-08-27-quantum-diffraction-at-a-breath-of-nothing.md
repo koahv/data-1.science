@@ -8,14 +8,16 @@ tags: [Quantum mechanics, Diffraction grating, Diffraction, Molecule, Uncertaint
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Vienna, Austria (SPX) Aug 27, 2015 The quantum mechanical wave nature of matter is the basis for a number of modern technologies like high resolution electron microscopy, neutron-based studies on solid state materials or highly sensitive inertial sensors working with atoms. The research in the group around Prof. Markus Arndt at the University of Vienna is focused on how one can extend such technologies to large molecules and clus...
+>
+Vienna, Austria (SPX) Aug 27, 2015
 
-#### Factsheet
->factsheet unavailable
+
+The quantum mechanical wave nature of matter is the basis for a number of modern technologies like high resolution electron microscopy, neutron-based studies on solid state materials or highly sensitive inertial sensors working with atoms. The research in the group around Prof. Markus Arndt at the University of Vienna is focused on how one can extend such technologies to large molecules and clus...
+
+
 
 [Visit Link](http://www.spacedaily.com/reports/Quantum_diffraction_at_a_breath_of_nothing_999.html)
 

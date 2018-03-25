@@ -8,14 +8,12 @@ tags: [OSIRIS-REx, NASA, Spaceflight, Spacecraft, Flight, Astronautics, Spacefli
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Arizona) NASA's Origins, Spectral Interpretation, Resource Identification, Security-Regolith Explorer (OSIRIS-REx) spacecraft has begun environmental testing at Lockheed Martin Space Systems facilities, near Denver, Colorado. OSIRIS-REx, led by the University of Arizona, will be the first US mission to return samples from an asteroid to Earth for further study....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-10/uoa-osc102215.php)
 

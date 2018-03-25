@@ -8,14 +8,18 @@ tags: [Laser, Light, Quantum mechanics, Optics, Research, Computer, Symmetry, Ph
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Princeton NJ (SPX) Jun 24, 2014 Inspired by anomalies that arise in certain mathematical equations, researchers have demonstrated a laser system that paradoxically turns off when more power is added rather than becoming continuously brighter. The finding by a team of researchers at Vienna University of Technology and Princeton University, could lead to new ways to manipulate the interaction of electronics and light, an i...
+>
+Princeton NJ (SPX) Jun 24, 2014
 
-#### Factsheet
->factsheet unavailable
+
+Inspired by anomalies that arise in certain mathematical equations, researchers have demonstrated a laser system that paradoxically turns off when more power is added rather than becoming continuously brighter. 
+
+The finding by a team of researchers at Vienna University of Technology and Princeton University, could lead to new ways to manipulate the interaction of electronics and light, an i...
+
+
 
 [Visit Link](http://www.spacemart.com/reports/Strange_physics_turns_off_laser_999.html)
 

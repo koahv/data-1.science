@@ -8,14 +8,12 @@ tags: [Problem solving, Research, Education, Strategic management, Change, Educa
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >More than ever, we need problem-solving skills to be able to adapt to our fast changing economies and societies. Researchers believe it is possible to teach these skills which are widely known as “intelligence”....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/pHzN-ikD9EY/150210083649.htm)
 

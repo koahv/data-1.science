@@ -8,14 +8,12 @@ tags: [Internet of things, Cloud computing, AllJoyn, Eclipse (software), Gateway
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The Internet of Things market is fragmented, amorphous, and continually changing, and its very nature requires more than the usual attention to interoperability. It’s not surprising then, that open source has done quite well here -- customers are hesitant to bet their IoT future on a proprietary platform that may fade or become difficult to customize and interconnect....
+>The Internet of Things market is fragmented, amorphous, and continually changing, and its very nature requires more than the usual attention to interoperability. It’s not surprising then, that open source has done quite well here -- customers are hesitant to bet their IoT future on a proprietary platform that may fade or become difficult to customize and interconnect. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/21-open-source-projects-iot)
 

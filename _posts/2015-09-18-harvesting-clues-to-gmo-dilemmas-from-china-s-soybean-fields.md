@@ -8,14 +8,12 @@ tags: [Soybean, Agriculture, Genetically modified food, Ecology, Industries, Nat
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->(Michigan State University) China's struggle -- mirrored across the globe -- to balance public concern over the safety of genetically modified crops with a swelling demand for affordable food crops has left a disconnect: In China's case, shrinking fields of domestic soybean -- by law non-GM -- and massive imports of cheaper soybeans that are the very GM crop consumers profess to shun....
+>(Michigan State University) China's struggle -- mirrored across the globe -- to balance public concern over the safety of genetically modified crops with a swelling demand for affordable food crops has left a disconnect:  In China's case, shrinking fields of domestic soybean -- by law non-GM -- and massive imports of cheaper soybeans that are the very GM crop consumers profess to shun....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/msu-hct091515.php)
 

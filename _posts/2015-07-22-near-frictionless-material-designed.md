@@ -8,14 +8,12 @@ tags: [Superlubricity, Friction, Artificial objects, Materials science, Applied 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Read more about Near-Frictionless Material DesignedComments...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/news/2015/07/near-frictionless-material-designed)
 

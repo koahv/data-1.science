@@ -8,14 +8,12 @@ tags: [Biological pump, Carbon cycle, Ocean, Environmental science, Applied and 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->A scientific plan to measure the ocean's carbon cycle has been developed, including a way to predict its future conditions, which have implications for climate change....
+>A scientific plan to measure the ocean's carbon cycle has been developed, including a way to predict its future conditions, which have implications for climate change. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.sciencedaily.com/releases/2016/03/160330174212.htm)
 

@@ -8,14 +8,17 @@ tags: [Sentinel-5 Precursor, Copernicus Programme, Meteorology, Nature, Earth sc
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->A look back on the preparations for the 13 October liftoff of Sentinel-5P...
+>
+							
+				
+		
+		A look back on the preparations for the 13 October liftoff of Sentinel-5P
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2017/10/Sentinel-5P_prepared_for_liftoff)
 

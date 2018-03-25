@@ -8,14 +8,12 @@ tags: [CT scan, Fossil, Skeleton, Amber, Dinosaur]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Astonishingly well-preserved Cretaceous lizards caught in amber include specimens with intact skin, visible skin pigment, and soft tissues — and in one case, a lolling tongue....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/53945-photos-amber-preserves-cretaceous-lizards.html)
 

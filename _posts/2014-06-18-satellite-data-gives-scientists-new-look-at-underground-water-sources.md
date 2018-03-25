@@ -8,14 +8,12 @@ tags: [Groundwater, Water resources, Interferometric synthetic-aperture radar, E
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >There may be a new way to monitor underground water sources. Scientists have managed to find a way to use satellites to accurately measure levels of water stored hundreds of feet below ground....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.scienceworldreport.com/articles/15510/20140618/satellite-data-gives-scientists-new-look-underground-water-sources.htm)
 

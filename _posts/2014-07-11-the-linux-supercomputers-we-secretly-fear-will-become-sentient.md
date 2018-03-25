@@ -8,14 +8,12 @@ tags: [FLOPS, Titan (supercomputer), Pleiades (supercomputer), Computers, Comput
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >What can you do with 17.5 million petaflops that you can't do with a fancy, quad core i7 desktop PC?...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/enterprise/high-performance/147-high-performance/780158-the-linux-supercomputers-we-secretly-fear-will-become-sentient/)
 

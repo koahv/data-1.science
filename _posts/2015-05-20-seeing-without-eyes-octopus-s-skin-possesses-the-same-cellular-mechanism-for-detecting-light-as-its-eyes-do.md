@@ -8,14 +8,12 @@ tags: [Eye, Chromatophore, Octopus, Cephalopod, Light, Skin, Brain, Biology, Ner
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The skin of the California two-spot octopus can sense light even without input from the central nervous system. The animal does so by using the same family of light-sensitive proteins called opsins found in its eyes -- a process not previously described for cephalopods....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/2j2FSeZMais/150520193953.htm)
 

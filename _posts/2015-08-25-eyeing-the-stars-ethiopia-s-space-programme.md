@@ -8,14 +8,12 @@ tags: [Ethiopia, Astronomy, Mars, Observatory, Galaxy, Galactic Center, Black ho
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >High above the crowded streets of Addis Ababa, among fields where farmers lead oxen dragging wooden ploughs, sits Ethiopia's space programme....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-08-eyeing-stars-ethiopia-space-programme.html)
 

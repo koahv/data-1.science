@@ -9,13 +9,12 @@ tags: [Human, Cetacea, Brain, Evolution, Dolphin, Culture, Species, American Ass
 
 
 #### Digest
->digest unavailable
+>Whales and dolphins (Cetaceans) live in tightly-knit social groups, have complex relationships, talk to each other and even have regional dialects - much like human societies. A major new study, published today in Nature Ecology & Evolution (Monday 16th October), has linked the complexity of Cetacean culture and behaviour to the size of their brains.
 
-#### Extract
->(University of Manchester) Whales and dolphins (cetaceans) live in tightly-knit social groups, have complex relationships, talk to each other and even have regional dialects -- much like human societies. A major new study, published today in Nature Ecology & Evolution, has linked the complexity of Cetacean culture and behavior to the size of their brains....
+
 
 #### Factsheet
->factsheet unavailable
+>The long list of behavioural similarities includes many traits shared with humans and other primates such as: complex alliance relationships - working together for mutual benefit; social transfer of hunting techniques - teaching how to hunt and using tools
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uom-wad101217.php)
 

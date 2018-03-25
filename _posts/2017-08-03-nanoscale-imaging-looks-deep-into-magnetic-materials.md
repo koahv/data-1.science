@@ -8,14 +8,12 @@ tags: [Magnetic field, Electron, Ferromagnetism, Spin (physics), Magnetism, X-ra
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >New technique bags Bloch points...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/aug/03/nanoscale-imaging-looks-deep-into-magnetic-materials)
 

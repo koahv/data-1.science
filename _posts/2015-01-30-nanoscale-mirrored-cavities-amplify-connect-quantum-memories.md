@@ -8,14 +8,18 @@ tags: [Electron, Atom, Photon, Spin (physics), Diamond, Information, Light, Comp
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Upton NY (SPX) Jan 29, 2015 The idea of computing systems based on controlling atomic spins just got a boost from new research performed at the Massachusetts Institute of Technology (MIT) and the U.S. Department of Energy's (DOE) Brookhaven National Laboratory. By constructing tiny "mirrors" to trap light around impurity atoms in diamond crystals, the team dramatically increased the efficiency with which photons tran...
+>
+Upton NY (SPX) Jan 29, 2015
 
-#### Factsheet
->factsheet unavailable
+
+The idea of computing systems based on controlling atomic spins just got a boost from new research performed at the Massachusetts Institute of Technology (MIT) and the U.S. Department of Energy's (DOE) Brookhaven National Laboratory. 
+
+By constructing tiny "mirrors" to trap light around impurity atoms in diamond crystals, the team dramatically increased the efficiency with which photons tran...
+
+
 
 [Visit Link](http://www.nanodaily.com/reports/Nanoscale_mirrored_cavities_amplify_connect_quantum_memories_999.html)
 

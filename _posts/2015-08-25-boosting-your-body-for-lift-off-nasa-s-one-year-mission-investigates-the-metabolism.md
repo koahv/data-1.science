@@ -8,14 +8,12 @@ tags: [Atherosclerosis, Health, NASA, International Space Station, Mars, Stress 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Everyone wants a metabolism boost, but understanding the processes that convert food to energy is challenging, and even more so in space. Achieving optimal health requires a proactive approach and a holistic view of all the integrated functions of the body....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-08-boosting-body-nasa-one-year-mission.html)
 

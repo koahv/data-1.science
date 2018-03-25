@@ -8,14 +8,12 @@ tags: [Evolution, Molecular evolution, Protein, Genetics, Mutation, Protein fold
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Colorado Anschutz Medical Campus) Researchers from the University of Colorado Anschutz Medical Campus and the University College London have developed a new theory of molecular evolution, offering insights into how genes function, how the rates of evolutionary divergence can be predicted, and how harmful mutations arise at a basic level....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoca-sdn101917.php)
 

@@ -8,14 +8,17 @@ tags: [Glacier, Time-lapse photography, Natural environment, Cryosphere, Animati
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Animations that compress 25 years of satellite images into just one second reveal the complex behaviour and flow of glaciers in the Karakoram mountain range in Asia....
+>
+								
+		
+Animations that compress 25 years of satellite images into just one second reveal the complex behaviour and flow of glaciers in the Karakoram mountain range in Asia.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Timelapse_from_space_reveals_glacier_in_motion)
 

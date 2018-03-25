@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >readWrite: If you understand English, you already understand Python....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.linuxtoday.com/developer/why-python-makes-a-great-first-programming-language.html)
 

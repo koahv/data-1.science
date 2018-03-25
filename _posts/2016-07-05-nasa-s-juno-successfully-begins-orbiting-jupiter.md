@@ -8,14 +8,13 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Launched five years ago from Cape Canaveral, it has travelled 2.7 billion kilometres so far....
+>
+Launched five years ago from Cape Canaveral, it has travelled 2.7 billion kilometres so far....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.thehindu.com/sci-tech/science/nasas-juno-successfully-begins-orbit-of-jupiter/article8810433.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 

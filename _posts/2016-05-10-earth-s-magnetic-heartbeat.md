@@ -8,14 +8,17 @@ tags: [Earths magnetic field, Swarm (spacecraft), Magnetosphere, Magnetic field,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->With more than two years of measurements by ESA’s Swarm satellite trio, changes in the strength of Earth's magnetic field are being mapped in detail....
+>
+								
+		
+With more than two years of measurements by ESA’s Swarm satellite trio, changes in the strength of Earth's magnetic field are being mapped in detail.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/Swarm/Earth_s_magnetic_heartbeat)
 

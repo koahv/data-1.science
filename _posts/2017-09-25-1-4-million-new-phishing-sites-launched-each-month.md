@@ -8,14 +8,12 @@ tags: [National security, Computer security exploits, Digital media, Areas of co
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->LinuxSecurity.com: The number of phishing attacks reach a record rate in 2017, but the majority of the phishing sites remain active for just four- to eight hours....
+>LinuxSecurity.com: The number of phishing attacks reach a record rate in 2017, but the majority of the phishing sites remain active for just four- to eight hours. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.linuxsecurity.com/content/view/175948?rdf)
 

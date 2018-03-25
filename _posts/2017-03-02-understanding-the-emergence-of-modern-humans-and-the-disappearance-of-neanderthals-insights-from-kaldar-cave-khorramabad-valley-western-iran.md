@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.nature.com/srep/2017/170302/srep43460/full/srep43460.html?WT.feed_name=subjects_evolution)
 

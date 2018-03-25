@@ -8,14 +8,15 @@ tags: [Application software, Cloud computing, Application programming interface,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The robots are coming for web programming. And coding schools will soon be obsolete. Even an engineer admits: with increasing automation, technology will soon replace the majority of tech jobs themselves. &nbsp; I have a friend who can see the future. We were talking a few years ago about how far tooling and automation had come along in software engineering. He suggested that, in the very near future, there would be only two jobs in application development: user experience design (UX) and data science. Everything between would be automated. I was a bit skeptical at the time, but I have since come around to his point of view. Since the first dot-com boom, there have been three specialized roles in web development: engineering, product manage...
+>The robots are coming for web programming. And coding schools will soon be obsolete. Even an engineer admits: with increasing automation, technology will soon replace the majority of tech jobs themselves.
+&nbsp;
+I have a friend who can see the future. We were talking a few years ago about how far tooling and automation had come along in software engineering. He suggested that, in the very near future, there would be only two jobs in application development: user experience design (UX) and data science. Everything between would be automated. I was a bit skeptical at the time, but I have since come around to his point of view.
+Since the first dot-com boom, there have been three specialized roles in web development: engineering, product manage...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.gereports.com/soon-tech-jobs-will-design-data/)
 

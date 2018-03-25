@@ -8,14 +8,12 @@ tags: [Genetics, Genome editing, CRISPR, Gene, Cas9, Genetic engineering, Gene t
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Chinese scientists say they've genetically modified human embryos for the very first time. The team attempted to modify the gene responsible for beta-thalassaemia, a potentially fatal blood disorder, using a gene-editing technique known as CRISPR/Cas9. Gene editing is a recently developed type of genetic engineering in which DNA is inserted, replaced, or removed. Here, experts weigh-in with ethical questions and considerations....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/o4PtewFhkl8/150424122312.htm)
 

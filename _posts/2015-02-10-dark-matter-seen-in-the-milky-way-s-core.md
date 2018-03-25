@@ -8,14 +8,12 @@ tags: [Dark matter, Milky Way, Gravity, Galaxy rotation curve, Star, Matter, Par
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Astronomers provide the first direct evidence that dark matter abounds in the inner part of our galaxy...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/HucrJUiihCI/dark-matter-seen-in-the-milky-ways-core)
 

@@ -8,14 +8,12 @@ tags: [Neanderthal, Homo, Human evolution, Homo sapiens, Human, Homo heidelberge
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >We know we share a common ancestor with Neanderthals, the extinct species that were our closest prehistoric relatives. But what this ancient ancestral population looked like remains a mystery, as fossils from the Middle Pleistocene period, during which the lineage split, are extremely scarce and fragmentary....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-12-virtual-fossil-reveals-common-ancestor.html)
 

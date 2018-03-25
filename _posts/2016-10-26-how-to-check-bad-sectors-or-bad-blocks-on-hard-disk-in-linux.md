@@ -8,14 +8,12 @@ tags: [Disk sector, SMART, Badblocks, Ext3, Bad sector, Flash memory, File syste
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Let us start by defining a bad sector/block, it&#8217;s a section on a disk drive or flash memory that can not be read from or written to anymore, as a result of a fixed&#46;&#46;&#46;...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.tecmint.com/check-linux-hard-disk-bad-sectors-bad-blocks/)
 

@@ -8,14 +8,12 @@ tags: [Hyperloop, Transport, Technology, Transportation engineering, Artificial 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Sonic tubular travel might sound like geeky sci-fi, but a company plans to break ground next year on a five-mile California project....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://news.nationalgeographic.com/energy/2015/06/150602-Musk-sonic-hyperloop-gets-California-stretch/)
 

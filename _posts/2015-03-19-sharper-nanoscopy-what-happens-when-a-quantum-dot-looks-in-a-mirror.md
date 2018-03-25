@@ -8,14 +8,12 @@ tags: [Light, Microscopy, Diffraction, Diffraction-limited system, Angular resol
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The advent of super-resolved microscopy with visible light won this year's chemistry Nobel. Scientists have now discovered how to make nanoscale images even sharper....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/_6zxg0FDV4A/150319143422.htm)
 

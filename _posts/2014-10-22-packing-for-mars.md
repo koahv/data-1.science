@@ -8,14 +8,17 @@ tags: [ExoMars, Schiaparelli EDM lander, Mars, Cleanroom, Spaceflight, Outer spa
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Like surgeons in an operating room, ESA technicians in an ultra-clean lab prepare a high-tech sensor for the Red Planet...
+>
+							
+				
+		
+		Like surgeons in an operating room, ESA technicians in an ultra-clean lab prepare a high-tech sensor for the Red Planet
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Engineering/Packing_for_Mars)
 

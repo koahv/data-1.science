@@ -8,14 +8,12 @@ tags: [Venus, Milky Way, Atmosphere, Astronomy, Atmosphere of Venus, Planet, Sat
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Venus is a slowly rotating planet since it takes about two hundred and forty three terrestrial days to complete a round about itself. Its atmosphere is expected to rotate with the same rhythm as well, but in the case of Venus it takes only four days. The origin and motor of this superrotation is so far unknown, but the numerous waves present in the planet's atmosphere may play an important role. A study has just identified the nature of these waves for the first time....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news324203307.html)
 

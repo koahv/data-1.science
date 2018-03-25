@@ -8,14 +8,12 @@ tags: [Static electricity, Electric charge, Electricity, Applied and interdiscip
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Static electricity results from an imbalance between negative and positive charges in objects....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/51656-static-electricity.html)
 

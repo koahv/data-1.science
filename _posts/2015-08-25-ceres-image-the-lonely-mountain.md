@@ -8,14 +8,12 @@ tags: [Dawn (spacecraft), Ceres (dwarf planet), Astronomy, Mars, Galaxy, Physica
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >NASA's Dawn spacecraft spotted this tall, conical mountain on Ceres from a distance of 915 miles (1,470 kilometers)....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-08-ceres-image-lonely-mountain.html)
 

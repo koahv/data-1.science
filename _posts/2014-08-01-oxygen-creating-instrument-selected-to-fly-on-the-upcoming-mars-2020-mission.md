@@ -8,14 +8,12 @@ tags: [Mars 2020, Mars, Milky Way, NASA, SpaceX, Galaxy, Astronomy, Astronautics
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Whenever the first NASA astronauts arrive on Mars, they will likely have MIT to thank for the oxygen they breathe—and for the oxygen needed to burn rocket fuel that will launch them back home to Earth....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news326099009.html)
 

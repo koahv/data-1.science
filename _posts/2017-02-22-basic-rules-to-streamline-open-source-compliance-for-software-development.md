@@ -8,14 +8,12 @@ tags: [Open-source software, Software, Linux Foundation, Regulatory compliance, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;Basic Rules to Streamline Open Source Compliance For Software Development22 FebLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/blog/learn/compliance/2017/2/basic-rules-streamline-open-source-compliance-software-development)
 

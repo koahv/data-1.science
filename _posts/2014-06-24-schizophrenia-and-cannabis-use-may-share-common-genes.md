@@ -8,14 +8,12 @@ tags: [Schizophrenia, Kings College London, Institute of Psychiatry Psychology a
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(King's College London) Genes that increase the risk of developing schizophrenia may also increase the likelihood of using cannabis, according to a new study led by King's College London, published today in Molecular Psychiatry....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/kcl-sac062314.php)
 

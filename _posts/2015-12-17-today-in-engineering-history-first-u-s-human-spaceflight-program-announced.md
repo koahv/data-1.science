@@ -8,14 +8,12 @@ tags: [Project Mercury, NASA, Spaceflight, Flight, Outer space, Astronautics, Hu
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >NewsOn this day in history, December 17, 1958, Project Mercury was publicly announced. Running from 1958 through 1963, the program’s goal was to put a human into Earth’s orbit and return... Staff Author:&nbsp;Kaylie DuffyTopics:&nbsp;Aerospace...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/news/2015/12/today-engineering-history-first-us-human-spaceflight-program-announced)
 

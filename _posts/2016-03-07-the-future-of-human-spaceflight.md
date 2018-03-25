@@ -8,14 +8,12 @@ tags: [Orion (spacecraft), NASA, Constellation program, Atmospheric entry, Explo
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >ArticleNASA’s Orion Multi-Purpose Crew Vehicle (MPCV) is a spacecraft planned to take astronauts farther than any human has ever gone before. The agency launched the spacecraft on its first test flight in ...Staff Author:&nbsp;Kaylie DuffyTopics:&nbsp;Aerospace...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/article/2016/03/future-human-spaceflight)
 

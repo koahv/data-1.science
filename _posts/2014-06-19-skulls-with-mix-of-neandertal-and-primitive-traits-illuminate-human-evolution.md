@@ -8,14 +8,12 @@ tags: [Neanderthal, Human, Evolution, Homo sapiens, Science, Evolutionary biolog
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(American Association for the Advancement of Science) Researchers have analyzed the largest collection of ancient fossil hominin species ever recovered from a single excavation site, shedding light on the origin and evolution of Neandertals....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-06/aaft-swm061314.php)
 

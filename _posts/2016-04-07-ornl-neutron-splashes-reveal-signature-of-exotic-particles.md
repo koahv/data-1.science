@@ -8,14 +8,12 @@ tags: [Quantum spin liquid, Spin (physics), Majorana fermion, Oak Ridge National
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(DOE/Oak Ridge National Laboratory) Researchers used neutrons to uncover novel behavior in materials that holds promise for quantum computing. The findings provide evidence for long-sought phenomena in a two-dimensional magnet....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-04/drnl-on040716.php)
 

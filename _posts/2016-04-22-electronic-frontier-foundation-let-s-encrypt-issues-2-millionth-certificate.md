@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Less than two months after reaching the millionth certificate milestone, Let's Encrypt announces it has issued its 2 millionth. More from the Electronic Frontier Foundation...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.linuxfoundation.org/news-media/news/2016/04/electronic-frontier-foundation-lets-encrypt-issues-2-millionth-certificate)
 

@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Researchers have been able to capture the first composite image of a dark matter bridge that connects galaxies together....
+>Researchers have been able to capture the first composite image of a dark matter bridge that connects galaxies together. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/04/170412091230.htm)
 

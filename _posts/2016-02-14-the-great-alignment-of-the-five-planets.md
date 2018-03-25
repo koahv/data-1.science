@@ -8,14 +8,12 @@ tags: [Astronomical objects, Astronomy, Outer space, Planetary science, Solar Sy
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The post The Great Alignment of the Five Planets appeared first on Sky &amp; Telescope....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/the-great-alignment-of-the-five-planets/)
 

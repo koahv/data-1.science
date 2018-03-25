@@ -8,14 +8,12 @@ tags: [Odor, Quantum mechanics, Luca Turin, Applied and interdisciplinary physic
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Why does an orange smell like an orange? The answer may have a quantum connection...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/KfoH0WS60Qg/a-quantum-sense-of-smell)
 

@@ -8,14 +8,12 @@ tags: [Human, Technology, Adolescence, Emerging technologies, Evolution, Norm (s
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.gereports.com/debate/debate-is-technology-making-us-less-human/)
 

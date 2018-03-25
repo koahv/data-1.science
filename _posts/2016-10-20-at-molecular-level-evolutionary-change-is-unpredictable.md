@@ -8,14 +8,12 @@ tags: [Evolution, Mutation, Genetics, Species, Hemoglobin, Biology, Natural sele
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Biologists have been contemplating evolutionary change since Charles Darwin first explained it....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-10-molecular-evolutionary-unpredictable.html)
 

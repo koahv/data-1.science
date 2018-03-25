@@ -8,14 +8,12 @@ tags: [Bone, Human skeleton, Orthopedic surgery, Skeleton, Cancer, Clinical medi
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The human skeleton has 206 bones and performs several vital functions....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/22537-skeletal-system.html)
 

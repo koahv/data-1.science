@@ -8,14 +8,12 @@ tags: [Tool use by animals, Chimpanzee, Bonobo, Human, Evolution, Cognitive scie
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >First evidence for a species difference in the innate predisposition for tool use in our closest evolutionary cousins could provide insight into how humans became the ultimate tool-using ape....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/06/150616072318.htm)
 

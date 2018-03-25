@@ -8,14 +8,12 @@ tags: [Diamagnetism, Ferromagnetism, Magnetism, Spin (physics), Magnetic field, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Magnetism is the phenomenon that arises from the force between objects that produce fields that attract or repel other objects....
+>Magnetism is the phenomenon that arises from the force between objects that produce fields that attract or repel other objects. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/38059-magnetism.html)
 

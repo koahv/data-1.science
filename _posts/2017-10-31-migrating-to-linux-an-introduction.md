@@ -11,8 +11,7 @@ tags: [Linux, Operating system, Linux distribution, Package manager, Graphical u
 #### Digest
 >Computer systems running Linux are everywhere. Linux runs our Internet services, from Google search to Facebook, and more. Linux also runs in a lot of devices, including our smartphones, televisions, and even cars. Of course, Linux can also run on your desktop system. If you are new to Linux, or you would just like to try something different on your desktop computer, this series of guides will briefly cover the basics and help you in migrating to Linux from another system.
 
-#### Extract
->Title:&nbsp;Migrating to Linux: An Introduction31 OctLearn more...
+
 
 #### Factsheet
 >In other operating systems, many things are bundled together and are just a part of the package. In Linux, however, each component is called out separately. For example, under Windows, the graphical interface is just a part of Windows. With Linux, you can choose from multiple graphical environments, like GNOME, KDE Plasma, Cinnamon, and MATE, to name a few. At a high level, a Linux installation includes the following things: The kernel; System programs and files residing on disk; A graphical environment; A package manager; Applications.

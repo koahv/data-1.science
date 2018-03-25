@@ -8,14 +8,17 @@ tags: [Panorama, International Space Station, Virtual reality, Digital media, Te
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Explore the International Space Station with ESA astronaut Samantha Cristoforetti as your guide in this 360° interactive view...
+>
+							
+				
+		
+		Explore the International Space Station with ESA astronaut Samantha Cristoforetti as your guide in this 360° interactive view 
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/International_Space_Station/Highlights/International_Space_Station_panoramic_tour)
 

@@ -8,14 +8,12 @@ tags: [Phorusrhacidae, Organisms]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Society of Vertebrate Paleontology) A new species of South American fossil terror bird called Llallawavis scagliai or, 'Scaglia's Magnificent Bird' is shedding light on the diversity of the group and how these giant extinct predators interacted with their environment. The new species, described in the latest issue of the Journal of Vertebrate Paleontology, is the most complete terror bird ever discovered, with more than 90 percent of the skeleton exquisitely preserved....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/sovp-epf040215.php)
 

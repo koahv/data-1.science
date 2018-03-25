@@ -8,14 +8,12 @@ tags: [Dorset culture, Paleo-Eskimo, Archaeology, Indigenous peoples of the Amer
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Copenhagen) A new DNA study unravels the settlement history of the New World Arctic....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-08/uoc-nds082814.php)
 

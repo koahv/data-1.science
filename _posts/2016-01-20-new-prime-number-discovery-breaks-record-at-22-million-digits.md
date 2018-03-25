@@ -8,14 +8,12 @@ tags: [Great Internet Mersenne Prime Search, Arithmetic functions, Recreational 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >A new highest known prime number has been calculated, clocking in at nearly 5 million digits more than the previous record holder....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/software/applications/880096-new-prime-number-discovery-breaks-record-at-22-million-digits/)
 

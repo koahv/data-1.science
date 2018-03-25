@@ -8,14 +8,12 @@ tags: [Pentaquark, Quark, Baryon, Subatomic particles, Physical universe, Fermio
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Result is best evidence yet for bound states of five quarks...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/jul/14/lhcb-claims-discovery-of-two-pentaquarks)
 

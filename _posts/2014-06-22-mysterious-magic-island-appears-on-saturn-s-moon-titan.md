@@ -8,14 +8,12 @@ tags: [Titan (moon), Ligeia Mare, CassiniHuygens, Saturn, Lakes of Titan, Moon, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Now you don't see it. Now, you do. And now you don't see it again. Astronomers have discovered a bright, mysterious geologic object – where one never existed – on Cassini mission radar images of Ligeia Mare, the second-largest sea on Saturn's moon Titan. Scientifically speaking, this spot is considered a "transient feature," but the astronomers have playfully dubbed it "Magic Island."...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news322590086.html)
 

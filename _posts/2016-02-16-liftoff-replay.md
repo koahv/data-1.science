@@ -8,14 +8,17 @@ tags: [Sentinel-3, Planetary science, Outer space, Earth sciences, Physical geog
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Watch the replay of the Sentinel-3A launch on a Rockot from the Plesetsk Cosmodrome in Russia...
+>
+							
+				
+		
+		Watch the replay of the Sentinel-3A launch on a Rockot from the Plesetsk Cosmodrome in Russia
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2016/02/Sentinel-3A_liftoff)
 

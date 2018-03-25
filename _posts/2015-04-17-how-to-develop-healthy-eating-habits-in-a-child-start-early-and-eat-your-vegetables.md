@@ -8,14 +8,12 @@ tags: [Health, Healthy diet, Eating, Obesity, Dieting, Food, Soft drink, Nutriti
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >A healthy diet promotes success in life -- better concentration and alertness, better physical health that translates into good mental and emotional health....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/y5OMfzjlN5g/150417103427.htm)
 

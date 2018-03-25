@@ -8,14 +8,12 @@ tags: [Juno (spacecraft), Jupiter, Astronomical objects, Outer space, Solar Syst
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >NewsNow that the Juno spacecraft is settled in orbit around Jupiter, the real work is about to begin. Juno will fly closer to Jupiter than any other spacecraft, skipping over cloud tops and peering deep inside to...Contributed Author:&nbsp;Alicia Chang, AP Science WriterTopics:&nbsp;Aerospace...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.pddnet.com/news/2016/07/destination-jupiter-what-expect-during-juno-mission)
 

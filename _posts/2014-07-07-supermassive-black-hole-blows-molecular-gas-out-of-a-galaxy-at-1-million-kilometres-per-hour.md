@@ -8,14 +8,12 @@ tags: [Milky Way, Astronomy, Galaxy, Astrophysical jet, Star, Supermassive black
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Phys.org)—New research by academics at the University of Sheffield has solved a long-standing mystery surrounding the evolution of galaxies, deepening our understanding of the future of the Milky Way....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news323946368.html)
 

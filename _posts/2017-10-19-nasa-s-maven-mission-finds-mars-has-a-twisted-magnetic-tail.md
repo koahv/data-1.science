@@ -8,14 +8,12 @@ tags: [MAVEN, Mars, Solar wind, Goddard Space Flight Center, Magnetosphere, Sun,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Mars has an invisible magnetic 'tail' that is twisted by interaction with the solar wind, according to new research using data from NASA's MAVEN spacecraft....
+>Mars has an invisible magnetic 'tail' that is twisted by interaction with the solar wind, according to new research using data from NASA's MAVEN spacecraft. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/10/171019181855.htm)
 

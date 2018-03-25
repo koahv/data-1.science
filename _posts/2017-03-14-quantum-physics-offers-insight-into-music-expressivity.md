@@ -8,14 +8,12 @@ tags: [Music, Vibrato, Violin, Resonance, Erhu, Signal, Science, Molecule, Ameri
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Queen Mary University of London) Scientists at Queen Mary University of London (QMUL) are bringing us closer to understanding the musical experience through a novel approach to analysing a common musical effect known as vibrato....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/qmuo-qpo031317.php)
 

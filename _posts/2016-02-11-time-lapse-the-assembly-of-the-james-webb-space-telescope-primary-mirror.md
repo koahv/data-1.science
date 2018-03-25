@@ -8,14 +8,12 @@ tags: [European Space Agency, Space traffic management, Astronomy, Astronautics,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >VideosThis time-lapse shows the assembly of the primary mirror of NASA's James Webb Space Telescope. Assembly was completed on February 3, 2016. JWST is the scientific successor to NASA's Hubble Space...Contributed Author:&nbsp;NASATopics:&nbsp;Aerospace...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/videos/2016/02/time-lapse-assembly-james-webb-space-telescope-primary-mirror)
 

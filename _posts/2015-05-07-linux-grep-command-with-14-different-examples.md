@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >linuxtechi: Linux like operating systems provides a searching tool known as grep (global regular expression print)....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.linuxtoday.com/developer/linux-grep-command-with-14-different-examples-150504204507.html)
 

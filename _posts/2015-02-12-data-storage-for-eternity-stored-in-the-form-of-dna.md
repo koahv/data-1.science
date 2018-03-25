@@ -8,14 +8,12 @@ tags: [DNA, Information, Error detection and correction]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >How can we preserve our knowledge today for the next millennia? Researchers have found a way to store information in the form of DNA, presumably preserving it for nearly an eternity....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/hz_bs9wKdTQ/150212154633.htm)
 

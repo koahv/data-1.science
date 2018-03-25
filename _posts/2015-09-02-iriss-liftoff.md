@@ -8,14 +8,17 @@ tags: [Soyuz (spacecraft), Spacecraft, European Space Agency, Spaceport, Manned 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Replay: ESA astronaut Andreas Mogensen, commander Sergei Volkov and Aidyn Aimbetov launched into space 2 September at 04:37 GMT (06:37 CEST) from Baikonur cosmodrome, Kazakhstan....
+>
+							
+				
+		
+		Replay: ESA astronaut Andreas Mogensen, commander Sergei Volkov and Aidyn Aimbetov launched into space 2 September at 04:37 GMT (06:37 CEST) from Baikonur cosmodrome, Kazakhstan. 
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2015/09/iriss_mission_liftoff)
 

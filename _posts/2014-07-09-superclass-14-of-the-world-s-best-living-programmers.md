@@ -8,14 +8,12 @@ tags: [Kernel programmers, Linux organizations, Open-source movement, Free softw
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >When developers discuss who the world’s top programmer is, these names tend to come up a lot....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/software/applications/779853-superclass-14-of-the-worlds-best-living-programmers/)
 

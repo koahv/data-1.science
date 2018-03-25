@@ -8,14 +8,12 @@ tags: [Jennifer Doudna, Featured]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Geneticist Jennifer Doudna co-invented a groundbreaking new technology for editing genes, called CRISPR-Cas9. The tool allows scientists to make precise edits to DNA strands, which could lead to treatments for genetic diseases … but could also be used to create so-called "designer babies." Doudna reviews how CRISPR-Cas9 works -- and asks the scientific community to pause and discuss the ethics of this new tool....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely)
 

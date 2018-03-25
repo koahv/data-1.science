@@ -8,14 +8,13 @@ tags: [GNU GRUB, System software, Booting, Digital media, Free software, Areas o
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->When researching my article from last month, An introduction to the Linux boot and startup process, I became interested in learning more about GRUB2. This article provides a quick introduction to configuring GRUB2, which I will mostly refer to as GRUB for simplicity. GRUB...
+>When researching my article from last month, An introduction to the Linux boot and startup process, I became interested in learning more about GRUB2. This article provides a quick introduction to configuring GRUB2, which I will mostly refer to as GRUB for simplicity.
+GRUB...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/introduction-grub2-configuration-your-linux-machine-0)
 

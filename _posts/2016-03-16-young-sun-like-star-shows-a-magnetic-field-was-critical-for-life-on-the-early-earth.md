@@ -8,14 +8,12 @@ tags: [Sun, Planet, Star, Earth, Kappa1 Ceti, Atmosphere, Solar System, Circumst
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Harvard-Smithsonian Center for Astrophysics) Nearly four billion years ago, life arose on Earth. Life appeared because our planet had a rocky surface, liquid water, and a blanketing atmosphere. But life thrived thanks to another necessary ingredient: the presence of a protective magnetic field. A new study of the young, Sun-like star Kappa Ceti shows that a magnetic field plays a key role in making a planet conducive to life....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-03/hcfa-ys031616.php)
 

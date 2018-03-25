@@ -8,14 +8,12 @@ tags: [Large Hadron Collider, CERN, Collider, Physical universe, Applied and int
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The world's largest particle smasher resumed colliding protons Tuesday as it gradually reboots following a two-year upgrade, Europe's physics lab CERN said....
+> The world's largest particle smasher resumed colliding protons Tuesday as it gradually reboots following a two-year upgrade, Europe's physics lab CERN said....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news350053188.html)
 

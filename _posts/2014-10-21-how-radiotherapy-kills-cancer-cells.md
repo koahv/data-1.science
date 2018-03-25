@@ -8,14 +8,12 @@ tags: [Electron, Radiation therapy, Physics, Nanotechnology, Cancer, Biology, Ul
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >A new discovery in experimental physics has implications for understanding how radiotherapy kills cancer cells, among other things....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/CrFW1CgKm1c/141021085526.htm)
 

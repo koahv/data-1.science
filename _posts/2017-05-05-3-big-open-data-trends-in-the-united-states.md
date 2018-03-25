@@ -8,14 +8,14 @@ tags: [Open government, Public sphere, Politics]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The open data community got a surprising piece of news when the Trump Administration recently announced that it would no longer be supporting the Open.whitehouse.gov's Open Data portal. read more...
+>The open data community got a surprising piece of news when the Trump Administration recently announced that it would no longer be supporting the Open.whitehouse.gov's Open Data portal.
 
-#### Factsheet
->factsheet unavailable
+read more...
+
+
 
 [Visit Link](https://opensource.com/article/17/5/open-data-trends)
 

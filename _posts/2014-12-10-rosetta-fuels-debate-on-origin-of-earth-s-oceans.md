@@ -8,14 +8,17 @@ tags: [Comet, Rosetta (spacecraft), Solar System, Oort cloud, Formation and evol
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->ESA’s Rosetta spacecraft has found the water vapour from its target comet to be significantly different to that found on Earth. The discovery fuels the debate on the origin of our planet’s oceans....
+>
+								
+		
+ESA’s Rosetta spacecraft has found the water vapour from its target comet to be significantly different to that found on Earth. The discovery fuels the debate on the origin of our planet’s oceans.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Rosetta/Rosetta_fuels_debate_on_origin_of_Earth_s_oceans)
 

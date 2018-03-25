@@ -8,14 +8,17 @@ tags: [CryoSat, Sea ice, Svalbard, Arctic, Sea, Climate change, Physical geograp
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->ESA’s ice mission has become the first satellite to provide information on Arctic sea-ice thickness in near-real time to aid maritime activities in the polar region....
+>
+								
+		
+ESA’s ice mission has become the first satellite to provide information on Arctic sea-ice thickness in near-real time to aid maritime activities in the polar region.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Observing_the_Earth/CryoSat/Fast_access_to_CryoSat_s_Arctic_ice_measurements_now_available)
 

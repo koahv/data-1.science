@@ -8,14 +8,12 @@ tags: [Magnetism, Paleomagnetism, Magnetite, Physics, Nature, Electromagnetism, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Ancient rock record remains unaltered by vast temperature fluctuations...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://physicsworld.com/cws/article/news/2016/apr/25/magnetic-vortices-record-history-of-earths-magnetic-field)
 

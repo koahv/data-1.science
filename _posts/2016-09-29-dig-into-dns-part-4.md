@@ -8,14 +8,12 @@ tags: [Sender Policy Framework, Domain Name System, Computing, Cyberspace, Inter
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;Dig into DNS: Part 429 SepLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/learn/dig-dns-part-4)
 

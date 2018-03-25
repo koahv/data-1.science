@@ -8,14 +8,13 @@ tags: [Linux, Ubuntu (operating system), Windows 10, Microsoft Windows, Unity (u
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->If you have a low-resource computer, one with a small screen like some laptops, or are even someone just looking for something different to try, a tiling window manager could be a good option. They’re not for everybody, but then they’re not just for command-line commandos either. read more...
+> If you have a low-resource computer, one with a small screen like some laptops, or are even someone just looking for something different to try, a tiling window manager could be a good option. They’re not for everybody, but then they’re not just for command-line commandos either.
+ read more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.tuxmachines.org/node/80227)
 

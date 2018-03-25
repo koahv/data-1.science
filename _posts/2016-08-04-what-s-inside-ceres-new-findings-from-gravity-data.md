@@ -8,14 +8,12 @@ tags: [Dawn (spacecraft), Ceres (dwarf planet), 4 Vesta, Planetary core, Planet,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >In the tens of thousands of photos returned by NASA's Dawn spacecraft, the interior of Ceres isn't visible. But scientists have powerful data to study Ceres' inner structure: Dawn's own motion....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-08-ceres-gravity.html)
 

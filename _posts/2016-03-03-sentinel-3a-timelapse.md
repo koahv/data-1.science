@@ -8,14 +8,17 @@ tags: [Sentinel-3, Copernicus Programme, Earth sciences, Physical sciences, Flig
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Relive the final stages of the launch campaign of the latest Copernicus Sentinel satellite with this three-minute timelapse video...
+>
+							
+				
+		
+		Relive the final stages of the launch campaign of the latest Copernicus Sentinel satellite with this three-minute timelapse video
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2016/03/Sentinel-3A_prepares_for_liftoff)
 

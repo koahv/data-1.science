@@ -8,14 +8,12 @@ tags: [Brain, Human, Evolution, University, Dunbars number, Science, Research, C
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Cardiff University) Humans have evolved a disproportionately large brain as a result of sizing each other up in large cooperative social groups, researchers have proposed....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-08/cu-lhb081216.php)
 

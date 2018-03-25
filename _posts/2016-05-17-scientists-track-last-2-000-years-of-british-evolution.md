@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.nature.com/news/scientists-track-last-2-000-years-of-british-evolution-1.19917?WT.feed_name=subjects_evolution)
 

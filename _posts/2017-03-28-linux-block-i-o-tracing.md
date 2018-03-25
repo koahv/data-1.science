@@ -8,14 +8,12 @@ tags: [SCSI, Device file, Dd (Unix), Ioctl, File system, Debugging, Package mana
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;Linux Block I/O Tracing28 MarLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/blog/linux-block-io-tracing)
 

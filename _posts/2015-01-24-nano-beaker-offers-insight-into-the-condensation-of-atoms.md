@@ -8,14 +8,18 @@ tags: [Atom, Chemical bond, Nanotechnology, Microscope, Gas, Physics, News, Rese
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Basel, Switzerland (SPX) Jan 23, 2015 An international team of physicists has succeeded in mapping the condensation of individual atoms, or rather their transition from a gaseous state to another state, using a new method. Led by the Swiss Nanoscience Institute and the Department of Physics at the University of Basel, the team was able to monitor for the first time how xenon atoms condensate in microscopic measuring beakers, o...
+>
+Basel, Switzerland (SPX) Jan 23, 2015
 
-#### Factsheet
->factsheet unavailable
+
+An international team of physicists has succeeded in mapping the condensation of individual atoms, or rather their transition from a gaseous state to another state, using a new method. 
+
+Led by the Swiss Nanoscience Institute and the Department of Physics at the University of Basel, the team was able to monitor for the first time how xenon atoms condensate in microscopic measuring beakers, o...
+
+
 
 [Visit Link](http://www.nanodaily.com/reports/Nano_beaker_offers_insight_into_the_condensation_of_atoms_999.html)
 

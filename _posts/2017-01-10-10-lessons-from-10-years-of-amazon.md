@@ -8,14 +8,12 @@ tags: [Encryption, Computer network, Computing, Technology, Digital technology, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;10 Lessons from 10 Years of Amazon10 JanLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/blog/event/LinuxCon-Europe/2016/10-lessons-10-years-amazon)
 

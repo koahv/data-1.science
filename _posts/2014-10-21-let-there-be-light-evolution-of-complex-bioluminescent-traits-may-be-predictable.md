@@ -8,14 +8,12 @@ tags: [Evolution, Euprymna scolopes, Genetics, Convergent evolution, Bioluminesc
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >A longstanding question among scientists is whether evolution is predictable. A team of researchers from University of California Santa Barbara may have found a preliminary answer. The genetic underpinnings of complex traits in cephalopods may in fact be predictable because they evolved in the same way in two distinct species of squid....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/Nws9vWtyyY8/141021135020.htm)
 

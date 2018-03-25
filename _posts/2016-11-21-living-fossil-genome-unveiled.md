@@ -8,14 +8,12 @@ tags: [Evolution, Genome, Ginkgo biloba, Phylogenetic tree, Plant, Biology, Spec
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(GigaScience) Published today in GigaScience, is the genome sequence of Ginkgo biloba, the oldest extant tree species. Researchers at BGI, Zheijiang University and Chinese Academy of Sciences carried out the work. Ginkgo is considered a 'living fossil,' as it evolved 270 million years ago and has changed little since. Given its unique position in the evolutionary tree of life and longevity as a species, the ginkgo genome will provide a resource investigating evolution and plant defenses....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-11/g-lfg111716.php)
 

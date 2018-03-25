@@ -8,14 +8,14 @@ tags: [Git, Secure Shell, Scripting language, Public-key cryptography, Server (c
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Read: read more...
+>Read:
 
-#### Factsheet
->factsheet unavailable
+read more...
+
+
 
 [Visit Link](https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6)
 

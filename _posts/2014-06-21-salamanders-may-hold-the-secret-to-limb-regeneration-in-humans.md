@@ -8,14 +8,12 @@ tags: [Regeneration (biology), Cell (biology), Biochemistry, Organisms, Biotechn
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Scientists have taken a closer look at a salamander's secret of regrowing body parts in order to potentially apply it to humans....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.scienceworldreport.com/articles/15581/20140621/salamanders-hold-secret-limb-regeneration-humans.htm)
 

@@ -8,14 +8,12 @@ tags: [Satellite, Landslide, Radar, Hazard, Map, Satellite navigation, Envisat, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Subsidence, rockfalls and landslides threaten potentially devastating human and economic consequences across Europe – but satellites can help.  ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news322806984.html)
 

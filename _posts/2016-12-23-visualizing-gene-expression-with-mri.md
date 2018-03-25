@@ -8,14 +8,12 @@ tags: [Medical imaging, Magnetic resonance imaging, Aquaporin, Biology, Medicine
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(California Institute of Technology) A cellular gatekeeper for water molecules finds new use in magnetic resonance imaging....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-12/ciot-vge122216.php)
 

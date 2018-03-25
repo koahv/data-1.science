@@ -8,14 +8,20 @@ tags: [Oracle Corporation, Cloud computing, Point of sale, Retail, Micros System
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->New York (AFP) June 23, 2014 Business software giant Oracle said Monday it was buying rival Micros Systems for $5.3 billion in a deal to expand its big data efforts in key retail sectors. The acquisition is the biggest for Oracle since buying Sun Microsystems in a deal announced in 2009 and closed in 2010. The all-cash takeover comes from Oracle's $39 billion cash stockpile and comes after the software giant founded...
+>
+New York (AFP) June 23, 2014
 
-#### Factsheet
->factsheet unavailable
+
+ Business software giant Oracle said Monday it was buying rival Micros Systems for $5.3 billion in a deal to expand its big data efforts in key retail sectors. 
+
+The acquisition is the biggest for Oracle since buying Sun Microsystems in a deal announced in 2009 and closed in 2010. 
+
+The all-cash takeover comes from Oracle's $39 billion cash stockpile and comes after the software giant founded...
+
+
 
 [Visit Link](http://www.spacemart.com/reports/Oracle_adds_Micros_for_53_bn_to_boost_cloud_effort_999.html)
 

@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >ELKDAT is a new Linux kernel project to provide an easy kernel development and testing tool......
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Linux-Kernel-ELKDAT)
 

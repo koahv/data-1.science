@@ -9,13 +9,12 @@ tags: [LIGO, Astronomy, Radio astronomy, Gravitational wave, Karl G Jansky Very 
 
 
 #### Digest
->digest unavailable
+>Researchers measured the first ever detection of radio emission from colliding neutron stars nearly 124 million light years from Earth. The team discovered radio frequency emission in the range of 3 and 6 GHz in data taken Sept. 2 -3, 2017." The radio counterpart to the LIGO detection was highly anticipated because it is by far the longest lasting electromagnetic [EM] signature from the event, allowing us to track its evolution for weeks, months, and even years into the future," said Dr. Simona Giacintucci, radio astronomer, NRL.
 
-#### Extract
->(Naval Research Laboratory) NRL Radio Astrophysics and Sensing Section astronomers join an international collaboration of researchers with the Caltech-led GROWTH project, resulting in the first ever observation of the radio counterpart to a gravitational wave event....
+
 
 #### Factsheet
->factsheet unavailable
+>The evolution of the radio emission across the dimensions of time, frequency and space is critical to constrain and distinguish between competing theoretical models of the event. These include the presence of on- and off-axis jets and a cocoon, as well as standard dynamical ejecta models. In addition to its longevity, radio is important because it constrains both the energy and physical surroundings of the event.
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/nrl-ito101617.php)
 

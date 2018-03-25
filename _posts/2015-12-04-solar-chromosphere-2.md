@@ -8,14 +8,12 @@ tags: [Scientific instruments, Optical devices, Optics, Astronomical observatori
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The post Solar Chromosphere #2 appeared first on Sky &amp; Telescope....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/solar-chromosphere-2/)
 

@@ -8,14 +8,12 @@ tags: [Traumatic brain injury, Nerve, Brain, Medicine, Clinical medicine, Nervou
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Innovative angles of attack in research that focus on how the human brain protects and repairs itself will help develop treatments for one of the most common, costly, deadly and scientifically frustrating medical conditions worldwide: traumatic brain injury....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/d_aRqwLm-r0/150323111651.htm)
 

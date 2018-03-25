@@ -8,14 +8,12 @@ tags: [Open-source software, Free software, Shareware, Public commons, Intellect
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;What Is Open Source Software? 14 FebLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/blog/learn/chapter/open-source-management/2017/2/what-open-source-software)
 

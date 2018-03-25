@@ -8,14 +8,12 @@ tags: [Sensor, Signal, Cell (biology), Electronic circuit, Gene, DNA, Biology, C
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(ETH Zurich) A team led by ETH professor Yaakov Benenson has developed several new components for biological circuits. These components are key building blocks for constructing precisely functioning and programmable bio-computers....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-10/ez-pap102314.php)
 

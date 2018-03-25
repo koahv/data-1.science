@@ -8,14 +8,12 @@ tags: [Tropical cyclone, El Nio, Wind, Global warming, Tropical cyclones, Applie
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Hurricane season is over, but El Niño isn’t. Watch to learn what else is in store....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://news.nationalgeographic.com/2015/11/151125-el-nino-hurricanes-drought-climate-science/)
 

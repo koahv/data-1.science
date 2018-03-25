@@ -8,14 +8,12 @@ tags: [Bat, Animal echolocation, Insect, Medical imaging, Cognitive science]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(eLife ) Scientists developed a new way to produce images from echolocation, uncovering a new set of cues available to bats and a new phenomenon of 'acoustic camouflage' available to prey....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/e-fif082715.php)
 

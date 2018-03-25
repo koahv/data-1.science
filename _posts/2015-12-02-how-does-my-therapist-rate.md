@@ -8,14 +8,12 @@ tags: [Psychotherapy, Speech, Medicine, Psychology, Empathy, Machine learning, U
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Southern California) Software developed to rate therapists on empathy using automatic speech recognition, natural language processing and machine learning....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-12/uosc-hdm120115.php)
 

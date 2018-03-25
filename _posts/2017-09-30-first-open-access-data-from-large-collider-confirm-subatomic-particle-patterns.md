@@ -8,14 +8,12 @@ tags: [Particle physics, Compact Muon Solenoid, Large Hadron Collider, Proton, S
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >In November of 2014, in a first, unexpected move for the field of particle physics, the Compact Muon Solenoid (CMS) experiment—one of the main detectors in the world's largest particle accelerator, the Large Hadron Collider—released to the public an immense amount of data, through a website called the CERN Open Data Portal....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://phys.org/news/2017-09-open-access-large-collider-subatomic-particle.html)
 

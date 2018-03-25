@@ -8,14 +8,12 @@ tags: [G protein, Receptor (biochemistry), Cell membrane, Cell (biology), Protei
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Using a revolutionary live-cell microscopy technique, an international team of scientist has for the first time observed individual receptors for hormones and drugs working in intact cells....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://phys.org/news/2017-10-individual-cellular-receptors.html)
 

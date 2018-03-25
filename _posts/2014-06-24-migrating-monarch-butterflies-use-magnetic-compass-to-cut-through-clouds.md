@@ -8,14 +8,12 @@ tags: [Ultraviolet, Earths magnetic field, Bird migration, Butterfly, Compass, E
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >On cloudy days, monarch butterflies can use a magnetic compass to fly south....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/zWhOChEV5ls/)
 

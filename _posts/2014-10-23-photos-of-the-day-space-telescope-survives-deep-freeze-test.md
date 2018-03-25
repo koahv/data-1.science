@@ -8,14 +8,15 @@ tags: [James Webb Space Telescope, Telescopes, Astronautics, Unmanned spacecraft
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->A crane lifts the heart of the James Webb Space Telescope from the Goddard Thermal Vacuum Chamber where it spent weeks in a space-like environment.Read more about Photos of the Day: Space Telescope Survives Deep Freeze Test Comments...
+>
 
-#### Factsheet
->factsheet unavailable
+
+A crane lifts the heart of the James Webb Space Telescope from the Goddard Thermal Vacuum Chamber where it spent weeks in a space-like environment.Read more about Photos of the Day: Space Telescope Survives Deep Freeze Test Comments...
+
+
 
 [Visit Link](http://www.pddnet.com/news/2014/10/photos-day-space-telescope-survives-deep-freeze-test)
 

@@ -8,14 +8,12 @@ tags: [Climate engineering, Global warming, Effects of global warming, Atmospher
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Creating clouds in the sky or redirecting sunlight to bring down the Earth's temperature could have an effect on astronomy....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/57567-geoengineering-earth-atmosphere-could-affect-astronomy.html)
 

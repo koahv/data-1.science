@@ -8,14 +8,12 @@ tags: [Cognitive science, Cognition, Robot, Experiment, Memory, Psychology, Thou
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >An Indiana University cognitive scientist and collaborators have found that posture is critical in the early stages of acquiring new knowledge.Read more about Robot Model Provides Insight on Infant LearningComments...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/news/2015/03/robot-model-provides-insight-infant-learning)
 

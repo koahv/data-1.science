@@ -8,14 +8,12 @@ tags: [Vim (text editor), Computer keyboard, Arrow keys, Text editor, Linux dist
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;An Introduction to Vim for Sysadmins 23 FebLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/learn/intro-to-linux/2017/2/vim-sysadmins)
 

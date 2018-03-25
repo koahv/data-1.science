@@ -8,14 +8,12 @@ tags: [Big Bang, Cosmic distance ladder, Universe, Hubble Space Telescope, Dark 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(NASA/Goddard Space Flight Center) Astronomers using NASA's Hubble Space Telescope have discovered that the universe is expanding 5 percent to 9 percent faster than expected....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/nsfc-nhf060216.php)
 

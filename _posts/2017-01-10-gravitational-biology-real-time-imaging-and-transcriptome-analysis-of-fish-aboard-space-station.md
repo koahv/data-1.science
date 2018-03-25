@@ -8,14 +8,12 @@ tags: [Bone, Osteoblast, Osteoclast, Micro-g environment, Green fluorescent prot
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Scientists report that live-imaging and transcriptome analysis of medaka fish transgenic lines lead to immediate alteration of cells responsible for bone structure formation. These findings are important for assessing the effects microgravity on long term human space missions....
+>Scientists report that live-imaging and transcriptome analysis of medaka fish transgenic lines lead to immediate alteration of cells responsible for bone structure formation. These findings are important for assessing the effects microgravity on long term human space missions. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/01/170110101631.htm)
 

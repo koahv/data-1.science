@@ -8,14 +8,12 @@ tags: [Melanosome, Feather, Melanin, Anchiornis, Biology]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Brown University) An international team of researchers has found direct chemical evidence that the fossilized remains of a bird-like dinosaur still harbor melanosomes and the pigment they produced. Their study reinforces the idea that scientists can discern the coloration of long-lost animals....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-08/bu-pop082515.php)
 

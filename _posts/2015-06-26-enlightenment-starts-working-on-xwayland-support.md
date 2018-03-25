@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >For those closely following the work on Enlightenment, there's now work finally materializing in supporting XWayland......
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.phoronix.com/scan.php?page=news_item&px=Enlightenment-XWayland)
 

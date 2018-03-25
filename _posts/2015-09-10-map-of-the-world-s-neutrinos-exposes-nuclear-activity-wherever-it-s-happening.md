@@ -8,14 +8,12 @@ tags: [Neutrino, Radioactive decay, Nuclear power, Nuclear reactor, Physics, Phy
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >A seemingly unsubstantial particle called a neutrino is opening a new window on the world.As far as useful discoveries go, the neutrino didn’t look promising. These ghostly particles are produced by the sun, by radioactive elements, and by nuclear reactors, from which they speed outward with zero charge, almost no mass, and a nearly complete indifference to matter. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.technologyreview.com/news/541146/map-of-the-worlds-neutrinos-exposes-nuclear-activity-wherever-its-happening/)
 

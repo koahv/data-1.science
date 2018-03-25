@@ -8,14 +8,12 @@ tags: [MicroRNA, Australopithecus, Homo, Olduvai Gorge, Human, Human evolution, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >2015 has already been an amazing year for human evolution science....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news349081366.html)
 

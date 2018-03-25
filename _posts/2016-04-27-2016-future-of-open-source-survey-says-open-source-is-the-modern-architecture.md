@@ -8,14 +8,12 @@ tags: [Open-source software, Software, Digital media, Digital technology, Busine
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Open source improves efficiency, interoperability, and innovation according to the latest open source survey from North Bridge and Black Duck....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/2016-future-open-source-survey-says-open-source-modern-architecture)
 

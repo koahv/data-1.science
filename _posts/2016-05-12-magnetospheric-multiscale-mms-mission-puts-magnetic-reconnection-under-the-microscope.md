@@ -8,14 +8,12 @@ tags: [Magnetic reconnection, Plasma (physics), Magnetosphere, Solar wind, Sun, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Southwest Research Institute) A team led by Southwest Research Institute (SwRI) has made the first direct detection of the source of magnetic reconnection. Analyzing data from NASA's Magnetospheric Multiscale (MMS) mission, scientists have observed how this explosive physical process converts stored magnetic energy into kinetic energy and heat....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/sri-mm050916.php)
 

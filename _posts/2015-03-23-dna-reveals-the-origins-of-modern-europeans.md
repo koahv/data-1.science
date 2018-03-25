@@ -8,14 +8,12 @@ tags: [Yamna culture, Culture]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Europe is famously tesselated, with different cultural and language groups clustering in different regions. But how did they all get there? And how are they related?...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news346314892.html)
 

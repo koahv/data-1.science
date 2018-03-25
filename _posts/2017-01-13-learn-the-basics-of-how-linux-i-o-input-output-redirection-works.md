@@ -8,14 +8,12 @@ tags: [Redirection (computing), Standard streams, Pipeline (Unix), Computing, Un
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >One of the most important and interesting topics under Linux administration is I/O redirection. This feature of the command line enables you to redirect the input and/or output of commands from and/or to files,&#46;&#46;&#46;...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.tecmint.com/linux-io-input-output-redirection-operators/)
 

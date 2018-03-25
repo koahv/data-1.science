@@ -8,14 +8,12 @@ tags: [Indian subcontinent, Species, Amber, Fly, Science, Fossil, Nature, Organi
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >A new species of fungus gnat in Indian amber closely resembles its fossil relatives from Europe, disproving the concept of a strongly isolated Indian subcontinent....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://phys.org/news/2017-05-flies-insect-fossils-amber-india.html)
 

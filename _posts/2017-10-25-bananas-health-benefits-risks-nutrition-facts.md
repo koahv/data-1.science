@@ -8,14 +8,12 @@ tags: [Banana, Dietary fiber, Weight loss, Nutrition, Vitamin, Heart, Food, Heal
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Bananas are packed with nutrients and are good for your heart, your eyes, your diet and your mood....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.livescience.com/45005-banana-nutrition-facts.html)
 

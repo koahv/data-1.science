@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Researchers at the University of California, San Diego School of Medicine have discovered a widely distributed group of marine bacteria that produce compounds nearly identical to toxic man-made fire retardants....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news323244573.html)
 

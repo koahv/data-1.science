@@ -8,14 +8,12 @@ tags: [GNU Privacy Guard, Public-key cryptography, Key (cryptography), Areas of 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;How to Send and Receive Encrypted Data with GnuPG12 AugLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/learn/how-send-and-receive-encrypted-data-gnupg)
 

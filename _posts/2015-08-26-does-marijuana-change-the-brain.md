@@ -8,14 +8,12 @@ tags: [Cannabis (drug), Effects of cannabis, Neuroscience, Medicine, Health]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Some people who smoke pot do show changes in brain development, but those changes seem to be dependent on genes and other factors....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/51981-does-marijuana-change-the-brain.html)
 

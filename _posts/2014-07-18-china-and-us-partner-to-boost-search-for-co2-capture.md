@@ -8,14 +8,12 @@ tags: [Carbon capture and storage, International Energy Agency, Air pollution, E
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Filed under: Energy News...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://rss.sciam.com/~r/sciam/alternative-energy-technology/~3/8l8Z4DlEI1g/)
 

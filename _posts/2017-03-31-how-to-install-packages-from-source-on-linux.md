@@ -8,14 +8,12 @@ tags: [Package manager, APT (Debian), Software, Computer engineering, Free softw
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Most modern Linux distributions enjoy standard repositories that include most of the software you’ll need to successfully run your Linux server or desktop. Should a package come up missing, more than likely you’ll find a repository you can add, so that the installation can be managed with the built-in package manager. This should be considered a best practice. Why? Because it’s important for the integrity of the platform to ensure the package manager is aware of installed software. When that is the case, packages can easily be updated (to fix vulnerabilities and the like)....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/learn/intro-to-linux/2017/3/how-install-packages-source-linux)
 

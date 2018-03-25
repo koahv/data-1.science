@@ -8,14 +8,12 @@ tags: [Snake, Evolution, Fossil, Reptile, Ear, Dinilysia, Lizard, Human, Dinosau
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Fresh analysis of a reptile fossil is helping scientists solve an evolutionary puzzle - how snakes lost their limbs....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-11-mystery-snakes-lost-legs-reptile.html)
 

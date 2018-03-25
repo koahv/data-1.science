@@ -8,14 +8,12 @@ tags: [Higgs boson, Particle physics, Standard Model, Large Hadron Collider, Com
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Phys.org) —If evidence of the Higgs boson revealed two years ago was the smoking gun, particle physicists have now found a few of the bullets....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news322741906.html)
 

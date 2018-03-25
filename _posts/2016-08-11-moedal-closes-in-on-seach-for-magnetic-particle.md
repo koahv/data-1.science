@@ -8,14 +8,12 @@ tags: [Large Hadron Collider, Magnetic monopole, Elementary particle, MoEDAL exp
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >NewsThe Monopole and Exotics Detector at the LHC, nicknamed the MoEDAL experiment at CERN has narrowed the window of where to search for a hypothetical particle, the magnetic monopole, says a new paper published today...Contributed Author:&nbsp;Harriet Kim Jarlett, CERNTopics:&nbsp;Energy...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.pddnet.com/news/2016/08/moedal-closes-seach-magnetic-particle)
 

@@ -8,14 +8,12 @@ tags: [Olfaction, Evolution, Human, Sense, Primate, Denisovan, Eye, Odor, Organi
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The science about our our special senses - vision, smell, hearing and taste - offers fascinating and unique perspectives on our evolution....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-07-evolution.html)
 

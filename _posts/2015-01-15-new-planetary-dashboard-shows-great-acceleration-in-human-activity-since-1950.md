@@ -8,14 +8,12 @@ tags: [Anthropocene, Planetary boundaries, Human impact on the environment, Natu
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(SAGE Publications) A planetary dashboard of 24 indicators visualises the Great Acceleration of human activity and its impact on the Earth. The greatest change has occurred since 1950 -- within a single human lifetime....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-01/sp-npd011515.php)
 

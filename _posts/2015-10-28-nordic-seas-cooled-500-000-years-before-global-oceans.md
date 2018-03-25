@@ -8,14 +8,12 @@ tags: [Nordic Seas, Greenland, Scandinavia, Ocean current, Sea, Ocean, Oceans, E
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The cooling of the Nordic Seas towards modern temperatures started in the early Pliocene, half a million years before the global oceans cooled. A new study of fossil marine plankton demonstrates this....
+>The cooling of the Nordic Seas towards modern temperatures started in the early Pliocene, half a million years before the global oceans cooled. A new study of fossil marine plankton demonstrates this. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/10/151028084915.htm)
 

@@ -8,14 +8,12 @@ tags: [Plutonium-238, Plutonium, New Horizons, Isotopes of neptunium, NASA, Voya
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Since its 1977 launch, NASA's Voyager 1 spacecraft has travelled farther than any other piece of human technology. It is also the only human-made object to have entered interstellar space....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-09-fuel-exploring-space.html)
 

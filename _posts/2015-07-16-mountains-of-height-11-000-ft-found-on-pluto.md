@@ -8,14 +8,13 @@ tags: [Featured]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->NASA’s New Horizons probe discovered a stunning mountain range on Pluto, with peaks jutting as high as 11,000 feet above the surface.The data suggests that the Pluto’s surface was formed no......
+>
+NASA’s New Horizons probe discovered a stunning mountain range on Pluto, with peaks jutting as high as 11,000 feet above the surface.The data suggests that the Pluto’s surface was formed no......
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.thehindu.com/sci-tech/science/new-horizon-images-of-pluto-shows-mountains-of-height-11000-ft-found/article7428833.ece?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 

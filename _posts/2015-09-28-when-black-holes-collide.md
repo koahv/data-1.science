@@ -8,14 +8,17 @@ tags: [Gravitational wave, Gravity, Laser Interferometer Space Antenna, Black ho
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Space science image of the week: A simulation of gravitational radiation rippling away from a pair of colliding black holes...
+>
+							
+				
+		
+		Space science image of the week: A simulation of gravitational radiation rippling away from a pair of colliding black holes
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/spaceinimages/Images/2015/09/If_our_eyes_could_see_gravitational_waves)
 

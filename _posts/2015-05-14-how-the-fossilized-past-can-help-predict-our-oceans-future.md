@@ -8,14 +8,12 @@ tags: [Extinction, Biodiversity, Global warming, Earth, Volcano, Ocean, Paleonto
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The fossils of marine species that went extinct millions of years ago are offering insight into species that may be at risk for extinction today, as well as "hotspots" where that extinction risk may be even greater....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news350808675.html)
 

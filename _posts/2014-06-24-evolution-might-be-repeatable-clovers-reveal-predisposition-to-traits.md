@@ -8,14 +8,12 @@ tags: [Evolution, Species, Life sciences, Biology theories, Biological concepts,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Can evolution be repeated? That's a good question, and it's one that scientists wanted to find out....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.scienceworldreport.com/articles/15629/20140624/evolution-repeatable-clovers-reveal-predisposition-traits.htm)
 

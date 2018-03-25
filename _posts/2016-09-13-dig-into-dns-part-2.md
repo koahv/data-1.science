@@ -8,14 +8,12 @@ tags: [Name server, Domain Name System, Transmission Control Protocol, Internet,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;Dig Into DNS: Part 213 SepLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/learn/dig-dns-part-2)
 

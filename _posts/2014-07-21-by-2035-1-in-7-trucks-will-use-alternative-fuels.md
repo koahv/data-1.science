@@ -8,14 +8,12 @@ tags: [Fuel economy in automobiles, Hybrid vehicle, Industries, Sustainable tech
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Filed under: Energy News...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.importantmedia.org/~r/IM-cleantechnica/~3/-1QnZQ1L5Yg/)
 

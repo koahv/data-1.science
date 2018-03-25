@@ -8,14 +8,12 @@ tags: [Mutation, Evolution, Point mutation, Gene, Genetics, DNA, Biology, Protei
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Chromosomal proteins hold the key to our DNA and they are changing, according to Jose Eirin-Lopez, marine sciences professor in the Florida International University Department of Biological Sciences....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news344862849.html)
 

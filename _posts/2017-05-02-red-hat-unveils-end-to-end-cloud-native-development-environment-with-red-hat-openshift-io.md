@@ -8,14 +8,12 @@ tags: [Red Hat, Cloud computing, Software development, Software, Application sof
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Red Hat OpenShift.io enables digital transformation with a powerful application environment to address all development phases without requiring local resources....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.redhat.com/en/about/press-releases/red-hat-unveils-end-end-cloud-native-development-environment-red-hat-openshiftio)
 

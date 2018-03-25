@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >What will the top 10 advances of the next decade be? Find out!...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feedproxy.google.com/~r/DiscoveryNews-Top-Stories/~3/WNu_p42p9bU/the-world-in-2025-10-scientific-breakthroughs-140705.htm)
 

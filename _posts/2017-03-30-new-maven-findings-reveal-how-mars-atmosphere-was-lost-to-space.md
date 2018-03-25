@@ -8,14 +8,12 @@ tags: [MAVEN, Mars, Atmosphere, Chemistry, Planetary science, Outer space, Physi
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Colorado at Boulder) Solar wind and radiation are responsible for stripping the Martian atmosphere, transforming Mars from a planet that could have supported life billions of years ago into a frigid desert world, according to new results from NASA's MAVEN (Mars Atmosphere and Volatile Evolution Mission) spacecraft led by the University of Colorado Boulder....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-03/uoca-nmf032917.php)
 

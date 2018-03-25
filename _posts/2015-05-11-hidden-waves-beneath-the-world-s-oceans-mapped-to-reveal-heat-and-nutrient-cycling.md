@@ -8,14 +8,12 @@ tags: [Internal wave, Ocean, Nature, Earth sciences, Applied and interdisciplina
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Scientists are taking a closer look at the ocean in order to better understand the rolling, internal waves beneath its surface that displace massive amounts of water and push heat and vital nutrients up from the deep ocean....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.scienceworldreport.com/articles/25329/20150511/hidden-waves-beneath-worlds-oceans-mapped-reveal-heat-nutrient-cycling.htm)
 

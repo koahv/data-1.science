@@ -8,14 +8,12 @@ tags: [Natural satellite, Pluto, New Horizons, Charon (moon), Moon, Planet, Plan
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >When New Horizons phoned home this morning (Australian time) after its close encounter with Pluto, there was jubilation and excitement....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-07-plutonew-horizons-mission.html)
 

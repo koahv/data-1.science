@@ -8,14 +8,12 @@ tags: [Quantum mechanics, Physics, Photon, Time travel, Time, Quantum nonlocalit
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Recently physicists at Chapman University's Institute for Quantum Studies introduced the Quantum Cheshire Cat. Now they have introduced another quantum animal: the Quantum Pigeon....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news326465672.html)
 

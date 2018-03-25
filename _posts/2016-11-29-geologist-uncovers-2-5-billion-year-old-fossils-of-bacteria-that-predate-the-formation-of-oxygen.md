@@ -8,14 +8,12 @@ tags: [Life, Fossil, Vaalbara, Geology, Air pollution, Earth, Bacteria, Great Ox
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Somewhere between Earth's creation and where we are today, scientists have demonstrated that some early life forms existed just fine without any oxygen....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-11-geologist-uncovers-billion-year-old-fossils-bacteria.html)
 

@@ -8,14 +8,12 @@ tags: [Comet, Solar System, Halleys Comet, Orbit, Comet nucleus, Oort cloud, Sun
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Halley's Comet, also known as 1P/Halley, is the most well known comet in the Solar System. As a periodic (or short-term comet) it has orbital period that is less than 200 years, and has therefore been observed more than once by people here on Earth over the centuries....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news353579451.html)
 

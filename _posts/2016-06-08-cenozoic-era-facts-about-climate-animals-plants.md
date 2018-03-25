@@ -8,14 +8,12 @@ tags: [Cenozoic, Earth sciences, Geology, Nature, Units of geologic time, Global
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The Cenozoic Era began about 65 million years ago and continues into the present....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/40352-cenozoic-era.html)
 

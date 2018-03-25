@@ -8,14 +8,12 @@ tags: [IceCube Neutrino Observatory, Physics, Physical sciences, Astronomy, Scie
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Photos reveal the huge laboratory under Antarctica's ice where detectors scan the heavens for ghostly particles called neutrinos....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/51924-icecube-observatory-photos.html)
 

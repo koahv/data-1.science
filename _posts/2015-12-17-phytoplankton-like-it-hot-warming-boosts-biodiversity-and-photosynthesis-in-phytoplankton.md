@@ -8,14 +8,12 @@ tags: [Phytoplankton, Global warming, Biodiversity, Ecosystem, Ecology, Carbon d
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Globally, phytoplankton -- microscopic water-borne plants -- absorb as much carbon dioxide as tropical rainforests, and so understanding the way they respond to a warming climate is crucial....
+>Globally, phytoplankton -- microscopic water-borne plants -- absorb as much carbon dioxide as tropical rainforests, and so understanding the way they respond to a warming climate is crucial. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/12/151217151533.htm)
 

@@ -8,14 +8,12 @@ tags: [Centralized computing, Linus Torvalds, Computing platforms, Computer arch
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Red Hat's OpenShift Commons invites open-source programmers and users to join us in working on its OpenShift Platform-as-a-Service cloud....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/enterprise/cloud-computing/813105-red-hat-invites-all-to-work-on-its-openshift-paas-cloud/)
 

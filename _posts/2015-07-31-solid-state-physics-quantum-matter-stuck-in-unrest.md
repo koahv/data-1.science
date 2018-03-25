@@ -8,14 +8,12 @@ tags: [Quantum mechanics, Atom, Temperature, Electron, State of matter, Ultracol
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Using ultracold atoms trapped in light crystals, scientists have observed a novel state of matter that never thermalizes....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/07/150731070449.htm)
 

@@ -8,14 +8,17 @@ tags: [Automated Transfer Vehicle, Flight, Outer space, Aerospace engineering, S
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Watch the launch of ESA's last Automated Transfer Vehicle – now enroute to the International Space Station...
+>
+							
+				
+		
+		Watch the launch of ESA's last Automated Transfer Vehicle – now enroute to the International Space Station
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2014/07/Replay_ATV-5_liftoff)
 

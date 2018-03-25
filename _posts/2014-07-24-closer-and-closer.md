@@ -8,14 +8,17 @@ tags: [Rosetta (spacecraft), Pixel, Imaging, Optics, Solar System, Outer space, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Postcards from space as Rosetta draws closer to its destination comet...
+>
+												
+				
+		
+		Postcards from space as Rosetta draws closer to its destination comet
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Rosetta/Highlights/Closer_and_closer)
 

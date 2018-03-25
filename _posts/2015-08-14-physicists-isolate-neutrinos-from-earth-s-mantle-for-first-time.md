@@ -8,14 +8,12 @@ tags: [Geoneutrino, Neutrino, Physical universe, Applied and interdisciplinary p
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Italy's Borexino detector provides further insights into radioactive heating of the Earth...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/aug/14/physicists-isolate-neutrinos-from-earths-mantle-for-first-time)
 

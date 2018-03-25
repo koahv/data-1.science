@@ -8,14 +8,13 @@ tags: [Computer file, Booting, Operating system, Passwd, Unix filesystem, Direct
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Now that you would have installed a Linux Distribution of your liking, you would observe that a lot of things are different&#46;&#46;&#46; The post Linux Lexicon: Linux Directory Structure In Detail | fossBytes appeared first on fossBytes....
+>Now that you would have installed a Linux Distribution of your liking, you would observe that a lot of things are different&#46;&#46;&#46;
+The post Linux Lexicon: Linux Directory Structure In Detail | fossBytes appeared first on fossBytes....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://fossbytes.com/linux-lexicon-linux-directory-structure/)
 

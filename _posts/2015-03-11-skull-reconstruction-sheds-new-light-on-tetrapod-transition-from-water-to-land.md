@@ -8,14 +8,12 @@ tags: [Acanthostega, Skull, Tetrapod]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(PLOS) Three-hundred-and-sixty-million-year-old tetrapods may have been more like modern crocodiles than previously thought, according to 3-D skull reconstruction....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/p-srs030915.php)
 

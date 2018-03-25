@@ -8,14 +8,12 @@ tags: [Photosystem II, Artificial photosynthesis, Photosynthesis, Chemical react
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Researchers from Umeå University, Sweden, have explored two different ways that allow unprecedented experimental insights into the reaction sequence leading to the formation of oxygen molecules in photosynthesis. The two studies have been published in the scientific journal Nature Communications....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news324292820.html)
 

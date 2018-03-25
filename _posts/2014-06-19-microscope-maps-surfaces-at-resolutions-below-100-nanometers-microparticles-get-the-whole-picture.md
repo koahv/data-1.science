@@ -8,14 +8,12 @@ tags: [Angular resolution, Microscope, Optics, Microscopy, Light, Applied and in
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Microscopes are conventionally used to image tiny features. However, their resolution is inherently limited by the wavelength of light. This limitation means that they can resolve only structures larger than a few hundred nanometers. Now scientists have demonstrated an alternative optical approach capable of mapping surfaces at resolutions below 100 nanometers....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/7oPCZYqVMQ8/140619145930.htm)
 

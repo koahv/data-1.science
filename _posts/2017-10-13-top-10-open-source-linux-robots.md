@@ -8,14 +8,12 @@ tags: [Robot, Raspberry Pi, Robotics, Dexter Industries, Technology, Computing, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;Top 10 Open Source Linux Robots13 OctLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/blog/2017/10/top-10-open-source-linux-robots)
 

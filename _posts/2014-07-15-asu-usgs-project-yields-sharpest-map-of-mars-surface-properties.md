@@ -8,14 +8,12 @@ tags: [Mars, Thermal Emission Imaging System, Milky Way, Curiosity (rover), 2001
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Phys.org) —A heat-sensing camera designed at Arizona State University has provided data to create themost detailed global map yet made of Martian surface properties....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news324661113.html)
 

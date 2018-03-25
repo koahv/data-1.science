@@ -8,14 +8,12 @@ tags: [Virus, Antibody, Neutralizing antibody, Infection, HIV, Immune system, Ev
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Pennsylvania) In a new paper in PLOS Genetics, University of Pennsylvania professor Joshua Plotkin, along with postdoctoral researcher Jakub Otwinowski and Princeton University research scholar Armita Nourmohammad, mathematically modeled the coevolutionary processes that describe how antibodies and viruses interact and adapt to one another over the course of a chronic infection, such as HIV/AIDS....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-07/uop-psm072116.php)
 

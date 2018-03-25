@@ -8,14 +8,12 @@ tags: [Air pollution, Earth, Oxygen, Atmosphere of Earth, Carbon dioxide, Life, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Scientists have long been puzzled about why complex life forms began to appear some 550 million years ago – three billion years after life on the planet comprised nothing more complex than algae....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-09-ocean-oxygen-key-animal-evolution.html)
 

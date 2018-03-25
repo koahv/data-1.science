@@ -8,14 +8,12 @@ tags: [MAVEN, Mars, Atmosphere, Atmosphere of Earth, Planetary science, Solar Sy
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(NASA/Goddard Space Flight Center) MAVEN has determined that Mars's escaping water does not always go gently into space....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2016-10/nsfc-nmm101916.php)
 

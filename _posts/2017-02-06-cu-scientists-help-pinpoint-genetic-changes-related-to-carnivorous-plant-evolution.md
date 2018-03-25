@@ -8,14 +8,12 @@ tags: [University of Colorado Denver, Biology, Organisms, Life sciences, Science
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Colorado Anschutz Medical Campus) A team of scientists that includes researchers from the University of Colorado Anschutz Medical Campus have sequenced the genome of the Australian pitcher plant and discovered a key to the mystery of how those plants became predatory....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-02/uoca-csh020317.php)
 

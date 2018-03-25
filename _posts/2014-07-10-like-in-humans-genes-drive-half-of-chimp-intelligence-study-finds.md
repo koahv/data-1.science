@@ -8,14 +8,12 @@ tags: [Chimpanzee, Human, Intelligence, Heritability, Action (philosophy), Neuro
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >A large study of chimps finds certain aspects of intelligence are more heritable than others....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/8UsdF1fTC8g/)
 

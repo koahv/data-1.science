@@ -8,14 +8,12 @@ tags: [Virgo interferometer, Gravitational wave, Gravitational-wave observatory,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Detector could help locate sources of gravitational waves...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://physicsworld.com/cws/article/news/2017/aug/02/virgo-joins-gravitational-wave-hunt)
 

@@ -8,14 +8,17 @@ tags: [Satellite, European Space Agency, Copernicus Programme, Spacecraft, Space
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Technology image of the week: Sentinel-2B being lowered into Europe's largest vacuum chamber for testing...
+>
+							
+				
+		
+		Technology image of the week: Sentinel-2B being lowered into Europe's largest vacuum chamber for testing
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Images/2016/06/Sentinel-2B_entering_LSS)
 

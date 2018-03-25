@@ -8,14 +8,12 @@ tags: [Neanderthal, Human, Homo sapiens, Human evolution, Homo, Biology]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->A new study finds that the Ice-Age diet -- a high-protein intake of large animals -- triggered physical changes in Neanderthals, namely a larger ribcage and a wider pelvis....
+>A new study finds that the Ice-Age diet -- a high-protein intake of large animals -- triggered physical changes in Neanderthals, namely a larger ribcage and a wider pelvis. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.sciencedaily.com/releases/2016/03/160329132245.htm)
 

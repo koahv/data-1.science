@@ -8,14 +8,12 @@ tags: [Mars, Mars Reconnaissance Orbiter, Gullies on Mars, Dry ice, Engine, Eart
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Martian colonists could use an innovative new technique to harvest energy from carbon dioxide thanks to research pioneered at Northumbria University, Newcastle. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news344767948.html)
 

@@ -8,14 +8,12 @@ tags: [Eurypterid, Pentecopterus, Organisms]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Fossils of 460-million-year-old eurypterids (sea scorpions) were uncovered underneath the flowing waters of the Upper Iowa River....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/52038-photos-ancient-sea-scorpion.html)
 

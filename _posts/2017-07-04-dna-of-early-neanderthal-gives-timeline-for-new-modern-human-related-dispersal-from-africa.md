@@ -8,14 +8,12 @@ tags: [Neanderthal, Denisovan, Recent African origin of modern humans, Human, Bi
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Max Planck Institute for the Science of Human History) Ancient mitochondrial DNA from the femur of an archaic European hominin is helping resolve the complicated relationship between modern humans and Neanderthals. The genetic data, recovered by a team from the Max Planck Institute for the Science of Human History, the University of Tuebingen, and others, provides a timeline for a proposed migration out of Africa that occurred after the ancestors of Neanderthals arrived in Europe by a lineage more closely related to modern humans....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-07/mpif-doe062917.php)
 

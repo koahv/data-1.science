@@ -8,14 +8,12 @@ tags: [Venus, Venus Express, Earth, Planet, Atmosphere, Magellan (spacecraft), S
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >After a lifetime spent orbiting the planet Venus, a spacecraft's final mission promises to be its most daring....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.nationalgeographic.com/~r/ng/News/News_Main/~3/FdBpfDXWIdI/)
 

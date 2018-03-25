@@ -8,14 +8,12 @@ tags: [Coronal mass ejection, Solar flare, Nature, Outer space, Physical science
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Institute of Physics) In this month's issue of Physics World, Ashley Dale from the University of Bristol warns of the 'catastrophic' and 'long-lasting' impacts of 'solar super-storms' and the dangers we face if the threat continues to go unnoticed....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-07/iop-sut073014.php)
 

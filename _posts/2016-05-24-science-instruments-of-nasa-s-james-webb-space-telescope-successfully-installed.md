@@ -8,14 +8,12 @@ tags: [James Webb Space Telescope, European Space Agency, Spacecraft, NASA, Spac
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(NASA/Goddard Space Flight Center) With surgical precision, two dozen engineers and technicians successfully installed the package of science instruments of the James Webb Space Telescope into the telescope structure. The package is the collection of cameras and spectrographs that will record the light collected by Webb's giant golden mirror....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-05/nsfc-sio052416.php)
 

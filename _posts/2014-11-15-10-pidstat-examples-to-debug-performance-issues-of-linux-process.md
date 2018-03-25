@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The Geek Stuff: pidstat stands for PID Statistics....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.linuxtoday.com/developer/10-pidstat-examples-to-debug-performance-issues-of-linux-process.html)
 

@@ -8,14 +8,19 @@ tags: [Ariane 5, Spacecraft, Aerospace engineering, Outer space, Spaceflight tec
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->An Ariane 5 lifted off last night from Europe’s Spaceport in Kourou, French Guiana and delivered two telecom satellites into their planned orbits. The launch of flight VA223 occurred on 27 May at 21:16 GMT (23:16 CEST, 18:16 local time)....
+>
+								
+		
+An Ariane 5 lifted off last night from Europe’s Spaceport in Kourou, French Guiana and delivered two telecom satellites into their planned orbits.
 
-#### Factsheet
->factsheet unavailable
+The launch of flight VA223 occurred on 27 May at 21:16 GMT (23:16 CEST, 18:16 local time).
+
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Launchers/Ariane_5_s_second_launch_of_2015)
 

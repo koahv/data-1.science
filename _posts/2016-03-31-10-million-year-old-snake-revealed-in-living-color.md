@@ -8,14 +8,12 @@ tags: [Chromatophore, Fossil, Skin, Pigment, Color, Biology]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >A fossilized snake that lived 10 million years ago retained cell structures that revealed to scientists the colors that would have dappled its skin while the animal was alive....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/54244-pigment-cells-in-fossil-snakeskin.html)
 

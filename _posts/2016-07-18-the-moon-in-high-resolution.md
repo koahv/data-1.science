@@ -8,14 +8,12 @@ tags: [Nikon, Astronomy, Photography, Optical devices, Photography equipment, Op
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The post The moon in High Resolution appeared first on Sky &amp; Telescope....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/moon-high-resolution/)
 

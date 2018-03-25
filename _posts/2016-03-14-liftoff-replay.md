@@ -8,14 +8,17 @@ tags: [Computing, Information retrieval, Social information processing, Humancom
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Watch ExoMars 2016 liftoff from Baikonur, Kazakhstan on a Proton rocket...
+>
+							
+				
+		
+		Watch ExoMars 2016 liftoff from Baikonur, Kazakhstan on a Proton rocket
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2016/03/ExoMars_2016_liftoff)
 

@@ -8,14 +8,13 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->by Manfred E. Beutel, Claus Jünger, Eva M. Klein, Philipp Wild, Karl Lackner, Maria Blettner, Harald Binder, Matthias Michal, Jörg Wiltink, Elmar Brähler, Thomas Münzel Background While noise annoyance has become recognized as an important environmental stressor, its association to mental health has hardly been studied. We therefore determined the association of noise annoyance to anxiety and depression and explored the contribution of diverse environmental sources to overall noise annoyance. Patients and Methods We investigated cross-sectional data of n = 15.010 participants of the Gutenberg Health Study (GHS), a population-based, prospective, single-center cohort study in Mid-Germany (age 35 to 74 years). Noise annoyance was assessed sepa...
+>by Manfred E. Beutel, Claus Jünger, Eva M. Klein, Philipp Wild, Karl Lackner, Maria Blettner, Harald Binder, Matthias Michal, Jörg Wiltink, Elmar Brähler, Thomas Münzel
+Background While noise annoyance has become recognized as an important environmental stressor, its association to mental health has hardly been studied. We therefore determined the association of noise annoyance to anxiety and depression and explored the contribution of diverse environmental sources to overall noise annoyance. Patients and Methods We investigated cross-sectional data of n = 15.010 participants of the Gutenberg Health Study (GHS), a population-based, prospective, single-center cohort study in Mid-Germany (age 35 to 74 years). Noise annoyance was assessed sepa...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0155357)
 

@@ -8,14 +8,12 @@ tags: [Helicase, Biology, Chemistry, Science, Biotechnology, Life sciences, Mole
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of Illinois College of Engineering) By combining two highly innovative experimental techniques, scientists at the University of Illinois at Urbana-Champaign have for the first time simultaneously observed the structure and the correlated function of specific proteins critical in the repair of DNA, providing definitive answers to some highly debated questions, and opening up new avenues of inquiry and exciting new possibilities for biological engineering....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-04/uoic-nlt041715.php)
 

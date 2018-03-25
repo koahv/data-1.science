@@ -8,14 +8,17 @@ tags: [LISA Pathfinder, Gravitational wave, Gravitational-wave observatory, Grav
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->ESA’s LISA Pathfinder mission has demonstrated the technology needed to build a space-based gravitational wave observatory....
+>
+								
+		
+ESA’s LISA Pathfinder mission has demonstrated the technology needed to build a space-based gravitational wave observatory.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/LISA_Pathfinder_exceeds_expectations)
 

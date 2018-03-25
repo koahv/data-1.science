@@ -8,14 +8,12 @@ tags: [Artificial photosynthesis, Photoelectrochemical cell, Solar fuel, Artific
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->A new solar fuel generation system, or artificial leaf, safely creates fuel from sunlight and water with record-setting efficiency and stability....
+>A new solar fuel generation system, or artificial leaf, safely creates fuel from sunlight and water with record-setting efficiency and stability. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150828142940.htm)
 

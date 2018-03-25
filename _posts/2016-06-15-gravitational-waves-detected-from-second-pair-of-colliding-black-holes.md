@@ -8,14 +8,12 @@ tags: [LIGO, Gravitational-wave observatory, Gravitational wave, First observati
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Massachusetts Institute of Technology) On Dec. 26, 2015, at 03:38:53 UTC, scientists observed gravitational waves -- ripples in the fabric of spacetime -- for the second time....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2016-06/miot-gwd061316.php)
 

@@ -8,14 +8,14 @@ tags: [Wind power, Sustainable energy, Electric vehicle, Fuel, Energy developmen
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Somewhat ironically given last week's carnage in Paris, the US Energy Department charts a clean energy revolution leading into the COP21 climate talks The Clean Energy Revolution In Three (Or Four) Charts was originally published on CleanTechnica. To read more from CleanTechnica, join over 50,000 other subscribers: Google+ | Email | Facebook | RSS | Twitter....
+>Somewhat ironically given last week's carnage in Paris, the US Energy Department charts a clean energy revolution leading into the COP21 climate talks
+The Clean Energy Revolution In Three (Or Four) Charts was originally published on CleanTechnica. 
+To read more from CleanTechnica, join over 50,000 other subscribers: Google+ | Email | Facebook | RSS | Twitter....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://cleantechnica.com/2015/11/16/clean-energy-revolution-three-four-charts/)
 

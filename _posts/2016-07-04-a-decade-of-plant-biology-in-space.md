@@ -8,14 +8,15 @@ tags: [Weightlessness, Plant, Plant development, Micro-g environment, Spacefligh
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->...
+>
+								
+		
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/Research/A_decade_of_plant_biology_in_space)
 

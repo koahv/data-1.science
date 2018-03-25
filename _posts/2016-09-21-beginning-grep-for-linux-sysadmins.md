@@ -8,14 +8,12 @@ tags: [GNU, Filename, Wildcard character, Grep, Bracket, Bash (Unix shell), Comp
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;Beginning Grep for Linux SysAdmins21 SepLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/learn/beginning-grep-linux-sysadmins)
 

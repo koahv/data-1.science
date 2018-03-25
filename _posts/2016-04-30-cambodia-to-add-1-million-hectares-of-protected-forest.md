@@ -8,14 +8,12 @@ tags: [Cambodia, Conservation biology, Forest, Endangered species, Deforestation
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Cambodia's prime minister has ordered a million hectares of forest be included in protected zones as the country faces one of the world's fastest deforestation rates....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-04-cambodia-million-hectares-forest.html)
 

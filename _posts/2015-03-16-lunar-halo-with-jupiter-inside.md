@@ -8,14 +8,12 @@ tags: [Astronomy, Outer space, Planetary science, Physical sciences, Astronomica
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The post Lunar Halo with Jupiter inside appeared first on Sky &amp; Telescope....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/lunar-halo-jupiter-inside/)
 

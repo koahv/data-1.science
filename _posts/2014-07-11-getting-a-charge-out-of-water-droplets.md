@@ -8,14 +8,12 @@ tags: [Watt, Humidity, Heat, Electricity, Ultrahydrophobicity, Heat transfer, Na
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Last year, MIT researchers discovered that when water droplets spontaneously jump away from superhydrophobic surfaces during condensation, they can gaRead more about Getting a Charge Out of Water DropletsComments...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/news/2014/07/getting-charge-out-water-droplets)
 

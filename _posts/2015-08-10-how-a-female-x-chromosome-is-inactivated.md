@@ -8,14 +8,12 @@ tags: [XIST, Gene, Genetics, X-inactivation, Cell (biology), X chromosome, Bioch
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->In female mammals, one of the two X chromosomes is inactivated. Thanks to research using special stem cells, geneticists have been able to provide detailed insight into the molecular mechanism behind this inactivation process....
+>In female mammals, one of the two X chromosomes is inactivated. Thanks to research using special stem cells, geneticists have been able to provide detailed insight into the molecular mechanism behind this inactivation process. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.sciencedaily.com/releases/2015/08/150810110747.htm)
 

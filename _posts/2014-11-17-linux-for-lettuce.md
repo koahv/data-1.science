@@ -8,14 +8,15 @@ tags: [Plant breeding, Patent, Intellectual property, Open Source Seed Initiativ
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Revolutionizing American agribusiness from the ground up, one seed at a time. read more...
+>Revolutionizing American agribusiness from the ground up, one seed at a time.
 
-#### Factsheet
->factsheet unavailable
+
+read more...
+
+
 
 [Visit Link](http://opensource.com/life/14/11/linux-lettuce-open-food-seeds)
 

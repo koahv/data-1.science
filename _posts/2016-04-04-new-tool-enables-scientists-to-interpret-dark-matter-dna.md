@@ -8,14 +8,12 @@ tags: [Gene, Genetics, Enhancer (genetics), DNA, Gladstone Institutes, Noncoding
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Scientists have invented a new way to read and interpret the human genome. The computational method, called TargetFinder, can predict where non-coding DNA -- the DNA that does not code for proteins -- interacts with genes. This technology helps researchers connect mutations in the so-called genomic 'dark matter' with the genes they affect, potentially revealing new therapeutic targets for genetic disorders....
+>Scientists have invented a new way to read and interpret the human genome. The computational method, called TargetFinder, can predict where non-coding DNA -- the DNA that does not code for proteins -- interacts with genes. This technology helps researchers connect mutations in the so-called genomic 'dark matter' with the genes they affect, potentially revealing new therapeutic targets for genetic disorders. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.sciencedaily.com/releases/2016/04/160404134029.htm)
 

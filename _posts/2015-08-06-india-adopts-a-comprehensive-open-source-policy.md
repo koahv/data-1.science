@@ -8,14 +8,15 @@ tags: [Open-source software, Free software, Free and open-source software, Infor
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The Government of India (GOI) has adopted a comprehensive and supportive open source policy. It builds on their earlier efforts to adopt open standards for procurement. read more...
+>The Government of India (GOI) has adopted a comprehensive and supportive open source policy. It builds on their earlier efforts to adopt open standards for procurement.
 
-#### Factsheet
->factsheet unavailable
+
+read more...
+
+
 
 [Visit Link](http://opensource.com/government/15/8/india-adopts-open-source-policy)
 

@@ -8,14 +8,12 @@ tags: [Dopamine, University of California San Francisco, Receptor (biochemistry)
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(University of California - San Francisco) One way or another, many psychiatric drugs work by binding to receptor molecules in the brain that are sensitive to the neurotransmitter dopamine, a chemical signal that is central to how our experiences shape our behavior. But because scientists still don't understand the differences between the many kinds of dopamine receptors present on brain cells, most of these drugs are 'messy,' binding to multiple different dopamine receptor molecules and leading to serious side effects ranging from movement disorders to pathological gambling....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.eurekalert.org/pub_releases/2017-10/uoc--kpd101817.php)
 

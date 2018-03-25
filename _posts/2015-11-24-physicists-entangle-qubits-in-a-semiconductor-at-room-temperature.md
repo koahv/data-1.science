@@ -8,14 +8,12 @@ tags: [Quantum entanglement, Quantum mechanics, Quantum computing, Nuclear magne
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >In addition to quantum-computing applications, the system could be used as an in vivo biological sensor...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://physicsworld.com/cws/article/news/2015/nov/24/physicists-entangle-qubits-in-a-semiconductor-at-room-temperature)
 

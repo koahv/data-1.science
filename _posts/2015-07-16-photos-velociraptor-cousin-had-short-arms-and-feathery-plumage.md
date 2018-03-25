@@ -8,14 +8,12 @@ tags: [Dinosaur, Velociraptor, Zhenyuanlong, Paleontology, Dinosaurs, Organisms,
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >One of Velociraptor's cousins had an armful of feathers, even if its arms were short, a new study finds....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.livescience.com/51572-feathered-velociraptor-cousin-photos.html)
 

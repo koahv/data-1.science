@@ -8,14 +8,12 @@ tags: [Artificial intelligence, Intelligence, Robot, Technology]
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Professor Stephen Hawking on Wednesday opened a new artificial intelligence research centre at Britain's Cambridge University....
+> Professor Stephen Hawking on Wednesday opened a new artificial intelligence research centre at Britain's Cambridge University....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-10-british-artificial-intelligence-hub.html)
 

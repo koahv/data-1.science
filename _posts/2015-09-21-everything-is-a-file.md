@@ -8,14 +8,15 @@ tags: [Device file, Dd (Unix), Master boot record, Computer file, Computer termi
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Here's a trick question for you: Which of the following are files? read more...
+>Here's a trick question for you: Which of the following are files?
 
-#### Factsheet
->factsheet unavailable
+
+read more...
+
+
 
 [Visit Link](http://opensource.com/life/15/9/everything-is-a-file)
 

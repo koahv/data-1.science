@@ -8,14 +8,12 @@ tags: [Gravitational wave, Astronomy, Gravity, Black hole, Galaxy, Spacetime, As
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Today, ESA has invited European scientists to propose concepts for the third large mission in its science programme, to study the gravitational Universe....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-10-gravitational-wave-observatory-space.html)
 

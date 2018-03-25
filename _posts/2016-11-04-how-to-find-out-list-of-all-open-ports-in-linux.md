@@ -8,14 +8,12 @@ tags: [Port (computer networking), User Datagram Protocol, Transmission Control 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >In this article, we will briefly talk about ports in computer networking and move to how you can list all open ports in Linux. In computer networking, and more definitely in software terms, a&#46;&#46;&#46;...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.tecmint.com/find-open-ports-in-linux/)
 

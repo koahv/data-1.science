@@ -8,14 +8,16 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Image Credit: LearningCommons See a larger image here. &nbsp;...
+>
+Image Credit: LearningCommons
 
-#### Factsheet
->factsheet unavailable
+See a larger image here.
+&nbsp;...
+
+
 
 [Visit Link](http://www.fromquarkstoquasars.com/questions-critical-thinkers-ask/)
 

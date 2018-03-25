@@ -8,14 +8,12 @@ tags: [Quantum mechanics, Double-slit experiment, Photon, Time, Subatomic partic
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Wheeler's "delayed choice" gedanken done with single helium atom...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/mPjsL1YzcxA/do-atoms-going-through-a-double-slit-know-if-they-are-being-observed)
 

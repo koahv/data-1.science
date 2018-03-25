@@ -8,14 +8,14 @@ tags: [Space Shuttle missions, Space Shuttle program, NASA programs, Government 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->On this day in history, June 22, 2007, STS-117 landed after 14 days in orbit. The Space Shuttle Atlantis was launched from Pad 39A at the Kennedy Space Center on June 8, 2007.Read more about Today in Engineering History: Space Shuttle Atlantis Returns to EarthComments...
+>
 
-#### Factsheet
->factsheet unavailable
+On this day in history, June 22, 2007, STS-117 landed after 14 days in orbit. The Space Shuttle Atlantis was launched from Pad 39A at the Kennedy Space Center on June 8, 2007.Read more about Today in Engineering History: Space Shuttle Atlantis Returns to EarthComments...
+
+
 
 [Visit Link](http://www.pddnet.com/blogs/2015/06/today-engineering-history-space-shuttle-atlantis-returns-earth)
 

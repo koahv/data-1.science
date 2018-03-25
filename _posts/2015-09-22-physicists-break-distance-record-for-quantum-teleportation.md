@@ -8,14 +8,12 @@ tags: [Quantum teleportation, Quantum mechanics, Electron, Photon, Quantum elect
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Researchers at the National Institute of Standards and Technology (NIST) have "teleported" or transferred quantum information carried in light particles over 100 kilometers (km) of optical fiber, four times farther than the previous record....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2015-09-physicists-distance-quantum-teleportation.html)
 

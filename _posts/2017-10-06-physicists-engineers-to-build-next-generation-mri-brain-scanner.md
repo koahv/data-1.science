@@ -8,14 +8,12 @@ tags: [Functional magnetic resonance imaging, Magnetic resonance imaging, Medica
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Functional magnetic resonance imaging, or fMRI, has transformed our view of the brain, allowing researchers to pinpoint areas associated with everything from depression and dementia to playing chess and engaging in sex....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://phys.org/news/2017-10-physicists-next-generation-mri-brain-scanner.html)
 

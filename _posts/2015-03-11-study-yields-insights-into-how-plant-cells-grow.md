@@ -8,14 +8,12 @@ tags: [Cell (biology), Cytoskeleton, Actin, Plant, Trichome, Protein, Arp23 comp
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Purdue University) A study by Purdue University plant scientists and University of Nebraska-Lincoln engineers advances our understanding of how plants control their shape and development at the cellular level....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-03/pu-syi031015.php)
 

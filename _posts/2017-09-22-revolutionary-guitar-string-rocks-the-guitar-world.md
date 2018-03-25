@@ -8,14 +8,12 @@ tags: [Vibrato systems for guitar, Electric guitar, Irish musical instruments, M
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >A revolutionary guitar string developed at the University of St Andrews has struck a chord with some of the greats of the music world....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://phys.org/news/2017-09-revolutionary-guitar-world.html)
 

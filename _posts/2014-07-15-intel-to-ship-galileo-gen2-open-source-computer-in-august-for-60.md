@@ -8,14 +8,12 @@ tags: [Linux, Office equipment, System software, Microcomputers, Computing, Comp
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Intel's answer to the popular $25 Raspberry Pi credit-card sized PC, the Galileo Gen2, is set to be available in August for around $60....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/embedded-mobile/mobile-linux/780572-intel-to-ship-galileo-gen2-open-source-computer-in-august-for-60/)
 

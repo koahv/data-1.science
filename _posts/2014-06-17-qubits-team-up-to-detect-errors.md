@@ -8,14 +8,12 @@ tags: [Quantum computing, Quantum entanglement, Qubit, Theoretical physics, Appl
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Record seven-qubit quantum register built...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feedproxy.google.com/~r/PhysicsWorld/~3/_Jkj4un0lOg/qubits-team-up-to-detect-errors)
 

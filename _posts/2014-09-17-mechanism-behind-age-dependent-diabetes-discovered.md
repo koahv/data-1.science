@@ -8,14 +8,12 @@ tags: [Beta cell, Diabetes mellitus, Mitochondrion, Diabetes mellitus type 2, In
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Karolinska Institutet) Ageing of insulin-secreting cells is coupled to a progressive decline in signal transduction and insulin release, according to a recent study by researchers at Karolinska Institutet in Sweden....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2014-09/ki-mba091714.php)
 

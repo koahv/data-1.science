@@ -8,14 +8,12 @@ tags: [Synthetic biology, Biology, Automation, Machine, Innovation, Life science
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >A new technique for creating artificial DNA that is faster, more accurate and more flexible than existing methods has been developed by scientists at Imperial College London....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news345216675.html)
 

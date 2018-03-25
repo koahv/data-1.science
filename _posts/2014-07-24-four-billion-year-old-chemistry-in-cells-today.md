@@ -8,14 +8,12 @@ tags: [Life, Abiogenesis, Cell (biology), Mitochondrion, Biology, Biochemistry, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Parts of the primordial soup in which life arose have been maintained in our cells today according to scientists. Research has revealed how cells in plants, yeast and very likely also in animals still perform ancient reactions thought to have been responsible for the origin of life -- some four billion years ago....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/nOYBWg021OM/140724094021.htm)
 

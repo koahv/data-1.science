@@ -8,14 +8,12 @@ tags: [Internet of things, Tizen, Linux, Operating system, Contiki, Linux distri
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Over the past decade, the majority of new open source OS projects have shifted from the mobile market to the Internet of Things. In this fifth article in our IoT series, we look at the many new open source operating systems that target IoT....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/news/open-source-operating-systems-iot)
 

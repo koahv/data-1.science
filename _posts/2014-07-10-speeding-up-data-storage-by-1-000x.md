@@ -8,14 +8,12 @@ tags: [Optical computing, Computer hardware, Optics, Computer engineering, Elect
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Read more about Speeding Up Data Storage By 1,000xComments...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/news/2014/07/speeding-data-storage-1000x)
 

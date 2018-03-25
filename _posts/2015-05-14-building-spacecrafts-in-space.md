@@ -8,14 +8,12 @@ tags: [NASA, Robert P Hoyt, Spaceflight, Space exploration, Space technology, Ae
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Read more about Building Spacecrafts in Space Comments...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.pddnet.com/videos/2015/05/building-spacecrafts-space)
 

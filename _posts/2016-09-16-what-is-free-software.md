@@ -8,14 +8,15 @@ tags: [Software, Communication, Cyberspace, Open-source movement, Computer engin
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->The Digital Freedom Foundation defines free software as the freedom to use, study, distribute, modify, and access software. You can't go wrong with this poll! In honor of Software Freedom Day, tomorrow on September 17, we wonder how you plan to contribute to the global event tomorrow? Leave us your message in the comments. read more...
+>The Digital Freedom Foundation defines free software as the freedom to use, study, distribute, modify, and access software. You can't go wrong with this poll!
+In honor of Software Freedom Day, tomorrow on September 17, we wonder how you plan to contribute to the global event tomorrow? Leave us your message in the comments.
 
-#### Factsheet
->factsheet unavailable
+read more...
+
+
 
 [Visit Link](https://opensource.com/life/16/9/what-free-software)
 

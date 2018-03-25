@@ -8,14 +8,17 @@ tags: [Tim Peake, NASA, Aerospace engineering, Space programs, Space agencies, F
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->ESA astronaut Tim Peake, NASA astronaut Tim Kopra and commander Yuri Malenchenko were launched into space at 11:03 GMT (12:03 CET)...
+>
+							
+				
+		
+		ESA astronaut Tim Peake, NASA astronaut Tim Kopra and commander Yuri Malenchenko were launched into space at 11:03 GMT (12:03 CET)
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/ESA_Multimedia/Videos/2015/12/Principia_liftoff)
 

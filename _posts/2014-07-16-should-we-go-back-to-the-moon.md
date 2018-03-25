@@ -8,14 +8,13 @@ tags: [Moon, NASA, Space probe, Outer space, Apollo program, Neil Armstrong, Hub
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->45 years ago man first walked on the moon. Is it time to go back?...
+>45 years ago man first walked on the moon. Is it time to go back?
+    ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://rss.cnn.com/~r/rss/cnn_tech/~3/5hz3eU_jIUQ/index.html)
 

@@ -8,14 +8,12 @@ tags: [Synesthesia, Perception, Emergence, Cognitive science, Cognition, Neurosc
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Synesthesia is a neurological condition that causes the brain to process data in the form of several senses at once; for example, hearing sounds while also seeing them as colorful swirls....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.livescience.com/60707-what-is-synesthesia.html)
 

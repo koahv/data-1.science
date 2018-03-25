@@ -8,14 +8,12 @@ tags: [Genome-wide association study, Gene, Genetics, Centre for Genomic Regulat
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The Genotype-Tissue Expression (GTEx) project consortia has now published its results from their first pilot study contributing to a better understanding of genomic variation and give us new clues about disease susceptibility....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://feeds.sciencedaily.com/~r/sciencedaily/~3/rKFbkkb9rt4/150507145134.htm)
 

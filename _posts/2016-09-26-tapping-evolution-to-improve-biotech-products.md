@@ -8,14 +8,12 @@ tags: [Factor VIII, Haemophilia, Haemophilia A, Gene therapy, Protein, Evolution
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Scientists can improve protein-based drugs by reaching into the evolutionary past, a paper published in Nature Biotechnology proposes....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-09-evolution-biotech-products.html)
 

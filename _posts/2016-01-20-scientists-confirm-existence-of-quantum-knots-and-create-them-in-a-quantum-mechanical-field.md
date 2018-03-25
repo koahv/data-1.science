@@ -8,14 +8,12 @@ tags: [Quantum mechanics, BoseEinstein condensate, Physics, Knot, Applied and in
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The very first experimental observations of knots in quantum matter have just been reported in Nature Physics....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://phys.org/news/2016-01-scientists-quantum-quantum-mechanical-field.html)
 

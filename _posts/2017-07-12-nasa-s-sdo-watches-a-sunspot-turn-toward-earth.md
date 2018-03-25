@@ -8,14 +8,12 @@ tags: [Sun, Sunspot, Solar Dynamics Observatory, Solar cycle, Solar minimum, Mar
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >An active region on the sun—an area of intense and complex magnetic fields—has rotated into view on the sun and seems to be growing rather quickly in this video captured by NASA's Solar Dynamics Observatory between July 5-11, 2017....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://phys.org/news/2017-07-nasa-sdo-sunspot-earth.html)
 

@@ -8,14 +8,17 @@ tags: [Bodies of the Solar System, Space missions, Outer space, Spaceflight, Ast
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->In the run up to Asteroid Day on 30 June, this video details the micro-lander envisaged as part of ESA's proposed Asteroid Impact Mission...
+>
+							
+				
+		
+		In the run up to Asteroid Day on 30 June, this video details the micro-lander envisaged as part of ESA's proposed Asteroid Impact Mission 
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/spaceinvideos/Videos/2016/05/AIM_Asteroid_touchdown)
 

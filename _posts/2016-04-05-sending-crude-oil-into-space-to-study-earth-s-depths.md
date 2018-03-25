@@ -8,14 +8,15 @@ tags: [Petroleum, Petroleum reservoir, Atmospheric entry, Weightlessness, Spacef
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->...
+>
+								
+		
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Human_Spaceflight/Research/Sending_crude_oil_into_space_to_study_Earth_s_depths)
 

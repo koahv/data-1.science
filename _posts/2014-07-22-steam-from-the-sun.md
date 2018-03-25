@@ -8,14 +8,12 @@ tags: [Solar energy, Water, Foam, Steam, Graphite, Physical universe, Manufactur
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Filed under: Energy News...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://theenergycollective.com/energyatmit/438941/steam-sun)
 

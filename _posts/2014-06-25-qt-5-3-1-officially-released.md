@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The first point release to Qt 5.3 has been released by Digia......
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.phoronix.com/vr.php?view=MTcyOTc)
 

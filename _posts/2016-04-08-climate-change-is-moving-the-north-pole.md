@@ -8,14 +8,12 @@ tags: [Earth, Climate, Planet, Water, Ice, Ice sheet, Nature, Physical geography
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >As ice melts and aquifers are drained, Earth's distribution of mass is changing—and with it the position of the planet's spin axis....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://news.nationalgeographic.com/2016/04/160408-climate-change-shifts-earth-poles-water-loss/)
 

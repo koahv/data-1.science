@@ -8,14 +8,12 @@ tags: [Aristoteles (crater), Astronomical instruments, Electromagnetic radiation
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >The post Lunar craters Aristoteles and Eudoxus. appeared first on Sky &amp; Telescope....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.skyandtelescope.com/online-gallery/lunar-craters-aristoteles-eudoxus/)
 

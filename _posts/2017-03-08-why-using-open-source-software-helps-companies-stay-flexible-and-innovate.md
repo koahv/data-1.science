@@ -8,14 +8,12 @@ tags: [Open-source software, Open-source software movement, Innovation, Software
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >Title:&nbsp;Why Using Open Source Software Helps Companies Stay Flexible and Innovate8 MarLearn more...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.linux.com/blog/learn/chapter/open-source-management/2017/3/why-using-open-source-software-helps-companies-stay-flexible)
 

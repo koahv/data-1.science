@@ -8,14 +8,12 @@ tags: []
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->Ancient DNA found in the dental plaque of Neandertals -- our nearest extinct relative -- has provided remarkable new insights into their behavior, diet and evolutionary history, including their use of plant-based medicine to treat pain and illness....
+>Ancient DNA found in the dental plaque of Neandertals -- our nearest extinct relative -- has provided remarkable new insights into their behavior, diet and evolutionary history, including their use of plant-based medicine to treat pain and illness. ...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](https://www.sciencedaily.com/releases/2017/03/170308131218.htm)
 

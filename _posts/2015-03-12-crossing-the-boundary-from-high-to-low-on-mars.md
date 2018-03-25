@@ -8,14 +8,17 @@ tags: [Cydonia (region of Mars), Impact crater, Mesa, Space science, Bodies of t
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->On the boundary between the heavily cratered southern highlands and the smooth northern lowlands of Mars is an area rich in features sculpted by water and ice....
+>
+								
+		
+On the boundary between the heavily cratered southern highlands and the smooth northern lowlands of Mars is an area rich in features sculpted by water and ice.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Crossing_the_boundary_from_high_to_low_on_Mars)
 

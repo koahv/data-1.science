@@ -8,14 +8,17 @@ tags: [Neutron star, Star, Pulsar, Astronomy, Physics, Stellar astronomy, Nature
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->ESA’s XMM-Newton has found a pulsar – the spinning remains of a once-massive star – that is a thousand times brighter than previously thought possible....
+>
+								
+		
+ESA’s XMM-Newton has found a pulsar – the spinning remains of a once-massive star – that is a thousand times brighter than previously thought possible.
 
-#### Factsheet
->factsheet unavailable
+	...
+
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/The_brightest_furthest_pulsar_in_the_Universe)
 

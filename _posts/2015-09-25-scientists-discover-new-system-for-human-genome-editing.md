@@ -8,14 +8,12 @@ tags: [CRISPRCpf1, Cas9, Broad Institute, CRISPR, Macromolecules, Biochemistry, 
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
 >(Broad Institute of MIT and Harvard) A team including the scientist who first harnessed the revolutionary CRISPR-Cas9 system for mammalian genome editing has now identified a different CRISPR system with the potential for even simpler and more precise genome engineering....
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.eurekalert.org/pub_releases/2015-09/biom-sdn092515.php)
 

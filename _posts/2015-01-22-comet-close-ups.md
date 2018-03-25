@@ -8,14 +8,17 @@ tags: [Rosetta (spacecraft), Comet nucleus, Planetary science, Bodies of the Sol
 ---
 
 
-#### Digest
->digest unavailable
+
 
 #### Extract
->High-resolution images from ESA’s Rosetta spacecraft reveal an incredible array of surface features on the comet...
+>
+												
+				
+		
+		High-resolution images from ESA’s Rosetta spacecraft reveal an incredible array of surface features on the comet 
+	...
 
-#### Factsheet
->factsheet unavailable
+
 
 [Visit Link](http://www.esa.int/Our_Activities/Space_Science/Rosetta/Highlights/Comet_close-ups)
 
