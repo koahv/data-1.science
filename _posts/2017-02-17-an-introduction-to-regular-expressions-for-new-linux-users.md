@@ -8,10 +8,10 @@ tags: [Regular expression, Computing, Software engineering, Computer data, Areas
 ---
 
 
+#### Digest
+>Regular expressions are a powerful means for pattern matching and string parsing that can be applied in so many instances. With this incredible tool you can: Validate text input; Search (and replace) text within a file; Batch rename files; Search for specific files; Interact with servers; Test for patterns within strings
 
 
-#### Extract
->Title:&nbsp;An Introduction to Regular Expressions for New Linux Users17 FebLearn more...
 
 
 
