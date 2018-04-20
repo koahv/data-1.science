@@ -4,7 +4,7 @@ title: "Rocket Lab Has Successfully Launched Its Electron Rocket Into Orbit"
 date: 2018-03-30
 categories: Science
 author: Patrick Caughill
-tags: []
+tags: [Rocket Lab, SpaceX, Small satellite, Spaceflight, Rocket, Aeronautics, Private spaceflight, Rocketry, Technology, Industries, Space technology, Aerospace, Outer space, Aerospace engineering, Spaceflight technologies, Astronautics, Spacecraft, Flight, Transport]
 ---
 
 

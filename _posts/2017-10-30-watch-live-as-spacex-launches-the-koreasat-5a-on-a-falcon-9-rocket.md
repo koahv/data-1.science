@@ -4,7 +4,7 @@ title: "Watch Live As SpaceX Launches the Koreasat-5A on a Falcon 9 Rocket"
 date: 2018-03-30
 categories: Science
 author: Jolene Creighton
-tags: [Featured]
+tags: [SpaceX, Kennedy Space Center Launch Complex 39, Falcon 9, Aerospace engineering, Rocketry, Space program of the United States, Private spaceflight companies, Spacecraft manufacturers, Hawthorne California, Space programs, Space organizations, Private spaceflight, Aerospace, Astronautics, Flight, Outer space, Spaceflight technologies, Spacecraft, Spaceflight, Human spaceflight, Commercial spaceflight, Elon Musk, Aerospace companies, Industries, Aeronautics, NASA, Rocket families, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Spaceport prepares"
 date: 2018-03-30
 categories: Astronomy
 author: unknown author
-tags: [Featured]
+tags: [European Space Agency, Outer space, Space policy of the European Union, Spaceflight, Space programs, European space programmes, Space traffic management, International scientific organizations of Europe, Space agencies, Astronautics, Space-based economy, Featured]
 ---
 
 

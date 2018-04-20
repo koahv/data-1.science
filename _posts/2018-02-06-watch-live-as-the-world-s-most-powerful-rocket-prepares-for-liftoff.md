@@ -4,7 +4,7 @@ title: "Watch Live as the World’s Most Powerful Rocket Prepares for Liftoff"
 date: 2018-03-30
 categories: Science
 author: Jacob Banas
-tags: []
+tags: [Falcon Heavy, Outer space, Vehicles, Space organizations, Commercial spaceflight, Astronautics, Rocket families, Aerospace companies of the United States, Space launch vehicles, Space launch vehicles of the United States, Space programs, Aeronautics, Rockets and missiles, Aerospace companies of North America, Space program of the United States, Vehicle manufacturing companies, Falcon (rocket family), Industries, Space access, Space industry, Aerospace companies, Flight, Spaceflight, Spacecraft, Aerospace engineering, Spaceflight technologies, SpaceX, Private spaceflight, Hawthorne California, Spacecraft manufacturers, Private spaceflight companies, Rocketry, Elon Musk, Aerospace]
 ---
 
 
