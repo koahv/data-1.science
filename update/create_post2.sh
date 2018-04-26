@@ -123,6 +123,9 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 		mod_extract2=""
 	fi
 
+	if [[ -z "${category// }" ]]; then
+		category="unknown"
+	fi
 
 
 
