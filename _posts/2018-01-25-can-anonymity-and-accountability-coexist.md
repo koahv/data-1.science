@@ -4,7 +4,7 @@ title: "Can anonymity and accountability coexist?"
 date: 2018-04-26
 categories: Open Source
 author: susiechoi
-tags: [Anonymity, Organization, Communication, Meritocracy, Open-source model, Crowdsourcing, Organizational culture, Accountability, Whistleblower, Reputation, Identity (social science), Politics, Culture]
+tags: [Anonymity, Organization, Communication, Meritocracy, Open-source model, Crowdsourcing, Organizational culture, Accountability, Whistleblower, Reputation, Identity (social science), Politics, Culture, Featured]
 ---
 
 

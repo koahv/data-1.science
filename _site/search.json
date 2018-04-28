@@ -2,6 +2,78 @@
   
     {
     
+      "title"    : "Germany, Israel, and the UK turn to open source, new driverless car tech, and more news",
+      "url"      : "/germany-israel-and-the-uk-turn-to-open-source-new-driverless-car-tech-and-more-news/",
+      "category" : "OpenSource",
+      "tags"     : "Open-source model, Source code, Open-source software, Curriculum, Nextcloud, Autonomous car, Computing, Technology"
+      
+    } ,
+  
+    {
+    
+      "title"    : "E. coli rewired to control growth as experts let them make proteins for medicine",
+      "url"      : "/e-coli-rewired-to-control-growth-as-experts-let-them-make-proteins-for-medicine/",
+      "category" : "Science",
+      "tags"     : "Bacteria, Synthetic biology, Gene, Protein production, Genetics, Protein, Cell (biology), Biotechnology, Biology, DNA, Escherichia coli, Cell growth, Gene expression, Feedback, Biological engineering, Molecular biology, Life sciences, Organisms, Biochemistry"
+      
+    } ,
+  
+    {
+    
+      "title"    : "How to Reset Linux Password to Expire after Number of Days",
+      "url"      : "/how-to-reset-linux-password-to-expire-after-number-of-days/",
+      "category" : "Linux",
+      "tags"     : "Password, User (computing), Command-line interface, Superuser, Software, Computing, Cyberwarfare, Information technology management, Cybercrime, Areas of computer science, System administration, Data security, Secure communication, Technology, System software, Digital technology, Computer security"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Red Hat Honors Instructors Who Champion Open Source Education",
+      "url"      : "/red-hat-honors-instructors-who-champion-open-source-education/",
+      "category" : "Linux",
+      "tags"     : "Open-source software, Red Hat, Education, Forward-looking statement, Risk, Open-source software movement, Innovation, Cloud computing, Computing"
+      
+    } ,
+  
+    {
+    
+      "title"    : "How to Enable Syntax Highlighting in Vi/Vim Editor",
+      "url"      : "/how-to-enable-syntax-highlighting-in-vi-vim-editor/",
+      "category" : "Linux",
+      "tags"     : "Vim (text editor), Syntax highlighting, Text editor, Computer programming, Software, Computing, Areas of computer science, Digital media, Software engineering, System software"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Red Hat Helps Radiance Technologies Bring Massively-Scalable and Fully-Open Cloud Infrastructure to the U.S. Department of Defense",
+      "url"      : "/red-hat-helps-radiance-technologies-bring-massively-scalable-and-fully-open-cloud-infrastructure-to-the-u-s-department-of-defense/",
+      "category" : "Linux",
+      "tags"     : "Cloud computing, Red Hat, OpenStack, Provisioning, Information technology, Risk, Computing, Technology"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Understanding what runs on your Linux system (and why)",
+      "url"      : "/understanding-what-runs-on-your-linux-system-and-why/",
+      "category" : "Linux",
+      "tags"     : "Daemon (computing), Shell (computing), Process (computing), Operating system, Bash (Unix shell), Computer program, Computers, Computer engineering, System software, Computer architecture, Areas of computer science, Operating system technology, Software, Digital technology, Computing, Digital media"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Livepatch: Linux kernel updates without rebooting",
+      "url"      : "/livepatch-linux-kernel-updates-without-rebooting/",
+      "category" : "Linux",
+      "tags"     : "Patch (computing), Linux kernel, Arch Linux, Ubuntu (operating system), Linux distribution, Linux, Ksplice, KGraft, Kpatch, Kernel (operating system), Loadable kernel module, Free software, Unix variants, Digital media, Areas of computer science, Operating system technology, System software, Software, Computing, Computer architecture, Linus Torvalds, Computer engineering, Computers"
+      
+    } ,
+  
+    {
+    
       "title"    : "Photosynthesis in plants key to speedy evolution",
       "url"      : "/photosynthesis-in-plants-key-to-speedy-evolution/",
       "category" : "Science",
@@ -32,7 +104,7 @@
       "title"    : "Being open about data privacy",
       "url"      : "/being-open-about-data-privacy/",
       "category" : "OpenSource",
-      "tags"     : "General Data Protection Regulation, Information privacy, Privacy, European Union, Computing, Cyberspace, Information Age, Government information, Information technology"
+      "tags"     : "General Data Protection Regulation, Information privacy, Privacy, European Union, Computing, Cyberspace, Information Age, Government information, Information technology, Featured"
       
     } ,
   
@@ -41,7 +113,7 @@
       "title"    : "Can anonymity and accountability coexist?",
       "url"      : "/can-anonymity-and-accountability-coexist/",
       "category" : "OpenSource",
-      "tags"     : "Anonymity, Organization, Communication, Meritocracy, Open-source model, Crowdsourcing, Organizational culture, Accountability, Whistleblower, Reputation, Identity (social science), Politics, Culture"
+      "tags"     : "Anonymity, Organization, Communication, Meritocracy, Open-source model, Crowdsourcing, Organizational culture, Accountability, Whistleblower, Reputation, Identity (social science), Politics, Culture, Featured"
       
     } ,
   
@@ -77,7 +149,7 @@
       "title"    : "Quantum-teleportation experiments turn 20",
       "url"      : "/quantum-teleportation-experiments-turn-20/",
       "category" : "Science",
-      "tags"     : ""
+      "tags"     : "Featured"
       
     } ,
   
@@ -122,7 +194,7 @@
       "title"    : "Open-access quantum computer goes live in Japan",
       "url"      : "/open-access-quantum-computer-goes-live-in-japan/",
       "category" : "Science",
-      "tags"     : "Mathematical optimization, Field-programmable gate array, Physics, Optics, Information, Qubit, Areas of computer science, Applied mathematics, Technology"
+      "tags"     : "Mathematical optimization, Field-programmable gate array, Physics, Optics, Information, Qubit, Areas of computer science, Applied mathematics, Technology, Featured"
       
     } ,
   
@@ -140,7 +212,7 @@
       "title"    : "Harvard Scientists Made a Material That Creates Completely New States of Light",
       "url"      : "/harvard-scientists-made-a-material-that-creates-completely-new-states-of-light/",
       "category" : "Science",
-      "tags"     : "Optics, Polarization (waves), Light, Angular momentum, Physical chemistry, Applied and interdisciplinary physics, Physics, Physical sciences, Natural philosophy, Atomic molecular and optical physics, Mechanics, Electromagnetic radiation, Chemistry, Physical phenomena, Science, Motion (physics), Materials science, Electrodynamics, Waves"
+      "tags"     : "Optics, Polarization (waves), Light, Angular momentum, Physical chemistry, Applied and interdisciplinary physics, Physics, Physical sciences, Natural philosophy, Atomic molecular and optical physics, Mechanics, Electromagnetic radiation, Chemistry, Physical phenomena, Science, Motion (physics), Materials science, Electrodynamics, Waves, Featured"
       
     } ,
   
@@ -185,7 +257,7 @@
       "title"    : "Researchers develop data bus for quantum computer",
       "url"      : "/researchers-develop-data-bus-for-quantum-computer/",
       "category" : "Science",
-      "tags"     : "Quantum mechanics, Quantum computing, Computer, Physics, Central processing unit, Information, Research, Science, Areas of computer science, Technology, Computing, Cognitive science"
+      "tags"     : "Quantum mechanics, Quantum computing, Computer, Physics, Central processing unit, Information, Research, Science, Areas of computer science, Technology, Computing, Cognitive science, Featured"
       
     } ,
   
@@ -320,7 +392,7 @@
       "title"    : "Scientists aim to use lasers to turn light into matter",
       "url"      : "/scientists-aim-to-use-lasers-to-turn-light-into-matter/",
       "category" : "Technology",
-      "tags"     : "Photon, Light, Energy, Matter, Science, Theoretical physics, Particle physics, Physical sciences, Mechanics, Physics, Chemistry, Condensed matter physics, Mathematical physics, Modern physics, Physical cosmology, Physical universe, Solid state engineering, Applied and interdisciplinary physics, Quantum mechanics, Scientific theories, Nature"
+      "tags"     : "Photon, Light, Energy, Matter, Science, Theoretical physics, Particle physics, Physical sciences, Mechanics, Physics, Chemistry, Condensed matter physics, Mathematical physics, Modern physics, Physical cosmology, Physical universe, Solid state engineering, Applied and interdisciplinary physics, Quantum mechanics, Scientific theories, Nature, Featured"
       
     } ,
   

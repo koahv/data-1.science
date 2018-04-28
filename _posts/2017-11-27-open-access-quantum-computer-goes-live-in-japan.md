@@ -4,7 +4,7 @@ title: "Open-access quantum computer goes live in Japan"
 date: 2018-04-26
 categories: Science
 author: Hamish Johnston
-tags: [Mathematical optimization, Field-programmable gate array, Physics, Optics, Information, Qubit, Areas of computer science, Applied mathematics, Technology]
+tags: [Mathematical optimization, Field-programmable gate array, Physics, Optics, Information, Qubit, Areas of computer science, Applied mathematics, Technology, Featured]
 ---
 
 

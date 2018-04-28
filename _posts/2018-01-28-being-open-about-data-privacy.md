@@ -4,7 +4,7 @@ title: "Being open about data privacy"
 date: 2018-04-26
 categories: Open Source
 author: MikeCamel
-tags: [General Data Protection Regulation, Information privacy, Privacy, European Union, Computing, Cyberspace, Information Age, Government information, Information technology]
+tags: [General Data Protection Regulation, Information privacy, Privacy, European Union, Computing, Cyberspace, Information Age, Government information, Information technology, Featured]
 ---
 
 

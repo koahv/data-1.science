@@ -5,7 +5,7 @@ api_key_value=`cat ~/.textrazorapi.key`
 
 
 rm post_data/id.txt
-psql -t -U postgres -o post_data/id.txt -d ttrssdb2 -c "SELECT f.id FROM ttrss_user_entries e INNER JOIN ttrss_entries f ON f.id = e.ref_id WHERE e.marked ORDER BY f.id DESC"
+psql -t -U postgres -o post_data/id.txt -d ttrssdb2 -c "SELECT f.id FROM ttrss_user_entries e INNER JOIN ttrss_entries f ON f.id = e.ref_id WHERE e.marked AND e.has_imported_tags IS NULL ORDER BY f.id DESC"
 sed -i '$ d' post_data/id.txt
 
 

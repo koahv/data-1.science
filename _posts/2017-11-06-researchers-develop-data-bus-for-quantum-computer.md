@@ -4,7 +4,7 @@ title: "Researchers develop data bus for quantum computer"
 date: 2018-04-26
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Quantum computing, Computer, Physics, Central processing unit, Information, Research, Science, Areas of computer science, Technology, Computing, Cognitive science]
+tags: [Quantum mechanics, Quantum computing, Computer, Physics, Central processing unit, Information, Research, Science, Areas of computer science, Technology, Computing, Cognitive science, Featured]
 ---
 
 
