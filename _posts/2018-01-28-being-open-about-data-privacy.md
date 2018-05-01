@@ -8,14 +8,13 @@ tags: [General Data Protection Regulation, Information privacy, Privacy, Europea
 ---
 
 
+#### Digest
+>Regulations including GDPR notwithstanding, data privacy is something that's important for pretty much everybody.
 
 
-#### Extract
->Today is Data Privacy Day, ("Data Protection Day" in Europe), and you might think that those of us in the open source world should think that all data should be free, as information supposedly wants to be, but life's not that simple. That's for two main reasons:
 
-read more...
-
-
+#### Factsheet
+>There are four different types of data in play: Data that's fully open: visible to A, B, and the rest of the world; Data that's known, shared, and confidential: visible to A and B, but nobody else; Data that's company-confidential: visible to A, but not B; Data that's customer-confidential: visible to B, but not A
 
 [Visit Link](https://opensource.com/article/18/1/being-open-about-data-privacy)
 

@@ -102,8 +102,9 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 
 
 
-
-
+	#  replace new lines with extended blockquotes
+	# | sed -e 's/\n/\n>/g'
+	# sed ':a;N;$!ba;s/\n/\n>/g'
 
 	# replace null entries
 	if [[ -z "${author// }" ]]; then
