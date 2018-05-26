@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+ruby "~>2.5.1p57"
 #gem 'github-pages', group: :jekyll_plugins
 #gem 'jekyll-admin', group: :jekyll_plugins
 
