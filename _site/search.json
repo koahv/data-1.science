@@ -2,6 +2,231 @@
   
     {
     
+      "title"    : "Software-Defined Infrastructure at Uber",
+      "url"      : "/software-defined-infrastructure-at-uber/",
+      "category" : "Linux",
+      "tags"     : "Computer network, Provisioning, Software, Automation, Data center, Cloud computing, Computing, Information technology, Science and technology, Areas of computer science, Intellectual works, Technology, Artificial objects, Computer engineering, Digital technology"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Microsoft buys GitHub in $7.5bn all-stock deal",
+      "url"      : "/microsoft-buys-github-in-7-5bn-all-stock-deal/",
+      "category" : "OpenSource",
+      "tags"     : "GitHub, Microsoft, Xamarin, Technology, Digital media, Software, Computing"
+      
+    } ,
+  
+    {
+    
+      "title"    : "6 Github alternatives that is open source and self-hosted",
+      "url"      : "/6-github-alternatives-that-is-open-source-and-self-hosted/",
+      "category" : "Linux",
+      "tags"     : "Git, GitHub, Distributed version control, Free and open-source software, Bitbucket, Version control, Open-source software, Software, Technology, Public commons, Areas of computer science, Digital technology, Software development, Free content, Computing, Free software, Computers, System software, Software engineering, Open-source movement, Computer engineering, Digital media"
+      
+    } ,
+  
+    {
+    
+      "title"    : "10 Applications Every Linux Using Musician Should Know About",
+      "url"      : "/10-applications-every-linux-using-musician-should-know-about/",
+      "category" : "Linux",
+      "tags"     : "Ardour (software), MIDI, Audacity (audio editor), Digital audio workstation, Renoise, Software, Computer engineering, Media technology, Digital media, Digital technology, Technology, Computing"
+      
+    } ,
+  
+    {
+    
+      "title"    : "​One million Linux and open-source software classes taken",
+      "url"      : "/one-million-linux-and-open-source-software-classes-taken/",
+      "category" : "Linux",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "The state of Linux security in 2017",
+      "url"      : "/the-state-of-linux-security-in-2017/",
+      "category" : "Linux",
+      "tags"     : "Linux kernel, Rootkit, Computer security, Ransomware, Lynis, Malware, Linux, GNU C Library, Heartbleed, Areas of computer science, Computing, System software, Secure communication, Cyberspace, Information Age, Information technology management, Technology, Digital media, Cybercrime, Cyberwarfare, Software"
+      
+    } ,
+  
+    {
+    
+      "title"    : "GDPR Compliance: Technical Requirements for Linux Systems",
+      "url"      : "/gdpr-compliance-technical-requirements-for-linux-systems/",
+      "category" : "Linux",
+      "tags"     : "General Data Protection Regulation, Password, Patch (computing), Personally identifiable information, Computer security, Authentication, Software, Digital technology, Areas of computer science, Cyberwarfare, Information governance, Secure communication, Information technology management, Information technology, Information Age, Technology, Security engineering, Security technology, Computing, Cybercrime, Cyberspace, Crime prevention, Data security"
+      
+    } ,
+  
+    {
+    
+      "title"    : "The State of Linux Security",
+      "url"      : "/the-state-of-linux-security/",
+      "category" : "Linux",
+      "tags"     : "Buffer overflow protection, Linux kernel, Ksplice, Areas of computer science, Cybercrime, Computer engineering, Secure communication, Digital media, System software, Cyberwarfare, Computer security, Software, Security engineering, Computing, Information technology management, Operating system technology, Information Age"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Why Are the Galilean Moons So Massive?",
+      "url"      : "/why-are-the-galilean-moons-so-massive/",
+      "category" : "Astronomy",
+      "tags"     : "Moons of Jupiter, Jupiter, Galilean moons, Planets, Planemos, Planets of the Solar System, Local Interstellar Cloud, Physical sciences, Astronomical objects, Space science, Outer space, Bodies of the Solar System, Planetary science, Solar System, Astronomy"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Dunes on Pluto",
+      "url"      : "/dunes-on-pluto/",
+      "category" : "Astronomy",
+      "tags"     : "Sputnik Planitia, New Horizons, Pluto, Planets of the Solar System, Planetary science, Astronomy, Outer space, Solar System, Space science, Physical sciences, Bodies of the Solar System"
+      
+    } ,
+  
+    {
+    
+      "title"    : "The FDA Puts the Brakes on A Major CRISPR Trial in Humans",
+      "url"      : "/the-fda-puts-the-brakes-on-a-major-crispr-trial-in-humans/",
+      "category" : "Science",
+      "tags"     : "Hemoglobin, Blood, Disease, Sickle-cell disease, Life sciences, Health care, Diseases and disorders, Biology, Health sciences, Medical specialties, Health, Clinical medicine, Medicine"
+      
+    } ,
+  
+    {
+    
+      "title"    : "From horizon to horizon: Celebrating 15 years of Mars Express",
+      "url"      : "/from-horizon-to-horizon-celebrating-15-years-of-mars-express/",
+      "category" : "Astronomy",
+      "tags"     : "Tharsis, Mars, Valles Marineris, Ascraeus Mons, Planetary science, Planets of the Solar System, Geology, Solar System, Outer space"
+      
+    } ,
+  
+    {
+    
+      "title"    : "You don&amp;#039;t know Bash: An introduction to Bash arrays",
+      "url"      : "/you-don-039-t-know-bash-an-introduction-to-bash-arrays/",
+      "category" : "OpenSource",
+      "tags"     : "Array data structure, Bash (Unix shell), Command-line interface, Array data type, Variable (computer science), Bracket, Control flow, Parameter (computer programming), Pipeline (Unix), Software engineering, Computers, Computer programming, Computer engineering, Computing, Software development, Software, Areas of computer science"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Scientists boost crop production by 47 percent by speeding up photorespiration",
+      "url"      : "/scientists-boost-crop-production-by-47-percent-by-speeding-up-photorespiration/",
+      "category" : "Science",
+      "tags"     : "Protein, Plant, Agriculture, Cowpea, American Association for the Advancement of Science, Botany, Genetic engineering, Biology, Life sciences"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Embattled GMO Golden Rice Is Now Allowed in US Food Supply",
+      "url"      : "/embattled-gmo-golden-rice-is-now-allowed-in-us-food-supply/",
+      "category" : "Science",
+      "tags"     : "Genetically modified organism, Golden rice, Rice, Genetic engineering, Food and drink, Agriculture, Biology, Life sciences"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Developing a culture of experimentation on your team",
+      "url"      : "/developing-a-culture-of-experimentation-on-your-team/",
+      "category" : "OpenSource",
+      "tags"     : "Experiment, Innovation, Hypothesis, Risk, Strategic management, Culture, Business, Technology, Cognition, Cognitive science"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Supercomputers provide new window into the life and death of a neutron",
+      "url"      : "/supercomputers-provide-new-window-into-the-life-and-death-of-a-neutron/",
+      "category" : "Astronomy",
+      "tags"     : "Quantum chromodynamics, Proton, Office of Science, Particle physics, Neutron, Lattice QCD, Gluon, Physics, Physics beyond the Standard Model, Lawrence Berkeley National Laboratory, Nuclear physics, Radioactive decay, Standard Model, Laboratory, Quark, Physical sciences, Science"
+      
+    } ,
+  
+    {
+    
+      "title"    : "New machine learning approach could accelerate bioengineering",
+      "url"      : "/new-machine-learning-approach-could-accelerate-bioengineering/",
+      "category" : "Science",
+      "tags"     : "Lawrence Berkeley National Laboratory, Metabolism, Biofuel, Systems biology, Metabolic pathway, Biology, Laboratory, Research, Experiment, Bioenergy, Escherichia coli, Algorithm, Life sciences, Organisms, Artificial objects"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Building Leadership in Open Source: A Free Guide",
+      "url"      : "/building-leadership-in-open-source-a-free-guide/",
+      "category" : "Linux",
+      "tags"     : "Leadership, Open-source model, Open-source software movement, Community, Communication"
+      
+    } ,
+  
+    {
+    
+      "title"    : "XENON1T Experimental data establishes most stringent limit on dark matter",
+      "url"      : "/xenon1t-experimental-data-establishes-most-stringent-limit-on-dark-matter/",
+      "category" : "Science",
+      "tags"     : "XENON, Dark matter, Weakly interacting massive particles, Physical sciences, Physics, Science, Particle physics, Nature"
+      
+    } ,
+  
+    {
+    
+      "title"    : "The case of the relativistic particles solved with NASA missions",
+      "url"      : "/the-case-of-the-relativistic-particles-solved-with-nasa-missions/",
+      "category" : "Science",
+      "tags"     : "Van Allen radiation belt, Van Allen Probes, Electromagnetic radiation, Force, Nature, Outer space, Physics, Physical sciences, Applied and interdisciplinary physics, Space science, Physical phenomena"
+      
+    } ,
+  
+    {
+    
+      "title"    : "A photosynthetic engine for artificial cells",
+      "url"      : "/a-photosynthetic-engine-for-artificial-cells/",
+      "category" : "Technology",
+      "tags"     : "Cell (biology), Cell membrane, Protein, Actin, Adenosine triphosphate, Biology, Life sciences, Organisms, Chemistry, Molecular biology, Biotechnology, Biochemistry, Cell biology"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Black holes from an exacomputer",
+      "url"      : "/black-holes-from-an-exacomputer/",
+      "category" : "Astronomy",
+      "tags"     : "Supercomputer, Gravity, Physics, Gravitational wave, Black hole, Simulation, Exascale computing, Numerical analysis, Computer, Research, Scientist, Science, Physical sciences"
+      
+    } ,
+  
+    {
+    
+      "title"    : "6 ways that scientists are hacking the planet",
+      "url"      : "/6-ways-that-scientists-are-hacking-the-planet/",
+      "category" : "Technology",
+      "tags"     : "Coral reef, Rain, Earth, Climate change, Coral, Volcano, Global warming, Physical geography, Nature, Earth sciences, Natural environment"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Physicists tune the dynamics of exotic quantum particles",
+      "url"      : "/physicists-tune-the-dynamics-of-exotic-quantum-particles/",
+      "category" : "Science",
+      "tags"     : "Physics, Spin (physics), Fermion, Electron, Weyl semimetal, Quasiparticle, Light, Elementary particle, Matter, Theoretical physics, Solid state engineering, Materials science, Modern physics, Chemistry, Quantum mechanics, Applied and interdisciplinary physics, Physical sciences, Mechanics, Condensed matter physics, Particle physics"
+      
+    } ,
+  
+    {
+    
       "title"    : "Lung-on-a-chip simulates pulmonary fibrosis",
       "url"      : "/lung-on-a-chip-simulates-pulmonary-fibrosis/",
       "category" : "Science",
@@ -96,6 +321,15 @@
       "url"      : "/red-hat-announces-2018-women-in-open-source-award-winners/",
       "category" : "Linux",
       "tags"     : "Red Hat, Open-source software, Risk, Open-source software movement, Forward-looking statement, Artificial pancreas, Intellectual property"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Why is Earth Magnetized and Venus Not?",
+      "url"      : "/why-is-earth-magnetized-and-venus-not/",
+      "category" : "Astronomy",
+      "tags"     : "Planetary core, Venus, Earth, Planet, Sun, Mantle (geology), Plate tectonics, Convection, Planetary science, Physical sciences, Astronomy, Space science, Outer space, Nature, Planets of the Solar System"
       
     } ,
   
