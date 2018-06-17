@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 rm post_data/id.txt
-psql -t -U postgres -o post_data/id.txt -d ttrssdb2 -c "SELECT f.id FROM ttrss_user_entries e INNER JOIN ttrss_entries f ON f.id = e.ref_id WHERE e.marked ORDER BY f.id DESC"
+psql -t -U postgres -o post_data/id.txt -d ttrssdb2 -c "SELECT f.id FROM ttrss_user_entries e INNER JOIN ttrss_entries f ON f.id = e.ref_id WHERE e.marked ORDER BY e.last_marked DESC"
 sed -i '$ d' post_data/id.txt
 
 
@@ -138,6 +138,8 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: ${split_date_0[0]}\\ncategories: $category\\nauthor: $author\\n$mod_tags\\n---\\n\\n\\n$mod_digest\\n\\n$mod_extract2\\n\\n$mod_factsheet\\n\\n[Visit Link]($link)\\n\\n" > post_data/${split_date_1[0]}-$mod_title1.md
 
 #tags: [$mod_tags]\\n
+
+	echo $title
 
 done < post_data/id.txt
 
