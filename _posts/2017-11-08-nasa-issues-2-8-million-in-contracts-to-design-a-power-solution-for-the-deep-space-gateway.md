@@ -16,7 +16,8 @@ Five companies have been awarded contracts by NASA that will fund research into 
 A total of $2.4 million was awarded to Boeing, Lockheed Martin, Orbital ATK, Sierra Nevada Space Systems, and Space Systems Loral. The companies will investigate means of powering the gateway and propelling it around the Moon for the next four months.
 
 It&#8217;s expected that all five organizations will be looking at solutions that utilize solar electric propulsion. This works by converting solar power into electricity, which is then used to ionize atoms of a propellant like xenon, which is fired out of the engine via powerful magnetic field.
-NASA wants this propulsion module to be one of the first components...
+NASA wants this propulsion module to be one of the first components | tr '
+' ' '...
 
 
 

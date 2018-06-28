@@ -11,7 +11,8 @@ tags: [Juno (spacecraft), Jupiter, Mars, Planet, Dynamo theory, Magnetosphere, S
 
 
 #### Extract
->As the Juno space probe approached Jupiter in June last year, researchers with the Computational Infrastructure for Geodynamics' Dynamo Working Group were starting to run simulations of the giant planet's magnetic field on one of the world's fastest computers. While the timing was coincidental, the supercomputer modeling should help scientists interpret the data from Juno, and vice versa....
+>As the Juno space probe approached Jupiter in June last year, researchers with the Computational Infrastructure for Geodynamics' Dynamo Working Group were starting to run simulations of the giant planet's magnetic field on one of the world's fastest computers. While the timing was coincidental, the supercomputer modeling should help scientists interpret the data from Juno, and vice versa. | tr '
+' ' '...
 
 
 

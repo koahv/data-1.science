@@ -11,7 +11,8 @@ tags: [Astronomy, Star, Physical sciences, Science, Physics, Nature, Astronomica
 
 
 #### Extract
->A new study expands the scientific community's understanding of black holes in our galaxy and the magnetic fields that surround them. ...
+>A new study expands the scientific community's understanding of black holes in our galaxy and the magnetic fields that surround them.  | tr '
+' ' '...
 
 
 

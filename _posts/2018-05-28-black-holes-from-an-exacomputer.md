@@ -11,7 +11,8 @@ tags: [Supercomputer, Gravity, Physics, Gravitational wave, Black hole, Simulati
 
 
 #### Extract
->(Goethe University Frankfurt) What happens when two black holes merge, or when stars collide with a black hole? This has now been simulated by researchers from Goethe University Frankfurt and the Frankfurt Institute for Advanced Studies using a novel numerical method. The simulation code 'ExaHyPE' is designed in such a way that it will be able to calculate gravitational waves on the future generation of 'exascale' supercomputers....
+>(Goethe University Frankfurt) What happens when two black holes merge, or when stars collide with a black hole? This has now been simulated by researchers from Goethe University Frankfurt and the Frankfurt Institute for Advanced Studies using a novel numerical method. The simulation code 'ExaHyPE' is designed in such a way that it will be able to calculate gravitational waves on the future generation of 'exascale' supercomputers. | tr '
+' ' '...
 
 
 

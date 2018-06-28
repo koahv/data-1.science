@@ -11,7 +11,8 @@ tags: [Biodiversity, World Economic Forum, Life, American Association for the Ad
 
 
 #### Extract
->(University of California - Davis) In an effort to protect and preserve the Earth's biodiversity and kick-start an inclusive bio-economy, the World Economic Forum today announced a landmark partnership between the Earth BioGenome Project, chaired by Harris Lewin, distinguished professor at UC Davis and the Earth Bank of Codes to map the DNA of all life on Earth....
+>(University of California - Davis) In an effort to protect and preserve the Earth's biodiversity and kick-start an inclusive bio-economy, the World Economic Forum today announced a landmark partnership between the Earth BioGenome Project, chaired by Harris Lewin, distinguished professor at UC Davis and the Earth Bank of Codes to map the DNA of all life on Earth. | tr '
+' ' '...
 
 
 

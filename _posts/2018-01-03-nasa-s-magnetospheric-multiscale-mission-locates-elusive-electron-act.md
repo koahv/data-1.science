@@ -11,7 +11,8 @@ tags: [Physics, Physical sciences, Astronomy, Spaceflight, Applied and interdisc
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) New NASA research helps improve our understanding of how electrons move through the complex region around Earth -- information that will help untangle how such particle acrobatics affect the planet....
+>(NASA/Goddard Space Flight Center) New NASA research helps improve our understanding of how electrons move through the complex region around Earth -- information that will help untangle how such particle acrobatics affect the planet. | tr '
+' ' '...
 
 
 

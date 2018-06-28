@@ -16,7 +16,8 @@ tags: [Deforestation, Pollution, Air pollution, Biodiversity, Rainforest, Global
 Image via Shutterstock
 CLIMATE CHANGE
 
-While 97 percent of climate scientists agree that climate change is occurring and greenhouse gas emissions are the main cause, political will has not been strong enough so far to initia...
+While 97 percent of climate scientists agree that climate change is occurring and greenhouse gas emissions are the main cause, political will has not been strong enough so far to initia | tr '
+' ' '...
 
 
 

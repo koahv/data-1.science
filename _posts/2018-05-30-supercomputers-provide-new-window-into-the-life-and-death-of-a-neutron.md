@@ -11,7 +11,8 @@ tags: [Quantum chromodynamics, Proton, Office of Science, Particle physics, Neut
 
 
 #### Extract
->(DOE/Lawrence Berkeley National Laboratory) A team has enlisted powerful supercomputers to calculate a quantity, known as the 'nucleon axial coupling' or gA, that is central to our understanding of a neutron's lifetime....
+>(DOE/Lawrence Berkeley National Laboratory) A team has enlisted powerful supercomputers to calculate a quantity, known as the 'nucleon axial coupling' or gA, that is central to our understanding of a neutron's lifetime. | tr '
+' ' '...
 
 
 

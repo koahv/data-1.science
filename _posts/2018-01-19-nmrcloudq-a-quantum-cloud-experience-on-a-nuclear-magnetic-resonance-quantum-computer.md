@@ -11,7 +11,8 @@ tags: [Quantum computing, Science, Particle physics, Physics, Modern physics, So
 
 
 #### Extract
->(Science China Press) Cloud-based quantum computing is the most useful form for public users to experience with the power of quantum. Recently, a joint team led by G. Long at Tsinghua University, B. Zeng at University of Guelph and D. Lu at SUSTech launched a new cloud quantum computing service-NMRCloudQ which is based on 4-qubit nuclear magnetic resonance and aims to be freely accessible to either amateurs that keep pace with quantum era or professionals that want explore quantum phenomena....
+>(Science China Press) Cloud-based quantum computing is the most useful form for public users to experience with the power of quantum. Recently, a joint team led by G. Long at Tsinghua University, B. Zeng at University of Guelph and D. Lu at SUSTech launched a new cloud quantum computing service-NMRCloudQ which is based on 4-qubit nuclear magnetic resonance and aims to be freely accessible to either amateurs that keep pace with quantum era or professionals that want explore quantum phenomena. | tr '
+' ' '...
 
 
 

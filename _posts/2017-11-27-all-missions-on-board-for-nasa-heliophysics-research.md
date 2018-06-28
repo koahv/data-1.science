@@ -11,7 +11,8 @@ tags: [THEMIS, Goddard Space Flight Center, Spaceflight, Space science, Astronom
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) Scientists have been studying the near-Earth environment for the better part of a century, but many mysteries -- like where the energetic particles that pervade the area originate and become energized -- still remain. In a new type of collaborative study, scientists combined data from 16 separate NASA and Los Alamos National Laboratory spacecraft to understand how a particle phenomenon in the magnetic environment around Earth occurs. These events, called substorms, can cause auroras, disrupt GPS communications and, at their most intense, damage power grids....
+>(NASA/Goddard Space Flight Center) Scientists have been studying the near-Earth environment for the better part of a century, but many mysteries -- like where the energetic particles that pervade the area originate and become energized -- still remain. In a new type of collaborative study, scientists combined data from 16 separate NASA and Los Alamos National Laboratory spacecraft to understand how a particle phenomenon in the magnetic environment around Earth occurs. These events, called substorms, can cause auroras, disrupt GPS communications and, at their most intense, damage power grids. | tr '
+' ' '...
 
 
 

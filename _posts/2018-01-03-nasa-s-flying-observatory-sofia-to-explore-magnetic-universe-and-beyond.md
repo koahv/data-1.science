@@ -11,7 +11,8 @@ tags: [Stratospheric Observatory for Infrared Astronomy, Astronomy, Star formati
 
 
 #### Extract
->NASA's Stratospheric Observatory for Infrared Astronomy, SOFIA, is preparing for its 2018 observing campaign, which will include observations of celestial magnetic fields, star-forming regions, comets, Saturn's giant moon Titan and more....
+>NASA's Stratospheric Observatory for Infrared Astronomy, SOFIA, is preparing for its 2018 observing campaign, which will include observations of celestial magnetic fields, star-forming regions, comets, Saturn's giant moon Titan and more. | tr '
+' ' '...
 
 
 

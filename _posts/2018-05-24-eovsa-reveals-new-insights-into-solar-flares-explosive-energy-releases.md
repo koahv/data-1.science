@@ -11,7 +11,8 @@ tags: [Solar flare, Sun, Coronal mass ejection, Nature, Applied and interdiscipl
 
 
 #### Extract
->Last September, a massive new region of magnetic field erupted on the Sun's surface next to an existing sunspot. The powerful collision of magnetic fields produced a series of potent solar flares, causing turbulent space weather conditions at Earth. These flares were captured in their moment-by-moment progression. ...
+>Last September, a massive new region of magnetic field erupted on the Sun's surface next to an existing sunspot. The powerful collision of magnetic fields produced a series of potent solar flares, causing turbulent space weather conditions at Earth. These flares were captured in their moment-by-moment progression.  | tr '
+' ' '...
 
 
 

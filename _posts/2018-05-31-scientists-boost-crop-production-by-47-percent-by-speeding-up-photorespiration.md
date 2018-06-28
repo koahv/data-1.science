@@ -11,7 +11,8 @@ tags: [Protein, Plant, Agriculture, Cowpea, American Association for the Advance
 
 
 #### Extract
->(Carl R. Woese Institute for Genomic Biology, University of Illinois at Urbana-Champaign) Increasing production of a common, naturally occurring protein in plant leaves could boost the yields of major food crops by almost 50 percent, according to a new study led by scientists at the University of Essex published today in Plant Biotechnology Journal....
+>(Carl R. Woese Institute for Genomic Biology, University of Illinois at Urbana-Champaign) Increasing production of a common, naturally occurring protein in plant leaves could boost the yields of major food crops by almost 50 percent, according to a new study led by scientists at the University of Essex published today in Plant Biotechnology Journal. | tr '
+' ' '...
 
 
 

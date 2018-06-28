@@ -11,7 +11,8 @@ tags: [Muscle, Cellular differentiation, Micro-g environment, DNA methylation, M
 
 
 #### Extract
->Microgravity conditions affect DNA methylation of muscle cells, slowing their differentiation. ...
+>Microgravity conditions affect DNA methylation of muscle cells, slowing their differentiation.  | tr '
+' ' '...
 
 
 

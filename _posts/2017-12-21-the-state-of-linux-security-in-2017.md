@@ -12,7 +12,8 @@ tags: [Linux kernel, Rootkit, Computer security, Ransomware, Lynis, Malware, Lin
 
 #### Extract
 >Linux security (2017 edition) The year is closing, so it is time to review Linux security. Like last year, we look at the state of Linux security. A collection of the finest moments. Did we forget something important? Let us know in the comments. This post will remain updated in the upcoming weeks. As this post may appear on HN, Reddit, Slashdot, and other high-traffic sites, this post is heavily cached. Comments may show up with some delay. &#160; January: MongoDB, Debian [...]
-The post The state of Linux security in 2017 appeared first on Linux Audit....
+The post The state of Linux security in 2017 appeared first on Linux Audit. | tr '
+' ' '...
 
 
 

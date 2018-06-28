@@ -12,7 +12,8 @@ tags: [Philosophy, Epistemology, Metaphysics, Science, Human activities, Scienti
 
 #### Extract
 >Making sense of this could be the key to a “theory of everything.” 
-The post What Is Gravity Made Of? appeared first on Futurism....
+The post What Is Gravity Made Of? appeared first on Futurism. | tr '
+' ' '...
 
 
 

@@ -11,7 +11,8 @@ tags: [Magnetometer, Telecommunication, Physics, Telecommunications engineering,
 
 
 #### Extract
->Atom magnetometers could boost GPS performance...
+>Atom magnetometers could boost GPS performance | tr '
+' ' '...
 
 
 

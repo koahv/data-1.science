@@ -12,7 +12,8 @@ tags: [General Data Protection Regulation, Password, Patch (computing), Personal
 
 #### Extract
 >GDPR for Linux systems What is GDPR? GDPR or General Data Protection Regulation is a regulation to protect personal data from citizens of the European Union (EU). When speaking about stored data, it includes the handling of data at any given time, from the initial creation of the data, until the final deletion of it. One of the important parts is the right to &#8216;know&#8217;. That means that individuals can ask what data is stored about them. Another request they may make is [...]
-The post GDPR Compliance: Technical Requirements for Linux Systems appeared first on Linux Audit....
+The post GDPR Compliance: Technical Requirements for Linux Systems appeared first on Linux Audit. | tr '
+' ' '...
 
 
 

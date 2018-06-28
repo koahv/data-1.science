@@ -11,7 +11,8 @@ tags: [Photosynthesis, Chlorophyll, Cyanobacteria, Infrared, Light, Science, Phy
 
 
 #### Extract
->(Imperial College London) The discovery changes our understanding of the basic mechanism of photosynthesis and should rewrite the textbooks.It will also tailor the way we hunt for alien life and provide insights into how we could engineer more efficient crops that take advantage of longer wavelengths of light....
+>(Imperial College London) The discovery changes our understanding of the basic mechanism of photosynthesis and should rewrite the textbooks.It will also tailor the way we hunt for alien life and provide insights into how we could engineer more efficient crops that take advantage of longer wavelengths of light. | tr '
+' ' '...
 
 
 

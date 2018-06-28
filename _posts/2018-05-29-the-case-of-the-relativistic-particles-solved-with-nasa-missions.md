@@ -11,7 +11,8 @@ tags: [Van Allen radiation belt, Van Allen Probes, Electromagnetic radiation, Fo
 
 
 #### Extract
->(NASA/Goddard Space Flight Center) Encircling Earth are two enormous rings -- called the Van Allen radiation belts -- of highly energized ions and electrons. Various processes can accelerate these particles to relativistic speeds, which endanger spacecraft unlucky enough to enter these giant bands of damaging radiation. Scientists had previously identified certain factors that might cause particles in the belts to become highly energized, but they had not known which cause dominates....
+>(NASA/Goddard Space Flight Center) Encircling Earth are two enormous rings -- called the Van Allen radiation belts -- of highly energized ions and electrons. Various processes can accelerate these particles to relativistic speeds, which endanger spacecraft unlucky enough to enter these giant bands of damaging radiation. Scientists had previously identified certain factors that might cause particles in the belts to become highly energized, but they had not known which cause dominates. | tr '
+' ' '...
 
 
 

@@ -11,7 +11,8 @@ tags: [Deforestation, Forest, Habitat fragmentation, Rainforest, Natural environ
 
 
 #### Extract
->Tropical forests around the world play a key role in the global carbon cycle and harbour more than half of the species worldwide. However, increases in land use in recent decades caused unprecedented losses of tropical forest. Scientists at the Helmholtz Centre for Environmental Research (UFZ) have adapted a method from physics to describe the fragmentation of tropical forests mathematically. In the scientific journal Nature, they explain how this allows them to model and understand the fragmentation of forests on a global scale. They found that forest fragmentation on all three continents is close to a critical point beyond which the fragment number will strongly increase. This will have severe consequences for biodiversity and carbon stor...
+>Tropical forests around the world play a key role in the global carbon cycle and harbour more than half of the species worldwide. However, increases in land use in recent decades caused unprecedented losses of tropical forest. Scientists at the Helmholtz Centre for Environmental Research (UFZ) have adapted a method from physics to describe the fragmentation of tropical forests mathematically. In the scientific journal Nature, they explain how this allows them to model and understand the fragmentation of forests on a global scale. They found that forest fragmentation on all three continents is close to a critical point beyond which the fragment number will strongly increase. This will have severe consequences for biodiversity and carbon stor | tr '
+' ' '...
 
 
 

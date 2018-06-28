@@ -11,7 +11,8 @@ tags: [Biodiversity, Species, Conservation biology, Plant, China, Evolution, Flo
 
 
 #### Extract
->(Florida Museum of Natural History) An international team of scientists has mapped the evolutionary relationships between China's 30,000 flowering plant species, uncovering a distinct regional pattern in biodiversity. Eastern China is a floral 'museum' with a rich array of ancient lineages and distant relatives while the western provinces are an evolutionary 'cradle' for newer and more closely related species....
+>(Florida Museum of Natural History) An international team of scientists has mapped the evolutionary relationships between China's 30,000 flowering plant species, uncovering a distinct regional pattern in biodiversity. Eastern China is a floral 'museum' with a rich array of ancient lineages and distant relatives while the western provinces are an evolutionary 'cradle' for newer and more closely related species. | tr '
+' ' '...
 
 
 

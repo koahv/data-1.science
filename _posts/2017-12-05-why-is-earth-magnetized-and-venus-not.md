@@ -12,7 +12,8 @@ tags: [Planetary core, Venus, Earth, Planet, Sun, Mantle (geology), Plate tecton
 
 #### Extract
 >A new analysis reveals that the gigantic impact that led to the Moon's formation might have also switched on Earth's magnetic field.
-The post Why is Earth Magnetized and Venus Not? appeared first on Sky &amp; Telescope....
+The post Why is Earth Magnetized and Venus Not? appeared first on Sky &amp; Telescope. | tr '
+' ' '...
 
 
 

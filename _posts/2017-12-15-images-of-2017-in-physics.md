@@ -11,7 +11,8 @@ tags: [Sudbury Neutrino Observatory, Cavitation, X-ray crystallography, Jupiter,
 
 
 #### Extract
->From non-Newtonian frog saliva to magnetic mountains: a visual review of the world of physics...
+>From non-Newtonian frog saliva to magnetic mountains: a visual review of the world of physics | tr '
+' ' '...
 
 
 

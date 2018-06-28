@@ -11,7 +11,8 @@ tags: [Antiproton, Antimatter, Physics, Proton, Matter, Standard Model, Theoreti
 
 
 #### Extract
->Standard Model passes its latest test...
+>Standard Model passes its latest test | tr '
+' ' '...
 
 
 

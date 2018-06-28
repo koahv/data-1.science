@@ -12,7 +12,8 @@ tags: [Moons of Jupiter, Jupiter, Galilean moons, Planets, Planemos, Planets of 
 
 #### Extract
 >Scientists propose that Saturn’s meddling helped create the four giant Galilean moons orbiting Jupiter.
-The post Why Are the Galilean Moons So Massive? appeared first on Sky &amp; Telescope....
+The post Why Are the Galilean Moons So Massive? appeared first on Sky &amp; Telescope. | tr '
+' ' '...
 
 
 

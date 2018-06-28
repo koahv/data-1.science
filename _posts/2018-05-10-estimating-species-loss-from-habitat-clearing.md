@@ -11,7 +11,8 @@ tags: [Habitat fragmentation, Deforestation, Biogeochemistry, Earth sciences, Na
 
 
 #### Extract
->NUS ecologists have developed improved methods for estimating biodiversity loss from habitat-clearing activities, to aid conservation planning....
+>NUS ecologists have developed improved methods for estimating biodiversity loss from habitat-clearing activities, to aid conservation planning. | tr '
+' ' '...
 
 
 

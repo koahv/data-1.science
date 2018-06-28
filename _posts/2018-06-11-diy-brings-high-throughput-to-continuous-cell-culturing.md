@@ -11,7 +11,8 @@ tags: [Rice University, Technology, Artificial objects]
 
 
 #### Extract
->(Rice University) Bioengineers from Rice University, Boston University and MIT have created an open-source, do-it-yourself system that combines the control of automated cell-culturing systems that can run for months with the scale of high-throughput systems that grow dozens of cultures at once....
+>(Rice University) Bioengineers from Rice University, Boston University and MIT have created an open-source, do-it-yourself system that combines the control of automated cell-culturing systems that can run for months with the scale of high-throughput systems that grow dozens of cultures at once. | tr '
+' ' '...
 
 
 

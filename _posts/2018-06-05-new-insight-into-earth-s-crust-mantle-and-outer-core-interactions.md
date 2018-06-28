@@ -11,7 +11,8 @@ tags: [Mantle (geology), Plate tectonics, Earth, Geomagnetic reversal, Subductio
 
 
 #### Extract
->A new study uses previously unavailable data to confirm a correlation between the movement of plate tectonics on the Earth's surface, the flow of mantle above the Earth's core and the rate of reversal of the Earth's magnetic field, which has long been hypothesized. ...
+>A new study uses previously unavailable data to confirm a correlation between the movement of plate tectonics on the Earth's surface, the flow of mantle above the Earth's core and the rate of reversal of the Earth's magnetic field, which has long been hypothesized.  | tr '
+' ' '...
 
 
 

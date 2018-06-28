@@ -12,7 +12,8 @@ tags: [Curiosity (rover), Mars, Organic compound, Planets of the Solar System, O
 
 #### Extract
 >The Curiosity rover has detected organic molecules in ancient rocks on Mars.
-The post Methane and Other Organics on Mars appeared first on Sky &amp; Telescope....
+The post Methane and Other Organics on Mars appeared first on Sky &amp; Telescope. | tr '
+' ' '...
 
 
 

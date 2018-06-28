@@ -11,7 +11,8 @@ tags: [Genetics, Bumblebee, Gene, Species, Biology, Pollinator, Pollination, Evo
 
 
 #### Extract
->Bumblebees living in the city have genes that differ from those of their relatives in the countryside. Although genetic differences are not major, they nevertheless may influence how well the insects adapt to their habitat. For example, urban bumblebees are probably better able to react to environmental challenges that come with city life, such as higher temperatures. These differences in their genetic makeup are an indication that urban life does impact the evolutionary trajectory of a species, write researchers at Martin Luther University Halle-Wittenberg (MLU) and the German Centre for Integrative Biodiversity Research (iDiv) Halle-Leipzig-Jena in the current issue of the renowned journal Proceedings of the Royal Society B....
+>Bumblebees living in the city have genes that differ from those of their relatives in the countryside. Although genetic differences are not major, they nevertheless may influence how well the insects adapt to their habitat. For example, urban bumblebees are probably better able to react to environmental challenges that come with city life, such as higher temperatures. These differences in their genetic makeup are an indication that urban life does impact the evolutionary trajectory of a species, write researchers at Martin Luther University Halle-Wittenberg (MLU) and the German Centre for Integrative Biodiversity Research (iDiv) Halle-Leipzig-Jena in the current issue of the renowned journal Proceedings of the Royal Society B. | tr '
+' ' '...
 
 
 

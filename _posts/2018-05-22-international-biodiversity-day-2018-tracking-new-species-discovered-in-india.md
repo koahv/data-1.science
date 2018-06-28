@@ -13,7 +13,8 @@ tags: []
 #### Extract
 >
                 From the Bhupathi frog to the Kalam plant, here is a list of new species discovered in India during  2017-18.
-            ...
+             | tr '
+' ' '...
 
 
 

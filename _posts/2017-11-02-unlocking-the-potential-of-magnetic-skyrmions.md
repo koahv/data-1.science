@@ -11,7 +11,8 @@ tags: [Skyrmion, Electricity, Computer data storage, Magnetism, Ferromagnetism, 
 
 
 #### Extract
->Magnetic skyrmions offer the promise of next-generation memory and computing technologies, such as cache memory devices and cloud computing. Now A*STAR researchers have developed an innovative technique for making tunable skyrmions that could help unlock their potential....
+>Magnetic skyrmions offer the promise of next-generation memory and computing technologies, such as cache memory devices and cloud computing. Now A*STAR researchers have developed an innovative technique for making tunable skyrmions that could help unlock their potential. | tr '
+' ' '...
 
 
 

@@ -11,7 +11,8 @@ tags: [Computer file, Real-time computing, Areas of computer science, Computer e
 
 
 #### Extract
->Title:&nbsp;4 Ways to Watch or Monitor Log Files in Real Time8 NovLearn more...
+>Title:&nbsp;4 Ways to Watch or Monitor Log Files in Real Time8 NovLearn more | tr '
+' ' '...
 
 
 

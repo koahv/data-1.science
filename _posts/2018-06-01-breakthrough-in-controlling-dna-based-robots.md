@@ -11,7 +11,8 @@ tags: [DNA, Machine, Nanorobotics, Artificial objects, Technology, Chemistry, Bi
 
 
 #### Extract
->Researchers have devised a magnetic control system to make tiny DNA-based robots move on demand -- and much faster than recently possible. ...
+>Researchers have devised a magnetic control system to make tiny DNA-based robots move on demand -- and much faster than recently possible.  | tr '
+' ' '...
 
 
 

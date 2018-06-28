@@ -11,7 +11,8 @@ tags: [Superconductivity, Quantum mechanics, SQUID, Josephson effect, Magnetic f
 
 
 #### Extract
->Physicists from MIPT have teamed up with their colleagues in Russia and Great Britain and developed a superconducting quantum state detector. The new device can detect magnetic fields at low temperatures and is useful to both researchers and quantum computer engineers....
+>Physicists from MIPT have teamed up with their colleagues in Russia and Great Britain and developed a superconducting quantum state detector. The new device can detect magnetic fields at low temperatures and is useful to both researchers and quantum computer engineers. | tr '
+' ' '...
 
 
 

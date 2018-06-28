@@ -11,7 +11,8 @@ tags: [Muon g-2, Muon, Fermilab, Particle physics, Physics, Physical sciences, A
 
 
 #### Extract
->Muons are mysterious, and scientists are diving deep into the particle to get a handle on a property that might render it—and the universe—a little less mysterious....
+>Muons are mysterious, and scientists are diving deep into the particle to get a handle on a property that might render it—and the universe—a little less mysterious. | tr '
+' ' '...
 
 
 

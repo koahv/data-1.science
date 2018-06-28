@@ -12,7 +12,8 @@ tags: [Ardour (software), MIDI, Audacity (audio editor), Digital audio workstati
 
 #### Extract
 >When it comes to creativity, people are always assuming that a Mac is best, even in today&#8217;s Windows-centric ecosystem. As a result, so few people actually know about the diverse landscape of Linux-based tools and suites available, most of which for free. 10 Apps for Linux Musicians can use in 2018 1. Audacity Audacity has [&#8230;]
-The post 10 Applications Every Linux Using Musician Should Know About appeared first on Fossbytes....
+The post 10 Applications Every Linux Using Musician Should Know About appeared first on Fossbytes. | tr '
+' ' '...
 
 
 

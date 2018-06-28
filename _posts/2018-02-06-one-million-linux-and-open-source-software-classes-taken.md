@@ -11,7 +11,8 @@ tags: []
 
 
 #### Extract
->Getting an IT job today starts with taking Linux and open-source classes....
+>Getting an IT job today starts with taking Linux and open-source classes. | tr '
+' ' '...
 
 
 

@@ -11,7 +11,8 @@ tags: [Protein, Nanotechnology, Peptide, Prion, Amyloid, Nanomaterials, Amino ac
 
 
 #### Extract
->Researchers of the Institute of Biotechnology and Biomedicine (IBB-UAB) have generated four peptides, molecules smaller than proteins, capable of self-assembling in a controlled manner to form nanomaterials. The research, published in the journal ACS Nano, was conducted by Salvador Ventura, Marta Díaz Caballero and Susanna Navarro (IBB-UAB), and included the collaboration of Isabel Fuentes and Francesc Teixidor (Institute of Materials Science of Barcelona, ICMAB-CSIC)....
+>Researchers of the Institute of Biotechnology and Biomedicine (IBB-UAB) have generated four peptides, molecules smaller than proteins, capable of self-assembling in a controlled manner to form nanomaterials. The research, published in the journal ACS Nano, was conducted by Salvador Ventura, Marta Díaz Caballero and Susanna Navarro (IBB-UAB), and included the collaboration of Isabel Fuentes and Francesc Teixidor (Institute of Materials Science of Barcelona, ICMAB-CSIC). | tr '
+' ' '...
 
 
 

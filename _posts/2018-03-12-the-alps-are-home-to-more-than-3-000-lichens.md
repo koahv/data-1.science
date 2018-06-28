@@ -11,7 +11,8 @@ tags: [Lichen, Alps, Lichenology, Mars, Fungus, Research, Organisms, Biology, Na
 
 
 #### Extract
->Historically, the Alps have always played an emblematic role, being one of the largest continuous natural areas in Europe. With its numerous habitats, the mountain system is easily one of the richest biodiversity hotspots in Europe....
+>Historically, the Alps have always played an emblematic role, being one of the largest continuous natural areas in Europe. With its numerous habitats, the mountain system is easily one of the richest biodiversity hotspots in Europe. | tr '
+' ' '...
 
 
 

@@ -13,7 +13,8 @@ tags: [Augmented reality, Software development kit, Android (operating system), 
 #### Extract
 >Advancements in augmented reality (AR) technologies have unearthed possibilities that previously were restricted to our imaginations. Today, it's possible to use sophisticated computer-produced vision to augment our physical environment in entirely new and captivating ways.
 
-read more...
+read more | tr '
+' ' '...
 
 
 

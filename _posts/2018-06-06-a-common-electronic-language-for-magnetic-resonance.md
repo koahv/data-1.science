@@ -11,7 +11,8 @@ tags: [Molecule, Spectroscopy, Chemistry, Chemist, Atom, Organic chemistry, Nucl
 
 
 #### Extract
->The standards used to re-transcribed the collected data in organic chemistry is however specific to each laboratory, making it difficult to export the information electronically. An international team has developed a new common electronic language around two main features: it translates the data of each molecule in exactly the same way and makes it simple to export it from one information system to another. ...
+>The standards used to re-transcribed the collected data in organic chemistry is however specific to each laboratory, making it difficult to export the information electronically. An international team has developed a new common electronic language around two main features: it translates the data of each molecule in exactly the same way and makes it simple to export it from one information system to another.  | tr '
+' ' '...
 
 
 

@@ -11,7 +11,8 @@ tags: [Milky Way, Astronomy, Universe, Star, Plasma cosmology, Dark matter, Astr
 
 
 #### Extract
->Novel computational methods have helped create the most information-packed universe-scale simulation ever produced. The new tool provides fresh insights into how black holes influence the distribution of dark matter, how heavy elements are produced and distributed throughout the cosmos, and where magnetic fields originate....
+>Novel computational methods have helped create the most information-packed universe-scale simulation ever produced. The new tool provides fresh insights into how black holes influence the distribution of dark matter, how heavy elements are produced and distributed throughout the cosmos, and where magnetic fields originate. | tr '
+' ' '...
 
 
 

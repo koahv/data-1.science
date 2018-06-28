@@ -13,7 +13,8 @@ tags: [Array data structure, Bash (Unix shell), Command-line interface, Array da
 #### Extract
 >Although software engineers regularly use the command line for many aspects of development, arrays are likely one of the more obscure features of the command line (although not as obscure as the regex operator =~). But obscurity and questionable syntax aside, Bash arrays can be very powerful.
 
-read more...
+read more | tr '
+' ' '...
 
 
 

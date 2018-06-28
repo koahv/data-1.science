@@ -12,7 +12,8 @@ tags: [Git, GitHub, Distributed version control, Free and open-source software, 
 
 #### Extract
 >Git is a version control system. Linus Torvalds created Git in 2005 for development of the Linux kernel. Git is mainly used for software source code management. However, it can be used to keep track of any set of files such as HTML or CSS or a tutorial written in the markup language. Git is a Distributed Version Control Systems. A dedicated Git server helps to manage access control, show contents of a Git repository via the web and manage multiple repositories.  In a Git, clients do not just check out the latest snapshots of the files. They entirely mirror the repository including history. 
-The post 6 Github alternatives that are open source and self-hosted appeared first on nixCraft....
+The post 6 Github alternatives that are open source and self-hosted appeared first on nixCraft. | tr '
+' ' '...
 
 
 

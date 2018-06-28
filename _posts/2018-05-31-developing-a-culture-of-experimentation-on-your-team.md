@@ -13,7 +13,8 @@ tags: [Experiment, Innovation, Hypothesis, Risk, Strategic management, Culture, 
 #### Extract
 >Most companies support the idea of incorporating innovation into their business strategies, as it can help increase market share and generate additional profits through new products or service offerings.
 
-read more...
+read more | tr '
+' ' '...
 
 
 

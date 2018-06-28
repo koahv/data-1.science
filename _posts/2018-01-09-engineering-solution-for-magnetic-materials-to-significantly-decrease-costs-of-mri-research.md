@@ -11,7 +11,8 @@ tags: [Magnetic resonance imaging, Medical imaging, Medical diagnosis, Rare-eart
 
 
 #### Extract
->Researchers from the NUST MISIS Engineering Center for Industrial Technologies have developed an innovative technology for the production of magnetic materials and permanent magnets at a reduced cost. This engineering solution will allow scientists to produce affordable and efficient domestic magnetic resonance imaging (MRI) devices for wide use in public health clinics. According to the developers' estimates, it will reduce the cost of analysis with new MRI technology by half....
+>Researchers from the NUST MISIS Engineering Center for Industrial Technologies have developed an innovative technology for the production of magnetic materials and permanent magnets at a reduced cost. This engineering solution will allow scientists to produce affordable and efficient domestic magnetic resonance imaging (MRI) devices for wide use in public health clinics. According to the developers' estimates, it will reduce the cost of analysis with new MRI technology by half. | tr '
+' ' '...
 
 
 

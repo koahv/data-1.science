@@ -11,7 +11,8 @@ tags: [Forest, Biodiversity, Ecosystem, Ecology, Tree, Soil, Productivity, Conse
 
 
 #### Extract
->For a decade, researchers explore how tree species diversity affects the coexistence of trees and their growth performance in the largest biodiversity experiment with trees worldwide, the so-called "BEF-China' experiment. One of the main interests of the BEF-China team is to explore the relationship between tree diversity and multiple ecosystem functions, specifically those benefitting society, such as wood production or the mitigation of soil erosion....
+>For a decade, researchers explore how tree species diversity affects the coexistence of trees and their growth performance in the largest biodiversity experiment with trees worldwide, the so-called "BEF-China' experiment. One of the main interests of the BEF-China team is to explore the relationship between tree diversity and multiple ecosystem functions, specifically those benefitting society, such as wood production or the mitigation of soil erosion. | tr '
+' ' '...
 
 
 

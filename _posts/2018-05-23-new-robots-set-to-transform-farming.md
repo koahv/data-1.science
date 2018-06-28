@@ -11,7 +11,8 @@ tags: [Precision agriculture, Unmanned aerial vehicle, Herbicide, Agriculture, U
 
 
 #### Extract
->European consumers expect a clean supply chain and biodiversity to be conserved. Therefore, reducing the inputs of pesticides and chemical fertilisers to a minimum and/or replacing them by agro-ecological or robot solutions is required. Furthermore, the average age of European farmers is among the highest of all sectors, thus farming needs to attract young people with attractive working opportunities....
+>European consumers expect a clean supply chain and biodiversity to be conserved. Therefore, reducing the inputs of pesticides and chemical fertilisers to a minimum and/or replacing them by agro-ecological or robot solutions is required. Furthermore, the average age of European farmers is among the highest of all sectors, thus farming needs to attract young people with attractive working opportunities. | tr '
+' ' '...
 
 
 

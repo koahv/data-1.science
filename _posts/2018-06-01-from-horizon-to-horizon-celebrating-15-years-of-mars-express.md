@@ -16,7 +16,8 @@ tags: [Tharsis, Mars, Valles Marineris, Ascraeus Mons, Planetary science, Planet
 		
 Fifteen years ago, ESA’s Mars Express was launched to investigate the Red Planet. To mark this milestone comes a striking view of Mars from horizon to horizon, showcasing one of the most intriguing parts of the martian surface.
 
-	...
+	 | tr '
+' ' '...
 
 
 

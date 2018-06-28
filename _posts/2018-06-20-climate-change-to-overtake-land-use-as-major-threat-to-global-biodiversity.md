@@ -11,7 +11,8 @@ tags: [Biodiversity, Ecology, Climate change, Human impact on the environment, N
 
 
 #### Extract
->Climate change will have a rapidly increasing effect on the structure of global ecological communities over the next few decades, with amphibians and reptiles being significantly more affected than birds and mammals, a new report finds. ...
+>Climate change will have a rapidly increasing effect on the structure of global ecological communities over the next few decades, with amphibians and reptiles being significantly more affected than birds and mammals, a new report finds.  | tr '
+' ' '...
 
 
 

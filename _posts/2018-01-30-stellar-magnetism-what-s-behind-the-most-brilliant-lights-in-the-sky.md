@@ -11,7 +11,8 @@ tags: [Magnetic reconnection, Star, Solar flare, Sun, Aurora, Solar wind, Galaxy
 
 
 #### Extract
->(University of Wisconsin-Madison) Space physicists at University of Wisconsin-Madison have just released unprecedented detail on a bizarre phenomenon that powers the northern lights, solar flares and coronal mass ejections (the biggest explosions in our solar system)....
+>(University of Wisconsin-Madison) Space physicists at University of Wisconsin-Madison have just released unprecedented detail on a bizarre phenomenon that powers the northern lights, solar flares and coronal mass ejections (the biggest explosions in our solar system). | tr '
+' ' '...
 
 
 

@@ -11,7 +11,8 @@ tags: [Neutron, Battery (electricity), Tomography, Fuel, Research, Medical imagi
 
 
 #### Extract
->A team of researchers has now published a comprehensive overview of neutron-based imaging processes. The authors report on the latest developments in neutron tomography, illustrating the possible applications using examples of this non-destructive method. Neutron tomography has facilitated breakthroughs in so diverse areas such as art history, battery research, dentistry, energy materials, industrial research, magnetism, palaeobiology and plant physiology. ...
+>A team of researchers has now published a comprehensive overview of neutron-based imaging processes. The authors report on the latest developments in neutron tomography, illustrating the possible applications using examples of this non-destructive method. Neutron tomography has facilitated breakthroughs in so diverse areas such as art history, battery research, dentistry, energy materials, industrial research, magnetism, palaeobiology and plant physiology.  | tr '
+' ' '...
 
 
 

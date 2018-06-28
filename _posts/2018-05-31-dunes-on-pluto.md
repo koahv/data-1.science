@@ -12,7 +12,8 @@ tags: [Sputnik Planitia, New Horizons, Pluto, Planets of the Solar System, Plane
 
 #### Extract
 >Planetary scientists think they’ve found wind-built ripples of methane ice on the king of the Kuiper Belt.
-The post Dunes on Pluto appeared first on Sky &amp; Telescope....
+The post Dunes on Pluto appeared first on Sky &amp; Telescope. | tr '
+' ' '...
 
 
 

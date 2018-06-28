@@ -11,7 +11,8 @@ tags: [Insecticide, Bacteria, Insect, Aphid, Insect repellent, Ecology, Organism
 
 
 #### Extract
->Traditional insecticides are killers: they not only kill pests, they also endanger bees and other beneficial insects, as well as affecting biodiversity in soils, lakes, rivers and seas. A team has now developed an alternative: A biodegradable agent that keeps pests at bay without poisoning them. ...
+>Traditional insecticides are killers: they not only kill pests, they also endanger bees and other beneficial insects, as well as affecting biodiversity in soils, lakes, rivers and seas. A team has now developed an alternative: A biodegradable agent that keeps pests at bay without poisoning them.  | tr '
+' ' '...
 
 
 

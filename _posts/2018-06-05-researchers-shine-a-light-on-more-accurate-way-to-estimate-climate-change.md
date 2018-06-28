@@ -11,7 +11,8 @@ tags: [Photosynthesis, Ecosystem, Carbon cycle, Earth, Physical geography, Natur
 
 
 #### Extract
->By using satellite data from different major land-based ecosystems around the globe, researchers have found that the photosynthesis glow is the same across all vegetation, no matter the location. This first-of-its-kind global analysis could have significance in providing more accurate data for scientists working to model carbon cycle and eventually help better project climate change. ...
+>By using satellite data from different major land-based ecosystems around the globe, researchers have found that the photosynthesis glow is the same across all vegetation, no matter the location. This first-of-its-kind global analysis could have significance in providing more accurate data for scientists working to model carbon cycle and eventually help better project climate change.  | tr '
+' ' '...
 
 
 

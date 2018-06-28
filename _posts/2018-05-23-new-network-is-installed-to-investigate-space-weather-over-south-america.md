@@ -11,7 +11,8 @@ tags: [Geomagnetic storm, Aurora, Solar flare, Earth, Solar phenomena, Space sci
 
 
 #### Extract
->A group of Brazilian researchers affiliated with the National Space Research Institute (INPE) is working to install a network comprised of magnetometers (instruments used to measure the intensity of a magnetic field) across South America....
+>A group of Brazilian researchers affiliated with the National Space Research Institute (INPE) is working to install a network comprised of magnetometers (instruments used to measure the intensity of a magnetic field) across South America. | tr '
+' ' '...
 
 
 

@@ -11,7 +11,8 @@ tags: [Plant, American Association for the Advancement of Science, Arabidopsis t
 
 
 #### Extract
->(University of Wisconsin-Madison) The latest resupply mission to the International Space Station delivered hundreds of seeds to the spacefaring research lab Sunday, Dec. 17, to test how plants grow in the stressful environment of zero gravity....
+>(University of Wisconsin-Madison) The latest resupply mission to the International Space Station delivered hundreds of seeds to the spacefaring research lab Sunday, Dec. 17, to test how plants grow in the stressful environment of zero gravity. | tr '
+' ' '...
 
 
 

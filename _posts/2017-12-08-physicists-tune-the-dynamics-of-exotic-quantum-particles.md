@@ -11,7 +11,8 @@ tags: [Physics, Spin (physics), Fermion, Electron, Weyl semimetal, Quasiparticle
 
 
 #### Extract
->Physicists at West Virginia University have discovered a way to control a newly discovered quantum particle, potentially leading to faster computers and other electronic devices....
+>Physicists at West Virginia University have discovered a way to control a newly discovered quantum particle, potentially leading to faster computers and other electronic devices. | tr '
+' ' '...
 
 
 

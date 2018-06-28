@@ -11,7 +11,8 @@ tags: [Sun, Mars, Solar Dynamics Observatory, Bodies of the Solar System, Planet
 
 
 #### Extract
->NASA's Solar Dynamics Observatory came across an oddity that the spacecraft has rarely observed before: a dark filament encircling an active region (Oct. 29-31, 2017). Solar filaments are clouds of charged particles that float above the sun, tethered to it by magnetic forces....
+>NASA's Solar Dynamics Observatory came across an oddity that the spacecraft has rarely observed before: a dark filament encircling an active region (Oct. 29-31, 2017). Solar filaments are clouds of charged particles that float above the sun, tethered to it by magnetic forces. | tr '
+' ' '...
 
 
 

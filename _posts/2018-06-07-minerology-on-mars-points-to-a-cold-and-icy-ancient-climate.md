@@ -11,7 +11,8 @@ tags: [Compact Reconnaissance Imaging Spectrometer for Mars, Mars, Volcano, Eart
 
 
 #### Extract
->(Purdue University) The climate throughout Mars' early history has long been debated -- was the Red Planet warm and wet, or cold and icy? New research published in Icarus provides evidence for the latter....
+>(Purdue University) The climate throughout Mars' early history has long been debated -- was the Red Planet warm and wet, or cold and icy? New research published in Icarus provides evidence for the latter. | tr '
+' ' '...
 
 
 

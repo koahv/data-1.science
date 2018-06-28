@@ -11,7 +11,8 @@ tags: [Light, Quantum mechanics, Physics, Spin ice, Photon, Magnetic field, Spin
 
 
 #### Extract
->What is light? It sounds like a simple question, but it is one that has occupied some of the best scientific minds for centuries....
+>What is light? It sounds like a simple question, but it is one that has occupied some of the best scientific minds for centuries. | tr '
+' ' '...
 
 
 

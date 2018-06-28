@@ -11,7 +11,8 @@ tags: [Lawrence Berkeley National Laboratory, Metabolism, Biofuel, Systems biolo
 
 
 #### Extract
->Scientists from the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) have developed a way to use machine learning to dramatically accelerate the design of microbes that produce biofuel....
+>Scientists from the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) have developed a way to use machine learning to dramatically accelerate the design of microbes that produce biofuel. | tr '
+' ' '...
 
 
 

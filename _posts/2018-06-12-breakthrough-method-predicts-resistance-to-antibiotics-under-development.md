@@ -11,7 +11,8 @@ tags: [Antibiotics, Antimicrobial resistance, Evolution, Medication, Directed ev
 
 
 #### Extract
->Given the ever-increasing threat of antibiotic resistance, European researchers have developed a method to rapidly test new antibiotic candidates for their potential to be hit by emerging resistance. The high-throughput mutagenesis method, dubbed DIvERGE, reveals probable resistance within days, making it a fast and cost-effective tool to guide antibiotic development. Moreover, DIvERGE has widespread biotechnological applications including the directed evolution of enzymes and biosynthetic pathways....
+>Given the ever-increasing threat of antibiotic resistance, European researchers have developed a method to rapidly test new antibiotic candidates for their potential to be hit by emerging resistance. The high-throughput mutagenesis method, dubbed DIvERGE, reveals probable resistance within days, making it a fast and cost-effective tool to guide antibiotic development. Moreover, DIvERGE has widespread biotechnological applications including the directed evolution of enzymes and biosynthetic pathways. | tr '
+' ' '...
 
 
 

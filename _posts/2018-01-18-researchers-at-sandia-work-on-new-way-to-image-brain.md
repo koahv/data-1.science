@@ -11,7 +11,8 @@ tags: [Magnetoencephalography, Magnetometer, SQUID, Brain, Neuroimaging, Magneti
 
 
 #### Extract
->Sandia National Laboratories researchers want to use small magnetic sensors to image the brain in a way that's simpler and less expensive than the magnetoencephalography system now used....
+>Sandia National Laboratories researchers want to use small magnetic sensors to image the brain in a way that's simpler and less expensive than the magnetoencephalography system now used. | tr '
+' ' '...
 
 
 

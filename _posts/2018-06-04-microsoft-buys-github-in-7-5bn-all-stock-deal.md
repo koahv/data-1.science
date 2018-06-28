@@ -14,7 +14,8 @@ tags: [GitHub, Microsoft, Xamarin, Technology, Digital media, Software, Computin
 > 
         
          Weekend rumours confirmed - price tag even more than the wildest rumours suggested
-         ...
+          | tr '
+' ' '...
 
 
 

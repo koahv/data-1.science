@@ -11,7 +11,8 @@ tags: [Bash (Unix shell), Command-line interface, Shell (computing), Online and 
 
 
 #### Extract
->There are thousands of tools, utilities, and programs that come pre-installed on a Linux system. You can run them from a terminal window or virtual console as commands via a shell such as Bash.&#46;&#46;&#46;...
+>There are thousands of tools, utilities, and programs that come pre-installed on a Linux system. You can run them from a terminal window or virtual console as commands via a shell such as Bash.&#46;&#46;&#46; | tr '
+' ' '...
 
 
 

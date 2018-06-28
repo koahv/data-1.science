@@ -11,7 +11,8 @@ tags: [CERN, Large Hadron Collider, CentOS, Technology, Science and technology, 
 
 
 #### Extract
->Title:&nbsp;How CERN Is Using Linux and Open Source24 MayLearn more...
+>Title:&nbsp;How CERN Is Using Linux and Open Source24 MayLearn more | tr '
+' ' '...
 
 
 
