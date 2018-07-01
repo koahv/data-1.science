@@ -135,7 +135,7 @@ while IFS=$'\n' read -r line_data; do # < post_data/id.txt
 	# rm post_data/${split_date_1[0]}-$mod_title1.md
 
 	# write post
-	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: ${split_date_0[0]}\\ncategories: $category\\nauthor: $author\\n$mod_tags\\n---\\n\\n\\n$mod_digest\\n\\n$mod_extract2\\n\\n$mod_factsheet\\n\\n[Visit Link]($link)\\n\\n" > post_data/${split_date_1[0]}-$mod_title1.md
+	echo -e "---\\nlayout: post\\ntitle: \"$title\"\\ndate: ${split_date_0[0]}\\ncategories: $category\\nauthor: $author\\n$mod_tags\\n---\\n\\n\\n$mod_digest\\n\\n$mod_extract2\\n\\n$mod_factsheet\\n\\n[Visit Link]($link)\\n\\n" > post_data/${split_date_0[0]}-$mod_title1.md
 
 #tags: [$mod_tags]\\n
 
