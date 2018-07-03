@@ -1,24 +1,17 @@
-Photonics
-Quantum dot
-Quantum mechanics
-Silicon photonics
+Superconductivity
 Quantum computing
-Single-photon source
-Photon
-Light
-Quantum optics
-Electron
+Physics
+Computer network
+Computer
+Electronic circuit
+Atom
+Superconducting quantum computing
+Technology
+Computing
+Electronics
+Quantum mechanics
+Solid state engineering
+Electromagnetism
+Mechanics
 Modern physics
 Particle physics
-Optics
-Electromagnetic radiation
-Mechanics
-Condensed matter physics
-Physical chemistry
-Atomic, molecular, and optical physics
-Physical sciences
-Solid state engineering
-Materials science
-Chemistry
-Physics
-Applied and interdisciplinary physics
