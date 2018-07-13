@@ -11,7 +11,7 @@ tags: [Localhost, Port (computer networking), Patch (computing), Computer securi
 
 
 #### Extract
->Every Linux system will benefit from more security, especially if it contains sensitive data. With so many resources available on the internet, one might think that securing Linux has become easy. We know it is not. It takes a good amount of understanding about how the Linux kernel works and the operating system principles. In this guide, we will help you to get this understanding and provide you with tips and tools. The final result should be a secure Linux [...]
+>Every Linux system will benefit from more security, especially if it contains sensitive data. With so many resources available on the internet, one might think that securing Linux has become easy. We know it is not. Linux system hardening takes a good amount of understanding about how the Linux kernel works. It also requires a good understanding of the operating system principles. In this guide, we will help you to get this understanding and provide you with tips and tools. The [...]
 The post How to secure a Linux system appeared first on Linux Audit....
 
 
