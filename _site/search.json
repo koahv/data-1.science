@@ -38,6 +38,24 @@
   
     {
     
+      "title"    : "The State of Machine Learning in DevOps",
+      "url"      : "/the-state-of-machine-learning-in-devops/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "The Future of Drones in Artificial Intelligence",
+      "url"      : "/the-future-of-drones-in-artificial-intelligence/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
       "title"    : "Qbits for Cubists: Robots Made These Incredible Works of Fine Art",
       "url"      : "/qbits-for-cubists-robots-made-these-incredible-works-of-fine-art/",
       "category" : "Science",
@@ -74,6 +92,24 @@
   
     {
     
+      "title"    : "New artificial intelligence index tracks the emerging field",
+      "url"      : "/new-artificial-intelligence-index-tracks-the-emerging-field/",
+      "category" : "Science",
+      "tags"     : "Artificial intelligence, Speech recognition, Intelligence, Technology"
+      
+    } ,
+  
+    {
+    
+      "title"    : "NASA Is Planning the First-Ever Interstellar Mission",
+      "url"      : "/nasa-is-planning-the-first-ever-interstellar-mission/",
+      "category" : "Science",
+      "tags"     : "Spacecraft propulsion, Space probe, Solar sail, NASA, Exoplanet, Aerospace, Spaceflight technologies, Spacecraft, Space science, Flight, Spaceflight, Outer space, Astronomy, Astronautics"
+      
+    } ,
+  
+    {
+    
       "title"    : "Molecular clock could greatly improve smartphone navigation",
       "url"      : "/molecular-clock-could-greatly-improve-smartphone-navigation/",
       "category" : "Science",
@@ -92,10 +128,28 @@
   
     {
     
+      "title"    : "Machine intelligence on the ISS",
+      "url"      : "/machine-intelligence-on-the-iss/",
+      "category" : "Science",
+      "tags"     : "NASA, International Space Station, European Space Agency, Artificial intelligence, Eagle Nebula, Astronaut, Astronomy, Outer space, Spaceflight, Astronautics"
+      
+    } ,
+  
+    {
+    
       "title"    : "Linguistics team using Ohio Supercomputer Center to translate lesser-known languages",
       "url"      : "/linguistics-team-using-ohio-supercomputer-center-to-translate-lesser-known-languages/",
       "category" : "Science",
       "tags"     : "Language, Graphics processing unit, Central processing unit, Language acquisition, Linguistics, Parsing, Computing, Cognition, Technology, Culture, Cognitive science"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Innovation in 2018: GE Ventures Experts Look Ahead",
+      "url"      : "/innovation-in-2018-ge-ventures-experts-look-ahead/",
+      "category" : "Technology",
+      "tags"     : "3D printing, Cloud computing, Technology, Health care, Renewable energy, Solar power, Electricity generation, Analytics, Computing, General Electric, Innovation, Software, Artificial objects"
       
     } ,
   
@@ -110,10 +164,28 @@
   
     {
     
+      "title"    : "Improving stroke treatment through machine learning",
+      "url"      : "/improving-stroke-treatment-through-machine-learning/",
+      "category" : "Science",
+      "tags"     : "Optogenetics, Brain, Computer vision, Visual perception, Science, Research, Stroke, Collaboratory, Neuroscience, Physical therapy, Cognition, Technology, Cognitive science, Nervous system, Culture, Psychological concepts"
+      
+    } ,
+  
+    {
+    
       "title"    : "Improving clinical trials with machine learning",
       "url"      : "/improving-clinical-trials-with-machine-learning/",
       "category" : "Science",
       "tags"     : "Stroke, Statistics, Machine learning, Brain, Brain damage, University College London, American Association for the Advancement of Science, Complexity, Statistical hypothesis testing, Research, Cognitive science, Medicine, Neuroscience, Health, Science, Cognition"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Important Machine Learning Algorithms",
+      "url"      : "/important-machine-learning-algorithms/",
+      "category" : "Technology",
+      "tags"     : ""
       
     } ,
   
@@ -146,6 +218,24 @@
   
     {
     
+      "title"    : "First molecules discovered using artificial intelligence head to development",
+      "url"      : "/first-molecules-discovered-using-artificial-intelligence-head-to-development/",
+      "category" : "Technology",
+      "tags"     : "Insilico Medicine, Drug discovery, Medication, Artificial intelligence, Ageing, Biotechnology, Technology, Life sciences, Biology, Medicine, Health sciences, Health, Medical research, Science, Science and technology, Artificial objects, Health care"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Engineers design artificial synapse for “brain-on-a-chip” hardware",
+      "url"      : "/engineers-design-artificial-synapse-for-brain-on-a-chip-hardware/",
+      "category" : "Science",
+      "tags"     : "Artificial neural network, Neuromorphic engineering, Brain, Technology, Neuroscience, Artificial objects"
+      
+    } ,
+  
+    {
+    
       "title"    : "Drug discovery could accelerate hugely with machine learning",
       "url"      : "/drug-discovery-could-accelerate-hugely-with-machine-learning/",
       "category" : "Science",
@@ -159,6 +249,15 @@
       "url"      : "/deep-learning-for-drug-discovery-with-keras/",
       "category" : "Technology",
       "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "China Is Building a $2.1 Billion Industrial Park for AI Research",
+      "url"      : "/china-is-building-a-2-1-billion-industrial-park-for-ai-research/",
+      "category" : "Science",
+      "tags"     : "Artificial intelligence, China, Human activities, Technology, Culture, Science and technology"
       
     } ,
   
@@ -209,10 +308,28 @@
   
     {
     
+      "title"    : "Artificial intelligence diagnoses asthma, identifies subtypes",
+      "url"      : "/artificial-intelligence-diagnoses-asthma-identifies-subtypes/",
+      "category" : "Science",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
       "title"    : "Artificial intelligence and accessible theater for the deaf and blind",
       "url"      : "/artificial-intelligence-and-accessible-theater-for-the-deaf-and-blind/",
       "category" : "Technology",
       "tags"     : "Innovation, Accessibility, American Association for the Advancement of Science, Augmented reality, Visual impairment, Subtitle (captioning), Sign language, Science and technology, Cognitive science, Culture, Cognition, Human activities, Technology, Communication"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Applying machine learning to the universe&#39;s mysteries",
+      "url"      : "/applying-machine-learning-to-the-universe-s-mysteries/",
+      "category" : "Science",
+      "tags"     : "Quarkgluon plasma, Particle physics, Physics, Matter, Nuclear physics, Office of Science, Quark, Atom, Physical sciences, Science"
       
     } ,
   
@@ -227,10 +344,28 @@
   
     {
     
+      "title"    : "AI Can Diagnose Heart Disease and Lung Cancer More Accurately Than Doctors",
+      "url"      : "/ai-can-diagnose-heart-disease-and-lung-cancer-more-accurately-than-doctors/",
+      "category" : "Science",
+      "tags"     : "Medical diagnosis, Artificial intelligence, Medicine, Health, Health care, Health sciences, Medical specialties, Clinical medicine"
+      
+    } ,
+  
+    {
+    
       "title"    : "A Linux Sysadmin’s Guide to Network Management, Troubleshooting and Debugging",
       "url"      : "/a-linux-sysadmin-s-guide-to-network-management-troubleshooting-and-debugging/",
       "category" : "Linux",
       "tags"     : "Name server, Ping (networking utility), Traceroute, Firewall (computing), Domain Name System, Port (computer networking), Internet Control Message Protocol, Ifconfig, Computer network, Transmission Control Protocol, Netfilter, Network packet, IP address, Internet Protocol, Cyberspace, Internet, Digital technology, Computer architecture, Internet Standards, Data transmission, Computing, Internet protocols, Computer networking, Network protocols, Communications protocols, Internet architecture, Network architecture, Telecommunications, Network layer protocols, Protocols, Networking standards"
+      
+    } ,
+  
+    {
+    
+      "title"    : "A 20-Minute Overview of Google DeepMind in Just 20 Minutes [Video]",
+      "url"      : "/a-20-minute-overview-of-google-deepmind-in-just-20-minutes-video/",
+      "category" : "Technology",
+      "tags"     : ""
       
     } ,
   
