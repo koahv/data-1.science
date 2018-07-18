@@ -2,6 +2,384 @@
   
     {
     
+      "title"    : "What Are Data Science and Machine Learning?",
+      "url"      : "/what-are-data-science-and-machine-learning/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "UK delivers super-cool kit to USA for Next-Generation Dark Matter Experiment",
+      "url"      : "/uk-delivers-super-cool-kit-to-usa-for-next-generation-dark-matter-experiment/",
+      "category" : "Science",
+      "tags"     : "Weakly-interacting massive particles, Large Underground Xenon experiment, Dark matter, Physics, Matter, Physical sciences, Nature, Particle physics, Chemistry, Applied and interdisciplinary physics, Science"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Top 8 Deep Learning Frameworks",
+      "url"      : "/top-8-deep-learning-frameworks/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "The Future of Automated Testing",
+      "url"      : "/the-future-of-automated-testing/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "The big ethical questions for artificial intelligence in healthcare",
+      "url"      : "/the-big-ethical-questions-for-artificial-intelligence-in-healthcare/",
+      "category" : "Technology",
+      "tags"     : "Artificial intelligence, Health care, Bioethics, Medical ethics, Nuffield Council on Bioethics, Ethics, Risk, American Association for the Advancement of Science, Research, Health, Human activities, Medicine, Science"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Team develops new generation of artificial neural networks able to predict properties of organic compounds",
+      "url"      : "/team-develops-new-generation-of-artificial-neural-networks-able-to-predict-properties-of-organic-compounds/",
+      "category" : "Science",
+      "tags"     : "Solubility, Solution, Bioconcentration, Machine learning, Chemical substance, Prediction, Molecule, Physics, Chemistry, Applied and interdisciplinary physics, Nature, Physical sciences"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Stephen Hawking reveals what existed before the Big Bang",
+      "url"      : "/stephen-hawking-reveals-what-existed-before-the-big-bang/",
+      "category" : "Technology",
+      "tags"     : "Time, Stephen Hawking, Space, Physical quantities, Metaphysics, Science, Physical sciences, Spacetime, Physics"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Satellites, supercomputers, and machine learning provide real-time crop type data",
+      "url"      : "/satellites-supercomputers-and-machine-learning-provide-real-time-crop-type-data/",
+      "category" : "Science",
+      "tags"     : "National Center for Supercomputing Applications, Infrared, American Association for the Advancement of Science, Landsat program, Technology, Science and technology"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Platform uses artificial intelligence to diagnose Zika and other pathogens",
+      "url"      : "/platform-uses-artificial-intelligence-to-diagnose-zika-and-other-pathogens/",
+      "category" : "Technology",
+      "tags"     : "Zika fever, Infection, Virus, Reverse transcription polymerase chain reaction, Biomarker, Research, Biology, Clinical medicine, Medical specialties, Life sciences, Medicine, Health sciences"
+      
+    } ,
+  
+    {
+    
+      "title"    : "NYSCF researchers develop novel bioengineering technique for personalized bone grafts",
+      "url"      : "/nyscf-researchers-develop-novel-bioengineering-technique-for-personalized-bone-grafts/",
+      "category" : "Science",
+      "tags"     : "Tissue engineering, Bone, Regenerative medicine, Health, Biotechnology, Medicine, Biology, Health sciences, Medical specialties, Life sciences, Clinical medicine"
+      
+    } ,
+  
+    {
+    
+      "title"    : "New software helps detect adaptive genetic mutations",
+      "url"      : "/new-software-helps-detect-adaptive-genetic-mutations/",
+      "category" : "Science",
+      "tags"     : "Mutation, Evolution, Thrifty gene hypothesis, Genetics, Research, Statistical hypothesis testing, Selective sweep, Machine learning, Gene, Statistics, Adaptation, Biological evolution, Evolutionary biology, Organisms, Biology, Life sciences"
+      
+    } ,
+  
+    {
+    
+      "title"    : "New magnetic anomaly map helps unveil Antarctica",
+      "url"      : "/new-magnetic-anomaly-map-helps-unveil-antarctica/",
+      "category" : "Science",
+      "tags"     : "Antarctica, Global warming, Sea level rise, Planets of the Solar System, Earth sciences, Physical geography, Nature, Physical sciences, Global natural environment, Geology, Climate, Climatology, Planetary science"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Microsoft’s AI push to help disabled",
+      "url"      : "/microsoft-s-ai-push-to-help-disabled/",
+      "category" : "Science",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "Machine learning finds tumor gene variants and sensitivity to drugs in The Cancer Genome Atlas",
+      "url"      : "/machine-learning-finds-tumor-gene-variants-and-sensitivity-to-drugs-in-the-cancer-genome-atlas/",
+      "category" : "Science",
+      "tags"     : "Cancer, Genetics, Ras subfamily, Neoplasm, Mutation, The Cancer Genome Atlas, Medicine, Machine learning, Precision medicine, Molecular biology, Organisms, Health sciences, Biochemistry, Biology, Life sciences, Biotechnology"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Leveraging Artificial Intelligence to Tide Over Education Crisis",
+      "url"      : "/leveraging-artificial-intelligence-to-tide-over-education-crisis/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "Leading the Way in the Ethical Use of AI",
+      "url"      : "/leading-the-way-in-the-ethical-use-of-ai/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "Jupiter’s Moons: 12 More Found, 79 Known",
+      "url"      : "/jupiter-s-moons-12-more-found-79-known/",
+      "category" : "Astronomy",
+      "tags"     : "Moons of Jupiter, Retrograde and prograde motion, Jupiter, Planets of the Solar System, Astronomical objects known since antiquity, Gas giants, Outer planets, Planemos, Moons, Physical sciences, Outer space, Local Interstellar Cloud, Planets, Astronomical objects, Bodies of the Solar System, Astronomy, Planetary science, Solar System, Space science"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Human Aspects of Machine Learning",
+      "url"      : "/human-aspects-of-machine-learning/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "How to promote your open source project",
+      "url"      : "/how-to-promote-your-open-source-project/",
+      "category" : "Linux",
+      "tags"     : "Software, Open-source software, Ubuntu (operating system), Linux distribution, Linux, Website, Marketing, Image scanner, Computing, Digital media, Intellectual works, Technology, Computer engineering"
+      
+    } ,
+  
+    {
+    
+      "title"    : "How To - Linux List Disk Partitions Command",
+      "url"      : "/how-to-linux-list-disk-partitions-command/",
+      "category" : "Linux",
+      "tags"     : "Master boot record, GUID Partition Table, Disk partitioning, Device file, Unified Extensible Firmware Interface, Cylinder-head-sector, Disk storage, Computing, Computer data, Computer data storage, Office equipment, x86 architecture, Areas of computer science, Personal computers, Microcomputers, Utility software, IBM PC compatibles, Storage software, Computer hardware, Computer engineering, Software, Operating system technology, Computers, System software, Computer architecture"
+      
+    } ,
+  
+    {
+    
+      "title"    : "How is artificial intelligence changing science?",
+      "url"      : "/how-is-artificial-intelligence-changing-science/",
+      "category" : "Science",
+      "tags"     : "Artificial intelligence, Deep learning, Science, Machine learning, Artificial objects, Cognitive science, Technology"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Google&#39;s AI program: Building better algorithms for detecting eye disease",
+      "url"      : "/google-s-ai-program-building-better-algorithms-for-detecting-eye-disease/",
+      "category" : "Technology",
+      "tags"     : "Diabetic retinopathy, Retinopathy, Retina, Ophthalmology, Artificial intelligence, Clinical medicine, Medical specialties, Health sciences, Health care, Health, Medicine"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Genetic Algorithms with Apache Ignite",
+      "url"      : "/genetic-algorithms-with-apache-ignite/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "Feeding Future Generations With AI",
+      "url"      : "/feeding-future-generations-with-ai/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "Face recognition technology that works in the dark",
+      "url"      : "/face-recognition-technology-that-works-in-the-dark/",
+      "category" : "Science",
+      "tags"     : "Facial recognition system, Forward looking infrared, Artificial neural network, Deep learning, Biometrics, Surveillance, Technology, Cognitive science, Cognition, Areas of computer science, Artificial objects"
+      
+    } ,
+  
+    {
+    
+      "title"    : "ECOSTRESS launches to space station on SpaceX mission",
+      "url"      : "/ecostress-launches-to-space-station-on-spacex-mission/",
+      "category" : "Science",
+      "tags"     : "SpaceX Dragon, International Space Station, SpaceX, NASA, Mobile Servicing System, Cape Canaveral Air Force Station, Spacecraft, Planet, Jet Propulsion Laboratory, Aerospace engineering, Flight, Space programs, Astronautics, Astronomy, Spaceflight technologies, Outer space, Spaceflight"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Deep learning: A superhuman way to look at cells",
+      "url"      : "/deep-learning-a-superhuman-way-to-look-at-cells/",
+      "category" : "Technology",
+      "tags"     : "Artificial intelligence, Deep learning, Gladstone Institutes, Artificial neural network, Machine learning, Cognitive science, Biology, Cognition, Science and technology, Nervous system, Neuroscience"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Chemists harness artificial intelligence to predict the future (of chemical reactions)",
+      "url"      : "/chemists-harness-artificial-intelligence-to-predict-the-future-of-chemical-reactions/",
+      "category" : "Science",
+      "tags"     : "Prediction, Machine learning, Chemist, Chemistry, Organic chemistry, Random forest, Chemical reaction, Research, Chemical substance, Physical chemistry, Statistics, Physical sciences"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Chemical synthesis with artificial intelligence: Researchers develop new computer method",
+      "url"      : "/chemical-synthesis-with-artificial-intelligence-researchers-develop-new-computer-method/",
+      "category" : "Science",
+      "tags"     : "Artificial neural network, Chemical substance, Computer, Deep learning, Monte Carlo method, Chemist, Chemistry, Monte Carlo tree search, Chess, Organic chemistry, Artificial intelligence, Chemical reaction, AlphaGo, Science, Cognitive science, Cognition, Science and technology, Technology, Human activities"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Atomic-scale manufacturing now a reality",
+      "url"      : "/atomic-scale-manufacturing-now-a-reality/",
+      "category" : "Technology",
+      "tags"     : "Automation, Technology, Information Age, American Association for the Advancement of Science, Nanotechnology, Artificial objects, Science and technology, Culture, Human activities"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Artificial Intelligence improves stroke and dementia diagnosis in most common brain scan",
+      "url"      : "/artificial-intelligence-improves-stroke-and-dementia-diagnosis-in-most-common-brain-scan/",
+      "category" : "Science",
+      "tags"     : "Stroke, Neuroimaging, Dementia, Medical diagnosis, Magnetic resonance imaging, CT scan, Hypertension, Health, Medicine, Clinical medicine, Medical specialties, Health sciences, Health care, Diseases and disorders"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Applying machine learning tools to earthquake data offers new insights",
+      "url"      : "/applying-machine-learning-tools-to-earthquake-data-offers-new-insights/",
+      "category" : "Science",
+      "tags"     : "Earthquake, Machine learning, Seismology, Research, Sound, Cluster analysis, Geothermal energy, Learning"
+      
+    } ,
+  
+    {
+    
+      "title"    : "AI technology could help protect water supplies",
+      "url"      : "/ai-technology-could-help-protect-water-supplies/",
+      "category" : "Science",
+      "tags"     : "Artificial intelligence, Research, Cyanobacteria, Engineering, American Association for the Advancement of Science, System, Technology, Science, Water, Automation, Science and technology, Artificial objects, Biology"
+      
+    } ,
+  
+    {
+    
+      "title"    : "AI Programming: 5 Most Popular AI Programming Languages",
+      "url"      : "/ai-programming-5-most-popular-ai-programming-languages/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "3 Emacs modes for taking notes",
+      "url"      : "/3-emacs-modes-for-taking-notes/",
+      "category" : "OpenSource",
+      "tags"     : "Computer file, Emacs, Software, Digital media, Cyberspace, Digital technology, World Wide Web, Technology, Communication, Intellectual works, Computing"
+      
+    } ,
+  
+    {
+    
+      "title"    : "11 Open-Source Frameworks for AI and Machine Learning Models",
+      "url"      : "/11-open-source-frameworks-for-ai-and-machine-learning-models/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "10 Machine Learning Algorithms You Should Know to Become a Data Scientist",
+      "url"      : "/10-machine-learning-algorithms-you-should-know-to-become-a-data-scientist/",
+      "category" : "Technology",
+      "tags"     : ""
+      
+    } ,
+  
+    {
+    
+      "title"    : "Researchers engineer bacteria to create fertilizer out of thin air",
+      "url"      : "/researchers-engineer-bacteria-to-create-fertilizer-out-of-thin-air/",
+      "category" : "Science",
+      "tags"     : "Cyanothece, Nitrogen fixation, Plant, Fertilizer, Photosynthesis, Synechocystis, Cyanobacteria, Biology, Natural environment, Nature"
+      
+    } ,
+  
+    {
+    
+      "title"    : "AI accurately predicts effects of genetic mutations in biological dark matter",
+      "url"      : "/ai-accurately-predicts-effects-of-genetic-mutations-in-biological-dark-matter/",
+      "category" : "Science",
+      "tags"     : "Mutation, Gene, Genetics, Noncoding DNA, Genome, Gene expression, Biology, DNA, Hepatitis B virus, Protein, Scientific method, Research, Science, Biochemistry, Molecular biology, Organisms, Biotechnology, Life sciences"
+      
+    } ,
+  
+    {
+    
+      "title"    : "A step closer to quantum computers: NUS researchers show how to directly observe quantum spin effects",
+      "url"      : "/a-step-closer-to-quantum-computers-nus-researchers-show-how-to-directly-observe-quantum-spin-effects/",
+      "category" : "Science",
+      "tags"     : "Quantum mechanics, Quantum computing, Electron, Computing, Computer, Topological insulator, Electricity, Spin (physics), Scientist, Science, Microscope, National University of Singapore, Light, Engineering, Physics, Technology"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Open Cars Kick-Off Conference",
+      "url"      : "/open-cars-kick-off-conference/",
+      "category" : "OpenSource",
+      "tags"     : "Autonomous car, Car, Open-source software, Aftermarket (automotive), Technology, Artificial objects, Intellectual works, Automobiles, Vehicles, Computing"
+      
+    } ,
+  
+    {
+    
+      "title"    : "Making solar hydrogen generation more efficient in microgravity",
+      "url"      : "/making-solar-hydrogen-generation-more-efficient-in-microgravity/",
+      "category" : "Science",
+      "tags"     : "Electrolysis, Hydrogen, Catalysis, Electrolysis of water, Rhodium, Thin-film solar cell, Water, Photoelectrochemical cell, Electrochemistry, Chemistry, Artificial objects, Nature, Applied and interdisciplinary physics, Materials, Physical sciences, Physical chemistry"
+      
+    } ,
+  
+    {
+    
       "title"    : "XSEDE supercomputer allocations on Stampede1 and Comet help sample protein folding in bone regeneration study",
       "url"      : "/xsede-supercomputer-allocations-on-stampede1-and-comet-help-sample-protein-folding-in-bone-regeneration-study/",
       "category" : "Science",
