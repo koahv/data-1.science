@@ -1,14 +1,12 @@
-Algae fuel
-Biofuel
-Fossil fuel
-Fuel
-Energy
-Sustainable development
-Natural resources
-Energy production
-Alternative energy
-Sustainable technologies
-Fuels
-Energy sources
-Artificial objects
-Nature
+AWK
+Scripting language
+Usability
+Digital technology
+Intellectual works
+Digital media
+Information technology
+Technology
+Areas of computer science
+Cyberspace
+Software
+Computing
