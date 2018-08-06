@@ -1,12 +1,9 @@
-AWK
-Scripting language
-Usability
-Digital technology
-Intellectual works
-Digital media
-Information technology
-Technology
-Areas of computer science
-Cyberspace
-Software
-Computing
+Circadian rhythm
+Brain
+Neocortex
+Neuroscience
+Human
+Cognition
+Biology
+Cognitive science
+Nervous system
