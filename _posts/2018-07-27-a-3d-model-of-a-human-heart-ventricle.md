@@ -4,7 +4,7 @@ title: "A 3D model of a human heart ventricle"
 date: 2018-07-27
 categories: Science
 author: unknown author
-tags: [Tissue engineering, Heart, American Association for the Advancement of Science, Medicine, Biology]
+tags: [Tissue engineering, Heart, American Association for the Advancement of Science, Medicine, Biology, Featured]
 ---
 
 

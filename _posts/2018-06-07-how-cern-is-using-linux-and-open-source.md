@@ -4,7 +4,7 @@ title: "How CERN Is Using Linux and Open Source"
 date: 2018-06-07
 categories: Linux
 author: arnieswap
-tags: [CERN, Large Hadron Collider, CentOS, Technology, Science and technology, Computing]
+tags: [CERN, Large Hadron Collider, CentOS, Technology, Science and technology, Computing, Featured]
 ---
 
 

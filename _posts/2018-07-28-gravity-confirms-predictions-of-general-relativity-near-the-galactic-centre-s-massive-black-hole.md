@@ -4,7 +4,7 @@ title: "GRAVITY confirms predictions of general relativity near the galactic cen
 date: 2018-07-28
 categories: Science
 author: unknown author
-tags: [European Southern Observatory, Milky Way, Black hole, Gravity, General relativity, Very Large Telescope, Dark matter, Supermassive black hole, Astronomy, Star, Sagittarius A, Physical quantities, Mechanics, Science, Spacetime, Physics, Physical sciences]
+tags: [European Southern Observatory, Milky Way, Black hole, Gravity, General relativity, Very Large Telescope, Dark matter, Supermassive black hole, Astronomy, Star, Sagittarius A, Physical quantities, Mechanics, Science, Spacetime, Physics, Physical sciences, Featured]
 ---
 
 

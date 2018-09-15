@@ -4,7 +4,7 @@ title: "Image: Sun's magnetic field modeled"
 date: 2018-08-18
 categories: Science
 author: unknown author
-tags: [Sun, Solar Dynamics Observatory, Milky Way, Supermassive black hole, Astronomical objects, Stellar astronomy, Sky, Solar System, Astronomy, Physical sciences, Outer space, Space science]
+tags: [Sun, Solar Dynamics Observatory, Milky Way, Supermassive black hole, Astronomical objects, Stellar astronomy, Sky, Solar System, Astronomy, Physical sciences, Outer space, Space science, Featured]
 ---
 
 

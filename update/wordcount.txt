@@ -1,1795 +1,2036 @@
-4430 
-1236 the
-1169 of
-748 to
-658 in
-631 s
-447 a
-439 for
-414 and
-372 new
-310 on
-283 how
-216 is
-208 quantum
-191 nasa
-190 from
-187 first
-182 linux
-181 space
-157 earth
-148 brain
-147 with
-142 what
-138 scientists
-131 world
-117 at
-116 human
-115 mars
-114 years
-108 evolution
-107 study
-103 researchers
-100 by
- 94 that
- 91 light
- 90 solar
- 90 open
- 89 magnetic
- 89 are
- 88 dna
- 84 energy
- 83 time
- 83 life
- 82 source
- 79 universe
- 79 million
- 77 dark
- 76 an
- 75 can
- 72 mission
- 68 system
- 68 more
- 68 matter
- 67 may
- 66 into
- 64 moon
- 64 be
- 62 year
- 62 reveals
- 62 its
- 62 as
- 61 cells
- 59 way
- 59 our
- 57 why
- 56 deep
- 55 ocean
- 55 it
- 55 climate
- 54 we
- 54 most
- 53 will
- 53 spacecraft
- 53 could
- 53 ancient
- 52 than
- 52 humans
- 52 data
- 51 waves
- 51 genome
- 49 using
- 49 gravitational
- 49 gene
- 48 water
- 48 map
- 48 jupiter
- 47 future
- 46 like
- 45 research
- 45 learning
- 44 pluto
- 44 physicists
- 44 artificial
- 43 image
- 43 high
- 43 have
+5249 
+1445 the
+1368 of
+927 to
+788 in
+708 s
+581 a
+546 for
+508 and
+451 new
+373 on
+342 how
+272 quantum
+252 is
+227 linux
+213 first
+211 from
+210 space
+202 nasa
+190 with
+169 earth
+167 what
+161 brain
+157 open
+156 scientists
+148 world
+141 source
+136 evolution
+130 human
+128 years
+127 at
+123 study
+122 magnetic
+120 researchers
+120 mars
+109 by
+108 that
+107 light
+106 are
+ 98 dna
+ 96 solar
+ 96 learning
+ 93 time
+ 93 dark
+ 92 energy
+ 92 artificial
+ 89 more
+ 89 can
+ 88 an
+ 87 life
+ 85 universe
+ 84 ocean
+ 84 million
+ 84 matter
+ 81 system
+ 81 into
+ 80 mission
+ 78 data
+ 73 reveals
+ 73 as
+ 72 way
+ 71 moon
+ 71 its
+ 71 be
+ 70 why
+ 70 could
+ 69 machine
+ 69 cells
+ 68 may
+ 67 intelligence
+ 66 year
+ 66 most
+ 66 climate
+ 65 our
+ 65 future
+ 63 research
+ 61 deep
+ 60 using
+ 60 it
+ 59 than
+ 57 will
+ 57 we
+ 57 genome
+ 56 use
+ 56 spacecraft
+ 56 physicists
+ 56 ancient
+ 54 waves
+ 54 water
+ 54 humans
+ 54 gravitational
+ 52 jupiter
+ 52 gene
+ 51 about
+ 50 map
+ 50 image
+ 50 high
+ 49 like
+ 49 discovered
+ 48 planet
+ 48 genetic
+ 47 gravity
+ 47 computer
+ 47 change
+ 46 up
+ 46 sun
+ 46 have
+ 46 discovery
+ 45 your
+ 45 pluto
+ 45 development
+ 45 black
+ 44 telescope
+ 44 satellite
+ 44 record
+ 44 history
+ 44 day
+ 44 computing
+ 43 weather
+ 43 science
+ 43 plants
+ 43 one
  43 global
- 43 discovered
- 42 planet
- 42 history
- 42 genetic
- 42 discovery
- 42 about
- 41 weather
- 41 use
- 41 satellite
- 41 day
+ 43 found
+ 43 billion
+ 42 field
+ 42 create
+ 41 shows
+ 40 reveal
  40 power
- 40 one
- 40 found
- 40 fossil
- 40 black
- 40 billion
+ 40 big
+ 40 between
  39 today
- 39 telescope
- 39 shows
- 38 sun
- 38 record
- 38 change
- 37 up
- 37 gravity
- 37 evolutionary
+ 39 software
+ 39 red
+ 39 physics
+ 39 old
+ 39 now
+ 39 next
+ 39 fossil
+ 39 evolutionary
+ 38 photos
+ 38 early
+ 38 discover
+ 37 station
+ 37 evolved
+ 37 do
+ 37 d
+ 37 cancer
  36 sea
- 36 photos
- 36 old
- 36 development
- 36 computing
- 35 science
- 35 reveal
- 35 field
- 35 early
- 35 discover
- 35 computer
- 34 your
- 33 wind
- 33 red
- 33 hubble
+ 36 photosynthesis
+ 36 make
+ 36 large
+ 36 cell
+ 35 wind
+ 35 understanding
+ 34 test
+ 34 single
+ 34 project
+ 34 hubble
+ 33 two
+ 33 help
+ 33 free
  33 after
- 32 station
- 32 plants
+ 32 us
+ 32 through
+ 32 oceans
+ 32 long
+ 32 experiment
  32 editing
- 32 do
- 32 create
- 32 cancer
- 32 big
- 32 between
- 31 x
- 31 physics
- 31 now
- 31 next
- 31 large
- 31 evolved
- 29 us
- 29 understanding
- 29 through
- 29 make
- 29 experiment
- 29 d
+ 32 chip
+ 31 wave
+ 31 their
+ 31 technology
+ 31 over
+ 31 engineering
+ 31 command
+ 31 ai
+ 31 ago
+ 30 x
+ 30 top
+ 30 species
+ 30 particle
+ 30 molecular
+ 30 look
+ 30 foundation
+ 30 finds
+ 29 largest
+ 29 hole
+ 29 has
+ 29 china
+ 29 breakthrough
+ 29 before
  29 atmosphere
- 28 test
- 28 photosynthesis
- 28 machine
- 28 long
- 28 intelligence
- 28 has
- 28 engineering
- 28 ago
- 27 wave
- 27 two
- 27 molecular
+ 29 all
+ 28 you
+ 28 structure
+ 28 security
+ 28 plant
+ 28 off
+ 28 mystery
+ 28 key
+ 28 genes
+ 28 find
+ 28 evidence
+ 28 ever
+ 28 back
+ 27 tool
+ 27 team
+ 27 saturn
  27 ice
- 27 find
- 27 cell
- 27 before
- 27 back
- 26 saturn
- 26 over
- 26 off
- 26 look
- 26 largest
- 26 help
- 26 genes
- 26 finds
- 26 evidence
- 26 ever
- 25 tool
- 25 their
- 25 technology
- 25 structure
- 25 single
+ 27 drug
+ 27 atomic
+ 26 theory
+ 26 out
+ 26 not
+ 26 news
+ 26 model
+ 26 launches
+ 26 insights
+ 26 inside
+ 26 develop
+ 26 comet
+ 26 birds
+ 26 best
+ 26 based
+ 25 video
+ 25 state
+ 25 speed
+ 25 show
  25 renewable
- 25 project
- 25 particle
  25 or
- 25 foundation
- 25 comet
- 25 chip
- 25 breakthrough
- 25 birds
- 24 times
- 24 species
- 24 plant
- 24 out
- 24 oceans
- 24 not
- 24 mystery
- 24 mercury
- 24 key
- 24 hole
- 24 best
- 23 video
- 23 top
- 23 security
- 23 news
- 23 horizons
- 23 free
- 23 collider
- 23 carbon
- 23 age
- 22 this
- 22 star
- 22 software
- 22 fossils
- 22 formation
- 22 command
- 22 china
+ 25 mercury
+ 25 images
+ 25 collider
+ 25 better
+ 24 watch
+ 24 three
+ 24 this
+ 24 supercomputer
+ 24 step
+ 24 stars
+ 24 star
+ 24 made
+ 24 just
+ 24 horizons
+ 24 helps
+ 24 formation
+ 24 disease
+ 24 complex
+ 24 age
+ 23 tools
+ 23 times
+ 23 t
+ 23 nature
+ 23 living
+ 23 launch
+ 23 international
+ 23 fossils
+ 23 esa
+ 23 computers
+ 23 closer
+ 23 body
+ 22 modern
+ 22 memory
+ 22 liftoff
+ 22 kernel
+ 22 information
+ 22 health
+ 22 grow
+ 22 control
  22 changes
- 22 atomic
- 21 theory
- 21 surface
- 21 speed
- 21 revealed
- 21 launches
- 21 launch
- 21 kernel
- 21 inside
- 21 health
- 21 disease
- 21 complex
+ 21 when
+ 21 systems
+ 21 origin
+ 21 google
+ 21 generation
+ 21 galaxy
+ 21 crispr
+ 21 commands
  21 com
- 21 all
+ 21 clues
+ 21 atoms
  20 was
- 20 stars
- 20 show
- 20 percent
- 20 nature
- 20 model
- 20 living
- 20 giant
- 20 galaxy
- 20 clues
- 20 closer
- 19 you
- 19 when
- 19 t
- 19 state
- 19 oldest
- 19 memory
- 19 international
- 19 insights
- 19 images
+ 20 surface
+ 20 sense
+ 20 revealed
+ 20 oxygen
+ 20 makes
+ 20 hadron
+ 20 faster
+ 20 entanglement
+ 20 building
+ 19 work
+ 19 toward
+ 19 tiny
+ 19 tech
+ 19 set
+ 19 sentinel
+ 19 other
+ 19 making
+ 19 impact
+ 19 hat
+ 19 great
+ 19 giant
+ 19 food
  19 engine
- 19 drug
+ 19 does
  19 dinosaur
- 19 commands
- 19 atoms
- 18 watch
- 18 three
- 18 team
- 18 supercomputer
- 18 step
- 18 origin
- 18 modern
- 18 maps
- 18 made
- 18 hadron
- 18 grow
- 18 great
- 18 faster
- 18 esa
- 18 crispr
- 18 computers
+ 19 design
+ 19 core
+ 19 code
+ 19 build
+ 19 atom
+ 18 used
+ 18 take
+ 18 super
+ 18 shape
+ 18 search
+ 18 schizophrenia
+ 18 real
+ 18 rare
+ 18 percent
+ 18 part
+ 18 oldest
+ 18 neanderthals
+ 18 method
+ 18 materials
+ 18 introduction
+ 18 improve
+ 18 identify
+ 18 holes
+ 18 galileo
+ 18 chemical
  18 channel
- 18 body
- 18 better
- 17 tiny
- 17 systems
- 17 super
+ 18 carbon
+ 18 beyond
+ 17 webb
+ 17 they
+ 17 takes
+ 17 synthetic
+ 17 spin
  17 seen
- 17 schizophrenia
- 17 risk
- 17 rare
- 17 powered
+ 17 results
  17 planets
- 17 liftoff
+ 17 offers
+ 17 molecule
+ 17 learn
  17 last
- 17 information
- 17 impact
- 17 food
- 17 five
- 17 entanglement
- 17 dinosaurs
- 17 develop
- 17 core
- 17 control
- 17 code
- 17 brings
- 17 beyond
- 17 based
+ 17 lab
+ 17 known
+ 17 function
+ 17 fuel
+ 17 fish
+ 17 fields
+ 17 europe
+ 17 electricity
+ 17 einstein
+ 17 different
+ 17 cern
+ 17 bird
+ 17 biological
+ 17 begins
+ 17 animals
  17 animal
- 16 view
- 16 they
- 16 shape
- 16 set
- 16 search
- 16 ray
- 16 oxygen
- 16 neanderthals
- 16 learn
- 16 identify
- 16 holes
- 16 helps
- 16 hat
+ 16 without
+ 16 unique
+ 16 titan
+ 16 supercomputers
+ 16 successfully
+ 16 secrets
+ 16 resolution
+ 16 replay
+ 16 releases
+ 16 released
+ 16 radiation
+ 16 process
+ 16 predict
+ 16 powerful
+ 16 particles
+ 16 neutron
+ 16 network
+ 16 line
+ 16 iot
  16 galaxies
- 16 fish
- 16 does
- 16 different
- 16 build
- 16 bird
- 16 begins
- 15 webb
- 15 toward
- 15 tools
- 15 takes
- 15 take
- 15 sentinel
- 15 secrets
- 15 results
- 15 resolution
- 15 released
- 15 origins
+ 16 efficient
+ 16 effects
+ 16 effect
+ 16 diversity
+ 16 dinosaurs
+ 16 detector
+ 16 but
+ 16 biodiversity
+ 16 astronomers
+ 16 activity
+ 15 yet
+ 15 view
+ 15 trees
+ 15 things
+ 15 testing
+ 15 technique
+ 15 strong
+ 15 so
+ 15 size
+ 15 second
+ 15 role
+ 15 revolution
+ 15 ray
+ 15 protein
+ 15 powered
+ 15 popular
+ 15 plans
+ 15 people
+ 15 past
+ 15 own
+ 15 organic
+ 15 orbit
+ 15 neutrino
+ 15 molecules
  15 milky
- 15 line
- 15 just
+ 15 mechanism
+ 15 massive
+ 15 mapping
+ 15 lhc
+ 15 laser
+ 15 know
+ 15 juno
+ 15 internet
+ 15 important
  15 identified
+ 15 growth
  15 get
- 15 generation
- 15 function
- 15 fuel
  15 flight
- 15 electricity
+ 15 five
+ 15 explore
+ 15 examples
+ 15 evolve
+ 15 crops
+ 15 cloud
+ 15 clock
  15 brains
- 15 astronomers
- 15 animals
- 14 trees
- 14 titan
- 14 testing
- 14 tech
- 14 second
- 14 real
- 14 protein
- 14 powerful
- 14 plans
- 14 people
- 14 past
- 14 other
- 14 orbit
- 14 neutrino
- 14 network
+ 14 venus
+ 14 survive
+ 14 report
+ 14 radio
+ 14 provides
+ 14 programming
+ 14 origins
+ 14 observed
  14 mysterious
- 14 mechanism
- 14 makes
- 14 laser
- 14 lab
- 14 juno
+ 14 mysteries
+ 14 mass
+ 14 maps
+ 14 live
+ 14 level
+ 14 let
+ 14 hydrogen
  14 hunt
- 14 galileo
+ 14 green
+ 14 getting
  14 fundamental
- 14 fields
- 14 europe
- 14 einstein
+ 14 form
+ 14 fast
+ 14 extreme
+ 14 electrons
+ 14 electric
  14 earliest
  14 diet
- 14 daily
+ 14 developed
+ 14 created
  14 cosmic
- 14 but
- 14 biological
- 14 atom
+ 14 confirms
+ 14 common
+ 14 brings
+ 14 benefits
+ 14 being
+ 14 behind
+ 14 behavior
  14 alien
- 14 activity
- 13 work
- 13 unique
- 13 technique
- 13 synthetic
+ 13 where
+ 13 u
+ 13 turn
+ 13 there
  13 support
- 13 supercomputers
- 13 successfully
- 13 size
- 13 sense
+ 13 storage
+ 13 silicon
+ 13 see
  13 rosetta
- 13 replay
- 13 provides
- 13 process
+ 13 rocket
+ 13 properties
  13 probe
- 13 popular
+ 13 possible
  13 patterns
- 13 own
  13 org
  13 orbiter
- 13 offers
- 13 mass
- 13 mapping
- 13 making
- 13 let
+ 13 neutrinos
+ 13 measurements
+ 13 measure
+ 13 marine
+ 13 major
+ 13 link
+ 13 less
+ 13 language
  13 landing
- 13 known
- 13 internet
- 13 improve
- 13 google
+ 13 land
+ 13 journey
+ 13 india
+ 13 here
+ 13 guide
+ 13 goes
  13 gas
+ 13 four
  13 force
- 13 extreme
- 13 explore
- 13 electric
+ 13 experiments
  13 drive
- 13 detector
- 13 design
- 13 crops
+ 13 current
  13 completes
- 13 cern
  13 blood
+ 13 bang
  13 around
- 12 yet
- 12 warming
+ 13 analysis
+ 13 advance
+ 13 action
  12 vision
- 12 venus
- 12 used
- 12 third
- 12 things
- 12 strong
+ 12 under
+ 12 uk
+ 12 tree
  12 stem
- 12 see
- 12 radio
- 12 radiation
+ 12 sheds
+ 12 shed
+ 12 scale
+ 12 satellites
+ 12 rover
+ 12 robots
+ 12 release
+ 12 reality
+ 12 precision
  12 pi
  12 phys
- 12 part
- 12 neutrinos
- 12 marine
- 12 live
- 12 link
- 12 journey
- 12 japan
- 12 iot
+ 12 photon
+ 12 observatory
+ 12 nuclear
+ 12 neural
+ 12 models
+ 12 mind
+ 12 milestone
+ 12 material
+ 12 jet
+ 12 james
  12 io
+ 12 intel
+ 12 insight
  12 infographic
- 12 india
- 12 goes
- 12 fast
+ 12 imaging
+ 12 exploring
+ 12 exotic
+ 12 engineers
  12 encrypt
- 12 electrons
- 12 efficient
- 12 effect
+ 12 efficiency
  12 dwarf
- 12 diversity
- 12 created
- 12 common
- 12 cloud
- 12 clock
+ 12 difference
+ 12 did
+ 12 device
  12 children
- 12 building
- 12 biodiversity
- 12 being
- 12 behavior
+ 12 captures
+ 12 boson
  12 affects
- 12 advance
- 12 action
- 11 where
+ 11 week
+ 11 warming
  11 volcanic
- 11 tree
- 11 there
- 11 survive
+ 11 together
+ 11 tissue
+ 11 third
+ 11 temperature
+ 11 technologies
  11 supermassive
- 11 some
- 11 so
- 11 snake
- 11 shed
+ 11 south
+ 11 six
  11 sets
- 11 scale
- 11 satellites
- 11 rover
- 11 role
- 11 report
+ 11 self
+ 11 sees
+ 11 same
+ 11 risk
+ 11 revolutionary
+ 11 resistance
  11 repair
- 11 releases
- 11 rays
- 11 provide
- 11 particles
- 11 organic
- 11 optical
- 11 observatory
- 11 molecules
- 11 molecule
+ 11 public
+ 11 practical
+ 11 platform
+ 11 photons
+ 11 never
+ 11 networks
+ 11 moons
  11 mirror
- 11 mind
- 11 milestone
  11 miles
- 11 method
- 11 measure
- 11 massive
- 11 lhc
- 11 level
- 11 jet
- 11 james
- 11 intel
- 11 insight
+ 11 medicine
+ 11 many
+ 11 ligo
+ 11 lead
+ 11 launched
+ 11 japan
+ 11 instrument
  11 individual
- 11 important
- 11 form
+ 11 impacts
+ 11 i
+ 11 hot
+ 11 higgs
+ 11 hidden
+ 11 heat
+ 11 heart
+ 11 good
  11 facts
- 11 evolve
- 11 effects
- 11 distant
- 11 did
+ 11 extinction
+ 11 end
+ 11 down
+ 11 detecting
+ 11 detect
+ 11 daily
  11 curiosity
- 11 confirms
+ 11 color
+ 11 co
  11 clouds
- 11 chemical
- 11 boson
- 11 benefits
- 11 behind
- 11 bang
+ 11 close
+ 11 changing
+ 11 built
+ 11 beginners
+ 11 b
  11 away
- 11 analysis
- 11 amazon
+ 11 atlas
+ 11 approach
  11 alzheimer
  11 against
- 10 without
- 10 week
+ 11 advanced
+ 10 zero
+ 10 works
+ 10 within
+ 10 window
+ 10 vs
  10 unveils
- 10 tissue
+ 10 understand
+ 10 ultra
+ 10 turns
+ 10 treatment
+ 10 travel
+ 10 track
+ 10 towards
+ 10 torvalds
  10 timelapse
- 10 temperature
+ 10 them
+ 10 teeth
+ 10 target
+ 10 survey
  10 stress
+ 10 still
+ 10 stephen
+ 10 sources
+ 10 some
+ 10 snake
  10 sleep
- 10 six
- 10 sheds
- 10 same
- 10 revolutionary
- 10 revolution
- 10 release
- 10 reality
- 10 properties
+ 10 side
+ 10 scientific
+ 10 renewables
+ 10 really
+ 10 provide
+ 10 proteins
+ 10 program
  10 produce
  10 post
- 10 possible
- 10 planetary
- 10 observed
- 10 neutron
- 10 mysteries
- 10 measurements
- 10 materials
- 10 many
+ 10 picture
+ 10 phase
+ 10 performance
+ 10 nvidia
+ 10 novel
+ 10 needs
+ 10 neanderthal
+ 10 measured
  10 low
- 10 ligo
- 10 less
- 10 language
- 10 land
- 10 instrument
- 10 i
- 10 hydrogen
- 10 hot
- 10 higgs
- 10 hidden
- 10 here
- 10 growth
- 10 green
+ 10 linus
+ 10 leads
+ 10 languages
+ 10 industrial
+ 10 ibm
+ 10 hawking
+ 10 hardware
  10 glimpse
+ 10 git
+ 10 gets
+ 10 genomes
  10 gcc
- 10 extinction
- 10 exploring
- 10 exotic
+ 10 flying
+ 10 files
+ 10 eye
+ 10 explained
  10 entire
- 10 engineers
- 10 end
  10 edit
+ 10 during
+ 10 distant
+ 10 detects
  10 detected
- 10 co
- 10 close
+ 10 date
+ 10 controlling
  10 clean
- 10 built
+ 10 chemistry
+ 10 cellular
+ 10 cause
  10 biology
- 10 biggest
  10 bees
- 10 b
- 10 advanced
-  9 within
+ 10 become
+ 10 bacteria
+ 10 arctic
+ 10 applications
+ 10 ancestors
+ 10 amazon
+ 10 air
+ 10 advances
+ 10 access
+  9 yields
+  9 which
   9 wayland
-  9 views
-  9 under
+  9 volcanoes
+  9 unprecedented
   9 uncover
-  9 ultra
-  9 uk
-  9 u
   9 types
-  9 turns
-  9 turn
-  9 track
-  9 towards
-  9 thought
-  9 teeth
+  9 transition
+  9 training
+  9 tracking
+  9 tips
+  9 temperatures
   9 switch
-  9 storage
-  9 still
   9 steps
-  9 south
-  9 sources
-  9 silicon
-  9 sees
-  9 scientific
+  9 soil
+  9 smallest
+  9 small
+  9 site
+  9 simulations
+  9 simulation
+  9 signals
+  9 signal
+  9 sensitive
   9 says
   9 rex
   9 raspberry
-  9 public
+  9 q
+  9 protect
+  9 processes
   9 probes
-  9 predict
-  9 predator
-  9 picture
-  9 photon
+  9 precise
+  9 planetary
+  9 p
+  9 organisms
+  9 optical
   9 only
-  9 offer
-  9 nvidia
-  9 nuclear
-  9 novel
+  9 officially
+  9 non
   9 neurons
   9 neptune
-  9 neanderthal
-  9 models
-  9 leads
+  9 need
+  9 near
+  9 nanoscale
+  9 moves
+  9 mit
+  9 missions
+  9 might
+  9 microsoft
+  9 magnetism
+  9 lunar
+  9 linked
+  9 leading
   9 latest
-  9 know
-  9 introduction
-  9 impacts
-  9 heart
+  9 identifies
+  9 hyperloop
   9 half
   9 growing
-  9 genomes
+  9 geoengineering
   9 game
-  9 four
+  9 full
+  9 forests
   9 forest
-  9 flying
+  9 forces
+  9 fight
   9 feature
-  9 examples
-  9 efficiency
-  9 during
-  9 developed
-  9 detects
-  9 detect
-  9 date
-  9 color
+  9 explains
+  9 european
+  9 environment
+  9 enhanced
+  9 el
+  9 distance
+  9 devices
+  9 detail
+  9 creates
+  9 coming
+  9 clocks
   9 ceres
+  9 century
+  9 center
   9 cassini
-  9 captures
-  9 atlas
-  9 ancestors
+  9 business
+  9 bring
+  9 boost
+  9 bone
+  9 basic
+  9 bash
+  9 ants
+  9 algorithms
   9 africa
   9 adds
-  8 yields
-  8 works
-  8 window
+  9 achieves
+  8 worlds
+  8 who
   8 weekend
-  8 volcanoes
-  8 underwater
-  8 understand
+  8 van
   8 underground
   8 uncovered
-  8 travel
-  8 transition
-  8 training
-  8 them
-  8 temperatures
-  8 target
+  8 traits
+  8 thought
+  8 these
+  8 therapy
+  8 teleportation
   8 symmetry
   8 supernova
   8 sunlight
   8 suggests
   8 stable
   8 spot
-  8 spin
-  8 soil
-  8 smallest
-  8 site
-  8 signal
-  8 side
+  8 skin
+  8 should
   8 shell
-  8 self
-  8 rocket
-  8 resistance
-  8 renewables
+  8 share
+  8 robotic
+  8 returns
   8 ready
   8 re
-  8 proteins
+  8 qubit
+  8 projects
+  8 processing
   8 prehistoric
-  8 precise
+  8 predator
+  8 pole
   8 plan
-  8 phase
+  8 paves
   8 osiris
-  8 organisms
-  8 officially
-  8 never
+  8 opens
+  8 offer
   8 nearly
-  8 near
-  8 moves
-  8 moons
+  8 navigation
+  8 mutations
+  8 monitoring
+  8 microscope
+  8 microgravity
   8 messenger
   8 memories
-  8 measured
-  8 major
-  8 mail
-  8 lunar
+  8 measurement
   8 links
-  8 linked
+  8 laboratory
   8 keep
+  8 insects
   8 increases
-  8 ibm
-  8 hard
-  8 good
-  8 getting
-  8 gets
-  8 full
-  8 forces
-  8 focus
-  8 finding
+  8 improving
+  8 had
+  8 government
+  8 going
+  8 gives
+  8 fusion
+  8 findings
   8 file
-  8 fight
-  8 fermi
   8 family
-  8 explained
+  8 exploration
+  8 explainer
   8 explain
-  8 expected
-  8 european
+  8 experts
+  8 expanding
+  8 essential
   8 eruption
   8 environmental
+  8 electron
   8 electrical
-  8 el
-  8 down
   8 disorders
-  8 detecting
-  8 detail
-  8 current
+  8 disk
+  8 devops
+  8 developing
+  8 developers
+  8 delivers
+  8 death
+  8 days
+  8 darpa
   8 creatures
-  8 coming
-  8 circuits
-  8 changing
+  8 construction
+  8 confirm
+  8 complete
+  8 companies
   8 challenges
-  8 cellular
-  8 caused
-  8 cause
+  8 biggest
   8 beneath
   8 below
-  8 beginners
   8 bats
-  8 basic
+  8 autism
   8 astronomy
+  8 astronauts
   8 asteroids
+  8 asteroid
   8 arrives
-  8 approach
-  8 applications
-  8 ants
-  8 air
-  8 advances
-  8 achieves
-  8 access
-  7 zero
+  8 antimatter
+  8 anti
+  8 antarctic
+  8 another
+  8 announces
+  8 allen
+  8 ability
+  7 would
+  7 worldwide
   7 whole
-  7 who
+  7 ways
   7 viruses
   7 virus
-  7 van
+  7 vim
+  7 uses
+  7 useful
   7 update
+  7 unveiled
+  7 unlock
   7 trillion
-  7 traits
-  7 tracking
-  7 torvalds
-  7 together
+  7 thinking
   7 taste
-  7 survey
-  7 successful
+  7 synthesis
+  7 suggest
   7 stunning
   7 structures
-  7 stephen
+  7 states
+  7 started
+  7 standard
   7 spider
-  7 soon
+  7 solve
+  7 social
   7 smart
-  7 small
+  7 slow
   7 skulls
-  7 skin
-  7 simulation
+  7 skills
   7 significant
-  7 signals
-  7 share
+  7 sensor
   7 secret
-  7 russian
+  7 runs
   7 running
   7 run
+  7 room
+  7 rna
+  7 rise
   7 rich
-  7 returns
   7 related
-  7 really
+  7 reactions
   7 reaches
-  7 rain
+  7 rays
   7 radar
-  7 programming
-  7 program
-  7 processes
-  7 precision
-  7 practical
+  7 qubits
+  7 proton
+  7 progress
+  7 production
+  7 primate
+  7 prepares
+  7 potential
+  7 points
   7 point
-  7 platform
+  7 plasma
   7 pictures
-  7 photons
-  7 performance
-  7 paves
-  7 p
-  7 opens
-  7 neural
-  7 needs
-  7 monitoring
-  7 mit
-  7 missions
-  7 might
+  7 pacific
+  7 os
+  7 no
+  7 multiple
+  7 much
+  7 motion
+  7 monitor
   7 mental
-  7 medicine
-  7 martian
+  7 meet
   7 mapped
+  7 mantle
+  7 management
   7 mammals
-  7 lost
-  7 linus
-  7 lightning
+  7 magnetosphere
+  7 loss
+  7 list
+  7 lights
+  7 left
   7 led
-  7 lead
-  7 launched
+  7 leadership
+  7 kind
   7 kilometers
-  7 insects
-  7 increase
-  7 imaging
-  7 identifies
+  7 infrastructure
+  7 immune
   7 huge
-  7 heat
-  7 hawking
-  7 had
-  7 guide
-  7 government
-  7 going
-  7 gives
-  7 git
+  7 home
+  7 hold
+  7 grown
   7 genetically
-  7 gamma
-  7 forms
   7 flowers
-  7 findings
-  7 files
+  7 finally
   7 eyes
-  7 eye
-  7 exploration
-  7 explainer
-  7 experiments
-  7 expanding
   7 evolving
-  7 environment
+  7 era
+  7 elusive
+  7 eclipse
+  7 eating
   7 eat
+  7 drugs
+  7 driving
   7 drives
-  7 disk
+  7 diseases
   7 discoveries
-  7 difference
   7 detection
   7 detailed
-  7 days
+  7 decades
   7 critical
-  7 creates
-  7 confirm
+  7 conditions
+  7 complexity
   7 communication
   7 comes
   7 coal
-  7 clocks
+  7 clear
   7 cities
-  7 century
-  7 center
-  7 bring
+  7 circuits
+  7 caused
+  7 cat
+  7 capture
+  7 camera
   7 both
   7 born
-  7 bone
-  7 become
-  7 bacteria
-  7 autism
-  7 astronauts
-  7 asteroid
-  7 arctic
+  7 blocks
+  7 birth
+  7 belts
   7 architecture
-  7 anti
-  7 antarctic
-  7 announces
-  7 ancestor
   7 amber
-  7 allen
-  7 agriculture
   7 active
   7 across
-  7 ability
-  6 would
-  6 worldwide
-  6 worlds
+  7 accelerate
   6 working
+  6 winds
+  6 wild
   6 white
   6 web
-  6 vim
+  6 views
+  6 via
   6 venom
-  6 useful
   6 upgrade
-  6 unlock
   6 unknown
+  6 underwater
   6 ultimate
-  6 too
+  6 tropical
+  6 transform
+  6 tracks
+  6 toxic
+  6 total
+  6 topological
   6 timeline
-  6 tidal
-  6 thinking
+  6 think
+  6 thin
+  6 th
   6 term
-  6 teleportation
-  6 technologies
   6 targets
+  6 talk
+  6 taking
+  6 tail
   6 sustainable
-  6 suggest
+  6 successful
   6 studying
+  6 strange
   6 stop
+  6 spectacular
+  6 spacex
   6 spaceflight
-  6 snakes
+  6 soon
+  6 solved
   6 smell
   6 skull
-  6 simulations
   6 silk
+  6 sharks
   6 sequencing
-  6 sensitive
   6 sends
-  6 scotland
-  6 runs
-  6 room
-  6 rna
+  6 seeing
+  6 russian
+  6 robot
+  6 right
+  6 revolutionizing
   6 revolutionize
+  6 review
   6 return
+  6 resources
   6 reptile
-  6 q
-  6 proton
-  6 protect
-  6 projects
-  6 production
-  6 processing
+  6 reasons
+  6 random
+  6 rain
+  6 put
+  6 problem
   6 printing
-  6 primate
+  6 primates
   6 prevent
+  6 predictions
   6 predators
   6 population
-  6 pole
-  6 points
+  6 pollution
+  6 plastic
+  6 photonic
   6 photo
   6 per
-  6 pacific
   6 output
+  6 orbits
   6 online
-  6 non
-  6 noaa
-  6 networks
-  6 nanoscale
-  6 multiple
-  6 much
-  6 movements
+  6 observation
+  6 objects
+  6 north
+  6 musk
+  6 mri
+  6 move
   6 mountain
+  6 millions
   6 mile
-  6 microscope
-  6 microgravity
   6 meteorite
+  6 meets
   6 mechanical
-  6 measurement
   6 maven
-  6 material
-  6 mantle
-  6 management
+  6 martian
+  6 magnets
   6 magazine
-  6 looks
+  6 lost
   6 looking
-  6 list
-  6 lights
+  6 local
+  6 liquid
   6 lifetime
-  6 left
-  6 languages
-  6 laboratory
+  6 lasers
+  6 joins
+  6 jets
+  6 japanese
+  6 issues
   6 ion
-  6 industrial
-  6 improving
-  6 immune
-  6 illuminate
+  6 interior
+  6 infrared
+  6 if
+  6 hunting
+  6 hiv
+  6 highest
   6 higher
+  6 hearing
   6 healthy
+  6 hand
+  6 habitat
   6 guardian
-  6 grown
-  6 geoengineering
+  6 graphene
+  6 glaciers
+  6 github
   6 generate
-  6 forests
+  6 galactic
+  6 forward
+  6 focus
   6 flies
-  6 finally
+  6 finding
   6 final
+  6 facility
+  6 face
   6 extinct
-  6 explains
+  6 express
+  6 experimental
+  6 experience
+  6 exactly
+  6 everything
   6 event
-  6 essential
-  6 epic
+  6 even
+  6 eu
+  6 enterprise
+  6 engineer
   6 enceladus
+  6 enables
   6 emissions
   6 emergence
-  6 eating
+  6 elon
+  6 electronic
   6 dust
-  6 dscovr
-  6 driving
-  6 distance
-  6 diseases
-  6 delivers
-  6 deeper
+  6 drought
+  6 don
+  6 diverse
+  6 discovers
+  6 dioxide
+  6 dig
+  6 differences
+  6 desert
+  6 demonstrate
+  6 delivered
+  6 debian
   6 debate
-  6 death
-  6 darpa
+  6 currents
+  6 crystals
+  6 cretaceous
+  6 creating
+  6 counting
+  6 coral
+  6 controlled
   6 consumption
-  6 construction
-  6 conditions
   6 comprehensive
-  6 clear
+  6 communications
+  6 cold
   6 classical
+  6 city
   6 cave
   6 causes
-  6 cat
+  6 case
   6 cas
+  6 cars
   6 captured
-  6 capture
   6 bright
   6 breaks
+  6 breaking
+  6 board
   6 blue
-  6 blocks
   6 block
-  6 birth
-  6 belts
+  6 belt
   6 begin
+  6 beautiful
   6 battery
-  6 bash
   6 bad
   6 available
-  6 australia
-  6 antimatter
-  6 another
+  6 autonomous
   6 among
   6 amazing
+  6 alma
+  6 aging
+  6 agile
   6 affect
   6 addiction
   6 adaptation
+  6 acidification
+  6 accurate
   5 yield
-  5 winds
-  5 which
+  5 women
   5 whale
-  5 ways
-  5 vs
+  5 weyl
+  5 were
   5 volcano
   5 vitamin
   5 violent
   5 version
   5 vegetables
   5 variations
-  5 uses
-  5 unveiled
-  5 unprecedented
+  5 unlocking
+  5 unix
   5 ubuntu
-  5 treatment
-  5 total
+  5 tricks
+  5 trends
   5 tls
-  5 thunderstorm
-  5 think
-  5 these
-  5 therapy
-  5 th
+  5 threat
   5 tests
   5 teach
   5 talks
-  5 talk
-  5 tail
+  5 surprises
+  5 superconductor
+  5 summit
   5 studies
-  5 strange
-  5 states
   5 starts
-  5 standard
   5 stage
   5 st
   5 spots
-  5 spectacular
+  5 speech
   5 sound
-  5 solved
+  5 solution
   5 society
-  5 social
-  5 skills
-  5 since
-  5 sharks
+  5 snakes
+  5 sky
+  5 sized
+  5 simulates
+  5 simple
   5 shapes
-  5 sensor
+  5 shaped
+  5 sensors
   5 schiaparelli
   5 say
   5 save
-  5 robots
+  5 rules
   5 road
+  5 rivers
   5 risks
-  5 rise
   5 ring
-  5 right
+  5 rice
   5 rewrite
-  5 review
   5 revealing
   5 respond
-  5 resources
+  5 resistant
+  5 researcher
   5 region
+  5 recognition
+  5 reading
   5 rate
-  5 put
+  5 rapidly
+  5 race
+  5 questions
+  5 quasars
   5 propose
-  5 problem
-  5 primates
+  5 promises
+  5 problems
   5 pressure
-  5 prepares
-  5 potential
+  5 present
+  5 predicts
   5 plays
-  5 plasma
   5 plane
   5 place
   5 physical
   5 path
   5 passes
-  5 os
-  5 orbits
+  5 paradox
   5 orbiting
   5 operations
+  5 operating
   5 openshift
+  5 once
   5 older
+  5 oil
   5 observes
+  5 observe
+  5 observations
   5 o
-  5 north
+  5 numbers
+  5 number
   5 noise
-  5 no
   5 nino
+  5 night
   5 needed
-  5 need
-  5 navigation
+  5 natural
   5 nano
-  5 mutations
+  5 must
   5 music
+  5 multi
   5 moving
-  5 move
+  5 movie
   5 mosquito
   5 monster
   5 monkey
-  5 monitor
+  5 moment
+  5 modeling
+  5 minutes
   5 mini
-  5 millions
-  5 meet
+  5 methods
+  5 medical
+  5 mechanics
+  5 measuring
+  5 math
   5 man
   5 mammal
-  5 magnetism
-  5 loss
-  5 local
-  5 liquid
+  5 mail
+  5 lung
+  5 looks
   5 lines
   5 lightsail
-  5 leading
+  5 levels
+  5 leap
+  5 leaders
   5 landscape
-  5 joins
-  5 japanese
-  5 issues
+  5 join
+  5 islands
   5 invisible
-  5 interior
+  5 investigate
+  5 interact
+  5 installed
+  5 insect
+  5 inner
   5 ingredients
-  5 if
-  5 hyperloop
+  5 influences
+  5 industry
+  5 incredible
+  5 illuminate
+  5 icy
   5 hydrothermal
-  5 hunting
   5 humanity
-  5 hold
-  5 hiv
-  5 highest
-  5 hearing
+  5 hours
   5 hawaii
-  5 hardware
+  5 hard
   5 happens
-  5 graphene
   5 go
+  5 gnu
+  5 gmo
   5 glow
+  5 germany
   5 genetics
   5 gen
-  5 galactic
   5 fuels
   5 fruit
+  5 frequency
+  5 forms
+  5 forever
+  5 forecasts
   5 flows
+  5 feeding
   5 fastest
-  5 farm
-  5 face
+  5 farming
+  5 far
   5 explores
-  5 experimental
-  5 experience
+  5 expected
+  5 exoplanets
   5 exoplanet
   5 exomars
+  5 existed
   5 exist
-  5 exactly
-  5 even
-  5 era
   5 epigenetic
+  5 enzyme
   5 enters
-  5 engineer
+  5 enhance
+  5 english
+  5 endangered
   5 encryption
-  5 elusive
-  5 electron
+  5 enable
   5 each
-  5 drugs
-  5 drought
+  5 e
+  5 due
   5 double
-  5 don
   5 dns
-  5 dioxide
-  5 dig
-  5 device
-  5 developing
+  5 differently
+  5 diagnose
   5 destination
-  5 desert
   5 depression
-  5 demonstrate
-  5 delivered
+  5 defined
+  5 deepmind
   5 deepest
-  5 debian
+  5 decision
   5 deadly
+  5 database
   5 damage
-  5 currents
-  5 crystals
-  5 cretaceous
-  5 creating
-  5 counting
+  5 cycle
+  5 crop
   5 cosmos
-  5 coral
-  5 controlling
+  5 continues
   5 container
   5 confirmed
-  5 composition
-  5 complexity
-  5 complete
   5 compass
-  5 companies
-  5 cold
+  5 community
+  5 collision
   5 chinese
-  5 chemistry
-  5 cars
+  5 centre
+  5 celebrating
+  5 cases
   5 cannabis
-  5 camera
   5 came
   5 call
   5 c
-  5 business
   5 british
-  5 breaking
+  5 books
   5 blog
+  5 biotechnology
+  5 biotech
+  5 bioengineering
+  5 bioengineered
   5 bigger
-  5 belt
-  5 beautiful
+  5 barrier
   5 aws
   5 atmospheric
   5 area
-  5 alma
-  5 ai
-  5 aging
+  5 application
+  5 ancestor
+  5 algorithm
+  5 agriculture
   5 agency
   5 added
-  5 accurate
-  4 worms
+  5 adaptations
+  4 xenon
   4 wormhole
   4 won
-  4 wild
-  4 were
+  4 wireless
+  4 watches
+  4 wants
   4 walking
   4 voyage
   4 vortex
+  4 voice
   4 visual
   4 vast
-  4 vapor
   4 value
   4 valley
   4 users
+  4 usage
+  4 uranus
   4 updated
+  4 unveil
+  4 united
   4 unexpected
-  4 tricks
+  4 underlying
+  4 uncovers
+  4 type
+  4 turtles
   4 trend
-  4 toxic
+  4 treat
+  4 trapped
+  4 trap
+  4 transit
+  4 tracing
+  4 touch
+  4 tooth
+  4 too
+  4 tidal
   4 thousands
-  4 thin
   4 therapeutic
+  4 tested
   4 ten
-  4 taking
-  4 synthesis
   4 survival
-  4 surprises
   4 supermoon
-  4 superfast
-  4 superconductor
+  4 superconducting
   4 success
   4 subatomic
+  4 striking
   4 story
+  4 storm
   4 store
+  4 stopped
   4 steam
   4 spotted
   4 spinning
-  4 speech
   4 spectroscopy
   4 special
   4 spacetime
   4 solving
-  4 solve
-  4 slow
-  4 sky
+  4 solves
+  4 skyrmions
+  4 sixth
+  4 sites
+  4 since
+  4 similar
   4 signs
-  4 should
-  4 shaped
+  4 shedding
+  4 service
+  4 sequence
+  4 sensitivity
+  4 sensing
+  4 sending
   4 seeking
-  4 seeing
+  4 seeds
+  4 secure
   4 scripting
+  4 scotland
   4 scorpion
+  4 scientist
+  4 scales
   4 safe
+  4 roots
   4 rocks
-  4 robotic
-  4 rivers
+  4 robotics
   4 ripples
+  4 richard
   4 reverse
   4 result
-  4 resistant
-  4 researcher
+  4 rest
+  4 resonance
   4 reproduction
+  4 reports
+  4 remember
   4 remains
   4 regulatory
   4 regions
+  4 regeneration
   4 regenerate
+  4 reefs
   4 receptor
   4 receive
-  4 reading
   4 reach
-  4 rapidly
+  4 rapid
+  4 range
   4 rainforest
-  4 race
   4 r
-  4 qubits
-  4 qubit
-  4 quasars
+  4 quot
+  4 quark
+  4 quality
+  4 python
   4 puzzle
+  4 puts
   4 pushing
+  4 pulsar
   4 propulsion
   4 property
-  4 progress
-  4 problems
+  4 promise
+  4 primordial
+  4 prey
   4 preserved
-  4 present
   4 preparing
+  4 prediction
   4 precisely
+  4 practices
   4 portrait
   4 polarized
   4 poised
   4 plumage
   4 play
   4 plates
-  4 plastic
+  4 planning
+  4 places
   4 pick
   4 philae
+  4 personalized
   4 period
   4 peninsula
+  4 pattern
+  4 patients
   4 parts
+  4 outer
   4 organs
-  4 operating
   4 openstack
-  4 once
-  4 oil
   4 octopus
-  4 observe
-  4 observations
-  4 observation
-  4 objects
   4 object
   4 obesity
   4 nutrition
-  4 number
   4 northern
   4 nobel
+  4 noaa
   4 nine
-  4 night
+  4 neutral
   4 neuroscientists
+  4 networking
   4 nearest
   4 nbcnews
   4 navigate
-  4 natural
   4 mutation
-  4 must
-  4 musk
-  4 multi
-  4 motion
+  4 multiscale
+  4 movements
   4 mosquitoes
   4 month
-  4 moment
   4 moisture
   4 modified
+  4 minute
   4 mimic
+  4 migration
+  4 microbial
   4 metabolism
   4 messages
   4 men
   4 mechanisms
-  4 mechanics
-  4 math
+  4 matters
   4 master
   4 marks
   4 marijuana
-  4 magnetosphere
+  4 manager
+  4 malaria
+  4 magnetospheric
   4 magnet
+  4 machines
+  4 luminosity
+  4 longest
+  4 logic
   4 lizards
   4 lives
   4 listen
+  4 limit
   4 limb
   4 likely
+  4 lightning
   4 lifts
-  4 levels
   4 letters
-  4 legs
   4 legged
-  4 leap
-  4 leadership
+  4 leaves
   4 lapse
   4 lands
   4 km
-  4 kind
-  4 join
-  4 jellyfish
+  4 k
   4 jaw
   4 itself
-  4 islands
+  4 iss
   4 island
   4 iron
-  4 investigate
   4 introduces
   4 internal
+  4 interactions
   4 intelligent
+  4 integration
   4 instruments
-  4 installed
-  4 inner
-  4 infrastructure
+  4 install
   4 info
-  4 influences
   4 influenced
-  4 industry
-  4 incredible
+  4 increase
   4 impulse
-  4 icy
+  4 improves
+  4 improved
+  4 ii
+  4 hunter
   4 huffington
-  4 hours
+  4 horizon
   4 honey
-  4 home
+  4 holds
   4 helped
   4 helix
   4 height
   4 heavy
   4 hear
+  4 healthcare
   4 healing
-  4 hand
+  4 hall
   4 habits
-  4 habitat
   4 groundwater
   4 grep
-  4 god
-  4 glaciers
+  4 grand
+  4 grade
+  4 gpu
+  4 give
+  4 fungi
+  4 functions
   4 frozen
+  4 friendly
+  4 frameworks
   4 fossilized
-  4 forward
   4 formed
-  4 forever
-  4 forecasts
   4 forecasting
   4 follow
   4 flyby
   4 fermilab
   4 features
   4 fat
-  4 far
-  4 facility
+  4 farm
+  4 factors
+  4 faces
+  4 extra
+  4 extends
+  4 expressions
   4 expression
-  4 express
-  4 experts
+  4 explosive
   4 expedition
   4 expansion
-  4 exoplanets
   4 existence
-  4 existed
-  4 eu
+  4 examines
+  4 events
   4 ethics
   4 eruptions
   4 errors
-  4 enzyme
-  4 enhanced
-  4 enhance
-  4 english
-  4 endangered
+  4 enter
+  4 entangled
+  4 engineered
   4 encounter
-  4 elon
+  4 effort
   4 efficiently
-  4 eclipse
+  4 editor
+  4 ecosystems
   4 eats
+  4 easier
+  4 earthquake
   4 earlier
+  4 dynamics
   4 dying
-  4 due
   4 driver
-  4 diverse
+  4 done
+  4 doctors
   4 distribution
-  4 discovers
-  4 differently
-  4 differences
+  4 directly
+  4 direct
+  4 diode
+  4 dimensional
   4 diamond
-  4 devices
-  4 developers
+  4 determine
+  4 detectors
   4 details
+  4 designed
+  4 demand
+  4 deliver
   4 decoding
-  4 decades
+  4 decoded
+  4 decline
+  4 decade
   4 dawn
-  4 database
-  4 cycle
+  4 darwin
+  4 cure
+  4 culture
+  4 cubesat
+  4 cryosat
+  4 crust
   4 crossing
+  4 crack
   4 course
   4 costa
   4 cost
+  4 cool
   4 controls
-  4 continues
   4 continue
   4 constant
+  4 consciousness
   4 conquer
   4 concludes
+  4 composition
   4 comets
   4 come
   4 collisions
   4 cognitive
-  4 coast
-  4 city
   4 child
   4 cheaper
   4 charts
   4 chaos
-  4 centre
-  4 celebrating
+  4 changed
   4 celebrates
+  4 catches
+  4 carry
+  4 car
   4 california
   4 buried
   4 builds
   4 boundary
+  4 boot
   4 boosts
-  4 boost
-  4 board
-  4 biotech
+  4 blind
+  4 bizarre
   4 biologists
+  4 bioengineers
   4 behaviors
   4 beginning
+  4 becomes
   4 basis
-  4 barrier
   4 balance
   4 babies
-  4 autonomous
+  4 award
+  4 automated
+  4 australia
   4 attacks
   4 associated
-  4 application
+  4 assembly
+  4 art
+  4 areas
+  4 approves
   4 appear
+  4 ape
   4 america
   4 altered
+  4 already
+  4 alphabet
   4 almost
-  4 algorithms
+  4 aids
   4 aid
+  4 ahead
   4 again
+  4 advantages
   4 adolescent
-  4 adaptations
-  4 activities
-  4 acidification
-  4 accuracy
+  4 add
+  4 achieve
+  4 accurately
+  4 according
+  4 accelerator
   4 accelerating
+  4 accelerates
   4 aboard
   4 abilities
   3 zoo
   3 zone
-  3 xenon
+  3 worms
   3 woolly
-  3 wireless
   3 wired
+  3 wildlife
   3 wfirst
-  3 weyl
   3 weston
   3 western
-  3 weight
   3 waters
   3 watching
-  3 watches
+  3 waste
   3 warp
   3 volcanism
-  3 voice
   3 virtual
   3 virgo
   3 viewed
   3 vibrations
-  3 via
+  3 vessels
   3 very
   3 vents
+  3 vehicle
   3 vacuum
   3 v
   3 uv
   3 user
-  3 usage
-  3 uranus
+  3 usa
   3 upper
-  3 unveil
-  3 unreal
   3 unpredictable
-  3 unlocking
-  3 unix
   3 unity
-  3 united
   3 undersea
-  3 underlying
-  3 uncovers
   3 ultracold
+  3 tutorial
   3 turtle
+  3 tunneling
   3 tuesday
+  3 troubleshooting
+  3 trip
   3 triceratops
-  3 treat
   3 traveling
-  3 trapped
-  3 transit
-  3 transform
+  3 transport
+  3 transplant
+  3 transfer
+  3 train
   3 traffic
-  3 tracks
-  3 tracing
   3 trace
-  3 tooth
+  3 tour
   3 tissues
-  3 tips
   3 tibetan
-  3 threat
   3 thoughts
+  3 thickness
   3 thick
   3 text
-  3 tested
+  3 tesla
   3 terminal
   3 ted
+  3 techniques
+  3 technical
+  3 taken
   3 sysadmins
   3 swri
   3 switches
   3 swing
   3 surprising
-  3 superconducting
+  3 supply
+  3 superfast
   3 suns
   3 sulfur
   3 sugar
+  3 submarine
   3 strongest
-  3 striking
+  3 stronger
+  3 stroke
+  3 strategies
   3 storms
   3 stone
   3 stereo
+  3 stellar
   3 stay
-  3 started
+  3 start
   3 standing
+  3 stampede
   3 stages
   3 ssl
+  3 spy
   3 spread
+  3 spooky
+  3 splitting
   3 split
+  3 spintronics
   3 spiders
+  3 speeding
   3 spaceship
   3 soybean
+  3 sounds
   3 sophisticated
-  3 solves
-  3 solution
   3 smarter
   3 skies
-  3 sized
-  3 sixth
-  3 sites
-  3 simulates
+  3 skeletons
+  3 simulator
+  3 simulating
   3 simulate
-  3 simple
-  3 similar
+  3 significantly
   3 short
   3 shock
+  3 shine
   3 shield
-  3 shedding
   3 sharper
-  3 service
+  3 sharp
+  3 shark
   3 server
   3 sequenced
-  3 sequence
-  3 sensors
-  3 sending
+  3 selects
   3 selected
   3 seeks
-  3 seeds
   3 seed
-  3 secure
   3 seawater
   3 seas
   3 script
-  3 scientist
-  3 scales
-  3 saharan
+  3 schr
+  3 scanner
+  3 scan
+  3 sample
   3 safety
   3 russia
-  3 rules
-  3 roots
-  3 robotics
-  3 richard
-  3 rice
+  3 root
+  3 rising
   3 rica
-  3 revolutionizing
   3 restore
-  3 rest
   3 responsive
   3 responsible
   3 reprogram
-  3 reports
   3 replicates
+  3 replacement
   3 repeated
-  3 remember
+  3 relativistic
   3 relative
-  3 regeneration
-  3 reefs
+  3 reference
   3 reconnection
-  3 recognition
-  3 reasons
-  3 reactions
+  3 rebooting
+  3 read
+  3 reactors
+  3 reaction
   3 rc
-  3 rapid
-  3 range
-  3 random
-  3 questions
-  3 quark
-  3 quantities
-  3 quality
-  3 python
+  3 quickly
+  3 quest
   3 pushes
-  3 pulsar
+  3 push
+  3 pulsars
   3 prove
   3 protects
-  3 promises
-  3 programmable
+  3 programmers
+  3 prize
   3 printed
-  3 primordial
+  3 principles
+  3 principle
   3 primitive
   3 previously
-  3 predicts
   3 predictive
-  3 prediction
   3 predicting
-  3 practices
   3 powers
+  3 possibility
   3 populations
-  3 pollution
   3 polio
-  3 places
   3 pit
+  3 pigs
+  3 pieces
   3 piece
   3 phonons
   3 phenomena
+  3 phases
   3 penn
   3 penguin
   3 pave
-  3 pattern
-  3 patients
+  3 patient
   3 pathways
+  3 pathway
   3 passwords
   3 parents
-  3 paradox
   3 panstarrs
   3 paleo
+  3 pairs
   3 pair
   3 packs
+  3 package
+  3 overview
+  3 outcomes
   3 order
+  3 orange
   3 oracle
   3 opportunity
   3 opportunities
   3 opengl
   3 offshore
   3 observable
-  3 numbers
-  3 neutral
+  3 nuclei
+  3 notes
+  3 nitrogen
+  3 newly
+  3 neuroscience
+  3 neurological
   3 nervous
   3 nebula
   3 nears
@@ -1800,254 +2041,251 @@
   3 name
   3 n
   3 myths
-  3 multiscale
+  3 muscular
+  3 multicellular
   3 msg
-  3 movie
+  3 mozilla
   3 movement
+  3 motor
   3 monitors
-  3 modeling
+  3 money
+  3 moments
+  3 modification
   3 mode
   3 mms
   3 mix
   3 mirrors
-  3 minutes
-  3 minute
   3 mimics
   3 millennia
-  3 migration
-  3 microbial
-  3 methods
+  3 migrating
+  3 microbes
+  3 micro
+  3 methane
   3 meteorites
   3 message
   3 mesa
+  3 merged
   3 merge
   3 members
   3 megacity
-  3 meets
-  3 medical
   3 measures
+  3 means
   3 maximum
-  3 matters
   3 mathematics
+  3 mathematical
+  3 manufacturing
   3 manned
-  3 manager
+  3 managers
   3 mammoth
-  3 malaria
   3 maize
-  3 magnets
-  3 magnetospheric
+  3 magnetically
   3 magic
-  3 macroweather
-  3 machines
+  3 m
   3 love
-  3 longest
-  3 logic
+  3 longevity
+  3 longer
   3 lizard
   3 lived
+  3 linguistics
+  3 lineages
   3 limits
   3 lightweight
   3 lifestyle
+  3 library
+  3 libraries
+  3 legs
   3 least
+  3 learns
+  3 learned
   3 leaf
-  3 leaders
   3 later
-  3 lasers
   3 lander
   3 lake
   3 kuiper
   3 kids
+  3 kicks
   3 kept
   3 kepler
   3 keeps
-  3 k
-  3 jets
   3 isolate
+  3 introducing
+  3 introduce
   3 interface
-  3 interactions
   3 interaction
-  3 interact
   3 intensity
   3 integrity
-  3 integration
-  3 install
+  3 integrated
   3 insider
-  3 insect
-  3 infrared
   3 influence
   3 inflatable
   3 infant
   3 individuals
   3 indian
-  3 improves
+  3 index
+  3 importance
   3 implications
   3 implementation
   3 immunity
   3 immense
   3 imagery
   3 illustrated
-  3 ii
   3 hybrid
   3 hummingbirds
   3 humankind
-  3 holds
+  3 homo
   3 hints
   3 highlight
   3 helping
-  3 hall
+  3 head
+  3 harvesting
+  3 happy
   3 habitable
+  3 guides
+  3 guided
   3 groups
   3 group
   3 ground
   3 grip
   3 greenhouse
   3 greater
-  3 grand
-  3 grade
-  3 gpu
+  3 gps
   3 got
-  3 gnu
-  3 gmo
-  3 glass
+  3 god
+  3 glowing
   3 glacier
-  3 give
+  3 giants
   3 geothermal
+  3 geomagnetic
+  3 geological
+  3 ge
   3 gases
   3 gap
   3 ganymede
   3 gain
-  3 functions
-  3 friendly
-  3 frequency
+  3 g
+  3 fully
   3 formula
+  3 folding
   3 fly
-  3 fluorescence
   3 fluid
+  3 flowering
+  3 flares
+  3 fire
   3 fingerprint
+  3 fine
+  3 filter
   3 fighting
   3 fiber
   3 fermion
+  3 fermi
   3 female
-  3 feeding
-  3 fear
-  3 farmland
+  3 fedora
   3 fall
   3 faintest
-  3 factors
-  3 faces
   3 extremetech
-  3 extent
-  3 extends
-  3 expressions
-  3 explosive
+  3 extraordinary
   3 explosions
   3 exploded
+  3 existing
   3 exhibit
   3 everywhere
-  3 everything
   3 europeans
+  3 ethical
   3 epoch
-  3 enterprise
-  3 enter
-  3 entangled
-  3 engineered
+  3 epic
+  3 enzymes
   3 ends
-  3 enables
-  3 enable
+  3 encrypted
   3 emotional
+  3 emerging
   3 email
   3 elevation
   3 electronics
-  3 electronic
   3 eight
-  3 editor
+  3 education
+  3 edrs
   3 edited
   3 edge
-  3 ecosystems
   3 ecosystem
+  3 economic
   3 eclipses
   3 echolocation
-  3 easier
-  3 earthquake
-  3 e
-  3 dwarfed
+  3 east
+  3 dystrophy
+  3 dunes
+  3 dscovr
   3 droplets
+  3 driven
   3 dreams
   3 drawing
+  3 dots
   3 dopamine
-  3 done
-  3 documented
-  3 divers
+  3 domain
+  3 diversification
+  3 distros
+  3 distributed
   3 disorder
-  3 directly
-  3 direct
-  3 diode
-  3 dimensional
+  3 dinger
+  3 dimensions
   3 digital
-  3 dietary
   3 die
-  3 diagnose
-  3 devops
-  3 determine
-  3 detectors
-  3 designed
+  3 develops
+  3 developer
   3 deployment
-  3 demand
-  3 deliver
   3 delay
   3 deforestation
-  3 deepmind
   3 deepens
   3 decrypt
-  3 decoded
-  3 decision
-  3 decade
+  3 decisions
   3 debugger
   3 debug
   3 de
   3 dating
-  3 darwin
   3 dangerous
-  3 culture
-  3 cryosat
-  3 crust
+  3 cut
   3 crucial
-  3 crocodile
+  3 crew
   3 creature
   3 creative
   3 crash
   3 craft
-  3 crack
-  3 cool
-  3 controlled
+  3 costs
+  3 corals
+  3 copernicus
+  3 cooling
   3 contributes
   3 contribute
+  3 continuous
   3 contains
   3 containers
   3 consumer
   3 constraints
-  3 consciousness
   3 connecting
+  3 conference
+  3 concepts
   3 completed
-  3 communications
+  3 company
+  3 communities
+  3 commit
   3 commercial
   3 combat
-  3 collision
   3 colliding
   3 collaborate
+  3 coexist
   3 closes
-  3 clearer
   3 claims
+  3 circulation
   3 circuit
   3 chimpanzee
+  3 chemicals
   3 check
   3 charge
-  3 changed
   3 challenge
+  3 chain
   3 certification
+  3 cd
   3 causing
-  3 catches
-  3 case
-  3 carry
+  3 capabilities
   3 canyons
   3 candidates
   3 caltech
@@ -2056,95 +2294,107 @@
   3 brightest
   3 break
   3 boundaries
-  3 boot
-  3 books
   3 bones
-  3 blind
-  3 bizarre
+  3 birthday
   3 bipolar
   3 bioluminescent
-  3 bioengineers
-  3 bioengineering
-  3 bioengineered
+  3 bioluminescence
   3 benchmarks
-  3 becomes
+  3 becoming
   3 beam
+  3 basics
   3 base
+  3 ban
   3 baby
   3 awesome
   3 avoid
+  3 automotive
   3 automatically
   3 aurora
+  3 astrophysicists
   3 astronaut
-  3 assembly
   3 assembled
   3 arrival
   3 army
+  3 arms
   3 arm
-  3 areas
   3 aquatic
   3 aquarius
-  3 approves
+  3 apps
   3 apollo
   3 api
   3 apart
   3 any
+  3 antibiotic
   3 anthropocene
+  3 antarctica
+  3 answer
+  3 anomaly
   3 announced
   3 anniversary
+  3 animation
   3 andromeda
-  3 andes
+  3 android
+  3 analyzed
   3 amd
   3 amazonian
   3 altitude
-  3 alphabet
   3 alive
   3 algal
   3 algae
   3 al
   3 aircraft
-  3 ahead
+  3 aims
+  3 aim
   3 african
   3 affected
-  3 advantages
+  3 advice
   3 adults
   3 adult
   3 adapted
   3 adapt
   3 acidic
-  3 according
-  3 accelerate
+  3 accuracy
+  3 abundant
   2 zeplin
+  2 zealand
+  2 yeast
   2 y
   2 xcom
+  2 xargs
+  2 wsu
+  2 writing
   2 wqad
   2 wound
   2 worried
+  2 workers
   2 words
   2 wood
   2 wonders
-  2 women
   2 witness
   2 wisely
   2 winter
+  2 wins
   2 winner
-  2 windmill
-  2 wildlife
   2 wheat
   2 whales
   2 well
+  2 welcome
   2 weirdness
   2 weird
+  2 weight
+  2 weigh
   2 weeks
   2 webcam
   2 weapons
+  2 weak
   2 watts
-  2 waste
   2 war
-  2 wants
   2 want
   2 wakes
   2 w
+  2 voyager
+  2 vortices
   2 voices
   2 vlt
   2 vivo
@@ -2153,87 +2403,102 @@
   2 virtualization
   2 viral
   2 viable
-  2 vessels
+  2 vi
   2 vessel
-  2 vehicle
+  2 vertebrates
   2 vega
   2 vdpau
   2 variety
   2 variation
   2 variable
   2 variability
+  2 vapor
+  2 valleys
   2 utsw
   2 uta
   2 usc
-  2 usa
   2 uruguay
   2 urge
+  2 urban
   2 ups
   2 upon
   2 until
+  2 unreal
+  2 unravelling
   2 unraveling
   2 unlocks
   2 university
+  2 universal
   2 unit
   2 unearthed
+  2 undiscovered
   2 underlies
   2 underlie
   2 unchanged
+  2 unc
+  2 un
   2 umbilical
+  2 ultrafast
+  2 ucla
   2 uci
+  2 uc
   2 twisted
   2 twin
-  2 turtles
   2 turning
+  2 turbulent
   2 turbines
-  2 tunneling
+  2 turbine
   2 tunnel
+  2 tumor
   2 tuberculosis
-  2 trying
+  2 trucks
   2 trove
-  2 troubleshooting
-  2 tropical
+  2 troubling
   2 triple
-  2 trip
   2 trigger
-  2 trends
+  2 trials
+  2 trial
   2 traumatic
-  2 transport
-  2 transplant
   2 transitions
+  2 transforming
   2 transformation
-  2 transfer
-  2 train
+  2 traditional
   2 trade
+  2 tracker
+  2 traces
+  2 traced
   2 tower
-  2 tour
   2 tough
   2 touchdown
-  2 touch
   2 tornadoes
   2 toolkit
+  2 toe
   2 tipping
   2 tinnitus
+  2 tin
+  2 timescale
   2 tiling
+  2 throughput
   2 threats
   2 those
   2 thomas
   2 thirty
   2 thing
-  2 thickness
   2 thermodynamics
   2 thermodynamic
   2 thermal
+  2 theories
   2 theoretical
   2 themselves
+  2 tetraquarks
   2 tetrapod
-  2 tesla
   2 terraform
   2 tells
   2 tell
   2 telescopes
   2 technological
   2 tears
+  2 teams
   2 teaching
   2 tb
   2 targeting
@@ -2241,94 +2506,93 @@
   2 tara
   2 tapping
   2 tangled
-  2 taken
+  2 tailor
   2 table
+  2 syracuse
+  2 synthesized
+  2 synthesize
   2 synesthesia
+  2 synapse
   2 symptoms
   2 sydney
   2 swirling
   2 swimming
   2 swim
   2 sweeping
+  2 swarm
   2 susceptibility
   2 survivors
   2 surrounding
   2 surprisingly
   2 surging
+  2 surgical
   2 supports
   2 supplements
   2 superconductors
+  2 superconductivity
   2 supercomputing
-  2 summit
+  2 succeed
   2 subterranean
+  2 sub
   2 stuff
-  2 stronger
+  2 student
   2 strike
+  2 stressed
+  2 strength
   2 streamline
-  2 strategies
   2 strategic
-  2 storm
   2 storing
   2 stored
-  2 stopped
-  2 stellar
-  2 start
+  2 stimulation
+  2 steady
+  2 startup
+  2 stanford
   2 standards
-  2 stampede
   2 stability
-  2 spy
   2 spotting
   2 spotlight
-  2 spooky
   2 spontaneous
-  2 splitting
   2 splits
   2 spitzer
   2 spiritual
   2 spinach
   2 spend
-  2 speeding
+  2 speedy
   2 spectrum
   2 specimen
-  2 sparks
-  2 spacex
   2 spaceplane
   2 spacelab
   2 southern
   2 southeast
-  2 sounds
+  2 sought
   2 something
   2 solid
   2 societies
+  2 soccer
   2 snapshots
   2 smile
   2 smaller
   2 sls
-  2 skyrmions
-  2 skeletons
-  2 simulator
-  2 simulating
-  2 significantly
+  2 slac
+  2 singapore
   2 signature
   2 sighting
   2 sight
   2 sides
+  2 sickle
   2 shuttle
   2 shower
-  2 shine
   2 shifting
   2 shift
-  2 shark
   2 shares
   2 shaping
   2 sex
+  2 several
+  2 serverless
   2 serious
   2 serengeti
   2 separate
-  2 sensitivity
-  2 sensing
   2 senses
-  2 selects
   2 selection
   2 secretly
   2 seconds
@@ -2336,17 +2600,23 @@
   2 searching
   2 searches
   2 seafloor
+  2 sdo
+  2 sdn
+  2 screening
+  2 sclerosis
   2 sci
-  2 schr
   2 schedule
   2 scent
   2 scarcity
-  2 scanner
-  2 scan
+  2 scans
+  2 scalable
   2 saturday
-  2 sample
+  2 sapiens
+  2 salmon
+  2 salamander
   2 sails
   2 said
+  2 saharan
   2 sagan
   2 rumble
   2 rt
@@ -2357,68 +2627,81 @@
   2 rolling
   2 rocky
   2 rock
-  2 roamed
   2 roads
   2 roadmap
   2 river
+  2 rival
   2 rings
   2 rights
+  2 rico
   2 rhythms
   2 rhel
+  2 revisited
   2 reversal
+  2 retreat
   2 response
-  2 resonance
   2 resolves
   2 resilient
   2 reshaping
+  2 reset
   2 res
   2 reptiles
   2 reprogramming
-  2 replacement
+  2 repository
   2 remote
-  2 relativistic
+  2 relativity
   2 relatives
+  2 relationships
+  2 regulators
   2 regulating
   2 regulates
   2 regulate
+  2 regular
   2 register
   2 regenerative
   2 reforestation
   2 reflect
-  2 reference
+  2 reef
   2 redorbit
   2 reconstruction
+  2 reconstruct
   2 reconnaissance
+  2 recommended
+  2 recognizes
+  2 receptors
   2 recent
-  2 receives
-  2 rebooting
   2 reason
-  2 read
-  2 reactors
   2 reaching
   2 raw
   2 rats
   2 rarest
   2 randomness
+  2 raises
   2 raised
   2 rainbow
   2 radiates
-  2 quot
-  2 quickly
+  2 rabbits
+  2 question
+  2 queens
+  2 quasiparticles
   2 quasar
+  2 quarks
   2 quantifying
-  2 push
+  2 pursuit
+  2 purpose
   2 purple
-  2 pulsars
+  2 puerto
   2 published
+  2 prototype
   2 protecting
   2 protected
   2 prosthetics
+  2 propelled
+  2 promote
   2 promising
-  2 promise
   2 programs
-  2 programmers
   2 programme
+  2 programmable
   2 products
   2 productivity
   2 product
@@ -2427,82 +2710,86 @@
   2 procedural
   2 proba
   2 pro
-  2 prize
-  2 principles
+  2 privacy
   2 principia
+  2 prime
   2 primary
-  2 prey
   2 prevents
   2 presents
   2 presented
   2 prepare
   2 prep
-  2 predictions
   2 predatory
+  2 precipitation
   2 pre
   2 postcards
-  2 possibility
   2 possibilities
   2 positions
   2 ports
+  2 portable
   2 port
   2 pollinators
   2 policy
   2 polarization
+  2 polar
   2 pluripotency
+  2 plenty
+  2 plastics
   2 plankton
   2 pioneering
   2 pinpoints
   2 pinpoint
-  2 pigs
   2 pigeons
-  2 pieces
   2 phytoplankton
   2 php
-  2 photonic
+  2 photosynthetic
   2 photocathode
   2 phenomenon
   2 pharmaceutical
   2 petawatt
   2 pest
   2 pesquet
-  2 peruvian
+  2 perspective
   2 personal
   2 permanent
   2 perceive
   2 pentaquarks
   2 pentaquark
   2 pc
-  2 patient
-  2 pathway
   2 pathfinder
   2 patent
+  2 password
   2 pass
+  2 partners
+  2 partner
+  2 partitions
   2 parkinson
   2 parasites
   2 panorama
   2 panel
+  2 pancreatic
   2 palaeolithic
-  2 pairs
   2 paint
   2 packing
   2 packaging
   2 packages
-  2 package
   2 pack
   2 pace
-  2 overview
   2 overlap
   2 overcome
-  2 outer
+  2 outside
   2 others
   2 oscillations
   2 ornl
   2 orion
   2 origami
+  2 organizations
+  2 organization
   2 organism
+  2 ordinary
   2 orbital
   2 optimize
+  2 operated
   2 openssl
   2 ones
   2 offspring
@@ -2512,107 +2799,102 @@
   2 observatories
   2 obese
   2 nvptx
+  2 nutrients
   2 nurture
-  2 nuclei
   2 npr
   2 nova
   2 nothing
+  2 nocturnal
+  2 nmap
+  2 nm
   2 nist
   2 nicer
   2 ni
-  2 newly
-  2 neuroscience
+  2 newest
+  2 neutrons
+  2 neuronal
   2 neuron
-  2 neurological
-  2 networking
-  2 negative
   2 neandertal
   2 ndtv
   2 native
+  2 nations
   2 nanotechnology
+  2 nanomedicine
   2 my
   2 mw
   2 mushrooms
-  2 muscular
   2 muscles
-  2 multicellular
-  2 mri
-  2 mozilla
+  2 muons
+  2 muon
   2 mountains
   2 mount
-  2 motor
+  2 motivates
+  2 morphology
   2 morning
   2 moore
   2 months
   2 montana
-  2 money
-  2 moments
   2 modifications
-  2 modification
   2 mitochondria
+  2 minimalist
   2 mineral
   2 minds
+  2 millisecond
   2 migratory
-  2 migrating
-  2 microsoft
+  2 mid
   2 microprocessor
   2 microbiome
-  2 microbes
-  2 methane
+  2 microbe
   2 meteors
   2 metal
   2 metabolic
+  2 meta
   2 met
-  2 merged
   2 membranes
+  2 member
   2 melting
   2 megacities
   2 mega
   2 mediterranean
-  2 measuring
+  2 medicines
   2 meanings
   2 meals
   2 mathematically
-  2 mathematical
   2 massless
   2 marathon
-  2 manufacturing
   2 manipulation
-  2 managers
   2 manage
   2 mammoths
   2 majorana
+  2 maintainer
   2 maintain
+  2 magnon
   2 magnetometer
-  2 magnetically
+  2 magneto
   2 magma
-  2 m
   2 lux
-  2 lung
-  2 luminosity
+  2 lungs
   2 luck
   2 lovelace
-  2 longer
   2 london
   2 logo
+  2 locates
   2 ll
   2 little
   2 lisa
-  2 linguistics
   2 linguistic
-  2 limit
   2 limbs
   2 lift
   2 lies
-  2 libraries
+  2 lichens
   2 lhcb
   2 lessons
   2 lesson
+  2 lesser
+  2 lensing
   2 lenses
   2 leg
-  2 leaves
-  2 learns
-  2 learned
+  2 leaving
   2 leafy
   2 layers
   2 layer
@@ -2621,82 +2903,101 @@
   2 law
   2 lava
   2 launching
+  2 larger
   2 landmark
+  2 lakes
   2 labyrinth
   2 kroah
+  2 knowledge
+  2 kit
   2 kilometres
   2 kills
-  2 kicks
+  2 killing
   2 keys
+  2 keynote
   2 kenya
   2 kennedy
   2 keeping
   2 july
   2 juan
+  2 jobs
+  2 job
   2 jennifer
-  2 iss
+  2 jellyfish
   2 isrg
   2 isn
   2 irreversible
   2 iris
+  2 ions
   2 ionosphere
   2 involved
-  2 introducing
-  2 introduce
+  2 interview
   2 interval
+  2 interstellar
+  2 interiors
+  2 interferometer
   2 interesting
   2 interest
   2 interactive
   2 intensive
-  2 integrated
+  2 integral
   2 institute
   2 instead
+  2 inspiring
+  2 inspired
   2 input
   2 injury
   2 initiative
-  2 inherited
   2 infinity
   2 infection
+  2 industries
+  2 independent
   2 increasingly
   2 increased
-  2 improved
-  2 importance
+  2 income
+  2 including
+  2 improvement
   2 implant
   2 impairment
+  2 impacted
   2 immunotherapy
   2 illustrations
+  2 illuminates
   2 ignites
   2 identity
   2 identification
   2 ideas
   2 ideal
+  2 idea
   2 iconic
   2 iceland
+  2 icecube
   2 icarus
   2 iberian
   2 hyperion
   2 hurricane
-  2 hunter
   2 hummingboard
   2 https
-  2 houses
+  2 house
   2 hour
   2 hottest
   2 hotter
   2 hosts
   2 host
   2 hormone
-  2 homo
+  2 hope
   2 holograms
   2 hits
   2 hit
   2 historic
   2 his
   2 hindu
+  2 highways
   2 highly
   2 highlights
   2 hide
   2 herald
+  2 hemispheres
   2 hell
   2 helium
   2 heisenberg
@@ -2705,18 +3006,18 @@
   2 healthier
   2 heads
   2 headed
-  2 head
   2 hd
-  2 harvesting
   2 harvest
   2 hartman
+  2 harness
+  2 hardening
   2 harbor
-  2 happy
   2 handle
   2 handed
   2 halos
   2 halo
   2 halfway
+  2 hacking
   2 hack
   2 habitats
   2 h
@@ -2726,155 +3027,165 @@
   2 greg
   2 greenland
   2 greening
+  2 greatly
   2 grass
   2 graphics
   2 graph
+  2 gradually
   2 grace
-  2 gps
   2 goodbye
+  2 gone
+  2 golden
   2 goals
+  2 gmos
   2 gm
   2 gluon
-  2 glowing
   2 glory
+  2 glass
   2 gk
   2 gizmodo
   2 giraffe
   2 gigantic
-  2 giants
   2 ghostly
-  2 germany
   2 german
-  2 geomagnetic
-  2 geological
   2 geologic
   2 genus
   2 gentoo
   2 genomic
+  2 generations
   2 generated
+  2 general
   2 gdb
+  2 gave
+  2 gamma
+  2 gaming
   2 games
   2 gaia
-  2 g
-  2 fusion
   2 fund
   2 functional
-  2 fully
   2 fsf
   2 frontier
   2 friction
   2 freshwater
   2 framework
   2 fragments
+  2 foss
   2 forming
   2 foreign
-  2 folding
+  2 focused
+  2 fluorescence
   2 flu
-  2 flowering
   2 flow
   2 floor
   2 flooded
   2 flexing
-  2 flares
   2 flare
   2 firm
-  2 fire
   2 fins
-  2 fine
+  2 financial
   2 fin
-  2 filter
   2 filesystems
   2 fifth
-  2 fertilize
+  2 fibrosis
+  2 fi
   2 fermions
   2 feet
   2 feelings
-  2 fedora
+  2 feel
   2 fed
   2 feathers
   2 feathered
   2 feasibility
+  2 fear
   2 favor
   2 father
-  2 farming
+  2 farms
+  2 fact
   2 facilitate
   2 facial
   2 extraterrestrial
-  2 extraordinary
   2 extract
-  2 extra
+  2 extent
+  2 extended
   2 exposure
   2 explosion
   2 exploding
   2 explanation
+  2 expert
   2 expectations
   2 expect
-  2 existing
+  2 expands
   2 exercise
+  2 executive
   2 exceptional
   2 excellent
   2 examining
-  2 examines
   2 examined
   2 eweek
   2 evolves
+  2 everyone
   2 every
-  2 events
   2 evaporation
   2 europa
   2 ethanol
+  2 estimating
+  2 estimate
+  2 establishes
   2 eso
   2 escaping
   2 escape
   2 error
+  2 erosion
+  2 equivalence
+  2 equal
   2 epa
+  2 environments
+  2 environmentally
   2 entirely
   2 enriquez
   2 enormous
-  2 enlisted
   2 enlightenment
+  2 engines
+  2 ending
   2 endeavor
-  2 encrypted
   2 emits
-  2 emerging
+  2 emerges
   2 emerged
   2 emerge
   2 embryos
   2 embryonic
   2 embryo
   2 elements
+  2 electromagnetic
+  2 election
   2 eggs
-  2 effort
   2 edx
-  2 edrs
   2 economy
-  2 economic
-  2 east
   2 ease
   2 ears
-  2 dystrophy
   2 dyslexia
-  2 dynamics
+  2 dynamic
   2 dusty
-  2 dunes
+  2 dual
   2 drove
-  2 driven
   2 driest
   2 dream
   2 dramatic
+  2 doubles
   2 dot
+  2 doors
   2 dominate
   2 domestication
-  2 domain
   2 dolphins
+  2 doing
+  2 doesn
   2 documents
+  2 documented
   2 documentation
-  2 doctors
   2 docking
-  2 diversification
+  2 divide
   2 distro
   2 distributions
-  2 distributed
   2 distortions
   2 distinguish
   2 distances
@@ -2883,47 +3194,58 @@
   2 disruptions
   2 disrupt
   2 display
+  2 dish
   2 discuss
   2 disappeared
+  2 disabilities
   2 directory
-  2 dinger
+  2 direction
+  2 difficult
   2 dieting
+  2 dietary
   2 dice
   2 dialects
+  2 diagnosis
+  2 diabetes
   2 df
-  2 developer
+  2 determines
   2 destruct
   2 despite
+  2 designs
   2 designing
+  2 descent
   2 descended
   2 derived
+  2 deploy
+  2 dependent
   2 denisovan
   2 demonstrated
+  2 dementia
   2 delivery
   2 delivering
   2 defining
-  2 defined
   2 defect
   2 decode
-  2 decline
-  2 decisions
   2 deciphering
   2 debuts
+  2 debugging
+  2 deal
   2 dead
   2 dates
   2 dance
+  2 dampe
+  2 cycling
   2 cycles
   2 cutting
   2 curious
-  2 cure
   2 cultural
-  2 cubesat
   2 ct
+  2 cryptography
   2 cryengine
   2 crustacean
-  2 crop
+  2 crossroads
   2 crocodilians
-  2 crew
+  2 crocodile
   2 creativity
   2 cray
   2 craving
@@ -2932,57 +3254,72 @@
   2 cradle
   2 cows
   2 cousin
+  2 coupling
+  2 count
   2 cotton
   2 cortex
   2 correlations
   2 correct
   2 corpse
   2 cores
-  2 cooling
+  2 convert
+  2 conversation
   2 conundrum
   2 controversy
   2 contributing
-  2 continuous
   2 continents
+  2 content
+  2 contaminated
   2 contact
   2 consumers
+  2 construct
   2 constrained
   2 consisting
+  2 connectivity
   2 connections
   2 connected
-  2 conference
   2 conduct
-  2 concerns
-  2 concepts
   2 compute
   2 computational
   2 comprehensively
+  2 comprehension
+  2 compounds
+  2 components
+  2 compliance
+  2 completely
   2 compare
-  2 company
-  2 community
-  2 communities
-  2 commit
+  2 combined
   2 combine
+  2 colossal
   2 colors
   2 colonize
   2 collides
   2 colliders
+  2 collapse
   2 collaborative
+  2 collaboration
+  2 coli
   2 coherence
+  2 coffee
   2 coding
   2 coders
+  2 coast
   2 cnn
+  2 cms
   2 clusters
   2 clue
   2 closest
+  2 clone
   2 clocking
+  2 clinical
   2 clingy
   2 clients
   2 clicks
+  2 classes
   2 class
   2 claim
   2 citrus
-  2 circulation
+  2 citizen
   2 chromosphere
   2 chromosome
   2 choice
@@ -2990,195 +3327,208 @@
   2 chile
   2 childhood
   2 chewing
+  2 chess
+  2 chemists
   2 chart
   2 charon
   2 character
   2 changer
   2 chameleon
-  2 chain
+  2 certified
   2 certificate
   2 centos
-  2 cd
   2 caution
   2 cattle
   2 caterpillar
   2 cataract
-  2 cases
+  2 catalyst
   2 carrying
   2 carnivorous
   2 carl
   2 caribbean
-  2 car
   2 capturing
   2 cape
   2 capacity
-  2 capabilities
-  2 canyon
   2 camouflage
   2 cameras
   2 calls
+  2 buys
+  2 butterfly
   2 burning
   2 burmese
   2 bunch
+  2 bumblebees
   2 buildings
+  2 bugs
   2 bug
   2 bubble
   2 broad
   2 bristol
   2 brightens
+  2 brief
   2 bridge
   2 bricks
+  2 breeding
   2 breathtaking
   2 breath
   2 breast
   2 brazil
   2 branch
   2 brainstem
+  2 box
   2 bound
   2 bosons
   2 boosting
   2 booster
+  2 bonds
+  2 bold
   2 boiling
+  2 bn
   2 blueprint
+  2 blowing
+  2 blockchain
   2 bits
-  2 birthday
   2 biosphere
   2 biosensor
   2 biofuels
   2 bioenergy
   2 bioavailability
   2 bio
+  2 binary
   2 bilingual
+  2 bilateral
   2 beta
   2 berlin
+  2 berkeley
   2 behaviour
   2 began
   2 beer
   2 been
+  2 bee
   2 beats
   2 beating
   2 beast
+  2 bears
   2 beams
+  2 bayesian
   2 bat
-  2 basics
   2 bases
-  2 ban
+  2 barcoding
   2 balloon
   2 balances
   2 bacterial
   2 axial
   2 awareness
   2 awarded
-  2 award
   2 awaits
-  2 automotive
-  2 automated
+  2 automation
+  2 automating
+  2 auto
   2 austria
   2 auroras
   2 aura
+  2 augmented
   2 audit
   2 atv
+  2 atomically
   2 atmospheres
+  2 atlantic
   2 atk
-  2 astrophysicists
   2 astonishing
+  2 assist
   2 ask
-  2 art
-  2 arms
   2 arguments
-  2 apps
+  2 archive
   2 approved
   2 approaching
   2 approaches
+  2 applying
   2 appears
-  2 ape
+  2 apache
   2 anywhere
   2 anxiety
   2 anu
   2 antiquity
-  2 antibiotic
-  2 antarctica
-  2 answer
+  2 ant
+  2 annual
   2 announce
-  2 animation
-  2 android
+  2 andes
   2 ancestry
   2 anatomy
-  2 analyzed
+  2 analyzes
   2 analytics
   2 analyses
   2 amp
-  2 amounts
   2 amount
   2 ames
   2 americans
   2 american
   2 always
   2 altitudes
+  2 alters
   2 alter
   2 also
-  2 already
   2 along
   2 alone
   2 allows
+  2 allowed
   2 allergies
   2 aliens
   2 alice
   2 aliases
-  2 algorithm
   2 alga
   2 alaska
   2 alarm
-  2 aims
-  2 aids
-  2 agile
   2 agents
+  2 agent
   2 affecting
   2 aerial
   2 advancing
   2 adopts
   2 administrators
-  2 add
   2 ada
+  2 actually
   2 acts
   2 activation
+  2 act
   2 acid
   2 achievement
-  2 achieve
-  2 accelerates
-  2 abundant
+  2 accessible
+  2 acceleration
   2 absorption
+  2 absorb
   2 above
+  2 able
   2 abc
   1 zsh
   1 zooms
   1 zoom
   1 zinc
+  1 zika
   1 zeno
   1 zen
   1 zebrafish
-  1 zealand
   1 zdnet
   1 zangmu
   1 z
+  1 ytterbium
   1 young
-  1 yeast
   1 yale
   1 xwayland
   1 xvmc
+  1 xsede
   1 xs
   1 xp
-  1 xargs
   1 wuxi
   1 wtop
   1 wtkr
-  1 wsu
-  1 writing
   1 writes
+  1 wraps
+  1 wpa
   1 wounds
   1 worst
   1 worm
-  1 workers
+  1 workshops
   1 worcester
   1 wooly
   1 wool
@@ -3188,24 +3538,32 @@
   1 wonder
   1 woman
   1 wobble
+  1 wizardry
   1 wishful
   1 wisdom
   1 wires
   1 winters
-  1 wins
   1 winning
+  1 winners
   1 windows
+  1 winding
   1 windfall
+  1 win
   1 wimps
   1 wimp
   1 william
   1 wildfire
   1 wikipedia
   1 wife
+  1 wield
   1 width
   1 widespread
+  1 widening
+  1 wide
+  1 wi
   1 whys
   1 whnt
+  1 whistling
   1 whispers
   1 whisky
   1 while
@@ -3214,23 +3572,22 @@
   1 wheelchair
   1 wetlands
   1 wet
+  1 west
   1 went
-  1 welcome
   1 weirder
   1 weighty
   1 weighs
-  1 weigh
   1 weekly
   1 weed
   1 website
   1 webs
   1 webodf
   1 weakness
-  1 weakening
+  1 weakens
   1 weaken
-  1 weak
   1 wayne
   1 waycheck
+  1 wayback
   1 wavelengths
   1 wavefunctions
   1 wattos
@@ -3240,9 +3597,10 @@
   1 waterfalls
   1 wasp
   1 washington
-  1 wars
   1 warns
   1 warning
+  1 warms
+  1 warmest
   1 warm
   1 warband
   1 walnuts
@@ -3256,9 +3614,8 @@
   1 vv
   1 vulnerable
   1 vramfs
-  1 voyager
   1 vox
-  1 vortices
+  1 vote
   1 volcanos
   1 volcanologists
   1 vocal
@@ -3270,20 +3627,20 @@
   1 vita
   1 visually
   1 visualizing
+  1 visualizes
   1 visualization
   1 visor
   1 virtualbox
   1 virology
   1 virginia
+  1 virgin
   1 viper
   1 violation
   1 villani
   1 viewing
   1 vietnam
-  1 victory
-  1 vi
+  1 videos
   1 vertical
-  1 vertebrates
   1 vertebrate
   1 vertebral
   1 vermeulen
@@ -3291,7 +3648,10 @@
   1 verifying
   1 verified
   1 verde
+  1 ventures
+  1 ventricle
   1 velociraptor
+  1 veggies
   1 vegetarian
   1 ve
   1 vault
@@ -3300,8 +3660,10 @@
   1 vascularized
   1 vary
   1 varied
+  1 variants
   1 vanishing
-  1 valleys
+  1 valves
+  1 valve
   1 validating
   1 validates
   1 vaccines
@@ -3309,19 +3671,22 @@
   1 vaccination
   1 ux
   1 utility
+  1 utilities
   1 uterus
+  1 ustc
   1 usgs
   1 usefulness
   1 usb
   1 uri
   1 urges
   1 urbanization
-  1 urban
+  1 uqds
   1 upright
   1 uplift
   1 upgrading
   1 upgrades
   1 upends
+  1 updates
   1 upcoming
   1 unveiling
   1 unusual
@@ -3332,86 +3697,88 @@
   1 unsafe
   1 unrest
   1 unravels
-  1 unravelling
   1 unravel
   1 unpuzzle
+  1 unprecedentedly
   1 unpowered
+  1 unobserved
   1 unmanned
   1 unlocked
+  1 unleashed
   1 unkown
   1 unknowns
   1 universes
   1 uniting
   1 unite
   1 unist
+  1 unisexual
   1 unfamiliar
   1 unexplored
+  1 unequal
   1 unep
-  1 undiscovered
   1 underscores
   1 underlines
   1 underestimated
   1 underbelly
   1 uncovering
+  1 unconventional
   1 uncommon
   1 unchangeable
   1 uncertainty
-  1 unc
   1 unblock
   1 unaltered
-  1 un
   1 ultraviolet
   1 ultramarathon
-  1 ultrafast
   1 ultracompact
   1 ula
   1 uh
-  1 ucla
-  1 uc
+  1 uber
   1 uae
   1 uab
   1 ua
   1 tyrannosaurs
   1 tyrannosauroid
-  1 type
   1 tx
   1 twists
   1 twist
   1 twilight
   1 twice
   1 twenty
-  1 tutorial
+  1 tweezers
+  1 tuscany
   1 turmeric
   1 turkey
   1 turing
-  1 turbulent
   1 turbulence
-  1 turbine
   1 tunnels
+  1 tuning
+  1 tuneable
+  1 tune
   1 tumours
   1 tumors
   1 tumbling
   1 tube
   1 tuatara
   1 tsunami
+  1 trying
   1 try
   1 trusted
   1 truer
   1 true
-  1 trucks
+  1 truck
   1 trpml
   1 trout
   1 trouble
   1 tropics
   1 triton
   1 triptych
+  1 triona
   1 trio
   1 trinity
   1 triggers
   1 triggering
   1 triggered
   1 triangles
-  1 trial
   1 tremors
   1 trek
   1 treatments
@@ -3422,8 +3789,8 @@
   1 travelling
   1 traveled
   1 trauma
-  1 trap
   1 transporter
+  1 transportation
   1 transplanted
   1 transplantation
   1 transplantable
@@ -3431,11 +3798,12 @@
   1 transmit
   1 transmission
   1 translation
+  1 translate
   1 transitional
   1 transiting
   1 transistors
   1 transistor
-  1 transforming
+  1 transhumanism
   1 transfering
   1 transcriptomic
   1 transcriptome
@@ -3444,16 +3812,14 @@
   1 tranquility
   1 trains
   1 trail
-  1 traditional
-  1 tracker
-  1 traces
-  1 traced
   1 toxins
   1 toxicity
   1 town
   1 tournament
+  1 toughest
   1 tops
   1 topping
+  1 topology
   1 topography
   1 toothy
   1 toothed
@@ -3462,12 +3828,14 @@
   1 tons
   1 tongue
   1 tomviz
+  1 tomorrow
+  1 tomography
   1 tomcat
   1 tolerated
+  1 tolerant
   1 tolerance
   1 told
   1 tofu
-  1 toe
   1 toast
   1 tma
   1 title
@@ -3475,10 +3843,9 @@
   1 titania
   1 tires
   1 tip
+  1 tion
   1 tiniest
-  1 tin
   1 timing
-  1 timescale
   1 timely
   1 timeless
   1 tim
@@ -3487,38 +3854,48 @@
   1 tightest
   1 tighter
   1 tied
+  1 tide
   1 ticking
   1 tibetans
   1 tibet
   1 tiangong
   1 thunder
-  1 throughput
+  1 thrusters
+  1 thruster
   1 throughout
+  1 thrives
   1 thrilling
   1 threatening
   1 threaten
   1 thousandth
   1 thirds
+  1 thinks
   1 thinkers
   1 thesis
   1 thesaurus
   1 thermometer
+  1 thermally
   1 therapist
-  1 theories
+  1 therapies
+  1 theorists
   1 themis
+  1 theater
   1 thalamus
   1 tgen
   1 texts
+  1 textricator
   1 texas
   1 tev
-  1 tetraquarks
-  1 testicular
   1 testable
+  1 tess
   1 terror
   1 territory
   1 terrestriality
   1 terrestrial
   1 terrawatch
+  1 terraforming
+  1 termux
+  1 termites
   1 teraflop
   1 tentacles
   1 tensorflow
@@ -3537,12 +3914,10 @@
   1 tectonic
   1 techweek
   1 techrepublic
-  1 techniques
-  1 technical
   1 techcentral
-  1 teams
   1 teaches
   1 teacher
+  1 tea
   1 tax
   1 tau
   1 tasty
@@ -3556,22 +3931,26 @@
   1 tamed
   1 tallest
   1 tall
+  1 tales
   1 tale
+  1 takeoff
   1 tails
+  1 taillefer
   1 tailed
   1 tagged
   1 tactics
+  1 tact
   1 tackling
   1 tackles
   1 tackle
-  1 syracuse
-  1 synthesize
+  1 sysadmin
+  1 sys
+  1 syntax
   1 synoptic
   1 syndrome
   1 synchronize
   1 synbreed
   1 synaptic
-  1 synapse
   1 symposium
   1 symmetries
   1 symbol
@@ -3582,13 +3961,13 @@
   1 swept
   1 sweetness
   1 swedish
-  1 swarm
   1 swapped
   1 svn
   1 sven
   1 svante
   1 sustainability
   1 sustain
+  1 suse
   1 susceptible
   1 survives
   1 survived
@@ -3596,16 +3975,17 @@
   1 surprise
   1 surpasses
   1 surpass
-  1 surgical
   1 surgery
+  1 surgeons
   1 surge
   1 surfs
   1 surfer
   1 surfaces
+  1 supramolecular
   1 supposedly
   1 supposed
   1 supporting
-  1 supply
+  1 supplies
   1 superwheat
   1 superweapon
   1 supervoid
@@ -3614,12 +3994,12 @@
   1 supershark
   1 superposition
   1 superluminous
+  1 superhuman
   1 superfruits
   1 superfluids
   1 superfluid
   1 superdense
   1 supercooling
-  1 superconductivity
   1 supercoiling
   1 supercluster
   1 superclass
@@ -3646,29 +4026,29 @@
   1 suddenly
   1 suckless
   1 such
-  1 succeed
+  1 succulents
+  1 succeeds
+  1 subtypes
   1 subtle
   1 substrate
   1 substitute
   1 substances
-  1 submarine
   1 subglacial
-  1 sub
   1 stun
   1 studied
   1 stuck
   1 structural
   1 strontium
   1 strongly
-  1 stroke
   1 strings
+  1 stringent
   1 string
   1 strikingly
   1 strikes
+  1 stretches
   1 stretch
-  1 stressed
+  1 stressors
   1 strengthens
-  1 strength
   1 streams
   1 streamer
   1 stream
@@ -3684,14 +4064,15 @@
   1 stories
   1 stones
   1 stomach
+  1 stock
   1 stimuli
-  1 stimulation
   1 stimulate
   1 stiffer
   1 sticky
   1 sticks
   1 stickiness
   1 stick
+  1 stereotactic
   1 stellarium
   1 steered
   1 steal
@@ -3699,11 +4080,10 @@
   1 statistics
   1 static
   1 statement
-  1 startup
   1 startling
   1 starting
   1 starbursting
-  1 stanford
+  1 stanene
   1 stands
   1 stand
   1 stamps
@@ -3714,9 +4094,12 @@
   1 ssh
   1 squid
   1 squeeze
+  1 squashing
   1 squashed
+  1 square
   1 sputnik
   1 springs
+  1 sports
   1 sponge
   1 spokane
   1 spoiler
@@ -3731,8 +4114,10 @@
   1 spines
   1 spine
   1 spikes
+  1 spies
   1 spicules
   1 spice
+  1 spending
   1 spelling
   1 speeds
   1 speedometer
@@ -3741,12 +4126,14 @@
   1 specified
   1 specific
   1 specialty
+  1 specializes
   1 specialize
   1 specialization
   1 speaks
   1 speakers
   1 speak
   1 spatial
+  1 sparks
   1 sparkle
   1 spans
   1 spanish
@@ -3756,13 +4143,16 @@
   1 spacewalks
   1 spacewalk
   1 spaces
+  1 spaceport
   1 spacecrafts
+  1 spacechain
   1 spaceborne
   1 soyuz
+  1 soundscape
   1 sounding
   1 souls
-  1 sought
   1 sorting
+  1 sophia
   1 sooner
   1 songbird
   1 sonar
@@ -3775,9 +4165,10 @@
   1 soldiers
   1 sold
   1 soils
+  1 sofia
   1 sodium
-  1 soccer
   1 soc
+  1 soar
   1 snouts
   1 sneak
   1 snapshot
@@ -3792,6 +4183,7 @@
   1 smashes
   1 smasher
   1 smash
+  1 smartphone
   1 smallgeo
   1 slurp
   1 slugs
@@ -3805,7 +4197,7 @@
   1 slate
   1 slashdot
   1 slams
-  1 slac
+  1 skyrmion
   1 skipping
   1 skewed
   1 skepticism
@@ -3816,12 +4208,13 @@
   1 sir
   1 singularity
   1 sings
-  1 singapore
   1 simultaneously
+  1 simulators
   1 simulated
   1 simplify
   1 simplicity
   1 simpath
+  1 similarly
   1 silver
   1 sikorsky
   1 signalling
@@ -3831,7 +4224,6 @@
   1 sierra
   1 sidr
   1 sided
-  1 sickle
   1 shutdown
   1 shut
   1 shubhendu
@@ -3844,6 +4236,7 @@
   1 shots
   1 shortest
   1 shopping
+  1 shoebox
   1 shockwaves
   1 shocking
   1 shipping
@@ -3859,33 +4252,42 @@
   1 shatters
   1 sharpest
   1 sharpens
-  1 sharp
   1 sharma
   1 sharkcano
+  1 sharing
+  1 shared
+  1 shareable
   1 shallow
   1 shale
   1 shaking
+  1 shadow
   1 sh
   1 sexy
   1 sextant
-  1 several
+  1 severe
   1 seven
   1 settlement
+  1 setting
   1 sessions
   1 sesame
   1 serving
+  1 servicing
   1 services
   1 serves
+  1 servers
   1 serotonin
   1 series
   1 sequences
   1 sequencer
   1 september
   1 separations
+  1 separated
   1 sentient
   1 sent
   1 sensory
+  1 sensibility
   1 send
+  1 semimetal
   1 semiconductor
   1 semiaquatic
   1 selinux
@@ -3896,7 +4298,7 @@
   1 seizures
   1 seismic
   1 segments
-  1 segmentnext
+  1 seedlings
   1 securing
   1 secures
   1 securely
@@ -3911,14 +4313,16 @@
   1 seagrass
   1 seagate
   1 seach
-  1 sdo
-  1 sdn
+  1 seabin
+  1 sdks
   1 scriptreplay
   1 scripps
-  1 screening
+  1 screens
   1 screenfetch
+  1 scratch
   1 scours
-  1 sclerosis
+  1 scores
+  1 sciences
   1 schroedinger
   1 schrodinger
   1 scholar
@@ -3930,14 +4334,13 @@
   1 scattered
   1 scars
   1 scar
-  1 scans
   1 scanning
-  1 scalable
   1 scaffold
   1 sbc
   1 saxon
   1 saw
   1 saving
+  1 saves
   1 saved
   1 savannas
   1 savanna
@@ -3946,24 +4349,23 @@
   1 saucer
   1 sasha
   1 sarcopterygian
-  1 sapiens
   1 sanskrit
   1 sanity
   1 sandisk
-  1 sand
+  1 sandia
   1 san
   1 samsung
   1 samples
   1 salty
   1 salt
-  1 salmon
   1 salinity
+  1 saline
   1 sales
   1 salamanders
-  1 salamander
   1 sail
   1 sahara
   1 sagittarius
+  1 safer
   1 safely
   1 sacrifice
   1 sa
@@ -3980,46 +4382,48 @@
   1 routine
   1 routes
   1 router
+  1 route
+  1 rousing
   1 roundup
   1 rotations
   1 rotation
+  1 rosen
   1 rose
-  1 root
   1 roles
   1 rodents
   1 rocketdyne
   1 robust
-  1 robot
   1 roar
+  1 roamed
   1 rivals
-  1 rival
   1 rit
-  1 rising
   1 ripple
   1 ringing
   1 riken
+  1 rift
   1 riddle
-  1 rico
   1 richer
   1 rican
   1 ribosome
   1 riboflavin
+  1 ribbon
   1 rhythm
   1 rhino
   1 rhea
+  1 rewired
   1 rewards
   1 revolutions
   1 revolutionized
-  1 revisited
+  1 revolutionise
   1 reversing
   1 revamped
   1 returning
   1 returned
-  1 retreat
   1 retardants
   1 retaining
   1 retained
   1 retain
+  1 resurrect
   1 resumes
   1 resume
   1 restricts
@@ -4035,22 +4439,24 @@
   1 residues
   1 residual
   1 reshapes
-  1 reset
   1 reservoir
   1 reserves
   1 reserve
   1 requires
+  1 requirements
   1 require
   1 requesting
   1 reptilian
   1 reprograming
   1 reproducible
   1 reproduces
+  1 reproduce
   1 reprocessing
-  1 repository
   1 reported
+  1 replication
   1 replicating
   1 replays
+  1 replacements
   1 repeatable
   1 repairing
   1 renew
@@ -4060,25 +4466,25 @@
   1 remission
   1 remarkable
   1 remade
+  1 rely
   1 reluctant
   1 relief
   1 relics
   1 relentless
-  1 relativity
-  1 relationships
   1 relationship
   1 relapse
   1 reinterpreting
+  1 reinforced
   1 reigning
   1 rehabilitation
-  1 regulators
   1 regulations
+  1 regulation
   1 regulated
-  1 regular
   1 regrow
   1 regression
   1 regolith
   1 regenerating
+  1 regardless
   1 regain
   1 reforms
   1 reflects
@@ -4087,9 +4493,9 @@
   1 refines
   1 refined
   1 reengineer
-  1 reef
   1 reduction
   1 redirection
+  1 redesigns
   1 recycles
   1 recovery
   1 recovered
@@ -4098,27 +4504,28 @@
   1 recording
   1 recordbreaking
   1 reconstructed
-  1 reconstruct
-  1 recommended
   1 recombination
-  1 recognizes
+  1 recognize
   1 recognises
+  1 reciprocal
   1 recipient
   1 recipe
   1 rechargeable
-  1 receptors
   1 recently
+  1 receives
   1 recalls
   1 recall
   1 rebound
   1 reboot
   1 reasoning
   1 reasonable
+  1 realistic
   1 realism
   1 readying
   1 readings
+  1 readies
   1 readied
-  1 reaction
+  1 reactor
   1 reached
   1 rcas
   1 rationality
@@ -4127,9 +4534,9 @@
   1 rarely
   1 rapunzel
   1 raptor
+  1 ranks
   1 rangelands
   1 ram
-  1 raises
   1 rainy
   1 rains
   1 raining
@@ -4139,28 +4546,26 @@
   1 rail
   1 radiotherapy
   1 radiometric
+  1 radiology
   1 radiobiology
   1 radioactive
   1 radical
   1 radiationless
+  1 radiance
   1 racing
-  1 rabbits
   1 rabbit
+  1 quintillionths
   1 quiet
   1 quicker
   1 quick
-  1 question
-  1 quest
   1 query
   1 quenching
   1 queensland
-  1 queens
   1 queen
-  1 quasiparticles
+  1 quasiparticle
   1 quasicrystal
   1 quartz
   1 quarters
-  1 quarks
   1 quaoar
   1 quantized
   1 quantization
@@ -4169,26 +4574,26 @@
   1 quadrupled
   1 quad
   1 qt
+  1 qiskit
+  1 qbits
   1 pv
   1 puzzling
-  1 puts
-  1 pursuit
   1 pursue
-  1 purpose
   1 pure
   1 purchase
   1 puppetmasters
-  1 punishment
   1 punch
   1 pumpkin
   1 pumping
   1 pummel
   1 pulses
+  1 pulsed
+  1 pulmonary
   1 pulling
   1 puffing
-  1 puerto
   1 publishing
   1 publishes
+  1 publish
   1 publicly
   1 pterosaurs
   1 pterodactyl
@@ -4200,45 +4605,45 @@
   1 proxima
   1 provision
   1 proving
+  1 providing
   1 proves
   1 proven
   1 proved
-  1 prototype
   1 protons
   1 protests
   1 proteomics
   1 proteomic
   1 protection
+  1 prosanta
   1 proposes
   1 proposals
   1 proper
   1 propels
   1 propelling
-  1 propelled
   1 proofreader
   1 proof
   1 prone
   1 prompts
-  1 promote
   1 proliferation
   1 projecting
   1 progression
   1 programmed
   1 professorship
+  1 productive
   1 producible
+  1 processor
+  1 probiotics
   1 probing
   1 probed
   1 probably
   1 probability
-  1 privacy
   1 priorities
   1 prints
   1 printer
-  1 principle
+  1 print
   1 princeton
   1 primo
   1 primed
-  1 prime
   1 prices
   1 price
   1 previous
@@ -4246,6 +4651,7 @@
   1 pretty
   1 prestin
   1 pressures
+  1 pressing
   1 press
   1 president
   1 preshistoric
@@ -4268,9 +4674,9 @@
   1 predating
   1 predate
   1 precursors
-  1 precipitation
   1 pravda
   1 praise
+  1 practiced
   1 powertop
   1 poweroff
   1 powering
@@ -4282,29 +4688,31 @@
   1 possesses
   1 positrons
   1 positioning
+  1 position
+  1 posh
   1 ported
-  1 portable
   1 porous
   1 populated
+  1 populate
   1 pop
   1 polytechnic
   1 polyphonic
   1 polymers
   1 pollutants
   1 pollinized
+  1 pollinator
   1 pollinate
   1 political
   1 polarity
   1 polarised
-  1 polar
   1 poetic
+  1 podolsky
   1 pnas
   1 plutonium
   1 plus
   1 plumes
   1 plugins
   1 plug
-  1 plenty
   1 plentiful
   1 pledges
   1 pledge
@@ -4312,25 +4720,30 @@
   1 player
   1 played
   1 platypus
+  1 platinum
+  1 platforms
   1 plateau
   1 plate
   1 plasticity
   1 plaque
   1 planting
   1 planted
-  1 planning
   1 planktonic
   1 planck
   1 planarian
+  1 plain
   1 placenta
   1 placed
+  1 pivotal
   1 pittsburgh
   1 pits
   1 pipelines
   1 piped
   1 pinpointed
+  1 pinning
   1 pink
   1 pine
+  1 pillars
   1 pigments
   1 pigeonholes
   1 pigeonhole
@@ -4350,24 +4763,29 @@
   1 phylogenetics
   1 phpvirtualbox
   1 photosystem
+  1 photorespiration
   1 photonics
+  1 photography
   1 photographer
   1 photograph
   1 photoelectrochemical
   1 photoelectric
+  1 photodetector
+  1 phonon
   1 phobos
   1 phishing
+  1 phenotypic
   1 phenogenetic
   1 phasing
-  1 phases
   1 pharmacology
   1 pharmacodynamics
   1 pharao
   1 phantom
   1 pflops
   1 petranek
+  1 petabyte
   1 pests
-  1 personalized
+  1 peruvian
   1 personality
   1 personalised
   1 personable
@@ -4382,12 +4800,14 @@
   1 periods
   1 periodic
   1 performs
+  1 performing
   1 perform
   1 perceptual
   1 perception
   1 pennies
   1 pendulum
   1 pen
+  1 peltier
   1 peering
   1 peek
   1 peaks
@@ -4399,26 +4819,30 @@
   1 paula
   1 paths
   1 pathological
+  1 pathogens
   1 pathogen
+  1 pathfinding
+  1 patents
   1 patented
   1 patching
   1 patches
+  1 patagonian
   1 patagonia
-  1 password
+  1 paste
   1 passwd
   1 passion
   1 passenger
   1 passageway
   1 partnerships
-  1 partners
-  1 partner
-  1 partitions
+  1 participating
   1 partial
   1 parsing
   1 parrots
   1 parliament
   1 parks
+  1 park
   1 paris
+  1 parasite
   1 paraplegic
   1 paralysis
   1 parallel
@@ -4430,7 +4854,6 @@
   1 panics
   1 panels
   1 pandax
-  1 pancreatic
   1 paleolithic
   1 palaeontology
   1 palaeomagnetic
@@ -4439,6 +4862,7 @@
   1 paintings
   1 painting
   1 pain
+  1 pagos
   1 page
   1 packets
   1 packed
@@ -4453,6 +4877,7 @@
   1 owl
   1 overturn
   1 overtakes
+  1 overtake
   1 oversight
   1 overlooked
   1 overlapped
@@ -4462,57 +4887,62 @@
   1 outweigh
   1 outward
   1 outstrip
-  1 outcomes
+  1 outline
   1 ospreys
   1 osha
   1 oscillate
   1 organized
   1 organize
-  1 organizations
   1 organizational
-  1 organization
   1 organise
+  1 organics
   1 organelles
-  1 ordinary
   1 orders
   1 orchestrator
   1 orchestra
   1 oranges
-  1 orange
   1 optomechanical
   1 options
   1 optimizing
   1 optimal
   1 optics
+  1 optically
   1 optic
   1 opioids
   1 opinion
   1 operator
+  1 operative
   1 operational
   1 operation
-  1 operated
   1 operate
   1 opera
+  1 openssh
   1 opensource
   1 openpower
   1 openmessaging
+  1 openly
   1 opened
+  1 openai
   1 openage
   1 opaque
+  1 onnes
   1 ongoing
+  1 omega
   1 olive
   1 okinawan
+  1 ohio
   1 offset
   1 official
   1 offices
   1 offered
   1 odyssey
   1 odors
+  1 odderon
   1 ocr
   1 oceanic
   1 oceania
   1 occurs
-  1 occupation
+  1 occurrence
   1 obtain
   1 observium
   1 observing
@@ -4521,22 +4951,25 @@
   1 obama
   1 oases
   1 nz
+  1 nyscf
   1 nuts
   1 nutritious
   1 nutritional
-  1 nutrients
   1 nutrient
+  1 nus
   1 nukes
   1 nudging
   1 nudges
+  1 nucleus
   1 nucleation
   1 ntp
+  1 nsf
   1 novelties
   1 novae
   1 nouveau
   1 notorious
   1 noticeable
-  1 notes
+  1 note
   1 notches
   1 norwegian
   1 northwestern
@@ -4548,21 +4981,21 @@
   1 nominated
   1 noises
   1 nodes
-  1 nocturnal
   1 nobre
   1 nobody
+  1 nmrcloudq
   1 nmr
-  1 nmap
-  1 nm
   1 njit
   1 nix
-  1 nitrogen
+  1 nit
+  1 ninos
   1 nina
   1 nighttime
   1 nights
   1 nightmare
   1 nietzsche
   1 niels
+  1 niche
   1 nice
   1 niac
   1 nginx
@@ -4571,12 +5004,11 @@
   1 newswire
   1 newser
   1 newfound
-  1 newest
   1 newborns
   1 newborn
-  1 neutrons
+  1 neurosurgery
   1 neuroprostheses
-  1 neuronal
+  1 neuromorphic
   1 neurogenesis
   1 neurogaming
   1 neurodevelopmental
@@ -4594,7 +5026,9 @@
   1 neocortex
   1 nemo
   1 neighboring
+  1 negative
   1 needle
+  1 needing
   1 nectar
   1 neck
   1 necessity
@@ -4602,6 +5036,7 @@
   1 neandertals
   1 neafc
   1 ncc
+  1 navigating
   1 naturally
   1 nation
   1 natgeo
@@ -4611,12 +5046,15 @@
   1 nanotechnologies
   1 nanotech
   1 nanoscopy
+  1 nanoribbons
+  1 nanomotor
   1 nanometers
-  1 nanomedicine
+  1 nanomaterials
   1 nanomaterial
   1 nanomachine
   1 nanolaser
   1 nanoflares
+  1 nanofabrication
   1 nanodroplets
   1 nanodiamonds
   1 nanodevices
@@ -4625,16 +5063,20 @@
   1 nam
   1 naked
   1 nakasone
+  1 nailing
   1 mysteriously
   1 mylar
   1 mutants
   1 musicians
+  1 musician
   1 musical
   1 mushroom
   1 museum
-  1 muons
+  1 muscle
   1 municipal
   1 multitasking
+  1 multiplexed
+  1 multifunctional
   1 mud
   1 mu
   1 mph
@@ -4645,15 +5087,12 @@
   1 mott
   1 motors
   1 motivations
-  1 motivates
+  1 moths
   1 mothers
   1 mother
   1 moss
   1 mosquitos
-  1 mortal
-  1 morphology
   1 morphine
-  1 morocco
   1 morley
   1 moran
   1 morality
@@ -4664,6 +5103,7 @@
   1 monopoles
   1 monogamous
   1 monkeys
+  1 monica
   1 monday
   1 monarch
   1 momentum
@@ -4673,13 +5113,17 @@
   1 module
   1 modulation
   1 modular
+  1 modify
   1 modifies
+  1 modes
   1 modernized
   1 modelling
+  1 modeled
   1 mobility
   1 mn
   1 mm
   1 mixed
+  1 mites
   1 mist
   1 missing
   1 misfits
@@ -4687,12 +5131,13 @@
   1 mirrored
   1 miranda
   1 mir
+  1 minuscule
   1 mining
-  1 minimalist
   1 miniature
+  1 minerology
   1 mine
   1 mimicking
-  1 millisecond
+  1 milner
   1 millipede
   1 millionth
   1 millimeter
@@ -4701,28 +5146,34 @@
   1 milepost
   1 migrates
   1 migraines
-  1 mid
   1 microxwin
   1 microwhip
+  1 microwaves
   1 microwave
   1 microshutters
+  1 microsensors
   1 microsecond
   1 microscopic
   1 micros
   1 micrornas
   1 microrna
+  1 microplastics
   1 microparticles
   1 micromagnet
   1 microlens
   1 microkernel
   1 micrograph
   1 microformats
+  1 microenvironments
   1 microchip
+  1 microbots
   1 microboone
-  1 micro
+  1 micius
   1 michelson
+  1 mice
   1 metrics
   1 metric
+  1 methodology
   1 methanol
   1 meters
   1 meteorology
@@ -4730,8 +5181,8 @@
   1 meteor
   1 metaphysicist
   1 metamorphosis
+  1 metamaterials
   1 metacognition
-  1 meta
   1 messing
   1 messel
   1 messaging
@@ -4739,26 +5190,25 @@
   1 mesozoic
   1 mesoproterozoic
   1 mers
+  1 merging
+  1 mergers
   1 mentality
-  1 member
   1 melt
   1 melanesians
   1 megafauna
   1 meeting
   1 medium
-  1 medicines
   1 medicinal
   1 mediated
   1 media
   1 mechanic
   1 meat
   1 meant
-  1 means
   1 meaning
   1 mean
-  1 meal
   1 me
   1 md
+  1 mcgrath
   1 mc
   1 mbari
   1 maybe
@@ -4769,7 +5219,11 @@
   1 maternal
   1 masters
   1 mastering
+  1 mastered
+  1 massively
+  1 masses
   1 marvelous
+  1 marriage
   1 marking
   1 market
   1 markers
@@ -4790,18 +5244,21 @@
   1 makeover
   1 majority
   1 majestic
-  1 maintainer
+  1 mainstream
   1 mainframe
   1 main
+  1 magnonic
   1 magnitude
   1 magnetoreception
+  1 magnetometry
+  1 magnetocaloric
+  1 magnetized
   1 magndata
   1 maglev
   1 magellanic
   1 madala
   1 macroscopic
   1 lurking
-  1 lungs
   1 luna
   1 lumpiverse
   1 lump
@@ -4814,28 +5271,31 @@
   1 lps
   1 lpic
   1 lower
+  1 lowdown
+  1 louis
   1 loud
   1 lot
   1 losses
   1 lorentz
   1 loopholes
   1 loong
-  1 looked
   1 longing
-  1 longevity
   1 lonely
   1 logical
   1 logging
+  1 loggerhead
+  1 log
   1 locomotion
   1 lockheed
   1 locked
-  1 locates
+  1 locate
   1 localize
   1 lobster
   1 load
   1 lm
   1 livescience
   1 liver
+  1 livepatch
   1 littlest
   1 litmus
   1 lithium
@@ -4847,58 +5307,62 @@
   1 linuxcon
   1 lint
   1 linguists
-  1 lineages
   1 lineage
   1 linchpin
+  1 limiting
+  1 likes
   1 likeness
+  1 likecoin
+  1 lightsabers
   1 lighting
   1 lighter
   1 lifeforms
-  1 lichens
+  1 licensing
   1 licenses
+  1 licensed
   1 license
-  1 library
   1 libra
   1 liberty
   1 li
+  1 lfn
+  1 lf
   1 lexicon
   1 levitation
   1 levitating
   1 levitate
   1 levi
+  1 leveraging
+  1 leverages
   1 leukemias
   1 leukemia
   1 leukaemia
   1 lettuce
   1 letter
-  1 lesser
+  1 lets
   1 leone
-  1 lensing
   1 lens
+  1 length
+  1 lemurs
   1 lego
   1 legislature
   1 legacy
   1 lee
   1 leds
-  1 leaving
   1 lease
   1 learnings
   1 leapt
-  1 leaps
   1 leapfrog
   1 leaking
+  1 leader
   1 lazy
   1 latinos
   1 lasting
   1 lashed
-  1 larger
   1 laptop
   1 lane
   1 landslides
-  1 landslide
   1 landscapes
   1 lama
-  1 lakes
   1 lair
   1 ladee
   1 lacks
@@ -4906,36 +5370,39 @@
   1 labeling
   1 label
   1 la
+  1 kubernetes
   1 kph
-  1 kombat
+  1 koreasat
+  1 kondo
   1 knots
   1 knew
   1 knee
   1 kms
   1 klekowskii
   1 kiwi
-  1 kit
   1 king
-  1 killing
   1 kill
-  1 kickstarter
+  1 kick
   1 kibo
   1 khorramabad
   1 khanna
   1 khali
   1 kernels
+  1 keras
   1 keolu
   1 kenyan
   1 keepsake
   1 kc
   1 kavli
   1 kamiokande
+  1 kamerlingh
   1 kaldar
   1 kahn
   1 kagra
   1 jurassic
   1 junk
   1 jumps
+  1 jumping
   1 juicy
   1 juice
   1 jpl
@@ -4945,8 +5412,6 @@
   1 joint
   1 joined
   1 john
-  1 jobs
-  1 job
   1 jila
   1 jewel
   1 jetting
@@ -4960,11 +5425,15 @@
   1 javascript
   1 jamaica
   1 j
+  1 ive
+  1 ity
   1 itproportal
   1 italy
+  1 issuesand
   1 issued
   1 issue
   1 israeli
+  1 israel
   1 isotopic
   1 isotope
   1 isos
@@ -4981,13 +5450,13 @@
   1 ipfire
   1 iowa
   1 iotop
-  1 ions
   1 involves
   1 invites
   1 invisibly
   1 invests
   1 investments
   1 investment
+  1 investing
   1 investigates
   1 invertebrates
   1 inventory
@@ -5005,33 +5474,38 @@
   1 intriguingly
   1 intriguing
   1 intrigues
+  1 intrigue
+  1 intra
   1 interviews
-  1 interview
   1 interventions
   1 intervention
-  1 interstellar
   1 interpret
   1 interplay
   1 interplanetary
-  1 interiors
   1 interfacing
+  1 intercontinental
   1 interconnect
   1 interacts
+  1 inter
   1 intense
+  1 intelligences
   1 integrates
-  1 integral
   1 insulin
+  1 insulator
+  1 insulating
+  1 instructors
   1 instructions
   1 instantaneous
   1 instant
   1 installation
-  1 inspiring
-  1 inspired
   1 inspire
   1 inspect
   1 insidehpc
+  1 insecticides
   1 inquisitr
   1 innovative
+  1 innovations
+  1 innovation
   1 innovating
   1 innovate
   1 innes
@@ -5040,6 +5514,7 @@
   1 injectable
   1 initial
   1 inhibits
+  1 inherited
   1 inheritance
   1 ingredient
   1 informative
@@ -5056,55 +5531,57 @@
   1 infancy
   1 inexpensive
   1 inevitable
-  1 industries
   1 indulge
   1 induces
   1 individualized
   1 indicates
-  1 index
   1 independently
-  1 independent
   1 indefinable
   1 indc
   1 incron
   1 incredibly
   1 increasing
-  1 income
-  1 including
+  1 inclusivity
+  1 inclusiveness
+  1 inclusive
   1 inbox
   1 inaugurated
   1 inaugurate
   1 inaugural
   1 inactivated
   1 inability
-  1 improvement
   1 imposters
   1 impossibly
   1 impose
   1 imply
   1 implementing
   1 implants
+  1 imperfect
   1 impaired
-  1 impacted
+  1 impacting
   1 immutable
   1 immediately
   1 imitators
   1 imitates
   1 imbalance
   1 imagination
+  1 illustristng
   1 illusion
-  1 illuminates
   1 illuminated
+  1 illnesses
+  1 ile
   1 ikaros
   1 iiot
   1 iguanas
+  1 ignore
+  1 ignite
+  1 ieee
   1 ide
   1 id
   1 icons
   1 icon
   1 icing
   1 icelandic
-  1 icecube
   1 iceberg
   1 ic
   1 ibis
@@ -5112,10 +5589,13 @@
   1 ian
   1 hypothesised
   1 hypothesis
+  1 hypergravity
+  1 hyperdrive
   1 hydroponic
   1 hydroelectric
   1 hydroclimate
   1 huxley
+  1 hurricanes
   1 hurdle
   1 hunts
   1 hunters
@@ -5123,6 +5603,8 @@
   1 hundreds
   1 hummingbird
   1 humble
+  1 humanoid
+  1 hugely
   1 hue
   1 hub
   1 http
@@ -5133,19 +5615,21 @@
   1 household
   1 houseguests
   1 hotspots
+  1 hosted
   1 hospital
   1 horwitz
+  1 horses
   1 horse
   1 horned
   1 hormones
-  1 horizon
   1 hordes
   1 hopping
-  1 hope
+  1 hopes
+  1 honors
   1 honeydew
   1 honeycomb
   1 honeybees
-  1 homes
+  1 hominins
   1 holometer
   1 holography
   1 hologram
@@ -5154,12 +5638,16 @@
   1 hl
   1 hive
   1 histone
+  1 hiring
   1 hippos
   1 hippocampus
+  1 hinode
   1 hinders
+  1 him
   1 hills
-  1 highways
+  1 hill
   1 highway
+  1 highlighting
   1 hierarchy
   1 hiding
   1 hiccups
@@ -5173,14 +5661,16 @@
   1 herd
   1 herbivores
   1 herbicides
+  1 herbicide
   1 heralds
   1 hemp
-  1 hemispheres
   1 hemisphere
   1 helsinki
+  1 helpful
   1 hello
   1 hellacious
   1 heliosphere
+  1 heliophysics
   1 helicoptering
   1 helicopter
   1 held
@@ -5190,25 +5680,25 @@
   1 heatwaves
   1 heats
   1 heartbeat
-  1 healthcare
   1 heals
   1 heal
   1 headless
-  1 heading
   1 he
   1 hazards
+  1 hazardous
   1 hawc
   1 having
   1 haven
   1 hatching
+  1 hatched
   1 hasson
   1 hasn
+  1 harvard
+  1 harpoon
   1 harnessing
   1 harnesses
-  1 harness
   1 harmless
   1 hares
-  1 hardening
   1 harbors
   1 happening
   1 happened
@@ -5222,15 +5712,13 @@
   1 hairs
   1 hair
   1 hail
-  1 hacking
   1 hackers
   1 habitability
   1 habit
   1 gvt
   1 guinness
-  1 guides
+  1 guiding
   1 guidelines
-  1 guided
   1 gs
   1 grub
   1 grsecurity
@@ -5241,8 +5729,8 @@
   1 greenlandic
   1 greener
   1 greek
-  1 greatly
   1 greatest
+  1 gravitation
   1 grasps
   1 grasp
   1 grapples
@@ -5250,22 +5738,22 @@
   1 graphical
   1 grapes
   1 grapefruit
-  1 gradually
+  1 grafts
   1 gradual
+  1 gradient
+  1 governments
   1 gov
   1 gorillas
   1 gorilla
   1 gorgeous
-  1 gone
+  1 goodies
   1 goldilocks
-  1 golden
   1 gol
   1 goddard
   1 goce
   1 gobbled
   1 gobble
   1 gnupg
-  1 gmos
   1 gluons
   1 globular
   1 globe
@@ -5276,7 +5764,6 @@
   1 glasses
   1 giving
   1 given
-  1 github
   1 giraffes
   1 gills
   1 gigantopithecus
@@ -5285,6 +5772,7 @@
   1 gifs
   1 ghz
   1 ghost
+  1 gerst
   1 germination
   1 georgia
   1 geophysicists
@@ -5297,34 +5785,38 @@
   1 generosity
   1 generic
   1 generator
-  1 generations
   1 generating
-  1 general
+  1 generates
   1 genealogy
+  1 gender
   1 geeks
   1 geckos
-  1 ge
+  1 gdpr
   1 gazette
   1 gazes
-  1 gave
   1 gauging
   1 gathering
   1 gatherers
   1 gather
+  1 gateway
   1 gates
   1 gate
   1 gardener
+  1 garden
   1 gaps
   1 gansu
   1 gamingonlinux
-  1 gaming
   1 gallons
   1 gallon
   1 gallium
   1 gallery
+  1 galilean
   1 gale
+  1 gal
   1 gains
   1 gained
+  1 gabon
+  1 fy
   1 fuzzy
   1 futuristic
   1 futura
@@ -5334,7 +5826,7 @@
   1 furthest
   1 further
   1 fungus
-  1 fungi
+  1 funding
   1 funded
   1 functionally
   1 fun
@@ -5347,32 +5839,40 @@
   1 fried
   1 fridge
   1 frictionless
+  1 fresh
   1 frequently
   1 frequencies
   1 freon
   1 freeze
+  1 freeware
+  1 freely
+  1 freedom
   1 fredkin
   1 frames
   1 fragrances
+  1 fragmentation
   1 fractals
   1 fracking
   1 fps
   1 fpga
   1 fpaste
   1 fox
+  1 founding
   1 foundations
   1 fossbytes
-  1 foss
   1 fortifying
   1 fortify
   1 formulated
   1 formic
   1 format
+  1 forklift
   1 forking
+  1 fork
   1 forgetting
   1 forget
   1 forged
   1 forge
+  1 foretell
   1 foresee
   1 forensic
   1 forecast
@@ -5381,11 +5881,10 @@
   1 forage
   1 footprint
   1 footage
-  1 foods
   1 fogo
-  1 focused
   1 fluoresces
   1 fluorescent
+  1 fluctuations
   1 fluctuates
   1 flower
   1 flourishing
@@ -5405,57 +5904,64 @@
   1 flatworms
   1 flattr
   1 flattest
+  1 flatland
   1 flat
+  1 flashlight
+  1 flashes
   1 flamingo
   1 fixing
   1 fix
   1 fittest
   1 fishing
   1 fishers
+  1 fished
   1 firms
   1 firewall
   1 fires
   1 fireflies
+  1 fired
+  1 firebird
   1 fireballs
   1 fireball
   1 finish
   1 fingerprinting
   1 fingernail
+  1 finger
   1 finches
-  1 financial
   1 finale
   1 filters
   1 film
   1 fills
   1 filled
   1 filing
+  1 filesystem
+  1 filament
   1 fiery
   1 fidelity
-  1 fibrosis
   1 fibers
-  1 fi
   1 feynman
   1 fewer
   1 few
   1 fetal
+  1 fertilizer
+  1 fertilize
   1 fertilization
   1 ferroelectric
   1 ferocious
   1 feral
+  1 femtoscale
   1 females
   1 fell
   1 felix
   1 feeling
-  1 feel
   1 federal
   1 feathery
   1 fears
   1 fdisk
+  1 fda
   1 favourite
-  1 faults
   1 fats
   1 farthest
-  1 farms
   1 farmers
   1 fantasy
   1 fancy
@@ -5464,18 +5970,19 @@
   1 familiar
   1 false
   1 falls
+  1 falcon
   1 faint
-  1 failure
   1 fails
   1 failed
   1 fads
   1 faculties
   1 factsheet
   1 factory
+  1 factorization
   1 factories
   1 facto
-  1 fact
   1 facelift
+  1 fabrication
   1 fabricated
   1 fabric
   1 fabien
@@ -5485,9 +5992,12 @@
   1 extremes
   1 extremely
   1 extrasolar
+  1 extragalactic
+  1 extracts
+  1 extraction
+  1 extracting
   1 extinctions
   1 extensive
-  1 extended
   1 extend
   1 ext
   1 expressivity
@@ -5499,12 +6009,12 @@
   1 explored
   1 exploitation
   1 explaining
-  1 expert
+  1 expire
+  1 experimentation
   1 experimentally
   1 experiences
   1 expensive
   1 expedites
-  1 expands
   1 exoskeleton
   1 exogenous
   1 exo
@@ -5514,13 +6024,15 @@
   1 exhibiting
   1 exhaust
   1 exercising
-  1 executive
   1 exclusive
+  1 excited
   1 exceptionally
   1 exceeds
+  1 example
   1 exact
+  1 exacomputer
   1 ex
-  1 everyone
+  1 evaluation
   1 evaluate
   1 evade
   1 eva
@@ -5531,35 +6043,34 @@
   1 eudoxus
   1 ethylene
   1 ethiopia
-  1 ethical
   1 ethernet
   1 eternity
   1 eternal
-  1 estimating
+  1 estimation
   1 estimates
-  1 estimate
   1 esteem
-  1 establishes
   1 established
   1 establish
   1 essentials
   1 especially
+  1 escapes
   1 erupting
   1 erupt
-  1 erosion
   1 eridanus
+  1 erasable
   1 eradication
-  1 equivalence
+  1 equips
   1 equipped
   1 equatorial
-  1 equal
+  1 equator
+  1 eqt
   1 epimetheus
   1 epigenetics
   1 epidemic
   1 epicenter
+  1 eovsa
   1 envisioned
   1 envision
-  1 environmentally
   1 entropy
   1 entitlement
   1 entangles
@@ -5567,37 +6078,44 @@
   1 ensure
   1 enslave
   1 enlisting
+  1 enlisted
   1 enlist
   1 enhancing
+  1 enhances
   1 enhancer
-  1 engines
   1 engages
   1 enforcer
   1 energizes
   1 energized
   1 energetic
   1 enemy
+  1 enemies
   1 endoparasitoid
   1 endless
-  1 ending
   1 encrypting
   1 encodes
+  1 encircling
   1 enchants
   1 enabling
+  1 enabled
   1 empty
   1 employ
   1 empires
+  1 emphasize
   1 emperor
   1 emotions
   1 emotionally
   1 emit
   1 emission
-  1 emerges
   1 emergent
+  1 embraces
   1 embrace
   1 embedded
+  1 embattled
+  1 emacs
   1 em
   1 elucidation
+  1 elucidate
   1 elsewhere
   1 elkdat
   1 elizabeth
@@ -5605,12 +6123,13 @@
   1 elevated
   1 elevate
   1 element
+  1 electroreception
   1 electroporation
   1 electromechanical
   1 electrodeless
   1 electrochemical
   1 electrocatalysis
-  1 election
+  1 elc
   1 elasmosaur
   1 ejecting
   1 eiffel
@@ -5621,18 +6140,21 @@
   1 eerie
   1 eel
   1 educational
-  1 education
   1 educating
+  1 edition
   1 edison
   1 eczema
   1 ecuadorian
   1 ecuador
+  1 ecostress
   1 economically
   1 ecology
+  1 ecological
   1 echoes
   1 echo
   1 ebook
   1 ebola
+  1 eaton
   1 eaten
   1 eastern
   1 earthsky
@@ -5644,22 +6166,25 @@
   1 dysgraphia
   1 dynamos
   1 dynamo
-  1 dynamic
   1 dxl
   1 dwm
+  1 dwarfed
   1 dutch
   1 duplications
   1 duplication
   1 duplicating
   1 duo
   1 dune
+  1 duchenne
   1 dubai
-  1 dual
   1 dscovring
   1 dry
   1 drupal
+  1 drops
   1 dropping
+  1 drones
   1 drivers
+  1 driverless
   1 drill
   1 drift
   1 dric
@@ -5675,13 +6200,10 @@
   1 downlink
   1 downdraft
   1 doudna
-  1 doubles
-  1 dots
   1 dose
   1 dosage
   1 dormancy
   1 doorstep
-  1 doors
   1 doomed
   1 donuts
   1 donut
@@ -5689,21 +6211,22 @@
   1 donato
   1 domination
   1 dominates
+  1 domestic
   1 dolphin
   1 dogs
   1 dog
-  1 doesn
   1 dodos
   1 document
+  1 diy
   1 division
   1 dividing
   1 divided
-  1 divide
   1 dives
+  1 diversifies
+  1 divers
   1 diverged
   1 dive
   1 disturb
-  1 distros
   1 distribute
   1 distress
   1 distractions
@@ -5711,100 +6234,111 @@
   1 distinct
   1 disrupting
   1 disproven
+  1 displaying
   1 disperse
   1 dispersal
-  1 dish
   1 disc
   1 disasters
   1 disaster
   1 disappearing
   1 disappearance
-  1 disabilities
+  1 disabled
   1 directories
   1 directions
-  1 direction
   1 dirac
   1 dir
   1 dione
-  1 dimensions
+  1 dimension
   1 dilemmas
   1 digits
   1 digit
   1 digging
+  1 digest
   1 diffraction
-  1 difficult
   1 differs
   1 diego
   1 dictionary
+  1 diana
   1 diamonds
   1 diameter
-  1 diagnosis
   1 diagnosing
-  1 diabetes
+  1 diagnoses
+  1 diabetic
+  1 di
   1 dhabi
+  1 dexterity
+  1 devsecops
+  1 devs
   1 devoured
   1 devised
   1 devil
-  1 develops
   1 developent
   1 dev
-  1 determines
+  1 deterrent
   1 determined
   1 destroys
   1 despotism
   1 desperately
   1 deserts
-  1 descent
   1 descendants
   1 depths
   1 depth
   1 deposits
   1 deploys
   1 deployments
-  1 deploy
   1 depending
-  1 dependent
+  1 department
   1 departed
+  1 dentistry
   1 dental
   1 density
   1 denisovans
-  1 demos
+  1 demonstration
+  1 democratizing
   1 demise
-  1 dementia
   1 demands
   1 delving
+  1 dellingr
   1 delft
+  1 deleting
   1 deleted
+  1 delete
   1 degrees
   1 degree
+  1 degradation
   1 degenerating
   1 deformed
   1 deforested
   1 definition
   1 defenses
+  1 defense
   1 defend
+  1 defence
   1 defeats
-  1 deer
   1 deeply
+  1 deeper
   1 deemed
   1 decrypting
+  1 decrease
   1 decodes
   1 declining
   1 declines
   1 declined
   1 deciphered
   1 decipher
-  1 decides
   1 decelerator
   1 decarbornise
-  1 debugging
+  1 debuggers
   1 debating
   1 deaths
+  1 deaf
   1 daya
   1 dawkins
   1 davis
   1 dave
+  1 dated
   1 datasets
+  1 datanami
   1 databases
   1 dashboard
   1 dartmouth
@@ -5814,7 +6348,6 @@
   1 dangers
   1 danger
   1 dancing
-  1 dampe
   1 damaged
   1 dama
   1 dalai
@@ -5823,27 +6356,31 @@
   1 cystic
   1 cygnus
   1 cyclones
-  1 cycling
+  1 cyclic
   1 cyborg
   1 cybersecurity
   1 cyanobacteria
   1 cuts
   1 cute
-  1 cut
   1 customize
   1 custom
   1 curvature
+  1 curl
   1 curing
   1 curcumin
+  1 culturing
   1 cultures
   1 culprits
   1 cuisine
   1 cucumber
+  1 cubists
   1 cubesats
+  1 cube
   1 cu
   1 crytek
   1 crystallography
   1 crystal
+  1 cryptocurrency
   1 cryotank
   1 cryogel
   1 cryo
@@ -5852,16 +6389,21 @@
   1 crude
   1 crown
   1 crowdsourced
-  1 crossroads
+  1 crowded
   1 crosses
   1 crossed
   1 cross
+  1 cron
   1 crocodilian
+  1 crocodiles
   1 criticality
   1 criteria
+  1 crisis
   1 cries
   1 creepiest
   1 creek
+  1 creators
+  1 creator
   1 creation
   1 cream
   1 crazy
@@ -5877,11 +6419,11 @@
   1 covering
   1 covered
   1 cousteau
+  1 court
   1 courses
-  1 coupling
+  1 couplings
   1 counterpart
   1 counter
-  1 costs
   1 cosmonauts
   1 cosmonaut
   1 cosmology
@@ -5902,42 +6444,37 @@
   1 coreos
   1 cords
   1 cord
-  1 corals
   1 copy
   1 coping
-  1 copernicus
   1 cope
   1 cools
   1 cooled
   1 converting
   1 converter
   1 converted
-  1 convert
+  1 conversations
   1 converge
   1 controversial
   1 contributions
   1 contribution
   1 contributed
   1 contradicts
+  1 contracts
   1 contraceptive
   1 continuum
   1 continuously
-  1 content
   1 contend
-  1 contaminated
   1 containing
+  1 containerizes
   1 consuming
-  1 construct
   1 constitute
   1 constants
   1 constantly
   1 console
   1 consider
   1 conserved
-  1 conservative
   1 conservation
   1 connects
-  1 connectivity
   1 connect
   1 conifers
   1 congratulations
@@ -5952,6 +6489,8 @@
   1 condensation
   1 condensate
   1 concrete
+  1 conclusion
+  1 concerns
   1 concept
   1 concede
   1 computes
@@ -5959,28 +6498,29 @@
   1 compressive
   1 compression
   1 compress
-  1 comprehension
-  1 compounds
   1 compound
   1 compositor
-  1 components
   1 complicated
-  1 compliance
-  1 completely
+  1 complexes
+  1 completion
   1 compiler
+  1 competitive
   1 competition
   1 compatible
+  1 compartments
   1 comparison
   1 communicates
+  1 communicated
   1 commits
   1 commission
+  1 commercially
   1 comment
   1 commemorating
   1 commandline
   1 commander
   1 combustion
   1 combining
-  1 combined
+  1 combinations
   1 combating
   1 columns
   1 column
@@ -5988,34 +6528,33 @@
   1 columbia
   1 colourful
   1 colour
-  1 colossal
   1 colorful
   1 colony
   1 colonizers
   1 colonized
   1 colonised
   1 colocalized
+  1 collimators
   1 collide
   1 collections
   1 collect
   1 collaspe
-  1 collapse
-  1 collaboration
   1 coldest
   1 coherent
   1 cognition
   1 coghlan
+  1 cog
   1 coexisted
-  1 coexist
   1 coevolved
   1 codes
   1 cocoa
   1 cockpit
   1 cocaine
   1 coastal
+  1 coalition
   1 cnet
-  1 cms
   1 cluster
+  1 club
   1 clovers
   1 clotting
   1 closing
@@ -6028,26 +6567,30 @@
   1 clinicians
   1 climbed
   1 climax
+  1 clearing
+  1 clearest
   1 cleared
   1 clearcutting
+  1 cleaning
   1 cleanest
   1 classrooms
   1 classroom
   1 classifications
-  1 classes
-  1 clan
   1 civilization
   1 civil
-  1 citizen
   1 circulator
   1 circular
   1 circuitry
   1 circle
+  1 cio
   1 cia
+  1 ci
   1 churns
   1 churning
   1 chronic
   1 chromosomes
+  1 chromosomal
+  1 chrome
   1 chosen
   1 chooses
   1 choices
@@ -6062,29 +6605,34 @@
   1 chicxulub
   1 chicken
   1 chick
-  1 chess
   1 cheshire
   1 chemosensory
-  1 chemists
-  1 chemicals
+  1 chemist
   1 cheetah
   1 cheapest
   1 cheap
   1 chattr
+  1 chases
   1 charting
+  1 charmingly
   1 charity
   1 charges
   1 charged
   1 characterizing
+  1 characterization
+  1 chapel
+  1 champion
   1 chamber
+  1 challenging
   1 challenged
   1 chalk
+  1 chakrabarty
   1 chains
   1 certs
-  1 certified
   1 certifications
   1 certificates
   1 cerf
+  1 cereal
   1 central
   1 centipede
   1 centers
@@ -6099,18 +6647,22 @@
   1 cavities
   1 cavefish
   1 causality
+  1 cats
   1 categorize
   1 catch
   1 catalyzing
-  1 catalyst
+  1 catalytic
   1 cataloging
-  1 castle
+  1 cataclysmic
+  1 cast
   1 cassis
+  1 casper
   1 cartoon
   1 carrot
   1 carrier
   1 carotene
   1 care
+  1 cardone
   1 cardiovascular
   1 cardiologist
   1 cardio
@@ -6127,20 +6679,24 @@
   1 cannabinoid
   1 cambridge
   1 cambodia
+  1 calorismart
   1 calming
   1 calling
   1 calibre
   1 calculator
   1 calculating
   1 calculated
+  1 calcium
+  1 cage
   1 cacao
   1 ca
   1 buy
   1 button
-  1 butterfly
   1 butterflies
   1 butter
+  1 butane
   1 bust
+  1 bus
   1 bursts
   1 burrowing
   1 burns
@@ -6149,24 +6705,25 @@
   1 burden
   1 bundle
   1 bunching
-  1 bumblebees
   1 bullying
-  1 bugs
+  1 bullet
   1 buds
+  1 buckling
   1 bubbles
   1 brought
   1 broods
+  1 broke
+  1 broccoli
   1 brink
+  1 brilliant
   1 brightness
   1 brighter
   1 briefly
-  1 brief
   1 bridging
   1 bridges
   1 brewing
   1 bremmer
   1 breeds
-  1 breeding
   1 breeders
   1 breathing
   1 breathe
@@ -6176,11 +6733,13 @@
   1 brca
   1 brave
   1 brand
+  1 branching
   1 branched
+  1 brakes
+  1 brainy
   1 brackish
   1 bracket
   1 boxes
-  1 box
   1 bowen
   1 bounce
   1 bottlenecks
@@ -6193,52 +6752,54 @@
   1 boon
   1 boo
   1 bonobos
-  1 bonds
   1 bombproof
   1 bomb
   1 bolsters
   1 bolster
-  1 bold
   1 bohr
+  1 bogong
   1 boeing
+  1 bodyguards
   1 bodies
   1 boat
   1 boasts
   1 bo
-  1 bn
   1 blurry
   1 blurred
   1 blur
   1 blows
-  1 blowing
   1 blow
   1 blooms
+  1 bloodless
   1 blombos
   1 blogs
-  1 blockchain
   1 blink
   1 blindness
   1 bleaching
   1 blaze
   1 blazars
-  1 blame
+  1 blasts
   1 blaise
   1 blades
   1 blade
   1 blackouts
   1 blackboarding
+  1 bitcoin
   1 bit
   1 birthplace
   1 birdwatchers
   1 birdsongs
+  1 biotechnologies
+  1 biostructures
   1 biosensors
   1 bioreactors
+  1 bioprinting
   1 bionic
   1 biomass
   1 biomarker
-  1 bioluminescence
   1 biologically
   1 biography
+  1 biogenome
   1 biofuel
   1 bioethics
   1 bioethanol
@@ -6247,13 +6808,13 @@
   1 biodegradable
   1 biochemists
   1 biochemistry
+  1 biochemical
   1 binocular
   1 binding
-  1 binaries
+  1 bind
   1 billions
   1 bill
   1 bilingualism
-  1 bilateral
   1 bigelow
   1 bicycle
   1 biased
@@ -6265,11 +6826,12 @@
   1 berners
   1 bermuda
   1 berkholz
-  1 berkeley
   1 bepicolombo
   1 benefited
   1 beneficiaries
   1 belowground
+  1 belonged
+  1 bell
   1 believe
   1 beijing
   1 behemoth
@@ -6277,12 +6839,12 @@
   1 behaves
   1 beginnings
   1 beetle
-  1 bee
   1 bedrooms
-  1 becoming
   1 because
+  1 became
   1 beautifully
-  1 bears
+  1 beat
+  1 bear
   1 beaks
   1 beaker
   1 beagle
@@ -6291,23 +6853,28 @@
   1 batteries
   1 battered
   1 bathes
-  1 batch
   1 basins
+  1 baselined
   1 barley
-  1 barcoding
-  1 bank
+  1 barcodes
   1 banish
   1 bandages
   1 bananas
+  1 baltic
+  1 balls
+  1 balloons
+  1 balancing
   1 bags
   1 bacterium
   1 backwards
+  1 backward
   1 backup
   1 backplane
   1 background
   1 backed
   1 babylonians
   1 azcentral
+  1 awk
   1 awaited
   1 avoids
   1 avoiding
@@ -6316,13 +6883,10 @@
   1 average
   1 autumn
   1 autonomously
-  1 automation
   1 automatic
   1 autoimmunity
-  1 auto
   1 australians
   1 august
-  1 augmented
   1 audio
   1 attractor
   1 attraction
@@ -6331,7 +6895,6 @@
   1 attempt
   1 attain
   1 attack
-  1 atomically
   1 atlantis
   1 athletic
   1 ate
@@ -6343,16 +6906,19 @@
   1 astronomic
   1 astrobiology
   1 astounding
+  1 asthma
   1 asteroseismologists
   1 associations
   1 association
-  1 assist
+  1 assistants
+  1 assemblies
   1 assembles
+  1 assemble
   1 aspirin
   1 aspen
+  1 aspects
   1 aspect
   1 asleep
-  1 aside
   1 asian
   1 asia
   1 artillery
@@ -6363,16 +6929,17 @@
   1 arsenic
   1 arrow
   1 arrived
+  1 arrays
   1 arose
   1 aristoteles
   1 ariel
   1 ariane
   1 aren
-  1 archive
   1 architects
   1 archaic
   1 archaeology
   1 archaeological
+  1 arch
   1 arcas
   1 arboreal
   1 arachnids
@@ -6380,46 +6947,52 @@
   1 arabian
   1 arabia
   1 arab
+  1 ar
   1 aqueous
   1 aquanauts
+  1 approximate
   1 apply
+  1 applies
   1 applied
   1 appearance
   1 appeal
   1 apparently
   1 apparent
   1 appalachian
-  1 apache
   1 anyway
   1 antonio
   1 antiviral
   1 antisense
   1 antiquarks
   1 antiproton
+  1 antiparticles
   1 antiobesity
   1 antinuclei
   1 antineutrino
   1 antidotes
   1 anticyclones
+  1 antibodies
+  1 antibiotics
   1 anthropic
   1 antennae
   1 antenna
   1 antares
-  1 ant
-  1 anomaly
+  1 answers
+  1 anonymity
   1 anomalies
-  1 annual
   1 annoyance
   1 announcing
+  1 announcements
   1 announcement
   1 annihilation
   1 annealing
   1 ankylosaur
   1 ankle
+  1 anisotropic
   1 anglo
   1 anemia
   1 ancestral
-  1 analyzes
+  1 analyzing
   1 analyzer
   1 analogue
   1 amputees
@@ -6427,8 +7000,10 @@
   1 amplified
   1 amphibians
   1 amphibian
+  1 amounts
   1 ammonia
   1 amiss
+  1 amino
   1 ambitions
   1 ambient
   1 amassing
@@ -6436,21 +7011,26 @@
   1 alvin
   1 aluminum
   1 altruism
-  1 alters
+  1 alternatives
   1 alternative
   1 altamura
+  1 alps
+  1 alphago
   1 alpha
   1 aloud
+  1 ally
   1 alloy
-  1 allowed
   1 allow
+  1 allocations
   1 alliance
   1 allegiance
   1 allafrica
   1 alignment
   1 aligned
   1 align
+  1 alias
   1 alfvenic
+  1 alexander
   1 alertness
   1 alert
   1 aldous
@@ -6464,14 +7044,12 @@
   1 airborne
   1 aiming
   1 aimed
-  1 aim
   1 ailments
   1 agu
   1 agricultural
   1 agreement
   1 aggregation
   1 ages
-  1 agent
   1 ageing
   1 ag
   1 aftermath
@@ -6481,11 +7059,12 @@
   1 aerosols
   1 aerojet
   1 advisor
-  1 advice
   1 adverse
+  1 adversarial
   1 advantage
   1 adoption
   1 admissions
+  1 admins
   1 adhesive
   1 adhesion
   1 adhd
@@ -6493,33 +7072,39 @@
   1 adding
   1 addictive
   1 addict
-  1 actually
+  1 adaptive
+  1 acute
+  1 actor
+  1 activities
   1 activating
   1 activated
-  1 act
   1 acre
+  1 acquired
+  1 acqua
   1 acm
+  1 acids
   1 acidity
+  1 acidifying
   1 achilles
   1 achieving
+  1 achieved
   1 accumulation
   1 accumulate
   1 accounts
+  1 accountability
   1 accordingly
   1 accomplishes
   1 accident
-  1 accessible
-  1 accelerator
-  1 acceleration
+  1 accelerated
   1 academic
+  1 academia
   1 abu
   1 abstract
   1 absorber
-  1 absorb
   1 absolute
   1 absence
   1 aboveground
   1 abnormalities
   1 abnormal
-  1 able
+  1 abil
   1 abdomens

@@ -4,7 +4,7 @@ title: "Elon Musk plans to open source Tesla's self-driving software"
 date: 2018-08-14
 categories: Open Source
 author: unknown author
-tags: [Tesla Inc, Technology, Computing]
+tags: [Tesla Inc, Technology, Computing, Featured]
 ---
 
 

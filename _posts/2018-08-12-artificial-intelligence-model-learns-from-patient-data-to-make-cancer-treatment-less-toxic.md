@@ -4,7 +4,7 @@ title: "Artificial intelligence model “learns” from patient data to make can
 date: 2018-08-12
 categories: Science
 author: Rob Matheson | MIT News Office
-tags: [Dose (biochemistry), Radiation therapy, Brain tumor, Glioblastoma, Medicine, Health, Clinical medicine, Health sciences, Medical specialties, Health care, Medical treatments, Biology]
+tags: [Dose (biochemistry), Radiation therapy, Brain tumor, Glioblastoma, Medicine, Health, Clinical medicine, Health sciences, Medical specialties, Health care, Medical treatments, Biology, Featured]
 ---
 
 

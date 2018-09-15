@@ -4,7 +4,7 @@ title: "CRISPR diversifies: Cut, paste, on, off, and now—evolve"
 date: 2018-08-02
 categories: Science
 author: unknown author
-tags: [Evolution, Genome editing, Cas9, Gene, CRISPR, DNA, Mutation, Directed evolution, Genetics, DNA repair, Biochemistry, Molecular biology, Biotechnology, Nature, Organisms, Life sciences, Biology]
+tags: [Evolution, Genome editing, Cas9, Gene, CRISPR, DNA, Mutation, Directed evolution, Genetics, DNA repair, Biochemistry, Molecular biology, Biotechnology, Nature, Organisms, Life sciences, Biology, Featured]
 ---
 
 

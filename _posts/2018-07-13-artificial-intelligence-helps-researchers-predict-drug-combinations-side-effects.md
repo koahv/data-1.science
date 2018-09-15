@@ -4,7 +4,7 @@ title: "Artificial intelligence helps  researchers predict drug combinations' si
 date: 2018-07-13
 categories: Science
 author: unknown author
-tags: [Medication, Adverse effect, Artificial intelligence, Research, Science, Deep learning, Prediction, Pharmacy, Human activities, Health, Technology]
+tags: [Medication, Adverse effect, Artificial intelligence, Research, Science, Deep learning, Prediction, Pharmacy, Human activities, Health, Technology, Featured]
 ---
 
 

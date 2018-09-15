@@ -4,7 +4,7 @@ title: "How birds can detect Earth’s magnetic field"
 date: 2018-07-01
 categories: Science
 author: unknown author
-tags: [Magnetoreception, Human activities, Cognition, Cognitive science]
+tags: [Magnetoreception, Human activities, Cognition, Cognitive science, Featured]
 ---
 
 

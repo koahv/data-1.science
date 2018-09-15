@@ -4,7 +4,7 @@ title: "How Einstein's equivalence principle extends to the quantum world"
 date: 2018-08-18
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Physics, Mass, Gravity, Equivalence principle, Mechanics, Matter, Epistemology of science, Mechanical engineering, Scientific method, Applied and interdisciplinary physics, Solid state engineering, Physical sciences, Theoretical physics, Modern physics, Science, Particle physics, Scientific theories]
+tags: [Quantum mechanics, Physics, Mass, Gravity, Equivalence principle, Mechanics, Matter, Epistemology of science, Mechanical engineering, Scientific method, Applied and interdisciplinary physics, Solid state engineering, Physical sciences, Theoretical physics, Modern physics, Science, Particle physics, Scientific theories, Featured]
 ---
 
 

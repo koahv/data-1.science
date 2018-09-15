@@ -4,7 +4,7 @@ title: "LHC accelerates its first 'atoms'"
 date: 2018-08-01
 categories: Science
 author: unknown author
-tags: [Large Hadron Collider, Particle accelerator, CERN, Particle beam, Super Proton Synchrotron, Electron, Gamma ray, Synchrotron, Proton, Electrodynamics, Electromagnetic radiation, Nature, Chemistry, Particle physics, Physical sciences, Applied and interdisciplinary physics, Physics]
+tags: [Large Hadron Collider, Particle accelerator, CERN, Particle beam, Super Proton Synchrotron, Electron, Gamma ray, Synchrotron, Proton, Electrodynamics, Electromagnetic radiation, Nature, Chemistry, Particle physics, Physical sciences, Applied and interdisciplinary physics, Physics, Featured]
 ---
 
 

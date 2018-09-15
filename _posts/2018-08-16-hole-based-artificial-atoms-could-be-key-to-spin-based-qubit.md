@@ -4,7 +4,7 @@ title: "Hole-based artificial atoms could be key to spin-based qubit"
 date: 2018-08-16
 categories: Science
 author: unknown author
-tags: [Quantum dot, Spin (physics), Electron, Quantum computing, Electron hole, MOSFET, Atom, Semiconductor, Physics, Physical sciences, Mechanics, Condensed matter physics, Solid state engineering, Particle physics, Modern physics, Theoretical physics, Applied and interdisciplinary physics, Chemistry, Quantum mechanics, Electromagnetism]
+tags: [Quantum dot, Spin (physics), Electron, Quantum computing, Electron hole, MOSFET, Atom, Semiconductor, Physics, Physical sciences, Mechanics, Condensed matter physics, Solid state engineering, Particle physics, Modern physics, Theoretical physics, Applied and interdisciplinary physics, Chemistry, Quantum mechanics, Electromagnetism, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Automating molecule design to speed up drug development"
 date: 2018-07-13
 categories: Science
 author: Rob Matheson | MIT News Office
-tags: [Graph theory, Machine learning, Simplified molecular-input line-entry system, Molecule, Medicinal chemistry, Cluster analysis, Areas of computer science, Applied mathematics, Technology, Cognitive science]
+tags: [Graph theory, Machine learning, Simplified molecular-input line-entry system, Molecule, Medicinal chemistry, Cluster analysis, Areas of computer science, Applied mathematics, Technology, Cognitive science, Featured]
 ---
 
 

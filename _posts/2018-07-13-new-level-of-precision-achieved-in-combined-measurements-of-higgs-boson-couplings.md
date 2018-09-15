@@ -4,7 +4,7 @@ title: "New level of precision achieved in combined measurements of Higgs boson 
 date: 2018-07-13
 categories: Science
 author: unknown author
-tags: [Standard Model, Higgs boson, ATLAS experiment, Particle physics, Top quark, Large Hadron Collider, Physics beyond the Standard Model, Quark, W and Z bosons, Quantum mechanics, Modern physics, Science, Subatomic particles, Mechanics, Physical bodies, Quantum field theory, Nuclear physics, Theoretical physics, Physical sciences, Physics]
+tags: [Standard Model, Higgs boson, ATLAS experiment, Particle physics, Top quark, Large Hadron Collider, Physics beyond the Standard Model, Quark, W and Z bosons, Quantum mechanics, Modern physics, Science, Subatomic particles, Mechanics, Physical bodies, Quantum field theory, Nuclear physics, Theoretical physics, Physical sciences, Physics, Featured]
 ---
 
 

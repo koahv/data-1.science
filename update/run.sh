@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+echo shell:textrazor.sh
+time sh textrazor.sh
+
+echo shell:create_post2.sh
+time sh create_post2.sh
+
 echo shell:locate.sh
 time sh locate.sh
 

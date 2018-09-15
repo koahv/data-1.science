@@ -4,7 +4,7 @@ title: "Datanami: Linux Foundation Launches Open AI Effort"
 date: 2018-05-01
 categories: Linux
 author: Gracie Gregory
-tags: []
+tags: [Featured]
 ---
 
 

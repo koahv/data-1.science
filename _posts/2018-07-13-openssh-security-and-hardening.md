@@ -11,7 +11,7 @@ tags: [Secure Shell, OpenSSH, Computer networking, System software, Secure commu
 
 
 #### Extract
->SSH or Secure Shell is the popular protocol for doing system administration on Linux systems. It runs on most systems, often with its default configuration. As this service opens up a potential gateway into the system, it is one of the steps to hardening a Linux system. This article will help you to secure the OpenSSH service and further increase the security defenses of the system. OpenSSH security OpenSSH is under development by the security fanatics from the OpenBSD project. Every new [...]
+>SSH or Secure Shell is the popular protocol for doing system administration on Linux systems. It runs on most systems, often with its default configuration. As this service opens up a potential gateway into the system, it is one of the steps to hardening a Linux system. This article covers the SSH security tips to secure the OpenSSH service and increase the defenses of the system. OpenSSH security OpenSSH is under development by the security fanatics from the OpenBSD project. Every new [...]
 The post OpenSSH security and hardening appeared first on Linux Audit....
 
 

@@ -4,7 +4,7 @@ title: "Meet the skyrmions—exotic quasiparticles could revolutionise computing
 date: 2018-08-06
 categories: Science
 author: unknown author
-tags: [Physics, Skyrmion, Large Hadron Collider, Topological order, Chemistry, Applied and interdisciplinary physics, Physical sciences]
+tags: [Physics, Skyrmion, Large Hadron Collider, Topological order, Chemistry, Applied and interdisciplinary physics, Physical sciences, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Free Open Source Guides Offer Practical Advice for Building Leadership"
 date: 2018-07-12
 categories: Linux
 author: Sam Dean
-tags: [Leadership, Open-source software, Community, Collaboration, Cognition, Communication, Business, Human activities, Culture]
+tags: [Leadership, Open-source software, Community, Collaboration, Cognition, Communication, Business, Human activities, Culture, Featured]
 ---
 
 

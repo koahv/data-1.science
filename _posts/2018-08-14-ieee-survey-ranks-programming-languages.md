@@ -4,7 +4,7 @@ title: "IEEE Survey Ranks Programming Languages"
 date: 2018-08-14
 categories: Linux
 author: EE Times
-tags: [Computing, Software]
+tags: [Computing, Software, Featured]
 ---
 
 

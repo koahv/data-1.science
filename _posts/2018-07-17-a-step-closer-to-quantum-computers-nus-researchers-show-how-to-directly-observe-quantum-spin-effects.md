@@ -4,7 +4,7 @@ title: "A step closer to quantum computers: NUS researchers show how to directly
 date: 2018-07-17
 categories: Science
 author: unknown author
-tags: [Quantum mechanics, Quantum computing, Electron, Computing, Computer, Topological insulator, Electricity, Spin (physics), Scientist, Science, Microscope, National University of Singapore, Light, Engineering, Physics, Technology]
+tags: [Quantum mechanics, Quantum computing, Electron, Computing, Computer, Topological insulator, Electricity, Spin (physics), Scientist, Science, Microscope, National University of Singapore, Light, Engineering, Physics, Technology, Featured]
 ---
 
 

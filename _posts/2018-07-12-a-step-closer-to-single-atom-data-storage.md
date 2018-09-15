@@ -4,7 +4,7 @@ title: "A step closer to single-atom data storage"
 date: 2018-07-12
 categories: Science
 author: unknown author
-tags: [National Ignition Facility, Computer data storage, Physics, Applied and interdisciplinary physics, Chemistry, Physical sciences, Electromagnetism, Materials science]
+tags: [National Ignition Facility, Computer data storage, Physics, Applied and interdisciplinary physics, Chemistry, Physical sciences, Electromagnetism, Materials science, Featured]
 ---
 
 

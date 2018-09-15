@@ -4,7 +4,7 @@ title: "Newest supercomputer to help develop fusion energy in international devi
 date: 2018-07-28
 categories: Science
 author: unknown author
-tags: [Nuclear fusion, Physics, ITER, National Energy Research Scientific Computing Center, Simulation, Plasma (physics), Science]
+tags: [Nuclear fusion, Physics, ITER, National Energy Research Scientific Computing Center, Simulation, Plasma (physics), Science, Featured]
 ---
 
 

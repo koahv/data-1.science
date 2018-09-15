@@ -4,7 +4,7 @@ title: "Artificial intelligence system created at UNC-Chapel Hill designs drugs 
 date: 2018-08-01
 categories: Technology
 author: unknown author
-tags: [Medication, American Association for the Advancement of Science, Drug discovery, University, University of North Carolina at Chapel Hill, Virtual screening, Science, Education, Culture, Human activities, Cognitive science, Science and technology, Cognition, Research]
+tags: [Medication, American Association for the Advancement of Science, Drug discovery, University, University of North Carolina at Chapel Hill, Virtual screening, Science, Education, Culture, Human activities, Cognitive science, Science and technology, Cognition, Research, Featured]
 ---
 
 

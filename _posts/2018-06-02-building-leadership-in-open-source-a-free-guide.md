@@ -4,7 +4,7 @@ title: "Building Leadership in Open Source: A Free Guide"
 date: 2018-06-02
 categories: Linux
 author: Amber Ankerholz
-tags: [Leadership, Open-source model, Open-source software movement, Community, Communication]
+tags: [Leadership, Open-source model, Open-source software movement, Community, Communication, Featured]
 ---
 
 

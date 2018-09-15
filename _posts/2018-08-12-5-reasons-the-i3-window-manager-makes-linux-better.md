@@ -4,7 +4,7 @@ title: "5 reasons the i3 window manager makes Linux better"
 date: 2018-08-12
 categories: Open Source
 author: rgerardi
-tags: [Workspace, Computer keyboard, Desktop environment, Keyboard shortcut, Shortcut (computing), Keyboard layout, Microsoft Windows, Window manager, Software, Areas of computer science, Humancomputer interaction, Computer architecture, Technology, Graphical user interfaces, User interfaces, Digital media, Computer engineering, Computers, System software, Computing]
+tags: [Workspace, Computer keyboard, Desktop environment, Keyboard shortcut, Shortcut (computing), Keyboard layout, Microsoft Windows, Window manager, Software, Areas of computer science, Humancomputer interaction, Computer architecture, Technology, Graphical user interfaces, User interfaces, Digital media, Computer engineering, Computers, System software, Computing, Featured]
 ---
 
 

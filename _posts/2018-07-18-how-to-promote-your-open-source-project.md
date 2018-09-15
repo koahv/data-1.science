@@ -4,7 +4,7 @@ title: "How to promote your open source project"
 date: 2018-07-18
 categories: Linux
 author: Michael Boelen
-tags: [Software, Open-source software, Ubuntu (operating system), Linux distribution, Linux, Website, Marketing, Image scanner, Computing, Digital media, Intellectual works, Technology, Computer engineering]
+tags: [Software, Open-source software, Ubuntu (operating system), Linux distribution, Linux, Website, Marketing, Image scanner, Computing, Digital media, Intellectual works, Technology, Computer engineering, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "'Topological' graphene nanoribbons trap electrons for new quantum materi
 date: 2018-08-12
 categories: Science
 author: unknown author
-tags: [Graphene nanoribbon, Graphene, Electron, Quantum mechanics, Physics, Applied and interdisciplinary physics, Chemistry, Materials, Physical sciences, Materials science, Condensed matter physics, Physical chemistry, Condensed matter, Chemical product engineering]
+tags: [Graphene nanoribbon, Graphene, Electron, Quantum mechanics, Physics, Applied and interdisciplinary physics, Chemistry, Materials, Physical sciences, Materials science, Condensed matter physics, Physical chemistry, Condensed matter, Chemical product engineering, Featured]
 ---
 
 

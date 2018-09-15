@@ -4,7 +4,7 @@ title: "A colossal breakthrough for topological spintronics"
 date: 2018-08-01
 categories: Science
 author: unknown author
-tags: [Topological insulator, Electrical resistivity and conductivity, Magnetoresistive random-access memory, Spin (physics), Hall effect, Spin Hall effect, Thin film, Applied and interdisciplinary physics, Electricity, Solid state engineering, Electronics, Chemical product engineering, Artificial objects, Physical sciences, Condensed matter, Technology, Chemistry, Materials science, Electromagnetism, Condensed matter physics, Physics, Materials]
+tags: [Topological insulator, Electrical resistivity and conductivity, Magnetoresistive random-access memory, Spin (physics), Hall effect, Spin Hall effect, Thin film, Applied and interdisciplinary physics, Electricity, Solid state engineering, Electronics, Chemical product engineering, Artificial objects, Physical sciences, Condensed matter, Technology, Chemistry, Materials science, Electromagnetism, Condensed matter physics, Physics, Materials, Featured]
 ---
 
 

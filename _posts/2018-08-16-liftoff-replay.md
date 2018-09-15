@@ -4,7 +4,7 @@ title: "Liftoff replay"
 date: 2018-08-16
 categories: Astronomy
 author: unknown author
-tags: [Sentinel-3, Copernicus Programme, Spaceflight, Outer space, Earth sciences, Spacecraft, Satellites, Geography, Oceanography, Physical geography]
+tags: [Sentinel-3, Copernicus Programme, Spaceflight, Outer space, Earth sciences, Spacecraft, Satellites, Geography, Oceanography, Physical geography, Featured]
 ---
 
 

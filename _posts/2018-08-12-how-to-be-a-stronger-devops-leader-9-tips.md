@@ -4,7 +4,7 @@ title: "How to Be a Stronger DevOps Leader: 9 Tips"
 date: 2018-08-12
 categories: Linux
 author: Enterprisers
-tags: [DevOps, Human activities, Business]
+tags: [DevOps, Human activities, Business, Featured]
 ---
 
 

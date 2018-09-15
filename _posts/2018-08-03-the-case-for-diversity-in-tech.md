@@ -4,7 +4,7 @@ title: "The Case for Diversity in Tech"
 date: 2018-08-03
 categories: Diversity
 author: Code Like a Girl
-tags: [Problem solving, Psychology, Cognition, Psychological concepts, Culture, Human activities]
+tags: [Problem solving, Psychology, Cognition, Psychological concepts, Culture, Human activities, Featured]
 ---
 
 

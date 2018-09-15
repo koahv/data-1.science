@@ -4,7 +4,7 @@ title: "3Q: A bold mission to touch the sun"
 date: 2018-08-14
 categories: Science
 author: Jennifer Chu | MIT News Office
-tags: [Sun, Solar wind, Space probe, Outer space, Voyager program, Corona, Wind, Parker Solar Probe, Physical phenomena, Astronomy, Physical sciences, Space science, Nature, Physics, Solar System, Applied and interdisciplinary physics, Sky, Spaceflight]
+tags: [Sun, Solar wind, Space probe, Outer space, Voyager program, Corona, Wind, Parker Solar Probe, Physical phenomena, Astronomy, Physical sciences, Space science, Nature, Physics, Solar System, Applied and interdisciplinary physics, Sky, Spaceflight, Featured]
 ---
 
 

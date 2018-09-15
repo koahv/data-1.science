@@ -4,7 +4,7 @@ title: "Domain Experts, Welcome to Quantum: Introducing QISKit ACQUA"
 date: 2018-07-03
 categories: Technology
 author: Bob Sutor
-tags: []
+tags: [Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "Mapping of magnetic particles in the human brain"
 date: 2018-08-01
 categories: Science
 author: unknown author
-tags: [Brain, Science, Research, Magnetism, American Association for the Advancement of Science, Ludwig Maximilian University of Munich, Neuroscience, Cognitive science, Nervous system, Cognition]
+tags: [Brain, Science, Research, Magnetism, American Association for the Advancement of Science, Ludwig Maximilian University of Munich, Neuroscience, Cognitive science, Nervous system, Cognition, Featured]
 ---
 
 

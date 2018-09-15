@@ -4,7 +4,7 @@ title: "Within 10 years, a high-luminosity LHC at CERN"
 date: 2018-07-01
 categories: Science
 author: unknown author
-tags: [Large Hadron Collider, Compact Muon Solenoid, ATLAS experiment, Particle physics, Particle accelerator, Collider, CERN, Applied and interdisciplinary physics, Physics, Science, Accelerator physics, Experimental physics, Physical sciences]
+tags: [Large Hadron Collider, Compact Muon Solenoid, ATLAS experiment, Particle physics, Particle accelerator, Collider, CERN, Applied and interdisciplinary physics, Physics, Science, Accelerator physics, Experimental physics, Physical sciences, Featured]
 ---
 
 

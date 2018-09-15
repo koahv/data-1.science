@@ -4,7 +4,7 @@ title: "Researchers review the rapid progress in machine learning for the chemic
 date: 2018-08-01
 categories: Science
 author: unknown author
-tags: [Artificial intelligence, Machine learning, Science, Scientific method, Technology, Intelligence, Research, Chemical substance, Learning, Computer, Artificial objects, Science and technology, Cognition, Culture, Cognitive science]
+tags: [Artificial intelligence, Machine learning, Science, Scientific method, Technology, Intelligence, Research, Chemical substance, Learning, Computer, Artificial objects, Science and technology, Cognition, Culture, Cognitive science, Featured]
 ---
 
 

@@ -4,7 +4,7 @@ title: "A Wayback Machine for Source Code"
 date: 2018-06-28
 categories: Linux
 author: Undark
-tags: [Software Heritage, Archive, Source code, Internet Archive, Digital technology, Computer engineering, Computers, Digital media, Computing, Software, Intellectual works, Information technology management]
+tags: [Software Heritage, Archive, Source code, Internet Archive, Digital technology, Computer engineering, Computers, Digital media, Computing, Software, Intellectual works, Information technology management, Featured]
 ---
 
 

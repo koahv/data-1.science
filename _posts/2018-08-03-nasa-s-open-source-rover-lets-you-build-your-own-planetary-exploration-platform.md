@@ -4,7 +4,7 @@ title: "NASA’s Open Source Rover Lets you Build Your Own Planetary Exploration
 date: 2018-08-03
 categories: Linux
 author: TechCrunch
-tags: [Jet Propulsion Laboratory, Spacecraft, Discovery and exploration of the Solar System, NASA, Mars, Space exploration, Astronautics, Spaceflight, Outer space, Flight, Space science, Space program of the United States, Exploration of Mars, Spaceflight technologies, Solar System, Planets of the Solar System, Missions to Mars, Missions to the planets]
+tags: [Jet Propulsion Laboratory, Spacecraft, Discovery and exploration of the Solar System, NASA, Mars, Space exploration, Astronautics, Spaceflight, Outer space, Flight, Space science, Space program of the United States, Exploration of Mars, Spaceflight technologies, Solar System, Planets of the Solar System, Missions to Mars, Missions to the planets, Featured]
 ---
 
 

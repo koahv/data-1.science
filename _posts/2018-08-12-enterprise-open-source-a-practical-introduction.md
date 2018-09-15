@@ -4,7 +4,7 @@ title: "Enterprise Open Source: A Practical Introduction"
 date: 2018-08-12
 categories: Linux
 author: The Linux Foundation
-tags: [Open-source software, Information technology, Management, Technology, Intellectual works, Business, Computing, Software]
+tags: [Open-source software, Information technology, Management, Technology, Intellectual works, Business, Computing, Software, Featured]
 ---
 
 

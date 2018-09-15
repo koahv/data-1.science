@@ -4,7 +4,7 @@ title: "Galileo liftoff replay"
 date: 2018-08-16
 categories: Astronomy
 author: unknown author
-tags: [Spaceflight, Flight, Space launch vehicles, Rocketry, Astronautics, Spaceflight technologies, Space traffic management, Aerospace engineering, Outer space, European space programmes, Space programs, Spacecraft, Space agencies, European Space Agency, Space policy of the European Union, Rockets and missiles]
+tags: [Spaceflight, Flight, Space launch vehicles, Rocketry, Astronautics, Spaceflight technologies, Space traffic management, Aerospace engineering, Outer space, European space programmes, Space programs, Spacecraft, Space agencies, European Space Agency, Space policy of the European Union, Rockets and missiles, Featured]
 ---
 
 

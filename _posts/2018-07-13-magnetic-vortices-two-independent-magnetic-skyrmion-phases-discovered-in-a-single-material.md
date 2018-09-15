@@ -4,7 +4,7 @@ title: "Magnetic vortices: Two independent magnetic skyrmion phases discovered i
 date: 2018-07-13
 categories: Science
 author: unknown author
-tags: [Skyrmion, Physics, Temperature, Quantum mechanics, Neutron, Magnetism, Phase (matter), Metastability, Research, Chemistry, Theoretical physics, Particle physics, Materials science, Applied and interdisciplinary physics, Physical sciences, Mechanics, Science]
+tags: [Skyrmion, Physics, Temperature, Quantum mechanics, Neutron, Magnetism, Phase (matter), Metastability, Research, Chemistry, Theoretical physics, Particle physics, Materials science, Applied and interdisciplinary physics, Physical sciences, Mechanics, Science, Featured]
 ---
 
 

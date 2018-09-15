@@ -4,7 +4,7 @@ title: "A photosynthetic engine for artificial cells"
 date: 2018-06-02
 categories: Technology
 author: unknown author
-tags: [Cell (biology), Cell membrane, Protein, Actin, Adenosine triphosphate, Biology, Life sciences, Organisms, Chemistry, Molecular biology, Biotechnology, Biochemistry, Cell biology]
+tags: [Cell (biology), Cell membrane, Protein, Actin, Adenosine triphosphate, Biology, Life sciences, Organisms, Chemistry, Molecular biology, Biotechnology, Biochemistry, Cell biology, Featured]
 ---
 
 

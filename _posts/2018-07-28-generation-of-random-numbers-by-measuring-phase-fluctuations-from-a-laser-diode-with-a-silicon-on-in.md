@@ -4,7 +4,7 @@ title: "Generation of random numbers by measuring phase fluctuations from a lase
 date: 2018-07-28
 categories: Technology
 author: unknown author
-tags: [Photonics, Silicon photonics, Integrated circuit, Random number generation, Atomic molecular and optical physics, Electromagnetic radiation, Technology, Natural philosophy, Science, Optics, Electronics, Applied and interdisciplinary physics]
+tags: [Photonics, Silicon photonics, Integrated circuit, Random number generation, Atomic molecular and optical physics, Electromagnetic radiation, Technology, Natural philosophy, Science, Optics, Electronics, Applied and interdisciplinary physics, Featured]
 ---
 
 

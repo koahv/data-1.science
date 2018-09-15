@@ -4,7 +4,7 @@ title: "World's first intra-operative MRI-guided robot for bilateral stereotacti
 date: 2018-07-01
 categories: Science
 author: unknown author
-tags: [Deep brain stimulation, Magnetic resonance imaging, Neurosurgery, Health sciences, Neuroscience, Surgery, Medicine, Nervous system, Medical specialties, Clinical medicine]
+tags: [Deep brain stimulation, Magnetic resonance imaging, Neurosurgery, Health sciences, Neuroscience, Surgery, Medicine, Nervous system, Medical specialties, Clinical medicine, Featured]
 ---
 
 

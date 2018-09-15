@@ -4,7 +4,7 @@ title: "Chemical synthesis with artificial intelligence: Researchers develop new
 date: 2018-07-18
 categories: Science
 author: unknown author
-tags: [Artificial neural network, Chemical substance, Computer, Deep learning, Monte Carlo method, Chemist, Chemistry, Monte Carlo tree search, Chess, Organic chemistry, Artificial intelligence, Chemical reaction, AlphaGo, Science, Cognitive science, Cognition, Science and technology, Technology, Human activities]
+tags: [Artificial neural network, Chemical substance, Computer, Deep learning, Monte Carlo method, Chemist, Chemistry, Monte Carlo tree search, Chess, Organic chemistry, Artificial intelligence, Chemical reaction, AlphaGo, Science, Cognitive science, Cognition, Science and technology, Technology, Human activities, Featured]
 ---
 
 

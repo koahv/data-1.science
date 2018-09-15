@@ -4,7 +4,7 @@ title: "OpenAI’s Robotic Hand Learned to Make Precise, Human-like Movements"
 date: 2018-08-18
 categories: Science
 author: Jacob Banas
-tags: [Artificial intelligence, Technology, Emerging technologies, Cybernetics, Futurology, Computational neuroscience, Cognitive science, Areas of computer science]
+tags: [Artificial intelligence, Technology, Emerging technologies, Cybernetics, Futurology, Computational neuroscience, Cognitive science, Areas of computer science, Featured]
 ---
 
 
